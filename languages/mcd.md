@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة شارانتاهوا
     auto: true
+  - translation_iso: hin
+    name: शारानाहुआ
+    auto: true
   - translation_iso: jpn
     name: シャラナウア語
     auto: true

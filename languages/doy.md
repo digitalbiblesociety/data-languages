@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دومبو
     auto: true
+  - translation_iso: hin
+    name: डोम्पो
+    auto: true
   - translation_iso: jpn
     name: ドンポ語
     auto: true

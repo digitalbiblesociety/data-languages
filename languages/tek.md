@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إبالي تيكي
     auto: true
+  - translation_iso: hin
+    name: इबाली तेके
+    auto: true
   - translation_iso: jpn
     name: イバリ・テケ語
     auto: true

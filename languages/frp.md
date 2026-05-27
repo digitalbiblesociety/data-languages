@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Franco-Proven%C3%A7al"
 translations:
   - translation_iso: ara
     name: البروفانسية الفرنسية
+  - translation_iso: hin
+    name: अर्पितान
+    auto: true
   - translation_iso: jpn
     name: アルピタン語
   - translation_iso: kor

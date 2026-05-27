@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أهواي
     auto: true
+  - translation_iso: hin
+    name: अहवाई
+    auto: true
   - translation_iso: jpn
     name: アフワイ語
     auto: true

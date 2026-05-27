@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كورا كوراغا
     auto: true
+  - translation_iso: hin
+    name: कोर्रा कोरगा
+    auto: true
   - translation_iso: jpn
     name: コッラ・コラガ語
     auto: true

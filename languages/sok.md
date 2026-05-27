@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sokoro_language"
 translations:
   - translation_iso: ara
     name: سوكورو
+  - translation_iso: hin
+    name: सोकोरो
+    auto: true
   - translation_iso: jpn
     name: ソコロ語
   - translation_iso: zho

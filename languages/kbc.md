@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاديويو
     auto: true
+  - translation_iso: hin
+    name: कादिवेउ
+    auto: true
   - translation_iso: jpn
     name: カディウェウ語
     auto: true

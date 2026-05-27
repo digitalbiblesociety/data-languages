@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نجارينيمان
     auto: true
+  - translation_iso: hin
+    name: न्गारिनिमान
+    auto: true
   - translation_iso: jpn
     name: ングアリニマン語
     auto: true

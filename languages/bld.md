@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بولانجو
     auto: true
+  - translation_iso: hin
+    name: बोलांगो
+    auto: true
   - translation_iso: jpn
     name: ボランゴ語
   - translation_iso: zho

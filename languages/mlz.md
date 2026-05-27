@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة مالايانون
     auto: true
+  - translation_iso: hin
+    name: मालायनोन
+    auto: true
   - translation_iso: jpn
     name: マライノン語
     auto: true

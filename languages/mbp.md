@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالايو
     auto: true
+  - translation_iso: hin
+    name: मलायो
+    auto: true
   - translation_iso: jpn
     name: ウィワ語
   - translation_iso: zho

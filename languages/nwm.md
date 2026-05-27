@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نييامووسا-مولو
     auto: true
+  - translation_iso: hin
+    name: न्यामुसा-मोलो
+    auto: true
   - translation_iso: jpn
     name: ニャムサ・モロ語
     auto: true

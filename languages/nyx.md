@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغانيايوانا
     auto: true
+  - translation_iso: hin
+    name: न्गान्यायवाना
+    auto: true
   - translation_iso: jpn
     name: アネワン語
   - translation_iso: zho

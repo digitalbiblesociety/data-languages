@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يجا-وينجا
     auto: true
+  - translation_iso: hin
+    name: लेगा-म्वेंगा
+    auto: true
   - translation_iso: jpn
     name: レガ・ムウェンガ語
     auto: true

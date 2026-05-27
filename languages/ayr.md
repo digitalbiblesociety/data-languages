@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيمارا الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य आयमारा
+    auto: true
   - translation_iso: jpn
     name: 中央アイマラ語
   - translation_iso: zho

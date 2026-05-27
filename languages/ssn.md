@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة واتا
     auto: true
+  - translation_iso: hin
+    name: वाटा
+    auto: true
   - translation_iso: jpn
     name: ワアタ語
   - translation_iso: zho

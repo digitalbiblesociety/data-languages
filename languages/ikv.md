@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكو-غورا-أنكوا
     auto: true
+  - translation_iso: hin
+    name: इकु-गोरा-अंक्वा
+    auto: true
   - translation_iso: jpn
     name: イク・ゴラ・アンクワ語
     auto: true

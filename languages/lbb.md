@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لابل
     auto: true
+  - translation_iso: hin
+    name: लाबेल
+    auto: true
   - translation_iso: jpn
     name: ラベル語
     auto: true

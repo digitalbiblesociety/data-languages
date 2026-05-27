@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجا بوانج
     auto: true
+  - translation_iso: hin
+    name: मांगा बुआंग
+    auto: true
   - translation_iso: jpn
     name: マンガ・ブアン語
     auto: true

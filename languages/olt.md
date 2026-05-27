@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة الليتوانية القديمة
     auto: true
+  - translation_iso: hin
+    name: पुरानी लिथुआनियाई
+    auto: true
   - translation_iso: jpn
     name: 古リトアニア語
     auto: true

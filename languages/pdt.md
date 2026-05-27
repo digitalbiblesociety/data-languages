@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة بلاوتديتش
     auto: true
+  - translation_iso: hin
+    name: प्लाउटडीच
+    auto: true
   - translation_iso: jpn
     name: メノナイト低地ドイツ語
   - translation_iso: kor

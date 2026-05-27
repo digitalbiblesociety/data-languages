@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هينوخ
     auto: true
+  - translation_iso: hin
+    name: हिनुख
+    auto: true
   - translation_iso: jpn
     name: ヒヌフ語
   - translation_iso: kor

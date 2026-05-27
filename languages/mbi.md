@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيليانن مانوبو
     auto: true
+  - translation_iso: hin
+    name: इलियानेन मानोबो
+    auto: true
   - translation_iso: jpn
     name: イリアネン語
   - translation_iso: zho

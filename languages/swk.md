@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سينا ملاوي
     auto: true
+  - translation_iso: hin
+    name: मलावी सेना
+    auto: true
   - translation_iso: jpn
     name: マラウイ・セナ語
     auto: true

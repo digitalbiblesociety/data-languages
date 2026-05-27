@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سامبا داكا
     auto: true
+  - translation_iso: hin
+    name: सांबा डाका
+    auto: true
   - translation_iso: jpn
     name: サンバ・ダカ語
     auto: true

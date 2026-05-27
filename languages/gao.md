@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجانتس
     auto: true
+  - translation_iso: hin
+    name: गांट्स
+    auto: true
   - translation_iso: jpn
     name: ガンツ語
     auto: true

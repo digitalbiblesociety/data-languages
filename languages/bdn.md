@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالديمو
     auto: true
+  - translation_iso: hin
+    name: बाल्डेमु
+    auto: true
   - translation_iso: jpn
     name: バルデム語
     auto: true

@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bulu_language"
 translations:
   - translation_iso: ara
     name: لغة البولو
+  - translation_iso: hin
+    name: बुलू
+    auto: true
   - translation_iso: jpn
     name: ブル語
   - translation_iso: kor

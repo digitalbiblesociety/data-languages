@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة مانينكاكان كيتا
     auto: true
+  - translation_iso: hin
+    name: किता मानिंकाकान
+    auto: true
   - translation_iso: jpn
     name: キタ・マリンカカン語
   - translation_iso: zho

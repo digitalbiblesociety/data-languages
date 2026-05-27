@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جيليم
     auto: true
+  - translation_iso: hin
+    name: जिलिम
+    auto: true
   - translation_iso: jpn
     name: ジリム語
     auto: true

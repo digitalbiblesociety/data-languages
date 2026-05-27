@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الكابيزنون
     auto: true
+  - translation_iso: hin
+    name: कापिज़्नोन
+    auto: true
   - translation_iso: jpn
     name: カピス語
   - translation_iso: kor

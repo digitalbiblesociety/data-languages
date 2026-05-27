@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيكيود
     auto: true
+  - translation_iso: hin
+    name: गिक्योदे
+    auto: true
   - translation_iso: jpn
     name: ギチョーデ語
   - translation_iso: zho

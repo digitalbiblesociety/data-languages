@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كونجين
     auto: true
+  - translation_iso: hin
+    name: कुंजेन
+    auto: true
   - translation_iso: jpn
     name: クンジェン語
     auto: true

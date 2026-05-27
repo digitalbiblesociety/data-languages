@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مونومبو
     auto: true
+  - translation_iso: hin
+    name: मोनुंबो
+    auto: true
   - translation_iso: jpn
     name: モヌンボ語
     auto: true

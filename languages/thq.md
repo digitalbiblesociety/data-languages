@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تشوتشيلا ثارو
     auto: true
+  - translation_iso: hin
+    name: कोचिला थारू
+    auto: true
   - translation_iso: jpn
     name: コチラ・タル語
     auto: true

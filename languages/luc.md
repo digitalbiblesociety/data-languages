@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ارينجا
     auto: true
+  - translation_iso: hin
+    name: अरिंगा
+    auto: true
   - translation_iso: jpn
     name: アリンガ語
     auto: true

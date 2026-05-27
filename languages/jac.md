@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بوبتي
     auto: true
+  - translation_iso: hin
+    name: पोप्ती
+    auto: true
   - translation_iso: jpn
     name: ハカルテク語
   - translation_iso: kor

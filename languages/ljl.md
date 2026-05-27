@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "لغة ي'و"
     auto: true
+  - translation_iso: hin
+    name: लिओ
+    auto: true
   - translation_iso: jpn
     name: リオ語
     auto: true

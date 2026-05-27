@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيلينْجاخو بوزو
     auto: true
+  - translation_iso: hin
+    name: केलेंगाखो बोज़ो
+    auto: true
   - translation_iso: jpn
     name: ケレンガッソ・ボゾ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتيس
     auto: true
+  - translation_iso: hin
+    name: माटीस
+    auto: true
   - translation_iso: jpn
     name: マティス語
     auto: true

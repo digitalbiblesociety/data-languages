@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة فيمبي
     auto: true
+  - translation_iso: hin
+    name: फिम्बी
+    auto: true
   - translation_iso: jpn
     name: フィンビ語
     auto: true

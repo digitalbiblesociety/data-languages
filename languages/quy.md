@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا أياتشوتشو
     auto: true
+  - translation_iso: hin
+    name: आयाकुचो क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: アヤクーチョケチュア語
     auto: true

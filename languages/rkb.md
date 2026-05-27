@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريكباكتسا
     auto: true
+  - translation_iso: hin
+    name: रिकबाक्तसा
+    auto: true
   - translation_iso: jpn
     name: リクバクチァ語
   - translation_iso: zho

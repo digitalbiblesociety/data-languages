@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإنو
     auto: true
+  - translation_iso: hin
+    name: एनु
+    auto: true
   - translation_iso: jpn
     name: エヌ語
     auto: true

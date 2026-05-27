@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مين بي الصينية
     auto: true
+  - translation_iso: hin
+    name: मिन बेई चीनी
+    auto: true
   - translation_iso: jpn
     name: 閩北語
   - translation_iso: kor

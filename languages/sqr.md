@@ -11,6 +11,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Siculo-Arabic"
 translations:
   - translation_iso: ara
     name: صقلية عربية
+  - translation_iso: hin
+    name: सिकुलो अरबी
+    auto: true
   - translation_iso: jpn
     name: アラビア語シチリア方言
   - translation_iso: kor

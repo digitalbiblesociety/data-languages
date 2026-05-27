@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوكو-يآلآنجي
     auto: true
+  - translation_iso: hin
+    name: कुकू-यालन्जी
+    auto: true
   - translation_iso: jpn
     name: クク・ヤラニ語
     auto: true

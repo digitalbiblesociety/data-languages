@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أسينيبوين
     auto: true
+  - translation_iso: hin
+    name: असिनिबोइन
+    auto: true
   - translation_iso: jpn
     name: アッシニボイン語
     auto: true

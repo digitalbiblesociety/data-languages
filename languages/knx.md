@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيندايان
     auto: true
+  - translation_iso: hin
+    name: केन्दायन
+    auto: true
   - translation_iso: jpn
     name: ケンダヤン語
     auto: true

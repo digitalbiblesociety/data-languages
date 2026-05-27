@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكو
     auto: true
+  - translation_iso: hin
+    name: ओरोको
+    auto: true
   - translation_iso: jpn
     name: オロコ語
   - translation_iso: zho

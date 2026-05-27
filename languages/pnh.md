@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بنرين
     auto: true
+  - translation_iso: hin
+    name: पेनरिन
+    auto: true
   - translation_iso: jpn
     name: ペンリン語
   - translation_iso: zho

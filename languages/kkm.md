@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيونج
     auto: true
+  - translation_iso: hin
+    name: कियोंग
+    auto: true
   - translation_iso: jpn
     name: キオン語
     auto: true

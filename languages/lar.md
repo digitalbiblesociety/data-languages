@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لارتيه
     auto: true
+  - translation_iso: hin
+    name: लार्तेह
+    auto: true
   - translation_iso: jpn
     name: ラルテ語
     auto: true

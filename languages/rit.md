@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريثارنجو
     auto: true
+  - translation_iso: hin
+    name: रिथार्न्गु
+    auto: true
   - translation_iso: jpn
     name: リサルングー語
     auto: true

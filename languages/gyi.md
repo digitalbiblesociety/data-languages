@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غيإلإ
     auto: true
+  - translation_iso: hin
+    name: ग्येले
+    auto: true
   - translation_iso: jpn
     name: ギェレ語
     auto: true

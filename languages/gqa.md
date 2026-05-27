@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "غآ'آندآ"
     auto: true
+  - translation_iso: hin
+    name: गाआंदा
+    auto: true
   - translation_iso: jpn
     name: ガアンダ語
     auto: true

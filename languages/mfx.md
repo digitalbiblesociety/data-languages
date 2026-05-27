@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميلو
     auto: true
+  - translation_iso: hin
+    name: मेलो
+    auto: true
   - translation_iso: jpn
     name: メロ語
     auto: true

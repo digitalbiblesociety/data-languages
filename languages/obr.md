@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة البورمية القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन बर्मी
+    auto: true
   - translation_iso: jpn
     name: 古ビルマ語
   - translation_iso: zho

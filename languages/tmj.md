@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساماروكينا
     auto: true
+  - translation_iso: hin
+    name: समारोकेना
+    auto: true
   - translation_iso: jpn
     name: サマロケナ語
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكمبودية
     auto: true
+  - translation_iso: hin
+    name: कंबोडियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: カンボジア手話
   - translation_iso: zho

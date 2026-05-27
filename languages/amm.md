@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آما
     auto: true
+  - translation_iso: hin
+    name: अमा (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: アマ語
   - translation_iso: zho

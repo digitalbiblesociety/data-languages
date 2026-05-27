@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دديا
     auto: true
+  - translation_iso: hin
+    name: दादिया
+    auto: true
   - translation_iso: jpn
     name: ダディヤ語
     auto: true

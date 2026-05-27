@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إيبولو
     auto: true
+  - translation_iso: hin
+    name: इपुलो
+    auto: true
   - translation_iso: jpn
     name: イプロ語
     auto: true

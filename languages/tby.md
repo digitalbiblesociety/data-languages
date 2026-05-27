@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تابارو
     auto: true
+  - translation_iso: hin
+    name: तबारू
+    auto: true
   - translation_iso: jpn
     name: トバル語
   - translation_iso: zho

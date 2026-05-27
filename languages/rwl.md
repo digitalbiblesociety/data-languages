@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: رويلا
     auto: true
+  - translation_iso: hin
+    name: रुविला
+    auto: true
   - translation_iso: jpn
     name: ルウィラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سنترال كاغايان أغتا
     auto: true
+  - translation_iso: hin
+    name: मध्य कागायान अग्ता
+    auto: true
   - translation_iso: jpn
     name: 中央カガヤン・アグタ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشوني
     auto: true
+  - translation_iso: hin
+    name: चोनी
+    auto: true
   - translation_iso: jpn
     name: チョニ語
     auto: true

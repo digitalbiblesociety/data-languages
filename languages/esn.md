@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Salvadoran
     auto: true
+  - translation_iso: hin
+    name: साल्वाडोरी सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: サルバドル手話
   - translation_iso: zho

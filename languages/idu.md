@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيدوما
     auto: true
+  - translation_iso: hin
+    name: इदोमा
+    auto: true
   - translation_iso: jpn
     name: イドマ語
   - translation_iso: zho

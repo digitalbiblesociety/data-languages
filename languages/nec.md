@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيديبانج
     auto: true
+  - translation_iso: hin
+    name: नेदेबांग
+    auto: true
   - translation_iso: jpn
     name: ネデバン語
     auto: true

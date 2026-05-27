@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيلا
     auto: true
+  - translation_iso: hin
+    name: गेला
+    auto: true
   - translation_iso: jpn
     name: ンゲラ語
   - translation_iso: zho

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: الشاكافي
     auto: true
+  - translation_iso: hin
+    name: चकावियन
+    auto: true
   - translation_iso: jpn
     name: チャ方言
   - translation_iso: zho

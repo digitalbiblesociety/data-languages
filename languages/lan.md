@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لارو
     auto: true
+  - translation_iso: hin
+    name: लारु
+    auto: true
   - translation_iso: jpn
     name: ラル語
     auto: true

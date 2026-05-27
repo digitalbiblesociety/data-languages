@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولوواتسي
     auto: true
+  - translation_iso: hin
+    name: पुलुवात
+    auto: true
   - translation_iso: jpn
     name: プルワット語
   - translation_iso: zho

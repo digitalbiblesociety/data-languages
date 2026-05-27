@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: راتاوي
     auto: true
+  - translation_iso: hin
+    name: राठावी
+    auto: true
   - translation_iso: jpn
     name: ラタウィ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ليماسا
     auto: true
+  - translation_iso: hin
+    name: लिमास्सा
+    auto: true
   - translation_iso: jpn
     name: リマッサ語
     auto: true

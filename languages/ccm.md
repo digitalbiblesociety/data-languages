@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الملاقي الكريول الملايوي
     auto: true
+  - translation_iso: hin
+    name: मलक्कन क्रियोल मलय
+    auto: true
   - translation_iso: jpn
     name: マラッカン・クレオール・マレー語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانجيا
     auto: true
+  - translation_iso: hin
+    name: कांगजिया
+    auto: true
   - translation_iso: jpn
     name: 康家語
   - translation_iso: kor

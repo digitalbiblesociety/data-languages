@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشاملال
     auto: true
+  - translation_iso: hin
+    name: चामलाल
+    auto: true
   - translation_iso: jpn
     name: チャマラル語
   - translation_iso: kor

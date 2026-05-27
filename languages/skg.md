@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ملاجاسي سكالافا
     auto: true
+  - translation_iso: hin
+    name: साकालावा मालागासी
+    auto: true
   - translation_iso: jpn
     name: サカラヴァ・マダガスカル語
   - translation_iso: zho

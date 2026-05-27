@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اماليرا
     auto: true
+  - translation_iso: hin
+    name: लामालेरा
+    auto: true
   - translation_iso: jpn
     name: ラマレラ語
     auto: true

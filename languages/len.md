@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لغة ينكا
     auto: true
+  - translation_iso: hin
+    name: लेंका
+    auto: true
   - translation_iso: jpn
     name: レンカ語
   - translation_iso: kor

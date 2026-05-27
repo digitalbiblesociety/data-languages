@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة في ترينيداد وتوباغو
     auto: true
+  - translation_iso: hin
+    name: त्रिनिदाद और टोबैगो सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: トリニダード・トバゴ手話
   - translation_iso: zho

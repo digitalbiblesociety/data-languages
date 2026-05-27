@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اندا-امباري
     auto: true
+  - translation_iso: hin
+    name: बांदा-बंबारी
+    auto: true
   - translation_iso: jpn
     name: バンダ・バンバリ語
     auto: true

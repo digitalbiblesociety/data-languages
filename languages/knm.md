@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانامي
     auto: true
+  - translation_iso: hin
+    name: कनामारी
+    auto: true
   - translation_iso: jpn
     name: カナマリ語
   - translation_iso: zho

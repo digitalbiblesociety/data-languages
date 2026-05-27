@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوما لونج
     auto: true
+  - translation_iso: hin
+    name: उमा लुंग
+    auto: true
   - translation_iso: jpn
     name: オマ・ロング語
     auto: true

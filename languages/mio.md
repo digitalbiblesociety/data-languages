@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك بينوتبا الوطنية
     auto: true
+  - translation_iso: hin
+    name: पिनोतेपा नासियोनाल मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: ピノテパ・ナシオナル・ミステク語
     auto: true

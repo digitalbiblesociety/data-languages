@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: غورآكور
     auto: true
+  - translation_iso: hin
+    name: गोराकोर
+    auto: true
   - translation_iso: jpn
     name: ゴラコル語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة امپياس وبو
     auto: true
+  - translation_iso: hin
+    name: तंपियास लोबू
+    auto: true
   - translation_iso: jpn
     name: タンピアス・ロブ語
     auto: true

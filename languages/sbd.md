@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ساذرن سامو
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी सामो
+    auto: true
   - translation_iso: jpn
     name: サネ語
     auto: true

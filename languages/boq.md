@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بوجايا
     auto: true
+  - translation_iso: hin
+    name: बोगाया
+    auto: true
   - translation_iso: jpn
     name: ボガヤ語
     auto: true

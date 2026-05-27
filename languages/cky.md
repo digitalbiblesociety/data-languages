@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاكفم-موشيري
     auto: true
+  - translation_iso: hin
+    name: काकफेम-मुशेरे
+    auto: true
   - translation_iso: jpn
     name: カクフェム・ムシェレ語
     auto: true

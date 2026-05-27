@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجو
     auto: true
+  - translation_iso: hin
+    name: मांगो
+    auto: true
   - translation_iso: jpn
     name: マンゴ語
     auto: true

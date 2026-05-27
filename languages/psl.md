@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البورتوريكية
     auto: true
+  - translation_iso: hin
+    name: प्यूर्टो रिको सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: プエルトリコ手話
   - translation_iso: zho

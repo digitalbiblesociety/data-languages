@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاسكا
     auto: true
+  - translation_iso: hin
+    name: कास्का
+    auto: true
   - translation_iso: jpn
     name: カスカ語
     auto: true

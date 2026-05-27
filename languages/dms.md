@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دامبيلاس
     auto: true
+  - translation_iso: hin
+    name: दम्पेलास
+    auto: true
   - translation_iso: jpn
     name: ダンペラス語
     auto: true

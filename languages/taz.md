@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتشو
     auto: true
+  - translation_iso: hin
+    name: तोचो
+    auto: true
   - translation_iso: jpn
     name: トチョ語
     auto: true

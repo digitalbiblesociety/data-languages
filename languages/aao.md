@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Saharan_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة صحراوية
+  - translation_iso: hin
+    name: अल्जीरियाई सहारन अरबी
+    auto: true
   - translation_iso: jpn
     name: アラビア語サハラ方言
   - translation_iso: kor

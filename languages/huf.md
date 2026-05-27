@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هومين
     auto: true
+  - translation_iso: hin
+    name: हुमेने
+    auto: true
   - translation_iso: jpn
     name: フメネ語
     auto: true

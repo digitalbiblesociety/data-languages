@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة السانجيل
     auto: true
+  - translation_iso: hin
+    name: सांगिल
+    auto: true
   - translation_iso: jpn
     name: サンギル語
     auto: true

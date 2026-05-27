@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيامية
     auto: true
+  - translation_iso: hin
+    name: पियामे
+    auto: true
   - translation_iso: jpn
     name: ピアメ語
     auto: true

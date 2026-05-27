@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونْكيْنج
     auto: true
+  - translation_iso: hin
+    name: बोंकेंग
+    auto: true
   - translation_iso: jpn
     name: ボンケング語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوابو
     auto: true
+  - translation_iso: hin
+    name: सुआबो
+    auto: true
   - translation_iso: jpn
     name: イナンワタン語
   - translation_iso: zho

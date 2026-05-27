@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هري
     auto: true
+  - translation_iso: hin
+    name: ह्रे
+    auto: true
   - translation_iso: jpn
     name: フレ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيبيل
     auto: true
+  - translation_iso: hin
+    name: बेबिल
+    auto: true
   - translation_iso: jpn
     name: ベビル語
     auto: true

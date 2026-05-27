@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "لغة ولو'بو"
     auto: true
+  - translation_iso: hin
+    name: ओलुबो
+    auto: true
   - translation_iso: jpn
     name: オルボ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة شمال أمبريم
     auto: true
+  - translation_iso: hin
+    name: उत्तरी अम्ब्रिम
+    auto: true
   - translation_iso: jpn
     name: 北アンブリム語
   - translation_iso: zho

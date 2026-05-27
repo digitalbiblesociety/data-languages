@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاكو
     auto: true
+  - translation_iso: hin
+    name: ताकू
+    auto: true
   - translation_iso: jpn
     name: タクー語
   - translation_iso: zho

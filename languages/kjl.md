@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة غرب باربات خام
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी पर्बते खाम
+    auto: true
   - translation_iso: jpn
     name: ウェスタン・パルバテ・ハム語
     auto: true

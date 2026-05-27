@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوغوتو
     auto: true
+  - translation_iso: hin
+    name: बुघोटू
+    auto: true
   - translation_iso: jpn
     name: ブゴトゥ語
   - translation_iso: zho

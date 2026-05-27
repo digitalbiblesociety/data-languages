@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوم كيم
     auto: true
+  - translation_iso: hin
+    name: बोम-किम
+    auto: true
   - translation_iso: jpn
     name: ボム・キム語
     auto: true

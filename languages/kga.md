@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كويايا
     auto: true
+  - translation_iso: hin
+    name: कोयागा
+    auto: true
   - translation_iso: jpn
     name: コヤガ語
     auto: true

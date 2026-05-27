@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دالوا بيتي
     auto: true
+  - translation_iso: hin
+    name: दलोआ बेते
+    auto: true
   - translation_iso: jpn
     name: ダロア・ベテ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيبكيريوات
     auto: true
+  - translation_iso: hin
+    name: केपकिरिवात
+    auto: true
   - translation_iso: jpn
     name: ケプキリワット語
     auto: true

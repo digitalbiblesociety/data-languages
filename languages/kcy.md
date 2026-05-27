@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Korandje_language"
 translations:
   - translation_iso: ara
     name: البلبالية
+  - translation_iso: hin
+    name: कोरांजे
+    auto: true
   - translation_iso: jpn
     name: コランジェ語
     auto: true

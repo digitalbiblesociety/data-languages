@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باوواكي
     auto: true
+  - translation_iso: hin
+    name: बौवाकी
+    auto: true
   - translation_iso: jpn
     name: バウワキ語
     auto: true

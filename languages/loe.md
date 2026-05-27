@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الوان
     auto: true
+  - translation_iso: hin
+    name: सलुआन
+    auto: true
   - translation_iso: jpn
     name: サルアン語
     auto: true

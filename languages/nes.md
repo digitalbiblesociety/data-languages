@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بهوتي كيناوري
     auto: true
+  - translation_iso: hin
+    name: भोटी किन्नौरी
+    auto: true
   - translation_iso: jpn
     name: ボティ・キンナウリ語
     auto: true

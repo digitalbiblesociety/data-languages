@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو ماكاسار
     auto: true
+  - translation_iso: hin
+    name: मकासर मलय
+    auto: true
   - translation_iso: jpn
     name: マカッサル・マレー語
     auto: true

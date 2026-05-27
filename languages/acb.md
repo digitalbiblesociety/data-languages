@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة آنسّا
     auto: true
+  - translation_iso: hin
+    name: आन्का
+    auto: true
   - translation_iso: jpn
     name: アンカ語
     auto: true

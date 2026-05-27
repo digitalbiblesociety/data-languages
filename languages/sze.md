@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيزي
     auto: true
+  - translation_iso: hin
+    name: सेज़े
+    auto: true
   - translation_iso: jpn
     name: セゼ語
     auto: true

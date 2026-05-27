@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بي
     auto: true
+  - translation_iso: hin
+    name: पे
+    auto: true
   - translation_iso: jpn
     name: ピ語
   - translation_iso: zho

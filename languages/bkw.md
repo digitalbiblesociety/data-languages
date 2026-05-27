@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيكويل
     auto: true
+  - translation_iso: hin
+    name: बेक्वेल
+    auto: true
   - translation_iso: jpn
     name: ベクウェル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوجو
     auto: true
+  - translation_iso: hin
+    name: म्बुगु
+    auto: true
   - translation_iso: jpn
     name: ムブグ語
     auto: true

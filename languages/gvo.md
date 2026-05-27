@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآفيãو دو جيبآرآنá
     auto: true
+  - translation_iso: hin
+    name: गाव्यांव डो जिपराना
+    auto: true
   - translation_iso: jpn
     name: ガヴィアン・ド・ジパラナ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوسانج كايان
     auto: true
+  - translation_iso: hin
+    name: बुसांग कायन
+    auto: true
   - translation_iso: jpn
     name: ブサン・カヤン語
     auto: true

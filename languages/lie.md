@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يكيلا
     auto: true
+  - translation_iso: hin
+    name: लिकिला
+    auto: true
   - translation_iso: jpn
     name: リキラ語
     auto: true

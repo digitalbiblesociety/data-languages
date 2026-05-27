@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوريتي
     auto: true
+  - translation_iso: hin
+    name: कूरेते
+    auto: true
   - translation_iso: jpn
     name: コオレテ語
     auto: true

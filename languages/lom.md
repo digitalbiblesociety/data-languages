@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وما
     auto: true
+  - translation_iso: hin
+    name: लोमा (लाइबेरिया)
+    auto: true
   - translation_iso: jpn
     name: トマ語
   - translation_iso: zho

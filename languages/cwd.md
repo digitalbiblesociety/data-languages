@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكري الغابات
     auto: true
+  - translation_iso: hin
+    name: वुड्स क्री
+    auto: true
   - translation_iso: jpn
     name: 森林クリー語
   - translation_iso: zho

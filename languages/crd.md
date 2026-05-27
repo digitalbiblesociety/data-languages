@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Coeur_d%27Alene_language"
 translations:
   - translation_iso: ara
     name: الكردلينية
+  - translation_iso: hin
+    name: कोयूर डी'अलीन
+    auto: true
   - translation_iso: jpn
     name: コル・ダレーン語
   - translation_iso: zho

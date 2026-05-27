@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساري
     auto: true
+  - translation_iso: hin
+    name: सारी
+    auto: true
   - translation_iso: jpn
     name: Saari語
   - translation_iso: zho

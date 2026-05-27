@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اماتوكا
     auto: true
+  - translation_iso: hin
+    name: लामातुका
+    auto: true
   - translation_iso: jpn
     name: ラマトゥカ語
     auto: true

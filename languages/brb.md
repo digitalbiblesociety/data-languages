@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاڤي
     auto: true
+  - translation_iso: hin
+    name: लावे
+    auto: true
   - translation_iso: jpn
     name: ラヴェ語
     auto: true

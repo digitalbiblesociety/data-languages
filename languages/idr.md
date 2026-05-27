@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إندري
     auto: true
+  - translation_iso: hin
+    name: इंद्री
+    auto: true
   - translation_iso: jpn
     name: インドリ語
     auto: true

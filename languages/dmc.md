@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جافاك
     auto: true
+  - translation_iso: hin
+    name: गावक
+    auto: true
   - translation_iso: jpn
     name: ガヴァク語
     auto: true

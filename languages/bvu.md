@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوكيت مالاي
     auto: true
+  - translation_iso: hin
+    name: बुकित मलय
+    auto: true
   - translation_iso: jpn
     name: ブキット・マレー語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اكهوني
     auto: true
+  - translation_iso: hin
+    name: ताचोनी
+    auto: true
   - translation_iso: jpn
     name: タコニ語
     auto: true

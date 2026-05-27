@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكولو
     auto: true
+  - translation_iso: hin
+    name: ओरोकोलो
+    auto: true
   - translation_iso: jpn
     name: オロコロ語
     auto: true

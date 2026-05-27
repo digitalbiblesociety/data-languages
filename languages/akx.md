@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آكا-كيدي
     auto: true
+  - translation_iso: hin
+    name: आका-केडे
+    auto: true
   - translation_iso: jpn
     name: アカケデ語
     auto: true

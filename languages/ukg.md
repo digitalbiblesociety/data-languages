@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوكوريجوما
     auto: true
+  - translation_iso: hin
+    name: उकुरिगुमा
+    auto: true
   - translation_iso: jpn
     name: ウクリグマ語
     auto: true

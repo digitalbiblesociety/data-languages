@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: الفوما
     auto: true
+  - translation_iso: hin
+    name: फोमा
+    auto: true
   - translation_iso: jpn
     name: フォマ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايباي
     auto: true
+  - translation_iso: hin
+    name: पाइपाई
+    auto: true
   - translation_iso: jpn
     name: パイパイ語
   - translation_iso: zho

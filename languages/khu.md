@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نكومبي
     auto: true
+  - translation_iso: hin
+    name: न्खुंबी
+    auto: true
   - translation_iso: jpn
     name: ンクンビ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساوسي
     auto: true
+  - translation_iso: hin
+    name: साउसी
+    auto: true
   - translation_iso: jpn
     name: ウヤ語
     auto: true

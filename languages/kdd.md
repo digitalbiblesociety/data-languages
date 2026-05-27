@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يانكونيتجاتجارا
     auto: true
+  - translation_iso: hin
+    name: यनकुनित्जातजारा
+    auto: true
   - translation_iso: jpn
     name: ヤンクニチャチャラ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بنتلاتش
     auto: true
+  - translation_iso: hin
+    name: पेंटलैच
+    auto: true
   - translation_iso: jpn
     name: ペントラッチ語
   - translation_iso: zho

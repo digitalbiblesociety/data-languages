@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمبيل
     auto: true
+  - translation_iso: hin
+    name: अम्बेले
+    auto: true
   - translation_iso: jpn
     name: アンベレ語
     auto: true

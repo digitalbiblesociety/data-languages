@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بولْجو
     auto: true
+  - translation_iso: hin
+    name: बोल्गो
+    auto: true
   - translation_iso: jpn
     name: ボルゴ語
     auto: true

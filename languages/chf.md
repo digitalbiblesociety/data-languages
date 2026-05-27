@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاباسكو تشونتال
     auto: true
+  - translation_iso: hin
+    name: ताबास्को चोंताल
+    auto: true
   - translation_iso: jpn
     name: チョンタル語
   - translation_iso: kor

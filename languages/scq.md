@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساؤوتش
     auto: true
+  - translation_iso: hin
+    name: साओच
+    auto: true
   - translation_iso: jpn
     name: チュン語
     auto: true

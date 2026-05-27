@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كامايورا
     auto: true
+  - translation_iso: hin
+    name: कामायुरा
+    auto: true
   - translation_iso: jpn
     name: カマユラ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانييت
     auto: true
+  - translation_iso: hin
+    name: कानिएट
+    auto: true
   - translation_iso: jpn
     name: カニエット語
     auto: true

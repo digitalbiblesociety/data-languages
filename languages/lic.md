@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة لاي
     auto: true
+  - translation_iso: hin
+    name: ह्लाई
+    auto: true
   - translation_iso: jpn
     name: リー語
   - translation_iso: zho

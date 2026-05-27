@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوكيي
     auto: true
+  - translation_iso: hin
+    name: बोक्यी
+    auto: true
   - translation_iso: jpn
     name: ボキ語
   - translation_iso: zho

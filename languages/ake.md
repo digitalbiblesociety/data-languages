@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أكاوايو
     auto: true
+  - translation_iso: hin
+    name: अकावाइयो
+    auto: true
   - translation_iso: jpn
     name: アカワイオ語
     auto: true

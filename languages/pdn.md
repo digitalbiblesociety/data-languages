@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودينا
     auto: true
+  - translation_iso: hin
+    name: पोडेना
+    auto: true
   - translation_iso: jpn
     name: ポデナ語
     auto: true

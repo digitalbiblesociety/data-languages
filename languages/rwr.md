@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مارواري
     auto: true
+  - translation_iso: hin
+    name: मारवाड़ी (भारत)
+    auto: true
   - translation_iso: jpn
     name: マールワーリー語
   - translation_iso: zho

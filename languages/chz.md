@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوزوماسين تشينانتك
     auto: true
+  - translation_iso: hin
+    name: ओज़ुमासिन चिनान्तेक
+    auto: true
   - translation_iso: jpn
     name: オズマシン・チナンテク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناودم
     auto: true
+  - translation_iso: hin
+    name: नौद्म
+    auto: true
   - translation_iso: jpn
     name: ナウドム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيلوواسان
     auto: true
+  - translation_iso: hin
+    name: सेलुवासान
+    auto: true
   - translation_iso: jpn
     name: セルワサン語
     auto: true

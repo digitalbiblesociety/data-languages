@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيميلاي
     auto: true
+  - translation_iso: hin
+    name: सेमेलाई
+    auto: true
   - translation_iso: jpn
     name: セメライ語
     auto: true

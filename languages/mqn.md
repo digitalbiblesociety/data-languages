@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موروني
     auto: true
+  - translation_iso: hin
+    name: मोरोनेने
+    auto: true
   - translation_iso: jpn
     name: モロネネ語
     auto: true

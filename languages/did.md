@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديدينجا
     auto: true
+  - translation_iso: hin
+    name: दिदिंगा
+    auto: true
   - translation_iso: jpn
     name: ディディンガ語
     auto: true

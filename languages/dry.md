@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: دراي
     auto: true
+  - translation_iso: hin
+    name: दराई
+    auto: true
   - translation_iso: jpn
     name: ダライ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوديست
     auto: true
+  - translation_iso: hin
+    name: सुदेस्त
+    auto: true
   - translation_iso: jpn
     name: タグラ語
   - translation_iso: zho

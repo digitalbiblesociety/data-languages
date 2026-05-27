@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كارين ينباو
     auto: true
+  - translation_iso: hin
+    name: यिनबाव करेन
+    auto: true
   - translation_iso: jpn
     name: イインバウ・カレン語
     auto: true

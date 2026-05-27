@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جورتشن
     auto: true
+  - translation_iso: hin
+    name: जुर्चेन
+    auto: true
   - translation_iso: jpn
     name: 女真語
   - translation_iso: kor

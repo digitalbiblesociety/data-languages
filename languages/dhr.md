@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دارجاري
     auto: true
+  - translation_iso: hin
+    name: धरगरी
+    auto: true
   - translation_iso: jpn
     name: ダルガリ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيليني
     auto: true
+  - translation_iso: hin
+    name: पिलेनी
+    auto: true
   - translation_iso: jpn
     name: ビカウ・タウマコ語
   - translation_iso: zho

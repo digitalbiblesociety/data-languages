@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أنماتييري
     auto: true
+  - translation_iso: hin
+    name: अनमाटियेरे
+    auto: true
   - translation_iso: jpn
     name: アンマティエッレ語
     auto: true

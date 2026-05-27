@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: البيكول الشمالي كاتانديانيس
     auto: true
+  - translation_iso: hin
+    name: उत्तरी कातांडुआनेस बिकोल
+    auto: true
   - translation_iso: jpn
     name: 北カタンドゥアネス・ビコール語
   - translation_iso: zho

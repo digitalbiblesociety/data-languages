@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mesmes_language"
 translations:
   - translation_iso: ara
     name: لغة مسمس
+  - translation_iso: hin
+    name: मेस्मेस
+    auto: true
   - translation_iso: jpn
     name: メスメス語
   - translation_iso: zho

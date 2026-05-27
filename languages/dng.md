@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dungan_language"
 translations:
   - translation_iso: ara
     name: لغة_الدونغان
+  - translation_iso: hin
+    name: डुंगन
+    auto: true
   - translation_iso: jpn
     name: ドンガン語
   - translation_iso: kor

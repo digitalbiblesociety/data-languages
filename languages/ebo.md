@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيك-إيبو
     auto: true
+  - translation_iso: hin
+    name: तेके-एबो
+    auto: true
   - translation_iso: jpn
     name: 中央テケ語
   - translation_iso: zho

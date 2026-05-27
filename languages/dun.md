@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوسون ديايه
     auto: true
+  - translation_iso: hin
+    name: दुसुन देयाह
+    auto: true
   - translation_iso: jpn
     name: ドゥスン・デヤ語
     auto: true

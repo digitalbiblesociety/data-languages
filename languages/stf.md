@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيتية
     auto: true
+  - translation_iso: hin
+    name: सेता
+    auto: true
   - translation_iso: jpn
     name: セタ語
     auto: true

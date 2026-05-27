@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باكومباي
     auto: true
+  - translation_iso: hin
+    name: बकुम्पाई
+    auto: true
   - translation_iso: jpn
     name: バクムパイ語
     auto: true

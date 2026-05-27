@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دورجا
     auto: true
+  - translation_iso: hin
+    name: धुर्गा
+    auto: true
   - translation_iso: jpn
     name: ドゥルガ語
     auto: true

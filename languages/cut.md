@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيوتيلا كويكاتك
     auto: true
+  - translation_iso: hin
+    name: तेउतीला कुइकातेक
+    auto: true
   - translation_iso: jpn
     name: テウティラ・クイカテク語
     auto: true

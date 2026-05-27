@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنجليزية الليبيرية
     auto: true
+  - translation_iso: hin
+    name: लाइबेरियाई अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: リベリアン・イングリッシュ語
     auto: true

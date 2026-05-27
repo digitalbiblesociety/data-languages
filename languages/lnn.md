@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وريدياكاركار
     auto: true
+  - translation_iso: hin
+    name: लोरेदियाकारकार
+    auto: true
   - translation_iso: jpn
     name: ロレディアカルカル語
     auto: true

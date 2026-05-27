@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيتا ماجبوكون
     auto: true
+  - translation_iso: hin
+    name: मगबुकुन आयता
+    auto: true
   - translation_iso: jpn
     name: マグブクン・アイタ語
     auto: true

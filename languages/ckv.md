@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكافالان
     auto: true
+  - translation_iso: hin
+    name: कवालन
+    auto: true
   - translation_iso: jpn
     name: クバラン語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونجي
     auto: true
+  - translation_iso: hin
+    name: बोंगी
+    auto: true
   - translation_iso: jpn
     name: ボンギ語
     auto: true

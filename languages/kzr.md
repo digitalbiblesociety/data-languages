@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كارانج
     auto: true
+  - translation_iso: hin
+    name: कारंग
+    auto: true
   - translation_iso: jpn
     name: カラン語
     auto: true

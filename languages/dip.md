@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورثيسترن دينكا
     auto: true
+  - translation_iso: hin
+    name: उत्तर-पूर्वी डिंका
+    auto: true
   - translation_iso: jpn
     name: 北東ディンカ語
   - translation_iso: zho

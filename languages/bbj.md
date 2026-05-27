@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghomala%CA%BC_language"
 translations:
   - translation_iso: ara
     name: لغة الغومالا
+  - translation_iso: hin
+    name: घोमाला
+    auto: true
   - translation_iso: jpn
     name: ゴーマラ語
   - translation_iso: kor

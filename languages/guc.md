@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Wayuu_language"
 translations:
   - translation_iso: ara
     name: اللغة الواييوية
+  - translation_iso: hin
+    name: वायू
+    auto: true
   - translation_iso: jpn
     name: ワユ語
   - translation_iso: kor

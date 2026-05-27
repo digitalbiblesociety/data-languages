@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كبان
     auto: true
+  - translation_iso: hin
+    name: क्पान
+    auto: true
   - translation_iso: jpn
     name: クパン語
     auto: true

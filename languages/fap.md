@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالور
     auto: true
+  - translation_iso: hin
+    name: पलूर
+    auto: true
   - translation_iso: jpn
     name: パロール語
     auto: true

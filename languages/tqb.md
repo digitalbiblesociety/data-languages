@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيمبي
     auto: true
+  - translation_iso: hin
+    name: तेम्बे
+    auto: true
   - translation_iso: jpn
     name: グアジャジャラ語
     auto: true

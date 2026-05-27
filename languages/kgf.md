@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبي
     auto: true
+  - translation_iso: hin
+    name: कूबे
+    auto: true
   - translation_iso: jpn
     name: クベ語
     auto: true

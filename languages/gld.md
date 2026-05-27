@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: نآنآي
     auto: true
+  - translation_iso: hin
+    name: नानाई
+    auto: true
   - translation_iso: jpn
     name: ナナイ語
   - translation_iso: kor

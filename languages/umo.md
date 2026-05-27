@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوموتينا
     auto: true
+  - translation_iso: hin
+    name: उमोतीना
+    auto: true
   - translation_iso: jpn
     name: バルバドス語
     auto: true

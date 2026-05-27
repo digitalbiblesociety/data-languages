@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغالا
     auto: true
+  - translation_iso: hin
+    name: न्गाला
+    auto: true
   - translation_iso: jpn
     name: ンガラ語
     auto: true

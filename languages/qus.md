@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا سانتياجو ديل إستيرو
     auto: true
+  - translation_iso: hin
+    name: सांतियागो देल एस्तेरो किचुआ
+    auto: true
   - translation_iso: jpn
     name: サンティアゴデルエステロキチュア語
     auto: true

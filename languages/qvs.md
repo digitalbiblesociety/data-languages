@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا سان مارتين
     auto: true
+  - translation_iso: hin
+    name: सान मार्तिन क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: サンマルティンケチュア語
     auto: true

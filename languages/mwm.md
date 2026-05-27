@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سار
     auto: true
+  - translation_iso: hin
+    name: सार
+    auto: true
   - translation_iso: jpn
     name: サール語
   - translation_iso: zho

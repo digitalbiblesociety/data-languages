@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hutterite_German"
 translations:
   - translation_iso: ara
     name: الألمانية الهوتريتية
+  - translation_iso: hin
+    name: हटराइट जर्मन
+    auto: true
   - translation_iso: jpn
     name: フッター派ドイツ語
   - translation_iso: kor

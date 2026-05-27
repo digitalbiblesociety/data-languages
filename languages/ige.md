@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيغيدي
     auto: true
+  - translation_iso: hin
+    name: इगेदे
+    auto: true
   - translation_iso: jpn
     name: イゲデ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيجون
     auto: true
+  - translation_iso: hin
+    name: एग्गोन
+    auto: true
   - translation_iso: jpn
     name: エッゴン語
   - translation_iso: kor

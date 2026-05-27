@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة كالانغا
     auto: true
+  - translation_iso: hin
+    name: कलंगा
+    auto: true
   - translation_iso: jpn
     name: カランガ語
   - translation_iso: zho

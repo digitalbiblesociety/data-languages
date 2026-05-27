@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مايا
     auto: true
+  - translation_iso: hin
+    name: माइया
+    auto: true
   - translation_iso: jpn
     name: ピラ語
     auto: true

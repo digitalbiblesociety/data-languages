@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "لغة اكو'ا"
     auto: true
+  - translation_iso: hin
+    name: माकुआ
+    auto: true
   - translation_iso: jpn
     name: マクヴァ語
   - translation_iso: zho

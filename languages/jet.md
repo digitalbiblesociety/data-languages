@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانيم
     auto: true
+  - translation_iso: hin
+    name: मानेम
+    auto: true
   - translation_iso: jpn
     name: マネム語
     auto: true

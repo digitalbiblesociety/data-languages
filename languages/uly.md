@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بولي
     auto: true
+  - translation_iso: hin
+    name: बुली
+    auto: true
   - translation_iso: jpn
     name: バラワ語
     auto: true

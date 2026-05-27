@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/North_Mesopotamian_Arabic"
 translations:
   - translation_iso: ara
     name: العربية الموصلية
+  - translation_iso: hin
+    name: उत्तरी मेसोपोटामियाई अरबी
+    auto: true
   - translation_iso: jpn
     name: 北メソポタミア・アラビア語
   - translation_iso: zho

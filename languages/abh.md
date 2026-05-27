@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tajiki_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة بخارية
+  - translation_iso: hin
+    name: ताजिकी अरबी
+    auto: true
   - translation_iso: jpn
     name: タジキアラビア語
     auto: true

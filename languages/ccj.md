@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاسانغا
     auto: true
+  - translation_iso: hin
+    name: कासांगा
+    auto: true
   - translation_iso: jpn
     name: カサンガ語
     auto: true

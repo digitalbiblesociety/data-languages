@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رونجوس
     auto: true
+  - translation_iso: hin
+    name: रुंगुस
+    auto: true
   - translation_iso: jpn
     name: ルンガス語
     auto: true

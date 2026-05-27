@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زومبون
     auto: true
+  - translation_iso: hin
+    name: ज़ुम्बुन
+    auto: true
   - translation_iso: jpn
     name: ズンブン語
   - translation_iso: zho

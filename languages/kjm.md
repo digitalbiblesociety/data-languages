@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خانج
     auto: true
+  - translation_iso: hin
+    name: खांग
+    auto: true
   - translation_iso: jpn
     name: カング語
     auto: true

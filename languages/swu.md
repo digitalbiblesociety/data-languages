@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سووا
     auto: true
+  - translation_iso: hin
+    name: सुवावा
+    auto: true
   - translation_iso: jpn
     name: スワワ語
   - translation_iso: zho

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكورية القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन कोरियाई
+    auto: true
   - translation_iso: jpn
     name: 古代朝鮮語
   - translation_iso: kor

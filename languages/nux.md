@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميهيك
     auto: true
+  - translation_iso: hin
+    name: मेहेक
+    auto: true
   - translation_iso: jpn
     name: メヘク語
     auto: true

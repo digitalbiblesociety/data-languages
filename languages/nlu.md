@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نشومبولو
     auto: true
+  - translation_iso: hin
+    name: न्चुम्बुलु
+    auto: true
   - translation_iso: jpn
     name: ンチュンブル語
   - translation_iso: zho

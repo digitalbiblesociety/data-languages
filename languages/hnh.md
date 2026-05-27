@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ǁAni
     auto: true
+  - translation_iso: hin
+    name: ǁआनी
+    auto: true
   - translation_iso: jpn
     name: イアニ語
     auto: true

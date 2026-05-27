@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باهاري-بوتواري
     auto: true
+  - translation_iso: hin
+    name: पहाड़ी-पोतवारी
+    auto: true
   - translation_iso: jpn
     name: パハリ語
   - translation_iso: zho

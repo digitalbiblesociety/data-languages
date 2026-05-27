@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوجاما
     auto: true
+  - translation_iso: hin
+    name: कुगामा
+    auto: true
   - translation_iso: jpn
     name: クガマ語
     auto: true

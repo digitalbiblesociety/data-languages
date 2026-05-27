@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوما
     auto: true
+  - translation_iso: hin
+    name: दुमा
+    auto: true
   - translation_iso: jpn
     name: ドゥマ語
   - translation_iso: zho

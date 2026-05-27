@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يوو يلينج
     auto: true
+  - translation_iso: hin
+    name: लेवो एलेंग
+    auto: true
   - translation_iso: jpn
     name: レウォ・エレン語
     auto: true

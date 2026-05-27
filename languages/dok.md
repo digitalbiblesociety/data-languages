@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوندو
     auto: true
+  - translation_iso: hin
+    name: डोंडो
+    auto: true
   - translation_iso: jpn
     name: ドンド語
     auto: true

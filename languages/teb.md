@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: تيتيتي
     auto: true
+  - translation_iso: hin
+    name: तेतेते
+    auto: true
   - translation_iso: jpn
     name: テテテ語
     auto: true

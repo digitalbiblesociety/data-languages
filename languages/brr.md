@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيراو
     auto: true
+  - translation_iso: hin
+    name: बिराओ
+    auto: true
   - translation_iso: jpn
     name: ムビラオ語
   - translation_iso: zho

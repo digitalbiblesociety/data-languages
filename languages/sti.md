@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولو ستينج
     auto: true
+  - translation_iso: hin
+    name: बुलो स्तिएंग
+    auto: true
   - translation_iso: jpn
     name: ブディップ語
     auto: true

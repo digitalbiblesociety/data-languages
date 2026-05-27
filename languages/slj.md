@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة سالوما
     auto: true
+  - translation_iso: hin
+    name: सालुमा
+    auto: true
   - translation_iso: jpn
     name: タレーノイジョミ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كولانغو بونا
     auto: true
+  - translation_iso: hin
+    name: बौना कुलांगो
+    auto: true
   - translation_iso: jpn
     name: ボウナ・クラング語
     auto: true

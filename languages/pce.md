@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالاونغ رتشينغ
     auto: true
+  - translation_iso: hin
+    name: रुचिंग पालाउंग
+    auto: true
   - translation_iso: jpn
     name: ルチング・パラウン語
     auto: true

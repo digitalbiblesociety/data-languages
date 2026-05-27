@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة موموا
     auto: true
+  - translation_iso: hin
+    name: मोमुना
+    auto: true
   - translation_iso: jpn
     name: モムナ語
     auto: true

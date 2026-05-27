@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فو تاي
     auto: true
+  - translation_iso: hin
+    name: फू थाई
+    auto: true
   - translation_iso: jpn
     name: プー・タイ語
   - translation_iso: zho

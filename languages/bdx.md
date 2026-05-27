@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودونج-بودونج
     auto: true
+  - translation_iso: hin
+    name: बुदोंग-बुदोंग
+    auto: true
   - translation_iso: jpn
     name: ブドン・ブドン語
     auto: true

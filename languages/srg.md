@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السولود
     auto: true
+  - translation_iso: hin
+    name: सुलोद
+    auto: true
   - translation_iso: jpn
     name: ブキドノン語
     auto: true

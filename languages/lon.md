@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الاوي وموي
     auto: true
+  - translation_iso: hin
+    name: मलावी लोम्वे
+    auto: true
   - translation_iso: jpn
     name: マラウイ・ロムウェ語
   - translation_iso: zho

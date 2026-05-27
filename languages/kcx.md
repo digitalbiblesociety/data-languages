@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاتشاما غانجولي
     auto: true
+  - translation_iso: hin
+    name: काचामा-गंजुले
+    auto: true
   - translation_iso: jpn
     name: カチャマ・ガンジュレ語
     auto: true

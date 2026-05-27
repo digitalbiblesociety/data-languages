@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماك
     auto: true
+  - translation_iso: hin
+    name: माक (चीन)
+    auto: true
   - translation_iso: jpn
     name: マク語
     auto: true

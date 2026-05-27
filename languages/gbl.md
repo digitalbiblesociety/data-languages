@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجاميت
     auto: true
+  - translation_iso: hin
+    name: गामित
+    auto: true
   - translation_iso: jpn
     name: ガミット語
   - translation_iso: zho

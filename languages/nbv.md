@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نجاممبو
     auto: true
+  - translation_iso: hin
+    name: न्गामाम्बो
+    auto: true
   - translation_iso: jpn
     name: ングアマンボ語
     auto: true

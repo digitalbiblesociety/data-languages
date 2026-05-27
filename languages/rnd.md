@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رونند
     auto: true
+  - translation_iso: hin
+    name: रुउंड
+    auto: true
   - translation_iso: jpn
     name: ルウンド語
     auto: true

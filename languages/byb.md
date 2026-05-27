@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيكْيا
     auto: true
+  - translation_iso: hin
+    name: बिक्या
+    auto: true
   - translation_iso: jpn
     name: Bikya語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشوبي
     auto: true
+  - translation_iso: hin
+    name: चोपी
+    auto: true
   - translation_iso: jpn
     name: チョピ語
   - translation_iso: zho

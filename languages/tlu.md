@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توليهو
     auto: true
+  - translation_iso: hin
+    name: तुलेहु
+    auto: true
   - translation_iso: jpn
     name: トゥレフ語
     auto: true

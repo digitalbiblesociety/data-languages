@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مولام
     auto: true
+  - translation_iso: hin
+    name: मुलाम
+    auto: true
   - translation_iso: jpn
     name: ムーラオ語
   - translation_iso: zho

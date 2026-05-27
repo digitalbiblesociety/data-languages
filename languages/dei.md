@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديميسا
     auto: true
+  - translation_iso: hin
+    name: डेमिसा
+    auto: true
   - translation_iso: jpn
     name: デミサ語
     auto: true

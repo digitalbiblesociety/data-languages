@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jewish_Neo-Aramaic_dialect_of_Urmi
 translations:
   - translation_iso: ara
     name: اللهجة اليهودية الآرامية الجديدة في أورميا
+  - translation_iso: hin
+    name: लिशान दिदान
+    auto: true
   - translation_iso: jpn
     name: デニ語
   - translation_iso: zho

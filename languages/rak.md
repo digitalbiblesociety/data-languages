@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تولو بوهواي
     auto: true
+  - translation_iso: hin
+    name: तुलु-बोहुआई
+    auto: true
   - translation_iso: jpn
     name: トゥルボフアイ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآفو
     auto: true
+  - translation_iso: hin
+    name: हावु
+    auto: true
   - translation_iso: jpn
     name: ハヴ語
     auto: true

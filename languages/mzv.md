@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مانزا
     auto: true
+  - translation_iso: hin
+    name: मांज़ा
+    auto: true
   - translation_iso: jpn
     name: マンザ語
     auto: true

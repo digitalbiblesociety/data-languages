@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يانيشا
     auto: true
+  - translation_iso: hin
+    name: यानेशा
+    auto: true
   - translation_iso: jpn
     name: アムエシャ語
   - translation_iso: zho

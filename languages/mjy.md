@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماهيكان
     auto: true
+  - translation_iso: hin
+    name: महिकन
+    auto: true
   - translation_iso: jpn
     name: マヒカン語
   - translation_iso: kor

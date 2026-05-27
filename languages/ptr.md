@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيامتسينا
     auto: true
+  - translation_iso: hin
+    name: पियामात्सिना
+    auto: true
   - translation_iso: jpn
     name: ピアマツィーナ語
     auto: true

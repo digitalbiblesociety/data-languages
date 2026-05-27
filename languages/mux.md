@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بو-أونج
     auto: true
+  - translation_iso: hin
+    name: बो-उंग
+    auto: true
   - translation_iso: jpn
     name: ボ・ウン語
     auto: true

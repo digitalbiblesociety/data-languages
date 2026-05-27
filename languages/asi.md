@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوروواي
     auto: true
+  - translation_iso: hin
+    name: बुरूवाई
+    auto: true
   - translation_iso: jpn
     name: ブルウァイ語
     auto: true

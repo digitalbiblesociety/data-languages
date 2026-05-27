@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بورونجي
     auto: true
+  - translation_iso: hin
+    name: बुरुंगे
+    auto: true
   - translation_iso: jpn
     name: ブルンゲ語
     auto: true

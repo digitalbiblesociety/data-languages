@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بانيي باي
     auto: true
+  - translation_iso: hin
+    name: पान्यी बाई
+    auto: true
   - translation_iso: jpn
     name: パニ・バイ語
     auto: true

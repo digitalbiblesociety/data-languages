@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نارو
     auto: true
+  - translation_iso: hin
+    name: नारो
+    auto: true
   - translation_iso: jpn
     name: ナロ語
   - translation_iso: zho

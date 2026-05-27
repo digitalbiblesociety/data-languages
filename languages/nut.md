@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نونغ (فيتنام)
     auto: true
+  - translation_iso: hin
+    name: नुंग (वियतनाम)
+    auto: true
   - translation_iso: jpn
     name: ヌン語 (台語)
   - translation_iso: kor

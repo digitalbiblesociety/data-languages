@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يهانج
     auto: true
+  - translation_iso: hin
+    name: याहांग
+    auto: true
   - translation_iso: jpn
     name: ヤハン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيليلا
     auto: true
+  - translation_iso: hin
+    name: सी'लेला
+    auto: true
   - translation_iso: jpn
     name: クレラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جنوب بينغ الصينية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी पिंग चीनी
+    auto: true
   - translation_iso: jpn
     name: 桂南平話
   - translation_iso: zho

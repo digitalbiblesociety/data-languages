@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Saterland_Frisian_language"
 translations:
   - translation_iso: ara
     name: اللغة الفريزية السيترلندية
+  - translation_iso: hin
+    name: ज़ाटरफ़्रीज़िश
+    auto: true
   - translation_iso: jpn
     name: 東フリジア語
   - translation_iso: kor

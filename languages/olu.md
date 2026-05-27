@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوفالي
     auto: true
+  - translation_iso: hin
+    name: कुवाले
+    auto: true
   - translation_iso: jpn
     name: クバレ語
     auto: true

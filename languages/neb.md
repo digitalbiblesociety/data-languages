@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توورا
     auto: true
+  - translation_iso: hin
+    name: तूरा (कोत द'इवोआर)
+    auto: true
   - translation_iso: jpn
     name: トゥーラ語
     auto: true

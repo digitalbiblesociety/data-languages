@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أخا
     auto: true
+  - translation_iso: hin
+    name: अखा
+    auto: true
   - translation_iso: jpn
     name: アカ語
   - translation_iso: zho

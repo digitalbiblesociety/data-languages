@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريراو
     auto: true
+  - translation_iso: hin
+    name: रेराउ
+    auto: true
   - translation_iso: jpn
     name: レラウ語
     auto: true

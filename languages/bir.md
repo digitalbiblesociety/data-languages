@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيسوريو
     auto: true
+  - translation_iso: hin
+    name: बिसोरियो
+    auto: true
   - translation_iso: jpn
     name: ビソリオ語
     auto: true

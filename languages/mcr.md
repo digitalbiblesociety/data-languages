@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مينيا
     auto: true
+  - translation_iso: hin
+    name: मेन्या
+    auto: true
   - translation_iso: jpn
     name: メニャ語
     auto: true

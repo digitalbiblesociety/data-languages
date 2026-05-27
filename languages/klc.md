@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كولبيلا
     auto: true
+  - translation_iso: hin
+    name: कोलबिला
+    auto: true
   - translation_iso: jpn
     name: コルビラ語
     auto: true

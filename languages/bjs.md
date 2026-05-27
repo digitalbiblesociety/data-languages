@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بجان
     auto: true
+  - translation_iso: hin
+    name: बजान
+    auto: true
   - translation_iso: jpn
     name: バジャン語
     auto: true

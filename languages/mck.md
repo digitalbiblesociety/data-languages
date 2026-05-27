@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوندا
     auto: true
+  - translation_iso: hin
+    name: म्बुंडा
+    auto: true
   - translation_iso: jpn
     name: ムブンダ語
     auto: true

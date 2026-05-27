@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميجام
     auto: true
+  - translation_iso: hin
+    name: मेगाम
+    auto: true
   - translation_iso: jpn
     name: メガム語
     auto: true

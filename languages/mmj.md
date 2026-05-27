@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماجوار
     auto: true
+  - translation_iso: hin
+    name: मझवार
+    auto: true
   - translation_iso: jpn
     name: マジュワル語
     auto: true

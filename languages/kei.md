@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاي
     auto: true
+  - translation_iso: hin
+    name: केई
+    auto: true
   - translation_iso: jpn
     name: ケイ語
   - translation_iso: kor

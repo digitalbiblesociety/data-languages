@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوي
     auto: true
+  - translation_iso: hin
+    name: म्बोई
+    auto: true
   - translation_iso: jpn
     name: ムボイ語
     auto: true

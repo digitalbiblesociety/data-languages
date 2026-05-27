@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بايالي
     auto: true
+  - translation_iso: hin
+    name: बायाली
+    auto: true
   - translation_iso: jpn
     name: バヤリ語
     auto: true

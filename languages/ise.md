@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الإيطالية
     auto: true
+  - translation_iso: hin
+    name: इतालवी सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: イタリア手話
   - translation_iso: kor

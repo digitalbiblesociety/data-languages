@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجباجي
     auto: true
+  - translation_iso: hin
+    name: ग्बाग्यी
+    auto: true
   - translation_iso: jpn
     name: ガバギ語
     auto: true

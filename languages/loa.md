@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ولودا
     auto: true
+  - translation_iso: hin
+    name: लोलोदा
+    auto: true
   - translation_iso: jpn
     name: ロロダ語
   - translation_iso: kor

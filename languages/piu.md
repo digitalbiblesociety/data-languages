@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينتوبي-لوريتجا
     auto: true
+  - translation_iso: hin
+    name: पिंतुपी-लुरित्जा
+    auto: true
   - translation_iso: jpn
     name: ピントゥピ・ロリジャ語
   - translation_iso: zho

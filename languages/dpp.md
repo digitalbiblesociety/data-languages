@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بابار
     auto: true
+  - translation_iso: hin
+    name: पापर
+    auto: true
   - translation_iso: jpn
     name: パパル語
     auto: true

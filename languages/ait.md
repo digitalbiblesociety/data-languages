@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أريكيم
     auto: true
+  - translation_iso: hin
+    name: अरिकेम
+    auto: true
   - translation_iso: jpn
     name: アリケム語
     auto: true

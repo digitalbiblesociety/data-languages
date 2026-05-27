@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاكوا
     auto: true
+  - translation_iso: hin
+    name: ताकुआ
+    auto: true
   - translation_iso: jpn
     name: タクア語
     auto: true

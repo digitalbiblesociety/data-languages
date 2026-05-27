@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Biblical_Hebrew"
 translations:
   - translation_iso: ara
     name: العبرانية
+  - translation_iso: hin
+    name: प्राचीन हिब्रू
+    auto: true
   - translation_iso: jpn
     name: 聖書ヘブライ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مويوك بيي
     auto: true
+  - translation_iso: hin
+    name: बे मिवोक
+    auto: true
   - translation_iso: jpn
     name: ベイ・ミウォク語
     auto: true

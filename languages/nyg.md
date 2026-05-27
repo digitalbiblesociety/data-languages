@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيينددو
     auto: true
+  - translation_iso: hin
+    name: न्यिंदु
+    auto: true
   - translation_iso: jpn
     name: ニインドゥ語
     auto: true

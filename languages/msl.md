@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة مولوف
     auto: true
+  - translation_iso: hin
+    name: मोलोफ
+    auto: true
   - translation_iso: jpn
     name: モロフ語
     auto: true

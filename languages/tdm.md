@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تاروما
     auto: true
+  - translation_iso: hin
+    name: तारुमा
+    auto: true
   - translation_iso: jpn
     name: タルマ語
     auto: true

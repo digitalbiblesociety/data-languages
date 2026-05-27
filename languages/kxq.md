@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانوم سمارتكي
     auto: true
+  - translation_iso: hin
+    name: स्मार्की कनुम
+    auto: true
   - translation_iso: jpn
     name: スメルキー・カヌム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتورو
     auto: true
+  - translation_iso: hin
+    name: ओटोरो
+    auto: true
   - translation_iso: jpn
     name: オトロ語
     auto: true

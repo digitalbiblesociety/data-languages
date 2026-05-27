@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوباجارا
     auto: true
+  - translation_iso: hin
+    name: उबाघारा
+    auto: true
   - translation_iso: jpn
     name: ウバガラ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيسالا
     auto: true
+  - translation_iso: hin
+    name: सिस्साला
+    auto: true
   - translation_iso: jpn
     name: シッサーラ語
     auto: true

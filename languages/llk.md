@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يلاك
     auto: true
+  - translation_iso: hin
+    name: लेलाक
+    auto: true
   - translation_iso: jpn
     name: レラック語
   - translation_iso: zho

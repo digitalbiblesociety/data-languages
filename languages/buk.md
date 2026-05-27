@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوجاواك
     auto: true
+  - translation_iso: hin
+    name: बुगावाक
+    auto: true
   - translation_iso: jpn
     name: ブガワック語
     auto: true

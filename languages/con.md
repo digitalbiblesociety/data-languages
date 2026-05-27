@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الكوفان
     auto: true
+  - translation_iso: hin
+    name: कोफान
+    auto: true
   - translation_iso: jpn
     name: アイ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نومان
     auto: true
+  - translation_iso: hin
+    name: नोमाने
+    auto: true
   - translation_iso: jpn
     name: ノマネ語
     auto: true

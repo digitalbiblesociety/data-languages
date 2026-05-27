@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوندي
     auto: true
+  - translation_iso: hin
+    name: सुउंडी
+    auto: true
   - translation_iso: jpn
     name: キスウンディ語
     auto: true

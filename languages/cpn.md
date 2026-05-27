@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيربون
     auto: true
+  - translation_iso: hin
+    name: चेरेपोन
+    auto: true
   - translation_iso: jpn
     name: チェレポン語
     auto: true

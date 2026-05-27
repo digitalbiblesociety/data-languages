@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراوخانو
     auto: true
+  - translation_iso: hin
+    name: पाराउहानो
+    auto: true
   - translation_iso: jpn
     name: パラウハノ語
   - translation_iso: zho

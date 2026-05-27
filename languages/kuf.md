@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاتو الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी कातू
+    auto: true
   - translation_iso: jpn
     name: カトゥ語
   - translation_iso: zho

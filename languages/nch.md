@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينترال هواستيكا ناهواتل
     auto: true
+  - translation_iso: hin
+    name: मध्य हुआस्तेका नाहुआत्ल
+    auto: true
   - translation_iso: jpn
     name: 中央ワステカ・ナワトル語
     auto: true

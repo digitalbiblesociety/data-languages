@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاردل
     auto: true
+  - translation_iso: hin
+    name: लार्डिल
+    auto: true
   - translation_iso: jpn
     name: ラルディル語
   - translation_iso: zho

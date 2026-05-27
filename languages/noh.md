@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوموا
     auto: true
+  - translation_iso: hin
+    name: नोमु
+    auto: true
   - translation_iso: jpn
     name: ノム語
   - translation_iso: zho

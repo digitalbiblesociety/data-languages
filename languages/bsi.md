@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باسّوسّي
     auto: true
+  - translation_iso: hin
+    name: बासोस्सी
+    auto: true
   - translation_iso: jpn
     name: バソッシ語
     auto: true

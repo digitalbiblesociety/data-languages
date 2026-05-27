@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مكوي
     auto: true
+  - translation_iso: hin
+    name: मेकवेई
+    auto: true
   - translation_iso: jpn
     name: メクウェイ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاري
     auto: true
+  - translation_iso: hin
+    name: कारी
+    auto: true
   - translation_iso: jpn
     name: カリ語
     auto: true

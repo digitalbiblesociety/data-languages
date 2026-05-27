@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نالي
     auto: true
+  - translation_iso: hin
+    name: नाली
+    auto: true
   - translation_iso: jpn
     name: ナリ語
     auto: true

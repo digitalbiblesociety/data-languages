@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يانْجكام
     auto: true
+  - translation_iso: hin
+    name: यांगकम
+    auto: true
   - translation_iso: jpn
     name: ヤングカム語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي تينانغو
     auto: true
+  - translation_iso: hin
+    name: तेनांगो ओटोमी
+    auto: true
   - translation_iso: jpn
     name: テナンゴ・オトミ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوالو
     auto: true
+  - translation_iso: hin
+    name: हुआउलू
+    auto: true
   - translation_iso: jpn
     name: フアウル語
     auto: true

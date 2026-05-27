@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مسير
     auto: true
+  - translation_iso: hin
+    name: म्सेर
+    auto: true
   - translation_iso: jpn
     name: ムセル語
     auto: true

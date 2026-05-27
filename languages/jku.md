@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة لابير
     auto: true
+  - translation_iso: hin
+    name: लाबिर
+    auto: true
   - translation_iso: jpn
     name: ラビル語
     auto: true

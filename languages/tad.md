@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاوسي
     auto: true
+  - translation_iso: hin
+    name: ताउसे
+    auto: true
   - translation_iso: jpn
     name: タウセ語
     auto: true

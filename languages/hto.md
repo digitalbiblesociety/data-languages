@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مينيكا هويتوتو
     auto: true
+  - translation_iso: hin
+    name: मिनिका हुइतोतो
+    auto: true
   - translation_iso: jpn
     name: ミニカ・ウイトト語
     auto: true

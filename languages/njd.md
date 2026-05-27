@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: ندوندي همبا
     auto: true
+  - translation_iso: hin
+    name: न्दोंदे हाम्बा
+    auto: true
   - translation_iso: jpn
     name: ンドンデ・ハンバ語
     auto: true

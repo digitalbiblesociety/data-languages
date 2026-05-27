@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة پو شرق كارين
     auto: true
+  - translation_iso: hin
+    name: पूर्वी पो करेन
+    auto: true
   - translation_iso: jpn
     name: 東ポー語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فونج-نيانج
     auto: true
+  - translation_iso: hin
+    name: फोंग-कन्यांग
+    auto: true
   - translation_iso: jpn
     name: フォンクニアン語
     auto: true

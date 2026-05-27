@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة موتشي
     auto: true
+  - translation_iso: hin
+    name: मोची
+    auto: true
   - translation_iso: jpn
     name: モチ語
     auto: true

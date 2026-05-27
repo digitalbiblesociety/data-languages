@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجالجولجولي
     auto: true
+  - translation_iso: hin
+    name: न्जालगुलगुले
+    auto: true
   - translation_iso: jpn
     name: ンジャルグルグレ語
     auto: true

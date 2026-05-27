@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانيلا
     auto: true
+  - translation_iso: hin
+    name: कानेला
+    auto: true
   - translation_iso: jpn
     name: カネラ語
   - translation_iso: zho

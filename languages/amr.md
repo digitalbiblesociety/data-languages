@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أراتبوتين هوا
     auto: true
+  - translation_iso: hin
+    name: अमाराकाएरी
+    auto: true
   - translation_iso: jpn
     name: アラトブテン・フアア語
     auto: true

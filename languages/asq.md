@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Austrian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة النمساوية
+  - translation_iso: hin
+    name: ऑस्ट्रियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: オーストリア手話
   - translation_iso: kor

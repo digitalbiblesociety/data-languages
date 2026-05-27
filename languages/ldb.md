@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دويا
     auto: true
+  - translation_iso: hin
+    name: दुन्या
+    auto: true
   - translation_iso: jpn
     name: ドゥヤ語
     auto: true

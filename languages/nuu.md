@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغبوندو
     auto: true
+  - translation_iso: hin
+    name: न्गबुंडु
+    auto: true
   - translation_iso: jpn
     name: ングブンドゥ語
   - translation_iso: zho

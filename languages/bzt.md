@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بريثينج
     auto: true
+  - translation_iso: hin
+    name: ब्रिथेनिग
+    auto: true
   - translation_iso: jpn
     name: ブリゼニグ
   - translation_iso: kor

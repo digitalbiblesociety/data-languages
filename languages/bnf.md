@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماسيوانج
     auto: true
+  - translation_iso: hin
+    name: मसिवांग
+    auto: true
   - translation_iso: jpn
     name: マシワン語
     auto: true

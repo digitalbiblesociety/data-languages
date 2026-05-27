@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولاري
     auto: true
+  - translation_iso: hin
+    name: पोलारी
+    auto: true
   - translation_iso: jpn
     name: ポラリ
   - translation_iso: kor

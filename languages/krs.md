@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kresh_language"
 translations:
   - translation_iso: ara
     name: كريش
+  - translation_iso: hin
+    name: ग्बाया (सूडान)
+    auto: true
   - translation_iso: jpn
     name: ガバヤ語
     auto: true

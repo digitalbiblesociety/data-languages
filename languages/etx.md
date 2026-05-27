@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإتين
     auto: true
+  - translation_iso: hin
+    name: एतेन
+    auto: true
   - translation_iso: jpn
     name: エテン語
     auto: true

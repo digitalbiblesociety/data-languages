@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أكوكيم
     auto: true
+  - translation_iso: hin
+    name: आकुकेम
+    auto: true
   - translation_iso: jpn
     name: アクケム語
     auto: true

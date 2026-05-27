@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كومهالي
     auto: true
+  - translation_iso: hin
+    name: कुमहाली
+    auto: true
   - translation_iso: jpn
     name: クムハリ語
     auto: true

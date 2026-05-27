@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوبيو
     auto: true
+  - translation_iso: hin
+    name: कुबेओ
+    auto: true
   - translation_iso: jpn
     name: クベオ語
     auto: true

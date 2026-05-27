@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيجرهولندس
     auto: true
+  - translation_iso: hin
+    name: नेगरहॉलैंड्स
+    auto: true
   - translation_iso: jpn
     name: ネーデルランド・クレオール語
     auto: true

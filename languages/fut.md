@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فوتونا-أنيوا
     auto: true
+  - translation_iso: hin
+    name: फुटुना-अनिवा
+    auto: true
   - translation_iso: jpn
     name: フトゥナ・アニワ語
   - translation_iso: zho

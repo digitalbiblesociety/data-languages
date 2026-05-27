@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: جيراي
     auto: true
+  - translation_iso: hin
+    name: गेराई
+    auto: true
   - translation_iso: jpn
     name: ゲライ語
     auto: true

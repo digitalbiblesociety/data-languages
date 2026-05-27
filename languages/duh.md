@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: دونجرا بيل
     auto: true
+  - translation_iso: hin
+    name: डूंगरा भील
+    auto: true
   - translation_iso: jpn
     name: ドゥングラ・ビル語
     auto: true

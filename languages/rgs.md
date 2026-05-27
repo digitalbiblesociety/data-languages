@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ساذرن روجلاي
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी रोग्लाई
+    auto: true
   - translation_iso: jpn
     name: 南ログライ語
     auto: true

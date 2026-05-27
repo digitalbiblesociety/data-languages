@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاسيجورانين
     auto: true
+  - translation_iso: hin
+    name: कासीगुरानिन
+    auto: true
   - translation_iso: jpn
     name: カシグラニン語
     auto: true

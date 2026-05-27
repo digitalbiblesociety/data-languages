@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة المينوية
     auto: true
+  - translation_iso: hin
+    name: मिनोअन
+    auto: true
   - translation_iso: jpn
     name: ミノア語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الرهبانية
     auto: true
+  - translation_iso: hin
+    name: मठवासी सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: 修道院手話
   - translation_iso: zho

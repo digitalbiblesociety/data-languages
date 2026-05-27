@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مالكو خايكا
     auto: true
+  - translation_iso: hin
+    name: मालेकू हाइका
+    auto: true
   - translation_iso: jpn
     name: マレク・ハイカ語
     auto: true

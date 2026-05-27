@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوتشازي
     auto: true
+  - translation_iso: hin
+    name: लुचाज़ी
+    auto: true
   - translation_iso: jpn
     name: ルチャジ語
     auto: true

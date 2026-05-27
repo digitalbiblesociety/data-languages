@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبيكانو
     auto: true
+  - translation_iso: hin
+    name: तेपेकानो
+    auto: true
   - translation_iso: jpn
     name: テペカーノ語
     auto: true

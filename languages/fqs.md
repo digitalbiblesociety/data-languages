@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفاس
     auto: true
+  - translation_iso: hin
+    name: फास
+    auto: true
   - translation_iso: jpn
     name: ファス語
     auto: true

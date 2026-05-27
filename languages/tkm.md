@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تاكيلما
     auto: true
+  - translation_iso: hin
+    name: ताकेल्मा
+    auto: true
   - translation_iso: jpn
     name: タケルマ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الا-يسا
     auto: true
+  - translation_iso: hin
+    name: लाला-बिसा
+    auto: true
   - translation_iso: jpn
     name: ララ・ビサ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كولفا
     auto: true
+  - translation_iso: hin
+    name: कुल्फा
+    auto: true
   - translation_iso: jpn
     name: クルファ語
     auto: true

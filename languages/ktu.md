@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيتوبا
     auto: true
+  - translation_iso: hin
+    name: कितुबा
+    auto: true
   - translation_iso: jpn
     name: キトゥバ語
     auto: true

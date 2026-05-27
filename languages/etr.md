@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإدولو
     auto: true
+  - translation_iso: hin
+    name: एडोलो
+    auto: true
   - translation_iso: jpn
     name: エドロ語
     auto: true

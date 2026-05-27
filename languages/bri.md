@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موكْپوي
     auto: true
+  - translation_iso: hin
+    name: मोक्प्वे
+    auto: true
   - translation_iso: jpn
     name: バクウェリ語
   - translation_iso: zho

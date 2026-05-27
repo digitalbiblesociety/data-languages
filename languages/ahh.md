@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغو
     auto: true
+  - translation_iso: hin
+    name: अघु
+    auto: true
   - translation_iso: jpn
     name: アグ語
     auto: true

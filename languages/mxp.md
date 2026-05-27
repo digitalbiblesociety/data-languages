@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تلاهويتولتيبيك ميكسي
     auto: true
+  - translation_iso: hin
+    name: त्लाहुइतोलतेपेक मिक्से
+    auto: true
   - translation_iso: jpn
     name: トラウィトルテペック・ミクセ語
     auto: true

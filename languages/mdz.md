@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سوروي دو بارا
     auto: true
+  - translation_iso: hin
+    name: सुरुई दो पारा
+    auto: true
   - translation_iso: jpn
     name: スルイ・ド・パラ語
     auto: true

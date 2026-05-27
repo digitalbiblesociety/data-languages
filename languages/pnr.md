@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانيم
     auto: true
+  - translation_iso: hin
+    name: पानिम
+    auto: true
   - translation_iso: jpn
     name: パニム語
     auto: true

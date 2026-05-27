@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندي
     auto: true
+  - translation_iso: hin
+    name: मंदाइक
+    auto: true
   - translation_iso: jpn
     name: 現代マンダ語
   - translation_iso: zho

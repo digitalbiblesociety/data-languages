@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندوم
     auto: true
+  - translation_iso: hin
+    name: न्दोम
+    auto: true
   - translation_iso: jpn
     name: ンドム語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خفارشي
     auto: true
+  - translation_iso: hin
+    name: ख्वार्शी
+    auto: true
   - translation_iso: jpn
     name: フバルシ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديري
     auto: true
+  - translation_iso: hin
+    name: दीयरी
+    auto: true
   - translation_iso: jpn
     name: ディヤリ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نغومبالي
     auto: true
+  - translation_iso: hin
+    name: नगोम्बाले
+    auto: true
   - translation_iso: jpn
     name: ンゴンバレ語
   - translation_iso: zho

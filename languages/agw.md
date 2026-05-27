@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاهوا
     auto: true
+  - translation_iso: hin
+    name: काहुआ
+    auto: true
   - translation_iso: jpn
     name: カフア語
     auto: true

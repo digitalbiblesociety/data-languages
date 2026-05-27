@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: سافوسافو
     auto: true
+  - translation_iso: hin
+    name: सावोसावो
+    auto: true
   - translation_iso: jpn
     name: サヴォサヴォ語
   - translation_iso: kor

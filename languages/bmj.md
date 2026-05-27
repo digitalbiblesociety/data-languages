@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوتي دارايي
     auto: true
+  - translation_iso: hin
+    name: बोटे-दराई
+    auto: true
   - translation_iso: jpn
     name: ボテ・ダライ語
     auto: true

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: دهووايا
     auto: true
+  - translation_iso: hin
+    name: धुवाया
+    auto: true
   - translation_iso: jpn
     name: ドゥワヤ語
     auto: true

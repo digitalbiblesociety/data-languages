@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوناندغا
     auto: true
+  - translation_iso: hin
+    name: ओनोंडागा
+    auto: true
   - translation_iso: jpn
     name: オノンダガ語
     auto: true

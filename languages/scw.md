@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شا
     auto: true
+  - translation_iso: hin
+    name: शा
+    auto: true
   - translation_iso: jpn
     name: シャ語
     auto: true

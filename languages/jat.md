@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاكاتي
     auto: true
+  - translation_iso: hin
+    name: जकाती
+    auto: true
   - translation_iso: jpn
     name: インク語
   - translation_iso: zho

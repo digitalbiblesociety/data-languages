@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كونيانكا مانينكا
     auto: true
+  - translation_iso: hin
+    name: कोन्यांका मानिंका
+    auto: true
   - translation_iso: jpn
     name: コニャンカ・マニンカ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو كيدا
     auto: true
+  - translation_iso: hin
+    name: केदाह मलय
+    auto: true
   - translation_iso: jpn
     name: ケダ・マレー語
   - translation_iso: zho

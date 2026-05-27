@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوني الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी नुनी
+    auto: true
   - translation_iso: jpn
     name: 南ヌニ語
     auto: true

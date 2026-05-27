@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونما
     auto: true
+  - translation_iso: hin
+    name: बुनामा
+    auto: true
   - translation_iso: jpn
     name: ブナマ語
     auto: true

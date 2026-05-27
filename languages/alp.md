@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألون
     auto: true
+  - translation_iso: hin
+    name: अलुने
+    auto: true
   - translation_iso: jpn
     name: アルネ語
     auto: true

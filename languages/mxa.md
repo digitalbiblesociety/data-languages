@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك أواكساكا الشمالية الغربية
     auto: true
+  - translation_iso: hin
+    name: उत्तर-पश्चिमी ओआहाका मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: ノースウェスト・オアハカ・ミステク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موتشو
     auto: true
+  - translation_iso: hin
+    name: मोचो
+    auto: true
   - translation_iso: jpn
     name: モチョ語
   - translation_iso: zho

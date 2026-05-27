@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوسام
     auto: true
+  - translation_iso: hin
+    name: बुसाम
+    auto: true
   - translation_iso: jpn
     name: ブサム語
     auto: true

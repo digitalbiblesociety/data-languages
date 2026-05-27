@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديمتا
     auto: true
+  - translation_iso: hin
+    name: देम्ता
+    auto: true
   - translation_iso: jpn
     name: デムタ語
     auto: true

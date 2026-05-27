@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ممونية
     auto: true
+  - translation_iso: hin
+    name: मेमोनी
+    auto: true
   - translation_iso: jpn
     name: メモニ語
     auto: true

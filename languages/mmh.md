@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة محيناكو
     auto: true
+  - translation_iso: hin
+    name: मेहिनाकू
+    auto: true
   - translation_iso: jpn
     name: メイナク語
   - translation_iso: zho

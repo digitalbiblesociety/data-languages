@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيليه-أتا
     auto: true
+  - translation_iso: hin
+    name: पेले-अता
+    auto: true
   - translation_iso: jpn
     name: ペレアタ語
   - translation_iso: zho

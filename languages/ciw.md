@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chippewa_language"
 translations:
   - translation_iso: ara
     name: شيبيوا
+  - translation_iso: hin
+    name: चिप्पेवा
+    auto: true
   - translation_iso: jpn
     name: 南西部オジブワ語
   - translation_iso: zho

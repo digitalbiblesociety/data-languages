@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابورا
     auto: true
+  - translation_iso: hin
+    name: पापोरा
+    auto: true
   - translation_iso: jpn
     name: パポラ・ホアンヤ語
   - translation_iso: kor

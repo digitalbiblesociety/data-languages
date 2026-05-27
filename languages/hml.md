@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ لوبوهي
     auto: true
+  - translation_iso: hin
+    name: लुओपोहे ह्मोंग
+    auto: true
   - translation_iso: jpn
     name: 羅泊河フモン語
   - translation_iso: zho

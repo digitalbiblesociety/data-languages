@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باليينكيرو
     auto: true
+  - translation_iso: hin
+    name: पालेंकेरो
+    auto: true
   - translation_iso: jpn
     name: パレンケロ語
     auto: true

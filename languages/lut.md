@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة وسهووتسييد
     auto: true
+  - translation_iso: hin
+    name: लुशूटसीड
+    auto: true
   - translation_iso: jpn
     name: ルシュツィード語
   - translation_iso: kor

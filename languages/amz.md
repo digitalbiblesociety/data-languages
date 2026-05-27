@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أتامپايا
     auto: true
+  - translation_iso: hin
+    name: अटाम्पाया
+    auto: true
   - translation_iso: jpn
     name: アタンパヤ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دو
     auto: true
+  - translation_iso: hin
+    name: डोए
+    auto: true
   - translation_iso: jpn
     name: ドエ語
     auto: true

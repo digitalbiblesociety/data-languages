@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة تاجاكاولو
     auto: true
+  - translation_iso: hin
+    name: तागाकाउलो
+    auto: true
   - translation_iso: jpn
     name: タガカウロ語
     auto: true

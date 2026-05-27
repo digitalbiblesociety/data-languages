@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة ماويس
     auto: true
+  - translation_iso: hin
+    name: मावेस
+    auto: true
   - translation_iso: jpn
     name: マウェス語
     auto: true

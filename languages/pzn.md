@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نجا بارا
     auto: true
+  - translation_iso: hin
+    name: पारा नागा
+    auto: true
   - translation_iso: jpn
     name: パラナガ語
     auto: true

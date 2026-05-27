@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيتزا
     auto: true
+  - translation_iso: hin
+    name: इत्ज़ा
+    auto: true
   - translation_iso: jpn
     name: イツァ語
   - translation_iso: kor

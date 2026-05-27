@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبارا (تشاد)
     auto: true
+  - translation_iso: hin
+    name: मबारा (चाड)
+    auto: true
   - translation_iso: jpn
     name: ムバラ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مارما
     auto: true
+  - translation_iso: hin
+    name: मार्मा
+    auto: true
   - translation_iso: jpn
     name: マルマ語
     auto: true

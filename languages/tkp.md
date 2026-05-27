@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيكوبيا
     auto: true
+  - translation_iso: hin
+    name: तिकोपिया
+    auto: true
   - translation_iso: jpn
     name: ティコピア語
   - translation_iso: zho

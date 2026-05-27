@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإليبي
     auto: true
+  - translation_iso: hin
+    name: एलेपी
+    auto: true
   - translation_iso: jpn
     name: エレピ語
     auto: true

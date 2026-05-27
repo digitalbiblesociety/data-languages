@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيبوميك
     auto: true
+  - translation_iso: hin
+    name: एइपोमेक
+    auto: true
   - translation_iso: jpn
     name: エイポメク語
     auto: true

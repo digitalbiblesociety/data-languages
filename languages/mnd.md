@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موندي
     auto: true
+  - translation_iso: hin
+    name: मोंदे
+    auto: true
   - translation_iso: jpn
     name: モンデ語
     auto: true

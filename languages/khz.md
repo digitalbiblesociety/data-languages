@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيابارا
     auto: true
+  - translation_iso: hin
+    name: केआपारा
+    auto: true
   - translation_iso: jpn
     name: ケアパラ語
   - translation_iso: zho

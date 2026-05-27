@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامي الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य पामे
+    auto: true
   - translation_iso: jpn
     name: セントラル・パメ語
     auto: true

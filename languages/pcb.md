@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بير
     auto: true
+  - translation_iso: hin
+    name: पेआर
+    auto: true
   - translation_iso: jpn
     name: ペアール語
   - translation_iso: zho

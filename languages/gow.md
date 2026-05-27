@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غورووآ
     auto: true
+  - translation_iso: hin
+    name: गोरोवा
+    auto: true
   - translation_iso: jpn
     name: ゴロア語
   - translation_iso: zho

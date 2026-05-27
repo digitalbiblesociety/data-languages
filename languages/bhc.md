@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيجا
     auto: true
+  - translation_iso: hin
+    name: बिगा
+    auto: true
   - translation_iso: jpn
     name: ビガ語
     auto: true

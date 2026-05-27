@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانسوان
     auto: true
+  - translation_iso: hin
+    name: पानासुआन
+    auto: true
   - translation_iso: jpn
     name: パナスアン語
     auto: true

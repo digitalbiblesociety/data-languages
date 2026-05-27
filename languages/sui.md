@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوكي
     auto: true
+  - translation_iso: hin
+    name: सुकी
+    auto: true
   - translation_iso: jpn
     name: スキ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايريرو
     auto: true
+  - translation_iso: hin
+    name: कैरिरू
+    auto: true
   - translation_iso: jpn
     name: カイリル語
     auto: true

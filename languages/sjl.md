@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساجالونج
     auto: true
+  - translation_iso: hin
+    name: साजालोंग
+    auto: true
   - translation_iso: jpn
     name: ミジ諸語
   - translation_iso: zho

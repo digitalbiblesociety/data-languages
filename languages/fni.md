@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفانيا
     auto: true
+  - translation_iso: hin
+    name: फानिया
+    auto: true
   - translation_iso: jpn
     name: ファニア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كابا
     auto: true
+  - translation_iso: hin
+    name: काबा
+    auto: true
   - translation_iso: jpn
     name: カバ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكيري
     auto: true
+  - translation_iso: hin
+    name: किरे
+    auto: true
   - translation_iso: jpn
     name: キレ語
     auto: true

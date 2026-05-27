@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيدونغ الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी तिदुंग
+    auto: true
   - translation_iso: jpn
     name: 北ティドゥン語
     auto: true

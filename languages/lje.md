@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة امپي
     auto: true
+  - translation_iso: hin
+    name: रंपी
+    auto: true
   - translation_iso: jpn
     name: ラムピ語
     auto: true

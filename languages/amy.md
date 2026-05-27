@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آمي
     auto: true
+  - translation_iso: hin
+    name: आमी
+    auto: true
   - translation_iso: jpn
     name: アミ語
     auto: true

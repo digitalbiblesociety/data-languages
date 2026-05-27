@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مامبيلا الكاميرون
     auto: true
+  - translation_iso: hin
+    name: कैमरून माम्बिला
+    auto: true
   - translation_iso: jpn
     name: カメルーン・マンビラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشايهويتا
     auto: true
+  - translation_iso: hin
+    name: चायाहुइता
+    auto: true
   - translation_iso: jpn
     name: チャヤウイタ語
     auto: true

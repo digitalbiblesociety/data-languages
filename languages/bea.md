@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيفر
     auto: true
+  - translation_iso: hin
+    name: बीवर
+    auto: true
   - translation_iso: jpn
     name: ダネザ語
   - translation_iso: zho

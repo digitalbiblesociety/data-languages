@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chavacano"
 translations:
   - translation_iso: ara
     name: لغة تشاباكانو
+  - translation_iso: hin
+    name: चावाकानो
+    auto: true
   - translation_iso: jpn
     name: チャバカノ語
   - translation_iso: kor

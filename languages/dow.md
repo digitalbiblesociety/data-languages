@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دويايو
     auto: true
+  - translation_iso: hin
+    name: डोयायो
+    auto: true
   - translation_iso: jpn
     name: ドヤヨ語
     auto: true

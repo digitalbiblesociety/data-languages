@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هوتي
     auto: true
+  - translation_iso: hin
+    name: होती
+    auto: true
   - translation_iso: jpn
     name: ホティ語
     auto: true

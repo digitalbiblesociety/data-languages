@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نورث سلافي
     auto: true
+  - translation_iso: hin
+    name: उत्तरी स्लेवी
+    auto: true
   - translation_iso: jpn
     name: 北スレイビー語
   - translation_iso: zho

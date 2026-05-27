@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميريتي
     auto: true
+  - translation_iso: hin
+    name: मिरिति
+    auto: true
   - translation_iso: jpn
     name: ミリティ語
     auto: true

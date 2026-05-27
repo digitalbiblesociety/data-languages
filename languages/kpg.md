@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كابينجاماراني
     auto: true
+  - translation_iso: hin
+    name: कापिंगामारांगी
+    auto: true
   - translation_iso: jpn
     name: カピンガマランギ語
   - translation_iso: kor

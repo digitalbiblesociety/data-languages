@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كوكو
     auto: true
+  - translation_iso: hin
+    name: कुकु
+    auto: true
   - translation_iso: jpn
     name: クク語
     auto: true

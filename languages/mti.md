@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مايوا (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: hin
+    name: माइवा (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: マイワ語
     auto: true

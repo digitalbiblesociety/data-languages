@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: الكون
     auto: true
+  - translation_iso: hin
+    name: कोन
+    auto: true
   - translation_iso: jpn
     name: コン語
     auto: true

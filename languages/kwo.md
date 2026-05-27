@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوومتاري
     auto: true
+  - translation_iso: hin
+    name: क्वोमतारी
+    auto: true
   - translation_iso: jpn
     name: クウォムタリ語
     auto: true

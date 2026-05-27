@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة آبون
     auto: true
+  - translation_iso: hin
+    name: अबुन
+    auto: true
   - translation_iso: jpn
     name: アブン語
     auto: true

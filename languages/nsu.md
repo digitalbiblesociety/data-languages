@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناواتل سيرا نيغرا
     auto: true
+  - translation_iso: hin
+    name: सिएरा नेग्रा नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: シエラネグラ・ナワトル語
     auto: true

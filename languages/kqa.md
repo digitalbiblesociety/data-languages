@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موم
     auto: true
+  - translation_iso: hin
+    name: मुम
+    auto: true
   - translation_iso: jpn
     name: ムム語
     auto: true

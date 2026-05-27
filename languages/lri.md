@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اراكهي
     auto: true
+  - translation_iso: hin
+    name: मराची
+    auto: true
   - translation_iso: jpn
     name: マラチ語
     auto: true

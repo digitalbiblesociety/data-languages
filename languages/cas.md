@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تسيماني
     auto: true
+  - translation_iso: hin
+    name: सिमाने
+    auto: true
   - translation_iso: jpn
     name: モセテン・チマネ諸語
   - translation_iso: zho

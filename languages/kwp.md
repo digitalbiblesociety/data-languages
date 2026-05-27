@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوديا
     auto: true
+  - translation_iso: hin
+    name: कोडिया
+    auto: true
   - translation_iso: jpn
     name: コディア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تايراها
     auto: true
+  - translation_iso: hin
+    name: तैराहा
+    auto: true
   - translation_iso: jpn
     name: バウロ語
   - translation_iso: zho

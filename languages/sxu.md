@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الساكسونية العليا
     auto: true
+  - translation_iso: hin
+    name: ऊपरी सैक्सन
+    auto: true
   - translation_iso: jpn
     name: 上部ザクセン語
   - translation_iso: zho

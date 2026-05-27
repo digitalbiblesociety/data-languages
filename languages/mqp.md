@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مانيبا
     auto: true
+  - translation_iso: hin
+    name: मानिपा
+    auto: true
   - translation_iso: jpn
     name: マニパ語
     auto: true

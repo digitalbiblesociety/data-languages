@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوكاتا
     auto: true
+  - translation_iso: hin
+    name: कोकाटा
+    auto: true
   - translation_iso: jpn
     name: コカタ語
     auto: true

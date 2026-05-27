@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكيان الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी माकियान
+    auto: true
   - translation_iso: jpn
     name: 東マキアン語
   - translation_iso: zho

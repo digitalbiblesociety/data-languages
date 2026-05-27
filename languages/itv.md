@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيتاويت
     auto: true
+  - translation_iso: hin
+    name: इतावित
+    auto: true
   - translation_iso: jpn
     name: イタウィット語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يجبي
     auto: true
+  - translation_iso: hin
+    name: लिग्बी
+    auto: true
   - translation_iso: jpn
     name: リグビ語
     auto: true

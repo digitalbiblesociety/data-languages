@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمانايي
     auto: true
+  - translation_iso: hin
+    name: अमानाये
+    auto: true
   - translation_iso: jpn
     name: アマナエ語
     auto: true

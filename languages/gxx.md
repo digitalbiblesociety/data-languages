@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وè سووثإرن
     auto: true
+  - translation_iso: hin
+    name: वे दक्षिणी
+    auto: true
   - translation_iso: jpn
     name: ウェ語
     auto: true

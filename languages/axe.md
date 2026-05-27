@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيريريرينجي
     auto: true
+  - translation_iso: hin
+    name: अयेर्रेरेंगे
+    auto: true
   - translation_iso: jpn
     name: アイエレレンゲ語
     auto: true

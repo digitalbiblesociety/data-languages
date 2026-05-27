@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ساوثيرن أمامي-أوشيما
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी अमामी-ओशिमा
+    auto: true
   - translation_iso: jpn
     name: 奄美大島南部方言
   - translation_iso: kor

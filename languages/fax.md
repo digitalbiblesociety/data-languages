@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفالا
     auto: true
+  - translation_iso: hin
+    name: फाला
+    auto: true
   - translation_iso: jpn
     name: ファラ語
   - translation_iso: kor

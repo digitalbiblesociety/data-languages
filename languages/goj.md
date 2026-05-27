@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: غوولآن
     auto: true
+  - translation_iso: hin
+    name: गौलान
+    auto: true
   - translation_iso: jpn
     name: ゴウラン語
     auto: true

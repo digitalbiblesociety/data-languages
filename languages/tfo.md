@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيفارو
     auto: true
+  - translation_iso: hin
+    name: तेफारो
+    auto: true
   - translation_iso: jpn
     name: テファロ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوتش ساين لانجويج
     auto: true
+  - translation_iso: hin
+    name: डच सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: オランダ手話
   - translation_iso: zho

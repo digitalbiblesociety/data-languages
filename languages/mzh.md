@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويتشي لهامتيس غويسناي
     auto: true
+  - translation_iso: hin
+    name: विची ल्हाम्तेस गुइस्नाय
+    auto: true
   - translation_iso: jpn
     name: ウィチー・ラムテス・グイスナイ語
     auto: true

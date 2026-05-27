@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديابيرديابير
     auto: true
+  - translation_iso: hin
+    name: दयाबेरदयाबेर
+    auto: true
   - translation_iso: jpn
     name: ジャビルジャビル語
   - translation_iso: zho

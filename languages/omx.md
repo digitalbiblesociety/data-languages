@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مون القديمة
     auto: true
+  - translation_iso: hin
+    name: पुरानी मोन
+    auto: true
   - translation_iso: jpn
     name: 古モン語
     auto: true

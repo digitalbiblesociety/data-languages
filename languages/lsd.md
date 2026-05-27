@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لشنا ديني
     auto: true
+  - translation_iso: hin
+    name: लिशाना देनी
+    auto: true
   - translation_iso: jpn
     name: ディダン語
   - translation_iso: zho

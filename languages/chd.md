@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هايلاند واخاكا تشونتال
     auto: true
+  - translation_iso: hin
+    name: हाइलैंड ओआहाका चोंताल
+    auto: true
   - translation_iso: jpn
     name: ハイランド・オアハカ・チョンタル語
     auto: true

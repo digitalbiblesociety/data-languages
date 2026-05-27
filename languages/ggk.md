@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كونجآرآكآني
     auto: true
+  - translation_iso: hin
+    name: कुंगाराकानी
+    auto: true
   - translation_iso: jpn
     name: クンガラカニ語
     auto: true

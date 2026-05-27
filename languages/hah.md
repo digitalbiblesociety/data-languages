@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هآهون
     auto: true
+  - translation_iso: hin
+    name: हाहोन
+    auto: true
   - translation_iso: jpn
     name: ハホン語
     auto: true

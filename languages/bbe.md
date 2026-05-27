@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانجبا
     auto: true
+  - translation_iso: hin
+    name: बांगबा
+    auto: true
   - translation_iso: jpn
     name: バングバ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبسابيني
     auto: true
+  - translation_iso: hin
+    name: कुप्सबिनी
+    auto: true
   - translation_iso: jpn
     name: クプサビニィ語
   - translation_iso: zho

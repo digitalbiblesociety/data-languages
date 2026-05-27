@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كونجو
     auto: true
+  - translation_iso: hin
+    name: कूंगो
+    auto: true
   - translation_iso: jpn
     name: コオンゴ語
   - translation_iso: zho

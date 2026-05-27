@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أبر جراند فالي داني
     auto: true
+  - translation_iso: hin
+    name: ऊपरी ग्रैंड वैली दानी
+    auto: true
   - translation_iso: jpn
     name: アッパー・グランド・ヴァレー・ダニ語
     auto: true

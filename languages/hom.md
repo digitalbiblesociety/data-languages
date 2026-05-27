@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Homa_language"
 translations:
   - translation_iso: ara
     name: لغة حوما
+  - translation_iso: hin
+    name: होमा
+    auto: true
   - translation_iso: jpn
     name: ホマ語
   - translation_iso: zho

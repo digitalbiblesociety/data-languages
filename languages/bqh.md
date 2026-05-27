@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بايما
     auto: true
+  - translation_iso: hin
+    name: बैमा
+    auto: true
   - translation_iso: jpn
     name: 白馬語
   - translation_iso: zho

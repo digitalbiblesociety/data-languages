@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السيباك
     auto: true
+  - translation_iso: hin
+    name: सिबाक
+    auto: true
   - translation_iso: jpn
     name: チボク語
   - translation_iso: zho

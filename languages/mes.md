@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسماجي
     auto: true
+  - translation_iso: hin
+    name: मासमाजे
+    auto: true
   - translation_iso: jpn
     name: マスマエ語
     auto: true

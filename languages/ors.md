@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورانغ سيليتار
     auto: true
+  - translation_iso: hin
+    name: ओरंग सेलेतार
+    auto: true
   - translation_iso: jpn
     name: オラン・スレタル語
     auto: true

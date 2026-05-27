@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابانجو
     auto: true
+  - translation_iso: hin
+    name: बबांगो
+    auto: true
   - translation_iso: jpn
     name: ババンゴ語
     auto: true

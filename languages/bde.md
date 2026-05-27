@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بادي
     auto: true
+  - translation_iso: hin
+    name: बादे
+    auto: true
   - translation_iso: jpn
     name: バデ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوبانينان أجتا
     auto: true
+  - translation_iso: hin
+    name: दुपानिनान आग्ता
+    auto: true
   - translation_iso: jpn
     name: ドゥパニナン・アグタ語
     auto: true

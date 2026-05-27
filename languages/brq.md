@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بريري
     auto: true
+  - translation_iso: hin
+    name: ब्रेरी
+    auto: true
   - translation_iso: jpn
     name: ブレリ語
     auto: true

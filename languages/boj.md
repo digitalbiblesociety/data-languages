@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أنجام
     auto: true
+  - translation_iso: hin
+    name: अंजम
+    auto: true
   - translation_iso: jpn
     name: アンジャム語
     auto: true

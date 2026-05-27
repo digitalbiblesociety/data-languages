@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موبان مايا
     auto: true
+  - translation_iso: hin
+    name: मोपान माया
+    auto: true
   - translation_iso: jpn
     name: モパン語
   - translation_iso: kor

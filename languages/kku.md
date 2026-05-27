@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة توميي
     auto: true
+  - translation_iso: hin
+    name: तुमी
+    auto: true
   - translation_iso: jpn
     name: トゥミ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوجان
     auto: true
+  - translation_iso: hin
+    name: बुगान
+    auto: true
   - translation_iso: jpn
     name: ブガン語
     auto: true

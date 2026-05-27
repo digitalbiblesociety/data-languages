@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشومبولي
     auto: true
+  - translation_iso: hin
+    name: चुम्बुली
+    auto: true
   - translation_iso: jpn
     name: チュンブリ語
   - translation_iso: zho

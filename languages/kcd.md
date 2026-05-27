@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة نغكالمبو كانوم
     auto: true
+  - translation_iso: hin
+    name: न्ग्काल्म्पव कानुम
+    auto: true
   - translation_iso: jpn
     name: ングカルムプウ・カヌム語
     auto: true

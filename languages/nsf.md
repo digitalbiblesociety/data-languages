@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيسو الشمالية الغربية
     auto: true
+  - translation_iso: hin
+    name: उत्तर-पश्चिमी निसू
+    auto: true
   - translation_iso: jpn
     name: 北西ニス語
     auto: true

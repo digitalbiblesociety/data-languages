@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيكا
     auto: true
+  - translation_iso: hin
+    name: सिका
+    auto: true
   - translation_iso: jpn
     name: クロウェ語
     auto: true

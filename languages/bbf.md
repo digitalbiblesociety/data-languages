@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايباي
     auto: true
+  - translation_iso: hin
+    name: बाईबाई
+    auto: true
   - translation_iso: jpn
     name: バイバイ語
     auto: true

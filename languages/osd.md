@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأوسيتية ديجور
     auto: true
+  - translation_iso: hin
+    name: डिगोर ओस्सेटिक
+    auto: true
   - translation_iso: jpn
     name: ディゴル方言
   - translation_iso: zho

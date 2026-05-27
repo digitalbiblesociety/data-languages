@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة يهودية جورجية
     auto: true
+  - translation_iso: hin
+    name: यहूदी-जॉर्जियाई
+    auto: true
   - translation_iso: jpn
     name: グルジン語
   - translation_iso: zho

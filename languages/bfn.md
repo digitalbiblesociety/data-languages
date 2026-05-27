@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونك
     auto: true
+  - translation_iso: hin
+    name: बुनक
+    auto: true
   - translation_iso: jpn
     name: ブナク語
   - translation_iso: zho

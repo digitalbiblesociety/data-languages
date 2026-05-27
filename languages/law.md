@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاوجي
     auto: true
+  - translation_iso: hin
+    name: लाउजे
+    auto: true
   - translation_iso: jpn
     name: ラウジェ語
     auto: true

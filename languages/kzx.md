@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاماريان
     auto: true
+  - translation_iso: hin
+    name: कामारियन
+    auto: true
   - translation_iso: jpn
     name: カマリアン語
     auto: true

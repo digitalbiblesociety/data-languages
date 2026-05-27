@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أبوّا
     auto: true
+  - translation_iso: hin
+    name: अबुआ
+    auto: true
   - translation_iso: jpn
     name: アブア語
     auto: true

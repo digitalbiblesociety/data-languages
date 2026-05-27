@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرارا ماتو جروسو
     auto: true
+  - translation_iso: hin
+    name: माटो ग्रोसो अरारा
+    auto: true
   - translation_iso: jpn
     name: マト・グロッソ・アララ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكيبو
     auto: true
+  - translation_iso: hin
+    name: अकेबू
+    auto: true
   - translation_iso: jpn
     name: ケブ語
   - translation_iso: zho

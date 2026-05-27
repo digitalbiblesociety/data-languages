@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابوني
     auto: true
+  - translation_iso: hin
+    name: सापोनी
+    auto: true
   - translation_iso: jpn
     name: バハササポニ語
     auto: true

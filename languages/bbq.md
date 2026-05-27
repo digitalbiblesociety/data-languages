@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامالي
     auto: true
+  - translation_iso: hin
+    name: बामाली
+    auto: true
   - translation_iso: jpn
     name: バマリ語
     auto: true

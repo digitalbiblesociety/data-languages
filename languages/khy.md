@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلي
     auto: true
+  - translation_iso: hin
+    name: केले (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
   - translation_iso: jpn
     name: ロケレ語
   - translation_iso: zho

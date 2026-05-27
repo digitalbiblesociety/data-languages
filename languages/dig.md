@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديجو
     auto: true
+  - translation_iso: hin
+    name: दिगो
+    auto: true
   - translation_iso: jpn
     name: ディゴ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Toba_Batak_language"
 translations:
   - translation_iso: ara
     name: لغة توبا باتاك
+  - translation_iso: hin
+    name: बातक तोबा
+    auto: true
   - translation_iso: jpn
     name: バタク・トバ語
   - translation_iso: kor

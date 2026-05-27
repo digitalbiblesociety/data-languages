@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كاروك
     auto: true
+  - translation_iso: hin
+    name: कारोक
+    auto: true
   - translation_iso: jpn
     name: キャロック語
   - translation_iso: zho

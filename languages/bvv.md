@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: بانيڤا
     auto: true
+  - translation_iso: hin
+    name: बनिवा
+    auto: true
   - translation_iso: jpn
     name: バニバ語
   - translation_iso: zho

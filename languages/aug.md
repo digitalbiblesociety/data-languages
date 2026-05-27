@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أجونا
     auto: true
+  - translation_iso: hin
+    name: अगुना
+    auto: true
   - translation_iso: jpn
     name: アグナ語
     auto: true

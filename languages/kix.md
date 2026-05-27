@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الناغا خيامنيونجيان
     auto: true
+  - translation_iso: hin
+    name: ख्यामनियुंगन नागा
+    auto: true
   - translation_iso: jpn
     name: ヒァムニウンガン・ナガ語
     auto: true

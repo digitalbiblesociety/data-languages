@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كارينجاني
     auto: true
+  - translation_iso: hin
+    name: करिंगानी
+    auto: true
   - translation_iso: jpn
     name: カリンガニ語
     auto: true

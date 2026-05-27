@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: دانغاورا ثارو
     auto: true
+  - translation_iso: hin
+    name: दंगौरा थारू
+    auto: true
   - translation_iso: jpn
     name: ダンガウラ・タル語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jin_Chinese"
 translations:
   - translation_iso: ara
     name: جين الصينية (لغة)
+  - translation_iso: hin
+    name: जिन चीनी
+    auto: true
   - translation_iso: jpn
     name: 晋語
   - translation_iso: kor

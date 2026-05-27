@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هإلونج
     auto: true
+  - translation_iso: hin
+    name: हेलोंग
+    auto: true
   - translation_iso: jpn
     name: ヘロング語
     auto: true

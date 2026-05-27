@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويير
     auto: true
+  - translation_iso: hin
+    name: क्वेर
+    auto: true
   - translation_iso: jpn
     name: クウェル語
     auto: true

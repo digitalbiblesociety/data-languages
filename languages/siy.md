@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيفندي
     auto: true
+  - translation_iso: hin
+    name: सिवंदी
+    auto: true
   - translation_iso: jpn
     name: シーバンド語
   - translation_iso: zho

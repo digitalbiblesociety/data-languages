@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيروي لاوت
     auto: true
+  - translation_iso: hin
+    name: सेरुई-लाउत
+    auto: true
   - translation_iso: jpn
     name: アルイ語
     auto: true

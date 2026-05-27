@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكا
     auto: true
+  - translation_iso: hin
+    name: इका
+    auto: true
   - translation_iso: jpn
     name: イカ語
     auto: true

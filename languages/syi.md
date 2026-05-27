@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: سيكي
     auto: true
+  - translation_iso: hin
+    name: सेकी
+    auto: true
   - translation_iso: jpn
     name: セケ語
   - translation_iso: zho

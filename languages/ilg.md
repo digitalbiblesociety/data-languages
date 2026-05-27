@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غاريغ-إيلغار
     auto: true
+  - translation_iso: hin
+    name: गारिग-इलगर
+    auto: true
   - translation_iso: jpn
     name: ガリグ・イルガル語
     auto: true

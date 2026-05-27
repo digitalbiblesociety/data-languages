@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنجليزية الكريولية فرناندو بو
     auto: true
+  - translation_iso: hin
+    name: फर्नांडो पो क्रियोल अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: フェルナンド・ポー・クレオール英語
     auto: true

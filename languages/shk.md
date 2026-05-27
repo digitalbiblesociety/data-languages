@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشيلك
     auto: true
+  - translation_iso: hin
+    name: शिल्लुक
+    auto: true
   - translation_iso: jpn
     name: シルク語
   - translation_iso: zho

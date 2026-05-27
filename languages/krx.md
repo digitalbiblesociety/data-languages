@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Karon_language"
 translations:
   - translation_iso: ara
     name: كارونية
+  - translation_iso: hin
+    name: कारोन
+    auto: true
   - translation_iso: jpn
     name: カロン語
   - translation_iso: zho

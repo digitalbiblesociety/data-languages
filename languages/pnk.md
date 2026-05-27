@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوناكا
     auto: true
+  - translation_iso: hin
+    name: पाउनाका
+    auto: true
   - translation_iso: jpn
     name: パウナ語
   - translation_iso: zho

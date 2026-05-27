@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Seneca_language"
 translations:
   - translation_iso: ara
     name: سينيكا
+  - translation_iso: hin
+    name: सेनेका
+    auto: true
   - translation_iso: jpn
     name: セネカ語
   - translation_iso: kor

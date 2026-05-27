@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كبالا
     auto: true
+  - translation_iso: hin
+    name: क्पाला
+    auto: true
   - translation_iso: jpn
     name: クパラ語
     auto: true

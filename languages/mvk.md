@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكميك
     auto: true
+  - translation_iso: hin
+    name: मेकमेक
+    auto: true
   - translation_iso: jpn
     name: メクメク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغاتو
     auto: true
+  - translation_iso: hin
+    name: अगातु
+    auto: true
   - translation_iso: jpn
     name: アガトゥ語
     auto: true

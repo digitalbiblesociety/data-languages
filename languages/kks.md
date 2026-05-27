@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيووي
     auto: true
+  - translation_iso: hin
+    name: गीवो
+    auto: true
   - translation_iso: jpn
     name: ギーオ語
     auto: true

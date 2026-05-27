@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سابوم
     auto: true
+  - translation_iso: hin
+    name: साबूम
+    auto: true
   - translation_iso: jpn
     name: サブウム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسيناي
     auto: true
+  - translation_iso: hin
+    name: इसिनाई
+    auto: true
   - translation_iso: jpn
     name: イシナイ語
   - translation_iso: zho

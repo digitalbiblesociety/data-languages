@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jamaican_Patois"
 translations:
   - translation_iso: ara
     name: كريولية جامايكية
+  - translation_iso: hin
+    name: जमैकन क्रियोल अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: ジャマイカ・クレオール語
   - translation_iso: kor

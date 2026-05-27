@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماندايك كلاسيكي
     auto: true
+  - translation_iso: hin
+    name: शास्त्रीय मंडाइक
+    auto: true
   - translation_iso: jpn
     name: 古典マンダイク語
     auto: true

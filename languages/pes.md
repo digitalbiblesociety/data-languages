@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Iranian_Persian"
 translations:
   - translation_iso: ara
     name: الفارسية الإيرانية
+  - translation_iso: hin
+    name: ईरानी फ़ारसी
+    auto: true
   - translation_iso: jpn
     name: 西ペルシア語
   - translation_iso: kor

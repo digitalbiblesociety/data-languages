@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتجانتجاتجارا
     auto: true
+  - translation_iso: hin
+    name: पित्जान्त्जात्जारा
+    auto: true
   - translation_iso: jpn
     name: ピッチャンチャジャーラ語
   - translation_iso: kor

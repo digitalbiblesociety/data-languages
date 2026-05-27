@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يميريج
     auto: true
+  - translation_iso: hin
+    name: लेमेरिग
+    auto: true
   - translation_iso: jpn
     name: レメリグ語
     auto: true

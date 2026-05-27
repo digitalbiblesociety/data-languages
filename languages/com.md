@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكومانتشي
     auto: true
+  - translation_iso: hin
+    name: कोमांचे
+    auto: true
   - translation_iso: jpn
     name: コマンチェ語
   - translation_iso: kor

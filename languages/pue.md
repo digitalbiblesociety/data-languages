@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوويلتشي
     auto: true
+  - translation_iso: hin
+    name: पुएलचे
+    auto: true
   - translation_iso: jpn
     name: プエルチェ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيمانبور
     auto: true
+  - translation_iso: hin
+    name: निमानबुर
+    auto: true
   - translation_iso: jpn
     name: ニマンブル語
   - translation_iso: zho

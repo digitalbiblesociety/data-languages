@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجابري
     auto: true
+  - translation_iso: hin
+    name: गाब्री
+    auto: true
   - translation_iso: jpn
     name: ガブリ語
     auto: true

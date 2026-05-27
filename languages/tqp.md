@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توموييب
     auto: true
+  - translation_iso: hin
+    name: तोमोइप
+    auto: true
   - translation_iso: jpn
     name: トゥムイプ語
   - translation_iso: zho

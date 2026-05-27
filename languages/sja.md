@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إيبينا
     auto: true
+  - translation_iso: hin
+    name: एपेना
+    auto: true
   - translation_iso: jpn
     name: サイジャ語
     auto: true

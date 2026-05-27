@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ساذرن كاتانج
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी कातांग
+    auto: true
   - translation_iso: jpn
     name: サザン・カタン語
     auto: true

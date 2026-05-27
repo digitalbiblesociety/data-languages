@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سانجو (جابون)
     auto: true
+  - translation_iso: hin
+    name: सांगु (गैबॉन)
+    auto: true
   - translation_iso: jpn
     name: サング語
   - translation_iso: zho

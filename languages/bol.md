@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بولي
     auto: true
+  - translation_iso: hin
+    name: बोले
+    auto: true
   - translation_iso: jpn
     name: ボレ語
   - translation_iso: zho

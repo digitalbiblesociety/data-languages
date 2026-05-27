@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاوورتا
     auto: true
+  - translation_iso: hin
+    name: ताओर्ता
+    auto: true
   - translation_iso: jpn
     name: タウォルタ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جوهوان
     auto: true
+  - translation_iso: hin
+    name: जूहोआन
+    auto: true
   - translation_iso: jpn
     name: ジューホアン方言
   - translation_iso: zho

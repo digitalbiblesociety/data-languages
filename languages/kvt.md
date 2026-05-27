@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كارين لاهتا
     auto: true
+  - translation_iso: hin
+    name: लाहता करेन
+    auto: true
   - translation_iso: jpn
     name: ラータ・カレン語
     auto: true

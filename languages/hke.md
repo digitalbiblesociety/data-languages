@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوندي
     auto: true
+  - translation_iso: hin
+    name: हुंडे
+    auto: true
   - translation_iso: jpn
     name: フンデ語
   - translation_iso: zho

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونتوك الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी बोंटोक
+    auto: true
   - translation_iso: jpn
     name: 南ボントク語
   - translation_iso: zho

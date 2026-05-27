@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوريندجي
     auto: true
+  - translation_iso: hin
+    name: गुरिंजी
+    auto: true
   - translation_iso: jpn
     name: グリンジ語
   - translation_iso: zho

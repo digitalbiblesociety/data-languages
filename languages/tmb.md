@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاتبول
     auto: true
+  - translation_iso: hin
+    name: कातबोल
+    auto: true
   - translation_iso: jpn
     name: カトボル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيماك
     auto: true
+  - translation_iso: hin
+    name: केमाक
+    auto: true
   - translation_iso: jpn
     name: ケマク語
   - translation_iso: zho

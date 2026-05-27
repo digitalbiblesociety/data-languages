@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موتوفان
     auto: true
+  - translation_iso: hin
+    name: मुथुवन
+    auto: true
   - translation_iso: jpn
     name: ムトゥヴァン語
     auto: true

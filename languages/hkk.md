@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هونجارا-كاينا كي
     auto: true
+  - translation_iso: hin
+    name: हुंजारा-काइना के
+    auto: true
   - translation_iso: jpn
     name: フンジャラ・カイナ・ケ語
     auto: true

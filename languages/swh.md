@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kiswahili"
 translations:
   - translation_iso: ara
     name: السواحيلية
+  - translation_iso: hin
+    name: स्वाहिली (तटीय)
+    auto: true
   - translation_iso: jpn
     name: スワヒリ語
   - translation_iso: zho

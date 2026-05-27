@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإلكاي
     auto: true
+  - translation_iso: hin
+    name: एल्केई
+    auto: true
   - translation_iso: jpn
     name: エルケイ語
     auto: true

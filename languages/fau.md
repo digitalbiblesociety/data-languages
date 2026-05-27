@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الفايو
     auto: true
+  - translation_iso: hin
+    name: फायू
+    auto: true
   - translation_iso: jpn
     name: ファユ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميان
     auto: true
+  - translation_iso: hin
+    name: मियान
+    auto: true
   - translation_iso: jpn
     name: ミアン語
     auto: true

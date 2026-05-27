@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيريك
     auto: true
+  - translation_iso: hin
+    name: बेरिक
+    auto: true
   - translation_iso: jpn
     name: ベリク語
     auto: true

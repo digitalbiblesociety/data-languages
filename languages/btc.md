@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتي
     auto: true
+  - translation_iso: hin
+    name: बाती
+    auto: true
   - translation_iso: jpn
     name: バティ語
     auto: true

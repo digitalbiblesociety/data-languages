@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بانجيمي
     auto: true
+  - translation_iso: hin
+    name: बंगिमे
+    auto: true
   - translation_iso: jpn
     name: バンギメ語
   - translation_iso: kor

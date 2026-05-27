@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تامبوان
     auto: true
+  - translation_iso: hin
+    name: तामपुआन
+    auto: true
   - translation_iso: jpn
     name: タンプアン語
   - translation_iso: zho

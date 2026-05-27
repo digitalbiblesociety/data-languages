@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاراهومارا الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी तराहुमारा
+    auto: true
   - translation_iso: jpn
     name: 北部タラウマラ語
     auto: true

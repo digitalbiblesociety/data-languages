@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أموزجو إبالابا
     auto: true
+  - translation_iso: hin
+    name: इपालापा अमुज़गो
+    auto: true
   - translation_iso: jpn
     name: イパラパ・アムズゴ語
     auto: true

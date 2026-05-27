@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أبو أرابيش
     auto: true
+  - translation_iso: hin
+    name: अबू अरापेश
+    auto: true
   - translation_iso: jpn
     name: アブ・アラペシュ語
     auto: true

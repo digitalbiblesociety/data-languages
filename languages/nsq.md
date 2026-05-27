@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مايوك سيرا الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी सिएरा मिवोक
+    auto: true
   - translation_iso: jpn
     name: 北シエラミウォク語
     auto: true

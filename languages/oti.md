@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتي
     auto: true
+  - translation_iso: hin
+    name: ओती
+    auto: true
   - translation_iso: jpn
     name: オティ語
     auto: true

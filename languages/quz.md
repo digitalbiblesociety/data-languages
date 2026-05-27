@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كوسكو
     auto: true
+  - translation_iso: hin
+    name: कुस्को क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: クスコ語
   - translation_iso: zho

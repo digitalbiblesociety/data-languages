@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوريتشيا
     auto: true
+  - translation_iso: hin
+    name: कुरिचिया
+    auto: true
   - translation_iso: jpn
     name: クリチヤ語
     auto: true

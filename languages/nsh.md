@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغوشي
     auto: true
+  - translation_iso: hin
+    name: न्गोशी
+    auto: true
   - translation_iso: jpn
     name: ゴシエ語
     auto: true

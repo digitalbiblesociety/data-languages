@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: إيموتونغ
     auto: true
+  - translation_iso: hin
+    name: इमोटोंग
+    auto: true
   - translation_iso: jpn
     name: イモトング語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مايادومو
     auto: true
+  - translation_iso: hin
+    name: मायादोमु
+    auto: true
   - translation_iso: jpn
     name: マイアドム語
     auto: true

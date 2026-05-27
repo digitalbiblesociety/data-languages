@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آدولا
     auto: true
+  - translation_iso: hin
+    name: अधोला
+    auto: true
   - translation_iso: jpn
     name: アドラ語
   - translation_iso: zho

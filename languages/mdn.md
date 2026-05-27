@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مباتي
     auto: true
+  - translation_iso: hin
+    name: म्बाती
+    auto: true
   - translation_iso: jpn
     name: Mbati語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مايينغ إيتنيغ
     auto: true
+  - translation_iso: hin
+    name: माएंग इतनेग
+    auto: true
   - translation_iso: jpn
     name: マエング・イトネグ語
     auto: true

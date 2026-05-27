@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موك-أريا
     auto: true
+  - translation_iso: hin
+    name: मौक-अरिया
+    auto: true
   - translation_iso: jpn
     name: モク・アリア語
   - translation_iso: zho

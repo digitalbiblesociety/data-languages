@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميياكو
     auto: true
+  - translation_iso: hin
+    name: मियाको
+    auto: true
   - translation_iso: jpn
     name: 宮古語
   - translation_iso: kor

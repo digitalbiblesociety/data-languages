@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاكوا
     auto: true
+  - translation_iso: hin
+    name: काकवा
+    auto: true
   - translation_iso: jpn
     name: カクワ語
     auto: true

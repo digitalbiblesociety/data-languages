@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبون
     auto: true
+  - translation_iso: hin
+    name: कोबोन
+    auto: true
   - translation_iso: jpn
     name: コボン語
   - translation_iso: zho

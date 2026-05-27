@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماو ناجا
     auto: true
+  - translation_iso: hin
+    name: माओ नागा
+    auto: true
   - translation_iso: jpn
     name: マオ・ナガ語
     auto: true

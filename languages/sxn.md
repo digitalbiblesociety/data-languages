@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: سانغير
     auto: true
+  - translation_iso: hin
+    name: सांगिर
+    auto: true
   - translation_iso: jpn
     name: サンギル語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "اللغة سا'بان"
     auto: true
+  - translation_iso: hin
+    name: साबान
+    auto: true
   - translation_iso: jpn
     name: メラウ語
     auto: true

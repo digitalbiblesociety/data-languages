@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإمبالوه
     auto: true
+  - translation_iso: hin
+    name: एम्बालोह
+    auto: true
   - translation_iso: jpn
     name: エムバロー語
     auto: true

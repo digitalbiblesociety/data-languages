@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الاامايا
     auto: true
+  - translation_iso: hin
+    name: कलामाया
+    auto: true
   - translation_iso: jpn
     name: カラアマヤ語
     auto: true

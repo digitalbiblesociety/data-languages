@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالانتا جانجا
     auto: true
+  - translation_iso: hin
+    name: बालंता-गांजा
+    auto: true
   - translation_iso: jpn
     name: バランタ・ガンジャ語
     auto: true

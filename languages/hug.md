@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هواتشيبايري
     auto: true
+  - translation_iso: hin
+    name: हुआचिपाएरी
+    auto: true
   - translation_iso: jpn
     name: フアチパエリ語
     auto: true

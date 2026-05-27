@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوباتا
     auto: true
+  - translation_iso: hin
+    name: ओपाता
+    auto: true
   - translation_iso: jpn
     name: オパタ語
     auto: true

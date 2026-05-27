@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يميلنجان
     auto: true
+  - translation_iso: hin
+    name: लिमिल्नगान
+    auto: true
   - translation_iso: jpn
     name: リミルンガン語
     auto: true

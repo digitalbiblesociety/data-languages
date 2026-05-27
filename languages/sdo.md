@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوكار سادونج بيدايو
     auto: true
+  - translation_iso: hin
+    name: बुकार-सादुंग बिदायुह
+    auto: true
   - translation_iso: jpn
     name: ブカ語
     auto: true

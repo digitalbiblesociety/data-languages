@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بولجيبي
     auto: true
+  - translation_iso: hin
+    name: बुलगेबी
+    auto: true
   - translation_iso: jpn
     name: ブルゲビ語
     auto: true

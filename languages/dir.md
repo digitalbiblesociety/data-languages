@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ديريم
     auto: true
+  - translation_iso: hin
+    name: दिरिम
+    auto: true
   - translation_iso: jpn
     name: ディリム語
     auto: true

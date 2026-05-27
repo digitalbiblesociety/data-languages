@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونجو
     auto: true
+  - translation_iso: hin
+    name: पोंगु
+    auto: true
   - translation_iso: jpn
     name: ポング語
   - translation_iso: zho

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shelta"
 translations:
   - translation_iso: ara
     name: شيلتا
+  - translation_iso: hin
+    name: शेल्टा
+    auto: true
   - translation_iso: jpn
     name: シェルタ語
   - translation_iso: kor

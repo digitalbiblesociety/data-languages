@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السامي
     auto: true
+  - translation_iso: hin
+    name: सामेई
+    auto: true
   - translation_iso: jpn
     name: サメイ語
     auto: true

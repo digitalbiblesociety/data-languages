@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورا
     auto: true
+  - translation_iso: hin
+    name: बोरा
+    auto: true
   - translation_iso: jpn
     name: ボラ語
   - translation_iso: kor

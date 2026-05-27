@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابا
     auto: true
+  - translation_iso: hin
+    name: बाबा
+    auto: true
   - translation_iso: jpn
     name: ババ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناكامي
     auto: true
+  - translation_iso: hin
+    name: नाकामे
+    auto: true
   - translation_iso: jpn
     name: ナカメ語
     auto: true

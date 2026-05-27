@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "لغة امنسو'"
     auto: true
+  - translation_iso: hin
+    name: लामन्सो
+    auto: true
   - translation_iso: jpn
     name: ラムソ語
     auto: true

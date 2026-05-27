@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الياسي
     auto: true
+  - translation_iso: hin
+    name: यासे
+    auto: true
   - translation_iso: jpn
     name: ヤセ語
     auto: true

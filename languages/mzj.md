@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مانيا
     auto: true
+  - translation_iso: hin
+    name: मान्या
+    auto: true
   - translation_iso: jpn
     name: マニャ語
     auto: true

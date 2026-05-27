@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كينالاكنا
     auto: true
+  - translation_iso: hin
+    name: किनालाक्ना
+    auto: true
   - translation_iso: jpn
     name: キナラクナ語
     auto: true

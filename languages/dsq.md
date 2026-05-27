@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاداكساهاك
     auto: true
+  - translation_iso: hin
+    name: तदाक्साहाक
+    auto: true
   - translation_iso: jpn
     name: タダクサハク語
     auto: true

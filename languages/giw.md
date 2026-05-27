@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وهيتإ غإلآو
     auto: true
+  - translation_iso: hin
+    name: व्हाइट गेलाओ
+    auto: true
   - translation_iso: jpn
     name: ホワイト・ゲラオ語
     auto: true

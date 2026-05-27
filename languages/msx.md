@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موريسادا
     auto: true
+  - translation_iso: hin
+    name: मोरेसादा
+    auto: true
   - translation_iso: jpn
     name: モレサダ語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kerewe_language"
 translations:
   - translation_iso: ara
     name: لغة_كيريوي
+  - translation_iso: hin
+    name: केरेवे
+    auto: true
   - translation_iso: jpn
     name: ケレウェ語
     auto: true

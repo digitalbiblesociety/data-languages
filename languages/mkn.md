@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو كوبانج
     auto: true
+  - translation_iso: hin
+    name: कुपांग मलय
+    auto: true
   - translation_iso: jpn
     name: クパン・マレー語
     auto: true

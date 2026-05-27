@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سورسوجانون الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी सोरसोगानोन
+    auto: true
   - translation_iso: jpn
     name: 北ソルソガノン語
     auto: true

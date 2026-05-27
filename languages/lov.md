@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة وپي
     auto: true
+  - translation_iso: hin
+    name: लोपी
+    auto: true
   - translation_iso: jpn
     name: ロピ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مويكودي
     auto: true
+  - translation_iso: hin
+    name: मोइकोदी
+    auto: true
   - translation_iso: jpn
     name: モイコディ語
     auto: true

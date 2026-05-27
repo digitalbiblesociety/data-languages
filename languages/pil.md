@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يوم
     auto: true
+  - translation_iso: hin
+    name: योम
+    auto: true
   - translation_iso: jpn
     name: ヨム語
     auto: true

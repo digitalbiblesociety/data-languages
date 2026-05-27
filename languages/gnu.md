@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غنآو
     auto: true
+  - translation_iso: hin
+    name: ग्नाउ
+    auto: true
   - translation_iso: jpn
     name: グナウ語
     auto: true

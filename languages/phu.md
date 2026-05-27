@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوان
     auto: true
+  - translation_iso: hin
+    name: फुआन
+    auto: true
   - translation_iso: jpn
     name: プアン語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديندي
     auto: true
+  - translation_iso: hin
+    name: देंदी (बेनिन)
+    auto: true
   - translation_iso: jpn
     name: デンディ語
   - translation_iso: zho

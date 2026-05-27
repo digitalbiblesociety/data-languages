@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أواك
     auto: true
+  - translation_iso: hin
+    name: अवाक
+    auto: true
   - translation_iso: jpn
     name: アワク語
     auto: true

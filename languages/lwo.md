@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ووو
     auto: true
+  - translation_iso: hin
+    name: लुवो
+    auto: true
   - translation_iso: jpn
     name: ルウォ語
   - translation_iso: zho

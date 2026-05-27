@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كريسا
     auto: true
+  - translation_iso: hin
+    name: क्रिसा
+    auto: true
   - translation_iso: jpn
     name: クリサ語
     auto: true

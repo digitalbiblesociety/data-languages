@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: مغبوليزهيآ
     auto: true
+  - translation_iso: hin
+    name: म्ग्बोलिझिया
+    auto: true
   - translation_iso: jpn
     name: ムボリジア語
     auto: true

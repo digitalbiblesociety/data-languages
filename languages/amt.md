@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمتو
     auto: true
+  - translation_iso: hin
+    name: अमतो
+    auto: true
   - translation_iso: jpn
     name: アムト語
     auto: true

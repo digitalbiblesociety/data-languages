@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك تلازويالتبيك
     auto: true
+  - translation_iso: hin
+    name: त्लाज़ोयाल्तेपेक मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: トラゾアルテペック・ミステク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيري
     auto: true
+  - translation_iso: hin
+    name: तेरेई
+    auto: true
   - translation_iso: jpn
     name: ブイン語
   - translation_iso: zho

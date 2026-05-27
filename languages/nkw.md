@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نكوتو
     auto: true
+  - translation_iso: hin
+    name: नकुतु
+    auto: true
   - translation_iso: jpn
     name: ンクツ語
     auto: true

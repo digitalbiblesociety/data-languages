@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: أكياونغ آري ناغا
     auto: true
+  - translation_iso: hin
+    name: अक्यौंग आरी नागा
+    auto: true
   - translation_iso: jpn
     name: アキャウン・アリ・ナガ語
     auto: true

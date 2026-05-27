@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينان الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी पेनान
+    auto: true
   - translation_iso: jpn
     name: 東ペナン語
     auto: true

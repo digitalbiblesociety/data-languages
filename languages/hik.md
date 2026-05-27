@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيت-كايتيتو
     auto: true
+  - translation_iso: hin
+    name: सेइत-काइतेतु
+    auto: true
   - translation_iso: jpn
     name: セイト・カイテツ語
     auto: true

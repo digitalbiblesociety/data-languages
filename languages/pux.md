@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوآري
     auto: true
+  - translation_iso: hin
+    name: पुआरे
+    auto: true
   - translation_iso: jpn
     name: プアレ語
     auto: true

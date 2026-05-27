@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سومبا سيواري
     auto: true
+  - translation_iso: hin
+    name: सोम्बा-सियावारी
+    auto: true
   - translation_iso: jpn
     name: ソンバ・シアワリ語
     auto: true

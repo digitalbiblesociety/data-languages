@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إسبانية لوريتو-أوكايالي
     auto: true
+  - translation_iso: hin
+    name: लोरेटो-उकायाली स्पेनिश
+    auto: true
   - translation_iso: jpn
     name: ロレート・ウカヤリスペイン語
     auto: true

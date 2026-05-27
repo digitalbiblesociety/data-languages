@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داجومان
     auto: true
+  - translation_iso: hin
+    name: दागोमान
+    auto: true
   - translation_iso: jpn
     name: ダゴマン語
     auto: true

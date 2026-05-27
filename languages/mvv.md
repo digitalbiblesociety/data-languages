@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تاجال موروت
     auto: true
+  - translation_iso: hin
+    name: तागल मुरुत
+    auto: true
   - translation_iso: jpn
     name: タガル・ムルット語
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: مانيكا
     auto: true
+  - translation_iso: hin
+    name: मन्यिका
+    auto: true
   - translation_iso: jpn
     name: マニカ語
     auto: true

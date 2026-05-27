@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوديا
     auto: true
+  - translation_iso: hin
+    name: कुडिया
+    auto: true
   - translation_iso: jpn
     name: クディヤ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة منجين
     auto: true
+  - translation_iso: hin
+    name: मेंगेन
+    auto: true
   - translation_iso: jpn
     name: メンゲン語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيواي الشمالية الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वोत्तर किवाई
+    auto: true
   - translation_iso: jpn
     name: ノースイースト・キワイ語
     auto: true

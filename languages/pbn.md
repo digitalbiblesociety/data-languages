@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كباسام
     auto: true
+  - translation_iso: hin
+    name: क्पासाम
+    auto: true
   - translation_iso: jpn
     name: クパサム語
     auto: true

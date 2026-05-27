@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بياو مون
     auto: true
+  - translation_iso: hin
+    name: बियाओ मोन
+    auto: true
   - translation_iso: jpn
     name: ビャオ・モン語
     auto: true

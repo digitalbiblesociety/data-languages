@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كايفي
     auto: true
+  - translation_iso: hin
+    name: काइवी
+    auto: true
   - translation_iso: jpn
     name: カイビ語
     auto: true

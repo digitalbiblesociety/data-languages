@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توولي
     auto: true
+  - translation_iso: hin
+    name: तुवुली
+    auto: true
   - translation_iso: jpn
     name: ボウィリ語
   - translation_iso: zho

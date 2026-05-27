@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوران
     auto: true
+  - translation_iso: hin
+    name: बुरुन
+    auto: true
   - translation_iso: jpn
     name: ブルン語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جومجوم
     auto: true
+  - translation_iso: hin
+    name: जुमजुम
+    auto: true
   - translation_iso: jpn
     name: ジュムジュム語
     auto: true

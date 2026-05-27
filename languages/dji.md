@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دجيناند
     auto: true
+  - translation_iso: hin
+    name: जिनांग
+    auto: true
   - translation_iso: jpn
     name: ジイナング語
     auto: true

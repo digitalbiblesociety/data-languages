@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كادي
     auto: true
+  - translation_iso: hin
+    name: कदाई
+    auto: true
   - translation_iso: jpn
     name: カダイ語
     auto: true

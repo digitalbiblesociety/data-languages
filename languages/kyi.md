@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيبوت
     auto: true
+  - translation_iso: hin
+    name: किपुत
+    auto: true
   - translation_iso: jpn
     name: キプット語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غورر-غوني
     auto: true
+  - translation_iso: hin
+    name: गुर्र-गोनी
+    auto: true
   - translation_iso: jpn
     name: ガル・ゴニ語
     auto: true

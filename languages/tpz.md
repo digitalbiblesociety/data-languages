@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تينبوتز
     auto: true
+  - translation_iso: hin
+    name: टिनपुट्ज़
+    auto: true
   - translation_iso: jpn
     name: ヴァスイ語
     auto: true

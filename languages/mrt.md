@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماركي الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य मार्घी
+    auto: true
   - translation_iso: jpn
     name: マルギ語
   - translation_iso: zho

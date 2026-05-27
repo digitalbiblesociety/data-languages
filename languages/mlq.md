@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مانينكاكان الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी मानिंकाकान
+    auto: true
   - translation_iso: jpn
     name: 西部マリンカカン語
   - translation_iso: zho

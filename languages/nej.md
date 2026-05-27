@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيكو
     auto: true
+  - translation_iso: hin
+    name: नेको
+    auto: true
   - translation_iso: jpn
     name: ネコ語
   - translation_iso: zho

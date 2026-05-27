@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موري أتاس
     auto: true
+  - translation_iso: hin
+    name: मोरी अतास
+    auto: true
   - translation_iso: jpn
     name: モリ・アタス語
     auto: true

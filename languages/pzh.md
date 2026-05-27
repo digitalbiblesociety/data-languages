@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بازيه
     auto: true
+  - translation_iso: hin
+    name: पाजेह
+    auto: true
   - translation_iso: jpn
     name: パゼッヘ語
   - translation_iso: kor

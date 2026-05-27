@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الساكسونية القديمة
     auto: true
+  - translation_iso: hin
+    name: पुरानी सैक्सन
+    auto: true
   - translation_iso: jpn
     name: 古ザクセン語
   - translation_iso: kor

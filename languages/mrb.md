@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارينو
     auto: true
+  - translation_iso: hin
+    name: मारिनो
+    auto: true
   - translation_iso: jpn
     name: マリーノ語
     auto: true

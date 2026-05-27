@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غبآيآ-مبودومو
     auto: true
+  - translation_iso: hin
+    name: ग्बाया-म्बोदोमो
+    auto: true
   - translation_iso: jpn
     name: グバヤ＝ンボドモ語
   - translation_iso: zho

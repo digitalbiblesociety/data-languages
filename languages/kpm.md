@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوهو
     auto: true
+  - translation_iso: hin
+    name: कोहो
+    auto: true
   - translation_iso: jpn
     name: コホ語
     auto: true

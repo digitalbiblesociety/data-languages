@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "نيانغ'i"
     auto: true
+  - translation_iso: hin
+    name: न्यांगी
+    auto: true
   - translation_iso: jpn
     name: ニャンギ語
   - translation_iso: zho

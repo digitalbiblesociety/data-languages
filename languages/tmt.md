@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماتي
     auto: true
+  - translation_iso: hin
+    name: तासमाते
+    auto: true
   - translation_iso: jpn
     name: タスマテ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كابالاي
     auto: true
+  - translation_iso: hin
+    name: काबालाई
+    auto: true
   - translation_iso: jpn
     name: カバライ語
     auto: true

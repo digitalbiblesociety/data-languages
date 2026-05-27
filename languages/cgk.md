@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشوتشانغاكاخا
     auto: true
+  - translation_iso: hin
+    name: चोचंगकखा
+    auto: true
   - translation_iso: jpn
     name: チョチャガチャ語
   - translation_iso: zho

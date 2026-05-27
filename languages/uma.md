@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوماتيلا
     auto: true
+  - translation_iso: hin
+    name: उमातिला
+    auto: true
   - translation_iso: jpn
     name: コロンビア川サハプティン語
     auto: true

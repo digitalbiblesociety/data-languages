@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مادا كاميرون
     auto: true
+  - translation_iso: hin
+    name: मादा (कैमरून)
+    auto: true
   - translation_iso: jpn
     name: マダ語
     auto: true

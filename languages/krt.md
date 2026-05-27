@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تومري كنوري
     auto: true
+  - translation_iso: hin
+    name: तुमारी कानुरी
+    auto: true
   - translation_iso: jpn
     name: トゥマリ・カヌリ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "لغة 'اپو"
     auto: true
+  - translation_iso: hin
+    name: तापो
+    auto: true
   - translation_iso: jpn
     name: タポ語
     auto: true

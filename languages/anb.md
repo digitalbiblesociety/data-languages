@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أندوا
     auto: true
+  - translation_iso: hin
+    name: अंदोआ
+    auto: true
   - translation_iso: jpn
     name: アンドア語
   - translation_iso: zho

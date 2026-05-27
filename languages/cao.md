@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشاكوبو
     auto: true
+  - translation_iso: hin
+    name: चाकोबो
+    auto: true
   - translation_iso: jpn
     name: チャコボ語
     auto: true

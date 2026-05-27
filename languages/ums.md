@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بندو
     auto: true
+  - translation_iso: hin
+    name: पेन्दाउ
+    auto: true
   - translation_iso: jpn
     name: ウマラサ語
     auto: true

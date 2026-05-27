@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألوت ميدني
     auto: true
+  - translation_iso: hin
+    name: मेदनी अलेउत
+    auto: true
   - translation_iso: jpn
     name: メードヌイ・アレウト語
   - translation_iso: zho

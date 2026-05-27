@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنوتا
     auto: true
+  - translation_iso: hin
+    name: अनुता
+    auto: true
   - translation_iso: jpn
     name: アヌータ語
   - translation_iso: zho

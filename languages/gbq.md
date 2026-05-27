@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جبايا-بوزوم
     auto: true
+  - translation_iso: hin
+    name: ग्बाया-बोज़ूम
+    auto: true
   - translation_iso: jpn
     name: グバヤ＝ボズム語
   - translation_iso: zho

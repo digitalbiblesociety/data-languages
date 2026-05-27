@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باجو-كوسونتو
     auto: true
+  - translation_iso: hin
+    name: बागो-कुसुंतु
+    auto: true
   - translation_iso: jpn
     name: バゴ・クスントゥ語
     auto: true

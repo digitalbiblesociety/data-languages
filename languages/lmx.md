@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ايمبوي
     auto: true
+  - translation_iso: hin
+    name: लाइंबुए
+    auto: true
   - translation_iso: jpn
     name: ラインビュエ語
     auto: true

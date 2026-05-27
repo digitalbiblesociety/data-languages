@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإتيبي
     auto: true
+  - translation_iso: hin
+    name: एतेबी
+    auto: true
   - translation_iso: jpn
     name: エテビ語
     auto: true

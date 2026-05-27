@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دومونج
     auto: true
+  - translation_iso: hin
+    name: डोमुंग
+    auto: true
   - translation_iso: jpn
     name: ドムング語
     auto: true

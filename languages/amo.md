@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة آمو
     auto: true
+  - translation_iso: hin
+    name: अमो
+    auto: true
   - translation_iso: jpn
     name: アモ語
     auto: true

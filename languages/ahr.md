@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة أهيراني
     auto: true
+  - translation_iso: hin
+    name: अहिराणी
+    auto: true
   - translation_iso: jpn
     name: アヒラーニー語
   - translation_iso: zho

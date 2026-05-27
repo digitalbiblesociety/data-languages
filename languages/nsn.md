@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيهان
     auto: true
+  - translation_iso: hin
+    name: नेहान
+    auto: true
   - translation_iso: jpn
     name: ネハン語
     auto: true

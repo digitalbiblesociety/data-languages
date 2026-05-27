@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رونجي
     auto: true
+  - translation_iso: hin
+    name: रोंजी
+    auto: true
   - translation_iso: jpn
     name: ロンジ語
     auto: true

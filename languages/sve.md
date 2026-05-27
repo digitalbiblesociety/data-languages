@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيريلي
     auto: true
+  - translation_iso: hin
+    name: सेरिली
+    auto: true
   - translation_iso: jpn
     name: セリリ語
     auto: true

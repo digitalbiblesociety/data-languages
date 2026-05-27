@@ -16,6 +16,9 @@ glottolog_classification: "Indo-European > Classical Indo-European > Indo-Irania
 translations:
   - translation_iso: ara
     name: بنجابية غربية
+  - translation_iso: hin
+    name: पश्चिमी पंजाबी
+    auto: true
   - translation_iso: jpn
     name: 西パンジャーブ語
   - translation_iso: kor

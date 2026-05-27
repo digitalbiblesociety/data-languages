@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Abenaki_language"
 translations:
   - translation_iso: ara
     name: آبيناكي الشرقي
+  - translation_iso: hin
+    name: पूर्वी अब्नाकी
+    auto: true
   - translation_iso: jpn
     name: 東アベナキ語
   - translation_iso: zho

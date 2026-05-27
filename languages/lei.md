@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يميو
     auto: true
+  - translation_iso: hin
+    name: लेमियो
+    auto: true
   - translation_iso: jpn
     name: レミオ語
     auto: true

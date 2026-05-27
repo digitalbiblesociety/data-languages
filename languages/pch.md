@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بارذان
     auto: true
+  - translation_iso: hin
+    name: परधान
+    auto: true
   - translation_iso: jpn
     name: パルダン語
     auto: true

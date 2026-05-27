@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: هانونو
     auto: true
+  - translation_iso: hin
+    name: हानुनू
+    auto: true
   - translation_iso: jpn
     name: ハヌノオ語
   - translation_iso: zho

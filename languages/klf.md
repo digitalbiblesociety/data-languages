@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيندايي
     auto: true
+  - translation_iso: hin
+    name: केंदेजे
+    auto: true
   - translation_iso: jpn
     name: ケンデジェ語
     auto: true

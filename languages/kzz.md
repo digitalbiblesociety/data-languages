@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالابرا
     auto: true
+  - translation_iso: hin
+    name: कालाब्रा
+    auto: true
   - translation_iso: jpn
     name: カラブラ語
     auto: true

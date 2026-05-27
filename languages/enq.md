@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنجا
     auto: true
+  - translation_iso: hin
+    name: एंगा
+    auto: true
   - translation_iso: jpn
     name: エンガ語
   - translation_iso: kor

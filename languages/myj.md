@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مانجايات
     auto: true
+  - translation_iso: hin
+    name: मंगायात
+    auto: true
   - translation_iso: jpn
     name: マンガヤット語
     auto: true

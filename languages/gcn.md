@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجاينا
     auto: true
+  - translation_iso: hin
+    name: गाइना
+    auto: true
   - translation_iso: jpn
     name: ガイナ語
     auto: true

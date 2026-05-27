@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا ميثونتلا
     auto: true
+  - translation_iso: hin
+    name: मेज़ोंटला पोपोलोका
+    auto: true
   - translation_iso: jpn
     name: メゾントラ・ポポロカ語
     auto: true

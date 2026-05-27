@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرشي
     auto: true
+  - translation_iso: hin
+    name: अर्ची
+    auto: true
   - translation_iso: jpn
     name: アルチ語
   - translation_iso: kor

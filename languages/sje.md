@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتي سامي
     auto: true
+  - translation_iso: hin
+    name: पिते सामी
+    auto: true
   - translation_iso: jpn
     name: ピーテ・サーミ語
   - translation_iso: kor

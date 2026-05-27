@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاشيبو-كاكاتايبو
     auto: true
+  - translation_iso: hin
+    name: काशिबो-काकाताइबो
+    auto: true
   - translation_iso: jpn
     name: カシボ・カカタイボ語
     auto: true

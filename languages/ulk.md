@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميريام مير
     auto: true
+  - translation_iso: hin
+    name: मेरियम मिर
+    auto: true
   - translation_iso: jpn
     name: メリヤム・ミル語
   - translation_iso: zho

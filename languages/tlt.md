@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سو ناما
     auto: true
+  - translation_iso: hin
+    name: सोउ नामा
+    auto: true
   - translation_iso: jpn
     name: ソウ・ナマ語
     auto: true

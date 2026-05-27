@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانغا
     auto: true
+  - translation_iso: hin
+    name: कांगा
+    auto: true
   - translation_iso: jpn
     name: カンガ語
     auto: true

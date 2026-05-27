@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالايك
     auto: true
+  - translation_iso: hin
+    name: पलाइक
+    auto: true
   - translation_iso: jpn
     name: パラ語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويو الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य अव्यू
+    auto: true
   - translation_iso: jpn
     name: 中央アウユ語
     auto: true

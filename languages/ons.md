@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونو
     auto: true
+  - translation_iso: hin
+    name: ओनो
+    auto: true
   - translation_iso: jpn
     name: オノ語
     auto: true

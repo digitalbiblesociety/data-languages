@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكايفا
     auto: true
+  - translation_iso: hin
+    name: ओरोकैवा
+    auto: true
   - translation_iso: jpn
     name: オロカイヴァ語
   - translation_iso: zho

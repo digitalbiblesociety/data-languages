@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايس
     auto: true
+  - translation_iso: hin
+    name: कैस
+    auto: true
   - translation_iso: jpn
     name: カイス語
     auto: true

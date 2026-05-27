@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيرانو
     auto: true
+  - translation_iso: hin
+    name: सेर्रानो
+    auto: true
   - translation_iso: jpn
     name: セラーノ語
   - translation_iso: zho

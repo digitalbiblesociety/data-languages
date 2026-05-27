@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليكوالا
     auto: true
+  - translation_iso: hin
+    name: लिक्वाला
+    auto: true
   - translation_iso: jpn
     name: リクワラ語
     auto: true

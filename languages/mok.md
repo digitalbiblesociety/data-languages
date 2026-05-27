@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة موروري
     auto: true
+  - translation_iso: hin
+    name: मोरोरी
+    auto: true
   - translation_iso: jpn
     name: モロリ語
     auto: true

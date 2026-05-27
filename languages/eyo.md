@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكايو
     auto: true
+  - translation_iso: hin
+    name: केयो
+    auto: true
   - translation_iso: jpn
     name: ケイヨ語
   - translation_iso: zho

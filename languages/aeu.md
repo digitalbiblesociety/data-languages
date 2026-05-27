@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكيو
     auto: true
+  - translation_iso: hin
+    name: अकेउ
+    auto: true
   - translation_iso: jpn
     name: アケウ語
     auto: true

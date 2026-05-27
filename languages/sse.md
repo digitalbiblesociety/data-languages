@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالانجينجي
     auto: true
+  - translation_iso: hin
+    name: बालांगिंगी
+    auto: true
   - translation_iso: jpn
     name: バジャウ語
     auto: true

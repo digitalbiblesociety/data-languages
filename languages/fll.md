@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الفالي
     auto: true
+  - translation_iso: hin
+    name: उत्तरी फाली
+    auto: true
   - translation_iso: jpn
     name: 北ファリ語
     auto: true

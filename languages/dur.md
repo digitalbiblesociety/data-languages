@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دي
     auto: true
+  - translation_iso: hin
+    name: दीई
+    auto: true
   - translation_iso: jpn
     name: ディイ語
     auto: true

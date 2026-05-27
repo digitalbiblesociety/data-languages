@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بهايفونج
     auto: true
+  - translation_iso: hin
+    name: हाइफोंग सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ハイフォン手話
   - translation_iso: zho

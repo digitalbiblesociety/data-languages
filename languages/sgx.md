@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سييرا ليون لغة الإشارة
     auto: true
+  - translation_iso: hin
+    name: सिएरा लियोन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: シエラレオネ手話
   - translation_iso: zho

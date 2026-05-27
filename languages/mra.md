@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملابري
     auto: true
+  - translation_iso: hin
+    name: म्लाब्री
+    auto: true
   - translation_iso: jpn
     name: ムラブリ語
     auto: true

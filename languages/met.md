@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتو
     auto: true
+  - translation_iso: hin
+    name: माटो
+    auto: true
   - translation_iso: jpn
     name: マト語
     auto: true

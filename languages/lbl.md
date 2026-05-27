@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: ليبون بيكول
     auto: true
+  - translation_iso: hin
+    name: लिबोन बिकोल
+    auto: true
   - translation_iso: jpn
     name: リボン・ビコール語
   - translation_iso: zho

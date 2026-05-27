@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبول أور دوجون
     auto: true
+  - translation_iso: hin
+    name: तेबुल उरे डोगोन
+    auto: true
   - translation_iso: jpn
     name: テブル・ウレ・ドゴン語
     auto: true

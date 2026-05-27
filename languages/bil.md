@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلي
     auto: true
+  - translation_iso: hin
+    name: बिले
+    auto: true
   - translation_iso: jpn
     name: ビレ語
     auto: true

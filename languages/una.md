@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: شمال واتوت
     auto: true
+  - translation_iso: hin
+    name: उत्तरी वातुत
+    auto: true
   - translation_iso: jpn
     name: オナンク語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: بارابابارابا
     auto: true
+  - translation_iso: hin
+    name: बाराबाबाराबा
+    auto: true
   - translation_iso: jpn
     name: バラババラバ語
     auto: true

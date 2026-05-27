@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: لغة جوغي
     auto: true
+  - translation_iso: hin
+    name: जोगी
+    auto: true
   - translation_iso: jpn
     name: ジョギ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الميوهانج الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी मेओहांग
+    auto: true
   - translation_iso: jpn
     name: 東メオハン語
     auto: true

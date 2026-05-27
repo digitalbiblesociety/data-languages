@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوروك
     auto: true
+  - translation_iso: hin
+    name: ओरोक
+    auto: true
   - translation_iso: jpn
     name: ウィルタ語
   - translation_iso: kor

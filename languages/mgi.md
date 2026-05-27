@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ليجيلي
     auto: true
+  - translation_iso: hin
+    name: लिजिली
+    auto: true
   - translation_iso: jpn
     name: リジリ語
     auto: true

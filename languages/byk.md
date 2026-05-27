@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بياو
     auto: true
+  - translation_iso: hin
+    name: बियाओ
+    auto: true
   - translation_iso: jpn
     name: 標語
   - translation_iso: zho

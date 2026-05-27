@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوتشيابام تشينانتك
     auto: true
+  - translation_iso: hin
+    name: सोचियापम चिनान्टेक
+    auto: true
   - translation_iso: jpn
     name: ソチアパム・チナンテク語
   - translation_iso: zho

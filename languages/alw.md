@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألابا-كابينا
     auto: true
+  - translation_iso: hin
+    name: अलाबा-काबीना
+    auto: true
   - translation_iso: jpn
     name: アラバカベエナ語
     auto: true

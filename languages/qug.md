@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا تشيمبوراسو الجبلية
     auto: true
+  - translation_iso: hin
+    name: चिम्बोराजो हाइलैंड किचुआ
+    auto: true
   - translation_iso: jpn
     name: チンボラソ高地ケチュア語
   - translation_iso: zho

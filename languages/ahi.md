@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تياغبامرين أيزي
     auto: true
+  - translation_iso: hin
+    name: तियाग्बाम्रिन आइज़ी
+    auto: true
   - translation_iso: jpn
     name: ティアグバムリン・アイジ語
     auto: true

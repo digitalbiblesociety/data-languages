@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوسي
     auto: true
+  - translation_iso: hin
+    name: म्बोसी
+    auto: true
   - translation_iso: jpn
     name: ムボシ語
   - translation_iso: zho

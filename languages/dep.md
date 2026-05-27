@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيدجن ديلاوير
     auto: true
+  - translation_iso: hin
+    name: पिजिन डेलावेयर
+    auto: true
   - translation_iso: jpn
     name: デラウェア・ピジン語
     auto: true

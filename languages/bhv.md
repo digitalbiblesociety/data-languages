@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باهاو
     auto: true
+  - translation_iso: hin
+    name: बहाऊ
+    auto: true
   - translation_iso: jpn
     name: バハウ語
     auto: true

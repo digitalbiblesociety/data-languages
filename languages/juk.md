@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وابان
     auto: true
+  - translation_iso: hin
+    name: वापन
+    auto: true
   - translation_iso: jpn
     name: ワパン語
     auto: true

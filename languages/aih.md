@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آي-تشام
     auto: true
+  - translation_iso: hin
+    name: आई-चाम
+    auto: true
   - translation_iso: jpn
     name: アイチャム語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا كانيار الجبلية
     auto: true
+  - translation_iso: hin
+    name: कान्यार हाइलैंड किचुआ
+    auto: true
   - translation_iso: jpn
     name: カニャルハイランドキチュア語
     auto: true

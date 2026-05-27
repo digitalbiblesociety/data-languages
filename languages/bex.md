@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جور مودو
     auto: true
+  - translation_iso: hin
+    name: जुर मोदो
+    auto: true
   - translation_iso: jpn
     name: ジュル・モド語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غورمانشيما
     auto: true
+  - translation_iso: hin
+    name: गोरमांचेमा
+    auto: true
   - translation_iso: jpn
     name: グルマンチェマ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالاوانو بروكس بوينت
     auto: true
+  - translation_iso: hin
+    name: ब्रुक्स पॉइंट पालावानो
+    auto: true
   - translation_iso: jpn
     name: ブルックスポイントパラワーノ語
     auto: true

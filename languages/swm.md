@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ساموسا
     auto: true
+  - translation_iso: hin
+    name: सामोसा
+    auto: true
   - translation_iso: jpn
     name: サモサ語
   - translation_iso: zho

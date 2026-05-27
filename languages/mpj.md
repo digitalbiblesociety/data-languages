@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارتو وانكا
     auto: true
+  - translation_iso: hin
+    name: मार्तु वांगका
+    auto: true
   - translation_iso: jpn
     name: マルトゥ・ワンカ語
     auto: true

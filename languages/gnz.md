@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غآنزي
     auto: true
+  - translation_iso: hin
+    name: गांज़ी
+    auto: true
   - translation_iso: jpn
     name: ガンジ語
     auto: true

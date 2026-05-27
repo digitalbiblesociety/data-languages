@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميراميرا
     auto: true
+  - translation_iso: hin
+    name: मेरामेरा
+    auto: true
   - translation_iso: jpn
     name: メラメラ語
   - translation_iso: zho

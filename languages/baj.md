@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراكاي
     auto: true
+  - translation_iso: hin
+    name: बाराकाई
+    auto: true
   - translation_iso: jpn
     name: バラカイ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هانو
     auto: true
+  - translation_iso: hin
+    name: हानो
+    auto: true
   - translation_iso: jpn
     name: ラガ語
   - translation_iso: kor

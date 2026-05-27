@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باليكور
     auto: true
+  - translation_iso: hin
+    name: पालिकुर
+    auto: true
   - translation_iso: jpn
     name: パリクール語
   - translation_iso: zho

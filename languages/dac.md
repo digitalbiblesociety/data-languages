@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: الدامبي
     auto: true
+  - translation_iso: hin
+    name: डाम्बी
+    auto: true
   - translation_iso: jpn
     name: ダンビ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيليز كريول إنْجليزي
     auto: true
+  - translation_iso: hin
+    name: बेलीज़ क्रिओल अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: ベリーズ・クレオール語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتور
     auto: true
+  - translation_iso: hin
+    name: मातोर
+    auto: true
   - translation_iso: jpn
     name: マトル語
   - translation_iso: kor

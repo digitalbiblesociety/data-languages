@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نجيريب
     auto: true
+  - translation_iso: hin
+    name: न्जेरेप
+    auto: true
   - translation_iso: jpn
     name: ンジェレプ語
     auto: true

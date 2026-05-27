@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سينترال ماسيلا
     auto: true
+  - translation_iso: hin
+    name: मध्य मासेला
+    auto: true
   - translation_iso: jpn
     name: セントラル・マセラ語
     auto: true

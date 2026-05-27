@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نكوروو
     auto: true
+  - translation_iso: hin
+    name: नकोरू
+    auto: true
   - translation_iso: jpn
     name: ンコロ語
     auto: true

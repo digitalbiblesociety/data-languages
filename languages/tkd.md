@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توكوديدي
     auto: true
+  - translation_iso: hin
+    name: तुकुदेदे
+    auto: true
   - translation_iso: jpn
     name: トコデデ語
   - translation_iso: zho

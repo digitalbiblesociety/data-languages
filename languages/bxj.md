@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بايونْجو
     auto: true
+  - translation_iso: hin
+    name: बायुंगु
+    auto: true
   - translation_iso: jpn
     name: バユングゥ語
     auto: true

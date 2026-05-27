@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجباري
     auto: true
+  - translation_iso: hin
+    name: ग्बारी
+    auto: true
   - translation_iso: jpn
     name: グワリ語
   - translation_iso: zho

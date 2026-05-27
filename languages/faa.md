@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الفاسو
     auto: true
+  - translation_iso: hin
+    name: फासू
+    auto: true
   - translation_iso: jpn
     name: ファス語
     auto: true

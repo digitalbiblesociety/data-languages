@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تريمينبي
     auto: true
+  - translation_iso: hin
+    name: त्रेमेम्बे
+    auto: true
   - translation_iso: jpn
     name: トレメンベ語
     auto: true

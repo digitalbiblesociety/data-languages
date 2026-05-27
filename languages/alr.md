@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألوتور
     auto: true
+  - translation_iso: hin
+    name: अलुटोर
+    auto: true
   - translation_iso: jpn
     name: アリュートル語
   - translation_iso: kor

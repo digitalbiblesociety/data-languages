@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ndam_language"
 translations:
   - translation_iso: ara
     name: ندام
+  - translation_iso: hin
+    name: न्दाम
+    auto: true
   - translation_iso: jpn
     name: ンダム語
   - translation_iso: zho

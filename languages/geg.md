@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: الجينجلي
     auto: true
+  - translation_iso: hin
+    name: गेंग्ले
+    auto: true
   - translation_iso: jpn
     name: ゲングル語
     auto: true

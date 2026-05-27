@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيوام
     auto: true
+  - translation_iso: hin
+    name: इवाम
+    auto: true
   - translation_iso: jpn
     name: イワム語
     auto: true

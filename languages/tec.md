@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيريك
     auto: true
+  - translation_iso: hin
+    name: तेरिक
+    auto: true
   - translation_iso: jpn
     name: テリク語
   - translation_iso: zho

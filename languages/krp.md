@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوروب
     auto: true
+  - translation_iso: hin
+    name: कोरोप
+    auto: true
   - translation_iso: jpn
     name: コロプ語
     auto: true

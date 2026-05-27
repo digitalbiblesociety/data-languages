@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: روسيا بورْيات
     auto: true
+  - translation_iso: hin
+    name: रूसी बुर्यात
+    auto: true
   - translation_iso: jpn
     name: ロシアブリヤート語
   - translation_iso: zho

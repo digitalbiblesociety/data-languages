@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كرين الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी क्राह्न
+    auto: true
   - translation_iso: jpn
     name: ウェスタン・クラーン語
     auto: true

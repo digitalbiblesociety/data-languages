@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيوايدجا
     auto: true
+  - translation_iso: hin
+    name: इवायजा
+    auto: true
   - translation_iso: jpn
     name: イワイジャ語
     auto: true

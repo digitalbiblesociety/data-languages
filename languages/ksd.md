@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوانوا
     auto: true
+  - translation_iso: hin
+    name: कुआनुआ
+    auto: true
   - translation_iso: jpn
     name: クアヌア語
   - translation_iso: zho

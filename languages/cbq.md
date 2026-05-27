@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوكوبا
     auto: true
+  - translation_iso: hin
+    name: त्सुकुबा
+    auto: true
   - translation_iso: jpn
     name: ツクバ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيكي
     auto: true
+  - translation_iso: hin
+    name: बीके
+    auto: true
   - translation_iso: jpn
     name: ベーケ語
     auto: true

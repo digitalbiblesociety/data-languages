@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جاندافرا
     auto: true
+  - translation_iso: hin
+    name: जांदावरा
+    auto: true
   - translation_iso: jpn
     name: ジャンダブラ語
     auto: true

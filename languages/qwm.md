@@ -10,6 +10,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cuman_language"
 translations:
   - translation_iso: ara
     name: اللغة القمانية
+  - translation_iso: hin
+    name: कुमान (रूस)
+    auto: true
   - translation_iso: jpn
     name: クマン語 (テュルク諸語)
   - translation_iso: kor

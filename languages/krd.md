@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايروي-ميديكي
     auto: true
+  - translation_iso: hin
+    name: कैरुई-मिदिकी
+    auto: true
   - translation_iso: jpn
     name: カイルイ・ミディキ語
     auto: true

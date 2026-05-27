@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيايها (ملاوي)
     auto: true
+  - translation_iso: hin
+    name: न्यिहा (मलावी)
+    auto: true
   - translation_iso: jpn
     name: ニイハ語
     auto: true

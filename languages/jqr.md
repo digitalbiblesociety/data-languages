@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاقارو
     auto: true
+  - translation_iso: hin
+    name: जाकारू
+    auto: true
   - translation_iso: jpn
     name: ジャカル語
     auto: true

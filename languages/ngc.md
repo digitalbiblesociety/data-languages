@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجومبي
     auto: true
+  - translation_iso: hin
+    name: न्गोम्बे (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
   - translation_iso: jpn
     name: ンゴンベ語
   - translation_iso: zho

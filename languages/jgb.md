@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نغبي
     auto: true
+  - translation_iso: hin
+    name: ंगबी
+    auto: true
   - translation_iso: jpn
     name: ングベー語
   - translation_iso: zho

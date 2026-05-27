@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أذربيجان الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी अज़रबैजानी
+    auto: true
   - translation_iso: jpn
     name: 北アゼルバイジャン語
   - translation_iso: zho

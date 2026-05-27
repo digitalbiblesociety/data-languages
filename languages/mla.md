@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالو
     auto: true
+  - translation_iso: hin
+    name: मालो
+    auto: true
   - translation_iso: jpn
     name: マロ語
     auto: true

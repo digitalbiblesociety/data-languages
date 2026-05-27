@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوپينو
     auto: true
+  - translation_iso: hin
+    name: कुपेन्यो
+    auto: true
   - translation_iso: jpn
     name: クペニョ語
     auto: true

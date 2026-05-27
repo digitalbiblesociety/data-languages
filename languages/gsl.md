@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوسيلآي
     auto: true
+  - translation_iso: hin
+    name: गुसिलाय
+    auto: true
   - translation_iso: jpn
     name: グスィライ語
   - translation_iso: zho

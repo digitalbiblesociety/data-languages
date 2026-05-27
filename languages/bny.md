@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بينتولو
     auto: true
+  - translation_iso: hin
+    name: बिंतुलु
+    auto: true
   - translation_iso: jpn
     name: ビントゥル語
     auto: true

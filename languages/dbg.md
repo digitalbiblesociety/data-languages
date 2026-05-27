@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوجول دوم دوجون
     auto: true
+  - translation_iso: hin
+    name: दोगुल दोम दोगोन
+    auto: true
   - translation_iso: jpn
     name: ドグル・ドム・ドゴン語
     auto: true

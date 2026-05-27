@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك تيداا
     auto: true
+  - translation_iso: hin
+    name: तिदा मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: ティダア・ミステク語
     auto: true

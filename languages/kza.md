@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاراboro الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी काराबोरो
+    auto: true
   - translation_iso: jpn
     name: 西カラボロ語
     auto: true

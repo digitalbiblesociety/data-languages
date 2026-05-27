@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خيروار
     auto: true
+  - translation_iso: hin
+    name: खिरवार
+    auto: true
   - translation_iso: jpn
     name: キルワル語
     auto: true

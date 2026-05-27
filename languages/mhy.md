@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مآنيان
     auto: true
+  - translation_iso: hin
+    name: माअन्यान
+    auto: true
   - translation_iso: jpn
     name: マアニヤン語
   - translation_iso: zho

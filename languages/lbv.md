@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لافاتبورا-لاموسونج
     auto: true
+  - translation_iso: hin
+    name: लवात्बुरा-लामुसोंग
+    auto: true
   - translation_iso: jpn
     name: ラヴァットブラ・ラムソン語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيفاتان
     auto: true
+  - translation_iso: hin
+    name: इवातान
+    auto: true
   - translation_iso: jpn
     name: イヴァタン語
   - translation_iso: kor

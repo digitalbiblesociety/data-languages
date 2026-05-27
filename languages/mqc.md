@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجول
     auto: true
+  - translation_iso: hin
+    name: मांगोले
+    auto: true
   - translation_iso: jpn
     name: マンゴレ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تادو
     auto: true
+  - translation_iso: hin
+    name: तादो
+    auto: true
   - translation_iso: jpn
     name: タド語
     auto: true

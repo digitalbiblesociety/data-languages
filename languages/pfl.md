@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة بفالتسيش
     auto: true
+  - translation_iso: hin
+    name: फ़ाल्ज़िश
+    auto: true
   - translation_iso: jpn
     name: プファルツ語
   - translation_iso: kor

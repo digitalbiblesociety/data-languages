@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيتا
     auto: true
+  - translation_iso: hin
+    name: तिता
+    auto: true
   - translation_iso: jpn
     name: ティタ語
     auto: true

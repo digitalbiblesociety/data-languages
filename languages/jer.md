@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيري
     auto: true
+  - translation_iso: hin
+    name: जेरे
+    auto: true
   - translation_iso: jpn
     name: ジェレ語
     auto: true

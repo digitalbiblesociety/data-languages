@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مينوكوك
     auto: true
+  - translation_iso: hin
+    name: मिनोकोक
+    auto: true
   - translation_iso: jpn
     name: ミノコク語
     auto: true

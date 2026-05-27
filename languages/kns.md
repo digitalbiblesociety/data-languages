@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كينسيو
     auto: true
+  - translation_iso: hin
+    name: केन्सिउ
+    auto: true
   - translation_iso: jpn
     name: ケンシウ語
   - translation_iso: zho

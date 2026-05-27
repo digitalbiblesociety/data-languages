@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: يل
     auto: true
+  - translation_iso: hin
+    name: याले
+    auto: true
   - translation_iso: jpn
     name: ヤレ語
   - translation_iso: zho

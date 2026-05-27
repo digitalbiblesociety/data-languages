@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوكوورو
     auto: true
+  - translation_iso: hin
+    name: नुकुओरो
+    auto: true
   - translation_iso: jpn
     name: ヌクオロ語
   - translation_iso: kor

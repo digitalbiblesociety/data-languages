@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة غوغو ييميدير
     auto: true
+  - translation_iso: hin
+    name: गूगू यिमिधिर
+    auto: true
   - translation_iso: jpn
     name: グーグ・イミディル語
   - translation_iso: zho

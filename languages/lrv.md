@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اريفات
     auto: true
+  - translation_iso: hin
+    name: लारेवात
+    auto: true
   - translation_iso: jpn
     name: ラレバット語
     auto: true

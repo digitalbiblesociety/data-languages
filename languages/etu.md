@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإجاغام
     auto: true
+  - translation_iso: hin
+    name: एजागम
+    auto: true
   - translation_iso: jpn
     name: エコイ語
   - translation_iso: zho

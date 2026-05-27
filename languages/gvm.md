@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غورمآنآ
     auto: true
+  - translation_iso: hin
+    name: गुर्माना
+    auto: true
   - translation_iso: jpn
     name: グルマナ語
     auto: true

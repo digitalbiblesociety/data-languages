@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راتاهان
     auto: true
+  - translation_iso: hin
+    name: राताहान
+    auto: true
   - translation_iso: jpn
     name: ラタハン
   - translation_iso: zho

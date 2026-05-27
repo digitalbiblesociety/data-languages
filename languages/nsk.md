@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ناسكابي
     auto: true
+  - translation_iso: hin
+    name: नस्कापी
+    auto: true
   - translation_iso: jpn
     name: ナスカピ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة في غينيا بيساو
     auto: true
+  - translation_iso: hin
+    name: गिनी-बिसाऊ सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ギニアビサウ手話
   - translation_iso: zho

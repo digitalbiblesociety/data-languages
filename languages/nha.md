@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نهاندا
     auto: true
+  - translation_iso: hin
+    name: न्हांडा
+    auto: true
   - translation_iso: jpn
     name: ンハンダ語
     auto: true

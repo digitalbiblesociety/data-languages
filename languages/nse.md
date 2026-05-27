@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نسينغا
     auto: true
+  - translation_iso: hin
+    name: नसेंगा
+    auto: true
   - translation_iso: jpn
     name: ンセンガ語
   - translation_iso: zho

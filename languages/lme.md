@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ف
     auto: true
+  - translation_iso: hin
+    name: पेवे
+    auto: true
   - translation_iso: jpn
     name: ペベ語
     auto: true

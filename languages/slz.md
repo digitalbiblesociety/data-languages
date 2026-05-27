@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "اللغة ما'يا"
     auto: true
+  - translation_iso: hin
+    name: माया
+    auto: true
   - translation_iso: jpn
     name: "Ma'ya語"
   - translation_iso: zho

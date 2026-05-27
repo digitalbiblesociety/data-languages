@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة توموتوان
     auto: true
+  - translation_iso: hin
+    name: तुआमोतुआन
+    auto: true
   - translation_iso: jpn
     name: トゥアモトゥ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غإرآ
     auto: true
+  - translation_iso: hin
+    name: गेरा
+    auto: true
   - translation_iso: jpn
     name: ゲラ語
     auto: true

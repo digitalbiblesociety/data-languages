@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بييب
     auto: true
+  - translation_iso: hin
+    name: ब्येप
+    auto: true
   - translation_iso: jpn
     name: ビエプ語
     auto: true

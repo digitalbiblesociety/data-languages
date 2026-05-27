@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كورافي ييغها
     auto: true
+  - translation_iso: hin
+    name: कोराफे-येघा
+    auto: true
   - translation_iso: jpn
     name: コラフェ・イェガ語
     auto: true

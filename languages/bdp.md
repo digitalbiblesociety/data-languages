@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيندي
     auto: true
+  - translation_iso: hin
+    name: बेंडे
+    auto: true
   - translation_iso: jpn
     name: ベンデ語
     auto: true

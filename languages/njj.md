@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجن
     auto: true
+  - translation_iso: hin
+    name: न्जेन
+    auto: true
   - translation_iso: jpn
     name: ンジェン語
     auto: true

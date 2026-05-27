@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كيمكي
     auto: true
+  - translation_iso: hin
+    name: किमकी
+    auto: true
   - translation_iso: jpn
     name: スクバトム語
     auto: true

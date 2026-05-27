@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tofa_language"
 translations:
   - translation_iso: ara
     name: لغة التوفا
+  - translation_iso: hin
+    name: कारागास
+    auto: true
   - translation_iso: jpn
     name: トファ語
   - translation_iso: kor

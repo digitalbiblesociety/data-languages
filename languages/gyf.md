@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غونجآبولآ
     auto: true
+  - translation_iso: hin
+    name: गुंगाबुला
+    auto: true
   - translation_iso: jpn
     name: グンガブラ語
     auto: true

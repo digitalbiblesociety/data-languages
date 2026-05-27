@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مولينْجي
     auto: true
+  - translation_iso: hin
+    name: मोलेंगुए
+    auto: true
   - translation_iso: jpn
     name: レング語
   - translation_iso: zho

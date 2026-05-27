@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة ويل
     auto: true
+  - translation_iso: hin
+    name: ल्वेल
+    auto: true
   - translation_iso: jpn
     name: ルエル語
     auto: true

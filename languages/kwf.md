@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "كوارا'اي"
     auto: true
+  - translation_iso: hin
+    name: क्वाराआए
+    auto: true
   - translation_iso: jpn
     name: クワラアエ語
   - translation_iso: zho

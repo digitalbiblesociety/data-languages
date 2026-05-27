@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة الحيثية القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन हित्ती
+    auto: true
   - translation_iso: jpn
     name: 古ヒッタイト語
     auto: true

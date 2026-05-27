@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نورذرن بونتوك
     auto: true
+  - translation_iso: hin
+    name: उत्तरी बोंटोक
+    auto: true
   - translation_iso: jpn
     name: 北ボントク語
   - translation_iso: zho

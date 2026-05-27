@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاندس
     auto: true
+  - translation_iso: hin
+    name: कंदास
+    auto: true
   - translation_iso: jpn
     name: カンダス語
   - translation_iso: zho

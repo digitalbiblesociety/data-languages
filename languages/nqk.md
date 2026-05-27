@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كورا إيدي ناغو
     auto: true
+  - translation_iso: hin
+    name: कुरा एदे नागो
+    auto: true
   - translation_iso: jpn
     name: クラ・エデ・ナゴ語
     auto: true

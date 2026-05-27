@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اللاوية
     auto: true
+  - translation_iso: hin
+    name: लाओस सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ラオス手話
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نومي
     auto: true
+  - translation_iso: hin
+    name: नुमेए
+    auto: true
   - translation_iso: jpn
     name: クニェ語
   - translation_iso: zho

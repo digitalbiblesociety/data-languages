@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماندوبو باواه
     auto: true
+  - translation_iso: hin
+    name: मांदोबो बावाह
+    auto: true
   - translation_iso: jpn
     name: マンドボ・バワ語
     auto: true

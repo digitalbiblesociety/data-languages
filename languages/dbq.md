@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دابا
     auto: true
+  - translation_iso: hin
+    name: दाबा
+    auto: true
   - translation_iso: jpn
     name: ダバ語
     auto: true

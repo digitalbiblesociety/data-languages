@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بادا
     auto: true
+  - translation_iso: hin
+    name: बाडा (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: バダ語
     auto: true

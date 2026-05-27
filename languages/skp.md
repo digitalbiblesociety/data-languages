@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكابان
     auto: true
+  - translation_iso: hin
+    name: सेकापान
+    auto: true
   - translation_iso: jpn
     name: セケパン語
     auto: true

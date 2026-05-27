@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشوني
     auto: true
+  - translation_iso: hin
+    name: शॉनी
+    auto: true
   - translation_iso: jpn
     name: ショーニー語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميشب
     auto: true
+  - translation_iso: hin
+    name: मिशिप
+    auto: true
   - translation_iso: jpn
     name: ミシップ語
   - translation_iso: zho

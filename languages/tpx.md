@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميفاع أكاتيبيك
     auto: true
+  - translation_iso: hin
+    name: आकातेपेक मेफा
+    auto: true
   - translation_iso: jpn
     name: メーファア語
     auto: true

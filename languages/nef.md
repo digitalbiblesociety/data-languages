@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيفاميسي
     auto: true
+  - translation_iso: hin
+    name: नेफामीज़
+    auto: true
   - translation_iso: jpn
     name: ネファメセ語
     auto: true

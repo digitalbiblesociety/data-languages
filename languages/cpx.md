@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بو-شيان الصينية
     auto: true
+  - translation_iso: hin
+    name: पू-शियान चीनी
+    auto: true
   - translation_iso: jpn
     name: 莆仙語
   - translation_iso: kor

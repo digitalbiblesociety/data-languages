@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكورية الوسيطة
     auto: true
+  - translation_iso: hin
+    name: मध्यकालीन कोरियाई
+    auto: true
   - translation_iso: jpn
     name: 中期朝鮮語
   - translation_iso: kor

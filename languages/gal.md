@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجالولين
     auto: true
+  - translation_iso: hin
+    name: गलोलेन
+    auto: true
   - translation_iso: jpn
     name: ガロリ語
   - translation_iso: zho

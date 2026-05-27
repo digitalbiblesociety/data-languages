@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غولفآن
     auto: true
+  - translation_iso: hin
+    name: घुलफान
+    auto: true
   - translation_iso: jpn
     name: グルファン語
     auto: true

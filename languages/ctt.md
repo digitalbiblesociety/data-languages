@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايانيد تشيتي
     auto: true
+  - translation_iso: hin
+    name: वायनाड चेट्टी
+    auto: true
   - translation_iso: jpn
     name: ワヤナード・チェッティ語
     auto: true

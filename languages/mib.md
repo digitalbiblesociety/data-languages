@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك أتاتلاهوكا
     auto: true
+  - translation_iso: hin
+    name: अताट्लाहुका मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: アタトラフカ・ミステク語
     auto: true

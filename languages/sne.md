@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باو بيدايوه
     auto: true
+  - translation_iso: hin
+    name: बाउ बिदायुह
+    auto: true
   - translation_iso: jpn
     name: バウ語
     auto: true

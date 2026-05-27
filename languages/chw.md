@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشويابو
     auto: true
+  - translation_iso: hin
+    name: चुवाबू
+    auto: true
   - translation_iso: jpn
     name: チュワブ語
     auto: true

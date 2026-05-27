@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييامال
     auto: true
+  - translation_iso: hin
+    name: न्यामल
+    auto: true
   - translation_iso: jpn
     name: ニャマル語
     auto: true

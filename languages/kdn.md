@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوندا
     auto: true
+  - translation_iso: hin
+    name: कुंडा
+    auto: true
   - translation_iso: jpn
     name: クンダ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك سانتا لوسيا
     auto: true
+  - translation_iso: hin
+    name: सांता लुसिया मोंतेवेर्दे मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: サンタ・ルシア・モンテベルデ・ミステク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مولآو
     auto: true
+  - translation_iso: hin
+    name: मुलाओ
+    auto: true
   - translation_iso: jpn
     name: ムラオ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكبامهيري
     auto: true
+  - translation_iso: hin
+    name: ओक्पामहेरी
+    auto: true
   - translation_iso: jpn
     name: オクパムヘリ語
     auto: true

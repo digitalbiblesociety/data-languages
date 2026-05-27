@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Balkan_Turkish_language"
 translations:
   - translation_iso: ara
     name: البلقانية الغاغاوزية
+  - translation_iso: hin
+    name: बाल्कन गागौज़ तुर्की
+    auto: true
   - translation_iso: jpn
     name: バルカン・ガガウズ・トルコ語
   - translation_iso: kor

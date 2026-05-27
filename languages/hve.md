@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سان ديونيسيو ديل مار
     auto: true
+  - translation_iso: hin
+    name: सान डियोनिसियो डेल मार हुआवे
+    auto: true
   - translation_iso: jpn
     name: サン・ディオニシオ・デル・マル・ウアベ語
     auto: true

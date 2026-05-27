@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي تيموايا
     auto: true
+  - translation_iso: hin
+    name: तेमोआया ओटोमी
+    auto: true
   - translation_iso: jpn
     name: テモアヤ・オトミ語
     auto: true

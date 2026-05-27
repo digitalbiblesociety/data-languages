@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كول
     auto: true
+  - translation_iso: hin
+    name: कोल (कैमरून)
+    auto: true
   - translation_iso: jpn
     name: コル語
   - translation_iso: zho

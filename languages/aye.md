@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أييري
     auto: true
+  - translation_iso: hin
+    name: अयेरे
+    auto: true
   - translation_iso: jpn
     name: アイエレ語
     auto: true

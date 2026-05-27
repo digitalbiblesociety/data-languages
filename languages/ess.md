@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اليوبيك السيبيري الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य साइबेरियाई युपिक
+    auto: true
   - translation_iso: jpn
     name: シベリア・ユピック語
   - translation_iso: kor

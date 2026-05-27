@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوالو الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी नुआउलु
+    auto: true
   - translation_iso: jpn
     name: 南ヌアウル語
     auto: true

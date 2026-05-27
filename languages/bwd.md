@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوايدوكا
     auto: true
+  - translation_iso: hin
+    name: ब्वाइदोका
+    auto: true
   - translation_iso: jpn
     name: ブァイドカ語
   - translation_iso: zho

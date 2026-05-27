@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أوبوكويتاي
     auto: true
+  - translation_iso: hin
+    name: ओबोकुइताई
+    auto: true
   - translation_iso: jpn
     name: オボクイタイ語
   - translation_iso: zho

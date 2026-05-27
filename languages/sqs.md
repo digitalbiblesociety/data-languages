@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة السريلانكية
     auto: true
+  - translation_iso: hin
+    name: श्रीलंकाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: スリランカ手話
   - translation_iso: zho

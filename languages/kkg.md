@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماباكا فالي كالينجا
     auto: true
+  - translation_iso: hin
+    name: मबाका घाटी कलिंगा
+    auto: true
   - translation_iso: jpn
     name: マバカ・ヴァレー・カリンガ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة وايميري-أترواري
     auto: true
+  - translation_iso: hin
+    name: वाइमिरी-अत्रोआरी
+    auto: true
   - translation_iso: jpn
     name: ワイミリアトロアリ語
     auto: true

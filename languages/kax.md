@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاو
     auto: true
+  - translation_iso: hin
+    name: काओ
+    auto: true
   - translation_iso: jpn
     name: カオ語
     auto: true

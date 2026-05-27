@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: سينتي رومانية
     auto: true
+  - translation_iso: hin
+    name: सिंते रोमानी
+    auto: true
   - translation_iso: jpn
     name: シンティー＝ロマ語
   - translation_iso: zho

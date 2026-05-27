@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أروامو
     auto: true
+  - translation_iso: hin
+    name: अरुआमु
+    auto: true
   - translation_iso: jpn
     name: アルアム語
     auto: true

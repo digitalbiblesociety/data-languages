@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كاخامركا
     auto: true
+  - translation_iso: hin
+    name: काखामार्का क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: カハマルカケチュア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رينجاو
     auto: true
+  - translation_iso: hin
+    name: रेंगाओ
+    auto: true
   - translation_iso: jpn
     name: レンガオ語
     auto: true

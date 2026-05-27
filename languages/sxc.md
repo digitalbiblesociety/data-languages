@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: سيكاني
     auto: true
+  - translation_iso: hin
+    name: सिकानियन
+    auto: true
   - translation_iso: jpn
     name: シカニア語
     auto: true

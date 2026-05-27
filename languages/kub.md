@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوتيب
     auto: true
+  - translation_iso: hin
+    name: कुटेप
+    auto: true
   - translation_iso: jpn
     name: クテプ語
     auto: true

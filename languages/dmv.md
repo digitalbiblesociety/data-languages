@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دومباس
     auto: true
+  - translation_iso: hin
+    name: दुम्पास
+    auto: true
   - translation_iso: jpn
     name: ダンパス語
     auto: true

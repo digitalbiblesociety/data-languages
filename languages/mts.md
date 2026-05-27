@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يورا
     auto: true
+  - translation_iso: hin
+    name: योरा
+    auto: true
   - translation_iso: jpn
     name: ヨラ語
     auto: true

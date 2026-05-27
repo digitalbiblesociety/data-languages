@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تودراه
     auto: true
+  - translation_iso: hin
+    name: तोद्रा
+    auto: true
   - translation_iso: jpn
     name: トドラ語
     auto: true

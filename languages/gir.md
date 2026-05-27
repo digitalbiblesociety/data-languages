@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رإد غإلآو
     auto: true
+  - translation_iso: hin
+    name: रेड गेलाओ
+    auto: true
   - translation_iso: jpn
     name: レッド・ゲラオ語
     auto: true

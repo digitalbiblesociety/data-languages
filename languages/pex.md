@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتاتس
     auto: true
+  - translation_iso: hin
+    name: पेटाट्स
+    auto: true
   - translation_iso: jpn
     name: ペタツ語
     auto: true

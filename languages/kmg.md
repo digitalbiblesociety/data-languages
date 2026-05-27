@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاتي
     auto: true
+  - translation_iso: hin
+    name: काते
+    auto: true
   - translation_iso: jpn
     name: カーテ語
   - translation_iso: zho

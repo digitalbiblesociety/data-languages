@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مابينا
     auto: true
+  - translation_iso: hin
+    name: मापेना
+    auto: true
   - translation_iso: jpn
     name: マペナ語
     auto: true

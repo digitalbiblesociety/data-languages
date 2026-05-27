@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نياكيوسا-نغوندي
     auto: true
+  - translation_iso: hin
+    name: न्याक्युसा-न्गोंडे
+    auto: true
   - translation_iso: jpn
     name: ニャキュサ語
   - translation_iso: zho

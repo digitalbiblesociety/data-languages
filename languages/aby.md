@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنيم ويك
     auto: true
+  - translation_iso: hin
+    name: अनेमे वेक
+    auto: true
   - translation_iso: jpn
     name: アネメウェイク語
     auto: true

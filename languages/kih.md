@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلميري
     auto: true
+  - translation_iso: hin
+    name: किलमेरी
+    auto: true
   - translation_iso: jpn
     name: キルメリ語
     auto: true

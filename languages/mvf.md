@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة منغولي الطرفية
     auto: true
+  - translation_iso: hin
+    name: परिधीय मंगोलियन
+    auto: true
   - translation_iso: jpn
     name: 南部モンゴル語群
   - translation_iso: zho

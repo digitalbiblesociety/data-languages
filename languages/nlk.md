@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نينيا يالي
     auto: true
+  - translation_iso: hin
+    name: निनिया याली
+    auto: true
   - translation_iso: jpn
     name: ニニア・ヤリ語
     auto: true

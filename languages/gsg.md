@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/German_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الألمانية
+  - translation_iso: hin
+    name: जर्मन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ドイツ手話
   - translation_iso: kor

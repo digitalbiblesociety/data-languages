@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الدزاندو
     auto: true
+  - translation_iso: hin
+    name: ज़ांडो
+    auto: true
   - translation_iso: jpn
     name: ジャンド語
     auto: true

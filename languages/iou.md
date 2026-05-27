@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توما-إيروموو
     auto: true
+  - translation_iso: hin
+    name: तुमा-इरुमू
+    auto: true
   - translation_iso: jpn
     name: トゥマ・イルム語
     auto: true

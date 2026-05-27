@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوكومانو
     auto: true
+  - translation_iso: hin
+    name: नुकुमानु
+    auto: true
   - translation_iso: jpn
     name: ヌクマヌ語
   - translation_iso: kor

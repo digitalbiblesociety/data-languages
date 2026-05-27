@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اكاليي
     auto: true
+  - translation_iso: hin
+    name: लकालेई
+    auto: true
   - translation_iso: jpn
     name: ラカレイ語
     auto: true

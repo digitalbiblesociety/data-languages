@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "وت-مآ'ين"
     auto: true
+  - translation_iso: hin
+    name: उत-मा'इन
+    auto: true
   - translation_iso: jpn
     name: ウト・マイン語
     auto: true

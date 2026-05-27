@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كارين مانوماناو
     auto: true
+  - translation_iso: hin
+    name: मनुमनाव करेन
+    auto: true
   - translation_iso: jpn
     name: マヌマナウ・カレン語
     auto: true

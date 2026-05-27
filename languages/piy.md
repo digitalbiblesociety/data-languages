@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيّا-كوونتسي
     auto: true
+  - translation_iso: hin
+    name: पिया-क्वोंची
+    auto: true
   - translation_iso: jpn
     name: ピヤクウォンシ語
     auto: true

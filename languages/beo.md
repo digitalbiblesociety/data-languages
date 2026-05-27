@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيامي
     auto: true
+  - translation_iso: hin
+    name: बीमी
+    auto: true
   - translation_iso: jpn
     name: ベアミ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كابانهوا
     auto: true
+  - translation_iso: hin
+    name: कापानाहुआ
+    auto: true
   - translation_iso: jpn
     name: カパナウア語
     auto: true

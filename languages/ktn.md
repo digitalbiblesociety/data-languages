@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاريتيانا
     auto: true
+  - translation_iso: hin
+    name: करितियाना
+    auto: true
   - translation_iso: jpn
     name: カリティアナ語
     auto: true

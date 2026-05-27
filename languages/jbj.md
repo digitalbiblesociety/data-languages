@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أرانداي
     auto: true
+  - translation_iso: hin
+    name: अरांदाई
+    auto: true
   - translation_iso: jpn
     name: アランダイ語
     auto: true

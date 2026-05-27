@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داواوا
     auto: true
+  - translation_iso: hin
+    name: दावावा
+    auto: true
   - translation_iso: jpn
     name: ダワワ語
     auto: true

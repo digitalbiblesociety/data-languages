@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوتونج
     auto: true
+  - translation_iso: hin
+    name: कुटोंग
+    auto: true
   - translation_iso: jpn
     name: クトン語
     auto: true

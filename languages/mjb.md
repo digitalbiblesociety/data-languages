@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكاليرو
     auto: true
+  - translation_iso: hin
+    name: माकालेरो
+    auto: true
   - translation_iso: jpn
     name: マカレロ方言
   - translation_iso: zho

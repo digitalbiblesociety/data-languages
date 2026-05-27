@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجيند
     auto: true
+  - translation_iso: hin
+    name: गेन्डे
+    auto: true
   - translation_iso: jpn
     name: ゲンデ語
     auto: true

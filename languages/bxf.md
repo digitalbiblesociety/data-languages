@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلور
     auto: true
+  - translation_iso: hin
+    name: बिलुर
+    auto: true
   - translation_iso: jpn
     name: ビルル語
     auto: true

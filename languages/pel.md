@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيكال
     auto: true
+  - translation_iso: hin
+    name: पेकाल
+    auto: true
   - translation_iso: jpn
     name: ペカル語
     auto: true

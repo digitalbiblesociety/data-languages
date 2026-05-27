@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاراي
     auto: true
+  - translation_iso: hin
+    name: जराई
+    auto: true
   - translation_iso: jpn
     name: ジャライ語
   - translation_iso: zho

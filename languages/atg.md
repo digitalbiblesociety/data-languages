@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة إيفبي شمال-أوكبيلا-أرهي
     auto: true
+  - translation_iso: hin
+    name: इव्बिए उत्तर-ओक्पेला-अर्हे
+    auto: true
   - translation_iso: jpn
     name: イヴビエ北オクペラアーエ語
     auto: true

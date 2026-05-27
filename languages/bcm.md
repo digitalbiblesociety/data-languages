@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانوني
     auto: true
+  - translation_iso: hin
+    name: बानोनी
+    auto: true
   - translation_iso: jpn
     name: バノニ語
   - translation_iso: zho

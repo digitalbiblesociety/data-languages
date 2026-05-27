@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تو
     auto: true
+  - translation_iso: hin
+    name: तू
+    auto: true
   - translation_iso: jpn
     name: モングォル語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كونجو الساحلية
     auto: true
+  - translation_iso: hin
+    name: तटीय कोंजो
+    auto: true
   - translation_iso: jpn
     name: コースタル・コンジョ語
     auto: true

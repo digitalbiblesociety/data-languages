@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hobyot"
 translations:
   - translation_iso: ara
     name: لغة هوبيوت
+  - translation_iso: hin
+    name: होब्योत
+    auto: true
   - translation_iso: jpn
     name: ホビョト語
   - translation_iso: zho

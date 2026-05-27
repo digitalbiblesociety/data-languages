@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لامبيا
     auto: true
+  - translation_iso: hin
+    name: लाम्ब्या
+    auto: true
   - translation_iso: jpn
     name: ランブヤ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إيباتان
     auto: true
+  - translation_iso: hin
+    name: इबातान
+    auto: true
   - translation_iso: jpn
     name: イバタン語
   - translation_iso: zho

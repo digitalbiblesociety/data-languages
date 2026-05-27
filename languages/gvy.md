@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غويآني
     auto: true
+  - translation_iso: hin
+    name: गुयानी
+    auto: true
   - translation_iso: jpn
     name: グヤニ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بام
     auto: true
+  - translation_iso: hin
+    name: पाम
+    auto: true
   - translation_iso: jpn
     name: パム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابتانا
     auto: true
+  - translation_iso: hin
+    name: बबताना
+    auto: true
   - translation_iso: jpn
     name: ムバンバタナ語
   - translation_iso: zho

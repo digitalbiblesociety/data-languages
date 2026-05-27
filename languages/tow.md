@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيميز
     auto: true
+  - translation_iso: hin
+    name: जेमेज़
+    auto: true
   - translation_iso: jpn
     name: トワ語
   - translation_iso: zho

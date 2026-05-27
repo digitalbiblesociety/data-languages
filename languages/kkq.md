@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كايكو
     auto: true
+  - translation_iso: hin
+    name: कైकू
+    auto: true
   - translation_iso: jpn
     name: カイク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمايمون
     auto: true
+  - translation_iso: hin
+    name: अमाइमोन
+    auto: true
   - translation_iso: jpn
     name: アマイモン語
     auto: true

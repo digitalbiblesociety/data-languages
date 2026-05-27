@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كاخاتامبو شمال ليما
     auto: true
+  - translation_iso: hin
+    name: काखातांबो उत्तरी लीमा क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: カハタンボ北リマケチュア語
     auto: true

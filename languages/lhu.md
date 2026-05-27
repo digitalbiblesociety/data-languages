@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اهو
     auto: true
+  - translation_iso: hin
+    name: लाहू
+    auto: true
   - translation_iso: jpn
     name: ラフ語
   - translation_iso: kor

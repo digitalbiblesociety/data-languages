@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأرومو الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी ओरोमो
+    auto: true
   - translation_iso: jpn
     name: 東オロモ語
   - translation_iso: zho

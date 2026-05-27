@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جاير أويو
     auto: true
+  - translation_iso: hin
+    name: जायर अव्यू
+    auto: true
   - translation_iso: jpn
     name: ジェア・アウユ語
     auto: true

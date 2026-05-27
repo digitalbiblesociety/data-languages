@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفيبا
     auto: true
+  - translation_iso: hin
+    name: फिपा
+    auto: true
   - translation_iso: jpn
     name: フィパ語
   - translation_iso: zho

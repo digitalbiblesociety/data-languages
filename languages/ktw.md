@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاتو
     auto: true
+  - translation_iso: hin
+    name: काटो
+    auto: true
   - translation_iso: jpn
     name: カト語
     auto: true

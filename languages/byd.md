@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بينيادو
     auto: true
+  - translation_iso: hin
+    name: बेन्यादु
+    auto: true
   - translation_iso: jpn
     name: ベニャドゥ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غيتكسسآن
     auto: true
+  - translation_iso: hin
+    name: गित्क्सान
+    auto: true
   - translation_iso: jpn
     name: ギッチサン語
     auto: true

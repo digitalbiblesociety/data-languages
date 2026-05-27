@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gan_Chinese"
 translations:
   - translation_iso: ara
     name: كن
+  - translation_iso: hin
+    name: गान चीनी
+    auto: true
   - translation_iso: jpn
     name: 贛語
   - translation_iso: kor

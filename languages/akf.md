@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أكپا
     auto: true
+  - translation_iso: hin
+    name: अक्पा
+    auto: true
   - translation_iso: jpn
     name: アクパ語
     auto: true

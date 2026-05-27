@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماما
     auto: true
+  - translation_iso: hin
+    name: मामा
+    auto: true
   - translation_iso: jpn
     name: ママア語
     auto: true

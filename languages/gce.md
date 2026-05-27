@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجاليس
     auto: true
+  - translation_iso: hin
+    name: गालिस
+    auto: true
   - translation_iso: jpn
     name: ガリセ語
     auto: true

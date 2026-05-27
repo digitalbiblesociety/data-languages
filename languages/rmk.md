@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رومكون
     auto: true
+  - translation_iso: hin
+    name: रोमकुन
+    auto: true
   - translation_iso: jpn
     name: ロムクン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الغودوبيري
     auto: true
+  - translation_iso: hin
+    name: घोदोबेरी
+    auto: true
   - translation_iso: jpn
     name: ゴドベリ語
   - translation_iso: kor

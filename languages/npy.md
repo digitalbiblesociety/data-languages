@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نابو
     auto: true
+  - translation_iso: hin
+    name: नापु
+    auto: true
   - translation_iso: jpn
     name: ナプ語
     auto: true

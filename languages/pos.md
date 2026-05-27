@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سايولا
     auto: true
+  - translation_iso: hin
+    name: सायुला पोपोलुका
+    auto: true
   - translation_iso: jpn
     name: サユラ語
   - translation_iso: zho

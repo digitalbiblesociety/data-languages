@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالانجانميدانج
     auto: true
+  - translation_iso: hin
+    name: पल्लांगनमिद्दांग
+    auto: true
   - translation_iso: jpn
     name: パランガンミッダン語
     auto: true

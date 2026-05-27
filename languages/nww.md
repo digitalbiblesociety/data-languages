@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ندويوي
     auto: true
+  - translation_iso: hin
+    name: न्द्वेवे
+    auto: true
   - translation_iso: jpn
     name: ンドウェウェ語
     auto: true

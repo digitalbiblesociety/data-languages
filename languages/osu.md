@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة وان الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी वन
+    auto: true
   - translation_iso: jpn
     name: 南ワン語
     auto: true

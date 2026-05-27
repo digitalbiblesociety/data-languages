@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أسومبوا
     auto: true
+  - translation_iso: hin
+    name: असुम्बोआ
+    auto: true
   - translation_iso: jpn
     name: アスンボア語
   - translation_iso: zho

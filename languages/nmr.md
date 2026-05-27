@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيمباري
     auto: true
+  - translation_iso: hin
+    name: निम्बारी
+    auto: true
   - translation_iso: jpn
     name: ニンバリ語
     auto: true

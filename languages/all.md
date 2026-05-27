@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آلّار
     auto: true
+  - translation_iso: hin
+    name: अल्लार
+    auto: true
   - translation_iso: jpn
     name: アッラール語
     auto: true

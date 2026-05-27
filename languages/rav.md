@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سامبانج
     auto: true
+  - translation_iso: hin
+    name: सामपांग
+    auto: true
   - translation_iso: jpn
     name: サンパン語
     auto: true

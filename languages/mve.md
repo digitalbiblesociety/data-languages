@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماروري (باكستان)
     auto: true
+  - translation_iso: hin
+    name: मारवाड़ी (पाकिस्तान)
+    auto: true
   - translation_iso: jpn
     name: マールワーリー語
   - translation_iso: zho

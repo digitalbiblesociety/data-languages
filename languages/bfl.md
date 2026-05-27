@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بندا نديلي
     auto: true
+  - translation_iso: hin
+    name: बांदा-न्देले
+    auto: true
   - translation_iso: jpn
     name: バンダ・ンデレ語
     auto: true

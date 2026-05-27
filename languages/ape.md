@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكيايب
     auto: true
+  - translation_iso: hin
+    name: बुकियिप
+    auto: true
   - translation_iso: jpn
     name: 山岳アラペシュ語
   - translation_iso: zho

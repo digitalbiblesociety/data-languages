@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بينوكيدنون الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी बिनुकिडनोन
+    auto: true
   - translation_iso: jpn
     name: 北ビヌキドノン語
     auto: true

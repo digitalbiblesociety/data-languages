@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوسيليوا
     auto: true
+  - translation_iso: hin
+    name: बोसेलेवा
+    auto: true
   - translation_iso: jpn
     name: ボセレワ語
     auto: true

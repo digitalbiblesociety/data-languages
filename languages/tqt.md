@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتوناك الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी तोतोनाक
+    auto: true
   - translation_iso: jpn
     name: 西トトナク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "لغة اانتاناي'"
     auto: true
+  - translation_iso: hin
+    name: दानतानाई
+    auto: true
   - translation_iso: jpn
     name: ダアンタナイ語
     auto: true

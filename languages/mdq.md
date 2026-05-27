@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مبول
     auto: true
+  - translation_iso: hin
+    name: म्बोले
+    auto: true
   - translation_iso: jpn
     name: ムボレ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نامباس الكبيرة
     auto: true
+  - translation_iso: hin
+    name: बिग नाम्बास
+    auto: true
   - translation_iso: jpn
     name: ビッグナンバス語
   - translation_iso: zho

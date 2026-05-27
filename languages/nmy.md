@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناموي
     auto: true
+  - translation_iso: hin
+    name: नामुयी
+    auto: true
   - translation_iso: jpn
     name: ナムイ語
   - translation_iso: zho

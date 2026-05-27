@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pitkern"
 translations:
   - translation_iso: ara
     name: البتكرنية
+  - translation_iso: hin
+    name: पिटकेर्न-नॉरफ़ॉक
+    auto: true
   - translation_iso: jpn
     name: ピトケアン語
   - translation_iso: kor

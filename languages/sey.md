@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيكويا
     auto: true
+  - translation_iso: hin
+    name: सेकोया
+    auto: true
   - translation_iso: jpn
     name: パイコカ語
     auto: true

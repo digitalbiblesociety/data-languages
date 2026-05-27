@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أنونغ
     auto: true
+  - translation_iso: hin
+    name: अनोंग
+    auto: true
   - translation_iso: jpn
     name: アヌン語
   - translation_iso: kor

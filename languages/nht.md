@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوميتيبك ناهواتل
     auto: true
+  - translation_iso: hin
+    name: ओमेतेपेक नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: オメテペク・ナワトル語
     auto: true

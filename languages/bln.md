@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيكول كاتاندوانس الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी कातांदुआनेस बिकोल
+    auto: true
   - translation_iso: jpn
     name: 南部カタンドゥアネス州ビトール語
   - translation_iso: zho

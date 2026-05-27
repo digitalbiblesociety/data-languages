@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غورإنج غورإنج
     auto: true
+  - translation_iso: hin
+    name: गुरेंग गुरेंग
+    auto: true
   - translation_iso: jpn
     name: グレング・グレング語
     auto: true

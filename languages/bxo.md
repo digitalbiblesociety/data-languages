@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باريْكانْشي
     auto: true
+  - translation_iso: hin
+    name: बारिकांची
+    auto: true
   - translation_iso: jpn
     name: バリカンチ語
     auto: true

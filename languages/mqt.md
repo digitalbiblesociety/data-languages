@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موك
     auto: true
+  - translation_iso: hin
+    name: मोक
+    auto: true
   - translation_iso: jpn
     name: モク語
     auto: true

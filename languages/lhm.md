@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هومي
     auto: true
+  - translation_iso: hin
+    name: ल्होमी
+    auto: true
   - translation_iso: jpn
     name: ルホミ語
     auto: true

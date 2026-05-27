@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kat%C3%AB_language"
 translations:
   - translation_iso: ara
     name: اللغة الكامكاتويرية
+  - translation_iso: hin
+    name: काटी
+    auto: true
   - translation_iso: jpn
     name: カム・カタヴァリ語
   - translation_iso: zho

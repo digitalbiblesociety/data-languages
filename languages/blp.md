@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بلابلانجا
     auto: true
+  - translation_iso: hin
+    name: ब्लाब्लांगा
+    auto: true
   - translation_iso: jpn
     name: ブラブランガ語
     auto: true

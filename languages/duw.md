@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوسون ويتو
     auto: true
+  - translation_iso: hin
+    name: दुसुन विटु
+    auto: true
   - translation_iso: jpn
     name: ドゥスン・ウィトゥ語
     auto: true

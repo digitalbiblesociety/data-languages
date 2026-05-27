@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشيكو
     auto: true
+  - translation_iso: hin
+    name: शेको
+    auto: true
   - translation_iso: jpn
     name: シャック語
     auto: true

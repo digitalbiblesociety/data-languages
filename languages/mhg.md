@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارجو
     auto: true
+  - translation_iso: hin
+    name: मार्गु
+    auto: true
   - translation_iso: jpn
     name: マルグ語
     auto: true

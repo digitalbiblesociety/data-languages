@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أدانجبي
     auto: true
+  - translation_iso: hin
+    name: अदांगबे
+    auto: true
   - translation_iso: jpn
     name: アダンゲベ語
     auto: true

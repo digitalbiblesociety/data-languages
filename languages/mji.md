@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيم مون
     auto: true
+  - translation_iso: hin
+    name: किम मुन
+    auto: true
   - translation_iso: jpn
     name: ムン語
   - translation_iso: zho

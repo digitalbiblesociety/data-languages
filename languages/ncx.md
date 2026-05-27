@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينترال بويبلا ناهواتل
     auto: true
+  - translation_iso: hin
+    name: मध्य पुएब्ला नाहुआत्ल
+    auto: true
   - translation_iso: jpn
     name: 中央プエブラ・ナワトル語
     auto: true

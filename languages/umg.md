@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موروبالاما
     auto: true
+  - translation_iso: hin
+    name: मोरोबालामा
+    auto: true
   - translation_iso: jpn
     name: モロバラマ語
     auto: true

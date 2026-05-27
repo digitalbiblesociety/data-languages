@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمباكيت
     auto: true
+  - translation_iso: hin
+    name: अम्बाकिच
+    auto: true
   - translation_iso: jpn
     name: アンバキッチ語
     auto: true

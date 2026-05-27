@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مومبو دوجون
     auto: true
+  - translation_iso: hin
+    name: मोम्बो दोगोन
+    auto: true
   - translation_iso: jpn
     name: モンボ・ドゴン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كورتي
     auto: true
+  - translation_iso: hin
+    name: कुर्ती
+    auto: true
   - translation_iso: jpn
     name: クルティ語
     auto: true

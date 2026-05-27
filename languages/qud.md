@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا كالديرون الجبلية
     auto: true
+  - translation_iso: hin
+    name: काल्देरोन हाइलैंड किचुआ
+    auto: true
   - translation_iso: jpn
     name: カルデロンハイランドキチュア語
     auto: true

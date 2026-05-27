@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيو
     auto: true
+  - translation_iso: hin
+    name: नेयो
+    auto: true
   - translation_iso: jpn
     name: ネヨ語
     auto: true

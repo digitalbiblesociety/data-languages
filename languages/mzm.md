@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موموي
     auto: true
+  - translation_iso: hin
+    name: मुमुये
+    auto: true
   - translation_iso: jpn
     name: ムムイェ語
     auto: true

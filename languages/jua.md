@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جوما
     auto: true
+  - translation_iso: hin
+    name: जूमा
+    auto: true
   - translation_iso: jpn
     name: ジュマ語
     auto: true

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابي
     auto: true
+  - translation_iso: hin
+    name: पापी
+    auto: true
   - translation_iso: jpn
     name: パピ語
     auto: true

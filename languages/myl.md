@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: موما
     auto: true
+  - translation_iso: hin
+    name: मोमा
+    auto: true
   - translation_iso: jpn
     name: モマ語
     auto: true

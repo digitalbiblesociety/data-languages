@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنام
     auto: true
+  - translation_iso: hin
+    name: अनाम
+    auto: true
   - translation_iso: jpn
     name: アナム語
     auto: true

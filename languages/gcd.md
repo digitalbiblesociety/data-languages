@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجانجاليدا
     auto: true
+  - translation_iso: hin
+    name: गंगालिडा
+    auto: true
   - translation_iso: jpn
     name: ガンガリダ語
     auto: true

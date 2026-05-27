@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: سكالفيان
     auto: true
+  - translation_iso: hin
+    name: स्कालवियन
+    auto: true
   - translation_iso: jpn
     name: スカロヴィア語
   - translation_iso: zho

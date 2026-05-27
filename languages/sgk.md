@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سانجكونج
     auto: true
+  - translation_iso: hin
+    name: सांगकोंग
+    auto: true
   - translation_iso: jpn
     name: ブキシア語
     auto: true

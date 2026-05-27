@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رومام
     auto: true
+  - translation_iso: hin
+    name: रोमाम
+    auto: true
   - translation_iso: jpn
     name: ロマム語
     auto: true

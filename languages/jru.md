@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جابريريا
     auto: true
+  - translation_iso: hin
+    name: हाप्रेरिया
+    auto: true
   - translation_iso: jpn
     name: ジャプレリア語
     auto: true

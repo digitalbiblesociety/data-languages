@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكايراك
     auto: true
+  - translation_iso: hin
+    name: कैराक
+    auto: true
   - translation_iso: jpn
     name: カイラック語
     auto: true

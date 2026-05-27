@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كارين ينتالي
     auto: true
+  - translation_iso: hin
+    name: यिनताले करेन
+    auto: true
   - translation_iso: jpn
     name: イインターレ・カレン語
     auto: true

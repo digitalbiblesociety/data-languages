@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوكو
     auto: true
+  - translation_iso: hin
+    name: म्बोको
+    auto: true
   - translation_iso: jpn
     name: ムボコ語
     auto: true

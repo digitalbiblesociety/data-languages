@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بارك
     auto: true
+  - translation_iso: hin
+    name: बारोक
+    auto: true
   - translation_iso: jpn
     name: バロク語
   - translation_iso: zho

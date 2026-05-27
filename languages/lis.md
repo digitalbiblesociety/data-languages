@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة يسو
     auto: true
+  - translation_iso: hin
+    name: लिसू
+    auto: true
   - translation_iso: jpn
     name: リス語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كولانجو بوندوكو
     auto: true
+  - translation_iso: hin
+    name: बोंडुकू कुलांगो
+    auto: true
   - translation_iso: jpn
     name: ボンドゥークー・クランゴ語
     auto: true

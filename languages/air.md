@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أيرورّان
     auto: true
+  - translation_iso: hin
+    name: एयरोरान
+    auto: true
   - translation_iso: jpn
     name: アイロラン語
     auto: true

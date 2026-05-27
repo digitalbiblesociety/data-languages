@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينتا لارغا
     auto: true
+  - translation_iso: hin
+    name: सिंता लार्गा
+    auto: true
   - translation_iso: jpn
     name: シンタ・ラルガ語
     auto: true

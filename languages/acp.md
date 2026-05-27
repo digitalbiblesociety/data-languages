@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسترن أسيپا
     auto: true
+  - translation_iso: hin
+    name: पूर्वी अचिपा
+    auto: true
   - translation_iso: jpn
     name: 東部アシパ語
     auto: true

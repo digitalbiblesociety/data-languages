@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: رينْكونادا بيكول
     auto: true
+  - translation_iso: hin
+    name: रिनकोनाडा बिकोल
+    auto: true
   - translation_iso: jpn
     name: イリガ・ビコール語
   - translation_iso: zho

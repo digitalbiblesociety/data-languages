@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة براغات
     auto: true
+  - translation_iso: hin
+    name: ब्रागाट
+    auto: true
   - translation_iso: jpn
     name: ブラガット語
     auto: true

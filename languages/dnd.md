@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داوندا
     auto: true
+  - translation_iso: hin
+    name: दाओन्दा
+    auto: true
   - translation_iso: jpn
     name: ダオンダ語
     auto: true

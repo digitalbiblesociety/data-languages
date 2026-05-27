@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولوما
     auto: true
+  - translation_iso: hin
+    name: ओलोमा
+    auto: true
   - translation_iso: jpn
     name: オロマ語
     auto: true

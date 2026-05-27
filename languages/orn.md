@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورانغ كانق
     auto: true
+  - translation_iso: hin
+    name: ओरंग कानाक
+    auto: true
   - translation_iso: jpn
     name: オラン・カナック語
     auto: true

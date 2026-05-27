@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماراو
     auto: true
+  - translation_iso: hin
+    name: माराउ
+    auto: true
   - translation_iso: jpn
     name: マラウ語
     auto: true

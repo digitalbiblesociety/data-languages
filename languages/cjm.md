@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الشام الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी चाम
+    auto: true
   - translation_iso: jpn
     name: チャム語
     auto: true

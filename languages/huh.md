@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هويليتشي
     auto: true
+  - translation_iso: hin
+    name: हुइलिचे
+    auto: true
   - translation_iso: jpn
     name: ウィリチェ語
   - translation_iso: kor

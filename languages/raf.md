@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويسترن ميهانج
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी मेओहांग
+    auto: true
   - translation_iso: jpn
     name: 西メオハン語
     auto: true

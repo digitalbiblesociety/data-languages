@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة صابح مالاي
     auto: true
+  - translation_iso: hin
+    name: सबा मलय
+    auto: true
   - translation_iso: jpn
     name: サバ・マレー語
   - translation_iso: zho

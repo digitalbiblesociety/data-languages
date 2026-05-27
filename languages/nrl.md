@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغارلوما
     auto: true
+  - translation_iso: hin
+    name: नगारलुमा
+    auto: true
   - translation_iso: jpn
     name: ングアルマ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوشي
     auto: true
+  - translation_iso: hin
+    name: कुशी
+    auto: true
   - translation_iso: jpn
     name: クシ語
     auto: true

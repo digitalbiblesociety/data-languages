@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأرجنتينية
     auto: true
+  - translation_iso: hin
+    name: अर्जेंटीनी सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: アルゼンチン手話
   - translation_iso: zho

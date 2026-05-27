@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أكونتسو
     auto: true
+  - translation_iso: hin
+    name: अकुन्त्सू
+    auto: true
   - translation_iso: jpn
     name: アクンツ語
     auto: true

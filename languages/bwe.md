@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوي كاريْن
     auto: true
+  - translation_iso: hin
+    name: ब्वे करेन
+    auto: true
   - translation_iso: jpn
     name: ブウェ・カレン語
     auto: true

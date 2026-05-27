@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيباني
     auto: true
+  - translation_iso: hin
+    name: इबानी
+    auto: true
   - translation_iso: jpn
     name: イバニ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوتا كانوم
     auto: true
+  - translation_iso: hin
+    name: सोता कानुम
+    auto: true
   - translation_iso: jpn
     name: ソタ・カヌム語
     auto: true

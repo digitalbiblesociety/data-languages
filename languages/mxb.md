@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميشتك تيزواتلان
     auto: true
+  - translation_iso: hin
+    name: तेसोआतलान मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: テゾアトラン・ミステク語
     auto: true

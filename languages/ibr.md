@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إبواورو
     auto: true
+  - translation_iso: hin
+    name: इबुओरो
+    auto: true
   - translation_iso: jpn
     name: イブオロ語
     auto: true

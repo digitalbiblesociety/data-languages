@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبييمو
     auto: true
+  - translation_iso: hin
+    name: म्पिएमो
+    auto: true
   - translation_iso: jpn
     name: ムピエモ語
     auto: true

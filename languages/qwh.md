@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوايلاس أنكاش
     auto: true
+  - translation_iso: hin
+    name: वायलास आंकाश क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: ワイラスアンカシュケチュア語
     auto: true

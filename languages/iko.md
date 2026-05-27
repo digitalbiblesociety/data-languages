@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أولولومو-إيكوم
     auto: true
+  - translation_iso: hin
+    name: ओलुलुमो-इकोम
+    auto: true
   - translation_iso: jpn
     name: オルルモ・イコム語
     auto: true

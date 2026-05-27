@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الماريك
     auto: true
+  - translation_iso: hin
+    name: मारिक
+    auto: true
   - translation_iso: jpn
     name: マリク語
     auto: true

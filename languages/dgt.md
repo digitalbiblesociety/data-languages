@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ندرانجيث
     auto: true
+  - translation_iso: hin
+    name: न्द्रांगिथ
+    auto: true
   - translation_iso: jpn
     name: ンドラングイット語
     auto: true

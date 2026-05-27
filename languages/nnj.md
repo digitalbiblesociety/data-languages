@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيانغاتوم
     auto: true
+  - translation_iso: hin
+    name: न्यांगातोम
+    auto: true
   - translation_iso: jpn
     name: ニアンガトム語
   - translation_iso: zho

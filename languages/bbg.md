@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراما
     auto: true
+  - translation_iso: hin
+    name: बारामा
+    auto: true
   - translation_iso: jpn
     name: バラマ語
     auto: true

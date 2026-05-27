@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يجا-هابوندا
     auto: true
+  - translation_iso: hin
+    name: लेगा-शाबुंदा
+    auto: true
   - translation_iso: jpn
     name: レガ・シャブンダ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلاندا فيري
     auto: true
+  - translation_iso: hin
+    name: बेलांडा विरी
+    auto: true
   - translation_iso: jpn
     name: ベランダ・ビリ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيهاكور
     auto: true
+  - translation_iso: hin
+    name: न्याहकुर
+    auto: true
   - translation_iso: jpn
     name: ニャークル語
   - translation_iso: zho

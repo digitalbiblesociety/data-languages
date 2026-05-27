@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفولييرو
     auto: true
+  - translation_iso: hin
+    name: फुलीरू
+    auto: true
   - translation_iso: jpn
     name: フリイル語
     auto: true

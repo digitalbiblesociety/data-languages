@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وون
     auto: true
+  - translation_iso: hin
+    name: लोउन
+    auto: true
   - translation_iso: jpn
     name: ロウン語
     auto: true

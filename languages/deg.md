@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديجيما
     auto: true
+  - translation_iso: hin
+    name: देगेमा
+    auto: true
   - translation_iso: jpn
     name: デゲマ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سامبا ليكو
     auto: true
+  - translation_iso: hin
+    name: साम्बा लेको
+    auto: true
   - translation_iso: jpn
     name: サンバ・レコ語
     auto: true

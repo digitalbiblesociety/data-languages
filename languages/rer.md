@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رير بير
     auto: true
+  - translation_iso: hin
+    name: रेर बारे
+    auto: true
   - translation_iso: jpn
     name: レルバレ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماج إندي ايتا
     auto: true
+  - translation_iso: hin
+    name: माग-इंदी आयता
+    auto: true
   - translation_iso: jpn
     name: マグ・インディ・アイタ語
     auto: true

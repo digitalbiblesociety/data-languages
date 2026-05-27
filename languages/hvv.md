@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سانتا ماريا ديل مار
     auto: true
+  - translation_iso: hin
+    name: सांता मारिया डेल मार हुआवे
+    auto: true
   - translation_iso: jpn
     name: サンタ・マリア・デル・マル・ウアベ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتي
     auto: true
+  - translation_iso: hin
+    name: केटे
+    auto: true
   - translation_iso: jpn
     name: ケテ語
   - translation_iso: zho

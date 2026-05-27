@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وبالا
     auto: true
+  - translation_iso: hin
+    name: लोबाला
+    auto: true
   - translation_iso: jpn
     name: ロバラ語
     auto: true

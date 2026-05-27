@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غإمإ
     auto: true
+  - translation_iso: hin
+    name: गेमे
+    auto: true
   - translation_iso: jpn
     name: ゲメ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورونج
     auto: true
+  - translation_iso: hin
+    name: बोरोंग
+    auto: true
   - translation_iso: jpn
     name: ボロン語
     auto: true

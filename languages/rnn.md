@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رون
     auto: true
+  - translation_iso: hin
+    name: रून
+    auto: true
   - translation_iso: jpn
     name: ルーン語
     auto: true

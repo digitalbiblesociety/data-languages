@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوي (إندونيسيا)
     auto: true
+  - translation_iso: hin
+    name: कुई (इंडोनेशिया)
+    auto: true
   - translation_iso: jpn
     name: クイ語（インドネシア）
     auto: true

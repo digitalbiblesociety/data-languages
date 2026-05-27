@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاماماديه
     auto: true
+  - translation_iso: hin
+    name: जामामादी
+    auto: true
   - translation_iso: jpn
     name: ヤママディ語
   - translation_iso: kor

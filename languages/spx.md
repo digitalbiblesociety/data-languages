@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة جنوب بيسيني
     auto: true
+  - translation_iso: hin
+    name: दक्षिण पिकेने
+    auto: true
   - translation_iso: jpn
     name: 南ピケネ語
   - translation_iso: zho

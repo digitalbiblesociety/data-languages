@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيسالا الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी सिसाला
+    auto: true
   - translation_iso: jpn
     name: シッサーラ語
     auto: true

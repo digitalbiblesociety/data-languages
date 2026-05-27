@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالانتلا تشينانتك
     auto: true
+  - translation_iso: hin
+    name: पलांत्ला चिनान्टेक
+    auto: true
   - translation_iso: jpn
     name: パランラ・チナンテク語
     auto: true

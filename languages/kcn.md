@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nubi_language"
 translations:
   - translation_iso: ara
     name: عربية نوبية
+  - translation_iso: hin
+    name: नूबी
+    auto: true
   - translation_iso: jpn
     name: ヌビ語
     auto: true

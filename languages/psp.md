@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الفيليبينية
     auto: true
+  - translation_iso: hin
+    name: फ़िलिपीन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: フィリピン手話
   - translation_iso: zho

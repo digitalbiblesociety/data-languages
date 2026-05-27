@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيغناسيانو
     auto: true
+  - translation_iso: hin
+    name: इग्नासियानो
+    auto: true
   - translation_iso: jpn
     name: イニャシアーノ語
     auto: true

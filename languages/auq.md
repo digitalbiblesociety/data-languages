@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنوس
     auto: true
+  - translation_iso: hin
+    name: अनुस
+    auto: true
   - translation_iso: jpn
     name: アヌス語
   - translation_iso: zho

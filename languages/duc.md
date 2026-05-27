@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: دونا
     auto: true
+  - translation_iso: hin
+    name: डूना
+    auto: true
   - translation_iso: jpn
     name: ドゥナ語
     auto: true

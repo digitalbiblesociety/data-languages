@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توينيبو باريو نيغرو
     auto: true
+  - translation_iso: hin
+    name: बारो नेग्रो तुनेबो
+    auto: true
   - translation_iso: jpn
     name: バロネグロ・トゥネボ語
     auto: true

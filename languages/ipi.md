@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيبيلي
     auto: true
+  - translation_iso: hin
+    name: इपिली
+    auto: true
   - translation_iso: jpn
     name: イピリ語
     auto: true

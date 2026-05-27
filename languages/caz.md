@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Canichana_language"
 translations:
   - translation_iso: ara
     name: كانيتشانا
+  - translation_iso: hin
+    name: कनिचाना
+    auto: true
   - translation_iso: jpn
     name: カニチャナ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مالا
     auto: true
+  - translation_iso: hin
+    name: माला (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: ルマヤ語
     auto: true

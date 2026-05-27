@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوبا
     auto: true
+  - translation_iso: hin
+    name: सुबा
+    auto: true
   - translation_iso: jpn
     name: スバ語
   - translation_iso: zho

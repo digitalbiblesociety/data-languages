@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايث
     auto: true
+  - translation_iso: hin
+    name: पाएस
+    auto: true
   - translation_iso: jpn
     name: パエス語
   - translation_iso: kor

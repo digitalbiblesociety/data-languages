@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآووآدآ
     auto: true
+  - translation_iso: hin
+    name: गव्वादा
+    auto: true
   - translation_iso: jpn
     name: Dullay諸語
   - translation_iso: zho

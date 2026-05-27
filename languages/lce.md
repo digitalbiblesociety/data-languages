@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لونتشونج
     auto: true
+  - translation_iso: hin
+    name: लोंचोंग
+    auto: true
   - translation_iso: jpn
     name: セカ族
   - translation_iso: zho

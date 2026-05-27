@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيكتشي
     auto: true
+  - translation_iso: hin
+    name: केकची
+    auto: true
   - translation_iso: jpn
     name: ケクチ語
   - translation_iso: kor

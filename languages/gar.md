@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجاليا
     auto: true
+  - translation_iso: hin
+    name: गालेया
+    auto: true
   - translation_iso: jpn
     name: ガレヤ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أبيه
     auto: true
+  - translation_iso: hin
+    name: अबे
+    auto: true
   - translation_iso: jpn
     name: アベイ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإسي إجا
     auto: true
+  - translation_iso: hin
+    name: एसे एज्जा
+    auto: true
   - translation_iso: jpn
     name: エセエハ語
   - translation_iso: zho

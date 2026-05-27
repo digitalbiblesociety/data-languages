@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كونزيمي
     auto: true
+  - translation_iso: hin
+    name: कूंज़िमे
+    auto: true
   - translation_iso: jpn
     name: クーンジメ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيريك
     auto: true
+  - translation_iso: hin
+    name: केरेक
+    auto: true
   - translation_iso: jpn
     name: ケレク語
   - translation_iso: kor

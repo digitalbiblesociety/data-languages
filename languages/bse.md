@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووشي
     auto: true
+  - translation_iso: hin
+    name: वुशी
+    auto: true
   - translation_iso: jpn
     name: ウシ語
     auto: true

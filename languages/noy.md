@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوي
     auto: true
+  - translation_iso: hin
+    name: नोय
+    auto: true
   - translation_iso: jpn
     name: ノイ語
   - translation_iso: zho

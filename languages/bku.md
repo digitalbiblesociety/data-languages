@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: بهيد
     auto: true
+  - translation_iso: hin
+    name: बुहिद
+    auto: true
   - translation_iso: jpn
     name: ブヒッド語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كورونجو أنكاش
     auto: true
+  - translation_iso: hin
+    name: कोरोंगो आंकाश क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: コロンゴアンカシュケチュア語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة البريتونية القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन ब्रेटन
+    auto: true
   - translation_iso: jpn
     name: 古ブルトン語
   - translation_iso: zho

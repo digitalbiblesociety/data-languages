@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيفن
     auto: true
+  - translation_iso: hin
+    name: एवेन
+    auto: true
   - translation_iso: jpn
     name: エヴェン語
   - translation_iso: kor

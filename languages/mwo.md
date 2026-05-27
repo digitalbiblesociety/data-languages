@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايوو الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य माएवो
+    auto: true
   - translation_iso: jpn
     name: セントラル・マエウォ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة فوريس
     auto: true
+  - translation_iso: hin
+    name: वुरेस
+    auto: true
   - translation_iso: jpn
     name: ヴュレス語
     auto: true

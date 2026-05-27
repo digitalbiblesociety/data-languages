@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rotokas_language"
 translations:
   - translation_iso: ara
     name: اللغة الروتوكاسية
+  - translation_iso: hin
+    name: रोटोकास
+    auto: true
   - translation_iso: jpn
     name: ロトカス語
   - translation_iso: kor

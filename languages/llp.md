@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ورته يفاتي
     auto: true
+  - translation_iso: hin
+    name: उत्तरी एफाते
+    auto: true
   - translation_iso: jpn
     name: グナ語
   - translation_iso: kor

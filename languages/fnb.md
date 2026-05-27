@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفانباك
     auto: true
+  - translation_iso: hin
+    name: फानबाक
+    auto: true
   - translation_iso: jpn
     name: ファンバク語
     auto: true

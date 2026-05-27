@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيتيري
     auto: true
+  - translation_iso: hin
+    name: इतेरी
+    auto: true
   - translation_iso: jpn
     name: イテリ語
     auto: true

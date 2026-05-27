@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيم
     auto: true
+  - translation_iso: hin
+    name: बिएम
+    auto: true
   - translation_iso: jpn
     name: ビエム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويستن
     auto: true
+  - translation_iso: hin
+    name: क्वेस्टेन
+    auto: true
   - translation_iso: jpn
     name: クウェステン語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيرْوا
     auto: true
+  - translation_iso: hin
+    name: बिरवा
+    auto: true
   - translation_iso: jpn
     name: ビルワ語
     auto: true

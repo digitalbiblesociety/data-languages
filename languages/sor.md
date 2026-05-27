@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السومراي
     auto: true
+  - translation_iso: hin
+    name: सोमराई
+    auto: true
   - translation_iso: jpn
     name: シビネ語
     auto: true

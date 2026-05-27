@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونوار
     auto: true
+  - translation_iso: hin
+    name: सुनुवार
+    auto: true
   - translation_iso: jpn
     name: スヌワール語
   - translation_iso: zho

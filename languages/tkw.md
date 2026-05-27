@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيانو
     auto: true
+  - translation_iso: hin
+    name: तेआनु
+    auto: true
   - translation_iso: jpn
     name: テアヌ語
     auto: true

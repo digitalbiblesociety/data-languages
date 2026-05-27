@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: سوارمين
     auto: true
+  - translation_iso: hin
+    name: सुआर्मिन
+    auto: true
   - translation_iso: jpn
     name: アサバ語
     auto: true

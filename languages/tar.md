@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاراهومارا الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य तारहुमारा
+    auto: true
   - translation_iso: jpn
     name: 中央タラウマラ語
     auto: true

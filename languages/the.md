@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيتوانيا ثارو
     auto: true
+  - translation_iso: hin
+    name: चितवनिया थारू
+    auto: true
   - translation_iso: jpn
     name: チトワニア・タル語
     auto: true

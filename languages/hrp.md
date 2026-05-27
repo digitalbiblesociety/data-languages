@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: نهيريبي
     auto: true
+  - translation_iso: hin
+    name: न्हिरपी
+    auto: true
   - translation_iso: jpn
     name: ニリッピ語
     auto: true

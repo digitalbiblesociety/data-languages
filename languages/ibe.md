@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أكبيس
     auto: true
+  - translation_iso: hin
+    name: अक्पेस
+    auto: true
   - translation_iso: jpn
     name: アクペス語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راوا
     auto: true
+  - translation_iso: hin
+    name: रावा
+    auto: true
   - translation_iso: jpn
     name: カロ語
     auto: true

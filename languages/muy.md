@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موايانج
     auto: true
+  - translation_iso: hin
+    name: मुयांग
+    auto: true
   - translation_iso: jpn
     name: ムヤン語
     auto: true

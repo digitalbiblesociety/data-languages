@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إناوينيه-ناويه
     auto: true
+  - translation_iso: hin
+    name: एनावेने-नावे
+    auto: true
   - translation_iso: jpn
     name: サルマ語
   - translation_iso: zho

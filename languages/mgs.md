@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندا
     auto: true
+  - translation_iso: hin
+    name: मांडा
+    auto: true
   - translation_iso: jpn
     name: マンダ語
     auto: true

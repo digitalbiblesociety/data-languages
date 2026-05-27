@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كارين زايين
     auto: true
+  - translation_iso: hin
+    name: ज़ायीन करेन
+    auto: true
   - translation_iso: jpn
     name: ザイイン・カレン語
     auto: true

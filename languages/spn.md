@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سانابانا
     auto: true
+  - translation_iso: hin
+    name: सानापाना
+    auto: true
   - translation_iso: jpn
     name: サナパナパイボマ語
     auto: true

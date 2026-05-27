@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مونسي
     auto: true
+  - translation_iso: hin
+    name: मुंसी
+    auto: true
   - translation_iso: jpn
     name: マンシー語
   - translation_iso: zho

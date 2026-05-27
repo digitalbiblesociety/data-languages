@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوسو
     auto: true
+  - translation_iso: hin
+    name: कुसु
+    auto: true
   - translation_iso: jpn
     name: クス語
   - translation_iso: zho

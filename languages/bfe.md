@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيتاف
     auto: true
+  - translation_iso: hin
+    name: बेताफ
+    auto: true
   - translation_iso: jpn
     name: ベタフ語
     auto: true

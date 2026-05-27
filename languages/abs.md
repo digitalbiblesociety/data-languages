@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمبوني مالاي
     auto: true
+  - translation_iso: hin
+    name: अम्बोनी मलय
+    auto: true
   - translation_iso: jpn
     name: アンボン・マライ語
   - translation_iso: zho

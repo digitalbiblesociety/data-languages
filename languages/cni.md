@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأشانينكا
     auto: true
+  - translation_iso: hin
+    name: आशानिन्का
+    auto: true
   - translation_iso: jpn
     name: アシェニンカ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميريووج
     auto: true
+  - translation_iso: hin
+    name: मिरिवूंग
+    auto: true
   - translation_iso: jpn
     name: ミリウォング語
     auto: true

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: السينتووم
     auto: true
+  - translation_iso: hin
+    name: सेंतूम
+    auto: true
   - translation_iso: jpn
     name: ジャラア語
   - translation_iso: zho

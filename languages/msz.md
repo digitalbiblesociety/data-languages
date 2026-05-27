@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موماري
     auto: true
+  - translation_iso: hin
+    name: मोमारे
+    auto: true
   - translation_iso: jpn
     name: モマレ語
     auto: true

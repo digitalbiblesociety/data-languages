@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Haveke_language"
 translations:
   - translation_iso: ara
     name: لغة هافيكي
+  - translation_iso: hin
+    name: हावेके
+    auto: true
   - translation_iso: jpn
     name: ハヴェケ語
   - translation_iso: zho

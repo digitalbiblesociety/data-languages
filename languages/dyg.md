@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: فيلا فيسيوسا أجتا
     auto: true
+  - translation_iso: hin
+    name: विला विसिओसा आग्ता
+    auto: true
   - translation_iso: jpn
     name: ビラ・ビシオサ・アグタ語
     auto: true

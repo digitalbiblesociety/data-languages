@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سان خوان
     auto: true
+  - translation_iso: hin
+    name: सान ख़ुआन आत्सिंगो पोपोलोका
+    auto: true
   - translation_iso: jpn
     name: サンフアンアツィンゴポポロカ語
     auto: true

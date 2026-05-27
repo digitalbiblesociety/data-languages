@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هامتاي
     auto: true
+  - translation_iso: hin
+    name: हमताई
+    auto: true
   - translation_iso: jpn
     name: ハムタイ語
   - translation_iso: zho

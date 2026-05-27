@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبوتاي
     auto: true
+  - translation_iso: hin
+    name: अपुताई
+    auto: true
   - translation_iso: jpn
     name: アプタイ語
     auto: true

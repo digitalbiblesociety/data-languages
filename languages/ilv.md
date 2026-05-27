@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيلوي
     auto: true
+  - translation_iso: hin
+    name: इलुए
+    auto: true
   - translation_iso: jpn
     name: イルエ語
     auto: true

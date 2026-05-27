@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابار الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी बाबार
+    auto: true
   - translation_iso: jpn
     name: 北ババル語
     auto: true

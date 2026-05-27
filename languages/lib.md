@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يكوم
     auto: true
+  - translation_iso: hin
+    name: लिकुम
+    auto: true
   - translation_iso: jpn
     name: リクム語
     auto: true

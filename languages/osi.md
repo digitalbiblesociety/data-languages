@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوسينغ
     auto: true
+  - translation_iso: hin
+    name: ओसिंग
+    auto: true
   - translation_iso: jpn
     name: ウシン語
   - translation_iso: zho

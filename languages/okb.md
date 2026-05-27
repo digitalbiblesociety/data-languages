@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكوبو
     auto: true
+  - translation_iso: hin
+    name: ओकोबो
+    auto: true
   - translation_iso: jpn
     name: オコボ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اسجيردي
     auto: true
+  - translation_iso: hin
+    name: लासगेर्दी
+    auto: true
   - translation_iso: jpn
     name: ラースゲルド語
   - translation_iso: zho

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Emilian_language"
 translations:
   - translation_iso: ara
     name: لغة إميليانو
+  - translation_iso: hin
+    name: एमिलियन
+    auto: true
   - translation_iso: jpn
     name: エミリア語
   - translation_iso: kor

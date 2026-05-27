@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشويفي
     auto: true
+  - translation_iso: hin
+    name: चुआवे
+    auto: true
   - translation_iso: jpn
     name: チュアヴェ語
   - translation_iso: zho

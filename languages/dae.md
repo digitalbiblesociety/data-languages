@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الدوپا
     auto: true
+  - translation_iso: hin
+    name: दूपा
+    auto: true
   - translation_iso: jpn
     name: ドゥーパ語
     auto: true

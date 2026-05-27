@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Antiguan_and_Barbudan_Creole"
 translations:
   - translation_iso: ara
     name: الكريولية الأنتيغوية وبربودية
+  - translation_iso: hin
+    name: एंटीगुआ और बारबुडा क्रियोल अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: アンティグア・バーブーダ・クレオール語
   - translation_iso: kor

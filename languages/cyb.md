@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كايوباپا
     auto: true
+  - translation_iso: hin
+    name: कायुबाबा
+    auto: true
   - translation_iso: jpn
     name: カユババ語
     auto: true

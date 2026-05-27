@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بووك
     auto: true
+  - translation_iso: hin
+    name: पुओक
+    auto: true
   - translation_iso: jpn
     name: プオク語
     auto: true

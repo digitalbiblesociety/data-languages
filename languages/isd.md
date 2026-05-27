@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسناغ
     auto: true
+  - translation_iso: hin
+    name: इसनाग
+    auto: true
   - translation_iso: jpn
     name: イスナグ語
     auto: true

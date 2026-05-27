@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالْيا باريلي
     auto: true
+  - translation_iso: hin
+    name: पाल्या बरेली
+    auto: true
   - translation_iso: jpn
     name: パルヤ・バレリ語
     auto: true

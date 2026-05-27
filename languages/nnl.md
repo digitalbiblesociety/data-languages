@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رينغما ناغا الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी रेंग्मा नागा
+    auto: true
   - translation_iso: jpn
     name: 北レングマ・ナガ語
   - translation_iso: zho

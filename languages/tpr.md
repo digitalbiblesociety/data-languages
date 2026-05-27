@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توباري
     auto: true
+  - translation_iso: hin
+    name: तुपारी
+    auto: true
   - translation_iso: jpn
     name: トゥパリ語
     auto: true

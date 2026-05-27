@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويست دامار
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी दामार
+    auto: true
   - translation_iso: jpn
     name: 西ダマル語
     auto: true

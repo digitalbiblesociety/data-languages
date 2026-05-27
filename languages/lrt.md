@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ارانتوكا الاي
     auto: true
+  - translation_iso: hin
+    name: लारंतुका मलय
+    auto: true
   - translation_iso: jpn
     name: ラランツカ・マレー語
     auto: true

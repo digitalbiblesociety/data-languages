@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريسانو
     auto: true
+  - translation_iso: hin
+    name: रेयेसानो
+    auto: true
   - translation_iso: jpn
     name: レイェサノ語
   - translation_iso: zho

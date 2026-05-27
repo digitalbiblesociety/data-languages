@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندامبا
     auto: true
+  - translation_iso: hin
+    name: न्दाम्बा
+    auto: true
   - translation_iso: jpn
     name: ンダンバ語
     auto: true

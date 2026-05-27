@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كارو
     auto: true
+  - translation_iso: hin
+    name: कारो (ब्राज़ील)
+    auto: true
   - translation_iso: jpn
     name: ラマラマ語
   - translation_iso: zho

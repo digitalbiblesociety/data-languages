@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوروي
     auto: true
+  - translation_iso: hin
+    name: बुरुई
+    auto: true
   - translation_iso: jpn
     name: ブルイ語
     auto: true

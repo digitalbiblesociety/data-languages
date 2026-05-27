@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أنجلورومانية
     auto: true
+  - translation_iso: hin
+    name: एंग्लोरोमानी
+    auto: true
   - translation_iso: jpn
     name: アングロ・ロマニー語
   - translation_iso: zho

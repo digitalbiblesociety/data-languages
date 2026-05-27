@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نكاري
     auto: true
+  - translation_iso: hin
+    name: नकारी
+    auto: true
   - translation_iso: jpn
     name: ンカリ語
     auto: true

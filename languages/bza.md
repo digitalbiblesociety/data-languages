@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باندي
     auto: true
+  - translation_iso: hin
+    name: बांदी
+    auto: true
   - translation_iso: jpn
     name: バンディ語
     auto: true

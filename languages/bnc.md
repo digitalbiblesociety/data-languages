@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: بونتوك
     auto: true
+  - translation_iso: hin
+    name: बोंतोक
+    auto: true
   - translation_iso: jpn
     name: ボントック語
   - translation_iso: zho

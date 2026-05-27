@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باي الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य बाई
+    auto: true
   - translation_iso: jpn
     name: 中央バイ語
     auto: true

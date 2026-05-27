@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة دونج الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी डोंग
+    auto: true
   - translation_iso: jpn
     name: トン語
   - translation_iso: kor

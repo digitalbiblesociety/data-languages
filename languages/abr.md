@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة أبرون
     auto: true
+  - translation_iso: hin
+    name: अब्रोन
+    auto: true
   - translation_iso: jpn
     name: アブロン語
   - translation_iso: zho

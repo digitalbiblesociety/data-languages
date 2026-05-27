@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة هيو
     auto: true
+  - translation_iso: hin
+    name: हेयो
+    auto: true
   - translation_iso: jpn
     name: ヘヨ語
     auto: true

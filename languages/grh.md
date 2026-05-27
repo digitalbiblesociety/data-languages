@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غبيري-نيرآغو
     auto: true
+  - translation_iso: hin
+    name: ग्बिरी-निरागु
+    auto: true
   - translation_iso: jpn
     name: ギビリ・ニラグ語
     auto: true

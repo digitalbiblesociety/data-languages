@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وكي
     auto: true
+  - translation_iso: hin
+    name: लोके
+    auto: true
   - translation_iso: jpn
     name: ロケ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باوري
     auto: true
+  - translation_iso: hin
+    name: बाउरे
+    auto: true
   - translation_iso: jpn
     name: バウレ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيتون ديلي
     auto: true
+  - translation_iso: hin
+    name: तेतुन दिली
+    auto: true
   - translation_iso: jpn
     name: テトゥン・ディリ語
     auto: true

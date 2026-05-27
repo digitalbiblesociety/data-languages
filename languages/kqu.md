@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة سيروا
     auto: true
+  - translation_iso: hin
+    name: सेरोआ
+    auto: true
   - translation_iso: jpn
     name: セロア語
     auto: true

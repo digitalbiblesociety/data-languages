@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هونغ
     auto: true
+  - translation_iso: hin
+    name: हुंग
+    auto: true
   - translation_iso: jpn
     name: ハング語
     auto: true

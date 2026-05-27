@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إتكيوان
     auto: true
+  - translation_iso: hin
+    name: एटकीवान
+    auto: true
   - translation_iso: jpn
     name: エトクワン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاندوما
     auto: true
+  - translation_iso: hin
+    name: लांदोमा
+    auto: true
   - translation_iso: jpn
     name: ランドマ語
     auto: true

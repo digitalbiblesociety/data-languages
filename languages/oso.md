@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوسوسو
     auto: true
+  - translation_iso: hin
+    name: ओसोसो
+    auto: true
   - translation_iso: jpn
     name: オソソ語
     auto: true

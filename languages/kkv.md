@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانجيان
     auto: true
+  - translation_iso: hin
+    name: कांगियान
+    auto: true
   - translation_iso: jpn
     name: カンギアン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأنكافي
     auto: true
+  - translation_iso: hin
+    name: अंकावे
+    auto: true
   - translation_iso: jpn
     name: アンカベ語
     auto: true

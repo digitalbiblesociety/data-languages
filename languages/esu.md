@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اليوبيك الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य युपिक
+    auto: true
   - translation_iso: jpn
     name: 中央アラスカ・ユピック語
   - translation_iso: kor

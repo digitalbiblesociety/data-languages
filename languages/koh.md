@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كويو
     auto: true
+  - translation_iso: hin
+    name: कोयो
+    auto: true
   - translation_iso: jpn
     name: Koyo語
   - translation_iso: zho

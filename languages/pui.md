@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بويناف
     auto: true
+  - translation_iso: hin
+    name: पुइनावे
+    auto: true
   - translation_iso: jpn
     name: プイナベ語
     auto: true

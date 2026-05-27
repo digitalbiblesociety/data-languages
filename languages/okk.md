@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوامتيم وان
     auto: true
+  - translation_iso: hin
+    name: क्वामतिम वन
+    auto: true
   - translation_iso: jpn
     name: クワムティム・ワン語
     auto: true

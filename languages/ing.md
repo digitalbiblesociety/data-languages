@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "ديغيكست'ان"
     auto: true
+  - translation_iso: hin
+    name: देगेक्सिटान
+    auto: true
   - translation_iso: jpn
     name: デゲエキシタン語
     auto: true

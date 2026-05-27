@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة تريينج
     auto: true
+  - translation_iso: hin
+    name: त्रिएंग
+    auto: true
   - translation_iso: jpn
     name: トリエン語
     auto: true

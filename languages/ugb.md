@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوكو-أوجبانه
     auto: true
+  - translation_iso: hin
+    name: कुकु-उग्बान्ह
+    auto: true
   - translation_iso: jpn
     name: ウィク・ムミンハ語
     auto: true

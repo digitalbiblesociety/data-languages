@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اليونانية
     auto: true
+  - translation_iso: hin
+    name: यूनानी सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ギリシャ手話
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الشاتينو الغربي الأعلى
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी उच्चभूमि चातीनो
+    auto: true
   - translation_iso: jpn
     name: ウェスタン・ハイランド・チャティーノ語
     auto: true

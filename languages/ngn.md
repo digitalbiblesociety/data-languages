@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجوو
     auto: true
+  - translation_iso: hin
+    name: न्ग्वो
+    auto: true
   - translation_iso: jpn
     name: ングウォ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوليا
     auto: true
+  - translation_iso: hin
+    name: बोलिया
+    auto: true
   - translation_iso: jpn
     name: ボリア語
     auto: true

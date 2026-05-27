@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shoshoni_language"
 translations:
   - translation_iso: ara
     name: شوشوني
+  - translation_iso: hin
+    name: शोशोनी
+    auto: true
   - translation_iso: jpn
     name: ショショーニ語
   - translation_iso: kor

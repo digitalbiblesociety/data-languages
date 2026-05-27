@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موهافي
     auto: true
+  - translation_iso: hin
+    name: मोहावे
+    auto: true
   - translation_iso: jpn
     name: モハベ語
   - translation_iso: zho

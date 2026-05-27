@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوروسو
     auto: true
+  - translation_iso: hin
+    name: बुरुसु
+    auto: true
   - translation_iso: jpn
     name: ブルスゥ語
     auto: true

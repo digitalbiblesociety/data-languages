@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوقومتشي
     auto: true
+  - translation_iso: hin
+    name: पोकोमची
+    auto: true
   - translation_iso: jpn
     name: ポコムチ語
   - translation_iso: kor

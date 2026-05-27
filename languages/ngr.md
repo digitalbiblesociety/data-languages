@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إنجديو
     auto: true
+  - translation_iso: hin
+    name: एंगदेवू
+    auto: true
   - translation_iso: jpn
     name: ナング語
   - translation_iso: zho

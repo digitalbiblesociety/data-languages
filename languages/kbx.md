@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آب ما
     auto: true
+  - translation_iso: hin
+    name: आप मा
+    auto: true
   - translation_iso: jpn
     name: アップ・マ語
     auto: true

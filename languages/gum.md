@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآمبيآنو
     auto: true
+  - translation_iso: hin
+    name: गुआम्बियानो
+    auto: true
   - translation_iso: jpn
     name: グアンビアーノ語
     auto: true

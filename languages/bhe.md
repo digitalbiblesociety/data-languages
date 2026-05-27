@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بهايا
     auto: true
+  - translation_iso: hin
+    name: भाया
+    auto: true
   - translation_iso: jpn
     name: ビャヤ語
     auto: true

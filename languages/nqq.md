@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيان-كاريو ناغا
     auto: true
+  - translation_iso: hin
+    name: क्यान-कार्याव नागा
+    auto: true
   - translation_iso: jpn
     name: キャン・カリャウ・ナガ語
     auto: true

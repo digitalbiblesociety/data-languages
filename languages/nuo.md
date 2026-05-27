@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغويون
     auto: true
+  - translation_iso: hin
+    name: न्गुओन
+    auto: true
   - translation_iso: jpn
     name: ングウォン語
     auto: true

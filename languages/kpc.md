@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوريباكو
     auto: true
+  - translation_iso: hin
+    name: कुर्रिपाको
+    auto: true
   - translation_iso: jpn
     name: クリパコ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بايليا
     auto: true
+  - translation_iso: hin
+    name: बैलेलेआ
+    auto: true
   - translation_iso: jpn
     name: バエレレア語
     auto: true

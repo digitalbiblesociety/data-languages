@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أيكا
     auto: true
+  - translation_iso: hin
+    name: एका
+    auto: true
   - translation_iso: jpn
     name: アエカ語
     auto: true

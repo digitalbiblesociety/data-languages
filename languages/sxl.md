@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: سيليان
     auto: true
+  - translation_iso: hin
+    name: सेलियन
+    auto: true
   - translation_iso: jpn
     name: セロニア語
   - translation_iso: kor

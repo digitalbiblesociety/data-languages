@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الداري الزرادشتية
     auto: true
+  - translation_iso: hin
+    name: ज़ोरोस्ट्रियन दारी
+    auto: true
   - translation_iso: jpn
     name: ダリー語
   - translation_iso: kor

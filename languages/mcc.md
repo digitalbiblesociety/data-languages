@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بيتور
     auto: true
+  - translation_iso: hin
+    name: बितुर
+    auto: true
   - translation_iso: jpn
     name: ビトゥル語
     auto: true

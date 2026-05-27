@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: التشولونغ
     auto: true
+  - translation_iso: hin
+    name: छुलुङ
+    auto: true
   - translation_iso: jpn
     name: チュルング語
     auto: true

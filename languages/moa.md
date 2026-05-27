@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موان
     auto: true
+  - translation_iso: hin
+    name: म्वान
+    auto: true
   - translation_iso: jpn
     name: ムワン語
     auto: true

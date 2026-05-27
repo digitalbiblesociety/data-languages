@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبياكا
     auto: true
+  - translation_iso: hin
+    name: अपियाका
+    auto: true
   - translation_iso: jpn
     name: アピアカ語
     auto: true

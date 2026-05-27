@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دولبو
     auto: true
+  - translation_iso: hin
+    name: डोल्पो
+    auto: true
   - translation_iso: jpn
     name: ドルポ語
     auto: true

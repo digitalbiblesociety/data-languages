@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكيزو
     auto: true
+  - translation_iso: hin
+    name: इकिज़ु
+    auto: true
   - translation_iso: jpn
     name: イキズ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كراول
     auto: true
+  - translation_iso: hin
+    name: क्राओल
+    auto: true
   - translation_iso: jpn
     name: クラオル語
     auto: true

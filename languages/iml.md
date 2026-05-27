@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميلوك
     auto: true
+  - translation_iso: hin
+    name: मिलुक
+    auto: true
   - translation_iso: jpn
     name: ミルク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوتي
     auto: true
+  - translation_iso: hin
+    name: कोती
+    auto: true
   - translation_iso: jpn
     name: コティ語
   - translation_iso: zho

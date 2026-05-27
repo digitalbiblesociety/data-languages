@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاهي
     auto: true
+  - translation_iso: hin
+    name: काहे
+    auto: true
   - translation_iso: jpn
     name: カヘ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غيتوآ
     auto: true
+  - translation_iso: hin
+    name: गितुआ
+    auto: true
   - translation_iso: jpn
     name: ギトゥア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيدون
     auto: true
+  - translation_iso: hin
+    name: इदोन
+    auto: true
   - translation_iso: jpn
     name: イドン語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيبيلي
     auto: true
+  - translation_iso: hin
+    name: बेबेले
+    auto: true
   - translation_iso: jpn
     name: ベベレ語
     auto: true

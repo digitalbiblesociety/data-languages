@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنسوس
     auto: true
+  - translation_iso: hin
+    name: अनसस
+    auto: true
   - translation_iso: jpn
     name: アンスス語
     auto: true

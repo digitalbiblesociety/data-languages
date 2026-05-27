@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكليو
     auto: true
+  - translation_iso: hin
+    name: माक्लेव
+    auto: true
   - translation_iso: jpn
     name: マクレウ語
     auto: true

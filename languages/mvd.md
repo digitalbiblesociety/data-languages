@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مامبورو
     auto: true
+  - translation_iso: hin
+    name: मम्बोरू
+    auto: true
   - translation_iso: jpn
     name: マンボル語
     auto: true

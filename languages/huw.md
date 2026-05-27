@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هوكومينا
     auto: true
+  - translation_iso: hin
+    name: हुकुमिना
+    auto: true
   - translation_iso: jpn
     name: フクミナ語
   - translation_iso: zho

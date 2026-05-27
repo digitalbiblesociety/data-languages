@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة شوي بالاونج
     auto: true
+  - translation_iso: hin
+    name: श्वे पलाउंग
+    auto: true
   - translation_iso: jpn
     name: シュエパラウン語
     auto: true

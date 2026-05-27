@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كارولينيان
     auto: true
+  - translation_iso: hin
+    name: कैरोलिनियन
+    auto: true
   - translation_iso: jpn
     name: カロリン語
   - translation_iso: kor

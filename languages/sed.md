@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيدانج
     auto: true
+  - translation_iso: hin
+    name: सेदांग
+    auto: true
   - translation_iso: jpn
     name: セダン語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة لينغاو
     auto: true
+  - translation_iso: hin
+    name: लिंगाओ
+    auto: true
   - translation_iso: jpn
     name: オンベ語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لاناس لوبو
     auto: true
+  - translation_iso: hin
+    name: लानास लोबू
+    auto: true
   - translation_iso: jpn
     name: ロブ語
     auto: true

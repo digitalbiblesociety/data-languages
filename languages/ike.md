@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إينوكتيتوت كندي شرقي
     auto: true
+  - translation_iso: hin
+    name: पूर्वी कनाडाई इनुक्तितुत
+    auto: true
   - translation_iso: jpn
     name: 東部カナダ・イヌクティトゥット語
   - translation_iso: zho

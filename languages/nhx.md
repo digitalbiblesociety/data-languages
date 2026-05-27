@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إستموس ميكايابان ناهواتل
     auto: true
+  - translation_iso: hin
+    name: इस्थमस-मेकायापान नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: 地峡メカヤパン・ナワトル語
   - translation_iso: zho

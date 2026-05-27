@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاريجونا
     auto: true
+  - translation_iso: hin
+    name: कारिजोना
+    auto: true
   - translation_iso: jpn
     name: カリホナ語
     auto: true

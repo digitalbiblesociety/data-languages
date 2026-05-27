@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوروما أتابادي
     auto: true
+  - translation_iso: hin
+    name: अट्टापडी कुरुम्बा
+    auto: true
   - translation_iso: jpn
     name: アッタパディクルンバ語
     auto: true

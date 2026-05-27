@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تامبولما
     auto: true
+  - translation_iso: hin
+    name: तामपुलमा
+    auto: true
   - translation_iso: jpn
     name: タンプルマ
   - translation_iso: zho

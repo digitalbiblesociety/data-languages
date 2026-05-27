@@ -10,6 +10,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moabite_language"
 translations:
   - translation_iso: ara
     name: المؤابية
+  - translation_iso: hin
+    name: मोआबी
+    auto: true
   - translation_iso: jpn
     name: モアブ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هإيبآن
     auto: true
+  - translation_iso: hin
+    name: हेइबान
+    auto: true
   - translation_iso: jpn
     name: ヘイバン語
     auto: true

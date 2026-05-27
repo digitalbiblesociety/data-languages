@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: نيياو
     auto: true
+  - translation_iso: hin
+    name: न्याव
+    auto: true
   - translation_iso: jpn
     name: ニャウ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلاكورا
     auto: true
+  - translation_iso: hin
+    name: बिलकुरा
+    auto: true
   - translation_iso: jpn
     name: ビラクラ語
     auto: true

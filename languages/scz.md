@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: شيتلان
     auto: true
+  - translation_iso: hin
+    name: शेटलान
+    auto: true
   - translation_iso: jpn
     name: シェトランド語の
   - translation_iso: kor

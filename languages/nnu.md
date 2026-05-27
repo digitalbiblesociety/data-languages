@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوانغ
     auto: true
+  - translation_iso: hin
+    name: द्वांग
+    auto: true
   - translation_iso: jpn
     name: ドゥワン語
     auto: true

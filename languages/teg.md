@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيكي تيغي
     auto: true
+  - translation_iso: hin
+    name: तेके-तेगे
+    auto: true
   - translation_iso: jpn
     name: テケ・テゲ語
     auto: true

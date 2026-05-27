@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجيزيم
     auto: true
+  - translation_iso: hin
+    name: न्गिज़िम
+    auto: true
   - translation_iso: jpn
     name: ンギジム語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيمو
     auto: true
+  - translation_iso: hin
+    name: निमो
+    auto: true
   - translation_iso: jpn
     name: ニモ語
     auto: true

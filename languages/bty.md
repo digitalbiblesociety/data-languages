@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوبوت
     auto: true
+  - translation_iso: hin
+    name: बोबोत
+    auto: true
   - translation_iso: jpn
     name: ボボト語
     auto: true

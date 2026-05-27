@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة والو
     auto: true
+  - translation_iso: hin
+    name: ल्वालु
+    auto: true
   - translation_iso: jpn
     name: ルワル語
     auto: true

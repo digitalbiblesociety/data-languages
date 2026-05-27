@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راوتي
     auto: true
+  - translation_iso: hin
+    name: राउते
+    auto: true
   - translation_iso: jpn
     name: ラウテ語
     auto: true

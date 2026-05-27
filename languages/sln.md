@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة السالينان
     auto: true
+  - translation_iso: hin
+    name: सालिनान
+    auto: true
   - translation_iso: jpn
     name: サリナ語
   - translation_iso: zho

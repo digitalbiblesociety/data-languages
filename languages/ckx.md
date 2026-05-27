@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكاكا
     auto: true
+  - translation_iso: hin
+    name: काका
+    auto: true
   - translation_iso: jpn
     name: カカ語
     auto: true

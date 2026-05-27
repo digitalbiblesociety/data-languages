@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإروكوانس
     auto: true
+  - translation_iso: hin
+    name: एरोक्वानास
+    auto: true
   - translation_iso: jpn
     name: エロクワナス語
     auto: true

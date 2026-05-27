@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونديي
     auto: true
+  - translation_iso: hin
+    name: बोंदेई
+    auto: true
   - translation_iso: jpn
     name: ボンデイ語
   - translation_iso: zho

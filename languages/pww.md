@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاريين بوو الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी प्वो करेन
+    auto: true
   - translation_iso: jpn
     name: プウォ北カレン語
     auto: true

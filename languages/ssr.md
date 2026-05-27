@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة السويسرية الفرنسية
     auto: true
+  - translation_iso: hin
+    name: स्विस-फ़्रेंच सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: スイス・フランス手話
   - translation_iso: zho

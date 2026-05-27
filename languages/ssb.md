@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سما الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी सामा
+    auto: true
   - translation_iso: jpn
     name: バジャウ語
     auto: true

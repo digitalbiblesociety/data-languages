@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كومبا
     auto: true
+  - translation_iso: hin
+    name: कुम्बा
+    auto: true
   - translation_iso: jpn
     name: クンバ語
     auto: true

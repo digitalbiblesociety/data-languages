@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ناهوتل درانجو الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी दुरांगो नाहुआट्ल
+    auto: true
   - translation_iso: jpn
     name: 西ドゥランゴ・ナワトル語
     auto: true

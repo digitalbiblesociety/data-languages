@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفام
     auto: true
+  - translation_iso: hin
+    name: फाम
+    auto: true
   - translation_iso: jpn
     name: ファム語
     auto: true

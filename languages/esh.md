@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإشتهاردي
     auto: true
+  - translation_iso: hin
+    name: एश्तेहार्दी
+    auto: true
   - translation_iso: jpn
     name: エシュテハルディ語
     auto: true

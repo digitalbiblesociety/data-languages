@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاتو الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी कातू
+    auto: true
   - translation_iso: jpn
     name: 東カトゥ語
     auto: true

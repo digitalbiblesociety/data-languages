@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أواباكال
     auto: true
+  - translation_iso: hin
+    name: अवाबाकल
+    auto: true
   - translation_iso: jpn
     name: アワバカル語
     auto: true

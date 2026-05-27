@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اورينتيان
     auto: true
+  - translation_iso: hin
+    name: लॉरेंशियन
+    auto: true
   - translation_iso: jpn
     name: ローレンシャン語
     auto: true

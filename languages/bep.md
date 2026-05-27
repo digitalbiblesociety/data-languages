@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيسوا
     auto: true
+  - translation_iso: hin
+    name: बेसोआ
+    auto: true
   - translation_iso: jpn
     name: ベソア語
     auto: true

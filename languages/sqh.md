@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة شاو
     auto: true
+  - translation_iso: hin
+    name: शाउ
+    auto: true
   - translation_iso: jpn
     name: リシャウ語
     auto: true

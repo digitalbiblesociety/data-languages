@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كويريبي
     auto: true
+  - translation_iso: hin
+    name: किरिपी
+    auto: true
   - translation_iso: jpn
     name: キリピ
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيي
     auto: true
+  - translation_iso: hin
+    name: अयी (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: アイ語
     auto: true

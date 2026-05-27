@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشيووغاي
     auto: true
+  - translation_iso: hin
+    name: चिवोगाई
+    auto: true
   - translation_iso: jpn
     name: ツィウォガイ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تشيشينجيني
     auto: true
+  - translation_iso: hin
+    name: चिशिंगिनी
+    auto: true
   - translation_iso: jpn
     name: チシンギニ語
     auto: true

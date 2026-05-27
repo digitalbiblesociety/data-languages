@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكايانا
     auto: true
+  - translation_iso: hin
+    name: सिकायाना
+    auto: true
   - translation_iso: jpn
     name: シカイアナ語
   - translation_iso: zho

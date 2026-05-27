@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هاليا
     auto: true
+  - translation_iso: hin
+    name: हालिया
+    auto: true
   - translation_iso: jpn
     name: ハリア語
   - translation_iso: zho

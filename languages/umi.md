@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوكيت
     auto: true
+  - translation_iso: hin
+    name: उकित
+    auto: true
   - translation_iso: jpn
     name: セル語
   - translation_iso: zho

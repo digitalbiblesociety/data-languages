@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاشيناهوا
     auto: true
+  - translation_iso: hin
+    name: काशिनावा
+    auto: true
   - translation_iso: jpn
     name: カシナワ語
   - translation_iso: zho

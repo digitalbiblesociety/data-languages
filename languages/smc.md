@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوم
     auto: true
+  - translation_iso: hin
+    name: सोम
+    auto: true
   - translation_iso: jpn
     name: ディナンゲット語
     auto: true

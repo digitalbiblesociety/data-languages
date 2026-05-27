@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيتي
     auto: true
+  - translation_iso: hin
+    name: बेते
+    auto: true
   - translation_iso: jpn
     name: ベテ語
   - translation_iso: zho

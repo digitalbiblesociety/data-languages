@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتوليي
     auto: true
+  - translation_iso: hin
+    name: बातुले
+    auto: true
   - translation_iso: jpn
     name: バトゥレイ語
     auto: true

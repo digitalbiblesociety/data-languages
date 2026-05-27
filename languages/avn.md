@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أفاتيم
     auto: true
+  - translation_iso: hin
+    name: अवातिमे
+    auto: true
   - translation_iso: jpn
     name: アヴァティメ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكابوا
     auto: true
+  - translation_iso: hin
+    name: काब्वा
+    auto: true
   - translation_iso: jpn
     name: カプワ語
     auto: true

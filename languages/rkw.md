@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: أراكوال
     auto: true
+  - translation_iso: hin
+    name: अराकवाल
+    auto: true
   - translation_iso: jpn
     name: アラクワル語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Siberian_Tatar_language"
 translations:
   - translation_iso: ara
     name: اللغة التتارية السيبيرية
+  - translation_iso: hin
+    name: साइबेरियाई तातार
+    auto: true
   - translation_iso: jpn
     name: シビール語
   - translation_iso: kor

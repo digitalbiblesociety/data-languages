@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيمباري
     auto: true
+  - translation_iso: hin
+    name: सिम्बारी
+    auto: true
   - translation_iso: jpn
     name: シンバリ語
   - translation_iso: zho

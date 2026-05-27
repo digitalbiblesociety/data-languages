@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيبو
     auto: true
+  - translation_iso: hin
+    name: केपो
+    auto: true
   - translation_iso: jpn
     name: ケポ語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bahrani_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة بحرانية
+  - translation_iso: hin
+    name: बहरानी अरबी
+    auto: true
   - translation_iso: jpn
     name: アラビア語バーレーン方言
   - translation_iso: kor

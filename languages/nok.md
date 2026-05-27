@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوكساك
     auto: true
+  - translation_iso: hin
+    name: नूकसैक
+    auto: true
   - translation_iso: jpn
     name: ヌックサック語
   - translation_iso: zho

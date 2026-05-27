@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوردونا
     auto: true
+  - translation_iso: hin
+    name: बुर्दुना
+    auto: true
   - translation_iso: jpn
     name: ブルドゥナ語
     auto: true

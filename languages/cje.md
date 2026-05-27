@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشرو
     auto: true
+  - translation_iso: hin
+    name: चरू
+    auto: true
   - translation_iso: jpn
     name: チュル語
     auto: true

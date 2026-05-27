@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناتيني
     auto: true
+  - translation_iso: hin
+    name: नातेनी
+    auto: true
   - translation_iso: jpn
     name: ナテニ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راوانج
     auto: true
+  - translation_iso: hin
+    name: रावांग
+    auto: true
   - translation_iso: jpn
     name: ラワン語
   - translation_iso: zho

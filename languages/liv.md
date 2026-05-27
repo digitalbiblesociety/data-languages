@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Livonian_language"
 translations:
   - translation_iso: ara
     name: الليفونية
+  - translation_iso: hin
+    name: लिवोनियन
+    auto: true
   - translation_iso: jpn
     name: リヴォニア語
   - translation_iso: kor

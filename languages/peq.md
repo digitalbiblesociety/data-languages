@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी पोमो
+    auto: true
   - translation_iso: jpn
     name: 南ポモ語
   - translation_iso: zho

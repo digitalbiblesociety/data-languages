@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوجيلي
     auto: true
+  - translation_iso: hin
+    name: उघेले
+    auto: true
   - translation_iso: jpn
     name: ウゲレ語
     auto: true

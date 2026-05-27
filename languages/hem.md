@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هإمبآ
     auto: true
+  - translation_iso: hin
+    name: हेम्बा
+    auto: true
   - translation_iso: jpn
     name: ヘンバ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكلالام
     auto: true
+  - translation_iso: hin
+    name: क्लालम
+    auto: true
   - translation_iso: jpn
     name: クラーラム語
   - translation_iso: kor

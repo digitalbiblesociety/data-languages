@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بارذي
     auto: true
+  - translation_iso: hin
+    name: पारधी
+    auto: true
   - translation_iso: jpn
     name: パルディ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوك-نآر
     auto: true
+  - translation_iso: hin
+    name: कोक-नार
+    auto: true
   - translation_iso: jpn
     name: コック・ナル語
     auto: true

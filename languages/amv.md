@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمبيلاو
     auto: true
+  - translation_iso: hin
+    name: अम्बेलाउ
+    auto: true
   - translation_iso: jpn
     name: アンベラウ語
     auto: true

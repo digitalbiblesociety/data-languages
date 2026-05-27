@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: روفيانا
     auto: true
+  - translation_iso: hin
+    name: रोवियाना
+    auto: true
   - translation_iso: jpn
     name: ロヴィアナ語
   - translation_iso: zho

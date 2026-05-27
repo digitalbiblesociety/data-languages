@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناسال
     auto: true
+  - translation_iso: hin
+    name: नासाल
+    auto: true
   - translation_iso: jpn
     name: ナサル語
     auto: true

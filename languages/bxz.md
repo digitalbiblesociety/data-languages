@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيناهاري
     auto: true
+  - translation_iso: hin
+    name: बिनाहारी
+    auto: true
   - translation_iso: jpn
     name: ビナハリ語
     auto: true

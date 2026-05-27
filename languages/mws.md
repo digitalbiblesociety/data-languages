@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مويمبي-موثامبي
     auto: true
+  - translation_iso: hin
+    name: म्विम्बी-मुथाम्बी
+    auto: true
   - translation_iso: jpn
     name: ムウィンビ・ムタンビ語
     auto: true

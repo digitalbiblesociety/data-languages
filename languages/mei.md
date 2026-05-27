@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميدوب
     auto: true
+  - translation_iso: hin
+    name: मिदोब
+    auto: true
   - translation_iso: jpn
     name: ミドブ語
   - translation_iso: zho

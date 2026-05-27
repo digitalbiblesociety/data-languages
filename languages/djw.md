@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دجاوي
     auto: true
+  - translation_iso: hin
+    name: जावी
+    auto: true
   - translation_iso: jpn
     name: Jawi語
   - translation_iso: zho

@@ -16,6 +16,9 @@ glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semit
 translations:
   - translation_iso: ara
     name: العربية الفصحى
+  - translation_iso: hin
+    name: मानक अरबी
+    auto: true
   - translation_iso: jpn
     name: フスハー
   - translation_iso: kor

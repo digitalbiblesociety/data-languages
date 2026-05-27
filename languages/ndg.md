@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندينجيريكو
     auto: true
+  - translation_iso: hin
+    name: न्देंगेरेको
+    auto: true
   - translation_iso: jpn
     name: ンデンゲレコ語
     auto: true

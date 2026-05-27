@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأبالي
     auto: true
+  - translation_iso: hin
+    name: अपाली
+    auto: true
   - translation_iso: jpn
     name: アパリ語
     auto: true

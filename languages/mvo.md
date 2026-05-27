@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارفو
     auto: true
+  - translation_iso: hin
+    name: मारोवो
+    auto: true
   - translation_iso: jpn
     name: マロボ語
   - translation_iso: zho

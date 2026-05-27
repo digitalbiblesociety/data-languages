@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيراقو
     auto: true
+  - translation_iso: hin
+    name: इराकू
+    auto: true
   - translation_iso: jpn
     name: イラク語
   - translation_iso: zho

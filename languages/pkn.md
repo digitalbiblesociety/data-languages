@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكانها
     auto: true
+  - translation_iso: hin
+    name: पाकान्हा
+    auto: true
   - translation_iso: jpn
     name: パカンハ語
     auto: true

@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Laki_language"
 translations:
   - translation_iso: ara
     name: لغة لكي
+  - translation_iso: hin
+    name: लाकी
+    auto: true
   - translation_iso: jpn
     name: ラーク語
   - translation_iso: kor

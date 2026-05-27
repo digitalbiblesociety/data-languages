@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوينج
     auto: true
+  - translation_iso: hin
+    name: अविंग
+    auto: true
   - translation_iso: jpn
     name: アウィング語
     auto: true

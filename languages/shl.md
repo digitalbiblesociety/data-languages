@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشندو
     auto: true
+  - translation_iso: hin
+    name: शेंडु
+    auto: true
   - translation_iso: jpn
     name: キエン語
     auto: true

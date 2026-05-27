@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مور بانو
     auto: true
+  - translation_iso: hin
+    name: मुर पानो
+    auto: true
   - translation_iso: jpn
     name: ムル・パノ語
     auto: true

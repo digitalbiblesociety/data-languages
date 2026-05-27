@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة دوري
     auto: true
+  - translation_iso: hin
+    name: दुरी
+    auto: true
   - translation_iso: jpn
     name: ドゥリ語
     auto: true

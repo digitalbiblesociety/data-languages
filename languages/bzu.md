@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بورميسو
     auto: true
+  - translation_iso: hin
+    name: बुर्मेसो
+    auto: true
   - translation_iso: jpn
     name: ブルメソ語
     auto: true

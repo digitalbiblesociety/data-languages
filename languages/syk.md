@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوكور
     auto: true
+  - translation_iso: hin
+    name: सुकुर
+    auto: true
   - translation_iso: jpn
     name: スクル語
     auto: true

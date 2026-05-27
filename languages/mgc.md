@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موروكودو
     auto: true
+  - translation_iso: hin
+    name: मोरोकोडो
+    auto: true
   - translation_iso: jpn
     name: モロコド語
   - translation_iso: zho

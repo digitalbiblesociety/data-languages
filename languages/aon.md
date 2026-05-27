@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة البومبيتا أرابيش
     auto: true
+  - translation_iso: hin
+    name: बुम्बिता अरापेश
+    auto: true
   - translation_iso: jpn
     name: ブンビタ・アラペシュ語
     auto: true

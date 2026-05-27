@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبيلونغ
     auto: true
+  - translation_iso: hin
+    name: तोबिलुंग
+    auto: true
   - translation_iso: jpn
     name: トビルン語
     auto: true

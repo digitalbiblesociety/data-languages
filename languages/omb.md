@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أمبي الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी अम्बाए
+    auto: true
   - translation_iso: jpn
     name: 東アンバエ語
     auto: true

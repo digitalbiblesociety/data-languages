@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: الكارينجابا
     auto: true
+  - translation_iso: hin
+    name: कारेंगापा
+    auto: true
   - translation_iso: jpn
     name: カレンガッパ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلا
     auto: true
+  - translation_iso: hin
+    name: केला (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: ケラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نزاكارا
     auto: true
+  - translation_iso: hin
+    name: नज़ाकारा
+    auto: true
   - translation_iso: jpn
     name: ンザカラ語
     auto: true

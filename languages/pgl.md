@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيرلندية بدائية
     auto: true
+  - translation_iso: hin
+    name: आदिम आयरिश
+    auto: true
   - translation_iso: jpn
     name: 原アイルランド語
   - translation_iso: zho

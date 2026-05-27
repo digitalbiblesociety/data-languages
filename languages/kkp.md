@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة غوغوبيرا
     auto: true
+  - translation_iso: hin
+    name: गुगुबेरा
+    auto: true
   - translation_iso: jpn
     name: ググベラ語
     auto: true

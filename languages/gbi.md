@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجاليلا
     auto: true
+  - translation_iso: hin
+    name: गालेला
+    auto: true
   - translation_iso: jpn
     name: ガレラ語
   - translation_iso: zho

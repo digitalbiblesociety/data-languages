@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاوانجان
     auto: true
+  - translation_iso: hin
+    name: लावांगन
+    auto: true
   - translation_iso: jpn
     name: ラワンガン語
     auto: true

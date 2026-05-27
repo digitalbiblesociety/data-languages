@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آكا-كول
     auto: true
+  - translation_iso: hin
+    name: आका-कोल
+    auto: true
   - translation_iso: jpn
     name: アカコル語
     auto: true

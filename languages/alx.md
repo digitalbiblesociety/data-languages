@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمول
     auto: true
+  - translation_iso: hin
+    name: अमोल
+    auto: true
   - translation_iso: jpn
     name: アモル語
     auto: true

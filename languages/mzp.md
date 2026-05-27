@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: موفيما
     auto: true
+  - translation_iso: hin
+    name: मोविमा
+    auto: true
   - translation_iso: jpn
     name: モヴィマ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا نابو المنخفضة
     auto: true
+  - translation_iso: hin
+    name: नापो तराई क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: ナポ低地ケチュア語
     auto: true

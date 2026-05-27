@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كانويه
     auto: true
+  - translation_iso: hin
+    name: कानोए
+    auto: true
   - translation_iso: jpn
     name: カノエ語
     auto: true

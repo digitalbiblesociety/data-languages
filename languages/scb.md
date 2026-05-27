@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشوت
     auto: true
+  - translation_iso: hin
+    name: चुत
+    auto: true
   - translation_iso: jpn
     name: チュット語
   - translation_iso: kor

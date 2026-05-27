@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "لغة ارا اكاتي'"
     auto: true
+  - translation_iso: hin
+    name: रारा बकाती
+    auto: true
   - translation_iso: jpn
     name: ララ・バカティ語
     auto: true

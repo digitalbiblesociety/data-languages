@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتانجا
     auto: true
+  - translation_iso: hin
+    name: बतांगा
+    auto: true
   - translation_iso: jpn
     name: バタンガ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتوبا
     auto: true
+  - translation_iso: hin
+    name: कितुबा (कांगो)
+    auto: true
   - translation_iso: jpn
     name: キツバ語
     auto: true

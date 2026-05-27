@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتا بانجون كوتاي مالاي
     auto: true
+  - translation_iso: hin
+    name: कोटा बांगुन कुताई मलय
+    auto: true
   - translation_iso: jpn
     name: コタ・バングン・クタイ・マレー語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باركوا
     auto: true
+  - translation_iso: hin
+    name: पार्कवा
+    auto: true
   - translation_iso: jpn
     name: パルクワ語
     auto: true

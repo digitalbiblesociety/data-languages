@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة راوات
     auto: true
+  - translation_iso: hin
+    name: रावत
+    auto: true
   - translation_iso: jpn
     name: ラワット語
     auto: true

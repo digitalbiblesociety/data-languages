@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتاريمبونغ
     auto: true
+  - translation_iso: hin
+    name: उतार्मबुंग
+    auto: true
   - translation_iso: jpn
     name: ウタルムブング語
     auto: true

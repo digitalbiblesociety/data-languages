@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ري
     auto: true
+  - translation_iso: hin
+    name: पारी
+    auto: true
   - translation_iso: jpn
     name: Päri語
   - translation_iso: zho

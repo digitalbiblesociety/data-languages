@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ديير نيامزاك مبريمي
     auto: true
+  - translation_iso: hin
+    name: दिर-न्यामज़क-म्बारिमी
+    auto: true
   - translation_iso: jpn
     name: ディル・ニャムザク・ムバリミ語
     auto: true

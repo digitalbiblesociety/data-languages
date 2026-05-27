@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإروا
     auto: true
+  - translation_iso: hin
+    name: एरुवा
+    auto: true
   - translation_iso: jpn
     name: エルワ語
     auto: true

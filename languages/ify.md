@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيلي-آي كالاهان
     auto: true
+  - translation_iso: hin
+    name: केले-इ कल्लाहान
+    auto: true
   - translation_iso: jpn
     name: ケレイ・イ・カッラハン語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة سوتسو
     auto: true
+  - translation_iso: hin
+    name: त्सोत्सो
+    auto: true
   - translation_iso: jpn
     name: ツォツォ語
   - translation_iso: zho

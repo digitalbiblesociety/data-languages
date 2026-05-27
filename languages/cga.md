@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الشانغريوا
     auto: true
+  - translation_iso: hin
+    name: चांगरिवा
+    auto: true
   - translation_iso: jpn
     name: チャングリワ語
     auto: true

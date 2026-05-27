@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ييپون
     auto: true
+  - translation_iso: hin
+    name: लेइपोन
+    auto: true
   - translation_iso: jpn
     name: レイポン語
     auto: true

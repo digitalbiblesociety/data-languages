@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبي
     auto: true
+  - translation_iso: hin
+    name: सोबेई
+    auto: true
   - translation_iso: jpn
     name: ソベイ語
   - translation_iso: zho

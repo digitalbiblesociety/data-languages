@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولينياو
     auto: true
+  - translation_iso: hin
+    name: बोलिनाओ
+    auto: true
   - translation_iso: jpn
     name: ボリナオ語
   - translation_iso: zho

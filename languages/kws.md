@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويسي
     auto: true
+  - translation_iso: hin
+    name: क्वेसे
+    auto: true
   - translation_iso: jpn
     name: クウェセ語
     auto: true

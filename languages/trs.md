@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تريكي تشيكاهواكستلا
     auto: true
+  - translation_iso: hin
+    name: चिकाहुआख्त्ला त्रिकी
+    auto: true
   - translation_iso: jpn
     name: チカウアストラ・トリケ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الشاتينو الشرقي الأعلى
     auto: true
+  - translation_iso: hin
+    name: पूर्वी हाइलैंड चाटिनो
+    auto: true
   - translation_iso: jpn
     name: イースタン・ハイランド・チャティーノ語
     auto: true

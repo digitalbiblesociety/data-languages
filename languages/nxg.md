@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغادا
     auto: true
+  - translation_iso: hin
+    name: नगादा
+    auto: true
   - translation_iso: jpn
     name: ンガダ語
     auto: true

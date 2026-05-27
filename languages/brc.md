@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بِرْبيس كريول هولندي
     auto: true
+  - translation_iso: hin
+    name: बर्बिस क्रियोल डच
+    auto: true
   - translation_iso: jpn
     name: バルビス・クレオール・オランダ語
     auto: true

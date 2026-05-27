@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكوريو
     auto: true
+  - translation_iso: hin
+    name: अकुरियो
+    auto: true
   - translation_iso: jpn
     name: アクリオ語
     auto: true

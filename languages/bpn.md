@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زاو مين
     auto: true
+  - translation_iso: hin
+    name: ज़ाओ मिन
+    auto: true
   - translation_iso: jpn
     name: ジャオ・ミン語
     auto: true

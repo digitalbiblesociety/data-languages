@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماجانج
     auto: true
+  - translation_iso: hin
+    name: माजांग
+    auto: true
   - translation_iso: jpn
     name: マジャン語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة وسينجو
     auto: true
+  - translation_iso: hin
+    name: लुसेंगो
+    auto: true
   - translation_iso: jpn
     name: ルセンゴ語
     auto: true

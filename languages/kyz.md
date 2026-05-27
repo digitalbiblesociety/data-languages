@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايابي
     auto: true
+  - translation_iso: hin
+    name: कायाबी
+    auto: true
   - translation_iso: jpn
     name: カヤビ語
   - translation_iso: zho

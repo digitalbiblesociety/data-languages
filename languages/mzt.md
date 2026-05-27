@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: منتيل
     auto: true
+  - translation_iso: hin
+    name: मिंतिल
+    auto: true
   - translation_iso: jpn
     name: ミンティル語
     auto: true

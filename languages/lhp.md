@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هوكپو
     auto: true
+  - translation_iso: hin
+    name: ल्होकपू
+    auto: true
   - translation_iso: jpn
     name: ロプ語
   - translation_iso: zho

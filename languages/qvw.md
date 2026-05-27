@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوايلا وانكا
     auto: true
+  - translation_iso: hin
+    name: वायया वांका क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: ワイラワンカケチュア語
     auto: true

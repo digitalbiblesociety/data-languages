@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيريا-كونزول
     auto: true
+  - translation_iso: hin
+    name: किरया-कोन्ज़ेल
+    auto: true
   - translation_iso: jpn
     name: キルヤ・コンツェル語
     auto: true

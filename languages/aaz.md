@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أماراسي
     auto: true
+  - translation_iso: hin
+    name: अमारासी
+    auto: true
   - translation_iso: jpn
     name: アマラシ語
     auto: true

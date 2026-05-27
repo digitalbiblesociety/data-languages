@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نيو هيتيت
     auto: true
+  - translation_iso: hin
+    name: नव-हित्ती
+    auto: true
   - translation_iso: jpn
     name: ネオ・ヒッタイト語
     auto: true

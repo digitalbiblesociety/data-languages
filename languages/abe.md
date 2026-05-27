@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ويسترن أبناكي
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी अब्नाकी
+    auto: true
   - translation_iso: jpn
     name: 西アベナキ語
   - translation_iso: zho

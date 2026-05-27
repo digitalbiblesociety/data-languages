@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوليري
     auto: true
+  - translation_iso: hin
+    name: कुलेरे
+    auto: true
   - translation_iso: jpn
     name: クレレ語
     auto: true

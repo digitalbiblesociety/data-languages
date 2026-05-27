@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفيواجا
     auto: true
+  - translation_iso: hin
+    name: फिवागा
+    auto: true
   - translation_iso: jpn
     name: フィワガ語
     auto: true

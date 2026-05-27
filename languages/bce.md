@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامينيام
     auto: true
+  - translation_iso: hin
+    name: बामेन्याम
+    auto: true
   - translation_iso: jpn
     name: バメニャム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبول
     auto: true
+  - translation_iso: hin
+    name: कोबोल
+    auto: true
   - translation_iso: jpn
     name: コボル語
     auto: true

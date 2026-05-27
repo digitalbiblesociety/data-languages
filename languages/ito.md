@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: إيتونما
     auto: true
+  - translation_iso: hin
+    name: इतोनामा
+    auto: true
   - translation_iso: jpn
     name: イトナマ語
     auto: true

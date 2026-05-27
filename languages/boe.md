@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موندابلي
     auto: true
+  - translation_iso: hin
+    name: मुंडाब्ली
+    auto: true
   - translation_iso: jpn
     name: ムンダブリ語
     auto: true

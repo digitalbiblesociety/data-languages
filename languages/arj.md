@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرابازو
     auto: true
+  - translation_iso: hin
+    name: अरापासो
+    auto: true
   - translation_iso: jpn
     name: アラパソ語
     auto: true

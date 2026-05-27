@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجودواري
     auto: true
+  - translation_iso: hin
+    name: गोडवाड़ी
+    auto: true
   - translation_iso: jpn
     name: ゴドワリ語
   - translation_iso: zho

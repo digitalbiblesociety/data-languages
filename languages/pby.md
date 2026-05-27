@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيو
     auto: true
+  - translation_iso: hin
+    name: प्यू (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: ピュー語
   - translation_iso: zho

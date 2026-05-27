@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: سيبارا سينوفو
     auto: true
+  - translation_iso: hin
+    name: सेबारा सेनोफो
+    auto: true
   - translation_iso: jpn
     name: セナリ語
     auto: true

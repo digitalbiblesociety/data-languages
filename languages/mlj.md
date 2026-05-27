@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميلتو
     auto: true
+  - translation_iso: hin
+    name: मिल्तु
+    auto: true
   - translation_iso: jpn
     name: ミルトゥ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيرودونج موروت
     auto: true
+  - translation_iso: hin
+    name: सेरुडुंग मुरुत
+    auto: true
   - translation_iso: jpn
     name: ティドング語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خاسونغاكسانغو
     auto: true
+  - translation_iso: hin
+    name: ख़ासोंगाख़ांगो
+    auto: true
   - translation_iso: jpn
     name: ハアソンガハンノ語
   - translation_iso: kor

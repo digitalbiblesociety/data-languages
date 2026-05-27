@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيبا
     auto: true
+  - translation_iso: hin
+    name: जिबा
+    auto: true
   - translation_iso: jpn
     name: ジバ語
     auto: true

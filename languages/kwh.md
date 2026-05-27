@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوواي
     auto: true
+  - translation_iso: hin
+    name: कोवियाई
+    auto: true
   - translation_iso: jpn
     name: コウィアイ語
     auto: true

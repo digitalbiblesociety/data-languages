@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باي تافييترا
     auto: true
+  - translation_iso: hin
+    name: पाई तावितेरा
+    auto: true
   - translation_iso: jpn
     name: パイタビェテラ語
     auto: true

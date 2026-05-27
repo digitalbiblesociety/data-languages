@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبانين الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी सुबानेन
+    auto: true
   - translation_iso: jpn
     name: スバノン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديربال
     auto: true
+  - translation_iso: hin
+    name: डिर्बल
+    auto: true
   - translation_iso: jpn
     name: ジルバル語
   - translation_iso: kor

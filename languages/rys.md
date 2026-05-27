@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياييما
     auto: true
+  - translation_iso: hin
+    name: याएयामा
+    auto: true
   - translation_iso: jpn
     name: 八重山語
   - translation_iso: kor

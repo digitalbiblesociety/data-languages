@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة ومبا-اككها
     auto: true
+  - translation_iso: hin
+    name: लुम्बा-याक्खा
+    auto: true
   - translation_iso: jpn
     name: ルンバ・ヤッカ語
     auto: true

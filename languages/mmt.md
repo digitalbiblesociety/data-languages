@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مالالامي
     auto: true
+  - translation_iso: hin
+    name: मालालामाई
+    auto: true
   - translation_iso: jpn
     name: マララマイ語
     auto: true

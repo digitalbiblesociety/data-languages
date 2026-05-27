@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوينسو
     auto: true
+  - translation_iso: hin
+    name: क्विन्सू
+    auto: true
   - translation_iso: jpn
     name: クウィンスゥ語
     auto: true

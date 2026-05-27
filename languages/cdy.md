@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الشادونغ
     auto: true
+  - translation_iso: hin
+    name: चाडोंग
+    auto: true
   - translation_iso: jpn
     name: チャドン語
     auto: true

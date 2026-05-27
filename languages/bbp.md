@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بندا الوسطى الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिम मध्य बांदा
+    auto: true
   - translation_iso: jpn
     name: 中西部バンダ語
   - translation_iso: zho

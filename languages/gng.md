@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجآنجآم
     auto: true
+  - translation_iso: hin
+    name: न्गांगम
+    auto: true
   - translation_iso: jpn
     name: ンガンガム語
     auto: true

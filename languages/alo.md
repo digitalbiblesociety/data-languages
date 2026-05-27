@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة لاريك-واكاسيهو
     auto: true
+  - translation_iso: hin
+    name: लारिके-वाकासिहु
+    auto: true
   - translation_iso: jpn
     name: ラリケワカシフ語
     auto: true

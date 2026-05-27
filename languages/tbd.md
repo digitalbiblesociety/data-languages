@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كاكي إيي
     auto: true
+  - translation_iso: hin
+    name: काकी आए
+    auto: true
   - translation_iso: jpn
     name: カキ・アエ語
   - translation_iso: zho

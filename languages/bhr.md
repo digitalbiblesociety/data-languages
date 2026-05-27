@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بارا ملاجاشي
     auto: true
+  - translation_iso: hin
+    name: बारा मालागासी
+    auto: true
   - translation_iso: jpn
     name: バラ・マダガスカル語
   - translation_iso: zho

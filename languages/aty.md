@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنيتيوم
     auto: true
+  - translation_iso: hin
+    name: अनेइत्युम
+    auto: true
   - translation_iso: jpn
     name: アネイチュム語
   - translation_iso: zho

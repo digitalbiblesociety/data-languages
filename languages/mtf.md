@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موريك (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: hin
+    name: मुरिक (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: ムリク語
     auto: true

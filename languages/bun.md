@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شيربْرو
     auto: true
+  - translation_iso: hin
+    name: शेरब्रो
+    auto: true
   - translation_iso: jpn
     name: シェルブロ語
     auto: true

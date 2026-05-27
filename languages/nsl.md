@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة النرويجية
     auto: true
+  - translation_iso: hin
+    name: नॉर्वेजियन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ノルウェー手話
   - translation_iso: zho

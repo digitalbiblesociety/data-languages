@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تايكات
     auto: true
+  - translation_iso: hin
+    name: ताइकात
+    auto: true
   - translation_iso: jpn
     name: タイカット語
     auto: true

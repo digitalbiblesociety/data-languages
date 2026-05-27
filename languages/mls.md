@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Masalit_language"
 translations:
   - translation_iso: ara
     name: لغة المساليت
+  - translation_iso: hin
+    name: मसालित
+    auto: true
   - translation_iso: jpn
     name: マサリート語
   - translation_iso: zho

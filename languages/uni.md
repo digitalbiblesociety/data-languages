@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: أوني
     auto: true
+  - translation_iso: hin
+    name: उनी
+    auto: true
   - translation_iso: jpn
     name: ラモ語
     auto: true

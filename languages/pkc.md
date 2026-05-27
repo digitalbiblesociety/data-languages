@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايكتشي
     auto: true
+  - translation_iso: hin
+    name: बैक्जे
+    auto: true
   - translation_iso: jpn
     name: 百済語
   - translation_iso: kor

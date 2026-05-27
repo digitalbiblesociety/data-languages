@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باجا كوجا
     auto: true
+  - translation_iso: hin
+    name: बागा कोगा
+    auto: true
   - translation_iso: jpn
     name: バガ・コガ語
     auto: true

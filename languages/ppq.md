@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بي
     auto: true
+  - translation_iso: hin
+    name: पेई
+    auto: true
   - translation_iso: jpn
     name: ペイ語
     auto: true

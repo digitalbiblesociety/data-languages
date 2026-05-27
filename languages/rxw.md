@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاروالي
     auto: true
+  - translation_iso: hin
+    name: करुवाली
+    auto: true
   - translation_iso: jpn
     name: ガラワリ語
     auto: true

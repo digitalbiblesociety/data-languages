@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دكا
     auto: true
+  - translation_iso: hin
+    name: दक्का
+    auto: true
   - translation_iso: jpn
     name: ダッカ
   - translation_iso: zho

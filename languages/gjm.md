@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غونديتجمآرآ
     auto: true
+  - translation_iso: hin
+    name: गुंडितजमारा
+    auto: true
   - translation_iso: jpn
     name: ガンディッジマラ語
     auto: true

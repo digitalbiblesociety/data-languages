@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mesqan_language"
 translations:
   - translation_iso: ara
     name: مسكان (لغة)
+  - translation_iso: hin
+    name: मेस्कान
+    auto: true
   - translation_iso: jpn
     name: メスカン語
     auto: true

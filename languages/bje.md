@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بياو جياو ميين
     auto: true
+  - translation_iso: hin
+    name: बियाओ-जियाओ मियेन
+    auto: true
   - translation_iso: jpn
     name: ビャオ・ジャオ・ミエン語
     auto: true

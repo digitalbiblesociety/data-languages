@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينجيلابيسية
     auto: true
+  - translation_iso: hin
+    name: पिंगेलापीज़
+    auto: true
   - translation_iso: jpn
     name: ピンゲラップ語
   - translation_iso: zho

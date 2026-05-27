@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اييولو
     auto: true
+  - translation_iso: hin
+    name: लाइयोलो
+    auto: true
   - translation_iso: jpn
     name: ライヨロ語
     auto: true

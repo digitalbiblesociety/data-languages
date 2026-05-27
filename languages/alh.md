@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألّاوا
     auto: true
+  - translation_iso: hin
+    name: अलावा
+    auto: true
   - translation_iso: jpn
     name: アラワ語
     auto: true

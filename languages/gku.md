@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ǂونجكوإ
     auto: true
+  - translation_iso: hin
+    name: उंगक्वे
+    auto: true
   - translation_iso: jpn
     name: ウングク語
     auto: true

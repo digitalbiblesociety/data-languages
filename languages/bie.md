@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيبور
     auto: true
+  - translation_iso: hin
+    name: बेपोर
+    auto: true
   - translation_iso: jpn
     name: ベプール語
     auto: true

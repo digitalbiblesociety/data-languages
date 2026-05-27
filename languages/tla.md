@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوان الجنوبية الغربية
     auto: true
+  - translation_iso: hin
+    name: दक्षिण-पश्चिमी तेपेहुआन
+    auto: true
   - translation_iso: jpn
     name: 南西テペフアン語
     auto: true

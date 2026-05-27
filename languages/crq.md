@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "إيو'وجوا تشوروتي"
     auto: true
+  - translation_iso: hin
+    name: इयोवुजवा चोरोते
+    auto: true
   - translation_iso: jpn
     name: イヨウフワ・チョロテ語
     auto: true

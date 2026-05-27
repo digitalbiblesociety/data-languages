@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغوتايننيت
     auto: true
+  - translation_iso: hin
+    name: अगुटायनेन
+    auto: true
   - translation_iso: jpn
     name: アグタイネン語
     auto: true

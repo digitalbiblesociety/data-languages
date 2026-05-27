@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: بومانج
     auto: true
+  - translation_iso: hin
+    name: बुमांग
+    auto: true
   - translation_iso: jpn
     name: ブマング語
     auto: true

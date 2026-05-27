@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كواتيبيك ناهواتل
     auto: true
+  - translation_iso: hin
+    name: कोआतेपेक नाहुआत्ल
+    auto: true
   - translation_iso: jpn
     name: コアテペク・ナワトル語
     auto: true

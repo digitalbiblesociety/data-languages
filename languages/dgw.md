@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: داونجوروند
     auto: true
+  - translation_iso: hin
+    name: दौंगवुर्रुंग
+    auto: true
   - translation_iso: jpn
     name: ダウングワルング語
     auto: true

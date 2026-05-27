@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بورت ساندويتش
     auto: true
+  - translation_iso: hin
+    name: पोर्ट सैंडविच
+    auto: true
   - translation_iso: jpn
     name: ポートサンドウィッチ語
     auto: true

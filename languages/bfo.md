@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مالبا بيريفور
     auto: true
+  - translation_iso: hin
+    name: माल्बा बिरिफोर
+    auto: true
   - translation_iso: jpn
     name: マルバ・ビリフォル語
     auto: true

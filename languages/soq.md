@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاناسي
     auto: true
+  - translation_iso: hin
+    name: कानासी
+    auto: true
   - translation_iso: jpn
     name: ソナ語
     auto: true

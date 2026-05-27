@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوهو-سامانيه
     auto: true
+  - translation_iso: hin
+    name: गुहु-सामाने
+    auto: true
   - translation_iso: jpn
     name: グフ・サマネ語
     auto: true

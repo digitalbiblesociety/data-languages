@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالاوانو الجنوبية الغربية
     auto: true
+  - translation_iso: hin
+    name: दक्षिण-पश्चिम पालावानो
+    auto: true
   - translation_iso: jpn
     name: 南西パラワーノ語
     auto: true

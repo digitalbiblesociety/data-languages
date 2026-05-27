@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يآنومآمö
     auto: true
+  - translation_iso: hin
+    name: यानोमामो
+    auto: true
   - translation_iso: jpn
     name: ヤノマモ語
     auto: true

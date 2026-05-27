@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغات غير المشفرة
     auto: true
+  - translation_iso: hin
+    name: बिना कोड वाली भाषाएँ
+    auto: true
   - translation_iso: jpn
     name: 言語コードのない言語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاسيبو بالسي
     auto: true
+  - translation_iso: hin
+    name: कासिपो-बालेसी
+    auto: true
   - translation_iso: jpn
     name: カチポ・バレシ語
     auto: true

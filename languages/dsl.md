@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دانش ساين لانجويج
     auto: true
+  - translation_iso: hin
+    name: डेनिश सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: デンマーク手話
   - translation_iso: zho

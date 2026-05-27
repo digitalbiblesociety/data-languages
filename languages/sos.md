@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكو
     auto: true
+  - translation_iso: hin
+    name: सीकू
+    auto: true
   - translation_iso: jpn
     name: センブラ語
     auto: true

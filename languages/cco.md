@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكوماتيبك تشينانتك
     auto: true
+  - translation_iso: hin
+    name: कोमाल्टेपेक चिनान्तेक
+    auto: true
   - translation_iso: jpn
     name: コマルテペック・チナンテク語
     auto: true

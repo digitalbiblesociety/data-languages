@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غولين
     auto: true
+  - translation_iso: hin
+    name: गोलिन
+    auto: true
   - translation_iso: jpn
     name: ゴリン語
   - translation_iso: zho

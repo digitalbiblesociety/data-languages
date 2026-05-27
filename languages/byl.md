@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بايونو
     auto: true
+  - translation_iso: hin
+    name: बायोनो
+    auto: true
   - translation_iso: jpn
     name: バヤノ語
     auto: true

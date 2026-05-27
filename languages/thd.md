@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوك ثايور
     auto: true
+  - translation_iso: hin
+    name: कूक थायोर्रे
+    auto: true
   - translation_iso: jpn
     name: クークターヨレ語
   - translation_iso: zho

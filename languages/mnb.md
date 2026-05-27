@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مونا
     auto: true
+  - translation_iso: hin
+    name: मुना
+    auto: true
   - translation_iso: jpn
     name: ムナ語
   - translation_iso: zho

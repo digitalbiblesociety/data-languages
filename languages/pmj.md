@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بومي الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी पुमी
+    auto: true
   - translation_iso: jpn
     name: 南プミ語
     auto: true

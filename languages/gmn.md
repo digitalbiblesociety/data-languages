@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غيمنيمإ
     auto: true
+  - translation_iso: hin
+    name: गिम्निमे
+    auto: true
   - translation_iso: jpn
     name: ギムニメ語
     auto: true

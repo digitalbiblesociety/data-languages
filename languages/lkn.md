@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اكون
     auto: true
+  - translation_iso: hin
+    name: लाकोन
+    auto: true
   - translation_iso: jpn
     name: ラコン語
     auto: true

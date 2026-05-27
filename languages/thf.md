@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثانغمي
     auto: true
+  - translation_iso: hin
+    name: थांग्मी
+    auto: true
   - translation_iso: jpn
     name: タングミ語
     auto: true

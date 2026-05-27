@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: نادروفيان
     auto: true
+  - translation_iso: hin
+    name: नाद्रुवियन
+    auto: true
   - translation_iso: jpn
     name: ナドルヴィア語
   - translation_iso: zho

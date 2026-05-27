@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موفو الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी मोफू
+    auto: true
   - translation_iso: jpn
     name: 北モフ語
     auto: true

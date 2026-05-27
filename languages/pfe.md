@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيري
     auto: true
+  - translation_iso: hin
+    name: पीरे
+    auto: true
   - translation_iso: jpn
     name: ペーレ語
     auto: true

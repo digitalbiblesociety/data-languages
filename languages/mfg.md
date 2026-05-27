@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موجوفين
     auto: true
+  - translation_iso: hin
+    name: मोगोफिन
+    auto: true
   - translation_iso: jpn
     name: モゴフィン語
     auto: true

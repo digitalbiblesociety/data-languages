@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سومبوا
     auto: true
+  - translation_iso: hin
+    name: सुम्बवा
+    auto: true
   - translation_iso: jpn
     name: スンブワ語
     auto: true

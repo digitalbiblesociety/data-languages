@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيوم
     auto: true
+  - translation_iso: hin
+    name: बियोम
+    auto: true
   - translation_iso: jpn
     name: ビヨム語
     auto: true

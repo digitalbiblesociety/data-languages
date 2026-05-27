@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكاسي
     auto: true
+  - translation_iso: hin
+    name: माकासाए
+    auto: true
   - translation_iso: jpn
     name: マカサエ語
   - translation_iso: kor

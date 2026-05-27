@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيلونجاي موروت
     auto: true
+  - translation_iso: hin
+    name: सेलुंगाई मुरुत
+    auto: true
   - translation_iso: jpn
     name: ムルット語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باه دي
     auto: true
+  - translation_iso: hin
+    name: पा दी
+    auto: true
   - translation_iso: jpn
     name: パディ語
   - translation_iso: zho

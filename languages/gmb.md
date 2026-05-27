@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "غولآ'آلآآ"
     auto: true
+  - translation_iso: hin
+    name: गुलाअला
+    auto: true
   - translation_iso: jpn
     name: グラアラア語
     auto: true

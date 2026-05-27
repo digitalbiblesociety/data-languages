@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ هويشوي الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य हुइशुई ह्मोंग
+    auto: true
   - translation_iso: jpn
     name: 中部恵水フモン語
   - translation_iso: zho

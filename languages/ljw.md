@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يراندالي
     auto: true
+  - translation_iso: hin
+    name: यिरांदाली
+    auto: true
   - translation_iso: jpn
     name: イイランダリ語
     auto: true

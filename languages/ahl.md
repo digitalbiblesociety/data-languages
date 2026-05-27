@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيغو
     auto: true
+  - translation_iso: hin
+    name: इगो
+    auto: true
   - translation_iso: jpn
     name: イゴ語
     auto: true

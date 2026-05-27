@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة واندالا
     auto: true
+  - translation_iso: hin
+    name: वंडाला
+    auto: true
   - translation_iso: jpn
     name: ワンダラ語
     auto: true

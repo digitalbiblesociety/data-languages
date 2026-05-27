@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماي
     auto: true
+  - translation_iso: hin
+    name: माए
+    auto: true
   - translation_iso: jpn
     name: マエ語
     auto: true

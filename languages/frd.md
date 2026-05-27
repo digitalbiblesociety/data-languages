@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفوردتا
     auto: true
+  - translation_iso: hin
+    name: फोरडाटा
+    auto: true
   - translation_iso: jpn
     name: フォルダタ語
   - translation_iso: zho

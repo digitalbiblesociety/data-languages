@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ريل
     auto: true
+  - translation_iso: hin
+    name: रील
+    auto: true
   - translation_iso: jpn
     name: Reel語
   - translation_iso: zho

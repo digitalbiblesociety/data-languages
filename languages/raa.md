@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دونجمالي
     auto: true
+  - translation_iso: hin
+    name: दुंगमाली
+    auto: true
   - translation_iso: jpn
     name: ダンマリ語
     auto: true

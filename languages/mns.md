@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mansi_languages"
 translations:
   - translation_iso: ara
     name: المانسية
+  - translation_iso: hin
+    name: मानसी
+    auto: true
   - translation_iso: jpn
     name: マンシ語
   - translation_iso: kor

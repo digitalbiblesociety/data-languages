@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريانتانا
     auto: true
+  - translation_iso: hin
+    name: रिआंताना
+    auto: true
   - translation_iso: jpn
     name: リアンタナ語
     auto: true

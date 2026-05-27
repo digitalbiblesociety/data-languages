@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجالكجان
     auto: true
+  - translation_iso: hin
+    name: न्गालाकगान
+    auto: true
   - translation_iso: jpn
     name: ングアラクガン語
     auto: true

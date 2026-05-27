@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: النديج
     auto: true
+  - translation_iso: hin
+    name: एनडिंग
+    auto: true
   - translation_iso: jpn
     name: ンディング語
     auto: true

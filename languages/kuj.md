@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوريا
     auto: true
+  - translation_iso: hin
+    name: कुरिया
+    auto: true
   - translation_iso: jpn
     name: クリア語
     auto: true

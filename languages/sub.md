@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوكو
     auto: true
+  - translation_iso: hin
+    name: सुकु
+    auto: true
   - translation_iso: jpn
     name: スク語
   - translation_iso: zho

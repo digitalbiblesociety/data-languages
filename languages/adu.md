@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة أدوج
     auto: true
+  - translation_iso: hin
+    name: अदुगे
+    auto: true
   - translation_iso: jpn
     name: アドゥゲ語
     auto: true

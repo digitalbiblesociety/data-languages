@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوما
     auto: true
+  - translation_iso: hin
+    name: सुमा
+    auto: true
   - translation_iso: jpn
     name: ソウマ語
     auto: true

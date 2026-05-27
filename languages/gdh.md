@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجادجيرواج
     auto: true
+  - translation_iso: hin
+    name: गादजेरावांग
+    auto: true
   - translation_iso: jpn
     name: ガジェラワン語
     auto: true

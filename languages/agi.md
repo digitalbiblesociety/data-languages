@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغارييا
     auto: true
+  - translation_iso: hin
+    name: अगरिया
+    auto: true
   - translation_iso: jpn
     name: アガリア語
   - translation_iso: zho

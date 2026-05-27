@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيمي سامي
     auto: true
+  - translation_iso: hin
+    name: केमी सामी
+    auto: true
   - translation_iso: jpn
     name: ケミ・サーミ語
   - translation_iso: kor

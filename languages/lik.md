@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يكا
     auto: true
+  - translation_iso: hin
+    name: लिका
+    auto: true
   - translation_iso: jpn
     name: リカ語
     auto: true

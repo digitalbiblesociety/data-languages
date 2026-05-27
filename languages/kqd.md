@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Koy_Sanjaq_Christian_Neo-Aramaic"
 translations:
   - translation_iso: ara
     name: سورث كوي سنجق
+  - translation_iso: hin
+    name: कोय सनजाक सुरत
+    auto: true
   - translation_iso: jpn
     name: コイ・サンジャク・スラト語
   - translation_iso: zho

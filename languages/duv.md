@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوفلي
     auto: true
+  - translation_iso: hin
+    name: डुव्ले
+    auto: true
   - translation_iso: jpn
     name: ドゥヴレ語
     auto: true

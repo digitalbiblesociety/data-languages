@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هوبلآ
     auto: true
+  - translation_iso: hin
+    name: हुप्ला
+    auto: true
   - translation_iso: jpn
     name: フプラ語
     auto: true

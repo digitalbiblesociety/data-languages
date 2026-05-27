@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبو مادوري الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी बोबो मादारे
+    auto: true
   - translation_iso: jpn
     name: 北ボボ・マダレ語
     auto: true

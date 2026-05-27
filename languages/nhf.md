@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نهوالا
     auto: true
+  - translation_iso: hin
+    name: न्हुवाला
+    auto: true
   - translation_iso: jpn
     name: ンフワラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماهالي
     auto: true
+  - translation_iso: hin
+    name: माहाली
+    auto: true
   - translation_iso: jpn
     name: マハリ語
     auto: true

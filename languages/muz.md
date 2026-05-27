@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موسي
     auto: true
+  - translation_iso: hin
+    name: मुर्सी
+    auto: true
   - translation_iso: jpn
     name: ムルシ語
     auto: true

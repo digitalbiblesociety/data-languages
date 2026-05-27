@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Okinawan_language"
 translations:
   - translation_iso: ara
     name: لغة أوكيناوا
+  - translation_iso: hin
+    name: मध्य ओकिनावान
+    auto: true
   - translation_iso: jpn
     name: 沖縄語
   - translation_iso: kor

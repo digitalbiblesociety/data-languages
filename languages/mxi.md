@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Andalusi_Romance"
 translations:
   - translation_iso: ara
     name: المستعربية
+  - translation_iso: hin
+    name: मोज़ाराबिक
+    auto: true
   - translation_iso: jpn
     name: モサラベ語
   - translation_iso: kor

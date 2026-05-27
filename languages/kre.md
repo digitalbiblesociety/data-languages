@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Panar%C3%A1_language"
 translations:
   - translation_iso: ara
     name: لغة بانارا
+  - translation_iso: hin
+    name: पनारा
+    auto: true
   - translation_iso: jpn
     name: パナラ語
   - translation_iso: zho

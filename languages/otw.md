@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ottawa_dialect"
 translations:
   - translation_iso: ara
     name: أوطاوا
+  - translation_iso: hin
+    name: ओटावा
+    auto: true
   - translation_iso: jpn
     name: オタワ語
   - translation_iso: zho

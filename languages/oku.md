@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكو
     auto: true
+  - translation_iso: hin
+    name: ओकु
+    auto: true
   - translation_iso: jpn
     name: オク語
     auto: true

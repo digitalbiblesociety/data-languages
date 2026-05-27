@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجالا
     auto: true
+  - translation_iso: hin
+    name: मंगला
+    auto: true
   - translation_iso: jpn
     name: マンガラ語
     auto: true

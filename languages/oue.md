@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أون
     auto: true
+  - translation_iso: hin
+    name: ओउने
+    auto: true
   - translation_iso: jpn
     name: ウネ語
     auto: true

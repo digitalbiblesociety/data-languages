@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بومَجي
     auto: true
+  - translation_iso: hin
+    name: बुमाजी
+    auto: true
   - translation_iso: jpn
     name: ブマジ語
     auto: true

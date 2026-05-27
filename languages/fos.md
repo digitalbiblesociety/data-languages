@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السيرايا
     auto: true
+  - translation_iso: hin
+    name: सिरया
+    auto: true
   - translation_iso: jpn
     name: シラヤ語
   - translation_iso: zho

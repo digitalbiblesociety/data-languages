@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتسيس
     auto: true
+  - translation_iso: hin
+    name: मात्सेस
+    auto: true
   - translation_iso: jpn
     name: マツェス語
     auto: true

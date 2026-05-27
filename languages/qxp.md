@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا بونو
     auto: true
+  - translation_iso: hin
+    name: पुनो क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: プノ・ケチュア語
   - translation_iso: zho

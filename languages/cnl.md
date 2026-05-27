@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لالانا تشينانتك
     auto: true
+  - translation_iso: hin
+    name: लालाना चिनान्टेक
+    auto: true
   - translation_iso: jpn
     name: ララナ・チナンテク語
     auto: true

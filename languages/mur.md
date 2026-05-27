@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Murle_language"
 translations:
   - translation_iso: ara
     name: لغة مرلية
+  - translation_iso: hin
+    name: मुर्ले
+    auto: true
   - translation_iso: jpn
     name: ムルレ語
   - translation_iso: zho

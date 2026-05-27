@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مايدو الشمالية الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वोत्तर माइदू
+    auto: true
   - translation_iso: jpn
     name: マイドゥ語
   - translation_iso: zho

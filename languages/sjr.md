@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيار-لاك
     auto: true
+  - translation_iso: hin
+    name: सियार-लाक
+    auto: true
   - translation_iso: jpn
     name: シアル語
   - translation_iso: zho

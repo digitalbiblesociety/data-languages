@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوا تلاتشيتشيلكو
     auto: true
+  - translation_iso: hin
+    name: त्लाचिचिल्को तेपेहुआ
+    auto: true
   - translation_iso: jpn
     name: 西テペウア語
     auto: true

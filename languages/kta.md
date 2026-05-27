@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاتوا
     auto: true
+  - translation_iso: hin
+    name: कातुआ
+    auto: true
   - translation_iso: jpn
     name: カトゥア語
     auto: true

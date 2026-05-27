@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كونجو الجبلية
     auto: true
+  - translation_iso: hin
+    name: हाइलैंड कोन्जो
+    auto: true
   - translation_iso: jpn
     name: ハイランド・コンジョ語
     auto: true

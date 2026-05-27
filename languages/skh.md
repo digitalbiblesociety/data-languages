@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيكولية
     auto: true
+  - translation_iso: hin
+    name: सिकुले
+    auto: true
   - translation_iso: jpn
     name: ワリバヌア語
     auto: true

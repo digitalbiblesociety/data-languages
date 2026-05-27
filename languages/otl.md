@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي تيلابا
     auto: true
+  - translation_iso: hin
+    name: तिलापा ओटोमी
+    auto: true
   - translation_iso: jpn
     name: ティラパ・オトミ語
     auto: true

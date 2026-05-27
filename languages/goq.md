@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غورآب
     auto: true
+  - translation_iso: hin
+    name: गोराप
+    auto: true
   - translation_iso: jpn
     name: ゴラップ語
     auto: true

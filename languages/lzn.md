@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يينونج اجا
     auto: true
+  - translation_iso: hin
+    name: लीनोंग नागा
+    auto: true
   - translation_iso: jpn
     name: レイノン・ナガ語
     auto: true

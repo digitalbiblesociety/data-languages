@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكابوكا
     auto: true
+  - translation_iso: hin
+    name: पुकापुका
+    auto: true
   - translation_iso: jpn
     name: プカプカ語
   - translation_iso: zho

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كوفا
     auto: true
+  - translation_iso: hin
+    name: कोफा
+    auto: true
   - translation_iso: jpn
     name: コファ語
     auto: true

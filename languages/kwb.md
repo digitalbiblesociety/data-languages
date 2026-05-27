@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوا
     auto: true
+  - translation_iso: hin
+    name: क्वा
+    auto: true
   - translation_iso: jpn
     name: クワ語
     auto: true

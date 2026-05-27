@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيرا
     auto: true
+  - translation_iso: hin
+    name: बेरा
+    auto: true
   - translation_iso: jpn
     name: ベラ語
     auto: true

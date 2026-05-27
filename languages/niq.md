@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناندي
     auto: true
+  - translation_iso: hin
+    name: नांदी
+    auto: true
   - translation_iso: jpn
     name: ナンディ語
   - translation_iso: zho

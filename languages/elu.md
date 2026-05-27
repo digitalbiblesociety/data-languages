@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإلو
     auto: true
+  - translation_iso: hin
+    name: एलू
+    auto: true
   - translation_iso: jpn
     name: エル語
     auto: true

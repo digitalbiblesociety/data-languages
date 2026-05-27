@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: الشيتكو
     auto: true
+  - translation_iso: hin
+    name: चेट्को
+    auto: true
   - translation_iso: jpn
     name: チェツコ語
     auto: true

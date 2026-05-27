@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: دامال
     auto: true
+  - translation_iso: hin
+    name: दामाल
+    auto: true
   - translation_iso: jpn
     name: ダマル語
     auto: true

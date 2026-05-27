@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: بوزابا
     auto: true
+  - translation_iso: hin
+    name: बोज़ाबा
+    auto: true
   - translation_iso: jpn
     name: ボザバ語
     auto: true

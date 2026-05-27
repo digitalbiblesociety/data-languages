@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أثباريا
     auto: true
+  - translation_iso: hin
+    name: अठपरिया
+    auto: true
   - translation_iso: jpn
     name: アスパリヤ語
     auto: true

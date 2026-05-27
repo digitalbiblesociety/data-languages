@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الإتيوسيبريوتي
     auto: true
+  - translation_iso: hin
+    name: एतेओसाइप्रियट
+    auto: true
   - translation_iso: jpn
     name: エテオ・キュプロス語
   - translation_iso: zho

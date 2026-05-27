@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إياي
     auto: true
+  - translation_iso: hin
+    name: इयायु
+    auto: true
   - translation_iso: jpn
     name: イヤユ語
     auto: true

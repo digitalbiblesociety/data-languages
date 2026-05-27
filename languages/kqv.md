@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أوكولود
     auto: true
+  - translation_iso: hin
+    name: ओकोलोद
+    auto: true
   - translation_iso: jpn
     name: オコロド語
     auto: true

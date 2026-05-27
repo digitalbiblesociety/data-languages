@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانغو
     auto: true
+  - translation_iso: hin
+    name: तंग्गु
+    auto: true
   - translation_iso: jpn
     name: タング語
   - translation_iso: zho

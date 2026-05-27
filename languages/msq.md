@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاك
     auto: true
+  - translation_iso: hin
+    name: काक
+    auto: true
   - translation_iso: jpn
     name: カアック語
     auto: true

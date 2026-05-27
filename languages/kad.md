@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أدارا
     auto: true
+  - translation_iso: hin
+    name: अदारा
+    auto: true
   - translation_iso: jpn
     name: アダラ語
     auto: true

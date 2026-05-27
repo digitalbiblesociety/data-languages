@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: موغ الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य म्नोंग
+    auto: true
   - translation_iso: jpn
     name: セントラル・ムノング語
     auto: true

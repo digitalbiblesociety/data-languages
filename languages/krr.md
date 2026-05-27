@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كرونغ
     auto: true
+  - translation_iso: hin
+    name: क्रुंग
+    auto: true
   - translation_iso: jpn
     name: クルン語
     auto: true

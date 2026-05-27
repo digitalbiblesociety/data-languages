@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/South_Azerbaijani_language"
 translations:
   - translation_iso: ara
     name: الأذرية الجنوبية
+  - translation_iso: hin
+    name: दक्षिणी अज़रबैजानी
+    auto: true
   - translation_iso: jpn
     name: 南アゼルバイジャン語
   - translation_iso: kor

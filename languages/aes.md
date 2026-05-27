@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة ألسي
     auto: true
+  - translation_iso: hin
+    name: अल्सिया
+    auto: true
   - translation_iso: jpn
     name: アルシー語
   - translation_iso: zho

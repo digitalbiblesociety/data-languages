@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاراو
     auto: true
+  - translation_iso: hin
+    name: काराओ
+    auto: true
   - translation_iso: jpn
     name: カラオ語
     auto: true

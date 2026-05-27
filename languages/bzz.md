@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إڤانت
     auto: true
+  - translation_iso: hin
+    name: एवांत
+    auto: true
   - translation_iso: jpn
     name: エヴァント語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندو
     auto: true
+  - translation_iso: hin
+    name: न्दो
+    auto: true
   - translation_iso: jpn
     name: ンド語
     auto: true

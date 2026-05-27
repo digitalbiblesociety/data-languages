@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باسي
     auto: true
+  - translation_iso: hin
+    name: पासी
+    auto: true
   - translation_iso: jpn
     name: パシ語
     auto: true

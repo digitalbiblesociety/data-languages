@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Foodo_language"
 translations:
   - translation_iso: ara
     name: لغة Foodo
+  - translation_iso: hin
+    name: फूडो
+    auto: true
   - translation_iso: jpn
     name: フード語
     auto: true

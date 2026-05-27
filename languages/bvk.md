@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوكات
     auto: true
+  - translation_iso: hin
+    name: बुकाट
+    auto: true
   - translation_iso: jpn
     name: ブカット語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوفيم
     auto: true
+  - translation_iso: hin
+    name: उफिम
+    auto: true
   - translation_iso: jpn
     name: ウフィム語
     auto: true

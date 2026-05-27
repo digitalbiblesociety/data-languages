@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة با هنغ
     auto: true
+  - translation_iso: hin
+    name: पा-ह्न्ग
+    auto: true
   - translation_iso: jpn
     name: Pa-Hng語
   - translation_iso: zho

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بيلوا
     auto: true
+  - translation_iso: hin
+    name: बिलुआ
+    auto: true
   - translation_iso: jpn
     name: ムビルア語
   - translation_iso: zho

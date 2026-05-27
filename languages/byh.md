@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بهوجيل
     auto: true
+  - translation_iso: hin
+    name: भुजेल
+    auto: true
   - translation_iso: jpn
     name: ブジェル語
     auto: true

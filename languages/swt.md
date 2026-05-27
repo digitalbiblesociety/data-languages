@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساويلا
     auto: true
+  - translation_iso: hin
+    name: सविला
+    auto: true
   - translation_iso: jpn
     name: サウィラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاكيا
     auto: true
+  - translation_iso: hin
+    name: लाक्किया
+    auto: true
   - translation_iso: jpn
     name: ラギャ語
   - translation_iso: kor

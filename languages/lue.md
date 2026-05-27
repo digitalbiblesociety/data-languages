@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وفالي
     auto: true
+  - translation_iso: hin
+    name: लुवाले
+    auto: true
   - translation_iso: jpn
     name: ルヴァレ語
   - translation_iso: zho

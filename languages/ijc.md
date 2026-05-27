@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيزون
     auto: true
+  - translation_iso: hin
+    name: इज़ोन
+    auto: true
   - translation_iso: jpn
     name: イゾン語
   - translation_iso: zho

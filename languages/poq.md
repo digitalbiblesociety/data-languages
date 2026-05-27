@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا تيكسيستيبك
     auto: true
+  - translation_iso: hin
+    name: तेक्सिस्तेपेक पोपोलुका
+    auto: true
   - translation_iso: jpn
     name: テキステペックポプロッカ語
     auto: true

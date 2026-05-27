@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باشتو الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी पश्तो
+    auto: true
   - translation_iso: jpn
     name: 南部パシュトー語
   - translation_iso: zho

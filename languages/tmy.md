@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تامي
     auto: true
+  - translation_iso: hin
+    name: तामी
+    auto: true
   - translation_iso: jpn
     name: タミ語
     auto: true

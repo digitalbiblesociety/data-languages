@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اكوند
     auto: true
+  - translation_iso: hin
+    name: लाकोंदे
+    auto: true
   - translation_iso: jpn
     name: ラコンデ語
     auto: true

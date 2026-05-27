@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاغوما
     auto: true
+  - translation_iso: hin
+    name: कागोमा
+    auto: true
   - translation_iso: jpn
     name: カゴマ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيروي
     auto: true
+  - translation_iso: hin
+    name: सिरोई
+    auto: true
   - translation_iso: jpn
     name: シロイ語
   - translation_iso: zho

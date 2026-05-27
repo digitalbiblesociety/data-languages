@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mla%E1%B8%A5s%C3%B4_language"
 translations:
   - translation_iso: ara
     name: ملحسو
+  - translation_iso: hin
+    name: म्लाह्सो
+    auto: true
   - translation_iso: jpn
     name: ムラフソー語
     auto: true

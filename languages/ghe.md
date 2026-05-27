@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سووثإرن غآلإ
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी घले
+    auto: true
   - translation_iso: jpn
     name: サザン・ガレ語
     auto: true

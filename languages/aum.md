@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أسو
     auto: true
+  - translation_iso: hin
+    name: असु (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: アス語(ナイジェリア)
     auto: true

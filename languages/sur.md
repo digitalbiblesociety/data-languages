@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة موا ghavul
     auto: true
+  - translation_iso: hin
+    name: म्वाघावुल
+    auto: true
   - translation_iso: jpn
     name: ムワガヴル語
     auto: true

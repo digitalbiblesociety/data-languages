@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجوندي
     auto: true
+  - translation_iso: hin
+    name: न्गुंडी
+    auto: true
   - translation_iso: jpn
     name: ングンディ語
     auto: true

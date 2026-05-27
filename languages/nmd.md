@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندومو
     auto: true
+  - translation_iso: hin
+    name: न्दुमु
+    auto: true
   - translation_iso: jpn
     name: ンドゥム語
     auto: true

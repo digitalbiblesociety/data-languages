@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غورونتوم-مبآآرو
     auto: true
+  - translation_iso: hin
+    name: गुरुन्तुम-म्बारू
+    auto: true
   - translation_iso: jpn
     name: グルントゥム・ムバール語
     auto: true

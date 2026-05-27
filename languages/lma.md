@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ياست يمبا
     auto: true
+  - translation_iso: hin
+    name: पूर्वी लिंबा
+    auto: true
   - translation_iso: jpn
     name: 東リンバ語
     auto: true

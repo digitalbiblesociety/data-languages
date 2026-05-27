@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماراناو
     auto: true
+  - translation_iso: hin
+    name: मरानाओ
+    auto: true
   - translation_iso: jpn
     name: マラナオ語
   - translation_iso: kor

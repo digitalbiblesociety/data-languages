@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأمهواكا
     auto: true
+  - translation_iso: hin
+    name: अमाहुआका
+    auto: true
   - translation_iso: jpn
     name: アマワカ語
     auto: true

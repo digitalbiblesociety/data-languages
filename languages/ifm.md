@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيك-فوومو
     auto: true
+  - translation_iso: hin
+    name: तेके-फूमू
+    auto: true
   - translation_iso: jpn
     name: テケ・フーム語
     auto: true

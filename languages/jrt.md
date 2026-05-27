@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جورتو
     auto: true
+  - translation_iso: hin
+    name: जोरतो
+    auto: true
   - translation_iso: jpn
     name: ジョルト語
     auto: true

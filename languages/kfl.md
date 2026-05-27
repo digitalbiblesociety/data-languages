@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كونغ
     auto: true
+  - translation_iso: hin
+    name: कुंग
+    auto: true
   - translation_iso: jpn
     name: クン語
     auto: true

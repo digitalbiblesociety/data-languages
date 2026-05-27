@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: آنا تينجا دوجون
     auto: true
+  - translation_iso: hin
+    name: आना तिंगा डोगोन
+    auto: true
   - translation_iso: jpn
     name: アナティンガ・ドゴン語
     auto: true

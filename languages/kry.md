@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كريتس
     auto: true
+  - translation_iso: hin
+    name: क्रित्स
+    auto: true
   - translation_iso: jpn
     name: クリツ語
   - translation_iso: kor

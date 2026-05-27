@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوكو بابانغك
     auto: true
+  - translation_iso: hin
+    name: कोको बाबांग्क
+    auto: true
   - translation_iso: jpn
     name: ココ・ババングク語
     auto: true

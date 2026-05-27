@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: أندمانية عظيمة مختلطة
     auto: true
+  - translation_iso: hin
+    name: मिश्रित ग्रेट अंडमानी
+    auto: true
   - translation_iso: jpn
     name: 混合大アンダマン語
     auto: true

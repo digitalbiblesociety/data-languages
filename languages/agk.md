@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسارج أغتا
     auto: true
+  - translation_iso: hin
+    name: इसारोग अग्ता
+    auto: true
   - translation_iso: jpn
     name: イサログ・アグタ語
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة مانكانيا
     auto: true
+  - translation_iso: hin
+    name: मांकान्या
+    auto: true
   - translation_iso: jpn
     name: マンカニャ語
   - translation_iso: zho

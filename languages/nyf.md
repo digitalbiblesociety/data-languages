@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيريامة
     auto: true
+  - translation_iso: hin
+    name: गिर्यामा
+    auto: true
   - translation_iso: jpn
     name: ギリアマ語
   - translation_iso: zho

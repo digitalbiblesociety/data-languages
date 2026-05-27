@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غولآ يرو
     auto: true
+  - translation_iso: hin
+    name: गुला इरो
+    auto: true
   - translation_iso: jpn
     name: グラ・イロ語
     auto: true

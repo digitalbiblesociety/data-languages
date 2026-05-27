@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إشارة المالطية
     auto: true
+  - translation_iso: hin
+    name: माल्टा सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: マルタ手話
   - translation_iso: zho

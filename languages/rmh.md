@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موركيم
     auto: true
+  - translation_iso: hin
+    name: मुर्किम
+    auto: true
   - translation_iso: jpn
     name: ムルキム語
     auto: true

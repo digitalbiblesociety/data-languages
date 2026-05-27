@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باجا بوكور
     auto: true
+  - translation_iso: hin
+    name: बागा पोकुर
+    auto: true
   - translation_iso: jpn
     name: プクル語
   - translation_iso: zho

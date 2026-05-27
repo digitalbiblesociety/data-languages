@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاريري-شوكو
     auto: true
+  - translation_iso: hin
+    name: कारिरी-शोको
+    auto: true
   - translation_iso: jpn
     name: カリリ・シオコ語
     auto: true

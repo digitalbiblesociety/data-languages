@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: الفوم
     auto: true
+  - translation_iso: hin
+    name: फुम
+    auto: true
   - translation_iso: jpn
     name: フム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماشي زامبيا
     auto: true
+  - translation_iso: hin
+    name: माशी
+    auto: true
   - translation_iso: jpn
     name: マシ語
     auto: true

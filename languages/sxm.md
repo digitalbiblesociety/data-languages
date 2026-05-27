@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: سامري
     auto: true
+  - translation_iso: hin
+    name: सामरे
+    auto: true
   - translation_iso: jpn
     name: サムレ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موروت كينينجاو
     auto: true
+  - translation_iso: hin
+    name: केनिंगाउ मुरुत
+    auto: true
   - translation_iso: jpn
     name: ケニンガウ・ムルット語
     auto: true

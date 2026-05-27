@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميليان
     auto: true
+  - translation_iso: hin
+    name: मिल्यन
+    auto: true
   - translation_iso: jpn
     name: ミリヤ語
   - translation_iso: zho

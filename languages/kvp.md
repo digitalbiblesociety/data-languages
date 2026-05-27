@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كومبان
     auto: true
+  - translation_iso: hin
+    name: कोम्पाने
+    auto: true
   - translation_iso: jpn
     name: コンパネ語
     auto: true

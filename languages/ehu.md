@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإهويون
     auto: true
+  - translation_iso: hin
+    name: एहुयून
+    auto: true
   - translation_iso: jpn
     name: エフエウン語
     auto: true

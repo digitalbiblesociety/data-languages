@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجنجام
     auto: true
+  - translation_iso: hin
+    name: लिंगंगाम
+    auto: true
   - translation_iso: jpn
     name: リンガム語
     auto: true

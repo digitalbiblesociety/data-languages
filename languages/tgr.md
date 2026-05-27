@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: تارينغ
     auto: true
+  - translation_iso: hin
+    name: तारेंग
+    auto: true
   - translation_iso: jpn
     name: タレン語
     auto: true

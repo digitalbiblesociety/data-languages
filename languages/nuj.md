@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييولي
     auto: true
+  - translation_iso: hin
+    name: न्योले
+    auto: true
   - translation_iso: jpn
     name: Nyole語
   - translation_iso: zho

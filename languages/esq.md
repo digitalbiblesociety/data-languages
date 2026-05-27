@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الإسيلين
     auto: true
+  - translation_iso: hin
+    name: एसेलेन
+    auto: true
   - translation_iso: jpn
     name: エセレン語
   - translation_iso: zho

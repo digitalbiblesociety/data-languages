@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغولووان
     auto: true
+  - translation_iso: hin
+    name: न्गुलुवान
+    auto: true
   - translation_iso: jpn
     name: ングルワン語
   - translation_iso: zho

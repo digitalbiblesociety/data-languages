@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جايا
     auto: true
+  - translation_iso: hin
+    name: जाया
+    auto: true
   - translation_iso: jpn
     name: ジャヤ語
     auto: true

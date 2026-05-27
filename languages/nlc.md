@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نالكا
     auto: true
+  - translation_iso: hin
+    name: नाल्का
+    auto: true
   - translation_iso: jpn
     name: ナルカ語
     auto: true

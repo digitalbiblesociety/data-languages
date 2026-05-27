@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماخووا مونيجا
     auto: true
+  - translation_iso: hin
+    name: माखुवा-मोनिगा
+    auto: true
   - translation_iso: jpn
     name: マクワ・モニガ語
     auto: true

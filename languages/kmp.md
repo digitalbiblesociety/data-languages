@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جيمي
     auto: true
+  - translation_iso: hin
+    name: गिम्मे
+    auto: true
   - translation_iso: jpn
     name: ギンメ語
     auto: true

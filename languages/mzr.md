@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماروبو
     auto: true
+  - translation_iso: hin
+    name: मारूबो
+    auto: true
   - translation_iso: jpn
     name: マルーボ語
     auto: true

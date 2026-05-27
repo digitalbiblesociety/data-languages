@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيداآن
     auto: true
+  - translation_iso: hin
+    name: इदाआन
+    auto: true
   - translation_iso: jpn
     name: イダアン語
   - translation_iso: zho

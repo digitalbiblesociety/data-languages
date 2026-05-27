@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رازاجيردي
     auto: true
+  - translation_iso: hin
+    name: रजाजेर्दी
+    auto: true
   - translation_iso: jpn
     name: ラザジェルディ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الدانغاليات
     auto: true
+  - translation_iso: hin
+    name: दांगालेआत
+    auto: true
   - translation_iso: jpn
     name: ダンガレアト語
     auto: true

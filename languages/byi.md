@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بويو
     auto: true
+  - translation_iso: hin
+    name: बुयू
+    auto: true
   - translation_iso: jpn
     name: ブユ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جامساي دوجون
     auto: true
+  - translation_iso: hin
+    name: जामसे दोगोन
+    auto: true
   - translation_iso: jpn
     name: ジャマサイ方言
   - translation_iso: zho

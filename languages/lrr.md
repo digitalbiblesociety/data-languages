@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ووتهيرن امپهو
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी याम्फु
+    auto: true
   - translation_iso: jpn
     name: 南ヤンフ語
     auto: true

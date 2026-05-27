@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيواتوبوتابو
     auto: true
+  - translation_iso: hin
+    name: नियुआतोपुतापु
+    auto: true
   - translation_iso: jpn
     name: ニウアトプタプ語
   - translation_iso: kor

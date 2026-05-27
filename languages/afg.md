@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأفغانية
     auto: true
+  - translation_iso: hin
+    name: अफ़ग़ान सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: アフガン手話
   - translation_iso: zho

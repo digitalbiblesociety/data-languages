@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجريبو الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी ग्रेबो
+    auto: true
   - translation_iso: jpn
     name: 北グレボ語
     auto: true

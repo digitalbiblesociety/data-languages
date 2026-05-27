@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باراپاسي
     auto: true
+  - translation_iso: hin
+    name: बारापासी
+    auto: true
   - translation_iso: jpn
     name: バラパシ語
     auto: true

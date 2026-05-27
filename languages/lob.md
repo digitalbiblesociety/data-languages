@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وبي
     auto: true
+  - translation_iso: hin
+    name: लोबी
+    auto: true
   - translation_iso: jpn
     name: ロビ語
   - translation_iso: zho

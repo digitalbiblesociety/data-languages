@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كامبايرا
     auto: true
+  - translation_iso: hin
+    name: कम्बाइरा
+    auto: true
   - translation_iso: jpn
     name: カンバイラ語
     auto: true

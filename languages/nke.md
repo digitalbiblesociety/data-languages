@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديوك
     auto: true
+  - translation_iso: hin
+    name: डुके
+    auto: true
   - translation_iso: jpn
     name: デューク語
     auto: true

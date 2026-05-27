@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكيك
     auto: true
+  - translation_iso: hin
+    name: ओकिएक
+    auto: true
   - translation_iso: jpn
     name: オキエク語
   - translation_iso: zho

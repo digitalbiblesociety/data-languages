@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيكوارا
     auto: true
+  - translation_iso: hin
+    name: बेक्वार्रा
+    auto: true
   - translation_iso: jpn
     name: ベクワッラ語
     auto: true

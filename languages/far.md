@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفاتاليكا
     auto: true
+  - translation_iso: hin
+    name: फटालेका
+    auto: true
   - translation_iso: jpn
     name: ファタレカ語
     auto: true

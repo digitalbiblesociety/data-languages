@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماونان
     auto: true
+  - translation_iso: hin
+    name: माओनान
+    auto: true
   - translation_iso: jpn
     name: マオナン語
   - translation_iso: zho

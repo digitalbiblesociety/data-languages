@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: فالي الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी फाली
+    auto: true
   - translation_iso: jpn
     name: 南ファリ語
     auto: true

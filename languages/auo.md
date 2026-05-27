@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويوكاوا
     auto: true
+  - translation_iso: hin
+    name: औयोकावा
+    auto: true
   - translation_iso: jpn
     name: アウヨカワ語
   - translation_iso: zho

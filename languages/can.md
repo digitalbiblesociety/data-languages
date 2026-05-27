@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشامْبري
     auto: true
+  - translation_iso: hin
+    name: चाम्ब्री
+    auto: true
   - translation_iso: jpn
     name: チャンブリ語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ناري ناري
     auto: true
+  - translation_iso: hin
+    name: नारी नारी
+    auto: true
   - translation_iso: jpn
     name: ナリナリ語
     auto: true

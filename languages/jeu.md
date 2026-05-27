@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جونكور بورماتاغويل
     auto: true
+  - translation_iso: hin
+    name: जोंकोर बौरमातागुइल
+    auto: true
   - translation_iso: jpn
     name: ジョンコル・ブルマタギル語
     auto: true

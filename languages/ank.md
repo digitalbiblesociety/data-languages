@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جويمّاي
     auto: true
+  - translation_iso: hin
+    name: गोएमाई
+    auto: true
   - translation_iso: jpn
     name: ゴエマイ語
   - translation_iso: zho

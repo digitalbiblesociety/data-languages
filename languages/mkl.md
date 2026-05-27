@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موكول
     auto: true
+  - translation_iso: hin
+    name: मोकोले
+    auto: true
   - translation_iso: jpn
     name: モコレ語
     auto: true

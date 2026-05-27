@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هيبيتو
     auto: true
+  - translation_iso: hin
+    name: हिबितो
+    auto: true
   - translation_iso: jpn
     name: ヒビト語
     auto: true

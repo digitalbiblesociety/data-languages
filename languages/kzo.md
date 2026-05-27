@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانينجي
     auto: true
+  - translation_iso: hin
+    name: कानिंगी
+    auto: true
   - translation_iso: jpn
     name: カニンギ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيماما
     auto: true
+  - translation_iso: hin
+    name: किमामा
+    auto: true
   - translation_iso: jpn
     name: キマーマ語
     auto: true

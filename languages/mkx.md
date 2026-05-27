@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانوبو كيناميجينج
     auto: true
+  - translation_iso: hin
+    name: किनामिगिंग मानोबो
+    auto: true
   - translation_iso: jpn
     name: キナミギング・マノボ語
     auto: true

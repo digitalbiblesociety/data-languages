@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوسا لاوت
     auto: true
+  - translation_iso: hin
+    name: नुसा लाउत
+    auto: true
   - translation_iso: jpn
     name: ヌサ・ラウト語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوجيتلان تشينانتك
     auto: true
+  - translation_iso: hin
+    name: ओहितलान चिनान्तेक
+    auto: true
   - translation_iso: jpn
     name: オヒトラン・チナンテク語
     auto: true

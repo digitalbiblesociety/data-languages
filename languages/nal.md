@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نالك
     auto: true
+  - translation_iso: hin
+    name: नालिक
+    auto: true
   - translation_iso: jpn
     name: ナリク語
   - translation_iso: zho

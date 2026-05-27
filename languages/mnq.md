@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مينريق
     auto: true
+  - translation_iso: hin
+    name: मिनरिक
+    auto: true
   - translation_iso: jpn
     name: ミンリク語
     auto: true

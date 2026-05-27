@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيوسلاو
     auto: true
+  - translation_iso: hin
+    name: सियुस्लॉ
+    auto: true
   - translation_iso: jpn
     name: サイウスロー語
   - translation_iso: zho

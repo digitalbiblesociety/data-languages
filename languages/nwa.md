@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناواثينيهينا
     auto: true
+  - translation_iso: hin
+    name: नावाथिनेहेना
+    auto: true
   - translation_iso: jpn
     name: ナワティネヘナ語
     auto: true

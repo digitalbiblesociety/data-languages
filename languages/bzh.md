@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماپوس بوانج
     auto: true
+  - translation_iso: hin
+    name: मापोस बुआंग
+    auto: true
   - translation_iso: jpn
     name: マポス・ブアング語
     auto: true

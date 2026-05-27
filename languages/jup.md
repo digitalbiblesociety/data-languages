@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هوبدي
     auto: true
+  - translation_iso: hin
+    name: हुपदे
+    auto: true
   - translation_iso: jpn
     name: フプデ語
     auto: true

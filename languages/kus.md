@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kusaal_language"
 translations:
   - translation_iso: ara
     name: كوسال
+  - translation_iso: hin
+    name: कुसाल
+    auto: true
   - translation_iso: jpn
     name: クサール語
   - translation_iso: zho

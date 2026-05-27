@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيسا
     auto: true
+  - translation_iso: hin
+    name: निसा
+    auto: true
   - translation_iso: jpn
     name: ニサ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندرولو
     auto: true
+  - translation_iso: hin
+    name: न्द्रुलो
+    auto: true
   - translation_iso: jpn
     name: ンドゥルロ語
     auto: true

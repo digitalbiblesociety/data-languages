@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بياتاه بيدايوه
     auto: true
+  - translation_iso: hin
+    name: बियाताह बिदायुह
+    auto: true
   - translation_iso: jpn
     name: ビアタ・ビダユ語
     auto: true

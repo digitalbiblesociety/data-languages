@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيانغ
     auto: true
+  - translation_iso: hin
+    name: तियांग
+    auto: true
   - translation_iso: jpn
     name: ティアン語
   - translation_iso: zho

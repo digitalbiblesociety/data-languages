@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشي
     auto: true
+  - translation_iso: hin
+    name: शी
+    auto: true
   - translation_iso: jpn
     name: シ語
   - translation_iso: zho

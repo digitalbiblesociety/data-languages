@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيمنام
     auto: true
+  - translation_iso: hin
+    name: सेमनाम
+    auto: true
   - translation_iso: jpn
     name: スムナーム語
     auto: true

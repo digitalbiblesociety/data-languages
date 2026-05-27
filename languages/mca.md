@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكا
     auto: true
+  - translation_iso: hin
+    name: माका
+    auto: true
   - translation_iso: jpn
     name: マカ語
     auto: true

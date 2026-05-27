@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكبي
     auto: true
+  - translation_iso: hin
+    name: ओक्पे
+    auto: true
   - translation_iso: jpn
     name: オクペ語
     auto: true

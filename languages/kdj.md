@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كارامويونغ
     auto: true
+  - translation_iso: hin
+    name: करामोजोंग
+    auto: true
   - translation_iso: jpn
     name: カリモジョン語
   - translation_iso: zho

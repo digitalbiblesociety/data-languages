@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشيكيتانو
     auto: true
+  - translation_iso: hin
+    name: चिकितानो
+    auto: true
   - translation_iso: jpn
     name: チキターノ語
     auto: true

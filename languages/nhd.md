@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشيريبا
     auto: true
+  - translation_iso: hin
+    name: चिरिपा
+    auto: true
   - translation_iso: jpn
     name: アバグアラニー語
   - translation_iso: zho

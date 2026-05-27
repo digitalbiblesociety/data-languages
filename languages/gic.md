@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآيل
     auto: true
+  - translation_iso: hin
+    name: गेल
+    auto: true
   - translation_iso: jpn
     name: ゲイル言語
   - translation_iso: kor

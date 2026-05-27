@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميـاو شيانغشي الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी श्यांगशी मियाओ
+    auto: true
   - translation_iso: jpn
     name: 西部湘西苗語
   - translation_iso: zho

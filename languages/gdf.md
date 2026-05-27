@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جودوف-جافا
     auto: true
+  - translation_iso: hin
+    name: गुडुफ-गावा
+    auto: true
   - translation_iso: jpn
     name: グドゥフ・ガヴァ語
     auto: true

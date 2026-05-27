@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اكوروماو
     auto: true
+  - translation_iso: hin
+    name: लाकुरुमाउ
+    auto: true
   - translation_iso: jpn
     name: ラクルマウ語
     auto: true

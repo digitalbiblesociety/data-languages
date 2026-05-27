@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالوتشي الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी बलोची
+    auto: true
   - translation_iso: jpn
     name: 南バローチー語
   - translation_iso: zho

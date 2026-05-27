@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراي
     auto: true
+  - translation_iso: hin
+    name: बाराई
+    auto: true
   - translation_iso: jpn
     name: バライ語
     auto: true

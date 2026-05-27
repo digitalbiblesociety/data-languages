@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينثانج تشين
     auto: true
+  - translation_iso: hin
+    name: सेंथांग चिन
+    auto: true
   - translation_iso: jpn
     name: セントゥハン・チン語
     auto: true

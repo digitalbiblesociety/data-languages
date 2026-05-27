@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيوكو
     auto: true
+  - translation_iso: hin
+    name: किओको
+    auto: true
   - translation_iso: jpn
     name: キオコ語
     auto: true

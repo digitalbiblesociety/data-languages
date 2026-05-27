@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة اللوفية الهيروغليفية
     auto: true
+  - translation_iso: hin
+    name: चित्रलिपि लुवियन
+    auto: true
   - translation_iso: jpn
     name: 象形文字ルウィ語
   - translation_iso: zho

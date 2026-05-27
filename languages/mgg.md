@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبومبونج
     auto: true
+  - translation_iso: hin
+    name: म्पुम्पोंग
+    auto: true
   - translation_iso: jpn
     name: ムプムポン語
     auto: true

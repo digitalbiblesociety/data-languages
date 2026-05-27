@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دانو
     auto: true
+  - translation_iso: hin
+    name: दानाउ
+    auto: true
   - translation_iso: jpn
     name: ダナウ語
     auto: true

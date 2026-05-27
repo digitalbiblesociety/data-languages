@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pokomo_language"
 translations:
   - translation_iso: ara
     name: اللغة البوكومية
+  - translation_iso: hin
+    name: पोकोमो
+    auto: true
   - translation_iso: jpn
     name: ポコモ語
   - translation_iso: zho

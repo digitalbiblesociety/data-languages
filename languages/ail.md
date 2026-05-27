@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أيميل
     auto: true
+  - translation_iso: hin
+    name: ऐमेले
+    auto: true
   - translation_iso: jpn
     name: アイメレ語
     auto: true

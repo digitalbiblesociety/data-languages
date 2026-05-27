@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كونونغو
     auto: true
+  - translation_iso: hin
+    name: कोनोंगो
+    auto: true
   - translation_iso: jpn
     name: コノンゴ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تانغوات
     auto: true
+  - translation_iso: hin
+    name: तांगुआत
+    auto: true
   - translation_iso: jpn
     name: タングアット語
     auto: true

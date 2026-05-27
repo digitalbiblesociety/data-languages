@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نسجايا
     auto: true
+  - translation_iso: hin
+    name: निस्गा
+    auto: true
   - translation_iso: jpn
     name: ニスガ語
     auto: true

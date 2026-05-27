@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أبيدجي
     auto: true
+  - translation_iso: hin
+    name: अबिद्जी
+    auto: true
   - translation_iso: jpn
     name: アビッジ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأمبو
     auto: true
+  - translation_iso: hin
+    name: अम्बो
+    auto: true
   - translation_iso: jpn
     name: アンボ語
     auto: true

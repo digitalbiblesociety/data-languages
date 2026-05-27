@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: أوسكو
     auto: true
+  - translation_iso: hin
+    name: उस्कु
+    auto: true
   - translation_iso: jpn
     name: アフラ語
     auto: true

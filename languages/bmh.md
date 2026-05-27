@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كين
     auto: true
+  - translation_iso: hin
+    name: केइन
+    auto: true
   - translation_iso: jpn
     name: ケイン語
     auto: true

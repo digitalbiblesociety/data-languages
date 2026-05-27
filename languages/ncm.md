@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نامبو
     auto: true
+  - translation_iso: hin
+    name: नाम्बो
+    auto: true
   - translation_iso: jpn
     name: ナンボ語
     auto: true

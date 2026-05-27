@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجورا
     auto: true
+  - translation_iso: hin
+    name: सोंगूरा
+    auto: true
   - translation_iso: jpn
     name: Songoora語
   - translation_iso: zho

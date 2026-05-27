@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرندا الجنوبية السفلى
     auto: true
+  - translation_iso: hin
+    name: निचली दक्षिणी अरंडा
+    auto: true
   - translation_iso: jpn
     name: 下アレンテ語
   - translation_iso: zho

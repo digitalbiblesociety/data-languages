@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نغايوانغ
     auto: true
+  - translation_iso: hin
+    name: न्गायावुंग
+    auto: true
   - translation_iso: jpn
     name: ンガヤウング語
   - translation_iso: zho

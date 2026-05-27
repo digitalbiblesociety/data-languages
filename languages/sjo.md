@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكسيبية
     auto: true
+  - translation_iso: hin
+    name: शिबे
+    auto: true
   - translation_iso: jpn
     name: シベ語
   - translation_iso: kor

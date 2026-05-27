@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا باكاراوس
     auto: true
+  - translation_iso: hin
+    name: पाकाराओस क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: パカラオスケチュア語
     auto: true

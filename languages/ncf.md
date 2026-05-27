@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوتسي
     auto: true
+  - translation_iso: hin
+    name: नोत्सी
+    auto: true
   - translation_iso: jpn
     name: ノツィ語
   - translation_iso: zho

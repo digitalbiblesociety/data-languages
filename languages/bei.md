@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيكاتي
     auto: true
+  - translation_iso: hin
+    name: बेकाती
+    auto: true
   - translation_iso: jpn
     name: ベカティ語
     auto: true

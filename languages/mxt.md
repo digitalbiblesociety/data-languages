@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جاميلتيبيك ميكستك
     auto: true
+  - translation_iso: hin
+    name: हामिलतेपेक मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: ジャミルテペック・ミステク語
     auto: true

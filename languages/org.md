@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورينغ
     auto: true
+  - translation_iso: hin
+    name: ओरिंग
+    auto: true
   - translation_iso: jpn
     name: オリング語
     auto: true

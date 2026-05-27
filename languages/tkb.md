@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوكسا
     auto: true
+  - translation_iso: hin
+    name: बुक्सा
+    auto: true
   - translation_iso: jpn
     name: ブクサ語
     auto: true

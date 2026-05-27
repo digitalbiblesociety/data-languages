@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة ووتهيرن وري
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी लुरी
+    auto: true
   - translation_iso: jpn
     name: 南ロル語
   - translation_iso: zho

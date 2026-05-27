@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وجو
     auto: true
+  - translation_iso: hin
+    name: लोगो
+    auto: true
   - translation_iso: jpn
     name: ロゴ語
     auto: true

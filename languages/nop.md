@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نومانغانغ
     auto: true
+  - translation_iso: hin
+    name: नुमांग्गांग
+    auto: true
   - translation_iso: jpn
     name: ヌマンガン語
     auto: true

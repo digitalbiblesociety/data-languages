@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيني
     auto: true
+  - translation_iso: hin
+    name: बाइन
+    auto: true
   - translation_iso: jpn
     name: バイン語
     auto: true

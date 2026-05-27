@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kam-Tai > Daic-Beic > Daic > Northern Daic-Sek > Northern Daic > Northern Tai > Unclassified Northern Tai > E"
 wikipedia_url: "https://en.wikipedia.org/wiki/E_language"
 translations:
+  - translation_iso: hin
+    name: ए
+    auto: true
   - translation_iso: jpn
     name: エ語
     auto: true

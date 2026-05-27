@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بو
     auto: true
+  - translation_iso: hin
+    name: बू
+    auto: true
   - translation_iso: jpn
     name: ブ語
     auto: true

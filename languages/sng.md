@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سانجا (جمهورية الكونغو الديمقراطية)
     auto: true
+  - translation_iso: hin
+    name: सांगा (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
   - translation_iso: jpn
     name: サンガ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاغوانا سينوفو
     auto: true
+  - translation_iso: hin
+    name: तागवाना सेनोफो
+    auto: true
   - translation_iso: jpn
     name: タグワナ・セヌフォ語
     auto: true

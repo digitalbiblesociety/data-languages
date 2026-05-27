@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يست يمباتا
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी लेंबाता
+    auto: true
   - translation_iso: jpn
     name: 西レンバタ語
   - translation_iso: zho

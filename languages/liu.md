@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وجوريك
     auto: true
+  - translation_iso: hin
+    name: लोगोरिक
+    auto: true
   - translation_iso: jpn
     name: ロゴリク語
     auto: true

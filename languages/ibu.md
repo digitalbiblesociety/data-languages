@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: إيبو
     auto: true
+  - translation_iso: hin
+    name: इबू
+    auto: true
   - translation_iso: jpn
     name: イブ語
     auto: true

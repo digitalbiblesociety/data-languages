@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوسيرنا
     auto: true
+  - translation_iso: hin
+    name: पाउसेर्ना
+    auto: true
   - translation_iso: jpn
     name: パウセルナ語
     auto: true

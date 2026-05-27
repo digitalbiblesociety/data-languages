@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نومي
     auto: true
+  - translation_iso: hin
+    name: नुमे
+    auto: true
   - translation_iso: jpn
     name: ヌメ語
     auto: true

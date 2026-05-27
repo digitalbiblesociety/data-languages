@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Menominee_language"
 translations:
   - translation_iso: ara
     name: مينوميني
+  - translation_iso: hin
+    name: मेनोमिनी
+    auto: true
   - translation_iso: jpn
     name: メノミニー語
   - translation_iso: zho

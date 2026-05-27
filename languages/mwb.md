@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جوال
     auto: true
+  - translation_iso: hin
+    name: जुवाल
+    auto: true
   - translation_iso: jpn
     name: ジュワル語
     auto: true

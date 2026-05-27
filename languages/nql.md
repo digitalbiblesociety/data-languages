@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: نجينديلينغو
     auto: true
+  - translation_iso: hin
+    name: नगेंदेलेंगो
+    auto: true
   - translation_iso: jpn
     name: ンゲンデレンゴ語
     auto: true

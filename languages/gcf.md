@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكريولية الفرنسية جوادلوب
     auto: true
+  - translation_iso: hin
+    name: ग्वाडेलूपी क्रियोल फ्रेंच
+    auto: true
   - translation_iso: jpn
     name: グアドループ・クレオール語
   - translation_iso: kor

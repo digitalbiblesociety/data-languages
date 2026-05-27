@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maba_language"
 translations:
   - translation_iso: ara
     name: مبا
+  - translation_iso: hin
+    name: माबा
+    auto: true
   - translation_iso: jpn
     name: マバ語
   - translation_iso: kor

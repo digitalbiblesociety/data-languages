@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة كيميهوا
     auto: true
+  - translation_iso: hin
+    name: केमिएहुआ
+    auto: true
   - translation_iso: jpn
     name: ケミエフア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاوي
     auto: true
+  - translation_iso: hin
+    name: जावे
+    auto: true
   - translation_iso: jpn
     name: ジャウェ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا باستازا الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी पास्ताज़ा किचुआ
+    auto: true
   - translation_iso: jpn
     name: 北パスタサキチュア語
     auto: true

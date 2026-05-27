@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكاينا
     auto: true
+  - translation_iso: hin
+    name: ओकैना
+    auto: true
   - translation_iso: jpn
     name: オカイナ語
   - translation_iso: zho

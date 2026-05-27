@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Polabian_language"
 translations:
   - translation_iso: ara
     name: لغة بولابية
+  - translation_iso: hin
+    name: पोलाबियन
+    auto: true
   - translation_iso: jpn
     name: ポラーブ語
   - translation_iso: kor

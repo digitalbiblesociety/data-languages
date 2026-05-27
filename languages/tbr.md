@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تمتم
     auto: true
+  - translation_iso: hin
+    name: तुमतुम
+    auto: true
   - translation_iso: jpn
     name: トゥムトゥム語
     auto: true

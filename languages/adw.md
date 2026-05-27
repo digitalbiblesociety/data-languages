@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أموندّافا
     auto: true
+  - translation_iso: hin
+    name: अमुन्दावा
+    auto: true
   - translation_iso: jpn
     name: アムンダバ語
     auto: true

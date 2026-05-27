@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أوكان
     auto: true
+  - translation_iso: hin
+    name: उकान
+    auto: true
   - translation_iso: jpn
     name: ウカーン語
   - translation_iso: zho

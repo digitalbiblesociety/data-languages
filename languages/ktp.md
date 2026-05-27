@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كادوو
     auto: true
+  - translation_iso: hin
+    name: कादुओ
+    auto: true
   - translation_iso: jpn
     name: カドゥオ語
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة باولي
     auto: true
+  - translation_iso: hin
+    name: बाउले
+    auto: true
   - translation_iso: jpn
     name: バウレ語
   - translation_iso: zho

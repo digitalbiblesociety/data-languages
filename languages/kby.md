@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانغا كانوري
     auto: true
+  - translation_iso: hin
+    name: मांगा कानूरी
+    auto: true
   - translation_iso: jpn
     name: マンガ・カヌリ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رادي
     auto: true
+  - translation_iso: hin
+    name: रादे
+    auto: true
   - translation_iso: jpn
     name: ラデー語
   - translation_iso: kor

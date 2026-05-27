@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة التوعابيتا
     auto: true
+  - translation_iso: hin
+    name: तोआबाइता
+    auto: true
   - translation_iso: jpn
     name: トゥアバイタ語
     auto: true

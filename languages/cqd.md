@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مجموعة تشوانتشيانديان ميايو
     auto: true
+  - translation_iso: hin
+    name: चुआनकियानडियन समूह मियाओ
+    auto: true
   - translation_iso: jpn
     name: 川黔滇苗語
   - translation_iso: zho

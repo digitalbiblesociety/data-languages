@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيداخو-إيسوخا-تيريكي
     auto: true
+  - translation_iso: hin
+    name: इदाखो-इसुखा-तिरिकी
+    auto: true
   - translation_iso: jpn
     name: イダホ＝イスハ＝ティリキ語
   - translation_iso: zho

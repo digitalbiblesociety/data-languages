@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ماك
     auto: true
+  - translation_iso: hin
+    name: माएक
+    auto: true
   - translation_iso: jpn
     name: 濊貊語
   - translation_iso: kor

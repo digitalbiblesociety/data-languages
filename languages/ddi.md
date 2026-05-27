@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويست جودينو
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी गुडइनफ़
+    auto: true
   - translation_iso: jpn
     name: ウェスト・グッデナフ語
     auto: true

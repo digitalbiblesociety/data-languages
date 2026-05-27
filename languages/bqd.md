@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بونج
     auto: true
+  - translation_iso: hin
+    name: बुंग
+    auto: true
   - translation_iso: jpn
     name: ブング語
   - translation_iso: zho

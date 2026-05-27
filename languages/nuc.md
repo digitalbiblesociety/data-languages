@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوكويني
     auto: true
+  - translation_iso: hin
+    name: नुकुइनी
+    auto: true
   - translation_iso: jpn
     name: ヌクイニ語
     auto: true

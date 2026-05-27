@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بامبالانج
     auto: true
+  - translation_iso: hin
+    name: बम्बालांग
+    auto: true
   - translation_iso: jpn
     name: バンバラン語
     auto: true

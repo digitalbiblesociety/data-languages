@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يل
     auto: true
+  - translation_iso: hin
+    name: ल्येले
+    auto: true
   - translation_iso: jpn
     name: リエレ語
   - translation_iso: zho

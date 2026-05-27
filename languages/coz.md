@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشوتشوتك
     auto: true
+  - translation_iso: hin
+    name: चोचोटेक
+    auto: true
   - translation_iso: jpn
     name: チョショテク語
     auto: true

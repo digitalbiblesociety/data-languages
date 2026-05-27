@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أويجيتايا
     auto: true
+  - translation_iso: hin
+    name: उयाजिताया
+    auto: true
   - translation_iso: jpn
     name: ウヤジタヤ語
     auto: true

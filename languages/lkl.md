@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ايكو-يبوات
     auto: true
+  - translation_iso: hin
+    name: लाएको-लिबुआट
+    auto: true
   - translation_iso: jpn
     name: ラエコ・リブアット語
     auto: true

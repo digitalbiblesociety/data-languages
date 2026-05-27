@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: فوتونا الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी फुटुना
+    auto: true
   - translation_iso: jpn
     name: フトゥナ語
   - translation_iso: zho

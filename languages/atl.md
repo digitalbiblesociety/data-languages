@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة آجتا جبل إيرايا
     auto: true
+  - translation_iso: hin
+    name: माउंट इराया अग्ता
+    auto: true
   - translation_iso: jpn
     name: Mt.イラヤ・アグタ語
     auto: true

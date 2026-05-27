@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآكö
     auto: true
+  - translation_iso: hin
+    name: हाको
+    auto: true
   - translation_iso: jpn
     name: ハコ語
     auto: true

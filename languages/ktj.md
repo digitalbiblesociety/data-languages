@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كرومن بلابو
     auto: true
+  - translation_iso: hin
+    name: प्लापो क्रूमेन
+    auto: true
   - translation_iso: jpn
     name: プラポ・クルメン語
     auto: true

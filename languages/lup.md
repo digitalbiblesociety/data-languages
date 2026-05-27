@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ومبو
     auto: true
+  - translation_iso: hin
+    name: लुम्बू
+    auto: true
   - translation_iso: jpn
     name: ルンブ語
   - translation_iso: zho

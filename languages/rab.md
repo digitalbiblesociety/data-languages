@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاملينج
     auto: true
+  - translation_iso: hin
+    name: चामलिंग
+    auto: true
   - translation_iso: jpn
     name: カムリン語
     auto: true

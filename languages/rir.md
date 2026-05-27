@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريبون
     auto: true
+  - translation_iso: hin
+    name: रिबुन
+    auto: true
   - translation_iso: jpn
     name: リブン語
     auto: true

@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Talysh_language"
 translations:
   - translation_iso: ara
     name: الطالشية
+  - translation_iso: hin
+    name: तालिश
+    auto: true
   - translation_iso: jpn
     name: タリシュ語
   - translation_iso: kor

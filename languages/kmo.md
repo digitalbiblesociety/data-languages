@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كووما
     auto: true
+  - translation_iso: hin
+    name: क्वोमा
+    auto: true
   - translation_iso: jpn
     name: クウォマ語
     auto: true

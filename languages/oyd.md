@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويدا
     auto: true
+  - translation_iso: hin
+    name: ओयदा
+    auto: true
   - translation_iso: jpn
     name: オイダ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كووتااي
     auto: true
+  - translation_iso: hin
+    name: कुवाताय
+    auto: true
   - translation_iso: jpn
     name: クワータイ語
   - translation_iso: zho

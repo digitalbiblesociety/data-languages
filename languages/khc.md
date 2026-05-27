@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة توكانج بيسي الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी तुकांग बेसी
+    auto: true
   - translation_iso: jpn
     name: トゥカン・ベシ北語
     auto: true

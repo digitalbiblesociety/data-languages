@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة كلامات-مودوك
     auto: true
+  - translation_iso: hin
+    name: क्लामथ-मोडोक
+    auto: true
   - translation_iso: jpn
     name: クラマス・モドック語
     auto: true

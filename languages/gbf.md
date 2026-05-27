@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجايكوندي
     auto: true
+  - translation_iso: hin
+    name: गायकुंडी
+    auto: true
   - translation_iso: jpn
     name: ガイクンディ語
     auto: true

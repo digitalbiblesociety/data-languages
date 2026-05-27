@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميفيلي
     auto: true
+  - translation_iso: hin
+    name: मेफेले
+    auto: true
   - translation_iso: jpn
     name: メフェレ語
     auto: true

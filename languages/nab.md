@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جنوب نامبيكوارا
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी नांबिकुआरा
+    auto: true
   - translation_iso: jpn
     name: 南ナンビクワラ語
     auto: true

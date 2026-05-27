@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جيري كوو
     auto: true
+  - translation_iso: hin
+    name: जेरी कुओ
+    auto: true
   - translation_iso: jpn
     name: ジェリ・クォ語
     auto: true

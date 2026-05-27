@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بانجكا
     auto: true
+  - translation_iso: hin
+    name: बांगका
+    auto: true
   - translation_iso: jpn
     name: バンカ語
   - translation_iso: zho

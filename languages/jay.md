@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يان نهانغو
     auto: true
+  - translation_iso: hin
+    name: यान-न्हांगु
+    auto: true
   - translation_iso: jpn
     name: ヤン・ナング語
     auto: true

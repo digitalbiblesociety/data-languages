@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبيناييه
     auto: true
+  - translation_iso: hin
+    name: अपिनाये
+    auto: true
   - translation_iso: jpn
     name: アピナエ語
     auto: true

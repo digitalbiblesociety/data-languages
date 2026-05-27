@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ييندروو
     auto: true
+  - translation_iso: hin
+    name: न्यिंद्रोउ
+    auto: true
   - translation_iso: jpn
     name: ニインドロウ語
     auto: true

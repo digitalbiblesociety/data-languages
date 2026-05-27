@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: الكورنية الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य कॉर्निश
+    auto: true
   - translation_iso: jpn
     name: コーニッシュ語
     auto: true

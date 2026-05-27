@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة برينسيبيبنسي
     auto: true
+  - translation_iso: hin
+    name: प्रिंसिपेंसे
+    auto: true
   - translation_iso: jpn
     name: プリンシペ・クレオール語
   - translation_iso: zho

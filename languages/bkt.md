@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بولوكي
     auto: true
+  - translation_iso: hin
+    name: बोलोकी
+    auto: true
   - translation_iso: jpn
     name: ボロキ語
     auto: true

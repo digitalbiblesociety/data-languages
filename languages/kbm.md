@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيوال
     auto: true
+  - translation_iso: hin
+    name: इवाल
+    auto: true
   - translation_iso: jpn
     name: イワル語
     auto: true

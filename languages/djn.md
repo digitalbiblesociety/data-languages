@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جاوين
     auto: true
+  - translation_iso: hin
+    name: जावोयन
+    auto: true
   - translation_iso: jpn
     name: ジャウィン語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإليب
     auto: true
+  - translation_iso: hin
+    name: एलिप
+    auto: true
   - translation_iso: jpn
     name: エリップ語
     auto: true

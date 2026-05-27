@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jahanka_language"
 translations:
   - translation_iso: ara
     name: لغة جهنكية
+  - translation_iso: hin
+    name: जहांका
+    auto: true
   - translation_iso: jpn
     name: ジャハンカ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جارو
     auto: true
+  - translation_iso: hin
+    name: जारू
+    auto: true
   - translation_iso: jpn
     name: ジャル語
   - translation_iso: zho

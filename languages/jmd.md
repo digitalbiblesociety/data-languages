@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يامدينا
     auto: true
+  - translation_iso: hin
+    name: यामदेना
+    auto: true
   - translation_iso: jpn
     name: ヤムデナ語
   - translation_iso: zho

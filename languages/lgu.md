@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لونغو
     auto: true
+  - translation_iso: hin
+    name: लोंग्गु
+    auto: true
   - translation_iso: jpn
     name: ロンググ語
     auto: true

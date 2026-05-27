@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نو-تشاه-نولث
     auto: true
+  - translation_iso: hin
+    name: नू-चाह-नल्थ
+    auto: true
   - translation_iso: jpn
     name: ヌーチャヌルス語
   - translation_iso: zho

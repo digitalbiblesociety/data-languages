@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة كيزاماني
     auto: true
+  - translation_iso: hin
+    name: किज़ामानी
+    auto: true
   - translation_iso: jpn
     name: キザマニ語
     auto: true

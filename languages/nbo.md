@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نكوكولي
     auto: true
+  - translation_iso: hin
+    name: न्कुकोली
+    auto: true
   - translation_iso: jpn
     name: ングクコリ語
     auto: true

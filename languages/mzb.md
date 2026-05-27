@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mozabite_language"
 translations:
   - translation_iso: ara
     name: المزابية
+  - translation_iso: hin
+    name: तुमज़ाब्त
+    auto: true
   - translation_iso: jpn
     name: ムザブ語
   - translation_iso: zho

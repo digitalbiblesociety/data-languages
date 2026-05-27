@@ -15,6 +15,9 @@ glottolog_family_name: Chocoan
 glottolog_classification: "Chocoan > Embera > Atrato > Panama-Baudo-Atrato > Northern Emberá"
 wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Ember%C3%A1_language"
 translations:
+  - translation_iso: hin
+    name: उत्तरी एम्बेरा
+    auto: true
   - translation_iso: jpn
     name: 北エンベラ語
     auto: true

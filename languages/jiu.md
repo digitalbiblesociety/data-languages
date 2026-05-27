@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يوليه جينو
     auto: true
+  - translation_iso: hin
+    name: यौले जिनुओ
+    auto: true
   - translation_iso: jpn
     name: ユーレ・ジヌオ語
     auto: true

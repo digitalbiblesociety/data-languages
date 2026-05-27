@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناامي
     auto: true
+  - translation_iso: hin
+    name: नामी
+    auto: true
   - translation_iso: jpn
     name: ナアミ語
     auto: true

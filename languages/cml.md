@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكامبالاغيان
     auto: true
+  - translation_iso: hin
+    name: कम्पालागियन
+    auto: true
   - translation_iso: jpn
     name: カンパラギアン語
     auto: true

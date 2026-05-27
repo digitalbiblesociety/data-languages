@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رامواينا
     auto: true
+  - translation_iso: hin
+    name: रामोआइना
+    auto: true
   - translation_iso: jpn
     name: ラモアイナ語
     auto: true

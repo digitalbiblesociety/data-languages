@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة تشيانغماي
     auto: true
+  - translation_iso: hin
+    name: चियांगमाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: 原チェンマイ手話
   - translation_iso: zho

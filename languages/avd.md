@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الويري-ويداري
     auto: true
+  - translation_iso: hin
+    name: अल्विरी-विदारी
+    auto: true
   - translation_iso: jpn
     name: アルビリビダリ語
     auto: true

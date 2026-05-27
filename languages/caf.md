@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاريير جنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी कैरियर
+    auto: true
   - translation_iso: jpn
     name: 南カリエ語
     auto: true

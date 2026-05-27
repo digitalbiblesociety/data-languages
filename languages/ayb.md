@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أييزو جبي
     auto: true
+  - translation_iso: hin
+    name: अयिज़ो ग्बे
+    auto: true
   - translation_iso: jpn
     name: アイゾ語
   - translation_iso: zho

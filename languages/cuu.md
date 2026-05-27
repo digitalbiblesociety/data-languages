@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي يا
     auto: true
+  - translation_iso: hin
+    name: ताई या
+    auto: true
   - translation_iso: jpn
     name: 傣雅語
   - translation_iso: zho

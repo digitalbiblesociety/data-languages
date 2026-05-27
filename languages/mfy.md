@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايو
     auto: true
+  - translation_iso: hin
+    name: मायो
+    auto: true
   - translation_iso: jpn
     name: マヨ語
   - translation_iso: zho

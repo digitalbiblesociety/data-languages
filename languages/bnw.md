@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيسيس
     auto: true
+  - translation_iso: hin
+    name: बिसिस
+    auto: true
   - translation_iso: jpn
     name: ビシス語
     auto: true

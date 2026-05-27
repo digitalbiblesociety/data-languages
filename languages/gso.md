@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سووثوإست غبآيآ
     auto: true
+  - translation_iso: hin
+    name: दक्षिण-पश्चिमी ग्बाया
+    auto: true
   - translation_iso: jpn
     name: 南西グバヤ語
   - translation_iso: zho

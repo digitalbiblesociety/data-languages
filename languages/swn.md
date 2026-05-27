@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sokna_language"
 translations:
   - translation_iso: ara
     name: لغة فزان
+  - translation_iso: hin
+    name: साकनाह
+    auto: true
   - translation_iso: jpn
     name: ソクナ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لاما باي
     auto: true
+  - translation_iso: hin
+    name: लामा बाई
+    auto: true
   - translation_iso: jpn
     name: ラマ・バイ語
     auto: true

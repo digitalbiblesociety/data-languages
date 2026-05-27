@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة مجندانايون
     auto: true
+  - translation_iso: hin
+    name: मगिंडानाओन
+    auto: true
   - translation_iso: jpn
     name: マギンダナオ語
   - translation_iso: kor

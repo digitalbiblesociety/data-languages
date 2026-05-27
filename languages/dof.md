@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دومو
     auto: true
+  - translation_iso: hin
+    name: डोमू
+    auto: true
   - translation_iso: jpn
     name: ドム語
     auto: true

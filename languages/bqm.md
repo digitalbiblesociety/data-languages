@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وومبوكو
     auto: true
+  - translation_iso: hin
+    name: वुम्बोको
+    auto: true
   - translation_iso: jpn
     name: ウムボコ語
     auto: true

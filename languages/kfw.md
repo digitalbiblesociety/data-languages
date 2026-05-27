@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خارام ناغا
     auto: true
+  - translation_iso: hin
+    name: खाराम नागा
+    auto: true
   - translation_iso: jpn
     name: ハラム・ナガ語
     auto: true

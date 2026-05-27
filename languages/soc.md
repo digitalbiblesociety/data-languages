@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سو (جمهورية الكونغو الديمقراطية)
     auto: true
+  - translation_iso: hin
+    name: सो (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
   - translation_iso: jpn
     name: ソー語
     auto: true

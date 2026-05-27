@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوبونو
     auto: true
+  - translation_iso: hin
+    name: अवबोनो
+    auto: true
   - translation_iso: jpn
     name: アウボノ語
     auto: true

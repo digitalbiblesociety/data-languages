@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مينجانج دوسو
     auto: true
+  - translation_iso: hin
+    name: मिंगांग दोसो
+    auto: true
   - translation_iso: jpn
     name: ミンガン・ドソ語
     auto: true

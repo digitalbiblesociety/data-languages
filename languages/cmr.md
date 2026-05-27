@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإم‌رو-خيمي تشين
     auto: true
+  - translation_iso: hin
+    name: म्रो-खिमी चिन
+    auto: true
   - translation_iso: jpn
     name: ムロ・キミ・チン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسيفي ماسي
     auto: true
+  - translation_iso: hin
+    name: इचेवे-माची
+    auto: true
   - translation_iso: jpn
     name: イセヴェ・マシ語
     auto: true

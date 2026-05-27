@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاديّاوان
     auto: true
+  - translation_iso: hin
+    name: ताद्यावान
+    auto: true
   - translation_iso: jpn
     name: タディャワン語
     auto: true

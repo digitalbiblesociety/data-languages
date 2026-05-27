@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ديدوا
     auto: true
+  - translation_iso: hin
+    name: देदुआ
+    auto: true
   - translation_iso: jpn
     name: デドゥア語
     auto: true

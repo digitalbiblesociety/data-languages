@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيابانك
     auto: true
+  - translation_iso: hin
+    name: चियापानेक
+    auto: true
   - translation_iso: jpn
     name: チアパネック語
   - translation_iso: zho

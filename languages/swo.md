@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شانيناوا
     auto: true
+  - translation_iso: hin
+    name: शानेनावा
+    auto: true
   - translation_iso: jpn
     name: シャネナワ語
     auto: true

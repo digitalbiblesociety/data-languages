@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Razihi_language"
 translations:
   - translation_iso: ara
     name: اللغة الرازحية
+  - translation_iso: hin
+    name: राज़िही
+    auto: true
   - translation_iso: jpn
     name: ラジフ語
   - translation_iso: zho

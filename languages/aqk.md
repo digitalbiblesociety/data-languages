@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنينكا
     auto: true
+  - translation_iso: hin
+    name: अनिन्का
+    auto: true
   - translation_iso: jpn
     name: アニンカ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دجابوجاي
     auto: true
+  - translation_iso: hin
+    name: जाबुगाय
+    auto: true
   - translation_iso: jpn
     name: ジャブガイ語
     auto: true

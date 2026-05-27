@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كابين
     auto: true
+  - translation_iso: hin
+    name: कापिन
+    auto: true
   - translation_iso: jpn
     name: カピン語
     auto: true

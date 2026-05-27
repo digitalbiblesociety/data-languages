@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة أواب ميتو
     auto: true
+  - translation_iso: hin
+    name: उआब मेतो
+    auto: true
   - translation_iso: jpn
     name: ウアブ・メト語
   - translation_iso: kor

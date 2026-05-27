@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساويرو
     auto: true
+  - translation_iso: hin
+    name: सावेरु
+    auto: true
   - translation_iso: jpn
     name: サウェル語
     auto: true

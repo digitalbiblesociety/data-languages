@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوبكاكا
     auto: true
+  - translation_iso: hin
+    name: कोपकाका
+    auto: true
   - translation_iso: jpn
     name: コプカカ語
     auto: true

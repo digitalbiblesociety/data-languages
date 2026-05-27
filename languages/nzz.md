@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ننغا دمه دوغون
     auto: true
+  - translation_iso: hin
+    name: नांगा दामा दोगोन
+    auto: true
   - translation_iso: jpn
     name: ナンガ・ダマ・ドゴン語
     auto: true

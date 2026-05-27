@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفوي
     auto: true
+  - translation_iso: hin
+    name: फ्वे
+    auto: true
   - translation_iso: jpn
     name: フウェ語
     auto: true

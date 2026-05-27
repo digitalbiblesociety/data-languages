@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مولمو وان
     auto: true
+  - translation_iso: hin
+    name: मोल्मो वन
+    auto: true
   - translation_iso: jpn
     name: モルモ・ワン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساكاتيبك تشاتينو
     auto: true
+  - translation_iso: hin
+    name: ज़ाकाटेपेक चातीनो
+    auto: true
   - translation_iso: jpn
     name: サカテペク・チャティーノ語
     auto: true

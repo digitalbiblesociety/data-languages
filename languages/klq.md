@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة روموو
     auto: true
+  - translation_iso: hin
+    name: रुमू
+    auto: true
   - translation_iso: jpn
     name: ルムー語
     auto: true

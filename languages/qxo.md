@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كونتشوس الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी कोंचुकोस आंकाश क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: 南コンチュコスアンカシュケチュア語
     auto: true

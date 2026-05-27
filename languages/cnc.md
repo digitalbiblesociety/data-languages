@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوونغ
     auto: true
+  - translation_iso: hin
+    name: कोओंग
+    auto: true
   - translation_iso: jpn
     name: コオン語
     auto: true

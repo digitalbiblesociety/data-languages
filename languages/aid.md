@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألنجيت
     auto: true
+  - translation_iso: hin
+    name: अल्न्गिथ
+    auto: true
   - translation_iso: jpn
     name: アルンギス語
     auto: true

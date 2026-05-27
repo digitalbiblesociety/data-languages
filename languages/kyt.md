@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايجار
     auto: true
+  - translation_iso: hin
+    name: कायागार
+    auto: true
   - translation_iso: jpn
     name: カヤガル語
     auto: true

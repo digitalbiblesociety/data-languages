@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داويرا داويلور
     auto: true
+  - translation_iso: hin
+    name: दावेरा-दावेलूर
+    auto: true
   - translation_iso: jpn
     name: ダウェラ・ダウェロール語
     auto: true

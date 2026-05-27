@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كالاركو
     auto: true
+  - translation_iso: hin
+    name: कलार्को
+    auto: true
   - translation_iso: jpn
     name: カラルコ語
     auto: true

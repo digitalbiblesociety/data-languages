@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ساوث سنترال دينكا
     auto: true
+  - translation_iso: hin
+    name: दक्षिण मध्य डिंका
+    auto: true
   - translation_iso: jpn
     name: 中南ディンカ語
   - translation_iso: zho

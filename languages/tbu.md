@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبار
     auto: true
+  - translation_iso: hin
+    name: तुबार
+    auto: true
   - translation_iso: jpn
     name: トゥバル語
     auto: true

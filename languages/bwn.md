@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وونايي بونو
     auto: true
+  - translation_iso: hin
+    name: वुनाई बुनु
+    auto: true
   - translation_iso: jpn
     name: 唔奈方言
   - translation_iso: zho

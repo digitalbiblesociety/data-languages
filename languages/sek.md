@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيكاني
     auto: true
+  - translation_iso: hin
+    name: सेकानी
+    auto: true
   - translation_iso: jpn
     name: セカニ語
   - translation_iso: zho

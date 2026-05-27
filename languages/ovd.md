@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة إلفدالية
     auto: true
+  - translation_iso: hin
+    name: एल्फडेलियन
+    auto: true
   - translation_iso: jpn
     name: エルヴダーレン語
   - translation_iso: zho

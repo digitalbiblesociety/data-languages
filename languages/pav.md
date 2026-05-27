@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكاسنوفوس
     auto: true
+  - translation_iso: hin
+    name: पाकासनोवोस
+    auto: true
   - translation_iso: jpn
     name: ワリ語
   - translation_iso: zho

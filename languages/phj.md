@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة باهاري
     auto: true
+  - translation_iso: hin
+    name: पहाड़ी
+    auto: true
   - translation_iso: jpn
     name: パハリ語
     auto: true

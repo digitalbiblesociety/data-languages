@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أربوري
     auto: true
+  - translation_iso: hin
+    name: अर्बोरे
+    auto: true
   - translation_iso: jpn
     name: アルボレ語
     auto: true

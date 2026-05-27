@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فونوي
     auto: true
+  - translation_iso: hin
+    name: फुनोई
+    auto: true
   - translation_iso: jpn
     name: プーノーイ語
   - translation_iso: zho

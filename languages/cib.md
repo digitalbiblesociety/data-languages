@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سي غبي
     auto: true
+  - translation_iso: hin
+    name: सी ग्बे
+    auto: true
   - translation_iso: jpn
     name: スィ・ギベ語
     auto: true

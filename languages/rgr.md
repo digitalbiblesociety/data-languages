@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريسيجارو
     auto: true
+  - translation_iso: hin
+    name: रेसिगारो
+    auto: true
   - translation_iso: jpn
     name: レシガロ語
   - translation_iso: zho

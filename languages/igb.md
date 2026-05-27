@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إبيرا
     auto: true
+  - translation_iso: hin
+    name: एबिरा
+    auto: true
   - translation_iso: jpn
     name: エビラ語
   - translation_iso: zho

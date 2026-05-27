@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوإرإ
     auto: true
+  - translation_iso: hin
+    name: ग्वेरे
+    auto: true
   - translation_iso: jpn
     name: グウェレ語
   - translation_iso: zho

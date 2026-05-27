@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا يانايوانكا باسكو
     auto: true
+  - translation_iso: hin
+    name: यानावांका पास्को क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: ヤナワンカパスコケチュア語
     auto: true

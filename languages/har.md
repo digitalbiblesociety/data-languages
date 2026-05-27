@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Harari_language"
 translations:
   - translation_iso: ara
     name: الهرارية
+  - translation_iso: hin
+    name: हरारी
+    auto: true
   - translation_iso: jpn
     name: ハラリ語
   - translation_iso: zho

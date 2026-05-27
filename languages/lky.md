@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وكويا
     auto: true
+  - translation_iso: hin
+    name: लोकोया
+    auto: true
   - translation_iso: jpn
     name: ロコヤ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيدي
     auto: true
+  - translation_iso: hin
+    name: इदी
+    auto: true
   - translation_iso: jpn
     name: イディ語
     auto: true

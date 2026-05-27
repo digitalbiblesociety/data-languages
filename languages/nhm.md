@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موريلوس ناهواتل
     auto: true
+  - translation_iso: hin
+    name: मोरेलोस नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: モレロス・ナワトル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كالاكتانج مونبا
     auto: true
+  - translation_iso: hin
+    name: कलकतांग मोनपा
+    auto: true
   - translation_iso: jpn
     name: カラクタン・モンパ語
     auto: true

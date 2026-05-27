@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دونجوما
     auto: true
+  - translation_iso: hin
+    name: डूंगूमा
+    auto: true
   - translation_iso: jpn
     name: ドゥングーマ語
     auto: true

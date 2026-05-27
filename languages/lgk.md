@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجاراك
     auto: true
+  - translation_iso: hin
+    name: लिंगाराक
+    auto: true
   - translation_iso: jpn
     name: リンガラク語
   - translation_iso: zho

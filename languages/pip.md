@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيرو
     auto: true
+  - translation_iso: hin
+    name: पेरो
+    auto: true
   - translation_iso: jpn
     name: ペロ語
     auto: true

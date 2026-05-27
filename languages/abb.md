@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بانكون
     auto: true
+  - translation_iso: hin
+    name: बांकोन
+    auto: true
   - translation_iso: jpn
     name: バンコン語
     auto: true

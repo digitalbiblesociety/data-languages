@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوخويجو
     auto: true
+  - translation_iso: hin
+    name: उख्वेजो
+    auto: true
   - translation_iso: jpn
     name: ベンコンホ語
     auto: true

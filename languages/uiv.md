@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيفيه
     auto: true
+  - translation_iso: hin
+    name: इयिवे
+    auto: true
   - translation_iso: jpn
     name: ウイヴェ語
     auto: true

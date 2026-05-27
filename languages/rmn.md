@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالكان رومانية
     auto: true
+  - translation_iso: hin
+    name: बाल्कन रोमानी
+    auto: true
   - translation_iso: jpn
     name: バルカン方言群
   - translation_iso: zho

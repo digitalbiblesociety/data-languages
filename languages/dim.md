@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديمي
     auto: true
+  - translation_iso: hin
+    name: डाइम
+    auto: true
   - translation_iso: jpn
     name: ディメ語
     auto: true

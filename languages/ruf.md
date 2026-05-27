@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوجورو
     auto: true
+  - translation_iso: hin
+    name: लुगुरु
+    auto: true
   - translation_iso: jpn
     name: ルグル語
   - translation_iso: zho

@@ -12,6 +12,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dr%C3%A8ents_dialects"
 translations:
   - translation_iso: ara
     name: اللهجات الدرنتية
+  - translation_iso: hin
+    name: ड्रेंट्स
+    auto: true
   - translation_iso: jpn
     name: ドレント語
     auto: true

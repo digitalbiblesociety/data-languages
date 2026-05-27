@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيغون مبيمبي
     auto: true
+  - translation_iso: hin
+    name: तिगोन म्बेम्बे
+    auto: true
   - translation_iso: jpn
     name: ティゴン・ムベンベ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هواكسكاليكا ناهواتل
     auto: true
+  - translation_iso: hin
+    name: हुआक्सकालेका नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: ワクスカレカ・ナワトル語
     auto: true

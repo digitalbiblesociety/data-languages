@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشاتشي
     auto: true
+  - translation_iso: hin
+    name: चाची
+    auto: true
   - translation_iso: jpn
     name: チャチ語
     auto: true

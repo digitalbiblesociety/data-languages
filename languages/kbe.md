@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كانجو
     auto: true
+  - translation_iso: hin
+    name: कांजू
+    auto: true
   - translation_iso: jpn
     name: カンジュ語
     auto: true

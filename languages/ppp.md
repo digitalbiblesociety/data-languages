@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيليندي
     auto: true
+  - translation_iso: hin
+    name: पेलेंडे
+    auto: true
   - translation_iso: jpn
     name: ペレンデ語
     auto: true

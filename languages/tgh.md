@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإنجليزية الكريولية التوباغونية
     auto: true
+  - translation_iso: hin
+    name: तोबागोनियन क्रियोल अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: トバゴ・クレオール語
   - translation_iso: zho

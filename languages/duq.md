@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوسون مالانج
     auto: true
+  - translation_iso: hin
+    name: दुसुन मलंग
+    auto: true
   - translation_iso: jpn
     name: ドゥスン・マラン語
     auto: true

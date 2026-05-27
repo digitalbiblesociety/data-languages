@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيماسيوي بوزو
     auto: true
+  - translation_iso: hin
+    name: तियेमासेवे बोज़ो
+    auto: true
   - translation_iso: jpn
     name: ティエマセウェ・ボゾ語
     auto: true

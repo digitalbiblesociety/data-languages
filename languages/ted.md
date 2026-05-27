@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيبو كرومين
     auto: true
+  - translation_iso: hin
+    name: तेपो क्रुमेन
+    auto: true
   - translation_iso: jpn
     name: テポ・クルーメン語
     auto: true

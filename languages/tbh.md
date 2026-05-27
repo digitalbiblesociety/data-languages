@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ذاراوال
     auto: true
+  - translation_iso: hin
+    name: धरावल
+    auto: true
   - translation_iso: jpn
     name: ダラワル語
     auto: true

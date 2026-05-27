@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أليج
     auto: true
+  - translation_iso: hin
+    name: अलेगे
+    auto: true
   - translation_iso: jpn
     name: アレゲ語
     auto: true

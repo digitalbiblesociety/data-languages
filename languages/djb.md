@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دجينبا
     auto: true
+  - translation_iso: hin
+    name: जिंबा
+    auto: true
   - translation_iso: jpn
     name: ジインバ語
     auto: true

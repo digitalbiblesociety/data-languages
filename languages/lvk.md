@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة افوكاليفي
     auto: true
+  - translation_iso: hin
+    name: लावुकालेवे
+    auto: true
   - translation_iso: jpn
     name: ラヴカルヴェ語
   - translation_iso: zho

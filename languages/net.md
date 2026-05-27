@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيتي
     auto: true
+  - translation_iso: hin
+    name: नेते
+    auto: true
   - translation_iso: jpn
     name: ネテ語
     auto: true

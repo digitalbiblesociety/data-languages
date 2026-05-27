@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نغوم
     auto: true
+  - translation_iso: hin
+    name: नगोम
+    auto: true
   - translation_iso: jpn
     name: ングオム語
     auto: true

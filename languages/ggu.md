@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآغو
     auto: true
+  - translation_iso: hin
+    name: गागु
+    auto: true
   - translation_iso: jpn
     name: グバン語
   - translation_iso: zho

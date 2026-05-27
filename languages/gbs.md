@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جبيسي جبي
     auto: true
+  - translation_iso: hin
+    name: ग्बेसी ग्बे
+    auto: true
   - translation_iso: jpn
     name: ガベシ・ベ語
     auto: true

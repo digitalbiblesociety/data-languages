@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلا
     auto: true
+  - translation_iso: hin
+    name: केला (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
   - translation_iso: jpn
     name: ケラ語
     auto: true

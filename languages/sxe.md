@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيغو
     auto: true
+  - translation_iso: hin
+    name: सिघु
+    auto: true
   - translation_iso: jpn
     name: シグ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة شيشي خام
     auto: true
+  - translation_iso: hin
+    name: शेषी खाम
+    auto: true
   - translation_iso: jpn
     name: シェシ・ハム語
     auto: true

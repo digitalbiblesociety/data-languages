@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتومبي
     auto: true
+  - translation_iso: hin
+    name: मातुम्बी
+    auto: true
   - translation_iso: jpn
     name: マトゥムビ語
     auto: true

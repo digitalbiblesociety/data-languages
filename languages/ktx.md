@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاكسارري
     auto: true
+  - translation_iso: hin
+    name: काशरारी
+    auto: true
   - translation_iso: jpn
     name: カシャラリ語
     auto: true

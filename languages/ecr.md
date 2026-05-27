@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: الإتيوكريتي
     auto: true
+  - translation_iso: hin
+    name: एतेओक्रेतन
+    auto: true
   - translation_iso: jpn
     name: 純正クレタ語
   - translation_iso: zho

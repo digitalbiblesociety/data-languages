@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشاك
     auto: true
+  - translation_iso: hin
+    name: चाक
+    auto: true
   - translation_iso: jpn
     name: サク諸語
   - translation_iso: zho

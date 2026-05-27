@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا الجبلية
     auto: true
+  - translation_iso: hin
+    name: हाइलैंड पोपोलुका
+    auto: true
   - translation_iso: jpn
     name: シエラポポルカ語
   - translation_iso: kor

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تولاكي
     auto: true
+  - translation_iso: hin
+    name: तोलाकी
+    auto: true
   - translation_iso: jpn
     name: トラキ語
   - translation_iso: zho

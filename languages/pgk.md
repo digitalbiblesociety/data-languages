@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ريريب
     auto: true
+  - translation_iso: hin
+    name: रेरेप
+    auto: true
   - translation_iso: jpn
     name: レレップ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنجيني
     auto: true
+  - translation_iso: hin
+    name: एंगेनी
+    auto: true
   - translation_iso: jpn
     name: エンゲニ語
     auto: true

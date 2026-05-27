@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماتلاتزينكا أتزينغو
     auto: true
+  - translation_iso: hin
+    name: अत्ज़िंगो मातलात्ज़िंका
+    auto: true
   - translation_iso: jpn
     name: アッツィンゴ・マトラツィンカ語
     auto: true

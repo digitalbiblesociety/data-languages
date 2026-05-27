@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة إلسيج
     auto: true
+  - translation_iso: hin
+    name: एल्सेंग
+    auto: true
   - translation_iso: jpn
     name: エルセング語
     auto: true

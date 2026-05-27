@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة نافي
     auto: true
+  - translation_iso: hin
+    name: नाफी
+    auto: true
   - translation_iso: jpn
     name: シラック語
     auto: true

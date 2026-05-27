@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سانسي
     auto: true
+  - translation_iso: hin
+    name: सांसी
+    auto: true
   - translation_iso: jpn
     name: サンシボリ語
     auto: true

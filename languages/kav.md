@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة كاتوكينا
     auto: true
+  - translation_iso: hin
+    name: कातुकीना
+    auto: true
   - translation_iso: jpn
     name: カトゥキナ語
     auto: true

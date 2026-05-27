@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييالي
     auto: true
+  - translation_iso: hin
+    name: न्याली
+    auto: true
   - translation_iso: jpn
     name: ニャリ語
     auto: true

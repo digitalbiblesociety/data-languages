@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة همفافيكي
     auto: true
+  - translation_iso: hin
+    name: ह्मवावेके
+    auto: true
   - translation_iso: jpn
     name: ムアヴェケ語
   - translation_iso: zho

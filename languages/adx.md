@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة التبتية الآمدو
     auto: true
+  - translation_iso: hin
+    name: अम्दो तिब्बती
+    auto: true
   - translation_iso: jpn
     name: アムド・チベット語
   - translation_iso: kor

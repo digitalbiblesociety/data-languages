@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيغاك
     auto: true
+  - translation_iso: hin
+    name: तिगाक
+    auto: true
   - translation_iso: jpn
     name: ティガク語
   - translation_iso: zho

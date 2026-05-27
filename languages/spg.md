@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيان
     auto: true
+  - translation_iso: hin
+    name: सियान
+    auto: true
   - translation_iso: jpn
     name: シハン語
     auto: true

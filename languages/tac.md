@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاراهومارا المنخفضة
     auto: true
+  - translation_iso: hin
+    name: निचली तारहुमारा
+    auto: true
   - translation_iso: jpn
     name: 低地タラウマラ語
     auto: true

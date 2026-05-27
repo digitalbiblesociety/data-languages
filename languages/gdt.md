@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: كونجاردوتي
     auto: true
+  - translation_iso: hin
+    name: कुंगारदुत्यी
+    auto: true
   - translation_iso: jpn
     name: クンガルドゥティイ語
     auto: true

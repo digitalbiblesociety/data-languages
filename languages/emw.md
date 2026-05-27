@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإمبلاواس
     auto: true
+  - translation_iso: hin
+    name: एम्प्लावास
+    auto: true
   - translation_iso: jpn
     name: エムプラワス語
     auto: true

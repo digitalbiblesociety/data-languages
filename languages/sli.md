@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: السيليزية السفلى
     auto: true
+  - translation_iso: hin
+    name: निचली सिलेसियन
+    auto: true
   - translation_iso: jpn
     name: 低シレジア語
   - translation_iso: kor

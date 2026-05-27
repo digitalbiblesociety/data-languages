@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانجيجيلي
     auto: true
+  - translation_iso: hin
+    name: तानजिजिली
+    auto: true
   - translation_iso: jpn
     name: タンジジリ語
     auto: true

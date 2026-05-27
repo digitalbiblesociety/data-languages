@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الفولفولدية النيجر الوسط-الشرقية
     auto: true
+  - translation_iso: hin
+    name: मध्य-पूर्वी नाइजर फुलफुल्दे
+    auto: true
   - translation_iso: jpn
     name: 中東部ニジェール・フルフルディ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيلامبا
     auto: true
+  - translation_iso: hin
+    name: निलाम्बा
+    auto: true
   - translation_iso: jpn
     name: ニランバ語
     auto: true

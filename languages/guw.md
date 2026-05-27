@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gun_language"
 translations:
   - translation_iso: ara
     name: لغة جن
+  - translation_iso: hin
+    name: गुन
+    auto: true
   - translation_iso: jpn
     name: グン語
   - translation_iso: zho

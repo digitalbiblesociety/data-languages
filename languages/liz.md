@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يبينزا
     auto: true
+  - translation_iso: hin
+    name: लिबिंज़ा
+    auto: true
   - translation_iso: jpn
     name: リビンザ語
     auto: true

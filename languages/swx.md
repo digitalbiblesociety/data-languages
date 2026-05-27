@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوروهاّ
     auto: true
+  - translation_iso: hin
+    name: सुरुआहा
+    auto: true
   - translation_iso: jpn
     name: スルアハ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بورت فاتو
     auto: true
+  - translation_iso: hin
+    name: पोर्ट वातो
+    auto: true
   - translation_iso: jpn
     name: ポート・ヴァト語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نامونويتو
     auto: true
+  - translation_iso: hin
+    name: नामोनुइतो
+    auto: true
   - translation_iso: jpn
     name: ナモヌイト語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نداليا
     auto: true
+  - translation_iso: hin
+    name: न्दाली
+    auto: true
   - translation_iso: jpn
     name: ンダリ語
     auto: true

@@ -9,6 +9,9 @@ translations:
   - translation_iso: ara
     name: لغة وو
     auto: true
+  - translation_iso: hin
+    name: बू (कैमरून)
+    auto: true
   - translation_iso: jpn
     name: ブー語
     auto: true

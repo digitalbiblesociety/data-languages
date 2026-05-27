@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوكوا
     auto: true
+  - translation_iso: hin
+    name: उक्वा
+    auto: true
   - translation_iso: jpn
     name: ウクワ語
   - translation_iso: zho

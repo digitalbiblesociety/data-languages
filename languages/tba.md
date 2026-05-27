@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: أيكانّا
     auto: true
+  - translation_iso: hin
+    name: ऐकाना
+    auto: true
   - translation_iso: jpn
     name: アイカナ語
   - translation_iso: zho

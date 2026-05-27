@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجو
     auto: true
+  - translation_iso: hin
+    name: सोंगो
+    auto: true
   - translation_iso: jpn
     name: エヤンシ語
     auto: true

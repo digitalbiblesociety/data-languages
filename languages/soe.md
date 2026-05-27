@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجومينو
     auto: true
+  - translation_iso: hin
+    name: सोंगोमेनो
+    auto: true
   - translation_iso: jpn
     name: ソンゴメーノ語
     auto: true

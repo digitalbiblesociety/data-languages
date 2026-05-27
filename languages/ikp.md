@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكبيشي
     auto: true
+  - translation_iso: hin
+    name: इकपेशी
+    auto: true
   - translation_iso: jpn
     name: イクペシ語
     auto: true

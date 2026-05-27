@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيبينو
     auto: true
+  - translation_iso: hin
+    name: इबिनो
+    auto: true
   - translation_iso: jpn
     name: イビノ語
     auto: true

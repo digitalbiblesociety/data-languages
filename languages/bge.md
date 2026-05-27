@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باوريا
     auto: true
+  - translation_iso: hin
+    name: बौरिया
+    auto: true
   - translation_iso: jpn
     name: バウリア語
     auto: true

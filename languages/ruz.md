@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: روما
     auto: true
+  - translation_iso: hin
+    name: रुमा
+    auto: true
   - translation_iso: jpn
     name: ツルマ語
     auto: true

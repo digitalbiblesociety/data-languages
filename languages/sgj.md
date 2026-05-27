@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: سوروجيا
     auto: true
+  - translation_iso: hin
+    name: सरगुजिया
+    auto: true
   - translation_iso: jpn
     name: サルグジャ語
   - translation_iso: zho

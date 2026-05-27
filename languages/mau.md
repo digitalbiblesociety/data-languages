@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك هواوتلا
     auto: true
+  - translation_iso: hin
+    name: वाउतला माज़ातेक
+    auto: true
   - translation_iso: jpn
     name: ワウトラ・マサテク語
     auto: true

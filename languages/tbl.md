@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تبولي
     auto: true
+  - translation_iso: hin
+    name: तबोली
+    auto: true
   - translation_iso: jpn
     name: トボリ語
     auto: true

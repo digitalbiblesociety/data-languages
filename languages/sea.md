@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيماي
     auto: true
+  - translation_iso: hin
+    name: सेमाई
+    auto: true
   - translation_iso: jpn
     name: セマイ語
   - translation_iso: zho

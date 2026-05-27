@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنتس الحرجية
     auto: true
+  - translation_iso: hin
+    name: वन एनेट्स
+    auto: true
   - translation_iso: jpn
     name: 森林エネツ語
     auto: true

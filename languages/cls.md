@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: السنسكريتية الكلاسيكية
     auto: true
+  - translation_iso: hin
+    name: शास्त्रीय संस्कृत
+    auto: true
   - translation_iso: jpn
     name: 古典サンスクリット
   - translation_iso: zho

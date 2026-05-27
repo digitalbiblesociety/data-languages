@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة باكو كارين
     auto: true
+  - translation_iso: hin
+    name: पाकू कारेन
+    auto: true
   - translation_iso: jpn
     name: パク・カレン語
     auto: true

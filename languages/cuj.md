@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماشكو بيرو
     auto: true
+  - translation_iso: hin
+    name: माश्को पीरो
+    auto: true
   - translation_iso: jpn
     name: マシコ・ピロ語
   - translation_iso: zho

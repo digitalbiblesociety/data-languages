@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يانغمان
     auto: true
+  - translation_iso: hin
+    name: यांगमन
+    auto: true
   - translation_iso: jpn
     name: ヤングマン語
     auto: true

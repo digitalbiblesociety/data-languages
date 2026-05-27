@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كايب
     auto: true
+  - translation_iso: hin
+    name: काइप
+    auto: true
   - translation_iso: jpn
     name: カイエプ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باكا
     auto: true
+  - translation_iso: hin
+    name: बाका (कैमरून)
+    auto: true
   - translation_iso: jpn
     name: バカ語
   - translation_iso: zho

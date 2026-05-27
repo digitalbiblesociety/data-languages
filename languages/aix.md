@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أيغون
     auto: true
+  - translation_iso: hin
+    name: ऐघोन
+    auto: true
   - translation_iso: jpn
     name: アイゴン語
     auto: true

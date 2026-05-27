@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوي بوامو
     auto: true
+  - translation_iso: hin
+    name: च्वी ब्वामु
+    auto: true
   - translation_iso: jpn
     name: クウィ・ブワム語
     auto: true

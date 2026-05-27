@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: بوبي
     auto: true
+  - translation_iso: hin
+    name: बूबे
+    auto: true
   - translation_iso: jpn
     name: ブビ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيفانج
     auto: true
+  - translation_iso: hin
+    name: बेफांग
+    auto: true
   - translation_iso: jpn
     name: ベファング語
     auto: true

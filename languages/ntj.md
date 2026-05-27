@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغاانياتجارا
     auto: true
+  - translation_iso: hin
+    name: न्गानयाचारा
+    auto: true
   - translation_iso: jpn
     name: ンガーニャチャラ語
   - translation_iso: zho

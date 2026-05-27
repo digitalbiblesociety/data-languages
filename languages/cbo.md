@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيزورا
     auto: true
+  - translation_iso: hin
+    name: इज़ोरा
+    auto: true
   - translation_iso: jpn
     name: イゾラ語
     auto: true

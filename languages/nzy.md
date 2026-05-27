@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة نزاكامبي
     auto: true
+  - translation_iso: hin
+    name: नज़ाकाम्बाय
+    auto: true
   - translation_iso: jpn
     name: ンザカンバイ語
     auto: true

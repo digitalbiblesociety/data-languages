@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بدجوند
     auto: true
+  - translation_iso: hin
+    name: बेदजोंद
+    auto: true
   - translation_iso: jpn
     name: ベジョンド語
     auto: true

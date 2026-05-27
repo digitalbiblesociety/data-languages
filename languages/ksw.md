@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "كارين س'جاو"
     auto: true
+  - translation_iso: hin
+    name: स्गॉ करेन
+    auto: true
   - translation_iso: jpn
     name: スゴー語
   - translation_iso: zho

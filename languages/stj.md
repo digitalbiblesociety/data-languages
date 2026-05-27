@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماتيا سامو
     auto: true
+  - translation_iso: hin
+    name: मातया सामो
+    auto: true
   - translation_iso: jpn
     name: サネ語
     auto: true

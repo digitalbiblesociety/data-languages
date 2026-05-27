@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة پوتوكوّام
     auto: true
+  - translation_iso: hin
+    name: पुतुक्वाम
+    auto: true
   - translation_iso: jpn
     name: プトゥクワム語
     auto: true

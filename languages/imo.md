@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إمبونغو
     auto: true
+  - translation_iso: hin
+    name: इम्बोंगु
+    auto: true
   - translation_iso: jpn
     name: イムボング語
     auto: true

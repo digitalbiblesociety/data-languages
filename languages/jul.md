@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيريل
     auto: true
+  - translation_iso: hin
+    name: जिरेल
+    auto: true
   - translation_iso: jpn
     name: ジレル語
     auto: true

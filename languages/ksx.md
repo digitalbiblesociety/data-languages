@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيدانج
     auto: true
+  - translation_iso: hin
+    name: केडांग
+    auto: true
   - translation_iso: jpn
     name: ケダン語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مالاس
     auto: true
+  - translation_iso: hin
+    name: मालास
+    auto: true
   - translation_iso: jpn
     name: マラス語
     auto: true

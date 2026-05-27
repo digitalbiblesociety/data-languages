@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دورزي
     auto: true
+  - translation_iso: hin
+    name: डोरज़े
+    auto: true
   - translation_iso: jpn
     name: ドルゼ語
     auto: true

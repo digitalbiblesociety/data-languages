@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيابوكو
     auto: true
+  - translation_iso: hin
+    name: पियापोको
+    auto: true
   - translation_iso: jpn
     name: ピアポコ語
   - translation_iso: zho

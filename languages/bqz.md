@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باكاكا
     auto: true
+  - translation_iso: hin
+    name: बकाका
+    auto: true
   - translation_iso: jpn
     name: バカカ語
     auto: true

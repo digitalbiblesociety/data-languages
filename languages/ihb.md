@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيها بيسد بيدجن
     auto: true
+  - translation_iso: hin
+    name: इहा-आधारित पिजिन
+    auto: true
   - translation_iso: jpn
     name: イハ・ベースド・ピジン語
     auto: true

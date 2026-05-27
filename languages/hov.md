@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هوفونغان
     auto: true
+  - translation_iso: hin
+    name: होवोंगन
+    auto: true
   - translation_iso: jpn
     name: ホヴォンガン語
     auto: true

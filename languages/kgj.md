@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جامالي خام
     auto: true
+  - translation_iso: hin
+    name: गामले खाम
+    auto: true
   - translation_iso: jpn
     name: ガマレ・ハム語
     auto: true

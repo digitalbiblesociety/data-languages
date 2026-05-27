@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kickapoo_language"
 translations:
   - translation_iso: ara
     name: كيكابو
+  - translation_iso: hin
+    name: किकापू
+    auto: true
   - translation_iso: jpn
     name: キカプー語
   - translation_iso: kor

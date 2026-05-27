@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوفي
     auto: true
+  - translation_iso: hin
+    name: बोफी
+    auto: true
   - translation_iso: jpn
     name: ボフィ語
     auto: true

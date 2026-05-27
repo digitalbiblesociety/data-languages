@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هورو
     auto: true
+  - translation_iso: hin
+    name: होरो
+    auto: true
   - translation_iso: jpn
     name: ホロ語
   - translation_iso: zho

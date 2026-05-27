@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كونيرو
     auto: true
+  - translation_iso: hin
+    name: कोनेराव
+    auto: true
   - translation_iso: jpn
     name: コネラウ語
     auto: true

@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gheg_Albanian"
 translations:
   - translation_iso: ara
     name: ألبانية غيغية
+  - translation_iso: hin
+    name: गेग अल्बानियाई
+    auto: true
   - translation_iso: jpn
     name: ゲグ方言
   - translation_iso: kor

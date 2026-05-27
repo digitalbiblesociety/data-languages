@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيكجيني
     auto: true
+  - translation_iso: hin
+    name: नेकगिनी
+    auto: true
   - translation_iso: jpn
     name: ネクギニ語
     auto: true

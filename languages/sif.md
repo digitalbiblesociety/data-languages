@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيامو
     auto: true
+  - translation_iso: hin
+    name: सियामू
+    auto: true
   - translation_iso: jpn
     name: シアモウ語
   - translation_iso: zho

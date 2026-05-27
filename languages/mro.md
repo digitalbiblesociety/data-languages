@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة مرو
     auto: true
+  - translation_iso: hin
+    name: म्रू
+    auto: true
   - translation_iso: jpn
     name: ムル語
   - translation_iso: zho

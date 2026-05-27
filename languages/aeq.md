@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة آير
     auto: true
+  - translation_iso: hin
+    name: एर
+    auto: true
   - translation_iso: jpn
     name: アエル語
     auto: true

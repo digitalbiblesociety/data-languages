@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إمبيرا-كاتيو
     auto: true
+  - translation_iso: hin
+    name: एम्बेरा-कातिओ
+    auto: true
   - translation_iso: jpn
     name: エンベラ・カティオ語
     auto: true

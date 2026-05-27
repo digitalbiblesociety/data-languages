@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورذرن روجلاي
     auto: true
+  - translation_iso: hin
+    name: उत्तरी रोग्लाई
+    auto: true
   - translation_iso: jpn
     name: 北ログライ語
     auto: true

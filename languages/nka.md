@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نكويا
     auto: true
+  - translation_iso: hin
+    name: नकोया
+    auto: true
   - translation_iso: jpn
     name: ンコヤ語
     auto: true

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولكول
     auto: true
+  - translation_iso: hin
+    name: ओल्कोल
+    auto: true
   - translation_iso: jpn
     name: オルコル語
     auto: true

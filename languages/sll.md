@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سالت-يوي
     auto: true
+  - translation_iso: hin
+    name: साल्ट-यूई
+    auto: true
   - translation_iso: jpn
     name: ユイ語
     auto: true

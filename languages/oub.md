@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة غليو أوبي
     auto: true
+  - translation_iso: hin
+    name: ग्लियो-ऊबी
+    auto: true
   - translation_iso: jpn
     name: ウビ語
   - translation_iso: zho

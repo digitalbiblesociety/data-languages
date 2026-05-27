@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييانغا
     auto: true
+  - translation_iso: hin
+    name: न्यांग्गा
+    auto: true
   - translation_iso: jpn
     name: ニャンガ語
     auto: true

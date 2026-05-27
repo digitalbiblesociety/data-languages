@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كراتشي
     auto: true
+  - translation_iso: hin
+    name: क्राचे
+    auto: true
   - translation_iso: jpn
     name: クラッシェ語
     auto: true

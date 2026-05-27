@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كابولا
     auto: true
+  - translation_iso: hin
+    name: काबोला
+    auto: true
   - translation_iso: jpn
     name: カボラ語
     auto: true

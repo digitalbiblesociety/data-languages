@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوندوم دوم دوجون
     auto: true
+  - translation_iso: hin
+    name: बोंडुम दोम दोगोन
+    auto: true
   - translation_iso: jpn
     name: ボンドゥム・ドム・ドゴン語
     auto: true

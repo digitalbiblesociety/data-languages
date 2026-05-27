@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونجاج
     auto: true
+  - translation_iso: hin
+    name: तुंगाग
+    auto: true
   - translation_iso: jpn
     name: ラヴォンガイ語
   - translation_iso: zho

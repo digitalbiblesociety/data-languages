@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: سيري
     auto: true
+  - translation_iso: hin
+    name: सेरी
+    auto: true
   - translation_iso: jpn
     name: セリ語
   - translation_iso: kor

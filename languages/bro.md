@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بروكّات
     auto: true
+  - translation_iso: hin
+    name: ब्रोक्कत
+    auto: true
   - translation_iso: jpn
     name: ブロッカトゥ語
   - translation_iso: zho

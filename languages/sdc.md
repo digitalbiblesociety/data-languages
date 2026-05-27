@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sassarese_language"
 translations:
   - translation_iso: ara
     name: الساسارية
+  - translation_iso: hin
+    name: सस्सारी सार्डिनियन
+    auto: true
   - translation_iso: jpn
     name: サッサリ・サルデーニャ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باري
     auto: true
+  - translation_iso: hin
+    name: पारे
+    auto: true
   - translation_iso: jpn
     name: パレ語
     auto: true

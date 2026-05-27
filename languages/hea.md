@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورثإرن قيآندونج ميآو
     auto: true
+  - translation_iso: hin
+    name: उत्तरी छ्यान्तोंग मियाओ
+    auto: true
   - translation_iso: jpn
     name: 北部黔東苗語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماكسي جبي
     auto: true
+  - translation_iso: hin
+    name: माक्सी ग्बे
+    auto: true
   - translation_iso: jpn
     name: マクシ・グベ語
     auto: true

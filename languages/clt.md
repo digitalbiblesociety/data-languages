@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاوتو تشين
     auto: true
+  - translation_iso: hin
+    name: लाउतू चिन
+    auto: true
   - translation_iso: jpn
     name: ラウツ・チン語
     auto: true

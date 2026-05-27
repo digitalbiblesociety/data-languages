@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألاك
     auto: true
+  - translation_iso: hin
+    name: अलक
+    auto: true
   - translation_iso: jpn
     name: アラク語
     auto: true

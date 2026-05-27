@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: ريبانبيتيب
     auto: true
+  - translation_iso: hin
+    name: रेपानबितिप
+    auto: true
   - translation_iso: jpn
     name: レパンビティップ語
     auto: true

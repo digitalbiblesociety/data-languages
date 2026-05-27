@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ثاراكا
     auto: true
+  - translation_iso: hin
+    name: थाराका
+    auto: true
   - translation_iso: jpn
     name: ターラカ語
     auto: true

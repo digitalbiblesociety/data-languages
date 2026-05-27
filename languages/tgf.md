@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشاليخا
     auto: true
+  - translation_iso: hin
+    name: चालिखा
+    auto: true
   - translation_iso: jpn
     name: チャリ語
   - translation_iso: zho

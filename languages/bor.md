@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوروروا
     auto: true
+  - translation_iso: hin
+    name: बोरोरो
+    auto: true
   - translation_iso: jpn
     name: ボロロ語
     auto: true

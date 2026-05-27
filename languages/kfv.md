@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكاماراتية
     auto: true
+  - translation_iso: hin
+    name: कुरमुकार
+    auto: true
   - translation_iso: jpn
     name: クルムカル語
     auto: true

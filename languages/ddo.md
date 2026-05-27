@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديدو
     auto: true
+  - translation_iso: hin
+    name: दीदो
+    auto: true
   - translation_iso: jpn
     name: ツェズ語
   - translation_iso: kor

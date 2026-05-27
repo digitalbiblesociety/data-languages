@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دجيميني سينوفو
     auto: true
+  - translation_iso: hin
+    name: जिमिनी सेनुफो
+    auto: true
   - translation_iso: jpn
     name: ジミニ・セヌーフォ語
     auto: true

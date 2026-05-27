@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سان ماركوس
     auto: true
+  - translation_iso: hin
+    name: सान मार्कोस त्लाकोयाल्को पोपोलोका
+    auto: true
   - translation_iso: jpn
     name: サンマルコストラコヤルコポポカ語
     auto: true

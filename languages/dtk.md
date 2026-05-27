@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيني كان دوجون
     auto: true
+  - translation_iso: hin
+    name: टेने कान डोगोन
+    auto: true
   - translation_iso: jpn
     name: テネ・カン・ドゴン語
     auto: true

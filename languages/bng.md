@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بينجا
     auto: true
+  - translation_iso: hin
+    name: बेंगा
+    auto: true
   - translation_iso: jpn
     name: ベンガ語
   - translation_iso: zho

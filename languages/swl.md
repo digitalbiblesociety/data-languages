@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة السويدية
     auto: true
+  - translation_iso: hin
+    name: स्वीडिश सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: スウェーデン手話
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامبيا
     auto: true
+  - translation_iso: hin
+    name: पाम्बिया
+    auto: true
   - translation_iso: jpn
     name: パンビア語
     auto: true

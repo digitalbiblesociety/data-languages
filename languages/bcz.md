@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايانوك-جونيامولو
     auto: true
+  - translation_iso: hin
+    name: बायनूक-गुन्यामोलो
+    auto: true
   - translation_iso: jpn
     name: バイノック・グニャアモロ語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gooniyandi_language"
 translations:
   - translation_iso: ara
     name: لغة غوندياندي
+  - translation_iso: hin
+    name: गुनियांदी
+    auto: true
   - translation_iso: jpn
     name: グニヤンディ語
   - translation_iso: kor

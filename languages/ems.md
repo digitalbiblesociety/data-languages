@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اليوبيك خليج الهادئ
     auto: true
+  - translation_iso: hin
+    name: प्रशांत खाड़ी युपिक
+    auto: true
   - translation_iso: jpn
     name: アリュティーク語
   - translation_iso: kor

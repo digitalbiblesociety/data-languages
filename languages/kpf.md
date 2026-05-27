@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كومبا
     auto: true
+  - translation_iso: hin
+    name: कोम्बा
+    auto: true
   - translation_iso: jpn
     name: コンバ語
     auto: true

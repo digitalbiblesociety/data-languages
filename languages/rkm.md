@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماركا
     auto: true
+  - translation_iso: hin
+    name: मार्का
+    auto: true
   - translation_iso: jpn
     name: マルカ語
   - translation_iso: zho

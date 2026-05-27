@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نجبكا مانزا
     auto: true
+  - translation_iso: hin
+    name: न्गबाका मांज़ा
+    auto: true
   - translation_iso: jpn
     name: ングバカ・マンザ語
     auto: true

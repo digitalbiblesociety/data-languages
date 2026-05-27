@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داورو
     auto: true
+  - translation_iso: hin
+    name: दावरो
+    auto: true
   - translation_iso: jpn
     name: ダウロ語
     auto: true

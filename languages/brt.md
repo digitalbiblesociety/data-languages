@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيتاري
     auto: true
+  - translation_iso: hin
+    name: बिटारे
+    auto: true
   - translation_iso: jpn
     name: ビタレ語
     auto: true

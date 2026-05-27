@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يندو
     auto: true
+  - translation_iso: hin
+    name: लेंदु
+    auto: true
   - translation_iso: jpn
     name: レンドュ語
   - translation_iso: zho

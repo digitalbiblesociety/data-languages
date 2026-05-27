@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ndau_language"
 translations:
   - translation_iso: ara
     name: النداو
+  - translation_iso: hin
+    name: न्दाउ
+    auto: true
   - translation_iso: jpn
     name: ンダウ語
   - translation_iso: zho

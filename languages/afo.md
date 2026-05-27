@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيلوي
     auto: true
+  - translation_iso: hin
+    name: एलोयी
+    auto: true
   - translation_iso: jpn
     name: エロイ語
     auto: true

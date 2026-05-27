@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ستودسدي
     auto: true
+  - translation_iso: hin
+    name: स्तोदस्दे
+    auto: true
   - translation_iso: jpn
     name: スティオツデ語
     auto: true

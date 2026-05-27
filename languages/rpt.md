@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رابتينج
     auto: true
+  - translation_iso: hin
+    name: रैप्टिंग
+    auto: true
   - translation_iso: jpn
     name: ラプティング語
     auto: true

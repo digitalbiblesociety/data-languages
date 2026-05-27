@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ دون
     auto: true
+  - translation_iso: hin
+    name: ह्मोंग डोन
+    auto: true
   - translation_iso: jpn
     name: フモング・ドン語
     auto: true

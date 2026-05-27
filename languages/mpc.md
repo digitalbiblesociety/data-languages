@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجارايي
     auto: true
+  - translation_iso: hin
+    name: मंगारायी
+    auto: true
   - translation_iso: jpn
     name: マンガライ語
   - translation_iso: zho

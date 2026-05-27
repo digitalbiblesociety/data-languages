@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتيا
     auto: true
+  - translation_iso: hin
+    name: पथिया
+    auto: true
   - translation_iso: jpn
     name: パティーヤ語
     auto: true

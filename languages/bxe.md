@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ongota_language"
 translations:
   - translation_iso: ara
     name: لغة عونغوتا
+  - translation_iso: hin
+    name: बिराले
+    auto: true
   - translation_iso: jpn
     name: オンゴタ語
   - translation_iso: kor

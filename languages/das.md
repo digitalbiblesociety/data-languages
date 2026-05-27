@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داهو دو
     auto: true
+  - translation_iso: hin
+    name: दाहो-दू
+    auto: true
   - translation_iso: jpn
     name: ダホ・ドゥー語
     auto: true

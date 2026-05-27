@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكيو
     auto: true
+  - translation_iso: hin
+    name: मेकेओ
+    auto: true
   - translation_iso: jpn
     name: メケオ語
   - translation_iso: zho

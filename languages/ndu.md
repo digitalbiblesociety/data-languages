@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوجون
     auto: true
+  - translation_iso: hin
+    name: दुगुन
+    auto: true
   - translation_iso: jpn
     name: ドゥグン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كولومبيا-ويناتشي
     auto: true
+  - translation_iso: hin
+    name: कोलंबिया-वेनाची
+    auto: true
   - translation_iso: jpn
     name: コロンビア語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بولي
     auto: true
+  - translation_iso: hin
+    name: बुली (घाना)
+    auto: true
   - translation_iso: jpn
     name: ブリ語
   - translation_iso: zho

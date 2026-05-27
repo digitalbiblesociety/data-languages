@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السواحيلية في الكونغو
     auto: true
+  - translation_iso: hin
+    name: कांगो स्वाहिली
+    auto: true
   - translation_iso: jpn
     name: コンゴ・スワヒリ語
   - translation_iso: zho

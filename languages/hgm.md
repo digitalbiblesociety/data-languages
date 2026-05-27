@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآيǁوم
     auto: true
+  - translation_iso: hin
+    name: हाइओम
+    auto: true
   - translation_iso: jpn
     name: ハイイ語
     auto: true

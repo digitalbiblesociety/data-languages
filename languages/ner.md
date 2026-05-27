@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياهاديان
     auto: true
+  - translation_iso: hin
+    name: याहादियान
+    auto: true
   - translation_iso: jpn
     name: ヤハディアン語
     auto: true

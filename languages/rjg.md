@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راجونج
     auto: true
+  - translation_iso: hin
+    name: राजोंग
+    auto: true
   - translation_iso: jpn
     name: ラジョン語
     auto: true

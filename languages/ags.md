@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسيمبي
     auto: true
+  - translation_iso: hin
+    name: एसिम्बी
+    auto: true
   - translation_iso: jpn
     name: エシンビ語
     auto: true

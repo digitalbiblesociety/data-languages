@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شومتشو
     auto: true
+  - translation_iso: hin
+    name: शुमचो
+    auto: true
   - translation_iso: jpn
     name: カナワリングスカド語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألانغان
     auto: true
+  - translation_iso: hin
+    name: अलंगन
+    auto: true
   - translation_iso: jpn
     name: アランガン語
     auto: true

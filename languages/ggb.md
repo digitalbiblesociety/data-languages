@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غبيي
     auto: true
+  - translation_iso: hin
+    name: ग्बी
+    auto: true
   - translation_iso: jpn
     name: ギビ語
     auto: true

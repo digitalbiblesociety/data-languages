@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بهام
     auto: true
+  - translation_iso: hin
+    name: बहम
+    auto: true
   - translation_iso: jpn
     name: バハム語
     auto: true

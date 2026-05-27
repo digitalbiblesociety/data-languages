@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تريكي كوبالا
     auto: true
+  - translation_iso: hin
+    name: कोपाला त्रिकी
+    auto: true
   - translation_iso: jpn
     name: シナアンフ語
     auto: true

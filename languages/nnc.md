@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نانسيري
     auto: true
+  - translation_iso: hin
+    name: नानसेरे
+    auto: true
   - translation_iso: jpn
     name: ナンセレ語
     auto: true

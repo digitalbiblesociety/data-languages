@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيتشيلت
     auto: true
+  - translation_iso: hin
+    name: सेचेल्ट
+    auto: true
   - translation_iso: jpn
     name: シーシェルト語
   - translation_iso: zho

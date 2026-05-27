@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيبا (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: hin
+    name: सेपा (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: セパ語
   - translation_iso: zho

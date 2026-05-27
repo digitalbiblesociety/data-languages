@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اكها
     auto: true
+  - translation_iso: hin
+    name: लाखा
+    auto: true
   - translation_iso: jpn
     name: ラ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكوما-ناتا-إيسينيي
     auto: true
+  - translation_iso: hin
+    name: इकोमा-नाता-इसेन्ये
+    auto: true
   - translation_iso: jpn
     name: イコマ・ナタ・イセンイェ語
     auto: true

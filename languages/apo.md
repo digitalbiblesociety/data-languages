@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أمبول
     auto: true
+  - translation_iso: hin
+    name: अम्बुल
+    auto: true
   - translation_iso: jpn
     name: アンブル語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيها
     auto: true
+  - translation_iso: hin
+    name: इहा
+    auto: true
   - translation_iso: jpn
     name: イハ語
     auto: true

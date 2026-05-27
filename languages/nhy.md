@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورثرن أواكاكا ناهواتل
     auto: true
+  - translation_iso: hin
+    name: उत्तरी ओआक्साका नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: 北オアハカ・ナワトル語
     auto: true

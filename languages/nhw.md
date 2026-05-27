@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويسترن هواستيكا ناهواتل
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी हुआस्तेका नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: 西ワステカ・ナワトル語
     auto: true

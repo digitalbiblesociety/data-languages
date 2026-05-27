@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tobian_language"
 translations:
   - translation_iso: ara
     name: التوبيانية
+  - translation_iso: hin
+    name: टोबियन
+    auto: true
   - translation_iso: jpn
     name: トビ語
   - translation_iso: zho

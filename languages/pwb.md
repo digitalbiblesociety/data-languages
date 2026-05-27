@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانوا
     auto: true
+  - translation_iso: hin
+    name: पनावा
+    auto: true
   - translation_iso: jpn
     name: パナワ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيمري
     auto: true
+  - translation_iso: hin
+    name: किमरे
+    auto: true
   - translation_iso: jpn
     name: キムレ語
     auto: true

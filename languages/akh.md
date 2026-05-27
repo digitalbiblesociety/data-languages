@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أنغال هينينج
     auto: true
+  - translation_iso: hin
+    name: अंगाल हेनेंग
+    auto: true
   - translation_iso: jpn
     name: アンガル・ヘネン語
     auto: true

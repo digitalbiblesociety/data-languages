@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مونتول
     auto: true
+  - translation_iso: hin
+    name: मोंटोल
+    auto: true
   - translation_iso: jpn
     name: Montol語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الموزمبيقية
     auto: true
+  - translation_iso: hin
+    name: मोज़ाम्बिक सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: モザンビーク手話
   - translation_iso: zho

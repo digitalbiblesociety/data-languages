@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: الإزا
     auto: true
+  - translation_iso: hin
+    name: एज़ा
+    auto: true
   - translation_iso: jpn
     name: エザア語
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: بيه
     auto: true
+  - translation_iso: hin
+    name: बिह
+    auto: true
   - translation_iso: jpn
     name: ビ語
     auto: true

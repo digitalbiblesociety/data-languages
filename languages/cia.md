@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيا-شيا
     auto: true
+  - translation_iso: hin
+    name: चिया-चिया
+    auto: true
   - translation_iso: jpn
     name: チアチア語
   - translation_iso: kor

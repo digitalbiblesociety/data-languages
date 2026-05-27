@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سينينكري
     auto: true
+  - translation_iso: hin
+    name: सिनिंकेरे
+    auto: true
   - translation_iso: jpn
     name: シランケ語
     auto: true

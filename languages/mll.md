@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالوا بي
     auto: true
+  - translation_iso: hin
+    name: मालुआ बे
+    auto: true
   - translation_iso: jpn
     name: マルア・ベイ語
     auto: true

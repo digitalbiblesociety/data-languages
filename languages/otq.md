@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي كويريتارو
     auto: true
+  - translation_iso: hin
+    name: केरेतारो ओटोमी
+    auto: true
   - translation_iso: jpn
     name: ケレタロ・オトミ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيسي الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी किस्सी
+    auto: true
   - translation_iso: jpn
     name: ノーザン・キッシ語
     auto: true

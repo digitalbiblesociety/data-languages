@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكويبا
     auto: true
+  - translation_iso: hin
+    name: कुइबा
+    auto: true
   - translation_iso: jpn
     name: クイバ語
     auto: true

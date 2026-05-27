@@ -10,6 +10,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lombardic_language"
 translations:
   - translation_iso: ara
     name: اللغة اللومباردية/اللانغوباردية
+  - translation_iso: hin
+    name: लोम्बार्डिक
+    auto: true
   - translation_iso: jpn
     name: ロンゴバルド語
   - translation_iso: kor

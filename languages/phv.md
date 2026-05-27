@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بهلوية
     auto: true
+  - translation_iso: hin
+    name: पहलवानी
+    auto: true
   - translation_iso: jpn
     name: パハラヴァニ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسو
     auto: true
+  - translation_iso: hin
+    name: इसू (मेंचुम मंडल)
+    auto: true
   - translation_iso: jpn
     name: イス語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوموكس
     auto: true
+  - translation_iso: hin
+    name: कोमॉक्स
+    auto: true
   - translation_iso: jpn
     name: コモックス語
   - translation_iso: zho

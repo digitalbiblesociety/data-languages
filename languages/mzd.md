@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مالمبا
     auto: true
+  - translation_iso: hin
+    name: मालिंबा
+    auto: true
   - translation_iso: jpn
     name: マリンバ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فالي بايسا
     auto: true
+  - translation_iso: hin
+    name: बैसा फाली
+    auto: true
   - translation_iso: jpn
     name: バイッサ・ファリ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيتامان
     auto: true
+  - translation_iso: hin
+    name: सेतामान
+    auto: true
   - translation_iso: jpn
     name: セタマン語
     auto: true

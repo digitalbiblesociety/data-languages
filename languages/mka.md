@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبري
     auto: true
+  - translation_iso: hin
+    name: म्ब्रे
+    auto: true
   - translation_iso: jpn
     name: ムブレ語
   - translation_iso: zho

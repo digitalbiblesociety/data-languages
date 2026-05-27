@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياندا دوم دوجون
     auto: true
+  - translation_iso: hin
+    name: यांदा डोम डोगोन
+    auto: true
   - translation_iso: jpn
     name: ヤンダ・ドム・ドゴン語
     auto: true

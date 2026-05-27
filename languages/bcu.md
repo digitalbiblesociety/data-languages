@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أواد بينج
     auto: true
+  - translation_iso: hin
+    name: अवाद बिंग
+    auto: true
   - translation_iso: jpn
     name: アワド・ビング語
     auto: true

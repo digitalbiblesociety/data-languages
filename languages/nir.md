@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نمبوران
     auto: true
+  - translation_iso: hin
+    name: निंबोरान
+    auto: true
   - translation_iso: jpn
     name: ニンボラン語
     auto: true

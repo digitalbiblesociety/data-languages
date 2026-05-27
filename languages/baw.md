@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامبيلي-بامبوي
     auto: true
+  - translation_iso: hin
+    name: बम्बिली-बम्बुई
+    auto: true
   - translation_iso: jpn
     name: バンビリ・バンブイ語
     auto: true

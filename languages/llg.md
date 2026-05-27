@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ولي
     auto: true
+  - translation_iso: hin
+    name: लोले
+    auto: true
   - translation_iso: jpn
     name: ロレ語
     auto: true

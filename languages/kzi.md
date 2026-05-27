@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيلابيت
     auto: true
+  - translation_iso: hin
+    name: केलाबित
+    auto: true
   - translation_iso: jpn
     name: クラビト語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سالاس
     auto: true
+  - translation_iso: hin
+    name: सालास
+    auto: true
   - translation_iso: jpn
     name: レンカイタヘ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دهاالندجي
     auto: true
+  - translation_iso: hin
+    name: धालंजी
+    auto: true
   - translation_iso: jpn
     name: ダランジ語
     auto: true

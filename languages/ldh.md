@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لامجا-دينجسا-تولا
     auto: true
+  - translation_iso: hin
+    name: लामजा-डेंगसा-तोला
+    auto: true
   - translation_iso: jpn
     name: ラムジャ・デンサ・トラ語
     auto: true

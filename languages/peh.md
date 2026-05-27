@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونان
     auto: true
+  - translation_iso: hin
+    name: बोनान
+    auto: true
   - translation_iso: jpn
     name: バオアン語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سويا
     auto: true
+  - translation_iso: hin
+    name: सुया
+    auto: true
   - translation_iso: jpn
     name: スヤ語
     auto: true

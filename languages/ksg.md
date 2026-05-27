@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوساغي
     auto: true
+  - translation_iso: hin
+    name: कुसाघे
+    auto: true
   - translation_iso: jpn
     name: クサゲ語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kallawaya_language"
 translations:
   - translation_iso: ara
     name: لغة كالاوايا
+  - translation_iso: hin
+    name: कालावाला
+    auto: true
   - translation_iso: jpn
     name: カリャワヤ語
   - translation_iso: kor

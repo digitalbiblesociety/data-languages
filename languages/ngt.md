@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كريانج
     auto: true
+  - translation_iso: hin
+    name: क्रियांग
+    auto: true
   - translation_iso: jpn
     name: クリアン語
     auto: true

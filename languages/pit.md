@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتا بيتا
     auto: true
+  - translation_iso: hin
+    name: पिट्टा पिट्टा
+    auto: true
   - translation_iso: jpn
     name: ピッタピッタ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونجوب
     auto: true
+  - translation_iso: hin
+    name: ओनजोब
+    auto: true
   - translation_iso: jpn
     name: オンジョブ語
     auto: true

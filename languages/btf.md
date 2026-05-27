@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيرْجيت
     auto: true
+  - translation_iso: hin
+    name: बिरगिट
+    auto: true
   - translation_iso: jpn
     name: ビルギット語
     auto: true

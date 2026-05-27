@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوروهانون
     auto: true
+  - translation_iso: hin
+    name: पोरोहानोन
+    auto: true
   - translation_iso: jpn
     name: ポロハノン語
     auto: true

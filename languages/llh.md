@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة امو
     auto: true
+  - translation_iso: hin
+    name: लामू
+    auto: true
   - translation_iso: jpn
     name: ラムー語
     auto: true

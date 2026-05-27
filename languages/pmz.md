@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامي الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी पामे
+    auto: true
   - translation_iso: jpn
     name: 南パメ語
     auto: true

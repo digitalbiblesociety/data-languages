@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتشينري
     auto: true
+  - translation_iso: hin
+    name: माचिनेरे
+    auto: true
   - translation_iso: jpn
     name: マシネレ語
     auto: true

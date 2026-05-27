@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوس كندي
     auto: true
+  - translation_iso: hin
+    name: सोस कुंडी
+    auto: true
   - translation_iso: jpn
     name: アグバーネ語
     auto: true

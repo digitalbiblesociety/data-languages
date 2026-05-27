@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: آغو-ثآرنجغآلآ
     auto: true
+  - translation_iso: hin
+    name: अघु-थार्नगाला
+    auto: true
   - translation_iso: jpn
     name: アグ・タルングガラ語
     auto: true

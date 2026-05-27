@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيكبوسو
     auto: true
+  - translation_iso: hin
+    name: इकपोसो
+    auto: true
   - translation_iso: jpn
     name: イクポソ語
     auto: true

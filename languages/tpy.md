@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تروماي
     auto: true
+  - translation_iso: hin
+    name: त्रुमाई
+    auto: true
   - translation_iso: jpn
     name: トゥルマイ語
     auto: true

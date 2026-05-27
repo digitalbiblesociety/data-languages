@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هإيلتسوك
     auto: true
+  - translation_iso: hin
+    name: हेइल्त्सुक
+    auto: true
   - translation_iso: jpn
     name: ヘイルツク語
   - translation_iso: zho

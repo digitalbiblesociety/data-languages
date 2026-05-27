@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوتري
     auto: true
+  - translation_iso: hin
+    name: नोत्रे
+    auto: true
   - translation_iso: jpn
     name: ノートレ語
     auto: true

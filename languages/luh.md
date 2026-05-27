@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة ييزهوو هينيسي
     auto: true
+  - translation_iso: hin
+    name: लेइझोउ चीनी
+    auto: true
   - translation_iso: jpn
     name: 雷州語
   - translation_iso: kor

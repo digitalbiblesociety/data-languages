@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوسو
     auto: true
+  - translation_iso: hin
+    name: डोसो
+    auto: true
   - translation_iso: jpn
     name: ドソ語
     auto: true

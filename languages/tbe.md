@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانيمبيلي
     auto: true
+  - translation_iso: hin
+    name: तानिम्बिली
+    auto: true
   - translation_iso: jpn
     name: タニビリ語
   - translation_iso: zho

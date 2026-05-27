@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسانجي
     auto: true
+  - translation_iso: hin
+    name: त्सांगी
+    auto: true
   - translation_iso: jpn
     name: ツァーンギ語
   - translation_iso: zho

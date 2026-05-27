@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بولو
     auto: true
+  - translation_iso: hin
+    name: बुलु (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: ブル語
   - translation_iso: zho

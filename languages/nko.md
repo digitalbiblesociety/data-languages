@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نكونيا
     auto: true
+  - translation_iso: hin
+    name: नकोन्या
+    auto: true
   - translation_iso: jpn
     name: ンコニャ語
     auto: true

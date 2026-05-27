@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نجونجويل
     auto: true
+  - translation_iso: hin
+    name: न्गुंग्वेल
+    auto: true
   - translation_iso: jpn
     name: ングングウェル語
     auto: true

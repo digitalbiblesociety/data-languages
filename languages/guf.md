@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غوبآبوينجو
     auto: true
+  - translation_iso: hin
+    name: गुपापुयंगु
+    auto: true
   - translation_iso: jpn
     name: グパプユングゥ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موريك ماليزيا
     auto: true
+  - translation_iso: hin
+    name: मुरिक (मलेशिया)
+    auto: true
   - translation_iso: jpn
     name: ムリク語
     auto: true

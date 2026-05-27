@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيموق
     auto: true
+  - translation_iso: hin
+    name: तेमोक
+    auto: true
   - translation_iso: jpn
     name: テモク語
     auto: true

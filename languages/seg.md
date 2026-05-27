@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيجيجو
     auto: true
+  - translation_iso: hin
+    name: सेगेजू
+    auto: true
   - translation_iso: jpn
     name: キセゲジュ語
     auto: true

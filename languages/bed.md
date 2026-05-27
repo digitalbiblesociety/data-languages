@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيدوانا
     auto: true
+  - translation_iso: hin
+    name: बेडोआनास
+    auto: true
   - translation_iso: jpn
     name: ベドアナス語
     auto: true

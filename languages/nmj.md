@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: نغومبي (جمهورية أفريقيا الوسطى)
     auto: true
+  - translation_iso: hin
+    name: न्गोम्बे (मध्य अफ़्रीकी गणराज्य)
+    auto: true
   - translation_iso: jpn
     name: ングオンベ語
     auto: true

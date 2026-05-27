@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سان لويس
     auto: true
+  - translation_iso: hin
+    name: सान लुईस तेमालाकायुका पोपोलोका
+    auto: true
   - translation_iso: jpn
     name: サンルイステマラカユカポポロカ語
     auto: true

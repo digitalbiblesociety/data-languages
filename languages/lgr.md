@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجو
     auto: true
+  - translation_iso: hin
+    name: लेंगो
+    auto: true
   - translation_iso: jpn
     name: レンゴ語
   - translation_iso: zho

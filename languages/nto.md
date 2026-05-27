@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نتومبا
     auto: true
+  - translation_iso: hin
+    name: न्तोम्बा
+    auto: true
   - translation_iso: jpn
     name: ントンバ語
     auto: true

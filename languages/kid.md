@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوشين
     auto: true
+  - translation_iso: hin
+    name: कोशिन
+    auto: true
   - translation_iso: jpn
     name: コシン語
     auto: true

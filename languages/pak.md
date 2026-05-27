@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراكانا
     auto: true
+  - translation_iso: hin
+    name: पाराकाना
+    auto: true
   - translation_iso: jpn
     name: パラカナン語
     auto: true

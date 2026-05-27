@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ياستيرن اوا
     auto: true
+  - translation_iso: hin
+    name: पूर्वी लावा
+    auto: true
   - translation_iso: jpn
     name: 東ラワ語
     auto: true

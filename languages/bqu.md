@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوجورو
     auto: true
+  - translation_iso: hin
+    name: बोगुरु
+    auto: true
   - translation_iso: jpn
     name: ボグル語
     auto: true

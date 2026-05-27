@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيبسيجيس
     auto: true
+  - translation_iso: hin
+    name: किप्सिगिस
+    auto: true
   - translation_iso: jpn
     name: キプシギ語
   - translation_iso: zho

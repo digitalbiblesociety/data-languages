@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولابو
     auto: true
+  - translation_iso: hin
+    name: पुलाबु
+    auto: true
   - translation_iso: jpn
     name: プラブ語
     auto: true

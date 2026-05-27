@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ternate_language"
 translations:
   - translation_iso: ara
     name: لغة تيرنات
+  - translation_iso: hin
+    name: तेरनाते
+    auto: true
   - translation_iso: jpn
     name: テルナタ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بولي
     auto: true
+  - translation_iso: hin
+    name: बुली (इंडोनेशिया)
+    auto: true
   - translation_iso: jpn
     name: ブリ語 (インドネシアの言語)
   - translation_iso: zho

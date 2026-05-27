@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجولو
     auto: true
+  - translation_iso: hin
+    name: न्गुलु
+    auto: true
   - translation_iso: jpn
     name: ングル語
   - translation_iso: zho

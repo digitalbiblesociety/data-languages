@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنلهيت
     auto: true
+  - translation_iso: hin
+    name: एनलहेट
+    auto: true
   - translation_iso: jpn
     name: エンレット語
     auto: true

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة واركي
     auto: true
+  - translation_iso: hin
+    name: लोआर्की
+    auto: true
   - translation_iso: jpn
     name: ロアルキ語
     auto: true

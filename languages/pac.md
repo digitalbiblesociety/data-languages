@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكوه
     auto: true
+  - translation_iso: hin
+    name: पाकोह
+    auto: true
   - translation_iso: jpn
     name: パコー語
     auto: true

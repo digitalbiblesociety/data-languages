@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هونغانا
     auto: true
+  - translation_iso: hin
+    name: हुंगाना
+    auto: true
   - translation_iso: jpn
     name: フンガナ語
     auto: true

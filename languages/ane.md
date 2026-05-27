@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خاراتشوو
     auto: true
+  - translation_iso: hin
+    name: शाराचू
+    auto: true
   - translation_iso: jpn
     name: ハランチュー語
   - translation_iso: kor

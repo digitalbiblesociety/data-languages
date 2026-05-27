@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة نوباكا
     auto: true
+  - translation_iso: hin
+    name: नुबाका
+    auto: true
   - translation_iso: jpn
     name: ヌバカ語
     auto: true

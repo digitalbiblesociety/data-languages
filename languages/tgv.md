@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: تينغوي بوتو
     auto: true
+  - translation_iso: hin
+    name: तिंगुई-बोतो
+    auto: true
   - translation_iso: jpn
     name: ティングイ・ボト語
     auto: true

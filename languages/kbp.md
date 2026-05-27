@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كابياه
     auto: true
+  - translation_iso: hin
+    name: काबिये
+    auto: true
   - translation_iso: jpn
     name: カビエ語
   - translation_iso: zho

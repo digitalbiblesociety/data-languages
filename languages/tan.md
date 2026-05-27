@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانغالي
     auto: true
+  - translation_iso: hin
+    name: तांगाले
+    auto: true
   - translation_iso: jpn
     name: タンガレ語
     auto: true

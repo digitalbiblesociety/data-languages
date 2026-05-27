@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: غرونينجس
     auto: true
+  - translation_iso: hin
+    name: ग्रोनिंग्स
+    auto: true
   - translation_iso: jpn
     name: フローニン語
   - translation_iso: zho

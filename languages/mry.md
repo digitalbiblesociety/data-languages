@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندايا
     auto: true
+  - translation_iso: hin
+    name: मंदाया
+    auto: true
   - translation_iso: jpn
     name: マンダヤ語
   - translation_iso: zho

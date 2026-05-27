@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاهوا وسطية
     auto: true
+  - translation_iso: hin
+    name: मध्य माज़ाहुआ
+    auto: true
   - translation_iso: jpn
     name: 中央マサウア語
     auto: true

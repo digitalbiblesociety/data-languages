@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماريتسايا
     auto: true
+  - translation_iso: hin
+    name: मारित्साउआ
+    auto: true
   - translation_iso: jpn
     name: マリツァウア語
     auto: true

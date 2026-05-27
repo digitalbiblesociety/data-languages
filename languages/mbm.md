@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة أومبامبا
     auto: true
+  - translation_iso: hin
+    name: ओम्बाम्बा
+    auto: true
   - translation_iso: jpn
     name: ンバンバ語
   - translation_iso: zho

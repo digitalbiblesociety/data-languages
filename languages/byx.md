@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: قاقيت
     auto: true
+  - translation_iso: hin
+    name: काकेत
+    auto: true
   - translation_iso: jpn
     name: バイニン語
   - translation_iso: zho

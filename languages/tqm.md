@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توروما سا
     auto: true
+  - translation_iso: hin
+    name: तुरुम्सा
+    auto: true
   - translation_iso: jpn
     name: トゥルムサ語
     auto: true

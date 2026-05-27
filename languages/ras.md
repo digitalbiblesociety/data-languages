@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيجالي
     auto: true
+  - translation_iso: hin
+    name: तेगाली
+    auto: true
   - translation_iso: jpn
     name: テガリ語
     auto: true

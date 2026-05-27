@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة وايامبي
     auto: true
+  - translation_iso: hin
+    name: वायाम्पी
+    auto: true
   - translation_iso: jpn
     name: ワヤンピ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ormuri"
 translations:
   - translation_iso: ara
     name: أرمري
+  - translation_iso: hin
+    name: ओर्मुरी
+    auto: true
   - translation_iso: jpn
     name: オルムル語
   - translation_iso: zho

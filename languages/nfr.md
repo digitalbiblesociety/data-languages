@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nafanan_language"
 translations:
   - translation_iso: ara
     name: نافانرا
+  - translation_iso: hin
+    name: नाफानरा
+    auto: true
   - translation_iso: jpn
     name: ナファーンラ語
   - translation_iso: zho

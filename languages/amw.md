@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Western_Neo-Aramaic"
 translations:
   - translation_iso: ara
     name: آرامية غربية حديثة
+  - translation_iso: hin
+    name: पश्चिमी नव-अरामी
+    auto: true
   - translation_iso: jpn
     name: 現代西アラム語
   - translation_iso: zho

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيبيري
     auto: true
+  - translation_iso: hin
+    name: किबिरी
+    auto: true
   - translation_iso: jpn
     name: キビリ語
     auto: true

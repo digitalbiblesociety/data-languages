@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكو تينجاه
     auto: true
+  - translation_iso: hin
+    name: सेको तेंगाह
+    auto: true
   - translation_iso: jpn
     name: ペワネアン語
     auto: true

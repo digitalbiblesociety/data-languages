@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nganasan_language"
 translations:
   - translation_iso: ara
     name: لغة نجاناسان
+  - translation_iso: hin
+    name: न्गानासान
+    auto: true
   - translation_iso: jpn
     name: ガナサン語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوما
     auto: true
+  - translation_iso: hin
+    name: उमा
+    auto: true
   - translation_iso: jpn
     name: ウマ語
     auto: true

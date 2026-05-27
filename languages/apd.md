@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sudanese_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة سودانية
+  - translation_iso: hin
+    name: सूडानी अरबी
+    auto: true
   - translation_iso: jpn
     name: アラビア語スーダン方言
   - translation_iso: kor

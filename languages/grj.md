@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سووثإرن غرإبو
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी ग्रेबो
+    auto: true
   - translation_iso: jpn
     name: サザン・グレボ語
     auto: true

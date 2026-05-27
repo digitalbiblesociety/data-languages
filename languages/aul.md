@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوليوا
     auto: true
+  - translation_iso: hin
+    name: औलुआ
+    auto: true
   - translation_iso: jpn
     name: アウルア語
     auto: true

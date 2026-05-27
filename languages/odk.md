@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أود
     auto: true
+  - translation_iso: hin
+    name: ओड
+    auto: true
   - translation_iso: jpn
     name: オド語
     auto: true

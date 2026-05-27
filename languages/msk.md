@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانساكا
     auto: true
+  - translation_iso: hin
+    name: मनसाका
+    auto: true
   - translation_iso: jpn
     name: マンサカ語
     auto: true

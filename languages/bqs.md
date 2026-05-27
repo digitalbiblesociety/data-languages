@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوسْنْجون
     auto: true
+  - translation_iso: hin
+    name: बोसंगुन
+    auto: true
   - translation_iso: jpn
     name: ボスングン語
     auto: true

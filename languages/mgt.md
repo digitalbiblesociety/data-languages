@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة منجول
     auto: true
+  - translation_iso: hin
+    name: मोंगोल
+    auto: true
   - translation_iso: jpn
     name: モンゴル語
     auto: true

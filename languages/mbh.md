@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجسينج
     auto: true
+  - translation_iso: hin
+    name: मांगसेंग
+    auto: true
   - translation_iso: jpn
     name: マンセン語
   - translation_iso: zho

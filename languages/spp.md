@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبيير سينوفو
     auto: true
+  - translation_iso: hin
+    name: सुपयिरे सेनोफो
+    auto: true
   - translation_iso: jpn
     name: スピリエセヌーフォ語
     auto: true

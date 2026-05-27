@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: سافاليبا
     auto: true
+  - translation_iso: hin
+    name: साफालिबा
+    auto: true
   - translation_iso: jpn
     name: サファラバ語
     auto: true

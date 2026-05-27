@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشاطية
     auto: true
+  - translation_iso: hin
+    name: शट्ट
+    auto: true
   - translation_iso: jpn
     name: カニング語
     auto: true

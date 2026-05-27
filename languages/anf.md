@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنيميري
     auto: true
+  - translation_iso: hin
+    name: अनिमेरे
+    auto: true
   - translation_iso: jpn
     name: アニメレ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيما بخا
     auto: true
+  - translation_iso: hin
+    name: पीमा बाहो
+    auto: true
   - translation_iso: jpn
     name: ピマバホ語
     auto: true

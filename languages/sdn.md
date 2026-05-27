@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جالورسي سردينية
     auto: true
+  - translation_iso: hin
+    name: गलुरी सार्डिनियन
+    auto: true
   - translation_iso: jpn
     name: ガッルーラ語
   - translation_iso: zho

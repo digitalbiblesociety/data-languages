@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوالاجا هوانوكو
     auto: true
+  - translation_iso: hin
+    name: वायागा वानूको क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: ワラガウアヌコケチュア語
     auto: true

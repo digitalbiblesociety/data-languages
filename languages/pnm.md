@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بونان باتو 1
     auto: true
+  - translation_iso: hin
+    name: पुनान बातू 1
+    auto: true
   - translation_iso: jpn
     name: プナンバトゥ1語
     auto: true

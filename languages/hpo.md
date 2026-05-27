@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هبون
     auto: true
+  - translation_iso: hin
+    name: ह्पोन
+    auto: true
   - translation_iso: jpn
     name: フポン語
     auto: true

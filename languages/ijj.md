@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيدي إيجي
     auto: true
+  - translation_iso: hin
+    name: एदे इजे
+    auto: true
   - translation_iso: jpn
     name: エデ・イジェ語
     auto: true

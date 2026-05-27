@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أدنيماثانها
     auto: true
+  - translation_iso: hin
+    name: अद्न्यामथान्हा
+    auto: true
   - translation_iso: jpn
     name: アドニャマタンハ語
     auto: true

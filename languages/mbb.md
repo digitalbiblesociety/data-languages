@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بوكيدنون الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी बुकिडनोन मानोबो
+    auto: true
   - translation_iso: jpn
     name: 西ブキドノン・マノボ語
   - translation_iso: zho

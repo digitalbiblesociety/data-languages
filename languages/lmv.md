@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ومايفيتي
     auto: true
+  - translation_iso: hin
+    name: लोमाइविती
+    auto: true
   - translation_iso: jpn
     name: ロマイビティ語
     auto: true

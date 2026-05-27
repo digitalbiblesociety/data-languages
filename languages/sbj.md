@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوربخال
     auto: true
+  - translation_iso: hin
+    name: सुरबखाल
+    auto: true
   - translation_iso: jpn
     name: スルバカル語
     auto: true

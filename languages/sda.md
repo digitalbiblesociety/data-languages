@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توراجا سادان
     auto: true
+  - translation_iso: hin
+    name: तोराजा-सादान
+    auto: true
   - translation_iso: jpn
     name: トラジャ＝サダン語
   - translation_iso: zho

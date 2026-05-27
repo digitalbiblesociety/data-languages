@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساوري
     auto: true
+  - translation_iso: hin
+    name: साउरी
+    auto: true
   - translation_iso: jpn
     name: バハササウリ語
     auto: true

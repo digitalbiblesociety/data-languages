@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تالاود
     auto: true
+  - translation_iso: hin
+    name: तालौद
+    auto: true
   - translation_iso: jpn
     name: タラウド語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوريسيمينيو
     auto: true
+  - translation_iso: hin
+    name: पुरिसिमेन्यो
+    auto: true
   - translation_iso: jpn
     name: プリシメーニョ語
     auto: true

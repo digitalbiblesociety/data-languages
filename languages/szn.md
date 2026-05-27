@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سولا
     auto: true
+  - translation_iso: hin
+    name: सुला
+    auto: true
   - translation_iso: jpn
     name: スラ語
     auto: true

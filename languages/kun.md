@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كونامة
     auto: true
+  - translation_iso: hin
+    name: कुनामा
+    auto: true
   - translation_iso: jpn
     name: クナマ語
   - translation_iso: zho

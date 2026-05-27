@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كونومالا
     auto: true
+  - translation_iso: hin
+    name: कोनोमाला
+    auto: true
   - translation_iso: jpn
     name: コノマラ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يهير
     auto: true
+  - translation_iso: hin
+    name: लिहिर
+    auto: true
   - translation_iso: jpn
     name: リヒル語
   - translation_iso: zho

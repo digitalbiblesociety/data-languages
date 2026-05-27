@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانايناه
     auto: true
+  - translation_iso: hin
+    name: तनैना
+    auto: true
   - translation_iso: jpn
     name: デナッイア語
   - translation_iso: zho

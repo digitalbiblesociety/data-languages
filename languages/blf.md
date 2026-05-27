@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوول
     auto: true
+  - translation_iso: hin
+    name: बुओल
+    auto: true
   - translation_iso: jpn
     name: ブオル語
     auto: true

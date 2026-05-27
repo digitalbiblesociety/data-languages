@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيليكو
     auto: true
+  - translation_iso: hin
+    name: केलिको
+    auto: true
   - translation_iso: jpn
     name: ケリコ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيليفيلا
     auto: true
+  - translation_iso: hin
+    name: किलिविला
+    auto: true
   - translation_iso: jpn
     name: キリヴィラ語
   - translation_iso: zho

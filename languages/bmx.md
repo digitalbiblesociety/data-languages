@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بايماك
     auto: true
+  - translation_iso: hin
+    name: बैमक
+    auto: true
   - translation_iso: jpn
     name: バイマク語
     auto: true

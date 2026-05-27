@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشراو
     auto: true
+  - translation_iso: hin
+    name: च्राउ
+    auto: true
   - translation_iso: jpn
     name: チョラウ語
     auto: true

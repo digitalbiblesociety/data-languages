@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هيجوك
     auto: true
+  - translation_iso: hin
+    name: हिजुक
+    auto: true
   - translation_iso: jpn
     name: ヒジュク語
     auto: true

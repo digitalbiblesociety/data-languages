@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يو ميين
     auto: true
+  - translation_iso: hin
+    name: इउ मियेन
+    auto: true
   - translation_iso: jpn
     name: ヤオ語
   - translation_iso: kor

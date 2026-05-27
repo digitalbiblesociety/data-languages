@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا ياويوس
     auto: true
+  - translation_iso: hin
+    name: याउयोस क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: ヤウヨスケチュア語
     auto: true

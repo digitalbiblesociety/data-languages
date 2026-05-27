@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة اراجيا
     auto: true
+  - translation_iso: hin
+    name: लारागिया
+    auto: true
   - translation_iso: jpn
     name: ララキア語
   - translation_iso: zho

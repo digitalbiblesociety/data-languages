@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: نيو
     auto: true
+  - translation_iso: hin
+    name: नेओ
+    auto: true
   - translation_iso: jpn
     name: ネオ
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مايا سامو
     auto: true
+  - translation_iso: hin
+    name: माया सामो
+    auto: true
   - translation_iso: jpn
     name: マヤ・サモ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نا ميو
     auto: true
+  - translation_iso: hin
+    name: ना-मेओ
+    auto: true
   - translation_iso: jpn
     name: ナー・メオ語
     auto: true

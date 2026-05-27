@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أنفيلو
     auto: true
+  - translation_iso: hin
+    name: अनफिल्लो
+    auto: true
   - translation_iso: jpn
     name: アンフィッロ語
     auto: true

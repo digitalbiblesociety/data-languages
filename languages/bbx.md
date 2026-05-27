@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبيا
     auto: true
+  - translation_iso: hin
+    name: बुबिया
+    auto: true
   - translation_iso: jpn
     name: ブビア語
     auto: true

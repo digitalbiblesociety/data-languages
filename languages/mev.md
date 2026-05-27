@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانو
     auto: true
+  - translation_iso: hin
+    name: मानो
+    auto: true
   - translation_iso: jpn
     name: マノ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ دو
     auto: true
+  - translation_iso: hin
+    name: ह्मोंग दो
+    auto: true
   - translation_iso: jpn
     name: フモング・ド語
     auto: true

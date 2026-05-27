@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوبر دوتش
     auto: true
+  - translation_iso: hin
+    name: उन्ज़र्डॉयच
+    auto: true
   - translation_iso: jpn
     name: ドイツ語系クレオール語
   - translation_iso: kor

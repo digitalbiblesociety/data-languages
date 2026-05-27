@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السالار
     auto: true
+  - translation_iso: hin
+    name: सालार
+    auto: true
   - translation_iso: jpn
     name: サラール語
   - translation_iso: kor

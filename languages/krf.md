@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كورو (فانواتو)
     auto: true
+  - translation_iso: hin
+    name: कोरो (वानुआतू)
+    auto: true
   - translation_iso: jpn
     name: コロ語
   - translation_iso: zho

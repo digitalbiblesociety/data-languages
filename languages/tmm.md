@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي ثانه
     auto: true
+  - translation_iso: hin
+    name: ताई थान्ह
+    auto: true
   - translation_iso: jpn
     name: タイ・タィン語
   - translation_iso: zho

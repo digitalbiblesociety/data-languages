@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اهي
     auto: true
+  - translation_iso: hin
+    name: पाही
+    auto: true
   - translation_iso: jpn
     name: パヒ語
     auto: true

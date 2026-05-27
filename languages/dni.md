@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لوور جراند فالي داني
     auto: true
+  - translation_iso: hin
+    name: निचली ग्रैंड वैली दानी
+    auto: true
   - translation_iso: jpn
     name: ロウアー・グランド・ヴァレー・ダニ語
     auto: true

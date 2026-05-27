@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكولو
     auto: true
+  - translation_iso: hin
+    name: इकुलु
+    auto: true
   - translation_iso: jpn
     name: イクル語
     auto: true

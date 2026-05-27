@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سالبا
     auto: true
+  - translation_iso: hin
+    name: सालिबा
+    auto: true
   - translation_iso: jpn
     name: サリバ語
     auto: true

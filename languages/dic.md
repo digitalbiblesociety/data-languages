@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لاكوتا ديدا
     auto: true
+  - translation_iso: hin
+    name: लाकोता दीदा
+    auto: true
   - translation_iso: jpn
     name: ラコタ・ディダ語
     auto: true

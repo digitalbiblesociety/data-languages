@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غوآن كونكآني
     auto: true
+  - translation_iso: hin
+    name: गोवा कोंकणी
+    auto: true
   - translation_iso: jpn
     name: ゴア・コンカニ語
   - translation_iso: zho

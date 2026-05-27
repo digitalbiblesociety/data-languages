@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أومبو
     auto: true
+  - translation_iso: hin
+    name: ओम्बो
+    auto: true
   - translation_iso: jpn
     name: Ombo語
   - translation_iso: zho

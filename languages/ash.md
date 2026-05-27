@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبيشيرا
     auto: true
+  - translation_iso: hin
+    name: अबिशिरा
+    auto: true
   - translation_iso: jpn
     name: アビシラ語
     auto: true

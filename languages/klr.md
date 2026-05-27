@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خالينج
     auto: true
+  - translation_iso: hin
+    name: खालिङ
+    auto: true
   - translation_iso: jpn
     name: ハリン語
     auto: true

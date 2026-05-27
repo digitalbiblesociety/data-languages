@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة والونغي
     auto: true
+  - translation_iso: hin
+    name: वालुंगे
+    auto: true
   - translation_iso: jpn
     name: ワルングゲ語
     auto: true

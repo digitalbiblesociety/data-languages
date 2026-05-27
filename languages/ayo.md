@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيوريو
     auto: true
+  - translation_iso: hin
+    name: अयोरेओ
+    auto: true
   - translation_iso: jpn
     name: アヨレオ語
   - translation_iso: zho

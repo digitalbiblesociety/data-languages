@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبالايي
     auto: true
+  - translation_iso: hin
+    name: अपलाई
+    auto: true
   - translation_iso: jpn
     name: アパライ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبيمب
     auto: true
+  - translation_iso: hin
+    name: क्रॉस रिवर म्बेम्बे
+    auto: true
   - translation_iso: jpn
     name: クロス・リバー・ムベンベ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هواستيك
     auto: true
+  - translation_iso: hin
+    name: हुआस्तेक
+    auto: true
   - translation_iso: jpn
     name: ワステク語
   - translation_iso: kor

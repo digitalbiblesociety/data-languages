@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جانجكانج
     auto: true
+  - translation_iso: hin
+    name: जंगकांग
+    auto: true
   - translation_iso: jpn
     name: ジャンカング語
     auto: true

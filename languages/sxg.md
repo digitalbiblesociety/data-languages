@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شوهي
     auto: true
+  - translation_iso: hin
+    name: शुही
+    auto: true
   - translation_iso: jpn
     name: シヒン語
   - translation_iso: zho

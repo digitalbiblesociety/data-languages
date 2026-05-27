@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوال
     auto: true
+  - translation_iso: hin
+    name: बुवाल
+    auto: true
   - translation_iso: jpn
     name: ブワル語
   - translation_iso: zho

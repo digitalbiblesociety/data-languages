@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك تشيكيهويتلان
     auto: true
+  - translation_iso: hin
+    name: चिकिवित्लान माज़ातेक
+    auto: true
   - translation_iso: jpn
     name: チキウィトラン・マサテク語
     auto: true

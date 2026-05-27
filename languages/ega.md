@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيجا
     auto: true
+  - translation_iso: hin
+    name: एगा
+    auto: true
   - translation_iso: jpn
     name: エガ語
   - translation_iso: zho

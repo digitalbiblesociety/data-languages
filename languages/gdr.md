@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الويبي
     auto: true
+  - translation_iso: hin
+    name: विपी
+    auto: true
   - translation_iso: jpn
     name: ウィピ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشيبيبو-كونيبو
     auto: true
+  - translation_iso: hin
+    name: शिपिबो-कोनिबो
+    auto: true
   - translation_iso: jpn
     name: シピボ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييوري
     auto: true
+  - translation_iso: hin
+    name: न्योरे
+    auto: true
   - translation_iso: jpn
     name: ニョレ語
     auto: true

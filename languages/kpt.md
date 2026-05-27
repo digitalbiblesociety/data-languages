@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاراتا
     auto: true
+  - translation_iso: hin
+    name: कराता
+    auto: true
   - translation_iso: jpn
     name: カラタ語
   - translation_iso: kor

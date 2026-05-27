@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يابوكو
     auto: true
+  - translation_iso: hin
+    name: लियाबुकु
+    auto: true
   - translation_iso: jpn
     name: リアブク語
     auto: true

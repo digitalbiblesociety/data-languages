@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيموا
     auto: true
+  - translation_iso: hin
+    name: निमोआ
+    auto: true
   - translation_iso: jpn
     name: ニモア語
   - translation_iso: zho

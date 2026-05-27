@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة موراتايك
     auto: true
+  - translation_iso: hin
+    name: मुरातायक
+    auto: true
   - translation_iso: jpn
     name: ムラタヤク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألدي
     auto: true
+  - translation_iso: hin
+    name: अदेले
+    auto: true
   - translation_iso: jpn
     name: アデレ語
   - translation_iso: zho

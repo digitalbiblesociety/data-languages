@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: غوولي
     auto: true
+  - translation_iso: hin
+    name: गौली
+    auto: true
   - translation_iso: jpn
     name: ゴウリ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توفين غبي
     auto: true
+  - translation_iso: hin
+    name: तोफिन ग्बे
+    auto: true
   - translation_iso: jpn
     name: トフィン・ゲベ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باريجي
     auto: true
+  - translation_iso: hin
+    name: बारिजी
+    auto: true
   - translation_iso: jpn
     name: バリジ語
     auto: true

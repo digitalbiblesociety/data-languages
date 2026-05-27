@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكبينكا
     auto: true
+  - translation_iso: hin
+    name: बकपिंका
+    auto: true
   - translation_iso: jpn
     name: バクピンカ語
     auto: true

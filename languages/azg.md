@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أموزجو سان بيدرو
     auto: true
+  - translation_iso: hin
+    name: सान पेद्रो अमुज़गोस अमुज़गो
+    auto: true
   - translation_iso: jpn
     name: サン・ペドロ・アムズゴス・アムズゴ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا كويوتيبك
     auto: true
+  - translation_iso: hin
+    name: कोयोटेपेक पोपोलोका
+    auto: true
   - translation_iso: jpn
     name: コヨテペック・ポポロカ語
     auto: true

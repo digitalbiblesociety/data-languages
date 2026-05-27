@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماداغاسكار تادرويّ ماهافالي
     auto: true
+  - translation_iso: hin
+    name: तंद्रोय-महाफाली मलागासी
+    auto: true
   - translation_iso: jpn
     name: タンルイ語
   - translation_iso: zho

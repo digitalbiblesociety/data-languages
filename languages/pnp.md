@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانكانا
     auto: true
+  - translation_iso: hin
+    name: पंचना
+    auto: true
   - translation_iso: jpn
     name: パンカナ語
     auto: true

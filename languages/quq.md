@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كينكي
     auto: true
+  - translation_iso: hin
+    name: किंकी
+    auto: true
   - translation_iso: jpn
     name: キンキ語
     auto: true

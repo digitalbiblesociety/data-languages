@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: منْجوليا بورْيات
     auto: true
+  - translation_iso: hin
+    name: मंगोलियाई बुर्यात
+    auto: true
   - translation_iso: jpn
     name: モンゴルブリヤート語
   - translation_iso: zho

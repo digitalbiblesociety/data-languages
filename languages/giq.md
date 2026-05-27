@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غرإإن غإلآو
     auto: true
+  - translation_iso: hin
+    name: ग्रीन गेलाओ
+    auto: true
   - translation_iso: jpn
     name: グリーン・ゲラオ語
     auto: true

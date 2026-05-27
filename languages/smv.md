@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سامفيدي
     auto: true
+  - translation_iso: hin
+    name: सामवेदी
+    auto: true
   - translation_iso: jpn
     name: サマベディ語
     auto: true

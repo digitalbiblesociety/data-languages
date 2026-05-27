@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة المابون
     auto: true
+  - translation_iso: hin
+    name: मापुन
+    auto: true
   - translation_iso: jpn
     name: バホ語
     auto: true

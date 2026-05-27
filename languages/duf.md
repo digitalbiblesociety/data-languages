@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دومبيا
     auto: true
+  - translation_iso: hin
+    name: डुम्बिया
+    auto: true
   - translation_iso: jpn
     name: ンドゥベア語
   - translation_iso: zho

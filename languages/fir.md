@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفيران
     auto: true
+  - translation_iso: hin
+    name: फिरान
+    auto: true
   - translation_iso: jpn
     name: フィラン語
     auto: true

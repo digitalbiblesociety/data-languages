@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشينابيان
     auto: true
+  - translation_iso: hin
+    name: चेनापियन
+    auto: true
   - translation_iso: jpn
     name: チェナピアン語
     auto: true

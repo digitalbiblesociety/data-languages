@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ ماشان الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य माशान ह्मोंग
+    auto: true
   - translation_iso: jpn
     name: 中部麻山フモン語
   - translation_iso: zho

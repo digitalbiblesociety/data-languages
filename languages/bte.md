@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جامو-نينْجي
     auto: true
+  - translation_iso: hin
+    name: गामो-निंगी
+    auto: true
   - translation_iso: jpn
     name: ガモ・ニンギ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أنور
     auto: true
+  - translation_iso: hin
+    name: अनोर
+    auto: true
   - translation_iso: jpn
     name: アノル語
     auto: true

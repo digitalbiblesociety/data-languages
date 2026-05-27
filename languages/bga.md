@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوامهي وري
     auto: true
+  - translation_iso: hin
+    name: ग्वामही-वुरी
+    auto: true
   - translation_iso: jpn
     name: グワムヒ・ウリ語
     auto: true

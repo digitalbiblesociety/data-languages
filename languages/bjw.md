@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باكوي
     auto: true
+  - translation_iso: hin
+    name: बाकवे
+    auto: true
   - translation_iso: jpn
     name: バクウェ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سانيو-هيويي
     auto: true
+  - translation_iso: hin
+    name: सानियो-हियेवे
+    auto: true
   - translation_iso: jpn
     name: ヒオウェ語
     auto: true

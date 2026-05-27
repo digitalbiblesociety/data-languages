@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوغباه
     auto: true
+  - translation_iso: hin
+    name: ओग्बाह
+    auto: true
   - translation_iso: jpn
     name: オグバ語
     auto: true

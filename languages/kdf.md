@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماموسي
     auto: true
+  - translation_iso: hin
+    name: मामुसी
+    auto: true
   - translation_iso: jpn
     name: マムシ語
   - translation_iso: zho

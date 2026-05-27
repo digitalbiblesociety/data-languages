@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجيلو
     auto: true
+  - translation_iso: hin
+    name: लेंगिलु
+    auto: true
   - translation_iso: jpn
     name: レンギル語
     auto: true

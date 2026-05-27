@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبيانا
     auto: true
+  - translation_iso: hin
+    name: कोबियाना
+    auto: true
   - translation_iso: jpn
     name: コビアナ語
     auto: true

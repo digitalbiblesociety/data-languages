@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوا بيسافلوريس
     auto: true
+  - translation_iso: hin
+    name: पिसाफ्लोरेस तेपेहुआ
+    auto: true
   - translation_iso: jpn
     name: 北テペウア語
     auto: true

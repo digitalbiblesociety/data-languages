@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كولونج
     auto: true
+  - translation_iso: hin
+    name: कुलुंग (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: クルング語
     auto: true

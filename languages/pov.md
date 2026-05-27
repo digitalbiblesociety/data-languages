@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كريولو جينيا العليا
     auto: true
+  - translation_iso: hin
+    name: ऊपरी गिनी क्रिओलो
+    auto: true
   - translation_iso: jpn
     name: ギニアビサウ・クレオール語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مونسانغ ناغا
     auto: true
+  - translation_iso: hin
+    name: मोनसांग नागा
+    auto: true
   - translation_iso: jpn
     name: モンサン語
     auto: true

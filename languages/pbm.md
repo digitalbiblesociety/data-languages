@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مازاتيك بويبلا
     auto: true
+  - translation_iso: hin
+    name: पुएब्ला माज़ाटेक
+    auto: true
   - translation_iso: jpn
     name: プエブラ・マザテク語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ساوثويسترن دينكا
     auto: true
+  - translation_iso: hin
+    name: दक्षिण-पश्चिमी डिंका
+    auto: true
   - translation_iso: jpn
     name: 南西ディンカ語
   - translation_iso: zho

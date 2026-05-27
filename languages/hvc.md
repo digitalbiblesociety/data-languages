@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ثقافة الفودو الهاitian
     auto: true
+  - translation_iso: hin
+    name: हाईशियन वूडू सांस्कृतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ハイチ・ヴォードゥー・カルチャー言語
     auto: true

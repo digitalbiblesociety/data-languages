@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيغا
     auto: true
+  - translation_iso: hin
+    name: केइगा
+    auto: true
   - translation_iso: jpn
     name: ケイガ語
     auto: true

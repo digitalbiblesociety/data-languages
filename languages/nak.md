@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناكاناي
     auto: true
+  - translation_iso: hin
+    name: नाकानाई
+    auto: true
   - translation_iso: jpn
     name: ナカナイ語
   - translation_iso: zho

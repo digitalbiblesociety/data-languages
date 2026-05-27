@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نامكورا
     auto: true
+  - translation_iso: hin
+    name: नामाकुरा
+    auto: true
   - translation_iso: jpn
     name: ナマクラ語
   - translation_iso: zho

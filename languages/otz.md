@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي إكستينكو
     auto: true
+  - translation_iso: hin
+    name: इक्स्तेनको ओटोमी
+    auto: true
   - translation_iso: jpn
     name: イクステンコ・オトミ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماواكي
     auto: true
+  - translation_iso: hin
+    name: माउवाके
+    auto: true
   - translation_iso: jpn
     name: マウワケ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: قابياو
     auto: true
+  - translation_iso: hin
+    name: क़ाबियाओ
+    auto: true
   - translation_iso: jpn
     name: クァビャウ語
   - translation_iso: zho

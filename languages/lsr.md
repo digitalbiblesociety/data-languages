@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ارووپ
     auto: true
+  - translation_iso: hin
+    name: अरूप
+    auto: true
   - translation_iso: jpn
     name: アルオップ語
     auto: true

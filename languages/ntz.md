@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناتانزي
     auto: true
+  - translation_iso: hin
+    name: नातांज़ी
+    auto: true
   - translation_iso: jpn
     name: ナタンズ語
   - translation_iso: zho

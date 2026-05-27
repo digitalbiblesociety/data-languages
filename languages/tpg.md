@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كولا
     auto: true
+  - translation_iso: hin
+    name: कुला
+    auto: true
   - translation_iso: jpn
     name: タングラプウイ語
     auto: true

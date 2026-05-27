@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: بوشي
     auto: true
+  - translation_iso: hin
+    name: बुशी
+    auto: true
   - translation_iso: jpn
     name: ブシ語
   - translation_iso: zho

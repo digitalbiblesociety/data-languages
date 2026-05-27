@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بلانج
     auto: true
+  - translation_iso: hin
+    name: ब्लांग
+    auto: true
   - translation_iso: jpn
     name: ブラン語
     auto: true

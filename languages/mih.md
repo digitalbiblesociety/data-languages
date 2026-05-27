@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك تشايوكو
     auto: true
+  - translation_iso: hin
+    name: चायुको मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: チャユコ・ミステク語
     auto: true

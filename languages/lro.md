@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ارو
     auto: true
+  - translation_iso: hin
+    name: लारो
+    auto: true
   - translation_iso: jpn
     name: ラロ語
     auto: true

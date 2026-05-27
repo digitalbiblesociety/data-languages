@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكامبيدانية الساردينية
     auto: true
+  - translation_iso: hin
+    name: कैम्पिडानेसे सार्डिनियन
+    auto: true
   - translation_iso: jpn
     name: カンピダーノ・サルデーニャ語
   - translation_iso: zho

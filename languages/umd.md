@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أومبندهامو
     auto: true
+  - translation_iso: hin
+    name: उम्बिंधामु
+    auto: true
   - translation_iso: jpn
     name: ウンビンダムー語
     auto: true

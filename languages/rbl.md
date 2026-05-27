@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ميرايا بيكول
     auto: true
+  - translation_iso: hin
+    name: मिराया बिकोल
+    auto: true
   - translation_iso: jpn
     name: ミラヤ・ビコール語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كاواتشا
     auto: true
+  - translation_iso: hin
+    name: कावाचा
+    auto: true
   - translation_iso: jpn
     name: カワチャ語
     auto: true

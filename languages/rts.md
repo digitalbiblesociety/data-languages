@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: يوراتس
     auto: true
+  - translation_iso: hin
+    name: युरात्स
+    auto: true
   - translation_iso: jpn
     name: ユラツ語
   - translation_iso: kor

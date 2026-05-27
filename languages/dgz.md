@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داجا
     auto: true
+  - translation_iso: hin
+    name: दागा
+    auto: true
   - translation_iso: jpn
     name: ダガ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة تايرورا الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिण तैरोरा
+    auto: true
   - translation_iso: jpn
     name: 南タイロラ語
     auto: true

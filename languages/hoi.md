@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوليكاتشوك
     auto: true
+  - translation_iso: hin
+    name: होलिकाचुक
+    auto: true
   - translation_iso: jpn
     name: ホリカチャク語
     auto: true

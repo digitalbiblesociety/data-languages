@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: لغة ادجي ادجي
     auto: true
+  - translation_iso: hin
+    name: लाडजी लाडजी
+    auto: true
   - translation_iso: jpn
     name: ラジ・ラジ語
     auto: true

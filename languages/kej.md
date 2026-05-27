@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كادار
     auto: true
+  - translation_iso: hin
+    name: कादर
+    auto: true
   - translation_iso: jpn
     name: カダル語
     auto: true

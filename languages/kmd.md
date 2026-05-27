@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماجوكايانج كالينجا
     auto: true
+  - translation_iso: hin
+    name: माजुकायांग कालिंगा
+    auto: true
   - translation_iso: jpn
     name: マジュカヤン・カリンガ語
     auto: true

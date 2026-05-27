@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باجلاني
     auto: true
+  - translation_iso: hin
+    name: बाजेलानी
+    auto: true
   - translation_iso: jpn
     name: バジェラニ語
     auto: true

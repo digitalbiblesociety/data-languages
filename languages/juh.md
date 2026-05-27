@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هوني
     auto: true
+  - translation_iso: hin
+    name: होने
+    auto: true
   - translation_iso: jpn
     name: ホーネ語
     auto: true

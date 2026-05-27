@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاريين بوو الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी प्वो करेन
+    auto: true
   - translation_iso: jpn
     name: プウォ西カレン語
     auto: true

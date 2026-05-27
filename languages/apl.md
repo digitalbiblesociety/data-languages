@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ليبان أباتشي
     auto: true
+  - translation_iso: hin
+    name: लिपान अपाचे
+    auto: true
   - translation_iso: jpn
     name: リパン・アパッチ語
     auto: true

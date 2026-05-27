@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكبيغو
     auto: true
+  - translation_iso: hin
+    name: क्पीगो
+    auto: true
   - translation_iso: jpn
     name: ペエゴ語
     auto: true

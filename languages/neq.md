@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: شمال سنترال ميكسي
     auto: true
+  - translation_iso: hin
+    name: उत्तर मध्य मिक्से
+    auto: true
   - translation_iso: jpn
     name: 北中央ミクセ語
     auto: true

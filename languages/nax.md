@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناكوي
     auto: true
+  - translation_iso: hin
+    name: नाकवी
+    auto: true
   - translation_iso: jpn
     name: ナクウィ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيبالا
     auto: true
+  - translation_iso: hin
+    name: किबाला
+    auto: true
   - translation_iso: jpn
     name: キバラ語
     auto: true

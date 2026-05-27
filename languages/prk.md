@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراوك
     auto: true
+  - translation_iso: hin
+    name: पाराउक
+    auto: true
   - translation_iso: jpn
     name: パラウク語
     auto: true

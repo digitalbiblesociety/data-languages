@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايناماار
     auto: true
+  - translation_iso: hin
+    name: पायनामार
+    auto: true
   - translation_iso: jpn
     name: パイナマル語
     auto: true

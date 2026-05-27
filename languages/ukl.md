@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأوكرانية
     auto: true
+  - translation_iso: hin
+    name: यूक्रेनी सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ウクライナ手話
   - translation_iso: zho

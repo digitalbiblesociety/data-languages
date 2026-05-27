@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داوافينيو
     auto: true
+  - translation_iso: hin
+    name: दावावेन्यो
+    auto: true
   - translation_iso: jpn
     name: ダバウェニョ語
     auto: true

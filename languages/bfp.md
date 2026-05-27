@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيبا
     auto: true
+  - translation_iso: hin
+    name: बेबा
+    auto: true
   - translation_iso: jpn
     name: ベバ語
     auto: true

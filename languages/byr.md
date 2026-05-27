@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بارويا
     auto: true
+  - translation_iso: hin
+    name: बारुया
+    auto: true
   - translation_iso: jpn
     name: バルヤ語
   - translation_iso: zho

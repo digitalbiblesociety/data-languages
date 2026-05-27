@@ -9,6 +9,9 @@ translations:
   - translation_iso: ara
     name: بينامانجا
     auto: true
+  - translation_iso: hin
+    name: बेनामांगा
+    auto: true
   - translation_iso: jpn
     name: ベナマンガ語
     auto: true

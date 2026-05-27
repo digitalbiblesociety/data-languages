@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إسيراوا
     auto: true
+  - translation_iso: hin
+    name: इसिरावा
+    auto: true
   - translation_iso: jpn
     name: イスィラワ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الفور
     auto: true
+  - translation_iso: hin
+    name: फोरे
+    auto: true
   - translation_iso: jpn
     name: フォレ語
   - translation_iso: zho

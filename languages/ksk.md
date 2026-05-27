@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانسا
     auto: true
+  - translation_iso: hin
+    name: कांसा
+    auto: true
   - translation_iso: jpn
     name: カンサ語
     auto: true

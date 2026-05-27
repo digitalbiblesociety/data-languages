@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باك-تونج
     auto: true
+  - translation_iso: hin
+    name: पाक-तोंग
+    auto: true
   - translation_iso: jpn
     name: パクトン語
     auto: true

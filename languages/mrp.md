@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موروويس
     auto: true
+  - translation_iso: hin
+    name: मोरोआस
+    auto: true
   - translation_iso: jpn
     name: モロウアス語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hidatsa_language"
 translations:
   - translation_iso: ara
     name: هيداتسا
+  - translation_iso: hin
+    name: हिदात्सा
+    auto: true
   - translation_iso: jpn
     name: ヒダッサ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة فامالي
     auto: true
+  - translation_iso: hin
+    name: वामाले
+    auto: true
   - translation_iso: jpn
     name: ヴァマレ語
     auto: true

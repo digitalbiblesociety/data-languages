@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الفريزية القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन फ़्रिज़ियन
+    auto: true
   - translation_iso: jpn
     name: 古フリジア語
   - translation_iso: kor

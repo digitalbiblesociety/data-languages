@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ingrian_language"
 translations:
   - translation_iso: ara
     name: لغة أنغرية
+  - translation_iso: hin
+    name: इंग्रियन
+    auto: true
   - translation_iso: jpn
     name: イングリア語
   - translation_iso: kor

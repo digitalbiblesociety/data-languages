@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chadian_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة تشادية
+  - translation_iso: hin
+    name: चाडी अरबी
+    auto: true
   - translation_iso: jpn
     name: アラビア語チャド方言
   - translation_iso: kor

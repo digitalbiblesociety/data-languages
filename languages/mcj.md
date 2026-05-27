@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مفانيب
     auto: true
+  - translation_iso: hin
+    name: म्वानिप
+    auto: true
   - translation_iso: jpn
     name: ムバニップ語
     auto: true

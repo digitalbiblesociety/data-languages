@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاتالتيبك تشاتينو
     auto: true
+  - translation_iso: hin
+    name: तातालतेपेक चातीनो
+    auto: true
   - translation_iso: jpn
     name: タタルテペク・チャティーノ語
     auto: true

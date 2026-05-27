@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيمي
     auto: true
+  - translation_iso: hin
+    name: नेमी
+    auto: true
   - translation_iso: jpn
     name: ネミ語
   - translation_iso: zho

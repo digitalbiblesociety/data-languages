@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوبآ-آبآوآ
     auto: true
+  - translation_iso: hin
+    name: गुपा-अबावा
+    auto: true
   - translation_iso: jpn
     name: グパ・アバワ語
     auto: true

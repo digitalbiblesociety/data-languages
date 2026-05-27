@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوغآدج
     auto: true
+  - translation_iso: hin
+    name: गुगाज
+    auto: true
   - translation_iso: jpn
     name: グガジ語
     auto: true

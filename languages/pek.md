@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينتشال
     auto: true
+  - translation_iso: hin
+    name: पेंचल
+    auto: true
   - translation_iso: jpn
     name: ペンチャル語
     auto: true

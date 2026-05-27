@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أديوكرو
     auto: true
+  - translation_iso: hin
+    name: अदियूक्रू
+    auto: true
   - translation_iso: jpn
     name: アジュクル語
   - translation_iso: zho

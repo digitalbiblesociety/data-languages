@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خونساري
     auto: true
+  - translation_iso: hin
+    name: खुनसारी
+    auto: true
   - translation_iso: jpn
     name: ハーンサール語
   - translation_iso: zho

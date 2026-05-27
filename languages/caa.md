@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشورتي
     auto: true
+  - translation_iso: hin
+    name: चोर्ती
+    auto: true
   - translation_iso: jpn
     name: チョルティ語
   - translation_iso: kor

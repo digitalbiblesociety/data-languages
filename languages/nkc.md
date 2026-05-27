@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نكونغو
     auto: true
+  - translation_iso: hin
+    name: नकोंघो
+    auto: true
   - translation_iso: jpn
     name: ンコンゴ語
     auto: true

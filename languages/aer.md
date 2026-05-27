@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسترن أريرنتي
     auto: true
+  - translation_iso: hin
+    name: पूर्वी अरेर्न्ते
+    auto: true
   - translation_iso: jpn
     name: 東部アレレント語
     auto: true

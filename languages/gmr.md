@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: ميرنينج\ر
     auto: true
+  - translation_iso: hin
+    name: मिर्निंग
+    auto: true
   - translation_iso: jpn
     name: ミルニング語
     auto: true

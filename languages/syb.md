@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوبانين الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य सुबानेन
+    auto: true
   - translation_iso: jpn
     name: 中央スバネン語
     auto: true

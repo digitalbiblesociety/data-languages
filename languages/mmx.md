@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مادك
     auto: true
+  - translation_iso: hin
+    name: मादक
+    auto: true
   - translation_iso: jpn
     name: マダク語
   - translation_iso: zho

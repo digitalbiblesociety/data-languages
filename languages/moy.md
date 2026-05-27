@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة شيكاتشو
     auto: true
+  - translation_iso: hin
+    name: शेक्काचो
+    auto: true
   - translation_iso: jpn
     name: シェッカチョ語
     auto: true

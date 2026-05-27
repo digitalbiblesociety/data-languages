@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة كوكنا
     auto: true
+  - translation_iso: hin
+    name: कुकना
+    auto: true
   - translation_iso: jpn
     name: ククナ語
     auto: true

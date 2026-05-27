@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نتْشام
     auto: true
+  - translation_iso: hin
+    name: न्चाम
+    auto: true
   - translation_iso: jpn
     name: ンチャム語
     auto: true

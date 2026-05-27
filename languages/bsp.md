@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باجا سيتيمو
     auto: true
+  - translation_iso: hin
+    name: बागा सितेमु
+    auto: true
   - translation_iso: jpn
     name: バガ・シテム語
     auto: true

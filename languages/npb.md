@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: نوبفيخا
     auto: true
+  - translation_iso: hin
+    name: नुपबिखा
+    auto: true
   - translation_iso: jpn
     name: ヌプビ語
   - translation_iso: zho

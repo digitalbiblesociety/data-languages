@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "لغة جي / لغة ميــاو تشونغ'آن ريفر"
     auto: true
+  - translation_iso: hin
+    name: गे
+    auto: true
   - translation_iso: jpn
     name: 革家語
   - translation_iso: zho

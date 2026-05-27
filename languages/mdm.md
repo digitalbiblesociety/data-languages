@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايوجو
     auto: true
+  - translation_iso: hin
+    name: मायोगो
+    auto: true
   - translation_iso: jpn
     name: マヨゴ語
   - translation_iso: zho

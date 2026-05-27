@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ديويي
     auto: true
+  - translation_iso: hin
+    name: दिउवे
+    auto: true
   - translation_iso: jpn
     name: ディウウェ語
     auto: true

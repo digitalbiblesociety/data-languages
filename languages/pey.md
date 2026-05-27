@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتجو
     auto: true
+  - translation_iso: hin
+    name: पेत्जो
+    auto: true
   - translation_iso: jpn
     name: ペティオ語
     auto: true

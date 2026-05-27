@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شمال بينغ الصينية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी पिंग चीनी
+    auto: true
   - translation_iso: jpn
     name: 桂北平話
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سبوكان
     auto: true
+  - translation_iso: hin
+    name: स्पोकेन
+    auto: true
   - translation_iso: jpn
     name: スポケーン語
   - translation_iso: zho

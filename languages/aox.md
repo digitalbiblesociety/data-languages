@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتورادا
     auto: true
+  - translation_iso: hin
+    name: अतोरादा
+    auto: true
   - translation_iso: jpn
     name: アトラダ語
   - translation_iso: zho

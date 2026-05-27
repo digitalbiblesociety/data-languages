@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة آفا-كانويرو
     auto: true
+  - translation_iso: hin
+    name: अवा-कनोएइरो
+    auto: true
   - translation_iso: jpn
     name: アヴァ・カノエイロ語
     auto: true

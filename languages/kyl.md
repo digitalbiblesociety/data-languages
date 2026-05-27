@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالابويا
     auto: true
+  - translation_iso: hin
+    name: कालापुया
+    auto: true
   - translation_iso: jpn
     name: カラプヤ語
     auto: true

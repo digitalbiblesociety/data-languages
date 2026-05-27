@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cappadocian_Greek"
 translations:
   - translation_iso: ara
     name: يونانية كبادوكية
+  - translation_iso: hin
+    name: कप्पाडोसियन यूनानी
+    auto: true
   - translation_iso: jpn
     name: カッパドキアのギリシア人
   - translation_iso: kor

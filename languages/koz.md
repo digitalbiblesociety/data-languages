@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوراك
     auto: true
+  - translation_iso: hin
+    name: कोराक
+    auto: true
   - translation_iso: jpn
     name: コラク語
     auto: true

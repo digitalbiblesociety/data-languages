@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة مانا دورا
     auto: true
+  - translation_iso: hin
+    name: मन्ना-डोरा
+    auto: true
   - translation_iso: jpn
     name: マンナ・ドラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوروومفيه
     auto: true
+  - translation_iso: hin
+    name: कोरोम्फे
+    auto: true
   - translation_iso: jpn
     name: クルンフェ語
   - translation_iso: zho

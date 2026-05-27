@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوزو
     auto: true
+  - translation_iso: hin
+    name: होज़ो
+    auto: true
   - translation_iso: jpn
     name: ホゾ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانوفي
     auto: true
+  - translation_iso: hin
+    name: कानुफी
+    auto: true
   - translation_iso: jpn
     name: カヌフィ語
     auto: true

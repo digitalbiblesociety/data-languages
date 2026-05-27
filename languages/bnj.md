@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاوبويد شرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी ताउबुइद
+    auto: true
   - translation_iso: jpn
     name: 東ボウユイド語
     auto: true

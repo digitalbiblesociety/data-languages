@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جنوب نجباندي
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी न्गबांडी
+    auto: true
   - translation_iso: jpn
     name: 南ングバンディ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوفاي
     auto: true
+  - translation_iso: hin
+    name: कोवाई
+    auto: true
   - translation_iso: jpn
     name: コヴァイ語
   - translation_iso: zho

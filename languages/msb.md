@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسباتينو
     auto: true
+  - translation_iso: hin
+    name: मस्बातेन्यो
+    auto: true
   - translation_iso: jpn
     name: マスバテニョ語
   - translation_iso: zho

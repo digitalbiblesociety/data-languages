@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ليفي
     auto: true
+  - translation_iso: hin
+    name: लिव्वी
+    auto: true
   - translation_iso: jpn
     name: リッヴィ語
   - translation_iso: zho

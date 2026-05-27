@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كالو فنلندي رومانية
     auto: true
+  - translation_iso: hin
+    name: कालो फिनिश रोमानी
+    auto: true
   - translation_iso: jpn
     name: カロ・フィンランドロマ語
   - translation_iso: zho

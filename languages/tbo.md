@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاوالا
     auto: true
+  - translation_iso: hin
+    name: तवाला
+    auto: true
   - translation_iso: jpn
     name: タワラ語
   - translation_iso: zho

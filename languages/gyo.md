@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: غيآلسومدو
     auto: true
+  - translation_iso: hin
+    name: ग्यालसुम्दो
+    auto: true
   - translation_iso: jpn
     name: ギャルスムド語
     auto: true

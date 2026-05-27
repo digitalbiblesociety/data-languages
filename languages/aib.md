@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/%C3%84ynu_language"
 translations:
   - translation_iso: ara
     name: لغة آينو
+  - translation_iso: hin
+    name: चीनी ऐनू
+    auto: true
   - translation_iso: jpn
     name: エイヌ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لآمآنج
     auto: true
+  - translation_iso: hin
+    name: लामंग
+    auto: true
   - translation_iso: jpn
     name: ラマング語
     auto: true

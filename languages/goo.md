@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غونإ دآو
     auto: true
+  - translation_iso: hin
+    name: गोन डाउ
+    auto: true
   - translation_iso: jpn
     name: ゴーン・ダウ語
     auto: true

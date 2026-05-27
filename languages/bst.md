@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باسْكيتو
     auto: true
+  - translation_iso: hin
+    name: बास्केटो
+    auto: true
   - translation_iso: jpn
     name: バスケト語
   - translation_iso: zho

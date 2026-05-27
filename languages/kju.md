@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاشايا
     auto: true
+  - translation_iso: hin
+    name: काशाया
+    auto: true
   - translation_iso: jpn
     name: カシャヤ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هونزب
     auto: true
+  - translation_iso: hin
+    name: हुंज़िब
+    auto: true
   - translation_iso: jpn
     name: フンズィブ語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داجبا
     auto: true
+  - translation_iso: hin
+    name: दग्बा
+    auto: true
   - translation_iso: jpn
     name: ダグバ語
     auto: true

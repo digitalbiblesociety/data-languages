@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاراباو
     auto: true
+  - translation_iso: hin
+    name: काराबायो
+    auto: true
   - translation_iso: jpn
     name: カラバヨ語
     auto: true

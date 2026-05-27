@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكينابالي
     auto: true
+  - translation_iso: hin
+    name: किनाबालियन
+    auto: true
   - translation_iso: jpn
     name: キナバリアン語
     auto: true

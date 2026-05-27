@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: روكاي
     auto: true
+  - translation_iso: hin
+    name: रुकाई
+    auto: true
   - translation_iso: jpn
     name: ルカイ語
   - translation_iso: kor

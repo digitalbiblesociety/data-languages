@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكوت
     auto: true
+  - translation_iso: hin
+    name: पोकोट
+    auto: true
   - translation_iso: jpn
     name: ポコット語
   - translation_iso: zho

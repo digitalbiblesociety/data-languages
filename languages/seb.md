@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: شيمبير سينوفو
     auto: true
+  - translation_iso: hin
+    name: शेम्पिरे सेनोफो
+    auto: true
   - translation_iso: jpn
     name: シェンピレ語
     auto: true

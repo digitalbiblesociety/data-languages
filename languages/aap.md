@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة پارا أرارا
     auto: true
+  - translation_iso: hin
+    name: पारा अरारा
+    auto: true
   - translation_iso: jpn
     name: パラー・アララ語
   - translation_iso: zho

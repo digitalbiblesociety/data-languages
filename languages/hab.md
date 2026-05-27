@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بهانوي
     auto: true
+  - translation_iso: hin
+    name: हनोई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ハノイ手話
   - translation_iso: zho

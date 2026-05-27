@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونان ميرا
     auto: true
+  - translation_iso: hin
+    name: पुनान मेराह
+    auto: true
   - translation_iso: jpn
     name: プナンメラ語
     auto: true

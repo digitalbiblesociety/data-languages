@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ديزين
     auto: true
+  - translation_iso: hin
+    name: डिज़िन
+    auto: true
   - translation_iso: jpn
     name: ディジン語
     auto: true

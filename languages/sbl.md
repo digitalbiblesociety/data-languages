@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوتولان سامبال
     auto: true
+  - translation_iso: hin
+    name: बोटोलन साम्बल
+    auto: true
   - translation_iso: jpn
     name: ボトラン・サンバル語
     auto: true

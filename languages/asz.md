@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أس
     auto: true
+  - translation_iso: hin
+    name: आस
+    auto: true
   - translation_iso: jpn
     name: アス語
     auto: true

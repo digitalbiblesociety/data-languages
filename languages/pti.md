@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينديينى
     auto: true
+  - translation_iso: hin
+    name: पिंडीनी
+    auto: true
   - translation_iso: jpn
     name: ピンディーニ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موساك
     auto: true
+  - translation_iso: hin
+    name: मुसाक
+    auto: true
   - translation_iso: jpn
     name: ムサク語
     auto: true

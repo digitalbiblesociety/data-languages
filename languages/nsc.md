@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نشي
     auto: true
+  - translation_iso: hin
+    name: न्शी
+    auto: true
   - translation_iso: jpn
     name: シン語
     auto: true

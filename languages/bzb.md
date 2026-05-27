@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أندْيو
     auto: true
+  - translation_iso: hin
+    name: आंदियो
+    auto: true
   - translation_iso: jpn
     name: アンディオ語
     auto: true

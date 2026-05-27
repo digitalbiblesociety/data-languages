@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كورو واتشي
     auto: true
+  - translation_iso: hin
+    name: कोरो वाची
+    auto: true
   - translation_iso: jpn
     name: コロ・ワチ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيياوايجي
     auto: true
+  - translation_iso: hin
+    name: न्यावायगी
+    auto: true
   - translation_iso: jpn
     name: ニャワイギ語
     auto: true

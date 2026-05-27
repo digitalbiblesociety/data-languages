@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الرواندية
     auto: true
+  - translation_iso: hin
+    name: रवांडा सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ルワンダ手話
   - translation_iso: zho

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكانجا
     auto: true
+  - translation_iso: hin
+    name: पोकांगा
+    auto: true
   - translation_iso: jpn
     name: ポカンガ語
     auto: true

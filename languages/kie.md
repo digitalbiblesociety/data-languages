@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيبت
     auto: true
+  - translation_iso: hin
+    name: किबेट
+    auto: true
   - translation_iso: jpn
     name: キベット語
     auto: true

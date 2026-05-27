@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تالوندو
     auto: true
+  - translation_iso: hin
+    name: तालोन्दो
+    auto: true
   - translation_iso: jpn
     name: タロンド語
     auto: true

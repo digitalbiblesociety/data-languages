@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجان جيتييميري
     auto: true
+  - translation_iso: hin
+    name: न्गान्गित्येमेरी
+    auto: true
   - translation_iso: jpn
     name: ガンギテメリ語
   - translation_iso: zho

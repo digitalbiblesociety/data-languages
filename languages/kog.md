@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوجويي
     auto: true
+  - translation_iso: hin
+    name: कोगी
+    auto: true
   - translation_iso: jpn
     name: コギ語
   - translation_iso: zho

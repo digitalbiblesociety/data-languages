@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نونجو
     auto: true
+  - translation_iso: hin
+    name: नुंगु
+    auto: true
   - translation_iso: jpn
     name: ヌング語
     auto: true

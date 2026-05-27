@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكايتيتي
     auto: true
+  - translation_iso: hin
+    name: कायतेत्ये
+    auto: true
   - translation_iso: jpn
     name: カイテチェ語
   - translation_iso: zho

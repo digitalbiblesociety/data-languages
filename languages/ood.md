@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة توهونو أودهام
     auto: true
+  - translation_iso: hin
+    name: तोहोनो ओओधम
+    auto: true
   - translation_iso: jpn
     name: パパゴ語
   - translation_iso: zho

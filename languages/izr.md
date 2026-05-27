@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيزيري
     auto: true
+  - translation_iso: hin
+    name: इज़ेरे
+    auto: true
   - translation_iso: jpn
     name: イゼレ語
     auto: true

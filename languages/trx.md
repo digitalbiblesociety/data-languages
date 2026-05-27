@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيداه ترينجوس سيمبان
     auto: true
+  - translation_iso: hin
+    name: त्रिंगगुस-सेम्बान बिदायुह
+    auto: true
   - translation_iso: jpn
     name: トリングス語
     auto: true

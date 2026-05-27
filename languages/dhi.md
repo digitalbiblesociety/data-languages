@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديمال
     auto: true
+  - translation_iso: hin
+    name: धीमाल
+    auto: true
   - translation_iso: jpn
     name: ディマール語
   - translation_iso: zho

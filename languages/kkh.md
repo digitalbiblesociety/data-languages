@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خون
     auto: true
+  - translation_iso: hin
+    name: खून
+    auto: true
   - translation_iso: jpn
     name: キュン語
   - translation_iso: zho

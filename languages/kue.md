@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كومان (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: hin
+    name: कुमान (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: クマン語
   - translation_iso: zho

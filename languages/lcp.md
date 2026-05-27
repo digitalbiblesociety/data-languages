@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاوا الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी लावा
+    auto: true
   - translation_iso: jpn
     name: 西ラワ語
     auto: true

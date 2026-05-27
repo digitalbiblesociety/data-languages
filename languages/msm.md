@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أجوسان مانوبو
     auto: true
+  - translation_iso: hin
+    name: अगुसान मानोबो
+    auto: true
   - translation_iso: jpn
     name: アグサン・マノボ語
   - translation_iso: zho

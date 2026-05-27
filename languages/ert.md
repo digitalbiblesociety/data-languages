@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإريتاي
     auto: true
+  - translation_iso: hin
+    name: एरिताई
+    auto: true
   - translation_iso: jpn
     name: エリタイ語
     auto: true

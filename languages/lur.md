@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة اورا
     auto: true
+  - translation_iso: hin
+    name: लौरा
+    auto: true
   - translation_iso: jpn
     name: ラウラ語
     auto: true

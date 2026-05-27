@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رانج
     auto: true
+  - translation_iso: hin
+    name: रांग
+    auto: true
   - translation_iso: jpn
     name: ラン語
     auto: true

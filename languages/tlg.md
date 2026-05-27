@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توفانما
     auto: true
+  - translation_iso: hin
+    name: तोफानमा
+    auto: true
   - translation_iso: jpn
     name: トファンマ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: النوبونوب
     auto: true
+  - translation_iso: hin
+    name: नोबोनोब
+    auto: true
   - translation_iso: jpn
     name: ノボノブ語
     auto: true

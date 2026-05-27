@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوان الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी तेपेहुआन
+    auto: true
   - translation_iso: jpn
     name: 北テペワン語
     auto: true

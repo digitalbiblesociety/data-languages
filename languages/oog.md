@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونغ
     auto: true
+  - translation_iso: hin
+    name: ओंग
+    auto: true
   - translation_iso: jpn
     name: オング語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بابوزا
     auto: true
+  - translation_iso: hin
+    name: बाबुज़ा
+    auto: true
   - translation_iso: jpn
     name: バブサ語
   - translation_iso: zho

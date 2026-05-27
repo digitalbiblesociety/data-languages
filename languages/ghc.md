@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: الغيلية الهيبرنو-الاسكتلندية
     auto: true
+  - translation_iso: hin
+    name: हाइबर्नो-स्कॉटिश गेलिक
+    auto: true
   - translation_iso: jpn
     name: ハイベルノ・スコティッシュゲール語
     auto: true

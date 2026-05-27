@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دواو
     auto: true
+  - translation_iso: hin
+    name: दुआउ
+    auto: true
   - translation_iso: jpn
     name: ドゥアウ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نالوغو
     auto: true
+  - translation_iso: hin
+    name: नालोगो
+    auto: true
   - translation_iso: jpn
     name: ナロゴ語
     auto: true

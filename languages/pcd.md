@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Picard_language"
 translations:
   - translation_iso: ara
     name: اللغة البيكاردية
+  - translation_iso: hin
+    name: पिकार्ड
+    auto: true
   - translation_iso: jpn
     name: ピカルディ語
   - translation_iso: kor

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shenwa_language"
 translations:
   - translation_iso: ara
     name: لغة شناوية
+  - translation_iso: hin
+    name: शेनुआ
+    auto: true
   - translation_iso: jpn
     name: シェヌア語
   - translation_iso: zho

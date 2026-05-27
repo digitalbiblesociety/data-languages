@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيڤاكلي
     auto: true
+  - translation_iso: hin
+    name: निवाक्ले
+    auto: true
   - translation_iso: jpn
     name: ニバクレ語
   - translation_iso: zho

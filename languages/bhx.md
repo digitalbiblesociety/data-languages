@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: بهالاي
     auto: true
+  - translation_iso: hin
+    name: भलाय
+    auto: true
   - translation_iso: jpn
     name: バハレイ語
     auto: true

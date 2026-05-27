@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيركيري
     auto: true
+  - translation_iso: hin
+    name: किरिकिरी
+    auto: true
   - translation_iso: jpn
     name: キリキリ語
     auto: true

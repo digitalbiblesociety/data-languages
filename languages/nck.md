@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نا كارا
     auto: true
+  - translation_iso: hin
+    name: ना-कारा
+    auto: true
   - translation_iso: jpn
     name: ナッカラ
   - translation_iso: zho

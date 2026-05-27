@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايدو الشمالية الغربية
     auto: true
+  - translation_iso: hin
+    name: उत्तर-पश्चिमी माइदू
+    auto: true
   - translation_iso: jpn
     name: ノースウェスト・マイドゥ語
     auto: true

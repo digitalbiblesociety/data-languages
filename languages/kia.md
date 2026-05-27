@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيم
     auto: true
+  - translation_iso: hin
+    name: किम
+    auto: true
   - translation_iso: jpn
     name: キム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانجوبال
     auto: true
+  - translation_iso: hin
+    name: कानजोबाल
+    auto: true
   - translation_iso: jpn
     name: カンホバル語
   - translation_iso: kor

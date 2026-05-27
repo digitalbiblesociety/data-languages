@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنكسيت
     auto: true
+  - translation_iso: hin
+    name: एनशेट
+    auto: true
   - translation_iso: jpn
     name: エンシェット語
     auto: true

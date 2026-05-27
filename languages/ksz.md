@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوداكو
     auto: true
+  - translation_iso: hin
+    name: कोडाकू
+    auto: true
   - translation_iso: jpn
     name: コダク語
     auto: true

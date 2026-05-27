@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سمول فلاوري ميتاو
     auto: true
+  - translation_iso: hin
+    name: स्मॉल फ्लावरी मियाओ
+    auto: true
   - translation_iso: jpn
     name: 小花苗語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توتوبا
     auto: true
+  - translation_iso: hin
+    name: तुतुबा
+    auto: true
   - translation_iso: jpn
     name: ツツバ語
   - translation_iso: zho

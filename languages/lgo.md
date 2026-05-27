@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة انجو
     auto: true
+  - translation_iso: hin
+    name: लांगो (दक्षिण सूडान)
+    auto: true
   - translation_iso: jpn
     name: ランゴ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بافاو-بالونج
     auto: true
+  - translation_iso: hin
+    name: बाफाव-बालोंग
+    auto: true
   - translation_iso: jpn
     name: バファウ・バロン語
   - translation_iso: zho

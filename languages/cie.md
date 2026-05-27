@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السيني
     auto: true
+  - translation_iso: hin
+    name: सिनेनी
+    auto: true
   - translation_iso: jpn
     name: シネニ語
     auto: true

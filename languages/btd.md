@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتاك دايري
     auto: true
+  - translation_iso: hin
+    name: बाताक दैरी
+    auto: true
   - translation_iso: jpn
     name: バタク・ダイリ語
   - translation_iso: zho

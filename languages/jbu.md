@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جوكون تاكوم
     auto: true
+  - translation_iso: hin
+    name: जुकुन ताकुम
+    auto: true
   - translation_iso: jpn
     name: 非Jukunoid語
   - translation_iso: zho

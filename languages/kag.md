@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاجامان
     auto: true
+  - translation_iso: hin
+    name: काजामन
+    auto: true
   - translation_iso: jpn
     name: カジャマン語
     auto: true

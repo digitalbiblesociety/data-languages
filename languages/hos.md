@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بمدينة هو تشي منه
     auto: true
+  - translation_iso: hin
+    name: हो ची मिन्ह शहर सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ホーチミン市手話
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساكيرابيا
     auto: true
+  - translation_iso: hin
+    name: साकिराबिया
+    auto: true
   - translation_iso: jpn
     name: サキラビア語
     auto: true

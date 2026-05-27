@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خامبا
     auto: true
+  - translation_iso: hin
+    name: खाम्बा
+    auto: true
   - translation_iso: jpn
     name: ハンバ語
     auto: true

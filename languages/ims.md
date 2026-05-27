@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: مارسيان
     auto: true
+  - translation_iso: hin
+    name: मार्सियन
+    auto: true
   - translation_iso: jpn
     name: マルシ語
   - translation_iso: zho

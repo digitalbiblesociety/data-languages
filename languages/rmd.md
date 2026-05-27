@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مسافر دانماركي
     auto: true
+  - translation_iso: hin
+    name: ट्रैवलर डेनिश
+    auto: true
   - translation_iso: jpn
     name: トラベラーデンマーク語
     auto: true

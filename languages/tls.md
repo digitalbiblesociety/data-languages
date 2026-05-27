@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تامبوتالو
     auto: true
+  - translation_iso: hin
+    name: तम्बोतालो
+    auto: true
   - translation_iso: jpn
     name: タンボタロ語
     auto: true

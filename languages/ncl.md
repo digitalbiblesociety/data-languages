@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميتشواكان ناهواتل
     auto: true
+  - translation_iso: hin
+    name: मिचोआकान नाहुआत्ल
+    auto: true
   - translation_iso: jpn
     name: ミチョアカン・ナワトル語
     auto: true

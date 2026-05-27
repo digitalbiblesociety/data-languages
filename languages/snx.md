@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سام
     auto: true
+  - translation_iso: hin
+    name: साम
+    auto: true
   - translation_iso: jpn
     name: ソングン語
     auto: true

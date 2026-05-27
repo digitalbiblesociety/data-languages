@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوكوكو
     auto: true
+  - translation_iso: hin
+    name: नोकुकु
+    auto: true
   - translation_iso: jpn
     name: ノクク語
     auto: true

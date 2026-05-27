@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موبيليان
     auto: true
+  - translation_iso: hin
+    name: मोबिलियन
+    auto: true
   - translation_iso: jpn
     name: モビリアン語
   - translation_iso: zho

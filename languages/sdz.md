@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: سالاندس
     auto: true
+  - translation_iso: hin
+    name: सलांड्स
+    auto: true
   - translation_iso: jpn
     name: サッランス語
     auto: true

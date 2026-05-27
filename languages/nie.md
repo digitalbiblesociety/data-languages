@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيليم
     auto: true
+  - translation_iso: hin
+    name: नीएलिम
+    auto: true
   - translation_iso: jpn
     name: ニエリム語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سيبيك إيوام
     auto: true
+  - translation_iso: hin
+    name: सेपिक इवाम
+    auto: true
   - translation_iso: jpn
     name: セピク・イワム語
     auto: true

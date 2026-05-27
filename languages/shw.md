@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشواي
     auto: true
+  - translation_iso: hin
+    name: श्वाई
+    auto: true
   - translation_iso: jpn
     name: シルムバ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوسا
     auto: true
+  - translation_iso: hin
+    name: बुस्सा
+    auto: true
   - translation_iso: jpn
     name: ブッサ語
     auto: true

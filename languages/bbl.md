@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتس
     auto: true
+  - translation_iso: hin
+    name: बत्स
+    auto: true
   - translation_iso: jpn
     name: バツ語
   - translation_iso: kor

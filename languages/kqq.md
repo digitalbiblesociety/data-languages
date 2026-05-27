@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كرينياك
     auto: true
+  - translation_iso: hin
+    name: क्रेनाक
+    auto: true
   - translation_iso: jpn
     name: クレナク語
     auto: true

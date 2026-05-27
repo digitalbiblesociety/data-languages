@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مندتهواكا
     auto: true
+  - translation_iso: hin
+    name: मंदाहुआका
+    auto: true
   - translation_iso: jpn
     name: マンダワカ語
   - translation_iso: zho

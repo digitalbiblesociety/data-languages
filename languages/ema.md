@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيماي-إيوليها-أورا
     auto: true
+  - translation_iso: hin
+    name: एमाई-इउलेहा-ओरा
+    auto: true
   - translation_iso: jpn
     name: エマイ・イウレハ・オラ語
     auto: true

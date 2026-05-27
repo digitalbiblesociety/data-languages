@@ -12,6 +12,9 @@ longitude: -37.14017
 glottocode: fuln1247
 wikipedia_url: "https://en.wikipedia.org/wiki/Iat%C3%AA_language"
 translations:
+  - translation_iso: hin
+    name: फुलनिओ
+    auto: true
   - translation_iso: jpn
     name: フルニオ語
     auto: true

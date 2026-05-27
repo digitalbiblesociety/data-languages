@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هاروعاي
     auto: true
+  - translation_iso: hin
+    name: हरुआई
+    auto: true
   - translation_iso: jpn
     name: ハルアイ語
     auto: true

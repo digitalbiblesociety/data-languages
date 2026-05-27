@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نوكاك ماكو
     auto: true
+  - translation_iso: hin
+    name: नुकाक माकू
+    auto: true
   - translation_iso: jpn
     name: ヌクアク・マク語
     auto: true

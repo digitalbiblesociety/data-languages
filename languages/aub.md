@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة ألوجو
     auto: true
+  - translation_iso: hin
+    name: अलुगु
+    auto: true
   - translation_iso: jpn
     name: アルグ語
     auto: true

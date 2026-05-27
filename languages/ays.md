@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيتا سورسوجون
     auto: true
+  - translation_iso: hin
+    name: सोरसोगोन आयता
+    auto: true
   - translation_iso: jpn
     name: ソルソゴン・アイタ語
     auto: true

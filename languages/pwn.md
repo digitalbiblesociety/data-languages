@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Paiwan_language"
 translations:
   - translation_iso: ara
     name: بايوان
+  - translation_iso: hin
+    name: पाइवान
+    auto: true
   - translation_iso: jpn
     name: パイワン語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكا
     auto: true
+  - translation_iso: hin
+    name: बाका (दक्षिण सूडान)
+    auto: true
   - translation_iso: jpn
     name: バカ語
     auto: true

@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Libyan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الليبية
+  - translation_iso: hin
+    name: लीबियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: リビア手話
   - translation_iso: zho

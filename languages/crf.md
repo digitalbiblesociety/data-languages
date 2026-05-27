@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكارامانتا
     auto: true
+  - translation_iso: hin
+    name: कारामांता
+    auto: true
   - translation_iso: jpn
     name: カラマンタ語
     auto: true

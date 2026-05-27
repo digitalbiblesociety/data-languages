@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ألتش
     auto: true
+  - translation_iso: hin
+    name: उल्च
+    auto: true
   - translation_iso: jpn
     name: ウリチ語
   - translation_iso: kor

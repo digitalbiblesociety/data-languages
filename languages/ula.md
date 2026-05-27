@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فونجوا
     auto: true
+  - translation_iso: hin
+    name: फुंग्वा
+    auto: true
   - translation_iso: jpn
     name: ウラ語
     auto: true

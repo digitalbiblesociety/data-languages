@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: روفيجي
     auto: true
+  - translation_iso: hin
+    name: रुफिजी
+    auto: true
   - translation_iso: jpn
     name: ルフィジ語
     auto: true

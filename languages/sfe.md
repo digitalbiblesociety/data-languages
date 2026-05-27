@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيسترن سوبانين
     auto: true
+  - translation_iso: hin
+    name: पूर्वी सुबानेन
+    auto: true
   - translation_iso: jpn
     name: スバノン語
     auto: true

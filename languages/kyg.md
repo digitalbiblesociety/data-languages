@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كييجانا
     auto: true
+  - translation_iso: hin
+    name: केयागाना
+    auto: true
   - translation_iso: jpn
     name: キャガナ語
     auto: true

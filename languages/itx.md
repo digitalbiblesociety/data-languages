@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيتك
     auto: true
+  - translation_iso: hin
+    name: इतिक
+    auto: true
   - translation_iso: jpn
     name: イティク語
     auto: true

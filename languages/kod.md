@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كودي
     auto: true
+  - translation_iso: hin
+    name: कोदी
+    auto: true
   - translation_iso: jpn
     name: コディ語
     auto: true

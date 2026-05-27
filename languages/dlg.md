@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دولجان
     auto: true
+  - translation_iso: hin
+    name: डोलगन
+    auto: true
   - translation_iso: jpn
     name: ドルガン語
   - translation_iso: kor

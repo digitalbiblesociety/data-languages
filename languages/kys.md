@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كايان بارام
     auto: true
+  - translation_iso: hin
+    name: बरम कायन
+    auto: true
   - translation_iso: jpn
     name: バラム・カヤン語
     auto: true

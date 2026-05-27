@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإنوان
     auto: true
+  - translation_iso: hin
+    name: एनवान (अक्वा इबोम राज्य)
+    auto: true
   - translation_iso: jpn
     name: エンワン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موينياني
     auto: true
+  - translation_iso: hin
+    name: मुइनाने
+    auto: true
   - translation_iso: jpn
     name: ムイナネ語
   - translation_iso: zho

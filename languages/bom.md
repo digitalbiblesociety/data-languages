@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيروم
     auto: true
+  - translation_iso: hin
+    name: बेरोम
+    auto: true
   - translation_iso: jpn
     name: ビロム語
   - translation_iso: zho

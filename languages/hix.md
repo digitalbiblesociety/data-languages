@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هيكسكاريانا
     auto: true
+  - translation_iso: hin
+    name: हिक्सकार्याना
+    auto: true
   - translation_iso: jpn
     name: ヒシュカリヤナ語
   - translation_iso: kor

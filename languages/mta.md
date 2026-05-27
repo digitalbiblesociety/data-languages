@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتاباتو مانوبو
     auto: true
+  - translation_iso: hin
+    name: कोटाबाटो मानोबो
+    auto: true
   - translation_iso: jpn
     name: コタバト・マノボ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جيراوا
     auto: true
+  - translation_iso: hin
+    name: गिरावा
+    auto: true
   - translation_iso: jpn
     name: ギラワ語
     auto: true

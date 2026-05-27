@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ماسابا
     auto: true
+  - translation_iso: hin
+    name: मसाबा
+    auto: true
   - translation_iso: jpn
     name: マサバ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: البوالخاو تشين
     auto: true
+  - translation_iso: hin
+    name: बुअलखाव चिन
+    auto: true
   - translation_iso: jpn
     name: ブアルカウ・チン語
     auto: true

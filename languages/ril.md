@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريانج لانج
     auto: true
+  - translation_iso: hin
+    name: रियांग लांग
+    auto: true
   - translation_iso: jpn
     name: リアンラン語
     auto: true

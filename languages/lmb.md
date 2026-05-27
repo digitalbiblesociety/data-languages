@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يريي
     auto: true
+  - translation_iso: hin
+    name: मेरेई
+    auto: true
   - translation_iso: jpn
     name: メレイ語
     auto: true

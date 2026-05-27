@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هولونغ
     auto: true
+  - translation_iso: hin
+    name: हुलुंग
+    auto: true
   - translation_iso: jpn
     name: フルング語
     auto: true

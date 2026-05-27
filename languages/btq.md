@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتيك
     auto: true
+  - translation_iso: hin
+    name: बातेक
+    auto: true
   - translation_iso: jpn
     name: バテック語
     auto: true

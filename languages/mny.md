@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مانيافا
     auto: true
+  - translation_iso: hin
+    name: मान्यावा
+    auto: true
   - translation_iso: jpn
     name: マニャワ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتورمي
     auto: true
+  - translation_iso: hin
+    name: कुतुर्मी
+    auto: true
   - translation_iso: jpn
     name: クトゥルミ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مولو كوروومبا
     auto: true
+  - translation_iso: hin
+    name: मुल्लु कुरुम्बा
+    auto: true
   - translation_iso: jpn
     name: ムッル・クルンバ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ديnya
     auto: true
+  - translation_iso: hin
+    name: देन्या
+    auto: true
   - translation_iso: jpn
     name: デニャ語
     auto: true

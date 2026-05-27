@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيانجان
     auto: true
+  - translation_iso: hin
+    name: गियांगन
+    auto: true
   - translation_iso: jpn
     name: ギアンガン語
     auto: true

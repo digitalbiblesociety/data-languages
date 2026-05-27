@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خيه
     auto: true
+  - translation_iso: hin
+    name: खे
+    auto: true
   - translation_iso: jpn
     name: ケ語
     auto: true

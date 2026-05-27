@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hadza_language"
 translations:
   - translation_iso: ara
     name: لغة هادزا
+  - translation_iso: hin
+    name: हादज़ा
+    auto: true
   - translation_iso: jpn
     name: ハヅァ語
   - translation_iso: kor

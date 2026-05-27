@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوجليري
     auto: true
+  - translation_iso: hin
+    name: बुगलेरे
+    auto: true
   - translation_iso: jpn
     name: ムリレ語
     auto: true

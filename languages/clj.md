@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لايتو تشين
     auto: true
+  - translation_iso: hin
+    name: लाइतू चिन
+    auto: true
   - translation_iso: jpn
     name: ライツ・チン語
     auto: true

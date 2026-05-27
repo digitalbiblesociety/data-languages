@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوهيلاوا
     auto: true
+  - translation_iso: hin
+    name: औहेलावा
+    auto: true
   - translation_iso: jpn
     name: アウヘラワ語
     auto: true

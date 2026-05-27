@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: إيدي إيكا
     auto: true
+  - translation_iso: hin
+    name: एदे इका
+    auto: true
   - translation_iso: jpn
     name: エデ・イカ語
     auto: true

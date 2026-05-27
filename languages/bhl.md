@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيمين
     auto: true
+  - translation_iso: hin
+    name: बिमिन
+    auto: true
   - translation_iso: jpn
     name: ビミン語
     auto: true

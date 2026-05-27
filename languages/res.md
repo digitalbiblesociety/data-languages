@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريشي
     auto: true
+  - translation_iso: hin
+    name: रेशे
+    auto: true
   - translation_iso: jpn
     name: レシェ語
     auto: true

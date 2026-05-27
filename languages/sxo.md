@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: سوروثابتيك
     auto: true
+  - translation_iso: hin
+    name: सोरोथाप्टिक
+    auto: true
   - translation_iso: jpn
     name: ソロテプティック語
     auto: true

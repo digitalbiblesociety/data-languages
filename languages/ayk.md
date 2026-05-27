@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أكوكو
     auto: true
+  - translation_iso: hin
+    name: अकुकु
+    auto: true
   - translation_iso: jpn
     name: アクク語
     auto: true

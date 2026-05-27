@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يمولانج
     auto: true
+  - translation_iso: hin
+    name: लेमोलांग
+    auto: true
   - translation_iso: jpn
     name: レモラン語
     auto: true

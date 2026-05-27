@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بومثانجخا
     auto: true
+  - translation_iso: hin
+    name: बुम्थांगखा
+    auto: true
   - translation_iso: jpn
     name: ブムタン語
   - translation_iso: zho

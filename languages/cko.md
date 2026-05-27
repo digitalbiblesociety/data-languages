@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأنوفو
     auto: true
+  - translation_iso: hin
+    name: अनुफो
+    auto: true
   - translation_iso: jpn
     name: アヌフォ語
     auto: true

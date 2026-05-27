@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة امينو
     auto: true
+  - translation_iso: hin
+    name: लामेनु
+    auto: true
   - translation_iso: jpn
     name: ラメヌ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سيبا
     auto: true
+  - translation_iso: hin
+    name: सेबा
+    auto: true
   - translation_iso: jpn
     name: セバ語
     auto: true

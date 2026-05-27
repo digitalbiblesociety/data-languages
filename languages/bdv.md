@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودو بارجا
     auto: true
+  - translation_iso: hin
+    name: बोडो परजा
+    auto: true
   - translation_iso: jpn
     name: ボド・パルジャ語
     auto: true

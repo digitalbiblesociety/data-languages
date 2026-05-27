@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وانج
     auto: true
+  - translation_iso: hin
+    name: लुआंग
+    auto: true
   - translation_iso: jpn
     name: ルアン語
     auto: true

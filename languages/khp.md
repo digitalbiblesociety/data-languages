@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لغة كابوري
     auto: true
+  - translation_iso: hin
+    name: कापोरी
+    auto: true
   - translation_iso: jpn
     name: カポリ語
     auto: true

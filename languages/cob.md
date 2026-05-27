@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيكوموسيلتك
     auto: true
+  - translation_iso: hin
+    name: चिकोमुसेल्टेक
+    auto: true
   - translation_iso: jpn
     name: チコムセルテック語
   - translation_iso: kor

@@ -11,6 +11,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Latgalian_language"
 translations:
   - translation_iso: ara
     name: اللاتغالية
+  - translation_iso: hin
+    name: लातगालियन
+    auto: true
   - translation_iso: jpn
     name: ラトガリア語
   - translation_iso: kor

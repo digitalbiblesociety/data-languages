@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السمناني
     auto: true
+  - translation_iso: hin
+    name: सेमनानी
+    auto: true
   - translation_iso: jpn
     name: セムナーン語
   - translation_iso: zho

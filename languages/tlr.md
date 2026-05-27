@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاليسي
     auto: true
+  - translation_iso: hin
+    name: तालिसे
+    auto: true
   - translation_iso: jpn
     name: タリセ語
     auto: true

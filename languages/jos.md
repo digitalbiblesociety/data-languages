@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jordanian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الأردنية
+  - translation_iso: hin
+    name: जॉर्डनियन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ヨルダン手話
   - translation_iso: zho

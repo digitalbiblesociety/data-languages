@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نامالا
     auto: true
+  - translation_iso: hin
+    name: नामला
+    auto: true
   - translation_iso: jpn
     name: ナムラ語
     auto: true

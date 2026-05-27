@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالابندارام
     auto: true
+  - translation_iso: hin
+    name: मलपंडारम
+    auto: true
   - translation_iso: jpn
     name: マラパンダラム語
     auto: true

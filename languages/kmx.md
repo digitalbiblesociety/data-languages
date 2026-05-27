@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة وابودا
     auto: true
+  - translation_iso: hin
+    name: वाबोदा
+    auto: true
   - translation_iso: jpn
     name: ワボダ語
     auto: true

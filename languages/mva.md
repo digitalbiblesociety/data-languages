@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانام
     auto: true
+  - translation_iso: hin
+    name: मानाम
+    auto: true
   - translation_iso: jpn
     name: マナム語
   - translation_iso: zho

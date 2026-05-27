@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالو
     auto: true
+  - translation_iso: hin
+    name: पालुए
+    auto: true
   - translation_iso: jpn
     name: パルエ語
     auto: true

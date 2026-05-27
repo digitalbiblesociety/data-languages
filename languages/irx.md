@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كامبيراو
     auto: true
+  - translation_iso: hin
+    name: कांबेराऊ
+    auto: true
   - translation_iso: jpn
     name: カムベラウ語
     auto: true

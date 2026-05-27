@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نياتورو
     auto: true
+  - translation_iso: hin
+    name: न्यातुरु
+    auto: true
   - translation_iso: jpn
     name: ニャトゥル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سارسي
     auto: true
+  - translation_iso: hin
+    name: सारसी
+    auto: true
   - translation_iso: jpn
     name: サルシー語
     auto: true

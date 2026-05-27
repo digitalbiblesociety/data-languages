@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة نامبيكوارا الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी नाम्बिकवारा
+    auto: true
   - translation_iso: jpn
     name: 北部ナンビクワラ語
     auto: true

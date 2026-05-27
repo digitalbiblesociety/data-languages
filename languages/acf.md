@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سان لوسيان كريول فرنش
     auto: true
+  - translation_iso: hin
+    name: सेंट लूसियन क्रियोल फ्रेंच
+    auto: true
   - translation_iso: jpn
     name: セントルシア・クレオール
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبورينيا
     auto: true
+  - translation_iso: hin
+    name: अपुरिना
+    auto: true
   - translation_iso: jpn
     name: アプリニャ語
   - translation_iso: zho

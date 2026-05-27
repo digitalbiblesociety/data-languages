@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة لوبوآغان كالينجا
     auto: true
+  - translation_iso: hin
+    name: लुबुआगान कालिंगा
+    auto: true
   - translation_iso: jpn
     name: ルブアガン・カリンガ語
     auto: true

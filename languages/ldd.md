@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوري
     auto: true
+  - translation_iso: hin
+    name: लुरी
+    auto: true
   - translation_iso: jpn
     name: ルリ語
     auto: true

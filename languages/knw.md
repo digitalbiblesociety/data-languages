@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كونج إيكوكا
     auto: true
+  - translation_iso: hin
+    name: कुंग-एकोका
+    auto: true
   - translation_iso: jpn
     name: クング・エコカ語
     auto: true

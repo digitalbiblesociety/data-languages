@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بينتونج
     auto: true
+  - translation_iso: hin
+    name: बेन्तोङ
+    auto: true
   - translation_iso: jpn
     name: ベントン語
     auto: true

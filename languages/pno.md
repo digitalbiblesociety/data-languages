@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانوبو
     auto: true
+  - translation_iso: hin
+    name: पानोबो
+    auto: true
   - translation_iso: jpn
     name: パノボ語
     auto: true

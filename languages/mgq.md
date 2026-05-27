@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماليلا
     auto: true
+  - translation_iso: hin
+    name: मालिला
+    auto: true
   - translation_iso: jpn
     name: マリラ語
   - translation_iso: zho

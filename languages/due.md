@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوميراي دوماجت أجتا
     auto: true
+  - translation_iso: hin
+    name: उमिराय दुमागेत आग्ता
+    auto: true
   - translation_iso: jpn
     name: ウミレイ・ドゥマゲット・アグタ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديكاماي أجتا
     auto: true
+  - translation_iso: hin
+    name: डिकामाय आग्ता
+    auto: true
   - translation_iso: jpn
     name: ディカマイ・アグタ語
     auto: true

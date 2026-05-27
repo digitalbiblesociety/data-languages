@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موبمرين أيزي
     auto: true
+  - translation_iso: hin
+    name: मोबुम्रिन आइज़ी
+    auto: true
   - translation_iso: jpn
     name: モブムリン・アイジ語
     auto: true

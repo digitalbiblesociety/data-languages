@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غووندو
     auto: true
+  - translation_iso: hin
+    name: गुंडो
+    auto: true
   - translation_iso: jpn
     name: グンド語
     auto: true

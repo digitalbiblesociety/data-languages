@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديار أسمات الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी अस्मात
+    auto: true
   - translation_iso: jpn
     name: 北アスマット語
     auto: true

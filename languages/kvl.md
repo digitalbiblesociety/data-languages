@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايאو
     auto: true
+  - translation_iso: hin
+    name: कायाव
+    auto: true
   - translation_iso: jpn
     name: カヤウ語
   - translation_iso: zho

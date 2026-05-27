@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مالينج
     auto: true
+  - translation_iso: hin
+    name: मालेंग
+    auto: true
   - translation_iso: jpn
     name: マレン語
     auto: true

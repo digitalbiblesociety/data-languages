@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كاوي
     auto: true
+  - translation_iso: hin
+    name: कावे
+    auto: true
   - translation_iso: jpn
     name: カウェ語
     auto: true

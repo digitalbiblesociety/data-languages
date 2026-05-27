@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سولي
     auto: true
+  - translation_iso: hin
+    name: सोली
+    auto: true
   - translation_iso: jpn
     name: チソリ語
     auto: true

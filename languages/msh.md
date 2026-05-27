@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسيكورو مالجاشية
     auto: true
+  - translation_iso: hin
+    name: मसिकोरो मालागासी
+    auto: true
   - translation_iso: jpn
     name: マシクル・マダガスカル語
   - translation_iso: zho

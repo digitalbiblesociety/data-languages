@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساكابوليتيكو
     auto: true
+  - translation_iso: hin
+    name: साकापुल्तेको
+    auto: true
   - translation_iso: jpn
     name: サカプルテコ語
   - translation_iso: kor

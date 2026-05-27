@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبيá غوآرآنí
     auto: true
+  - translation_iso: hin
+    name: म्ब्या गुआरानी
+    auto: true
   - translation_iso: jpn
     name: ムビア・グアラニー語
   - translation_iso: kor

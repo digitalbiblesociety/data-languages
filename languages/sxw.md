@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساكسوي غبي
     auto: true
+  - translation_iso: hin
+    name: साख्वे ग्बे
+    auto: true
   - translation_iso: jpn
     name: サクシェ・ゲベ語
     auto: true

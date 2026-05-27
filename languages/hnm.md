@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الهاينانية
     auto: true
+  - translation_iso: hin
+    name: हाइनानी
+    auto: true
   - translation_iso: jpn
     name: 海南語
   - translation_iso: kor

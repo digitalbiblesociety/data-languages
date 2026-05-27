@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كونو
     auto: true
+  - translation_iso: hin
+    name: कोनो
+    auto: true
   - translation_iso: jpn
     name: コノ語
   - translation_iso: zho

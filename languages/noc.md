@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوك
     auto: true
+  - translation_iso: hin
+    name: नुक
+    auto: true
   - translation_iso: jpn
     name: ヌク語
     auto: true

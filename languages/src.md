@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة اللوجودورية الساردينية
     auto: true
+  - translation_iso: hin
+    name: लोगुडोरेसे सार्डिनियन
+    auto: true
   - translation_iso: jpn
     name: ログドーロ・サルデーニャ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وپيت
     auto: true
+  - translation_iso: hin
+    name: लोपित
+    auto: true
   - translation_iso: jpn
     name: ロピット語
   - translation_iso: zho

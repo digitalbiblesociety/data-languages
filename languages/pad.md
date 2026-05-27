@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوماري
     auto: true
+  - translation_iso: hin
+    name: पौमारी
+    auto: true
   - translation_iso: jpn
     name: パウマリ語
     auto: true

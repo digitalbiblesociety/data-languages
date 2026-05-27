@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندي نسيلي نتا
     auto: true
+  - translation_iso: hin
+    name: न्दे-न्सेले-न्ता
+    auto: true
   - translation_iso: jpn
     name: ンデ・ンセレ・ンタ語
     auto: true

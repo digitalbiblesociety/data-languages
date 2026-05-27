@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريتا
     auto: true
+  - translation_iso: hin
+    name: रेत्ता
+    auto: true
   - translation_iso: jpn
     name: レッタ語
     auto: true

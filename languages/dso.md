@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: ديسيا
     auto: true
+  - translation_iso: hin
+    name: देसिया
+    auto: true
   - translation_iso: jpn
     name: デシヤ語
     auto: true

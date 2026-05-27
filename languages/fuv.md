@@ -16,6 +16,9 @@ glottolog_family_name: Atlantic-Congo
 glottolog_classification: "Atlantic-Congo > North-Central Atlantic > Fula-Sereer > Fula > Eastern Fula > Hausa States Fulfulde"
 wikipedia_url: "https://en.wikipedia.org/wiki/Nigerian_Fulfulde"
 translations:
+  - translation_iso: hin
+    name: नाइजीरियाई फुलफुल्दे
+    auto: true
   - translation_iso: jpn
     name: ナイジェリア・フラニ語
   - translation_iso: zho

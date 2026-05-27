@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيسترن مارون كريول
     auto: true
+  - translation_iso: hin
+    name: पूर्वी मरून क्रियोल
+    auto: true
   - translation_iso: jpn
     name: イースタン・マルーン・クレオール語
     auto: true

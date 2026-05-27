@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الناميبية
     auto: true
+  - translation_iso: hin
+    name: नामीबियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ナミビア手話
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآنإ
     auto: true
+  - translation_iso: hin
+    name: गाने
+    auto: true
   - translation_iso: jpn
     name: ギマン語
   - translation_iso: zho

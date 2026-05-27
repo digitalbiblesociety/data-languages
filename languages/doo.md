@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دونجو
     auto: true
+  - translation_iso: hin
+    name: डोंगो
+    auto: true
   - translation_iso: jpn
     name: ドンゴ語
     auto: true

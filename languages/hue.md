@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سان فرانسيسكو ديل مار
     auto: true
+  - translation_iso: hin
+    name: सान फ्रांसिस्को डेल मार हुआवे
+    auto: true
   - translation_iso: jpn
     name: サン・フランシスコ・デル・マル・ウアベ語
     auto: true

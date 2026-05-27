@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داني الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी दानी
+    auto: true
   - translation_iso: jpn
     name: 西ダニ語
   - translation_iso: zho

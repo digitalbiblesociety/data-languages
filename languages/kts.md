@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: موي الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी मुयु
+    auto: true
   - translation_iso: jpn
     name: 南ムユ語
     auto: true

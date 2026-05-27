@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلْهاريْيا
     auto: true
+  - translation_iso: hin
+    name: बेल्हरिया
+    auto: true
   - translation_iso: jpn
     name: ベルハリヤ語
     auto: true

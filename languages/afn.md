@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ديفاكا
     auto: true
+  - translation_iso: hin
+    name: देफाका
+    auto: true
   - translation_iso: jpn
     name: デファカ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميني
     auto: true
+  - translation_iso: hin
+    name: म्येने
+    auto: true
   - translation_iso: jpn
     name: ミエネ語
   - translation_iso: kor

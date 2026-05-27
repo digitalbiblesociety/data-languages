@@ -15,6 +15,9 @@ glottolog_family_name: Chibchan
 glottolog_classification: "Chibchan > Core Chibchan > Magdalenic > Northern Magdalenic > Chimila"
 wikipedia_url: "https://en.wikipedia.org/wiki/Chimila_language"
 translations:
+  - translation_iso: hin
+    name: चिमिला
+    auto: true
   - translation_iso: jpn
     name: チミラ語
     auto: true

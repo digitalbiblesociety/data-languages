@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موو
     auto: true
+  - translation_iso: hin
+    name: मू
+    auto: true
   - translation_iso: jpn
     name: モー語
     auto: true

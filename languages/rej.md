@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ريجانج
     auto: true
+  - translation_iso: hin
+    name: रेजांग
+    auto: true
   - translation_iso: jpn
     name: レジャン語
   - translation_iso: kor

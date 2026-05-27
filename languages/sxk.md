@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالابويا الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी कालापुया
+    auto: true
   - translation_iso: jpn
     name: ヨンカラ語
   - translation_iso: zho

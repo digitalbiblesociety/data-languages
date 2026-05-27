@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيمتويك
     auto: true
+  - translation_iso: hin
+    name: केमतुइक
+    auto: true
   - translation_iso: jpn
     name: ケムトゥイク語
     auto: true

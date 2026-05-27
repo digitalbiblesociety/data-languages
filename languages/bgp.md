@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بلوشي شرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी बलोची
+    auto: true
   - translation_iso: jpn
     name: 東バローチー語
   - translation_iso: zho

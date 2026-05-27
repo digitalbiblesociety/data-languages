@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بانتيك
     auto: true
+  - translation_iso: hin
+    name: बांतिक
+    auto: true
   - translation_iso: jpn
     name: バンティック語
   - translation_iso: zho

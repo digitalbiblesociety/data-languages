@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشانجا
     auto: true
+  - translation_iso: hin
+    name: शांगा
+    auto: true
   - translation_iso: jpn
     name: シャンガワ語
     auto: true

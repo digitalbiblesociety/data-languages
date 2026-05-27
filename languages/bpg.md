@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونجو
     auto: true
+  - translation_iso: hin
+    name: बोंग्गो
+    auto: true
   - translation_iso: jpn
     name: ボンッゴ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيريس الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी केरेस
+    auto: true
   - translation_iso: jpn
     name: ウェスタン・ケレス語
     auto: true

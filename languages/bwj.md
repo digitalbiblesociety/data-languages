@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاا لاا بوامو
     auto: true
+  - translation_iso: hin
+    name: लाआ लाआ ब्वामु
+    auto: true
   - translation_iso: jpn
     name: ラー・ラー・ブワム語
     auto: true

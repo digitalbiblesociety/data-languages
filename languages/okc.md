@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوبو
     auto: true
+  - translation_iso: hin
+    name: कोबो
+    auto: true
   - translation_iso: jpn
     name: コボ語
     auto: true

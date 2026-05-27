@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبيا
     auto: true
+  - translation_iso: hin
+    name: तिबेआ
+    auto: true
   - translation_iso: jpn
     name: ティベア語
     auto: true

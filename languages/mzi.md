@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إكسكاتلان مازاتك
     auto: true
+  - translation_iso: hin
+    name: इक्सकातलान माज़ातेक
+    auto: true
   - translation_iso: jpn
     name: イクスカトラン・マサテク語
     auto: true

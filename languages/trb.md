@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيريبو
     auto: true
+  - translation_iso: hin
+    name: तेरेबु
+    auto: true
   - translation_iso: jpn
     name: テレプ語
     auto: true

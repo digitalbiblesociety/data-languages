@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أبنيوم
     auto: true
+  - translation_iso: hin
+    name: अबन्योम
+    auto: true
   - translation_iso: jpn
     name: アバニョム語
   - translation_iso: zho

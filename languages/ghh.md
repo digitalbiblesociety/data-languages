@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورثإرن غآلإ
     auto: true
+  - translation_iso: hin
+    name: उत्तरी घले
+    auto: true
   - translation_iso: jpn
     name: ノーザン・ガレ語
     auto: true

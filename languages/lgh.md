@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اجهوو
     auto: true
+  - translation_iso: hin
+    name: लाघू
+    auto: true
   - translation_iso: jpn
     name: ラグフー語
     auto: true

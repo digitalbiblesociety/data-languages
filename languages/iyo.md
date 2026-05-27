@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميسكا
     auto: true
+  - translation_iso: hin
+    name: मेसाका
+    auto: true
   - translation_iso: jpn
     name: メサカ語
     auto: true

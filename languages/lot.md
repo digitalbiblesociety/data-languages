@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وتوهو
     auto: true
+  - translation_iso: hin
+    name: ओतुहो
+    auto: true
   - translation_iso: jpn
     name: ロトゥゴ語
   - translation_iso: zho

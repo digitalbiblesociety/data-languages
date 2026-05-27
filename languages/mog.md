@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مونجوندو
     auto: true
+  - translation_iso: hin
+    name: मोंगोंडो
+    auto: true
   - translation_iso: jpn
     name: モンゴンドウ語
   - translation_iso: zho

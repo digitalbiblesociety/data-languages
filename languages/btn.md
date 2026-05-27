@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راتاجْنون
     auto: true
+  - translation_iso: hin
+    name: रातान्योन
+    auto: true
   - translation_iso: jpn
     name: ラタニョン語
     auto: true

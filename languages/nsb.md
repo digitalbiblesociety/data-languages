@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوسوب الأدنى
     auto: true
+  - translation_iso: hin
+    name: निचला नोसोब
+    auto: true
   - translation_iso: jpn
     name: ロウアー・ノッソブ語
     auto: true

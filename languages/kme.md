@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة باكولي
     auto: true
+  - translation_iso: hin
+    name: बाकोले
+    auto: true
   - translation_iso: jpn
     name: バコレ語
     auto: true

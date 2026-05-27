@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الماا
     auto: true
+  - translation_iso: hin
+    name: मा
+    auto: true
   - translation_iso: jpn
     name: マー語
     auto: true

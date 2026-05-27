@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الساوتوميزية
     auto: true
+  - translation_iso: hin
+    name: साओतोमेन्से
+    auto: true
   - translation_iso: jpn
     name: フォロ語
   - translation_iso: zho

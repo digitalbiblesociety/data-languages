@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مين تشونغ الصينية
     auto: true
+  - translation_iso: hin
+    name: मिन ज़ोंग चीनी
+    auto: true
   - translation_iso: jpn
     name: 閩中語
   - translation_iso: kor

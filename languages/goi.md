@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوبآسي
     auto: true
+  - translation_iso: hin
+    name: गोबासी
+    auto: true
   - translation_iso: jpn
     name: ゴバシ語
     auto: true

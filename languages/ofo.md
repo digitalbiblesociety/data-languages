@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوفو
     auto: true
+  - translation_iso: hin
+    name: ओफो
+    auto: true
   - translation_iso: jpn
     name: オフォ語
     auto: true

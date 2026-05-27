@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيميدزونج
     auto: true
+  - translation_iso: hin
+    name: केमेद्ज़ुंग
+    auto: true
   - translation_iso: jpn
     name: ケメドズング語
     auto: true

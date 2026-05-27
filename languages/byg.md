@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بايْجو
     auto: true
+  - translation_iso: hin
+    name: बायगो
+    auto: true
   - translation_iso: jpn
     name: ベイゴ語
   - translation_iso: zho

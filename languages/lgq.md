@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وجبا
     auto: true
+  - translation_iso: hin
+    name: लोगबा
+    auto: true
   - translation_iso: jpn
     name: ログバ語
     auto: true

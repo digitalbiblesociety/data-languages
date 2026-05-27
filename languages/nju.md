@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجاجونمايا
     auto: true
+  - translation_iso: hin
+    name: नगाजुनमाया
+    auto: true
   - translation_iso: jpn
     name: ングアジュンマヤ語
     auto: true

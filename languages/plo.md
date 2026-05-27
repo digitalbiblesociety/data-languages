@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا أولوتا
     auto: true
+  - translation_iso: hin
+    name: ओलुता पोपोलुका
+    auto: true
   - translation_iso: jpn
     name: オルタポプロッカ語
     auto: true

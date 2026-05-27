@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: خوكيلا ميكسي
     auto: true
+  - translation_iso: hin
+    name: हुकिला मिक्से
+    auto: true
   - translation_iso: jpn
     name: フキラ・ミクセ語
     auto: true

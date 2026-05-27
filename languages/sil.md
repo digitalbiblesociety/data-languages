@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة التومولونج سيسالا
     auto: true
+  - translation_iso: hin
+    name: तुमुलुंग सिसाला
+    auto: true
   - translation_iso: jpn
     name: シサーラ語
     auto: true

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: إير
     auto: true
+  - translation_iso: hin
+    name: इर
+    auto: true
   - translation_iso: jpn
     name: イル語
     auto: true

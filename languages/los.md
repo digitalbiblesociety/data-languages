@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ونيو
     auto: true
+  - translation_iso: hin
+    name: लोनिउ
+    auto: true
   - translation_iso: jpn
     name: ロニウ語
     auto: true

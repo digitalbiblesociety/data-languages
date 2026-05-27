@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بانجي
     auto: true
+  - translation_iso: hin
+    name: बांगी
+    auto: true
   - translation_iso: jpn
     name: ボバンギ語
   - translation_iso: zho

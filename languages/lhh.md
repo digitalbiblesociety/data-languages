@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اها
     auto: true
+  - translation_iso: hin
+    name: लाहा (इंडोनेशिया)
+    auto: true
   - translation_iso: jpn
     name: ラハ語
     auto: true

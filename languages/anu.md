@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنوّاك
     auto: true
+  - translation_iso: hin
+    name: अनुआक
+    auto: true
   - translation_iso: jpn
     name: アヌアク語
   - translation_iso: zho

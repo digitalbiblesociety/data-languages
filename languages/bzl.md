@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوانو
     auto: true
+  - translation_iso: hin
+    name: बोआनो (सुलावेसी)
+    auto: true
   - translation_iso: jpn
     name: ボアノ語
     auto: true

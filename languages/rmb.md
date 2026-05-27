@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريمباررنجا
     auto: true
+  - translation_iso: hin
+    name: रेम्बार्न्गा
+    auto: true
   - translation_iso: jpn
     name: レンバルンガ語
     auto: true

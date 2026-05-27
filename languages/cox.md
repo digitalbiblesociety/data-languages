@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: النانتي
     auto: true
+  - translation_iso: hin
+    name: नांती
+    auto: true
   - translation_iso: jpn
     name: ナンティ語
     auto: true

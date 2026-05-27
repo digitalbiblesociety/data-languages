@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ندوندا
     auto: true
+  - translation_iso: hin
+    name: न्दुंडा
+    auto: true
   - translation_iso: jpn
     name: ンドゥンダ語
     auto: true

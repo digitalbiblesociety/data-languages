@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكينا
     auto: true
+  - translation_iso: hin
+    name: पुकीना
+    auto: true
   - translation_iso: jpn
     name: Puquina語
   - translation_iso: kor

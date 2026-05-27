@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيميين
     auto: true
+  - translation_iso: hin
+    name: तेमेइन
+    auto: true
   - translation_iso: jpn
     name: テメイン語
     auto: true

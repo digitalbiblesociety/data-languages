@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jambi_Malay"
 translations:
   - translation_iso: ara
     name: الملايوية الجامبية
+  - translation_iso: hin
+    name: जाम्बी मलय
+    auto: true
   - translation_iso: jpn
     name: ジャンビ・マレー語
   - translation_iso: zho

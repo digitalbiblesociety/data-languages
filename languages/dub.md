@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوبلي
     auto: true
+  - translation_iso: hin
+    name: डुबली
+    auto: true
   - translation_iso: jpn
     name: ドゥブリ語
     auto: true

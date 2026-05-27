@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يبيدو
     auto: true
+  - translation_iso: hin
+    name: लिबिदो
+    auto: true
   - translation_iso: jpn
     name: リビド語
   - translation_iso: zho

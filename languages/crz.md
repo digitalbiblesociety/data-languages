@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكروزينو
     auto: true
+  - translation_iso: hin
+    name: क्रुज़ेन्यो
+    auto: true
   - translation_iso: jpn
     name: 島嶼チュマシュ語
   - translation_iso: zho

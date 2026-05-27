@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يالاهاتان
     auto: true
+  - translation_iso: hin
+    name: यालाहातान
+    auto: true
   - translation_iso: jpn
     name: ヤラハタン語
     auto: true

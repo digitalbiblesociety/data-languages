@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كولواوا
     auto: true
+  - translation_iso: hin
+    name: कोलुवावा
+    auto: true
   - translation_iso: jpn
     name: コルワワ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باعا
     auto: true
+  - translation_iso: hin
+    name: पाआ
+    auto: true
   - translation_iso: jpn
     name: パアー語
     auto: true

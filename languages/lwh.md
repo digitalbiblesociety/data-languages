@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هيتي اكهي
     auto: true
+  - translation_iso: hin
+    name: श्वेत लाची
+    auto: true
   - translation_iso: jpn
     name: ホワイト・ラチ語
     auto: true

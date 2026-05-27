@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غرإسي
     auto: true
+  - translation_iso: hin
+    name: ग्रेसी
+    auto: true
   - translation_iso: jpn
     name: グレシ語
     auto: true

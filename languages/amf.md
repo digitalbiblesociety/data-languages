@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هامر-بانا
     auto: true
+  - translation_iso: hin
+    name: हामेर-बन्ना
+    auto: true
   - translation_iso: jpn
     name: ハマー語
   - translation_iso: zho

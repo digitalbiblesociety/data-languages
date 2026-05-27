@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانيكيون
     auto: true
+  - translation_iso: hin
+    name: मानिकियोन
+    auto: true
   - translation_iso: jpn
     name: マニキオン語
     auto: true

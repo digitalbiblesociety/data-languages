@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالاوانو الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य पालावानो
+    auto: true
   - translation_iso: jpn
     name: 中央パラワーノ語
     auto: true

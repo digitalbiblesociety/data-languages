@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونجكو
     auto: true
+  - translation_iso: hin
+    name: बुंगकू
+    auto: true
   - translation_iso: jpn
     name: ブングク語
     auto: true

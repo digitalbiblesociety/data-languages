@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: باجا سوباني
     auto: true
+  - translation_iso: hin
+    name: बागा सोबाने
+    auto: true
   - translation_iso: jpn
     name: バガ・ソバネ語
     auto: true

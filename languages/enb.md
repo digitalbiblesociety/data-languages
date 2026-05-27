@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الماركويتا
     auto: true
+  - translation_iso: hin
+    name: मार्कवीटा
+    auto: true
   - translation_iso: jpn
     name: マラクウェット語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تامانكو
     auto: true
+  - translation_iso: hin
+    name: तामानाकु
+    auto: true
   - translation_iso: jpn
     name: タマナク語
     auto: true

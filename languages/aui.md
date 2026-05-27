@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنوكي
     auto: true
+  - translation_iso: hin
+    name: अनुकी
+    auto: true
   - translation_iso: jpn
     name: アヌキ語
     auto: true

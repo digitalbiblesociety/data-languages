@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة كوستاريكية
     auto: true
+  - translation_iso: hin
+    name: कोस्टा रिकन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: コスタリカ手話
   - translation_iso: zho

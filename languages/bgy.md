@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بينجويي
     auto: true
+  - translation_iso: hin
+    name: बेंगोई
+    auto: true
   - translation_iso: jpn
     name: ベンゴイ語
     auto: true

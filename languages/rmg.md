@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مسافر نرويجي
     auto: true
+  - translation_iso: hin
+    name: ट्रैवलर नॉर्वेजियन
+    auto: true
   - translation_iso: jpn
     name: トラベラーノルウェー語
     auto: true

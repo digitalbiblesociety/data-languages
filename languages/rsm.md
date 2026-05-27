@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميريوونج لغة الإشارة
     auto: true
+  - translation_iso: hin
+    name: मिरिवूंग सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ミリウォング手話
     auto: true

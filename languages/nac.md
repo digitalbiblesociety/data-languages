@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناراك
     auto: true
+  - translation_iso: hin
+    name: नाराक
+    auto: true
   - translation_iso: jpn
     name: ナラク語
   - translation_iso: zho

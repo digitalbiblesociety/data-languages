@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة كيهو
     auto: true
+  - translation_iso: hin
+    name: केहू
+    auto: true
   - translation_iso: jpn
     name: ケフ語
     auto: true

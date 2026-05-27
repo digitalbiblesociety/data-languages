@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرابانا
     auto: true
+  - translation_iso: hin
+    name: अराबाना
+    auto: true
   - translation_iso: jpn
     name: アラバナ語
   - translation_iso: zho

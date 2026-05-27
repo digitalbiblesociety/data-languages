@@ -15,6 +15,9 @@ glottolog_family_name: Tai-Kadai
 glottolog_classification: "Tai-Kadai > Kadaic > Eastern Kra > Buyang > Northern Buyang > En"
 wikipedia_url: "https://en.wikipedia.org/wiki/En_language"
 translations:
+  - translation_iso: hin
+    name: एन
+    auto: true
   - translation_iso: jpn
     name: エン語
   - translation_iso: zho

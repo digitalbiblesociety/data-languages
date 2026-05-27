@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كآتشي كولي
     auto: true
+  - translation_iso: hin
+    name: कच्छी कोली
+    auto: true
   - translation_iso: jpn
     name: カチ・コリ語
     auto: true

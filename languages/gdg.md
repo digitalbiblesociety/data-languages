@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جادانج
     auto: true
+  - translation_iso: hin
+    name: गा'दांग
+    auto: true
   - translation_iso: jpn
     name: ガダン語
     auto: true

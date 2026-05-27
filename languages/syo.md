@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوي
     auto: true
+  - translation_iso: hin
+    name: सुओय
+    auto: true
   - translation_iso: jpn
     name: スオイ語
     auto: true

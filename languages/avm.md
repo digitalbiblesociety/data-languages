@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنجكاموثي
     auto: true
+  - translation_iso: hin
+    name: अंगकामुथी
+    auto: true
   - translation_iso: jpn
     name: アンカムティ語
     auto: true

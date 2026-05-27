@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باكانتي
     auto: true
+  - translation_iso: hin
+    name: पाकंत्यी
+    auto: true
   - translation_iso: jpn
     name: バーガンジ語
   - translation_iso: zho

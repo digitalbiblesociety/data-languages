@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نيور ميل
     auto: true
+  - translation_iso: hin
+    name: निवेर मिल
+    auto: true
   - translation_iso: jpn
     name: ニウェル・ミル語
     auto: true

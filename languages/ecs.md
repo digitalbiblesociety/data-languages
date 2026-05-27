@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Ecuadorian
     auto: true
+  - translation_iso: hin
+    name: इक्वाडोरियन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: エクアドル手話
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باان
     auto: true
+  - translation_iso: hin
+    name: बान
+    auto: true
   - translation_iso: jpn
     name: バアン語
     auto: true

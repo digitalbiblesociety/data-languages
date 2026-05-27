@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوسادلي
     auto: true
+  - translation_iso: hin
+    name: कोसाद्ले
+    auto: true
   - translation_iso: jpn
     name: コサドレ語
     auto: true

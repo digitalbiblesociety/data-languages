@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ورو
     auto: true
+  - translation_iso: hin
+    name: युरु
+    auto: true
   - translation_iso: jpn
     name: ユル語
     auto: true

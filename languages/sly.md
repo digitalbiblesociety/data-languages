@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيلايار
     auto: true
+  - translation_iso: hin
+    name: सेलायार
+    auto: true
   - translation_iso: jpn
     name: スラヤール語
   - translation_iso: zho

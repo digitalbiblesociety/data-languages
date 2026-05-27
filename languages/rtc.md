@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: رونجتو تشين
     auto: true
+  - translation_iso: hin
+    name: रुंगतू चिन
+    auto: true
   - translation_iso: jpn
     name: ルングトゥチン語
     auto: true

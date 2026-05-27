@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اريم
     auto: true
+  - translation_iso: hin
+    name: नारिम
+    auto: true
   - translation_iso: jpn
     name: ナリム語
     auto: true

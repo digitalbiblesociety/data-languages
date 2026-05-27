@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بارومبي
     auto: true
+  - translation_iso: hin
+    name: बारोम्बी
+    auto: true
   - translation_iso: jpn
     name: バロムビ語
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة النون
     auto: true
+  - translation_iso: hin
+    name: नून
+    auto: true
   - translation_iso: jpn
     name: ノーン語
   - translation_iso: zho

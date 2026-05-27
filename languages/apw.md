@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أباتشي الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी अपाचे
+    auto: true
   - translation_iso: jpn
     name: サンカルロス・アパッチ語
   - translation_iso: zho

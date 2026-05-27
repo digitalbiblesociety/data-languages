@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجي
     auto: true
+  - translation_iso: hin
+    name: सोंगे
+    auto: true
   - translation_iso: jpn
     name: ソンゲ語
   - translation_iso: zho

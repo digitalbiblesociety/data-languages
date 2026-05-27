@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوتود
     auto: true
+  - translation_iso: hin
+    name: लोतुद
+    auto: true
   - translation_iso: jpn
     name: ロトゥッド語
     auto: true

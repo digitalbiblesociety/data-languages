@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيابادهو
     auto: true
+  - translation_iso: hin
+    name: अयाबाधु
+    auto: true
   - translation_iso: jpn
     name: アヤバッド語
     auto: true

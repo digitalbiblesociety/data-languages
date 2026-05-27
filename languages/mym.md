@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مي إن
     auto: true
+  - translation_iso: hin
+    name: मेएन
+    auto: true
   - translation_iso: jpn
     name: メエン語
     auto: true

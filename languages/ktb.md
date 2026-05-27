@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كامباتا
     auto: true
+  - translation_iso: hin
+    name: कम्बाता
+    auto: true
   - translation_iso: jpn
     name: カンバータ語
     auto: true

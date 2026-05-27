@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيتيني
     auto: true
+  - translation_iso: hin
+    name: इतेने
+    auto: true
   - translation_iso: jpn
     name: イテネ語
     auto: true

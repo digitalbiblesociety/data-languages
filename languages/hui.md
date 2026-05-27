@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هولي
     auto: true
+  - translation_iso: hin
+    name: हुली
+    auto: true
   - translation_iso: jpn
     name: フリ語
   - translation_iso: zho

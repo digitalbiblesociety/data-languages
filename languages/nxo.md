@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ندامبوموا
     auto: true
+  - translation_iso: hin
+    name: न्दाम्बोमो
+    auto: true
   - translation_iso: jpn
     name: Ndambomo語
   - translation_iso: zho

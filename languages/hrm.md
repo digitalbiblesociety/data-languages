@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميــاو ذات القرون
     auto: true
+  - translation_iso: hin
+    name: सींगदार मियाओ
+    auto: true
   - translation_iso: jpn
     name: 角苗語
   - translation_iso: zho

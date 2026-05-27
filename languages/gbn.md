@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مودا
     auto: true
+  - translation_iso: hin
+    name: मो'दा
+    auto: true
   - translation_iso: jpn
     name: モダ語
     auto: true

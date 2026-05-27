@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة ألاباما
     auto: true
+  - translation_iso: hin
+    name: अलबामा
+    auto: true
   - translation_iso: jpn
     name: アラバマ語
   - translation_iso: zho

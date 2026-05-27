@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موتلاف
     auto: true
+  - translation_iso: hin
+    name: मोतलाव
+    auto: true
   - translation_iso: jpn
     name: モトラヴ語
     auto: true

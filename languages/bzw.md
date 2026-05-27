@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باسا
     auto: true
+  - translation_iso: hin
+    name: बासा (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: バサ語
     auto: true

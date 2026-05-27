@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دينجكا
     auto: true
+  - translation_iso: hin
+    name: देंगका
+    auto: true
   - translation_iso: jpn
     name: デングカ語
     auto: true

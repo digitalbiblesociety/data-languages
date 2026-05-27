@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باهينج
     auto: true
+  - translation_iso: hin
+    name: बाहिङ
+    auto: true
   - translation_iso: jpn
     name: バヒング語
     auto: true

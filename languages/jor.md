@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جورا
     auto: true
+  - translation_iso: hin
+    name: जोरा
+    auto: true
   - translation_iso: jpn
     name: ジョラ語
     auto: true

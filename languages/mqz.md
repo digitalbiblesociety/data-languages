@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بانو
     auto: true
+  - translation_iso: hin
+    name: पानो
+    auto: true
   - translation_iso: jpn
     name: パノ語
     auto: true

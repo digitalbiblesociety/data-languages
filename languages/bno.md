@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بانتوانون
     auto: true
+  - translation_iso: hin
+    name: बंतोआनोन
+    auto: true
   - translation_iso: jpn
     name: バントアノン語
     auto: true

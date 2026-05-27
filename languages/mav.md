@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ساتيري ماوي
     auto: true
+  - translation_iso: hin
+    name: सातेरे-मावे
+    auto: true
   - translation_iso: jpn
     name: サテレ・マウェ語
     auto: true

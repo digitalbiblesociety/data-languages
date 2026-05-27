@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتاك ألاس-كْلويت
     auto: true
+  - translation_iso: hin
+    name: बाताक आलास-क्लुएत
+    auto: true
   - translation_iso: jpn
     name: バタク・アラス＝クルット語
   - translation_iso: zho

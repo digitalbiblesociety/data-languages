@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بويي
     auto: true
+  - translation_iso: hin
+    name: बुयेई
+    auto: true
   - translation_iso: jpn
     name: プイ語
   - translation_iso: kor

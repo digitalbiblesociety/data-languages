@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كريول الجزيرة الإنجليزية
     auto: true
+  - translation_iso: hin
+    name: आइलैंडर क्रियोल अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: アイランダー・クレオール・イングリッシュ語
     auto: true

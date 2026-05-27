@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هيام
     auto: true
+  - translation_iso: hin
+    name: ह्याम
+    auto: true
   - translation_iso: jpn
     name: ヒャム語
   - translation_iso: zho

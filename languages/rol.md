@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رومبلومانون
     auto: true
+  - translation_iso: hin
+    name: रोम्ब्लोमानोन
+    auto: true
   - translation_iso: jpn
     name: ロンブロン語
   - translation_iso: zho

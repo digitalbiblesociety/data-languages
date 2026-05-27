@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراننان
     auto: true
+  - translation_iso: hin
+    name: पारानान
+    auto: true
   - translation_iso: jpn
     name: パラナン
   - translation_iso: zho

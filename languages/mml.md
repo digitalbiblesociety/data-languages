@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مان ميت
     auto: true
+  - translation_iso: hin
+    name: मान मेत
+    auto: true
   - translation_iso: jpn
     name: マン・メット語
     auto: true

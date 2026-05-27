@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dagaare_language"
 translations:
   - translation_iso: ara
     name: لغة داجاري
+  - translation_iso: hin
+    name: दक्षिणी दगारे
+    auto: true
   - translation_iso: jpn
     name: ダガリ語
   - translation_iso: zho

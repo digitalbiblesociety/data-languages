@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سينوفو بالاكا
     auto: true
+  - translation_iso: hin
+    name: पलाका सेनोफो
+    auto: true
   - translation_iso: jpn
     name: パラカ語
   - translation_iso: zho

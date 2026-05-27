@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامبام
     auto: true
+  - translation_iso: hin
+    name: बाम्बाम
+    auto: true
   - translation_iso: jpn
     name: バンバム語
     auto: true

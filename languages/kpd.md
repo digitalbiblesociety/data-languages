@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبا
     auto: true
+  - translation_iso: hin
+    name: कोबा
+    auto: true
   - translation_iso: jpn
     name: コバ語
   - translation_iso: zho

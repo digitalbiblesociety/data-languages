@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: الشوكوا
     auto: true
+  - translation_iso: hin
+    name: चुक्वा
+    auto: true
   - translation_iso: jpn
     name: チュクワ語
     auto: true

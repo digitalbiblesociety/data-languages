@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوموز
     auto: true
+  - translation_iso: hin
+    name: गुमुज़
+    auto: true
   - translation_iso: jpn
     name: グムズ語
     auto: true

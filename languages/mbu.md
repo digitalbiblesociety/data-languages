@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبولا بوازا
     auto: true
+  - translation_iso: hin
+    name: म्बुला-ब्वाज़ा
+    auto: true
   - translation_iso: jpn
     name: ムブラ・ブワッザ語
     auto: true

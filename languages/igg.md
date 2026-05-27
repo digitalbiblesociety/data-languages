@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيغانا
     auto: true
+  - translation_iso: hin
+    name: इगाना
+    auto: true
   - translation_iso: jpn
     name: イガナ語
     auto: true

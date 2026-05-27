@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نينجيل
     auto: true
+  - translation_iso: hin
+    name: निंगिल
+    auto: true
   - translation_iso: jpn
     name: ニンギル語
     auto: true

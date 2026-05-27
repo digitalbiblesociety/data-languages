@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوك
     auto: true
+  - translation_iso: hin
+    name: कुक
+    auto: true
   - translation_iso: jpn
     name: クク語
     auto: true

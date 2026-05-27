@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالانكورافان
     auto: true
+  - translation_iso: hin
+    name: मलंकुरवन
+    auto: true
   - translation_iso: jpn
     name: マランクラヴァン語
     auto: true

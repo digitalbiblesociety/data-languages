@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيمبوي
     auto: true
+  - translation_iso: hin
+    name: पिम्ब्वे
+    auto: true
   - translation_iso: jpn
     name: ピムベ語
     auto: true

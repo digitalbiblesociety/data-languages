@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآري
     auto: true
+  - translation_iso: hin
+    name: घारी
+    auto: true
   - translation_iso: jpn
     name: ガハリ語
     auto: true

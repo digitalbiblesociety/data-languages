@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بانجارلا
     auto: true
+  - translation_iso: hin
+    name: बांगर्ला
+    auto: true
   - translation_iso: jpn
     name: バンガルラ語
     auto: true

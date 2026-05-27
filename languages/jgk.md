@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة غواك
     auto: true
+  - translation_iso: hin
+    name: ग्वाक
+    auto: true
   - translation_iso: jpn
     name: グワク語
     auto: true

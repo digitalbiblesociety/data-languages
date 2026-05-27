@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ليشانيد نوشان
     auto: true
+  - translation_iso: hin
+    name: लिशानिद नोशान
+    auto: true
   - translation_iso: jpn
     name: ノシャン語
   - translation_iso: zho

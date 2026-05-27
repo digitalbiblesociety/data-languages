@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جوفوتيك برومنيا
     auto: true
+  - translation_iso: hin
+    name: जोफोटेक-ब्रोम्न्या
+    auto: true
   - translation_iso: jpn
     name: ジョフォテク・ブロムニャ語
     auto: true

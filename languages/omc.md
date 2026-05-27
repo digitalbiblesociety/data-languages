@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة موتشيكا
     auto: true
+  - translation_iso: hin
+    name: मोचिका
+    auto: true
   - translation_iso: jpn
     name: モチカ語
   - translation_iso: zho

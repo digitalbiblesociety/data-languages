@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مراجوس
     auto: true
+  - translation_iso: hin
+    name: मारागुस
+    auto: true
   - translation_iso: jpn
     name: マラグス語
     auto: true

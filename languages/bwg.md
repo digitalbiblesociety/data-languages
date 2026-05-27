@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بارويي
     auto: true
+  - translation_iso: hin
+    name: बारवे
+    auto: true
   - translation_iso: jpn
     name: バルウェ語
   - translation_iso: zho

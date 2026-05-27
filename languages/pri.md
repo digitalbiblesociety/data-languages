@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايتسي
     auto: true
+  - translation_iso: hin
+    name: पाइसी
+    auto: true
   - translation_iso: jpn
     name: パーチン語
   - translation_iso: kor

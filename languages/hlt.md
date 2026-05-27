@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتو تشين
     auto: true
+  - translation_iso: hin
+    name: मातू चिन
+    auto: true
   - translation_iso: jpn
     name: マトゥ・チン語
     auto: true

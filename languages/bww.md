@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوا
     auto: true
+  - translation_iso: hin
+    name: ब्वा
+    auto: true
   - translation_iso: jpn
     name: Bwa語
   - translation_iso: zho

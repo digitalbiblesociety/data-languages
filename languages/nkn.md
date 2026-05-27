@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نكانغالا
     auto: true
+  - translation_iso: hin
+    name: नकांगाला
+    auto: true
   - translation_iso: jpn
     name: ンカンガラ語
     auto: true

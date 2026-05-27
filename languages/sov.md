@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sonsorolese"
 translations:
   - translation_iso: ara
     name: السونسورولية
+  - translation_iso: hin
+    name: सोनसोरोल
+    auto: true
   - translation_iso: jpn
     name: ソンソロール語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولوهي
     auto: true
+  - translation_iso: hin
+    name: पाउलोही
+    auto: true
   - translation_iso: jpn
     name: パウロヒ語
     auto: true

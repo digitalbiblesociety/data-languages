@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة مپور
     auto: true
+  - translation_iso: hin
+    name: म्पुर
+    auto: true
   - translation_iso: jpn
     name: ムプル語
     auto: true

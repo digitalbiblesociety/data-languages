@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ونججا
     auto: true
+  - translation_iso: hin
+    name: लुंग्गा
+    auto: true
   - translation_iso: jpn
     name: ルンガ語
     auto: true

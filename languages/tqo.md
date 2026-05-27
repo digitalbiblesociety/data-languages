@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توارييبي
     auto: true
+  - translation_iso: hin
+    name: तोआरिपी
+    auto: true
   - translation_iso: jpn
     name: トアリピ語
   - translation_iso: zho

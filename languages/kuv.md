@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كور
     auto: true
+  - translation_iso: hin
+    name: कुर
+    auto: true
   - translation_iso: jpn
     name: クル語
     auto: true

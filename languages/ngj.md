@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجيي
     auto: true
+  - translation_iso: hin
+    name: न्गिए
+    auto: true
   - translation_iso: jpn
     name: ンギエ語
     auto: true

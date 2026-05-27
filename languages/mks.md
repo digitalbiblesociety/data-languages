@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك سيلاكايوابان
     auto: true
+  - translation_iso: hin
+    name: सिलाकायोआपान मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: シラカヨアパン・ミステク語
     auto: true

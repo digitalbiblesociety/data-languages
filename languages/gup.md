@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غونوينجغو
     auto: true
+  - translation_iso: hin
+    name: गनविंगू
+    auto: true
   - translation_iso: jpn
     name: グンウィング語
   - translation_iso: zho

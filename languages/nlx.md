@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناهالي
     auto: true
+  - translation_iso: hin
+    name: नहाली
+    auto: true
   - translation_iso: jpn
     name: カルト語
   - translation_iso: zho

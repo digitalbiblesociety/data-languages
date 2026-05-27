@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داجاري ديولا
     auto: true
+  - translation_iso: hin
+    name: दगारी दिउला
+    auto: true
   - translation_iso: jpn
     name: ダガアリ・ジウラ語
     auto: true

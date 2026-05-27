@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نادباب
     auto: true
+  - translation_iso: hin
+    name: नादेब
+    auto: true
   - translation_iso: jpn
     name: ナドゥブ語
   - translation_iso: zho

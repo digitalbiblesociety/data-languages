@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفولفولدية بورجو
     auto: true
+  - translation_iso: hin
+    name: बोर्गू फुलफुल्दे
+    auto: true
   - translation_iso: jpn
     name: ボルグ・フルフルディ語
   - translation_iso: zho

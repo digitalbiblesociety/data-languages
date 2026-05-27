@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة فارسي-داري
     auto: true
+  - translation_iso: hin
+    name: पारसी-दारी
+    auto: true
   - translation_iso: jpn
     name: パルシダリ語
     auto: true

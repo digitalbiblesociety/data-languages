@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جونجو
     auto: true
+  - translation_iso: hin
+    name: गुंगु
+    auto: true
   - translation_iso: jpn
     name: グングー語
     auto: true

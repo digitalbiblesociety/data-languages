@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديكسون ريف
     auto: true
+  - translation_iso: hin
+    name: डिक्सन रीफ़
+    auto: true
   - translation_iso: jpn
     name: ディクソン・リーフ語
     auto: true

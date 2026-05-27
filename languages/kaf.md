@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاتسو
     auto: true
+  - translation_iso: hin
+    name: कात्सो
+    auto: true
   - translation_iso: jpn
     name: カッソ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأندية
     auto: true
+  - translation_iso: hin
+    name: अंदी
+    auto: true
   - translation_iso: jpn
     name: アンディ語
   - translation_iso: kor

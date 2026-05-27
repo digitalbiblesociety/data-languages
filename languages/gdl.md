@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الديراشا
     auto: true
+  - translation_iso: hin
+    name: दिराशा
+    auto: true
   - translation_iso: jpn
     name: ディラシャ語
     auto: true

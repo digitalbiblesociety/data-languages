@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اساليمو
     auto: true
+  - translation_iso: hin
+    name: लासालिमु
+    auto: true
   - translation_iso: jpn
     name: ラサリム語
     auto: true

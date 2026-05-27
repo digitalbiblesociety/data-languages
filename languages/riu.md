@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريونج
     auto: true
+  - translation_iso: hin
+    name: रियुंग
+    auto: true
   - translation_iso: jpn
     name: リウン語
     auto: true

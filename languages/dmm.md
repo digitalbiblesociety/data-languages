@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: دما
     auto: true
+  - translation_iso: hin
+    name: दामा
+    auto: true
   - translation_iso: jpn
     name: ダマ語
     auto: true

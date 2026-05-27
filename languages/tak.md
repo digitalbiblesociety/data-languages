@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تالا
     auto: true
+  - translation_iso: hin
+    name: ताला
+    auto: true
   - translation_iso: jpn
     name: タラ語
     auto: true

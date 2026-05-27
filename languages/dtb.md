@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لابوك كينابتانجان كاداز
     auto: true
+  - translation_iso: hin
+    name: लाबुक-किनाबातांगन कदाज़ान
+    auto: true
   - translation_iso: jpn
     name: ラブク・キナバタンガン・カダザン語
     auto: true

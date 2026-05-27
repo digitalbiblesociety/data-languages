@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Argobba_language"
 translations:
   - translation_iso: ara
     name: الأرغوبية
+  - translation_iso: hin
+    name: अर्गोब्बा
+    auto: true
   - translation_iso: jpn
     name: アルゴッバ語
   - translation_iso: zho

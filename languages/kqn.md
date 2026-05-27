@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاوندي
     auto: true
+  - translation_iso: hin
+    name: काओन्दे
+    auto: true
   - translation_iso: jpn
     name: カオンデ語
   - translation_iso: zho

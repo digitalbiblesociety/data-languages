@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآديييآ
     auto: true
+  - translation_iso: hin
+    name: हदिय्या
+    auto: true
   - translation_iso: jpn
     name: ハディヤ語
   - translation_iso: zho

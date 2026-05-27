@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: سونغلاي تشين
     auto: true
+  - translation_iso: hin
+    name: सोंगलाई चिन
+    auto: true
   - translation_iso: jpn
     name: ソンライ・チン語
     auto: true

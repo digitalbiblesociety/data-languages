@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميلاناو كانويت-تانجونج
     auto: true
+  - translation_iso: hin
+    name: कनोविट-तंजोंग मेलानाउ
+    auto: true
   - translation_iso: jpn
     name: カノウィット・タンジョン・メラナウ語
     auto: true

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: إنتيرغلوسا
     auto: true
+  - translation_iso: hin
+    name: इंटरग्लोसा
+    auto: true
   - translation_iso: jpn
     name: インターグロッサ
   - translation_iso: zho

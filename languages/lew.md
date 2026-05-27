@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يدو ايلي
     auto: true
+  - translation_iso: hin
+    name: लेदो कैली
+    auto: true
   - translation_iso: jpn
     name: レド・カイリ語
     auto: true

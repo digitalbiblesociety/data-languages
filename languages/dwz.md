@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ديواس راي
     auto: true
+  - translation_iso: hin
+    name: देवास राय
+    auto: true
   - translation_iso: jpn
     name: デワス・ライ語
     auto: true

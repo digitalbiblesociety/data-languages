@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bagirmi_language"
 translations:
   - translation_iso: ara
     name: باقرمي
+  - translation_iso: hin
+    name: बागिर्मी
+    auto: true
   - translation_iso: jpn
     name: バギルミ語
   - translation_iso: zho

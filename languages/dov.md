@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: دومبي
     auto: true
+  - translation_iso: hin
+    name: डोंबे
+    auto: true
   - translation_iso: jpn
     name: ドンベ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بي كرومن
     auto: true
+  - translation_iso: hin
+    name: प्ये क्रुमेन
+    auto: true
   - translation_iso: jpn
     name: パイクルーメン語
     auto: true

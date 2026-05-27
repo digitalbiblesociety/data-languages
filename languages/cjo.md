@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأشينينكا باخونال
     auto: true
+  - translation_iso: hin
+    name: अशेनिंका पाहोनाल
+    auto: true
   - translation_iso: jpn
     name: アシェニンカ・パホナル語
     auto: true

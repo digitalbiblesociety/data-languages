@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رودباري
     auto: true
+  - translation_iso: hin
+    name: रुदबारी
+    auto: true
   - translation_iso: jpn
     name: ルドバリ語
     auto: true

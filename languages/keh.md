@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيك
     auto: true
+  - translation_iso: hin
+    name: केआक
+    auto: true
   - translation_iso: jpn
     name: キーク語
     auto: true

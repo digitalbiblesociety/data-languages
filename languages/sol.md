@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سولوس
     auto: true
+  - translation_iso: hin
+    name: सोलोस
+    auto: true
   - translation_iso: jpn
     name: トロス語
     auto: true

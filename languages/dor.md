@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوريو
     auto: true
+  - translation_iso: hin
+    name: डोरिओ
+    auto: true
   - translation_iso: jpn
     name: ドリオ語
     auto: true

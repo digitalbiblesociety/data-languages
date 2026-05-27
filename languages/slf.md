@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة السويسرية الإيطالية
     auto: true
+  - translation_iso: hin
+    name: स्विस-इतालवी सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: スイス＝イタリア手話
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوقومام
     auto: true
+  - translation_iso: hin
+    name: पोकोमाम
+    auto: true
   - translation_iso: jpn
     name: ポコマム語
   - translation_iso: kor

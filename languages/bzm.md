@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بولوندو
     auto: true
+  - translation_iso: hin
+    name: बोलोंडो
+    auto: true
   - translation_iso: jpn
     name: ボロンド語
     auto: true

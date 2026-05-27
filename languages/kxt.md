@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويوات
     auto: true
+  - translation_iso: hin
+    name: कोइवात
+    auto: true
   - translation_iso: jpn
     name: コイワット語
     auto: true

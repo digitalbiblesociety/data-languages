@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوني-بوازي
     auto: true
+  - translation_iso: hin
+    name: कुनि-बोआज़ी
+    auto: true
   - translation_iso: jpn
     name: クニ・ボアジ語
     auto: true

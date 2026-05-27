@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشومبورونج
     auto: true
+  - translation_iso: hin
+    name: चुम्बुरुंग
+    auto: true
   - translation_iso: jpn
     name: チュムブルング語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاريير
     auto: true
+  - translation_iso: hin
+    name: कैरियर
+    auto: true
   - translation_iso: jpn
     name: キャリア語
   - translation_iso: zho

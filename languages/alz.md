@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألور
     auto: true
+  - translation_iso: hin
+    name: अलूर
+    auto: true
   - translation_iso: jpn
     name: アルール語
   - translation_iso: kor

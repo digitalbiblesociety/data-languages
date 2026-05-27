@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: بويمي ناغا
     auto: true
+  - translation_iso: hin
+    name: पुइमेई नागा
+    auto: true
   - translation_iso: jpn
     name: プイメイ・ナガ語
     auto: true

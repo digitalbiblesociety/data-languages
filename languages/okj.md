@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكو جووي
     auto: true
+  - translation_iso: hin
+    name: ओको-जुवोई
+    auto: true
   - translation_iso: jpn
     name: オコ・ジュウォイ語
     auto: true

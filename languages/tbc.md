@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاكيا
     auto: true
+  - translation_iso: hin
+    name: ताकिया
+    auto: true
   - translation_iso: jpn
     name: タキア語
     auto: true

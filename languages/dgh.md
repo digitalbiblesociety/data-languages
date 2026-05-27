@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دغويدي
     auto: true
+  - translation_iso: hin
+    name: द्घवेदे
+    auto: true
   - translation_iso: jpn
     name: ドゥウェデ語
     auto: true

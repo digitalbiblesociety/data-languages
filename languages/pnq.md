@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانا (بوركينا فاسو)
     auto: true
+  - translation_iso: hin
+    name: पाना (बुर्किना फासो)
+    auto: true
   - translation_iso: jpn
     name: パナ語
   - translation_iso: zho

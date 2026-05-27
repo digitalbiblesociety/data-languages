@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشولون
     auto: true
+  - translation_iso: hin
+    name: चोलोन
+    auto: true
   - translation_iso: jpn
     name: チョロン語
     auto: true

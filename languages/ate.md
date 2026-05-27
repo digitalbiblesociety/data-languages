@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتيمبل
     auto: true
+  - translation_iso: hin
+    name: अतेम्बले
+    auto: true
   - translation_iso: jpn
     name: アテンブレ語
     auto: true

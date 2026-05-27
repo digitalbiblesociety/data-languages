@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tunni_language"
 translations:
   - translation_iso: ara
     name: لغة التوني
+  - translation_iso: hin
+    name: तुन्नी
+    auto: true
   - translation_iso: jpn
     name: ツンニ方言
   - translation_iso: zho

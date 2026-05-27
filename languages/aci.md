@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آكا-كاري
     auto: true
+  - translation_iso: hin
+    name: अका-कारी
+    auto: true
   - translation_iso: jpn
     name: アカカリ語
     auto: true

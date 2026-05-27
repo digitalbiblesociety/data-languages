@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ينونهان
     auto: true
+  - translation_iso: hin
+    name: इनोन्हान
+    auto: true
   - translation_iso: jpn
     name: イノンハン語
     auto: true

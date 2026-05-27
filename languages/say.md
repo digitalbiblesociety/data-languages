@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سايا
     auto: true
+  - translation_iso: hin
+    name: साया
+    auto: true
   - translation_iso: jpn
     name: グウス語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيرناتينو
     auto: true
+  - translation_iso: hin
+    name: तेरनातेन्यो
+    auto: true
   - translation_iso: jpn
     name: テルナテーニョ語
     auto: true

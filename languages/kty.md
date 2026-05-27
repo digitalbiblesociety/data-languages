@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانجو (منطقة باس-أويليه)
     auto: true
+  - translation_iso: hin
+    name: कांगो (बास-उएले)
+    auto: true
   - translation_iso: jpn
     name: Kango語
   - translation_iso: zho

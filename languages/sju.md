@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أومي سامي
     auto: true
+  - translation_iso: hin
+    name: उमे सामी
+    auto: true
   - translation_iso: jpn
     name: ウーメ・サーミ語
   - translation_iso: kor

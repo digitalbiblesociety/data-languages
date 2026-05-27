@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هالانغ دوان
     auto: true
+  - translation_iso: hin
+    name: हलंग दोआन
+    auto: true
   - translation_iso: jpn
     name: ハラング・ドアン語
     auto: true

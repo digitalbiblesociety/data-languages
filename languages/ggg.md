@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غورغولآ
     auto: true
+  - translation_iso: hin
+    name: गुर्गुला
+    auto: true
   - translation_iso: jpn
     name: グルグラ語
     auto: true

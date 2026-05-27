@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوناي
     auto: true
+  - translation_iso: hin
+    name: कोनाई
+    auto: true
   - translation_iso: jpn
     name: コナイ語
     auto: true

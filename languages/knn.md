@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكونكانية
     auto: true
+  - translation_iso: hin
+    name: कोंकणी
+    auto: true
   - translation_iso: jpn
     name: マハーラーシュトリアン・コンカニ語
   - translation_iso: zho

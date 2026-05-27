@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة السالا
     auto: true
+  - translation_iso: hin
+    name: साला
+    auto: true
   - translation_iso: jpn
     name: ルンドウェ語
     auto: true

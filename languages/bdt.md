@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكوتو
     auto: true
+  - translation_iso: hin
+    name: बोकोतो
+    auto: true
   - translation_iso: jpn
     name: ボコト語
   - translation_iso: zho

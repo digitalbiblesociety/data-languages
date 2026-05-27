@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أسورينيه توكانتينس
     auto: true
+  - translation_iso: hin
+    name: टोकेंटिन्स असुरिनी
+    auto: true
   - translation_iso: jpn
     name: アスリニ語
   - translation_iso: zho

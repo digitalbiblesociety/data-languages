@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوجوور
     auto: true
+  - translation_iso: hin
+    name: दुगवोर
+    auto: true
   - translation_iso: jpn
     name: ドゥグウォル語
     auto: true

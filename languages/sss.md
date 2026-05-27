@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سو
     auto: true
+  - translation_iso: hin
+    name: सो
+    auto: true
   - translation_iso: jpn
     name: ブルー語
     auto: true

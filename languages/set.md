@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينتاني
     auto: true
+  - translation_iso: hin
+    name: सेंतानी
+    auto: true
   - translation_iso: jpn
     name: ブヤカ語
     auto: true

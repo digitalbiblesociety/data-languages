@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتوين
     auto: true
+  - translation_iso: hin
+    name: पैटविन
+    auto: true
   - translation_iso: jpn
     name: パットウィン語
     auto: true

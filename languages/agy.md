@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ساوثيرن ألتا
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी अल्ता
+    auto: true
   - translation_iso: jpn
     name: 南部アルタ語
     auto: true

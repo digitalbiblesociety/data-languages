@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تشينبون تشين
     auto: true
+  - translation_iso: hin
+    name: चिनबोन चिन
+    auto: true
   - translation_iso: jpn
     name: チンボン・チン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشاميكورو
     auto: true
+  - translation_iso: hin
+    name: चामिकुरो
+    auto: true
   - translation_iso: jpn
     name: チャミクロ語
   - translation_iso: zho

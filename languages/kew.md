@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيوا الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी केवा
+    auto: true
   - translation_iso: jpn
     name: ウェスト・ケワ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسانزو
     auto: true
+  - translation_iso: hin
+    name: इसांज़ू
+    auto: true
   - translation_iso: jpn
     name: イサンズ語
     auto: true

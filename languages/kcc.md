@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة لوبيلا
     auto: true
+  - translation_iso: hin
+    name: लुबिला
+    auto: true
   - translation_iso: jpn
     name: ルビラ語
     auto: true

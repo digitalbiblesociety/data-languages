@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كارين جيبا
     auto: true
+  - translation_iso: hin
+    name: गेबा करेन
+    auto: true
   - translation_iso: jpn
     name: ゲバ・カレン語
     auto: true

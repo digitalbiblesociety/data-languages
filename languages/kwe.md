@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويربا
     auto: true
+  - translation_iso: hin
+    name: क्वेरबा
+    auto: true
   - translation_iso: jpn
     name: クウェルバ語
     auto: true

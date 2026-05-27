@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jalapa_Mazatec"
 translations:
   - translation_iso: ara
     name: جالابا مازاتيك
+  - translation_iso: hin
+    name: हालापा दे दियास माज़ातेक
+    auto: true
   - translation_iso: jpn
     name: ハラパ・デ・ディアス・マサテク語
     auto: true

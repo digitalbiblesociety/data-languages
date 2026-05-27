@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موسكوم
     auto: true
+  - translation_iso: hin
+    name: मुस्कुम
+    auto: true
   - translation_iso: jpn
     name: ムスクム語
   - translation_iso: zho

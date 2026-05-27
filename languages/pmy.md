@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو بابوا
     auto: true
+  - translation_iso: hin
+    name: पापुआन मलय
+    auto: true
   - translation_iso: jpn
     name: パプア・マレー語
   - translation_iso: zho

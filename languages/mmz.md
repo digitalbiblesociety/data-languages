@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مابالي
     auto: true
+  - translation_iso: hin
+    name: माबाले
+    auto: true
   - translation_iso: jpn
     name: マバアレ語
     auto: true

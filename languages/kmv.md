@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكريولية الفرنسية كاريبونا
     auto: true
+  - translation_iso: hin
+    name: करिपूना क्रियोल फ्रेंच
+    auto: true
   - translation_iso: jpn
     name: カリプナ語
   - translation_iso: zho

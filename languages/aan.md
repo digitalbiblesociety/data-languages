@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنامبي
     auto: true
+  - translation_iso: hin
+    name: कैरारी की अनम्बे
+    auto: true
   - translation_iso: jpn
     name: カイラリのアナンベ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوت دانوم
     auto: true
+  - translation_iso: hin
+    name: ओत दानुम
+    auto: true
   - translation_iso: jpn
     name: オト・ダヌム語
     auto: true

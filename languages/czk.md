@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: الكناني
     auto: true
+  - translation_iso: hin
+    name: कनानिक
+    auto: true
   - translation_iso: jpn
     name: クナアン語
   - translation_iso: kor

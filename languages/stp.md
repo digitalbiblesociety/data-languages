@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة تيبيهوان الجنوب الشرقية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणपूर्वी तेपेहुआन
+    auto: true
   - translation_iso: jpn
     name: 南東テペフアン語
     auto: true

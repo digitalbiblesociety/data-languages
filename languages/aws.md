@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويو الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी अव्यू
+    auto: true
   - translation_iso: jpn
     name: 南アウユ語
     auto: true

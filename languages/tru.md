@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Turoyo_language"
 translations:
   - translation_iso: ara
     name: لهجة طورية
+  - translation_iso: hin
+    name: तुरोयो
+    auto: true
   - translation_iso: jpn
     name: トゥロヨ語
   - translation_iso: kor

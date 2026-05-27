@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالي
     auto: true
+  - translation_iso: hin
+    name: बाली (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: バリ語
     auto: true

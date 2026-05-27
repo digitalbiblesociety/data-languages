@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوماڤرين
     auto: true
+  - translation_iso: hin
+    name: लोमावरेन
+    auto: true
   - translation_iso: jpn
     name: ロマブレン語
     auto: true

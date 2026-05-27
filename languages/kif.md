@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة شرق باربات خام
     auto: true
+  - translation_iso: hin
+    name: पूर्वी पर्वते खाम
+    auto: true
   - translation_iso: jpn
     name: イースタン・パルバテ・ハム語
     auto: true

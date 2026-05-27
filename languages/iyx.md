@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ياكا
     auto: true
+  - translation_iso: hin
+    name: याका (कांगो)
+    auto: true
   - translation_iso: jpn
     name: ヤカ語
     auto: true

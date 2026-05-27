@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: البونتوك الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी बोंटोक
+    auto: true
   - translation_iso: jpn
     name: 東ボントク語
   - translation_iso: zho

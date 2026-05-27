@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغومبي
     auto: true
+  - translation_iso: hin
+    name: न्गुम्बी
+    auto: true
   - translation_iso: jpn
     name: コンベ語
   - translation_iso: zho

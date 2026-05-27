@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الأرومية الغربية الوسطى
     auto: true
+  - translation_iso: hin
+    name: पश्चिम मध्य ओरोमो
+    auto: true
   - translation_iso: jpn
     name: 西中央オロモ語
   - translation_iso: zho

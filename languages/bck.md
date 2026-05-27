@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونوبا
     auto: true
+  - translation_iso: hin
+    name: बुनुबा
+    auto: true
   - translation_iso: jpn
     name: ブヌバ語
     auto: true

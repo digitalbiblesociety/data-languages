@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اتوند
     auto: true
+  - translation_iso: hin
+    name: लातुंदे
+    auto: true
   - translation_iso: jpn
     name: ラトゥンデ語
     auto: true

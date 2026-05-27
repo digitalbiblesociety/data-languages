@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كالو
     auto: true
+  - translation_iso: hin
+    name: कालो
+    auto: true
   - translation_iso: jpn
     name: カロー語
   - translation_iso: kor

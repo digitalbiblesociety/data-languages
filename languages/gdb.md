@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جادابا بوتانجي أولار
     auto: true
+  - translation_iso: hin
+    name: पोट्टांगी ओल्लर गडबा
+    auto: true
   - translation_iso: jpn
     name: オッラーリ語
   - translation_iso: zho

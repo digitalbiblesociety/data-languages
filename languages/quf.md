@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا لامبايك
     auto: true
+  - translation_iso: hin
+    name: लांबायेके क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: ランバイェケケチュア語
     auto: true

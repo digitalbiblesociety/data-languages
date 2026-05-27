@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة أودوت
     auto: true
+  - translation_iso: hin
+    name: ओदुत
+    auto: true
   - translation_iso: jpn
     name: オドゥト語
     auto: true

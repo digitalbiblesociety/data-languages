@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بويكين
     auto: true
+  - translation_iso: hin
+    name: बोइकिन
+    auto: true
   - translation_iso: jpn
     name: ボイキン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا تشاتشابويس
     auto: true
+  - translation_iso: hin
+    name: चाचापोयास क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: チャチャポヤスケチュア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاريكاري
     auto: true
+  - translation_iso: hin
+    name: करेकरे
+    auto: true
   - translation_iso: jpn
     name: カレカレ語
     auto: true

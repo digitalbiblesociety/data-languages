@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة كون كيو
     auto: true
+  - translation_iso: hin
+    name: कोन क्यू
+    auto: true
   - translation_iso: jpn
     name: コン・クー語
     auto: true

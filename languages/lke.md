@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ينيي
     auto: true
+  - translation_iso: hin
+    name: केन्यी
+    auto: true
   - translation_iso: jpn
     name: ケニイ語
     auto: true

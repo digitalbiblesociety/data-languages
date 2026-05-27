@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينيين
     auto: true
+  - translation_iso: hin
+    name: पिनयिन
+    auto: true
   - translation_iso: jpn
     name: ピンイン語
     auto: true

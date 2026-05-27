@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ونج هوري اجا
     auto: true
+  - translation_iso: hin
+    name: लोंग फुरी नागा
+    auto: true
   - translation_iso: jpn
     name: ロング・フーリ・ナガ語
     auto: true

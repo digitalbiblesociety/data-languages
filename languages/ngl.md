@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لومويي
     auto: true
+  - translation_iso: hin
+    name: लोम्वे
+    auto: true
   - translation_iso: jpn
     name: ロムウェ語
   - translation_iso: zho

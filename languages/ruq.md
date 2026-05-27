@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميجلينو رومانية
     auto: true
+  - translation_iso: hin
+    name: मेग्लेनो रोमानियन
+    auto: true
   - translation_iso: jpn
     name: メグレノ・ルーマニア語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورجي
     auto: true
+  - translation_iso: hin
+    name: बुर्जी
+    auto: true
   - translation_iso: jpn
     name: ブルジ語
     auto: true

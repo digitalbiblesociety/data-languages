@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوروكا
     auto: true
+  - translation_iso: hin
+    name: बोरुका
+    auto: true
   - translation_iso: jpn
     name: ボルカ語
     auto: true

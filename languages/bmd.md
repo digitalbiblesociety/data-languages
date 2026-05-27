@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باجا ماندوري
     auto: true
+  - translation_iso: hin
+    name: बागा मांडुरी
+    auto: true
   - translation_iso: jpn
     name: バガ・マンドゥリ語
     auto: true

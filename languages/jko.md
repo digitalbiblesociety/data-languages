@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبو
     auto: true
+  - translation_iso: hin
+    name: कुबो
+    auto: true
   - translation_iso: jpn
     name: クボ語
     auto: true

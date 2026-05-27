@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: نغانتانغارا
     auto: true
+  - translation_iso: hin
+    name: न्गंतंगारा
+    auto: true
   - translation_iso: jpn
     name: ンガンタンガラ語
     auto: true

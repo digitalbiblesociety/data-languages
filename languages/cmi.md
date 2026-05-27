@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإمبيرا-تشامي
     auto: true
+  - translation_iso: hin
+    name: एम्बेरा-चामी
+    auto: true
   - translation_iso: jpn
     name: エンベラ・チャミ語
     auto: true

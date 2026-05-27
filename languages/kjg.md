@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة خمو
     auto: true
+  - translation_iso: hin
+    name: ख्मू
+    auto: true
   - translation_iso: jpn
     name: クム語
   - translation_iso: kor

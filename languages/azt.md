@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة فاير أتا
     auto: true
+  - translation_iso: hin
+    name: फेयर अत्ता
+    auto: true
   - translation_iso: jpn
     name: フェアレ・アッタ語
     auto: true

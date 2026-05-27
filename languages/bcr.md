@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابين
     auto: true
+  - translation_iso: hin
+    name: बबीन
+    auto: true
   - translation_iso: jpn
     name: バビーネ語
     auto: true

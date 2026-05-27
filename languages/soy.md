@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مييوبي
     auto: true
+  - translation_iso: hin
+    name: मियोबे
+    auto: true
   - translation_iso: jpn
     name: ソルバ語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: فويا فويا
     auto: true
+  - translation_iso: hin
+    name: फोइया फोइया
+    auto: true
   - translation_iso: jpn
     name: フォイア・フォイア語
     auto: true

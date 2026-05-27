@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جابي-جابي
     auto: true
+  - translation_iso: hin
+    name: गाबी-गाबी
+    auto: true
   - translation_iso: jpn
     name: ガビ・ガビ語
     auto: true

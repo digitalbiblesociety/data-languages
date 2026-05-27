@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كابتيو
     auto: true
+  - translation_iso: hin
+    name: कापतियाउ
+    auto: true
   - translation_iso: jpn
     name: カプティアウ語
     auto: true

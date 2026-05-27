@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوغبرونواغوم
     auto: true
+  - translation_iso: hin
+    name: ओग्ब्रोनुआगुम
+    auto: true
   - translation_iso: jpn
     name: オグブロヌアグム語
     auto: true

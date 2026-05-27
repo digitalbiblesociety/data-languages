@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: غوآجآجáرآ
     auto: true
+  - translation_iso: hin
+    name: गुआजाजारा
+    auto: true
   - translation_iso: jpn
     name: グアジャジャラ語
     auto: true

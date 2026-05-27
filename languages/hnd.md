@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة هندكو الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी हिंदको
+    auto: true
   - translation_iso: jpn
     name: サザン・ヒンドコー語
     auto: true

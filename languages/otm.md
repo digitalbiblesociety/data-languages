@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي الجبلية الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी हाईलैंड ओटोमी
+    auto: true
   - translation_iso: jpn
     name: 東部高地オトミ語
     auto: true

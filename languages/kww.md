@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوينتي
     auto: true
+  - translation_iso: hin
+    name: क्विंटी
+    auto: true
   - translation_iso: jpn
     name: クウィンティ語
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: تاغين
     auto: true
+  - translation_iso: hin
+    name: तागिन
+    auto: true
   - translation_iso: jpn
     name: タギン語
     auto: true

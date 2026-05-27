@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فلاكس رومانية
     auto: true
+  - translation_iso: hin
+    name: व्लाक्स रोमानी
+    auto: true
   - translation_iso: jpn
     name: ワラキア方言群
   - translation_iso: zho

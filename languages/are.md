@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرارنتا الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी आरार्न्ता
+    auto: true
   - translation_iso: jpn
     name: 西部アレント語
     auto: true

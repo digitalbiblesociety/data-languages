@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكابيكار
     auto: true
+  - translation_iso: hin
+    name: काबेकार
+    auto: true
   - translation_iso: jpn
     name: カベカル語
     auto: true

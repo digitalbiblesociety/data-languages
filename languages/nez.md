@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيز بيرس
     auto: true
+  - translation_iso: hin
+    name: नेज़ पर्स
+    auto: true
   - translation_iso: jpn
     name: ネズ・パース語
   - translation_iso: kor

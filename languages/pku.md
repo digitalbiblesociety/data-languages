@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكو
     auto: true
+  - translation_iso: hin
+    name: पाकू
+    auto: true
   - translation_iso: jpn
     name: パク語
     auto: true

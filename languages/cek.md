@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الخومي الشرقية تشين
     auto: true
+  - translation_iso: hin
+    name: पूर्वी खुमी चिन
+    auto: true
   - translation_iso: jpn
     name: 東クミ・チン語
     auto: true

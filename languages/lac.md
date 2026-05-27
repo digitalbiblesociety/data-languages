@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاكاندون
     auto: true
+  - translation_iso: hin
+    name: लाकानदोन
+    auto: true
   - translation_iso: jpn
     name: ラカンドン語
   - translation_iso: kor

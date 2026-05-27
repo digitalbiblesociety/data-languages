@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كانج
     auto: true
+  - translation_iso: hin
+    name: कांग
+    auto: true
   - translation_iso: jpn
     name: カン語
     auto: true

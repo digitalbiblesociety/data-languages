@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناموسي-نايتاسيري-سيروا
     auto: true
+  - translation_iso: hin
+    name: नामोसी-नैतासिरी-सेरुआ
+    auto: true
   - translation_iso: jpn
     name: ナモシ・ナイタシリ・セルア語
     auto: true

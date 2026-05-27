@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكويي
     auto: true
+  - translation_iso: hin
+    name: अकोये
+    auto: true
   - translation_iso: jpn
     name: アコイェ語
     auto: true

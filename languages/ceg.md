@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشاماكوكو
     auto: true
+  - translation_iso: hin
+    name: चामाकोको
+    auto: true
   - translation_iso: jpn
     name: チャマココ語
     auto: true

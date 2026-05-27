@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رينجو
     auto: true
+  - translation_iso: hin
+    name: रिंगगौ
+    auto: true
   - translation_iso: jpn
     name: リングゴウ語
     auto: true

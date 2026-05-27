@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوكوسو
     auto: true
+  - translation_iso: hin
+    name: बुकुसु
+    auto: true
   - translation_iso: jpn
     name: ブクス語
   - translation_iso: zho

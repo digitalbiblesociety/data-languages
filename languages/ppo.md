@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فولوبا
     auto: true
+  - translation_iso: hin
+    name: फोलोपा
+    auto: true
   - translation_iso: jpn
     name: フォロパ語
   - translation_iso: zho

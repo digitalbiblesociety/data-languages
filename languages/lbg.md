@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لاوبانج
     auto: true
+  - translation_iso: hin
+    name: लाओपांग
+    auto: true
   - translation_iso: jpn
     name: ラオパン語
     auto: true

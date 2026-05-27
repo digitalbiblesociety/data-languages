@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وابي
     auto: true
+  - translation_iso: hin
+    name: वाउबे
+    auto: true
   - translation_iso: jpn
     name: ワウベ語
     auto: true

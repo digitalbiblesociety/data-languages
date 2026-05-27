@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Ethiopian
     auto: true
+  - translation_iso: hin
+    name: इथियोपियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: エチオピア手話
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الفلايتال
     auto: true
+  - translation_iso: hin
+    name: फ्लाईताल
+    auto: true
   - translation_iso: jpn
     name: ツォツィタール
   - translation_iso: zho

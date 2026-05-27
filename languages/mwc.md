@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أري
     auto: true
+  - translation_iso: hin
+    name: आरे
+    auto: true
   - translation_iso: jpn
     name: アレ語
   - translation_iso: zho

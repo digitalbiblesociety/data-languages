@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كومارباج باهاريا
     auto: true
+  - translation_iso: hin
+    name: कुमारभाग पहाड़िया
+    auto: true
   - translation_iso: jpn
     name: クマルバグ・パハリア語
     auto: true

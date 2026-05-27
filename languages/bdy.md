@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانديالانج
     auto: true
+  - translation_iso: hin
+    name: बंदजालंग
+    auto: true
   - translation_iso: jpn
     name: バンジャランギック諸語
   - translation_iso: zho

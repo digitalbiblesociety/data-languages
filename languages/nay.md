@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجارينجري
     auto: true
+  - translation_iso: hin
+    name: नगारिंजेरी
+    auto: true
   - translation_iso: jpn
     name: ンガリンジェリ語
   - translation_iso: zho

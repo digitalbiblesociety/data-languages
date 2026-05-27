@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تيهيت
     auto: true
+  - translation_iso: hin
+    name: तेहित
+    auto: true
   - translation_iso: jpn
     name: テヒット語
     auto: true

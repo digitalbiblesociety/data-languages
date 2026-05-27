@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الموريا الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी मुरिया
+    auto: true
   - translation_iso: jpn
     name: 東ムリア語
     auto: true

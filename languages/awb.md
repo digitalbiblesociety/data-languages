@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوا
     auto: true
+  - translation_iso: hin
+    name: अवा (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: アワ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مبيندا
     auto: true
+  - translation_iso: hin
+    name: म्पिंडा
+    auto: true
   - translation_iso: jpn
     name: ムピンダ語
     auto: true

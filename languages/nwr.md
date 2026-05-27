@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناوارو
     auto: true
+  - translation_iso: hin
+    name: नावारु
+    auto: true
   - translation_iso: jpn
     name: ナワル語
     auto: true

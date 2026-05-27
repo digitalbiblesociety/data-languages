@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موني
     auto: true
+  - translation_iso: hin
+    name: मुनित
+    auto: true
   - translation_iso: jpn
     name: ムニット語
     auto: true

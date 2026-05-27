@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوجا
     auto: true
+  - translation_iso: hin
+    name: सुगा
+    auto: true
   - translation_iso: jpn
     name: ニザー語
     auto: true

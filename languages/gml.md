@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Low_German"
 translations:
   - translation_iso: ara
     name: الألمانية الدنيا الوسيطة
+  - translation_iso: hin
+    name: मध्य निम्न जर्मन
+    auto: true
   - translation_iso: jpn
     name: 中世低地ドイツ語
   - translation_iso: kor

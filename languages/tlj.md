@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تالينغا بويسي
     auto: true
+  - translation_iso: hin
+    name: तालिंगा-ब्विसी
+    auto: true
   - translation_iso: jpn
     name: タリンガ・ブウィシ語
     auto: true

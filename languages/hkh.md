@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: خاه
     auto: true
+  - translation_iso: hin
+    name: खाह
+    auto: true
   - translation_iso: jpn
     name: カー語
     auto: true

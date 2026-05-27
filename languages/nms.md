@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليتيمبوي
     auto: true
+  - translation_iso: hin
+    name: लेतेम्बोई
+    auto: true
   - translation_iso: jpn
     name: ムボットゴテ語
   - translation_iso: zho

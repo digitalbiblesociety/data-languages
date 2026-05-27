@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاييلي
     auto: true
+  - translation_iso: hin
+    name: कायेली
+    auto: true
   - translation_iso: jpn
     name: カヤリ語
     auto: true

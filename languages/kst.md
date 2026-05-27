@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وينيه
     auto: true
+  - translation_iso: hin
+    name: विन्ये
+    auto: true
   - translation_iso: jpn
     name: ウィニェ語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chulym_language"
 translations:
   - translation_iso: ara
     name: لغة التشوليم
+  - translation_iso: hin
+    name: चुलिम
+    auto: true
   - translation_iso: jpn
     name: チュリム語
   - translation_iso: kor

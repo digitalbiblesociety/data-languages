@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السينجن
     auto: true
+  - translation_iso: hin
+    name: सिनागेन
+    auto: true
   - translation_iso: jpn
     name: ガル語
     auto: true

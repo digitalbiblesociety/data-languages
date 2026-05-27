@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيجيدال
     auto: true
+  - translation_iso: hin
+    name: नेगिदाल
+    auto: true
   - translation_iso: jpn
     name: ネギダール語
   - translation_iso: kor

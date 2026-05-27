@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارابا
     auto: true
+  - translation_iso: hin
+    name: मारबा
+    auto: true
   - translation_iso: jpn
     name: マルバ語
     auto: true

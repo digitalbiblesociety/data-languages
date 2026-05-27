@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة خليج الجنوب الغربي
     auto: true
+  - translation_iso: hin
+    name: साउथ वेस्ट बे
+    auto: true
   - translation_iso: jpn
     name: シエシップ語
     auto: true

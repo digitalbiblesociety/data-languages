@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lak_language"
 translations:
   - translation_iso: ara
     name: لغة لاك
+  - translation_iso: hin
+    name: लाक
+    auto: true
   - translation_iso: jpn
     name: ラク語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ غويانغ الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी गुइयांग ह्मोंग
+    auto: true
   - translation_iso: jpn
     name: 南部貴陽フモン語
   - translation_iso: zho

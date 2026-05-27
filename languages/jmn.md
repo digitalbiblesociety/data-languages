@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكوري ناغا
     auto: true
+  - translation_iso: hin
+    name: मकुरी नागा
+    auto: true
   - translation_iso: jpn
     name: マクリ・ナガ語
     auto: true

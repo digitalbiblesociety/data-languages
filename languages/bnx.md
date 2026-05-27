@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بانجوبانجو
     auto: true
+  - translation_iso: hin
+    name: बंगुबंगु
+    auto: true
   - translation_iso: jpn
     name: バングバング語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوكو
     auto: true
+  - translation_iso: hin
+    name: बोको (बेनिन)
+    auto: true
   - translation_iso: jpn
     name: ボコ
   - translation_iso: zho

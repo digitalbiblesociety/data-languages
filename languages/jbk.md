@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة باريكيوا
     auto: true
+  - translation_iso: hin
+    name: बारिकेवा
+    auto: true
   - translation_iso: jpn
     name: バリケワ語
     auto: true

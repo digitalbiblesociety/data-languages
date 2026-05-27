@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Laal_language"
 translations:
   - translation_iso: ara
     name: لغة لال
+  - translation_iso: hin
+    name: लाल
+    auto: true
   - translation_iso: jpn
     name: ラール語
   - translation_iso: kor

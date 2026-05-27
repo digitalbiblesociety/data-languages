@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيجاو
     auto: true
+  - translation_iso: hin
+    name: पिहाओ
+    auto: true
   - translation_iso: jpn
     name: ピハオ語
     auto: true

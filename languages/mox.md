@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موليما
     auto: true
+  - translation_iso: hin
+    name: मोलिमा
+    auto: true
   - translation_iso: jpn
     name: モリマ語
     auto: true

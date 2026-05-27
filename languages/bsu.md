@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باهونْسوايي
     auto: true
+  - translation_iso: hin
+    name: बहोनसुआई
+    auto: true
   - translation_iso: jpn
     name: バホンスアイ語
     auto: true

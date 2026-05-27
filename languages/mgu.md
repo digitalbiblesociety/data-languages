@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايلو
     auto: true
+  - translation_iso: hin
+    name: माइलु
+    auto: true
   - translation_iso: jpn
     name: マイル語
     auto: true

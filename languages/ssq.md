@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: "اللغة سو'ا"
     auto: true
+  - translation_iso: hin
+    name: सोआ
+    auto: true
   - translation_iso: jpn
     name: ソア語
     auto: true

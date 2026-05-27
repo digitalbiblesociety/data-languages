@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوموندو
     auto: true
+  - translation_iso: hin
+    name: कोमोदो
+    auto: true
   - translation_iso: jpn
     name: コモド語
   - translation_iso: zho

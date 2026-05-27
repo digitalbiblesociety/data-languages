@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونوساكان
     auto: true
+  - translation_iso: hin
+    name: पोनोसाकन
+    auto: true
   - translation_iso: jpn
     name: ポノサカン語
   - translation_iso: zho

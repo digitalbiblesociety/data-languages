@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة خوين
     auto: true
+  - translation_iso: hin
+    name: ख्वेन
+    auto: true
   - translation_iso: jpn
     name: クエン語
     auto: true

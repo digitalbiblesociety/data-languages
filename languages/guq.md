@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: آتشé
     auto: true
+  - translation_iso: hin
+    name: आचे
+    auto: true
   - translation_iso: jpn
     name: グアヤキ語
   - translation_iso: zho

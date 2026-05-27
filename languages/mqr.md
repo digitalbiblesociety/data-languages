@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندير
     auto: true
+  - translation_iso: hin
+    name: मांदेर
+    auto: true
   - translation_iso: jpn
     name: マンデル語
     auto: true

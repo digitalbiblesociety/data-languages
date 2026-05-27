@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيبوغو
     auto: true
+  - translation_iso: hin
+    name: एबुघु
+    auto: true
   - translation_iso: jpn
     name: エブグ語
     auto: true

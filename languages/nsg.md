@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغاسا
     auto: true
+  - translation_iso: hin
+    name: न्गासा
+    auto: true
   - translation_iso: jpn
     name: ンガサ語
   - translation_iso: zho

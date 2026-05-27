@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنغور
     auto: true
+  - translation_iso: hin
+    name: अंगोर
+    auto: true
   - translation_iso: jpn
     name: アンゴル語
     auto: true

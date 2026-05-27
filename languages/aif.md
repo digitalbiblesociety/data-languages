@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أجي
     auto: true
+  - translation_iso: hin
+    name: अगी
+    auto: true
   - translation_iso: jpn
     name: アギ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتوناك نيكاكسا العليا
     auto: true
+  - translation_iso: hin
+    name: ऊपरी नेकाक्सा टोटोनाक
+    auto: true
   - translation_iso: jpn
     name: 上部ネカクサ・トトナック語
     auto: true

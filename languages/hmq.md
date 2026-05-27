@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميــاو تشياندونغ الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी क्यानडोंग मियाओ
+    auto: true
   - translation_iso: jpn
     name: 東部黔東苗語
   - translation_iso: zho

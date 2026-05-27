@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوانا
     auto: true
+  - translation_iso: hin
+    name: ह्वाना
+    auto: true
   - translation_iso: jpn
     name: フアナ語
     auto: true

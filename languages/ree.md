@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريجانج كايان
     auto: true
+  - translation_iso: hin
+    name: रेजांग कायान
+    auto: true
   - translation_iso: jpn
     name: レジャンカヤン語
     auto: true

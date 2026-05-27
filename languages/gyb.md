@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآروس
     auto: true
+  - translation_iso: hin
+    name: गारुस
+    auto: true
   - translation_iso: jpn
     name: ガルス語
     auto: true

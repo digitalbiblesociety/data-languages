@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبالا
     auto: true
+  - translation_iso: hin
+    name: म्बाला
+    auto: true
   - translation_iso: jpn
     name: ムバラ語
     auto: true

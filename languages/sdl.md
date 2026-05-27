@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Saudi_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة السعودية
+  - translation_iso: hin
+    name: सऊदी अरब सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: サウジアラビア手話
   - translation_iso: zho

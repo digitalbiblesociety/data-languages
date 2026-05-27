@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديسانو
     auto: true
+  - translation_iso: hin
+    name: देसानो
+    auto: true
   - translation_iso: jpn
     name: デサノ語
   - translation_iso: zho

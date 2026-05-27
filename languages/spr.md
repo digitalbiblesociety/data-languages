@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابارو
     auto: true
+  - translation_iso: hin
+    name: सापारुआ
+    auto: true
   - translation_iso: jpn
     name: イハ語
     auto: true

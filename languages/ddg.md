@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فتالوكو
     auto: true
+  - translation_iso: hin
+    name: फ़ातालुकू
+    auto: true
   - translation_iso: jpn
     name: ファタルク語
   - translation_iso: zho

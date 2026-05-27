@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكاجواخي
     auto: true
+  - translation_iso: hin
+    name: माकागुआहे
+    auto: true
   - translation_iso: jpn
     name: マカグアエ語
     auto: true

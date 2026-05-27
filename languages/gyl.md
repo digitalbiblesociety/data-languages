@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآييل
     auto: true
+  - translation_iso: hin
+    name: गायिल
+    auto: true
   - translation_iso: jpn
     name: ガイル語
     auto: true

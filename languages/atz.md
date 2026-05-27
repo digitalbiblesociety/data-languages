@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرتا
     auto: true
+  - translation_iso: hin
+    name: अर्ता
+    auto: true
   - translation_iso: jpn
     name: アルタ語
     auto: true

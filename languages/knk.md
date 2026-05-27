@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كورانكو
     auto: true
+  - translation_iso: hin
+    name: कुरांको
+    auto: true
   - translation_iso: jpn
     name: クランコ語
     auto: true

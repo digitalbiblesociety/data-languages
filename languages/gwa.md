@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبآتو
     auto: true
+  - translation_iso: hin
+    name: म्बातो
+    auto: true
   - translation_iso: jpn
     name: ムバト語
     auto: true

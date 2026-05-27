@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توروج
     auto: true
+  - translation_iso: hin
+    name: तुरुंग
+    auto: true
   - translation_iso: jpn
     name: トゥルン語
   - translation_iso: zho

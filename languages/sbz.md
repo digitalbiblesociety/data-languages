@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سارا كابا
     auto: true
+  - translation_iso: hin
+    name: सारा काबा
+    auto: true
   - translation_iso: jpn
     name: サラカバ語
     auto: true

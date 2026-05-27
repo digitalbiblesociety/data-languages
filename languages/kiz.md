@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيسي
     auto: true
+  - translation_iso: hin
+    name: किसी
+    auto: true
   - translation_iso: jpn
     name: キシ語
     auto: true

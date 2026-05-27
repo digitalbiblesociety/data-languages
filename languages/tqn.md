@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تينينو
     auto: true
+  - translation_iso: hin
+    name: तेनिनो
+    auto: true
   - translation_iso: jpn
     name: ウォームスプリングス語
     auto: true

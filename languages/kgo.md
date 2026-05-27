@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كرونجو
     auto: true
+  - translation_iso: hin
+    name: क्रोंगो
+    auto: true
   - translation_iso: jpn
     name: クロンゴ語
   - translation_iso: zho

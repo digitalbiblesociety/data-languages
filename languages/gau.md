@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جادابا موديلي
     auto: true
+  - translation_iso: hin
+    name: मुधिली गडबा
+    auto: true
   - translation_iso: jpn
     name: ムディリ・ガダバ語
     auto: true

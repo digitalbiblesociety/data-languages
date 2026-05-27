@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيما
     auto: true
+  - translation_iso: hin
+    name: सिमा
+    auto: true
   - translation_iso: jpn
     name: シマー語
     auto: true

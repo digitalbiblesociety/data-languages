@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوهلوني الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी ओह्लोन
+    auto: true
   - translation_iso: jpn
     name: ノーザン・オーロン語
     auto: true

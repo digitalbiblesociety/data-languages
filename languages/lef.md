@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يليمي
     auto: true
+  - translation_iso: hin
+    name: लेलेमी
+    auto: true
   - translation_iso: jpn
     name: レレミ語
   - translation_iso: zho

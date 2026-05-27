@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جبايا-بوسانجوا
     auto: true
+  - translation_iso: hin
+    name: ग्बाया-बोसांगोआ
+    auto: true
   - translation_iso: jpn
     name: グバヤ＝ボサンゴア語
   - translation_iso: zho

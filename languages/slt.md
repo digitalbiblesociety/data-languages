@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيلا
     auto: true
+  - translation_iso: hin
+    name: सिला
+    auto: true
   - translation_iso: jpn
     name: シダ語
     auto: true

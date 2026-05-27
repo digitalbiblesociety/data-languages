@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أندغيريبينيا
     auto: true
+  - translation_iso: hin
+    name: अंदेगेरेबिन्हा
+    auto: true
   - translation_iso: jpn
     name: アンデゲレビンハ語
     auto: true

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة ولپا
     auto: true
+  - translation_iso: hin
+    name: गोल्पा
+    auto: true
   - translation_iso: jpn
     name: ゴルパ語
     auto: true

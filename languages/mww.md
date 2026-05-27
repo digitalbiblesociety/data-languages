@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة همونج داو
     auto: true
+  - translation_iso: hin
+    name: ह्मोंग दाव
+    auto: true
   - translation_iso: jpn
     name: 白苗語
   - translation_iso: zho

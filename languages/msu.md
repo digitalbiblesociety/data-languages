@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موسوم
     auto: true
+  - translation_iso: hin
+    name: मुसोम
+    auto: true
   - translation_iso: jpn
     name: ムソム語
     auto: true

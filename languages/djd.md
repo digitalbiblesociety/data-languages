@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دجامينجونج
     auto: true
+  - translation_iso: hin
+    name: जमिनजुंग
+    auto: true
   - translation_iso: jpn
     name: ジャミンジュング語
   - translation_iso: zho

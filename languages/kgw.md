@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كارون دوري
     auto: true
+  - translation_iso: hin
+    name: करोन डोरी
+    auto: true
   - translation_iso: jpn
     name: カロン・ドリ語
     auto: true

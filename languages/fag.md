@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفينونغان
     auto: true
+  - translation_iso: hin
+    name: फिनोंगन
+    auto: true
   - translation_iso: jpn
     name: フィノンガン語
     auto: true

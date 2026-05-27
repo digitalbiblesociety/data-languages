@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلايت
     auto: true
+  - translation_iso: hin
+    name: बेलाइट
+    auto: true
   - translation_iso: jpn
     name: ベライト語
     auto: true

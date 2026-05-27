@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندويكا تريو بيدجن
     auto: true
+  - translation_iso: hin
+    name: न्द्युका-त्रियो पिजिन
+    auto: true
   - translation_iso: jpn
     name: ンディユカ・トリオ・ピジン語
     auto: true

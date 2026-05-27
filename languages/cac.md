@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشوج
     auto: true
+  - translation_iso: hin
+    name: चुज
+    auto: true
   - translation_iso: jpn
     name: チュフ語
   - translation_iso: kor

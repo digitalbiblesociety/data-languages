@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هولوهولو
     auto: true
+  - translation_iso: hin
+    name: होलोहोलो
+    auto: true
   - translation_iso: jpn
     name: ホロホロ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باسّا-كونْتاجورا
     auto: true
+  - translation_iso: hin
+    name: बस्सा-कोंतागोरा
+    auto: true
   - translation_iso: jpn
     name: バッサ・コンタゴラ語
     auto: true

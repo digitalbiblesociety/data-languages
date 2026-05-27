@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زينزونتيبك تشاتينو
     auto: true
+  - translation_iso: hin
+    name: ज़ेन्ज़ोन्तेपेक चातीनो
+    auto: true
   - translation_iso: jpn
     name: セントソンテペク・チャティーノ語
     auto: true

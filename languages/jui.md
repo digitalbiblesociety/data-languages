@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة نغاجوري
     auto: true
+  - translation_iso: hin
+    name: नगाजुरी
+    auto: true
   - translation_iso: jpn
     name: ンガジュリ語
     auto: true

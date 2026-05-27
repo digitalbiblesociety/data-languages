@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة خاراجوري
     auto: true
+  - translation_iso: hin
+    name: ख़ारागुरे
+    auto: true
   - translation_iso: jpn
     name: シャラグレ語
     auto: true

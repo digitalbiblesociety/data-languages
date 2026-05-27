@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوراجي
     auto: true
+  - translation_iso: hin
+    name: पुरागी
+    auto: true
   - translation_iso: jpn
     name: プラギ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نينجوني
     auto: true
+  - translation_iso: hin
+    name: नेंगोने
+    auto: true
   - translation_iso: jpn
     name: ネンゴネ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توالي إيفوغاو
     auto: true
+  - translation_iso: hin
+    name: तुवाली इफुगाओ
+    auto: true
   - translation_iso: jpn
     name: トゥワリ・イフガオ語
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: غوفآ
     auto: true
+  - translation_iso: hin
+    name: गोफा
+    auto: true
   - translation_iso: jpn
     name: ゴファ語
     auto: true

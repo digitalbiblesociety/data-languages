@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساباوت
     auto: true
+  - translation_iso: hin
+    name: साबाओत
+    auto: true
   - translation_iso: jpn
     name: サバオット語
   - translation_iso: zho

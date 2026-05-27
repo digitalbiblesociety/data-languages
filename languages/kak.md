@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كالانغويا
     auto: true
+  - translation_iso: hin
+    name: कलंगुया
+    auto: true
   - translation_iso: jpn
     name: カランギャ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسكوناهوا
     auto: true
+  - translation_iso: hin
+    name: इस्कोनाहुआ
+    auto: true
   - translation_iso: jpn
     name: イスコナフア語
     auto: true

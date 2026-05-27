@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجوابا
     auto: true
+  - translation_iso: hin
+    name: न्गवाबा
+    auto: true
   - translation_iso: jpn
     name: ングワバ語
     auto: true

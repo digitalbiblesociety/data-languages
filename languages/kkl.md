@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوساريك يال
     auto: true
+  - translation_iso: hin
+    name: कोसारेक याले
+    auto: true
   - translation_iso: jpn
     name: コサレク・イェール語
     auto: true

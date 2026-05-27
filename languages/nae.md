@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نكا إيلا
     auto: true
+  - translation_iso: hin
+    name: नाकाएला
+    auto: true
   - translation_iso: jpn
     name: ナカエラ語
     auto: true

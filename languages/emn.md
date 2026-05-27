@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيمان
     auto: true
+  - translation_iso: hin
+    name: एमान
+    auto: true
   - translation_iso: jpn
     name: エマン語
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: مديفايدرين
     auto: true
+  - translation_iso: hin
+    name: मेदेफ़ायड्रिन
+    auto: true
   - translation_iso: jpn
     name: メデファイドリン
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيناباج
     auto: true
+  - translation_iso: hin
+    name: इनापांग
+    auto: true
   - translation_iso: jpn
     name: イナパン語
     auto: true

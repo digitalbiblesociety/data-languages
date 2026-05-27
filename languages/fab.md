@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فا دمبو
     auto: true
+  - translation_iso: hin
+    name: फा द'अम्बु
+    auto: true
   - translation_iso: jpn
     name: アノボネセ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيريانو
     auto: true
+  - translation_iso: hin
+    name: सिरियानो
+    auto: true
   - translation_iso: jpn
     name: スレーヤ語
     auto: true

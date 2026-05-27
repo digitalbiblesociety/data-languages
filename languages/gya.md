@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نورثوإست غبآيآ
     auto: true
+  - translation_iso: hin
+    name: उत्तर-पश्चिमी ग्बाया
+    auto: true
   - translation_iso: jpn
     name: 北西グバヤ語
   - translation_iso: zho

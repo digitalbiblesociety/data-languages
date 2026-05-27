@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الميسابي
     auto: true
+  - translation_iso: hin
+    name: मेसापिक
+    auto: true
   - translation_iso: jpn
     name: メッサピア語
   - translation_iso: zho

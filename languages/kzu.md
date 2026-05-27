@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايوبولاو
     auto: true
+  - translation_iso: hin
+    name: कायुपुलाउ
+    auto: true
   - translation_iso: jpn
     name: カユプラウ語
     auto: true

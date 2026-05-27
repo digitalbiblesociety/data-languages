@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توكومانفيد
     auto: true
+  - translation_iso: hin
+    name: तुकुमानफेद
+    auto: true
   - translation_iso: jpn
     name: カワイブ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيديو
     auto: true
+  - translation_iso: hin
+    name: गेदेओ
+    auto: true
   - translation_iso: jpn
     name: ゲデオ語
     auto: true

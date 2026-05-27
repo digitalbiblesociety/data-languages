@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نينغيرم
     auto: true
+  - translation_iso: hin
+    name: निंगेरुम
+    auto: true
   - translation_iso: jpn
     name: ニングゲルム語
     auto: true

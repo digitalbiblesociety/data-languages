@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هإهإ
     auto: true
+  - translation_iso: hin
+    name: हेहे
+    auto: true
   - translation_iso: jpn
     name: ヘヘ語
   - translation_iso: zho

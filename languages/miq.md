@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مسكيتو
     auto: true
+  - translation_iso: hin
+    name: मिस्कितो
+    auto: true
   - translation_iso: jpn
     name: ミスキート語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوريجاونون
     auto: true
+  - translation_iso: hin
+    name: सुरिगाओनोन
+    auto: true
   - translation_iso: jpn
     name: スリガオノン語
   - translation_iso: kor

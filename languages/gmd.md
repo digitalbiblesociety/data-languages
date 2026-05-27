@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مáغدì
     auto: true
+  - translation_iso: hin
+    name: माघदी
+    auto: true
   - translation_iso: jpn
     name: マグディ語
     auto: true

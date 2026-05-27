@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوروي
     auto: true
+  - translation_iso: hin
+    name: ओरोवे
+    auto: true
   - translation_iso: jpn
     name: オロウェ語
     auto: true

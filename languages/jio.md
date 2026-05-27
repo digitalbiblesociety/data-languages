@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيامو
     auto: true
+  - translation_iso: hin
+    name: जियामाओ
+    auto: true
   - translation_iso: jpn
     name: チャマオ語
   - translation_iso: zho

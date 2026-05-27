@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: خمير الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी ख्मेर
+    auto: true
   - translation_iso: jpn
     name: スリン・クメール語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جبولو جريبو
     auto: true
+  - translation_iso: hin
+    name: ग्बोलू ग्रेबो
+    auto: true
   - translation_iso: jpn
     name: ボロー・グレボ語
     auto: true

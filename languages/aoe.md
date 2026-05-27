@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أنغال إينين
     auto: true
+  - translation_iso: hin
+    name: अंगाल एनेन
+    auto: true
   - translation_iso: jpn
     name: アンガル・エネン語
     auto: true

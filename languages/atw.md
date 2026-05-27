@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتسوجيوي
     auto: true
+  - translation_iso: hin
+    name: अत्सुगेवी
+    auto: true
   - translation_iso: jpn
     name: アツゲウィ語
     auto: true

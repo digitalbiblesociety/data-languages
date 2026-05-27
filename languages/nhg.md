@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيتيلسينجو ناهواتل
     auto: true
+  - translation_iso: hin
+    name: तेतेलसिंगो नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: テテルシンゴ・ナワトル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماريثيل
     auto: true
+  - translation_iso: hin
+    name: मारिथियेल
+    auto: true
   - translation_iso: jpn
     name: マルリ・ジャビン語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أباغا
     auto: true
+  - translation_iso: hin
+    name: अबागा
+    auto: true
   - translation_iso: jpn
     name: アバガ語
     auto: true

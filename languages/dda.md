@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: دادي دادي
     auto: true
+  - translation_iso: hin
+    name: दादी दादी
+    auto: true
   - translation_iso: jpn
     name: ダディ・ダディ語
     auto: true

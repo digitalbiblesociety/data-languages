@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shehri_language"
 translations:
   - translation_iso: ara
     name: الشحرية
+  - translation_iso: hin
+    name: शेहरी
+    auto: true
   - translation_iso: jpn
     name: シャフラ語
   - translation_iso: zho

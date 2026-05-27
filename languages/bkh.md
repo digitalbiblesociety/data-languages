@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باكوكو
     auto: true
+  - translation_iso: hin
+    name: बाकोको
+    auto: true
   - translation_iso: jpn
     name: バココ語
   - translation_iso: zho

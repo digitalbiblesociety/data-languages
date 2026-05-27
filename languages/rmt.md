@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Domari_language"
 translations:
   - translation_iso: ara
     name: الدومرية
+  - translation_iso: hin
+    name: डोमारी
+    auto: true
   - translation_iso: jpn
     name: ドマリ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أغوي
     auto: true
+  - translation_iso: hin
+    name: अगोई
+    auto: true
   - translation_iso: jpn
     name: アゴイ語
     auto: true

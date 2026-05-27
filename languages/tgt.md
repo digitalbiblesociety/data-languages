@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاغبانوا الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य तागबानवा
+    auto: true
   - translation_iso: jpn
     name: タグバヌワ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيناوجورو
     auto: true
+  - translation_iso: hin
+    name: सिनाउगोरो
+    auto: true
   - translation_iso: jpn
     name: シナゴロ語
   - translation_iso: zho

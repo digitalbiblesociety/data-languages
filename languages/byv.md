@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Medumba_language"
 translations:
   - translation_iso: ara
     name: لغة الميدومبا
+  - translation_iso: hin
+    name: मेदुम्बा
+    auto: true
   - translation_iso: jpn
     name: メドゥンバ語
   - translation_iso: kor

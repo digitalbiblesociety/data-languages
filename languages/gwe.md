@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوإنو
     auto: true
+  - translation_iso: hin
+    name: ग्वेनो
+    auto: true
   - translation_iso: jpn
     name: グウェノ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جابوتي
     auto: true
+  - translation_iso: hin
+    name: जाबुती
+    auto: true
   - translation_iso: jpn
     name: ジャブティ語
     auto: true

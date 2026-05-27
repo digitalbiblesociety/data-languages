@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هيتو
     auto: true
+  - translation_iso: hin
+    name: हितु
+    auto: true
   - translation_iso: jpn
     name: ヒトゥ語
     auto: true

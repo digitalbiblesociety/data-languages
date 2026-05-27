@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة يكو
     auto: true
+  - translation_iso: hin
+    name: लेको
+    auto: true
   - translation_iso: jpn
     name: レコ語
     auto: true

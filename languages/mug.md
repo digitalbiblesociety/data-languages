@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موسجو
     auto: true
+  - translation_iso: hin
+    name: मुस्गु
+    auto: true
   - translation_iso: jpn
     name: ムスグ語
   - translation_iso: zho

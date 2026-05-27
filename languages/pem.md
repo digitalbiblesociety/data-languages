@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فيندي
     auto: true
+  - translation_iso: hin
+    name: फेंदे
+    auto: true
   - translation_iso: jpn
     name: フェンデ語
     auto: true

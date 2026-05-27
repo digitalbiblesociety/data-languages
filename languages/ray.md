@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رابا
     auto: true
+  - translation_iso: hin
+    name: रापा
+    auto: true
   - translation_iso: jpn
     name: ラパ語
   - translation_iso: zho

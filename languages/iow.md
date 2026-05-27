@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أيوا-أوتو
     auto: true
+  - translation_iso: hin
+    name: आयोवा-ओटो
+    auto: true
   - translation_iso: jpn
     name: アイオワ語
   - translation_iso: zho

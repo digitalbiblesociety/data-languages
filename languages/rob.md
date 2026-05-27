@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تائي
     auto: true
+  - translation_iso: hin
+    name: ताए
+    auto: true
   - translation_iso: jpn
     name: タエ語
   - translation_iso: zho

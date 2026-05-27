@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مرلاف
     auto: true
+  - translation_iso: hin
+    name: मेरलाव
+    auto: true
   - translation_iso: jpn
     name: メルラヴ語
     auto: true

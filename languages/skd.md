@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جنوب سييرا ميووك
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी सिएरा मिवोक
+    auto: true
   - translation_iso: jpn
     name: ヨセミテ語
     auto: true

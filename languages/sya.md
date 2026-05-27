@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيانغ
     auto: true
+  - translation_iso: hin
+    name: सियांग
+    auto: true
   - translation_iso: jpn
     name: シアン語
     auto: true

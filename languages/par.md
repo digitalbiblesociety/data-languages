@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانامينت
     auto: true
+  - translation_iso: hin
+    name: पानामिंट
+    auto: true
   - translation_iso: jpn
     name: ティンビシャ語
   - translation_iso: zho

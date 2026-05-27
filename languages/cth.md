@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: ثايفوم تشين
     auto: true
+  - translation_iso: hin
+    name: थाइफुम चिन
+    auto: true
   - translation_iso: jpn
     name: タイプム・チン語
     auto: true

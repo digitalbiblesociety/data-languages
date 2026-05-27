@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة مبير
     auto: true
+  - translation_iso: hin
+    name: म्बेरे
+    auto: true
   - translation_iso: jpn
     name: ムベレ語
     auto: true

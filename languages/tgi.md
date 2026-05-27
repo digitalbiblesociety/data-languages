@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاوونويا
     auto: true
+  - translation_iso: hin
+    name: लावुनुइया
+    auto: true
   - translation_iso: jpn
     name: ラウヌイア語
     auto: true

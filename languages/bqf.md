@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: باجا كالوم
     auto: true
+  - translation_iso: hin
+    name: बागा कलूम
+    auto: true
   - translation_iso: jpn
     name: バガ・カルム語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجادي
     auto: true
+  - translation_iso: hin
+    name: गाडे
+    auto: true
   - translation_iso: jpn
     name: ガデ語
     auto: true

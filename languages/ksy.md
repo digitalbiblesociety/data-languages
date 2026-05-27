@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خاريا ثار
     auto: true
+  - translation_iso: hin
+    name: खड़िया थार
+    auto: true
   - translation_iso: jpn
     name: カリア・タール語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بور
     auto: true
+  - translation_iso: hin
+    name: बूर
+    auto: true
   - translation_iso: jpn
     name: ボール語
     auto: true

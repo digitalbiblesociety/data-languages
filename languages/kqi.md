@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كويتابو
     auto: true
+  - translation_iso: hin
+    name: कोइताबु
+    auto: true
   - translation_iso: jpn
     name: コイタ語
   - translation_iso: zho

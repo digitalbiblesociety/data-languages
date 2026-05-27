@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الباسال
     auto: true
+  - translation_iso: hin
+    name: पासाल
+    auto: true
   - translation_iso: jpn
     name: サザン・シサーラ語
     auto: true

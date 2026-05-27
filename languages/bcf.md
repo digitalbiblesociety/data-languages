@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامو
     auto: true
+  - translation_iso: hin
+    name: बामू
+    auto: true
   - translation_iso: jpn
     name: バムー語
     auto: true

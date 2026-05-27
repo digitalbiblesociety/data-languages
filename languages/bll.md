@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلوكسي
     auto: true
+  - translation_iso: hin
+    name: बिलॉक्सी
+    auto: true
   - translation_iso: jpn
     name: ビロキシ語
     auto: true

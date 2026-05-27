@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: برو الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी ब्रू
+    auto: true
   - translation_iso: jpn
     name: 東ブル語
     auto: true

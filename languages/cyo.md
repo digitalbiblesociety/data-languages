@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويونون
     auto: true
+  - translation_iso: hin
+    name: कुयोनोन
+    auto: true
   - translation_iso: jpn
     name: クヨノン語
     auto: true

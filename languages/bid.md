@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيديو
     auto: true
+  - translation_iso: hin
+    name: बिदियो
+    auto: true
   - translation_iso: jpn
     name: ビディヨ語
     auto: true

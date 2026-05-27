@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة منتاواي
     auto: true
+  - translation_iso: hin
+    name: मेंतावाई
+    auto: true
   - translation_iso: jpn
     name: メンタワイ語
   - translation_iso: zho

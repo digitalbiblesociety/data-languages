@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ستوني
     auto: true
+  - translation_iso: hin
+    name: स्टोनी
+    auto: true
   - translation_iso: jpn
     name: ストニー語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجبكا
     auto: true
+  - translation_iso: hin
+    name: न्गबाका
+    auto: true
   - translation_iso: jpn
     name: ングバカ・バヤ語
   - translation_iso: zho

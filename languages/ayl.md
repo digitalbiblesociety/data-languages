@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Libyan_Arabic"
 translations:
   - translation_iso: ara
     name: اللهجة الليبية
+  - translation_iso: hin
+    name: लीबियाई अरबी
+    auto: true
   - translation_iso: jpn
     name: アラビア語リビア方言
   - translation_iso: kor

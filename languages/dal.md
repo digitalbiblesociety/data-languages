@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داهالو
     auto: true
+  - translation_iso: hin
+    name: दहालो
+    auto: true
   - translation_iso: jpn
     name: ダハロ語
   - translation_iso: zho

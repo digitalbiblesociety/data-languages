@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديري
     auto: true
+  - translation_iso: hin
+    name: डिरी
+    auto: true
   - translation_iso: jpn
     name: ディリ語
     auto: true

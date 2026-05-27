@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندجاك
     auto: true
+  - translation_iso: hin
+    name: मंजक
+    auto: true
   - translation_iso: jpn
     name: マンジャク語
   - translation_iso: zho

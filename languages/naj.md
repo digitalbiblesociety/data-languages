@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نالو
     auto: true
+  - translation_iso: hin
+    name: नालू
+    auto: true
   - translation_iso: jpn
     name: ナル語
     auto: true

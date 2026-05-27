@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هونسرك
     auto: true
+  - translation_iso: hin
+    name: हुन्स्रिक
+    auto: true
   - translation_iso: jpn
     name: フンスリュック方言
   - translation_iso: kor

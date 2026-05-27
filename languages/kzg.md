@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيكاي
     auto: true
+  - translation_iso: hin
+    name: किकाई
+    auto: true
   - translation_iso: jpn
     name: 喜界島方言
   - translation_iso: kor

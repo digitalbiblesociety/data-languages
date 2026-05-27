@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشول
     auto: true
+  - translation_iso: hin
+    name: चोल
+    auto: true
   - translation_iso: jpn
     name: チョル語
   - translation_iso: kor

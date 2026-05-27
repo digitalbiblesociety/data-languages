@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجيبي
     auto: true
+  - translation_iso: hin
+    name: नजेबी
+    auto: true
   - translation_iso: jpn
     name: ンゼビ語
   - translation_iso: zho

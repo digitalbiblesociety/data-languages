@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوروفو
     auto: true
+  - translation_iso: hin
+    name: गोरोवू
+    auto: true
   - translation_iso: jpn
     name: ゴロヴ語
     auto: true

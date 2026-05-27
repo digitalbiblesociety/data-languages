@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوا-كوايكر
     auto: true
+  - translation_iso: hin
+    name: अवा-कुआइकेर
+    auto: true
   - translation_iso: jpn
     name: アワ・クアイケル語
     auto: true

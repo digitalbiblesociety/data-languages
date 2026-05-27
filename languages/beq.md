@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيمبي
     auto: true
+  - translation_iso: hin
+    name: बीम्बे
+    auto: true
   - translation_iso: jpn
     name: ベエムベ語
     auto: true

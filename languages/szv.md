@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إسو
     auto: true
+  - translation_iso: hin
+    name: इसु (फाको प्रभाग)
+    auto: true
   - translation_iso: jpn
     name: イス語
     auto: true

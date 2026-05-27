@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جالْكونان
     auto: true
+  - translation_iso: hin
+    name: जालकुनान
+    auto: true
   - translation_iso: jpn
     name: ジャルクナン語
     auto: true

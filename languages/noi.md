@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نويري
     auto: true
+  - translation_iso: hin
+    name: नोइरी
+    auto: true
   - translation_iso: jpn
     name: ノイリ語
     auto: true

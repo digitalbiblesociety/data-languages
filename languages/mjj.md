@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مافاك
     auto: true
+  - translation_iso: hin
+    name: मावाक
+    auto: true
   - translation_iso: jpn
     name: マワク語
     auto: true

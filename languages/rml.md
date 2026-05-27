@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالتيك رومانية
     auto: true
+  - translation_iso: hin
+    name: बाल्टिक रोमानी
+    auto: true
   - translation_iso: jpn
     name: バルト・ロマ語
   - translation_iso: zho

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كريول فرنسي سان ميجويل
     auto: true
+  - translation_iso: hin
+    name: सान मिगुएल क्रियोल फ़्रेंच
+    auto: true
   - translation_iso: jpn
     name: パトワ語
     auto: true

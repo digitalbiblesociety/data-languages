@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بامونْكا
     auto: true
+  - translation_iso: hin
+    name: बामुंका
+    auto: true
   - translation_iso: jpn
     name: バムンカ語
     auto: true

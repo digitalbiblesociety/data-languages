@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بجاو إندونيسيا
     auto: true
+  - translation_iso: hin
+    name: इंडोनेशियाई बजाऊ
+    auto: true
   - translation_iso: jpn
     name: インドネシア・バジャウ語
     auto: true

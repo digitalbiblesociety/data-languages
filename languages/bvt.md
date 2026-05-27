@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتي
     auto: true
+  - translation_iso: hin
+    name: बाती (इंडोनेशिया)
+    auto: true
   - translation_iso: jpn
     name: バティ語
     auto: true

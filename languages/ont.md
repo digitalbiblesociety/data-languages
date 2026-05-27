@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونتينو
     auto: true
+  - translation_iso: hin
+    name: ओन्तेनु
+    auto: true
   - translation_iso: jpn
     name: オンテヌ語
     auto: true

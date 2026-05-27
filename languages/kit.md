@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغوب
     auto: true
+  - translation_iso: hin
+    name: अगोब
+    auto: true
   - translation_iso: jpn
     name: アゴブ語
     auto: true

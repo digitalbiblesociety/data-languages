@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مافيا
     auto: true
+  - translation_iso: hin
+    name: माफेआ
+    auto: true
   - translation_iso: jpn
     name: マヴェア語
   - translation_iso: zho

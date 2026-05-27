@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داكاكا
     auto: true
+  - translation_iso: hin
+    name: दाकाका
+    auto: true
   - translation_iso: jpn
     name: ダカカ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أسوا
     auto: true
+  - translation_iso: hin
+    name: असोआ
+    auto: true
   - translation_iso: jpn
     name: アソア語
     auto: true

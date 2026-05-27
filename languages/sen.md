@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نانيريجي سينوفو
     auto: true
+  - translation_iso: hin
+    name: नानेरिगे सेनोफो
+    auto: true
   - translation_iso: jpn
     name: ナーニ語
     auto: true

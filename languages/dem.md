@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ديم
     auto: true
+  - translation_iso: hin
+    name: देम
+    auto: true
   - translation_iso: jpn
     name: デム語
     auto: true

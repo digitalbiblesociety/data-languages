@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أناّانج
     auto: true
+  - translation_iso: hin
+    name: अनांग
+    auto: true
   - translation_iso: jpn
     name: アナン語
   - translation_iso: zho

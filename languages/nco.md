@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيبي
     auto: true
+  - translation_iso: hin
+    name: सिबे
+    auto: true
   - translation_iso: jpn
     name: シベ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نامات
     auto: true
+  - translation_iso: hin
+    name: नामात
+    auto: true
   - translation_iso: jpn
     name: ナマト語
     auto: true

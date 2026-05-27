@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونو
     auto: true
+  - translation_iso: hin
+    name: पुनु
+    auto: true
   - translation_iso: jpn
     name: プヌ語
   - translation_iso: zho

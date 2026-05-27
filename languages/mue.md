@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميديا لينجوا
     auto: true
+  - translation_iso: hin
+    name: मीडिया लेंगुआ
+    auto: true
   - translation_iso: jpn
     name: メディア・レングア
   - translation_iso: zho

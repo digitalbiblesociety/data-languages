@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناواتل أوريزابا
     auto: true
+  - translation_iso: hin
+    name: ओरिज़ाबा नवात्ल
+    auto: true
   - translation_iso: jpn
     name: オリザバ・ナワトル語
     auto: true

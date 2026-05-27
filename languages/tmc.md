@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tumak_language"
 translations:
   - translation_iso: ara
     name: تيماك
+  - translation_iso: hin
+    name: तुमाक
+    auto: true
   - translation_iso: jpn
     name: トゥマク語
     auto: true

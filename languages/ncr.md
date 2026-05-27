@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نكاني
     auto: true
+  - translation_iso: hin
+    name: न्काने
+    auto: true
   - translation_iso: jpn
     name: ンカネ語
     auto: true

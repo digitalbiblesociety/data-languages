@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكوديا
     auto: true
+  - translation_iso: hin
+    name: ओकोदिया
+    auto: true
   - translation_iso: jpn
     name: オコディア語
     auto: true

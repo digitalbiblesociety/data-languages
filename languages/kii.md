@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتسائي
     auto: true
+  - translation_iso: hin
+    name: कित्साई
+    auto: true
   - translation_iso: jpn
     name: キツァイ語
     auto: true

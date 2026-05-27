@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: شمال نجباندي
     auto: true
+  - translation_iso: hin
+    name: उत्तरी न्गबांडी
+    auto: true
   - translation_iso: jpn
     name: 北ングバンディ語
     auto: true

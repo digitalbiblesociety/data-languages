@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاغبو
     auto: true
+  - translation_iso: hin
+    name: तागबू
+    auto: true
   - translation_iso: jpn
     name: タグブ語
     auto: true

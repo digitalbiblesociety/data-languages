@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآهيبو
     auto: true
+  - translation_iso: hin
+    name: गुआहिबो
+    auto: true
   - translation_iso: jpn
     name: グアヒボ語
     auto: true

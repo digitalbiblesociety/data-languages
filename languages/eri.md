@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأوجيا
     auto: true
+  - translation_iso: hin
+    name: ओगिया
+    auto: true
   - translation_iso: jpn
     name: オゲア語
     auto: true

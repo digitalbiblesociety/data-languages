@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: نارا
     auto: true
+  - translation_iso: hin
+    name: नारा
+    auto: true
   - translation_iso: jpn
     name: ナラ語
   - translation_iso: zho

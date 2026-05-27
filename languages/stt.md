@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودي ستينج
     auto: true
+  - translation_iso: hin
+    name: बुदेह स्तिएंग
+    auto: true
   - translation_iso: jpn
     name: ローワー・スティエン語
     auto: true

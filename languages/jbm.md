@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوانكا
     auto: true
+  - translation_iso: hin
+    name: क्वांका
+    auto: true
   - translation_iso: jpn
     name: クワンカ語
     auto: true

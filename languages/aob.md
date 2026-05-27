@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أبوم
     auto: true
+  - translation_iso: hin
+    name: अबोम
+    auto: true
   - translation_iso: jpn
     name: アボム語
     auto: true

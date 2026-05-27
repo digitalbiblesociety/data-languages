@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيناما بوزو
     auto: true
+  - translation_iso: hin
+    name: जेनामा बोज़ो
+    auto: true
   - translation_iso: jpn
     name: ジェナアマ・ボゾ語
     auto: true

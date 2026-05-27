@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: تيور
     auto: true
+  - translation_iso: hin
+    name: तेओर
+    auto: true
   - translation_iso: jpn
     name: テオル語
     auto: true

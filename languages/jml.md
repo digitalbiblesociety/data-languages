@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة جومل
     auto: true
+  - translation_iso: hin
+    name: जुमली
+    auto: true
   - translation_iso: jpn
     name: ジュムリー語
   - translation_iso: zho

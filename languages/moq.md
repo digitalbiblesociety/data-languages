@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة مور
     auto: true
+  - translation_iso: hin
+    name: मोर (बोम्बेराई प्रायद्वीप)
+    auto: true
   - translation_iso: jpn
     name: モル語
     auto: true

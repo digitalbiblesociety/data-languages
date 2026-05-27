@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مابيا
     auto: true
+  - translation_iso: hin
+    name: मापिया
+    auto: true
   - translation_iso: jpn
     name: マピア語
   - translation_iso: zho

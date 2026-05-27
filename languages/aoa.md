@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنغولار
     auto: true
+  - translation_iso: hin
+    name: अंगोलार
+    auto: true
   - translation_iso: jpn
     name: アンゴラ語
   - translation_iso: zho

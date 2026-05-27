@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتينجو
     auto: true
+  - translation_iso: hin
+    name: मातेंगो
+    auto: true
   - translation_iso: jpn
     name: マテンゴ語
   - translation_iso: zho

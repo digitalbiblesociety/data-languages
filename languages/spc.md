@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابي
     auto: true
+  - translation_iso: hin
+    name: सापे
+    auto: true
   - translation_iso: jpn
     name: カリアナ語
     auto: true

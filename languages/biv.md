@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيريفور الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी बिरिफोर
+    auto: true
   - translation_iso: jpn
     name: 南ビリフォル語
     auto: true

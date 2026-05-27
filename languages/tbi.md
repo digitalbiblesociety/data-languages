@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غاام
     auto: true
+  - translation_iso: hin
+    name: गाम
+    auto: true
   - translation_iso: jpn
     name: ガアム語
     auto: true

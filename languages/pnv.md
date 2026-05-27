@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينيجورا
     auto: true
+  - translation_iso: hin
+    name: पिनिगुरा
+    auto: true
   - translation_iso: jpn
     name: ピニグラ語
     auto: true

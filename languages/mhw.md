@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوكوشو
     auto: true
+  - translation_iso: hin
+    name: म्बुकुशु
+    auto: true
   - translation_iso: jpn
     name: ムブクシュ語
   - translation_iso: zho

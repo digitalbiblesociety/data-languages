@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موندوروكو
     auto: true
+  - translation_iso: hin
+    name: मुंदुरुकू
+    auto: true
   - translation_iso: jpn
     name: ムンドゥルク
   - translation_iso: zho

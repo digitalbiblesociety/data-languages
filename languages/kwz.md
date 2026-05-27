@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوادي
     auto: true
+  - translation_iso: hin
+    name: क्वाडी
+    auto: true
   - translation_iso: jpn
     name: クワディ語
   - translation_iso: kor

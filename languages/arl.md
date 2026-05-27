@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرابيلا
     auto: true
+  - translation_iso: hin
+    name: अराबेला
+    auto: true
   - translation_iso: jpn
     name: アラベラ語
   - translation_iso: zho

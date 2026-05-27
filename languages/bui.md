@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونْجيلي
     auto: true
+  - translation_iso: hin
+    name: बोंगिली
+    auto: true
   - translation_iso: jpn
     name: ボンギリ語
   - translation_iso: zho

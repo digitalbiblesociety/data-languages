@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة المنغولية الخالخا
     auto: true
+  - translation_iso: hin
+    name: खल्ख मंगोलियाई
+    auto: true
   - translation_iso: jpn
     name: ハルハ・モンゴル語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكومانغوتو
     auto: true
+  - translation_iso: hin
+    name: कुमानागोतो
+    auto: true
   - translation_iso: jpn
     name: クマナゴト語
   - translation_iso: zho

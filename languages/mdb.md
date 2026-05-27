@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موريجي
     auto: true
+  - translation_iso: hin
+    name: मोरिगी
+    auto: true
   - translation_iso: jpn
     name: モリギ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غووآمو
     auto: true
+  - translation_iso: hin
+    name: गुवामू
+    auto: true
   - translation_iso: jpn
     name: グワム語
     auto: true

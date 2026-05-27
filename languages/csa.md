@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تشيلتيبك تشينانتك
     auto: true
+  - translation_iso: hin
+    name: चिल्टेपेक चिनान्टेक
+    auto: true
   - translation_iso: jpn
     name: チルテペク・チナンテク語
     auto: true

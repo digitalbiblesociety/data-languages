@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بانجولان
     auto: true
+  - translation_iso: hin
+    name: बंगोलन
+    auto: true
   - translation_iso: jpn
     name: バンゴラン語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة الأوغندية
     auto: true
+  - translation_iso: hin
+    name: युगांडा सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ウガンダ手話
   - translation_iso: zho

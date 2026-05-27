@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: دجادجاوورونج
     auto: true
+  - translation_iso: hin
+    name: जाजावुरुंग
+    auto: true
   - translation_iso: jpn
     name: ジャジャワルング語
     auto: true

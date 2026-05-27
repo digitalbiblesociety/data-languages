@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: البيجنتسي
     auto: true
+  - translation_iso: hin
+    name: बेगिन्ची
+    auto: true
   - translation_iso: jpn
     name: ベギンジ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفانج
     auto: true
+  - translation_iso: hin
+    name: फांग (कैमरून)
+    auto: true
   - translation_iso: jpn
     name: ファン語
     auto: true

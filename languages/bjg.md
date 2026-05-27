@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيديوجو
     auto: true
+  - translation_iso: hin
+    name: बिदियोगो
+    auto: true
   - translation_iso: jpn
     name: ビジャゴ語
   - translation_iso: kor

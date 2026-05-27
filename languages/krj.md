@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كيناراي-أ
     auto: true
+  - translation_iso: hin
+    name: किनारय-आ
+    auto: true
   - translation_iso: jpn
     name: キナライア語
   - translation_iso: kor

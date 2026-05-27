@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: لغة جانداي
     auto: true
+  - translation_iso: hin
+    name: जान्दाई
+    auto: true
   - translation_iso: jpn
     name: ジャンダイ語
     auto: true

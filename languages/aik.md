@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكي
     auto: true
+  - translation_iso: hin
+    name: अके
+    auto: true
   - translation_iso: jpn
     name: アケ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وو
     auto: true
+  - translation_iso: hin
+    name: लुओ (कैमरून)
+    auto: true
   - translation_iso: jpn
     name: ルオ語
     auto: true

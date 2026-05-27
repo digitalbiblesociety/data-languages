@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيناسينا
     auto: true
+  - translation_iso: hin
+    name: सिनासिना
+    auto: true
   - translation_iso: jpn
     name: シナシナ語
     auto: true

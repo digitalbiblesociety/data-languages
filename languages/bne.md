@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بينتاونا
     auto: true
+  - translation_iso: hin
+    name: बिंताउना
+    auto: true
   - translation_iso: jpn
     name: ビンタウナ語
   - translation_iso: zho

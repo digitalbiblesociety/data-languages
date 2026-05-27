@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوتآ مآرودو تآلآنتآنج
     auto: true
+  - translation_iso: hin
+    name: कोटा मारुडु तालंतांग
+    auto: true
   - translation_iso: jpn
     name: コタ・マルドゥ・タランタング語
     auto: true

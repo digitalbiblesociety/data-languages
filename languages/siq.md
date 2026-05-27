@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة السونيا
     auto: true
+  - translation_iso: hin
+    name: सोनिया
+    auto: true
   - translation_iso: jpn
     name: ソニア語
     auto: true

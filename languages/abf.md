@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أبّاي سونجاي
     auto: true
+  - translation_iso: hin
+    name: अबाई सुंगाई
+    auto: true
   - translation_iso: jpn
     name: アバイ・スンガイ語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Noongar_language"
 translations:
   - translation_iso: ara
     name: نونغار
+  - translation_iso: hin
+    name: न्युंगर
+    auto: true
   - translation_iso: jpn
     name: ヌーンガー語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هيما
     auto: true
+  - translation_iso: hin
+    name: हेमा
+    auto: true
   - translation_iso: jpn
     name: ヘマ語
   - translation_iso: zho

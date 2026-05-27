@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: جابورونغ
     auto: true
+  - translation_iso: hin
+    name: जाबवुर्रुंग
+    auto: true
   - translation_iso: jpn
     name: ジャブウルン語
     auto: true

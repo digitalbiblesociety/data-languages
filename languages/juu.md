@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جو
     auto: true
+  - translation_iso: hin
+    name: जू
+    auto: true
   - translation_iso: jpn
     name: ユ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جنوب بيتسيميسارا مالْجاشي
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी बेट्सिमिसाराका मालागासी
+    auto: true
   - translation_iso: jpn
     name: 南ベツィミサラカ・マダガスカル語
   - translation_iso: zho

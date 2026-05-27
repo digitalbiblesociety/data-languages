@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسيكيري
     auto: true
+  - translation_iso: hin
+    name: इसेकिरी
+    auto: true
   - translation_iso: jpn
     name: イツェキリ語
   - translation_iso: zho

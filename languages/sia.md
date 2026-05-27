@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأكالا سامي
     auto: true
+  - translation_iso: hin
+    name: अक्कला सामी
+    auto: true
   - translation_iso: jpn
     name: アッカラ・サーミ語
   - translation_iso: kor

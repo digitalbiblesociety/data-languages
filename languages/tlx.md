@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خيهيك
     auto: true
+  - translation_iso: hin
+    name: खेहेक
+    auto: true
   - translation_iso: jpn
     name: ケヘク語
     auto: true

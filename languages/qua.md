@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوابو
     auto: true
+  - translation_iso: hin
+    name: क्वापॉ
+    auto: true
   - translation_iso: jpn
     name: クアパー語
     auto: true

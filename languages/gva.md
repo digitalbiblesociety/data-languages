@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآنآ
     auto: true
+  - translation_iso: hin
+    name: गुआना (पराग्वे)
+    auto: true
   - translation_iso: jpn
     name: グアナ語
     auto: true

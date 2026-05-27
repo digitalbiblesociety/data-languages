@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سان بلاس كونا
     auto: true
+  - translation_iso: hin
+    name: सान ब्लास कुना
+    auto: true
   - translation_iso: jpn
     name: サンブラス・クナ語
     auto: true

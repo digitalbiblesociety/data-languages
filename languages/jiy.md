@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بويوان جينو
     auto: true
+  - translation_iso: hin
+    name: बुयुआन जिनुओ
+    auto: true
   - translation_iso: jpn
     name: ブユアン・ジヌオ語
     auto: true

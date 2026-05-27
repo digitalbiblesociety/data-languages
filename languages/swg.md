@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Swabian_German"
 translations:
   - translation_iso: ara
     name: ألمانية سوابية
+  - translation_iso: hin
+    name: स्वाबियन
+    auto: true
   - translation_iso: jpn
     name: シュヴァーベン語
   - translation_iso: kor

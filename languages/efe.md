@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإيفي
     auto: true
+  - translation_iso: hin
+    name: एफे
+    auto: true
   - translation_iso: jpn
     name: エフェ語
     auto: true

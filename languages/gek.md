@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الياوم
     auto: true
+  - translation_iso: hin
+    name: यवोम
+    auto: true
   - translation_iso: jpn
     name: イウォム語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نييانغبو
     auto: true
+  - translation_iso: hin
+    name: न्यांगबो
+    auto: true
   - translation_iso: jpn
     name: ニャングボ語
   - translation_iso: zho

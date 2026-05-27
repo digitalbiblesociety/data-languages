@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أتشانج
     auto: true
+  - translation_iso: hin
+    name: अचांग
+    auto: true
   - translation_iso: jpn
     name: アチャン語
   - translation_iso: kor

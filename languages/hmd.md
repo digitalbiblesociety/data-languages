@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة ميــاو الزهرية الكبرى
     auto: true
+  - translation_iso: hin
+    name: बड़ा पुष्पी मियाओ
+    auto: true
   - translation_iso: jpn
     name: 大花苗語
   - translation_iso: zho

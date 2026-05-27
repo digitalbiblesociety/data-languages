@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وركاي بيبيم
     auto: true
+  - translation_iso: hin
+    name: वारकाय-बिपिम
+    auto: true
   - translation_iso: jpn
     name: ワルカイ・ビピム語
     auto: true

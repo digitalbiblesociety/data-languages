@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبي
     auto: true
+  - translation_iso: hin
+    name: म्बे
+    auto: true
   - translation_iso: jpn
     name: ムベ語
     auto: true

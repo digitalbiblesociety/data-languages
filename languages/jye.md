@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Yemeni_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة يهودية يمنية عربية
+  - translation_iso: hin
+    name: यहूदी-यमनी अरबी
+    auto: true
   - translation_iso: jpn
     name: ユダヤ・イエメン・アラビア語
   - translation_iso: zho

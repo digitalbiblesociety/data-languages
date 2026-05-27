@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Central_Bikol"
 translations:
   - translation_iso: ara
     name: بيكول المركزية
+  - translation_iso: hin
+    name: मध्य बिकोल
+    auto: true
   - translation_iso: jpn
     name: 中央ビコール語
   - translation_iso: kor

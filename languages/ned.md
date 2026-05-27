@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: ندي جبيتي
     auto: true
+  - translation_iso: hin
+    name: न्दे-ग्बिते
+    auto: true
   - translation_iso: jpn
     name: ンデ・グビテ語
     auto: true

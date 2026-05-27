@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوْلوم سو
     auto: true
+  - translation_iso: hin
+    name: बुलोम सो
+    auto: true
   - translation_iso: jpn
     name: ブロム・ソ語
     auto: true

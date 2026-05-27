@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مافتشي
     auto: true
+  - translation_iso: hin
+    name: माउची
+    auto: true
   - translation_iso: jpn
     name: マウチ語
     auto: true

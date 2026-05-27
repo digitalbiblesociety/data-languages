@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيميار
     auto: true
+  - translation_iso: hin
+    name: तेमियार
+    auto: true
   - translation_iso: jpn
     name: テミアル語
     auto: true

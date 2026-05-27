@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بروناي بيسايا
     auto: true
+  - translation_iso: hin
+    name: ब्रुनेई बिसाया
+    auto: true
   - translation_iso: jpn
     name: ブルネイ・ビサヤ語
     auto: true

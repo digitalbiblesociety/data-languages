@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايوت الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी पाइयूट
+    auto: true
   - translation_iso: jpn
     name: 北部パイユート語
   - translation_iso: zho

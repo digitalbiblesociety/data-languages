@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميووك البلايينز
     auto: true
+  - translation_iso: hin
+    name: प्लेन्स मिवोक
+    auto: true
   - translation_iso: jpn
     name: プレーンズミウォク語
     auto: true

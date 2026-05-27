@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيسينان
     auto: true
+  - translation_iso: hin
+    name: निसेनान
+    auto: true
   - translation_iso: jpn
     name: ニセナン語
     auto: true

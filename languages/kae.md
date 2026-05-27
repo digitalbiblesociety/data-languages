@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتانغالان
     auto: true
+  - translation_iso: hin
+    name: केतांगालन
+    auto: true
   - translation_iso: jpn
     name: ケタガラン語
   - translation_iso: kor

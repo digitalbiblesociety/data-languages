@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينيار
     auto: true
+  - translation_iso: hin
+    name: सिन्यार
+    auto: true
   - translation_iso: jpn
     name: シニャル語
     auto: true

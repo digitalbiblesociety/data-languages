@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: دان
     auto: true
+  - translation_iso: hin
+    name: दान
+    auto: true
   - translation_iso: jpn
     name: ダン語
   - translation_iso: zho

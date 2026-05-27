@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يوانغا
     auto: true
+  - translation_iso: hin
+    name: युआंगा
+    auto: true
   - translation_iso: jpn
     name: ユアンガ語
     auto: true

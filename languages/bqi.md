@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bakhtiari_dialect"
 translations:
   - translation_iso: ara
     name: البختيارية
+  - translation_iso: hin
+    name: बख्तियारी
+    auto: true
   - translation_iso: jpn
     name: バフティヤーリー語
   - translation_iso: zho

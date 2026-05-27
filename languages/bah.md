@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إنجليزية كريول البهاما
     auto: true
+  - translation_iso: hin
+    name: बहामास क्रियोल अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: バハマ・クレオール語
   - translation_iso: zho

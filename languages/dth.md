@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: أديثينجيث
     auto: true
+  - translation_iso: hin
+    name: अदितिंगिथि
+    auto: true
   - translation_iso: jpn
     name: アディティンギティ語
     auto: true

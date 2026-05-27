@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويلش رومانية
     auto: true
+  - translation_iso: hin
+    name: वेल्श रोमानी
+    auto: true
   - translation_iso: jpn
     name: ウェールズ・ロマ語
   - translation_iso: zho

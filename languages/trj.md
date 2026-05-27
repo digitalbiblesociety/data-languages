@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توران
     auto: true
+  - translation_iso: hin
+    name: तोराम
+    auto: true
   - translation_iso: jpn
     name: トロム語
     auto: true

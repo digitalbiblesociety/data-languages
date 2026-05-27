@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gafat_language"
 translations:
   - translation_iso: ara
     name: غافات
+  - translation_iso: hin
+    name: गाफात
+    auto: true
   - translation_iso: jpn
     name: ガファト語
   - translation_iso: zho

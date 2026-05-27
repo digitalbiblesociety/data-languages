@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماونتين كويالي
     auto: true
+  - translation_iso: hin
+    name: माउंटेन कोयाली
+    auto: true
   - translation_iso: jpn
     name: マウンテン・コイアリ語
     auto: true

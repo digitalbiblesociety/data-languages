@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوجورو
     auto: true
+  - translation_iso: hin
+    name: दोघोरो
+    auto: true
   - translation_iso: jpn
     name: ドゴロ語
     auto: true

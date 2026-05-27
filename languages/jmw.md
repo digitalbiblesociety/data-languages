@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة موواسي
     auto: true
+  - translation_iso: hin
+    name: मौवासे
+    auto: true
   - translation_iso: jpn
     name: モウワセ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غويآ
     auto: true
+  - translation_iso: hin
+    name: गुया
+    auto: true
   - translation_iso: jpn
     name: グヤ語
     auto: true

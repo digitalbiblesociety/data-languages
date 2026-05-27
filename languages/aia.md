@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أروسي
     auto: true
+  - translation_iso: hin
+    name: अरोसी
+    auto: true
   - translation_iso: jpn
     name: アロシ語
   - translation_iso: zho

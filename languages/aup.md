@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماكايام
     auto: true
+  - translation_iso: hin
+    name: मकायम
+    auto: true
   - translation_iso: jpn
     name: マカヤム語
     auto: true

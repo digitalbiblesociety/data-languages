@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: اللغة السينارا سينوفو
     auto: true
+  - translation_iso: hin
+    name: स्येनारा सेनोफो
+    auto: true
   - translation_iso: jpn
     name: セナリ語
     auto: true

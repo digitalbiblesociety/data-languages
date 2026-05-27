@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديانجو
     auto: true
+  - translation_iso: hin
+    name: धंगु-जंगु
+    auto: true
   - translation_iso: jpn
     name: ダングゥ・ジャングゥ語
     auto: true

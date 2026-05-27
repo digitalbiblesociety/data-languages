@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيين تشين
     auto: true
+  - translation_iso: hin
+    name: सियिन चिन
+    auto: true
   - translation_iso: jpn
     name: シイン・チン語
     auto: true

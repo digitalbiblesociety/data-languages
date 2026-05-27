@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جويرا بيبيسا
     auto: true
+  - translation_iso: hin
+    name: ज्विरा-पेपेसा
+    auto: true
   - translation_iso: jpn
     name: ジウィラ・ペペサ語
     auto: true

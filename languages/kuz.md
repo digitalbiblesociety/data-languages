@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كونزا
     auto: true
+  - translation_iso: hin
+    name: कुंज़ा
+    auto: true
   - translation_iso: jpn
     name: クンサ語
   - translation_iso: zho

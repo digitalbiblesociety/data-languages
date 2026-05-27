@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لول
     auto: true
+  - translation_iso: hin
+    name: लुले
+    auto: true
   - translation_iso: jpn
     name: ルレ語
     auto: true

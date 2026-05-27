@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماهونجوي
     auto: true
+  - translation_iso: hin
+    name: माहोंग्वे
+    auto: true
   - translation_iso: jpn
     name: マホングウェ語
   - translation_iso: zho

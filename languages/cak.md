@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاتشيكيل
     auto: true
+  - translation_iso: hin
+    name: काकचिकेल
+    auto: true
   - translation_iso: jpn
     name: カクチケル語
   - translation_iso: kor

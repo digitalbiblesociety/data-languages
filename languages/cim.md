@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السيمبري
     auto: true
+  - translation_iso: hin
+    name: सिम्ब्रियन
+    auto: true
   - translation_iso: jpn
     name: チンブロ語
   - translation_iso: zho

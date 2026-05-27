@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة الاويان يجن انجواجي
     auto: true
+  - translation_iso: hin
+    name: मलावी सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: マラウイ手話
   - translation_iso: zho

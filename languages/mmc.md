@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاهوا ميتشواكان
     auto: true
+  - translation_iso: hin
+    name: मिचोआकान माज़ाहुआ
+    auto: true
   - translation_iso: jpn
     name: ミチョアカン・マサウア語
     auto: true

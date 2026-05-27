@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مولوكو
     auto: true
+  - translation_iso: hin
+    name: मोलोको
+    auto: true
   - translation_iso: jpn
     name: モロコ語
     auto: true

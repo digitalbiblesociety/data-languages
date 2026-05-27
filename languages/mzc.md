@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الملغاشية
     auto: true
+  - translation_iso: hin
+    name: मेडागास्कर सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: マダガスカル手話
   - translation_iso: zho

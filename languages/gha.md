@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghadam%C3%A8s_language"
 translations:
   - translation_iso: ara
     name: لهجة غدامسية
+  - translation_iso: hin
+    name: घदामेस
+    auto: true
   - translation_iso: jpn
     name: ガダミス語
   - translation_iso: zho

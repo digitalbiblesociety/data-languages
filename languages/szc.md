@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيماك بيري
     auto: true
+  - translation_iso: hin
+    name: सेमाक बेरी
+    auto: true
   - translation_iso: jpn
     name: セマク・ベリ語
     auto: true

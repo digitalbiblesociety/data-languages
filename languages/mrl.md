@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مورتلوكيسي
     auto: true
+  - translation_iso: hin
+    name: मोर्टलॉकीज़
+    auto: true
   - translation_iso: jpn
     name: モートロック語
   - translation_iso: zho

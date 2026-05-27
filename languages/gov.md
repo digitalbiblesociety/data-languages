@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: غوو
     auto: true
+  - translation_iso: hin
+    name: गू
+    auto: true
   - translation_iso: jpn
     name: グー語
     auto: true

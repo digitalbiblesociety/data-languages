@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Awjila_language"
 translations:
   - translation_iso: ara
     name: الأوجلية
+  - translation_iso: hin
+    name: अव्जिलाह
+    auto: true
   - translation_iso: jpn
     name: アウジラ語
   - translation_iso: zho

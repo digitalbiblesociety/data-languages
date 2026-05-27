@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيريبو
     auto: true
+  - translation_iso: hin
+    name: बिएरेबो
+    auto: true
   - translation_iso: jpn
     name: ビエレボ語
     auto: true

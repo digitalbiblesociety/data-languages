@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تريو
     auto: true
+  - translation_iso: hin
+    name: त्रिओ
+    auto: true
   - translation_iso: jpn
     name: タレーノ・イヨミ語
     auto: true

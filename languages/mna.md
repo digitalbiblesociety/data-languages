@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبولا
     auto: true
+  - translation_iso: hin
+    name: मबुला
+    auto: true
   - translation_iso: jpn
     name: マンガップ語
   - translation_iso: zho

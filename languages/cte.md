@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيبيناپا تشينانتك
     auto: true
+  - translation_iso: hin
+    name: टेपिनापा चिनान्टेक
+    auto: true
   - translation_iso: jpn
     name: テピナパ・チナンテク語
     auto: true

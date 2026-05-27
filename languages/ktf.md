@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوامي
     auto: true
+  - translation_iso: hin
+    name: क्वामी
+    auto: true
   - translation_iso: jpn
     name: クワミ語
     auto: true

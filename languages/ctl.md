@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تلاكواتزينتيبك تشينانتك
     auto: true
+  - translation_iso: hin
+    name: त्लाकोआट्ज़िंतेपेक चिनान्टेक
+    auto: true
   - translation_iso: jpn
     name: トラコアツィンテペク・チナンテク語
     auto: true

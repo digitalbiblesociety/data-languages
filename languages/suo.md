@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بووني
     auto: true
+  - translation_iso: hin
+    name: बौनी
+    auto: true
   - translation_iso: jpn
     name: ボウニ語
     auto: true

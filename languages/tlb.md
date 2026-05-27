@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبيلو
     auto: true
+  - translation_iso: hin
+    name: तोबेलो
+    auto: true
   - translation_iso: jpn
     name: トベロ語
   - translation_iso: kor

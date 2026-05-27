@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة خانا
     auto: true
+  - translation_iso: hin
+    name: खाना
+    auto: true
   - translation_iso: jpn
     name: カナ語
     auto: true

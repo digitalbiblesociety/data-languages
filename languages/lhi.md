@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اهو هي
     auto: true
+  - translation_iso: hin
+    name: लाहू शी
+    auto: true
   - translation_iso: jpn
     name: ラフ・シ語
     auto: true

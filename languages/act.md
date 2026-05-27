@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة أختيرهويكس
     auto: true
+  - translation_iso: hin
+    name: अख़्तरहूक्स
+    auto: true
   - translation_iso: jpn
     name: アハーテルホークス語
     auto: true

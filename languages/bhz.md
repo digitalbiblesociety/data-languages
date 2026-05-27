@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بادا
     auto: true
+  - translation_iso: hin
+    name: बादा (इंडोनेशिया)
+    auto: true
   - translation_iso: jpn
     name: バダ語
   - translation_iso: zho

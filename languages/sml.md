@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سما الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य सामा
+    auto: true
   - translation_iso: jpn
     name: バジャウ語
     auto: true

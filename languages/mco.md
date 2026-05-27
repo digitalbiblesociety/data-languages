@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كواتلان ميكسي
     auto: true
+  - translation_iso: hin
+    name: कोआत्लान मिशे
+    auto: true
   - translation_iso: jpn
     name: コアトラン・ミヘ語
     auto: true

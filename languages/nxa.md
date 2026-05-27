@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناويتي
     auto: true
+  - translation_iso: hin
+    name: नौएते
+    auto: true
   - translation_iso: jpn
     name: ナウエテ語
     auto: true

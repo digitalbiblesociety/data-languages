@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوروايا
     auto: true
+  - translation_iso: hin
+    name: कुरुआया
+    auto: true
   - translation_iso: jpn
     name: クルアヤ語
     auto: true

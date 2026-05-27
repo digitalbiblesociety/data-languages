@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وفو
     auto: true
+  - translation_iso: hin
+    name: लुफु
+    auto: true
   - translation_iso: jpn
     name: ルフ語
     auto: true

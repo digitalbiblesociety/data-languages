@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تامكي
     auto: true
+  - translation_iso: hin
+    name: तामकी
+    auto: true
   - translation_iso: jpn
     name: タムキ語
     auto: true

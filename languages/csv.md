@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سومتو تشين
     auto: true
+  - translation_iso: hin
+    name: सुम्तू चिन
+    auto: true
   - translation_iso: jpn
     name: スムツ・チン語
     auto: true

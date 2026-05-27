@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بيراها
     auto: true
+  - translation_iso: hin
+    name: पिराहा
+    auto: true
   - translation_iso: jpn
     name: ピダハン語
   - translation_iso: kor

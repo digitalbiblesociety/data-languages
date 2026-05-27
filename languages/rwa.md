@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راوو
     auto: true
+  - translation_iso: hin
+    name: रावो
+    auto: true
   - translation_iso: jpn
     name: ラウォ語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نوملاكي
     auto: true
+  - translation_iso: hin
+    name: नोमलाकी
+    auto: true
   - translation_iso: jpn
     name: ノムラキ語
     auto: true

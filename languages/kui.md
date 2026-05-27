@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويكورو-كالابالو
     auto: true
+  - translation_iso: hin
+    name: कुइकूरो-कालापालो
+    auto: true
   - translation_iso: jpn
     name: クイクロ・カラパロ語
     auto: true

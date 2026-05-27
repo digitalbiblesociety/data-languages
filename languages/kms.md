@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاماساو
     auto: true
+  - translation_iso: hin
+    name: कामासाउ
+    auto: true
   - translation_iso: jpn
     name: カマサウ語
     auto: true

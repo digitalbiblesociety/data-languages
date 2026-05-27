@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باروو پوينت
     auto: true
+  - translation_iso: hin
+    name: बैरो पॉइंट
+    auto: true
   - translation_iso: jpn
     name: バロウ・ポイント語
     auto: true

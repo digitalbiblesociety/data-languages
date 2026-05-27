@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كباتي
     auto: true
+  - translation_iso: hin
+    name: क्पाती
+    auto: true
   - translation_iso: jpn
     name: クパティ語
   - translation_iso: zho

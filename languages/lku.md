@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ونجكاري
     auto: true
+  - translation_iso: hin
+    name: कुंगकारी
+    auto: true
   - translation_iso: jpn
     name: クンカリ語
     auto: true

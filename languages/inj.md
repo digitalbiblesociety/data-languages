@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: إينجا الغابة
     auto: true
+  - translation_iso: hin
+    name: जंगल इंगा
+    auto: true
   - translation_iso: jpn
     name: ジャングル・インガ語
     auto: true

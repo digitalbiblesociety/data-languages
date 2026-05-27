@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة بياجي
     auto: true
+  - translation_iso: hin
+    name: बियागे
+    auto: true
   - translation_iso: jpn
     name: ビアゲ語
     auto: true

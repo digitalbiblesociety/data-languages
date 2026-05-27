@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة مبانجي
     auto: true
+  - translation_iso: hin
+    name: म्बांगी
+    auto: true
   - translation_iso: jpn
     name: ムバンギ語
     auto: true

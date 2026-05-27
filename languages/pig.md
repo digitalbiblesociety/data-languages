@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيسابو
     auto: true
+  - translation_iso: hin
+    name: पिसाबो
+    auto: true
   - translation_iso: jpn
     name: ピサボ語
     auto: true

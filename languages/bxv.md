@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Berakou_language"
 translations:
   - translation_iso: ara
     name: بيراكو
+  - translation_iso: hin
+    name: बेराकू
+    auto: true
   - translation_iso: jpn
     name: ベラク語
     auto: true

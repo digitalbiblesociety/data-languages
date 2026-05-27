@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مبوي
     auto: true
+  - translation_iso: hin
+    name: म्बोवे
+    auto: true
   - translation_iso: jpn
     name: ムボウェ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مابان
     auto: true
+  - translation_iso: hin
+    name: माबान
+    auto: true
   - translation_iso: jpn
     name: マバアン語
     auto: true

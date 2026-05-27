@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكسي توتونتيبك
     auto: true
+  - translation_iso: hin
+    name: टोटोंटेपेक मिशे
+    auto: true
   - translation_iso: jpn
     name: トトンテペック・ミクセ語
     auto: true

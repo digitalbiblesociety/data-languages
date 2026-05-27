@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيواغي-نوتو
     auto: true
+  - translation_iso: hin
+    name: एवागे-नोतु
+    auto: true
   - translation_iso: jpn
     name: エワゲ・ノツ語
     auto: true

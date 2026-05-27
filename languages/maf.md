@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة مافا
     auto: true
+  - translation_iso: hin
+    name: माफ़ा
+    auto: true
   - translation_iso: jpn
     name: マファ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملومب
     auto: true
+  - translation_iso: hin
+    name: म्लोम्प
+    auto: true
   - translation_iso: jpn
     name: ムロンプ語
     auto: true

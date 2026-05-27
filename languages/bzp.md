@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيمْبيرانو
     auto: true
+  - translation_iso: hin
+    name: केम्बेरानो
+    auto: true
   - translation_iso: jpn
     name: ケンベラノ語
     auto: true

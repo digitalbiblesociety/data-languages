@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاهويليا
     auto: true
+  - translation_iso: hin
+    name: काहुइला
+    auto: true
   - translation_iso: jpn
     name: カウィラ語
     auto: true

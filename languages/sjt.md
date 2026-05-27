@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تير سامي
     auto: true
+  - translation_iso: hin
+    name: तेर सामी
+    auto: true
   - translation_iso: jpn
     name: テル・サーミ語
   - translation_iso: kor

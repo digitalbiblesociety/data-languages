@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باندا مالوكو
     auto: true
+  - translation_iso: hin
+    name: बांदा मालुकू
+    auto: true
   - translation_iso: jpn
     name: バンダ・マルク語
     auto: true

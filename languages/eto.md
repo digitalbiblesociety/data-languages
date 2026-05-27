@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيتون
     auto: true
+  - translation_iso: hin
+    name: एटोन
+    auto: true
   - translation_iso: jpn
     name: エトン語
   - translation_iso: zho

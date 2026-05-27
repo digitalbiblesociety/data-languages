@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة المجرية القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन हंगेरियन
+    auto: true
   - translation_iso: jpn
     name: 古ハンガリー語
     auto: true

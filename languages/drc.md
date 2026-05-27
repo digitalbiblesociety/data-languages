@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميندريكو
     auto: true
+  - translation_iso: hin
+    name: मिंडेरिको
+    auto: true
   - translation_iso: jpn
     name: ミンデリコ語
     auto: true

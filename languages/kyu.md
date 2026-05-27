@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايا الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी कायाह
+    auto: true
   - translation_iso: jpn
     name: 西カヤ語
     auto: true

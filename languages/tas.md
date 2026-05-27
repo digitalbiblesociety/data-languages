@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي بوي
     auto: true
+  - translation_iso: hin
+    name: ताय बोई
+    auto: true
   - translation_iso: jpn
     name: タイ・ボイ語
     auto: true

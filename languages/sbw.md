@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيمبا
     auto: true
+  - translation_iso: hin
+    name: सिम्बा
+    auto: true
   - translation_iso: jpn
     name: ヒンバ語
   - translation_iso: zho

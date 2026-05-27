@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يتهوانيان يجن انجواجي
     auto: true
+  - translation_iso: hin
+    name: लिथुआनियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: リトアニア手話
   - translation_iso: zho

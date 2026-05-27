@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السيرما
     auto: true
+  - translation_iso: hin
+    name: सेर्मा
+    auto: true
   - translation_iso: jpn
     name: セルマ語
     auto: true

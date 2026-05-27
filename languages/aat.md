@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الألبانية الأرڤانيتية
     auto: true
+  - translation_iso: hin
+    name: अर्वानितिका अल्बानियाई
+    auto: true
   - translation_iso: jpn
     name: アルヴァニティカ方言
   - translation_iso: zho

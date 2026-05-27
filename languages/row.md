@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديلا أوينالي
     auto: true
+  - translation_iso: hin
+    name: डेला-ओएनाले
+    auto: true
   - translation_iso: jpn
     name: デラオエナレ語
     auto: true

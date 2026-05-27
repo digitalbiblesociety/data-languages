@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: سام
     auto: true
+  - translation_iso: hin
+    name: साम
+    auto: true
   - translation_iso: jpn
     name: サアム語
     auto: true

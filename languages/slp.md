@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة لاماهولوت
     auto: true
+  - translation_iso: hin
+    name: लामाहोलोत
+    auto: true
   - translation_iso: jpn
     name: ラマホロット語
   - translation_iso: zho

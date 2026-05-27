@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة منجيسا
     auto: true
+  - translation_iso: hin
+    name: मेंगिसा
+    auto: true
   - translation_iso: jpn
     name: メンギサ語
     auto: true

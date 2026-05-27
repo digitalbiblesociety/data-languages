@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوي
     auto: true
+  - translation_iso: hin
+    name: आउवे
+    auto: true
   - translation_iso: jpn
     name: シモッグ語
     auto: true

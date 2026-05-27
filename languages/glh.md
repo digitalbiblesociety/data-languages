@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورثوإست بآشآي
     auto: true
+  - translation_iso: hin
+    name: उत्तर-पश्चिमी पशाई
+    auto: true
   - translation_iso: jpn
     name: ノースウエスト・パシャイ語
     auto: true

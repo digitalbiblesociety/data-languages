@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك يوكويني
     auto: true
+  - translation_iso: hin
+    name: युकुआञे मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: ユクアニェ・ミステク語
     auto: true

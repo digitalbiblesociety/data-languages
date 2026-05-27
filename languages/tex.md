@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تينيت
     auto: true
+  - translation_iso: hin
+    name: तेन्नेत
+    auto: true
   - translation_iso: jpn
     name: テンネット語
     auto: true

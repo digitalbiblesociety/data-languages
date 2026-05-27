@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيماسكالتيبيك ناهواتل
     auto: true
+  - translation_iso: hin
+    name: तेमास्कालतेपेक नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: テマスカルテペク・ナワトル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندولا
     auto: true
+  - translation_iso: hin
+    name: न्दूला
+    auto: true
   - translation_iso: jpn
     name: ンドゥラ語
     auto: true

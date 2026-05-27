@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاجولو
     auto: true
+  - translation_iso: hin
+    name: कागुलु
+    auto: true
   - translation_iso: jpn
     name: カグル語
     auto: true

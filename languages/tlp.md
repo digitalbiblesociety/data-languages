@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتوناك فيلومينا ماتا كواويتلان
     auto: true
+  - translation_iso: hin
+    name: फिलोमेना माता-कोआहुइतलान टोटोनाक
+    auto: true
   - translation_iso: jpn
     name: フィレメナ・マタ・コアウイトラン・トトナック語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوبو
     auto: true
+  - translation_iso: hin
+    name: डोबू
+    auto: true
   - translation_iso: jpn
     name: ドブ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة تانودان كالينجا
     auto: true
+  - translation_iso: hin
+    name: तानुदान कालिंगा
+    auto: true
   - translation_iso: jpn
     name: タヌダン・カリンガ語
     auto: true

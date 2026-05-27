@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوبولوم
     auto: true
+  - translation_iso: hin
+    name: ओबुलोम
+    auto: true
   - translation_iso: jpn
     name: オブロム語
     auto: true

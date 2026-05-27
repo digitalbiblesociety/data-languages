@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كروبو
     auto: true
+  - translation_iso: hin
+    name: क्रोबू
+    auto: true
   - translation_iso: jpn
     name: クロブ語
     auto: true

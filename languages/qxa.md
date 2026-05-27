@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا تشيكيان أنكاش
     auto: true
+  - translation_iso: hin
+    name: चिकियान आंकाश क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: チキアンアンカシュケチュア語
     auto: true

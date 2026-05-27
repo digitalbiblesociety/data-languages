@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يسا
     auto: true
+  - translation_iso: hin
+    name: किसा
+    auto: true
   - translation_iso: jpn
     name: キサ語
     auto: true

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لاليا
     auto: true
+  - translation_iso: hin
+    name: लालिया
+    auto: true
   - translation_iso: jpn
     name: ラリア語
     auto: true

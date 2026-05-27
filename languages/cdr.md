@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيندا-ريغي-تيايال
     auto: true
+  - translation_iso: hin
+    name: सिन्दा-रेगी-तियाल
+    auto: true
   - translation_iso: jpn
     name: チンダ・レギ・ティヤル語
     auto: true

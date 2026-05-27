@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: روتومان
     auto: true
+  - translation_iso: hin
+    name: रोटुमान
+    auto: true
   - translation_iso: jpn
     name: ロツマ語
   - translation_iso: kor

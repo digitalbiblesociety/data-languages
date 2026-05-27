@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الشونغ
     auto: true
+  - translation_iso: hin
+    name: चुंग
+    auto: true
   - translation_iso: jpn
     name: チュング語
     auto: true

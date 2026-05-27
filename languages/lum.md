@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ويمبي
     auto: true
+  - translation_iso: hin
+    name: लुइम्बी
+    auto: true
   - translation_iso: jpn
     name: ルイムビ語
     auto: true

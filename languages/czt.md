@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زوتونغ تشين
     auto: true
+  - translation_iso: hin
+    name: ज़ोतुङ चिन
+    auto: true
   - translation_iso: jpn
     name: ゾツング・チン語
     auto: true

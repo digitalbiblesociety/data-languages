@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوداغي
     auto: true
+  - translation_iso: hin
+    name: फुडागी
+    auto: true
   - translation_iso: jpn
     name: プダギ語
     auto: true

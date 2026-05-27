@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mehri_language"
 translations:
   - translation_iso: ara
     name: اللغة المهرية
+  - translation_iso: hin
+    name: मेहरी
+    auto: true
   - translation_iso: jpn
     name: マフラ語
   - translation_iso: zho

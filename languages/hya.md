@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هيا
     auto: true
+  - translation_iso: hin
+    name: ह्या
+    auto: true
   - translation_iso: jpn
     name: ヒャ語
     auto: true

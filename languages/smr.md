@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيميولوي
     auto: true
+  - translation_iso: hin
+    name: सिमेउलुए
+    auto: true
   - translation_iso: jpn
     name: シムル語
   - translation_iso: zho

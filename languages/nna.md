@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييانغومارتا
     auto: true
+  - translation_iso: hin
+    name: न्यांगुमार्ता
+    auto: true
   - translation_iso: jpn
     name: ニャングマルタ語
     auto: true

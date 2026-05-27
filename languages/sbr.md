@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيمباكونج موروت
     auto: true
+  - translation_iso: hin
+    name: सेम्बाकुंग मुरुत
+    auto: true
   - translation_iso: jpn
     name: ティドング語
     auto: true

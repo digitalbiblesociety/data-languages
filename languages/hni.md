@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هاني
     auto: true
+  - translation_iso: hin
+    name: हानी
+    auto: true
   - translation_iso: jpn
     name: ハニ語
   - translation_iso: kor

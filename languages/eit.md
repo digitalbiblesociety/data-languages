@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيتيب
     auto: true
+  - translation_iso: hin
+    name: एइतिएप
+    auto: true
   - translation_iso: jpn
     name: エイティエプ語
     auto: true

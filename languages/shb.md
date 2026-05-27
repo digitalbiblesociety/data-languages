@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نينام
     auto: true
+  - translation_iso: hin
+    name: निनाम
+    auto: true
   - translation_iso: jpn
     name: ニナム語
     auto: true

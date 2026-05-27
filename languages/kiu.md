@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة كرمانجكي
     auto: true
+  - translation_iso: hin
+    name: किरमांजकी
+    auto: true
   - translation_iso: jpn
     name: キルマンジュキ語
   - translation_iso: zho

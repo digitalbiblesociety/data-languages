@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: أوليثيان
     auto: true
+  - translation_iso: hin
+    name: उलिथियन
+    auto: true
   - translation_iso: jpn
     name: ウリシ語
   - translation_iso: zho

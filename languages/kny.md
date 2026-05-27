@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانيوك
     auto: true
+  - translation_iso: hin
+    name: कान्योक
+    auto: true
   - translation_iso: jpn
     name: カニョク語
     auto: true

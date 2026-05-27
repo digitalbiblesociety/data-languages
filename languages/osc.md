@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Oscan_language"
 translations:
   - translation_iso: ara
     name: لغة أوسكانية
+  - translation_iso: hin
+    name: ओस्कन
+    auto: true
   - translation_iso: jpn
     name: オスク語
   - translation_iso: kor

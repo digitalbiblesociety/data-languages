@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fur_language"
 translations:
   - translation_iso: ara
     name: الفوراوية
+  - translation_iso: hin
+    name: फुर
+    auto: true
   - translation_iso: jpn
     name: フル語
   - translation_iso: kor

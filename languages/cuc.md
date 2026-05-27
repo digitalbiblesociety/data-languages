@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوسيلا تشينانتك
     auto: true
+  - translation_iso: hin
+    name: उसीला चिनान्तेक
+    auto: true
   - translation_iso: jpn
     name: ウシラ・チナンテク語
     auto: true

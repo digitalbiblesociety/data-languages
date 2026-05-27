@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موروي هويتوتو
     auto: true
+  - translation_iso: hin
+    name: मुरुई हुइतोतो
+    auto: true
   - translation_iso: jpn
     name: ムルイ・ウイトト語
     auto: true

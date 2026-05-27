@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوكوبا
     auto: true
+  - translation_iso: hin
+    name: कोकोपा
+    auto: true
   - translation_iso: jpn
     name: ココパ語
   - translation_iso: zho

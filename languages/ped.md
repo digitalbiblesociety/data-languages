@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مالا
     auto: true
+  - translation_iso: hin
+    name: माला (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: マラ語（パプアニューギニア）
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سوميييف
     auto: true
+  - translation_iso: hin
+    name: सोम्येव
+    auto: true
   - translation_iso: jpn
     name: ソミエフ語
     auto: true

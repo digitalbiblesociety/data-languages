@@ -16,6 +16,9 @@ glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semit
 translations:
   - translation_iso: ara
     name: لغة آرامية كلدانية حديثة
+  - translation_iso: hin
+    name: कलदी नव-अरामी
+    auto: true
   - translation_iso: jpn
     name: カルデア現代アラム語
   - translation_iso: zho

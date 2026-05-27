@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابوما
     auto: true
+  - translation_iso: hin
+    name: पापुमा
+    auto: true
   - translation_iso: jpn
     name: パプマ語
     auto: true

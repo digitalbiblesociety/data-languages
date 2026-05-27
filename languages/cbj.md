@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيدي كابي
     auto: true
+  - translation_iso: hin
+    name: एदे काबे
+    auto: true
   - translation_iso: jpn
     name: エデ・カベ語
     auto: true

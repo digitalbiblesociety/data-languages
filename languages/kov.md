@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كودو تشامو
     auto: true
+  - translation_iso: hin
+    name: कुडु-कामो
+    auto: true
   - translation_iso: jpn
     name: クドゥ・カモ語
     auto: true

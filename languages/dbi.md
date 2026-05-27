@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوكا
     auto: true
+  - translation_iso: hin
+    name: दोका
+    auto: true
   - translation_iso: jpn
     name: ドカ語
     auto: true

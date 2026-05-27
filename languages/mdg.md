@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسالات
     auto: true
+  - translation_iso: hin
+    name: मासालात
+    auto: true
   - translation_iso: jpn
     name: マッサラット語
     auto: true

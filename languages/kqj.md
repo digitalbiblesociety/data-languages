@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوروميرا
     auto: true
+  - translation_iso: hin
+    name: कोरोमिरा
+    auto: true
   - translation_iso: jpn
     name: コロミラ語
     auto: true

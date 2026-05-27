@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينجيلي
     auto: true
+  - translation_iso: hin
+    name: सेंगेले
+    auto: true
   - translation_iso: jpn
     name: センゲレ語
     auto: true

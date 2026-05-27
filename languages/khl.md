@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة لوسي
     auto: true
+  - translation_iso: hin
+    name: लुसी
+    auto: true
   - translation_iso: jpn
     name: ルシ語
   - translation_iso: zho

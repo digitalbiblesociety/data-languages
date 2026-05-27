@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Evenki_language"
 translations:
   - translation_iso: ara
     name: اللغة الإيفينكية
+  - translation_iso: hin
+    name: एवेंकी
+    auto: true
   - translation_iso: jpn
     name: エヴェンキ語
   - translation_iso: kor

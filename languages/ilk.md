@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيلونغوت
     auto: true
+  - translation_iso: hin
+    name: इलोंगोट
+    auto: true
   - translation_iso: jpn
     name: イロンゴット語
   - translation_iso: zho

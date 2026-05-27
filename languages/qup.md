@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا باستازا الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी पास्ताज़ा क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: 南パスタサキチュア語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إستموس كوسوليكاكاوي ناهواتل
     auto: true
+  - translation_iso: hin
+    name: इस्थमस-कोसोलेआकाके नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: 峡湾部・コソレアカケ・ナワトル語
     auto: true

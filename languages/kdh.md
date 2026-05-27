@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تيم
     auto: true
+  - translation_iso: hin
+    name: टेम
+    auto: true
   - translation_iso: jpn
     name: テム語
   - translation_iso: zho

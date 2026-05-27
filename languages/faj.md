@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفايتا
     auto: true
+  - translation_iso: hin
+    name: फाइता
+    auto: true
   - translation_iso: jpn
     name: ファイタ語
     auto: true

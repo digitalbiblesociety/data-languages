@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوني
     auto: true
+  - translation_iso: hin
+    name: कोन्नी
+    auto: true
   - translation_iso: jpn
     name: コンニ語
     auto: true

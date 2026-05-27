@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: دهوال
     auto: true
+  - translation_iso: hin
+    name: धुवाल
+    auto: true
   - translation_iso: jpn
     name: ドゥワル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتاك سيمالونْجون
     auto: true
+  - translation_iso: hin
+    name: बाताक सिमालुंगुन
+    auto: true
   - translation_iso: jpn
     name: バタク・シマルングン語
   - translation_iso: zho

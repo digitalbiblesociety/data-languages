@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghanaian_Pidgin_English"
 translations:
   - translation_iso: ara
     name: إنجليزية بيدجين الغانية
+  - translation_iso: hin
+    name: घानाई पिजिन अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: ガーナピジン英語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بارامْبو
     auto: true
+  - translation_iso: hin
+    name: बरांबु
+    auto: true
   - translation_iso: jpn
     name: バランブ語
     auto: true

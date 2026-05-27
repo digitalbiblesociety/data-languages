@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيونا
     auto: true
+  - translation_iso: hin
+    name: सिओना
+    auto: true
   - translation_iso: jpn
     name: ガンテーヤコカ語
     auto: true

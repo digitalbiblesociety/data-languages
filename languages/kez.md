@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوكيل
     auto: true
+  - translation_iso: hin
+    name: कुकेले
+    auto: true
   - translation_iso: jpn
     name: クケレ語
     auto: true

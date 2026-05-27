@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإجامات
     auto: true
+  - translation_iso: hin
+    name: एजामात
+    auto: true
   - translation_iso: jpn
     name: エジャマット語
     auto: true

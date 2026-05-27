@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيمي
     auto: true
+  - translation_iso: hin
+    name: जिमी (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: ジミ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسلام
     auto: true
+  - translation_iso: hin
+    name: मासलाम
+    auto: true
   - translation_iso: jpn
     name: マスラム語
     auto: true

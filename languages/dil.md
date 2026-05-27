@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dilling_language"
 translations:
   - translation_iso: ara
     name: لغة الدلنغ
+  - translation_iso: hin
+    name: डिलिंग
+    auto: true
   - translation_iso: jpn
     name: ディリング語
     auto: true

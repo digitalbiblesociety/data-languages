@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باباسينا
     auto: true
+  - translation_iso: hin
+    name: पापासेना
+    auto: true
   - translation_iso: jpn
     name: パパセナ語
     auto: true

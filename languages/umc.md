@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ماروتسينيان
     auto: true
+  - translation_iso: hin
+    name: मारुसिनियन
+    auto: true
   - translation_iso: jpn
     name: マルルキニアン語
     auto: true

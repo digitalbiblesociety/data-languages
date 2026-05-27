@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيانغ الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी चियांग
+    auto: true
   - translation_iso: jpn
     name: 北部チャン語
   - translation_iso: zho

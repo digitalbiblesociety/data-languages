@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تشين بورْيات
     auto: true
+  - translation_iso: hin
+    name: चीनी बुर्यात
+    auto: true
   - translation_iso: jpn
     name: 中国ブリヤート語
   - translation_iso: zho

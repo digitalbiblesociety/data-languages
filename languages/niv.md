@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيليك
     auto: true
+  - translation_iso: hin
+    name: गिल्याक
+    auto: true
   - translation_iso: jpn
     name: ニヴフ語
   - translation_iso: kor

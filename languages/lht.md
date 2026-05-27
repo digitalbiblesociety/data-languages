@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة و-وجا
     auto: true
+  - translation_iso: hin
+    name: लो-तोगा
+    auto: true
   - translation_iso: jpn
     name: ロ・トガ語
     auto: true

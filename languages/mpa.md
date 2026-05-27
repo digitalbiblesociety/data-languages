@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوتو
     auto: true
+  - translation_iso: hin
+    name: म्पोटो
+    auto: true
   - translation_iso: jpn
     name: ムポト語
     auto: true

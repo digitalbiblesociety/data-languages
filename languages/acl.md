@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكار-بالي
     auto: true
+  - translation_iso: hin
+    name: अकार-बाले
+    auto: true
   - translation_iso: jpn
     name: アカルバレ語
     auto: true

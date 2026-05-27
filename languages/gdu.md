@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجودو
     auto: true
+  - translation_iso: hin
+    name: गुडू
+    auto: true
   - translation_iso: jpn
     name: グドゥ語
     auto: true

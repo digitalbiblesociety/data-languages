@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندوجو
     auto: true
+  - translation_iso: hin
+    name: न्दोगो
+    auto: true
   - translation_iso: jpn
     name: ンドゴ語
     auto: true

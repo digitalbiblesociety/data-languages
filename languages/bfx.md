@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بانتايانون
     auto: true
+  - translation_iso: hin
+    name: बांतायानोन
+    auto: true
   - translation_iso: jpn
     name: バンタヤノン語
     auto: true

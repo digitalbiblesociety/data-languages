@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميندانكوي نكوين
     auto: true
+  - translation_iso: hin
+    name: मेंडानक्वे-नक्वेन
+    auto: true
   - translation_iso: jpn
     name: メンダンクウェ・ンクウェン語
     auto: true

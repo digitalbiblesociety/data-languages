@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لافن
     auto: true
+  - translation_iso: hin
+    name: लावेन
+    auto: true
   - translation_iso: jpn
     name: ラヴェン語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابابانا
     auto: true
+  - translation_iso: hin
+    name: पापापाना
+    auto: true
   - translation_iso: jpn
     name: パパパナ語
     auto: true

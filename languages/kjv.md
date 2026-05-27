@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الأدب الكايكافياني
     auto: true
+  - translation_iso: hin
+    name: कायकावी साहित्यिक भाषा
+    auto: true
   - translation_iso: jpn
     name: カイ方言
   - translation_iso: zho

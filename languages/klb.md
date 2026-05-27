@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيليوا
     auto: true
+  - translation_iso: hin
+    name: किलिवा
+    auto: true
   - translation_iso: jpn
     name: キリワ語
   - translation_iso: zho

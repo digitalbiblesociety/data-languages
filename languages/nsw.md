@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نافوت
     auto: true
+  - translation_iso: hin
+    name: नावुत
+    auto: true
   - translation_iso: jpn
     name: ナブ語
     auto: true

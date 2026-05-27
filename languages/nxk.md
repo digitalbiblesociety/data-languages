@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كوكي ناغا
     auto: true
+  - translation_iso: hin
+    name: कोकी नागा
+    auto: true
   - translation_iso: jpn
     name: コキ・ナガ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة دادبي
     auto: true
+  - translation_iso: hin
+    name: दादिबी
+    auto: true
   - translation_iso: jpn
     name: ダリビ語
   - translation_iso: zho

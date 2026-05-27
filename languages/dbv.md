@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دونجو
     auto: true
+  - translation_iso: hin
+    name: दुंगू
+    auto: true
   - translation_iso: jpn
     name: ドゥング語
   - translation_iso: zho

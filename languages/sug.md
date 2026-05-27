@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوجانجا
     auto: true
+  - translation_iso: hin
+    name: सुगांगा
+    auto: true
   - translation_iso: jpn
     name: スガンガ語
     auto: true

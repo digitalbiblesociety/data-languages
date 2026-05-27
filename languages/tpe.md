@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبيرا
     auto: true
+  - translation_iso: hin
+    name: टिप्पेरा
+    auto: true
   - translation_iso: jpn
     name: トリプラ語
     auto: true

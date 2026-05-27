@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جفوكو
     auto: true
+  - translation_iso: hin
+    name: ग्वोको
+    auto: true
   - translation_iso: jpn
     name: グボコ語
     auto: true

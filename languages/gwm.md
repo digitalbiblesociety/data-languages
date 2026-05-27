@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: آونجثيم
     auto: true
+  - translation_iso: hin
+    name: आउंगथिम
+    auto: true
   - translation_iso: jpn
     name: アウングティム語
     auto: true

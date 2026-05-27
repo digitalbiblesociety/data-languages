@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديند
     auto: true
+  - translation_iso: hin
+    name: डिंग
+    auto: true
   - translation_iso: jpn
     name: ディング語
     auto: true

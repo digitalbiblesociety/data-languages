@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإكاري
     auto: true
+  - translation_iso: hin
+    name: एकारी
+    auto: true
   - translation_iso: jpn
     name: エカリ語
   - translation_iso: zho

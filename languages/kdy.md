@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيدير
     auto: true
+  - translation_iso: hin
+    name: केडर
+    auto: true
   - translation_iso: jpn
     name: ケデル語
     auto: true

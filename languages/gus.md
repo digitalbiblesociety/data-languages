@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الغينية
     auto: true
+  - translation_iso: hin
+    name: गिनी सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ギニア手話
   - translation_iso: zho

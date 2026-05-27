@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوارا
     auto: true
+  - translation_iso: hin
+    name: अवारा
+    auto: true
   - translation_iso: jpn
     name: アワラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكسامب
     auto: true
+  - translation_iso: hin
+    name: अक्साम्ब
+    auto: true
   - translation_iso: jpn
     name: アクサンブ語
     auto: true

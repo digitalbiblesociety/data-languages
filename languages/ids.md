@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: إيديسا
     auto: true
+  - translation_iso: hin
+    name: इदेसा
+    auto: true
   - translation_iso: jpn
     name: イデサ語
     auto: true

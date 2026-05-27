@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوانجالي
     auto: true
+  - translation_iso: hin
+    name: क्वांगाली
+    auto: true
   - translation_iso: jpn
     name: クワンガリ語
   - translation_iso: zho

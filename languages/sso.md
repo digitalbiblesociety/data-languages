@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيسانو
     auto: true
+  - translation_iso: hin
+    name: सिसानो
+    auto: true
   - translation_iso: jpn
     name: シサノ語
   - translation_iso: zho

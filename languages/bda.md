@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايوت
     auto: true
+  - translation_iso: hin
+    name: बायोट
+    auto: true
   - translation_iso: jpn
     name: バヨット語
   - translation_iso: zho

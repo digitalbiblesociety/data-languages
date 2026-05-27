@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هويتيبيك ميكستك
     auto: true
+  - translation_iso: hin
+    name: हुइतेपेक मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: ウィテペック・ミステク語
     auto: true

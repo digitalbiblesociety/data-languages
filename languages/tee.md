@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبيهويتلا تيبيهوا
     auto: true
+  - translation_iso: hin
+    name: हुएहुएतला तेपेहुआ
+    auto: true
   - translation_iso: jpn
     name: ウエウエトラ・テペフア語
     auto: true

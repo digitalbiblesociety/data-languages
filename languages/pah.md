@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة تينهاريم
     auto: true
+  - translation_iso: hin
+    name: तेनहारिम
+    auto: true
   - translation_iso: jpn
     name: テンハリム語
     auto: true

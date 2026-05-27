@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هإردé
     auto: true
+  - translation_iso: hin
+    name: हेर्दे
+    auto: true
   - translation_iso: jpn
     name: ヘルデ語
     auto: true

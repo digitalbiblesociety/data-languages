@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتاكابا
     auto: true
+  - translation_iso: hin
+    name: अताकापा
+    auto: true
   - translation_iso: jpn
     name: アタカパ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ريشيوا
     auto: true
+  - translation_iso: hin
+    name: रिशिवा
+    auto: true
   - translation_iso: jpn
     name: リシワ語
     auto: true

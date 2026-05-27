@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكارا
     auto: true
+  - translation_iso: hin
+    name: कारा
+    auto: true
   - translation_iso: jpn
     name: カラ語
     auto: true

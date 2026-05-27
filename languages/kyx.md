@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رابويسي
     auto: true
+  - translation_iso: hin
+    name: रापोइसी
+    auto: true
   - translation_iso: jpn
     name: クヌア語
   - translation_iso: zho

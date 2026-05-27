@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفيروج
     auto: true
+  - translation_iso: hin
+    name: फेरोगे
+    auto: true
   - translation_iso: jpn
     name: フェロゲ語
     auto: true

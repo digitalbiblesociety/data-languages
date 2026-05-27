@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة آك
     auto: true
+  - translation_iso: hin
+    name: अक
+    auto: true
   - translation_iso: jpn
     name: アク語
     auto: true

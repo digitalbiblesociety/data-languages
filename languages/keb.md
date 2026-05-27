@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلي
     auto: true
+  - translation_iso: hin
+    name: केले
+    auto: true
   - translation_iso: jpn
     name: ケレ語
   - translation_iso: zho

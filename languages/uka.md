@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كابوري
     auto: true
+  - translation_iso: hin
+    name: काबुरी
+    auto: true
   - translation_iso: jpn
     name: アウェ・マウェヨ語
     auto: true

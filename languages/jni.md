@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جانجي
     auto: true
+  - translation_iso: hin
+    name: जांजी
+    auto: true
   - translation_iso: jpn
     name: ジャンジ語
     auto: true

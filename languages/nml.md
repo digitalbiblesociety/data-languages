@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندملي
     auto: true
+  - translation_iso: hin
+    name: न्देम्ली
+    auto: true
   - translation_iso: jpn
     name: ンデムリ語
     auto: true

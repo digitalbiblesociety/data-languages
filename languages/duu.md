@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: درونج
     auto: true
+  - translation_iso: hin
+    name: द्रुंग
+    auto: true
   - translation_iso: jpn
     name: トーロン語
   - translation_iso: kor

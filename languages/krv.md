@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كافيت
     auto: true
+  - translation_iso: hin
+    name: कावेत
+    auto: true
   - translation_iso: jpn
     name: カベット語
     auto: true

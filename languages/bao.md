@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة وايمها
     auto: true
+  - translation_iso: hin
+    name: वाइमाहा
+    auto: true
   - translation_iso: jpn
     name: ワイマハ語
     auto: true

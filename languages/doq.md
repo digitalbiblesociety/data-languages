@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دومينيكان ساين لانجويج
     auto: true
+  - translation_iso: hin
+    name: डोमिनिकन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ドミニカ共和国手話
   - translation_iso: zho

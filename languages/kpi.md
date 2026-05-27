@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوفي
     auto: true
+  - translation_iso: hin
+    name: कोफेई
+    auto: true
   - translation_iso: jpn
     name: コフェイ語
     auto: true

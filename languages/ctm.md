@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chitimacha_language"
 translations:
   - translation_iso: ara
     name: شيتيماشا
+  - translation_iso: hin
+    name: चितिमाचा
+    auto: true
   - translation_iso: jpn
     name: チティマシャ語
   - translation_iso: kor

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Batak_Karo_language"
 translations:
   - translation_iso: ara
     name: كارو باتاك
+  - translation_iso: hin
+    name: बाताक कारो
+    auto: true
   - translation_iso: jpn
     name: カロ語
   - translation_iso: zho

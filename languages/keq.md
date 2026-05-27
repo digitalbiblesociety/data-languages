@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كامار
     auto: true
+  - translation_iso: hin
+    name: कमार
+    auto: true
   - translation_iso: jpn
     name: カマル語
     auto: true

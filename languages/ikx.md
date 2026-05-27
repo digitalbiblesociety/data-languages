@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيك
     auto: true
+  - translation_iso: hin
+    name: इक
+    auto: true
   - translation_iso: jpn
     name: イク語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتوهوايم
     auto: true
+  - translation_iso: hin
+    name: अतोह्वाइम
+    auto: true
   - translation_iso: jpn
     name: アトワイム語
     auto: true

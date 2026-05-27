@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موفيان
     auto: true
+  - translation_iso: hin
+    name: मुफियान
+    auto: true
   - translation_iso: jpn
     name: 南部アラペシュ語
   - translation_iso: zho

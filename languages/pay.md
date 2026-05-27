@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتش
     auto: true
+  - translation_iso: hin
+    name: पेच
+    auto: true
   - translation_iso: jpn
     name: ペッチ語
     auto: true

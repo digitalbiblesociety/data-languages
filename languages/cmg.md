@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: المنغولية الكلاسيكية
     auto: true
+  - translation_iso: hin
+    name: शास्त्रीय मंगोलियाई
+    auto: true
   - translation_iso: jpn
     name: 古典モンゴル語
     auto: true

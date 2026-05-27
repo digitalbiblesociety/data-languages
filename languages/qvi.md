@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا إمبابورا الجبلية
     auto: true
+  - translation_iso: hin
+    name: इम्बाबुरा हाइलैंड किचुआ
+    auto: true
   - translation_iso: jpn
     name: インバブラハイランドキチュア語
     auto: true

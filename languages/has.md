@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآيسلآ
     auto: true
+  - translation_iso: hin
+    name: हाइस्ला
+    auto: true
   - translation_iso: jpn
     name: ハイスラ語
     auto: true

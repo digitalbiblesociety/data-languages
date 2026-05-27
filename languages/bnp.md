@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بولا
     auto: true
+  - translation_iso: hin
+    name: बोला
+    auto: true
   - translation_iso: jpn
     name: ボラ語
   - translation_iso: zho

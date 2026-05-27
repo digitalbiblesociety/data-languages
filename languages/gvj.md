@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآجá
     auto: true
+  - translation_iso: hin
+    name: गुआहा
+    auto: true
   - translation_iso: jpn
     name: グアジャ語
   - translation_iso: zho

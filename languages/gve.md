@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دووإت
     auto: true
+  - translation_iso: hin
+    name: डुवेट
+    auto: true
   - translation_iso: jpn
     name: ドゥウェット語
     auto: true

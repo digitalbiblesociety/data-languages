@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البوليفية
     auto: true
+  - translation_iso: hin
+    name: बोलिवियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ボリビア手話
   - translation_iso: zho

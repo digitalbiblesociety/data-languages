@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ومبي
     auto: true
+  - translation_iso: hin
+    name: लोंबी
+    auto: true
   - translation_iso: jpn
     name: ロンビ語
     auto: true

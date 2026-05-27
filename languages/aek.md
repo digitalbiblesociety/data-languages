@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هايك
     auto: true
+  - translation_iso: hin
+    name: हाएके
+    auto: true
   - translation_iso: jpn
     name: ハエケ語
     auto: true

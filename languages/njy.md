@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجيم
     auto: true
+  - translation_iso: hin
+    name: न्ज्येम
+    auto: true
   - translation_iso: jpn
     name: ンジェム語
     auto: true

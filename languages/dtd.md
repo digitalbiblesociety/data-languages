@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديتيداهت
     auto: true
+  - translation_iso: hin
+    name: डिटिडाहट
+    auto: true
   - translation_iso: jpn
     name: ディティダフト語
     auto: true

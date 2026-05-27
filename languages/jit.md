@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيتا
     auto: true
+  - translation_iso: hin
+    name: जिता
+    auto: true
   - translation_iso: jpn
     name: ジタ語
     auto: true

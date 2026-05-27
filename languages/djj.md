@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دجيبانا
     auto: true
+  - translation_iso: hin
+    name: जीब्बाना
+    auto: true
   - translation_iso: jpn
     name: ジェッバナ語
     auto: true

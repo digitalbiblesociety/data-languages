@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديني
     auto: true
+  - translation_iso: hin
+    name: देनी
+    auto: true
   - translation_iso: jpn
     name: デニ語
     auto: true

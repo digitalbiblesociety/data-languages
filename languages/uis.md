@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أويساي
     auto: true
+  - translation_iso: hin
+    name: उइसाई
+    auto: true
   - translation_iso: jpn
     name: ウィサイ語
     auto: true

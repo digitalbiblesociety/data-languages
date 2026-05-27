@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هليرسو
     auto: true
+  - translation_iso: hin
+    name: ह्लेरसू
+    auto: true
   - translation_iso: jpn
     name: フレルス語
     auto: true

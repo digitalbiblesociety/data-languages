@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زايوا
     auto: true
+  - translation_iso: hin
+    name: ज़ाइवा
+    auto: true
   - translation_iso: jpn
     name: 載瓦語
   - translation_iso: zho

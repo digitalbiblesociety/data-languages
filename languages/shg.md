@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشوا
     auto: true
+  - translation_iso: hin
+    name: शुआ
+    auto: true
   - translation_iso: jpn
     name: シュア語
   - translation_iso: zho

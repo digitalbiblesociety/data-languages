@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dahalik_language"
 translations:
   - translation_iso: ara
     name: الدهلكية
+  - translation_iso: hin
+    name: दहालिक
+    auto: true
   - translation_iso: jpn
     name: ダフラク語
   - translation_iso: zho

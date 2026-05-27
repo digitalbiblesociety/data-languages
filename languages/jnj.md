@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ييمسا
     auto: true
+  - translation_iso: hin
+    name: येमसा
+    auto: true
   - translation_iso: jpn
     name: イェム語
   - translation_iso: zho

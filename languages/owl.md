@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الويلزية القديمة
     auto: true
+  - translation_iso: hin
+    name: पुरानी वेल्श
+    auto: true
   - translation_iso: jpn
     name: 古ウェールズ語
   - translation_iso: zho

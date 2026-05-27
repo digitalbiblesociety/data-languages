@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: إهيفبي
     auto: true
+  - translation_iso: hin
+    name: इहियेवबे
+    auto: true
   - translation_iso: jpn
     name: イヒエブベ語
     auto: true

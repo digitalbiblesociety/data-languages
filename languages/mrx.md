@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارمجي
     auto: true
+  - translation_iso: hin
+    name: मारेम्गी
+    auto: true
   - translation_iso: jpn
     name: マレムギ語
     auto: true

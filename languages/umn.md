@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماكيان ناجا
     auto: true
+  - translation_iso: hin
+    name: मक्यान नागा
+    auto: true
   - translation_iso: jpn
     name: マキャン語
     auto: true

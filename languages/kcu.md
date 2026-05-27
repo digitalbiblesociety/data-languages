@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كامي
     auto: true
+  - translation_iso: hin
+    name: कामी (तंजानिया)
+    auto: true
   - translation_iso: jpn
     name: カミ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جنوب سورسوجانون
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी सोर्सोगानोन
+    auto: true
   - translation_iso: jpn
     name: ワライソルソゴン語
     auto: true

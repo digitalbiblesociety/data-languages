@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة توكي
     auto: true
+  - translation_iso: hin
+    name: तुकी
+    auto: true
   - translation_iso: jpn
     name: トゥキ語
     auto: true

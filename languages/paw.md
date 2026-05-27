@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوني
     auto: true
+  - translation_iso: hin
+    name: पॉनी
+    auto: true
   - translation_iso: jpn
     name: ポーニー語
   - translation_iso: zho

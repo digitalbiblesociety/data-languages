@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكسي برزخ
     auto: true
+  - translation_iso: hin
+    name: इस्थमस मिशे
+    auto: true
   - translation_iso: jpn
     name: 峡谷ミヘ語
     auto: true

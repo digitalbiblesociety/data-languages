@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونزو
     auto: true
+  - translation_iso: hin
+    name: तुन्ज़ु
+    auto: true
   - translation_iso: jpn
     name: トゥンズ語
     auto: true

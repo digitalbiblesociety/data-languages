@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باراامو
     auto: true
+  - translation_iso: hin
+    name: बरामू
+    auto: true
   - translation_iso: jpn
     name: バラアム語
     auto: true

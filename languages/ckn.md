@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاانغ تشين
     auto: true
+  - translation_iso: hin
+    name: कांग चिन
+    auto: true
   - translation_iso: jpn
     name: カーン・チン語
     auto: true

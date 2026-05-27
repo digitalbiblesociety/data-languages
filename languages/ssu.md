@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوسوامي
     auto: true
+  - translation_iso: hin
+    name: सुसुआमी
+    auto: true
   - translation_iso: jpn
     name: ススアミ語
     auto: true

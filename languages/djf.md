@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دجانجون
     auto: true
+  - translation_iso: hin
+    name: जंगुन
+    auto: true
   - translation_iso: jpn
     name: ジャングン語
     auto: true

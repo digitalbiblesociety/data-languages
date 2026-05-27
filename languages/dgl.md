@@ -11,6 +11,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dongolawi_language"
 translations:
   - translation_iso: ara
     name: الأنداندية
+  - translation_iso: hin
+    name: अंदांदी
+    auto: true
   - translation_iso: jpn
     name: ドンゴラウィ語
   - translation_iso: kor

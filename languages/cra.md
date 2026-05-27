@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشارا
     auto: true
+  - translation_iso: hin
+    name: चारा
+    auto: true
   - translation_iso: jpn
     name: チャラ語
     auto: true

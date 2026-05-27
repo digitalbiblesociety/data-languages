@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجوردجار
     auto: true
+  - translation_iso: hin
+    name: गुर्जर
+    auto: true
   - translation_iso: jpn
     name: グルッジャル語
     auto: true

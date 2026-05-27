@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجيدجيد
     auto: true
+  - translation_iso: hin
+    name: गेदागेद
+    auto: true
   - translation_iso: jpn
     name: ゲダーゲド語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غودي
     auto: true
+  - translation_iso: hin
+    name: गुडे
+    auto: true
   - translation_iso: jpn
     name: グデ語
     auto: true

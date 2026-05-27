@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أريبواتسا
     auto: true
+  - translation_iso: hin
+    name: अरिब्वात्सा
+    auto: true
   - translation_iso: jpn
     name: アリブワツァ語
     auto: true

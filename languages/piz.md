@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيجي
     auto: true
+  - translation_iso: hin
+    name: पिजे
+    auto: true
   - translation_iso: jpn
     name: ピジェ語
     auto: true

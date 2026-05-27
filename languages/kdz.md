@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كواجا
     auto: true
+  - translation_iso: hin
+    name: क्वाजा
+    auto: true
   - translation_iso: jpn
     name: クワジャ語
     auto: true

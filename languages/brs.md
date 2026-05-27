@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باراس
     auto: true
+  - translation_iso: hin
+    name: बारास
+    auto: true
   - translation_iso: jpn
     name: バラス語
     auto: true

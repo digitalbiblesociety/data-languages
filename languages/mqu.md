@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندري
     auto: true
+  - translation_iso: hin
+    name: मांदारी
+    auto: true
   - translation_iso: jpn
     name: マンダリ語
     auto: true

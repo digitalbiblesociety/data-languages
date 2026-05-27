@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفولفولدية النيجر الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी नाइजर फुलफुल्दे
+    auto: true
   - translation_iso: jpn
     name: 西部ニジェール・フルフルディ語
   - translation_iso: zho

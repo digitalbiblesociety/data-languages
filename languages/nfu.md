@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مفومتي
     auto: true
+  - translation_iso: hin
+    name: म्फुम्ते
+    auto: true
   - translation_iso: jpn
     name: ムフムテ語
     auto: true

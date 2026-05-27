@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نامia
     auto: true
+  - translation_iso: hin
+    name: नामिया
+    auto: true
   - translation_iso: jpn
     name: ナミア語
   - translation_iso: zho

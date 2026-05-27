@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة و-وكول
     auto: true
+  - translation_iso: hin
+    name: बो-रुकुल
+    auto: true
   - translation_iso: jpn
     name: ボ・ルクル語
     auto: true

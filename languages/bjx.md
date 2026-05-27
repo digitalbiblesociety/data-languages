@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بناو إيتنج
     auto: true
+  - translation_iso: hin
+    name: बानाओ इत्नेग
+    auto: true
   - translation_iso: jpn
     name: バナオ・イトネグ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيفي
     auto: true
+  - translation_iso: hin
+    name: फेफे
+    auto: true
   - translation_iso: jpn
     name: フェフェ語
   - translation_iso: zho

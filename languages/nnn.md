@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نجيتي
     auto: true
+  - translation_iso: hin
+    name: न्गेते
+    auto: true
   - translation_iso: jpn
     name: ングエテ語
     auto: true

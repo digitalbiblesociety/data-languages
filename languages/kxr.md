@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كورو (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: hin
+    name: कोरो (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: コロ語
   - translation_iso: zho

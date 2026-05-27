@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نييوكون
     auto: true
+  - translation_iso: hin
+    name: न्योकोन
+    auto: true
   - translation_iso: jpn
     name: ニョコン語
     auto: true

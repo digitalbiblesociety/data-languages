@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيلون
     auto: true
+  - translation_iso: hin
+    name: केलोन
+    auto: true
   - translation_iso: jpn
     name: ケロン語
     auto: true

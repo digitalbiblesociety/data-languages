@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تجوروروا
     auto: true
+  - translation_iso: hin
+    name: तजुर्रुरु
+    auto: true
   - translation_iso: jpn
     name: チュルル語
     auto: true

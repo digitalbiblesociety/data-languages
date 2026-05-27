@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مامفو
     auto: true
+  - translation_iso: hin
+    name: मामवु
+    auto: true
   - translation_iso: jpn
     name: マムブ語
   - translation_iso: zho

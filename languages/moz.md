@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موكولو
     auto: true
+  - translation_iso: hin
+    name: मुकुलु
+    auto: true
   - translation_iso: jpn
     name: ムクル語
     auto: true

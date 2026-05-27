@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كورامة
     auto: true
+  - translation_iso: hin
+    name: कुरामा
+    auto: true
   - translation_iso: jpn
     name: クラマ語
     auto: true

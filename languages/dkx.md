@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مازاجواي
     auto: true
+  - translation_iso: hin
+    name: मज़ागवे
+    auto: true
   - translation_iso: jpn
     name: マザグウェイ語
     auto: true

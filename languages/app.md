@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبما
     auto: true
+  - translation_iso: hin
+    name: अप्मा
+    auto: true
   - translation_iso: jpn
     name: アプマ語
   - translation_iso: zho

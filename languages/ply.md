@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولفو
     auto: true
+  - translation_iso: hin
+    name: बोल्यु
+    auto: true
   - translation_iso: jpn
     name: ボルユ語
     auto: true

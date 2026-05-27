@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاري
     auto: true
+  - translation_iso: hin
+    name: कारे (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: カレ語
     auto: true

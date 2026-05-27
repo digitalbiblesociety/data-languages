@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلا
     auto: true
+  - translation_iso: hin
+    name: पेला
+    auto: true
   - translation_iso: jpn
     name: ペラ語
   - translation_iso: zho

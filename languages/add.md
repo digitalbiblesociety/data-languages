@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ليدزونكا
     auto: true
+  - translation_iso: hin
+    name: लिद्ज़ोंका
+    auto: true
   - translation_iso: jpn
     name: リゾンカ語
     auto: true

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بورار
     auto: true
+  - translation_iso: hin
+    name: पुरारी
+    auto: true
   - translation_iso: jpn
     name: プラリ語
     auto: true

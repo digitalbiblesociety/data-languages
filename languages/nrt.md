@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالابويا الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी कलापुया
+    auto: true
   - translation_iso: jpn
     name: 北カラプヤ語
     auto: true

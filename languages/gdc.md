@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جوجو باضون
     auto: true
+  - translation_iso: hin
+    name: गुगु बधुन
+    auto: true
   - translation_iso: jpn
     name: ググ・バドゥン語
     auto: true

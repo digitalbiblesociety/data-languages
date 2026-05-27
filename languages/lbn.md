@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رميت
     auto: true
+  - translation_iso: hin
+    name: रमीत
+    auto: true
   - translation_iso: jpn
     name: ルミート語
     auto: true

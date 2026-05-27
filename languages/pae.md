@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باغيبيتي
     auto: true
+  - translation_iso: hin
+    name: पागिबेते
+    auto: true
   - translation_iso: jpn
     name: パギベテ語
     auto: true

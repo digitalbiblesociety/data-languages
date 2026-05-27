@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كايا الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी कायाह
+    auto: true
   - translation_iso: jpn
     name: 東カヤー語
     auto: true

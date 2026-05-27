@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أراكي
     auto: true
+  - translation_iso: hin
+    name: अराकी
+    auto: true
   - translation_iso: jpn
     name: アラキ語
   - translation_iso: zho

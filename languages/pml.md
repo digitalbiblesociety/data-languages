@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mediterranean_Lingua_Franca"
 translations:
   - translation_iso: ara
     name: صابر
+  - translation_iso: hin
+    name: लिंगुआ फ़्रैंका
+    auto: true
   - translation_iso: jpn
     name: 地中海共通語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتساهواكا
     auto: true
+  - translation_iso: hin
+    name: अत्साहुआका
+    auto: true
   - translation_iso: jpn
     name: アツァワカ語
     auto: true

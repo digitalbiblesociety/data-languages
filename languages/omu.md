@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة أومورانو
     auto: true
+  - translation_iso: hin
+    name: ओमुरानो
+    auto: true
   - translation_iso: jpn
     name: オムラーノ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة رينيل-بيلونا
     auto: true
+  - translation_iso: hin
+    name: रेनेल-बेलोना
+    auto: true
   - translation_iso: jpn
     name: レンネル語
   - translation_iso: zho

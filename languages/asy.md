@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياوساكور أسمات
     auto: true
+  - translation_iso: hin
+    name: याओसाकोर असमत
+    auto: true
   - translation_iso: jpn
     name: ヤオサコル・アスマット語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كاكاباي
     auto: true
+  - translation_iso: hin
+    name: काकाबाई
+    auto: true
   - translation_iso: jpn
     name: カカバイ語
     auto: true

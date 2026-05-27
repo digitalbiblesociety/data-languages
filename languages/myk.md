@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مامارا سينوفو
     auto: true
+  - translation_iso: hin
+    name: मामारा सेनोउफो
+    auto: true
   - translation_iso: jpn
     name: ママラ・セヌフォ語
   - translation_iso: kor

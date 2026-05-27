@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكاما
     auto: true
+  - translation_iso: hin
+    name: बाकामा
+    auto: true
   - translation_iso: jpn
     name: バカマ語
     auto: true

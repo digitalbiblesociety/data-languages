@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كايان
     auto: true
+  - translation_iso: hin
+    name: काइयान
+    auto: true
   - translation_iso: jpn
     name: カイアン語
     auto: true

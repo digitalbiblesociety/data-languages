@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هاروي
     auto: true
+  - translation_iso: hin
+    name: हारोई
+    auto: true
   - translation_iso: jpn
     name: ハロイ語
     auto: true

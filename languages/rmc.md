@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الرومانية الكاربثية
     auto: true
+  - translation_iso: hin
+    name: कार्पेथियन रोमानी
+    auto: true
   - translation_iso: jpn
     name: カルパティア・ロマ語
   - translation_iso: zho

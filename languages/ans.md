@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أنسيرما
     auto: true
+  - translation_iso: hin
+    name: अनसरमा
+    auto: true
   - translation_iso: jpn
     name: アンセルマ語
     auto: true

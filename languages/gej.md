@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجين
     auto: true
+  - translation_iso: hin
+    name: गेन
+    auto: true
   - translation_iso: jpn
     name: ゲン語
   - translation_iso: zho

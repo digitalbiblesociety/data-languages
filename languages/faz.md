@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: الفارسية الشمالية الغربية
     auto: true
+  - translation_iso: hin
+    name: उत्तर-पश्चिमी फ़ार्स
+    auto: true
   - translation_iso: jpn
     name: 北西ファルス語
     auto: true

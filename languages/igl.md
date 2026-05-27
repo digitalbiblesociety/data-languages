@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Igala_language"
 translations:
   - translation_iso: ara
     name: إجالا
+  - translation_iso: hin
+    name: इगाला
+    auto: true
   - translation_iso: jpn
     name: イガラ語
   - translation_iso: zho

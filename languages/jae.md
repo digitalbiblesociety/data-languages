@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يابيم
     auto: true
+  - translation_iso: hin
+    name: याबेम
+    auto: true
   - translation_iso: jpn
     name: ヤベム語
   - translation_iso: zho

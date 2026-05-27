@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفورو
     auto: true
+  - translation_iso: hin
+    name: फुरू
+    auto: true
   - translation_iso: jpn
     name: フル語
     auto: true

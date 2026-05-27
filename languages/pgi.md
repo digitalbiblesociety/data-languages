@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باغي
     auto: true
+  - translation_iso: hin
+    name: पागी
+    auto: true
   - translation_iso: jpn
     name: パギ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: "كايلي دا'ا"
     auto: true
+  - translation_iso: hin
+    name: दआ कैली
+    auto: true
   - translation_iso: jpn
     name: ダア・カイリ語
     auto: true

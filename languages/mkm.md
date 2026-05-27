@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موكلين
     auto: true
+  - translation_iso: hin
+    name: मोकलेन
+    auto: true
   - translation_iso: jpn
     name: モクレン語
     auto: true

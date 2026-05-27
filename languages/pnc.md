@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانّي
     auto: true
+  - translation_iso: hin
+    name: पन्नेई
+    auto: true
   - translation_iso: jpn
     name: パンネイ語
     auto: true

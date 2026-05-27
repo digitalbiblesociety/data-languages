@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Biritai_language"
 translations:
   - translation_iso: ara
     name: لغة بيريتاي
+  - translation_iso: hin
+    name: बिरिताई
+    auto: true
   - translation_iso: jpn
     name: ビリタイ語
     auto: true

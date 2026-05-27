@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إي نابا ورومايبو
     auto: true
+  - translation_iso: hin
+    name: एन्यापा वोरोमाइपु
+    auto: true
   - translation_iso: jpn
     name: エニャパ・ウォロマイプ語
     auto: true

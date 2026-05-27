@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإميريون
     auto: true
+  - translation_iso: hin
+    name: एमेरिलॉन
+    auto: true
   - translation_iso: jpn
     name: エメリヨン語
     auto: true

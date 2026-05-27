@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: إيرانون
     auto: true
+  - translation_iso: hin
+    name: इरानुन (फिलीपींस)
+    auto: true
   - translation_iso: jpn
     name: イラヌン語
   - translation_iso: zho

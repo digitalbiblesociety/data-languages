@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوليبوجان سوبانون
     auto: true
+  - translation_iso: hin
+    name: कोलिबुगान सुबानोन
+    auto: true
   - translation_iso: jpn
     name: スバヌン語
     auto: true

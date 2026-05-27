@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاسيجوران دوماجات أجتا
     auto: true
+  - translation_iso: hin
+    name: कासिगुरान दुमागत आग्ता
+    auto: true
   - translation_iso: jpn
     name: カシグラン・ドゥマガット・アグタ語
     auto: true

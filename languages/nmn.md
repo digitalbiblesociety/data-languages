@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Taa_language"
 translations:
   - translation_iso: ara
     name: لغة تا
+  - translation_iso: hin
+    name: ता
+    auto: true
   - translation_iso: jpn
     name: タア語
   - translation_iso: kor

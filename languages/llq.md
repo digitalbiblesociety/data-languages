@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ولاك
     auto: true
+  - translation_iso: hin
+    name: लोलाक
+    auto: true
   - translation_iso: jpn
     name: ロラク語
   - translation_iso: zho

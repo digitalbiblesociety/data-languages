@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو بابا
     auto: true
+  - translation_iso: hin
+    name: बाबा मलय
+    auto: true
   - translation_iso: jpn
     name: ババ・マレー語
     auto: true

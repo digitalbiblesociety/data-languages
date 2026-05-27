@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي لوي
     auto: true
+  - translation_iso: hin
+    name: ताई लोई
+    auto: true
   - translation_iso: jpn
     name: タイ・ロイ語
     auto: true

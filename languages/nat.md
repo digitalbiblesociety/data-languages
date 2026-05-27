@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كا هونجوارا
     auto: true
+  - translation_iso: hin
+    name: कहुंगवार्या
+    auto: true
   - translation_iso: jpn
     name: カフングワリャ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بروكباكي
     auto: true
+  - translation_iso: hin
+    name: ब्रोकपाके
+    auto: true
   - translation_iso: jpn
     name: メラ・サクテン語
   - translation_iso: zho

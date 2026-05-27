@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سابو
     auto: true
+  - translation_iso: hin
+    name: साबू
+    auto: true
   - translation_iso: jpn
     name: サブ語
     auto: true

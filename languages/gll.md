@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآرلآلي
     auto: true
+  - translation_iso: hin
+    name: गारलाली
+    auto: true
   - translation_iso: jpn
     name: ガルラリ語
     auto: true

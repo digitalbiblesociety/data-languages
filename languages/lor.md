@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ن
     auto: true
+  - translation_iso: hin
+    name: तेन
+    auto: true
   - translation_iso: jpn
     name: テーン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايسين
     auto: true
+  - translation_iso: hin
+    name: माइसिन
+    auto: true
   - translation_iso: jpn
     name: マイシン語
     auto: true

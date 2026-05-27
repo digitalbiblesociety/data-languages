@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سلافومولسانو
     auto: true
+  - translation_iso: hin
+    name: स्लावोमोलिसानो
+    auto: true
   - translation_iso: jpn
     name: スラヴォモリサーノ語
     auto: true

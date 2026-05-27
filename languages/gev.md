@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إفييآ
     auto: true
+  - translation_iso: hin
+    name: एविया
+    auto: true
   - translation_iso: jpn
     name: ヴィヤ語
   - translation_iso: zho

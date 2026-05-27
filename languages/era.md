@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيرافالان
     auto: true
+  - translation_iso: hin
+    name: एरवल्लन
+    auto: true
   - translation_iso: jpn
     name: エラヴァッラン語
     auto: true

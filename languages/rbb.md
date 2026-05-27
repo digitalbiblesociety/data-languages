@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: روماي بالاونج
     auto: true
+  - translation_iso: hin
+    name: रुमाई पलौंग
+    auto: true
   - translation_iso: jpn
     name: ルマイパラウン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كلاو
     auto: true
+  - translation_iso: hin
+    name: क्लाओ
+    auto: true
   - translation_iso: jpn
     name: クラオ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زوايي
     auto: true
+  - translation_iso: hin
+    name: ज़ोए
+    auto: true
   - translation_iso: jpn
     name: ゾエ語
   - translation_iso: zho

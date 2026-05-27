@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتا
     auto: true
+  - translation_iso: hin
+    name: बाटा
+    auto: true
   - translation_iso: jpn
     name: バタ語
   - translation_iso: zho

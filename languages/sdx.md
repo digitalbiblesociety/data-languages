@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيبو ميلاناو
     auto: true
+  - translation_iso: hin
+    name: सिबु मेलानाउ
+    auto: true
   - translation_iso: jpn
     name: セントラル・メラナウ語
     auto: true

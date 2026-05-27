@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونيو-غونغوانغ ناغا
     auto: true
+  - translation_iso: hin
+    name: पोन्यो-गोंगवांग नागा
+    auto: true
   - translation_iso: jpn
     name: ポンヨ・ゴングワン・ナガ語
     auto: true

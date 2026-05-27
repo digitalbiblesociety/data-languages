@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوروبورا
     auto: true
+  - translation_iso: hin
+    name: पुरुबोरा
+    auto: true
   - translation_iso: jpn
     name: プルボラ語
     auto: true

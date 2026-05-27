@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لاري
     auto: true
+  - translation_iso: hin
+    name: लारी
+    auto: true
   - translation_iso: jpn
     name: ラリ語
   - translation_iso: zho

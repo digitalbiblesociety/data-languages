@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ǁغآنآ
     auto: true
+  - translation_iso: hin
+    name: ग्ǁआना
+    auto: true
   - translation_iso: jpn
     name: ガーナ語
   - translation_iso: zho

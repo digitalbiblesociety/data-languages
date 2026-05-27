@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أبادي
     auto: true
+  - translation_iso: hin
+    name: अबादी
+    auto: true
   - translation_iso: jpn
     name: アバディ語
     auto: true

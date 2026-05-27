@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Samaritan_Hebrew"
 translations:
   - translation_iso: ara
     name: عبرية سامرية
+  - translation_iso: hin
+    name: सामरी
+    auto: true
   - translation_iso: jpn
     name: サマリア語
   - translation_iso: kor

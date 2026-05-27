@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التشيلية
     auto: true
+  - translation_iso: hin
+    name: चिली सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: チリ手話
   - translation_iso: zho

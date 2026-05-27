@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيمبو
     auto: true
+  - translation_iso: hin
+    name: सिम्बो
+    auto: true
   - translation_iso: jpn
     name: マデグス語
     auto: true

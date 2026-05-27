@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ارا
     auto: true
+  - translation_iso: hin
+    name: कारा (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: カラ語
   - translation_iso: kor

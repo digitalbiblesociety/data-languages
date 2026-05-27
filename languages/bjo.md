@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باندا منتصف جنوبية
     auto: true
+  - translation_iso: hin
+    name: मध्य-दक्षिणी बांदा
+    auto: true
   - translation_iso: jpn
     name: 中南バンダ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نورذرن أمامي أوشيما
     auto: true
+  - translation_iso: hin
+    name: उत्तरी अमामी-ओशिमा
+    auto: true
   - translation_iso: jpn
     name: 北奄美大島方言
   - translation_iso: kor

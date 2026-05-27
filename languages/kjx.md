@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة رامويا
     auto: true
+  - translation_iso: hin
+    name: रामोपा
+    auto: true
   - translation_iso: jpn
     name: ケリアカ語
   - translation_iso: zho

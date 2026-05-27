@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مارينغ ناغا
     auto: true
+  - translation_iso: hin
+    name: मारिंग नागा
+    auto: true
   - translation_iso: jpn
     name: マリング・ナガ語
     auto: true

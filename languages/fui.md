@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bagirmi_Fulfulde"
 translations:
   - translation_iso: ara
     name: باقرمي فيلفيلد
+  - translation_iso: hin
+    name: बागिर्मी फुलफुल्दे
+    auto: true
   - translation_iso: jpn
     name: バギルミ・フルフルディ語
   - translation_iso: zho

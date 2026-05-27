@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هويتشول
     auto: true
+  - translation_iso: hin
+    name: हुइचोल
+    auto: true
   - translation_iso: jpn
     name: ウイチョル語
   - translation_iso: zho

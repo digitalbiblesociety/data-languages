@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جينا
     auto: true
+  - translation_iso: hin
+    name: जिना
+    auto: true
   - translation_iso: jpn
     name: ジナ語
     auto: true

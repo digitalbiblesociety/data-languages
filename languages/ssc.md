@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبا-سيمبيتي
     auto: true
+  - translation_iso: hin
+    name: सुबा-सिम्बिती
+    auto: true
   - translation_iso: jpn
     name: キシンビティ語
     auto: true

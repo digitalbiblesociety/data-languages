@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوني
     auto: true
+  - translation_iso: hin
+    name: नूने
+    auto: true
   - translation_iso: jpn
     name: Noni語
   - translation_iso: zho

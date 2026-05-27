@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألامبلاك
     auto: true
+  - translation_iso: hin
+    name: अलाम्ब्लाक
+    auto: true
   - translation_iso: jpn
     name: アランブラック語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إستموس بابابان ناهواتل
     auto: true
+  - translation_iso: hin
+    name: इस्थमस-पाजापान नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: 峡湾部・パハパン・ナワトル語
     auto: true

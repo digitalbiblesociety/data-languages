@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بوروماكوك
     auto: true
+  - translation_iso: hin
+    name: बुरुमाकोक
+    auto: true
   - translation_iso: jpn
     name: ブルマコク語
     auto: true

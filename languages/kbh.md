@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة كامسا
     auto: true
+  - translation_iso: hin
+    name: कामसा
+    auto: true
   - translation_iso: jpn
     name: カムサ語
     auto: true

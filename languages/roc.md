@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاجيا روجلاي
     auto: true
+  - translation_iso: hin
+    name: कैकगिया रोग्लाई
+    auto: true
   - translation_iso: jpn
     name: カギアログライ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: المايا الخطية
     auto: true
+  - translation_iso: hin
+    name: अभिलेखीय माया
+    auto: true
   - translation_iso: jpn
     name: 古典マヤ語
   - translation_iso: kor

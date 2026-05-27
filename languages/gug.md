@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بآرآغوآيآن غوآرآنí
     auto: true
+  - translation_iso: hin
+    name: पराग्वायी गुआरानी
+    auto: true
   - translation_iso: jpn
     name: パラグアイ・グアラニー語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوميانداريت
     auto: true
+  - translation_iso: hin
+    name: कोम्यांदारेत
+    auto: true
   - translation_iso: jpn
     name: コミャンダレット語
     auto: true

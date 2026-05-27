@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيمونو
     auto: true
+  - translation_iso: hin
+    name: पेमोनो
+    auto: true
   - translation_iso: jpn
     name: ペモノ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سافوا
     auto: true
+  - translation_iso: hin
+    name: साफवा
+    auto: true
   - translation_iso: jpn
     name: イシサファ語
     auto: true

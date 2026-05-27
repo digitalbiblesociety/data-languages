@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بلاان
     auto: true
+  - translation_iso: hin
+    name: ब्लान
+    auto: true
   - translation_iso: jpn
     name: ブラアン語
     auto: true

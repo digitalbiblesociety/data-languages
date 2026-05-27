@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راو
     auto: true
+  - translation_iso: hin
+    name: राओ
+    auto: true
   - translation_iso: jpn
     name: ラオ語
   - translation_iso: zho

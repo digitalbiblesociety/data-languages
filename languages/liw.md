@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ول
     auto: true
+  - translation_iso: hin
+    name: कोल
+    auto: true
   - translation_iso: jpn
     name: コル語
     auto: true

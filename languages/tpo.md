@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي باو
     auto: true
+  - translation_iso: hin
+    name: ताई पाओ
+    auto: true
   - translation_iso: jpn
     name: タイ・パオ語
   - translation_iso: zho

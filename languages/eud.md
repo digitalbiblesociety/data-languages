@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: الإويديفي
     auto: true
+  - translation_iso: hin
+    name: एउदेवे
+    auto: true
   - translation_iso: jpn
     name: オウデベ語
     auto: true

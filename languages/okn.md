@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكي نو إيرابو
     auto: true
+  - translation_iso: hin
+    name: ओकी-नो-एराबु
+    auto: true
   - translation_iso: jpn
     name: 沖永良部島方言
   - translation_iso: kor

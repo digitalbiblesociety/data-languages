@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماموجو
     auto: true
+  - translation_iso: hin
+    name: मामुजू
+    auto: true
   - translation_iso: jpn
     name: マムジュ語
     auto: true

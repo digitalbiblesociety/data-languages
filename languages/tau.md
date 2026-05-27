@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانانا العليا
     auto: true
+  - translation_iso: hin
+    name: ऊपरी तानाना
+    auto: true
   - translation_iso: jpn
     name: 上部タナナ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جاريفونا
     auto: true
+  - translation_iso: hin
+    name: गारिफुना
+    auto: true
   - translation_iso: jpn
     name: ガリフナ語
   - translation_iso: kor

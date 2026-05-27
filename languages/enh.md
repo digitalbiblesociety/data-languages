@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنتس التندرا
     auto: true
+  - translation_iso: hin
+    name: टुंड्रा एनेट्स
+    auto: true
   - translation_iso: jpn
     name: ツンドラエネツ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فانا
     auto: true
+  - translation_iso: hin
+    name: फाना
+    auto: true
   - translation_iso: jpn
     name: ファナ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غيدآر
     auto: true
+  - translation_iso: hin
+    name: गिदार
+    auto: true
   - translation_iso: jpn
     name: ギダル語
   - translation_iso: zho

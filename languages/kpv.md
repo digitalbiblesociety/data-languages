@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كومي زيريان
     auto: true
+  - translation_iso: hin
+    name: कोमी-ज़िरयान
+    auto: true
   - translation_iso: jpn
     name: コミ・ジリエーン語
   - translation_iso: kor

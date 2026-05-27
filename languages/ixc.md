@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيكسكاتك
     auto: true
+  - translation_iso: hin
+    name: इक्सकातेक
+    auto: true
   - translation_iso: jpn
     name: イチャテコ族
   - translation_iso: zho

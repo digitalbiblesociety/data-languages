@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غيليمآ
     auto: true
+  - translation_iso: hin
+    name: गिलिमा
+    auto: true
   - translation_iso: jpn
     name: ギリマ語
     auto: true

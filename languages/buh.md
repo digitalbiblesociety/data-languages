@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يوْنوو بونو
     auto: true
+  - translation_iso: hin
+    name: यूनुओ बुनू
+    auto: true
   - translation_iso: jpn
     name: ユンノ・ブヌ語
     auto: true

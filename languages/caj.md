@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: تشاني
     auto: true
+  - translation_iso: hin
+    name: चाने
+    auto: true
   - translation_iso: jpn
     name: チャネ語
   - translation_iso: kor

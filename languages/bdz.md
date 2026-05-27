@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: البادشي
     auto: true
+  - translation_iso: hin
+    name: बदेशी
+    auto: true
   - translation_iso: jpn
     name: バデシ語
     auto: true

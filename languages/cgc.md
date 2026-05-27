@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاغايانين
     auto: true
+  - translation_iso: hin
+    name: कागायानेन
+    auto: true
   - translation_iso: jpn
     name: カガヤネン語
   - translation_iso: zho

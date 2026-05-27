@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاكستاني
     auto: true
+  - translation_iso: hin
+    name: ताकेस्तानी
+    auto: true
   - translation_iso: jpn
     name: タケスタニ語
     auto: true

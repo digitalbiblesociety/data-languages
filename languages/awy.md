@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة إديرا أويو
     auto: true
+  - translation_iso: hin
+    name: एदेरा अव्यू
+    auto: true
   - translation_iso: jpn
     name: エデラ・アウユ語
     auto: true

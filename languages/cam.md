@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيموهي
     auto: true
+  - translation_iso: hin
+    name: सेमुही
+    auto: true
   - translation_iso: jpn
     name: チェムヒン語
   - translation_iso: kor

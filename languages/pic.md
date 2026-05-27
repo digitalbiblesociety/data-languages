@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينجي
     auto: true
+  - translation_iso: hin
+    name: पिंजी
+    auto: true
   - translation_iso: jpn
     name: ピンジ語
   - translation_iso: zho

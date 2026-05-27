@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالايسانج
     auto: true
+  - translation_iso: hin
+    name: बलाएसांग
+    auto: true
   - translation_iso: jpn
     name: バラエサン語
     auto: true

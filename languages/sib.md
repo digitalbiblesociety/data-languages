@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيبوب
     auto: true
+  - translation_iso: hin
+    name: सेबोप
+    auto: true
   - translation_iso: jpn
     name: セボップ語
     auto: true

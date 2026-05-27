@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميسيما-باناياتي
     auto: true
+  - translation_iso: hin
+    name: मिसिमा-पनाएती
+    auto: true
   - translation_iso: jpn
     name: ミシマ語
   - translation_iso: zho

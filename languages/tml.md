@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تامنيم تسيتاك
     auto: true
+  - translation_iso: hin
+    name: तामनिम चिताक
+    auto: true
   - translation_iso: jpn
     name: タムニン・チタク語
     auto: true

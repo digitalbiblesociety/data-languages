@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيتشيس أشينينكا
     auto: true
+  - translation_iso: hin
+    name: पिचिस अशेनिन्का
+    auto: true
   - translation_iso: jpn
     name: ピチス・アシェニンカ語
     auto: true

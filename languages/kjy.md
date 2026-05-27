@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إيرافي
     auto: true
+  - translation_iso: hin
+    name: एरावे
+    auto: true
   - translation_iso: jpn
     name: エラベ語
     auto: true

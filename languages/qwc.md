@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا الكلاسيكية
     auto: true
+  - translation_iso: hin
+    name: शास्त्रीय क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: 古ケチュア語
   - translation_iso: zho

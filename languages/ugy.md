@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة الأوروغوايانية
     auto: true
+  - translation_iso: hin
+    name: उरुग्वे सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ウルグアイ手話
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيجآ
     auto: true
+  - translation_iso: hin
+    name: किजा
+    auto: true
   - translation_iso: jpn
     name: キジャ語
     auto: true

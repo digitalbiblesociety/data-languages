@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأفادي
     auto: true
+  - translation_iso: hin
+    name: अफादे
+    auto: true
   - translation_iso: jpn
     name: アファデ語
     auto: true

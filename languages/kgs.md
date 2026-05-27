@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كومبايينجار
     auto: true
+  - translation_iso: hin
+    name: कुम्बैन्गर
+    auto: true
   - translation_iso: jpn
     name: クンバインガル語
     auto: true

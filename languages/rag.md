@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوجولي
     auto: true
+  - translation_iso: hin
+    name: लोगूली
+    auto: true
   - translation_iso: jpn
     name: ロゴーリ語
   - translation_iso: zho

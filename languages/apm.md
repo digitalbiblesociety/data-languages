@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مسكاليرو-تشيريكاهوا أباتشي
     auto: true
+  - translation_iso: hin
+    name: मेस्कालेरो-चिरीकाहुआ अपाचे
+    auto: true
   - translation_iso: jpn
     name: チリカワ語
   - translation_iso: zho

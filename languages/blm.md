@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلي
     auto: true
+  - translation_iso: hin
+    name: बेली (दक्षिण सूडान)
+    auto: true
   - translation_iso: jpn
     name: ベリ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سالامباسو
     auto: true
+  - translation_iso: hin
+    name: सालामपासु
+    auto: true
   - translation_iso: jpn
     name: チサランパス語
     auto: true

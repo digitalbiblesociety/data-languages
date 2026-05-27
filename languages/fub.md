@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفولفولدية آدمووا
     auto: true
+  - translation_iso: hin
+    name: अदामावा फुलफुल्दे
+    auto: true
   - translation_iso: jpn
     name: アダマワ・フルフルディ語
   - translation_iso: zho

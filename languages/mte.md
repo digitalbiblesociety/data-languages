@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مونو (جزر سليمان)
     auto: true
+  - translation_iso: hin
+    name: मोनो (सोलोमन द्वीप)
+    auto: true
   - translation_iso: jpn
     name: モノ語
     auto: true

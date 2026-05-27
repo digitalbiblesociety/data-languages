@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغامني
     auto: true
+  - translation_iso: hin
+    name: न्गामिनी
+    auto: true
   - translation_iso: jpn
     name: ングアミニ語
     auto: true

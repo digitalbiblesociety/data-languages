@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باجوسا
     auto: true
+  - translation_iso: hin
+    name: बागुसा
+    auto: true
   - translation_iso: jpn
     name: バグサ語
     auto: true

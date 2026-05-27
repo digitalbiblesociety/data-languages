@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا ماركوس-يارويلكا-لاوريكوتشا
     auto: true
+  - translation_iso: hin
+    name: मार्गोस-यारोविल्का-लाउरिकोचा क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: マルゴスヤロウィルカロウリコチャケチュア語
     auto: true

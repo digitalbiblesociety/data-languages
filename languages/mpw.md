@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مابيديان
     auto: true
+  - translation_iso: hin
+    name: मापिदियान
+    auto: true
   - translation_iso: jpn
     name: マピディア語
   - translation_iso: zho

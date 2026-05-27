@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مافا الشاد
     auto: true
+  - translation_iso: hin
+    name: मावा
+    auto: true
   - translation_iso: jpn
     name: マワ語
     auto: true

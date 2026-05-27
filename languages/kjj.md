@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خينالوغ
     auto: true
+  - translation_iso: hin
+    name: ख़िनालुग़
+    auto: true
   - translation_iso: jpn
     name: ヒナルク語
   - translation_iso: kor

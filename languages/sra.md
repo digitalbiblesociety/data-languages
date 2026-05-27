@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساروجا
     auto: true
+  - translation_iso: hin
+    name: सारुगा
+    auto: true
   - translation_iso: jpn
     name: サルガ語
     auto: true

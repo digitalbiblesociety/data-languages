@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناتيورو
     auto: true
+  - translation_iso: hin
+    name: नातिओरो
+    auto: true
   - translation_iso: jpn
     name: ナティオロ語
     auto: true

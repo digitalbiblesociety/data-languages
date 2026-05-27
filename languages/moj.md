@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مونزومبو
     auto: true
+  - translation_iso: hin
+    name: मोंज़ोंबो
+    auto: true
   - translation_iso: jpn
     name: モンゾンボ語
     auto: true

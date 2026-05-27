@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوراتي
     auto: true
+  - translation_iso: hin
+    name: बुराते
+    auto: true
   - translation_iso: jpn
     name: ブラテ語
     auto: true

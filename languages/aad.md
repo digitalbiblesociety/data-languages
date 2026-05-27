@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأمال
     auto: true
+  - translation_iso: hin
+    name: अमाल
+    auto: true
   - translation_iso: jpn
     name: アマル語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابوسا
     auto: true
+  - translation_iso: hin
+    name: सापोसा
+    auto: true
   - translation_iso: jpn
     name: タイオフ語
     auto: true

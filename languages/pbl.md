@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماك نيجيريا
     auto: true
+  - translation_iso: hin
+    name: माक (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: マク語
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تيديم تشين
     auto: true
+  - translation_iso: hin
+    name: टेडिम चिन
+    auto: true
   - translation_iso: jpn
     name: ティディム・チン語
   - translation_iso: zho

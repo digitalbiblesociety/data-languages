@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة وتاندوكهي يكستيك
     auto: true
+  - translation_iso: hin
+    name: युतान्दुची मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: ユタンドゥチ・ミステク語
     auto: true

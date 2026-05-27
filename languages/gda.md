@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جادي لوهار
     auto: true
+  - translation_iso: hin
+    name: गाड़े लोहार
+    auto: true
   - translation_iso: jpn
     name: ガデ・ロハール語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يكي
     auto: true
+  - translation_iso: hin
+    name: लिकी
+    auto: true
   - translation_iso: jpn
     name: リキ語
     auto: true

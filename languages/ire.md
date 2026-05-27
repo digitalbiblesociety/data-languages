@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيريسيم
     auto: true
+  - translation_iso: hin
+    name: इरेसिम
+    auto: true
   - translation_iso: jpn
     name: イレシム語
     auto: true

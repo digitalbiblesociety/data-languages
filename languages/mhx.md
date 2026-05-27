@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارو
     auto: true
+  - translation_iso: hin
+    name: मारु
+    auto: true
   - translation_iso: jpn
     name: ロンウォー語
   - translation_iso: zho

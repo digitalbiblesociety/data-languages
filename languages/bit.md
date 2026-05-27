@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيرينومو
     auto: true
+  - translation_iso: hin
+    name: बेरिनोमो
+    auto: true
   - translation_iso: jpn
     name: ベリノモ語
     auto: true

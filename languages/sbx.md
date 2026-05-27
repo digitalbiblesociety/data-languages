@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيبيرونج
     auto: true
+  - translation_iso: hin
+    name: सेबेरुआंग
+    auto: true
   - translation_iso: jpn
     name: セベルアン語
     auto: true

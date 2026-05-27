@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ساكاتلان أهواكاتلان تيبتسينتلا ناهواتل
     auto: true
+  - translation_iso: hin
+    name: साकातलान-आहुआकातलान-तेपेत्ज़िंतला नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: サカトラン・アワカトラン・テペツィントラ・ナワトル語
     auto: true

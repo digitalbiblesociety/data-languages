@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأيسلندية
     auto: true
+  - translation_iso: hin
+    name: आइसलैंडिक सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: アイスランド手話
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسوكو
     auto: true
+  - translation_iso: hin
+    name: इसोको
+    auto: true
   - translation_iso: jpn
     name: イソコ語
   - translation_iso: zho

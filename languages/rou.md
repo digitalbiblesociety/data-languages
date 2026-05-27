@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رونجا
     auto: true
+  - translation_iso: hin
+    name: रुंगा
+    auto: true
   - translation_iso: jpn
     name: ルンガ語
     auto: true

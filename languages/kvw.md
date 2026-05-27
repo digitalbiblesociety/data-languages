@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويرسنج
     auto: true
+  - translation_iso: hin
+    name: वर्सिंग
+    auto: true
   - translation_iso: jpn
     name: ウェルシン語
     auto: true

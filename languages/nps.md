@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيبسان
     auto: true
+  - translation_iso: hin
+    name: निपसान
+    auto: true
   - translation_iso: jpn
     name: ニプサン語
     auto: true

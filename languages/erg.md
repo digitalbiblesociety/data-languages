@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السي
     auto: true
+  - translation_iso: hin
+    name: सिए
+    auto: true
   - translation_iso: jpn
     name: シエ語
   - translation_iso: zho

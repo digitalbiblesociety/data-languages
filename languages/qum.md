@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيباكابينسي
     auto: true
+  - translation_iso: hin
+    name: सिपाकापेन्से
+    auto: true
   - translation_iso: jpn
     name: シパカペンセ語
   - translation_iso: kor

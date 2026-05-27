@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كالينجا الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी कलिंगा
+    auto: true
   - translation_iso: jpn
     name: サザン・カリンガ語
     auto: true

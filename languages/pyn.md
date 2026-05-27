@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بويانّاوا
     auto: true
+  - translation_iso: hin
+    name: पोयानावा
+    auto: true
   - translation_iso: jpn
     name: ポヤナワ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوموك
     auto: true
+  - translation_iso: hin
+    name: ओमोक
+    auto: true
   - translation_iso: jpn
     name: オモク語
   - translation_iso: zho

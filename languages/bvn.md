@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بونا
     auto: true
+  - translation_iso: hin
+    name: बुना
+    auto: true
   - translation_iso: jpn
     name: ブナ語
     auto: true

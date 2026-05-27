@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوروم
     auto: true
+  - translation_iso: hin
+    name: होरोम
+    auto: true
   - translation_iso: jpn
     name: ホロム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داور
     auto: true
+  - translation_iso: hin
+    name: दौर
+    auto: true
   - translation_iso: jpn
     name: ダウール語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإكيت
     auto: true
+  - translation_iso: hin
+    name: एकित
+    auto: true
   - translation_iso: jpn
     name: エキット語
     auto: true

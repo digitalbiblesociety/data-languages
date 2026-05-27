@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبيا
     auto: true
+  - translation_iso: hin
+    name: कुपिया
+    auto: true
   - translation_iso: jpn
     name: クピア語
     auto: true

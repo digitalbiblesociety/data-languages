@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة باجيري
     auto: true
+  - translation_iso: hin
+    name: बाजिरी
+    auto: true
   - translation_iso: jpn
     name: バジリ語
     auto: true

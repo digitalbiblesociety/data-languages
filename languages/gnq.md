@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآنآ
     auto: true
+  - translation_iso: hin
+    name: गाना
+    auto: true
   - translation_iso: jpn
     name: ガナ語
     auto: true

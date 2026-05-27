@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Amis_language"
 translations:
   - translation_iso: ara
     name: أميس
+  - translation_iso: hin
+    name: अमिस
+    auto: true
   - translation_iso: jpn
     name: アミ語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا لوخا الجبلية
     auto: true
+  - translation_iso: hin
+    name: लोखा हाइलैंड किचुआ
+    auto: true
   - translation_iso: jpn
     name: ロハハイランドキチュア語
     auto: true

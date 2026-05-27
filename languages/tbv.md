@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: توبو
     auto: true
+  - translation_iso: hin
+    name: तोबो
+    auto: true
   - translation_iso: jpn
     name: トボ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فيام
     auto: true
+  - translation_iso: hin
+    name: फ्याम
+    auto: true
   - translation_iso: jpn
     name: フヤム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أريكابو
     auto: true
+  - translation_iso: hin
+    name: अरिकापू
+    auto: true
   - translation_iso: jpn
     name: アリカプ語
     auto: true

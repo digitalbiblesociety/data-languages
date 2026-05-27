@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: زولا جبي الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी ख्व्ला ग्बे
+    auto: true
   - translation_iso: jpn
     name: 東スウラ・ベ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موسو-إيميرا
     auto: true
+  - translation_iso: hin
+    name: मुसाउ-एमिरा
+    auto: true
   - translation_iso: jpn
     name: ムサウ・エミラ語
   - translation_iso: zho

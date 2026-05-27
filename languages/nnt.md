@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nanticoke_language"
 translations:
   - translation_iso: ara
     name: نانتيكوك
+  - translation_iso: hin
+    name: नान्तिकोक
+    auto: true
   - translation_iso: jpn
     name: ナンチコーク語
   - translation_iso: zho

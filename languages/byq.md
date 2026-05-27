@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باساي
     auto: true
+  - translation_iso: hin
+    name: बासाय
+    auto: true
   - translation_iso: jpn
     name: バサイ語
   - translation_iso: zho

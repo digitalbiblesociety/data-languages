@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكامثو
     auto: true
+  - translation_iso: hin
+    name: कैम्थो
+    auto: true
   - translation_iso: jpn
     name: カムトー語
     auto: true

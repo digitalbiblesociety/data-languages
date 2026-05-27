@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيليبي
     auto: true
+  - translation_iso: hin
+    name: सिलेइबी
+    auto: true
   - translation_iso: jpn
     name: シレイビ語
     auto: true

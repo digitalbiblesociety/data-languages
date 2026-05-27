@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اللاتفية
     auto: true
+  - translation_iso: hin
+    name: लातवियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ラトビア手話
   - translation_iso: zho

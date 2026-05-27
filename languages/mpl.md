@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة وسط واتوت
     auto: true
+  - translation_iso: hin
+    name: मध्य वातुत
+    auto: true
   - translation_iso: jpn
     name: ミドル・ワトゥット語
     auto: true

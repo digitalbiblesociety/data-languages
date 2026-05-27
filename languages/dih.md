@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوميا
     auto: true
+  - translation_iso: hin
+    name: कुमियाई
+    auto: true
   - translation_iso: jpn
     name: クミアイ語
     auto: true

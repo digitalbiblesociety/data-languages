@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيتو مبون أوزو
     auto: true
+  - translation_iso: hin
+    name: इतु म्बोन उज़ो
+    auto: true
   - translation_iso: jpn
     name: イトゥ・ムボン・ウゾ語
     auto: true

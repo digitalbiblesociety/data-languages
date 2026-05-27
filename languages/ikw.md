@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكويري
     auto: true
+  - translation_iso: hin
+    name: इक्वेरे
+    auto: true
   - translation_iso: jpn
     name: イクヴェレ語
   - translation_iso: zho

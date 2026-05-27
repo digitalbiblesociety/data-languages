@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة مولالي
     auto: true
+  - translation_iso: hin
+    name: मोलाले
+    auto: true
   - translation_iso: jpn
     name: モラレ語
     auto: true

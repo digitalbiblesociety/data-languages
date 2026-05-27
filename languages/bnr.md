@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوتماس تور
     auto: true
+  - translation_iso: hin
+    name: बुटमास-तुर
+    auto: true
   - translation_iso: jpn
     name: ブトマス・トゥル語
     auto: true

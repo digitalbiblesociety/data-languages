@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: المانينكاكان الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी मनिंकाकान
+    auto: true
   - translation_iso: jpn
     name: 東マニンカカン語
     auto: true

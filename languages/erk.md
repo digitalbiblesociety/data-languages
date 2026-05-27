@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإفاتي الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिण एफाते
+    auto: true
   - translation_iso: jpn
     name: 南エファテ語
   - translation_iso: kor

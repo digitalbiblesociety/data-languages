@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أبار
     auto: true
+  - translation_iso: hin
+    name: अबार
+    auto: true
   - translation_iso: jpn
     name: アバル語
     auto: true

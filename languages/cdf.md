@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيرو
     auto: true
+  - translation_iso: hin
+    name: चीरू
+    auto: true
   - translation_iso: jpn
     name: チル語
     auto: true

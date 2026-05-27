@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجبانزيري
     auto: true
+  - translation_iso: hin
+    name: ग्बानजिरी
+    auto: true
   - translation_iso: jpn
     name: ガバンジリ語
     auto: true

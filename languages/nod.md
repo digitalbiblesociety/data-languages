@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: التايلاندية الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी थाई
+    auto: true
   - translation_iso: jpn
     name: 北タイ語
   - translation_iso: kor

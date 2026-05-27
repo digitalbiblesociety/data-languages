@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوما
     auto: true
+  - translation_iso: hin
+    name: बोमा
+    auto: true
   - translation_iso: jpn
     name: ボマ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيتمول
     auto: true
+  - translation_iso: hin
+    name: इयातमुल
+    auto: true
   - translation_iso: jpn
     name: Iatmül語
   - translation_iso: zho

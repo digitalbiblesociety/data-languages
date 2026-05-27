@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوايا
     auto: true
+  - translation_iso: hin
+    name: पवाइया
+    auto: true
   - translation_iso: jpn
     name: パワイア語
     auto: true

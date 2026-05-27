@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سكو
     auto: true
+  - translation_iso: hin
+    name: स्कोउ
+    auto: true
   - translation_iso: jpn
     name: トゥマウォ語
     auto: true

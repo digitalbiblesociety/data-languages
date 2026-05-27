@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غيمي
     auto: true
+  - translation_iso: hin
+    name: गिमी (पूर्वी हाइलैंड्स)
+    auto: true
   - translation_iso: jpn
     name: ギミ語
   - translation_iso: kor

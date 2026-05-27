@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بانكان تاي دوجون
     auto: true
+  - translation_iso: hin
+    name: बंकन तेय दोगोन
+    auto: true
   - translation_iso: jpn
     name: バンカン・テイ・ドゴン語
     auto: true

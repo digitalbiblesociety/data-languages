@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كايرا
     auto: true
+  - translation_iso: hin
+    name: कैरा
+    auto: true
   - translation_iso: jpn
     name: カエラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ونداييه
     auto: true
+  - translation_iso: hin
+    name: लुंदायेह
+    auto: true
   - translation_iso: jpn
     name: ルンダイエ語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Juba_Arabic"
 translations:
   - translation_iso: ara
     name: عربية جوبا
+  - translation_iso: hin
+    name: जूबा अरबी
+    auto: true
   - translation_iso: jpn
     name: ジュバ・アラビア語
   - translation_iso: zho

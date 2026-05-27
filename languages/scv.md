@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: شيني
     auto: true
+  - translation_iso: hin
+    name: शेनी
+    auto: true
   - translation_iso: jpn
     name: シェニ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أونامي
     auto: true
+  - translation_iso: hin
+    name: उनामी
+    auto: true
   - translation_iso: jpn
     name: レナペ語
   - translation_iso: zho

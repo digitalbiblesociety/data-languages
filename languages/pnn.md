@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينّاي-هاجاهاي
     auto: true
+  - translation_iso: hin
+    name: पिनाई-हगहाई
+    auto: true
   - translation_iso: jpn
     name: ピナイハガハイ語
     auto: true

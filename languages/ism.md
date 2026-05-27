@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماسيماسي
     auto: true
+  - translation_iso: hin
+    name: मासिमासी
+    auto: true
   - translation_iso: jpn
     name: マシマシ語
     auto: true

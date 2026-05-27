@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كايوا
     auto: true
+  - translation_iso: hin
+    name: कैवा
+    auto: true
   - translation_iso: jpn
     name: カイワ語
   - translation_iso: zho

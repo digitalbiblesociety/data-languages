@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تينغير
     auto: true
+  - translation_iso: hin
+    name: तेंग्गर
+    auto: true
   - translation_iso: jpn
     name: テンガー語
     auto: true

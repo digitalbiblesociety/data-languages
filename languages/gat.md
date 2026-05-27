@@ -15,6 +15,9 @@ glottolog_family_name: Nuclear Trans New Guinea
 glottolog_classification: "Nuclear Trans New Guinea > Kainantu-Goroka > Unclassified Kainantu-Goroka > Kenati"
 wikipedia_url: "https://en.wikipedia.org/wiki/Kenati_language"
 translations:
+  - translation_iso: hin
+    name: केनाती
+    auto: true
   - translation_iso: jpn
     name: ケナティ語
     auto: true

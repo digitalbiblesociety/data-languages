@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تومو سو دوجون
     auto: true
+  - translation_iso: hin
+    name: टोम्मो सो डोगोन
+    auto: true
   - translation_iso: jpn
     name: トンモ・ソ・ドゴン語
     auto: true

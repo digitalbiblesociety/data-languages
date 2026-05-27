@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة انجا
     auto: true
+  - translation_iso: hin
+    name: वंगा
+    auto: true
   - translation_iso: jpn
     name: ワンガ語
   - translation_iso: zho

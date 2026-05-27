@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاميلاراي
     auto: true
+  - translation_iso: hin
+    name: गमिलाराय
+    auto: true
   - translation_iso: jpn
     name: カミラロイ語
   - translation_iso: zho

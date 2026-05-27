@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ورانج
     auto: true
+  - translation_iso: hin
+    name: लोरंग
+    auto: true
   - translation_iso: jpn
     name: ロラン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كارناي
     auto: true
+  - translation_iso: hin
+    name: कर्नाई
+    auto: true
   - translation_iso: jpn
     name: バリム語
   - translation_iso: zho

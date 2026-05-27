@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة هندكو الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी हिंदको
+    auto: true
   - translation_iso: jpn
     name: ノーザン・ヒンドコー語
     auto: true

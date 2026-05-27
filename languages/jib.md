@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيبو
     auto: true
+  - translation_iso: hin
+    name: जिबू
+    auto: true
   - translation_iso: jpn
     name: ジブ語
   - translation_iso: zho

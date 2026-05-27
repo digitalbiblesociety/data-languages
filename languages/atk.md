@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة آتي
     auto: true
+  - translation_iso: hin
+    name: अती
+    auto: true
   - translation_iso: jpn
     name: アティ語
   - translation_iso: zho

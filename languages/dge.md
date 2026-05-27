@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ديجينان
     auto: true
+  - translation_iso: hin
+    name: देगेनान
+    auto: true
   - translation_iso: jpn
     name: デゲナン語
     auto: true

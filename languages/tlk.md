@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تالوكي
     auto: true
+  - translation_iso: hin
+    name: तालोकी
+    auto: true
   - translation_iso: jpn
     name: タロキ語
     auto: true

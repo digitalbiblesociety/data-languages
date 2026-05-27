@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رانجلونج
     auto: true
+  - translation_iso: hin
+    name: रांगलोंग
+    auto: true
   - translation_iso: jpn
     name: ラングロン語
     auto: true

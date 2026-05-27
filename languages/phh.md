@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوخا
     auto: true
+  - translation_iso: hin
+    name: फुखा
+    auto: true
   - translation_iso: jpn
     name: プハ語
     auto: true

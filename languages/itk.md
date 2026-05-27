@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يهودي-إيطالي
     auto: true
+  - translation_iso: hin
+    name: यहूदी-इतालवी
+    auto: true
   - translation_iso: jpn
     name: ユダヤ・イタリア語群
   - translation_iso: kor

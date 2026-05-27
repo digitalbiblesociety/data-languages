@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موسي
     auto: true
+  - translation_iso: hin
+    name: मुसी
+    auto: true
   - translation_iso: jpn
     name: ムシ語
   - translation_iso: zho

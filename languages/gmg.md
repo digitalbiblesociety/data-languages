@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مآغɨيي
     auto: true
+  - translation_iso: hin
+    name: मागीयी
+    auto: true
   - translation_iso: jpn
     name: マガイイ語
     auto: true

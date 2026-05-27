@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بومبولي
     auto: true
+  - translation_iso: hin
+    name: बोम्बोली
+    auto: true
   - translation_iso: jpn
     name: ボンボリ語
     auto: true

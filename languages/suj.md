@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة شوبي
     auto: true
+  - translation_iso: hin
+    name: शुबी
+    auto: true
   - translation_iso: jpn
     name: シュビ語
     auto: true

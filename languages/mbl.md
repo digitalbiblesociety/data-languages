@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكساكالي
     auto: true
+  - translation_iso: hin
+    name: माशाकाली
+    auto: true
   - translation_iso: jpn
     name: マクサカリ語
     auto: true

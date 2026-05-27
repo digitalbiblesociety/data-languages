@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاغالاكا
     auto: true
+  - translation_iso: hin
+    name: तागालाका
+    auto: true
   - translation_iso: jpn
     name: タガラカ語
     auto: true

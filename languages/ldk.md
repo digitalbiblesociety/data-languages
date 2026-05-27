@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليلاو
     auto: true
+  - translation_iso: hin
+    name: लीलाउ
+    auto: true
   - translation_iso: jpn
     name: リーラウ語
     auto: true

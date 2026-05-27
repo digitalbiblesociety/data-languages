@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكروآ
     auto: true
+  - translation_iso: hin
+    name: अक्रोआ
+    auto: true
   - translation_iso: jpn
     name: アクロア語
     auto: true

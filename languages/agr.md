@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغوارونا
     auto: true
+  - translation_iso: hin
+    name: अगुआरुना
+    auto: true
   - translation_iso: jpn
     name: アグアルナ語
     auto: true

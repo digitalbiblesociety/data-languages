@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغارابي
     auto: true
+  - translation_iso: hin
+    name: अगाराबी
+    auto: true
   - translation_iso: jpn
     name: アガラビ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أخڤاخ
     auto: true
+  - translation_iso: hin
+    name: अख्वाख
+    auto: true
   - translation_iso: jpn
     name: アフバフ語
   - translation_iso: kor

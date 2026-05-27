@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوتوه
     auto: true
+  - translation_iso: hin
+    name: पुतोह
+    auto: true
   - translation_iso: jpn
     name: プトー語
     auto: true

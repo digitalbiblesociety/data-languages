@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوليب
     auto: true
+  - translation_iso: hin
+    name: कोआलिब
+    auto: true
   - translation_iso: jpn
     name: コアリブ語
   - translation_iso: zho

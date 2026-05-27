@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كانيتي
     auto: true
+  - translation_iso: hin
+    name: कनिते
+    auto: true
   - translation_iso: jpn
     name: カニテ語
   - translation_iso: zho

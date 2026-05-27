@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غيثآبول
     auto: true
+  - translation_iso: hin
+    name: गिथाबुल
+    auto: true
   - translation_iso: jpn
     name: ギタバル語
     auto: true

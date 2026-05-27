@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نسيويا
     auto: true
+  - translation_iso: hin
+    name: नासिओई
+    auto: true
   - translation_iso: jpn
     name: ナシオイ語
   - translation_iso: zho

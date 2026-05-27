@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هومला
     auto: true
+  - translation_iso: hin
+    name: हुमला
+    auto: true
   - translation_iso: jpn
     name: フムラ語
     auto: true

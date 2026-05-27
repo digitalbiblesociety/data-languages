@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بانْجالا
     auto: true
+  - translation_iso: hin
+    name: बंगाला
+    auto: true
   - translation_iso: jpn
     name: バンガラ語
   - translation_iso: zho

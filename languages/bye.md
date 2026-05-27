@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: پويي
     auto: true
+  - translation_iso: hin
+    name: पूये
+    auto: true
   - translation_iso: jpn
     name: プーイエ語
     auto: true

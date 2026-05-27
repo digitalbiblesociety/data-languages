@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: إيكاي تشين
     auto: true
+  - translation_iso: hin
+    name: एकाई चिन
+    auto: true
   - translation_iso: jpn
     name: エカイ・チン語
     auto: true

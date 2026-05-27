@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موسيمو
     auto: true
+  - translation_iso: hin
+    name: मोसिमो
+    auto: true
   - translation_iso: jpn
     name: モシモ語
     auto: true

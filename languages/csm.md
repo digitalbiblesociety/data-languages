@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سييرا المركزية ميووك
     auto: true
+  - translation_iso: hin
+    name: मध्य सिएरा मिवोक
+    auto: true
   - translation_iso: jpn
     name: セントラル・シエラ・ミウォク語
     auto: true

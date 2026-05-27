@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألور
     auto: true
+  - translation_iso: hin
+    name: एलोर
+    auto: true
   - translation_iso: jpn
     name: アロール語
   - translation_iso: zho

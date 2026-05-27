@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هايو
     auto: true
+  - translation_iso: hin
+    name: खायो
+    auto: true
   - translation_iso: jpn
     name: カヨ語
     auto: true

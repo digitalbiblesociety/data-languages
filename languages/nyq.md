@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nayini_language"
 translations:
   - translation_iso: ara
     name: لغة ناييني
+  - translation_iso: hin
+    name: नायिनी
+    auto: true
   - translation_iso: jpn
     name: ナーイーン語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوريانكيري
     auto: true
+  - translation_iso: hin
+    name: दुरियानकेरे
+    auto: true
   - translation_iso: jpn
     name: ドゥリアンケレ語
     auto: true

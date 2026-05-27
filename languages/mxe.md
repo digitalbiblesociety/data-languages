@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميلي فيلا
     auto: true
+  - translation_iso: hin
+    name: मेले-फिला
+    auto: true
   - translation_iso: jpn
     name: メレ・フィラ語
   - translation_iso: zho

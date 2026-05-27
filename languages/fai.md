@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفايول
     auto: true
+  - translation_iso: hin
+    name: फाइवोल
+    auto: true
   - translation_iso: jpn
     name: ファイウォル語
     auto: true

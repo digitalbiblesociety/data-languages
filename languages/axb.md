@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبيبون
     auto: true
+  - translation_iso: hin
+    name: अबीपोन
+    auto: true
   - translation_iso: jpn
     name: アビポン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أوتووو
     auto: true
+  - translation_iso: hin
+    name: आवतुव
+    auto: true
   - translation_iso: jpn
     name: アウトゥウ語
     auto: true

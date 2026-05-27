@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوريغواخي
     auto: true
+  - translation_iso: hin
+    name: कोरेगुआहे
+    auto: true
   - translation_iso: jpn
     name: コレグアヘ語
     auto: true

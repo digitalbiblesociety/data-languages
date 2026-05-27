@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونتونغ جافا
     auto: true
+  - translation_iso: hin
+    name: ओंटोंग जावा
+    auto: true
   - translation_iso: jpn
     name: オントンジャワ語
   - translation_iso: zho

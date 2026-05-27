@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيراروتو
     auto: true
+  - translation_iso: hin
+    name: इरारुतु
+    auto: true
   - translation_iso: jpn
     name: イラルトゥ語
     auto: true

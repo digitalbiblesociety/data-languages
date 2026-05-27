@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيجت
     auto: true
+  - translation_iso: hin
+    name: सेगेट
+    auto: true
   - translation_iso: jpn
     name: セゲット語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تآزنآتيت
     auto: true
+  - translation_iso: hin
+    name: ताज़नातित
+    auto: true
   - translation_iso: jpn
     name: タズナティト語
     auto: true

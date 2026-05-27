@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوهورونج
     auto: true
+  - translation_iso: hin
+    name: लोहोरुङ
+    auto: true
   - translation_iso: jpn
     name: ロホルン語
     auto: true

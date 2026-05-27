@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإل مولو
     auto: true
+  - translation_iso: hin
+    name: एल मोलो
+    auto: true
   - translation_iso: jpn
     name: エル・モロ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الزاير
     auto: true
+  - translation_iso: hin
+    name: ज़िरे
+    auto: true
   - translation_iso: jpn
     name: ネレ語
     auto: true

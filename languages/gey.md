@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إنيآ
     auto: true
+  - translation_iso: hin
+    name: एन्या
+    auto: true
   - translation_iso: jpn
     name: エーニャ語
     auto: true

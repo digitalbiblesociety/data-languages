@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جنوب أوهلوني
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी ओह्लोन
+    auto: true
   - translation_iso: jpn
     name: サザン・オーロン語
     auto: true

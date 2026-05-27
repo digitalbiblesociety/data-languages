@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أنامغورا
     auto: true
+  - translation_iso: hin
+    name: अनामगुरा
+    auto: true
   - translation_iso: jpn
     name: アナムグラ語
     auto: true

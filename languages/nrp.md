@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: بيسيني الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी पिकेने
+    auto: true
   - translation_iso: jpn
     name: 北ピケネ語
   - translation_iso: zho

@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة المصرية
+  - translation_iso: hin
+    name: मिस्र सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: エジプト手話
   - translation_iso: zho

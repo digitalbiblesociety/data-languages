@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يجينزا
     auto: true
+  - translation_iso: hin
+    name: लिगेन्ज़ा
+    auto: true
   - translation_iso: jpn
     name: リゲンザ語
     auto: true

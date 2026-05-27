@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بيلاسبوري
     auto: true
+  - translation_iso: hin
+    name: बिलासपुरी
+    auto: true
   - translation_iso: jpn
     name: ビラースプリ語
     auto: true

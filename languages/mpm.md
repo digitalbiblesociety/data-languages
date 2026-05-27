@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك يوسونديا
     auto: true
+  - translation_iso: hin
+    name: योसोंदुआ मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: ヨソンドゥア・ミステク語
     auto: true

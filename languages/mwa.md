@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موتيبو
     auto: true
+  - translation_iso: hin
+    name: म्वातेबू
+    auto: true
   - translation_iso: jpn
     name: ムワテブ語
     auto: true

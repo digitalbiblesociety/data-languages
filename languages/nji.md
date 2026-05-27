@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جودانجي
     auto: true
+  - translation_iso: hin
+    name: गुदानजी
+    auto: true
   - translation_iso: jpn
     name: グダンジ語
     auto: true

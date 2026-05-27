@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوتشيمي
     auto: true
+  - translation_iso: hin
+    name: कोचिमी
+    auto: true
   - translation_iso: jpn
     name: コチミ語
   - translation_iso: zho

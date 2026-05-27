@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الا
     auto: true
+  - translation_iso: hin
+    name: वाला
+    auto: true
   - translation_iso: jpn
     name: ワラ語
     auto: true

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الميتشيغاميا
     auto: true
+  - translation_iso: hin
+    name: मिचिगामिया
+    auto: true
   - translation_iso: jpn
     name: ミチガメア語
     auto: true

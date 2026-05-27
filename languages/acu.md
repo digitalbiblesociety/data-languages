@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أتشوار-شيويار
     auto: true
+  - translation_iso: hin
+    name: अचुआर-शिवियार
+    auto: true
   - translation_iso: jpn
     name: アチュアルシウィアル語
     auto: true

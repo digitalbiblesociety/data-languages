@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غونجدوك
     auto: true
+  - translation_iso: hin
+    name: गोंगडुक
+    auto: true
   - translation_iso: jpn
     name: ゴングドゥク語
   - translation_iso: zho

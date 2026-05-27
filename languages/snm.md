@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: "اللغة ما'دي الجنوبية"
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी मादी
+    auto: true
   - translation_iso: jpn
     name: サザン・マディ語
     auto: true

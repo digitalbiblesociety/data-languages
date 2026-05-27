@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مال باهاريا
     auto: true
+  - translation_iso: hin
+    name: माल पहाड़िया
+    auto: true
   - translation_iso: jpn
     name: マル・パハリア語
     auto: true

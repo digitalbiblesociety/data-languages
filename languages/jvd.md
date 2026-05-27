@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Javindo"
 translations:
   - translation_iso: ara
     name: جاوندو
+  - translation_iso: hin
+    name: जाविंडो
+    auto: true
   - translation_iso: jpn
     name: ジャビンド語
     auto: true

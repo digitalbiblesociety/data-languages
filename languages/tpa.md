@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاوبوتا
     auto: true
+  - translation_iso: hin
+    name: ताउपोटा
+    auto: true
   - translation_iso: jpn
     name: タウポタ語
   - translation_iso: zho

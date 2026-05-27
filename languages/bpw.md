@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بو
     auto: true
+  - translation_iso: hin
+    name: बो (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: ボ語
     auto: true

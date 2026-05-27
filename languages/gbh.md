@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ديفي جبي
     auto: true
+  - translation_iso: hin
+    name: देफी ग्बे
+    auto: true
   - translation_iso: jpn
     name: デフィ・ベ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البلجيكية الفرنكوفونية
     auto: true
+  - translation_iso: hin
+    name: फ़्रेंच बेल्जियन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ワロン手話
   - translation_iso: zho

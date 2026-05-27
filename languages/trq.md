@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تريكي سان مارتين إيتونيوسو
     auto: true
+  - translation_iso: hin
+    name: सान मार्तिन इतुन्योसो त्रिकी
+    auto: true
   - translation_iso: jpn
     name: サン・マルティン・イトゥニョーソ・トリケ語
     auto: true

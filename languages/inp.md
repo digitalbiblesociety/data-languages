@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إينابري
     auto: true
+  - translation_iso: hin
+    name: इन्यापारी
+    auto: true
   - translation_iso: jpn
     name: イニャパリ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناكاي
     auto: true
+  - translation_iso: hin
+    name: नकाई
+    auto: true
   - translation_iso: jpn
     name: ナカイ語
     auto: true

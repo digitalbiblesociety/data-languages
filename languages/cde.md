@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشينشو
     auto: true
+  - translation_iso: hin
+    name: चेंचू
+    auto: true
   - translation_iso: jpn
     name: チェンチュ語
     auto: true

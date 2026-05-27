@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة التايلاندية الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी थाई
+    auto: true
   - translation_iso: jpn
     name: 南タイ語
   - translation_iso: kor

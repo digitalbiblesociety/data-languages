@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يلميك
     auto: true
+  - translation_iso: hin
+    name: येलमेक
+    auto: true
   - translation_iso: jpn
     name: イェルメク語
   - translation_iso: zho

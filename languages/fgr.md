@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: الفونجورو
     auto: true
+  - translation_iso: hin
+    name: फोंगोरो
+    auto: true
   - translation_iso: jpn
     name: フォンゴロ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوكي
     auto: true
+  - translation_iso: hin
+    name: कोके
+    auto: true
   - translation_iso: jpn
     name: コケ語
     auto: true

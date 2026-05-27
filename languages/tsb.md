@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسامعي
     auto: true
+  - translation_iso: hin
+    name: त्सामाई
+    auto: true
   - translation_iso: jpn
     name: ツァミ語
   - translation_iso: zho

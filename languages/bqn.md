@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البلغارية
     auto: true
+  - translation_iso: hin
+    name: बल्गेरियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ブルガリア手話
   - translation_iso: zho

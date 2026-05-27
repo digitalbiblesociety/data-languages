@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانا الجنوبية الغربية
     auto: true
+  - translation_iso: hin
+    name: दक्षिण-पश्चिमी तन्ना
+    auto: true
   - translation_iso: jpn
     name: 南西タンナ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراناوات
     auto: true
+  - translation_iso: hin
+    name: पारानावात
+    auto: true
   - translation_iso: jpn
     name: パラナワッ語
     auto: true

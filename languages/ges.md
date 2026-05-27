@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غإسإر-غوروم
     auto: true
+  - translation_iso: hin
+    name: गेसेर-गोरोम
+    auto: true
   - translation_iso: jpn
     name: ゲセル・ゴロム語
     auto: true

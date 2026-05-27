@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوبو
     auto: true
+  - translation_iso: hin
+    name: लुबू
+    auto: true
   - translation_iso: jpn
     name: ルブ語
     auto: true

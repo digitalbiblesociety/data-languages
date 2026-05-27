@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الغوندية الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी गोंडी
+    auto: true
   - translation_iso: jpn
     name: 北部ゴーンディー語
   - translation_iso: zho

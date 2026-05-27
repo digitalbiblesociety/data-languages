@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الشوكا
     auto: true
+  - translation_iso: hin
+    name: चुका
+    auto: true
   - translation_iso: jpn
     name: チュカ語
     auto: true

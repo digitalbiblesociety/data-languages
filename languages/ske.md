@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكي (فانواتو)
     auto: true
+  - translation_iso: hin
+    name: सेके (वानूआतू)
+    auto: true
   - translation_iso: jpn
     name: セケ語
   - translation_iso: zho

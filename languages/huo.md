@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هو
     auto: true
+  - translation_iso: hin
+    name: हू
+    auto: true
   - translation_iso: jpn
     name: フー語
     auto: true

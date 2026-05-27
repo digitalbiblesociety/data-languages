@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوابوا
     auto: true
+  - translation_iso: hin
+    name: प्वाप्वा
+    auto: true
   - translation_iso: jpn
     name: プワプワ語
     auto: true

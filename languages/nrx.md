@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغورمبور
     auto: true
+  - translation_iso: hin
+    name: नगुर्म्बुर
+    auto: true
   - translation_iso: jpn
     name: ングルンブル語
   - translation_iso: zho

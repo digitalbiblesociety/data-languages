@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غومآوآنآ
     auto: true
+  - translation_iso: hin
+    name: गुमावाना
+    auto: true
   - translation_iso: jpn
     name: グマワナ語
     auto: true

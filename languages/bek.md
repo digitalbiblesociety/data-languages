@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيبيلي
     auto: true
+  - translation_iso: hin
+    name: बेबेली
+    auto: true
   - translation_iso: jpn
     name: カポレ語
   - translation_iso: zho

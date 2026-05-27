@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نسونغو
     auto: true
+  - translation_iso: hin
+    name: न्सोंगो
+    auto: true
   - translation_iso: jpn
     name: ンソンゴ語
     auto: true

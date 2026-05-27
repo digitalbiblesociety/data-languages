@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوروواي
     auto: true
+  - translation_iso: hin
+    name: कोरोवाई
+    auto: true
   - translation_iso: jpn
     name: コロワイ語
     auto: true

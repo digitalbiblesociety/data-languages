@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيبا (إندونيسيا)
     auto: true
+  - translation_iso: hin
+    name: सेपा (इंडोनेशिया)
+    auto: true
   - translation_iso: jpn
     name: セパ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باي الجنوبي
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी बाई
+    auto: true
   - translation_iso: jpn
     name: 南バイ語
     auto: true

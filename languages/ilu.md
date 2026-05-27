@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيليون
     auto: true
+  - translation_iso: hin
+    name: इलिउन
+    auto: true
   - translation_iso: jpn
     name: イリウン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوراررا
     auto: true
+  - translation_iso: hin
+    name: बुरार्रा
+    auto: true
   - translation_iso: jpn
     name: ブラッラ語
     auto: true

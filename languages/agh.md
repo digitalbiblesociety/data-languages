@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نجليما
     auto: true
+  - translation_iso: hin
+    name: न्गेलिमा
+    auto: true
   - translation_iso: jpn
     name: ンゲリマ語
     auto: true

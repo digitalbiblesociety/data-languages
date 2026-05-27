@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوكانا
     auto: true
+  - translation_iso: hin
+    name: गोकाना
+    auto: true
   - translation_iso: jpn
     name: ゴカナ語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Oneida_language"
 translations:
   - translation_iso: ara
     name: لغة الأونيدا
+  - translation_iso: hin
+    name: ओनेडा
+    auto: true
   - translation_iso: jpn
     name: オナイダ語
   - translation_iso: kor

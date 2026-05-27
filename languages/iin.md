@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثيين
     auto: true
+  - translation_iso: hin
+    name: थीन
+    auto: true
   - translation_iso: jpn
     name: ティーン語
     auto: true

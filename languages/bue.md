@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بيوثوك
     auto: true
+  - translation_iso: hin
+    name: बेओथुक
+    auto: true
   - translation_iso: jpn
     name: ベオスック語
   - translation_iso: kor

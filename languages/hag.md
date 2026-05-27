@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هآنجآ
     auto: true
+  - translation_iso: hin
+    name: हंगा
+    auto: true
   - translation_iso: jpn
     name: ハンガ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتول
     auto: true
+  - translation_iso: hin
+    name: मैटोल
+    auto: true
   - translation_iso: jpn
     name: マットレ語
     auto: true

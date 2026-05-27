@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باهينمو
     auto: true
+  - translation_iso: hin
+    name: बहिनेमो
+    auto: true
   - translation_iso: jpn
     name: バヒネモ語
     auto: true

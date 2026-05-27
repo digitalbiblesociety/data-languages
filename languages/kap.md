@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بيزتا
     auto: true
+  - translation_iso: hin
+    name: बेज़्ता
+    auto: true
   - translation_iso: jpn
     name: ベジタ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة شارك باي
     auto: true
+  - translation_iso: hin
+    name: शार्क बे
+    auto: true
   - translation_iso: jpn
     name: シャークベイ語
     auto: true

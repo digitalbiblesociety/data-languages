@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا سانتا آنا دي توسي باسكو
     auto: true
+  - translation_iso: hin
+    name: सांता आना दे तुसी पास्को क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: サンタアナデトゥシパスコケチュア語
     auto: true

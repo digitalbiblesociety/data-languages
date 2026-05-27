@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديمبونج
     auto: true
+  - translation_iso: hin
+    name: डिम्बोंग
+    auto: true
   - translation_iso: jpn
     name: ディンボング語
     auto: true

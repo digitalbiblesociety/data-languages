@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوواندا
     auto: true
+  - translation_iso: hin
+    name: सोवांडा
+    auto: true
   - translation_iso: jpn
     name: ワイナ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانخو
     auto: true
+  - translation_iso: hin
+    name: पंखु
+    auto: true
   - translation_iso: jpn
     name: パンク語
     auto: true

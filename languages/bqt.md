@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بامُكومْبيت
     auto: true
+  - translation_iso: hin
+    name: बामुकुम्बित
+    auto: true
   - translation_iso: jpn
     name: バムクムビット語
     auto: true

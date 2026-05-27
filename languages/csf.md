@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكوبية
     auto: true
+  - translation_iso: hin
+    name: क्यूबा सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: キューバ手話
   - translation_iso: zho

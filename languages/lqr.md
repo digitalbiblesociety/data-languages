@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة وجير
     auto: true
+  - translation_iso: hin
+    name: लोगिर
+    auto: true
   - translation_iso: jpn
     name: ロギール語
     auto: true

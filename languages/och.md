@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الصينية القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन चीनी
+    auto: true
   - translation_iso: jpn
     name: 上古中国語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيليفول
     auto: true
+  - translation_iso: hin
+    name: तेलेफोल
+    auto: true
   - translation_iso: jpn
     name: テレフォル語
   - translation_iso: zho

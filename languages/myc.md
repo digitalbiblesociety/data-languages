@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: مايكا
     auto: true
+  - translation_iso: hin
+    name: मायेका
+    auto: true
   - translation_iso: jpn
     name: マエカ語
     auto: true

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: غوآنآ
     auto: true
+  - translation_iso: hin
+    name: ग्वाना (ब्राज़ील)
+    auto: true
   - translation_iso: jpn
     name: グアナ語
     auto: true

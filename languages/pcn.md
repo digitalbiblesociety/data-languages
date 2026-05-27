@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتي
     auto: true
+  - translation_iso: hin
+    name: पिटी
+    auto: true
   - translation_iso: jpn
     name: ピティ語
   - translation_iso: zho

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لابا
     auto: true
+  - translation_iso: hin
+    name: लाबा
+    auto: true
   - translation_iso: jpn
     name: ラバ語
     auto: true

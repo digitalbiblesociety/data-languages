@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ ماشان الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी माशान ह्मोंग
+    auto: true
   - translation_iso: jpn
     name: 北部麻山フモン語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميل-خاوnh
     auto: true
+  - translation_iso: hin
+    name: मेल-खाओंह
+    auto: true
   - translation_iso: jpn
     name: メル・カオン語
     auto: true

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة ونزو
     auto: true
+  - translation_iso: hin
+    name: लोंज़ो
+    auto: true
   - translation_iso: jpn
     name: ロンゾ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماري الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी मारी
+    auto: true
   - translation_iso: jpn
     name: 牧地マリ語
   - translation_iso: kor

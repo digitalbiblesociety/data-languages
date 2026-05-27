@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khanty_languages"
 translations:
   - translation_iso: ara
     name: لغة خانتي
+  - translation_iso: hin
+    name: खांती
+    auto: true
   - translation_iso: jpn
     name: ハンティ語
   - translation_iso: kor

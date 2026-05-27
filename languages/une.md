@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أونيمي
     auto: true
+  - translation_iso: hin
+    name: उनेमे
+    auto: true
   - translation_iso: jpn
     name: ウネメ・ネクア語
     auto: true

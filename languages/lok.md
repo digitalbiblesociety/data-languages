@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة وكو
     auto: true
+  - translation_iso: hin
+    name: लोको
+    auto: true
   - translation_iso: jpn
     name: ロコ語
     auto: true

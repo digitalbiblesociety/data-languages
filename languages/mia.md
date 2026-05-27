@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Miami%E2%80%93Illinois_language"
 translations:
   - translation_iso: ara
     name: ميامي-إيلينوي
+  - translation_iso: hin
+    name: मायामी
+    auto: true
   - translation_iso: jpn
     name: マイアミ・イリノイ語
   - translation_iso: zho

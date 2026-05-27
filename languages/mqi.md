@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايري
     auto: true
+  - translation_iso: hin
+    name: मारिरी
+    auto: true
   - translation_iso: jpn
     name: マリリ語
     auto: true

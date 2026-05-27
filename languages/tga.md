@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساغالا
     auto: true
+  - translation_iso: hin
+    name: सगाला
+    auto: true
   - translation_iso: jpn
     name: サガラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مانانغبا
     auto: true
+  - translation_iso: hin
+    name: मानांगबा
+    auto: true
   - translation_iso: jpn
     name: マナン語
   - translation_iso: zho

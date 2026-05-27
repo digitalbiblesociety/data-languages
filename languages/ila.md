@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيل آبي
     auto: true
+  - translation_iso: hin
+    name: इले आपे
+    auto: true
   - translation_iso: jpn
     name: イレ・アペ語
     auto: true

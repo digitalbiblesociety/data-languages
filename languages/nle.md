@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نييالا الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी न्याला
+    auto: true
   - translation_iso: jpn
     name: 東ニャラ語
     auto: true

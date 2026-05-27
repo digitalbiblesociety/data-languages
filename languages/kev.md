@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانيكاران
     auto: true
+  - translation_iso: hin
+    name: कणिक्कारन
+    auto: true
   - translation_iso: jpn
     name: カニッカラン語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أكلانون
     auto: true
+  - translation_iso: hin
+    name: अक्लानोन
+    auto: true
   - translation_iso: jpn
     name: アクラノン語
   - translation_iso: kor

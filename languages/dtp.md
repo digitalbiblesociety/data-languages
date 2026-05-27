@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كاداز دوسون
     auto: true
+  - translation_iso: hin
+    name: कदाज़ान दुसुन
+    auto: true
   - translation_iso: jpn
     name: 中央ドゥスン語
   - translation_iso: kor

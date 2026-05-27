@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاولونج
     auto: true
+  - translation_iso: hin
+    name: काउलोंग
+    auto: true
   - translation_iso: jpn
     name: パシスマヌア語
   - translation_iso: zho

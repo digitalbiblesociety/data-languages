@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوامبيسا
     auto: true
+  - translation_iso: hin
+    name: हुआम्बिसा
+    auto: true
   - translation_iso: jpn
     name: フアンビサ語
     auto: true

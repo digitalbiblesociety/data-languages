@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بالانهو
     auto: true
+  - translation_iso: hin
+    name: म्बालान्हु
+    auto: true
   - translation_iso: jpn
     name: バランフ語
     auto: true

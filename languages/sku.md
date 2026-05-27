@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساكاو
     auto: true
+  - translation_iso: hin
+    name: साकाओ
+    auto: true
   - translation_iso: jpn
     name: ワノヘ語
     auto: true

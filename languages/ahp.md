@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أبروومو أيزي
     auto: true
+  - translation_iso: hin
+    name: अप्रौमू आइज़ी
+    auto: true
   - translation_iso: jpn
     name: アプロウム・アイジ語
     auto: true

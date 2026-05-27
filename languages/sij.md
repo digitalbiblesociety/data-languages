@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة النومبامي
     auto: true
+  - translation_iso: hin
+    name: नुम्बामी
+    auto: true
   - translation_iso: jpn
     name: シボマ語
     auto: true

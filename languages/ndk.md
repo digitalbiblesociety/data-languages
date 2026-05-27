@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندكا
     auto: true
+  - translation_iso: hin
+    name: न्दाका
+    auto: true
   - translation_iso: jpn
     name: ンダカ語
   - translation_iso: zho

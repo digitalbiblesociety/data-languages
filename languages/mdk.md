@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة منجبوتو
     auto: true
+  - translation_iso: hin
+    name: मांगबुतु
+    auto: true
   - translation_iso: jpn
     name: マングトゥ語
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة كينيانغ
     auto: true
+  - translation_iso: hin
+    name: केन्यांग
+    auto: true
   - translation_iso: jpn
     name: ニャン語
   - translation_iso: zho

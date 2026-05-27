@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريريو
     auto: true
+  - translation_iso: hin
+    name: रिरियो
+    auto: true
   - translation_iso: jpn
     name: リリオ語
     auto: true

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: أبينومن
     auto: true
+  - translation_iso: hin
+    name: अबिनोम्न
+    auto: true
   - translation_iso: jpn
     name: アビノムン語
   - translation_iso: zho

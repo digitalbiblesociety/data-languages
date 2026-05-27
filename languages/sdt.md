@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: شوديت
     auto: true
+  - translation_iso: hin
+    name: शुआदित
+    auto: true
   - translation_iso: jpn
     name: シュアディート
   - translation_iso: kor

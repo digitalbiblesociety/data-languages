@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بآرá غآفيãو
     auto: true
+  - translation_iso: hin
+    name: पारा गाव्यांव
+    auto: true
   - translation_iso: jpn
     name: パラ・ガヴィアン語
     auto: true

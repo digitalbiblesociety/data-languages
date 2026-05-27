@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دومي
     auto: true
+  - translation_iso: hin
+    name: दुमी
+    auto: true
   - translation_iso: jpn
     name: ドゥミー語
   - translation_iso: zho

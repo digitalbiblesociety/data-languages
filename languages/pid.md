@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيارويا
     auto: true
+  - translation_iso: hin
+    name: पियारोआ
+    auto: true
   - translation_iso: jpn
     name: ピアロア語
     auto: true

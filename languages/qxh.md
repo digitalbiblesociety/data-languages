@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا بانائو هوانوكو
     auto: true
+  - translation_iso: hin
+    name: पानाओ वानूको क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: パナオワヌコケチュア語
     auto: true

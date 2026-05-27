@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة منكا
     auto: true
+  - translation_iso: hin
+    name: मेंका
+    auto: true
   - translation_iso: jpn
     name: メンカ語
     auto: true

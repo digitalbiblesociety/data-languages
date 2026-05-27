@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كامايو
     auto: true
+  - translation_iso: hin
+    name: कामायो
+    auto: true
   - translation_iso: jpn
     name: カマヨ語
     auto: true

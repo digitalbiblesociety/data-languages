@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيكسيل
     auto: true
+  - translation_iso: hin
+    name: इक्सिल
+    auto: true
   - translation_iso: jpn
     name: イシル語
   - translation_iso: kor

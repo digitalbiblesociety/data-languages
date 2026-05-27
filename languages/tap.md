@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تابوا
     auto: true
+  - translation_iso: hin
+    name: ताबवा
+    auto: true
   - translation_iso: jpn
     name: タアブワ語
     auto: true

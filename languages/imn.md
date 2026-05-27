@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيموندا
     auto: true
+  - translation_iso: hin
+    name: इमोंडा
+    auto: true
   - translation_iso: jpn
     name: イモンダ語
     auto: true

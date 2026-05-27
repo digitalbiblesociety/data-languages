@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيسي الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी किसी
+    auto: true
   - translation_iso: jpn
     name: サザン・キシ語
     auto: true

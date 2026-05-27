@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا أريكويبا-لا أونيون
     auto: true
+  - translation_iso: hin
+    name: अरेकीपा-ला उनिओन क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: アレキッパラウニオンケチュア語
     auto: true

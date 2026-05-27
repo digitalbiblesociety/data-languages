@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة أندّاقوي
     auto: true
+  - translation_iso: hin
+    name: अंदाकी
+    auto: true
   - translation_iso: jpn
     name: アンダキ語
     auto: true

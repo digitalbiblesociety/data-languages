@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: دانو
     auto: true
+  - translation_iso: hin
+    name: दानू
+    auto: true
   - translation_iso: jpn
     name: ダヌ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناتوغو
     auto: true
+  - translation_iso: hin
+    name: नातुगु
+    auto: true
   - translation_iso: jpn
     name: ナトゥグ語
     auto: true

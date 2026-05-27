@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانيا
     auto: true
+  - translation_iso: hin
+    name: पनिया
+    auto: true
   - translation_iso: jpn
     name: パニヤ語
     auto: true

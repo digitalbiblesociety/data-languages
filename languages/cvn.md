@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: فالي ناسيونال تشينانتك
     auto: true
+  - translation_iso: hin
+    name: वाये नासियोनाल चिनान्तेक
+    auto: true
   - translation_iso: jpn
     name: バジェ・ナシオナル・チナンテク語
     auto: true

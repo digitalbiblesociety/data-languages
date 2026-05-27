@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشينوك
     auto: true
+  - translation_iso: hin
+    name: चिनूक
+    auto: true
   - translation_iso: jpn
     name: チヌーク語
     auto: true

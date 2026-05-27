@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دولي جاي
     auto: true
+  - translation_iso: hin
+    name: डुली-गे
+    auto: true
   - translation_iso: jpn
     name: ドゥリ語
   - translation_iso: zho

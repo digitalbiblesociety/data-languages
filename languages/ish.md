@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسان
     auto: true
+  - translation_iso: hin
+    name: एसान
+    auto: true
   - translation_iso: jpn
     name: エサン語
     auto: true

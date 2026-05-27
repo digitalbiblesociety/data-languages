@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زولغو-غإمزإك
     auto: true
+  - translation_iso: hin
+    name: ज़ुल्गो-गेम्ज़ेक
+    auto: true
   - translation_iso: jpn
     name: ズルゴ・ゲムゼク語
     auto: true

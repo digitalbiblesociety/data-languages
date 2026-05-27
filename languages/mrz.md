@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارند
     auto: true
+  - translation_iso: hin
+    name: मारिंद
+    auto: true
   - translation_iso: jpn
     name: マリンド語
     auto: true

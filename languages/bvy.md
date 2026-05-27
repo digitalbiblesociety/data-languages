@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باي‌بايانون
     auto: true
+  - translation_iso: hin
+    name: बायबायानोन
+    auto: true
   - translation_iso: jpn
     name: バイバヤノン語
     auto: true

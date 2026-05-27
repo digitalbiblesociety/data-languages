@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوم
     auto: true
+  - translation_iso: hin
+    name: पोम
+    auto: true
   - translation_iso: jpn
     name: ポム語
   - translation_iso: zho

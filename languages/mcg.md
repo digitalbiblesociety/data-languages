@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مابويو
     auto: true
+  - translation_iso: hin
+    name: मापोयो
+    auto: true
   - translation_iso: jpn
     name: マポヨ語
     auto: true

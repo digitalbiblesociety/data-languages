@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوجيبوا الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी ओजिब्वा
+    auto: true
   - translation_iso: jpn
     name: 東部オジブワ語
   - translation_iso: zho

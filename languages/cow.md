@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوليتز
     auto: true
+  - translation_iso: hin
+    name: काउलिट्ज़
+    auto: true
   - translation_iso: jpn
     name: カウリッツ語
   - translation_iso: zho

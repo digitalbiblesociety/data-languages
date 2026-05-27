@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باوري بارلي
     auto: true
+  - translation_iso: hin
+    name: पौरी बरेली
+    auto: true
   - translation_iso: jpn
     name: パウリ・バレリ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اكي يووك
     auto: true
+  - translation_iso: hin
+    name: लेक मिवोक
+    auto: true
   - translation_iso: jpn
     name: レイク・ミウォク語
     auto: true

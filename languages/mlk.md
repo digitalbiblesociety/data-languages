@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إلوانا
     auto: true
+  - translation_iso: hin
+    name: इल्वाना
+    auto: true
   - translation_iso: jpn
     name: イルワナ語
     auto: true

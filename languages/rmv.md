@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: روماڤا
     auto: true
+  - translation_iso: hin
+    name: रोमानोवा
+    auto: true
   - translation_iso: jpn
     name: ロマノヴァ
   - translation_iso: zho

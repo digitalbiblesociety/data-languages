@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shor_language"
 translations:
   - translation_iso: ara
     name: لغة الشور
+  - translation_iso: hin
+    name: शोर
+    auto: true
   - translation_iso: jpn
     name: ショル語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رينديلي
     auto: true
+  - translation_iso: hin
+    name: रेंडिले
+    auto: true
   - translation_iso: jpn
     name: レンディーレ語
   - translation_iso: zho

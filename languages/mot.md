@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة باري
     auto: true
+  - translation_iso: hin
+    name: बारी
+    auto: true
   - translation_iso: jpn
     name: バリ語
     auto: true

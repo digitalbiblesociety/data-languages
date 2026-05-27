@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوري
     auto: true
+  - translation_iso: hin
+    name: कोरी
+    auto: true
   - translation_iso: jpn
     name: コリ語
     auto: true

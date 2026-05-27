@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاو ميايو
     auto: true
+  - translation_iso: hin
+    name: काओ मियाओ
+    auto: true
   - translation_iso: jpn
     name: カオ・ミャオ語
     auto: true

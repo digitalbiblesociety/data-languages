@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيوا الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी केवा
+    auto: true
   - translation_iso: jpn
     name: イースト・ケワ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرامبا
     auto: true
+  - translation_iso: hin
+    name: अरम्बा
+    auto: true
   - translation_iso: jpn
     name: アランバ語
     auto: true

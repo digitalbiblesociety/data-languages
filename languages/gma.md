@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غامبيرا
     auto: true
+  - translation_iso: hin
+    name: गाम्बेरा
+    auto: true
   - translation_iso: jpn
     name: ガンベラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيونغ
     auto: true
+  - translation_iso: hin
+    name: चेवोंग
+    auto: true
   - translation_iso: jpn
     name: チェウォング語
     auto: true

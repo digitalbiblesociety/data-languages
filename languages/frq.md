@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الفوراك
     auto: true
+  - translation_iso: hin
+    name: फोराक
+    auto: true
   - translation_iso: jpn
     name: フォラク語
     auto: true

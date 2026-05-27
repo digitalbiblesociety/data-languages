@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ثاتشانادان
     auto: true
+  - translation_iso: hin
+    name: थचनादन
+    auto: true
   - translation_iso: jpn
     name: タチャナダン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتاكسو ها-ها-هاي
     auto: true
+  - translation_iso: hin
+    name: पाताक्सो हां-हा-हांए
+    auto: true
   - translation_iso: jpn
     name: パタショーハーハーハーエ語
     auto: true

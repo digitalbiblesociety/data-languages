@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإندي
     auto: true
+  - translation_iso: hin
+    name: एंडे
+    auto: true
   - translation_iso: jpn
     name: エンデ語
     auto: true

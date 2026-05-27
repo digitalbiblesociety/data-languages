@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باتاد إيفوغاو
     auto: true
+  - translation_iso: hin
+    name: बातद इफुगाओ
+    auto: true
   - translation_iso: jpn
     name: バタド・イフガオ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماكاه
     auto: true
+  - translation_iso: hin
+    name: माकाह
+    auto: true
   - translation_iso: jpn
     name: マカー語
   - translation_iso: zho

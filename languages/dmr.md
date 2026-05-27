@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيست دامار
     auto: true
+  - translation_iso: hin
+    name: पूर्वी दामार
+    auto: true
   - translation_iso: jpn
     name: イースト・ダマル語
     auto: true

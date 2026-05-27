@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا سالاساكا الجبلية
     auto: true
+  - translation_iso: hin
+    name: सालासाका हाइलैंड किचुआ
+    auto: true
   - translation_iso: jpn
     name: サラサカハイランドキチュア語
     auto: true

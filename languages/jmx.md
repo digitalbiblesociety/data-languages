@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك خوكسلاهواكا الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी हुक्सत्लाहुआका मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: 西部フフストラウアカ・ミステク語
     auto: true

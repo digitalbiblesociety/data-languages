@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوكبيه-بايوبيري
     auto: true
+  - translation_iso: hin
+    name: उक्पे-बायोबिरी
+    auto: true
   - translation_iso: jpn
     name: ウクペ・バヨビリ語
     auto: true

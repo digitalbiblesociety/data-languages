@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملبا
     auto: true
+  - translation_iso: hin
+    name: मेल्पा
+    auto: true
   - translation_iso: jpn
     name: メルパ語
   - translation_iso: zho

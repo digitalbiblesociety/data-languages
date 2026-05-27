@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هويآهويآ
     auto: true
+  - translation_iso: hin
+    name: होयाहोया
+    auto: true
   - translation_iso: jpn
     name: ホヤホヤ語
     auto: true

@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rusyn_language"
 translations:
   - translation_iso: ara
     name: الروسينية
+  - translation_iso: hin
+    name: रुसिन
+    auto: true
   - translation_iso: jpn
     name: ルシン語
   - translation_iso: kor

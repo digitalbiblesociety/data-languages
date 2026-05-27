@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياو
     auto: true
+  - translation_iso: hin
+    name: इआउ
+    auto: true
   - translation_iso: jpn
     name: イアウ語
     auto: true

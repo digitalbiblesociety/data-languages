@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاوية جديدة كاليدونية
     auto: true
+  - translation_iso: hin
+    name: न्यू कैलेडोनियन जावानीज़
+    auto: true
   - translation_iso: jpn
     name: 新カレドニア・ジャワ語
     auto: true

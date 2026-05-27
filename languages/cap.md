@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشيپايا
     auto: true
+  - translation_iso: hin
+    name: चिपाया
+    auto: true
   - translation_iso: jpn
     name: チパヤ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوشيري
     auto: true
+  - translation_iso: hin
+    name: औशिरी
+    auto: true
   - translation_iso: jpn
     name: アウシリ語
     auto: true

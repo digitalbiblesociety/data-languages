@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساواي
     auto: true
+  - translation_iso: hin
+    name: सावाई
+    auto: true
   - translation_iso: jpn
     name: サワイ語
   - translation_iso: zho

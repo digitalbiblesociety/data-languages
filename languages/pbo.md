@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابيل
     auto: true
+  - translation_iso: hin
+    name: पापेल
+    auto: true
   - translation_iso: jpn
     name: パペル語
     auto: true

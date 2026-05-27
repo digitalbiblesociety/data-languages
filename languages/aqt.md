@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنجايتيه
     auto: true
+  - translation_iso: hin
+    name: अंगाइते
+    auto: true
   - translation_iso: jpn
     name: アンガイテ語
     auto: true

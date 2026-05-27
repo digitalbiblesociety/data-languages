@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أفوكايا
     auto: true
+  - translation_iso: hin
+    name: अवोकाया
+    auto: true
   - translation_iso: jpn
     name: アヴォカヤ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كارا
     auto: true
+  - translation_iso: hin
+    name: कारा (तंज़ानिया)
+    auto: true
   - translation_iso: jpn
     name: カラ語
   - translation_iso: zho

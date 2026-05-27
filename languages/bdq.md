@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بهنار
     auto: true
+  - translation_iso: hin
+    name: बहनार
+    auto: true
   - translation_iso: jpn
     name: バナール語
   - translation_iso: zho

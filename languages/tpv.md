@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانابج
     auto: true
+  - translation_iso: hin
+    name: तानापाग
+    auto: true
   - translation_iso: jpn
     name: 北カロリニアン語
     auto: true

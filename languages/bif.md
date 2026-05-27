@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيافادا
     auto: true
+  - translation_iso: hin
+    name: बियाफ़ादा
+    auto: true
   - translation_iso: jpn
     name: ビアファダ語
     auto: true

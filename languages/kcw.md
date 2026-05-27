@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كابواري
     auto: true
+  - translation_iso: hin
+    name: काबवारी
+    auto: true
   - translation_iso: jpn
     name: カブワリ語
     auto: true

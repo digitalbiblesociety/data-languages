@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيلا
     auto: true
+  - translation_iso: hin
+    name: इला
+    auto: true
   - translation_iso: jpn
     name: イラ語
   - translation_iso: zho

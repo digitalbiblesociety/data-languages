@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوباو
     auto: true
+  - translation_iso: hin
+    name: ओपाओ
+    auto: true
   - translation_iso: jpn
     name: オパオ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة التركمانية خالج
     auto: true
+  - translation_iso: hin
+    name: तुर्की खलज
+    auto: true
   - translation_iso: jpn
     name: チュルク・ハラジ語
   - translation_iso: kor

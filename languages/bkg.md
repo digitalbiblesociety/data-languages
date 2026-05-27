@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: بوراكا
     auto: true
+  - translation_iso: hin
+    name: बुराका
+    auto: true
   - translation_iso: jpn
     name: ブラカ語
     auto: true

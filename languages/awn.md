@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونجي
     auto: true
+  - translation_iso: hin
+    name: आउंगी
+    auto: true
   - translation_iso: jpn
     name: アウンギ語
     auto: true

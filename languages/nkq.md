@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نكامي
     auto: true
+  - translation_iso: hin
+    name: नकामी
+    auto: true
   - translation_iso: jpn
     name: ンカミ語
     auto: true

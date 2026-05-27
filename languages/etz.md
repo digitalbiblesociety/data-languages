@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السيميمي
     auto: true
+  - translation_iso: hin
+    name: सेमिमी
+    auto: true
   - translation_iso: jpn
     name: セミミ語
     auto: true

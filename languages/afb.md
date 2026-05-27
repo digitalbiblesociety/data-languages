@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gulf_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة خليجية
+  - translation_iso: hin
+    name: खाड़ी अरबी
+    auto: true
   - translation_iso: jpn
     name: アラビア語湾岸方言
   - translation_iso: kor

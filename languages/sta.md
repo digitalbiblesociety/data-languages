@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيتلا
     auto: true
+  - translation_iso: hin
+    name: सेटला
+    auto: true
   - translation_iso: jpn
     name: セットラ語
     auto: true

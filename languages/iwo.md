@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيور
     auto: true
+  - translation_iso: hin
+    name: इवुर
+    auto: true
   - translation_iso: jpn
     name: イウル語
     auto: true

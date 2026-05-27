@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توكو نو شيما
     auto: true
+  - translation_iso: hin
+    name: तोकु-नो-शिमा
+    auto: true
   - translation_iso: jpn
     name: 徳之島方言
   - translation_iso: kor

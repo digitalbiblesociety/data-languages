@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نابي
     auto: true
+  - translation_iso: hin
+    name: नाबी
+    auto: true
   - translation_iso: jpn
     name: ナビ語
     auto: true

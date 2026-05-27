@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونتوك الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य बोंटोक
+    auto: true
   - translation_iso: jpn
     name: 中央ボントク語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندونجا
     auto: true
+  - translation_iso: hin
+    name: न्दुंगा
+    auto: true
   - translation_iso: jpn
     name: ンドゥンガ語
     auto: true

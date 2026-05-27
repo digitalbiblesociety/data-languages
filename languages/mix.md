@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك ميكستيبك
     auto: true
+  - translation_iso: hin
+    name: मिश्तेपेक मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: ミステペク・ミステク語
     auto: true

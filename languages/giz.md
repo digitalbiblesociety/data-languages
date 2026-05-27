@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سووث غيزيغآ
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी गिज़िगा
+    auto: true
   - translation_iso: jpn
     name: サウス・ギジガ語
     auto: true

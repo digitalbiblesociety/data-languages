@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غآنآنج
     auto: true
+  - translation_iso: hin
+    name: गनांग
+    auto: true
   - translation_iso: jpn
     name: ガナング語
     auto: true

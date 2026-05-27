@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوري
     auto: true
+  - translation_iso: hin
+    name: पुरी
+    auto: true
   - translation_iso: jpn
     name: プリ語
     auto: true

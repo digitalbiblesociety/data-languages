@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: رومانو صربي
     auto: true
+  - translation_iso: hin
+    name: रोमानो-सर्बियाई
+    auto: true
   - translation_iso: jpn
     name: ロマーノセルビア語
     auto: true

@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/French_Guianese_Creole"
 translations:
   - translation_iso: ara
     name: كريول غويانا الفرنسية
+  - translation_iso: hin
+    name: गयानी क्रियोल फ्रेंच
+    auto: true
   - translation_iso: jpn
     name: 仏領ギアナのクレオール語
   - translation_iso: kor

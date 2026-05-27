@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تيكي كوكويا
     auto: true
+  - translation_iso: hin
+    name: तेके-कुकुया
+    auto: true
   - translation_iso: jpn
     name: ククヤ語
   - translation_iso: zho

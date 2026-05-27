@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماريا
     auto: true
+  - translation_iso: hin
+    name: मारिया
+    auto: true
   - translation_iso: jpn
     name: マリア語
     auto: true

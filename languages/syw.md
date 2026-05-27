@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاغاتي
     auto: true
+  - translation_iso: hin
+    name: कागाते
+    auto: true
   - translation_iso: jpn
     name: カゲート語
     auto: true

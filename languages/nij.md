@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: نجاجو
     auto: true
+  - translation_iso: hin
+    name: न्गाजू
+    auto: true
   - translation_iso: jpn
     name: ガジュ語
   - translation_iso: zho

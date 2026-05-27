@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البرتغالية
     auto: true
+  - translation_iso: hin
+    name: पुर्तगाली सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ポルトガル手話
   - translation_iso: zho

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البوروندية
     auto: true
+  - translation_iso: hin
+    name: बुरुंडियन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ブルンジ手話
     auto: true

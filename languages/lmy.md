@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة امبويا
     auto: true
+  - translation_iso: hin
+    name: लंबोया
+    auto: true
   - translation_iso: jpn
     name: ランボヤ語
     auto: true

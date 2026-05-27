@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاراجا
     auto: true
+  - translation_iso: hin
+    name: कराजा
+    auto: true
   - translation_iso: jpn
     name: カラジャ語
     auto: true

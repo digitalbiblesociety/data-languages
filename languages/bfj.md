@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بافانجي
     auto: true
+  - translation_iso: hin
+    name: बाफांजी
+    auto: true
   - translation_iso: jpn
     name: バファンジ語
     auto: true

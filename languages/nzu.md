@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة تيكي نزيكو
     auto: true
+  - translation_iso: hin
+    name: तेके-नज़िकू
+    auto: true
   - translation_iso: jpn
     name: テケ・ンジコウ語
     auto: true

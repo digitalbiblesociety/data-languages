@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: حومبوري سيني سونغاي
     auto: true
+  - translation_iso: hin
+    name: हुम्बुरी सेन्नी सोंघाई
+    auto: true
   - translation_iso: jpn
     name: フンブリ・センニ・ソンガイ語
     auto: true

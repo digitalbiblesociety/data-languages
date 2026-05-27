@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زيمبا
     auto: true
+  - translation_iso: hin
+    name: ज़ेम्बा
+    auto: true
   - translation_iso: jpn
     name: ゼンバ語
     auto: true

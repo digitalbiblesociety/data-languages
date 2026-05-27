@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بايسو
     auto: true
+  - translation_iso: hin
+    name: बाइसो
+    auto: true
   - translation_iso: jpn
     name: バイソ語
     auto: true

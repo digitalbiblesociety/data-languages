@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانغوا
     auto: true
+  - translation_iso: hin
+    name: तंगोआ
+    auto: true
   - translation_iso: jpn
     name: タンゴア語
     auto: true

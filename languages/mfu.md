@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مبويلا
     auto: true
+  - translation_iso: hin
+    name: म्बवेला
+    auto: true
   - translation_iso: jpn
     name: ムブウェラ語
     auto: true

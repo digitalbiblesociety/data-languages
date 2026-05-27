@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Soddo_language"
 translations:
   - translation_iso: ara
     name: سودو (لغة)
+  - translation_iso: hin
+    name: किस्ताने
+    auto: true
   - translation_iso: jpn
     name: ソッド語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناي
     auto: true
+  - translation_iso: hin
+    name: नायी
+    auto: true
   - translation_iso: jpn
     name: ナイ語
     auto: true

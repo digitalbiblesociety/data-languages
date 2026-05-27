@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجäبإرإ
     auto: true
+  - translation_iso: hin
+    name: न्गाबेरे
+    auto: true
   - translation_iso: jpn
     name: グワイミ語
   - translation_iso: zho

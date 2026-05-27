@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة موميا
     auto: true
+  - translation_iso: hin
+    name: मोमिना
+    auto: true
   - translation_iso: jpn
     name: モミナ語
     auto: true

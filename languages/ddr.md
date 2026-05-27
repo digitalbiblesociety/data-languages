@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دودوروا
     auto: true
+  - translation_iso: hin
+    name: धुधुरोआ
+    auto: true
   - translation_iso: jpn
     name: ドゥドゥロア語
     auto: true

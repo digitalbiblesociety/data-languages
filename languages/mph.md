@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماونج
     auto: true
+  - translation_iso: hin
+    name: माउंग
+    auto: true
   - translation_iso: jpn
     name: マウン語
     auto: true

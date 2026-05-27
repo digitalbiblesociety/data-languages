@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوزآرخآني
     auto: true
+  - translation_iso: hin
+    name: गोज़ारखानी
+    auto: true
   - translation_iso: jpn
     name: ゴザルハニ語
     auto: true

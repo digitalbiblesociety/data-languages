@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسيب
     auto: true
+  - translation_iso: hin
+    name: मासेप
+    auto: true
   - translation_iso: jpn
     name: マッセップ語
     auto: true

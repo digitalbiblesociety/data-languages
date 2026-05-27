@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة تشام القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन चाम
+    auto: true
   - translation_iso: jpn
     name: 古チャム語
     auto: true

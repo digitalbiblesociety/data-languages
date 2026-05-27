@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولاو-سواين
     auto: true
+  - translation_iso: hin
+    name: उलाउ-सुआइन
+    auto: true
   - translation_iso: jpn
     name: ウラウ・スアイン語
     auto: true

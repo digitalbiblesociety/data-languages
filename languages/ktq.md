@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاتاباجا
     auto: true
+  - translation_iso: hin
+    name: कताबागा
+    auto: true
   - translation_iso: jpn
     name: カタバガ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أجا
     auto: true
+  - translation_iso: hin
+    name: अजा
+    auto: true
   - translation_iso: jpn
     name: アジャ語 (ニジェール・コンゴ語族)
   - translation_iso: zho

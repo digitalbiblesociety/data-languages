@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمبلونج
     auto: true
+  - translation_iso: hin
+    name: अम्ब्लोंग
+    auto: true
   - translation_iso: jpn
     name: アンブロン語
     auto: true

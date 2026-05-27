@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مالي
     auto: true
+  - translation_iso: hin
+    name: माली
+    auto: true
   - translation_iso: jpn
     name: マリ語
     auto: true

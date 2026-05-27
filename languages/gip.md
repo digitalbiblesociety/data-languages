@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غيمي
     auto: true
+  - translation_iso: hin
+    name: गिमी (पश्चिमी न्यू ब्रिटेन)
+    auto: true
   - translation_iso: jpn
     name: ギミ語
     auto: true

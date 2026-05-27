@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بافانغ
     auto: true
+  - translation_iso: hin
+    name: पाफांग
+    auto: true
   - translation_iso: jpn
     name: パアファン語
     auto: true

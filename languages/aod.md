@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أنّدارم
     auto: true
+  - translation_iso: hin
+    name: अंदारुम
+    auto: true
   - translation_iso: jpn
     name: アンダルム語
     auto: true

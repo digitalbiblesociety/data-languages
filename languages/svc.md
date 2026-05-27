@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فينسينتيان كريول إنجليزية
     auto: true
+  - translation_iso: hin
+    name: विन्सेन्टियन क्रियोल अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: ビンセント・クレオール英語
     auto: true

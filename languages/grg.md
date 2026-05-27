@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مادي
     auto: true
+  - translation_iso: hin
+    name: मादी
+    auto: true
   - translation_iso: jpn
     name: マディ語
     auto: true

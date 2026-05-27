@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ديرا
     auto: true
+  - translation_iso: hin
+    name: डेरा (इंडोनेशिया)
+    auto: true
   - translation_iso: jpn
     name: デラ語
     auto: true

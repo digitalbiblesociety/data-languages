@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابانكي
     auto: true
+  - translation_iso: hin
+    name: बबांकी
+    auto: true
   - translation_iso: jpn
     name: ババンキ語
     auto: true

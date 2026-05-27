@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاه هوت
     auto: true
+  - translation_iso: hin
+    name: जाह हुत
+    auto: true
   - translation_iso: jpn
     name: ジャ・ハット語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موين تشين
     auto: true
+  - translation_iso: hin
+    name: मुन चिन
+    auto: true
   - translation_iso: jpn
     name: ムン・チン語
     auto: true

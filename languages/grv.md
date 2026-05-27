@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كإنترآل غرإبو
     auto: true
+  - translation_iso: hin
+    name: मध्य ग्रेबो
+    auto: true
   - translation_iso: jpn
     name: セントラル・グレボ語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة الخمير القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन ख्मेर
+    auto: true
   - translation_iso: jpn
     name: 古クメール語
     auto: true

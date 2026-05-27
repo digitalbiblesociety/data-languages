@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إسي
     auto: true
+  - translation_iso: hin
+    name: एसे
+    auto: true
   - translation_iso: jpn
     name: エセ語
     auto: true

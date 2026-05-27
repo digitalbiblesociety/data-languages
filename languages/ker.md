@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيرا
     auto: true
+  - translation_iso: hin
+    name: केरा
+    auto: true
   - translation_iso: jpn
     name: ケラ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أروب-لوكيب
     auto: true
+  - translation_iso: hin
+    name: अरोप-लोकेप
+    auto: true
   - translation_iso: jpn
     name: シアッシ語
   - translation_iso: zho

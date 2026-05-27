@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بهونجيا
     auto: true
+  - translation_iso: hin
+    name: भुंजिया
+    auto: true
   - translation_iso: jpn
     name: ブンジア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإمومو
     auto: true
+  - translation_iso: hin
+    name: एमुमु
+    auto: true
   - translation_iso: jpn
     name: エムム語
     auto: true

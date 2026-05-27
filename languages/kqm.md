@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خيسا
     auto: true
+  - translation_iso: hin
+    name: खिसा
+    auto: true
   - translation_iso: jpn
     name: キサ語
     auto: true

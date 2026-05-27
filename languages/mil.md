@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك بينيوليس
     auto: true
+  - translation_iso: hin
+    name: पेन्योलेस मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: ペニョレス・ミステク語
     auto: true

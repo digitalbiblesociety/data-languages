@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جيكاريلا أباتشي
     auto: true
+  - translation_iso: hin
+    name: हिकारिया अपाचे
+    auto: true
   - translation_iso: jpn
     name: ジカリラ・アパッチ語
     auto: true

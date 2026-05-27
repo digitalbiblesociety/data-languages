@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيسابي
     auto: true
+  - translation_iso: hin
+    name: इसाबी
+    auto: true
   - translation_iso: jpn
     name: イサビ語
     auto: true

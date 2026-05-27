@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيينيلي
     auto: true
+  - translation_iso: hin
+    name: क्येनेले
+    auto: true
   - translation_iso: jpn
     name: キェネレ語
     auto: true

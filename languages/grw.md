@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوإدآ
     auto: true
+  - translation_iso: hin
+    name: ग्वेदा
+    auto: true
   - translation_iso: jpn
     name: グウェダ語
     auto: true

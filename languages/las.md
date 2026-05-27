@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاما (توجو)
     auto: true
+  - translation_iso: hin
+    name: लामा (टोगो)
+    auto: true
   - translation_iso: jpn
     name: ラマ語
     auto: true

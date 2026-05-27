@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك إيتونودجيا
     auto: true
+  - translation_iso: hin
+    name: इतुंदुहिया मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: イトゥンドゥヒア・ミステク語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينان الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी पेनान
+    auto: true
   - translation_iso: jpn
     name: 西ペナン語
     auto: true

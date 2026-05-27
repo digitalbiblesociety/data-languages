@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الينياج الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी मिन्याग
+    auto: true
   - translation_iso: jpn
     name: 東ミニャン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيتي-بيندي
     auto: true
+  - translation_iso: hin
+    name: बेते-बेंदी
+    auto: true
   - translation_iso: jpn
     name: ベテ・ベンディ語
     auto: true

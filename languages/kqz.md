@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كورانا
     auto: true
+  - translation_iso: hin
+    name: कोराना
+    auto: true
   - translation_iso: jpn
     name: コラナ語
   - translation_iso: zho

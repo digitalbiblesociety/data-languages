@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبا
     auto: true
+  - translation_iso: hin
+    name: म्बा
+    auto: true
   - translation_iso: jpn
     name: ムバ語
     auto: true

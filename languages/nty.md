@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مانتسي
     auto: true
+  - translation_iso: hin
+    name: मांत्सी
+    auto: true
   - translation_iso: jpn
     name: マントシ語
     auto: true

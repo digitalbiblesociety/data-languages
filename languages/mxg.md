@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبانجالا
     auto: true
+  - translation_iso: hin
+    name: म्बांगाला
+    auto: true
   - translation_iso: jpn
     name: ムバンガラ語
     auto: true

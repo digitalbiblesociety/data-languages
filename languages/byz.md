@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بانارو
     auto: true
+  - translation_iso: hin
+    name: बनारो
+    auto: true
   - translation_iso: jpn
     name: バナロ語
     auto: true

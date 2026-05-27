@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شال زوال
     auto: true
+  - translation_iso: hin
+    name: शाल-ज़्वाल
+    auto: true
   - translation_iso: jpn
     name: シャルズワール語
     auto: true

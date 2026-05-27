@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سامو
     auto: true
+  - translation_iso: hin
+    name: सामो
+    auto: true
   - translation_iso: jpn
     name: ダバ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوالهيوكوا-تلاتسكاناي
     auto: true
+  - translation_iso: hin
+    name: क्वालहियोक्वा-त्लात्स्कानाई
+    auto: true
   - translation_iso: jpn
     name: クワルヒオクワトラツカナイ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة تاجي
     auto: true
+  - translation_iso: hin
+    name: ताजे
+    auto: true
   - translation_iso: jpn
     name: タジェ語
     auto: true

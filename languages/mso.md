@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موبوم
     auto: true
+  - translation_iso: hin
+    name: मोम्बुम
+    auto: true
   - translation_iso: jpn
     name: モンブム語
     auto: true

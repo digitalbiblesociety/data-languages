@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوري
     auto: true
+  - translation_iso: hin
+    name: बुरे
+    auto: true
   - translation_iso: jpn
     name: ブレ語
     auto: true

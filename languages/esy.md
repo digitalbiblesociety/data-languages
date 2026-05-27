@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الإسكايان
     auto: true
+  - translation_iso: hin
+    name: एस्कायन
+    auto: true
   - translation_iso: jpn
     name: エスカヤ語
   - translation_iso: kor

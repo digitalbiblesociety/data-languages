@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بادوي
     auto: true
+  - translation_iso: hin
+    name: पादोए
+    auto: true
   - translation_iso: jpn
     name: パドエ語
     auto: true

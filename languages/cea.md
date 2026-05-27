@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السفلى تشهاليس
     auto: true
+  - translation_iso: hin
+    name: निचली चेहालिस
+    auto: true
   - translation_iso: jpn
     name: 下チヘリス語
   - translation_iso: zho

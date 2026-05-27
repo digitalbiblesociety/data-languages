@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيايكينا
     auto: true
+  - translation_iso: hin
+    name: न्यिकिना
+    auto: true
   - translation_iso: jpn
     name: ニギナ語
   - translation_iso: zho

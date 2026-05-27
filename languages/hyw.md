@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Western_Armenian"
 translations:
   - translation_iso: ara
     name: الأرمنية الغربية
+  - translation_iso: hin
+    name: पश्चिमी अर्मेनियाई
+    auto: true
   - translation_iso: jpn
     name: 西アルメニア語
   - translation_iso: kor

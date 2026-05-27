@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الألوموتسو
     auto: true
+  - translation_iso: hin
+    name: अलुमू-तेसू
+    auto: true
   - translation_iso: jpn
     name: アルムテス語
     auto: true

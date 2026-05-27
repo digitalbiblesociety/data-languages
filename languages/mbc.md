@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكوشي
     auto: true
+  - translation_iso: hin
+    name: मकुशी
+    auto: true
   - translation_iso: jpn
     name: マクシー語
   - translation_iso: zho

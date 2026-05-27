@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيمارجانج
     auto: true
+  - translation_iso: hin
+    name: किमारागंग
+    auto: true
   - translation_iso: jpn
     name: キマラガン語
     auto: true

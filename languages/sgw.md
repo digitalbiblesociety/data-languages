@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sebat_Bet_Gurage_language"
 translations:
   - translation_iso: ara
     name: سيبات بيت الجوراجي (لغة)
+  - translation_iso: hin
+    name: सेबात बेट गुरागे
+    auto: true
   - translation_iso: jpn
     name: セントラル・ウェスト・グラゲ語
     auto: true

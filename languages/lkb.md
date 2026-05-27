@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ابراس
     auto: true
+  - translation_iso: hin
+    name: कब्रास
+    auto: true
   - translation_iso: jpn
     name: カブラス語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موريا الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी मुरिया
+    auto: true
   - translation_iso: jpn
     name: ウェスタン・ムリア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكول
     auto: true
+  - translation_iso: hin
+    name: कोल (बांग्लादेश)
+    auto: true
   - translation_iso: jpn
     name: コル語
   - translation_iso: kor

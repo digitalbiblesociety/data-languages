@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشاستا
     auto: true
+  - translation_iso: hin
+    name: शास्ता
+    auto: true
   - translation_iso: jpn
     name: サステアン語
     auto: true

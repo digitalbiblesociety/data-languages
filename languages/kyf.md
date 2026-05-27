@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويا
     auto: true
+  - translation_iso: hin
+    name: कोउया
+    auto: true
   - translation_iso: jpn
     name: クウヤ語
     auto: true

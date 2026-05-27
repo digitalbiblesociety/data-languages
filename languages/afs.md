@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أفرو-سيميينول كريول
     auto: true
+  - translation_iso: hin
+    name: एफ्रो-सेमिनोल क्रियोल
+    auto: true
   - translation_iso: jpn
     name: アフロ・セミノール語
   - translation_iso: zho

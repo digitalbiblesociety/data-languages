@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوماغوا
     auto: true
+  - translation_iso: hin
+    name: ओमागुआ
+    auto: true
   - translation_iso: jpn
     name: オマグア語
     auto: true

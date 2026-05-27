@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة فانغدووالي
     auto: true
+  - translation_iso: hin
+    name: फंगडुवाली
+    auto: true
   - translation_iso: jpn
     name: ファンドゥワリ語
     auto: true

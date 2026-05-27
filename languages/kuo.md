@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوموكيو
     auto: true
+  - translation_iso: hin
+    name: कुमुकियो
+    auto: true
   - translation_iso: jpn
     name: クムキオ語
     auto: true

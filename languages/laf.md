@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lafofa_languages"
 translations:
   - translation_iso: ara
     name: لغات لافوفا
+  - translation_iso: hin
+    name: लाफोफा
+    auto: true
   - translation_iso: jpn
     name: ラフォファ諸語
   - translation_iso: zho

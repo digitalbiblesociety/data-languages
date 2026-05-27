@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بونو جيونج ناي
     auto: true
+  - translation_iso: hin
+    name: च्योंगनाई बुनु
+    auto: true
   - translation_iso: jpn
     name: 炯奈語
   - translation_iso: zho

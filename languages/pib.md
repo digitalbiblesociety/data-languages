@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يين
     auto: true
+  - translation_iso: hin
+    name: यिने
+    auto: true
   - translation_iso: jpn
     name: イネ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نغارلا
     auto: true
+  - translation_iso: hin
+    name: नगारला
+    auto: true
   - translation_iso: jpn
     name: ングアルラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اوميان
     auto: true
+  - translation_iso: hin
+    name: लाओमियान
+    auto: true
   - translation_iso: jpn
     name: ラオミアン語
     auto: true

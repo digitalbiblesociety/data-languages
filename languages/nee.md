@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيليمواا نيكسومواك
     auto: true
+  - translation_iso: hin
+    name: नेलेम्वा-निक्सुम्वाक
+    auto: true
   - translation_iso: jpn
     name: ネレムワ・ニクスムワク語
     auto: true

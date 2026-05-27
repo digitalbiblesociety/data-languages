@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإنجانو
     auto: true
+  - translation_iso: hin
+    name: एंगानो
+    auto: true
   - translation_iso: jpn
     name: エンガーノ語
     auto: true

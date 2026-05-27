@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ملغاسية البلاتو
     auto: true
+  - translation_iso: hin
+    name: पठारी मालागासी
+    auto: true
   - translation_iso: jpn
     name: プラトー・マダガスカル語
   - translation_iso: zho

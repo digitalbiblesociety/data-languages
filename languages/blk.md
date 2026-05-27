@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pa%27O_language"
 translations:
   - translation_iso: ara
     name: باو
+  - translation_iso: hin
+    name: पाओ करेन
+    auto: true
   - translation_iso: jpn
     name: パオ語
   - translation_iso: kor

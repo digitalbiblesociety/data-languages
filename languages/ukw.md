@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوكواني-أبوه-ندوني
     auto: true
+  - translation_iso: hin
+    name: उक्वुआनी-अबोह-न्दोनी
+    auto: true
   - translation_iso: jpn
     name: アボ語
     auto: true

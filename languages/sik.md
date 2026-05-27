@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيكيانا
     auto: true
+  - translation_iso: hin
+    name: सिकियाना
+    auto: true
   - translation_iso: jpn
     name: カシュイアナ語
     auto: true

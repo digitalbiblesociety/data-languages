@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الإتشيمين
     auto: true
+  - translation_iso: hin
+    name: एचेमिन
+    auto: true
   - translation_iso: jpn
     name: エッチェミン語
     auto: true

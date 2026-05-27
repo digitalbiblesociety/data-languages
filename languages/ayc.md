@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيمارا الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी आयमारा
+    auto: true
   - translation_iso: jpn
     name: 南アイマラ語
   - translation_iso: zho

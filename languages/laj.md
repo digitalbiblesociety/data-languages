@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لانجو (أوغندا)
     auto: true
+  - translation_iso: hin
+    name: लांगो (युगांडा)
+    auto: true
   - translation_iso: jpn
     name: ランゴ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجاتك رجال كريول
     auto: true
+  - translation_iso: hin
+    name: न्गाटिक मेन्स क्रियोल
+    auto: true
   - translation_iso: jpn
     name: ギャチック語
   - translation_iso: kor

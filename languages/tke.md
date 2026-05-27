@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاكواني
     auto: true
+  - translation_iso: hin
+    name: ताकवाने
+    auto: true
   - translation_iso: jpn
     name: タクワネ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وامبار
     auto: true
+  - translation_iso: hin
+    name: वंपार
+    auto: true
   - translation_iso: jpn
     name: ワンパル語
     auto: true

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة سولكا
     auto: true
+  - translation_iso: hin
+    name: सुल्का
+    auto: true
   - translation_iso: jpn
     name: スルカ語
   - translation_iso: zho

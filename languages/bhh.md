@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بخاري
     auto: true
+  - translation_iso: hin
+    name: बुख़ारी
+    auto: true
   - translation_iso: jpn
     name: ブハラ語
   - translation_iso: kor

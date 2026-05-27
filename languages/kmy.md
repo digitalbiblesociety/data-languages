@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوما
     auto: true
+  - translation_iso: hin
+    name: कोमा
+    auto: true
   - translation_iso: jpn
     name: コマ語
     auto: true

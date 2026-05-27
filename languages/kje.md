@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيسار
     auto: true
+  - translation_iso: hin
+    name: किसार
+    auto: true
   - translation_iso: jpn
     name: キサル語
     auto: true

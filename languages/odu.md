@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوديوال
     auto: true
+  - translation_iso: hin
+    name: ओदुआल
+    auto: true
   - translation_iso: jpn
     name: オドゥアル語
     auto: true

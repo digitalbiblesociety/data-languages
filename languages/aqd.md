@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أمباري دوغون
     auto: true
+  - translation_iso: hin
+    name: अम्पारी डोगन
+    auto: true
   - translation_iso: jpn
     name: アンパリドゴン語
     auto: true

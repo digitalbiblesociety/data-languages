@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة انيما
     auto: true
+  - translation_iso: hin
+    name: लानिमा
+    auto: true
   - translation_iso: jpn
     name: ラニマ語
     auto: true

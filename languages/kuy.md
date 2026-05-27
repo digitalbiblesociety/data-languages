@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: "كوكو-يا'و"
     auto: true
+  - translation_iso: hin
+    name: कुउकु-याउ
+    auto: true
   - translation_iso: jpn
     name: クク・ヤウ語
     auto: true

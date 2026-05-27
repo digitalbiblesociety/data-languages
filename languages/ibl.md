@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيبالوي
     auto: true
+  - translation_iso: hin
+    name: इबालोई
+    auto: true
   - translation_iso: jpn
     name: イバロイ語
     auto: true

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: تاي لونغ
     auto: true
+  - translation_iso: hin
+    name: ताई लोंग
+    auto: true
   - translation_iso: jpn
     name: タイ・ロン語
     auto: true

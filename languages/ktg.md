@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالكوتونج
     auto: true
+  - translation_iso: hin
+    name: कलकुटुंग
+    auto: true
   - translation_iso: jpn
     name: カルクトゥン語
     auto: true

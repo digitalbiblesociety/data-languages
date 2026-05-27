@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانينغدون نيندم
     auto: true
+  - translation_iso: hin
+    name: कानिंगडोन-निंडेम
+    auto: true
   - translation_iso: jpn
     name: カニングドン・ニンデム語
     auto: true

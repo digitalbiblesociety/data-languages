@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيجو الجنوب الشرقي
     auto: true
+  - translation_iso: hin
+    name: दक्षिणपूर्वी इजो
+    auto: true
   - translation_iso: jpn
     name: 東南イジョ語
     auto: true

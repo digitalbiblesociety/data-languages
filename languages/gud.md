@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: يوكوبووé ديدآ
     auto: true
+  - translation_iso: hin
+    name: योकोबोए दीदा
+    auto: true
   - translation_iso: jpn
     name: ヨコボウエ・ディダ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليسيلا
     auto: true
+  - translation_iso: hin
+    name: लिसेला
+    auto: true
   - translation_iso: jpn
     name: リセラ語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kanembu_language"
 translations:
   - translation_iso: ara
     name: كانانبو
+  - translation_iso: hin
+    name: कानेम्बू
+    auto: true
   - translation_iso: jpn
     name: カネンブ語
   - translation_iso: kor

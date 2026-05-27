@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوما
     auto: true
+  - translation_iso: hin
+    name: पुमा
+    auto: true
   - translation_iso: jpn
     name: プマ語
     auto: true

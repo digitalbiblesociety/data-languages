@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالي
     auto: true
+  - translation_iso: hin
+    name: बाली (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
   - translation_iso: jpn
     name: バリ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونيريف
     auto: true
+  - translation_iso: hin
+    name: बोनेरिफ़
+    auto: true
   - translation_iso: jpn
     name: ボネリフ語
     auto: true

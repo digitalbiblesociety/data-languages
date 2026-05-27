@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماريكوبا
     auto: true
+  - translation_iso: hin
+    name: मारिकोपा
+    auto: true
   - translation_iso: jpn
     name: マリコパ語
   - translation_iso: zho

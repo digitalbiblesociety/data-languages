@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك سان ميجيل
     auto: true
+  - translation_iso: hin
+    name: सान मिगेल एल ग्रांडे मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: サン・ミゲル・エル・グランデ・ミステク語
     auto: true

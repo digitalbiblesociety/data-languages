@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوبلو
     auto: true
+  - translation_iso: hin
+    name: ओब्लो
+    auto: true
   - translation_iso: jpn
     name: オブロ語
     auto: true

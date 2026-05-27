@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كافينيا
     auto: true
+  - translation_iso: hin
+    name: कविनेन्या
+    auto: true
   - translation_iso: jpn
     name: カビネニャ語
   - translation_iso: zho

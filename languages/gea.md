@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجيروما
     auto: true
+  - translation_iso: hin
+    name: गेरुमा
+    auto: true
   - translation_iso: jpn
     name: ゲルマ語
     auto: true

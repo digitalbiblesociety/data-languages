@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Abaza_language"
 translations:
   - translation_iso: ara
     name: الأباظية
+  - translation_iso: hin
+    name: अबाज़ा
+    auto: true
   - translation_iso: jpn
     name: アバザ語
   - translation_iso: kor

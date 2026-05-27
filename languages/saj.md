@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساهو
     auto: true
+  - translation_iso: hin
+    name: साहू
+    auto: true
   - translation_iso: jpn
     name: サフ語
   - translation_iso: zho

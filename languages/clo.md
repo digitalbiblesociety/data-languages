@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السهل واخاكا تشونتال
     auto: true
+  - translation_iso: hin
+    name: निचली ओआहाका चोंताल
+    auto: true
   - translation_iso: jpn
     name: ローランド・オアハカ・チョンタル語
     auto: true

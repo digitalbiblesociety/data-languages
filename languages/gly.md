@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gule_language"
 translations:
   - translation_iso: ara
     name: لغة جولي
+  - translation_iso: hin
+    name: गुले
+    auto: true
   - translation_iso: jpn
     name: グレ語
   - translation_iso: zho

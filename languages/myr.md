@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: مونيتشي
     auto: true
+  - translation_iso: hin
+    name: मुनिचे
+    auto: true
   - translation_iso: jpn
     name: ムニチェ語
     auto: true

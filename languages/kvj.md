@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بسيكي
     auto: true
+  - translation_iso: hin
+    name: प्सिक्ये
+    auto: true
   - translation_iso: jpn
     name: プシキエ語
     auto: true

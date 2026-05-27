@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tama_language"
 translations:
   - translation_iso: ara
     name: لغة تاما
+  - translation_iso: hin
+    name: तामा (चाड)
+    auto: true
   - translation_iso: jpn
     name: タマ語
     auto: true

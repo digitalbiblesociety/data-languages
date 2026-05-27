@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يامي
     auto: true
+  - translation_iso: hin
+    name: यामी
+    auto: true
   - translation_iso: jpn
     name: タオ語
   - translation_iso: kor

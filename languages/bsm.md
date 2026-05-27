@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوسامي
     auto: true
+  - translation_iso: hin
+    name: बुसामी
+    auto: true
   - translation_iso: jpn
     name: ブサミ語
     auto: true

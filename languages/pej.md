@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी पोमो
+    auto: true
   - translation_iso: jpn
     name: 北ポモ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بروم بيرلينج لوجير بيدجن
     auto: true
+  - translation_iso: hin
+    name: ब्रूम पर्लिंग लगर पिजिन
+    auto: true
   - translation_iso: jpn
     name: ブルーム・パーリング・ラガー・ピジン語
     auto: true

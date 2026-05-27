@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أريتينجيثيج
     auto: true
+  - translation_iso: hin
+    name: अरितिंगगिथिघ
+    auto: true
   - translation_iso: jpn
     name: アリティングギティ語
     auto: true

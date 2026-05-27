@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أومبيلا
     auto: true
+  - translation_iso: hin
+    name: उम्पिला
+    auto: true
   - translation_iso: jpn
     name: 北東パマン語
     auto: true

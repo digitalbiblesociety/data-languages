@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داماكاوا
     auto: true
+  - translation_iso: hin
+    name: दामाकावा
+    auto: true
   - translation_iso: jpn
     name: ダマカワ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجاريفا
     auto: true
+  - translation_iso: hin
+    name: मांगारेवा
+    auto: true
   - translation_iso: jpn
     name: マンガレバ語
   - translation_iso: kor

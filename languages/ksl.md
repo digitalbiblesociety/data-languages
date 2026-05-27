@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كومالو
     auto: true
+  - translation_iso: hin
+    name: कुमालू
+    auto: true
   - translation_iso: jpn
     name: クマル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أسترال
     auto: true
+  - translation_iso: hin
+    name: ऑस्ट्रल
+    auto: true
   - translation_iso: jpn
     name: オーストラル語
   - translation_iso: zho

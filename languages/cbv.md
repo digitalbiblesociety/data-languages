@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاكوا
     auto: true
+  - translation_iso: hin
+    name: काकुआ
+    auto: true
   - translation_iso: jpn
     name: カクア語
     auto: true

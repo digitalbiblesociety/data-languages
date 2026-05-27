@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كونجو سان سالفادور
     auto: true
+  - translation_iso: hin
+    name: सैन साल्वाडोर कोंगो
+    auto: true
   - translation_iso: jpn
     name: サンサルバドル・コンゴ語
   - translation_iso: zho

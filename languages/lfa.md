@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يفا
     auto: true
+  - translation_iso: hin
+    name: लेफा
+    auto: true
   - translation_iso: jpn
     name: レファ語
     auto: true

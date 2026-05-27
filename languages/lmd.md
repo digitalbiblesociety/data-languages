@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ومون
     auto: true
+  - translation_iso: hin
+    name: लुमुन
+    auto: true
   - translation_iso: jpn
     name: ルムン語
     auto: true

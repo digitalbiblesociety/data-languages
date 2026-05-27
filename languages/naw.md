@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناوري
     auto: true
+  - translation_iso: hin
+    name: नावुरी
+    auto: true
   - translation_iso: jpn
     name: ナウリ語
     auto: true

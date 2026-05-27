@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونان أابوت
     auto: true
+  - translation_iso: hin
+    name: पुनान अपुत
+    auto: true
   - translation_iso: jpn
     name: プナンアプット語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سانتا تيريسا كورا
     auto: true
+  - translation_iso: hin
+    name: सांता तेरेसा कोरा
+    auto: true
   - translation_iso: jpn
     name: コラ語
     auto: true

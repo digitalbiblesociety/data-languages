@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيتوم
     auto: true
+  - translation_iso: hin
+    name: केतुम
+    auto: true
   - translation_iso: jpn
     name: ケトゥム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبيوكسيلا كويكاتك
     auto: true
+  - translation_iso: hin
+    name: तेपेउशिला कुइकातेक
+    auto: true
   - translation_iso: jpn
     name: テペウシラ・クイカテク語
     auto: true

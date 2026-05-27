@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وديان
     auto: true
+  - translation_iso: hin
+    name: लुडियन
+    auto: true
   - translation_iso: jpn
     name: リュード語
   - translation_iso: zho

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: سابيني
     auto: true
+  - translation_iso: hin
+    name: साबिने
+    auto: true
   - translation_iso: jpn
     name: サビーネ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مامبا
     auto: true
+  - translation_iso: hin
+    name: माम्बाए
+    auto: true
   - translation_iso: jpn
     name: マンバエ語
     auto: true

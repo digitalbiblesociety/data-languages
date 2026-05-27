@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيندم
     auto: true
+  - translation_iso: hin
+    name: केंडेम
+    auto: true
   - translation_iso: jpn
     name: ケンデム語
     auto: true

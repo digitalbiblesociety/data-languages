@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا بوليفيا الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी बोलिवियाई क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: 北ボリビアンケチュア語
     auto: true

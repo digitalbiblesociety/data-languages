@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: ماوايانا
     auto: true
+  - translation_iso: hin
+    name: मावायाना
+    auto: true
   - translation_iso: jpn
     name: マワヤナ語
     auto: true

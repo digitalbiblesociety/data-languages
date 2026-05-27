@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمانب
     auto: true
+  - translation_iso: hin
+    name: अमानाब
+    auto: true
   - translation_iso: jpn
     name: アマナブ語
     auto: true

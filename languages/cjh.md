@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأعلى تشهاليس
     auto: true
+  - translation_iso: hin
+    name: ऊपरी चेहालिस
+    auto: true
   - translation_iso: jpn
     name: 上チヘリス語
   - translation_iso: zho

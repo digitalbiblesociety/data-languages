@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بونجو
     auto: true
+  - translation_iso: hin
+    name: बोंगू
+    auto: true
   - translation_iso: jpn
     name: ボング語
     auto: true

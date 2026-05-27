@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة سنكاران مانينكا
     auto: true
+  - translation_iso: hin
+    name: संकरन मानिन्का
+    auto: true
   - translation_iso: jpn
     name: サンカラン・マニンカ語
   - translation_iso: zho

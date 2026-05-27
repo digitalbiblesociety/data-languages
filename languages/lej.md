@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجولا
     auto: true
+  - translation_iso: hin
+    name: लेंगोला
+    auto: true
   - translation_iso: jpn
     name: Lengola語
   - translation_iso: zho

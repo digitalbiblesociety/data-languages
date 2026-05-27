@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوبونجكو
     auto: true
+  - translation_iso: hin
+    name: बोबोंग्को
+    auto: true
   - translation_iso: jpn
     name: ボボンコ語
   - translation_iso: zho

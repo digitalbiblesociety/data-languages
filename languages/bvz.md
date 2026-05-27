@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باوزي
     auto: true
+  - translation_iso: hin
+    name: बौज़ी
+    auto: true
   - translation_iso: jpn
     name: バウジ語
   - translation_iso: zho

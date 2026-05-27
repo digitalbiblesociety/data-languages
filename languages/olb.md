@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولي بوديمان
     auto: true
+  - translation_iso: hin
+    name: ओली-बोडिमान
+    auto: true
   - translation_iso: jpn
     name: オリ・ボディマン語
     auto: true

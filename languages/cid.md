@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: الشيماريكو
     auto: true
+  - translation_iso: hin
+    name: चिमारिको
+    auto: true
   - translation_iso: jpn
     name: チマリコ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الساك
     auto: true
+  - translation_iso: hin
+    name: साएक
+    auto: true
   - translation_iso: jpn
     name: 石語
   - translation_iso: kor

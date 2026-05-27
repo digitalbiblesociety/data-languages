@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كآموإ
     auto: true
+  - translation_iso: hin
+    name: काम्वे
+    auto: true
   - translation_iso: jpn
     name: カムウェ語
     auto: true

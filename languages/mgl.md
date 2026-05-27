@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالي كيلينج
     auto: true
+  - translation_iso: hin
+    name: मालेउ-किलेंगे
+    auto: true
   - translation_iso: jpn
     name: イドゥネ語
   - translation_iso: zho

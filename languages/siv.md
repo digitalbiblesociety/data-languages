@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السومريوب
     auto: true
+  - translation_iso: hin
+    name: सुमारियुप
+    auto: true
   - translation_iso: jpn
     name: ラトマ語
     auto: true

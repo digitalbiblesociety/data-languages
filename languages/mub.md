@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موبي
     auto: true
+  - translation_iso: hin
+    name: मुबी
+    auto: true
   - translation_iso: jpn
     name: ムビ語
     auto: true

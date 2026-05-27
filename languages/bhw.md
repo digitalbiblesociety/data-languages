@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بياك
     auto: true
+  - translation_iso: hin
+    name: बियाक
+    auto: true
   - translation_iso: jpn
     name: ビヤック語
   - translation_iso: zho

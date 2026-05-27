@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Crow_language"
 translations:
   - translation_iso: ara
     name: كروو
+  - translation_iso: hin
+    name: क्रो
+    auto: true
   - translation_iso: jpn
     name: クロウ語
   - translation_iso: kor

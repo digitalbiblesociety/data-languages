@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نيوار الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य नेवार
+    auto: true
   - translation_iso: jpn
     name: 中部ネワール語
     auto: true

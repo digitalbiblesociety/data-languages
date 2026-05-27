@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيجيريا مامبيلا
     auto: true
+  - translation_iso: hin
+    name: नाइजीरिया मम्बिला
+    auto: true
   - translation_iso: jpn
     name: ナイジェリア・マンビラ語
     auto: true

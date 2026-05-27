@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وافا
     auto: true
+  - translation_iso: hin
+    name: वाँफा
+    auto: true
   - translation_iso: jpn
     name: ワムファ語
     auto: true

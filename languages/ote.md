@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي مثكيتال
     auto: true
+  - translation_iso: hin
+    name: मेस्किताल ओटोमी
+    auto: true
   - translation_iso: jpn
     name: メスキタル・オトミ語
     auto: true

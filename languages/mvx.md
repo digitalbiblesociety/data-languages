@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميوسوار
     auto: true
+  - translation_iso: hin
+    name: मेओस्वार
+    auto: true
   - translation_iso: jpn
     name: メオスワル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مويرا
     auto: true
+  - translation_iso: hin
+    name: म्वेरा
+    auto: true
   - translation_iso: jpn
     name: ムウェラ語
   - translation_iso: zho

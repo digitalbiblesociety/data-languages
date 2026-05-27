@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونداونو
     auto: true
+  - translation_iso: hin
+    name: तोंदानो
+    auto: true
   - translation_iso: jpn
     name: トンダノ語
   - translation_iso: zho

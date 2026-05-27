@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيكيوم
     auto: true
+  - translation_iso: hin
+    name: एक्योम
+    auto: true
   - translation_iso: jpn
     name: アエキヨム語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كايبوبو
     auto: true
+  - translation_iso: hin
+    name: कैबोबो
+    auto: true
   - translation_iso: jpn
     name: カイボボ語
     auto: true

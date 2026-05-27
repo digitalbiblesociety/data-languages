@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سانجليتشي
     auto: true
+  - translation_iso: hin
+    name: सांगलेची
+    auto: true
   - translation_iso: jpn
     name: サングリチュ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الغواهاتيك
     auto: true
+  - translation_iso: hin
+    name: ग्वाहातिके
+    auto: true
   - translation_iso: jpn
     name: グワハティケ語
     auto: true

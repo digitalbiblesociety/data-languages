@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بآركلآيفيللإ غرإبو
     auto: true
+  - translation_iso: hin
+    name: बार्कलेविल ग्रेबो
+    auto: true
   - translation_iso: jpn
     name: バークレイヴィル・グレボ語
     auto: true

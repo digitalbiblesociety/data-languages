@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sorkhei_language"
 translations:
   - translation_iso: ara
     name: سرخي
+  - translation_iso: hin
+    name: सोरखेई
+    auto: true
   - translation_iso: jpn
     name: ソルヘ語
   - translation_iso: zho

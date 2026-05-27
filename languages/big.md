@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: بيانجايي
     auto: true
+  - translation_iso: hin
+    name: बियांगाई
+    auto: true
   - translation_iso: jpn
     name: ビアンガイ語
     auto: true

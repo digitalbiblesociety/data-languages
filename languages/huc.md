@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ǂHua
     auto: true
+  - translation_iso: hin
+    name: हुआ
+    auto: true
   - translation_iso: jpn
     name: ホアン語
   - translation_iso: kor

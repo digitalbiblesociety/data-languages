@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماداغاسكار تيساكا
     auto: true
+  - translation_iso: hin
+    name: तेसाका मलगासी
+    auto: true
   - translation_iso: jpn
     name: タイサカ・マダガスカル語
   - translation_iso: zho

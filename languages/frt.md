@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفورتسينال
     auto: true
+  - translation_iso: hin
+    name: फोर्त्सेनाल
+    auto: true
   - translation_iso: jpn
     name: フォルツェナル語
     auto: true

@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tsakhur_language"
 translations:
   - translation_iso: ara
     name: لغة تساخورية
+  - translation_iso: hin
+    name: त्साखुर
+    auto: true
   - translation_iso: jpn
     name: ツァフル語
   - translation_iso: kor

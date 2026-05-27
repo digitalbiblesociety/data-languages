@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: النيكسيك
     auto: true
+  - translation_iso: hin
+    name: निकसेक
+    auto: true
   - translation_iso: jpn
     name: ニクセク語
     auto: true

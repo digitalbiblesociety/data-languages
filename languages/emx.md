@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Erromintxela_language"
 translations:
   - translation_iso: ara
     name: إرومنتشيلا
+  - translation_iso: hin
+    name: एरोमिंट्शेला
+    auto: true
   - translation_iso: jpn
     name: エロミンチェラ語
     auto: true

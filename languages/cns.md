@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أسمات الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य अस्मात
+    auto: true
   - translation_iso: jpn
     name: セントラル・アスマット語
     auto: true

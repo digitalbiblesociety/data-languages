@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونون
     auto: true
+  - translation_iso: hin
+    name: बुनुन
+    auto: true
   - translation_iso: jpn
     name: ブヌン語
   - translation_iso: kor

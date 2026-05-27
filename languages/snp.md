@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيان
     auto: true
+  - translation_iso: hin
+    name: सियाने
+    auto: true
   - translation_iso: jpn
     name: シアネ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بايكينو
     auto: true
+  - translation_iso: hin
+    name: बाइकेनो
+    auto: true
   - translation_iso: jpn
     name: バイケノ語
     auto: true

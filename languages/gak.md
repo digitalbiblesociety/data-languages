@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجامكونورا
     auto: true
+  - translation_iso: hin
+    name: गामकोनोरा
+    auto: true
   - translation_iso: jpn
     name: ガムコノラ語
     auto: true

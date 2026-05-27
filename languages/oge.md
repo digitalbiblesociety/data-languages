@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الجورجية القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन जॉर्जियाई
+    auto: true
   - translation_iso: jpn
     name: 古ジョージア語
   - translation_iso: kor

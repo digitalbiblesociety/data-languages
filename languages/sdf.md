@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: سارلي
     auto: true
+  - translation_iso: hin
+    name: सारली
+    auto: true
   - translation_iso: jpn
     name: ゴーラーニー語
     auto: true

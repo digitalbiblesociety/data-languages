@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكي
     auto: true
+  - translation_iso: hin
+    name: पोके
+    auto: true
   - translation_iso: jpn
     name: ポケ語
     auto: true

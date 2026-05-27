@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاو لان
     auto: true
+  - translation_iso: hin
+    name: काओ लान
+    auto: true
   - translation_iso: jpn
     name: カオラン語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الفوا
     auto: true
+  - translation_iso: hin
+    name: फोआउ
+    auto: true
   - translation_iso: jpn
     name: フォアウ語
     auto: true

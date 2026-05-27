@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجبانو
     auto: true
+  - translation_iso: hin
+    name: ग्बानु
+    auto: true
   - translation_iso: jpn
     name: ガバヌ語
     auto: true

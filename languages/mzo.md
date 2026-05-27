@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماتيبوهي
     auto: true
+  - translation_iso: hin
+    name: मातिपुही
+    auto: true
   - translation_iso: jpn
     name: マティプハイ語
     auto: true

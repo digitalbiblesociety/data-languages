@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورا-پابير
     auto: true
+  - translation_iso: hin
+    name: बुरा-पाबीर
+    auto: true
   - translation_iso: jpn
     name: ブラ・パビール語
     auto: true

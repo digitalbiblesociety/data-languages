@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوفوك
     auto: true
+  - translation_iso: hin
+    name: कुवोक
+    auto: true
   - translation_iso: jpn
     name: クヴォク語
     auto: true

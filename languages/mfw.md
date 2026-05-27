@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مولاها
     auto: true
+  - translation_iso: hin
+    name: मुलाहा
+    auto: true
   - translation_iso: jpn
     name: ムラハ語
     auto: true

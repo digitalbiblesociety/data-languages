@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتاجالبا
     auto: true
+  - translation_iso: hin
+    name: मातागाल्पा
+    auto: true
   - translation_iso: jpn
     name: マタガルパ語
   - translation_iso: zho

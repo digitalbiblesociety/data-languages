@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاري
     auto: true
+  - translation_iso: hin
+    name: कारे (मध्य अफ़्रीकी गणराज्य)
+    auto: true
   - translation_iso: jpn
     name: カレ語
     auto: true

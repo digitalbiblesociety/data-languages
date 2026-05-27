@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الدیجيم-بويليم
     auto: true
+  - translation_iso: hin
+    name: डिजिम-ब्विलिम
+    auto: true
   - translation_iso: jpn
     name: ディカカ語
   - translation_iso: zho

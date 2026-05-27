@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نافري
     auto: true
+  - translation_iso: hin
+    name: नाफ्री
+    auto: true
   - translation_iso: jpn
     name: ナフリ語
     auto: true

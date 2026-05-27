@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داجو دار سيلا
     auto: true
+  - translation_iso: hin
+    name: दार सिला दाजू
+    auto: true
   - translation_iso: jpn
     name: ダル・シラ・ダジュ語
     auto: true

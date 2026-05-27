@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاماالما
     auto: true
+  - translation_iso: hin
+    name: लामालामा
+    auto: true
   - translation_iso: jpn
     name: ラマラマ語
     auto: true

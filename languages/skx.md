@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكو بادانج
     auto: true
+  - translation_iso: hin
+    name: सेको पादांग
+    auto: true
   - translation_iso: jpn
     name: セコ語
     auto: true

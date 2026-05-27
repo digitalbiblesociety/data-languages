@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورثإرن هآيدآ
     auto: true
+  - translation_iso: hin
+    name: उत्तरी हाइदा
+    auto: true
   - translation_iso: jpn
     name: 北部ハイダ語
   - translation_iso: zho

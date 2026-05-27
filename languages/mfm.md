@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارغي الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी मार्गी
+    auto: true
   - translation_iso: jpn
     name: マルギ南語
     auto: true

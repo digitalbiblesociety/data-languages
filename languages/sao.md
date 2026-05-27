@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: سوسي
     auto: true
+  - translation_iso: hin
+    name: साउसे
+    auto: true
   - translation_iso: jpn
     name: セウセ語
     auto: true

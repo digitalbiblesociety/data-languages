@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوبودي هويتوتو
     auto: true
+  - translation_iso: hin
+    name: नूपोदे हुइतोतो
+    auto: true
   - translation_iso: jpn
     name: ヌポデ・ウイトト語
     auto: true

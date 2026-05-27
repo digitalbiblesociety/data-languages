@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Badyara_language"
 translations:
   - translation_iso: ara
     name: باديارا
+  - translation_iso: hin
+    name: बाद्यारा
+    auto: true
   - translation_iso: jpn
     name: バジャラ語
     auto: true

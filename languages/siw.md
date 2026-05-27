@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيواي
     auto: true
+  - translation_iso: hin
+    name: सिवाई
+    auto: true
   - translation_iso: jpn
     name: モトゥナ語
   - translation_iso: zho

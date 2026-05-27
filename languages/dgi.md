@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نورثرن داجارا
     auto: true
+  - translation_iso: hin
+    name: उत्तरी दगारा
+    auto: true
   - translation_iso: jpn
     name: ノーザン・ダガラ語
     auto: true

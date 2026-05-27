@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجوندي
     auto: true
+  - translation_iso: hin
+    name: गुंदी
+    auto: true
   - translation_iso: jpn
     name: グンディ語
   - translation_iso: zho

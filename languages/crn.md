@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إل نايار كورا
     auto: true
+  - translation_iso: hin
+    name: एल नायार कोरा
+    auto: true
   - translation_iso: jpn
     name: エル・ナヤル・コラ語
     auto: true

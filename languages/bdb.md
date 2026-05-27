@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Basap_language"
 translations:
   - translation_iso: ara
     name: لغة الباساب
+  - translation_iso: hin
+    name: बसाप
+    auto: true
   - translation_iso: jpn
     name: バサップ語
     auto: true

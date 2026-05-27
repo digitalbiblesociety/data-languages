@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كويريسا
     auto: true
+  - translation_iso: hin
+    name: क्वेरिसा
+    auto: true
   - translation_iso: jpn
     name: クウェリサ語
     auto: true

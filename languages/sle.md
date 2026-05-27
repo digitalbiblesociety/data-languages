@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة شولاجا
     auto: true
+  - translation_iso: hin
+    name: शोलागा
+    auto: true
   - translation_iso: jpn
     name: ソリガ語
     auto: true

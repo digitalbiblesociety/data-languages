@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أدانج
     auto: true
+  - translation_iso: hin
+    name: अदांग
+    auto: true
   - translation_iso: jpn
     name: アダン語
     auto: true

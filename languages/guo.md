@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآيآبإرو
     auto: true
+  - translation_iso: hin
+    name: गुआयाबेरो
+    auto: true
   - translation_iso: jpn
     name: グアヤベロ語
     auto: true

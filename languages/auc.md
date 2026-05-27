@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة واورانيه
     auto: true
+  - translation_iso: hin
+    name: वाओरानी
+    auto: true
   - translation_iso: jpn
     name: ワオラニ語
   - translation_iso: kor

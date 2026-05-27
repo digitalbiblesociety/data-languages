@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ket_language"
 translations:
   - translation_iso: ara
     name: الكيتية
+  - translation_iso: hin
+    name: केट
+    auto: true
   - translation_iso: jpn
     name: ケット語
   - translation_iso: kor

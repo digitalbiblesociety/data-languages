@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكولورادو
     auto: true
+  - translation_iso: hin
+    name: कोलोराडो
+    auto: true
   - translation_iso: jpn
     name: コロラド語
     auto: true

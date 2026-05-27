@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أندرا-هوس
     auto: true
+  - translation_iso: hin
+    name: अंद्रा-हुस
+    auto: true
   - translation_iso: jpn
     name: アンドラフス語
     auto: true

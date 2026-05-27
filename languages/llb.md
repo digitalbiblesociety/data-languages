@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ولو
     auto: true
+  - translation_iso: hin
+    name: लोलो
+    auto: true
   - translation_iso: jpn
     name: ロロ語
     auto: true

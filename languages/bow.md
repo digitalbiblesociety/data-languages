@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريما
     auto: true
+  - translation_iso: hin
+    name: रेमा
+    auto: true
   - translation_iso: jpn
     name: レマ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غآنجولو
     auto: true
+  - translation_iso: hin
+    name: गंगुलू
+    auto: true
   - translation_iso: jpn
     name: ガングル語
     auto: true

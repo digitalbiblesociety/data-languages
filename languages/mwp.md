@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كالا لاجاو يا
     auto: true
+  - translation_iso: hin
+    name: काला लागाव या
+    auto: true
   - translation_iso: jpn
     name: カラ・ラガウ・ヤ語
   - translation_iso: kor

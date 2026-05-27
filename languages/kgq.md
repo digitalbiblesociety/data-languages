@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاموري
     auto: true
+  - translation_iso: hin
+    name: कामोरो
+    auto: true
   - translation_iso: jpn
     name: カモロ語
     auto: true

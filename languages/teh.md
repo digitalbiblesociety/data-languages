@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيهويلتشي
     auto: true
+  - translation_iso: hin
+    name: तेहुएलचे
+    auto: true
   - translation_iso: jpn
     name: テウェルチェ語
   - translation_iso: kor

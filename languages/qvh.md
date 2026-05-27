@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوامالييس-دوس دي مايو هوانوكو
     auto: true
+  - translation_iso: hin
+    name: वामालीस-दोस दे मायो वानूको क्वेचुआ
+    auto: true
   - translation_iso: jpn
     name: ワマリエスドスデマヨワヌコケチュア語
     auto: true

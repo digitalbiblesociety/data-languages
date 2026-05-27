@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سانجاو
     auto: true
+  - translation_iso: hin
+    name: सांगाउ
+    auto: true
   - translation_iso: jpn
     name: バハササンガウ語
     auto: true

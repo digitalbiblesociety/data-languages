@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة وان الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी वन
+    auto: true
   - translation_iso: jpn
     name: 北ワン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوافا
     auto: true
+  - translation_iso: hin
+    name: होआवा
+    auto: true
   - translation_iso: jpn
     name: ホアバ語
     auto: true

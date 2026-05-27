@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوروبون سيلا
     auto: true
+  - translation_iso: hin
+    name: कोरुपुन-सेला
+    auto: true
   - translation_iso: jpn
     name: コルプン・セラ語
     auto: true

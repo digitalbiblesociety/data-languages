@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pennsylvania_Dutch_language"
 translations:
   - translation_iso: ara
     name: الألمانية البنسلفانية
+  - translation_iso: hin
+    name: पेंसिल्वेनिया जर्मन
+    auto: true
   - translation_iso: jpn
     name: ペンシルベニアドイツ語
   - translation_iso: kor

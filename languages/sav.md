@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سافي سافي
     auto: true
+  - translation_iso: hin
+    name: साफी-साफी
+    auto: true
   - translation_iso: jpn
     name: サアフィサアフィ語
     auto: true

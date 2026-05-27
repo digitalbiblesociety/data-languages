@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأرمينية
     auto: true
+  - translation_iso: hin
+    name: अर्मेनियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: アルメニア手話
   - translation_iso: zho

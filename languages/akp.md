@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سيوو
     auto: true
+  - translation_iso: hin
+    name: सिवू
+    auto: true
   - translation_iso: jpn
     name: シウ語
     auto: true

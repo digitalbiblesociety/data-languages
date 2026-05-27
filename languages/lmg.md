@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اموجاي
     auto: true
+  - translation_iso: hin
+    name: लामोगाई
+    auto: true
   - translation_iso: jpn
     name: ラモガイ語
   - translation_iso: zho

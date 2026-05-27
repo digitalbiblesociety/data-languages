@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاكتشيكل-كويتشي
     auto: true
+  - translation_iso: hin
+    name: काकचिकेल-किचे
+    auto: true
   - translation_iso: jpn
     name: カクチケル・キチェ混合言語
     auto: true

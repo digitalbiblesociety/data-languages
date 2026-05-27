@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يانيوا
     auto: true
+  - translation_iso: hin
+    name: यान्युवा
+    auto: true
   - translation_iso: jpn
     name: ヤニュワ語
     auto: true

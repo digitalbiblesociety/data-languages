@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالك مالك
     auto: true
+  - translation_iso: hin
+    name: मलक मलक
+    auto: true
   - translation_iso: jpn
     name: マラク・マラク語
     auto: true

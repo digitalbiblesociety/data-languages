@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سارامكان
     auto: true
+  - translation_iso: hin
+    name: सारामक्कान
+    auto: true
   - translation_iso: jpn
     name: サラマッカ語
   - translation_iso: kor

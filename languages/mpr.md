@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة فانجونو
     auto: true
+  - translation_iso: hin
+    name: वांगुनु
+    auto: true
   - translation_iso: jpn
     name: ヴァングヌ語
     auto: true

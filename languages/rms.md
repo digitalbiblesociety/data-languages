@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الرومانية للإشارة
     auto: true
+  - translation_iso: hin
+    name: रोमानियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ルーマニア手話
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتيبي
     auto: true
+  - translation_iso: hin
+    name: मातेपी
+    auto: true
   - translation_iso: jpn
     name: マテピ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنيندّيليّاكوا
     auto: true
+  - translation_iso: hin
+    name: अनिन्डिल्याक्वा
+    auto: true
   - translation_iso: jpn
     name: エニンディリャグワ語
   - translation_iso: zho

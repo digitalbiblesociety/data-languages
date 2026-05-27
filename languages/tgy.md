@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توغويو
     auto: true
+  - translation_iso: hin
+    name: तोगोयो
+    auto: true
   - translation_iso: jpn
     name: トゴヨ語
   - translation_iso: zho

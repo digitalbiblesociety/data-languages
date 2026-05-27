@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نار فو
     auto: true
+  - translation_iso: hin
+    name: नार फु
+    auto: true
   - translation_iso: jpn
     name: ナル・プ語
     auto: true

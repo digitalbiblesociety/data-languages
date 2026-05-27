@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة شاوجيانج الصينية
     auto: true
+  - translation_iso: hin
+    name: शाओजियांग चीनी
+    auto: true
   - translation_iso: jpn
     name: 閩贛語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيولنيول
     auto: true
+  - translation_iso: hin
+    name: न्युलन्युल
+    auto: true
   - translation_iso: jpn
     name: ニュルニュル語
   - translation_iso: kor

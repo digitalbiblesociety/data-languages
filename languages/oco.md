@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكورنية القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन कॉर्निश
+    auto: true
   - translation_iso: jpn
     name: 古コーンウォール語
     auto: true

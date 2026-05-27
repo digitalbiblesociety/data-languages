@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Piscataway_language"
 translations:
   - translation_iso: ara
     name: بيسكاتاواي
+  - translation_iso: hin
+    name: पिस्काटावे
+    auto: true
   - translation_iso: jpn
     name: ピスカタウェイ語
     auto: true

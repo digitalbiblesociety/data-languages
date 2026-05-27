@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يتزليتز
     auto: true
+  - translation_iso: hin
+    name: लिट्ज़लिट्ज़
+    auto: true
   - translation_iso: jpn
     name: リツリッツ語
     auto: true

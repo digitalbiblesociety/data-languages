@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ذاو
     auto: true
+  - translation_iso: hin
+    name: धाओ
+    auto: true
   - translation_iso: jpn
     name: ダハオ語
     auto: true

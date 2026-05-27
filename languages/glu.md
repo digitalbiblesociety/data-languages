@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غولآ
     auto: true
+  - translation_iso: hin
+    name: गुला (चाड)
+    auto: true
   - translation_iso: jpn
     name: グラ語
     auto: true

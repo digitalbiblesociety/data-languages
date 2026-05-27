@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونام
     auto: true
+  - translation_iso: hin
+    name: पोनाम
+    auto: true
   - translation_iso: jpn
     name: ポナム語
     auto: true

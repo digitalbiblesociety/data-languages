@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديملي
     auto: true
+  - translation_iso: hin
+    name: दिमली
+    auto: true
   - translation_iso: jpn
     name: ディムリ語
   - translation_iso: zho

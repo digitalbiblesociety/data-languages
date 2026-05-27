@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لإرإ
     auto: true
+  - translation_iso: hin
+    name: लेरे
+    auto: true
   - translation_iso: jpn
     name: レレ語
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: ممبك
     auto: true
+  - translation_iso: hin
+    name: म्बुक
+    auto: true
   - translation_iso: jpn
     name: ムブク語
     auto: true

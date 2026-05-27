@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديج
     auto: true
+  - translation_iso: hin
+    name: देग
+    auto: true
   - translation_iso: jpn
     name: デグ語
     auto: true

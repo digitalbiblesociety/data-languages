@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كواكوم
     auto: true
+  - translation_iso: hin
+    name: क्वाकुम
+    auto: true
   - translation_iso: jpn
     name: クワクゥム語
     auto: true

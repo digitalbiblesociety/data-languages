@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كويني
     auto: true
+  - translation_iso: hin
+    name: क्विनी
+    auto: true
   - translation_iso: jpn
     name: クイニ語
     auto: true

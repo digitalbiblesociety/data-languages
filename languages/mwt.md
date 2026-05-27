@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موكن
     auto: true
+  - translation_iso: hin
+    name: मोकेन
+    auto: true
   - translation_iso: jpn
     name: モーケン語
   - translation_iso: kor

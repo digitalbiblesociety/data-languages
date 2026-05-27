@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيك
     auto: true
+  - translation_iso: hin
+    name: साके
+    auto: true
   - translation_iso: jpn
     name: サケ語
   - translation_iso: zho

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: راجبانشي
     auto: true
+  - translation_iso: hin
+    name: राजबंशी
+    auto: true
   - translation_iso: jpn
     name: ラージバンシ語
   - translation_iso: zho

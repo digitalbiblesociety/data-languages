@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بامباسي
     auto: true
+  - translation_iso: hin
+    name: बंबासी
+    auto: true
   - translation_iso: jpn
     name: バンバッシ語
     auto: true

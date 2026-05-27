@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوكوتا
     auto: true
+  - translation_iso: hin
+    name: कोकोता
+    auto: true
   - translation_iso: jpn
     name: ココタ語
     auto: true

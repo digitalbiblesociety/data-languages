@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوراون صادري
     auto: true
+  - translation_iso: hin
+    name: ओराओं सादरी
+    auto: true
   - translation_iso: jpn
     name: ナグプリ語
     auto: true

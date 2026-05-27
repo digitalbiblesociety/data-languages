@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوكوباروو
     auto: true
+  - translation_iso: hin
+    name: बोकोबारू
+    auto: true
   - translation_iso: jpn
     name: ボコバル語
     auto: true

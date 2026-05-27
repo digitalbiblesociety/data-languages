@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيبيكو
     auto: true
+  - translation_iso: hin
+    name: इपिको
+    auto: true
   - translation_iso: jpn
     name: イピコ語
     auto: true

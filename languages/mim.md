@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك ألاكاتلاتزالا
     auto: true
+  - translation_iso: hin
+    name: अलाकातलात्साला मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: アラカトラツァラ・ミステク語
     auto: true

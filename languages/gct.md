@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الألمانية كولونيا توفار
     auto: true
+  - translation_iso: hin
+    name: कोलोनिया तोवार जर्मन
+    auto: true
   - translation_iso: jpn
     name: コロニア・トバール方言
   - translation_iso: kor

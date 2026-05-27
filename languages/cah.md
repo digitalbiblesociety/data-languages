@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاهوارانو
     auto: true
+  - translation_iso: hin
+    name: काहुआरानो
+    auto: true
   - translation_iso: jpn
     name: カワラノ語
   - translation_iso: zho

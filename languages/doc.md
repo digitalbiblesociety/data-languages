@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورثرن دونج
     auto: true
+  - translation_iso: hin
+    name: उत्तरी डोंग
+    auto: true
   - translation_iso: jpn
     name: 北ドン語
     auto: true

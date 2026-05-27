@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أودودي
     auto: true
+  - translation_iso: hin
+    name: ओडूडी
+    auto: true
   - translation_iso: jpn
     name: オドドゥ語
     auto: true

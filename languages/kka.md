@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاكاندا
     auto: true
+  - translation_iso: hin
+    name: काकंदा
+    auto: true
   - translation_iso: jpn
     name: カカンダ語
     auto: true

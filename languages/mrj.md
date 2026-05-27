@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة ماري الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी मारी
+    auto: true
   - translation_iso: jpn
     name: 山地マリ語
   - translation_iso: kor

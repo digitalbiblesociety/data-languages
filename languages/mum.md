@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مايوالا
     auto: true
+  - translation_iso: hin
+    name: माइवाला
+    auto: true
   - translation_iso: jpn
     name: マイワラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تاي سونج
     auto: true
+  - translation_iso: hin
+    name: थाई सोंग
+    auto: true
   - translation_iso: jpn
     name: タイ・ソン語
   - translation_iso: zho

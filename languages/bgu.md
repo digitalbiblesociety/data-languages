@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موبونجنو
     auto: true
+  - translation_iso: hin
+    name: म्बोंग्नो
+    auto: true
   - translation_iso: jpn
     name: ムボンノ語
     auto: true

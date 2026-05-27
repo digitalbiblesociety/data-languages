@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيني
     auto: true
+  - translation_iso: hin
+    name: सेने
+    auto: true
   - translation_iso: jpn
     name: セネ語
   - translation_iso: zho

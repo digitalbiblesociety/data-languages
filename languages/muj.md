@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مابيري
     auto: true
+  - translation_iso: hin
+    name: माबिरे
+    auto: true
   - translation_iso: jpn
     name: マビレ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كاجان كالاجان
     auto: true
+  - translation_iso: hin
+    name: कगन कालागान
+    auto: true
   - translation_iso: jpn
     name: カガン・カラガン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دينجيسي
     auto: true
+  - translation_iso: hin
+    name: देंगेसे
+    auto: true
   - translation_iso: jpn
     name: デンゲセ語
     auto: true

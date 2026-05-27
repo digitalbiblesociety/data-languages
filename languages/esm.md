@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإسوما
     auto: true
+  - translation_iso: hin
+    name: एसुमा
+    auto: true
   - translation_iso: jpn
     name: エスマ語
   - translation_iso: zho

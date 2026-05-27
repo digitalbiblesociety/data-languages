@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوا
     auto: true
+  - translation_iso: hin
+    name: ओवा
+    auto: true
   - translation_iso: jpn
     name: オワ語
   - translation_iso: zho

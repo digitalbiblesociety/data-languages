@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوتليخ
     auto: true
+  - translation_iso: hin
+    name: बोतलिख
+    auto: true
   - translation_iso: jpn
     name: ボトリフ語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اراما
     auto: true
+  - translation_iso: hin
+    name: मारामा
+    auto: true
   - translation_iso: jpn
     name: マラマ語
   - translation_iso: zho

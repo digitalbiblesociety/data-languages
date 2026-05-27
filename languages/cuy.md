@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الكويتلاتك
     auto: true
+  - translation_iso: hin
+    name: कुइतलातेक
+    auto: true
   - translation_iso: jpn
     name: クイトラテック語
   - translation_iso: zho

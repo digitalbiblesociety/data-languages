@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيمتي
     auto: true
+  - translation_iso: hin
+    name: सिम्ते
+    auto: true
   - translation_iso: jpn
     name: ゾミ語
     auto: true

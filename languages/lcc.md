@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: ليجينييم
     auto: true
+  - translation_iso: hin
+    name: लेगेनयेम
+    auto: true
   - translation_iso: jpn
     name: レゲニェム語
     auto: true

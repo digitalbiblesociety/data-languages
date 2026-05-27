@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الجاجاد
     auto: true
+  - translation_iso: hin
+    name: गागादु
+    auto: true
   - translation_iso: jpn
     name: ガーグジュ語
   - translation_iso: zho

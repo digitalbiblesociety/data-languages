@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك تشيجمكاتيتلان
     auto: true
+  - translation_iso: hin
+    name: चिग्मेकातित्लान मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: チグメカティトラン・ミステク語
     auto: true

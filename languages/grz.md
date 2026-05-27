@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غورآمآلوم
     auto: true
+  - translation_iso: hin
+    name: गुरामालुम
+    auto: true
   - translation_iso: jpn
     name: グラマルム語
     auto: true

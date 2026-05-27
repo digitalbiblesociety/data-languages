@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تابيرابي
     auto: true
+  - translation_iso: hin
+    name: तापिरापे
+    auto: true
   - translation_iso: jpn
     name: タピラペ語
     auto: true

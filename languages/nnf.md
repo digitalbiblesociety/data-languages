@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغاينج
     auto: true
+  - translation_iso: hin
+    name: न्गाइंग
+    auto: true
   - translation_iso: jpn
     name: ガイン語
   - translation_iso: zho

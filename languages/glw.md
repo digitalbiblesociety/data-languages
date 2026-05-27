@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غلآفدآ
     auto: true
+  - translation_iso: hin
+    name: ग्लाव्दा
+    auto: true
   - translation_iso: jpn
     name: グラヴダ語
     auto: true

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونان ميراب
     auto: true
+  - translation_iso: hin
+    name: पुनान मेराप
+    auto: true
   - translation_iso: jpn
     name: プナンメラップ語
     auto: true

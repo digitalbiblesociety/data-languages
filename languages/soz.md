@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تيمي
     auto: true
+  - translation_iso: hin
+    name: तेमी
+    auto: true
   - translation_iso: jpn
     name: テミ語
     auto: true

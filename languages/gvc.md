@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآنآنو
     auto: true
+  - translation_iso: hin
+    name: गुआनानो
+    auto: true
   - translation_iso: jpn
     name: グアナーノ語
     auto: true

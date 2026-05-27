@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغول
     auto: true
+  - translation_iso: hin
+    name: न्गुल
+    auto: true
   - translation_iso: jpn
     name: ングル語
     auto: true

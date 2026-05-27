@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فاي
     auto: true
+  - translation_iso: hin
+    name: फाई
+    auto: true
   - translation_iso: jpn
     name: ファイ語
     auto: true

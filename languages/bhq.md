@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توكانج بيسي الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी तुकांग बेसी
+    auto: true
   - translation_iso: jpn
     name: トゥカン・ベシ南語
     auto: true

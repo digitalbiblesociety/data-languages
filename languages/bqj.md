@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باندْيال
     auto: true
+  - translation_iso: hin
+    name: बंदियाल
+    auto: true
   - translation_iso: jpn
     name: バンジャル語
   - translation_iso: zho

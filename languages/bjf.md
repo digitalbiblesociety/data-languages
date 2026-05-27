@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بارزاني اليهودية آرامية جديدة
     auto: true
+  - translation_iso: hin
+    name: बरज़ानी यहूदी नव-अरामी
+    auto: true
   - translation_iso: jpn
     name: バルザーニ・ユダヤ・ネオ・アラム語
     auto: true

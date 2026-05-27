@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوروتش
     auto: true
+  - translation_iso: hin
+    name: ओरोच
+    auto: true
   - translation_iso: jpn
     name: オロチ語
   - translation_iso: kor

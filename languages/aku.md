@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكوم
     auto: true
+  - translation_iso: hin
+    name: अकुम
+    auto: true
   - translation_iso: jpn
     name: アクム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تشيتشيميكا جوناث
     auto: true
+  - translation_iso: hin
+    name: चिचिमेका-होनास
+    auto: true
   - translation_iso: jpn
     name: チチメカ・ジョナス語
     auto: true

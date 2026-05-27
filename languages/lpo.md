@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يپو
     auto: true
+  - translation_iso: hin
+    name: लिपो
+    auto: true
   - translation_iso: jpn
     name: リポ語
   - translation_iso: zho

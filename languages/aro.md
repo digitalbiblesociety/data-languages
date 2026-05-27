@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة أراونا
     auto: true
+  - translation_iso: hin
+    name: अराओना
+    auto: true
   - translation_iso: jpn
     name: アラオナ語
   - translation_iso: zho

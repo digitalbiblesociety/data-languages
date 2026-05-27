@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة جوتية
     auto: true
+  - translation_iso: hin
+    name: जटलैंडिक
+    auto: true
   - translation_iso: jpn
     name: ユトランド方言
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآندآرآ
     auto: true
+  - translation_iso: hin
+    name: ग्वंदारा
+    auto: true
   - translation_iso: jpn
     name: グワンダラ語
     auto: true

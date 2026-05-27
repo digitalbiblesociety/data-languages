@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ينينجيتيج
     auto: true
+  - translation_iso: hin
+    name: लेनिंगितिज
+    auto: true
   - translation_iso: jpn
     name: レニンギティジ語
     auto: true

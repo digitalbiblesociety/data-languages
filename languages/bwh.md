@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيشوو
     auto: true
+  - translation_iso: hin
+    name: बिशुओ
+    auto: true
   - translation_iso: jpn
     name: Bishuo語
   - translation_iso: zho

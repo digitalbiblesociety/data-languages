@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيموبا
     auto: true
+  - translation_iso: hin
+    name: बिमोबा
+    auto: true
   - translation_iso: jpn
     name: ビモバ語
     auto: true

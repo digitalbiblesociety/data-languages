@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرهواكو
     auto: true
+  - translation_iso: hin
+    name: अरहुआको
+    auto: true
   - translation_iso: jpn
     name: アルワコ語
     auto: true

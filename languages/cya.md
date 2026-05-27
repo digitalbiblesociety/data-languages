@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوپالا تشاتينو
     auto: true
+  - translation_iso: hin
+    name: नोपाला चातीनो
+    auto: true
   - translation_iso: jpn
     name: ノパラ・チャティーノ語
     auto: true

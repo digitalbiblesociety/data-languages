@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الخومي تشين
     auto: true
+  - translation_iso: hin
+    name: खुमी चिन
+    auto: true
   - translation_iso: jpn
     name: クミ・チン語
     auto: true

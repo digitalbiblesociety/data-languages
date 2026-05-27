@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولو
     auto: true
+  - translation_iso: hin
+    name: ओलो
+    auto: true
   - translation_iso: jpn
     name: オロ語
   - translation_iso: zho

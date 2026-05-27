@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بونكيمان
     auto: true
+  - translation_iso: hin
+    name: बोंकिमान
+    auto: true
   - translation_iso: jpn
     name: ボンキマン語
     auto: true

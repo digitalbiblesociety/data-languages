@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كازوكورو
     auto: true
+  - translation_iso: hin
+    name: कज़ुकुरु
+    auto: true
   - translation_iso: jpn
     name: カズクル語
     auto: true

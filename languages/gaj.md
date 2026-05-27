@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجادسوب
     auto: true
+  - translation_iso: hin
+    name: गाडसुप
+    auto: true
   - translation_iso: jpn
     name: ガドスプ語
   - translation_iso: zho

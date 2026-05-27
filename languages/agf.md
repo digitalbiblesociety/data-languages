@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أرغوني
     auto: true
+  - translation_iso: hin
+    name: अर्गुनी
+    auto: true
   - translation_iso: jpn
     name: アルグニ語
     auto: true

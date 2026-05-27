@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tabasaran_language"
 translations:
   - translation_iso: ara
     name: التباسرانية
+  - translation_iso: hin
+    name: तबासरन
+    auto: true
   - translation_iso: jpn
     name: タバサラン語
   - translation_iso: kor

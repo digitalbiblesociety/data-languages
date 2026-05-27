@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوروها
     auto: true
+  - translation_iso: hin
+    name: ओरोहा
+    auto: true
   - translation_iso: jpn
     name: オロハ語
     auto: true

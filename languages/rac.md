@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راساوا
     auto: true
+  - translation_iso: hin
+    name: रासावा
+    auto: true
   - translation_iso: jpn
     name: ラサワ語
     auto: true

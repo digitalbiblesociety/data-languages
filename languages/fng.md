@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفانجالو
     auto: true
+  - translation_iso: hin
+    name: फानागालो
+    auto: true
   - translation_iso: jpn
     name: ファナガロ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفاغاني
     auto: true
+  - translation_iso: hin
+    name: फगानी
+    auto: true
   - translation_iso: jpn
     name: ファガニ語
     auto: true

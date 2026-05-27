@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: "الشا'اري"
     auto: true
+  - translation_iso: hin
+    name: चआरी
+    auto: true
   - translation_iso: jpn
     name: チャアリ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبولونجيش
     auto: true
+  - translation_iso: hin
+    name: म्बुलुंगिश
+    auto: true
   - translation_iso: jpn
     name: ムブルンギシュ語
     auto: true

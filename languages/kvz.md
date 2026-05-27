@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تساكوامبو
     auto: true
+  - translation_iso: hin
+    name: त्साक्वाम्बो
+    auto: true
   - translation_iso: jpn
     name: ツァクワンボ語
     auto: true

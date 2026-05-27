@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونام
     auto: true
+  - translation_iso: hin
+    name: सुनम
+    auto: true
   - translation_iso: jpn
     name: スナム語
   - translation_iso: zho

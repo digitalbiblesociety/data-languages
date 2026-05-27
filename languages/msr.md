@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة المنغولية
     auto: true
+  - translation_iso: hin
+    name: मंगोलियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: モンゴル手話
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتاموناي
     auto: true
+  - translation_iso: hin
+    name: पाटामोना
+    auto: true
   - translation_iso: jpn
     name: パタモナ語
     auto: true

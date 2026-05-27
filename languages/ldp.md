@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سو
     auto: true
+  - translation_iso: hin
+    name: त्सो
+    auto: true
   - translation_iso: jpn
     name: ツォ語
     auto: true

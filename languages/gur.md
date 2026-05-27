@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: فآرإفآرإ
     auto: true
+  - translation_iso: hin
+    name: फरेफरे
+    auto: true
   - translation_iso: jpn
     name: フラフラ語
   - translation_iso: zho

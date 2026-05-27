@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توملييو
     auto: true
+  - translation_iso: hin
+    name: तुमलेओ
+    auto: true
   - translation_iso: jpn
     name: トゥムレオ語
     auto: true

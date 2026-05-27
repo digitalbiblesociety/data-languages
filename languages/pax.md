@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانكارري
     auto: true
+  - translation_iso: hin
+    name: पंकारारे
+    auto: true
   - translation_iso: jpn
     name: パンカラレ語
     auto: true

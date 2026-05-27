@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينجاروب
     auto: true
+  - translation_iso: hin
+    name: पिंजारुप
+    auto: true
   - translation_iso: jpn
     name: ピンジャルップ語
     auto: true

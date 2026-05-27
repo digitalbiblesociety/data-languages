@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كو
     auto: true
+  - translation_iso: hin
+    name: कोउ
+    auto: true
   - translation_iso: jpn
     name: シンサウル語
     auto: true

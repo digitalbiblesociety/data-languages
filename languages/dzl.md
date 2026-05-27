@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الدزالاخا
     auto: true
+  - translation_iso: hin
+    name: ज़ालाखा
+    auto: true
   - translation_iso: jpn
     name: ザラ語
   - translation_iso: zho

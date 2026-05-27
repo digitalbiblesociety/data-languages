@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كاثوريا ثارو
     auto: true
+  - translation_iso: hin
+    name: कथोरिया थारू
+    auto: true
   - translation_iso: jpn
     name: カトリア・タル語
     auto: true

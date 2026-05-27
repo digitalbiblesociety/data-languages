@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوروي
     auto: true
+  - translation_iso: hin
+    name: सुरुई
+    auto: true
   - translation_iso: jpn
     name: パイテル語
     auto: true

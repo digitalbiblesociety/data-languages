@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لونوولول
     auto: true
+  - translation_iso: hin
+    name: लोनवोलवोल
+    auto: true
   - translation_iso: jpn
     name: ロンウォルウォル語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيدوبي
     auto: true
+  - translation_iso: hin
+    name: एदोपी
+    auto: true
   - translation_iso: jpn
     name: エドピ語
     auto: true

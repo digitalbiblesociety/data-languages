@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ ماشان الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी माशान ह्मोंग
+    auto: true
   - translation_iso: jpn
     name: 西部麻山フモン語
   - translation_iso: zho

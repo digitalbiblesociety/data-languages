@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة بانكال
     auto: true
+  - translation_iso: hin
+    name: बंकाल
+    auto: true
   - translation_iso: jpn
     name: バンカル語
     auto: true

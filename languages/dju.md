@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كابريمان
     auto: true
+  - translation_iso: hin
+    name: कप्रिमन
+    auto: true
   - translation_iso: jpn
     name: カプリマン語
     auto: true

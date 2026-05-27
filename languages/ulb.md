@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أولوكومي
     auto: true
+  - translation_iso: hin
+    name: उलुक्वुमी
+    auto: true
   - translation_iso: jpn
     name: オルクミ語
     auto: true

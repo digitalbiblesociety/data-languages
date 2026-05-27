@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمبالا أيتا
     auto: true
+  - translation_iso: hin
+    name: अम्बाला अयता
+    auto: true
   - translation_iso: jpn
     name: アンバラアイタ語
     auto: true

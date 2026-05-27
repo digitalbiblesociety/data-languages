@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مورو
     auto: true
+  - translation_iso: hin
+    name: मोरू
+    auto: true
   - translation_iso: jpn
     name: モル語
     auto: true

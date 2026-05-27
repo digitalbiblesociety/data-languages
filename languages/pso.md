@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البولندية
     auto: true
+  - translation_iso: hin
+    name: पोलिश सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ポーランド手話
   - translation_iso: zho

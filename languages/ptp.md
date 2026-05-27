@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتيب
     auto: true
+  - translation_iso: hin
+    name: पातेप
+    auto: true
   - translation_iso: jpn
     name: パテプ語
     auto: true

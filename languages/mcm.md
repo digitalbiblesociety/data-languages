@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كريول ملاكا البرتغالية
     auto: true
+  - translation_iso: hin
+    name: मलक्का क्रियोल पुर्तगाली
+    auto: true
   - translation_iso: jpn
     name: マラッカ・クレオール・ポルトガル語
   - translation_iso: zho

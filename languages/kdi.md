@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كومام
     auto: true
+  - translation_iso: hin
+    name: कुमाम
+    auto: true
   - translation_iso: jpn
     name: クマム語
   - translation_iso: zho

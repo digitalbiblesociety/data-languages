@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غوبو
     auto: true
+  - translation_iso: hin
+    name: गोबू
+    auto: true
   - translation_iso: jpn
     name: ゴブ語
     auto: true

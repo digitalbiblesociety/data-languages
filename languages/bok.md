@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بونجو
     auto: true
+  - translation_iso: hin
+    name: बोंजो
+    auto: true
   - translation_iso: jpn
     name: ボンジョ語
   - translation_iso: zho

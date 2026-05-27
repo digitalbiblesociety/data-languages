@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديبولي
     auto: true
+  - translation_iso: hin
+    name: दिबोले
+    auto: true
   - translation_iso: jpn
     name: ディボレ語
     auto: true

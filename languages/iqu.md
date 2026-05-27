@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكيتو
     auto: true
+  - translation_iso: hin
+    name: इकीतो
+    auto: true
   - translation_iso: jpn
     name: イキト語
   - translation_iso: zho

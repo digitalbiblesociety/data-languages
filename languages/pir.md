@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيراتابويو
     auto: true
+  - translation_iso: hin
+    name: पिरातापुयो
+    auto: true
   - translation_iso: jpn
     name: ピラタプーヨ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة النيبالية
     auto: true
+  - translation_iso: hin
+    name: नेपाली
+    auto: true
   - translation_iso: jpn
     name: ネパール語
     auto: true

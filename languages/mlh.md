@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مابي
     auto: true
+  - translation_iso: hin
+    name: मापे
+    auto: true
   - translation_iso: jpn
     name: マペ語
     auto: true

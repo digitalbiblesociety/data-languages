@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشايما
     auto: true
+  - translation_iso: hin
+    name: चाइमा
+    auto: true
   - translation_iso: jpn
     name: チャイマ語
     auto: true

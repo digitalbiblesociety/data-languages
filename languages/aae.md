@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الألبانية الأربريشية
     auto: true
+  - translation_iso: hin
+    name: अर्बेरेश अल्बानियाई
+    auto: true
   - translation_iso: jpn
     name: アルベレシュ方言
   - translation_iso: zho

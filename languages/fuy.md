@@ -12,6 +12,9 @@ longitude: 147.31162
 glottocode: fuyu1242
 wikipedia_url: "https://en.wikipedia.org/wiki/Fuyug_language"
 translations:
+  - translation_iso: hin
+    name: फुयुग
+    auto: true
   - translation_iso: jpn
     name: フユグ語
     auto: true

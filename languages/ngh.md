@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/N%C7%81ng_language"
 translations:
   - translation_iso: ara
     name: اللغة النوية
+  - translation_iso: hin
+    name: नूंग
+    auto: true
   - translation_iso: jpn
     name: ヌン語
   - translation_iso: kor

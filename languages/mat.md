@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتلاتسينكا
     auto: true
+  - translation_iso: hin
+    name: सान फ्रांसिस्को मातलात्ज़िंका
+    auto: true
   - translation_iso: jpn
     name: サン・フランシスコ・マトラツィンカ語
     auto: true

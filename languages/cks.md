@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: التايو
     auto: true
+  - translation_iso: hin
+    name: तायो
+    auto: true
   - translation_iso: jpn
     name: タヨ語
   - translation_iso: kor

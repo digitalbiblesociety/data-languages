@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوشي
     auto: true
+  - translation_iso: hin
+    name: औशी
+    auto: true
   - translation_iso: jpn
     name: アウシ語
     auto: true

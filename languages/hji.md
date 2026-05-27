@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هاجي
     auto: true
+  - translation_iso: hin
+    name: हाजी
+    auto: true
   - translation_iso: jpn
     name: ハジ語
     auto: true

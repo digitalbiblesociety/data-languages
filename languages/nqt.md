@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: نتينج
     auto: true
+  - translation_iso: hin
+    name: नतेंग
+    auto: true
   - translation_iso: jpn
     name: ンテング語
     auto: true

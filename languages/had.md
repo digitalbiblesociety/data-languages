@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآتآم
     auto: true
+  - translation_iso: hin
+    name: हाताम
+    auto: true
   - translation_iso: jpn
     name: ハタム語
     auto: true

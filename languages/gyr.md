@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآرآيو
     auto: true
+  - translation_iso: hin
+    name: गुआरायू
+    auto: true
   - translation_iso: jpn
     name: グアラユ語
     auto: true

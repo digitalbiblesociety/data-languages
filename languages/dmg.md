@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أبر كينابتانجان
     auto: true
+  - translation_iso: hin
+    name: ऊपरी किनाबटंगन
+    auto: true
   - translation_iso: jpn
     name: アッパー・キナバタンガン語
     auto: true

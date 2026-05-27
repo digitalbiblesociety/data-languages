@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانيجيما
     auto: true
+  - translation_iso: hin
+    name: बान्यजिमा
+    auto: true
   - translation_iso: jpn
     name: バンジマ語
     auto: true

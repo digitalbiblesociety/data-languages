@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة ياويجيبايا
     auto: true
+  - translation_iso: hin
+    name: यविजिबाया
+    auto: true
   - translation_iso: jpn
     name: ヤウィジバヤ語
     auto: true

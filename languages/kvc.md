@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوفي
     auto: true
+  - translation_iso: hin
+    name: कोवे
+    auto: true
   - translation_iso: jpn
     name: コヴェ語
   - translation_iso: zho

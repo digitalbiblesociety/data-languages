@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوجوسي
     auto: true
+  - translation_iso: hin
+    name: डोगोसे
+    auto: true
   - translation_iso: jpn
     name: ドゴセ語
     auto: true

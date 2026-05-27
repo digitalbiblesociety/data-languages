@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة غوانيينتشياو
     auto: true
+  - translation_iso: hin
+    name: गुआनयिनकियाओ
+    auto: true
   - translation_iso: jpn
     name: ラヴロン語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاباسكو ناهواتل
     auto: true
+  - translation_iso: hin
+    name: ताबास्को नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: タバスコ・ナワトル語
     auto: true

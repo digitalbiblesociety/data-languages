@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: روثيني
     auto: true
+  - translation_iso: hin
+    name: रुथेनियन
+    auto: true
   - translation_iso: jpn
     name: パンノニア・ルシン語
   - translation_iso: zho

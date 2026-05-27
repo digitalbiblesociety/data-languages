@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماكايينسي
     auto: true
+  - translation_iso: hin
+    name: मकाऊ क्रियोल
+    auto: true
   - translation_iso: jpn
     name: マカオ語
   - translation_iso: kor

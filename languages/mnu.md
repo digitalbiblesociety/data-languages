@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مير
     auto: true
+  - translation_iso: hin
+    name: मेर
+    auto: true
   - translation_iso: jpn
     name: メル語 (パプア諸語)
   - translation_iso: zho

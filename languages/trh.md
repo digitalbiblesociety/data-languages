@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توراكا
     auto: true
+  - translation_iso: hin
+    name: तुराका
+    auto: true
   - translation_iso: jpn
     name: トゥラカ語
     auto: true

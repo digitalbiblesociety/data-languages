@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تورونا
     auto: true
+  - translation_iso: hin
+    name: तोरोना
+    auto: true
   - translation_iso: jpn
     name: トロナ語
   - translation_iso: zho

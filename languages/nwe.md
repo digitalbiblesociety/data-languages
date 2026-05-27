@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغوي
     auto: true
+  - translation_iso: hin
+    name: न्ग्वे
+    auto: true
   - translation_iso: jpn
     name: ングウェ語
   - translation_iso: zho

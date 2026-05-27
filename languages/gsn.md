@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نإمآ
     auto: true
+  - translation_iso: hin
+    name: नेमा
+    auto: true
   - translation_iso: jpn
     name: ネマ語
     auto: true

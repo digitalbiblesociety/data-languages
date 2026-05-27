@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بينونغان إيتنيغ
     auto: true
+  - translation_iso: hin
+    name: बिनोंगान इत्नेग
+    auto: true
   - translation_iso: jpn
     name: ビノンガン・イトネグ語
     auto: true

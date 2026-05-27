@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أولوماندا
     auto: true
+  - translation_iso: hin
+    name: उलुमांदा
+    auto: true
   - translation_iso: jpn
     name: アウォ・スマクユ語
     auto: true

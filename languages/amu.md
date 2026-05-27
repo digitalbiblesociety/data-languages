@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة غيريرو أموزغو
     auto: true
+  - translation_iso: hin
+    name: गेरेरो आमुस्गो
+    auto: true
   - translation_iso: jpn
     name: ゲレロ・アムスゴ語
     auto: true

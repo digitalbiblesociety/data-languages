@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تورو تيجو دوجون
     auto: true
+  - translation_iso: hin
+    name: टोरो टेगू डोगोन
+    auto: true
   - translation_iso: jpn
     name: トロ・テグ・ドゴン語
     auto: true

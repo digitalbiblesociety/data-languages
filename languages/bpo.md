@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: أناسي
     auto: true
+  - translation_iso: hin
+    name: अनासी
+    auto: true
   - translation_iso: jpn
     name: アナシ語
     auto: true

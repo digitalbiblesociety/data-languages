@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبليمي
     auto: true
+  - translation_iso: hin
+    name: म्बेलिमे
+    auto: true
   - translation_iso: jpn
     name: ムベリメ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيِريا
     auto: true
+  - translation_iso: hin
+    name: बिएरिया
+    auto: true
   - translation_iso: jpn
     name: ビエリア語
     auto: true

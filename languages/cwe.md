@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكويري
     auto: true
+  - translation_iso: hin
+    name: क्वेरे
+    auto: true
   - translation_iso: jpn
     name: クウェレ語
     auto: true

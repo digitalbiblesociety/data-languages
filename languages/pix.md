@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيو
     auto: true
+  - translation_iso: hin
+    name: पिउ
+    auto: true
   - translation_iso: jpn
     name: ピウ語
     auto: true

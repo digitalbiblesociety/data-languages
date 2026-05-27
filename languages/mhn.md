@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة موتشينو
     auto: true
+  - translation_iso: hin
+    name: मोकेनो
+    auto: true
   - translation_iso: jpn
     name: モケーニ語
   - translation_iso: zho

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تاي دام
     auto: true
+  - translation_iso: hin
+    name: ताई दाम
+    auto: true
   - translation_iso: jpn
     name: タイ・ダム語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ليجيغا
     auto: true
+  - translation_iso: hin
+    name: लेयिघा
+    auto: true
   - translation_iso: jpn
     name: レイイーグハ語
     auto: true

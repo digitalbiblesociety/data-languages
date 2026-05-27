@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دونو سو دوجون
     auto: true
+  - translation_iso: hin
+    name: डोनो सो दोगोन
+    auto: true
   - translation_iso: jpn
     name: ドンノ・ソ・ドゴン語
     auto: true

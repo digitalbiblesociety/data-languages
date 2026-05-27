@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مرا
     auto: true
+  - translation_iso: hin
+    name: मर्रा
+    auto: true
   - translation_iso: jpn
     name: マッラ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوكيتان
     auto: true
+  - translation_iso: hin
+    name: बुकितन
+    auto: true
   - translation_iso: jpn
     name: ブキタン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشانتيال
     auto: true
+  - translation_iso: hin
+    name: छंत्याल
+    auto: true
   - translation_iso: jpn
     name: チャンティアル語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أماهاي
     auto: true
+  - translation_iso: hin
+    name: अमाहाई
+    auto: true
   - translation_iso: jpn
     name: アマハイ語
   - translation_iso: zho

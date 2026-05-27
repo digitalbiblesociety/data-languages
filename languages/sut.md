@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبتيابا
     auto: true
+  - translation_iso: hin
+    name: सुब्तियाबा
+    auto: true
   - translation_iso: jpn
     name: サブティアバ語
     auto: true

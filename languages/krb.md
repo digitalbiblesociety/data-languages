@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاركين
     auto: true
+  - translation_iso: hin
+    name: कार्किन
+    auto: true
   - translation_iso: jpn
     name: カルキン語
     auto: true

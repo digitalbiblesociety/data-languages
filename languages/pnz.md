@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانا (جمهورية أفريقيا الوسطى)
     auto: true
+  - translation_iso: hin
+    name: पाना (मध्य अफ़्रीकी गणराज्य)
+    auto: true
   - translation_iso: jpn
     name: パナ語
   - translation_iso: zho

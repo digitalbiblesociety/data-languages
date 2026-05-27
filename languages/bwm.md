@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيوات
     auto: true
+  - translation_iso: hin
+    name: बिवाट
+    auto: true
   - translation_iso: jpn
     name: ビワット語
     auto: true

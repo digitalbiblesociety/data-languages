@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أويير
     auto: true
+  - translation_iso: hin
+    name: अवीर
+    auto: true
   - translation_iso: jpn
     name: アウェール語
     auto: true

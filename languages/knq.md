@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كينتاق
     auto: true
+  - translation_iso: hin
+    name: किंताक
+    auto: true
   - translation_iso: jpn
     name: キンタク語
     auto: true

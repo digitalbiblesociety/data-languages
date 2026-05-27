@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاراييم
     auto: true
+  - translation_iso: hin
+    name: कराइम
+    auto: true
   - translation_iso: jpn
     name: カライム語
   - translation_iso: kor

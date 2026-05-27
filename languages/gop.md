@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يإرإتوآر
     auto: true
+  - translation_iso: hin
+    name: येरेतुआर
+    auto: true
   - translation_iso: jpn
     name: イェレトゥアル語
     auto: true

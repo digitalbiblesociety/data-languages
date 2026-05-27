@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كريول
     auto: true
+  - translation_iso: hin
+    name: क्रियोल
+    auto: true
   - translation_iso: jpn
     name: オーストラリア・クレオール言語
   - translation_iso: kor

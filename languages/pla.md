@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميياني
     auto: true
+  - translation_iso: hin
+    name: मियानी
+    auto: true
   - translation_iso: jpn
     name: ミアニ語
     auto: true

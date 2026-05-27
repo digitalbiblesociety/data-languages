@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shihhi_Arabic"
 translations:
   - translation_iso: ara
     name: اللهجة الشحية
+  - translation_iso: hin
+    name: शिही अरबी
+    auto: true
   - translation_iso: jpn
     name: アラビア語シフフ方言
   - translation_iso: zho

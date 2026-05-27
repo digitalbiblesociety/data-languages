@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ǀغوي
     auto: true
+  - translation_iso: hin
+    name: ग्वी
+    auto: true
   - translation_iso: jpn
     name: グイ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جولا-كاسا
     auto: true
+  - translation_iso: hin
+    name: जोला-कासा
+    auto: true
   - translation_iso: jpn
     name: ジョラ＝カサ語
   - translation_iso: zho

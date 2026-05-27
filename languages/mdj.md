@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة منجبيتو
     auto: true
+  - translation_iso: hin
+    name: मांगबेतु
+    auto: true
   - translation_iso: jpn
     name: マングベツ語
   - translation_iso: zho

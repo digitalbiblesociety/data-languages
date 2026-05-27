@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تشيكي هولو
     auto: true
+  - translation_iso: hin
+    name: चेके होलो
+    auto: true
   - translation_iso: jpn
     name: チェケ・ホロ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دونجشيانج
     auto: true
+  - translation_iso: hin
+    name: डोंगश्यांग
+    auto: true
   - translation_iso: jpn
     name: サンタ語
   - translation_iso: kor

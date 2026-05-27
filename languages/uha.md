@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوهامي
     auto: true
+  - translation_iso: hin
+    name: उहामी
+    auto: true
   - translation_iso: jpn
     name: イシュア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دارو ماتو ميلانو
     auto: true
+  - translation_iso: hin
+    name: डारो-मातू मेलानाउ
+    auto: true
   - translation_iso: jpn
     name: ダロマトゥ・メラナウ語
     auto: true

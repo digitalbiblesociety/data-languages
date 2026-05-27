@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالابري
     auto: true
+  - translation_iso: hin
+    name: कलाबारी
+    auto: true
   - translation_iso: jpn
     name: カラバリ語
   - translation_iso: zho

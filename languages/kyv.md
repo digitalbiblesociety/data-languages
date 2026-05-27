@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كايورت
     auto: true
+  - translation_iso: hin
+    name: कायोर्ट
+    auto: true
   - translation_iso: jpn
     name: カヨルット語
     auto: true

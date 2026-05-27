@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: سيماندانج
     auto: true
+  - translation_iso: hin
+    name: सेमंदांग
+    auto: true
   - translation_iso: jpn
     name: バハサ・クアラン・セマンダン語
     auto: true

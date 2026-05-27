@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوسنر
     auto: true
+  - translation_iso: hin
+    name: डुस्नर
+    auto: true
   - translation_iso: jpn
     name: ドゥスネル語
     auto: true

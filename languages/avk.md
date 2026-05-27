@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوتافا
     auto: true
+  - translation_iso: hin
+    name: कोतावा
+    auto: true
   - translation_iso: jpn
     name: コタヴァ
   - translation_iso: kor

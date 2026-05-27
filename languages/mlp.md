@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بارجام
     auto: true
+  - translation_iso: hin
+    name: बारगाम
+    auto: true
   - translation_iso: jpn
     name: バルガム語
     auto: true

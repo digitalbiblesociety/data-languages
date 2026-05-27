@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أجينينكا أبوروكايالي
     auto: true
+  - translation_iso: hin
+    name: अज्यीनिन्का अपुरुकायाली
+    auto: true
   - translation_iso: jpn
     name: アジェニンカ・アプルカヤリ語
     auto: true

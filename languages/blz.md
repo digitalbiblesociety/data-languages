@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالانتاك
     auto: true
+  - translation_iso: hin
+    name: बालंताक
+    auto: true
   - translation_iso: jpn
     name: バランタク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوديبود
     auto: true
+  - translation_iso: hin
+    name: बुदिबुद
+    auto: true
   - translation_iso: jpn
     name: ブディブド語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اياكها
     auto: true
+  - translation_iso: hin
+    name: लायाखा
+    auto: true
   - translation_iso: jpn
     name: ラヤ語
   - translation_iso: zho

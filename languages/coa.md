@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جزر كوكوس الملايوية
     auto: true
+  - translation_iso: hin
+    name: कोकोस द्वीप मलय
+    auto: true
   - translation_iso: jpn
     name: ココスマレー語
   - translation_iso: kor

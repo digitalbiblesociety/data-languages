@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينتش
     auto: true
+  - translation_iso: hin
+    name: बेंच
+    auto: true
   - translation_iso: jpn
     name: ベンチ語
   - translation_iso: zho

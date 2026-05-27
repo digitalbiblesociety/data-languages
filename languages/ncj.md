@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: شمال بويبلا ناهواتل
     auto: true
+  - translation_iso: hin
+    name: उत्तरी पुएब्ला नाहुआत्ल
+    auto: true
   - translation_iso: jpn
     name: 北プエブラ・ナワトル語
     auto: true

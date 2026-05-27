@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كابيياري
     auto: true
+  - translation_iso: hin
+    name: काबियारी
+    auto: true
   - translation_iso: jpn
     name: カビヤリ語
   - translation_iso: zho

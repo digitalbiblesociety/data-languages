@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جاجْنوا بيتي
     auto: true
+  - translation_iso: hin
+    name: गान्या बेते
+    auto: true
   - translation_iso: jpn
     name: ベテ語
   - translation_iso: zho

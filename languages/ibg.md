@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيبانغ
     auto: true
+  - translation_iso: hin
+    name: इबानाग
+    auto: true
   - translation_iso: jpn
     name: イバナグ語
   - translation_iso: kor

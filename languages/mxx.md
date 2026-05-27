@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماهو
     auto: true
+  - translation_iso: hin
+    name: माहोउ
+    auto: true
   - translation_iso: jpn
     name: マホウ語
     auto: true

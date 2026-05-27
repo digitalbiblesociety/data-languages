@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تو
     auto: true
+  - translation_iso: hin
+    name: टो
+    auto: true
   - translation_iso: jpn
     name: トー語
     auto: true

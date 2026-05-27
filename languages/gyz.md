@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غيآآزي
     auto: true
+  - translation_iso: hin
+    name: ग्याज़ी
+    auto: true
   - translation_iso: jpn
     name: ギャージ語
     auto: true

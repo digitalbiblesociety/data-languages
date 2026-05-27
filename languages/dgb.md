@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونوج دوجون
     auto: true
+  - translation_iso: hin
+    name: बुनोगे दोगोन
+    auto: true
   - translation_iso: jpn
     name: ブノゲ・ドゴン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويوتيبك تشينانتك
     auto: true
+  - translation_iso: hin
+    name: किओतेपेक चिनान्तेक
+    auto: true
   - translation_iso: jpn
     name: キオテペク・チナンテク語
     auto: true

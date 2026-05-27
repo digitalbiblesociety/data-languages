@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موتو
     auto: true
+  - translation_iso: hin
+    name: मोटू
+    auto: true
   - translation_iso: jpn
     name: モトゥ語
   - translation_iso: kor

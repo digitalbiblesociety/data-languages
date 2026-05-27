@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غوينإآ كبإللإ
     auto: true
+  - translation_iso: hin
+    name: गिनी क्पेले
+    auto: true
   - translation_iso: jpn
     name: ギニア・クペレ語
   - translation_iso: zho

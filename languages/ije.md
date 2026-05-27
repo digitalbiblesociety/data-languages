@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيسيني
     auto: true
+  - translation_iso: hin
+    name: बिसेनी
+    auto: true
   - translation_iso: jpn
     name: ビセニ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نك
     auto: true
+  - translation_iso: hin
+    name: नाके
+    auto: true
   - translation_iso: jpn
     name: ナケ語
     auto: true

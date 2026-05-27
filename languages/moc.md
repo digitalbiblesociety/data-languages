@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موكوفي
     auto: true
+  - translation_iso: hin
+    name: मोकोवी
+    auto: true
   - translation_iso: jpn
     name: モコビ語
     auto: true

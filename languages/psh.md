@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بشاي الجنوبية الغربية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणपश्चिमी पशाई
+    auto: true
   - translation_iso: jpn
     name: 南西パシャイ語
     auto: true

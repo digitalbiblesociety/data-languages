@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميفاع أزويو
     auto: true
+  - translation_iso: hin
+    name: अज़ोयू मेफा
+    auto: true
   - translation_iso: jpn
     name: メーファア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سارا كابا ديمي
     auto: true
+  - translation_iso: hin
+    name: सारा काबा देमे
+    auto: true
   - translation_iso: jpn
     name: サラ・カバ・デメ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوموتيك
     auto: true
+  - translation_iso: hin
+    name: ओमोटिक
+    auto: true
   - translation_iso: jpn
     name: オモティク語
   - translation_iso: zho

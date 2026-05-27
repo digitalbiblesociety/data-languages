@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كابوترا
     auto: true
+  - translation_iso: hin
+    name: कबूतरा
+    auto: true
   - translation_iso: jpn
     name: カブトラ語
     auto: true

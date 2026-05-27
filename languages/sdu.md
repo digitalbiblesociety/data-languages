@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سارودو
     auto: true
+  - translation_iso: hin
+    name: सारुदु
+    auto: true
   - translation_iso: jpn
     name: ドダ語
     auto: true

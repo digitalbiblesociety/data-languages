@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ثاو
     auto: true
+  - translation_iso: hin
+    name: थाओ
+    auto: true
   - translation_iso: jpn
     name: サオ語
   - translation_iso: zho

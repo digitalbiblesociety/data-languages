@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باندا ملايو
     auto: true
+  - translation_iso: hin
+    name: बांदा मलय
+    auto: true
   - translation_iso: jpn
     name: バンダ・マレー語
     auto: true

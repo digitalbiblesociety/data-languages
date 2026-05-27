@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مونجاكا
     auto: true
+  - translation_iso: hin
+    name: मुंगाका
+    auto: true
   - translation_iso: jpn
     name: ムンガカ語
     auto: true

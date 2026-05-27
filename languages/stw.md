@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساتاوالية
     auto: true
+  - translation_iso: hin
+    name: सातावालीज़
+    auto: true
   - translation_iso: jpn
     name: サタワル語
   - translation_iso: zho

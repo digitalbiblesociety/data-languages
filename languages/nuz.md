@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناواتل تلاماكازابا
     auto: true
+  - translation_iso: hin
+    name: त्लामाकाज़ापा नाहुआतल
+    auto: true
   - translation_iso: jpn
     name: トラマカザパ・ナワトル語
     auto: true
