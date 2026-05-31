@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moroccan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة المغربية
+  - translation_iso: hin
+    name: मोरक्कन सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: モロッコ手話
   - translation_iso: zho

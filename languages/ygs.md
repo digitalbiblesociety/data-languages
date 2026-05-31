@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يولنغو الإشارة
     auto: true
+  - translation_iso: hin
+    name: योलङु सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ヨルング手話
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موجي الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी मूजी
+    auto: true
   - translation_iso: jpn
     name: 南部ムジ語
     auto: true

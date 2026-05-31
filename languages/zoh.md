@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوكي تشيمالابا
     auto: true
+  - translation_iso: hin
+    name: चिमालापा ज़ोके
+    auto: true
   - translation_iso: jpn
     name: チマラパ・ゾケ語
     auto: true

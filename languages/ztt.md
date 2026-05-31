@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تيخالابان
     auto: true
+  - translation_iso: hin
+    name: तेहालापान ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: テハラパン・サポテク語
     auto: true

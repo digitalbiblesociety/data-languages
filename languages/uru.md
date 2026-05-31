@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورومي
     auto: true
+  - translation_iso: hin
+    name: उरुमी
+    auto: true
   - translation_iso: jpn
     name: ウルミ語
     auto: true

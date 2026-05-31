@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوبا
     auto: true
+  - translation_iso: hin
+    name: योबा
+    auto: true
   - translation_iso: jpn
     name: ヨバ語
     auto: true

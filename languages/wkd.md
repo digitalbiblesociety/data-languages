@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واكدي
     auto: true
+  - translation_iso: hin
+    name: वकदे
+    auto: true
   - translation_iso: jpn
     name: ワクデ語
     auto: true

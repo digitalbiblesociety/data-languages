@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوندوفادي
     auto: true
+  - translation_iso: hin
+    name: कुन्दुवादी
+    auto: true
   - translation_iso: jpn
     name: クンドゥバディ語
     auto: true

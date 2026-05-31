@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تشوابان
     auto: true
+  - translation_iso: hin
+    name: चोआपन सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: チョアパン・サポテク語
     auto: true

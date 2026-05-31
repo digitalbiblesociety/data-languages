@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يورون
     auto: true
+  - translation_iso: hin
+    name: योरोन
+    auto: true
   - translation_iso: jpn
     name: 与論島方言
   - translation_iso: kor

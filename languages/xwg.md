@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويجو
     auto: true
+  - translation_iso: hin
+    name: क्वेगू
+    auto: true
   - translation_iso: jpn
     name: クウェグ語
     auto: true

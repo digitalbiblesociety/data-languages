@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ميددلي كهمير تو كي
     auto: true
+  - translation_iso: hin
+    name: मध्य ख्मेर (1400 से 1850 ईस्वी)
+    auto: true
   - translation_iso: jpn
     name: 中クメール語
     auto: true

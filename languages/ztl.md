@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاباغويا-غويفيني
     auto: true
+  - translation_iso: hin
+    name: लापागुइया-गुइविनी ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: ラパグア-グイビニ・サポテク語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واكابونغا
     auto: true
+  - translation_iso: hin
+    name: वाकाबुंगा
+    auto: true
   - translation_iso: jpn
     name: ワカブンガ語
     auto: true

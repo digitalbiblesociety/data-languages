@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ثاوا
     auto: true
+  - translation_iso: hin
+    name: थावा
+    auto: true
   - translation_iso: jpn
     name: タワ語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ويندات
     auto: true
+  - translation_iso: hin
+    name: वेन्डाट
+    auto: true
   - translation_iso: jpn
     name: ウェンダット語
     auto: true

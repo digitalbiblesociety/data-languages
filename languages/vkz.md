@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كورو زوبا
     auto: true
+  - translation_iso: hin
+    name: कोरो ज़ुबा
+    auto: true
   - translation_iso: jpn
     name: コロ・ズバ語
     auto: true

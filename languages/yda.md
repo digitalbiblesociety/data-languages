@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يندا
     auto: true
+  - translation_iso: hin
+    name: यांडा
+    auto: true
   - translation_iso: jpn
     name: ヤンダ語
     auto: true

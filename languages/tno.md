@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توروموني
     auto: true
+  - translation_iso: hin
+    name: तोरोमोनो
+    auto: true
   - translation_iso: jpn
     name: トロモナ語
   - translation_iso: zho

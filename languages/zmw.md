@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إمبو
     auto: true
+  - translation_iso: hin
+    name: म्बो (कांगो लोकतांत्रिक गणराज्य)
+    auto: true
   - translation_iso: jpn
     name: ムボ語（コンゴ民主共和国）
     auto: true

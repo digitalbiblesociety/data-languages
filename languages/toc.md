@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توتوناك كويوتلا
     auto: true
+  - translation_iso: hin
+    name: कोयुत्ला तोतोनाक
+    auto: true
   - translation_iso: jpn
     name: コユトラ・トトナック語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: موريريبي
     auto: true
+  - translation_iso: hin
+    name: मोरेरेबी
+    auto: true
   - translation_iso: jpn
     name: モレレビ語
     auto: true

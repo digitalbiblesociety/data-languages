@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: والليسيان
     auto: true
+  - translation_iso: hin
+    name: वालिसी
+    auto: true
   - translation_iso: jpn
     name: ウォリス語
   - translation_iso: zho

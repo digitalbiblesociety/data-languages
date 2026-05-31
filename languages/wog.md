@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووغاموسين
     auto: true
+  - translation_iso: hin
+    name: वोगामुसिन
+    auto: true
   - translation_iso: jpn
     name: ウォガムシン語
     auto: true

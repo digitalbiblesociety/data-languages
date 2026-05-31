@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندا الأسترالية
     auto: true
+  - translation_iso: hin
+    name: मांडा (ऑस्ट्रेलिया)
+    auto: true
   - translation_iso: jpn
     name: マンダ語（オーストラリア）
     auto: true

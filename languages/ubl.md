@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: بيكول بوهي
     auto: true
+  - translation_iso: hin
+    name: बुहीनोन बिकोल
+    auto: true
   - translation_iso: jpn
     name: ブヒノン・ビコール語
   - translation_iso: zho

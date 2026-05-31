@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: والي غهانا
     auto: true
+  - translation_iso: hin
+    name: वली (घाना)
+    auto: true
   - translation_iso: jpn
     name: ワリ語（ガーナ）
     auto: true

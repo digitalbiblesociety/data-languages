@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيتينجبان
     auto: true
+  - translation_iso: hin
+    name: केतेंगबान
+    auto: true
   - translation_iso: jpn
     name: ケテングバン語
     auto: true

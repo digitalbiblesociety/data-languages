@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك زوغوتشو
     auto: true
+  - translation_iso: hin
+    name: ज़ूगोचो सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: ゾオゴッチョ・サポテク語
     auto: true

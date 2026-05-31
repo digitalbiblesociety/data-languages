@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توركا
     auto: true
+  - translation_iso: hin
+    name: तुर्का
+    auto: true
   - translation_iso: jpn
     name: トゥラマ語
     auto: true

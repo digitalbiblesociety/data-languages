@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دهاروك
     auto: true
+  - translation_iso: hin
+    name: धारुक
+    auto: true
   - translation_iso: jpn
     name: ダルク語
   - translation_iso: kor

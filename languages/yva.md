@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياوا
     auto: true
+  - translation_iso: hin
+    name: यावा
+    auto: true
   - translation_iso: jpn
     name: ヤワ語
   - translation_iso: zho

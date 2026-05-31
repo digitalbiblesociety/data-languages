@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وارلمانپا
     auto: true
+  - translation_iso: hin
+    name: वार्लमनपा
+    auto: true
   - translation_iso: jpn
     name: Warlmanpa語
   - translation_iso: zho

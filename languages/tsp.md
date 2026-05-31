@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توسيان الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी तूसियन
+    auto: true
   - translation_iso: jpn
     name: ウィン語
     auto: true

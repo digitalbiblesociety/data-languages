@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: يانجوم ديي
     auto: true
+  - translation_iso: hin
+    name: यांगुम डे
+    auto: true
   - translation_iso: jpn
     name: ヤングム・デイ語
     auto: true

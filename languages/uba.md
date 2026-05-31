@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوبانج
     auto: true
+  - translation_iso: hin
+    name: उबांग
+    auto: true
   - translation_iso: jpn
     name: ウバンゴ語
     auto: true

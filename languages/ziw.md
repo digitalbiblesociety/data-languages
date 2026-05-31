@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيغولا
     auto: true
+  - translation_iso: hin
+    name: ज़िगुला
+    auto: true
   - translation_iso: jpn
     name: ジグア語
   - translation_iso: zho

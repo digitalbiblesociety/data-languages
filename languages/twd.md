@@ -12,6 +12,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tweants_dialect"
 translations:
   - translation_iso: ara
     name: اللهجة التفنتية
+  - translation_iso: hin
+    name: ट्वेंट्स
+    auto: true
   - translation_iso: jpn
     name: トゥウェンテ語
     auto: true

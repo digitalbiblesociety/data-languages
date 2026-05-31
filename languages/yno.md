@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يونغ
     auto: true
+  - translation_iso: hin
+    name: योंग
+    auto: true
   - translation_iso: jpn
     name: ヨン語
   - translation_iso: zho

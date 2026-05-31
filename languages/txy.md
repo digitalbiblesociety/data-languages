@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تانوسي ملغاشي
     auto: true
+  - translation_iso: hin
+    name: तानोसी मालागासी
+    auto: true
   - translation_iso: jpn
     name: タノシ・マダガスカル語
   - translation_iso: zho

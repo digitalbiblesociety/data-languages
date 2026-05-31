@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتا كاتارينا ألبارادس
     auto: true
+  - translation_iso: hin
+    name: सांता काटारिना अल्बाराडास ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: サンタ・カタリナ・アルバラダス・サポテク語
     auto: true

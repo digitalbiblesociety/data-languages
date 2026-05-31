@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ليبيرنية
     auto: true
+  - translation_iso: hin
+    name: लिबर्नियन
+    auto: true
   - translation_iso: jpn
     name: リブルニア語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجومبارل
     auto: true
+  - translation_iso: hin
+    name: न्गुम्बार्ल
+    auto: true
   - translation_iso: jpn
     name: Ngumbarl語
   - translation_iso: zho

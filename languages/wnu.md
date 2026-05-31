@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وسان
     auto: true
+  - translation_iso: hin
+    name: उसान
+    auto: true
   - translation_iso: jpn
     name: ウサン語
     auto: true

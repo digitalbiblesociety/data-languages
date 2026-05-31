@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واتيوا
     auto: true
+  - translation_iso: hin
+    name: वातिवा
+    auto: true
   - translation_iso: jpn
     name: ワティワ語
     auto: true

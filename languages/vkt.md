@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيناجارونج كوتاي ملايو
     auto: true
+  - translation_iso: hin
+    name: तेंगारोंग कुताई मलय
+    auto: true
   - translation_iso: jpn
     name: テンガロン・クタイ・マレー語
   - translation_iso: zho

@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lydian_language"
 translations:
   - translation_iso: ara
     name: اللوذية
+  - translation_iso: hin
+    name: लिडियन
+    auto: true
   - translation_iso: jpn
     name: リディア語
   - translation_iso: kor

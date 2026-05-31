@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماناندو ميلايو
     auto: true
+  - translation_iso: hin
+    name: मनादो मलय
+    auto: true
   - translation_iso: jpn
     name: マナド語
   - translation_iso: kor

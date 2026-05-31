@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كايان نهر كايان
     auto: true
+  - translation_iso: hin
+    name: कायन नदी कायन
+    auto: true
   - translation_iso: jpn
     name: カヤン川カヤン語
     auto: true

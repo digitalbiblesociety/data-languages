@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالاجادي
     auto: true
+  - translation_iso: hin
+    name: कागालागादी
+    auto: true
   - translation_iso: jpn
     name: カラガディ語
     auto: true

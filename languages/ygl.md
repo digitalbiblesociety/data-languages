@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: يانجوم جيل
     auto: true
+  - translation_iso: hin
+    name: यांगुम गेल
+    auto: true
   - translation_iso: jpn
     name: ヤングム・ゲル語
     auto: true

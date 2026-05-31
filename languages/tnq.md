@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تايينو
     auto: true
+  - translation_iso: hin
+    name: ताइनो
+    auto: true
   - translation_iso: jpn
     name: タイノ語
   - translation_iso: kor

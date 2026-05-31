@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تونجون
     auto: true
+  - translation_iso: hin
+    name: टोंजोन
+    auto: true
   - translation_iso: jpn
     name: トンジョン語
     auto: true

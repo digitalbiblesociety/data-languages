@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتوناك الجبلي
     auto: true
+  - translation_iso: hin
+    name: हाइलैंड टोटोनाक
+    auto: true
   - translation_iso: jpn
     name: ハイランド・トトナック語
     auto: true

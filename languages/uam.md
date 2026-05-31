@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوامويه
     auto: true
+  - translation_iso: hin
+    name: उआमुए
+    auto: true
   - translation_iso: jpn
     name: アティカム語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واريس
     auto: true
+  - translation_iso: hin
+    name: वारिस
+    auto: true
   - translation_iso: jpn
     name: ワリス語
     auto: true

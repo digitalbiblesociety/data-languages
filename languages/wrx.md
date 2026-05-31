@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واي رانا
     auto: true
+  - translation_iso: hin
+    name: वाए राना
+    auto: true
   - translation_iso: jpn
     name: ワエ・ラナ語
     auto: true

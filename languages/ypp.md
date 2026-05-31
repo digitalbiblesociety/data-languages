@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوبا
     auto: true
+  - translation_iso: hin
+    name: फूपा
+    auto: true
   - translation_iso: jpn
     name: フーパ語
     auto: true

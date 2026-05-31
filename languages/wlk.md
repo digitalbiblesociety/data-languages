@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايلاكي
     auto: true
+  - translation_iso: hin
+    name: वैलाकी
+    auto: true
   - translation_iso: jpn
     name: ワイラキ語
     auto: true

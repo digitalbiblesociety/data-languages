@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك كواتيكاس ألتاس
     auto: true
+  - translation_iso: hin
+    name: कोआतेकास अल्तास सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: コアテカス・アルタス・サポテク語
     auto: true

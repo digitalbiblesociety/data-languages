@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك يالاليغ
     auto: true
+  - translation_iso: hin
+    name: यालालाग सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: ヤララグ・サポテク語
     auto: true

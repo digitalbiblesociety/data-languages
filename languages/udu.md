@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أودوك
     auto: true
+  - translation_iso: hin
+    name: उडुक
+    auto: true
   - translation_iso: jpn
     name: トゥワンパ語
     auto: true

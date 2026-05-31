@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: مينيك
     auto: true
+  - translation_iso: hin
+    name: मेनिक
+    auto: true
   - translation_iso: jpn
     name: メニク語
   - translation_iso: kor

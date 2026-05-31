@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيتان
     auto: true
+  - translation_iso: hin
+    name: टाइटन
+    auto: true
   - translation_iso: jpn
     name: ティタン語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يزجوليام
     auto: true
+  - translation_iso: hin
+    name: यज़गुल्याम
+    auto: true
   - translation_iso: jpn
     name: ヤズグリャム語
   - translation_iso: zho

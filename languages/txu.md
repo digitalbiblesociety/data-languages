@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايابو
     auto: true
+  - translation_iso: hin
+    name: कायापो
+    auto: true
   - translation_iso: jpn
     name: メベング・オクレ・カベン語
     auto: true

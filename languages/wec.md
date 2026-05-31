@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: و ويستيرن
     auto: true
+  - translation_iso: hin
+    name: वे पश्चिमी
+    auto: true
   - translation_iso: jpn
     name: ウェ・ウェスタン語
     auto: true

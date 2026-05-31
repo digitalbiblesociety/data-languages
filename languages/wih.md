@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويكميانها
     auto: true
+  - translation_iso: hin
+    name: विक-मेअन्हा
+    auto: true
   - translation_iso: jpn
     name: ウィク・メアンハ語
     auto: true

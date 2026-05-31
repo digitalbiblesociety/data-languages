@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويشيتا
     auto: true
+  - translation_iso: hin
+    name: विचिता
+    auto: true
   - translation_iso: jpn
     name: ウィチタ語
     auto: true

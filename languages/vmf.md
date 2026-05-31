@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: مين فرانكنكش
     auto: true
+  - translation_iso: hin
+    name: मेनफ्रेंकिश
+    auto: true
   - translation_iso: jpn
     name: マインフランク語
   - translation_iso: kor

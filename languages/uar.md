@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تايرما
     auto: true
+  - translation_iso: hin
+    name: तैरुमा
+    auto: true
   - translation_iso: jpn
     name: タイルマ語
   - translation_iso: zho

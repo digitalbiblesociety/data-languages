@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كاسكيان
     auto: true
+  - translation_iso: hin
+    name: कास्कियन
+    auto: true
   - translation_iso: jpn
     name: カスキアン語
   - translation_iso: zho

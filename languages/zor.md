@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوكي رايون
     auto: true
+  - translation_iso: hin
+    name: रायोन ज़ोके
+    auto: true
   - translation_iso: jpn
     name: ラヨン・ゾケ語
     auto: true

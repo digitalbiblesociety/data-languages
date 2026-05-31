@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تندي
     auto: true
+  - translation_iso: hin
+    name: तिंदी
+    auto: true
   - translation_iso: jpn
     name: ティンディ語
   - translation_iso: kor

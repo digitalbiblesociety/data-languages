@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أونوباهي
     auto: true
+  - translation_iso: hin
+    name: उनुबाहे
+    auto: true
   - translation_iso: jpn
     name: ウノバイ語
     auto: true

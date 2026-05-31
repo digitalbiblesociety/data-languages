@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: وانغكايوتيورو
     auto: true
+  - translation_iso: hin
+    name: वंगकयुत्युरु
+    auto: true
   - translation_iso: jpn
     name: ワンガカユティル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سانوما
     auto: true
+  - translation_iso: hin
+    name: सानुमा
+    auto: true
   - translation_iso: jpn
     name: サヌマ語
     auto: true

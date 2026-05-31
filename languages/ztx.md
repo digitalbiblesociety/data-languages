@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك زاتشيلا
     auto: true
+  - translation_iso: hin
+    name: ज़ाचिला ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: ザアチラ・サポテク語
     auto: true

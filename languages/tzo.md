@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تزوتسيل
     auto: true
+  - translation_iso: hin
+    name: त्सोत्सिल
+    auto: true
   - translation_iso: jpn
     name: ツォツィル語
   - translation_iso: kor

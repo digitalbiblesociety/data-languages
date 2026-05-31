@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أندي كايلي
     auto: true
+  - translation_iso: hin
+    name: उन्डे कैली
+    auto: true
   - translation_iso: jpn
     name: バナヴァ語
     auto: true

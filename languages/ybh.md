@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياخا
     auto: true
+  - translation_iso: hin
+    name: याखा
+    auto: true
   - translation_iso: jpn
     name: ヤク語
     auto: true

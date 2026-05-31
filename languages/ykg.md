@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوكاغيز الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी युकागिर
+    auto: true
   - translation_iso: jpn
     name: ツンドラ・ユカギール語
   - translation_iso: kor

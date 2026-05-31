@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة يردليواراا
     auto: true
+  - translation_iso: hin
+    name: यार्डलियावारा
+    auto: true
   - translation_iso: jpn
     name: ヤードリアワラ語
     auto: true

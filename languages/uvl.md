@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوتي
     auto: true
+  - translation_iso: hin
+    name: लोते
+    auto: true
   - translation_iso: jpn
     name: ウヴォル語
   - translation_iso: zho

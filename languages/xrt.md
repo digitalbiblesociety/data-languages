@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أرانما-تاميك
     auto: true
+  - translation_iso: hin
+    name: अरानामा-तामिक
+    auto: true
   - translation_iso: jpn
     name: アラナマ・タミーク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يابااانا
     auto: true
+  - translation_iso: hin
+    name: याबाआना
+    auto: true
   - translation_iso: jpn
     name: ヤバーナ語
   - translation_iso: zho

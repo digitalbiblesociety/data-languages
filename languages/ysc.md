@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياسيك
     auto: true
+  - translation_iso: hin
+    name: यासिक
+    auto: true
   - translation_iso: jpn
     name: ヤッシック語
     auto: true

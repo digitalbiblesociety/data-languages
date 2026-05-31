@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانيكي
     auto: true
+  - translation_iso: hin
+    name: वानेची
+    auto: true
   - translation_iso: jpn
     name: ワネシ語
     auto: true

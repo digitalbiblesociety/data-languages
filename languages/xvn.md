@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: فاندالية
     auto: true
+  - translation_iso: hin
+    name: वैंडलिक
+    auto: true
   - translation_iso: jpn
     name: ヴァンダル語
   - translation_iso: kor

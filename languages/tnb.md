@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توني بو الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी तुनेबो
+    auto: true
   - translation_iso: jpn
     name: 西部トゥネボ語
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: وا إيما
     auto: true
+  - translation_iso: hin
+    name: वाएमा
+    auto: true
   - translation_iso: jpn
     name: ワエマ語
     auto: true

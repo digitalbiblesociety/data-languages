@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوزا
     auto: true
+  - translation_iso: hin
+    name: फूज़ा
+    auto: true
   - translation_iso: jpn
     name: フーザ語
     auto: true

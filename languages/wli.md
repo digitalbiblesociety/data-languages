@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايولي
     auto: true
+  - translation_iso: hin
+    name: वैओली
+    auto: true
   - translation_iso: jpn
     name: ワイオリ語
   - translation_iso: zho

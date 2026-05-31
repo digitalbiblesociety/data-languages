@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ييثا ييثا
     auto: true
+  - translation_iso: hin
+    name: यिथा यिथा
+    auto: true
   - translation_iso: jpn
     name: イタイタ語
   - translation_iso: zho

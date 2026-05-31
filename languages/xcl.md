@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأرمنية الكلاسيكية
     auto: true
+  - translation_iso: hin
+    name: शास्त्रीय अर्मेनियाई
+    auto: true
   - translation_iso: jpn
     name: 古典アルメニア語
   - translation_iso: kor

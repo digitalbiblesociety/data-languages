@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاكو
     auto: true
+  - translation_iso: hin
+    name: काको
+    auto: true
   - translation_iso: jpn
     name: カコ語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: وينتو
     auto: true
+  - translation_iso: hin
+    name: विंटू
+    auto: true
   - translation_iso: jpn
     name: ウィントゥ語
     auto: true

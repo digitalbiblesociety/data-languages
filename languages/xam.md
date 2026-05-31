@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خام
     auto: true
+  - translation_iso: hin
+    name: ǀखाम
+    auto: true
   - translation_iso: jpn
     name: カム語
   - translation_iso: kor

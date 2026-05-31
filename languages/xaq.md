@@ -10,6 +10,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aquitanian_language"
 translations:
   - translation_iso: ara
     name: اللغة الأقطانية
+  - translation_iso: hin
+    name: एक्विटानियाई
+    auto: true
   - translation_iso: jpn
     name: アクイタニア語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاليينج
     auto: true
+  - translation_iso: hin
+    name: तालिएंग
+    auto: true
   - translation_iso: jpn
     name: タリエン語
     auto: true

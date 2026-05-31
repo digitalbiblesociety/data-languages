@@ -10,6 +10,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Anglo-Norman_language"
 translations:
   - translation_iso: ara
     name: الأنغلو-نورمانية
+  - translation_iso: hin
+    name: एंग्लो-नॉर्मन
+    auto: true
   - translation_iso: jpn
     name: アングロ＝ノルマン語
   - translation_iso: kor

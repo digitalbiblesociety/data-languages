@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورهوبو
     auto: true
+  - translation_iso: hin
+    name: उरहोबो
+    auto: true
   - translation_iso: jpn
     name: ウロボ語
   - translation_iso: zho

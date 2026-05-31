@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيريهو
     auto: true
+  - translation_iso: hin
+    name: केरेहो
+    auto: true
   - translation_iso: jpn
     name: ケレホ語
     auto: true

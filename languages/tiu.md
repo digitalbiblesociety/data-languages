@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أداسين
     auto: true
+  - translation_iso: hin
+    name: अदासेन
+    auto: true
   - translation_iso: jpn
     name: アダセン語
     auto: true

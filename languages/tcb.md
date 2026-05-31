@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانا كروس
     auto: true
+  - translation_iso: hin
+    name: तानाक्रॉस
+    auto: true
   - translation_iso: jpn
     name: タナクロス語
     auto: true

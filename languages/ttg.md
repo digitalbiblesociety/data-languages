@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتونج
     auto: true
+  - translation_iso: hin
+    name: तुतोंग
+    auto: true
   - translation_iso: jpn
     name: トゥトン語
     auto: true

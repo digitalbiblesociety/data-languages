@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبيسا
     auto: true
+  - translation_iso: hin
+    name: म्बेसा
+    auto: true
   - translation_iso: jpn
     name: ムベサ語
     auto: true

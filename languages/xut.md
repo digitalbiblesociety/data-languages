@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوثانت
     auto: true
+  - translation_iso: hin
+    name: कुथान्त
+    auto: true
   - translation_iso: jpn
     name: クタント語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: غارزا
     auto: true
+  - translation_iso: hin
+    name: गार्ज़ा
+    auto: true
   - translation_iso: jpn
     name: ガルサ語
     auto: true

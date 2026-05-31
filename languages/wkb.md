@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: كومباران
     auto: true
+  - translation_iso: hin
+    name: कुम्बरन
+    auto: true
   - translation_iso: jpn
     name: クンバラン語
     auto: true

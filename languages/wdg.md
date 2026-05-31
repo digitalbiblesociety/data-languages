@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واداجينام
     auto: true
+  - translation_iso: hin
+    name: वडागिनम
+    auto: true
   - translation_iso: jpn
     name: ワダギナム語
     auto: true

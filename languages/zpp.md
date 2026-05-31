@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك ال ألتو
     auto: true
+  - translation_iso: hin
+    name: एल आल्तो सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: エル・アルト・サポテク語
     auto: true

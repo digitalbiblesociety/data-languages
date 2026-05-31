@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واندامين
     auto: true
+  - translation_iso: hin
+    name: वान्दामेन
+    auto: true
   - translation_iso: jpn
     name: ワンダメン語
     auto: true

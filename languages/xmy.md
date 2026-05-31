@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مايابودونا
     auto: true
+  - translation_iso: hin
+    name: मायागुडुना
+    auto: true
   - translation_iso: jpn
     name: マヤグドゥナ語
     auto: true

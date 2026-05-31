@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خيت
     auto: true
+  - translation_iso: hin
+    name: शेता
+    auto: true
   - translation_iso: jpn
     name: シェタ語
   - translation_iso: zho

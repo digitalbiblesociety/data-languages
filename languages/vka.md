@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاريارا
     auto: true
+  - translation_iso: hin
+    name: करियारा
+    auto: true
   - translation_iso: jpn
     name: カリャーラ語
     auto: true

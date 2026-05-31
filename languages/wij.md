@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويكيييانه
     auto: true
+  - translation_iso: hin
+    name: विक-इयान्ह
+    auto: true
   - translation_iso: jpn
     name: ウィク・イイヤンハ語
     auto: true

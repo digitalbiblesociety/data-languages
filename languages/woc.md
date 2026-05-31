@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووغيو
     auto: true
+  - translation_iso: hin
+    name: वोगेओ
+    auto: true
   - translation_iso: jpn
     name: ウォゲオ語
     auto: true

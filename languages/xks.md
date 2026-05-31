@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كومبيواها
     auto: true
+  - translation_iso: hin
+    name: कुम्बेवाहा
+    auto: true
   - translation_iso: jpn
     name: クンベワハ語
     auto: true

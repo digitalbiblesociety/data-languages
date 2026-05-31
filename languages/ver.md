@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موم جانجو
     auto: true
+  - translation_iso: hin
+    name: मोम जांगो
+    auto: true
   - translation_iso: jpn
     name: モム・ジャンゴ語
     auto: true

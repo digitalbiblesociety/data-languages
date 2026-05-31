@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كامونيك
     auto: true
+  - translation_iso: hin
+    name: कामुनिक
+    auto: true
   - translation_iso: jpn
     name: カムニック語
   - translation_iso: zho

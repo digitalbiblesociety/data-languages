@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك سانتو دومينغو ألبرادز
     auto: true
+  - translation_iso: hin
+    name: सान्तो डोमिंगो अल्बाराडास सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: サント・ドミンゴ・アルバラダス・サポテク語
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: تيكي تيي
     auto: true
+  - translation_iso: hin
+    name: तेके-त्ये
+    auto: true
   - translation_iso: jpn
     name: ウェスト・テケ語
     auto: true

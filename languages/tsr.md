@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أكيي
     auto: true
+  - translation_iso: hin
+    name: अकेई
+    auto: true
   - translation_iso: jpn
     name: タシリキ語
     auto: true

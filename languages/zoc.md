@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوكي كوبايناليا
     auto: true
+  - translation_iso: hin
+    name: कोपैनाला ज़ोके
+    auto: true
   - translation_iso: jpn
     name: コパイナラ・ゾケ語
     auto: true

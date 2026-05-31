@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: يپيولميك
     auto: true
+  - translation_iso: hin
+    name: एपी-ओल्मेक
+    auto: true
   - translation_iso: jpn
     name: エピ・オルメック語
     auto: true

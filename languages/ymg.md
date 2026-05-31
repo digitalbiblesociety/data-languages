@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامونجري
     auto: true
+  - translation_iso: hin
+    name: यामोंगेरी
+    auto: true
   - translation_iso: jpn
     name: ヤモンゲリ語
     auto: true

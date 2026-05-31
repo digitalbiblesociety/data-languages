@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورا
     auto: true
+  - translation_iso: hin
+    name: उरा (वानुअतु)
+    auto: true
   - translation_iso: jpn
     name: ウラ語
   - translation_iso: zho

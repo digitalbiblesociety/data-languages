@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوامير
     auto: true
+  - translation_iso: hin
+    name: क्वामेरा
+    auto: true
   - translation_iso: jpn
     name: クワメラ語
     auto: true

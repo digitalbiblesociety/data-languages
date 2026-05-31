@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كوكو-مانك
     auto: true
+  - translation_iso: hin
+    name: कुकु-मांक
+    auto: true
   - translation_iso: jpn
     name: クク・マング語
     auto: true

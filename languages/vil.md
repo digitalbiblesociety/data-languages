@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: فيليلا
     auto: true
+  - translation_iso: hin
+    name: विलेला
+    auto: true
   - translation_iso: jpn
     name: ワカ語
     auto: true

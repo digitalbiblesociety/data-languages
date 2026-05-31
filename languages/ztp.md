@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك لوكسيتشا
     auto: true
+  - translation_iso: hin
+    name: लोक्सिचा ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: ロキチャ・サポテク語
     auto: true

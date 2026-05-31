@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: يابونج
     auto: true
+  - translation_iso: hin
+    name: याबोंग
+    auto: true
   - translation_iso: jpn
     name: ヤボング語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي دينج
     auto: true
+  - translation_iso: hin
+    name: ताई डेंग
+    auto: true
   - translation_iso: jpn
     name: 赤タイ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ملغاشية أنتانكارانا
     auto: true
+  - translation_iso: hin
+    name: अंतनकराना मालागासी
+    auto: true
   - translation_iso: jpn
     name: アンタンカラナ・マダガスカル語
   - translation_iso: zho

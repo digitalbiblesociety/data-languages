@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داكيان
     auto: true
+  - translation_iso: hin
+    name: डेसियन
+    auto: true
   - translation_iso: jpn
     name: ダキア語
   - translation_iso: kor

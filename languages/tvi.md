@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: توللاي
     auto: true
+  - translation_iso: hin
+    name: तुलाई
+    auto: true
   - translation_iso: jpn
     name: トゥラ語
     auto: true

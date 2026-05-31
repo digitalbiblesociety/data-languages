@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك أوكوتلان
     auto: true
+  - translation_iso: hin
+    name: ओकोत्लान ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: オコトラン・サポテク語
     auto: true

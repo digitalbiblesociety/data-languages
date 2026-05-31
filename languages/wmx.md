@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وومو
     auto: true
+  - translation_iso: hin
+    name: वोमो
+    auto: true
   - translation_iso: jpn
     name: ウォモ語
     auto: true

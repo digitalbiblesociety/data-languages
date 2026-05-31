@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: أودياه
     auto: true
+  - translation_iso: hin
+    name: उदिहे
+    auto: true
   - translation_iso: jpn
     name: ウデゲ語
   - translation_iso: kor

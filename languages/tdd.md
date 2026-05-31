@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تاي نويا
     auto: true
+  - translation_iso: hin
+    name: ताई न्युआ
+    auto: true
   - translation_iso: jpn
     name: タイ・ヌア語
   - translation_iso: kor

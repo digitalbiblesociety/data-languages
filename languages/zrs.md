@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مايراسي
     auto: true
+  - translation_iso: hin
+    name: मैरासी
+    auto: true
   - translation_iso: jpn
     name: マイラシ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايغيو
     auto: true
+  - translation_iso: hin
+    name: वैगेओ
+    auto: true
   - translation_iso: jpn
     name: ワイゲオ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كالو
     auto: true
+  - translation_iso: hin
+    name: कालू
+    auto: true
   - translation_iso: jpn
     name: カロウ語
     auto: true

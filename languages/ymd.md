@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مودا
     auto: true
+  - translation_iso: hin
+    name: मूदा
+    auto: true
   - translation_iso: jpn
     name: ムダ語
     auto: true

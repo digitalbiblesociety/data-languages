@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وامين
     auto: true
+  - translation_iso: hin
+    name: वामिन
+    auto: true
   - translation_iso: jpn
     name: ワミン語
     auto: true

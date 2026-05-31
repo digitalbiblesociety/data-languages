@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أني فوا
     auto: true
+  - translation_iso: hin
+    name: अनी फोवा
+    auto: true
   - translation_iso: jpn
     name: アニフォワ語
     auto: true

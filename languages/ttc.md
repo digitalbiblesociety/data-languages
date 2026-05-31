@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيكتيتيكو
     auto: true
+  - translation_iso: hin
+    name: टेक्टिटेको
+    auto: true
   - translation_iso: jpn
     name: テクティテコ語
   - translation_iso: kor

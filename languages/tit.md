@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تينيغوا
     auto: true
+  - translation_iso: hin
+    name: तिनिगुआ
+    auto: true
   - translation_iso: jpn
     name: ティニグア語
     auto: true

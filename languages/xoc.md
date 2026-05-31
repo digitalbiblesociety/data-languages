@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: أوتشيتشي
     auto: true
+  - translation_iso: hin
+    name: ओचिची
+    auto: true
   - translation_iso: jpn
     name: オチチ語
     auto: true

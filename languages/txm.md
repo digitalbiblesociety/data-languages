@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توميني
     auto: true
+  - translation_iso: hin
+    name: तोमिनी
+    auto: true
   - translation_iso: jpn
     name: ティアロ語
     auto: true

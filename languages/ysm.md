@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميانمار الإشارة
     auto: true
+  - translation_iso: hin
+    name: म्यांमार सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ビルマ手話
   - translation_iso: zho

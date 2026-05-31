@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيرواي
     auto: true
+  - translation_iso: hin
+    name: तिरुराय
+    auto: true
   - translation_iso: jpn
     name: ティルライ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيهس
     auto: true
+  - translation_iso: hin
+    name: वेहेस
+    auto: true
   - translation_iso: jpn
     name: ブアシ語
     auto: true

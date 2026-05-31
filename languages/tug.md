@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توينيا
     auto: true
+  - translation_iso: hin
+    name: तुनिया
+    auto: true
   - translation_iso: jpn
     name: トゥニア語
     auto: true

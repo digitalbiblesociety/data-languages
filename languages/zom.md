@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زومي
     auto: true
+  - translation_iso: hin
+    name: ज़ौ
+    auto: true
   - translation_iso: jpn
     name: ゾウ語
   - translation_iso: zho

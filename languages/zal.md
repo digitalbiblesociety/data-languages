@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زاوزو
     auto: true
+  - translation_iso: hin
+    name: ज़ौज़ौ
+    auto: true
   - translation_iso: jpn
     name: 柔若語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فونابو
     auto: true
+  - translation_iso: hin
+    name: वुनापू
+    auto: true
   - translation_iso: jpn
     name: ブナプ語
     auto: true

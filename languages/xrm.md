@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: أرمازية
     auto: true
+  - translation_iso: hin
+    name: अर्माज़िक
+    auto: true
   - translation_iso: jpn
     name: アルマジック語
     auto: true

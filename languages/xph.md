@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني المنتصف الشمالي
     auto: true
+  - translation_iso: hin
+    name: उत्तरी मिडलैंड्स तस्मानियाई
+    auto: true
   - translation_iso: jpn
     name: 北ミッドランド・タスマニア語
     auto: true

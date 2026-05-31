@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واردامان
     auto: true
+  - translation_iso: hin
+    name: वार्दामान
+    auto: true
   - translation_iso: jpn
     name: ワルダマン語
     auto: true

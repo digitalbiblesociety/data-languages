@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كسويلا جيبي
     auto: true
+  - translation_iso: hin
+    name: ख्वेला ग्बे
+    auto: true
   - translation_iso: jpn
     name: クウェラ・ゲベ語
     auto: true

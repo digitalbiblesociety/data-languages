@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك أمتلان
     auto: true
+  - translation_iso: hin
+    name: अमातलान सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: アマトラン・サポテク語
     auto: true

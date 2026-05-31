@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مامايند
     auto: true
+  - translation_iso: hin
+    name: ममाइन्दे
+    auto: true
   - translation_iso: jpn
     name: ママインデ語
     auto: true

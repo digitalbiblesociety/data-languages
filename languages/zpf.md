@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان بيدرو كوياتوني
     auto: true
+  - translation_iso: hin
+    name: सान पेद्रो कियातोनी सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: サン・ペドロ・キアトニ・サポテク語
     auto: true

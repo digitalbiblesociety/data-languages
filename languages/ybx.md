@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ياويو
     auto: true
+  - translation_iso: hin
+    name: यावियो
+    auto: true
   - translation_iso: jpn
     name: ヤウィヨ語
     auto: true

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: واهاو كايان
     auto: true
+  - translation_iso: hin
+    name: वहौ कायन
+    auto: true
   - translation_iso: jpn
     name: ワハウ・カヤン語
     auto: true

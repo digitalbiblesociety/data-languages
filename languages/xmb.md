@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبونجا
     auto: true
+  - translation_iso: hin
+    name: म्बोंगा
+    auto: true
   - translation_iso: jpn
     name: ムボンガ語
     auto: true

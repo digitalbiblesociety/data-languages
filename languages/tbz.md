@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديتاماري
     auto: true
+  - translation_iso: hin
+    name: दितामारी
+    auto: true
   - translation_iso: jpn
     name: ディタマリ語
     auto: true

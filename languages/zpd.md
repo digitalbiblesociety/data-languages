@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك إيكستلان الجنوبي الشرقي
     auto: true
+  - translation_iso: hin
+    name: दक्षिणपूर्वी इक्स्तलान सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: サウスイースタン・イクスラン・サポテク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واسي جبي
     auto: true
+  - translation_iso: hin
+    name: वासी ग्बे
+    auto: true
   - translation_iso: jpn
     name: ワシ・ゲベ語
     auto: true

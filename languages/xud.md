@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: أوميدا
     auto: true
+  - translation_iso: hin
+    name: उमीदा
+    auto: true
   - translation_iso: jpn
     name: ウミイダ語
     auto: true

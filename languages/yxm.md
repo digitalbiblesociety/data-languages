@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينووم
     auto: true
+  - translation_iso: hin
+    name: यिनवुम
+    auto: true
   - translation_iso: jpn
     name: イインウム語
     auto: true

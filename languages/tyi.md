@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيكي تسعي
     auto: true
+  - translation_iso: hin
+    name: तेके-त्साई
+    auto: true
   - translation_iso: jpn
     name: ゲツァーイ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وارروا
     auto: true
+  - translation_iso: hin
+    name: वारवा
+    auto: true
   - translation_iso: jpn
     name: ワラワ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك الحزم
     auto: true
+  - translation_iso: hin
+    name: इस्तमस ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: イスムス・サポテク語
     auto: true

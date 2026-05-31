@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك رينكون
     auto: true
+  - translation_iso: hin
+    name: रिनकोन सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: リンコン・サポテク語
     auto: true

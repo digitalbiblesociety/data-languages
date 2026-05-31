@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موري باوا
     auto: true
+  - translation_iso: hin
+    name: मोरी बावा
+    auto: true
   - translation_iso: jpn
     name: モリ・バワ語
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tawellemmet_language"
 translations:
   - translation_iso: ara
     name: تاولميت
+  - translation_iso: hin
+    name: तावल्लम्मत तामाजाक
+    auto: true
   - translation_iso: jpn
     name: タワラマト・タマジャク語
   - translation_iso: zho

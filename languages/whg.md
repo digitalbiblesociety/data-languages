@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورته واهغي
     auto: true
+  - translation_iso: hin
+    name: उत्तरी वाहगी
+    auto: true
   - translation_iso: jpn
     name: 北ワギ語
     auto: true

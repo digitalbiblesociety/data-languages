@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة وادي السند
     auto: true
+  - translation_iso: hin
+    name: सिंधु घाटी भाषा
+    auto: true
   - translation_iso: jpn
     name: ハラッパー語
   - translation_iso: zho

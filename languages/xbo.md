@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bulgar_language"
 translations:
   - translation_iso: ara
     name: لغة البلغار
+  - translation_iso: hin
+    name: बोलगर
+    auto: true
   - translation_iso: jpn
     name: ブルガール語
   - translation_iso: kor

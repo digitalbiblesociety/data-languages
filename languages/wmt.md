@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: والماجارري
     auto: true
+  - translation_iso: hin
+    name: वालमाजारी
+    auto: true
   - translation_iso: jpn
     name: ワルマジャリ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياروامي
     auto: true
+  - translation_iso: hin
+    name: यारोआमे
+    auto: true
   - translation_iso: jpn
     name: ヤロアメ語
     auto: true

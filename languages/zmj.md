@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مريدجابين
     auto: true
+  - translation_iso: hin
+    name: मरीजबिन
+    auto: true
   - translation_iso: jpn
     name: マリジャビン語
     auto: true

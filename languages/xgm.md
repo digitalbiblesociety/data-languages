@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دهارومبال
     auto: true
+  - translation_iso: hin
+    name: धारुम्बल
+    auto: true
   - translation_iso: jpn
     name: ダルムバル語
     auto: true

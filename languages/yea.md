@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رافولا
     auto: true
+  - translation_iso: hin
+    name: रावुला
+    auto: true
   - translation_iso: jpn
     name: ラブラ語
     auto: true

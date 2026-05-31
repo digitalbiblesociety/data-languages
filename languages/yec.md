@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يينيتشي
     auto: true
+  - translation_iso: hin
+    name: येनिशे
+    auto: true
   - translation_iso: jpn
     name: イェニッシュ
   - translation_iso: kor

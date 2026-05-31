@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وومبفو
     auto: true
+  - translation_iso: hin
+    name: वुम्ब्वू
+    auto: true
   - translation_iso: jpn
     name: Wumbvu語
   - translation_iso: zho

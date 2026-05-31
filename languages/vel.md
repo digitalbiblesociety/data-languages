@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: فيلوس
     auto: true
+  - translation_iso: hin
+    name: वेलुव्स
+    auto: true
   - translation_iso: jpn
     name: ヴェルゥス語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيمبرا
     auto: true
+  - translation_iso: hin
+    name: केम्ब्रा
+    auto: true
   - translation_iso: jpn
     name: ケンブラ語
     auto: true

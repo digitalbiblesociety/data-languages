@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماكولكول
     auto: true
+  - translation_iso: hin
+    name: माकोलकोल
+    auto: true
   - translation_iso: jpn
     name: マコルコル語
     auto: true

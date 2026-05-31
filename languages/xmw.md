@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ملغاشية تسيميهيتي
     auto: true
+  - translation_iso: hin
+    name: त्सिमिहेती मालागासी
+    auto: true
   - translation_iso: jpn
     name: ツィミヘティ・マダガスカル語
   - translation_iso: zho

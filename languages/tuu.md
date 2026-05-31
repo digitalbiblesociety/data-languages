@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتوتني
     auto: true
+  - translation_iso: hin
+    name: तुतुत्नी
+    auto: true
   - translation_iso: jpn
     name: 下ローグ川語
     auto: true

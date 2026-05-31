@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فانيمو
     auto: true
+  - translation_iso: hin
+    name: वानिमो
+    auto: true
   - translation_iso: jpn
     name: ドゥソ語
     auto: true

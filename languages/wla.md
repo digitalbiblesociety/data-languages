@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واليو
     auto: true
+  - translation_iso: hin
+    name: वालियो
+    auto: true
   - translation_iso: jpn
     name: ワリオ語
     auto: true

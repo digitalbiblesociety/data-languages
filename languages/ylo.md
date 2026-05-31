@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نالوو يي
     auto: true
+  - translation_iso: hin
+    name: नालुओ यी
+    auto: true
   - translation_iso: jpn
     name: ナルオ・イー語
     auto: true

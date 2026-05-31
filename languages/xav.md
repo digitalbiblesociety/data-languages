@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: خافنتي
     auto: true
+  - translation_iso: hin
+    name: शावांते
+    auto: true
   - translation_iso: jpn
     name: シャバンテ語
   - translation_iso: zho

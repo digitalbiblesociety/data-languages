@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك ميكستيبيك
     auto: true
+  - translation_iso: hin
+    name: मिक्स्तेपेक सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: ミステペック・サポテク語
     auto: true

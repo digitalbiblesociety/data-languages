@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ثراقي
     auto: true
+  - translation_iso: hin
+    name: थ्रेसियन
+    auto: true
   - translation_iso: jpn
     name: トラキア語
   - translation_iso: kor

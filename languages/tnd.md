@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توني بو أنجوستورس
     auto: true
+  - translation_iso: hin
+    name: अंगोस्तुरास तुनेबो
+    auto: true
   - translation_iso: jpn
     name: アンゴストゥラス・トゥネボ語
     auto: true

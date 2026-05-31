@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ألو فولا
     auto: true
+  - translation_iso: hin
+    name: अलो फोला
+    auto: true
   - translation_iso: jpn
     name: アロフォラ語
     auto: true

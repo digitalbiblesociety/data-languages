@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مازاتلان مازاتك
     auto: true
+  - translation_iso: hin
+    name: मसातलान मासातेक
+    auto: true
   - translation_iso: jpn
     name: マサトラン・マサテク語
     auto: true

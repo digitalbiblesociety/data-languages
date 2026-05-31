@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتشوان
     auto: true
+  - translation_iso: hin
+    name: क्वेचान
+    auto: true
   - translation_iso: jpn
     name: ケチャン語
   - translation_iso: zho

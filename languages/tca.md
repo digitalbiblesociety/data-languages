@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ticuna_language"
 translations:
   - translation_iso: ara
     name: لغة التيكونا
+  - translation_iso: hin
+    name: तिकुना
+    auto: true
   - translation_iso: jpn
     name: クシヨコチャ・ティクナ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووفولواوا
     auto: true
+  - translation_iso: hin
+    name: वुवुलू-औआ
+    auto: true
   - translation_iso: jpn
     name: ウブル・アウア語
     auto: true

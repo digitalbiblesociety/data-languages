@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توجن
     auto: true
+  - translation_iso: hin
+    name: तुगेन
+    auto: true
   - translation_iso: jpn
     name: トゥゲン語
   - translation_iso: zho

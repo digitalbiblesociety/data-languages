@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاتشيكسيو
     auto: true
+  - translation_iso: hin
+    name: लाचिशियो सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: ラチシオ・サポテク語
     auto: true

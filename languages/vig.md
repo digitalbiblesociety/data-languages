@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فييمو
     auto: true
+  - translation_iso: hin
+    name: विएमो
+    auto: true
   - translation_iso: jpn
     name: ヴィゲ語
     auto: true

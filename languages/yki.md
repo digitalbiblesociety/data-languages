@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوك
     auto: true
+  - translation_iso: hin
+    name: योके
+    auto: true
   - translation_iso: jpn
     name: ヨケ語
     auto: true

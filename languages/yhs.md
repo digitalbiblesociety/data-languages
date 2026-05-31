@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة يان-نهانغو الإشارة
     auto: true
+  - translation_iso: hin
+    name: यान-नहाङु सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ヤン・ナハン手話
     auto: true

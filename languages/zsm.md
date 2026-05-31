@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الملايو المعياري
     auto: true
+  - translation_iso: hin
+    name: मानक मलय
+    auto: true
   - translation_iso: jpn
     name: 標準マレー語
   - translation_iso: zho

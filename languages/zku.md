@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاورنا
     auto: true
+  - translation_iso: hin
+    name: कौर्ना
+    auto: true
   - translation_iso: jpn
     name: ガウナ語
   - translation_iso: zho

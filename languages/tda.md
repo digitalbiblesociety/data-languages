@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاغدال
     auto: true
+  - translation_iso: hin
+    name: तागदाल
+    auto: true
   - translation_iso: jpn
     name: タグダル語
     auto: true

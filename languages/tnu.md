@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي خانج
     auto: true
+  - translation_iso: hin
+    name: ताय खांग
+    auto: true
   - translation_iso: jpn
     name: タイ・カン語
   - translation_iso: zho

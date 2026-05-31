@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: كيسان
     auto: true
+  - translation_iso: hin
+    name: किसान
+    auto: true
   - translation_iso: jpn
     name: キサン語
     auto: true

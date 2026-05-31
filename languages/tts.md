@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تاي الشمالية الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वोत्तर थाई
+    auto: true
   - translation_iso: jpn
     name: イーサーン語
   - translation_iso: kor

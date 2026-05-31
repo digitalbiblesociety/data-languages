@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيسالپيني غاوليسه
     auto: true
+  - translation_iso: hin
+    name: सिसाल्पाइन गॉलिश
+    auto: true
   - translation_iso: jpn
     name: シスアルパイン・ゴール語
   - translation_iso: zho

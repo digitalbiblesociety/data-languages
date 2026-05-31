@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تيموكوا
     auto: true
+  - translation_iso: hin
+    name: तिमुकुआ
+    auto: true
   - translation_iso: jpn
     name: ティムクア語
   - translation_iso: zho

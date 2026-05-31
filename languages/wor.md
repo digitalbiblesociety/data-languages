@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووريا
     auto: true
+  - translation_iso: hin
+    name: वोरिया
+    auto: true
   - translation_iso: jpn
     name: ウォリア語
     auto: true

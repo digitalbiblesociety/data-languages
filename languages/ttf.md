@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتوم
     auto: true
+  - translation_iso: hin
+    name: तुओतोम्ब
+    auto: true
   - translation_iso: jpn
     name: ボネク語
     auto: true

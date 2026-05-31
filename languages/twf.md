@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توا الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी तिवा
+    auto: true
   - translation_iso: jpn
     name: タオス語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويكمونغكان
     auto: true
+  - translation_iso: hin
+    name: विक-मुंगकन
+    auto: true
   - translation_iso: jpn
     name: ウィク・ムンカン語
   - translation_iso: zho

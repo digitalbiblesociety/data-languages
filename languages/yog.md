@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوغاد
     auto: true
+  - translation_iso: hin
+    name: योगाद
+    auto: true
   - translation_iso: jpn
     name: ヨガド語
   - translation_iso: zho

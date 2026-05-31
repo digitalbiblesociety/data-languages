@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: أوت-هون
     auto: true
+  - translation_iso: hin
+    name: उत-हुन
+    auto: true
   - translation_iso: jpn
     name: ドゥカ語
     auto: true

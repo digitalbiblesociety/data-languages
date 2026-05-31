@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة يير يورونت
     auto: true
+  - translation_iso: hin
+    name: यिर योरोंट
+    auto: true
   - translation_iso: jpn
     name: イル・ヨロント語
     auto: true

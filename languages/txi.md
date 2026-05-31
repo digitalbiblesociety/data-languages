@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إكبينج
     auto: true
+  - translation_iso: hin
+    name: इक्पेंग
+    auto: true
   - translation_iso: jpn
     name: イクペング語
     auto: true

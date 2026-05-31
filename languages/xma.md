@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: موشونجولو
     auto: true
+  - translation_iso: hin
+    name: मुशुंगुलु
+    auto: true
   - translation_iso: jpn
     name: ムシュング語
     auto: true

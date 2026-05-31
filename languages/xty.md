@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يولوكسوتشيتل ميكستيك
     auto: true
+  - translation_iso: hin
+    name: योलोक्सोचित्ल मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: ヨロキソチトル・ミステク語
     auto: true

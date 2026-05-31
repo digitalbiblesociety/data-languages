@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك مياهوتلان
     auto: true
+  - translation_iso: hin
+    name: मिहुआतलान ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: ミアウアトラン・サポテク語
     auto: true

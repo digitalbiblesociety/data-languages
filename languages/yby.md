@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياويويوها
     auto: true
+  - translation_iso: hin
+    name: यावेयूहा
+    auto: true
   - translation_iso: jpn
     name: ヤウェユハ語
     auto: true

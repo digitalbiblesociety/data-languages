@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: وراو
     auto: true
+  - translation_iso: hin
+    name: वराओ
+    auto: true
   - translation_iso: jpn
     name: ワラオ語
   - translation_iso: kor

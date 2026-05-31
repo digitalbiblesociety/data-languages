@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووتونهوا
     auto: true
+  - translation_iso: hin
+    name: वुतुनहुआ
+    auto: true
   - translation_iso: jpn
     name: 五屯語
   - translation_iso: kor

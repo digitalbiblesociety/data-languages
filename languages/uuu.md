@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أو
     auto: true
+  - translation_iso: hin
+    name: यू
+    auto: true
   - translation_iso: jpn
     name: ポウマ語
     auto: true

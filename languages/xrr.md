@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: رايتية
     auto: true
+  - translation_iso: hin
+    name: रेइटिक
+    auto: true
   - translation_iso: jpn
     name: ラエティア語
   - translation_iso: kor

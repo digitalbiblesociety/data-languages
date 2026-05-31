@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: باتجالا
     auto: true
+  - translation_iso: hin
+    name: बातजाला
+    auto: true
   - translation_iso: jpn
     name: バティアラ語
   - translation_iso: zho

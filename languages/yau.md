@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: يوانا
     auto: true
+  - translation_iso: hin
+    name: युवाना
+    auto: true
   - translation_iso: jpn
     name: ユワナ語
     auto: true

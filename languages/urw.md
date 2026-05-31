@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوب
     auto: true
+  - translation_iso: hin
+    name: सोप
+    auto: true
   - translation_iso: jpn
     name: ソップ語
   - translation_iso: zho

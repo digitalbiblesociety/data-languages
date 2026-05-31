@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فاجري بولي
     auto: true
+  - translation_iso: hin
+    name: वाग्री बोली
+    auto: true
   - translation_iso: jpn
     name: ハッキピッキ語
     auto: true

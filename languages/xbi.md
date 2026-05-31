@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كومبيو
     auto: true
+  - translation_iso: hin
+    name: कोम्बियो
+    auto: true
   - translation_iso: jpn
     name: コンビオ語
     auto: true

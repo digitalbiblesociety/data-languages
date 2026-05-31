@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ايقويان
     auto: true
+  - translation_iso: hin
+    name: एक्वियन
+    auto: true
   - translation_iso: jpn
     name: アエクイアン語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة لانغي
     auto: true
+  - translation_iso: hin
+    name: लांग्ए
+    auto: true
   - translation_iso: jpn
     name: ラング語
     auto: true

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: بونتاماتا
     auto: true
+  - translation_iso: hin
+    name: पुन्थामारा
+    auto: true
   - translation_iso: jpn
     name: プントハマラ語
     auto: true

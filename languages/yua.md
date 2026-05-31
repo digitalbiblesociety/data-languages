@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yucatec_Maya_language"
 translations:
   - translation_iso: ara
     name: لغة المايا اليوكاتية
+  - translation_iso: hin
+    name: युकातेक माया
+    auto: true
   - translation_iso: jpn
     name: ユカテコ語
   - translation_iso: kor

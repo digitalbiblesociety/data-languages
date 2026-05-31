@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني برواني آيلاند
     auto: true
+  - translation_iso: hin
+    name: ब्रूनी द्वीप तस्मानियाई
+    auto: true
   - translation_iso: jpn
     name: ブルニー島タスマニア語
     auto: true

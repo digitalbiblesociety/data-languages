@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماريييدي
     auto: true
+  - translation_iso: hin
+    name: मरियेदी
+    auto: true
   - translation_iso: jpn
     name: マリイェディ語
     auto: true

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة يارسون
     auto: true
+  - translation_iso: hin
+    name: यारसुन
+    auto: true
   - translation_iso: jpn
     name: ヤルスン語
     auto: true

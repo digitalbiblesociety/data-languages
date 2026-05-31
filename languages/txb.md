@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توخاري ب
     auto: true
+  - translation_iso: hin
+    name: तोखारी ब
+    auto: true
   - translation_iso: jpn
     name: クチャ語
   - translation_iso: zho

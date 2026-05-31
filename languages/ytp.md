@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ثوفو
     auto: true
+  - translation_iso: hin
+    name: थोफो
+    auto: true
   - translation_iso: jpn
     name: ソッフォ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فوتي
     auto: true
+  - translation_iso: hin
+    name: वुते
+    auto: true
   - translation_iso: jpn
     name: ヴテ語
   - translation_iso: zho

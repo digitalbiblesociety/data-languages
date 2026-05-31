@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: توني كا
     auto: true
+  - translation_iso: hin
+    name: तुनिका
+    auto: true
   - translation_iso: jpn
     name: トゥニカ語
   - translation_iso: zho

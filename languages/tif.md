@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيفال
     auto: true
+  - translation_iso: hin
+    name: तीफाल
+    auto: true
   - translation_iso: jpn
     name: ティファル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك كويوكويتاني-كويري
     auto: true
+  - translation_iso: hin
+    name: क्योकिटानी-क्येरी ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: キオキタニ-キエリ・サポテク語
     auto: true

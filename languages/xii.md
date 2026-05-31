@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خيري
     auto: true
+  - translation_iso: hin
+    name: ख़िरी
+    auto: true
   - translation_iso: jpn
     name: シリ語
     auto: true

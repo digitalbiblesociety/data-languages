@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوتوخيل
     auto: true
+  - translation_iso: hin
+    name: त्सुतुहिल
+    auto: true
   - translation_iso: jpn
     name: ツトゥヒル語
   - translation_iso: kor

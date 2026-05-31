@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياجاريا
     auto: true
+  - translation_iso: hin
+    name: यागरिया
+    auto: true
   - translation_iso: jpn
     name: ヤガリア語
   - translation_iso: zho

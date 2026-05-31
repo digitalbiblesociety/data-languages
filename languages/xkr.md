@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شاكريابا
     auto: true
+  - translation_iso: hin
+    name: शक्रियाबा
+    auto: true
   - translation_iso: jpn
     name: シャクリアバ語
     auto: true

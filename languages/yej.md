@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يفانيك
     auto: true
+  - translation_iso: hin
+    name: येवानिक
+    auto: true
   - translation_iso: jpn
     name: ユダヤ・ギリシア語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مراغاي
     auto: true
+  - translation_iso: hin
+    name: मरागेई
+    auto: true
   - translation_iso: jpn
     name: ムラッゲ・ペゴレッボ語
     auto: true

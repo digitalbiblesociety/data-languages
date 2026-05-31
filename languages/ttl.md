@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توتيلا
     auto: true
+  - translation_iso: hin
+    name: तोतेला
+    auto: true
   - translation_iso: jpn
     name: エチトテラ語
     auto: true

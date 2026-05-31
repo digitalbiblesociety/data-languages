@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مارينغار
     auto: true
+  - translation_iso: hin
+    name: मरिंगर
+    auto: true
   - translation_iso: jpn
     name: マリンガル語
     auto: true

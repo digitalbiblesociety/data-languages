@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ووسا ناسو
     auto: true
+  - translation_iso: hin
+    name: वुसा नासू
+    auto: true
   - translation_iso: jpn
     name: ウサ・ナス語
     auto: true

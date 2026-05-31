@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيلتيبيريان
     auto: true
+  - translation_iso: hin
+    name: सेल्तिबेरियन
+    auto: true
   - translation_iso: jpn
     name: ケルティベリア語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وا
     auto: true
+  - translation_iso: hin
+    name: वा
+    auto: true
   - translation_iso: jpn
     name: ワ語
     auto: true

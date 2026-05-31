@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lycian_language"
 translations:
   - translation_iso: ara
     name: اللغة الليقية
+  - translation_iso: hin
+    name: लिशियन
+    auto: true
   - translation_iso: jpn
     name: リュキア語
   - translation_iso: kor

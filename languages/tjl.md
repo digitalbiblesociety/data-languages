@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاي لاينغ
     auto: true
+  - translation_iso: hin
+    name: ताई लाइंग
+    auto: true
   - translation_iso: jpn
     name: タイ・ライン語
     auto: true

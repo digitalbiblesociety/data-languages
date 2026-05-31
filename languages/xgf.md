@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غابرييلينوفيرنانديو
     auto: true
+  - translation_iso: hin
+    name: गैब्रिएलिनो-फ़र्नांडेन्यो
+    auto: true
   - translation_iso: jpn
     name: ガブリエリーノ語
   - translation_iso: zho

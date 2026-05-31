@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مارياموا
     auto: true
+  - translation_iso: hin
+    name: मैरियाम्मु
+    auto: true
   - translation_iso: jpn
     name: マリアムム語
     auto: true

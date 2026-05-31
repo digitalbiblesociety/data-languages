@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيناغ
     auto: true
+  - translation_iso: hin
+    name: ज़ेनाग
+    auto: true
   - translation_iso: jpn
     name: ゼナグ語
     auto: true

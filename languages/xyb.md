@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: يانجيبارا
     auto: true
+  - translation_iso: hin
+    name: यांद्जिबारा
+    auto: true
   - translation_iso: jpn
     name: ヤンジバラ語
     auto: true

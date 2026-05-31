@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تامان
     auto: true
+  - translation_iso: hin
+    name: तामान (म्यांमार)
+    auto: true
   - translation_iso: jpn
     name: タマン語
     auto: true

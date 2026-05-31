@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: موهيجان-بيكوت
     auto: true
+  - translation_iso: hin
+    name: मोहेगन-पेक्वोट
+    auto: true
   - translation_iso: jpn
     name: モヘガン・ペクォート語
   - translation_iso: zho

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كهاو
     auto: true
+  - translation_iso: hin
+    name: खाओ
+    auto: true
   - translation_iso: jpn
     name: カオ語
     auto: true

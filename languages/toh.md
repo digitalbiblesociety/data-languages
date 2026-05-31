@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيتونجا
     auto: true
+  - translation_iso: hin
+    name: गितोंगा
+    auto: true
   - translation_iso: jpn
     name: ギトンガ語
     auto: true

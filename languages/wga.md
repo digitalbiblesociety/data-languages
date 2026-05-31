@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واغايا
     auto: true
+  - translation_iso: hin
+    name: वगाया
+    auto: true
   - translation_iso: jpn
     name: ワガヤ語
     auto: true

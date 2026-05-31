@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: تايفوان
     auto: true
+  - translation_iso: hin
+    name: ताइवोआन
+    auto: true
   - translation_iso: jpn
     name: タイボアン語
   - translation_iso: zho

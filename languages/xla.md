@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كامولا
     auto: true
+  - translation_iso: hin
+    name: कामुला
+    auto: true
   - translation_iso: jpn
     name: カムラ語
     auto: true

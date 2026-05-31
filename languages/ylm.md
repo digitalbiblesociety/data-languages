@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ليمي
     auto: true
+  - translation_iso: hin
+    name: लिमी
+    auto: true
   - translation_iso: jpn
     name: 留米語
   - translation_iso: zho

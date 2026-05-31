@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك غويلا
     auto: true
+  - translation_iso: hin
+    name: गुइला ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: グイラ・サポテク語
     auto: true

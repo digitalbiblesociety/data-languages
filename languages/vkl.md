@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوليسوسو
     auto: true
+  - translation_iso: hin
+    name: कुलिसुसु
+    auto: true
   - translation_iso: jpn
     name: カリスゥス語
     auto: true

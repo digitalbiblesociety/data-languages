@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وييتو
     auto: true
+  - translation_iso: hin
+    name: वेयतो
+    auto: true
   - translation_iso: jpn
     name: ウェイトー語
   - translation_iso: zho

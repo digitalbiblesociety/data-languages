@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوت
     auto: true
+  - translation_iso: hin
+    name: कोट्ट
+    auto: true
   - translation_iso: jpn
     name: コット語
   - translation_iso: zho

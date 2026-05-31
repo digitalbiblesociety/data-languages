@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويربا مامبيرامو
     auto: true
+  - translation_iso: hin
+    name: क्वेर्बा मम्बेरामो
+    auto: true
   - translation_iso: jpn
     name: ケルバ・マンベラモ語
     auto: true

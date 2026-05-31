@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايور
     auto: true
+  - translation_iso: hin
+    name: वायोरो
+    auto: true
   - translation_iso: jpn
     name: ワイロ語
     auto: true

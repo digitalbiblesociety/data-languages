@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورا
     auto: true
+  - translation_iso: hin
+    name: उरा (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: アウラモット語
     auto: true

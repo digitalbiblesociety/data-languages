@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: يوهوب
     auto: true
+  - translation_iso: hin
+    name: युहुप
+    auto: true
   - translation_iso: jpn
     name: ユフップ語
     auto: true

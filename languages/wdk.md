@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: واديكالي
     auto: true
+  - translation_iso: hin
+    name: वडिकली
+    auto: true
   - translation_iso: jpn
     name: ワディカリ語
     auto: true

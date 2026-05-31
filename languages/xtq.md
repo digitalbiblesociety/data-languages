@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توموشوكيزي
     auto: true
+  - translation_iso: hin
+    name: तुमशुकीज़
+    auto: true
   - translation_iso: jpn
     name: トゥムシュケーゼ語
     auto: true

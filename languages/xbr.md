@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كامبيرا
     auto: true
+  - translation_iso: hin
+    name: कांबेरा
+    auto: true
   - translation_iso: jpn
     name: カンベラ
   - translation_iso: zho

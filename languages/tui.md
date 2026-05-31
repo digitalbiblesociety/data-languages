@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبوري
     auto: true
+  - translation_iso: hin
+    name: तुपुरी
+    auto: true
   - translation_iso: jpn
     name: デマ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تابويان
     auto: true
+  - translation_iso: hin
+    name: तावोयन
+    auto: true
   - translation_iso: jpn
     name: タボハン語
     auto: true

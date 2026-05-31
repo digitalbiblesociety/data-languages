@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوكي فرانثيسكو ليون
     auto: true
+  - translation_iso: hin
+    name: फ्रांसिस्को लेओन ज़ोके
+    auto: true
   - translation_iso: jpn
     name: フランシスコ・レオン・ゾケ語
     auto: true

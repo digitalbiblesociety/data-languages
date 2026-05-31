@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: تامبورا
     auto: true
+  - translation_iso: hin
+    name: तंबोरा
+    auto: true
   - translation_iso: jpn
     name: タンボラ語
   - translation_iso: kor

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: سارسيرا
     auto: true
+  - translation_iso: hin
+    name: सरसिरा
+    auto: true
   - translation_iso: jpn
     name: サラシラ語
     auto: true

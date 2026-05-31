@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يو - مورويب
     auto: true
+  - translation_iso: hin
+    name: याउ (मोरोबे प्रांत)
+    auto: true
   - translation_iso: jpn
     name: ヤウ語（モロベ州）
     auto: true

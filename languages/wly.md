@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: والينغ
     auto: true
+  - translation_iso: hin
+    name: वालिंग
+    auto: true
   - translation_iso: jpn
     name: ワリング語
     auto: true

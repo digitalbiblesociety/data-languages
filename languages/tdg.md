@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تامانغ الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी तामाङ
+    auto: true
   - translation_iso: jpn
     name: 西部タマン語
     auto: true

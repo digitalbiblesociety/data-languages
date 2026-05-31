@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كوجارجي
     auto: true
+  - translation_iso: hin
+    name: कुजार्गे
+    auto: true
   - translation_iso: jpn
     name: クハルゲ語
     auto: true

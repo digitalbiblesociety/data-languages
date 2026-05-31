@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبوونو
     auto: true
+  - translation_iso: hin
+    name: म्पुओनो
+    auto: true
   - translation_iso: jpn
     name: Mpuono語
   - translation_iso: zho

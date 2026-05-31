@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاتشيغويري
     auto: true
+  - translation_iso: hin
+    name: लाचीगिरी सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: ラチグイリ・サポテク語
     auto: true

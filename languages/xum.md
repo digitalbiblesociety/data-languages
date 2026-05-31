@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Umbrian_language"
 translations:
   - translation_iso: ara
     name: لغة أمبرية
+  - translation_iso: hin
+    name: उम्ब्रियन
+    auto: true
   - translation_iso: jpn
     name: ウンブリア語
   - translation_iso: kor

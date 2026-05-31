@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ووديج-لوكوان يي
     auto: true
+  - translation_iso: hin
+    name: वुडिंग-लुक्वान यी
+    auto: true
   - translation_iso: jpn
     name: ウーディング-ルクアン・イー語
     auto: true

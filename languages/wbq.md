@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: وادار
     auto: true
+  - translation_iso: hin
+    name: वड्डर
+    auto: true
   - translation_iso: jpn
     name: ワッダル語
     auto: true

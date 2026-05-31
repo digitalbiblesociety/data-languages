@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تابرياك
     auto: true
+  - translation_iso: hin
+    name: ताब्रियाक
+    auto: true
   - translation_iso: jpn
     name: カラワリ語
     auto: true

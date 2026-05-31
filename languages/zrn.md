@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زيرينكل
     auto: true
+  - translation_iso: hin
+    name: ज़ेरेंकेल
+    auto: true
   - translation_iso: jpn
     name: ゼレンケル語
     auto: true

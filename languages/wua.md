@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويكنغينكهيرا
     auto: true
+  - translation_iso: hin
+    name: विकनगेन्चेरा
+    auto: true
   - translation_iso: jpn
     name: ウィクネンチェラ語
     auto: true

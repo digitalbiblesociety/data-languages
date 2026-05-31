@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اديلاباد غوندي
     auto: true
+  - translation_iso: hin
+    name: आदिलाबाद गोंडी
+    auto: true
   - translation_iso: jpn
     name: アディラバード・ゴンディ語
     auto: true

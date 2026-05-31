@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماغوري
     auto: true
+  - translation_iso: hin
+    name: मागोरी
+    auto: true
   - translation_iso: jpn
     name: マゴリ語
     auto: true

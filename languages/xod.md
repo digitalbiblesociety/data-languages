@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوكودا
     auto: true
+  - translation_iso: hin
+    name: कोकोडा
+    auto: true
   - translation_iso: jpn
     name: ココダ語
     auto: true

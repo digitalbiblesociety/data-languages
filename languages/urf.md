@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: أورادهي
     auto: true
+  - translation_iso: hin
+    name: उराधी
+    auto: true
   - translation_iso: jpn
     name: インジノー語
     auto: true

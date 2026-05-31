@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة يراكاي
     auto: true
+  - translation_iso: hin
+    name: येराकाई
+    auto: true
   - translation_iso: jpn
     name: イェラカイ語
     auto: true

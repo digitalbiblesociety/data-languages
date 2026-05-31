@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوي
     auto: true
+  - translation_iso: hin
+    name: योय
+    auto: true
   - translation_iso: jpn
     name: ヨイ語
   - translation_iso: zho

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: سوكوروم
     auto: true
+  - translation_iso: hin
+    name: सुकुरुम
+    auto: true
   - translation_iso: jpn
     name: スクルム語
     auto: true

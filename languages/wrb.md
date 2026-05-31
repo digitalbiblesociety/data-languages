@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: والوواررا
     auto: true
+  - translation_iso: hin
+    name: वालुवाररा
+    auto: true
   - translation_iso: jpn
     name: ワルワッラ語
     auto: true

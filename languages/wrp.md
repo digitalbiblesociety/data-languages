@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واروپين
     auto: true
+  - translation_iso: hin
+    name: वारोपेन
+    auto: true
   - translation_iso: jpn
     name: ワロペン語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وارييانغغا
     auto: true
+  - translation_iso: hin
+    name: वारियांगा
+    auto: true
   - translation_iso: jpn
     name: ワリヤンガ語
     auto: true

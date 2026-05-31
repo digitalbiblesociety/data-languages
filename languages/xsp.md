@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيلوبي
     auto: true
+  - translation_iso: hin
+    name: सिलोपी
+    auto: true
   - translation_iso: jpn
     name: シロピ語
     auto: true

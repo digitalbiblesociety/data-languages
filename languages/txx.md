@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاتانا
     auto: true
+  - translation_iso: hin
+    name: तताना
+    auto: true
   - translation_iso: jpn
     name: タタナ語
   - translation_iso: zho

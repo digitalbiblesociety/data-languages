@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياوارواركا
     auto: true
+  - translation_iso: hin
+    name: यवरवर्गा
+    auto: true
   - translation_iso: jpn
     name: ヤワラワーガ語
   - translation_iso: zho

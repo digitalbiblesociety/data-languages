@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مباريمان-غودهينما
     auto: true
+  - translation_iso: hin
+    name: म्बारिमन-गुधिन्मा
+    auto: true
   - translation_iso: jpn
     name: ググ・ワラ語
   - translation_iso: zho

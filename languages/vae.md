@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فالي
     auto: true
+  - translation_iso: hin
+    name: वाले
+    auto: true
   - translation_iso: jpn
     name: ヴァレ語
     auto: true

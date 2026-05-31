@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورمبار
     auto: true
+  - translation_iso: hin
+    name: बुर्म्बार
+    auto: true
   - translation_iso: jpn
     name: バルムバル語
     auto: true

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: جوندونجورا
     auto: true
+  - translation_iso: hin
+    name: गुंडुंगुर्रा
+    auto: true
   - translation_iso: jpn
     name: ガンダンガラ語
     auto: true

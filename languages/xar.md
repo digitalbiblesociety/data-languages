@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كارامي
     auto: true
+  - translation_iso: hin
+    name: करामी
+    auto: true
   - translation_iso: jpn
     name: カラミ語
     auto: true

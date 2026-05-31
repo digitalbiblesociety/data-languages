@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة يارلويندي
     auto: true
+  - translation_iso: hin
+    name: यारलुयांडी
+    auto: true
   - translation_iso: jpn
     name: ヤルユアンディ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إيما بويانج
     auto: true
+  - translation_iso: hin
+    name: एमा बुयांग
+    auto: true
   - translation_iso: jpn
     name: エマ・ブヤン語
     auto: true

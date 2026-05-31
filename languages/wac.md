@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واسكو-ويشرام
     auto: true
+  - translation_iso: hin
+    name: वास्को-विश्रम
+    auto: true
   - translation_iso: jpn
     name: ウィシュラム語
   - translation_iso: zho

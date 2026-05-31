@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماخووا-ساكا
     auto: true
+  - translation_iso: hin
+    name: माखुवा-साका
+    auto: true
   - translation_iso: jpn
     name: マク​​ワ・サカ語
     auto: true

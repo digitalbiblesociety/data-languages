@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تومبيلالا
     auto: true
+  - translation_iso: hin
+    name: तोंबेलाला
+    auto: true
   - translation_iso: jpn
     name: トンベララ語
     auto: true

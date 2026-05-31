@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتيلو
     auto: true
+  - translation_iso: hin
+    name: तुतेलो
+    auto: true
   - translation_iso: jpn
     name: イェサーサハ語
     auto: true

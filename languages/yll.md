@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يل
     auto: true
+  - translation_iso: hin
+    name: यिल
+    auto: true
   - translation_iso: jpn
     name: イル語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك سيرا دي خواريز
     auto: true
+  - translation_iso: hin
+    name: सिएरा डे जुआरेज़ ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: シエラ・デ・フアレス・サポテク語
     auto: true

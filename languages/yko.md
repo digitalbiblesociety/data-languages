@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياسا
     auto: true
+  - translation_iso: hin
+    name: यासा
+    auto: true
   - translation_iso: jpn
     name: ヤサ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فومبو
     auto: true
+  - translation_iso: hin
+    name: वुम्बु
+    auto: true
   - translation_iso: jpn
     name: ブンブ語
     auto: true

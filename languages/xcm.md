@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كوميكرودو
     auto: true
+  - translation_iso: hin
+    name: कोमेक्रुडो
+    auto: true
   - translation_iso: jpn
     name: コメクルド語
     auto: true

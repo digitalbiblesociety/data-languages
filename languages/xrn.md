@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: آرين
     auto: true
+  - translation_iso: hin
+    name: एरिन
+    auto: true
   - translation_iso: jpn
     name: アリン語
   - translation_iso: kor

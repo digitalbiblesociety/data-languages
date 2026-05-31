@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فينماويس
     auto: true
+  - translation_iso: hin
+    name: विनमाविस
+    auto: true
   - translation_iso: jpn
     name: ヴィンマヴィス語
   - translation_iso: zho

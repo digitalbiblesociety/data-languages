@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وانو
     auto: true
+  - translation_iso: hin
+    name: वानो
+    auto: true
   - translation_iso: jpn
     name: ワノ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك تابا
     auto: true
+  - translation_iso: hin
+    name: ताबा सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: タバア・サポテク語
     auto: true

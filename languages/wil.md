@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويلاويلا
     auto: true
+  - translation_iso: hin
+    name: विलाविला
+    auto: true
   - translation_iso: jpn
     name: ウィラウィラ語
     auto: true

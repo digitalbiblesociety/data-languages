@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاماغاريو
     auto: true
+  - translation_iso: hin
+    name: तामागारियो
+    auto: true
   - translation_iso: jpn
     name: タマガリオ語
     auto: true

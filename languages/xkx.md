@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاروري
     auto: true
+  - translation_iso: hin
+    name: करोरे
+    auto: true
   - translation_iso: jpn
     name: カロレ語
     auto: true

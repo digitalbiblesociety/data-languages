@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مالاسار
     auto: true
+  - translation_iso: hin
+    name: मलासर
+    auto: true
   - translation_iso: jpn
     name: マラサル語
     auto: true

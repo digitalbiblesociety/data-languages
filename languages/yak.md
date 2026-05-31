@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ياكاما
     auto: true
+  - translation_iso: hin
+    name: याकामा
+    auto: true
   - translation_iso: jpn
     name: ヤカマ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واوياي
     auto: true
+  - translation_iso: hin
+    name: वौयाई
+    auto: true
   - translation_iso: jpn
     name: ワウヤイ語
     auto: true

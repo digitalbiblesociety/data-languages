@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يلوغو
     auto: true
+  - translation_iso: hin
+    name: येलोगु
+    auto: true
   - translation_iso: jpn
     name: イェログ語
     auto: true

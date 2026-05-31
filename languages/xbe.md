@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيغامبال
     auto: true
+  - translation_iso: hin
+    name: बिगांबल
+    auto: true
   - translation_iso: jpn
     name: ビガンバル語
     auto: true

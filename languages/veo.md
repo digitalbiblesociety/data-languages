@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فينتوريينو
     auto: true
+  - translation_iso: hin
+    name: वेन्तुरेन्यो
+    auto: true
   - translation_iso: jpn
     name: ミツカナカン語
     auto: true

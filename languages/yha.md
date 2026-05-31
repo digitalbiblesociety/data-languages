@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بها بويانج
     auto: true
+  - translation_iso: hin
+    name: बहा बुयांग
+    auto: true
   - translation_iso: jpn
     name: パハ語
   - translation_iso: zho

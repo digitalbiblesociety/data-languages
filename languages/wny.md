@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانيي
     auto: true
+  - translation_iso: hin
+    name: वान्यी
+    auto: true
   - translation_iso: jpn
     name: ワニイ語
     auto: true

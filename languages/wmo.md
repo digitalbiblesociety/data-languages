@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووم پاپوا نيو غوينيا
     auto: true
+  - translation_iso: hin
+    name: वोम (पापुआ न्यू गिनी)
+    auto: true
   - translation_iso: jpn
     name: ウォム語（パプアニューギニア）
     auto: true

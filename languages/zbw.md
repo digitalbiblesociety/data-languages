@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بيراوان الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी बेरावन
+    auto: true
   - translation_iso: jpn
     name: ウェスト・ベラワン語
     auto: true

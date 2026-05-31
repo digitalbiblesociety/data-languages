@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوراك لاووي
     auto: true
+  - translation_iso: hin
+    name: उराक लावोई
+    auto: true
   - translation_iso: jpn
     name: ウラック・ラオイ語
     auto: true

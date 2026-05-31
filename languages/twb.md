@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاوبويد الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी ताउबुइद
+    auto: true
   - translation_iso: jpn
     name: バタンガン・タウブウイド語
     auto: true

@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Biksi-Yetfa_language"
 translations:
   - translation_iso: ara
     name: لغة بيكسي
+  - translation_iso: hin
+    name: येतफा
+    auto: true
   - translation_iso: jpn
     name: イェトファ語
     auto: true

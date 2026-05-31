@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بينا النيجيرية
     auto: true
+  - translation_iso: hin
+    name: बेना (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: ベナ語（ナイジェリア）
     auto: true

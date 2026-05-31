@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايماا
     auto: true
+  - translation_iso: hin
+    name: वाइमा
+    auto: true
   - translation_iso: jpn
     name: ワイマア語
     auto: true

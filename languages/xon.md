@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كونكومبا
     auto: true
+  - translation_iso: hin
+    name: कोंकोम्बा
+    auto: true
   - translation_iso: jpn
     name: コンコンバ語
     auto: true

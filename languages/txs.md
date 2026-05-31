@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تونسيا
     auto: true
+  - translation_iso: hin
+    name: तोनसेआ
+    auto: true
   - translation_iso: jpn
     name: トンセア語
   - translation_iso: zho

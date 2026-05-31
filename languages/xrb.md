@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كارابورو الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी काराबोरो
+    auto: true
   - translation_iso: jpn
     name: 東カラボロ語
     auto: true

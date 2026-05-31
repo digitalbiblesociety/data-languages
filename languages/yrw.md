@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يارواتا
     auto: true
+  - translation_iso: hin
+    name: यारावाटा
+    auto: true
   - translation_iso: jpn
     name: ヤラワタ語
     auto: true

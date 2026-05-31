@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاوارا
     auto: true
+  - translation_iso: hin
+    name: तावारा
+    auto: true
   - translation_iso: jpn
     name: チショナ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياجووويا
     auto: true
+  - translation_iso: hin
+    name: यागवोइया
+    auto: true
   - translation_iso: jpn
     name: ヤグウォイア語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاجيو
     auto: true
+  - translation_iso: hin
+    name: ताजियो
+    auto: true
   - translation_iso: jpn
     name: タジオ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أودا
     auto: true
+  - translation_iso: hin
+    name: उदा
+    auto: true
   - translation_iso: jpn
     name: ウダ語
     auto: true

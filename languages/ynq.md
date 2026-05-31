@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يندانغ
     auto: true
+  - translation_iso: hin
+    name: येंदांग
+    auto: true
   - translation_iso: jpn
     name: イェンダング語
     auto: true

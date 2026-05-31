@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي هونغجين
     auto: true
+  - translation_iso: hin
+    name: ताई होंगजिन
+    auto: true
   - translation_iso: jpn
     name: 紅金タイ語
   - translation_iso: zho

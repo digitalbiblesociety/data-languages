@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جزر ماسيلا الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी मासेला
+    auto: true
   - translation_iso: jpn
     name: 東マセラ語
   - translation_iso: zho

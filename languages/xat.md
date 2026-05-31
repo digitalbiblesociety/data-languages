@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاتاويخي
     auto: true
+  - translation_iso: hin
+    name: कातावीशी
+    auto: true
   - translation_iso: jpn
     name: カタウィキシ語
     auto: true

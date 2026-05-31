@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك إلوتيبيك
     auto: true
+  - translation_iso: hin
+    name: एलोटेपेक ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: エロテペック・サポテク語
     auto: true

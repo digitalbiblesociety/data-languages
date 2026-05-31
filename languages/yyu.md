@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يو - ساندان
     auto: true
+  - translation_iso: hin
+    name: याउ (सैंडौन प्रांत)
+    auto: true
   - translation_iso: jpn
     name: ヤウ語（サンダウン州）
     auto: true

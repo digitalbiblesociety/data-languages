@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوابونج
     auto: true
+  - translation_iso: hin
+    name: त्स्वापोंग
+    auto: true
   - translation_iso: jpn
     name: ペディ語
     auto: true

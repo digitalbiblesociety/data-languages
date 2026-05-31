@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كومو
     auto: true
+  - translation_iso: hin
+    name: कोमो (सूडान)
+    auto: true
   - translation_iso: jpn
     name: コモ語（スーダン）
     auto: true

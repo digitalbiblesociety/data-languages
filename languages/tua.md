@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وياروموس
     auto: true
+  - translation_iso: hin
+    name: वियारुमुस
+    auto: true
   - translation_iso: jpn
     name: マンディ語
     auto: true

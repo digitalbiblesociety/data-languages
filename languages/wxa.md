@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واخيانغهوا
     auto: true
+  - translation_iso: hin
+    name: वाक्सियांगहुआ
+    auto: true
   - translation_iso: jpn
     name: 瓦郷話
   - translation_iso: zho

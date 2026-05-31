@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيلونغ
     auto: true
+  - translation_iso: hin
+    name: तिलुङ
+    auto: true
   - translation_iso: jpn
     name: ティルン語
     auto: true

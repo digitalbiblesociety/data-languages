@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوكاغيز الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी युकागिर
+    auto: true
   - translation_iso: jpn
     name: コリマ・ユカギール語
   - translation_iso: kor

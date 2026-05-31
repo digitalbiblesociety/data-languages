@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توجبو فارا بندا
     auto: true
+  - translation_iso: hin
+    name: तोग्बो-वारा बांदा
+    auto: true
   - translation_iso: jpn
     name: トグボ・ヴァラ・バンダ語
     auto: true

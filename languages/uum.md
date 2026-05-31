@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورم
     auto: true
+  - translation_iso: hin
+    name: उरुम
+    auto: true
   - translation_iso: jpn
     name: ウルム語
   - translation_iso: kor

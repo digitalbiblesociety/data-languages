@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوساجادي
     auto: true
+  - translation_iso: hin
+    name: उसाघाडे
+    auto: true
   - translation_iso: jpn
     name: イサンゲレ語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: أوس-سااري
     auto: true
+  - translation_iso: hin
+    name: उस-सारे
+    auto: true
   - translation_iso: jpn
     name: ドゥカ語
     auto: true

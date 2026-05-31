@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غودانغ
     auto: true
+  - translation_iso: hin
+    name: गुडांग
+    auto: true
   - translation_iso: jpn
     name: グダン語
     auto: true

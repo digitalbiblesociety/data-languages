@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ديني كيه
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी स्लेवी
+    auto: true
   - translation_iso: jpn
     name: 南スレイビー語
   - translation_iso: zho

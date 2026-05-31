@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سان ميجيل بيدراس ميكستيك
     auto: true
+  - translation_iso: hin
+    name: सान मिगेल पिएद्रास मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: サンミゲル・ピエドラス・ミステク語
     auto: true

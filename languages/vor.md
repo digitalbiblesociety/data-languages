@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فورو
     auto: true
+  - translation_iso: hin
+    name: वोरो
+    auto: true
   - translation_iso: jpn
     name: ボロ語
     auto: true

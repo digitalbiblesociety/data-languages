@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاواندي
     auto: true
+  - translation_iso: hin
+    name: तावांदे
+    auto: true
   - translation_iso: jpn
     name: タワンデ語
     auto: true

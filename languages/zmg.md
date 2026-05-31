@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارتي كي
     auto: true
+  - translation_iso: hin
+    name: मार्ती के
+    auto: true
   - translation_iso: jpn
     name: マティ・ケ語
   - translation_iso: zho

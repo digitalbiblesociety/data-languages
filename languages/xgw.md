@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غووا
     auto: true
+  - translation_iso: hin
+    name: गुवा
+    auto: true
   - translation_iso: jpn
     name: グワ語
     auto: true

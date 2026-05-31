@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Tripolitanian_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة يهودية ليبية
+  - translation_iso: hin
+    name: यहूदी-त्रिपोलितानी अरबी
+    auto: true
   - translation_iso: jpn
     name: ユダヤ・トリポリタニア・アラビア語
   - translation_iso: zho

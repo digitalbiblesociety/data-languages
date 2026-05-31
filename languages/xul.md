@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: نجوناوال
     auto: true
+  - translation_iso: hin
+    name: न्गुनावाल
+    auto: true
   - translation_iso: jpn
     name: ングナワル語
     auto: true

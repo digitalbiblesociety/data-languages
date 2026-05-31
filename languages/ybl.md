@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يوكوبين
     auto: true
+  - translation_iso: hin
+    name: युकुबेन
+    auto: true
   - translation_iso: jpn
     name: ユクベン語
     auto: true

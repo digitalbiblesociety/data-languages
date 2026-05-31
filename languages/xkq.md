@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كوروني
     auto: true
+  - translation_iso: hin
+    name: कोरोनी
+    auto: true
   - translation_iso: jpn
     name: コロニ語
     auto: true

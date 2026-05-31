@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هدي
     auto: true
+  - translation_iso: hin
+    name: ह्दी
+    auto: true
   - translation_iso: jpn
     name: フディ語
   - translation_iso: zho

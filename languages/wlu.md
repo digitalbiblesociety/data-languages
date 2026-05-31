@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووليوولي
     auto: true
+  - translation_iso: hin
+    name: वुलिवुली
+    auto: true
   - translation_iso: jpn
     name: ウーリウーリ語
     auto: true

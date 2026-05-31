@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان فيسينتي كوتلان
     auto: true
+  - translation_iso: hin
+    name: सान विसेन्ते कोआतलान सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: サン・ビセンテ・コアトラン・サポテク語
     auto: true

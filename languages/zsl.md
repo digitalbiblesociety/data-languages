@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الزامبية
     auto: true
+  - translation_iso: hin
+    name: ज़ाम्बियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ザンビア手話
   - translation_iso: zho

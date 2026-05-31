@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة لانغنيان بويانج
     auto: true
+  - translation_iso: hin
+    name: लांगनियान बुयांग
+    auto: true
   - translation_iso: jpn
     name: ラングニアン・ブヤン語
     auto: true

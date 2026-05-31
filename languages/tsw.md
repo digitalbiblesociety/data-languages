@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تشيشينجيني
     auto: true
+  - translation_iso: hin
+    name: त्सिशिंगिनी
+    auto: true
   - translation_iso: jpn
     name: ツィシンギニ語
     auto: true

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: مينكين
     auto: true
+  - translation_iso: hin
+    name: मिंकिन
+    auto: true
   - translation_iso: jpn
     name: ミンキン語
     auto: true

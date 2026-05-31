@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيدوندا
     auto: true
+  - translation_iso: hin
+    name: विदुंडा
+    auto: true
   - translation_iso: jpn
     name: ヴィドゥンダ語
     auto: true

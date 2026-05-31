@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: شوكورو
     auto: true
+  - translation_iso: hin
+    name: शुकुरू
+    auto: true
   - translation_iso: jpn
     name: シュクル語
     auto: true

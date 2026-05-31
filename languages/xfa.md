@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: فاليسكان
     auto: true
+  - translation_iso: hin
+    name: फ़ालिस्कन
+    auto: true
   - translation_iso: jpn
     name: ファリスク語
   - translation_iso: kor

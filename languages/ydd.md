@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يديش الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी यिडिश
+    auto: true
   - translation_iso: jpn
     name: 東イディッシュ語
   - translation_iso: zho

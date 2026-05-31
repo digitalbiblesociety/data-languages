@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونديه سونجواي كيني
     auto: true
+  - translation_iso: hin
+    name: तोंडी सोंगवे कीनी
+    auto: true
   - translation_iso: jpn
     name: TSK語
     auto: true

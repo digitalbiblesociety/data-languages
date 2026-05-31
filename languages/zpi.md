@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتا ماريا كويغولاني
     auto: true
+  - translation_iso: hin
+    name: सांता मारिया कियेगोलानी सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: キエゴラニ・サポテク語
   - translation_iso: zho

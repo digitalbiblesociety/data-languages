@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واغاواغا
     auto: true
+  - translation_iso: hin
+    name: वगवगा
+    auto: true
   - translation_iso: jpn
     name: ワガワガ語
     auto: true

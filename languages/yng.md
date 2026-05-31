@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة يانغو
     auto: true
+  - translation_iso: hin
+    name: यांगो
+    auto: true
   - translation_iso: jpn
     name: ヤンゴ語
     auto: true

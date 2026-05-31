@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توننن
     auto: true
+  - translation_iso: hin
+    name: तुनेन
+    auto: true
   - translation_iso: jpn
     name: トゥネン語
     auto: true

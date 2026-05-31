@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوارهيو
     auto: true
+  - translation_iso: hin
+    name: हुआरिहियो
+    auto: true
   - translation_iso: jpn
     name: ヴァリヒオ語
     auto: true

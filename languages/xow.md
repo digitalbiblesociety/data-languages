@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوواكي
     auto: true
+  - translation_iso: hin
+    name: कोवाकी
+    auto: true
   - translation_iso: jpn
     name: コワキ語
     auto: true

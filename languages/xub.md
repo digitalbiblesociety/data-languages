@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيتا كوروما
     auto: true
+  - translation_iso: hin
+    name: बेट्टा कुरुम्बा
+    auto: true
   - translation_iso: jpn
     name: ベッタ・クルンバ語
     auto: true

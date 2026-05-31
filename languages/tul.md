@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توللا
     auto: true
+  - translation_iso: hin
+    name: तुला
+    auto: true
   - translation_iso: jpn
     name: コトゥレ語
     auto: true

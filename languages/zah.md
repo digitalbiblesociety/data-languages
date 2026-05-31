@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زانغوال
     auto: true
+  - translation_iso: hin
+    name: ज़ंगवाल
+    auto: true
   - translation_iso: jpn
     name: ザングワル語
     auto: true

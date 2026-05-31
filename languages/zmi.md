@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو نيغيري سيمبيلان
     auto: true
+  - translation_iso: hin
+    name: नेगेरी सेम्बिलान मलय
+    auto: true
   - translation_iso: jpn
     name: ネゲリ・センビラン・マレー語
     auto: true

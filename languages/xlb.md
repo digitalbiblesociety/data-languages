@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لوب باء
     auto: true
+  - translation_iso: hin
+    name: लूप बी
+    auto: true
   - translation_iso: jpn
     name: ルーポB語
     auto: true

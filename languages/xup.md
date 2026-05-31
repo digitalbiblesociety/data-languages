@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أبر أمبكوا
     auto: true
+  - translation_iso: hin
+    name: ऊपरी उम्पक्वा
+    auto: true
   - translation_iso: jpn
     name: アッパー・ウムプクア語
     auto: true

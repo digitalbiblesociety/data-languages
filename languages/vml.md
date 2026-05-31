@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مالجانا
     auto: true
+  - translation_iso: hin
+    name: मलगाना
+    auto: true
   - translation_iso: jpn
     name: マルガナ語
     auto: true

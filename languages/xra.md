@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كراهو
     auto: true
+  - translation_iso: hin
+    name: क्राहो
+    auto: true
   - translation_iso: jpn
     name: クラホ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة نيسو الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी निसू
+    auto: true
   - translation_iso: jpn
     name: 北部ニス語
     auto: true

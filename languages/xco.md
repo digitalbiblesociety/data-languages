@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khwarezmian_language"
 translations:
   - translation_iso: ara
     name: الخوارزمية
+  - translation_iso: hin
+    name: ख़्वारज़्मी
+    auto: true
   - translation_iso: jpn
     name: ホラズム語
   - translation_iso: kor

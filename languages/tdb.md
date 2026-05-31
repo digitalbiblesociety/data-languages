@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بانتشبرغانيا
     auto: true
+  - translation_iso: hin
+    name: पंचपरगनिया
+    auto: true
   - translation_iso: jpn
     name: パンチパルガニア語
     auto: true

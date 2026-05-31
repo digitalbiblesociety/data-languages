@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: بويو-بايكتشي
     auto: true
+  - translation_iso: hin
+    name: पुयो-पेक्चे
+    auto: true
   - translation_iso: jpn
     name: プヨ・ペクチェ語
     auto: true

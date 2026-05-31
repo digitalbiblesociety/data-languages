@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان أغوستين ميكستيبيك
     auto: true
+  - translation_iso: hin
+    name: सान अगुस्तीन मिक्सटेपेक ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: サン・アグスティン・ミステペック・サポテク語
     auto: true

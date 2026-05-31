@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاب
     auto: true
+  - translation_iso: hin
+    name: काप
+    auto: true
   - translation_iso: jpn
     name: カップ語
     auto: true

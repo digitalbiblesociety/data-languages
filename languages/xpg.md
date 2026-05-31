@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Phrygian_language"
 translations:
   - translation_iso: ara
     name: لغة فريجية
+  - translation_iso: hin
+    name: फ़्रिजियन
+    auto: true
   - translation_iso: jpn
     name: フリュギア語
   - translation_iso: kor

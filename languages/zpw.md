@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك زانيزا
     auto: true
+  - translation_iso: hin
+    name: ज़ानिज़ा सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: ザニザ・サポテク語
     auto: true

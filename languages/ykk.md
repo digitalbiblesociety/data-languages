@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياكايكيكي
     auto: true
+  - translation_iso: hin
+    name: याकाइकेके
+    auto: true
   - translation_iso: jpn
     name: ヤカイケケ語
     auto: true

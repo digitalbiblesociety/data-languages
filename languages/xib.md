@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Iberian_language"
 translations:
   - translation_iso: ara
     name: لغة ايبيرية
+  - translation_iso: hin
+    name: इबेरियन
+    auto: true
   - translation_iso: jpn
     name: イベリア語
   - translation_iso: kor

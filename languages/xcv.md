@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كهوفانتسي
     auto: true
+  - translation_iso: hin
+    name: चुवांत्सी
+    auto: true
   - translation_iso: jpn
     name: チュバンチー語
   - translation_iso: zho

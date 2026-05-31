@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هليفو فوا
     auto: true
+  - translation_iso: hin
+    name: ह्लेफो फोवा
+    auto: true
   - translation_iso: jpn
     name: フレフォ・ファウ語
     auto: true

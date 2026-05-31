@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زارامو
     auto: true
+  - translation_iso: hin
+    name: ज़रामो
+    auto: true
   - translation_iso: jpn
     name: ザラモ語
   - translation_iso: zho

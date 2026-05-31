@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أيوتلا مازاتك
     auto: true
+  - translation_iso: hin
+    name: अयाउतला मासातेक
+    auto: true
   - translation_iso: jpn
     name: アヤウトラ・マサテク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واوونيي
     auto: true
+  - translation_iso: hin
+    name: वावोनी
+    auto: true
   - translation_iso: jpn
     name: ワウォニイ語
     auto: true

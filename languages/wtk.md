@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واتاكاتاوي
     auto: true
+  - translation_iso: hin
+    name: वाताकाताउई
+    auto: true
   - translation_iso: jpn
     name: ワタカタウイ語
   - translation_iso: zho

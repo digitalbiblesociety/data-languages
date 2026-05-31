@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زانكي
     auto: true
+  - translation_iso: hin
+    name: ज़नाकी
+    auto: true
   - translation_iso: jpn
     name: ザナキ語
     auto: true

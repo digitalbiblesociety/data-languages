@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوتانك
     auto: true
+  - translation_iso: hin
+    name: ओतांक
+    auto: true
   - translation_iso: jpn
     name: イタング語
     auto: true

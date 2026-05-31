@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موروواري
     auto: true
+  - translation_iso: hin
+    name: मुरुवारी
+    auto: true
   - translation_iso: jpn
     name: ムルワリ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك كاخونوس
     auto: true
+  - translation_iso: hin
+    name: काहोनोस ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: カホノス・サポテク語
     auto: true

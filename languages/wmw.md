@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مواني
     auto: true
+  - translation_iso: hin
+    name: म्वानी
+    auto: true
   - translation_iso: jpn
     name: ンワニ語
   - translation_iso: zho

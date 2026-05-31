@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيسيدية
     auto: true
+  - translation_iso: hin
+    name: पिसिडियन
+    auto: true
   - translation_iso: jpn
     name: ピシディア語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توراو
     auto: true
+  - translation_iso: hin
+    name: तोराउ
+    auto: true
   - translation_iso: jpn
     name: トラウ語
   - translation_iso: zho

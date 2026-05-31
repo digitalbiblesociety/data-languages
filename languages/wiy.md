@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وييوت
     auto: true
+  - translation_iso: hin
+    name: वियोट
+    auto: true
   - translation_iso: jpn
     name: ウィヨット語
   - translation_iso: kor

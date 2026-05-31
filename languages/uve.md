@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويست أويفيان
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी उवेआन
+    auto: true
   - translation_iso: jpn
     name: 西ウベア語
   - translation_iso: kor

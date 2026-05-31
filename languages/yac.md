@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باس فالي يالي
     auto: true
+  - translation_iso: hin
+    name: पास वैली याली
+    auto: true
   - translation_iso: jpn
     name: パスバレー・ヤリ語
     auto: true

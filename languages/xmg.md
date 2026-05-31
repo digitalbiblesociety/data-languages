@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: منجاكا
     auto: true
+  - translation_iso: hin
+    name: मेंगाका
+    auto: true
   - translation_iso: jpn
     name: メンガカ語
     auto: true

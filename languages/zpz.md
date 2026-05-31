@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تكسميلوكان
     auto: true
+  - translation_iso: hin
+    name: तेक्समेलुकान सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: テクスメルカン・サポテク語
     auto: true

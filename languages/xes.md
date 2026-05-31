@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيساواي
     auto: true
+  - translation_iso: hin
+    name: केसावाई
+    auto: true
   - translation_iso: jpn
     name: ケサワイ語
     auto: true

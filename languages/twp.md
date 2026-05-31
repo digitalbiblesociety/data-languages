@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ايري
     auto: true
+  - translation_iso: hin
+    name: एरे
+    auto: true
   - translation_iso: jpn
     name: ナネ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوفادي
     auto: true
+  - translation_iso: hin
+    name: त्सुवादी
+    auto: true
   - translation_iso: jpn
     name: ツゥヴァディ語
     auto: true

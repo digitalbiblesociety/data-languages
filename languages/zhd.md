@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة داي زوانغ
     auto: true
+  - translation_iso: hin
+    name: दाई ज़ुआंग
+    auto: true
   - translation_iso: jpn
     name: 文馬チワン語
   - translation_iso: zho

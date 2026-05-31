@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيلاموك
     auto: true
+  - translation_iso: hin
+    name: टिलामूक
+    auto: true
   - translation_iso: jpn
     name: ティラムック語
   - translation_iso: zho

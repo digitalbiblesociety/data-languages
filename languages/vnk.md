@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فانو
     auto: true
+  - translation_iso: hin
+    name: वानो
+    auto: true
   - translation_iso: jpn
     name: ロヴォノ語
   - translation_iso: zho

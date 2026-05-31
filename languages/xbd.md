@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: بيندال
     auto: true
+  - translation_iso: hin
+    name: बिंदाल
+    auto: true
   - translation_iso: jpn
     name: ビンダル
   - translation_iso: zho

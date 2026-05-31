@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياندروواندا
     auto: true
+  - translation_iso: hin
+    name: यांद्रुवांधा
+    auto: true
   - translation_iso: jpn
     name: ヤンドルワンダ語
     auto: true

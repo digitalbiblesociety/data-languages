@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاجورو
     auto: true
+  - translation_iso: hin
+    name: कागोरो
+    auto: true
   - translation_iso: jpn
     name: カゴロ語
     auto: true

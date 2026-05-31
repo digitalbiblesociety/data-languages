@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تمبس
     auto: true
+  - translation_iso: hin
+    name: ताम्बास
+    auto: true
   - translation_iso: jpn
     name: タンバス語
     auto: true

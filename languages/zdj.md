@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوموريان نغازيدجا
     auto: true
+  - translation_iso: hin
+    name: नगाज़िद्जा कोमोरियन
+    auto: true
   - translation_iso: jpn
     name: ンガジドゥジャ・コモロ語
     auto: true

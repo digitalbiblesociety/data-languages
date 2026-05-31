@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوتي
     auto: true
+  - translation_iso: hin
+    name: योट्टी
+    auto: true
   - translation_iso: jpn
     name: ヨッティ語
     auto: true

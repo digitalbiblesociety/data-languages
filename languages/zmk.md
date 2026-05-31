@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماندانداني
     auto: true
+  - translation_iso: hin
+    name: मंदनदान्यी
+    auto: true
   - translation_iso: jpn
     name: マンダンダニ語
     auto: true

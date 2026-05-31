@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فولو
     auto: true
+  - translation_iso: hin
+    name: फोलो
+    auto: true
   - translation_iso: jpn
     name: フォロ語
     auto: true

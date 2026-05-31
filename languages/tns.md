@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تينيس
     auto: true
+  - translation_iso: hin
+    name: तेनिस
+    auto: true
   - translation_iso: jpn
     name: テニス語
   - translation_iso: zho

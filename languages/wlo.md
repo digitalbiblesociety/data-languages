@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووليو
     auto: true
+  - translation_iso: hin
+    name: वोलियो
+    auto: true
   - translation_iso: jpn
     name: ウォリオ語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ونغغومي
     auto: true
+  - translation_iso: hin
+    name: उंगुमी
+    auto: true
   - translation_iso: jpn
     name: ウングミ語
     auto: true

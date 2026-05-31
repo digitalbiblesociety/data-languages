@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوريبيف-والا-رانو-اتشين
     auto: true
+  - translation_iso: hin
+    name: उरिपिव-वाला-रानो-अत्चिन
+    auto: true
   - translation_iso: jpn
     name: ウリピブ語
   - translation_iso: zho

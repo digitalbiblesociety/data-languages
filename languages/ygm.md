@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياجومي
     auto: true
+  - translation_iso: hin
+    name: यागोमी
+    auto: true
   - translation_iso: jpn
     name: ヤゴミ語
     auto: true

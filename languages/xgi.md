@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: غارينغبال
     auto: true
+  - translation_iso: hin
+    name: गारिंगबल
+    auto: true
   - translation_iso: jpn
     name: ガリングバル語
     auto: true

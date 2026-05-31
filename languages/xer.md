@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خيرنتي
     auto: true
+  - translation_iso: hin
+    name: ज़ेरेन्ते
+    auto: true
   - translation_iso: jpn
     name: シェレンテ語
     auto: true

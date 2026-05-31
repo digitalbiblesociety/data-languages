@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبوندم
     auto: true
+  - translation_iso: hin
+    name: म्बुदुम
+    auto: true
   - translation_iso: jpn
     name: ムブドゥム語
     auto: true

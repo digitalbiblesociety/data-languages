@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كامفيري
     auto: true
+  - translation_iso: hin
+    name: कामविरी
+    auto: true
   - translation_iso: jpn
     name: カンヴィリ方言
   - translation_iso: zho

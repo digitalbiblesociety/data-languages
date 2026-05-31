@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لونجالونجا
     auto: true
+  - translation_iso: hin
+    name: लुंगालुंगा
+    auto: true
   - translation_iso: jpn
     name: ミニギール語
     auto: true

@@ -9,6 +9,9 @@ translations:
   - translation_iso: ara
     name: وياندوت
     auto: true
+  - translation_iso: hin
+    name: वायंडोट
+    auto: true
   - translation_iso: jpn
     name: ワイアンドット語
     auto: true

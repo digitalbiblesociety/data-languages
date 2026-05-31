@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيزرا
     auto: true
+  - translation_iso: hin
+    name: गिज़्रा
+    auto: true
   - translation_iso: jpn
     name: ギズラ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جوكستلاهواكا ميكستيك
     auto: true
+  - translation_iso: hin
+    name: हुक्स्तलाहुआका मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: セントラル・フクスラウアカ・ミステク語
     auto: true

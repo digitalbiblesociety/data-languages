@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوري
     auto: true
+  - translation_iso: hin
+    name: उरी
+    auto: true
   - translation_iso: jpn
     name: エラップ語
     auto: true

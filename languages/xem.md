@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيمبايان
     auto: true
+  - translation_iso: hin
+    name: केम्बायन
+    auto: true
   - translation_iso: jpn
     name: ケンバヤン語
     auto: true

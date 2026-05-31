@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: فولسكية
     auto: true
+  - translation_iso: hin
+    name: वोल्शियन
+    auto: true
   - translation_iso: jpn
     name: ウォルスキ語
   - translation_iso: zho

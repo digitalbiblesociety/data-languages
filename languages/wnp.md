@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واناپ
     auto: true
+  - translation_iso: hin
+    name: वानाप
+    auto: true
   - translation_iso: jpn
     name: ワナプ語
     auto: true

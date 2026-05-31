@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: وارداندي
     auto: true
+  - translation_iso: hin
+    name: वार्डांडी
+    auto: true
   - translation_iso: jpn
     name: ワルダンディ語
     auto: true

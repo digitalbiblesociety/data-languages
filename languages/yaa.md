@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يامينهوا
     auto: true
+  - translation_iso: hin
+    name: यामिनाहुआ
+    auto: true
   - translation_iso: jpn
     name: ヤミナウア語
     auto: true

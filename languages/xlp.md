@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ليبونتية
     auto: true
+  - translation_iso: hin
+    name: लेपोंटिक
+    auto: true
   - translation_iso: jpn
     name: レポント語
   - translation_iso: zho

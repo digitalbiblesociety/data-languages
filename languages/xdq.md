@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كايتاغ
     auto: true
+  - translation_iso: hin
+    name: कैताग
+    auto: true
   - translation_iso: jpn
     name: カジュタク語
   - translation_iso: zho

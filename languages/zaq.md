@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك ألوابام
     auto: true
+  - translation_iso: hin
+    name: अलोआपम सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: アロアパム・サポテク語
     auto: true

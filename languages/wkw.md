@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واكاواكا
     auto: true
+  - translation_iso: hin
+    name: वाकावाका
+    auto: true
   - translation_iso: jpn
     name: ワカワカ語
     auto: true

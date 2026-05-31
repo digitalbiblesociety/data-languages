@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة دونجشانبا لالو
     auto: true
+  - translation_iso: hin
+    name: डोंगशानबा लालो
+    auto: true
   - translation_iso: jpn
     name: ドンシャンバ・ラロ語
     auto: true

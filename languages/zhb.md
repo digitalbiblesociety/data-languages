@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جابا
     auto: true
+  - translation_iso: hin
+    name: ज़ाबा
+    auto: true
   - translation_iso: jpn
     name: ジャバ語
   - translation_iso: zho

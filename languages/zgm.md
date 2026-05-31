@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مينز زوانغ
     auto: true
+  - translation_iso: hin
+    name: मिन्ज़ ज़ुआंग
+    auto: true
   - translation_iso: jpn
     name: 民講語
   - translation_iso: zho

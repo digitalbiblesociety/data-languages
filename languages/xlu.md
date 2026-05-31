@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لووية
     auto: true
+  - translation_iso: hin
+    name: कीलाक्षर लुवियन
+    auto: true
   - translation_iso: jpn
     name: 楔形文字ルウィ語
   - translation_iso: zho

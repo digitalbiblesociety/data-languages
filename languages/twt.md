@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توريوارا
     auto: true
+  - translation_iso: hin
+    name: तुरिवारा
+    auto: true
   - translation_iso: jpn
     name: トゥリウアラ語
     auto: true

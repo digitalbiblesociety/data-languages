@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وارجي
     auto: true
+  - translation_iso: hin
+    name: वार्जी
+    auto: true
   - translation_iso: jpn
     name: ワルジ語
     auto: true

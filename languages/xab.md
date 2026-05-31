@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سامبي
     auto: true
+  - translation_iso: hin
+    name: साम्बे
+    auto: true
   - translation_iso: jpn
     name: サンベ語
     auto: true

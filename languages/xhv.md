@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كهوا
     auto: true
+  - translation_iso: hin
+    name: ख़ुआ
+    auto: true
   - translation_iso: jpn
     name: クア語
     auto: true

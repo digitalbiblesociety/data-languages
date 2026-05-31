@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تيلكيابان
     auto: true
+  - translation_iso: hin
+    name: तिलकियापन ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: ティルキアパン・サポテク語
     auto: true

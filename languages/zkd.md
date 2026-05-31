@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة كادو
     auto: true
+  - translation_iso: hin
+    name: कादू
+    auto: true
   - translation_iso: jpn
     name: カドゥ語
     auto: true

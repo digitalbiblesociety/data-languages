@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واندا
     auto: true
+  - translation_iso: hin
+    name: वान्डा
+    auto: true
   - translation_iso: jpn
     name: ワンダ語
     auto: true

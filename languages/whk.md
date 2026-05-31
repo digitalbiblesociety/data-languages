@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واهاو كينياه
     auto: true
+  - translation_iso: hin
+    name: वहौ केन्याह
+    auto: true
   - translation_iso: jpn
     name: ワハウ・ケニャー語
     auto: true

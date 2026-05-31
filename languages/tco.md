@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاونغيو
     auto: true
+  - translation_iso: hin
+    name: ताउंग्यो
+    auto: true
   - translation_iso: jpn
     name: タウンギョ語
     auto: true

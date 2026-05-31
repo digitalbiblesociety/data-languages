@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: كارا
     auto: true
+  - translation_iso: hin
+    name: कारा (कोरिया)
+    auto: true
   - translation_iso: jpn
     name: 伽耶語
   - translation_iso: kor

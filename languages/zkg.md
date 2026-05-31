@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوغوريو
     auto: true
+  - translation_iso: hin
+    name: कोगुरयो
+    auto: true
   - translation_iso: jpn
     name: 高句麗語
   - translation_iso: kor

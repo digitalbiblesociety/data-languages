@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توللوا
     auto: true
+  - translation_iso: hin
+    name: तोलोवा
+    auto: true
   - translation_iso: jpn
     name: トロワ語
     auto: true

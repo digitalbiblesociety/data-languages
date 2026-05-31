@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لينكيل
     auto: true
+  - translation_iso: hin
+    name: लेनाकेल
+    auto: true
   - translation_iso: jpn
     name: レナケル語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة زيشانبا لالو
     auto: true
+  - translation_iso: hin
+    name: शीशानबा लालो
+    auto: true
   - translation_iso: jpn
     name: シーシャンバ・ラロ語
     auto: true

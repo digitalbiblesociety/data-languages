@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة هونغشويهي الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य होंगशुईहे ज़ुआंग
+    auto: true
   - translation_iso: jpn
     name: セントラル・ホンシュイ河・ズアン語
     auto: true

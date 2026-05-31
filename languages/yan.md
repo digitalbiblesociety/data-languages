@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مايانجنا
     auto: true
+  - translation_iso: hin
+    name: मायांगना
+    auto: true
   - translation_iso: jpn
     name: マヤングナ語
     auto: true

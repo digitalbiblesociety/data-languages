@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماخووا-ماريفوني
     auto: true
+  - translation_iso: hin
+    name: माखुवा-मारेवोने
+    auto: true
   - translation_iso: jpn
     name: マク​​ワ・マレボネ語
     auto: true

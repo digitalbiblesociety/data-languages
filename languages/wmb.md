@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وامبايا
     auto: true
+  - translation_iso: hin
+    name: वम्बाया
+    auto: true
   - translation_iso: jpn
     name: ワンバヤ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ يانغ
     auto: true
+  - translation_iso: hin
+    name: यांग ज़ुआंग
+    auto: true
   - translation_iso: jpn
     name: 徳靖チワン語
   - translation_iso: zho

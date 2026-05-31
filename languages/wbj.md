@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ألاجوا
     auto: true
+  - translation_iso: hin
+    name: अलाग्वा
+    auto: true
   - translation_iso: jpn
     name: アラグワ語
     auto: true

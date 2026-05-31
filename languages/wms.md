@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وامبون
     auto: true
+  - translation_iso: hin
+    name: वाम्बोन
+    auto: true
   - translation_iso: jpn
     name: ワンボン語
     auto: true

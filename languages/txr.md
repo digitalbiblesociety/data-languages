@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تارتيسي
     auto: true
+  - translation_iso: hin
+    name: टार्टेसियन
+    auto: true
   - translation_iso: jpn
     name: タルテッソス語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنغورك يالي
     auto: true
+  - translation_iso: hin
+    name: अंगुरुक याली
+    auto: true
   - translation_iso: jpn
     name: アングルク・ヤリ語
     auto: true

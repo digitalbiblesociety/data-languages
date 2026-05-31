@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: غورينغ
     auto: true
+  - translation_iso: hin
+    name: गोरेंग
+    auto: true
   - translation_iso: jpn
     name: ゴレン語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تانديا
     auto: true
+  - translation_iso: hin
+    name: तांदिया
+    auto: true
   - translation_iso: jpn
     name: タンディア語
     auto: true

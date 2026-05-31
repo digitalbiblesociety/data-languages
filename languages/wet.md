@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: پيراي
     auto: true
+  - translation_iso: hin
+    name: पेराई
+    auto: true
   - translation_iso: jpn
     name: ペライ語
     auto: true

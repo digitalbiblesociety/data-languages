@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كابيناوا
     auto: true
+  - translation_iso: hin
+    name: कापिनावा
+    auto: true
   - translation_iso: jpn
     name: カピナワ語
     auto: true

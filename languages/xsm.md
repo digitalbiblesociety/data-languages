@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاسيم
     auto: true
+  - translation_iso: hin
+    name: कासेम
+    auto: true
   - translation_iso: jpn
     name: カセム語
   - translation_iso: zho

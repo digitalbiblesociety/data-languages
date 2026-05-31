@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووكون
     auto: true
+  - translation_iso: hin
+    name: वोक्कोन
+    auto: true
   - translation_iso: jpn
     name: ウォッコン語
     auto: true

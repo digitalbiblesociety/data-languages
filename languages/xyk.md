@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: مايي-كولان
     auto: true
+  - translation_iso: hin
+    name: मायी-कुलान
+    auto: true
   - translation_iso: jpn
     name: マイイ・クラン語
     auto: true

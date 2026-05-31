@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زومايا
     auto: true
+  - translation_iso: hin
+    name: ज़ुमाया
+    auto: true
   - translation_iso: jpn
     name: ズマヤ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واتام
     auto: true
+  - translation_iso: hin
+    name: वातम
+    auto: true
   - translation_iso: jpn
     name: ワタム語
     auto: true

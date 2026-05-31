@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جينو كوروما
     auto: true
+  - translation_iso: hin
+    name: जेनु कुरुम्बा
+    auto: true
   - translation_iso: jpn
     name: ジェンヌ・クルンバ語
     auto: true

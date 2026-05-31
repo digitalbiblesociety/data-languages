@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مودوغا
     auto: true
+  - translation_iso: hin
+    name: मुदुगा
+    auto: true
   - translation_iso: jpn
     name: ムドゥガル語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة جيبو
     auto: true
+  - translation_iso: hin
+    name: गेपो
+    auto: true
   - translation_iso: jpn
     name: ゲポ語
     auto: true

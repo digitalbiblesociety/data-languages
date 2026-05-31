@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوويما
     auto: true
+  - translation_iso: hin
+    name: कुवेमा
+    auto: true
   - translation_iso: jpn
     name: クウェマ語
     auto: true

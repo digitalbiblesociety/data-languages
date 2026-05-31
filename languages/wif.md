@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويككييانغان
     auto: true
+  - translation_iso: hin
+    name: विक-केयांगन
+    auto: true
   - translation_iso: jpn
     name: ウィク・キヤンガン語
     auto: true

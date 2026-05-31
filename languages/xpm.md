@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بومبوكول
     auto: true
+  - translation_iso: hin
+    name: पुम्पोकोल
+    auto: true
   - translation_iso: jpn
     name: パンポコル語
   - translation_iso: zho

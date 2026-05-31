@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pecheneg_language"
 translations:
   - translation_iso: ara
     name: البجنقية
+  - translation_iso: hin
+    name: पेचनेग
+    auto: true
   - translation_iso: jpn
     name: ペチェネグ語
   - translation_iso: kor

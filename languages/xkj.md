@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاجالي
     auto: true
+  - translation_iso: hin
+    name: कजाली
+    auto: true
   - translation_iso: jpn
     name: カジャリ語
     auto: true

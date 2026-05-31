@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسيكو
     auto: true
+  - translation_iso: hin
+    name: त्सेकू
+    auto: true
   - translation_iso: jpn
     name: ツク語
     auto: true

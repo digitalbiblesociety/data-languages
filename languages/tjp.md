@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تجوباني
     auto: true
+  - translation_iso: hin
+    name: चुपानी
+    auto: true
   - translation_iso: jpn
     name: チュパニ語
     auto: true

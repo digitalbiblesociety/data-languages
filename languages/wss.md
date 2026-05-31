@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واسا
     auto: true
+  - translation_iso: hin
+    name: वासा
+    auto: true
   - translation_iso: jpn
     name: ワサ語
   - translation_iso: zho

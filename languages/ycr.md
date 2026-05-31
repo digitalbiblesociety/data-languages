@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: ييلان كريول
     auto: true
+  - translation_iso: hin
+    name: यिलान क्रियोल
+    auto: true
   - translation_iso: jpn
     name: 宜蘭クレオール
   - translation_iso: kor

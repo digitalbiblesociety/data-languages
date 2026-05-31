@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مانغاس
     auto: true
+  - translation_iso: hin
+    name: मांगस
+    auto: true
   - translation_iso: jpn
     name: マンガス語
     auto: true

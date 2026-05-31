@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونساوانج
     auto: true
+  - translation_iso: hin
+    name: तोनसावांग
+    auto: true
   - translation_iso: jpn
     name: トンサワン語
   - translation_iso: zho

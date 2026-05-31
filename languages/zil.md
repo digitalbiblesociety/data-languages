@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيالو
     auto: true
+  - translation_iso: hin
+    name: ज़ियालो
+    auto: true
   - translation_iso: jpn
     name: ジアロ語
     auto: true

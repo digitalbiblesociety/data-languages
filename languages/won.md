@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وونغو
     auto: true
+  - translation_iso: hin
+    name: वोंगो
+    auto: true
   - translation_iso: jpn
     name: ウォンゴ語
     auto: true

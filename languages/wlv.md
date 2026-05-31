@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويكه لهامتس فيجوز
     auto: true
+  - translation_iso: hin
+    name: विची लामतेस वेहोस
+    auto: true
   - translation_iso: jpn
     name: ウィチ・ハムテス・ベホス語
     auto: true

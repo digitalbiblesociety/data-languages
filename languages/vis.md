@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيشافان
     auto: true
+  - translation_iso: hin
+    name: विशावन
+    auto: true
   - translation_iso: jpn
     name: マランクディ語
     auto: true

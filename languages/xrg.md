@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: مينانج
     auto: true
+  - translation_iso: hin
+    name: मिनांग
+    auto: true
   - translation_iso: jpn
     name: ミナング語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونجونغ
     auto: true
+  - translation_iso: hin
+    name: तुंजुंग
+    auto: true
   - translation_iso: jpn
     name: トゥンジュン語
     auto: true

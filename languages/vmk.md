@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماخووا-شيريما
     auto: true
+  - translation_iso: hin
+    name: माखुवा-शिरिमा
+    auto: true
   - translation_iso: jpn
     name: マクワ・シリマ語
     auto: true

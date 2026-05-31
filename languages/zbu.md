@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة بو - باوتشي
     auto: true
+  - translation_iso: hin
+    name: बु (बाउची राज्य)
+    auto: true
   - translation_iso: jpn
     name: ブ語（バウチ州）
     auto: true

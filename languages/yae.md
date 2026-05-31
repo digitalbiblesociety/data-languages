@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بومي
     auto: true
+  - translation_iso: hin
+    name: पुमे
+    auto: true
   - translation_iso: jpn
     name: プメ語
     auto: true

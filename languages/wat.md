@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانينواا
     auto: true
+  - translation_iso: hin
+    name: कानिनुवा
+    auto: true
   - translation_iso: jpn
     name: カニヌワ語
     auto: true

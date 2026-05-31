@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: مايي-يابي
     auto: true
+  - translation_iso: hin
+    name: मायी-यापी
+    auto: true
   - translation_iso: jpn
     name: マイイ・ヤピ語
     auto: true

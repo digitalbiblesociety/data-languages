@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوريا
     auto: true
+  - translation_iso: hin
+    name: ओर्या
+    auto: true
   - translation_iso: jpn
     name: オリア語
     auto: true

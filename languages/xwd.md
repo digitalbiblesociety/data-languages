@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: وادي وادي
     auto: true
+  - translation_iso: hin
+    name: वाडी वाडी
+    auto: true
   - translation_iso: jpn
     name: ワディ・ワディ語
     auto: true

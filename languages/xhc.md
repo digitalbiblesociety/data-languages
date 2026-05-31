@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: هوننيك
     auto: true
+  - translation_iso: hin
+    name: हुणिक
+    auto: true
   - translation_iso: jpn
     name: フン語
   - translation_iso: kor

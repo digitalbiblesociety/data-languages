@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جوا
     auto: true
+  - translation_iso: hin
+    name: ज़ोआ
+    auto: true
   - translation_iso: jpn
     name: ゾア語
     auto: true

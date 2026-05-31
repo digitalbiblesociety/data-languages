@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وارنمان
     auto: true
+  - translation_iso: hin
+    name: वार्नमन
+    auto: true
   - translation_iso: jpn
     name: ワーンマン語
     auto: true

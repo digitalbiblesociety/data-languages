@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: منداالم كايان
     auto: true
+  - translation_iso: hin
+    name: मेंदलाम कायन
+    auto: true
   - translation_iso: jpn
     name: メンダラム・カヤン語
     auto: true

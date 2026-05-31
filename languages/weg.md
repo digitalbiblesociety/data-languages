@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ويرغايا
     auto: true
+  - translation_iso: hin
+    name: वर्गाया
+    auto: true
   - translation_iso: jpn
     name: ウェルガイア語
     auto: true

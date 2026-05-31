@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mainstream_Kenyah_language"
 translations:
   - translation_iso: ara
     name: لغة الكينياه السائدة
+  - translation_iso: hin
+    name: मुख्यधारा केन्या
+    auto: true
   - translation_iso: jpn
     name: メインストリーム・ケニャ語
     auto: true

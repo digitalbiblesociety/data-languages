@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يافيتيرو
     auto: true
+  - translation_iso: hin
+    name: यवितेरो
+    auto: true
   - translation_iso: jpn
     name: ヤビテーロ語
   - translation_iso: zho

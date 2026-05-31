@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابارو
     auto: true
+  - translation_iso: hin
+    name: ज़ापारो
+    auto: true
   - translation_iso: jpn
     name: サパロ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوميتابا
     auto: true
+  - translation_iso: hin
+    name: बोमिताबा
+    auto: true
   - translation_iso: jpn
     name: ボミタバ語
   - translation_iso: zho

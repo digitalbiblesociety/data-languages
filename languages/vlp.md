@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فالبي
     auto: true
+  - translation_iso: hin
+    name: वालपेई
+    auto: true
   - translation_iso: jpn
     name: ヴァルペイ語
     auto: true

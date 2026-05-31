@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: يامانا
     auto: true
+  - translation_iso: hin
+    name: यामाना
+    auto: true
   - translation_iso: jpn
     name: ヤーガン語
   - translation_iso: kor

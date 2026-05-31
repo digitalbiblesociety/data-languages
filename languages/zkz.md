@@ -10,6 +10,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khazar_language"
 translations:
   - translation_iso: ara
     name: لغة الخزر
+  - translation_iso: hin
+    name: ख़ज़र
+    auto: true
   - translation_iso: jpn
     name: ハザール語
   - translation_iso: kor

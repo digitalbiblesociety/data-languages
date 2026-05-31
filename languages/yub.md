@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوغامبال
     auto: true
+  - translation_iso: hin
+    name: युगाम्बल
+    auto: true
   - translation_iso: jpn
     name: ユガンバリック諸語
   - translation_iso: zho

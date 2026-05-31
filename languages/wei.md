@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيونوم
     auto: true
+  - translation_iso: hin
+    name: कियुनुम
+    auto: true
   - translation_iso: jpn
     name: キウヌム語
     auto: true

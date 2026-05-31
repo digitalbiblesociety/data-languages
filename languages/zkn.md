@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة كانان
     auto: true
+  - translation_iso: hin
+    name: कनान
+    auto: true
   - translation_iso: jpn
     name: カナン語
     auto: true

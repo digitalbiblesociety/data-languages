@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوريم
     auto: true
+  - translation_iso: hin
+    name: उरिम
+    auto: true
   - translation_iso: jpn
     name: カルプ語
     auto: true

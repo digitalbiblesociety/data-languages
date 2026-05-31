@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كولون
     auto: true
+  - translation_iso: hin
+    name: कुलोन
+    auto: true
   - translation_iso: jpn
     name: クーロン語
   - translation_iso: zho

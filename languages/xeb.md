@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Eblaite_language"
 translations:
   - translation_iso: ara
     name: الإبلاوية
+  - translation_iso: hin
+    name: एब्लाइट
+    auto: true
   - translation_iso: jpn
     name: エブラ語
   - translation_iso: kor

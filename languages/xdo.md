@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: كواندو
     auto: true
+  - translation_iso: hin
+    name: क्वांडू
+    auto: true
   - translation_iso: jpn
     name: クワンドゥ語
     auto: true

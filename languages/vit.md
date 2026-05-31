@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: فيتي
     auto: true
+  - translation_iso: hin
+    name: विति
+    auto: true
   - translation_iso: jpn
     name: ヴォットー語
     auto: true

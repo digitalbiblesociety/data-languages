@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كلاسسيكال تيبيتان
     auto: true
+  - translation_iso: hin
+    name: शास्त्रीय तिब्बती
+    auto: true
   - translation_iso: jpn
     name: 古典チベット語
   - translation_iso: kor

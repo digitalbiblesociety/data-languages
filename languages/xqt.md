@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Qatab%C4%81nian_language"
 translations:
   - translation_iso: ara
     name: قتبانية
+  - translation_iso: hin
+    name: कताबानियन
+    auto: true
   - translation_iso: jpn
     name: カタバン語
   - translation_iso: zho

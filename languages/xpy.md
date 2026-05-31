@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: بويو
     auto: true
+  - translation_iso: hin
+    name: पुयो
+    auto: true
   - translation_iso: jpn
     name: 夫余語
   - translation_iso: kor

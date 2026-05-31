@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التايوانية
     auto: true
+  - translation_iso: hin
+    name: ताइवान सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: 台湾手話
   - translation_iso: kor

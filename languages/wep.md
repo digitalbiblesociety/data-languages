@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويستپهاليين
     auto: true
+  - translation_iso: hin
+    name: वेस्टफेलियन
+    auto: true
   - translation_iso: jpn
     name: ヴェストファーレン語
   - translation_iso: zho

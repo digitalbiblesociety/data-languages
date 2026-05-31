@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فلامسي جيبارنتال
     auto: true
+  - translation_iso: hin
+    name: फ्लेमिश सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: フラマン手話
   - translation_iso: zho

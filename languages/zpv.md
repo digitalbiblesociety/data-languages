@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تشيتشيكابان
     auto: true
+  - translation_iso: hin
+    name: चिचिकापन सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: チチカパン・サポテク語
     auto: true

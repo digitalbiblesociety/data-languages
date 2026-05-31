@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة زوانغ غويبيان
     auto: true
+  - translation_iso: hin
+    name: गुइबियान ज़ुआंग
+    auto: true
   - translation_iso: jpn
     name: 桂辺チワン語
   - translation_iso: zho

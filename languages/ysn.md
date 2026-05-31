@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ساني
     auto: true
+  - translation_iso: hin
+    name: सानी
+    auto: true
   - translation_iso: jpn
     name: 撒尼語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورالي
     auto: true
+  - translation_iso: hin
+    name: उराली
+    auto: true
   - translation_iso: jpn
     name: オーラジ語
     auto: true

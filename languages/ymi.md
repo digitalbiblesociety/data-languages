@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة موجي
     auto: true
+  - translation_iso: hin
+    name: मोजी
+    auto: true
   - translation_iso: jpn
     name: モジ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شيريانا
     auto: true
+  - translation_iso: hin
+    name: शिरियाना
+    auto: true
   - translation_iso: jpn
     name: シリアナ語 (アラワク)
   - translation_iso: zho

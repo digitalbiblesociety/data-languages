@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كينغا
     auto: true
+  - translation_iso: hin
+    name: किंगा
+    auto: true
   - translation_iso: jpn
     name: キンガ語
     auto: true

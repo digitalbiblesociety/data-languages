@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماريدان
     auto: true
+  - translation_iso: hin
+    name: मारिदान
+    auto: true
   - translation_iso: jpn
     name: マリダン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيلا ماسبوار
     auto: true
+  - translation_iso: hin
+    name: तेला-मस्बुआर
+    auto: true
   - translation_iso: jpn
     name: テラ・マスブアル語
     auto: true

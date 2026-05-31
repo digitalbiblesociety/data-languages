@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zaghawa_language"
 translations:
   - translation_iso: ara
     name: الزغاوية
+  - translation_iso: hin
+    name: ज़घावा
+    auto: true
   - translation_iso: jpn
     name: ザガワ語
   - translation_iso: zho

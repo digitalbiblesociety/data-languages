@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيكبتلان توتوناك
     auto: true
+  - translation_iso: hin
+    name: तेक्पात्लान तोतोनाक
+    auto: true
   - translation_iso: jpn
     name: テクパトラン・トトナック語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكسي يي
     auto: true
+  - translation_iso: hin
+    name: अक्सी यी
+    auto: true
   - translation_iso: jpn
     name: アクシ・イー語
     auto: true

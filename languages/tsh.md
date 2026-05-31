@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوفان
     auto: true
+  - translation_iso: hin
+    name: त्सुवान
+    auto: true
   - translation_iso: jpn
     name: マツヴァン語
     auto: true

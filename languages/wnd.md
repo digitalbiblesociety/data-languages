@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واندارانغ
     auto: true
+  - translation_iso: hin
+    name: वंदारंग
+    auto: true
   - translation_iso: jpn
     name: ワンダラン語
     auto: true

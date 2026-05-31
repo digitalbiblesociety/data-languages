@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأوزبكية الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी उज़्बेक
+    auto: true
   - translation_iso: jpn
     name: 北ウズベク語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوجو-موميني
     auto: true
+  - translation_iso: hin
+    name: कुगु-मुमिन्ह
+    auto: true
   - translation_iso: jpn
     name: クグ・ムミンハ語
     auto: true

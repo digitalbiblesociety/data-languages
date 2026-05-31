@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كوانهوا
     auto: true
+  - translation_iso: hin
+    name: कुआनहुआ
+    auto: true
   - translation_iso: jpn
     name: クアンファ語
     auto: true

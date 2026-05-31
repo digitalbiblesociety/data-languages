@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانتوات
     auto: true
+  - translation_iso: hin
+    name: वंतोआत
+    auto: true
   - translation_iso: jpn
     name: ワントアト語
     auto: true

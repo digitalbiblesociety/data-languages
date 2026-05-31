@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: آوا
     auto: true
+  - translation_iso: hin
+    name: आवा (चीन)
+    auto: true
   - translation_iso: jpn
     name: アワ語
   - translation_iso: zho

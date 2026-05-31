@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كوتونامي
     auto: true
+  - translation_iso: hin
+    name: कोटोनामे
+    auto: true
   - translation_iso: jpn
     name: コトナメ語
     auto: true

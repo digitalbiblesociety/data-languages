@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايمب
     auto: true
+  - translation_iso: hin
+    name: काइम्बे
+    auto: true
   - translation_iso: jpn
     name: カインベ語
     auto: true

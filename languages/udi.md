@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أودي
     auto: true
+  - translation_iso: hin
+    name: उदी
+    auto: true
   - translation_iso: jpn
     name: ウディ語
   - translation_iso: kor

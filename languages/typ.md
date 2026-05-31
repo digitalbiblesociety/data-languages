@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تايبان
     auto: true
+  - translation_iso: hin
+    name: थायपन
+    auto: true
   - translation_iso: jpn
     name: アウ・アラヤ語
     auto: true

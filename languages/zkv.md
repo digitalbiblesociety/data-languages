@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة كريفنيان
     auto: true
+  - translation_iso: hin
+    name: क्रेविनियन
+    auto: true
   - translation_iso: jpn
     name: クレビニアン語
     auto: true

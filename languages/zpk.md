@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تلاكولوليتا
     auto: true
+  - translation_iso: hin
+    name: त्लाकोलूलिता सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: トラコルリタ・サポテク語
     auto: true

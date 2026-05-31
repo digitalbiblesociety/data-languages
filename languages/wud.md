@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وودو
     auto: true
+  - translation_iso: hin
+    name: वुडू
+    auto: true
   - translation_iso: jpn
     name: ウドゥ語
     auto: true

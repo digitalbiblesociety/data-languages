@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوغو واررا
     auto: true
+  - translation_iso: hin
+    name: गुगु वाररा
+    auto: true
   - translation_iso: jpn
     name: ググ・ワッラ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوسارفا
     auto: true
+  - translation_iso: hin
+    name: उसारुफा
+    auto: true
   - translation_iso: jpn
     name: ウサルファ語
   - translation_iso: zho

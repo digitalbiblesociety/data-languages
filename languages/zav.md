@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك ياتزاتشي
     auto: true
+  - translation_iso: hin
+    name: यात्साची सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: ヤツァチ・サポテク語
     auto: true

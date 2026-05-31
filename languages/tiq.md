@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تييفو
     auto: true
+  - translation_iso: hin
+    name: तिएफो
+    auto: true
   - translation_iso: jpn
     name: ティエフォ語
     auto: true

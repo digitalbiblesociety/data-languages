@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الجنوبية الشرقية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणपूर्वी तस्मानियाई
+    auto: true
   - translation_iso: jpn
     name: 南東タスマニア語
     auto: true

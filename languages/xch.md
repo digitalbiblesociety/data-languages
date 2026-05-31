@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كهيماكوم
     auto: true
+  - translation_iso: hin
+    name: चेमाकुम
+    auto: true
   - translation_iso: jpn
     name: チェマクム語
     auto: true

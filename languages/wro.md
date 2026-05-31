@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وورروررا
     auto: true
+  - translation_iso: hin
+    name: वोरोरा
+    auto: true
   - translation_iso: jpn
     name: ウォロッラ語
     auto: true

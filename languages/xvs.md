@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: فيستينية
     auto: true
+  - translation_iso: hin
+    name: वेस्टिनियन
+    auto: true
   - translation_iso: jpn
     name: ベスティーニ語
     auto: true

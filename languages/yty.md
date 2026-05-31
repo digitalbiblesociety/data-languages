@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياتاي
     auto: true
+  - translation_iso: hin
+    name: यातय
+    auto: true
   - translation_iso: jpn
     name: ヤタイ語
     auto: true

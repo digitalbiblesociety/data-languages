@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويرادجوري
     auto: true
+  - translation_iso: hin
+    name: विराजुरी
+    auto: true
   - translation_iso: jpn
     name: ウィラドゥリ語
   - translation_iso: zho

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: كورونيان
     auto: true
+  - translation_iso: hin
+    name: कुरोनियन
+    auto: true
   - translation_iso: jpn
     name: クロニア語
   - translation_iso: kor

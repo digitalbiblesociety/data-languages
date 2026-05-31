@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يرونج
     auto: true
+  - translation_iso: hin
+    name: येरोंग
+    auto: true
   - translation_iso: jpn
     name: イェロング語
     auto: true

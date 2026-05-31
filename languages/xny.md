@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييابارلي
     auto: true
+  - translation_iso: hin
+    name: न्यियापार्ली
+    auto: true
   - translation_iso: jpn
     name: ニイャパーリ語
     auto: true

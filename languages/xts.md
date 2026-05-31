@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيندهويي ميكستيك
     auto: true
+  - translation_iso: hin
+    name: सिंदिहुई मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: シンディフイ・ミステク語
     auto: true

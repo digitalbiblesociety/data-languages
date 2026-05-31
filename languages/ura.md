@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: أورارينا
     auto: true
+  - translation_iso: hin
+    name: उरारिना
+    auto: true
   - translation_iso: jpn
     name: ウラリナ語
   - translation_iso: zho

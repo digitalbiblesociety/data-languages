@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييديني
     auto: true
+  - translation_iso: hin
+    name: यिदिञ
+    auto: true
   - translation_iso: jpn
     name: イディニ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تجونغوندجي
     auto: true
+  - translation_iso: hin
+    name: चुंगुंडजी
+    auto: true
   - translation_iso: jpn
     name: チュングンジ語
     auto: true

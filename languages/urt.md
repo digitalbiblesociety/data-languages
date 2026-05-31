@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورات
     auto: true
+  - translation_iso: hin
+    name: उरात
+    auto: true
   - translation_iso: jpn
     name: ウラット語
     auto: true

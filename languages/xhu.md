@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hurrian_language"
 translations:
   - translation_iso: ara
     name: اللغة الحورية
+  - translation_iso: hin
+    name: हुर्रियन
+    auto: true
   - translation_iso: jpn
     name: フルリ語
   - translation_iso: kor

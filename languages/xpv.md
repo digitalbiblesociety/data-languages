@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी तस्मानियाई
+    auto: true
   - translation_iso: jpn
     name: 北タスマニア語
     auto: true

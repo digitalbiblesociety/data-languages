@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: مبالتجان
     auto: true
+  - translation_iso: hin
+    name: म्पालिटजान्ह
+    auto: true
   - translation_iso: jpn
     name: ムパリチャンハ語
     auto: true

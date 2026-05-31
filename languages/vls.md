@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/West_Flemish"
 translations:
   - translation_iso: ara
     name: الفلمنكية الغربية
+  - translation_iso: hin
+    name: पश्चिमी फ्लेमिश
+    auto: true
   - translation_iso: jpn
     name: 西フラマン語
   - translation_iso: kor

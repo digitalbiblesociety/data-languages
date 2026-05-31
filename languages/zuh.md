@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توكانو
     auto: true
+  - translation_iso: hin
+    name: टोकानो
+    auto: true
   - translation_iso: jpn
     name: トカノ語
     auto: true

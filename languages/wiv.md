@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيتو
     auto: true
+  - translation_iso: hin
+    name: वितु
+    auto: true
   - translation_iso: jpn
     name: ビトゥ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوامسي
     auto: true
+  - translation_iso: hin
+    name: कुआमासी
+    auto: true
   - translation_iso: jpn
     name: クアマシ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورورو-كاابور
     auto: true
+  - translation_iso: hin
+    name: उरुबू-काआपोर
+    auto: true
   - translation_iso: jpn
     name: ウルブ語
     auto: true

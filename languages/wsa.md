@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واريمبوري
     auto: true
+  - translation_iso: hin
+    name: वारेम्बोरी
+    auto: true
   - translation_iso: jpn
     name: ワレンボリ語
     auto: true

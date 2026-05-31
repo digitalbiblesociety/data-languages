@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يوجور الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी युगुर
+    auto: true
   - translation_iso: jpn
     name: 西ユグル語
   - translation_iso: kor

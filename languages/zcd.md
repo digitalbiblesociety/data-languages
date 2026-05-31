@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك لاس ديليشياس
     auto: true
+  - translation_iso: hin
+    name: लास डेलिसियास सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: ラス・デリシアス・サポテク語
     auto: true

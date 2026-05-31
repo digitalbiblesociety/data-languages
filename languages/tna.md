@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاكانا
     auto: true
+  - translation_iso: hin
+    name: ताकाना
+    auto: true
   - translation_iso: jpn
     name: タカナ語
   - translation_iso: zho

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوت وام
     auto: true
+  - translation_iso: hin
+    name: यौत वाम
+    auto: true
   - translation_iso: jpn
     name: ユウト・ワム語
     auto: true

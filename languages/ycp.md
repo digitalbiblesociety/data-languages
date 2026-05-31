@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تشيبيا
     auto: true
+  - translation_iso: hin
+    name: चेपिया
+    auto: true
   - translation_iso: jpn
     name: チェピア語
     auto: true

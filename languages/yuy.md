@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يوغور الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी युगुर
+    auto: true
   - translation_iso: jpn
     name: 東部ユグル語
   - translation_iso: kor

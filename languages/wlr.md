@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايلاپا
     auto: true
+  - translation_iso: hin
+    name: वैलापा
+    auto: true
   - translation_iso: jpn
     name: ワイラパ語
     auto: true

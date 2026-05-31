@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كامانغ
     auto: true
+  - translation_iso: hin
+    name: कामांग
+    auto: true
   - translation_iso: jpn
     name: カマン語
   - translation_iso: zho

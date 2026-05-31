@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يانسي
     auto: true
+  - translation_iso: hin
+    name: यांसी
+    auto: true
   - translation_iso: jpn
     name: ヤンシ語
     auto: true

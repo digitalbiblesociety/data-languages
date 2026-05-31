@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيليمية
     auto: true
+  - translation_iso: hin
+    name: एलिमियन
+    auto: true
   - translation_iso: jpn
     name: エリミアン語
     auto: true

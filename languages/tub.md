@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توباتولابال
     auto: true
+  - translation_iso: hin
+    name: तुबातुलाबल
+    auto: true
   - translation_iso: jpn
     name: トゥバトゥラバル語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياوالابيتي
     auto: true
+  - translation_iso: hin
+    name: यावलापिती
+    auto: true
   - translation_iso: jpn
     name: ヤワラピティ語
   - translation_iso: zho

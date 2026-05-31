@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وان
     auto: true
+  - translation_iso: hin
+    name: वान
+    auto: true
   - translation_iso: jpn
     name: ワン語
   - translation_iso: zho

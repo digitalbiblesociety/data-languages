@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: جايتماتانج
     auto: true
+  - translation_iso: hin
+    name: जैतमतांग
+    auto: true
   - translation_iso: jpn
     name: ジャイトマタン語
     auto: true

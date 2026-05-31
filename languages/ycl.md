@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوللوبو
     auto: true
+  - translation_iso: hin
+    name: लोलोपो
+    auto: true
   - translation_iso: jpn
     name: リポ語
   - translation_iso: zho

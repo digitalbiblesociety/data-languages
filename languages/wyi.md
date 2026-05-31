@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وويووررونغ
     auto: true
+  - translation_iso: hin
+    name: वोइवुरुंग
+    auto: true
   - translation_iso: jpn
     name: ウォイウルング語
     auto: true

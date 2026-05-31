@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زينزا
     auto: true
+  - translation_iso: hin
+    name: ज़िंज़ा
+    auto: true
   - translation_iso: jpn
     name: ジンザ語
   - translation_iso: zho

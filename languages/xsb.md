@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سامبال
     auto: true
+  - translation_iso: hin
+    name: संबल
+    auto: true
   - translation_iso: jpn
     name: サンバル語
     auto: true

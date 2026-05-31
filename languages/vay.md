@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايو
     auto: true
+  - translation_iso: hin
+    name: हायु
+    auto: true
   - translation_iso: jpn
     name: ハユ語
   - translation_iso: zho

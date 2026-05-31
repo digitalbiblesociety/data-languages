@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Urartian_language"
 translations:
   - translation_iso: ara
     name: اللغة الأورارتية
+  - translation_iso: hin
+    name: उरार्तियन
+    auto: true
   - translation_iso: jpn
     name: ウラルトゥ語
   - translation_iso: kor

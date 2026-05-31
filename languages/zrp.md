@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: زارفاتيك
     auto: true
+  - translation_iso: hin
+    name: ज़ारफ़ाटिक
+    auto: true
   - translation_iso: jpn
     name: ツァルファティート
   - translation_iso: zho

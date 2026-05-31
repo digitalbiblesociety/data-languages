@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوبير
     auto: true
+  - translation_iso: hin
+    name: उबीर
+    auto: true
   - translation_iso: jpn
     name: ウビル語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يابوندا
     auto: true
+  - translation_iso: hin
+    name: यापुंडा
+    auto: true
   - translation_iso: jpn
     name: ヤプンダ語
     auto: true

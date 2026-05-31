@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماسديت إتنيغ
     auto: true
+  - translation_iso: hin
+    name: मसादीत इत्नेग
+    auto: true
   - translation_iso: jpn
     name: マサディイト・イトネグ語
     auto: true

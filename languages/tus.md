@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tuscarora_language"
 translations:
   - translation_iso: ara
     name: توسكارورا
+  - translation_iso: hin
+    name: तुस्कारोरा
+    auto: true
   - translation_iso: jpn
     name: タスカロラ語
   - translation_iso: kor

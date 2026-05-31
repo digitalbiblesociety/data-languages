@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: بيببولمان
     auto: true
+  - translation_iso: hin
+    name: बिबुलमन
+    auto: true
   - translation_iso: jpn
     name: ビッブルマン語
     auto: true

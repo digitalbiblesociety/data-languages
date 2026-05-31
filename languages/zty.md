@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك ياتي
     auto: true
+  - translation_iso: hin
+    name: यातेय ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: ヤテ・サポテク語
     auto: true

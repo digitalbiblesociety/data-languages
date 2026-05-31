@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واديجو
     auto: true
+  - translation_iso: hin
+    name: वजिगु
+    auto: true
   - translation_iso: jpn
     name: ワジグ語
     auto: true

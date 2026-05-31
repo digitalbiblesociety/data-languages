@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اداي
     auto: true
+  - translation_iso: hin
+    name: अडाई
+    auto: true
   - translation_iso: jpn
     name: アダイ語
     auto: true

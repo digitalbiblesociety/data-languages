@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توجون
     auto: true
+  - translation_iso: hin
+    name: तुगुन
+    auto: true
   - translation_iso: jpn
     name: ウェタル語
     auto: true

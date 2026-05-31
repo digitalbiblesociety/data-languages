@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فينزا
     auto: true
+  - translation_iso: hin
+    name: विन्ज़ा
+    auto: true
   - translation_iso: jpn
     name: キヴィンザ語
     auto: true

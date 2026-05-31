@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توباتي
     auto: true
+  - translation_iso: hin
+    name: तोबाती
+    auto: true
   - translation_iso: jpn
     name: ヨータファ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونغو
     auto: true
+  - translation_iso: hin
+    name: बुंगू
+    auto: true
   - translation_iso: jpn
     name: ブング語
     auto: true

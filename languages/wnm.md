@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانغغامالا
     auto: true
+  - translation_iso: hin
+    name: वांग्गामाला
+    auto: true
   - translation_iso: jpn
     name: ワンガマラ語
     auto: true

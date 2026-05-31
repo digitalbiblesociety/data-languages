@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شمال تانا
     auto: true
+  - translation_iso: hin
+    name: उत्तरी तन्ना
+    auto: true
   - translation_iso: jpn
     name: 北タンナ語
     auto: true

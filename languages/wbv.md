@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واجاري
     auto: true
+  - translation_iso: hin
+    name: वजर्री
+    auto: true
   - translation_iso: jpn
     name: ワジャリ語
     auto: true

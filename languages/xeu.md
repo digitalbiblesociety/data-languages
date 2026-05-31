@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيورو-أهيا
     auto: true
+  - translation_iso: hin
+    name: केओरू-अहिया
+    auto: true
   - translation_iso: jpn
     name: ケオル・アヒア語
     auto: true

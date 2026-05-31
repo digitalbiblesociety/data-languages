@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيكتية
     auto: true
+  - translation_iso: hin
+    name: पिक्टिश
+    auto: true
   - translation_iso: jpn
     name: ピクト語
   - translation_iso: kor

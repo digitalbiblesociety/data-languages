@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ألانية
     auto: true
+  - translation_iso: hin
+    name: एलैनिक
+    auto: true
   - translation_iso: jpn
     name: アラン語
   - translation_iso: kor

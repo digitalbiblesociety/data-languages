@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فافسي
     auto: true
+  - translation_iso: hin
+    name: वाफ्सी
+    auto: true
   - translation_iso: jpn
     name: ヴァフスィ語
     auto: true

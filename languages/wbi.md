@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فواينجي
     auto: true
+  - translation_iso: hin
+    name: व्वान्जी
+    auto: true
   - translation_iso: jpn
     name: ヴワンジ語
     auto: true

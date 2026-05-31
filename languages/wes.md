@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بدجن كاميرون
     auto: true
+  - translation_iso: hin
+    name: कैमरून पिजिन
+    auto: true
   - translation_iso: jpn
     name: カメルーン・ピジン
   - translation_iso: zho

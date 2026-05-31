@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشيسو
     auto: true
+  - translation_iso: hin
+    name: चेसू
+    auto: true
   - translation_iso: jpn
     name: チェス語
     auto: true

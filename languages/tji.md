@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توجيا الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी तुजिया
+    auto: true
   - translation_iso: jpn
     name: プリ語
   - translation_iso: zho

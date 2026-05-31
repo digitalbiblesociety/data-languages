@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سيرينيك يوبيك
     auto: true
+  - translation_iso: hin
+    name: सिरेनिक युपिक
+    auto: true
   - translation_iso: jpn
     name: シレニック語
   - translation_iso: kor

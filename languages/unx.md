@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: موندا
     auto: true
+  - translation_iso: hin
+    name: मुंडा
+    auto: true
   - translation_iso: jpn
     name: ムンダ語
     auto: true

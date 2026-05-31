@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توخاري ألف
     auto: true
+  - translation_iso: hin
+    name: तुषारी ए
+    auto: true
   - translation_iso: jpn
     name: トカラ語A
   - translation_iso: zho

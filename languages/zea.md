@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zeelandic"
 translations:
   - translation_iso: ara
     name: الزيلندية
+  - translation_iso: hin
+    name: ज़ीलैंडिक
+    auto: true
   - translation_iso: jpn
     name: ゼーランド語
   - translation_iso: kor

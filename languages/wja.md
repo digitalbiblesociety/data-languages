@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واجا
     auto: true
+  - translation_iso: hin
+    name: वाजा
+    auto: true
   - translation_iso: jpn
     name: ワジャ語
     auto: true

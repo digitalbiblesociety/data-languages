@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك أيوكويسكو
     auto: true
+  - translation_iso: hin
+    name: अयोकेस्को ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: アヨケスコ・サポテク語
     auto: true

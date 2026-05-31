@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تاسماني أويستر باي
     auto: true
+  - translation_iso: hin
+    name: ऑयस्टर बे तस्मानियाई
+    auto: true
   - translation_iso: jpn
     name: オイスターベイ・タスマニア語
     auto: true

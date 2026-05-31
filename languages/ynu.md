@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياهونا
     auto: true
+  - translation_iso: hin
+    name: याहूना
+    auto: true
   - translation_iso: jpn
     name: ヤフナ語
     auto: true

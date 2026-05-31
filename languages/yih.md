@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الاش الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी यिडिश
+    auto: true
   - translation_iso: jpn
     name: 西イディッシュ語
   - translation_iso: zho

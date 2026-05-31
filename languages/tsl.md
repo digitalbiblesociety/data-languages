@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاو تسون
     auto: true
+  - translation_iso: hin
+    name: त्सुन-लाओ
+    auto: true
   - translation_iso: jpn
     name: ツン・ラオ語
   - translation_iso: zho

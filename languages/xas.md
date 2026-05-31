@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاماس
     auto: true
+  - translation_iso: hin
+    name: कामास
+    auto: true
   - translation_iso: jpn
     name: カマス語
   - translation_iso: kor

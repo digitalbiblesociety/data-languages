@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hadramautic_language"
 translations:
   - translation_iso: ara
     name: اللغة الحضرمية
+  - translation_iso: hin
+    name: हद्रामी
+    auto: true
   - translation_iso: jpn
     name: ハドラマウト語
   - translation_iso: zho

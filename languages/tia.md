@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tidikelt_language"
 translations:
   - translation_iso: ara
     name: أمازيغية تيديكلت
+  - translation_iso: hin
+    name: तिदिकेल्त तामाज़ीगत
+    auto: true
   - translation_iso: jpn
     name: ティディケルト語
   - translation_iso: zho

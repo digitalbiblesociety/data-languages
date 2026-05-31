@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tsakonian_Greek"
 translations:
   - translation_iso: ara
     name: اللغة التاسكونية
+  - translation_iso: hin
+    name: त्साकोनियन
+    auto: true
   - translation_iso: jpn
     name: ツァコン語
   - translation_iso: kor

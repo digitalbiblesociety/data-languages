@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشينجوني
     auto: true
+  - translation_iso: hin
+    name: चिंगोनी
+    auto: true
   - translation_iso: jpn
     name: チンゴニ語
     auto: true

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: ميددلي ويلسه
     auto: true
+  - translation_iso: hin
+    name: मध्य वेल्श
+    auto: true
   - translation_iso: jpn
     name: 中期ウェールズ語
   - translation_iso: zho

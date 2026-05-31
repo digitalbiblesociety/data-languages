@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينهاوانغكا
     auto: true
+  - translation_iso: hin
+    name: यिन्हावांगका
+    auto: true
   - translation_iso: jpn
     name: イインハワンカ語
     auto: true

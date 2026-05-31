@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نوكونول
     auto: true
+  - translation_iso: hin
+    name: नुकुनुल
+    auto: true
   - translation_iso: jpn
     name: ヌクヌル語
     auto: true

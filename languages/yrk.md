@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nenets_languages"
 translations:
   - translation_iso: ara
     name: لغات النينيتس
+  - translation_iso: hin
+    name: नेनेट्स
+    auto: true
   - translation_iso: jpn
     name: ネネツ語
   - translation_iso: kor

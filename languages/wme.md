@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وامبولي
     auto: true
+  - translation_iso: hin
+    name: वम्बुले
+    auto: true
   - translation_iso: jpn
     name: ワンブレ語
     auto: true

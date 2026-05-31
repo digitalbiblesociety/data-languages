@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشين زيفي
     auto: true
+  - translation_iso: hin
+    name: ज़ाइफे चिन
+    auto: true
   - translation_iso: jpn
     name: ズィフェ・チン語
     auto: true

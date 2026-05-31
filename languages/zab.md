@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك تلاكولولا الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी त्लाकोलूला घाटी ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: ウェスタン・トラコルラ・バレー・サポテク語
     auto: true

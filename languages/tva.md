@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فاجوا
     auto: true
+  - translation_iso: hin
+    name: वाघुआ
+    auto: true
   - translation_iso: jpn
     name: タヴラ語
     auto: true

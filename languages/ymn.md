@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامنا
     auto: true
+  - translation_iso: hin
+    name: यामना
+    auto: true
   - translation_iso: jpn
     name: ヤムナ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديوكسي-تيلانتونجو ميكستيك
     auto: true
+  - translation_iso: hin
+    name: डिउक्सी-तिलांतोंगो मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: ディウシ・ティランベンゴ・ミステク語
     auto: true

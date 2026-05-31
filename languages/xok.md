@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شوكلينج
     auto: true
+  - translation_iso: hin
+    name: शोक्लेंग
+    auto: true
   - translation_iso: jpn
     name: ショクレング語
     auto: true

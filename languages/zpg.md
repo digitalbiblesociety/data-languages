@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك غويفيا ده هومبولدت
     auto: true
+  - translation_iso: hin
+    name: ग्वेवा डे हम्बोल्ट सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: グエベア・デ・フンボルト・サポテク語
     auto: true

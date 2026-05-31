@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توجيا الجنوبية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणी तुजिया
+    auto: true
   - translation_iso: jpn
     name: 南部トゥジア語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميتشي
     auto: true
+  - translation_iso: hin
+    name: मिचिए
+    auto: true
   - translation_iso: jpn
     name: ミチエ語
     auto: true

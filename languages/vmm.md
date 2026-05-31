@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميتلاتونجو ميكستيك
     auto: true
+  - translation_iso: hin
+    name: मित्लातोंगो मिश्तेक
+    auto: true
   - translation_iso: jpn
     name: ミトラトンゴ・ミシテク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانغكانغوررو
     auto: true
+  - translation_iso: hin
+    name: वंगकंगुर्रू
+    auto: true
   - translation_iso: jpn
     name: ワンガンガル語
     auto: true

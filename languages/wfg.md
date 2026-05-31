@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يافي
     auto: true
+  - translation_iso: hin
+    name: याफी
+    auto: true
   - translation_iso: jpn
     name: ヤフィ語
     auto: true

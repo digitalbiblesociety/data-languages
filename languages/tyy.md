@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوانكا
     auto: true
+  - translation_iso: hin
+    name: क्वांका
+    auto: true
   - translation_iso: jpn
     name: カドゥン語
     auto: true

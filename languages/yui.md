@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوروتي
     auto: true
+  - translation_iso: hin
+    name: युरुती
+    auto: true
   - translation_iso: jpn
     name: ユルティ語
     auto: true

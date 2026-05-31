@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شامانج
     auto: true
+  - translation_iso: hin
+    name: शामांग
+    auto: true
   - translation_iso: jpn
     name: シャマング語
     auto: true

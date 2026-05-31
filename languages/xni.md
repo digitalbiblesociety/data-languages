@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نجاريجو
     auto: true
+  - translation_iso: hin
+    name: न्गारिगु
+    auto: true
   - translation_iso: jpn
     name: ンガリグ語
     auto: true

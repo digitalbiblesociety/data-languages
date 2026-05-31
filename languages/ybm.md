@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: يابين
     auto: true
+  - translation_iso: hin
+    name: याबेन
+    auto: true
   - translation_iso: jpn
     name: ヤベン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زان غولا
     auto: true
+  - translation_iso: hin
+    name: ज़ान गुला
+    auto: true
   - translation_iso: jpn
     name: ザン・グラ語
     auto: true

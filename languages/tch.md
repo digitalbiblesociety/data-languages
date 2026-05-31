@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإنجليزية الكريولية بتوركس وكايكوس
     auto: true
+  - translation_iso: hin
+    name: तुर्क्स और कैकोस क्रियोल अंग्रेज़ी
+    auto: true
   - translation_iso: jpn
     name: タークス・カイコス・クレオール英語
     auto: true

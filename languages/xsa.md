@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sabaic"
 translations:
   - translation_iso: ara
     name: اللغة السبئية
+  - translation_iso: hin
+    name: सबाई
+    auto: true
   - translation_iso: jpn
     name: サバ語
   - translation_iso: kor

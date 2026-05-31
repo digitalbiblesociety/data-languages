@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ليوجيانغ زوانغ
     auto: true
+  - translation_iso: hin
+    name: लिउजियांग ज़ुआंग
+    auto: true
   - translation_iso: jpn
     name: 柳江チワン語
   - translation_iso: zho

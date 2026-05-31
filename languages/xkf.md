@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خينجخا
     auto: true
+  - translation_iso: hin
+    name: ख़ेंगखा
+    auto: true
   - translation_iso: jpn
     name: ケン語
   - translation_iso: zho

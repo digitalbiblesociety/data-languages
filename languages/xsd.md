@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيديتية
     auto: true
+  - translation_iso: hin
+    name: सिडेटिक
+    auto: true
   - translation_iso: jpn
     name: シデ語
   - translation_iso: kor

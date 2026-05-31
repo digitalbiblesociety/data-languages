@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يakan
     auto: true
+  - translation_iso: hin
+    name: याकान
+    auto: true
   - translation_iso: jpn
     name: ヤカン語
   - translation_iso: kor

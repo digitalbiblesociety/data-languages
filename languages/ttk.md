@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتورو
     auto: true
+  - translation_iso: hin
+    name: तोतोरो
+    auto: true
   - translation_iso: jpn
     name: ナムリック語
     auto: true

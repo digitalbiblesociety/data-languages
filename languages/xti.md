@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سينيكاهوا ميكستيك
     auto: true
+  - translation_iso: hin
+    name: सिनिकाहुआ मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: シニカフア・ミステク語
     auto: true

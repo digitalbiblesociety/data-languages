@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياكي
     auto: true
+  - translation_iso: hin
+    name: याकी
+    auto: true
   - translation_iso: jpn
     name: ヤキ語
   - translation_iso: zho

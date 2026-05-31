@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيلاموفيان
     auto: true
+  - translation_iso: hin
+    name: विमिसोरिस
+    auto: true
   - translation_iso: jpn
     name: ヴィラモヴィアン語
   - translation_iso: kor

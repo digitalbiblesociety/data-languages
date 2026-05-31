@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تينيي
     auto: true
+  - translation_iso: hin
+    name: तियेने
+    auto: true
   - translation_iso: jpn
     name: Tiene語
   - translation_iso: zho

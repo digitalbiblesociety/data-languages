@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامب
     auto: true
+  - translation_iso: hin
+    name: यामाप
+    auto: true
   - translation_iso: jpn
     name: ヤマップ語
     auto: true

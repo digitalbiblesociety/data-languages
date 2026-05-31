@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوجو
     auto: true
+  - translation_iso: hin
+    name: त्सोगो
+    auto: true
   - translation_iso: jpn
     name: ツォゴ語
   - translation_iso: zho

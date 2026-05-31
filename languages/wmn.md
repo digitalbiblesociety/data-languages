@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وااموانغ
     auto: true
+  - translation_iso: hin
+    name: वामवांग
+    auto: true
   - translation_iso: jpn
     name: ワムワン語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويكالكان
     auto: true
+  - translation_iso: hin
+    name: विकलकन
+    auto: true
   - translation_iso: jpn
     name: ウィカルカン語
     auto: true

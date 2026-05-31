@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبوسا
     auto: true
+  - translation_iso: hin
+    name: तोपोसा
+    auto: true
   - translation_iso: jpn
     name: トポサ語
   - translation_iso: zho

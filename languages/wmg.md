@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويستيرن مينياغ
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी मिन्याग
+    auto: true
   - translation_iso: jpn
     name: 西ミニャク語
     auto: true

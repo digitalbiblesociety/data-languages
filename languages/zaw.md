@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك ميتلا
     auto: true
+  - translation_iso: hin
+    name: मित्ला सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: ミトラ・サポテク語
     auto: true

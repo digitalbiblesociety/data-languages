@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توندي
     auto: true
+  - translation_iso: hin
+    name: ट्वेंडी
+    auto: true
   - translation_iso: jpn
     name: カンバプ語
     auto: true

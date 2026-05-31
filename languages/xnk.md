@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نجانكاكاتي
     auto: true
+  - translation_iso: hin
+    name: न्गनकर्ती
+    auto: true
   - translation_iso: jpn
     name: ンガナカルティ語
     auto: true

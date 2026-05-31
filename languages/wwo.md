@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويتاموت
     auto: true
+  - translation_iso: hin
+    name: वेतामुट
+    auto: true
   - translation_iso: jpn
     name: ウェタムト語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واتهاووررونغ
     auto: true
+  - translation_iso: hin
+    name: वाथावुरुंग
+    auto: true
   - translation_iso: jpn
     name: ワタウルング語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اليوغوسلافية
     auto: true
+  - translation_iso: hin
+    name: यूगोस्लावियाई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ユーゴスラビア手話
   - translation_iso: zho

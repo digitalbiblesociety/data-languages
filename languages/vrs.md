@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: فاريسي
     auto: true
+  - translation_iso: hin
+    name: वारिसी
+    auto: true
   - translation_iso: jpn
     name: バリシ語
     auto: true

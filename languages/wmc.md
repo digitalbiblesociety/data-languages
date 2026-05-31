@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واماس
     auto: true
+  - translation_iso: hin
+    name: वामस
+    auto: true
   - translation_iso: jpn
     name: ワマス語
     auto: true

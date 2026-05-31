@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانتوسي
     auto: true
+  - translation_iso: hin
+    name: कांतोसी
+    auto: true
   - translation_iso: jpn
     name: カントシ語
     auto: true

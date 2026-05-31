@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بنغال الغربية
     auto: true
+  - translation_iso: hin
+    name: पश्चिम बंगाल सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: 西ベンガル手話
     auto: true

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: أونجارانجو
     auto: true
+  - translation_iso: hin
+    name: उंगारंगु
+    auto: true
   - translation_iso: jpn
     name: ウンガランググ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووتونغ
     auto: true
+  - translation_iso: hin
+    name: वुटुंग
+    auto: true
   - translation_iso: jpn
     name: ウトゥン語
     auto: true

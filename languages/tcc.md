@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داتوغا
     auto: true
+  - translation_iso: hin
+    name: दातूगा
+    auto: true
   - translation_iso: jpn
     name: ダトガ語
   - translation_iso: zho

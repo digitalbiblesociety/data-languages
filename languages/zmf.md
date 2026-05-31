@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مفينو
     auto: true
+  - translation_iso: hin
+    name: मफिनू
+    auto: true
   - translation_iso: jpn
     name: ムフィヌ語
     auto: true

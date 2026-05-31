@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واسكيا
     auto: true
+  - translation_iso: hin
+    name: वास्किया
+    auto: true
   - translation_iso: jpn
     name: ワスキア語
     auto: true

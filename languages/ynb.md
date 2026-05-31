@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامبن
     auto: true
+  - translation_iso: hin
+    name: यांबेन
+    auto: true
   - translation_iso: jpn
     name: ヤンベン語
     auto: true

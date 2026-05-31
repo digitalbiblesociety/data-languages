@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: لغة ييرك-مل
     auto: true
+  - translation_iso: hin
+    name: यिर्क-मेल
+    auto: true
   - translation_iso: jpn
     name: イリク-メル語
     auto: true

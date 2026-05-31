@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسترن لالو
     auto: true
+  - translation_iso: hin
+    name: पूर्वी लालू
+    auto: true
   - translation_iso: jpn
     name: 東ラル語
     auto: true

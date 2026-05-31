@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة خامنيجان مونغول
     auto: true
+  - translation_iso: hin
+    name: खामनिगन मंगोल
+    auto: true
   - translation_iso: jpn
     name: ハムニガン族
   - translation_iso: kor

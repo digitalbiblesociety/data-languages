@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: كييررايووورروونغ
     auto: true
+  - translation_iso: hin
+    name: कीरे-वूरोंग
+    auto: true
   - translation_iso: jpn
     name: キーレイ・ウーロング語
     auto: true

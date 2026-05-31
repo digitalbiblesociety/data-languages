@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيم
     auto: true
+  - translation_iso: hin
+    name: ज़ीम
+    auto: true
   - translation_iso: jpn
     name: ジーム語
     auto: true

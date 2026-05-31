@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك كوتلان
     auto: true
+  - translation_iso: hin
+    name: कोआतलान सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: コアトラン・サポテク語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك يوتيبيك
     auto: true
+  - translation_iso: hin
+    name: यौतेपेक सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: ヤウテペック・サポテク語
     auto: true

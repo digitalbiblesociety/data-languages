@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مينيديين
     auto: true
+  - translation_iso: hin
+    name: मिनिडियन
+    auto: true
   - translation_iso: jpn
     name: ミニディエン語
     auto: true

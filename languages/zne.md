@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زاندي
     auto: true
+  - translation_iso: hin
+    name: ज़ांडे
+    auto: true
   - translation_iso: jpn
     name: ザンデ語
   - translation_iso: kor

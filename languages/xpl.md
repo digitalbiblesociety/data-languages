@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني بورت سوريل
     auto: true
+  - translation_iso: hin
+    name: पोर्ट सोरेल तस्मानियाई
+    auto: true
   - translation_iso: jpn
     name: ポートソレル・タスマニア語
     auto: true

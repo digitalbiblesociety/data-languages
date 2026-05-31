@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وارونغو
     auto: true
+  - translation_iso: hin
+    name: वारुंगू
+    auto: true
   - translation_iso: jpn
     name: ワルング語
   - translation_iso: zho

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: ويرو
     auto: true
+  - translation_iso: hin
+    name: विरू
+    auto: true
   - translation_iso: jpn
     name: ウィル語
     auto: true

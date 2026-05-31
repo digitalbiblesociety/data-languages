@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوراب مين
     auto: true
+  - translation_iso: hin
+    name: उरापमिन
+    auto: true
   - translation_iso: jpn
     name: ティファルミン語
     auto: true

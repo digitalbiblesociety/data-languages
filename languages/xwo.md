@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: كتابية أويرات
     auto: true
+  - translation_iso: hin
+    name: लिखित ओइरात
+    auto: true
   - translation_iso: jpn
     name: 書き言葉オイラート語
     auto: true

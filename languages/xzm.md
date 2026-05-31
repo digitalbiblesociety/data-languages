@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: زيمجاليان
     auto: true
+  - translation_iso: hin
+    name: ज़ेमगालियन
+    auto: true
   - translation_iso: jpn
     name: セミガリア語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فاجلا
     auto: true
+  - translation_iso: hin
+    name: वगला
+    auto: true
   - translation_iso: jpn
     name: コノサロラ語
     auto: true

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: هارامي
     auto: true
+  - translation_iso: hin
+    name: हरामी
+    auto: true
   - translation_iso: jpn
     name: ハラミ語
     auto: true

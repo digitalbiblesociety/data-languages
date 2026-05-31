@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داركينيونغ
     auto: true
+  - translation_iso: hin
+    name: डार्किनयुंग
+    auto: true
   - translation_iso: jpn
     name: ダルキニユング語
     auto: true

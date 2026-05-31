@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كايوسي
     auto: true
+  - translation_iso: hin
+    name: कैयुसे
+    auto: true
   - translation_iso: jpn
     name: カユース語
     auto: true

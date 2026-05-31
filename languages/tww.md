@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توواري
     auto: true
+  - translation_iso: hin
+    name: तुवारी
+    auto: true
   - translation_iso: jpn
     name: トゥワリ語
     auto: true

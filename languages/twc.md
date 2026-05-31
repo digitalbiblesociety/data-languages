@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيشيناوا
     auto: true
+  - translation_iso: hin
+    name: तेशेनावा
+    auto: true
   - translation_iso: jpn
     name: テシェナワ語
   - translation_iso: zho

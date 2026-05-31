@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي تاك
     auto: true
+  - translation_iso: hin
+    name: ताय तक
+    auto: true
   - translation_iso: jpn
     name: タイー・タック語
   - translation_iso: zho

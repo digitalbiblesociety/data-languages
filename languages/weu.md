@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: راونغتو كهين
     auto: true
+  - translation_iso: hin
+    name: रौंगतू चिन
+    auto: true
   - translation_iso: jpn
     name: ラウング・チン語
     auto: true

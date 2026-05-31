@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناجو الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी नागो
+    auto: true
   - translation_iso: jpn
     name: 北ナゴ語
     auto: true

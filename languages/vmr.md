@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مارنجي
     auto: true
+  - translation_iso: hin
+    name: मारेन्जे
+    auto: true
   - translation_iso: jpn
     name: マレンジェ語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ارارانديورا
     auto: true
+  - translation_iso: hin
+    name: अरारंदेवारा
+    auto: true
   - translation_iso: jpn
     name: アラランデワラ語
     auto: true

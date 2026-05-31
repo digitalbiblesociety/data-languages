@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بيراوان الوسطى
     auto: true
+  - translation_iso: hin
+    name: मध्य बेरावन
+    auto: true
   - translation_iso: jpn
     name: セントラル・ベラワン語
     auto: true

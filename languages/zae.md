@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك يارني
     auto: true
+  - translation_iso: hin
+    name: यारेनी ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: ヤレニ・サポテク語
     auto: true

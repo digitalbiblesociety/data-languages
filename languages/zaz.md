@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زاري
     auto: true
+  - translation_iso: hin
+    name: ज़ारी
+    auto: true
   - translation_iso: jpn
     name: ザリ語
     auto: true

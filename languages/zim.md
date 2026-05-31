@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميسمي
     auto: true
+  - translation_iso: hin
+    name: मेस्मे
+    auto: true
   - translation_iso: jpn
     name: メスメ語
     auto: true

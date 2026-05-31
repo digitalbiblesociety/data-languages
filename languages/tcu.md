@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاراهومارا الجنوبية الشرقية
     auto: true
+  - translation_iso: hin
+    name: दक्षिणपूर्वी तारहुमारा
+    auto: true
   - translation_iso: jpn
     name: 東南タラウマラ語
     auto: true

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينينجايي
     auto: true
+  - translation_iso: hin
+    name: यिनिंगायी
+    auto: true
   - translation_iso: jpn
     name: イニンガイ語
     auto: true

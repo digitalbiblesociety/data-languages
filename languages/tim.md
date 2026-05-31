@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيمبي
     auto: true
+  - translation_iso: hin
+    name: टिम्बे
+    auto: true
   - translation_iso: jpn
     name: ティンベ語
     auto: true

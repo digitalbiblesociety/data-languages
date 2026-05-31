@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانيموكا ريتواريا
     auto: true
+  - translation_iso: hin
+    name: तानिमुका-रेतुआरा
+    auto: true
   - translation_iso: jpn
     name: タニムカ・レトゥアラ語
     auto: true

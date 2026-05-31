@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورواننجيرين
     auto: true
+  - translation_iso: hin
+    name: उरुआंगनिरिन
+    auto: true
   - translation_iso: jpn
     name: ファウル語
     auto: true

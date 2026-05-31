@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توكانو
     auto: true
+  - translation_iso: hin
+    name: तुकानो
+    auto: true
   - translation_iso: jpn
     name: トゥカノ語
   - translation_iso: zho

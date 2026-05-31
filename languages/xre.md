@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كرييي
     auto: true
+  - translation_iso: hin
+    name: क्रेये
+    auto: true
   - translation_iso: jpn
     name: クレイエ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ساو باولو كاينغانج
     auto: true
+  - translation_iso: hin
+    name: साओ पाउलो काइंगांग
+    auto: true
   - translation_iso: jpn
     name: サウ・パウロ・カイングアング語
     auto: true

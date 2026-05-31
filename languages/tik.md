@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيكار
     auto: true
+  - translation_iso: hin
+    name: तिकार
+    auto: true
   - translation_iso: jpn
     name: ティカル語
     auto: true

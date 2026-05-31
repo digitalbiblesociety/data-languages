@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك مازالتيبيك
     auto: true
+  - translation_iso: hin
+    name: माज़ाल्तेपेक सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: マザルテペック・サポテク語
     auto: true

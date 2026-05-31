@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميكستيك تلاكسياكو الشمالية
     auto: true
+  - translation_iso: hin
+    name: उत्तरी त्लाक्सियाको मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: 北部トラシアコ・ミステク語
     auto: true

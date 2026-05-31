@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غالاتيان
     auto: true
+  - translation_iso: hin
+    name: गलातियाई
+    auto: true
   - translation_iso: jpn
     name: ガラティア語
   - translation_iso: kor

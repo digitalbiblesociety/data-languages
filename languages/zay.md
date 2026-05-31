@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زايسي-زيرغولا
     auto: true
+  - translation_iso: hin
+    name: ज़ायसे-ज़ेरगुल्ला
+    auto: true
   - translation_iso: jpn
     name: ザイセ-ゼルグッラ語
     auto: true

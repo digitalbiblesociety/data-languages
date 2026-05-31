@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك القديمة
     auto: true
+  - translation_iso: hin
+    name: प्राचीन ज़ापोटेक
+    auto: true
   - translation_iso: jpn
     name: 古代サポテク語
   - translation_iso: zho

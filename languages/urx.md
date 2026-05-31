@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوريمو
     auto: true
+  - translation_iso: hin
+    name: उरिमो
+    auto: true
   - translation_iso: jpn
     name: ヤウギバ語
     auto: true

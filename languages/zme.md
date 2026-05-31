@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مانغير
     auto: true
+  - translation_iso: hin
+    name: मांगेर
+    auto: true
   - translation_iso: jpn
     name: マンゲル語
     auto: true

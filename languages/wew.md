@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويجيوا
     auto: true
+  - translation_iso: hin
+    name: वेजेवा
+    auto: true
   - translation_iso: jpn
     name: ウェジェワ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوم
     auto: true
+  - translation_iso: hin
+    name: त्सुम
+    auto: true
   - translation_iso: jpn
     name: ツムケ語
     auto: true

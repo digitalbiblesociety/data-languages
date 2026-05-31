@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: لغة يابولا يابولا
     auto: true
+  - translation_iso: hin
+    name: यबुला यबुला
+    auto: true
   - translation_iso: jpn
     name: ヤブラ・ヤブラ語
     auto: true

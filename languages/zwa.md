@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زاي
     auto: true
+  - translation_iso: hin
+    name: ज़ाय
+    auto: true
   - translation_iso: jpn
     name: ザイ語
     auto: true

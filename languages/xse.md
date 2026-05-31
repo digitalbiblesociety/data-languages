@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيمبان
     auto: true
+  - translation_iso: hin
+    name: सेम्पन
+    auto: true
   - translation_iso: jpn
     name: セムパン語
     auto: true

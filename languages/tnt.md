@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونتيمبوان
     auto: true
+  - translation_iso: hin
+    name: तोंतेम्बोआन
+    auto: true
   - translation_iso: jpn
     name: トンテンボアン語
   - translation_iso: zho

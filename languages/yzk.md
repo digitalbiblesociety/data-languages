@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة زوخوو
     auto: true
+  - translation_iso: hin
+    name: ज़ोखुओ
+    auto: true
   - translation_iso: jpn
     name: ゾクフォ語
     auto: true

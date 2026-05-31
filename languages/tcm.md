@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تاناميراه
     auto: true
+  - translation_iso: hin
+    name: तानामेराह
+    auto: true
   - translation_iso: jpn
     name: タナメラ語
     auto: true

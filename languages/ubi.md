@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوبي
     auto: true
+  - translation_iso: hin
+    name: उबी
+    auto: true
   - translation_iso: jpn
     name: ウビ語
     auto: true

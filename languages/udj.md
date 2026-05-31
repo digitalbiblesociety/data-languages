@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوجير
     auto: true
+  - translation_iso: hin
+    name: उजीर
+    auto: true
   - translation_iso: jpn
     name: ウジル語
     auto: true

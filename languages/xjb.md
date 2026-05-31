@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مينجونجبال
     auto: true
+  - translation_iso: hin
+    name: मिन्जुंगबल
+    auto: true
   - translation_iso: jpn
     name: ミンジングバル語
     auto: true

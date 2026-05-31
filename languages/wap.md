@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وابيشانا
     auto: true
+  - translation_iso: hin
+    name: वापिशाना
+    auto: true
   - translation_iso: jpn
     name: ワピシャナ語
   - translation_iso: zho

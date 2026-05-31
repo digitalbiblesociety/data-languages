@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاور تشين
     auto: true
+  - translation_iso: hin
+    name: तावर चिन
+    auto: true
   - translation_iso: jpn
     name: タウル・チン語
     auto: true

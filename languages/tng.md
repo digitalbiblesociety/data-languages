@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبانجا
     auto: true
+  - translation_iso: hin
+    name: तोबांगा
+    auto: true
   - translation_iso: jpn
     name: トバンガ語
     auto: true

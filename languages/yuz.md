@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوراكاري
     auto: true
+  - translation_iso: hin
+    name: युराकारे
+    auto: true
   - translation_iso: jpn
     name: ユラカレ語
     auto: true

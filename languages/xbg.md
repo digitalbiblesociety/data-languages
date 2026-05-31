@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونغانديتج
     auto: true
+  - translation_iso: hin
+    name: बुंगांडित्ज
+    auto: true
   - translation_iso: jpn
     name: ブンガンディッジ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسيلتال
     auto: true
+  - translation_iso: hin
+    name: त्सेल्ताल
+    auto: true
   - translation_iso: jpn
     name: ツェルタル語
   - translation_iso: kor

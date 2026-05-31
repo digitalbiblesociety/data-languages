@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة يلي
     auto: true
+  - translation_iso: hin
+    name: येले
+    auto: true
   - translation_iso: jpn
     name: イェレ語
   - translation_iso: kor

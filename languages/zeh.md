@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة هونغشويهي الشرقية
     auto: true
+  - translation_iso: hin
+    name: पूर्वी होंगशुईहे ज़ुआंग
+    auto: true
   - translation_iso: jpn
     name: 東紅水河チワン語
   - translation_iso: zho

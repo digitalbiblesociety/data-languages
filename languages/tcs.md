@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كريولية جزر توريس
     auto: true
+  - translation_iso: hin
+    name: टॉरेस जलसंधि क्रियोल
+    auto: true
   - translation_iso: jpn
     name: トレス海峡クレオール
   - translation_iso: zho

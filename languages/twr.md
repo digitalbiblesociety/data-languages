@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توراهومارا جنوب غربي
     auto: true
+  - translation_iso: hin
+    name: दक्षिणपश्चिमी तारहुमारा
+    auto: true
   - translation_iso: jpn
     name: ララムリ・ライチャ語
     auto: true

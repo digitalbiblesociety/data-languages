@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاكاهوا ميكستيك
     auto: true
+  - translation_iso: hin
+    name: ताकाहुआ मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: タカフア・ミステク語
     auto: true

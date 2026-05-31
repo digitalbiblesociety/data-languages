@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايجالي
     auto: true
+  - translation_iso: hin
+    name: वैगली
+    auto: true
   - translation_iso: jpn
     name: ワイガリ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتيوكا
     auto: true
+  - translation_iso: hin
+    name: तुयुका
+    auto: true
   - translation_iso: jpn
     name: ドカプアラエ語
     auto: true

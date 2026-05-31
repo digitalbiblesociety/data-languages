@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: بوخا
     auto: true
+  - translation_iso: hin
+    name: बोखा
+    auto: true
   - translation_iso: jpn
     name: ボカ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اغهوان
     auto: true
+  - translation_iso: hin
+    name: अघवान
+    auto: true
   - translation_iso: jpn
     name: 古ウディ語
   - translation_iso: zho

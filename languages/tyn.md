@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كومباي
     auto: true
+  - translation_iso: hin
+    name: कोम्बाई
+    auto: true
   - translation_iso: jpn
     name: コンバイ語
   - translation_iso: zho

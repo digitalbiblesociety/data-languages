@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الطاعة السفلى
     auto: true
+  - translation_iso: hin
+    name: निचली ता'ओइह
+    auto: true
   - translation_iso: jpn
     name: タオイ語
     auto: true

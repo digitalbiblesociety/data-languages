@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويري
     auto: true
+  - translation_iso: hin
+    name: वेरी
+    auto: true
   - translation_iso: jpn
     name: ウェリ語
     auto: true

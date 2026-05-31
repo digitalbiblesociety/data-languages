@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موتو
     auto: true
+  - translation_iso: hin
+    name: मुतु
+    auto: true
   - translation_iso: jpn
     name: ムトゥ語
   - translation_iso: zho

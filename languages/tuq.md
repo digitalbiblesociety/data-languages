@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Teda_language"
 translations:
   - translation_iso: ara
     name: لغة التيدا
+  - translation_iso: hin
+    name: तेदागा
+    auto: true
   - translation_iso: jpn
     name: テダ語
   - translation_iso: zho

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كايان ماهاكام
     auto: true
+  - translation_iso: hin
+    name: कायन माहाकाम
+    auto: true
   - translation_iso: jpn
     name: カヤン・マハカム語
     auto: true

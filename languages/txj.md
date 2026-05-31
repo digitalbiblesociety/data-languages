@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tarjumo_language"
 translations:
   - translation_iso: ara
     name: ترجمو
+  - translation_iso: hin
+    name: तरजुमो
+    auto: true
   - translation_iso: jpn
     name: タルフモ語
     auto: true

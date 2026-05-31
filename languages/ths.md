@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثاكالي
     auto: true
+  - translation_iso: hin
+    name: थकाली
+    auto: true
   - translation_iso: jpn
     name: タカリ語
     auto: true

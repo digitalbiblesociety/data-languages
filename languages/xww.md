@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ويمبا ويمبا
     auto: true
+  - translation_iso: hin
+    name: वेम्बा वेम्बा
+    auto: true
   - translation_iso: jpn
     name: ウェンバ・ウェンバ語
     auto: true

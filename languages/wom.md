@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووم نيغيريا
     auto: true
+  - translation_iso: hin
+    name: वोम (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: ウォム語（ナイジェリア）
     auto: true

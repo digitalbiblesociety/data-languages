@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إتولو
     auto: true
+  - translation_iso: hin
+    name: एतुलो
+    auto: true
   - translation_iso: jpn
     name: エトゥロ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: والاك
     auto: true
+  - translation_iso: hin
+    name: वालक
+    auto: true
   - translation_iso: jpn
     name: ワラック語
     auto: true

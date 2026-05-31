@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فاو
     auto: true
+  - translation_iso: hin
+    name: वाओ
+    auto: true
   - translation_iso: jpn
     name: ヴァオ語
     auto: true

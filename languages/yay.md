@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أجواجوني
     auto: true
+  - translation_iso: hin
+    name: अग्वाग्वुने
+    auto: true
   - translation_iso: jpn
     name: アグワグウネ語
     auto: true

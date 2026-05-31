@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: والا والا
     auto: true
+  - translation_iso: hin
+    name: वाला वाला
+    auto: true
   - translation_iso: jpn
     name: ワラワラ語
     auto: true

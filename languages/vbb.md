@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جنوب شرق بابار
     auto: true
+  - translation_iso: hin
+    name: दक्षिणपूर्वी बबर
+    auto: true
   - translation_iso: jpn
     name: 南東ババル語
     auto: true

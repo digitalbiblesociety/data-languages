@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوريبتشا
     auto: true
+  - translation_iso: hin
+    name: पुरेपेचा
+    auto: true
   - translation_iso: jpn
     name: タラスコ語
   - translation_iso: kor

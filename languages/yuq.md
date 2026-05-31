@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوكي
     auto: true
+  - translation_iso: hin
+    name: युकी
+    auto: true
   - translation_iso: jpn
     name: ユキ語
     auto: true

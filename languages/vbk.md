@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: جنوب غربي بونتوك
     auto: true
+  - translation_iso: hin
+    name: दक्षिणपश्चिमी बोंतोक
+    auto: true
   - translation_iso: jpn
     name: 南西ボントク語
   - translation_iso: zho

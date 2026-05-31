@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: آمبريم جنوب شرق
     auto: true
+  - translation_iso: hin
+    name: दक्षिणपूर्व एम्ब्रिम
+    auto: true
   - translation_iso: jpn
     name: タヴェアク語
     auto: true

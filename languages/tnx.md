@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانيما
     auto: true
+  - translation_iso: hin
+    name: तानेमा
+    auto: true
   - translation_iso: jpn
     name: タネマ語
   - translation_iso: zho

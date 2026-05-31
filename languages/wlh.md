@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويلاونر
     auto: true
+  - translation_iso: hin
+    name: वेलाउन
+    auto: true
   - translation_iso: jpn
     name: ベカイス語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يدغة
     auto: true
+  - translation_iso: hin
+    name: यिदगा
+    auto: true
   - translation_iso: jpn
     name: イドガ語
   - translation_iso: zho

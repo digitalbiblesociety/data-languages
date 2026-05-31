@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة فالا
     auto: true
+  - translation_iso: hin
+    name: फाला
+    auto: true
   - translation_iso: jpn
     name: ファラ語
     auto: true

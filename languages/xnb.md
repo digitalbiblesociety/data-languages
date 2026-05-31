@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاناكانابو
     auto: true
+  - translation_iso: hin
+    name: कनकनबू
+    auto: true
   - translation_iso: jpn
     name: カナカナブ語
   - translation_iso: kor

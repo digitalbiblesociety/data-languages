@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيمجو-مابس
     auto: true
+  - translation_iso: hin
+    name: वेम्गो-माबास
+    auto: true
   - translation_iso: jpn
     name: ヴェムゴ・マバス語
     auto: true

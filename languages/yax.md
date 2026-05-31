@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: ياوما
     auto: true
+  - translation_iso: hin
+    name: यौमा
+    auto: true
   - translation_iso: jpn
     name: ヤウマ語
     auto: true

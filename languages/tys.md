@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي سا با
     auto: true
+  - translation_iso: hin
+    name: ताय सा पा
+    auto: true
   - translation_iso: jpn
     name: サパ語
   - translation_iso: zho

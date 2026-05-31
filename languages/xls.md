@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوسيتانية
     auto: true
+  - translation_iso: hin
+    name: लुसिटानियन
+    auto: true
   - translation_iso: jpn
     name: ルシタニア語
   - translation_iso: kor

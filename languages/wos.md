@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هانغا هوندي
     auto: true
+  - translation_iso: hin
+    name: हंगा हुंडी
+    auto: true
   - translation_iso: jpn
     name: ハンガ・フンディ語
     auto: true

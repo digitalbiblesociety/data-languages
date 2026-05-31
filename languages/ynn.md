@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة يانا
     auto: true
+  - translation_iso: hin
+    name: याना
+    auto: true
   - translation_iso: jpn
     name: ヤナ語
   - translation_iso: zho

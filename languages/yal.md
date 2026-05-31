@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يالونكا
     auto: true
+  - translation_iso: hin
+    name: यालुंका
+    auto: true
   - translation_iso: jpn
     name: ヤルンカ語
   - translation_iso: zho

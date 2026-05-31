@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: هاتتيك
     auto: true
+  - translation_iso: hin
+    name: हत्ती
+    auto: true
   - translation_iso: jpn
     name: ハッティ語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يانغولام
     auto: true
+  - translation_iso: hin
+    name: यांगुलम
+    auto: true
   - translation_iso: jpn
     name: ヤングラム語
     auto: true

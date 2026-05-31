@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوبار
     auto: true
+  - translation_iso: hin
+    name: कोपार
+    auto: true
   - translation_iso: jpn
     name: コパル語
     auto: true

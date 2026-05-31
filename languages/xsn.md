@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سانجا
     auto: true
+  - translation_iso: hin
+    name: सांगा (नाइजीरिया)
+    auto: true
   - translation_iso: jpn
     name: サンガ語
   - translation_iso: zho

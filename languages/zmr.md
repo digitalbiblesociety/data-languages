@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مارانونغو
     auto: true
+  - translation_iso: hin
+    name: मरानुंगू
+    auto: true
   - translation_iso: jpn
     name: マランンググ語
     auto: true

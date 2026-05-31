@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يامفو
     auto: true
+  - translation_iso: hin
+    name: यांफू
+    auto: true
   - translation_iso: jpn
     name: ヤンプ語
     auto: true

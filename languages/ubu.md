@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أمبو-أونجو
     auto: true
+  - translation_iso: hin
+    name: उम्बु-उंगु
+    auto: true
   - translation_iso: jpn
     name: カコリ語
     auto: true

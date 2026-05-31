@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كاريان
     auto: true
+  - translation_iso: hin
+    name: कैरियन
+    auto: true
   - translation_iso: jpn
     name: カリア語
   - translation_iso: kor

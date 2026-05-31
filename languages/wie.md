@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويكيپا
     auto: true
+  - translation_iso: hin
+    name: विक-एपा
+    auto: true
   - translation_iso: jpn
     name: ウィク・エパ語
     auto: true

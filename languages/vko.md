@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوديوها
     auto: true
+  - translation_iso: hin
+    name: कोदेओहा
+    auto: true
   - translation_iso: jpn
     name: コンデア語
     auto: true

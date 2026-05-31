@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتياغو كسانيكا
     auto: true
+  - translation_iso: hin
+    name: सांतियागो ज़ानिका सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: サンティアゴ・サニカ・サポテク語
     auto: true

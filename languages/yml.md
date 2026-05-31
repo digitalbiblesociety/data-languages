@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامالالي
     auto: true
+  - translation_iso: hin
+    name: इयामालेले
+    auto: true
   - translation_iso: jpn
     name: イアマレレ語
     auto: true

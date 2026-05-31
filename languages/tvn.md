@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تافويان
     auto: true
+  - translation_iso: hin
+    name: तावोयन
+    auto: true
   - translation_iso: jpn
     name: ダウェイ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يونانغوني
     auto: true
+  - translation_iso: hin
+    name: योनागुनी
+    auto: true
   - translation_iso: jpn
     name: 与那国語
   - translation_iso: kor

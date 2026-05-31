@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واررغاماي
     auto: true
+  - translation_iso: hin
+    name: वर्गमय
+    auto: true
   - translation_iso: jpn
     name: ワルガマイ語
   - translation_iso: zho

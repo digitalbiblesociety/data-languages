@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوكاا
     auto: true
+  - translation_iso: hin
+    name: लोकाआ
+    auto: true
   - translation_iso: jpn
     name: ロカア語
     auto: true

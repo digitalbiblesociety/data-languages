@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غارروا
     auto: true
+  - translation_iso: hin
+    name: गरवा
+    auto: true
   - translation_iso: jpn
     name: ガルワ語
     auto: true

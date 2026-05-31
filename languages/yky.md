@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياكوما
     auto: true
+  - translation_iso: hin
+    name: याकोमा
+    auto: true
   - translation_iso: jpn
     name: ヤコマ語
     auto: true

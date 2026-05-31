@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فايفاي
     auto: true
+  - translation_iso: hin
+    name: वाइफेई
+    auto: true
   - translation_iso: jpn
     name: バイペイ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غبين
     auto: true
+  - translation_iso: hin
+    name: ग्बिन
+    auto: true
   - translation_iso: jpn
     name: ギビン語
     auto: true

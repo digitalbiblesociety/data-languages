@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أمبا
     auto: true
+  - translation_iso: hin
+    name: अम्बा (सोलोमन द्वीप)
+    auto: true
   - translation_iso: jpn
     name: アンバ語
   - translation_iso: zho

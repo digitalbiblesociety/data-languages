@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك توتوماتشابان
     auto: true
+  - translation_iso: hin
+    name: तोतोमाचापन सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: トトマチャパン・サポテク語
     auto: true

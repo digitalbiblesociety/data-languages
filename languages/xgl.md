@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: غاليندان
     auto: true
+  - translation_iso: hin
+    name: गलिंदाई
+    auto: true
   - translation_iso: jpn
     name: ガリンディア語
   - translation_iso: kor

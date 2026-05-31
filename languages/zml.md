@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماتنغالا
     auto: true
+  - translation_iso: hin
+    name: मतंगला
+    auto: true
   - translation_iso: jpn
     name: マトゥンガラ語
     auto: true

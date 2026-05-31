@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوروبو
     auto: true
+  - translation_iso: hin
+    name: कोरुबो
+    auto: true
   - translation_iso: jpn
     name: コルボ語
     auto: true

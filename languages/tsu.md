@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسو
     auto: true
+  - translation_iso: hin
+    name: त्सोऊ
+    auto: true
   - translation_iso: jpn
     name: ツォウ語
   - translation_iso: kor

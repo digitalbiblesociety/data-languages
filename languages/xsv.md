@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: سودوفية
     auto: true
+  - translation_iso: hin
+    name: सुडोवियन
+    auto: true
   - translation_iso: jpn
     name: スドヴィア語
   - translation_iso: kor

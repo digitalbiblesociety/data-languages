@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: سولانو
     auto: true
+  - translation_iso: hin
+    name: सोलानो
+    auto: true
   - translation_iso: jpn
     name: ソラノ語
     auto: true

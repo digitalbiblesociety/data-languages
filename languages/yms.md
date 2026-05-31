@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميسيان
     auto: true
+  - translation_iso: hin
+    name: मिसियन
+    auto: true
   - translation_iso: jpn
     name: ミュシア語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واراي اوستراليا
     auto: true
+  - translation_iso: hin
+    name: वाराय (ऑस्ट्रेलिया)
+    auto: true
   - translation_iso: jpn
     name: ワレイ語（オーストラリア）
     auto: true

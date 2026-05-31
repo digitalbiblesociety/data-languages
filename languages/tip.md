@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تريموريس
     auto: true
+  - translation_iso: hin
+    name: त्रिमुरिस
+    auto: true
   - translation_iso: jpn
     name: トリムリス語
     auto: true

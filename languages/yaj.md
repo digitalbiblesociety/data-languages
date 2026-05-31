@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بندا-يانجيري
     auto: true
+  - translation_iso: hin
+    name: बंदा-यांगेरे
+    auto: true
   - translation_iso: jpn
     name: バンダ＝ヤンゲレ語
   - translation_iso: zho

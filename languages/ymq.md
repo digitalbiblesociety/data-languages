@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة قيلا موجي
     auto: true
+  - translation_iso: hin
+    name: किला मूजी
+    auto: true
   - translation_iso: jpn
     name: キラ・ムジ語
     auto: true

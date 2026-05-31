@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توي
     auto: true
+  - translation_iso: hin
+    name: तेवे
+    auto: true
   - translation_iso: jpn
     name: チマニカ語
     auto: true

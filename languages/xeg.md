@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خيغوي
     auto: true
+  - translation_iso: hin
+    name: ǁक्सेगवी
+    auto: true
   - translation_iso: jpn
     name: ケグウィ語
   - translation_iso: kor

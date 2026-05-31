@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايانا
     auto: true
+  - translation_iso: hin
+    name: वायाना
+    auto: true
   - translation_iso: jpn
     name: ワヤナ語
   - translation_iso: zho

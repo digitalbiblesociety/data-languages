@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتوناك بابانتلا
     auto: true
+  - translation_iso: hin
+    name: पापांत्ला तोतोनाक
+    auto: true
   - translation_iso: jpn
     name: パパントラ・トトナック語
     auto: true

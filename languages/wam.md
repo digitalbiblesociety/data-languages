@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Massachusett_language"
 translations:
   - translation_iso: ara
     name: لغة ماساتشوستس
+  - translation_iso: hin
+    name: वैम्पानोग
+    auto: true
   - translation_iso: jpn
     name: マサチューセット語
   - translation_iso: zho

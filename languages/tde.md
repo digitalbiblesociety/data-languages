@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيرانيغي ديغا دوغون
     auto: true
+  - translation_iso: hin
+    name: तिरानिगे दिगा दोगोन
+    auto: true
   - translation_iso: jpn
     name: ティラニゲ・ディガ・ドゴン語
     auto: true

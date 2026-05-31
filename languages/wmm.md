@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مايوا يندونيسيا
     auto: true
+  - translation_iso: hin
+    name: माइवा
+    auto: true
   - translation_iso: jpn
     name: マイワ語
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ثولونغ
     auto: true
+  - translation_iso: hin
+    name: थुलुङ
+    auto: true
   - translation_iso: jpn
     name: スルン語
     auto: true

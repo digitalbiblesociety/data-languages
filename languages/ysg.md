@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونااغا
     auto: true
+  - translation_iso: hin
+    name: सोनागा
+    auto: true
   - translation_iso: jpn
     name: ソナガ語
     auto: true

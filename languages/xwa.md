@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كوازا
     auto: true
+  - translation_iso: hin
+    name: क्वाज़ा
+    auto: true
   - translation_iso: jpn
     name: クワザ語
     auto: true

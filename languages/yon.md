@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يونغكوم
     auto: true
+  - translation_iso: hin
+    name: योंगकोम
+    auto: true
   - translation_iso: jpn
     name: ヨングコム語
     auto: true

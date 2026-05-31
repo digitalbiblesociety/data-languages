@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واهغي
     auto: true
+  - translation_iso: hin
+    name: वाहगी
+    auto: true
   - translation_iso: jpn
     name: ワギ語
   - translation_iso: zho

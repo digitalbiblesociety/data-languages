@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: طويل وات
     auto: true
+  - translation_iso: hin
+    name: लोंग वाट
+    auto: true
   - translation_iso: jpn
     name: ロング・ワット語
     auto: true

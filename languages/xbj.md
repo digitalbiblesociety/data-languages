@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: بيررپايي
     auto: true
+  - translation_iso: hin
+    name: बिरपायी
+    auto: true
   - translation_iso: jpn
     name: ビルパイ語
     auto: true

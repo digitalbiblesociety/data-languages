@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيكيلي
     auto: true
+  - translation_iso: hin
+    name: सेकेले
+    auto: true
   - translation_iso: jpn
     name: 北クン語
     auto: true

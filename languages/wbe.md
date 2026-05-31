@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واريتاي
     auto: true
+  - translation_iso: hin
+    name: वरितै
+    auto: true
   - translation_iso: jpn
     name: ワリタイ語
     auto: true

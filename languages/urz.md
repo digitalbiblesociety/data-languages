@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورو-يو-واو-واو
     auto: true
+  - translation_iso: hin
+    name: उरु-एउ-वाउ-वाउ
+    auto: true
   - translation_iso: jpn
     name: カワヒブ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يامبيتا
     auto: true
+  - translation_iso: hin
+    name: यांबेटा
+    auto: true
   - translation_iso: jpn
     name: ヤンベタ語
   - translation_iso: zho

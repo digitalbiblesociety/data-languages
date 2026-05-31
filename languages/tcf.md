@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مي ‍ّفا
     auto: true
+  - translation_iso: hin
+    name: मालिनाल्तेपेक मेफा
+    auto: true
   - translation_iso: jpn
     name: マリナルテペク・メファ語
     auto: true

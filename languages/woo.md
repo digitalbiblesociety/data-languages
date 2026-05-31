@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مانومباي
     auto: true
+  - translation_iso: hin
+    name: मानोम्बाई
+    auto: true
   - translation_iso: jpn
     name: マノンバイ語
     auto: true

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كينابوي
     auto: true
+  - translation_iso: hin
+    name: केनाबोई
+    auto: true
   - translation_iso: jpn
     name: ケナボイ語
   - translation_iso: zho

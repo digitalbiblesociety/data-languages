@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويواو
     auto: true
+  - translation_iso: hin
+    name: वेवॉ
+    auto: true
   - translation_iso: jpn
     name: ウェワウ語
     auto: true

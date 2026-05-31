@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: وونومارا
     auto: true
+  - translation_iso: hin
+    name: वुनुमारा
+    auto: true
   - translation_iso: jpn
     name: ウヌムラ語
     auto: true

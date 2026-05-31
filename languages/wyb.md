@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانغاايبوواننغييامباا
     auto: true
+  - translation_iso: hin
+    name: वंगायबुवान-न्गियाम्बा
+    auto: true
   - translation_iso: jpn
     name: ンギヤンバー語
   - translation_iso: zho

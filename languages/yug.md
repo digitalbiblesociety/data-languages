@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوغ
     auto: true
+  - translation_iso: hin
+    name: युग
+    auto: true
   - translation_iso: jpn
     name: ユグ語
   - translation_iso: kor

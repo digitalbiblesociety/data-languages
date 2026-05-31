@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تومادينو
     auto: true
+  - translation_iso: hin
+    name: तोमादीनो
+    auto: true
   - translation_iso: jpn
     name: トマディーノ語
     auto: true

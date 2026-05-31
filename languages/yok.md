@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوكوتس
     auto: true
+  - translation_iso: hin
+    name: योकुट्स
+    auto: true
   - translation_iso: jpn
     name: ヨクツ語族
   - translation_iso: kor

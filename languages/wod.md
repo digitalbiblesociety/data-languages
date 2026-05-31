@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وولاني
     auto: true
+  - translation_iso: hin
+    name: वोलानी
+    auto: true
   - translation_iso: jpn
     name: ウォラニ語
     auto: true

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تيوي
     auto: true
+  - translation_iso: hin
+    name: तिवी
+    auto: true
   - translation_iso: jpn
     name: ティウィ語
   - translation_iso: kor

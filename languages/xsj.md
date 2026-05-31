@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: سوبي
     auto: true
+  - translation_iso: hin
+    name: सुबी
+    auto: true
   - translation_iso: jpn
     name: スビ語
     auto: true

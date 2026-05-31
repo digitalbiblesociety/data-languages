@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتوناك شيكوتيبيك دي خوارز
     auto: true
+  - translation_iso: hin
+    name: शिकोतेपेक दे हुआरेस तोतोनाक
+    auto: true
   - translation_iso: jpn
     name: シコテペク・デ・フアレス・トトナック語
     auto: true

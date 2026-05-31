@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مارتويهونيرا
     auto: true
+  - translation_iso: hin
+    name: मार्तुयहुनिरा
+    auto: true
   - translation_iso: jpn
     name: マルトゥフニラ語
     auto: true

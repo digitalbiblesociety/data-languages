@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيدوري
     auto: true
+  - translation_iso: hin
+    name: तिदोरे
+    auto: true
   - translation_iso: jpn
     name: ティドレ語
   - translation_iso: zho

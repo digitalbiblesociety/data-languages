@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فينيتية
     auto: true
+  - translation_iso: hin
+    name: वेनेटिक
+    auto: true
   - translation_iso: jpn
     name: ウェネティ語
   - translation_iso: zho

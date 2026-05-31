@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توجوتيل
     auto: true
+  - translation_iso: hin
+    name: तुगुतिल
+    auto: true
   - translation_iso: jpn
     name: トゥグティル語
     auto: true

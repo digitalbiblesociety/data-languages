@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيرمانو
     auto: true
+  - translation_iso: hin
+    name: तेर्मानू
+    auto: true
   - translation_iso: jpn
     name: パダ語
     auto: true

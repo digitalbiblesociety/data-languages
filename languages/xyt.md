@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: مايي-ثاكورتي
     auto: true
+  - translation_iso: hin
+    name: मायी-थाकुर्ती
+    auto: true
   - translation_iso: jpn
     name: マイイ・タクルティ語
     auto: true

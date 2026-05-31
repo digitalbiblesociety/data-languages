@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mingrelian_language"
 translations:
   - translation_iso: ara
     name: المنغرلية
+  - translation_iso: hin
+    name: मिंग्रेलियन
+    auto: true
   - translation_iso: jpn
     name: メグレル語
   - translation_iso: kor

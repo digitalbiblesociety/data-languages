@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فالي مايدو
     auto: true
+  - translation_iso: hin
+    name: वैली माइदू
+    auto: true
   - translation_iso: jpn
     name: バレー・マイドゥ語
     auto: true

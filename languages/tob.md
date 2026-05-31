@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبا
     auto: true
+  - translation_iso: hin
+    name: तोबा
+    auto: true
   - translation_iso: jpn
     name: トバ語 (アルゼンチン)
   - translation_iso: zho

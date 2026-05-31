@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة لابو فوا
     auto: true
+  - translation_iso: hin
+    name: लाबो फोवा
+    auto: true
   - translation_iso: jpn
     name: ラボフォワ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويستيرن فيجيان
     auto: true
+  - translation_iso: hin
+    name: पश्चिमी फिजियन
+    auto: true
   - translation_iso: jpn
     name: 西フィジー語
     auto: true

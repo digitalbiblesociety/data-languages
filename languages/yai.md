@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياجنوبي
     auto: true
+  - translation_iso: hin
+    name: यागनोबी
+    auto: true
   - translation_iso: jpn
     name: ヤグノビ語
   - translation_iso: kor

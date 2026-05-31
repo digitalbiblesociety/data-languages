@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيموغون موروت
     auto: true
+  - translation_iso: hin
+    name: तिमुगोन मुरुत
+    auto: true
   - translation_iso: jpn
     name: ティムゴン語
   - translation_iso: zho

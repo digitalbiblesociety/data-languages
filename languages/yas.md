@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوجونو
     auto: true
+  - translation_iso: hin
+    name: नुगुनु (कैमरून)
+    auto: true
   - translation_iso: jpn
     name: ヌグヌ語
   - translation_iso: zho

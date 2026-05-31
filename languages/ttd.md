@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: تاواديه
     auto: true
+  - translation_iso: hin
+    name: ताउआदे
+    auto: true
   - translation_iso: jpn
     name: タウアタ語
     auto: true

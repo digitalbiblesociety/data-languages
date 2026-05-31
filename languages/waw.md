@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايواي
     auto: true
+  - translation_iso: hin
+    name: वाइवाइ
+    auto: true
   - translation_iso: jpn
     name: ワイワイ語
   - translation_iso: zho

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تالوسان
     auto: true
+  - translation_iso: hin
+    name: तलोसन
+    auto: true
   - translation_iso: jpn
     name: タロッサ語
   - translation_iso: kor

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يومبي
     auto: true
+  - translation_iso: hin
+    name: योम्बे
+    auto: true
   - translation_iso: jpn
     name: ヨンベ語
     auto: true

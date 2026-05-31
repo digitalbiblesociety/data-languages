@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيسييت
     auto: true
+  - translation_iso: hin
+    name: साइसियात
+    auto: true
   - translation_iso: jpn
     name: サイシャット語
   - translation_iso: zho

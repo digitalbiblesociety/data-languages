@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موكسيلا
     auto: true
+  - translation_iso: hin
+    name: मोकसेला
+    auto: true
   - translation_iso: jpn
     name: モクセラ語
     auto: true

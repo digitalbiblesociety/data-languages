@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييس
     auto: true
+  - translation_iso: hin
+    name: यिस
+    auto: true
   - translation_iso: jpn
     name: イス語
     auto: true

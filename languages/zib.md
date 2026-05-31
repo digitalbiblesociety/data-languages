@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zimbabwean_sign_languages"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الزيمبابوية
+  - translation_iso: hin
+    name: ज़िम्बाब्वे सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ジンバブエ手話
   - translation_iso: zho

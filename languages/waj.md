@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وافا
     auto: true
+  - translation_iso: hin
+    name: वाफ़ा
+    auto: true
   - translation_iso: jpn
     name: ワッファ語
     auto: true

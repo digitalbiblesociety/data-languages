@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سامتاو
     auto: true
+  - translation_iso: hin
+    name: समाताओ
+    auto: true
   - translation_iso: jpn
     name: サマタオ語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: سيثية
     auto: true
+  - translation_iso: hin
+    name: सीथियन
+    auto: true
   - translation_iso: jpn
     name: スキタイ語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيكاريتاي
     auto: true
+  - translation_iso: hin
+    name: सिकारितई
+    auto: true
   - translation_iso: jpn
     name: トリ・アイクワカイ語
     auto: true

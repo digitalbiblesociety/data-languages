@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تينادن
     auto: true
+  - translation_iso: hin
+    name: तेनेदन
+    auto: true
   - translation_iso: jpn
     name: テネドゥン語
     auto: true

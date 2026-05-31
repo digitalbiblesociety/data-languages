@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييندجيلاندجي
     auto: true
+  - translation_iso: hin
+    name: यिन्जिलान्जी
+    auto: true
   - translation_iso: jpn
     name: イーンジラランジ語
     auto: true

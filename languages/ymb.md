@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يمبس
     auto: true
+  - translation_iso: hin
+    name: याम्बेस
+    auto: true
   - translation_iso: jpn
     name: ヤンベス語
     auto: true

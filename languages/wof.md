@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غامبيان وولوف
     auto: true
+  - translation_iso: hin
+    name: गाम्बियाई वोलोफ़
+    auto: true
   - translation_iso: jpn
     name: ガンビア・ウォロフ語
     auto: true

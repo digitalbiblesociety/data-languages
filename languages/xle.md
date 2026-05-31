@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لمنية
     auto: true
+  - translation_iso: hin
+    name: लेम्नियन
+    auto: true
   - translation_iso: jpn
     name: レムニア語
   - translation_iso: zho

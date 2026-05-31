@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ووتو
     auto: true
+  - translation_iso: hin
+    name: वोतू
+    auto: true
   - translation_iso: jpn
     name: ウォトゥ語
     auto: true

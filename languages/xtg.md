@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جوليا ترانسالبينية
     auto: true
+  - translation_iso: hin
+    name: ट्रांसएल्पाइन गॉलिश
+    auto: true
   - translation_iso: jpn
     name: トランスアルパイン・ゴール語
   - translation_iso: zho

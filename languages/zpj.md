@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك كويافيكوزاس
     auto: true
+  - translation_iso: hin
+    name: कियाविकुसास सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: キアビクザス・サポテク語
     auto: true

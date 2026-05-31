@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ييماس
     auto: true
+  - translation_iso: hin
+    name: यिमास
+    auto: true
   - translation_iso: jpn
     name: イマス語
   - translation_iso: kor

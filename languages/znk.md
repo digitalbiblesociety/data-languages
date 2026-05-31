@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مانانغكاري
     auto: true
+  - translation_iso: hin
+    name: मनंगकरी
+    auto: true
   - translation_iso: jpn
     name: マナングカリ語
     auto: true

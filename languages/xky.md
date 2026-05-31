@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوما لاسان
     auto: true
+  - translation_iso: hin
+    name: उमा लासन
+    auto: true
   - translation_iso: jpn
     name: ウマラサン語
     auto: true

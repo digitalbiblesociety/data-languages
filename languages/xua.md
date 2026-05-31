@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ألو كوروما
     auto: true
+  - translation_iso: hin
+    name: आलू कुरुम्बा
+    auto: true
   - translation_iso: jpn
     name: アル・クルンバ語
     auto: true

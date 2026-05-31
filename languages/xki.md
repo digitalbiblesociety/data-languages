@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kenyan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الكينية
+  - translation_iso: hin
+    name: केन्याई सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: ケニア手話
   - translation_iso: zho

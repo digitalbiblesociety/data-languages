@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاوويرا
     auto: true
+  - translation_iso: hin
+    name: काउवेरा
+    auto: true
   - translation_iso: jpn
     name: カウウェラ語
     auto: true

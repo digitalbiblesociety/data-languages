@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ligurian_language_(ancient)"
 translations:
   - translation_iso: ara
     name: اللغة الليغورية (القديمة)
+  - translation_iso: hin
+    name: लिगुरियन (प्राचीन)
+    auto: true
   - translation_iso: jpn
     name: 古代リグリア語
   - translation_iso: zho

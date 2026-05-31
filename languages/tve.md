@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيعون
     auto: true
+  - translation_iso: hin
+    name: ते'उन
+    auto: true
   - translation_iso: jpn
     name: テウン語
     auto: true

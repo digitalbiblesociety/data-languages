@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيريونج
     auto: true
+  - translation_iso: hin
+    name: तेरेवेंग
+    auto: true
   - translation_iso: jpn
     name: テレウェング語
     auto: true

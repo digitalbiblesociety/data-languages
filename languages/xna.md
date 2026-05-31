@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_North_Arabian_languages"
 translations:
   - translation_iso: ara
     name: عربية شمالية قديمة
+  - translation_iso: hin
+    name: प्राचीन उत्तर अरबी
+    auto: true
   - translation_iso: jpn
     name: 古代北部アラビア語
   - translation_iso: zho

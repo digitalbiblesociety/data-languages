@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوسبانتيكو
     auto: true
+  - translation_iso: hin
+    name: उसपान्तेको
+    auto: true
   - translation_iso: jpn
     name: ウスパンテコ語
   - translation_iso: kor

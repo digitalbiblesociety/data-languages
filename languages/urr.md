@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليهالوروب
     auto: true
+  - translation_iso: hin
+    name: लेहालुरुप
+    auto: true
   - translation_iso: jpn
     name: ダイバース・ベイ語
     auto: true

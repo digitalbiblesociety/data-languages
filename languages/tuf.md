@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توني بو المركزية
     auto: true
+  - translation_iso: hin
+    name: मध्य तुनेबो
+    auto: true
   - translation_iso: jpn
     name: トゥネボ語
     auto: true

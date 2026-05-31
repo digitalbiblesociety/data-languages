@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاركار-يوري
     auto: true
+  - translation_iso: hin
+    name: कर्कर-युरी
+    auto: true
   - translation_iso: jpn
     name: カルカル-ユリ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتا إينس ياتزيتشي
     auto: true
+  - translation_iso: hin
+    name: सांता इनेस यात्ज़ेची सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: サンタ・イネス・ヤツェチ・サポテク語
     auto: true

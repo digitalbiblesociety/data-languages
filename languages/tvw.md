@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيدوا
     auto: true
+  - translation_iso: hin
+    name: सेदोआ
+    auto: true
   - translation_iso: jpn
     name: タワイリア語
     auto: true

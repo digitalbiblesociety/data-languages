@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كيور
     auto: true
+  - translation_iso: hin
+    name: कियोर
+    auto: true
   - translation_iso: jpn
     name: キオール語
     auto: true

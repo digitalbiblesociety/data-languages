@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانامبري
     auto: true
+  - translation_iso: hin
+    name: वानाम्ब्रे
+    auto: true
   - translation_iso: jpn
     name: ワナンブレ語
     auto: true

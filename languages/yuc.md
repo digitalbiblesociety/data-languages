@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوتشي
     auto: true
+  - translation_iso: hin
+    name: युची
+    auto: true
   - translation_iso: jpn
     name: ユチ語
   - translation_iso: kor

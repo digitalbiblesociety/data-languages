@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويرانغو
     auto: true
+  - translation_iso: hin
+    name: विरंगु
+    auto: true
   - translation_iso: jpn
     name: ウィラング語
     auto: true

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بيرتا
     auto: true
+  - translation_iso: hin
+    name: बेर्ता
+    auto: true
   - translation_iso: jpn
     name: ベルタ語
     auto: true

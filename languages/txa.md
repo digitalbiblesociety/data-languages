@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تومبونو
     auto: true
+  - translation_iso: hin
+    name: तोम्बोनुओ
+    auto: true
   - translation_iso: jpn
     name: ロブ語
     auto: true

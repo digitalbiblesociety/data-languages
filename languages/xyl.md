@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: يالاكالوري
     auto: true
+  - translation_iso: hin
+    name: यालाकालोरे
+    auto: true
   - translation_iso: jpn
     name: ヤラカロレ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مانغ
     auto: true
+  - translation_iso: hin
+    name: मांग
+    auto: true
   - translation_iso: jpn
     name: マン語
   - translation_iso: kor

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان بالتازار لوكسيتشا
     auto: true
+  - translation_iso: hin
+    name: सान बाल्तज़ार लोक्सिचा सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: サン・バルタザル・ロキチャ・サポテク語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كبيللي ليبيريا
     auto: true
+  - translation_iso: hin
+    name: लाइबेरियाई क्पेल्ले
+    auto: true
   - translation_iso: jpn
     name: リベリア・クペレ語
   - translation_iso: zho

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوو وپاا
     auto: true
+  - translation_iso: hin
+    name: सोउ उपा
+    auto: true
   - translation_iso: jpn
     name: ソゥ・ウパア語
     auto: true

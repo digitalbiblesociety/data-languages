@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ كيوبي
     auto: true
+  - translation_iso: hin
+    name: कियूबेई ज़ुआंग
+    auto: true
   - translation_iso: jpn
     name: チウベイ・ズアン語
     auto: true

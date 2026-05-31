@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثوري
     auto: true
+  - translation_iso: hin
+    name: थुरी
+    auto: true
   - translation_iso: jpn
     name: トゥリ語
   - translation_iso: zho

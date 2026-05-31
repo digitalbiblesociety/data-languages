@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لونغتو
     auto: true
+  - translation_iso: hin
+    name: लोंगतो
+    auto: true
   - translation_iso: jpn
     name: ロング語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تافي
     auto: true
+  - translation_iso: hin
+    name: ताफी
+    auto: true
   - translation_iso: jpn
     name: タフィ語
     auto: true

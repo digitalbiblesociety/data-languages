@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: واجيمان
     auto: true
+  - translation_iso: hin
+    name: वागिमान
+    auto: true
   - translation_iso: jpn
     name: ワギマン語
     auto: true

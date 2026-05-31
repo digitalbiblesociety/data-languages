@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واب
     auto: true
+  - translation_iso: hin
+    name: वाब
+    auto: true
   - translation_iso: jpn
     name: ワブ語
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ميددلي بريتون
     auto: true
+  - translation_iso: hin
+    name: मध्य ब्रेटन
+    auto: true
   - translation_iso: jpn
     name: 中ブルトン語
     auto: true

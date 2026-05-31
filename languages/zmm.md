@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماريماننديجي
     auto: true
+  - translation_iso: hin
+    name: मरीमनिंदजी
+    auto: true
   - translation_iso: jpn
     name: マリマニンディ語
     auto: true

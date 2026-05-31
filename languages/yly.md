@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة نيالايو
     auto: true
+  - translation_iso: hin
+    name: न्यालायू
+    auto: true
   - translation_iso: jpn
     name: ニャラユ語
     auto: true

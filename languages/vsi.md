@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة مولدوفا
     auto: true
+  - translation_iso: hin
+    name: मोल्दोवा सांकेतिक भाषा
+    auto: true
   - translation_iso: jpn
     name: モルドバ手話
   - translation_iso: zho

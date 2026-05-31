@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وونامبال
     auto: true
+  - translation_iso: hin
+    name: वुनम्बल
+    auto: true
   - translation_iso: jpn
     name: ウナンバル語
     auto: true

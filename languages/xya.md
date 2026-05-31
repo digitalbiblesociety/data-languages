@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يايجير
     auto: true
+  - translation_iso: hin
+    name: यायगिर
+    auto: true
   - translation_iso: jpn
     name: ヤイギル語
     auto: true

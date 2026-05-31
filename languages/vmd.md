@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: موده كوراجا
     auto: true
+  - translation_iso: hin
+    name: मुदु कोरगा
+    auto: true
   - translation_iso: jpn
     name: コラッグ語
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كومينيمونج
     auto: true
+  - translation_iso: hin
+    name: कोमिनिमुंग
+    auto: true
   - translation_iso: jpn
     name: コミニムング語
     auto: true

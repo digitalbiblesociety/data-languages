@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوفا
     auto: true
+  - translation_iso: hin
+    name: फूफा
+    auto: true
   - translation_iso: jpn
     name: フーファ語
     auto: true

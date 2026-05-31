@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هاشا
     auto: true
+  - translation_iso: hin
+    name: हाशा
+    auto: true
   - translation_iso: jpn
     name: ハシャ語
     auto: true

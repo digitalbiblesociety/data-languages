@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميوا
     auto: true
+  - translation_iso: hin
+    name: मिवा
+    auto: true
   - translation_iso: jpn
     name: ミワ語
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تانغلانج
     auto: true
+  - translation_iso: hin
+    name: तांगलांग
+    auto: true
   - translation_iso: jpn
     name: タングラング語
     auto: true

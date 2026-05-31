@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينجاردا
     auto: true
+  - translation_iso: hin
+    name: यिंगर्डा
+    auto: true
   - translation_iso: jpn
     name: インガーダ語
   - translation_iso: zho

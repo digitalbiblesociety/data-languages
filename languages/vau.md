@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فانوما
     auto: true
+  - translation_iso: hin
+    name: वानुमा
+    auto: true
   - translation_iso: jpn
     name: 南ニャリ語
     auto: true

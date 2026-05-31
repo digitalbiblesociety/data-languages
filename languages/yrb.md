@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياربا
     auto: true
+  - translation_iso: hin
+    name: यारेबा
+    auto: true
   - translation_iso: jpn
     name: ヤレバ語
     auto: true

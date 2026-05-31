@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويامكالكو ميكستيك
     auto: true
+  - translation_iso: hin
+    name: कुयामेकाल्को मिक्सटेक
+    auto: true
   - translation_iso: jpn
     name: クヤメカルコ・ミステク語
     auto: true

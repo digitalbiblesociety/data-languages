@@ -10,6 +10,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Median_language"
 translations:
   - translation_iso: ara
     name: لغة ميدية
+  - translation_iso: hin
+    name: मेडियन
+    auto: true
   - translation_iso: jpn
     name: メディア語
   - translation_iso: zho

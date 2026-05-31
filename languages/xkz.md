@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كورتوخا
     auto: true
+  - translation_iso: hin
+    name: कुर्तोखा
+    auto: true
   - translation_iso: jpn
     name: クルトプ語
   - translation_iso: zho

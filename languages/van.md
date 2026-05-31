@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فالمان
     auto: true
+  - translation_iso: hin
+    name: वाल्मन
+    auto: true
   - translation_iso: jpn
     name: ワルマン語
   - translation_iso: zho

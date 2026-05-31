@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شيبايا
     auto: true
+  - translation_iso: hin
+    name: शिपाया
+    auto: true
   - translation_iso: jpn
     name: シパヤ語
     auto: true

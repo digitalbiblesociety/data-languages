@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك زادني
     auto: true
+  - translation_iso: hin
+    name: ज़ादानी सैपोटेक
+    auto: true
   - translation_iso: jpn
     name: サダニ・サポテク語
     auto: true
