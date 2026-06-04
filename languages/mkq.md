@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مويوك بيي
     auto: true
+  - translation_iso: deu
+    name: Bay Miwok
+    auto: true
   - translation_iso: fra
     name: saclan
   - translation_iso: hin

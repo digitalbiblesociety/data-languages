@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: هروسو
     auto: true
+  - translation_iso: deu
+    name: Hruso
+    auto: true
   - translation_iso: fra
     name: hruso
   - translation_iso: hin

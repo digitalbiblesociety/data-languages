@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فوتونا-أنيوا
     auto: true
+  - translation_iso: deu
+    name: Futuna-Aniwa
+    auto: true
   - translation_iso: fra
     name: futuna-aniwa
   - translation_iso: hin

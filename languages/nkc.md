@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نكونغو
     auto: true
+  - translation_iso: deu
+    name: Nkongho
   - translation_iso: fra
     name: nkongho
   - translation_iso: hin

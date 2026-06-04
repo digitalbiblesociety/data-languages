@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة إينيبو وان
     auto: true
+  - translation_iso: deu
+    name: Inebu One
+    auto: true
   - translation_iso: fra
     name: one inebu
   - translation_iso: hin

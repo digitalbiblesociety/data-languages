@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة ياويجيبايا
     auto: true
+  - translation_iso: deu
+    name: Yawijibaya
+    auto: true
   - translation_iso: fra
     name: yawijibaya
   - translation_iso: hin

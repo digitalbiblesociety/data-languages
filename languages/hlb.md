@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هالبي
     auto: true
+  - translation_iso: deu
+    name: Halbi
+    auto: true
   - translation_iso: fra
     name: halbi
   - translation_iso: hin

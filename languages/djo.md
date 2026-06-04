@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جانجكانج
     auto: true
+  - translation_iso: deu
+    name: Jangkang
+    auto: true
   - translation_iso: fra
     name: Jangkang
     auto: true

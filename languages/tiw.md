@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تيوي
     auto: true
+  - translation_iso: deu
+    name: Tiwi
+    auto: true
   - translation_iso: fra
     name: tiwi
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: شمال بويبلا ناهواتل
     auto: true
+  - translation_iso: deu
+    name: Nord-Puebla-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl du Puebla du Nord
   - translation_iso: hin

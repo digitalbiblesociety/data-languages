@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ييروكولا
     auto: true
+  - translation_iso: deu
+    name: Yerukula
+    auto: true
   - translation_iso: fra
     name: Yerukula
     auto: true

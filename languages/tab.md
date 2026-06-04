@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tabasaran_language"
 translations:
   - translation_iso: ara
     name: التباسرانية
+  - translation_iso: deu
+    name: Tabassaranisch
   - translation_iso: fra
     name: tabassaran
   - translation_iso: hin

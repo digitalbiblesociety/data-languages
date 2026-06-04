@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Swahili"
 translations:
   - translation_iso: ara
     name: السواحلية
+  - translation_iso: deu
+    name: Swahili
   - translation_iso: fra
     name: swahili
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيك
     auto: true
+  - translation_iso: deu
+    name: Icetot
   - translation_iso: fra
     name: ik
   - translation_iso: hin

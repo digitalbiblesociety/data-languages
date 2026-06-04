@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بياو جياو ميين
     auto: true
+  - translation_iso: deu
+    name: Biao-Jiao Mien
+    auto: true
   - translation_iso: fra
     name: biao min
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رونجا
     auto: true
+  - translation_iso: deu
+    name: Runga
+    auto: true
   - translation_iso: fra
     name: rounga
   - translation_iso: hin

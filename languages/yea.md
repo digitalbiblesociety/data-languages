@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رافولا
     auto: true
+  - translation_iso: deu
+    name: Ravula
+    auto: true
   - translation_iso: fra
     name: adiya
   - translation_iso: hin

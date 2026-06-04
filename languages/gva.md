@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآنآ
     auto: true
+  - translation_iso: deu
+    name: Guana (Paraguay)
+    auto: true
   - translation_iso: fra
     name: guaná
   - translation_iso: hin

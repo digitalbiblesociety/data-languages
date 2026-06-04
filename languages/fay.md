@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kuhmareyi_language"
 translations:
   - translation_iso: ara
     name: لهجة کوهمرتي
+  - translation_iso: deu
+    name: Südwest-Fars
+    auto: true
   - translation_iso: fra
     name: Fars du sud-ouest
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيوب
     auto: true
+  - translation_iso: deu
+    name: Teop
+    auto: true
   - translation_iso: fra
     name: teop
   - translation_iso: hin

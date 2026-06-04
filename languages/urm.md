@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوراب مين
     auto: true
+  - translation_iso: deu
+    name: Urapmin
+    auto: true
   - translation_iso: fra
     name: urapmin
   - translation_iso: hin

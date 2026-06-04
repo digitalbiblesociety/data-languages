@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الشمالية الشرقية
     auto: true
+  - translation_iso: deu
+    name: Nordosttasmanisch
+    auto: true
   - translation_iso: fra
     name: pyemmairre
   - translation_iso: hin

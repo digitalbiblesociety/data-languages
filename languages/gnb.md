@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غآنجتإ
     auto: true
+  - translation_iso: deu
+    name: Gangte
+    auto: true
   - translation_iso: fra
     name: gangte
   - translation_iso: hin

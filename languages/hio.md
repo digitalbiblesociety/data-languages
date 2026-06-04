@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tshwa_language"
 translations:
   - translation_iso: ara
     name: لغة تشوا
+  - translation_iso: deu
+    name: Tsoa
   - translation_iso: fra
     name: tsoa
   - translation_iso: hin

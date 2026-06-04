@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فاكي
     auto: true
+  - translation_iso: deu
+    name: Phake
+    auto: true
   - translation_iso: fra
     name: phake
   - translation_iso: hin

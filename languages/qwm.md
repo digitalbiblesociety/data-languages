@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cuman_language"
 translations:
   - translation_iso: ara
     name: اللغة القمانية
+  - translation_iso: deu
+    name: Kumanisch
   - translation_iso: fra
     name: couman
   - translation_iso: hin

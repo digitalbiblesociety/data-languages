@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kenga_language"
 translations:
   - translation_iso: ara
     name: كينغا
+  - translation_iso: deu
+    name: Kenga
   - translation_iso: fra
     name: kenga
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتا
     auto: true
+  - translation_iso: deu
+    name: Bata
+    auto: true
   - translation_iso: fra
     name: bata
   - translation_iso: hin

@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: اللغات غير المشفرة
     auto: true
+  - translation_iso: deu
+    name: Sprache ohne Sprachcode
   - translation_iso: fra
     name: langue sans code spécifique
   - translation_iso: hin

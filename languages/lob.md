@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وبي
     auto: true
+  - translation_iso: deu
+    name: Lobiri
   - translation_iso: fra
     name: lobiri
   - translation_iso: hin

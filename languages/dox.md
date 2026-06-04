@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوسا
     auto: true
+  - translation_iso: deu
+    name: Bussa
   - translation_iso: fra
     name: bussa
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجومبي
     auto: true
+  - translation_iso: deu
+    name: Ngombe (Demokratische Republik Kongo)
+    auto: true
   - translation_iso: fra
     name: lingombe
   - translation_iso: hin

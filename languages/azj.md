@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أذربيجان الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nord-Aserbaidschanisch
   - translation_iso: fra
     name: Azerbaïdjanais septentrional
     auto: true

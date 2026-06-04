@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Tutchone_language"
 translations:
   - translation_iso: ara
     name: التوتشون الشمالية
+  - translation_iso: deu
+    name: Nord-Tutchone
   - translation_iso: fra
     name: tutchone du Nord
   - translation_iso: hin

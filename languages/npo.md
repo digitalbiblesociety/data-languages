@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوشوري ناغا
     auto: true
+  - translation_iso: deu
+    name: Pochuri-Naga
+    auto: true
   - translation_iso: fra
     name: pochuri
   - translation_iso: hin

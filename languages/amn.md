@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أمانب
     auto: true
+  - translation_iso: deu
+    name: Amanab
   - translation_iso: fra
     name: amanab
   - translation_iso: hin

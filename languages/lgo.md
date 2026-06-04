@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة انجو
     auto: true
+  - translation_iso: deu
+    name: Lango (Südsudan)
+    auto: true
   - translation_iso: fra
     name: lango
   - translation_iso: hin

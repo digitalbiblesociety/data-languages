@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تالودي
     auto: true
+  - translation_iso: deu
+    name: Talodi
   - translation_iso: fra
     name: talodi
   - translation_iso: hin

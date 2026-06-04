@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كانكاناي الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nord-Kankanay
+    auto: true
   - translation_iso: fra
     name: kankanay du Nord
   - translation_iso: hin

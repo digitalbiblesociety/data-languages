@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليلاو
     auto: true
+  - translation_iso: deu
+    name: Leelau
+    auto: true
   - translation_iso: fra
     name: Leelau
     auto: true

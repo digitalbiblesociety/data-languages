@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوانو
     auto: true
+  - translation_iso: deu
+    name: Boano (Maluku)
+    auto: true
   - translation_iso: fra
     name: boano
   - translation_iso: hin

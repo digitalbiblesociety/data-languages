@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بافانجي
     auto: true
+  - translation_iso: deu
+    name: Bafanji
   - translation_iso: fra
     name: bafanji
   - translation_iso: hin

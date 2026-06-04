@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة زوخوو
     auto: true
+  - translation_iso: deu
+    name: Zokhuo
+    auto: true
   - translation_iso: fra
     name: Zokhuo
     auto: true

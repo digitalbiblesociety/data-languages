@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة موزي
     auto: true
+  - translation_iso: deu
+    name: Muzi
+    auto: true
   - translation_iso: fra
     name: muzi
   - translation_iso: hin

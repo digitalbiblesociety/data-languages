@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآجá
     auto: true
+  - translation_iso: deu
+    name: Guajá
+    auto: true
   - translation_iso: fra
     name: guaja
   - translation_iso: hin

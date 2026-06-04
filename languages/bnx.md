@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بانجوبانجو
     auto: true
+  - translation_iso: deu
+    name: Bangubangu
+    auto: true
   - translation_iso: fra
     name: bangubangu
   - translation_iso: hin

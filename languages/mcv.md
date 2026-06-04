@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميناني باي
     auto: true
+  - translation_iso: deu
+    name: Minanibai
+    auto: true
   - translation_iso: fra
     name: Minanibai
     auto: true

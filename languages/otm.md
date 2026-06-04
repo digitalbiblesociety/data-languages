@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي الجبلية الشرقية
     auto: true
+  - translation_iso: deu
+    name: Otomí des östlichen Hochlands
+    auto: true
   - translation_iso: fra
     name: otomi de la Sierra
   - translation_iso: hin

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ويمبا ويمبا
     auto: true
+  - translation_iso: deu
+    name: Wemba Wemba
+    auto: true
   - translation_iso: fra
     name: wemba wemba
   - translation_iso: hin

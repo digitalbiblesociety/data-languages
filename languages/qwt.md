@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوالهيوكوا-تلاتسكاناي
     auto: true
+  - translation_iso: deu
+    name: Kwalhioqua-Clatskanie
   - translation_iso: fra
     name: kwalhioqua-clatskanie
   - translation_iso: hin

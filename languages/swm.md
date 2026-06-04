@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ساموسا
     auto: true
+  - translation_iso: deu
+    name: Samosa
+    auto: true
   - translation_iso: fra
     name: samosa
   - translation_iso: hin

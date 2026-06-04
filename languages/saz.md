@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: سورشترا
     auto: true
+  - translation_iso: deu
+    name: Saurashtri
   - translation_iso: fra
     name: saurashtra
   - translation_iso: hin

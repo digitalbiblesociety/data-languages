@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maltese_language"
 translations:
   - translation_iso: ara
     name: المالطية
+  - translation_iso: deu
+    name: Maltesisch
   - translation_iso: fra
     name: maltais
   - translation_iso: hin

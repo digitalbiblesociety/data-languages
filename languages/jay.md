@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يان نهانغو
     auto: true
+  - translation_iso: deu
+    name: Yan-nhangu
+    auto: true
   - translation_iso: fra
     name: yan-nhangu
   - translation_iso: hin

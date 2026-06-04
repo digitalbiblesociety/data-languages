@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مالبا بيريفور
     auto: true
+  - translation_iso: deu
+    name: Malba Birifor
+    auto: true
   - translation_iso: fra
     name: birifor du Nord
   - translation_iso: hin

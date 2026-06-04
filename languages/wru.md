@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وارو
     auto: true
+  - translation_iso: deu
+    name: Waru
+    auto: true
   - translation_iso: fra
     name: waru
   - translation_iso: hin

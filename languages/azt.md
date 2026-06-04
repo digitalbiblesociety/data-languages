@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة فاير أتا
     auto: true
+  - translation_iso: deu
+    name: Faire-Atta
+    auto: true
   - translation_iso: fra
     name: atta de Faire
   - translation_iso: hin

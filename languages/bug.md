@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Buginese_language"
 translations:
   - translation_iso: ara
     name: البوقسية
+  - translation_iso: deu
+    name: Buginesisch
   - translation_iso: fra
     name: bouguinais
   - translation_iso: hin

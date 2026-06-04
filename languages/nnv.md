@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوغونو (أستراليا)
     auto: true
+  - translation_iso: deu
+    name: Nugunu (Australien)
+    auto: true
   - translation_iso: fra
     name: Nugunu (Australie)
     auto: true

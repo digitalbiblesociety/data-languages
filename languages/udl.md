@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وزلام
     auto: true
+  - translation_iso: deu
+    name: Wuzlam
+    auto: true
   - translation_iso: fra
     name: ouldémé
   - translation_iso: hin

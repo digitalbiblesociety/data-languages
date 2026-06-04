@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيايكينا
     auto: true
+  - translation_iso: deu
+    name: Nyikina
+    auto: true
   - translation_iso: fra
     name: nyigina
   - translation_iso: hin

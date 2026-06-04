@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نجارينيمان
     auto: true
+  - translation_iso: deu
+    name: Ngarinyman
+    auto: true
   - translation_iso: fra
     name: ngarinman
   - translation_iso: hin

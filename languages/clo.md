@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السهل واخاكا تشونتال
     auto: true
+  - translation_iso: deu
+    name: Tiefland-Oaxaca-Chontal
+    auto: true
   - translation_iso: fra
     name: chontal des basses terres
   - translation_iso: hin

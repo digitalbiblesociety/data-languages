@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإروا
     auto: true
+  - translation_iso: deu
+    name: Eruwa
+    auto: true
   - translation_iso: fra
     name: eruwa
   - translation_iso: hin

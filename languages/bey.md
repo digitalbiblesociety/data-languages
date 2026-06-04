@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلي
     auto: true
+  - translation_iso: deu
+    name: Beli (Papua New Guinea)
+    auto: true
   - translation_iso: fra
     name: beli
   - translation_iso: hin

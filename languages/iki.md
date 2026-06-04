@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكو
     auto: true
+  - translation_iso: deu
+    name: Iko
+    auto: true
   - translation_iso: fra
     name: Iko
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: إيكوو
     auto: true
+  - translation_iso: deu
+    name: Ikwo
+    auto: true
   - translation_iso: fra
     name: Ikwo
     auto: true

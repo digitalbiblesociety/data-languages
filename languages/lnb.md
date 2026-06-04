@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بالانهو
     auto: true
+  - translation_iso: deu
+    name: Mbalanhu
+    auto: true
   - translation_iso: fra
     name: mbalanhu
   - translation_iso: hin

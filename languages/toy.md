@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبويو
     auto: true
+  - translation_iso: deu
+    name: Topoiyo
+    auto: true
   - translation_iso: fra
     name: Topoiyo
     auto: true

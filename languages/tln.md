@@ -18,8 +18,10 @@ translations:
   - translation_iso: ara
     name: تالوندو
     auto: true
+  - translation_iso: deu
+    name: "Talondo'"
   - translation_iso: fra
-    name: "talondo'"
+    name: talondo
   - translation_iso: hin
     name: तालोन्दो
     auto: true

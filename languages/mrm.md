@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مرلاف
     auto: true
+  - translation_iso: deu
+    name: Mwerlap
   - translation_iso: fra
     name: mwerlap
   - translation_iso: hin

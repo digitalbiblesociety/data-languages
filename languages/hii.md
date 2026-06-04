@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هندوري
     auto: true
+  - translation_iso: deu
+    name: Hinduri
+    auto: true
   - translation_iso: fra
     name: hinduri
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مانامبو
     auto: true
+  - translation_iso: deu
+    name: Manambu
+    auto: true
   - translation_iso: fra
     name: manambu
   - translation_iso: hin

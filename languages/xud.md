@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: أوميدا
     auto: true
+  - translation_iso: deu
+    name: Umiida
+    auto: true
   - translation_iso: fra
     name: umiida
   - translation_iso: hin

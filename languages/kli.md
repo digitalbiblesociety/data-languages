@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كالومبانج
     auto: true
+  - translation_iso: deu
+    name: Kalumpang
   - translation_iso: fra
     name: Kalumpang
     auto: true

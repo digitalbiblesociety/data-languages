@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Low_German"
 translations:
   - translation_iso: ara
     name: الألمانية الدنيا
+  - translation_iso: deu
+    name: Niederdeutsch
   - translation_iso: fra
     name: bas allemand
   - translation_iso: hin

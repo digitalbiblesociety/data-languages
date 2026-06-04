@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بولجيبي
     auto: true
+  - translation_iso: deu
+    name: Bulgebi
+    auto: true
   - translation_iso: fra
     name: bulgebi
   - translation_iso: hin

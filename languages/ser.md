@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيرانو
     auto: true
+  - translation_iso: deu
+    name: Serrano
+    auto: true
   - translation_iso: fra
     name: serrano
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سامو
     auto: true
+  - translation_iso: deu
+    name: Samo
+    auto: true
   - translation_iso: fra
     name: Samo
     auto: true

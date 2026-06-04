@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ان يرنيمو يكاتل ازاتيك
     auto: true
+  - translation_iso: deu
+    name: San Jerónimo Tecóatl Mazatec
+    auto: true
   - translation_iso: fra
     name: Mazatèque de San Jerónimo Tecóatl
     auto: true

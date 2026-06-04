@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بينا
     auto: true
+  - translation_iso: deu
+    name: Bina
+    auto: true
   - translation_iso: fra
     name: bina
   - translation_iso: hin

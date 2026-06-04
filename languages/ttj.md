@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: توورو
     auto: true
+  - translation_iso: deu
+    name: Toro
   - translation_iso: fra
     name: toro
   - translation_iso: hin

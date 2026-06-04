@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك تيداا
     auto: true
+  - translation_iso: deu
+    name: Tidaá-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: Mixtèque de Tidaá
     auto: true

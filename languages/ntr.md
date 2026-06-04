@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديلو
     auto: true
+  - translation_iso: deu
+    name: Delo
   - translation_iso: fra
     name: ntrubo
   - translation_iso: hin

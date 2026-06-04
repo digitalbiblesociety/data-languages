@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كرينياك
     auto: true
+  - translation_iso: deu
+    name: Krenak
+    auto: true
   - translation_iso: fra
     name: krenak
   - translation_iso: hin

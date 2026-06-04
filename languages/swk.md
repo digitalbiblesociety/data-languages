@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سينا ملاوي
     auto: true
+  - translation_iso: deu
+    name: Malawi Sena
+    auto: true
   - translation_iso: fra
     name: sena du Malawi
   - translation_iso: hin

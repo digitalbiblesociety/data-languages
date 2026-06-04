@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووليوولي
     auto: true
+  - translation_iso: deu
+    name: Wuliwuli
+    auto: true
   - translation_iso: fra
     name: Wuliwuli
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غولآ
     auto: true
+  - translation_iso: deu
+    name: Gola
   - translation_iso: fra
     name: gola
   - translation_iso: hin

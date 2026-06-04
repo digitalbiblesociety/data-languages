@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلا
     auto: true
+  - translation_iso: deu
+    name: Bila
   - translation_iso: fra
     name: bila
   - translation_iso: hin

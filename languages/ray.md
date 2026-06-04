@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رابا
     auto: true
+  - translation_iso: deu
+    name: Rapaisch
   - translation_iso: fra
     name: rapa
   - translation_iso: hin

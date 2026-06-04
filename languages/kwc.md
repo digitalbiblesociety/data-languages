@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ليكوالا
     auto: true
+  - translation_iso: deu
+    name: Likwala
   - translation_iso: fra
     name: kwala
   - translation_iso: hin

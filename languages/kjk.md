@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كونجو الجبلية
     auto: true
+  - translation_iso: deu
+    name: Hochland-Konjo
+    auto: true
   - translation_iso: fra
     name: konjo des montagnes
   - translation_iso: hin

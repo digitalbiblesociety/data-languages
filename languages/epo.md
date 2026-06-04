@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Esperanto"
 translations:
   - translation_iso: ara
     name: الإسبرانتية
+  - translation_iso: deu
+    name: Esperanto
   - translation_iso: fra
     name: espéranto
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييكا
     auto: true
+  - translation_iso: deu
+    name: Nyika
+    auto: true
   - translation_iso: fra
     name: nyika
   - translation_iso: hin

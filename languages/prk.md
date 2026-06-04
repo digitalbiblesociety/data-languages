@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراوك
     auto: true
+  - translation_iso: deu
+    name: Parauk
+    auto: true
   - translation_iso: fra
     name: parauk
   - translation_iso: hin

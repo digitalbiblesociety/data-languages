@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوا-كوايكر
     auto: true
+  - translation_iso: deu
+    name: Awa-Cuaiquer
+    auto: true
   - translation_iso: fra
     name: awa pit
   - translation_iso: hin

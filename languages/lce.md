@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لونتشونج
     auto: true
+  - translation_iso: deu
+    name: Loncong
+    auto: true
   - translation_iso: fra
     name: loncong
   - translation_iso: hin

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة سورا
     auto: true
+  - translation_iso: deu
+    name: Sora
   - translation_iso: fra
     name: sora
   - translation_iso: hin

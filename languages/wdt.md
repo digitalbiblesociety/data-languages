@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ويندات
     auto: true
+  - translation_iso: deu
+    name: Wendat
+    auto: true
   - translation_iso: fra
     name: wendat
   - translation_iso: hin

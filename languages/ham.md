@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هإوآ
     auto: true
+  - translation_iso: deu
+    name: Hewa
+    auto: true
   - translation_iso: fra
     name: hewa
   - translation_iso: hin

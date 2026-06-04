@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بندا-يانجيري
     auto: true
+  - translation_iso: deu
+    name: Banda-Yangere
+    auto: true
   - translation_iso: fra
     name: yangere
   - translation_iso: hin

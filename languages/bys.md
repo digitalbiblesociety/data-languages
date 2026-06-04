@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوراك
     auto: true
+  - translation_iso: deu
+    name: Burak
+    auto: true
   - translation_iso: fra
     name: Burak
     auto: true

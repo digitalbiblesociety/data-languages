@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كويوكون
     auto: true
+  - translation_iso: deu
+    name: Koyukon
   - translation_iso: fra
     name: koyukon
   - translation_iso: hin

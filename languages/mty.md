@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نابي
     auto: true
+  - translation_iso: deu
+    name: Nabi
+    auto: true
   - translation_iso: fra
     name: nabi
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Luise%C3%B1o_language"
 translations:
   - translation_iso: ara
     name: اللوسينو
+  - translation_iso: deu
+    name: Luiseno
   - translation_iso: fra
     name: luiseño
   - translation_iso: hin

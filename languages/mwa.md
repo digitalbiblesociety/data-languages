@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موتيبو
     auto: true
+  - translation_iso: deu
+    name: Mwatebu
+    auto: true
   - translation_iso: fra
     name: mwatebu
   - translation_iso: hin

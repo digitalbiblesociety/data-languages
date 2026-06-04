@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونجي
     auto: true
+  - translation_iso: deu
+    name: Bonggi
+    auto: true
   - translation_iso: fra
     name: bonggi
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاراهومارا الوسطى
     auto: true
+  - translation_iso: deu
+    name: Central Tarahumara
+    auto: true
   - translation_iso: fra
     name: tarahumara central
   - translation_iso: hin

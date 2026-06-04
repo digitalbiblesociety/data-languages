@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: رويلا
     auto: true
+  - translation_iso: deu
+    name: Ruwila
+    auto: true
   - translation_iso: fra
     name: Ruwila
     auto: true

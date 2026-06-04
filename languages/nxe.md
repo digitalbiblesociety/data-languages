@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ناغي
     auto: true
+  - translation_iso: deu
+    name: Nage
   - translation_iso: fra
     name: nage
   - translation_iso: hin

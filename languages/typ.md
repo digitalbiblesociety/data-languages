@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تايبان
     auto: true
+  - translation_iso: deu
+    name: Thaypan
+    auto: true
   - translation_iso: fra
     name: thaypan
   - translation_iso: hin

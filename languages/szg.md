@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينجيلي
     auto: true
+  - translation_iso: deu
+    name: Sengele
+    auto: true
   - translation_iso: fra
     name: sengele
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيتان
     auto: true
+  - translation_iso: deu
+    name: Titan
   - translation_iso: fra
     name: titan
   - translation_iso: hin

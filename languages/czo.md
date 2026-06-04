@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مين تشونغ الصينية
     auto: true
+  - translation_iso: deu
+    name: Min Zhong
   - translation_iso: fra
     name: minzhong
   - translation_iso: hin

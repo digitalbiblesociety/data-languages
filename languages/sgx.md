@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سييرا ليون لغة الإشارة
     auto: true
+  - translation_iso: deu
+    name: Sierraleonische Gebärdensprache
   - translation_iso: fra
     name: langue des signes sierra-léonaise
   - translation_iso: hin

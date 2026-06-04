@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة فوريس
     auto: true
+  - translation_iso: deu
+    name: Vurës
+    auto: true
   - translation_iso: fra
     name: vurës
   - translation_iso: hin

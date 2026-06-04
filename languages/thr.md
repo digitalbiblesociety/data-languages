@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: رانا ثارو
     auto: true
+  - translation_iso: deu
+    name: Rana Tharu
+    auto: true
   - translation_iso: fra
     name: tharu rana
   - translation_iso: hin

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوكينا
     auto: true
+  - translation_iso: deu
+    name: Puquina
   - translation_iso: fra
     name: puquina
   - translation_iso: hin

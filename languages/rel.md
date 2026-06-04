@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رينديلي
     auto: true
+  - translation_iso: deu
+    name: Rendille
   - translation_iso: fra
     name: Rendille
   - translation_iso: hin

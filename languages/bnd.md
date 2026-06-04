@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باندا مالوكو
     auto: true
+  - translation_iso: deu
+    name: Banda
   - translation_iso: fra
     name: banda
   - translation_iso: hin

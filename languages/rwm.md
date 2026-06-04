@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أمبا
     auto: true
+  - translation_iso: deu
+    name: Amba (Uganda)
+    auto: true
   - translation_iso: fra
     name: amba
   - translation_iso: hin

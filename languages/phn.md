@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Phoenician_language"
 translations:
   - translation_iso: ara
     name: اللغة الفينيقية
+  - translation_iso: deu
+    name: Phönizisch
   - translation_iso: fra
     name: phénicien
   - translation_iso: hin

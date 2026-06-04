@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بونديلي
     auto: true
+  - translation_iso: deu
+    name: Bundeli
   - translation_iso: fra
     name: bundeli
   - translation_iso: hin

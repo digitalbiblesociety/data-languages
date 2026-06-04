@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الويبي
     auto: true
+  - translation_iso: deu
+    name: Wipi
+    auto: true
   - translation_iso: fra
     name: wipi
   - translation_iso: hin

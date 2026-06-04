@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هويتيبيك ميكستك
     auto: true
+  - translation_iso: deu
+    name: Huitepec-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: mixtèque du Huitepec
   - translation_iso: hin

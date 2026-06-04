@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أتشي
     auto: true
+  - translation_iso: deu
+    name: Achí-Sprache
   - translation_iso: fra
     name: achi
   - translation_iso: hin

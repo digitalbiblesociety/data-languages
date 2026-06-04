@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Illyrian_language"
 translations:
   - translation_iso: ara
     name: اللغة الإيليرية
+  - translation_iso: deu
+    name: Illyrisch
   - translation_iso: fra
     name: langues illyriennes
   - translation_iso: hin

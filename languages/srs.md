@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سارسي
     auto: true
+  - translation_iso: deu
+    name: Sarcee
   - translation_iso: fra
     name: sarsi
   - translation_iso: hin

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة موتشيكا
     auto: true
+  - translation_iso: deu
+    name: Muchik
   - translation_iso: fra
     name: muchik
   - translation_iso: hin

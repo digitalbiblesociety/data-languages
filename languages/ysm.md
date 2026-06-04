@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميانمار الإشارة
     auto: true
+  - translation_iso: deu
+    name: Myanmarische Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: langue des signes birmane
   - translation_iso: hin

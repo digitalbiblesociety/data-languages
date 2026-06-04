@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دونجو
     auto: true
+  - translation_iso: deu
+    name: Dungu
+    auto: true
   - translation_iso: fra
     name: dungu
   - translation_iso: hin

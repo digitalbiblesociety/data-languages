@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماسيوانج
     auto: true
+  - translation_iso: deu
+    name: Masiwang
+    auto: true
   - translation_iso: fra
     name: Masiwang
     auto: true

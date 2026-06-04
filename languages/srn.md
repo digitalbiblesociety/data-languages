@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sranan_Tongo"
 translations:
   - translation_iso: ara
     name: لغة سرانان
+  - translation_iso: deu
+    name: Sranantongo
   - translation_iso: fra
     name: sranan
   - translation_iso: hin

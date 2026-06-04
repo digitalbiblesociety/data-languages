@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: السيباك
     auto: true
+  - translation_iso: deu
+    name: Kibaku
   - translation_iso: fra
     name: cibak
   - translation_iso: hin

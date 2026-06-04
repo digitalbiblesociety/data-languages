@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايري
     auto: true
+  - translation_iso: deu
+    name: Mariri
+    auto: true
   - translation_iso: fra
     name: Mariri
     auto: true

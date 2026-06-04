@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: لغة إيزي
     auto: true
+  - translation_iso: deu
+    name: Izii
+    auto: true
   - translation_iso: fra
     name: Izii
     auto: true

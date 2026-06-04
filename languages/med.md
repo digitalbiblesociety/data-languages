@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ملبا
     auto: true
+  - translation_iso: deu
+    name: Melpa
   - translation_iso: fra
     name: melpa
   - translation_iso: hin

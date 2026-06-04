@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Okinawan_language"
 translations:
   - translation_iso: ara
     name: لغة أوكيناوا
+  - translation_iso: deu
+    name: Zentral-Okinawa
+    auto: true
   - translation_iso: fra
     name: okinawaïen
   - translation_iso: hin

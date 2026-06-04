@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثا
     auto: true
+  - translation_iso: deu
+    name: Tha
+    auto: true
   - translation_iso: fra
     name: tha
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مادي
     auto: true
+  - translation_iso: deu
+    name: "Ma'di"
+    auto: true
   - translation_iso: fra
     name: "ma'di"
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوروها
     auto: true
+  - translation_iso: deu
+    name: Oroha
   - translation_iso: fra
     name: oroha
   - translation_iso: hin

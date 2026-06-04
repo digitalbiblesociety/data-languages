@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بروناي بيسايا
     auto: true
+  - translation_iso: deu
+    name: Brunei Bisaya
+    auto: true
   - translation_iso: fra
     name: bisaya de Brunei
   - translation_iso: hin

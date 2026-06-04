@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بيجا
     auto: true
+  - translation_iso: deu
+    name: Biga
   - translation_iso: fra
     name: biga
   - translation_iso: hin

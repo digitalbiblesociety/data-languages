@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ييمسا
     auto: true
+  - translation_iso: deu
+    name: Yem
   - translation_iso: fra
     name: yemsa
   - translation_iso: hin

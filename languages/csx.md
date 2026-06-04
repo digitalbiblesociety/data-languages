@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكمبودية
     auto: true
+  - translation_iso: deu
+    name: Kambodschanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes cambodgienne
   - translation_iso: hin

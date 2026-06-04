@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مامبوي لونجو
     auto: true
+  - translation_iso: deu
+    name: Mambwe-Lungu
   - translation_iso: fra
     name: mambwe
   - translation_iso: hin

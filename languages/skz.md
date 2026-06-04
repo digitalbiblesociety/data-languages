@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيكار
     auto: true
+  - translation_iso: deu
+    name: Sekar
+    auto: true
   - translation_iso: fra
     name: sekar
   - translation_iso: hin

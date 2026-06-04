@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مينريق
     auto: true
+  - translation_iso: deu
+    name: Minriq
+    auto: true
   - translation_iso: fra
     name: minriq
   - translation_iso: hin

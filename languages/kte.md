@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوبري
     auto: true
+  - translation_iso: deu
+    name: Nubri
+    auto: true
   - translation_iso: fra
     name: nupri
   - translation_iso: hin

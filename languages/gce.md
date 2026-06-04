@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجاليس
     auto: true
+  - translation_iso: deu
+    name: Galice
   - translation_iso: fra
     name: galice
   - translation_iso: hin

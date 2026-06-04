@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ladakhi_language"
 translations:
   - translation_iso: ara
     name: اللغة اللداخية
+  - translation_iso: deu
+    name: Ladakhisch
   - translation_iso: fra
     name: ladakhi
   - translation_iso: hin

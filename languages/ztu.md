@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك غويلا
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Güilá)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Güilá
   - translation_iso: hin

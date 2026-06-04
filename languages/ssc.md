@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبا-سيمبيتي
     auto: true
+  - translation_iso: deu
+    name: Suba-Simbiti
+    auto: true
   - translation_iso: fra
     name: suba-simbiti
   - translation_iso: hin

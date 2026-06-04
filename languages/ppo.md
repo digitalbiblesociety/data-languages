@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فولوبا
     auto: true
+  - translation_iso: deu
+    name: Folopa
+    auto: true
   - translation_iso: fra
     name: folopa
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مانيافا
     auto: true
+  - translation_iso: deu
+    name: Manyawa
+    auto: true
   - translation_iso: fra
     name: manyawa
   - translation_iso: hin

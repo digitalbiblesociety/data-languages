@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنوكي
     auto: true
+  - translation_iso: deu
+    name: Anuki
+    auto: true
   - translation_iso: fra
     name: Anuki
     auto: true

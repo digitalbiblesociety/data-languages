@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: دان
     auto: true
+  - translation_iso: deu
+    name: Dan
   - translation_iso: fra
     name: dan
   - translation_iso: hin

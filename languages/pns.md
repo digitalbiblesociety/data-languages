@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بونوساكان
     auto: true
+  - translation_iso: deu
+    name: Ponosakan
   - translation_iso: fra
     name: ponosakan
   - translation_iso: hin

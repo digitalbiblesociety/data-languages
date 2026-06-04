@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينغو
     auto: true
+  - translation_iso: deu
+    name: Pengo
+    auto: true
   - translation_iso: fra
     name: pengo
   - translation_iso: hin

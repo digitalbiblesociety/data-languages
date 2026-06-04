@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميشب
     auto: true
+  - translation_iso: deu
+    name: Miship
+    auto: true
   - translation_iso: fra
     name: miship
   - translation_iso: hin

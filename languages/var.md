@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوارهيو
     auto: true
+  - translation_iso: deu
+    name: Huarijio
+    auto: true
   - translation_iso: fra
     name: guarijio
   - translation_iso: hin

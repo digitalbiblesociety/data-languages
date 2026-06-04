@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوكار سادونج بيدايو
     auto: true
+  - translation_iso: deu
+    name: Bukar-Sadung-Bidayuh
+    auto: true
   - translation_iso: fra
     name: bukar sadong bidayuh
   - translation_iso: hin

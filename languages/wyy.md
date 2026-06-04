@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويستيرن فيجيان
     auto: true
+  - translation_iso: deu
+    name: West-Fidschianisch
+    auto: true
   - translation_iso: fra
     name: fidjien occidental
   - translation_iso: hin

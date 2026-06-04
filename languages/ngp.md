@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجولو
     auto: true
+  - translation_iso: deu
+    name: Ngulu
+    auto: true
   - translation_iso: fra
     name: ngulu
   - translation_iso: hin

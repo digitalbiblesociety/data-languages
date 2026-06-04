@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كايان بارام
     auto: true
+  - translation_iso: deu
+    name: Baram-Kayan
+    auto: true
   - translation_iso: fra
     name: baram kayan
   - translation_iso: hin

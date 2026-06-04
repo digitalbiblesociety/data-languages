@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تآيآب
     auto: true
+  - translation_iso: deu
+    name: Taiap
+    auto: true
   - translation_iso: fra
     name: taiap
   - translation_iso: hin

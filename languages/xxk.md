@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/K%C3%A9o_language"
 translations:
   - translation_iso: ara
     name: لغة كيو
+  - translation_iso: deu
+    name: "Ke'o"
   - translation_iso: fra
     name: keo
   - translation_iso: hin

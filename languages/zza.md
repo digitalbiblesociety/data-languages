@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zaza_language"
 translations:
   - translation_iso: ara
     name: اللغة الزازاكية
+  - translation_iso: deu
+    name: Zaza-Sprache
   - translation_iso: fra
     name: zazaki
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييام
     auto: true
+  - translation_iso: deu
+    name: Nyam
+    auto: true
   - translation_iso: fra
     name: Nyam
     auto: true

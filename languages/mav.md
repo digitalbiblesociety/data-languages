@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ساتيري ماوي
     auto: true
+  - translation_iso: deu
+    name: Mawé
   - translation_iso: fra
     name: mawé
   - translation_iso: hin

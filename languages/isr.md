@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الإسرائيلية
     auto: true
+  - translation_iso: deu
+    name: Israelische Gebärdensprache
   - translation_iso: fra
     name: langue des signes israélienne
   - translation_iso: hin

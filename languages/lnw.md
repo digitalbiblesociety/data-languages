@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة انيما
     auto: true
+  - translation_iso: deu
+    name: Lanima
+    auto: true
   - translation_iso: fra
     name: lanima
   - translation_iso: hin

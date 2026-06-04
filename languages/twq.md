@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tasawaq_language"
 translations:
   - translation_iso: ara
     name: تاساواق
+  - translation_iso: deu
+    name: Tasawaq
   - translation_iso: fra
     name: tasawaq
   - translation_iso: hin

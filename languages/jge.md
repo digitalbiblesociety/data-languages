@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة يهودية جورجية
     auto: true
+  - translation_iso: deu
+    name: Judäo-Georgisch
   - translation_iso: fra
     name: judéo-géorgien
   - translation_iso: hin

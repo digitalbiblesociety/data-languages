@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيدوا
     auto: true
+  - translation_iso: deu
+    name: Sedoa
+    auto: true
   - translation_iso: fra
     name: Sedoa
     auto: true

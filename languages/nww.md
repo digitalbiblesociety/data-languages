@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ندويوي
     auto: true
+  - translation_iso: deu
+    name: Ndwewe
+    auto: true
   - translation_iso: fra
     name: Ndwewe
     auto: true

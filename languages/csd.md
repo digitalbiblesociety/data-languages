@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة تشيانغماي
     auto: true
+  - translation_iso: deu
+    name: Chiangmai-Gebärdensprache
   - translation_iso: fra
     name: langue des signes de Chiangmai
   - translation_iso: hin

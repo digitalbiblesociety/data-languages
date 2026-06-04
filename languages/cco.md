@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكوماتيبك تشينانتك
     auto: true
+  - translation_iso: deu
+    name: Comaltepec-Chinantekisch
+    auto: true
   - translation_iso: fra
     name: chinantèque de Comaltepec
   - translation_iso: hin

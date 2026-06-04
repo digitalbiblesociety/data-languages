@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة الملايو القديمة
     auto: true
+  - translation_iso: deu
+    name: Altmalaiisch
+    auto: true
   - translation_iso: fra
     name: Malais ancien
     auto: true

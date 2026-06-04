@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zulu_language"
 translations:
   - translation_iso: ara
     name: اللغة الزولوية
+  - translation_iso: deu
+    name: isiZulu
   - translation_iso: fra
     name: zoulou
   - translation_iso: hin

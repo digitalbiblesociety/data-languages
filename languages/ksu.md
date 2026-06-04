@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خام يانج
     auto: true
+  - translation_iso: deu
+    name: Khamyang
+    auto: true
   - translation_iso: fra
     name: khamyang
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتّابو
     auto: true
+  - translation_iso: deu
+    name: Pattapu
+    auto: true
   - translation_iso: fra
     name: pattapu
   - translation_iso: hin

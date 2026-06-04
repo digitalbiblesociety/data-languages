@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميريتي
     auto: true
+  - translation_iso: deu
+    name: Miriti
+    auto: true
   - translation_iso: fra
     name: miriti
   - translation_iso: hin

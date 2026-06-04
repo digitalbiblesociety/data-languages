@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوداغي
     auto: true
+  - translation_iso: deu
+    name: Phudagi
+    auto: true
   - translation_iso: fra
     name: phudagi
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايونج
     auto: true
+  - translation_iso: deu
+    name: Kayong
+    auto: true
   - translation_iso: fra
     name: Kayong
     auto: true

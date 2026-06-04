@@ -11,8 +11,11 @@ translations:
   - translation_iso: ara
     name: أوتشيتشي
     auto: true
-  - translation_iso: fra
+  - translation_iso: deu
     name: "O'chi'chi'"
+    auto: true
+  - translation_iso: fra
+    name: "O'chi'chi"
     auto: true
   - translation_iso: hin
     name: ओचिची

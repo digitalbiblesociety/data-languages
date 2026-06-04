@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: بوموو
     auto: true
+  - translation_iso: deu
+    name: Bomu
   - translation_iso: fra
     name: bomu
   - translation_iso: hin

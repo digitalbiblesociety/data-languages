@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة مابان
     auto: true
+  - translation_iso: deu
+    name: Mabaan
   - translation_iso: fra
     name: mabaan
   - translation_iso: hin

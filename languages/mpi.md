@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mpade_language"
 translations:
   - translation_iso: ara
     name: مبادي
+  - translation_iso: deu
+    name: Mpade
   - translation_iso: fra
     name: makari
   - translation_iso: hin

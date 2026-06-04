@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توريوارا
     auto: true
+  - translation_iso: deu
+    name: Turiwára
+    auto: true
   - translation_iso: fra
     name: turiwara
   - translation_iso: hin

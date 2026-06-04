@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: برو الشرقية
     auto: true
+  - translation_iso: deu
+    name: Eastern Bru
+    auto: true
   - translation_iso: fra
     name: bru de l’Est
   - translation_iso: hin

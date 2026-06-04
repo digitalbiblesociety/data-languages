@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إآستإرن بوليفيآن غوآرآنí
     auto: true
+  - translation_iso: deu
+    name: Ost-Bolivianisches Guaraní
+    auto: true
   - translation_iso: fra
     name: chiriguano
   - translation_iso: hin

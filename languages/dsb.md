@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lower_Sorbian_language"
 translations:
   - translation_iso: ara
     name: الصوربية السفلى
+  - translation_iso: deu
+    name: Niedersorbisch
   - translation_iso: fra
     name: bas-sorabe
   - translation_iso: hin

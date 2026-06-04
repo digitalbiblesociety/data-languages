@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك سان خوان كولورادو
     auto: true
+  - translation_iso: deu
+    name: San Juan Colorado Mixtec
+    auto: true
   - translation_iso: fra
     name: mixtèque de San Juan Colorado
   - translation_iso: hin

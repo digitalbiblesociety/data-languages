@@ -17,6 +17,8 @@ glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid 
 translations:
   - translation_iso: ara
     name: يانجبن
+  - translation_iso: deu
+    name: Yangben
   - translation_iso: fra
     name: yangben
   - translation_iso: hin

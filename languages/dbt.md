@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بن تاي دوجون
     auto: true
+  - translation_iso: deu
+    name: Ben Tey Dogon
+    auto: true
   - translation_iso: fra
     name: ben tey
   - translation_iso: hin

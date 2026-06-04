@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Imperial_Aramaic"
 translations:
   - translation_iso: ara
     name: الآرامية الإمبراطورية
+  - translation_iso: deu
+    name: Reichsaramäisch
   - translation_iso: fra
     name: araméen impérial
   - translation_iso: hin

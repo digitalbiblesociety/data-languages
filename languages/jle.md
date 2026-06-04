@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة نغايل
     auto: true
+  - translation_iso: deu
+    name: Ngile
   - translation_iso: fra
     name: Ngile
     auto: true

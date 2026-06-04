@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماخووا مونيجا
     auto: true
+  - translation_iso: deu
+    name: Makhuwa-Moniga
+    auto: true
   - translation_iso: fra
     name: Makhuwa-Moniga
     auto: true

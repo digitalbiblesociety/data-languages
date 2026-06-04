@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة فارسي-داري
     auto: true
+  - translation_iso: deu
+    name: Parsi-Dari
+    auto: true
   - translation_iso: fra
     name: parsi-dari
   - translation_iso: hin

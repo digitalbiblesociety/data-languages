@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتا بيتا
     auto: true
+  - translation_iso: deu
+    name: Pitta Pitta
+    auto: true
   - translation_iso: fra
     name: pitta pitta
   - translation_iso: hin

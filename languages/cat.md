@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Catalan_language"
 translations:
   - translation_iso: ara
     name: الكتالونية
+  - translation_iso: deu
+    name: Katalanisch
   - translation_iso: fra
     name: catalan
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نييامووسا-مولو
     auto: true
+  - translation_iso: deu
+    name: Nyamusa-Molo
+    auto: true
   - translation_iso: fra
     name: nyamusa-molo
   - translation_iso: hin

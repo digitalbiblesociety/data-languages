@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلوكسي
     auto: true
+  - translation_iso: deu
+    name: Biloxi
   - translation_iso: fra
     name: biloxi
   - translation_iso: hin

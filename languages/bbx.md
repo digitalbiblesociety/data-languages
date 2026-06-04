@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوبيا
     auto: true
+  - translation_iso: deu
+    name: Bubia
   - translation_iso: fra
     name: bubia
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجودواري
     auto: true
+  - translation_iso: deu
+    name: Godwari
+    auto: true
   - translation_iso: fra
     name: Godwari
     auto: true

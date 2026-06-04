@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يانْجكام
     auto: true
+  - translation_iso: deu
+    name: Yangkam
   - translation_iso: fra
     name: yangkam
   - translation_iso: hin

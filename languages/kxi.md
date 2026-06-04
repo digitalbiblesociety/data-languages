@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موروت كينينجاو
     auto: true
+  - translation_iso: deu
+    name: Keningau-Murut
+    auto: true
   - translation_iso: fra
     name: murut keningau
   - translation_iso: hin

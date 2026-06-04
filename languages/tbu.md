@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبار
     auto: true
+  - translation_iso: deu
+    name: Tubar
+    auto: true
   - translation_iso: fra
     name: Tubar
     auto: true

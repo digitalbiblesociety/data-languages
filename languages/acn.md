@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أتشانج
     auto: true
+  - translation_iso: deu
+    name: Achang
+    auto: true
   - translation_iso: fra
     name: achang
   - translation_iso: hin

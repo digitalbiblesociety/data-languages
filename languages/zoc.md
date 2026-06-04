@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوكي كوبايناليا
     auto: true
+  - translation_iso: deu
+    name: Zoque (Copainalá)
+    auto: true
   - translation_iso: fra
     name: zoque de Copainalá
   - translation_iso: hin

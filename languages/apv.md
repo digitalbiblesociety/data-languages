@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة نامبيكوارا الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nord-Nambikwara
+    auto: true
   - translation_iso: fra
     name: Nambikwara septentrional
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Minangkabau_language"
 translations:
   - translation_iso: ara
     name: لغة مينانغكاباو
+  - translation_iso: deu
+    name: Minangkabauisch
   - translation_iso: fra
     name: minangkabau
   - translation_iso: hin

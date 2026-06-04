@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gule_language"
 translations:
   - translation_iso: ara
     name: لغة جولي
+  - translation_iso: deu
+    name: Gule
+    auto: true
   - translation_iso: fra
     name: gule
   - translation_iso: hin

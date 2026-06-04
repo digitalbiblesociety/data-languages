@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميلاناو كانويت-تانجونج
     auto: true
+  - translation_iso: deu
+    name: Kanowit-Tanjong-Melanau
+    auto: true
   - translation_iso: fra
     name: kanowit
   - translation_iso: hin

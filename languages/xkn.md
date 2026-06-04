@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كايان نهر كايان
     auto: true
+  - translation_iso: deu
+    name: Kayan River Kayan
+    auto: true
   - translation_iso: fra
     name: kayan de la rivière Kayan
   - translation_iso: hin

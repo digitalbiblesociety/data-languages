@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كراتشي
     auto: true
+  - translation_iso: deu
+    name: Kratschi
   - translation_iso: fra
     name: krache
   - translation_iso: hin

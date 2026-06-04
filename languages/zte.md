@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك إلوتيبيك
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Elotepec)
+    auto: true
   - translation_iso: fra
     name: "zapotèque d'Elotepec"
   - translation_iso: hin

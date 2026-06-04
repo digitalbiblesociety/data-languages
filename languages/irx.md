@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كامبيراو
     auto: true
+  - translation_iso: deu
+    name: Kamberau
+    auto: true
   - translation_iso: fra
     name: Kamberau
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راجي
     auto: true
+  - translation_iso: deu
+    name: Raji
+    auto: true
   - translation_iso: fra
     name: raji
   - translation_iso: hin

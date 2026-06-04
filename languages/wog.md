@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووغاموسين
     auto: true
+  - translation_iso: deu
+    name: Wogamusin
+    auto: true
   - translation_iso: fra
     name: wogamusin
   - translation_iso: hin

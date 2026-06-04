@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pali"
 translations:
   - translation_iso: ara
     name: بالي
+  - translation_iso: deu
+    name: Pali
   - translation_iso: fra
     name: pali
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ليجيلي
     auto: true
+  - translation_iso: deu
+    name: Lijili
+    auto: true
   - translation_iso: fra
     name: Lijili
   - translation_iso: hin

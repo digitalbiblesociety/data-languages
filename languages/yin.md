@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ريانج لاي
     auto: true
+  - translation_iso: deu
+    name: Riang Lai
+    auto: true
   - translation_iso: fra
     name: yinchia
   - translation_iso: hin

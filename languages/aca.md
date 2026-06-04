@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أتشاغوّا
     auto: true
+  - translation_iso: deu
+    name: Achagua
+    auto: true
   - translation_iso: fra
     name: achagua
   - translation_iso: hin

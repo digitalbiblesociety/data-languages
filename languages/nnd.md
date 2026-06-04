@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أمباي الغربية
     auto: true
+  - translation_iso: deu
+    name: West-Ambae
+    auto: true
   - translation_iso: fra
     name: "ambae de l'Ouest"
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونا
     auto: true
+  - translation_iso: deu
+    name: Ona
+    auto: true
   - translation_iso: fra
     name: selknam
   - translation_iso: hin

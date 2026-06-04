@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاتشيكسيو
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Lachixío)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Lachixío
   - translation_iso: hin

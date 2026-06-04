@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وا
     auto: true
+  - translation_iso: deu
+    name: Wa
+    auto: true
   - translation_iso: fra
     name: vo
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اكها
     auto: true
+  - translation_iso: deu
+    name: Lakha
+    auto: true
   - translation_iso: fra
     name: lakha
   - translation_iso: hin

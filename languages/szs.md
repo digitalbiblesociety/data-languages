@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بجزر سليمان
     auto: true
+  - translation_iso: deu
+    name: Solomon Islands Sign Language
   - translation_iso: fra
     name: langue des signe salamonaise
   - translation_iso: hin

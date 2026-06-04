@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبياكا
     auto: true
+  - translation_iso: deu
+    name: Apiaká
+    auto: true
   - translation_iso: fra
     name: apiaka
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هونجارا-كاينا كي
     auto: true
+  - translation_iso: deu
+    name: Hunjara-Kaina Ke
+    auto: true
   - translation_iso: fra
     name: hunjara-kaina ke
   - translation_iso: hin

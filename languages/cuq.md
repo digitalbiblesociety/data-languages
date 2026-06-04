@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكون
     auto: true
+  - translation_iso: deu
+    name: Cun
+    auto: true
   - translation_iso: fra
     name: cun
   - translation_iso: hin

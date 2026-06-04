@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بلابلانجا
     auto: true
+  - translation_iso: deu
+    name: Blablanga
+    auto: true
   - translation_iso: fra
     name: blablanga
   - translation_iso: hin

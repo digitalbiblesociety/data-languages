@@ -18,8 +18,10 @@ translations:
   - translation_iso: ara
     name: "ندا'ندا"
     auto: true
+  - translation_iso: deu
+    name: "Nda'nda'"
   - translation_iso: fra
-    name: "nda'nda'"
+    name: "nda'nda"
   - translation_iso: hin
     name: न्दान्दा
     auto: true

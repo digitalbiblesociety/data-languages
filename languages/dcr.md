@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيجرهولندس
     auto: true
+  - translation_iso: deu
+    name: Negerholländisch
   - translation_iso: fra
     name: Negerhollands
     auto: true

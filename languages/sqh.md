@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة شاو
     auto: true
+  - translation_iso: deu
+    name: Shau
+    auto: true
   - translation_iso: fra
     name: Shau
     auto: true

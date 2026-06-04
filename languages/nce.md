@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: يل
     auto: true
+  - translation_iso: deu
+    name: Yale
+    auto: true
   - translation_iso: fra
     name: yale
   - translation_iso: hin

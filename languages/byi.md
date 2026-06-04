@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بويو
     auto: true
+  - translation_iso: deu
+    name: Buyu
+    auto: true
   - translation_iso: fra
     name: buyu
   - translation_iso: hin

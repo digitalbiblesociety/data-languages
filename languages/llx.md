@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة لاوان
     auto: true
+  - translation_iso: deu
+    name: Lauanisch
   - translation_iso: fra
     name: lau
   - translation_iso: hin

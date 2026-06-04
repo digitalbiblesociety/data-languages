@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك إيكستلان الجنوبي الشرقي
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Südost-Ixtlán)
+    auto: true
   - translation_iso: fra
     name: "zapotèque d'Ixtlán du Sud-Est"
   - translation_iso: hin

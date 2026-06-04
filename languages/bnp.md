@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بولا
     auto: true
+  - translation_iso: deu
+    name: Bola
+    auto: true
   - translation_iso: fra
     name: bola
   - translation_iso: hin

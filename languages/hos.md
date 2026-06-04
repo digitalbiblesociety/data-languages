@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بمدينة هو تشي منه
     auto: true
+  - translation_iso: deu
+    name: Ho-Chi-Minh-Stadt-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: langue des signes de Ho Chi Minh Ville
   - translation_iso: hin

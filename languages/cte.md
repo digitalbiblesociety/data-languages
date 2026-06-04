@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيبيناپا تشينانتك
     auto: true
+  - translation_iso: deu
+    name: Tepinapa-Chinantekisch
+    auto: true
   - translation_iso: fra
     name: chinantèque de Tepinapa
   - translation_iso: hin

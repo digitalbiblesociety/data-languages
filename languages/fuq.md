@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الفولفولدية النيجر الوسط-الشرقية
     auto: true
+  - translation_iso: deu
+    name: Zentral-Ost-Niger-Fulfulde
+    auto: true
   - translation_iso: fra
     name: peul du Niger centre-oriental
   - translation_iso: hin

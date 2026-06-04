@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: التايو
     auto: true
+  - translation_iso: deu
+    name: Tayo
   - translation_iso: fra
     name: tayo
   - translation_iso: hin

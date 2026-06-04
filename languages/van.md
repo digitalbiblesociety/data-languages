@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فالمان
     auto: true
+  - translation_iso: deu
+    name: Valman
+    auto: true
   - translation_iso: fra
     name: valman
   - translation_iso: hin

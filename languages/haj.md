@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hajong_language"
 translations:
   - translation_iso: ara
     name: لغة_هاجونغية
+  - translation_iso: deu
+    name: Hajong
+    auto: true
   - translation_iso: fra
     name: hajong
   - translation_iso: hin

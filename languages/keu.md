@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أكيبو
     auto: true
+  - translation_iso: deu
+    name: Akebu
   - translation_iso: fra
     name: akébou
   - translation_iso: hin

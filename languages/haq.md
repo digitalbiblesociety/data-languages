@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآ
     auto: true
+  - translation_iso: deu
+    name: Ha
+    auto: true
   - translation_iso: fra
     name: giha
   - translation_iso: hin

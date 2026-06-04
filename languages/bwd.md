@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوايدوكا
     auto: true
+  - translation_iso: deu
+    name: Bwaidoka
+    auto: true
   - translation_iso: fra
     name: bwaidoga
   - translation_iso: hin

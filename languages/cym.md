@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Welsh_language"
 translations:
   - translation_iso: ara
     name: الويلزية
+  - translation_iso: deu
+    name: Walisisch
   - translation_iso: fra
     name: gallois
   - translation_iso: hin

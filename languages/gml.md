@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Low_German"
 translations:
   - translation_iso: ara
     name: الألمانية الدنيا الوسيطة
+  - translation_iso: deu
+    name: Mittelniederdeutsch
   - translation_iso: fra
     name: moyen bas allemand
   - translation_iso: hin

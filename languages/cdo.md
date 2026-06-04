@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Min"
 translations:
   - translation_iso: ara
     name: مين الشرقية
+  - translation_iso: deu
+    name: Min Dong
   - translation_iso: fra
     name: mindong
   - translation_iso: hin

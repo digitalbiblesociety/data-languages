@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باوزي
     auto: true
+  - translation_iso: deu
+    name: Bauzi
   - translation_iso: fra
     name: Bauzi
   - translation_iso: hin

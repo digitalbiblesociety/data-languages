@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تانغتشانغيا
     auto: true
+  - translation_iso: deu
+    name: Tangchangya
+    auto: true
   - translation_iso: fra
     name: tanchangya
   - translation_iso: hin

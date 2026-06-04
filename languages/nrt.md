@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالابويا الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Kalapuya
+    auto: true
   - translation_iso: fra
     name: kalapuya du Nord
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/%C3%84ynu_language"
 translations:
   - translation_iso: ara
     name: لغة آينو
+  - translation_iso: deu
+    name: Äynu
   - translation_iso: fra
     name: aïnou
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالانتا جانجا
     auto: true
+  - translation_iso: deu
+    name: Balanta-Ganja
+    auto: true
   - translation_iso: fra
     name: balante-ganja
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ممونية
     auto: true
+  - translation_iso: deu
+    name: Memoni
+    auto: true
   - translation_iso: fra
     name: Memoni
     auto: true

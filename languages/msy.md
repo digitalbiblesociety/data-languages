@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أروامو
     auto: true
+  - translation_iso: deu
+    name: Aruamu
+    auto: true
   - translation_iso: fra
     name: aruamu
   - translation_iso: hin

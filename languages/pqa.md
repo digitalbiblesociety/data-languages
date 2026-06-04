@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باعا
     auto: true
+  - translation_iso: deu
+    name: "Pa'a"
+    auto: true
   - translation_iso: fra
     name: "pa'a"
   - translation_iso: hin

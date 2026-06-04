@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشينوك
     auto: true
+  - translation_iso: deu
+    name: Chinook
+    auto: true
   - translation_iso: fra
     name: bas chinook
   - translation_iso: hin

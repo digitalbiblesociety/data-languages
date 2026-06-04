@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتال
     auto: true
+  - translation_iso: deu
+    name: Matal
+    auto: true
   - translation_iso: fra
     name: mouktélé
   - translation_iso: hin

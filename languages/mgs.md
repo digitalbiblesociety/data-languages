@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندا
     auto: true
+  - translation_iso: deu
+    name: Manda (Tanzania)
+    auto: true
   - translation_iso: fra
     name: manda
   - translation_iso: hin

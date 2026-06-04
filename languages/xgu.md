@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ونغغومي
     auto: true
+  - translation_iso: deu
+    name: Unggumi
+    auto: true
   - translation_iso: fra
     name: unggumi
   - translation_iso: hin

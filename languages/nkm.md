@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نامات
     auto: true
+  - translation_iso: deu
+    name: Namat
+    auto: true
   - translation_iso: fra
     name: namat
   - translation_iso: hin

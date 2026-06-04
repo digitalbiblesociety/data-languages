@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانابج
     auto: true
+  - translation_iso: deu
+    name: Tanapag
+    auto: true
   - translation_iso: fra
     name: tanapag
   - translation_iso: hin

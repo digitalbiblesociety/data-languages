@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاجيو
     auto: true
+  - translation_iso: deu
+    name: Tajio
+    auto: true
   - translation_iso: fra
     name: tajio
   - translation_iso: hin

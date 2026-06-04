@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بنتلاتش
     auto: true
+  - translation_iso: deu
+    name: Pentlatch
   - translation_iso: fra
     name: pentlatch
   - translation_iso: hin

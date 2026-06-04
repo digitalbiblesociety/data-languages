@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغاسا
     auto: true
+  - translation_iso: deu
+    name: Ngasa
+    auto: true
   - translation_iso: fra
     name: ongamo
   - translation_iso: hin

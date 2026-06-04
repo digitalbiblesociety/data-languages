@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكودا
     auto: true
+  - translation_iso: deu
+    name: Koda
+    auto: true
   - translation_iso: fra
     name: koda
   - translation_iso: hin

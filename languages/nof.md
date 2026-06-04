@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نومان
     auto: true
+  - translation_iso: deu
+    name: Nomane
+    auto: true
   - translation_iso: fra
     name: Nomane
     auto: true

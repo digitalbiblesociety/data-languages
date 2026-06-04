@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واداجينام
     auto: true
+  - translation_iso: deu
+    name: Wadaginam
+    auto: true
   - translation_iso: fra
     name: Wadaginam
     auto: true

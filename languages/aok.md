@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أرهو
     auto: true
+  - translation_iso: deu
+    name: Arhö
+    auto: true
   - translation_iso: fra
     name: arhö
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تانانا السفلى
     auto: true
+  - translation_iso: deu
+    name: Lower Tanana
   - translation_iso: fra
     name: tanana
   - translation_iso: hin

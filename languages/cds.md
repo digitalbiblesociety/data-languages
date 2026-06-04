@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التشادية
     auto: true
+  - translation_iso: deu
+    name: Tschadische Gebärdensprache
   - translation_iso: fra
     name: langue des signes tchadienne
   - translation_iso: hin

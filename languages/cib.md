@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سي غبي
     auto: true
+  - translation_iso: deu
+    name: Ci Gbe
+    auto: true
   - translation_iso: fra
     name: Ci-gbe
   - translation_iso: hin

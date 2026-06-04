@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشيربون
     auto: true
+  - translation_iso: deu
+    name: Cherepon
   - translation_iso: fra
     name: Cherepon
     auto: true

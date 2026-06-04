@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واكابونغا
     auto: true
+  - translation_iso: deu
+    name: Wakabunga
+    auto: true
   - translation_iso: fra
     name: Wakabunga
     auto: true

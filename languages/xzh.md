@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تشانج-تشونج
     auto: true
+  - translation_iso: deu
+    name: Zhang-Zhung
+    auto: true
   - translation_iso: fra
     name: zhang-zhung
   - translation_iso: hin

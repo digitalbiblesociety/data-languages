@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جنوب بوبو مادري
     auto: true
+  - translation_iso: deu
+    name: Südliches Bobo Madaré
+    auto: true
   - translation_iso: fra
     name: bobo madaré du Sud
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مويكودي
     auto: true
+  - translation_iso: deu
+    name: Moikodi
+    auto: true
   - translation_iso: fra
     name: moikodi
   - translation_iso: hin

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ba%E1%B9%AD%E1%B8%A5ari_language"
 translations:
   - translation_iso: ara
     name: لغة باثارية
+  - translation_iso: deu
+    name: Bathari
+    auto: true
   - translation_iso: fra
     name: bathari
   - translation_iso: hin

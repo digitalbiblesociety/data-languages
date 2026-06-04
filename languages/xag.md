@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اغهوان
     auto: true
+  - translation_iso: deu
+    name: Alwanisch
   - translation_iso: fra
     name: albanien
   - translation_iso: hin

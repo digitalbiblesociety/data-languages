@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوفيم
     auto: true
+  - translation_iso: deu
+    name: Ufim
+    auto: true
   - translation_iso: fra
     name: ufim
   - translation_iso: hin

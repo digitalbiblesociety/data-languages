@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Livonian_language"
 translations:
   - translation_iso: ara
     name: الليفونية
+  - translation_iso: deu
+    name: Livisch
   - translation_iso: fra
     name: live
   - translation_iso: hin

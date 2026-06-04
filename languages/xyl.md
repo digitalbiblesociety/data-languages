@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: يالاكالوري
     auto: true
+  - translation_iso: deu
+    name: Yalakalore
+    auto: true
   - translation_iso: fra
     name: yalakalore
   - translation_iso: hin

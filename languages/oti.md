@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتي
     auto: true
+  - translation_iso: deu
+    name: Oti
+    auto: true
   - translation_iso: fra
     name: otí
   - translation_iso: hin

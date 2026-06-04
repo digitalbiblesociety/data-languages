@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيلامبا
     auto: true
+  - translation_iso: deu
+    name: Nilamba
+    auto: true
   - translation_iso: fra
     name: iramba
   - translation_iso: hin

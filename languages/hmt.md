@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هامتاي
     auto: true
+  - translation_iso: deu
+    name: Hamtai
+    auto: true
   - translation_iso: fra
     name: Hamtai
     auto: true

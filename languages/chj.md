@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوجيتلان تشينانتك
     auto: true
+  - translation_iso: deu
+    name: Ojitlán-Chinantekisch
+    auto: true
   - translation_iso: fra
     name: chinantèque d’Ojitlán
   - translation_iso: hin

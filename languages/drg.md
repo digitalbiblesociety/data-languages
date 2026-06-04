@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رونجوس
     auto: true
+  - translation_iso: deu
+    name: Rungus
+    auto: true
   - translation_iso: fra
     name: rungus
   - translation_iso: hin

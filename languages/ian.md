@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيتمول
     auto: true
+  - translation_iso: deu
+    name: Iatmul
   - translation_iso: fra
     name: iatmul
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفانباك
     auto: true
+  - translation_iso: deu
+    name: Fanbak
+    auto: true
   - translation_iso: fra
     name: orkon-fanbak
   - translation_iso: hin

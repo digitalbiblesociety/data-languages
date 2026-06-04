@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ووشي
     auto: true
+  - translation_iso: deu
+    name: Wuschi
   - translation_iso: fra
     name: wushi
   - translation_iso: hin

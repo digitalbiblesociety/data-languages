@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يوو يلينج
     auto: true
+  - translation_iso: deu
+    name: Lewo Eleng
   - translation_iso: fra
     name: Lewo Eleng
     auto: true

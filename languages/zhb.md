@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جابا
     auto: true
+  - translation_iso: deu
+    name: Zhaba
+    auto: true
   - translation_iso: fra
     name: zhaba
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كووما
     auto: true
+  - translation_iso: deu
+    name: Kwoma
+    auto: true
   - translation_iso: fra
     name: kwoma
   - translation_iso: hin

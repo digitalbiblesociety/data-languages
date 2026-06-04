@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوانابوانا
     auto: true
+  - translation_iso: deu
+    name: Bwanabwana
+    auto: true
   - translation_iso: fra
     name: Bwanabwana
     auto: true

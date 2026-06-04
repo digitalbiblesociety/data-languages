@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكندالية الشاهية
     auto: true
+  - translation_iso: deu
+    name: Kundal Shahi
+    auto: true
   - translation_iso: fra
     name: Kundal Shahi
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Balkan_Turkish_language"
 translations:
   - translation_iso: ara
     name: البلقانية الغاغاوزية
+  - translation_iso: deu
+    name: Balkan-Gagausische Sprache
   - translation_iso: fra
     name: gagaouze des Balkans
   - translation_iso: hin

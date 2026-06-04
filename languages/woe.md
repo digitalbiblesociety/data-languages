@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ووليايان
     auto: true
+  - translation_iso: deu
+    name: Woleaianisch
   - translation_iso: fra
     name: woleai
   - translation_iso: hin

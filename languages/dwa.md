@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديري
     auto: true
+  - translation_iso: deu
+    name: Diri
+    auto: true
   - translation_iso: fra
     name: diri
   - translation_iso: hin

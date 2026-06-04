@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابين
     auto: true
+  - translation_iso: deu
+    name: "Babine-Witsuwit'en"
   - translation_iso: fra
     name: babine
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابا
     auto: true
+  - translation_iso: deu
+    name: Baba
   - translation_iso: fra
     name: baba
   - translation_iso: hin

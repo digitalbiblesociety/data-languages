@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نويبكس
     auto: true
+  - translation_iso: deu
+    name: Noipx
+    auto: true
   - translation_iso: fra
     name: noipx
   - translation_iso: hin

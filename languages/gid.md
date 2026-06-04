@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غيدآر
     auto: true
+  - translation_iso: deu
+    name: Gidar
   - translation_iso: fra
     name: gidar
   - translation_iso: hin

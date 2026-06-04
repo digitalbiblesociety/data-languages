@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتاتس
     auto: true
+  - translation_iso: deu
+    name: Petats
+    auto: true
   - translation_iso: fra
     name: petats
   - translation_iso: hin

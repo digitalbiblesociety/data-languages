@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: بهوتاني ساين لانجويج
     auto: true
+  - translation_iso: deu
+    name: Bhutanische Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: Langue des signes du Bhoutan
     auto: true

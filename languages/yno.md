@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يونغ
     auto: true
+  - translation_iso: deu
+    name: Yong
+    auto: true
   - translation_iso: fra
     name: Yong
     auto: true

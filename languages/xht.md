@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: هاتتيك
     auto: true
+  - translation_iso: deu
+    name: Hattisch
   - translation_iso: fra
     name: hatti
   - translation_iso: hin

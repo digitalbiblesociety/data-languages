@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أندْيو
     auto: true
+  - translation_iso: deu
+    name: Andio
   - translation_iso: fra
     name: andio
   - translation_iso: hin

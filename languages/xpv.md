@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nordtasmanisch
+    auto: true
   - translation_iso: fra
     name: tommeginne
   - translation_iso: hin

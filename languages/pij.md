@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيجاو
     auto: true
+  - translation_iso: deu
+    name: Pijao
+    auto: true
   - translation_iso: fra
     name: Pijao
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cheyenne_language"
 translations:
   - translation_iso: ara
     name: الشايانية
+  - translation_iso: deu
+    name: Cheyenne
   - translation_iso: fra
     name: cheyenne
   - translation_iso: hin

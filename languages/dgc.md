@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاسيجوران دوماجات أجتا
     auto: true
+  - translation_iso: deu
+    name: Casiguran-Dumagat-Agta
+    auto: true
   - translation_iso: fra
     name: agta de Casiguran
   - translation_iso: hin

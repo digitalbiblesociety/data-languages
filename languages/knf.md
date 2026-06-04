@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة مانكانيا
     auto: true
+  - translation_iso: deu
+    name: Mankanja
   - translation_iso: fra
     name: mancagne
   - translation_iso: hin

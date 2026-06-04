@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألغونكوين
     auto: true
+  - translation_iso: deu
+    name: Algonquin
   - translation_iso: fra
     name: algonquin
   - translation_iso: hin

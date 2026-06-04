@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة باريكيوا
     auto: true
+  - translation_iso: deu
+    name: Barikewa
+    auto: true
   - translation_iso: fra
     name: barikewa
   - translation_iso: hin

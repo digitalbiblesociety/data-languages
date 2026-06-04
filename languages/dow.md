@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دويايو
     auto: true
+  - translation_iso: deu
+    name: Doyayo
   - translation_iso: fra
     name: dowayo
   - translation_iso: hin

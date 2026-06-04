@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أوكولود
     auto: true
+  - translation_iso: deu
+    name: Okolod
+    auto: true
   - translation_iso: fra
     name: Okolod
     auto: true

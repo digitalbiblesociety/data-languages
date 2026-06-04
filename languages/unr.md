@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: موندارس
     auto: true
+  - translation_iso: deu
+    name: Mundari
   - translation_iso: fra
     name: mundari
   - translation_iso: hin

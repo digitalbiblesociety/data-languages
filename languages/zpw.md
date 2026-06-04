@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك زانيزا
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Zaniza)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Zaniza
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سارامكان
     auto: true
+  - translation_iso: deu
+    name: Saramaccaans
   - translation_iso: fra
     name: saramaka
   - translation_iso: hin

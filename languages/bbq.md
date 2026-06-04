@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بامالي
     auto: true
+  - translation_iso: deu
+    name: Bamali
   - translation_iso: fra
     name: bamali
   - translation_iso: hin

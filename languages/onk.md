@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كابوري وان
     auto: true
+  - translation_iso: deu
+    name: Kabore One
+    auto: true
   - translation_iso: fra
     name: one kabore
   - translation_iso: hin

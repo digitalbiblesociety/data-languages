@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يوانغا
     auto: true
+  - translation_iso: deu
+    name: Yuanga
+    auto: true
   - translation_iso: fra
     name: yuanga-zuanga
   - translation_iso: hin

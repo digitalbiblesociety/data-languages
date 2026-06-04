@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساريكولي
     auto: true
+  - translation_iso: deu
+    name: Sarikoli
+    auto: true
   - translation_iso: fra
     name: sariqoli
   - translation_iso: hin

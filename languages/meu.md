@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موتو
     auto: true
+  - translation_iso: deu
+    name: Motu
+    auto: true
   - translation_iso: fra
     name: motu
   - translation_iso: hin

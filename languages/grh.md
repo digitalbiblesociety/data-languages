@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غبيري-نيرآغو
     auto: true
+  - translation_iso: deu
+    name: Gbiri-Niragu
+    auto: true
   - translation_iso: fra
     name: gbiri-niragu
   - translation_iso: hin

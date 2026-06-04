@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: الدامبي
     auto: true
+  - translation_iso: deu
+    name: Dambi
+    auto: true
   - translation_iso: fra
     name: dambi
   - translation_iso: hin

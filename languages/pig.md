@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيسابو
     auto: true
+  - translation_iso: deu
+    name: Pisabo
+    auto: true
   - translation_iso: fra
     name: pisabo
   - translation_iso: hin

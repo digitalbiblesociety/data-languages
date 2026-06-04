@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سووث غيزيغآ
     auto: true
+  - translation_iso: deu
+    name: Südliches Giziga
+    auto: true
   - translation_iso: fra
     name: guiziga du Sud
   - translation_iso: hin

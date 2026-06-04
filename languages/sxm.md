@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: سامري
     auto: true
+  - translation_iso: deu
+    name: Samre
+    auto: true
   - translation_iso: fra
     name: samre
   - translation_iso: hin

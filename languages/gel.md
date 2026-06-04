@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: "وت-مآ'ين"
     auto: true
+  - translation_iso: deu
+    name: "Ut-Ma'in"
   - translation_iso: fra
     name: ut-ma’in
   - translation_iso: hin

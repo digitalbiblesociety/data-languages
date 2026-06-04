@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باوني
     auto: true
+  - translation_iso: deu
+    name: Pawnee
+    auto: true
   - translation_iso: fra
     name: pawnee
   - translation_iso: hin

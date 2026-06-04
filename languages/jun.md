@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جوانغ
     auto: true
+  - translation_iso: deu
+    name: Juang
   - translation_iso: fra
     name: juang
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خيسا
     auto: true
+  - translation_iso: deu
+    name: Khisa
+    auto: true
   - translation_iso: fra
     name: khisa
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيلوبي
     auto: true
+  - translation_iso: deu
+    name: Silopi
+    auto: true
   - translation_iso: fra
     name: silopi
   - translation_iso: hin

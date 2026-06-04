@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيمبايان
     auto: true
+  - translation_iso: deu
+    name: Kembayan
+    auto: true
   - translation_iso: fra
     name: Kembayan
     auto: true

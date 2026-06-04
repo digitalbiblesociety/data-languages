@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: باجا سوباني
     auto: true
+  - translation_iso: deu
+    name: Baga Sobané
+    auto: true
   - translation_iso: fra
     name: Baga Sobané
     auto: true

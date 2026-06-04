@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hittite_language"
 translations:
   - translation_iso: ara
     name: الحيثية
+  - translation_iso: deu
+    name: Hethitisch
   - translation_iso: fra
     name: hittite
   - translation_iso: hin

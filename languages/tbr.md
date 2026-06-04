@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تمتم
     auto: true
+  - translation_iso: deu
+    name: Tumtum
+    auto: true
   - translation_iso: fra
     name: tumtum
   - translation_iso: hin

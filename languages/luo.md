@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dholuo"
 translations:
   - translation_iso: ara
     name: الدهولوية
+  - translation_iso: deu
+    name: Luo
   - translation_iso: fra
     name: luo
   - translation_iso: hin

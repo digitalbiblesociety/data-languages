@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتاباتو مانوبو
     auto: true
+  - translation_iso: deu
+    name: Cotabato-Manobo
+    auto: true
   - translation_iso: fra
     name: Manobo de Cotabato
     auto: true

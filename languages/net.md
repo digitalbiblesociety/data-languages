@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيتي
     auto: true
+  - translation_iso: deu
+    name: Nete
+    auto: true
   - translation_iso: fra
     name: nete
   - translation_iso: hin

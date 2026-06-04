@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بورار
     auto: true
+  - translation_iso: deu
+    name: Purari
+    auto: true
   - translation_iso: fra
     name: purari
   - translation_iso: hin

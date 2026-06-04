@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سالت-يوي
     auto: true
+  - translation_iso: deu
+    name: Salt-Yui
+    auto: true
   - translation_iso: fra
     name: Salt-Yui
     auto: true

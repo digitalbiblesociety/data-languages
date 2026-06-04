@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توفانما
     auto: true
+  - translation_iso: deu
+    name: Tofanma
+    auto: true
   - translation_iso: fra
     name: tofanma
   - translation_iso: hin

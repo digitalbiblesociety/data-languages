@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: موي الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Süd-Muyu
+    auto: true
   - translation_iso: fra
     name: muyu du Sud
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Breton_language"
 translations:
   - translation_iso: ara
     name: اللغة البريتانية
+  - translation_iso: deu
+    name: Bretonisch
   - translation_iso: fra
     name: breton
   - translation_iso: hin

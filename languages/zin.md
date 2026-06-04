@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زينزا
     auto: true
+  - translation_iso: deu
+    name: Zinza
+    auto: true
   - translation_iso: fra
     name: zinza
   - translation_iso: hin

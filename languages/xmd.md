@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبوندم
     auto: true
+  - translation_iso: deu
+    name: Mbudum
+    auto: true
   - translation_iso: fra
     name: mbudum
   - translation_iso: hin

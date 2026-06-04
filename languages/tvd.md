@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوفادي
     auto: true
+  - translation_iso: deu
+    name: Tsuvadi
+    auto: true
   - translation_iso: fra
     name: tsuvadi
   - translation_iso: hin

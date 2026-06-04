@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هولونغ
     auto: true
+  - translation_iso: deu
+    name: Hulung
+    auto: true
   - translation_iso: fra
     name: hulung
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة السويسرية الإيطالية
     auto: true
+  - translation_iso: deu
+    name: Lingua dei segni della Svizzera italiana
   - translation_iso: fra
     name: langue des signes de la Suisse italienne
   - translation_iso: hin

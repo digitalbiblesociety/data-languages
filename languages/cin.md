@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينتا لارغا
     auto: true
+  - translation_iso: deu
+    name: Cinta Larga
+    auto: true
   - translation_iso: fra
     name: cinta larga
   - translation_iso: hin

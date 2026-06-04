@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مباريمان-غودهينما
     auto: true
+  - translation_iso: deu
+    name: Mbariman-Gudhinma
+    auto: true
   - translation_iso: fra
     name: mbariman-gudhinma
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيتيلسينجو ناهواتل
     auto: true
+  - translation_iso: deu
+    name: Tetelcingo-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl de Tetelcingo
   - translation_iso: hin

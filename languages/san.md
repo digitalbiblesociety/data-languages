@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sanskrit"
 translations:
   - translation_iso: ara
     name: السنسكريتية
+  - translation_iso: deu
+    name: Sanskrit
   - translation_iso: fra
     name: sanskrit
   - translation_iso: hin

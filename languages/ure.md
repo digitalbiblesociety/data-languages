@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أورو
     auto: true
+  - translation_iso: deu
+    name: Uruquilla
   - translation_iso: fra
     name: uru
   - translation_iso: hin

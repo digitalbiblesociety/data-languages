@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واناپ
     auto: true
+  - translation_iso: deu
+    name: Wanap
+    auto: true
   - translation_iso: fra
     name: wanap
   - translation_iso: hin

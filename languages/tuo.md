@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توكانو
     auto: true
+  - translation_iso: deu
+    name: Tucano
   - translation_iso: fra
     name: tucano
   - translation_iso: hin

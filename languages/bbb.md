@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراي
     auto: true
+  - translation_iso: deu
+    name: Barai
+    auto: true
   - translation_iso: fra
     name: Barai
     auto: true

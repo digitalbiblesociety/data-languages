@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتورمي
     auto: true
+  - translation_iso: deu
+    name: Kuturmi
+    auto: true
   - translation_iso: fra
     name: kuturmi
   - translation_iso: hin

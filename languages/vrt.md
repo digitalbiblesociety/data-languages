@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورمبار
     auto: true
+  - translation_iso: deu
+    name: Burmbar
+    auto: true
   - translation_iso: fra
     name: burmbar
   - translation_iso: hin

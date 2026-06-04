@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باجلاني
     auto: true
+  - translation_iso: deu
+    name: Bajelani
+    auto: true
   - translation_iso: fra
     name: bajelani
   - translation_iso: hin

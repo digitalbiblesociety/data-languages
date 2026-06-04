@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: أكياونغ آري ناغا
     auto: true
+  - translation_iso: deu
+    name: Akyaung Ari-Naga
+    auto: true
   - translation_iso: fra
     name: akyaung ari
   - translation_iso: hin

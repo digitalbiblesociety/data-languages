@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سانابانا
     auto: true
+  - translation_iso: deu
+    name: Sanapaná
   - translation_iso: fra
     name: sanapaná
   - translation_iso: hin

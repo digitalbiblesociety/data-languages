@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السومريوب
     auto: true
+  - translation_iso: deu
+    name: Sumariup
+    auto: true
   - translation_iso: fra
     name: sumariup
   - translation_iso: hin

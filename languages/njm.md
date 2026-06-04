@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أنجامي ناجا
     auto: true
+  - translation_iso: deu
+    name: Angami-Naga
+    auto: true
   - translation_iso: fra
     name: angami
   - translation_iso: hin

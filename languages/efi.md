@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Efik_language"
 translations:
   - translation_iso: ara
     name: الإفيك
+  - translation_iso: deu
+    name: Efik
   - translation_iso: fra
     name: efik
   - translation_iso: hin

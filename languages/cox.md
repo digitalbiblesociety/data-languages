@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: النانتي
     auto: true
+  - translation_iso: deu
+    name: Nanti
+    auto: true
   - translation_iso: fra
     name: nanti
   - translation_iso: hin

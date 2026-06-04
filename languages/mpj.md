@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مارتو وانكا
     auto: true
+  - translation_iso: deu
+    name: Martu Wangka
   - translation_iso: fra
     name: martu wangka
   - translation_iso: hin

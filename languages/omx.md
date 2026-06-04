@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مون القديمة
     auto: true
+  - translation_iso: deu
+    name: Altmon
+    auto: true
   - translation_iso: fra
     name: vieux môn
   - translation_iso: hin

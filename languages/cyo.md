@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كويونون
     auto: true
+  - translation_iso: deu
+    name: Cuyonon
   - translation_iso: fra
     name: Cuyonon
     auto: true

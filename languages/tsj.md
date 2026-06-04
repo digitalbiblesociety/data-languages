@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: تشانغلا
     auto: true
+  - translation_iso: deu
+    name: Tshangla
   - translation_iso: fra
     name: tshangla
   - translation_iso: hin

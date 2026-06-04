@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيما
     auto: true
+  - translation_iso: deu
+    name: Simaa
+    auto: true
   - translation_iso: fra
     name: simaa
   - translation_iso: hin

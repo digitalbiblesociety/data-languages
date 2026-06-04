@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوريغواخي
     auto: true
+  - translation_iso: deu
+    name: Koreguaje
+    auto: true
   - translation_iso: fra
     name: koreguaje
   - translation_iso: hin

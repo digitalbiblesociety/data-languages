@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رينجو
     auto: true
+  - translation_iso: deu
+    name: Ringgou
+    auto: true
   - translation_iso: fra
     name: ringgou
   - translation_iso: hin

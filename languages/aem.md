@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أريم
     auto: true
+  - translation_iso: deu
+    name: Arem
+    auto: true
   - translation_iso: fra
     name: arem
   - translation_iso: hin

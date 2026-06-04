@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة نيسو الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Nisu
+    auto: true
   - translation_iso: fra
     name: nisu du Nord
   - translation_iso: hin

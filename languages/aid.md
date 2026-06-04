@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألنجيت
     auto: true
+  - translation_iso: deu
+    name: Alngith
+    auto: true
   - translation_iso: fra
     name: alngith
   - translation_iso: hin

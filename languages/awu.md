@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويو الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentral-Awyu
+    auto: true
   - translation_iso: fra
     name: aghu central
   - translation_iso: hin

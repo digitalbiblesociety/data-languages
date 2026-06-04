@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مودبورا
     auto: true
+  - translation_iso: deu
+    name: Mudburra
+    auto: true
   - translation_iso: fra
     name: mudbura
   - translation_iso: hin

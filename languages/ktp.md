@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كادوو
     auto: true
+  - translation_iso: deu
+    name: Kaduo
+    auto: true
   - translation_iso: fra
     name: kaduo
   - translation_iso: hin

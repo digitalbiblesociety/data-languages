@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Piscataway_language"
 translations:
   - translation_iso: ara
     name: بيسكاتاواي
+  - translation_iso: deu
+    name: Piscataway
+    auto: true
   - translation_iso: fra
     name: piscataway
   - translation_iso: hin

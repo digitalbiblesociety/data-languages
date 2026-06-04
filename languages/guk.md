@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوموز
     auto: true
+  - translation_iso: deu
+    name: Gumuz
+    auto: true
   - translation_iso: fra
     name: gumuz
   - translation_iso: hin

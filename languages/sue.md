@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سويينا
     auto: true
+  - translation_iso: deu
+    name: Suena
+    auto: true
   - translation_iso: fra
     name: suena
   - translation_iso: hin

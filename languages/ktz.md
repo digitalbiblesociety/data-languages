@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جوهوان
     auto: true
+  - translation_iso: deu
+    name: Juǀʼhoan
+    auto: true
   - translation_iso: fra
     name: juǀʼhoan
   - translation_iso: hin

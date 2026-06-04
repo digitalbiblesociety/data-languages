@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مامفو
     auto: true
+  - translation_iso: deu
+    name: Mamvu
+    auto: true
   - translation_iso: fra
     name: mamvu
   - translation_iso: hin

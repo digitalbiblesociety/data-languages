@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هيبيتو
     auto: true
+  - translation_iso: deu
+    name: Hibito
+    auto: true
   - translation_iso: fra
     name: hibito
   - translation_iso: hin

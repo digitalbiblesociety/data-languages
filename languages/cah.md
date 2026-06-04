@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاهوارانو
     auto: true
+  - translation_iso: deu
+    name: Cahuarano
+    auto: true
   - translation_iso: fra
     name: cahuarano
   - translation_iso: hin

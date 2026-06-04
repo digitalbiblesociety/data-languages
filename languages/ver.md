@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موم جانجو
     auto: true
+  - translation_iso: deu
+    name: Mom Jango
   - translation_iso: fra
     name: mom jango
   - translation_iso: hin

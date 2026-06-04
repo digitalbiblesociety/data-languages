@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوكبا
     auto: true
+  - translation_iso: deu
+    name: Yukpa
+    auto: true
   - translation_iso: fra
     name: yukpa
   - translation_iso: hin

@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nepali_language"
 translations:
   - translation_iso: ara
     name: النيبالية
+  - translation_iso: deu
+    name: Nepali
   - translation_iso: fra
     name: népalais
   - translation_iso: hin

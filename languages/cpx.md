@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بو-شيان الصينية
     auto: true
+  - translation_iso: deu
+    name: Pu-Xian
   - translation_iso: fra
     name: puxian
   - translation_iso: hin

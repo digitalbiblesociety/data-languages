@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة نزاكامبي
     auto: true
+  - translation_iso: deu
+    name: Nzakambay
   - translation_iso: fra
     name: nzakambay
   - translation_iso: hin

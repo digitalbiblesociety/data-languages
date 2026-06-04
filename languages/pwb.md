@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانوا
     auto: true
+  - translation_iso: deu
+    name: Panawa
   - translation_iso: fra
     name: panawa
   - translation_iso: hin

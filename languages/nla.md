@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نغومبالي
     auto: true
+  - translation_iso: deu
+    name: Ngombale
   - translation_iso: fra
     name: ngombale
   - translation_iso: hin

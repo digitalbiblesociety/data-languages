@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: فارسية وسيطة مانوية
     auto: true
+  - translation_iso: deu
+    name: Manichäisch-Mittelpersisch
+    auto: true
   - translation_iso: fra
     name: Moyen-perse manichéen
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دولي جاي
     auto: true
+  - translation_iso: deu
+    name: Duli-Gey
+    auto: true
   - translation_iso: fra
     name: duli-gey
   - translation_iso: hin

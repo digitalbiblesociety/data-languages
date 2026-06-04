@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيمبو
     auto: true
+  - translation_iso: deu
+    name: Tembo (Motembo)
+    auto: true
   - translation_iso: fra
     name: tembo
   - translation_iso: hin

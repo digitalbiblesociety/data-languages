@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتوليي
     auto: true
+  - translation_iso: deu
+    name: Batuley
+    auto: true
   - translation_iso: fra
     name: batuley
   - translation_iso: hin

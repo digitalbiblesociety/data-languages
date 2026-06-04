@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوهيلاوا
     auto: true
+  - translation_iso: deu
+    name: ʻAuhelawa
   - translation_iso: fra
     name: ’auhelawa
   - translation_iso: hin

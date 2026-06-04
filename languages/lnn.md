@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وريدياكاركار
     auto: true
+  - translation_iso: deu
+    name: Lorediakarkar
+    auto: true
   - translation_iso: fra
     name: lorediakarkar
   - translation_iso: hin

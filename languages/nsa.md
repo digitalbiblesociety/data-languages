@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سانغتام ناغا
     auto: true
+  - translation_iso: deu
+    name: Sangtam-Naga
+    auto: true
   - translation_iso: fra
     name: Naga sangtam
     auto: true

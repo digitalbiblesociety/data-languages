@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاكستاني
     auto: true
+  - translation_iso: deu
+    name: Takestani
+    auto: true
   - translation_iso: fra
     name: takestani
   - translation_iso: hin

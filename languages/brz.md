@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلْبيل
     auto: true
+  - translation_iso: deu
+    name: Bilbil
+    auto: true
   - translation_iso: fra
     name: Bilbil
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موروويس
     auto: true
+  - translation_iso: deu
+    name: Morouas
+    auto: true
   - translation_iso: fra
     name: morouas
   - translation_iso: hin

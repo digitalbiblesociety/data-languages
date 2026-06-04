@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Swabian_German"
 translations:
   - translation_iso: ara
     name: ألمانية سوابية
+  - translation_iso: deu
+    name: Schwäbisch
   - translation_iso: fra
     name: souabe
   - translation_iso: hin

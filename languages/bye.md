@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: پويي
     auto: true
+  - translation_iso: deu
+    name: Pouye
+    auto: true
   - translation_iso: fra
     name: pouye
   - translation_iso: hin

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: إيموتونغ
     auto: true
+  - translation_iso: deu
+    name: Imotong
+    auto: true
   - translation_iso: fra
     name: Imotong
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآلآمبو
     auto: true
+  - translation_iso: deu
+    name: Galambu
+    auto: true
   - translation_iso: fra
     name: Galambu
     auto: true

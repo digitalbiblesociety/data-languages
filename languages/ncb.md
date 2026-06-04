@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سينترال نيكوبارسي
     auto: true
+  - translation_iso: deu
+    name: Zentral-Nikobaresisch
   - translation_iso: fra
     name: nicobarais central
   - translation_iso: hin

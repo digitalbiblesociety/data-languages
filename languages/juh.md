@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هوني
     auto: true
+  - translation_iso: deu
+    name: Hõne
+    auto: true
   - translation_iso: fra
     name: hõne
   - translation_iso: hin

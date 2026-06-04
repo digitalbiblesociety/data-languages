@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ليماسا
     auto: true
+  - translation_iso: deu
+    name: Limassa
+    auto: true
   - translation_iso: fra
     name: limassa
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بايليا
     auto: true
+  - translation_iso: deu
+    name: Baelelea
+    auto: true
   - translation_iso: fra
     name: baelelea
   - translation_iso: hin

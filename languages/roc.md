@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاجيا روجلاي
     auto: true
+  - translation_iso: deu
+    name: Cacgia-Roglai
+    auto: true
   - translation_iso: fra
     name: cacgia
   - translation_iso: hin

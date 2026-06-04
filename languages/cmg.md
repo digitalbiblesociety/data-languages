@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: المنغولية الكلاسيكية
     auto: true
+  - translation_iso: deu
+    name: klassisches Mongolisch
   - translation_iso: fra
     name: mongol classique
   - translation_iso: hin

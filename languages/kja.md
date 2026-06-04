@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملاب
     auto: true
+  - translation_iso: deu
+    name: Mlap
+    auto: true
   - translation_iso: fra
     name: mlap
   - translation_iso: hin

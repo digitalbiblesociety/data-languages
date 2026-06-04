@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دالابون
     auto: true
+  - translation_iso: deu
+    name: Dalabon
+    auto: true
   - translation_iso: fra
     name: dalabon
   - translation_iso: hin

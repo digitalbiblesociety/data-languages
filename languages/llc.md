@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يلي
     auto: true
+  - translation_iso: deu
+    name: Lele (Guinea)
+    auto: true
   - translation_iso: fra
     name: lélé
   - translation_iso: hin

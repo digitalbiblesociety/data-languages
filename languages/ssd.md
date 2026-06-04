@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيروي
     auto: true
+  - translation_iso: deu
+    name: Siroi
+    auto: true
   - translation_iso: fra
     name: Siroi
     auto: true

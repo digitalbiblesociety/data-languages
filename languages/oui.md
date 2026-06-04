@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Uyghur"
 translations:
   - translation_iso: ara
     name: اللغة الإيغورية القديمة
+  - translation_iso: deu
+    name: Alt-Uyghurisch
   - translation_iso: fra
     name: vieil-ouïghour
   - translation_iso: hin

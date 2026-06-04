@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديماسا
     auto: true
+  - translation_iso: deu
+    name: Dimasa
+    auto: true
   - translation_iso: fra
     name: dimasa
   - translation_iso: hin

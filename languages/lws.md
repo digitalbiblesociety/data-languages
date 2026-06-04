@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة الاويان يجن انجواجي
     auto: true
+  - translation_iso: deu
+    name: Malawische Gebärdensprache
   - translation_iso: fra
     name: langue des signes malawite
   - translation_iso: hin

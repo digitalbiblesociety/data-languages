@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زيمي ناغا
     auto: true
+  - translation_iso: deu
+    name: Mzieme-Naga
+    auto: true
   - translation_iso: fra
     name: naga mzieme
   - translation_iso: hin

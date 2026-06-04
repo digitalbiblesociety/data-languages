@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي خانج
     auto: true
+  - translation_iso: deu
+    name: Tay Khang
+    auto: true
   - translation_iso: fra
     name: khang tay
   - translation_iso: hin

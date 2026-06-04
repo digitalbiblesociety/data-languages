@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Marwari_language"
 translations:
   - translation_iso: ara
     name: مارواري
+  - translation_iso: deu
+    name: Marwari
   - translation_iso: fra
     name: marvari
   - translation_iso: hin

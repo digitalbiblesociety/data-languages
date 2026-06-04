@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مونسانغ ناغا
     auto: true
+  - translation_iso: deu
+    name: Monsang-Naga
+    auto: true
   - translation_iso: fra
     name: Naga monsang
     auto: true

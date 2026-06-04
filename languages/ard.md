@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرابانا
     auto: true
+  - translation_iso: deu
+    name: Arabana
+    auto: true
   - translation_iso: fra
     name: arabana
   - translation_iso: hin

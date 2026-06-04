@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوتي دارايي
     auto: true
+  - translation_iso: deu
+    name: Bote-Darai
+    auto: true
   - translation_iso: fra
     name: bote-majhi
   - translation_iso: hin

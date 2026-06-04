@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة باجيري
     auto: true
+  - translation_iso: deu
+    name: Badjiri
+    auto: true
   - translation_iso: fra
     name: badjiri
   - translation_iso: hin

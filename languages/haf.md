@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بهايفونج
     auto: true
+  - translation_iso: deu
+    name: Haiphong-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: langue des signes de Haiphong
   - translation_iso: hin

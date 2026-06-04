@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو بابوا
     auto: true
+  - translation_iso: deu
+    name: Papua-Malaiisch
+    auto: true
   - translation_iso: fra
     name: malais papou
   - translation_iso: hin

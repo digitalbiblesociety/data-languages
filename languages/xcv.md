@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كهوفانتسي
     auto: true
+  - translation_iso: deu
+    name: Tschuwanisch
   - translation_iso: fra
     name: tchouvane
   - translation_iso: hin

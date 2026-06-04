@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مبول
     auto: true
+  - translation_iso: deu
+    name: Mbole
+    auto: true
   - translation_iso: fra
     name: Mbole
     auto: true

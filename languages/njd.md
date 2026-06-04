@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: ندوندي همبا
     auto: true
+  - translation_iso: deu
+    name: Ndonde Hamba
+    auto: true
   - translation_iso: fra
     name: ndonde
   - translation_iso: hin

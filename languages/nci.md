@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناهواتل الكلاسيكي
     auto: true
+  - translation_iso: deu
+    name: Klassisches Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl classique
   - translation_iso: hin

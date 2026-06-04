@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ingrian_language"
 translations:
   - translation_iso: ara
     name: لغة أنغرية
+  - translation_iso: deu
+    name: Ischorisch
   - translation_iso: fra
     name: ingrien
   - translation_iso: hin

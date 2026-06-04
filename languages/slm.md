@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانجوتاران سما
     auto: true
+  - translation_iso: deu
+    name: Pangutaran-Sama
+    auto: true
   - translation_iso: fra
     name: sama de Pangutaran
   - translation_iso: hin

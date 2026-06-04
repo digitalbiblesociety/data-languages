@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ter%C3%AAna_language"
 translations:
   - translation_iso: ara
     name: التيرينو
+  - translation_iso: deu
+    name: Terêna
   - translation_iso: fra
     name: terêna
   - translation_iso: hin

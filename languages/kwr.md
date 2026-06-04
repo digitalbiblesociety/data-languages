@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويير
     auto: true
+  - translation_iso: deu
+    name: Kwer
+    auto: true
   - translation_iso: fra
     name: kwer
   - translation_iso: hin

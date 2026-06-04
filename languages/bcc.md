@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالوتشي الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Süd-Belutschisch
+    auto: true
   - translation_iso: fra
     name: baloutche du Sud
   - translation_iso: hin

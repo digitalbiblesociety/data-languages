@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هورو
     auto: true
+  - translation_iso: deu
+    name: Horo
+    auto: true
   - translation_iso: fra
     name: horo
   - translation_iso: hin

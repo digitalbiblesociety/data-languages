@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: إيديسا
     auto: true
+  - translation_iso: deu
+    name: Idesa
+    auto: true
   - translation_iso: fra
     name: idesa
   - translation_iso: hin

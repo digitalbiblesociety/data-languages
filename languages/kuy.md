@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: "كوكو-يا'و"
     auto: true
+  - translation_iso: deu
+    name: "Kuuku-Ya'u"
+    auto: true
   - translation_iso: fra
     name: kuuku-ya’u
   - translation_iso: hin

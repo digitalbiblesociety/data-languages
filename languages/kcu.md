@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كامي
     auto: true
+  - translation_iso: deu
+    name: Kami (Tansania)
+    auto: true
   - translation_iso: fra
     name: kami
   - translation_iso: hin

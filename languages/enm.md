@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_English"
 translations:
   - translation_iso: ara
     name: الإنجليزية الوسطى
+  - translation_iso: deu
+    name: Mittelenglisch
   - translation_iso: fra
     name: moyen anglais
   - translation_iso: hin

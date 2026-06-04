@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موروواري
     auto: true
+  - translation_iso: deu
+    name: Muruwari
+    auto: true
   - translation_iso: fra
     name: muruwari
   - translation_iso: hin

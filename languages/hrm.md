@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميــاو ذات القرون
     auto: true
+  - translation_iso: deu
+    name: Horned Miao
+    auto: true
   - translation_iso: fra
     name: miao horned
   - translation_iso: hin

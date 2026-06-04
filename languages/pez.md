@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينان الشرقية
     auto: true
+  - translation_iso: deu
+    name: Östliches Penan
+    auto: true
   - translation_iso: fra
     name: "penan de l'Est"
   - translation_iso: hin

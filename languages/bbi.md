@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بارومبي
     auto: true
+  - translation_iso: deu
+    name: Barombi
   - translation_iso: fra
     name: barombi
   - translation_iso: hin

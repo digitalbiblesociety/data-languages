@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماندايك كلاسيكي
     auto: true
+  - translation_iso: deu
+    name: klassisches Mandäisch
   - translation_iso: fra
     name: mandéen classique
   - translation_iso: hin

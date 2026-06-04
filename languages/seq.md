@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سينارا سينوفو
     auto: true
+  - translation_iso: deu
+    name: Senara
   - translation_iso: fra
     name: Sénoufo senara
     auto: true

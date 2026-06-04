@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوي (إندونيسيا)
     auto: true
+  - translation_iso: deu
+    name: Kui (Indonesien)
+    auto: true
   - translation_iso: fra
     name: kui
   - translation_iso: hin

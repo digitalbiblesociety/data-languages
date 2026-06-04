@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: تاي الشمالية الشرقية
     auto: true
+  - translation_iso: deu
+    name: Isaan
   - translation_iso: fra
     name: isan
   - translation_iso: hin

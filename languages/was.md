@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Washo_language"
 translations:
   - translation_iso: ara
     name: الواشوية
+  - translation_iso: deu
+    name: Washoe
   - translation_iso: fra
     name: washo
   - translation_iso: hin

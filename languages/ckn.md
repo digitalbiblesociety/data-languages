@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاانغ تشين
     auto: true
+  - translation_iso: deu
+    name: Kaang-Chin
+    auto: true
   - translation_iso: fra
     name: kaang
   - translation_iso: hin

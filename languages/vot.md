@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Votic_language"
 translations:
   - translation_iso: ara
     name: الفوتية
+  - translation_iso: deu
+    name: Wotisch
   - translation_iso: fra
     name: vote
   - translation_iso: hin

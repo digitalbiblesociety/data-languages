@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tosk_Albanian"
 translations:
   - translation_iso: ara
     name: ألبانية توسكية
+  - translation_iso: deu
+    name: Toskisch
   - translation_iso: fra
     name: tosque
   - translation_iso: hin

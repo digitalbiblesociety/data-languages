@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: رومانو صربي
     auto: true
+  - translation_iso: deu
+    name: Romano-Serbisch
+    auto: true
   - translation_iso: fra
     name: romano-serbe
   - translation_iso: hin

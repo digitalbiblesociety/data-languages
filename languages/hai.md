@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Haida_language"
 translations:
   - translation_iso: ara
     name: الهيدا
+  - translation_iso: deu
+    name: Haida
   - translation_iso: fra
     name: haïda
   - translation_iso: hin

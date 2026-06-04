@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Eyak_language"
 translations:
   - translation_iso: ara
     name: لغة إياك
+  - translation_iso: deu
+    name: Eyak
   - translation_iso: fra
     name: eyak
   - translation_iso: hin

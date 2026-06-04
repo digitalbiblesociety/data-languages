@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كنسوي نسي
     auto: true
+  - translation_iso: deu
+    name: Kenswei Nsei
+    auto: true
   - translation_iso: fra
     name: kenswei nsei
   - translation_iso: hin

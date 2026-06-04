@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nawat_language"
 translations:
   - translation_iso: ara
     name: النوات
+  - translation_iso: deu
+    name: Nawat (Pipil)
   - translation_iso: fra
     name: pipil
   - translation_iso: hin

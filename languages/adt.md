@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أدنيماثانها
     auto: true
+  - translation_iso: deu
+    name: Adnyamathanha
+    auto: true
   - translation_iso: fra
     name: adnyamathanha
   - translation_iso: hin

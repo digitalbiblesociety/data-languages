@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجاليا
     auto: true
+  - translation_iso: deu
+    name: Galeya
+    auto: true
   - translation_iso: fra
     name: Galeya
     auto: true

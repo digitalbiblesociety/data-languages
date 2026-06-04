@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانان
     auto: true
+  - translation_iso: deu
+    name: Mannan
+    auto: true
   - translation_iso: fra
     name: mannan
   - translation_iso: hin

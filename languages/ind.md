@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Indonesian_language"
 translations:
   - translation_iso: ara
     name: الإندونيسية
+  - translation_iso: deu
+    name: Indonesisch
   - translation_iso: fra
     name: indonésien
   - translation_iso: hin

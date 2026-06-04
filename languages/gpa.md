@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوبآ-آبآوآ
     auto: true
+  - translation_iso: deu
+    name: Gupa-Abawa
+    auto: true
   - translation_iso: fra
     name: Gupa-Abawa
     auto: true

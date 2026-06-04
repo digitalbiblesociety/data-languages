@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كريو
     auto: true
+  - translation_iso: deu
+    name: Krio
   - translation_iso: fra
     name: krio
   - translation_iso: hin

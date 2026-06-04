@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فالورا
     auto: true
+  - translation_iso: deu
+    name: Phalura
+    auto: true
   - translation_iso: fra
     name: phalura
   - translation_iso: hin

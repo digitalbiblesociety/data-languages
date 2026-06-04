@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالانجاو
     auto: true
+  - translation_iso: deu
+    name: Balangao
+    auto: true
   - translation_iso: fra
     name: Balangao
     auto: true

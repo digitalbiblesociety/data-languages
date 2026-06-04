@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوورو
     auto: true
+  - translation_iso: deu
+    name: Gowro
+    auto: true
   - translation_iso: fra
     name: gowro
   - translation_iso: hin

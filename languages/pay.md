@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتش
     auto: true
+  - translation_iso: deu
+    name: Pech
+    auto: true
   - translation_iso: fra
     name: pech
   - translation_iso: hin

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: أونجارانجو
     auto: true
+  - translation_iso: deu
+    name: Unggaranggu
+    auto: true
   - translation_iso: fra
     name: unggaranggu
   - translation_iso: hin

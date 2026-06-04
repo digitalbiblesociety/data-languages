@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجيروما
     auto: true
+  - translation_iso: deu
+    name: Geruma
+    auto: true
   - translation_iso: fra
     name: geruma
   - translation_iso: hin

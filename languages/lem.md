@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ومااندي
     auto: true
+  - translation_iso: deu
+    name: Nomaande
+    auto: true
   - translation_iso: fra
     name: nomaande
   - translation_iso: hin

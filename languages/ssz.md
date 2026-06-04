@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سينجسينج
     auto: true
+  - translation_iso: deu
+    name: Sengseng
+    auto: true
   - translation_iso: fra
     name: sengseng
   - translation_iso: hin

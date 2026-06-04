@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: نيمادي
     auto: true
+  - translation_iso: deu
+    name: Nimadi
+    auto: true
   - translation_iso: fra
     name: Nimadi
     auto: true

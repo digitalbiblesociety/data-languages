@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتسوجيوي
     auto: true
+  - translation_iso: deu
+    name: Atsugewi
+    auto: true
   - translation_iso: fra
     name: atsugé
   - translation_iso: hin

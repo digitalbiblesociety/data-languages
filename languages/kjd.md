@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيواي الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Süd-Kiwai
+    auto: true
   - translation_iso: fra
     name: kiwai du Sud
   - translation_iso: hin

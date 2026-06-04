@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بينوكيدنون الشمالية
     auto: true
+  - translation_iso: deu
+    name: Karolanisch
   - translation_iso: fra
     name: Binukidnon septentrional
     auto: true

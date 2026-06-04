@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bribri_language"
 translations:
   - translation_iso: ara
     name: لغة بريبري
+  - translation_iso: deu
+    name: Bribri
   - translation_iso: fra
     name: bribri
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوسامي
     auto: true
+  - translation_iso: deu
+    name: Busami
+    auto: true
   - translation_iso: fra
     name: Busami
     auto: true

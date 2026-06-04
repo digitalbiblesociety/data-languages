@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tok_Pisin"
 translations:
   - translation_iso: ara
     name: لغة توك بيسين
+  - translation_iso: deu
+    name: Tok Pisin
   - translation_iso: fra
     name: tok pisin
   - translation_iso: hin

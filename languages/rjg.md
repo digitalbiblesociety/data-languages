@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: راجونج
     auto: true
+  - translation_iso: deu
+    name: Rajong
   - translation_iso: fra
     name: rajong
   - translation_iso: hin

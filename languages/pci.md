@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة دورووا
     auto: true
+  - translation_iso: deu
+    name: Duruwa
+    auto: true
   - translation_iso: fra
     name: duruwa
   - translation_iso: hin

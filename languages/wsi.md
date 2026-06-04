@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووسي
     auto: true
+  - translation_iso: deu
+    name: Wusi
+    auto: true
   - translation_iso: fra
     name: Wusi
     auto: true

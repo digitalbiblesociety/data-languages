@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرهواكو
     auto: true
+  - translation_iso: deu
+    name: Arhuaco
+    auto: true
   - translation_iso: fra
     name: arhuaco
   - translation_iso: hin

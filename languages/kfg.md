@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوديا
     auto: true
+  - translation_iso: deu
+    name: Kudiya
+    auto: true
   - translation_iso: fra
     name: Kudiya
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوريبتشا
     auto: true
+  - translation_iso: deu
+    name: Taraskisch
   - translation_iso: fra
     name: purépecha
   - translation_iso: hin

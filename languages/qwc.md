@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا الكلاسيكية
     auto: true
+  - translation_iso: deu
+    name: klassisches Quechua
   - translation_iso: fra
     name: quechua classique
   - translation_iso: hin

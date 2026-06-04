@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بادا
     auto: true
+  - translation_iso: deu
+    name: Bada (Indonesia)
+    auto: true
   - translation_iso: fra
     name: bada
   - translation_iso: hin

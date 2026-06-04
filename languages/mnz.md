@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موني
     auto: true
+  - translation_iso: deu
+    name: Moni
   - translation_iso: fra
     name: moni
   - translation_iso: hin

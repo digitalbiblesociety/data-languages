@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني بورت سوريل
     auto: true
+  - translation_iso: deu
+    name: Port Sorell Tasmanian
+    auto: true
   - translation_iso: fra
     name: port sorell
   - translation_iso: hin

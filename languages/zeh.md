@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة هونغشويهي الشرقية
     auto: true
+  - translation_iso: deu
+    name: Ost-Hongshuihe-Zhuang
+    auto: true
   - translation_iso: fra
     name: "Zhuang de l'Hongshuihe oriental"
     auto: true

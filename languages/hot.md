@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوتي
     auto: true
+  - translation_iso: deu
+    name: Hote
+    auto: true
   - translation_iso: fra
     name: hote
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالابويا
     auto: true
+  - translation_iso: deu
+    name: Kalapuya
+    auto: true
   - translation_iso: fra
     name: kalapuya central
   - translation_iso: hin

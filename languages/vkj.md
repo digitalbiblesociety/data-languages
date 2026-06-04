@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: كوجارجي
     auto: true
+  - translation_iso: deu
+    name: Kujargé
   - translation_iso: fra
     name: kujargé
   - translation_iso: hin

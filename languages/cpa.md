@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالانتلا تشينانتك
     auto: true
+  - translation_iso: deu
+    name: Palantla-Chinantekisch
+    auto: true
   - translation_iso: fra
     name: chinantèque de Palantla
   - translation_iso: hin

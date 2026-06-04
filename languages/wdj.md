@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: واجيجيني
     auto: true
+  - translation_iso: deu
+    name: Wadjiginy
+    auto: true
   - translation_iso: fra
     name: wadjiginy
   - translation_iso: hin

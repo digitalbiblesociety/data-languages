@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة آجي
     auto: true
+  - translation_iso: deu
+    name: Azhe
+    auto: true
   - translation_iso: fra
     name: Azhe
     auto: true

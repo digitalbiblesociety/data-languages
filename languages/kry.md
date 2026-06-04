@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كريتس
     auto: true
+  - translation_iso: deu
+    name: Krysisch
   - translation_iso: fra
     name: kryz
   - translation_iso: hin

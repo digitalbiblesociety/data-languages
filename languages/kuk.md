@@ -18,8 +18,10 @@ translations:
   - translation_iso: ara
     name: كيبو
     auto: true
+  - translation_iso: deu
+    name: "Kepo'"
   - translation_iso: fra
-    name: "kepo'"
+    name: kepo
   - translation_iso: hin
     name: केपो
     auto: true

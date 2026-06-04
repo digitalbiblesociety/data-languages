@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nynorsk"
 translations:
   - translation_iso: ara
     name: ني نوشك
+  - translation_iso: deu
+    name: Nynorsk
   - translation_iso: fra
     name: nynorsk
   - translation_iso: hin

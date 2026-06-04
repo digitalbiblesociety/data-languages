@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maithili_language"
 translations:
   - translation_iso: ara
     name: اللغة المايثيلية
+  - translation_iso: deu
+    name: Maithili
   - translation_iso: fra
     name: maïthili
   - translation_iso: hin

@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zhuang_languages"
 translations:
   - translation_iso: ara
     name: التشوانغية
+  - translation_iso: deu
+    name: Zhuang
   - translation_iso: fra
     name: zhuang
   - translation_iso: hin

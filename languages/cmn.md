@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mandarin_Chinese"
 translations:
   - translation_iso: ara
     name: الصينية المندرينية
+  - translation_iso: deu
+    name: Mandarin
   - translation_iso: fra
     name: mandarin
   - translation_iso: hin

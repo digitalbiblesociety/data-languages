@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ينونهان
     auto: true
+  - translation_iso: deu
+    name: Inonhan
+    auto: true
   - translation_iso: fra
     name: inonhan
   - translation_iso: hin

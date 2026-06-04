@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويشيتا
     auto: true
+  - translation_iso: deu
+    name: Wichita
+    auto: true
   - translation_iso: fra
     name: wichita
   - translation_iso: hin

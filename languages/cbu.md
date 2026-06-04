@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الكاندوشي-شابرا
     auto: true
+  - translation_iso: deu
+    name: Candoshi-Shapra
+    auto: true
   - translation_iso: fra
     name: candoshi
   - translation_iso: hin

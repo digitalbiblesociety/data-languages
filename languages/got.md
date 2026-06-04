@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gothic_language"
 translations:
   - translation_iso: ara
     name: لغة قوطية
+  - translation_iso: deu
+    name: Gotisch
   - translation_iso: fra
     name: gotique
   - translation_iso: hin

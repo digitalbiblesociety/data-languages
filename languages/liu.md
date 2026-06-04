@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وجوريك
     auto: true
+  - translation_iso: deu
+    name: Logorik
+    auto: true
   - translation_iso: fra
     name: logorik
   - translation_iso: hin

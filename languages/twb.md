@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاوبويد الغربية
     auto: true
+  - translation_iso: deu
+    name: Westliches Tawbuid
+    auto: true
   - translation_iso: fra
     name: "tawbuid de l'Ouest"
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كايان ماهاكام
     auto: true
+  - translation_iso: deu
+    name: Kayan Mahakam
+    auto: true
   - translation_iso: fra
     name: kayan mahakam
   - translation_iso: hin

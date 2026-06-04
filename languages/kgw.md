@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كارون دوري
     auto: true
+  - translation_iso: deu
+    name: Karon Dori
+    auto: true
   - translation_iso: fra
     name: karon dori
   - translation_iso: hin

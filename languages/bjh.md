@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باهينمو
     auto: true
+  - translation_iso: deu
+    name: Bahinemo
+    auto: true
   - translation_iso: fra
     name: Bahinemo
     auto: true

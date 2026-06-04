@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة يير يورونت
     auto: true
+  - translation_iso: deu
+    name: Yir Yoront
+    auto: true
   - translation_iso: fra
     name: Yir Yoront
     auto: true

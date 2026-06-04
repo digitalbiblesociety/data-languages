@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kinyarwanda"
 translations:
   - translation_iso: ara
     name: الكينيارواندية
+  - translation_iso: deu
+    name: Kinyarwanda
   - translation_iso: fra
     name: kinyarwanda
   - translation_iso: hin

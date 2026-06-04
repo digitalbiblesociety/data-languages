@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماهيكان
     auto: true
+  - translation_iso: deu
+    name: Mahican
+    auto: true
   - translation_iso: fra
     name: mohican
   - translation_iso: hin

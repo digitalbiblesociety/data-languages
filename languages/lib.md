@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يكوم
     auto: true
+  - translation_iso: deu
+    name: Likum
+    auto: true
   - translation_iso: fra
     name: likum
   - translation_iso: hin

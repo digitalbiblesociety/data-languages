@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: بارابابارابا
     auto: true
+  - translation_iso: deu
+    name: Barababaraba
+    auto: true
   - translation_iso: fra
     name: barababaraba
   - translation_iso: hin

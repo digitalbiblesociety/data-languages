@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Swampy_Cree_language"
 translations:
   - translation_iso: ara
     name: السوامبي-كري
+  - translation_iso: deu
+    name: Swampy Cree
   - translation_iso: fra
     name: cri des marais
   - translation_iso: hin

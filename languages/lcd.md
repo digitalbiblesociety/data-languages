@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لولا
     auto: true
+  - translation_iso: deu
+    name: Lola
+    auto: true
   - translation_iso: fra
     name: lola
   - translation_iso: hin

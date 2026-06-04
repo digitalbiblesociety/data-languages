@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Foodo_language"
 translations:
   - translation_iso: ara
     name: لغة Foodo
+  - translation_iso: deu
+    name: Foodo
+    auto: true
   - translation_iso: fra
     name: foodo
   - translation_iso: hin

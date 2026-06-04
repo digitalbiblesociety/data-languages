@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماكوي
     auto: true
+  - translation_iso: deu
+    name: Makwe
+    auto: true
   - translation_iso: fra
     name: makwe
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جنوب سورسوجانون
     auto: true
+  - translation_iso: deu
+    name: Southern Sorsoganon
+    auto: true
   - translation_iso: fra
     name: sorsoganon du Sud
   - translation_iso: hin

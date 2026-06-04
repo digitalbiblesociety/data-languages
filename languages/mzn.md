@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mazanderani_language"
 translations:
   - translation_iso: ara
     name: المازندرانية
+  - translation_iso: deu
+    name: Masanderanisch
   - translation_iso: fra
     name: mazandarani
   - translation_iso: hin

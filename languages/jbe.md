@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Berber_language"
 translations:
   - translation_iso: ara
     name: أمازيغية يهودية
+  - translation_iso: deu
+    name: Judäo-Berberisch
   - translation_iso: fra
     name: judéo-berbère
   - translation_iso: hin

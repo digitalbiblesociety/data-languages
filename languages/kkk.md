@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوكوتا
     auto: true
+  - translation_iso: deu
+    name: Kokota
+    auto: true
   - translation_iso: fra
     name: kokota
   - translation_iso: hin

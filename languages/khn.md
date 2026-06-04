@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة خاندسي
     auto: true
+  - translation_iso: deu
+    name: Khandesi
+    auto: true
   - translation_iso: fra
     name: khandeshi
   - translation_iso: hin

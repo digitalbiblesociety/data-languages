@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوبنو
     auto: true
+  - translation_iso: deu
+    name: Yopno
+    auto: true
   - translation_iso: fra
     name: Yopno
     auto: true

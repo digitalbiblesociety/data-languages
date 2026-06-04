@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: بوشي
     auto: true
+  - translation_iso: deu
+    name: Baushi
   - translation_iso: fra
     name: shibushi
   - translation_iso: hin

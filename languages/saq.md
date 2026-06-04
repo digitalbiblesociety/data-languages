@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Samburu_language"
 translations:
   - translation_iso: ara
     name: سامبورو
+  - translation_iso: deu
+    name: Samburu
   - translation_iso: fra
     name: samburu
   - translation_iso: hin

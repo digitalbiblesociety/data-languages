@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوك-نآر
     auto: true
+  - translation_iso: deu
+    name: Kok-Nar
+    auto: true
   - translation_iso: fra
     name: kok-nar
   - translation_iso: hin

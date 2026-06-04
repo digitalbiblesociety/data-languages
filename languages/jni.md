@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جانجي
     auto: true
+  - translation_iso: deu
+    name: Janji
+    auto: true
   - translation_iso: fra
     name: janji
   - translation_iso: hin

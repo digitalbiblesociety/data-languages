@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هوبلآ
     auto: true
+  - translation_iso: deu
+    name: Hupla
+    auto: true
   - translation_iso: fra
     name: Hupla
     auto: true

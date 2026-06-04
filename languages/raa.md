@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دونجمالي
     auto: true
+  - translation_iso: deu
+    name: Dungmali
+    auto: true
   - translation_iso: fra
     name: dungmali
   - translation_iso: hin

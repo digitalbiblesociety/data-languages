@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجريبو الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Grebo
+    auto: true
   - translation_iso: fra
     name: grebo du Nord
   - translation_iso: hin

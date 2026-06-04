@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة النرويجية
     auto: true
+  - translation_iso: deu
+    name: Norwegische Gebärdensprache
   - translation_iso: fra
     name: langue des signes norvégienne
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كتكاري
     auto: true
+  - translation_iso: deu
+    name: Katkari
+    auto: true
   - translation_iso: fra
     name: Katkari
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pa%27O_language"
 translations:
   - translation_iso: ara
     name: باو
+  - translation_iso: deu
+    name: "Pa'o Karen"
+    auto: true
   - translation_iso: fra
     name: "pa'o"
   - translation_iso: hin

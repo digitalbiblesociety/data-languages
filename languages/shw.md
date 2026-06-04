@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الشواي
     auto: true
+  - translation_iso: deu
+    name: Schwai
   - translation_iso: fra
     name: shwai
   - translation_iso: hin

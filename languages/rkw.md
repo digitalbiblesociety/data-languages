@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: أراكوال
     auto: true
+  - translation_iso: deu
+    name: Arakwal
+    auto: true
   - translation_iso: fra
     name: arakwal
   - translation_iso: hin

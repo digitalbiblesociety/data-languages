@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سامبا
     auto: true
+  - translation_iso: deu
+    name: Samba
+    auto: true
   - translation_iso: fra
     name: samba
   - translation_iso: hin

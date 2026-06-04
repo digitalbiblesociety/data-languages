@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الهويتشو الصينية
     auto: true
+  - translation_iso: deu
+    name: Hui-Dialekt
   - translation_iso: fra
     name: hui
   - translation_iso: hin

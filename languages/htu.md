@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هيتو
     auto: true
+  - translation_iso: deu
+    name: Hitu
+    auto: true
   - translation_iso: fra
     name: Hitu
     auto: true

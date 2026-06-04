@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيماي
     auto: true
+  - translation_iso: deu
+    name: Semai
+    auto: true
   - translation_iso: fra
     name: semai
   - translation_iso: hin

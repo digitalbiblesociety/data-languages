@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونتوك الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Südliches Bontok
+    auto: true
   - translation_iso: fra
     name: bontok du Sud
   - translation_iso: hin

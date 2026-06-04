@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايتي تشين
     auto: true
+  - translation_iso: deu
+    name: Paite-Chin
+    auto: true
   - translation_iso: fra
     name: paite
   - translation_iso: hin

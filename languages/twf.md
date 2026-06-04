@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توا الشمالية
     auto: true
+  - translation_iso: deu
+    name: Taos-Dialekt
   - translation_iso: fra
     name: taos
   - translation_iso: hin

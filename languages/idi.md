@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيدي
     auto: true
+  - translation_iso: deu
+    name: Idi
+    auto: true
   - translation_iso: fra
     name: idi
   - translation_iso: hin

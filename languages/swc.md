@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: السواحيلية في الكونغو
     auto: true
+  - translation_iso: deu
+    name: kongolesisches Swahili
   - translation_iso: fra
     name: swahili du Congo
   - translation_iso: hin

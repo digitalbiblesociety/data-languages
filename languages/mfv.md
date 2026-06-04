@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة ماندجاك
     auto: true
+  - translation_iso: deu
+    name: Mandjak
   - translation_iso: fra
     name: manjaque
   - translation_iso: hin

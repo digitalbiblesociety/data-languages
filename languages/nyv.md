@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيولنيول
     auto: true
+  - translation_iso: deu
+    name: Nyulnyul
+    auto: true
   - translation_iso: fra
     name: nyulnyul
   - translation_iso: hin

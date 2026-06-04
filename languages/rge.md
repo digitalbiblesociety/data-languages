@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رومانو يوناني
     auto: true
+  - translation_iso: deu
+    name: Romano-Griechisch
+    auto: true
   - translation_iso: fra
     name: romano-grec
   - translation_iso: hin

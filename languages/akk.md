@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Akkadian_language"
 translations:
   - translation_iso: ara
     name: الأكدية
+  - translation_iso: deu
+    name: Akkadisch
   - translation_iso: fra
     name: akkadien
   - translation_iso: hin

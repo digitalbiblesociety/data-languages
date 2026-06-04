@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة المابون
     auto: true
+  - translation_iso: deu
+    name: Mapun
+    auto: true
   - translation_iso: fra
     name: mapun
   - translation_iso: hin

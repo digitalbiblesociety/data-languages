@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: إينجا الغابة
     auto: true
+  - translation_iso: deu
+    name: Jungle Inga
+    auto: true
   - translation_iso: fra
     name: inga de la jungle
   - translation_iso: hin

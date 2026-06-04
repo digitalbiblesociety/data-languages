@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أواري
     auto: true
+  - translation_iso: deu
+    name: Uare
+    auto: true
   - translation_iso: fra
     name: Uare
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Meitei_language"
 translations:
   - translation_iso: ara
     name: الميتية
+  - translation_iso: deu
+    name: Meitei
   - translation_iso: fra
     name: meitei
   - translation_iso: hin

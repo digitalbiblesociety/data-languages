@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دودوروا
     auto: true
+  - translation_iso: deu
+    name: Dhudhuroa
+    auto: true
   - translation_iso: fra
     name: dhudhuroa
   - translation_iso: hin

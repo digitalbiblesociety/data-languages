@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أومبيلا
     auto: true
+  - translation_iso: deu
+    name: Umpila
+    auto: true
   - translation_iso: fra
     name: umpila
   - translation_iso: hin

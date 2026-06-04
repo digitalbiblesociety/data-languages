@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاريا
     auto: true
+  - translation_iso: deu
+    name: Kariya
+    auto: true
   - translation_iso: fra
     name: kariya
   - translation_iso: hin

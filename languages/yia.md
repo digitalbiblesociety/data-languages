@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينجاردا
     auto: true
+  - translation_iso: deu
+    name: Yinggarda
+    auto: true
   - translation_iso: fra
     name: yinggarda
   - translation_iso: hin

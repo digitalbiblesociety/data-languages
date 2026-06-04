@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موو
     auto: true
+  - translation_iso: deu
+    name: Moo
+    auto: true
   - translation_iso: fra
     name: moo
   - translation_iso: hin

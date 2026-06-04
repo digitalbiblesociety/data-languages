@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك توتوماتشابان
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Totomachapan)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Totomachapan
   - translation_iso: hin

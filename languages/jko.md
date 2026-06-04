@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبو
     auto: true
+  - translation_iso: deu
+    name: Kubo
+    auto: true
   - translation_iso: fra
     name: Kubo
     auto: true

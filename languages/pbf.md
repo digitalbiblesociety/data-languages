@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا كويوتيبك
     auto: true
+  - translation_iso: deu
+    name: Coyotepec-Popoloca
+    auto: true
   - translation_iso: fra
     name: popoloca de Coyotepec
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاراboro الغربية
     auto: true
+  - translation_iso: deu
+    name: Syer-Tenyer
   - translation_iso: fra
     name: syer-tenyer
   - translation_iso: hin

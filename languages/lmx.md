@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ايمبوي
     auto: true
+  - translation_iso: deu
+    name: Laimbue
+    auto: true
   - translation_iso: fra
     name: laimbue
   - translation_iso: hin

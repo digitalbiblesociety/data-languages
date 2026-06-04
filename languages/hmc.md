@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ هويشوي الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentrales Huishui-Hmong
+    auto: true
   - translation_iso: fra
     name: huishui central
   - translation_iso: hin

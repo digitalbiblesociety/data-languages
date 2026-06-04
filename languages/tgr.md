@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: تارينغ
     auto: true
+  - translation_iso: deu
+    name: Tareng
+    auto: true
   - translation_iso: fra
     name: tareng
   - translation_iso: hin

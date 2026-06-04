@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Karon_language"
 translations:
   - translation_iso: ara
     name: كارونية
+  - translation_iso: deu
+    name: Karon
   - translation_iso: fra
     name: karone
   - translation_iso: hin

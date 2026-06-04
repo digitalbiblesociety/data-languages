@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ارا
     auto: true
+  - translation_iso: deu
+    name: Kara
   - translation_iso: fra
     name: kara
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوليا
     auto: true
+  - translation_iso: deu
+    name: Bolia
   - translation_iso: fra
     name: bolia
   - translation_iso: hin

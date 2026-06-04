@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نينزو
     auto: true
+  - translation_iso: deu
+    name: Ninzo
+    auto: true
   - translation_iso: fra
     name: ninzo
   - translation_iso: hin

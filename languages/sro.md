@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الكامبيدانية الساردينية
     auto: true
+  - translation_iso: deu
+    name: Campidanesisch
   - translation_iso: fra
     name: campidanien
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يلي
     auto: true
+  - translation_iso: deu
+    name: Lele
   - translation_iso: fra
     name: lélé
   - translation_iso: hin

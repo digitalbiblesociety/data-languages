@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيباني
     auto: true
+  - translation_iso: deu
+    name: Ibani
+    auto: true
   - translation_iso: fra
     name: ibani
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كابيا
     auto: true
+  - translation_iso: deu
+    name: Kapya
+    auto: true
   - translation_iso: fra
     name: kapya
   - translation_iso: hin

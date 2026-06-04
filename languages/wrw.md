@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوغو واررا
     auto: true
+  - translation_iso: deu
+    name: Gugu Warra
+    auto: true
   - translation_iso: fra
     name: gugu warra
   - translation_iso: hin

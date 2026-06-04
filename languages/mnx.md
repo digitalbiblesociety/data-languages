@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانيكيون
     auto: true
+  - translation_iso: deu
+    name: Manikion
+    auto: true
   - translation_iso: fra
     name: manikion
   - translation_iso: hin

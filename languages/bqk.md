@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باندا-مْبريس
     auto: true
+  - translation_iso: deu
+    name: Banda-Mbrès
+    auto: true
   - translation_iso: fra
     name: Banda-Mbrès
     auto: true

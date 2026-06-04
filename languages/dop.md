@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوكبا
     auto: true
+  - translation_iso: deu
+    name: Lukpa
+    auto: true
   - translation_iso: fra
     name: lokpa
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيغو
     auto: true
+  - translation_iso: deu
+    name: Igo
   - translation_iso: fra
     name: igo
   - translation_iso: hin

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة موتشينو
     auto: true
+  - translation_iso: deu
+    name: Fersentalerisch
   - translation_iso: fra
     name: mochène
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دارميا
     auto: true
+  - translation_iso: deu
+    name: Darmiya
+    auto: true
   - translation_iso: fra
     name: darmiya
   - translation_iso: hin

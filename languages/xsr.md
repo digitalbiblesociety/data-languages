@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: شيربا
     auto: true
+  - translation_iso: deu
+    name: Sherpa
   - translation_iso: fra
     name: sherpa
   - translation_iso: hin

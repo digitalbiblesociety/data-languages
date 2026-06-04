@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوومتاري
     auto: true
+  - translation_iso: deu
+    name: Kwomtari
+    auto: true
   - translation_iso: fra
     name: kwomtari
   - translation_iso: hin

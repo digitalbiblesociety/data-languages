@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نزاكارا
     auto: true
+  - translation_iso: deu
+    name: Nzakara
+    auto: true
   - translation_iso: fra
     name: nzakara
   - translation_iso: hin

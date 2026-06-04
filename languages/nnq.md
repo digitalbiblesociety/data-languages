@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغيندو
     auto: true
+  - translation_iso: deu
+    name: Ngindo
+    auto: true
   - translation_iso: fra
     name: Ngindo
     auto: true

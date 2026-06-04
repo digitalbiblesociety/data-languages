@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغوتايننيت
     auto: true
+  - translation_iso: deu
+    name: Agutaynen
+    auto: true
   - translation_iso: fra
     name: Agutaynen
     auto: true

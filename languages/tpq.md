@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: توكبا
     auto: true
+  - translation_iso: deu
+    name: Tukpa
+    auto: true
   - translation_iso: fra
     name: tukpa
   - translation_iso: hin

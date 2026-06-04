@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تيكي تسعي
     auto: true
+  - translation_iso: deu
+    name: Teke-Tsaayi
   - translation_iso: fra
     name: teke-tsaayi
   - translation_iso: hin

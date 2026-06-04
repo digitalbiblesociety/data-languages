@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نامونويتو
     auto: true
+  - translation_iso: deu
+    name: Namonuitonisch
   - translation_iso: fra
     name: namonuito
   - translation_iso: hin

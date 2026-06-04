@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غونديتجمآرآ
     auto: true
+  - translation_iso: deu
+    name: Gunditjmara
+    auto: true
   - translation_iso: fra
     name: gunditjmara
   - translation_iso: hin

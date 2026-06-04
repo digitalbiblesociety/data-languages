@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مابيري
     auto: true
+  - translation_iso: deu
+    name: Mabire
+    auto: true
   - translation_iso: fra
     name: mabire
   - translation_iso: hin

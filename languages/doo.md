@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دونجو
     auto: true
+  - translation_iso: deu
+    name: Dongo
   - translation_iso: fra
     name: dongo
   - translation_iso: hin

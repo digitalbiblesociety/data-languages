@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الفوا
     auto: true
+  - translation_iso: deu
+    name: Foau
+    auto: true
   - translation_iso: fra
     name: foau
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موبمرين أيزي
     auto: true
+  - translation_iso: deu
+    name: Mobumrin
   - translation_iso: fra
     name: langue mobu
   - translation_iso: hin

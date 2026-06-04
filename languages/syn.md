@@ -12,6 +12,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Christian_Neo-Aramaic_dialect_of_S
 translations:
   - translation_iso: ara
     name: سينايا
+  - translation_iso: deu
+    name: Senaya
+    auto: true
   - translation_iso: fra
     name: senaya
   - translation_iso: hin

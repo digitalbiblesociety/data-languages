@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانجيجيلي
     auto: true
+  - translation_iso: deu
+    name: Tanjijili
+    auto: true
   - translation_iso: fra
     name: Tanjijili
     auto: true

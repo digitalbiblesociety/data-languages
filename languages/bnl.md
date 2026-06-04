@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Boon_language"
 translations:
   - translation_iso: ara
     name: بون
+  - translation_iso: deu
+    name: Boon
+    auto: true
   - translation_iso: fra
     name: boon
   - translation_iso: hin

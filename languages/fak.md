@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفانج
     auto: true
+  - translation_iso: deu
+    name: Fang (Kamerun)
+    auto: true
   - translation_iso: fra
     name: fang
   - translation_iso: hin

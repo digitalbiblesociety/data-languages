@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بوريبيتشا الجبلية الغربية
     auto: true
+  - translation_iso: deu
+    name: Westliches Hochland-Purépecha
+    auto: true
   - translation_iso: fra
     name: purépecha des hauts-plateaux de l’Ouest
   - translation_iso: hin

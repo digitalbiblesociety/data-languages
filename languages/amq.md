@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أماهاي
     auto: true
+  - translation_iso: deu
+    name: Amahai
   - translation_iso: fra
     name: amahai
   - translation_iso: hin

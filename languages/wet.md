@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: پيراي
     auto: true
+  - translation_iso: deu
+    name: Perai
+    auto: true
   - translation_iso: fra
     name: perai
   - translation_iso: hin

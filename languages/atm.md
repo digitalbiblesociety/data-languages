@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتا
     auto: true
+  - translation_iso: deu
+    name: Ata
+    auto: true
   - translation_iso: fra
     name: ata
   - translation_iso: hin

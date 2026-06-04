@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيميين
     auto: true
+  - translation_iso: deu
+    name: Temein
+    auto: true
   - translation_iso: fra
     name: temein
   - translation_iso: hin

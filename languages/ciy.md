@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشايما
     auto: true
+  - translation_iso: deu
+    name: Chaima
+    auto: true
   - translation_iso: fra
     name: chaima
   - translation_iso: hin

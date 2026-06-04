@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ومون
     auto: true
+  - translation_iso: deu
+    name: Lumun
   - translation_iso: fra
     name: lumun
   - translation_iso: hin

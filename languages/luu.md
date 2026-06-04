@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة ومبا-اككها
     auto: true
+  - translation_iso: deu
+    name: Lumba-Yakkha
+    auto: true
   - translation_iso: fra
     name: lumba-yakkha
   - translation_iso: hin

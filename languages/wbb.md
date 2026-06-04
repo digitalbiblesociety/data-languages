@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وابو
     auto: true
+  - translation_iso: deu
+    name: Wabo
+    auto: true
   - translation_iso: fra
     name: wabo
   - translation_iso: hin

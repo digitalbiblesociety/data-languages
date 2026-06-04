@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانيم
     auto: true
+  - translation_iso: deu
+    name: Panim
+    auto: true
   - translation_iso: fra
     name: Panim
     auto: true

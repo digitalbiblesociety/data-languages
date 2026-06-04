@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بهانوي
     auto: true
+  - translation_iso: deu
+    name: Hanoi-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: langue des signes de Hanoi
   - translation_iso: hin

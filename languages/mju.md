@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة مانا دورا
     auto: true
+  - translation_iso: deu
+    name: Manna-Dora
+    auto: true
   - translation_iso: fra
     name: manna-dora
   - translation_iso: hin

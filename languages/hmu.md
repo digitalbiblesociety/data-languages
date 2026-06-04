@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هامب
     auto: true
+  - translation_iso: deu
+    name: Hamap
+    auto: true
   - translation_iso: fra
     name: hamap
   - translation_iso: hin

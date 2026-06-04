@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باكانتي
     auto: true
+  - translation_iso: deu
+    name: Paakantyi
+    auto: true
   - translation_iso: fra
     name: darling
   - translation_iso: hin

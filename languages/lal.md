@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لاليا
     auto: true
+  - translation_iso: deu
+    name: Lalia
+    auto: true
   - translation_iso: fra
     name: Lalia
     auto: true

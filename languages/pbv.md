@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بنار
     auto: true
+  - translation_iso: deu
+    name: Pnar
+    auto: true
   - translation_iso: fra
     name: pnar
   - translation_iso: hin

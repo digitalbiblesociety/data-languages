@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوليتز
     auto: true
+  - translation_iso: deu
+    name: Cowlitz
+    auto: true
   - translation_iso: fra
     name: cowlitz
   - translation_iso: hin

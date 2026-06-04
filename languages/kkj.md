@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kako_language"
 translations:
   - translation_iso: ara
     name: لغة الكاكو
+  - translation_iso: deu
+    name: Kako
   - translation_iso: fra
     name: kako
   - translation_iso: hin

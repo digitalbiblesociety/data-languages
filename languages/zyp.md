@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشين زيفي
     auto: true
+  - translation_iso: deu
+    name: Zyphe-Chin
+    auto: true
   - translation_iso: fra
     name: Zyphe chin
     auto: true

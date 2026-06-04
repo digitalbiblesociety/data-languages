@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nganasan_language"
 translations:
   - translation_iso: ara
     name: لغة نجاناسان
+  - translation_iso: deu
+    name: Nganasanisch
   - translation_iso: fra
     name: nganassane
   - translation_iso: hin

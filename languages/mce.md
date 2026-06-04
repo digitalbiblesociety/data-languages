@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك إيتونودجيا
     auto: true
+  - translation_iso: deu
+    name: Itundujia Mixtec
+    auto: true
   - translation_iso: fra
     name: "mixtèque d'Itundujia"
   - translation_iso: hin

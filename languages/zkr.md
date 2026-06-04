@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زاخرينج
     auto: true
+  - translation_iso: deu
+    name: Zakhring
+    auto: true
   - translation_iso: fra
     name: zakhring
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ottawa_dialect"
 translations:
   - translation_iso: ara
     name: أوطاوا
+  - translation_iso: deu
+    name: Ottawa
   - translation_iso: fra
     name: outaouais
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تسوتوخيل
     auto: true
+  - translation_iso: deu
+    name: Tzutuhil-Sprache
   - translation_iso: fra
     name: "tz'utujil"
   - translation_iso: hin

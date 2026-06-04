@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بارامْبو
     auto: true
+  - translation_iso: deu
+    name: Barambu
   - translation_iso: fra
     name: barambu
   - translation_iso: hin

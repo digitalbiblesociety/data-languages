@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rapa_Nui_language"
 translations:
   - translation_iso: ara
     name: لغة رابا نوي
+  - translation_iso: deu
+    name: Rapanui
   - translation_iso: fra
     name: rapanui
   - translation_iso: hin

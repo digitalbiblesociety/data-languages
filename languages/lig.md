@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يجبي
     auto: true
+  - translation_iso: deu
+    name: Ligbi
   - translation_iso: fra
     name: ligbi
   - translation_iso: hin

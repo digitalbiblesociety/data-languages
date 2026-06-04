@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيراهي
     auto: true
+  - translation_iso: deu
+    name: Tirahi
+    auto: true
   - translation_iso: fra
     name: tirahi
   - translation_iso: hin

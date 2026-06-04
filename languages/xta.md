@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ألكوزاوكا ميكستيك
     auto: true
+  - translation_iso: deu
+    name: Alcozauca-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: mixtèque d’Alcozauca
   - translation_iso: hin

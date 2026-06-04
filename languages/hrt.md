@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Neo-Aramaic_dialect_of_Hertevin"
 translations:
   - translation_iso: ara
     name: سورث هرتفين
+  - translation_iso: deu
+    name: Hertevin
   - translation_iso: fra
     name: hertevin
   - translation_iso: hin

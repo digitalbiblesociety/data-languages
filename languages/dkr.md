@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويجاو
     auto: true
+  - translation_iso: deu
+    name: Kuijau
+    auto: true
   - translation_iso: fra
     name: Kuijau
     auto: true

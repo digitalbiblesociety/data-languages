@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tonga_language_(Zambia_and_Zimbabw
 translations:
   - translation_iso: ara
     name: تونغا
+  - translation_iso: deu
+    name: ChiTonga
   - translation_iso: fra
     name: chitonga
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بولي
     auto: true
+  - translation_iso: deu
+    name: Bole
   - translation_iso: fra
     name: bole
   - translation_iso: hin

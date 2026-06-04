@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مي إن
     auto: true
+  - translation_iso: deu
+    name: "Me'en"
+    auto: true
   - translation_iso: fra
     name: "me'en"
   - translation_iso: hin

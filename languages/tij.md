@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيلونغ
     auto: true
+  - translation_iso: deu
+    name: Tilung
+    auto: true
   - translation_iso: fra
     name: tilung
   - translation_iso: hin

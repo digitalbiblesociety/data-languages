@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كوسكو
     auto: true
+  - translation_iso: deu
+    name: Cusco-Quechua
   - translation_iso: fra
     name: quechua de Cusco
   - translation_iso: hin

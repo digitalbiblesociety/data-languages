@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوراون صادري
     auto: true
+  - translation_iso: deu
+    name: Oraon-Sadri
+    auto: true
   - translation_iso: fra
     name: sadri oraon
   - translation_iso: hin

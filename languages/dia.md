@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديا
     auto: true
+  - translation_iso: deu
+    name: Dia
+    auto: true
   - translation_iso: fra
     name: dia
   - translation_iso: hin

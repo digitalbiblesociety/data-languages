@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تزوتسيل
     auto: true
+  - translation_iso: deu
+    name: Tzotzil-Sprache
   - translation_iso: fra
     name: tzotzil
   - translation_iso: hin

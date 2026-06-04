@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسو
     auto: true
+  - translation_iso: deu
+    name: Asu
   - translation_iso: fra
     name: Asu (Nigéria)
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووم نيغيريا
     auto: true
+  - translation_iso: deu
+    name: Wom (Nigeria)
+    auto: true
   - translation_iso: fra
     name: wom
   - translation_iso: hin

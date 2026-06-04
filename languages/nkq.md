@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نكامي
     auto: true
+  - translation_iso: deu
+    name: Nkami
+    auto: true
   - translation_iso: fra
     name: nkami
   - translation_iso: hin

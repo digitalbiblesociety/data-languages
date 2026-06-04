@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشومبولي
     auto: true
+  - translation_iso: deu
+    name: Tchumbuli
+    auto: true
   - translation_iso: fra
     name: tchumbuli
   - translation_iso: hin

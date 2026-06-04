@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبول أور دوجون
     auto: true
+  - translation_iso: deu
+    name: Tebul Ure Dogon
+    auto: true
   - translation_iso: fra
     name: tebul
   - translation_iso: hin

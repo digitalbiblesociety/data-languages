@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كويا
     auto: true
+  - translation_iso: deu
+    name: Koya
   - translation_iso: fra
     name: koya
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاجاكي
     auto: true
+  - translation_iso: deu
+    name: Kajakse
+    auto: true
   - translation_iso: fra
     name: kajakse
   - translation_iso: hin

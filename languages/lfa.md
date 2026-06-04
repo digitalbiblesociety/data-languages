@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يفا
     auto: true
+  - translation_iso: deu
+    name: Lefa
   - translation_iso: fra
     name: lefa
   - translation_iso: hin

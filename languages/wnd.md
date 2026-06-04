@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واندارانغ
     auto: true
+  - translation_iso: deu
+    name: Wandarang
+    auto: true
   - translation_iso: fra
     name: wandarang
   - translation_iso: hin

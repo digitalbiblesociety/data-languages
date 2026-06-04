@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: مين فرانكنكش
     auto: true
+  - translation_iso: deu
+    name: Mainfränkisch
   - translation_iso: fra
     name: franconien du Main
   - translation_iso: hin

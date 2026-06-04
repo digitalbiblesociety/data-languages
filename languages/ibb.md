@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ibibio_language"
 translations:
   - translation_iso: ara
     name: الإيبيبيو
+  - translation_iso: deu
+    name: Ibibio
   - translation_iso: fra
     name: ibibio
   - translation_iso: hin

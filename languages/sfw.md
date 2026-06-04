@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سيهوي
     auto: true
+  - translation_iso: deu
+    name: Sehwi
   - translation_iso: fra
     name: sehwi
   - translation_iso: hin

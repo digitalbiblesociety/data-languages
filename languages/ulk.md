@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميريام مير
     auto: true
+  - translation_iso: deu
+    name: Meriam Mir
+    auto: true
   - translation_iso: fra
     name: meriam
   - translation_iso: hin

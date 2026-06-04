@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كانجوبال
     auto: true
+  - translation_iso: deu
+    name: Kanjobal-Sprache
   - translation_iso: fra
     name: "q'anjob'al"
   - translation_iso: hin

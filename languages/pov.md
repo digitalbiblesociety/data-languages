@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كريولو جينيا العليا
     auto: true
+  - translation_iso: deu
+    name: Guineabissauisches Kreol
   - translation_iso: fra
     name: créole de Guinée-Bissau
   - translation_iso: hin

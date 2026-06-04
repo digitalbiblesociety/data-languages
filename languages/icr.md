@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كريول الجزيرة الإنجليزية
     auto: true
+  - translation_iso: deu
+    name: Islander-Kreolenglisch
+    auto: true
   - translation_iso: fra
     name: créole de San Andrés et Providencia
   - translation_iso: hin

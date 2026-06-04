@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نونجو
     auto: true
+  - translation_iso: deu
+    name: Nungu
+    auto: true
   - translation_iso: fra
     name: Nungu
   - translation_iso: hin

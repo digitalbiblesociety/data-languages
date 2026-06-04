@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: اللغة مانيبوري القديمة
     auto: true
+  - translation_iso: deu
+    name: Altmanipuri
   - translation_iso: fra
     name: Meitei ancien
     auto: true

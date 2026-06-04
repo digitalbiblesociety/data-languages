@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Odia_language"
 translations:
   - translation_iso: ara
     name: لغة الأوريا
+  - translation_iso: deu
+    name: Oriya
   - translation_iso: fra
     name: oriya
   - translation_iso: hin

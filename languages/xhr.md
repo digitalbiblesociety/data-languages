@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: هيرنيكان
     auto: true
+  - translation_iso: deu
+    name: Hernikische Sprache
   - translation_iso: fra
     name: hernique
   - translation_iso: hin

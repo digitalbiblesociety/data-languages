@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الطيري
     auto: true
+  - translation_iso: deu
+    name: Tiri
+    auto: true
   - translation_iso: fra
     name: tîrî
   - translation_iso: hin

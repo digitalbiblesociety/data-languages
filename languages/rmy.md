@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فلاكس رومانية
     auto: true
+  - translation_iso: deu
+    name: Vlax-Romani
   - translation_iso: fra
     name: romani vlax
   - translation_iso: hin

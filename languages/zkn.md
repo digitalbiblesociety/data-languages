@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة كانان
     auto: true
+  - translation_iso: deu
+    name: Kanan
+    auto: true
   - translation_iso: fra
     name: kanan
   - translation_iso: hin

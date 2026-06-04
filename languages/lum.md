@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ويمبي
     auto: true
+  - translation_iso: deu
+    name: Luimbi
+    auto: true
   - translation_iso: fra
     name: luimbi
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوكي
     auto: true
+  - translation_iso: deu
+    name: Suki
+    auto: true
   - translation_iso: fra
     name: suki
   - translation_iso: hin

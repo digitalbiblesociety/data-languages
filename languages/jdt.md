@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يهودية تاتية
     auto: true
+  - translation_iso: deu
+    name: Judäo-Tat
+    auto: true
   - translation_iso: fra
     name: juhuri
   - translation_iso: hin

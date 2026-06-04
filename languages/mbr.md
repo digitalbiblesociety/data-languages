@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نوكاك ماكو
     auto: true
+  - translation_iso: deu
+    name: Nukak Makú
+    auto: true
   - translation_iso: fra
     name: nukak
   - translation_iso: hin

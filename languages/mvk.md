@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ميكميك
     auto: true
+  - translation_iso: deu
+    name: Mekmek
   - translation_iso: fra
     name: mekmek
   - translation_iso: hin

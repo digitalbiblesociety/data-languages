@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gilbertese_language"
 translations:
   - translation_iso: ara
     name: الكيريباتية
+  - translation_iso: deu
+    name: Kiribatisch
   - translation_iso: fra
     name: gilbertin
   - translation_iso: hin

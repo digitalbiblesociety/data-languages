@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kwanyama"
 translations:
   - translation_iso: ara
     name: كوانياما
+  - translation_iso: deu
+    name: Kwanyama
   - translation_iso: fra
     name: kwanyama
   - translation_iso: hin

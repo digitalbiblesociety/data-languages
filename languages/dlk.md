@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dahalik_language"
 translations:
   - translation_iso: ara
     name: الدهلكية
+  - translation_iso: deu
+    name: Dahalik
   - translation_iso: fra
     name: dahlik
   - translation_iso: hin

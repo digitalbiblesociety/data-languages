@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكويري
     auto: true
+  - translation_iso: deu
+    name: Kwere
+    auto: true
   - translation_iso: fra
     name: kwere
   - translation_iso: hin

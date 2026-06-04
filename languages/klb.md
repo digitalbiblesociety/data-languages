@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيليوا
     auto: true
+  - translation_iso: deu
+    name: Kiliwa
   - translation_iso: fra
     name: kiliwa
   - translation_iso: hin

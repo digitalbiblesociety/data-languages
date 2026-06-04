@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة غوغوبيرا
     auto: true
+  - translation_iso: deu
+    name: Gugubera
+    auto: true
   - translation_iso: fra
     name: koko-bera
   - translation_iso: hin

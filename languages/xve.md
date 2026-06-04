@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فينيتية
     auto: true
+  - translation_iso: deu
+    name: Venetisch
   - translation_iso: fra
     name: vénète
   - translation_iso: hin

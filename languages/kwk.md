@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kwak%CA%BCwala"
 translations:
   - translation_iso: ara
     name: الكواكوالا
+  - translation_iso: deu
+    name: "Kwak'wala"
   - translation_iso: fra
     name: "kwak'wala"
   - translation_iso: hin

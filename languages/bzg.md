@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بابوزا
     auto: true
+  - translation_iso: deu
+    name: Babuza
+    auto: true
   - translation_iso: fra
     name: babuza
   - translation_iso: hin

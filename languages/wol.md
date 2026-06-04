@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Wolof_language"
 translations:
   - translation_iso: ara
     name: الولوفية
+  - translation_iso: deu
+    name: Wolof
   - translation_iso: fra
     name: wolof
   - translation_iso: hin

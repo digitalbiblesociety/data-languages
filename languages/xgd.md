@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غودانغ
     auto: true
+  - translation_iso: deu
+    name: Gudang
+    auto: true
   - translation_iso: fra
     name: Gudang
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامنا
     auto: true
+  - translation_iso: deu
+    name: Yamna
+    auto: true
   - translation_iso: fra
     name: Yamna
     auto: true

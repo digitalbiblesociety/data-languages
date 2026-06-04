@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Kentish_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة إشارة كينتش القديمة
+  - translation_iso: deu
+    name: Alt-Kentische Gebärdensprache
   - translation_iso: fra
     name: Ancienne langue des signes du Kent
     auto: true

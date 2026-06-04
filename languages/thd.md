@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوك ثايور
     auto: true
+  - translation_iso: deu
+    name: Kuuk Thaayorre
+    auto: true
   - translation_iso: fra
     name: kuuk-thaayore
   - translation_iso: hin

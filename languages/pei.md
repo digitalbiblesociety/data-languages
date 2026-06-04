@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تشيتشيميكا جوناث
     auto: true
+  - translation_iso: deu
+    name: Chichimeca-Jonaz
+    auto: true
   - translation_iso: fra
     name: chichimèque
   - translation_iso: hin

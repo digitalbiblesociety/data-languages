@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة مجندانايون
     auto: true
+  - translation_iso: deu
+    name: Maguindanaon
+    auto: true
   - translation_iso: fra
     name: maguindanayen
   - translation_iso: hin

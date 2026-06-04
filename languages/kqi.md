@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كويتابو
     auto: true
+  - translation_iso: deu
+    name: Koitabu
+    auto: true
   - translation_iso: fra
     name: koitabu
   - translation_iso: hin

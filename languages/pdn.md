@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودينا
     auto: true
+  - translation_iso: deu
+    name: Podena
+    auto: true
   - translation_iso: fra
     name: Podena
     auto: true

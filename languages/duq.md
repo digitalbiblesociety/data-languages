@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوسون مالانج
     auto: true
+  - translation_iso: deu
+    name: Dusun Malang
+    auto: true
   - translation_iso: fra
     name: dusun malang
   - translation_iso: hin

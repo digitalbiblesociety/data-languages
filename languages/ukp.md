@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوكبيه-بايوبيري
     auto: true
+  - translation_iso: deu
+    name: Ukpe-Bayobiri
+    auto: true
   - translation_iso: fra
     name: ukpe-bayobiri
   - translation_iso: hin

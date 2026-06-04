@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجوندي الأهري
     auto: true
+  - translation_iso: deu
+    name: Aheri-Gondi
+    auto: true
   - translation_iso: fra
     name: aheri
   - translation_iso: hin

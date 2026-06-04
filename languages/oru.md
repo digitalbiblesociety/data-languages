@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ormuri"
 translations:
   - translation_iso: ara
     name: أرمري
+  - translation_iso: deu
+    name: Ormuri
   - translation_iso: fra
     name: ormuri
   - translation_iso: hin

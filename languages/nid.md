@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجاندي
     auto: true
+  - translation_iso: deu
+    name: Ngandi
+    auto: true
   - translation_iso: fra
     name: Ngandi
     auto: true

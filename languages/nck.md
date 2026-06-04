@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نا كارا
     auto: true
+  - translation_iso: deu
+    name: Na-kara
+    auto: true
   - translation_iso: fra
     name: nakara
   - translation_iso: hin

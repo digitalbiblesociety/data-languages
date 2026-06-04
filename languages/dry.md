@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: دراي
     auto: true
+  - translation_iso: deu
+    name: Darai
+    auto: true
   - translation_iso: fra
     name: darai
   - translation_iso: hin

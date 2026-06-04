@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يكا
     auto: true
+  - translation_iso: deu
+    name: Yaka
   - translation_iso: fra
     name: aka
   - translation_iso: hin

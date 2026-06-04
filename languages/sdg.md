@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سافي
     auto: true
+  - translation_iso: deu
+    name: Savi
+    auto: true
   - translation_iso: fra
     name: sawi
   - translation_iso: hin

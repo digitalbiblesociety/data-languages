@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أريكيم
     auto: true
+  - translation_iso: deu
+    name: Arikem
+    auto: true
   - translation_iso: fra
     name: Arikem
     auto: true

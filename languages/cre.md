@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cree_language"
 translations:
   - translation_iso: ara
     name: لغة كري
+  - translation_iso: deu
+    name: Cree
   - translation_iso: fra
     name: cri
   - translation_iso: hin

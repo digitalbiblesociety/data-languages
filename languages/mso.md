@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موبوم
     auto: true
+  - translation_iso: deu
+    name: Mombum
+    auto: true
   - translation_iso: fra
     name: mombum
   - translation_iso: hin

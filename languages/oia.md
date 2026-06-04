@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Oirata_language"
 translations:
   - translation_iso: ara
     name: لغة أيراتا
+  - translation_iso: deu
+    name: Oirata
   - translation_iso: fra
     name: oirata
   - translation_iso: hin

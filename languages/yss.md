@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يسان-مايو
     auto: true
+  - translation_iso: deu
+    name: Yessan-Mayo
+    auto: true
   - translation_iso: fra
     name: yessan-mayo
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غيمنيمإ
     auto: true
+  - translation_iso: deu
+    name: Gimnime
+    auto: true
   - translation_iso: fra
     name: gimnime
   - translation_iso: hin

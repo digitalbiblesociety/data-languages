@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: رايتية
     auto: true
+  - translation_iso: deu
+    name: Rätisch
   - translation_iso: fra
     name: rhétique
   - translation_iso: hin

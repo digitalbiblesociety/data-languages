@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشانج ناجا
     auto: true
+  - translation_iso: deu
+    name: Chang-Naga
+    auto: true
   - translation_iso: fra
     name: Naga chang
     auto: true

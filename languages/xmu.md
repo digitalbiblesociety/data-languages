@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كامو
     auto: true
+  - translation_iso: deu
+    name: Kamu
+    auto: true
   - translation_iso: fra
     name: kamu
   - translation_iso: hin

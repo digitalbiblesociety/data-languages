@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة خاميتي
     auto: true
+  - translation_iso: deu
+    name: Khamti
+    auto: true
   - translation_iso: fra
     name: khamti
   - translation_iso: hin

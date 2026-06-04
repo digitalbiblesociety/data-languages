@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرارنتا الغربية
     auto: true
+  - translation_iso: deu
+    name: West-Arrarnta
+    auto: true
   - translation_iso: fra
     name: arrernte de l’Ouest
   - translation_iso: hin

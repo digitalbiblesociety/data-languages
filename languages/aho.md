@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ahom_language"
 translations:
   - translation_iso: ara
     name: لغة آهوم
+  - translation_iso: deu
+    name: Ahom
   - translation_iso: fra
     name: ahom
   - translation_iso: hin

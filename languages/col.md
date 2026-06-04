@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كولومبيا-ويناتشي
     auto: true
+  - translation_iso: deu
+    name: Columbia-Moses
   - translation_iso: fra
     name: columbia-wenatchi
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nafusi_language"
 translations:
   - translation_iso: ara
     name: لغة نفوسي
+  - translation_iso: deu
+    name: Nafusi
   - translation_iso: fra
     name: nafusi
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوبار
     auto: true
+  - translation_iso: deu
+    name: Kopar
+    auto: true
   - translation_iso: fra
     name: kopar
   - translation_iso: hin

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: داونجوروند
     auto: true
+  - translation_iso: deu
+    name: Daungwurrung
+    auto: true
   - translation_iso: fra
     name: Daungwurrung
     auto: true

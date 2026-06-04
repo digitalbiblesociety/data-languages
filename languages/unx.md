@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: موندا
     auto: true
+  - translation_iso: deu
+    name: Munda
+    auto: true
   - translation_iso: fra
     name: munda
   - translation_iso: hin

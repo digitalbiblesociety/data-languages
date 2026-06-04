@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الاامايا
     auto: true
+  - translation_iso: deu
+    name: Kalaamaya
+    auto: true
   - translation_iso: fra
     name: kalaamaya
   - translation_iso: hin

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: سانغير
     auto: true
+  - translation_iso: deu
+    name: Sangir
   - translation_iso: fra
     name: sangir
   - translation_iso: hin

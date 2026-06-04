@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سليبا
     auto: true
+  - translation_iso: deu
+    name: Sáliba
+    auto: true
   - translation_iso: fra
     name: sáliva
   - translation_iso: hin

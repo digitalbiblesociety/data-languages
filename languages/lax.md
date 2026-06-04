@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيوا
     auto: true
+  - translation_iso: deu
+    name: Tiwa
+    auto: true
   - translation_iso: fra
     name: tiwa
   - translation_iso: hin

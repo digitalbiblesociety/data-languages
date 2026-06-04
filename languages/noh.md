@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوموا
     auto: true
+  - translation_iso: deu
+    name: Nomu
+    auto: true
   - translation_iso: fra
     name: Nomu
     auto: true

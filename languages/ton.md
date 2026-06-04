@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tongan_language"
 translations:
   - translation_iso: ara
     name: اللغة التونغية
+  - translation_iso: deu
+    name: Tongaisch
   - translation_iso: fra
     name: tongien
   - translation_iso: hin

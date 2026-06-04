@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تاسماني أويستر باي
     auto: true
+  - translation_iso: deu
+    name: Oyster Bay Tasmanian
+    auto: true
   - translation_iso: fra
     name: paredarerme
   - translation_iso: hin

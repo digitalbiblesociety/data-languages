@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة أختيرهويكس
     auto: true
+  - translation_iso: deu
+    name: Achterhooks
   - translation_iso: fra
     name: achterhooks
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الهندوراسية
     auto: true
+  - translation_iso: deu
+    name: Honduranische Gebärdensprache
   - translation_iso: fra
     name: langue des signes hondurienne
   - translation_iso: hin

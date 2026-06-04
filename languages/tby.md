@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تابارو
     auto: true
+  - translation_iso: deu
+    name: Tabaru
+    auto: true
   - translation_iso: fra
     name: tabaru
   - translation_iso: hin

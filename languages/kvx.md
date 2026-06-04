@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Parkari_Koli_language"
 translations:
   - translation_iso: ara
     name: باركري كولي
+  - translation_iso: deu
+    name: Parkari-Koli
+    auto: true
   - translation_iso: fra
     name: parkari
   - translation_iso: hin

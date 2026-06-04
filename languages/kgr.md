@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة آبون
     auto: true
+  - translation_iso: deu
+    name: Abun
+    auto: true
   - translation_iso: fra
     name: abun
   - translation_iso: hin

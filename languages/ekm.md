@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإليب
     auto: true
+  - translation_iso: deu
+    name: Elip
+    auto: true
   - translation_iso: fra
     name: elip
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوم
     auto: true
+  - translation_iso: deu
+    name: Dom
+    auto: true
   - translation_iso: fra
     name: Dom
     auto: true

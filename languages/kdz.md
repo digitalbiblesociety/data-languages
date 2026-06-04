@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كواجا
     auto: true
+  - translation_iso: deu
+    name: Kwaja
+    auto: true
   - translation_iso: fra
     name: kwaja
   - translation_iso: hin

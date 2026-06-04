@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بيبيلي
     auto: true
+  - translation_iso: deu
+    name: Bebele
   - translation_iso: fra
     name: bebele
   - translation_iso: hin

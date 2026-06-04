@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيونج
     auto: true
+  - translation_iso: deu
+    name: Kiong
+    auto: true
   - translation_iso: fra
     name: kiong
   - translation_iso: hin

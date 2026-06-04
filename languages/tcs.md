@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كريولية جزر توريس
     auto: true
+  - translation_iso: deu
+    name: Torres Creole
   - translation_iso: fra
     name: créole du détroit de Torrès
   - translation_iso: hin

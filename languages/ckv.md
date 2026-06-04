@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكافالان
     auto: true
+  - translation_iso: deu
+    name: Kavalan
+    auto: true
   - translation_iso: fra
     name: kavalan
   - translation_iso: hin

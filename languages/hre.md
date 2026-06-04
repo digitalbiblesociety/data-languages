@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هري
     auto: true
+  - translation_iso: deu
+    name: Hre
+    auto: true
   - translation_iso: fra
     name: hrê
   - translation_iso: hin

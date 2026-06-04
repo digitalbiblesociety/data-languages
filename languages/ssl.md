@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيسالا الغربية
     auto: true
+  - translation_iso: deu
+    name: Western Sisaala
+    auto: true
   - translation_iso: fra
     name: "sisaala de l'Ouest"
   - translation_iso: hin

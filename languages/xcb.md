@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: كومبريك
     auto: true
+  - translation_iso: deu
+    name: Kumbrisch
   - translation_iso: fra
     name: cambrien
   - translation_iso: hin

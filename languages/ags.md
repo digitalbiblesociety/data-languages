@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيسيمبي
     auto: true
+  - translation_iso: deu
+    name: Esimbi
   - translation_iso: fra
     name: esimbi
   - translation_iso: hin

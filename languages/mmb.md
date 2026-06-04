@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة موميا
     auto: true
+  - translation_iso: deu
+    name: Momina
+    auto: true
   - translation_iso: fra
     name: momina
   - translation_iso: hin

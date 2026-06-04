@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنامبي
     auto: true
+  - translation_iso: deu
+    name: Anambé von Cairarí
+    auto: true
   - translation_iso: fra
     name: anambé
   - translation_iso: hin

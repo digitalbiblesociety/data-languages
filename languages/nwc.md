@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Newar"
 translations:
   - translation_iso: ara
     name: النوارية التقليدية
+  - translation_iso: deu
+    name: klassisches Newari
   - translation_iso: fra
     name: newari classique
   - translation_iso: hin

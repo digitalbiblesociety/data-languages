@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ندومو
     auto: true
+  - translation_iso: deu
+    name: Ndumu
   - translation_iso: fra
     name: Ndumu
   - translation_iso: hin

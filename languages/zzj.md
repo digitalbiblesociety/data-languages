@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ زوجيانغ
     auto: true
+  - translation_iso: deu
+    name: Zuojiang-Zhuang
+    auto: true
   - translation_iso: fra
     name: zhuang de Zuojiang
   - translation_iso: hin

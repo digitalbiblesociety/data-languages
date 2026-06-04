@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ونجكاري
     auto: true
+  - translation_iso: deu
+    name: Kungkari
+    auto: true
   - translation_iso: fra
     name: kungkari
   - translation_iso: hin

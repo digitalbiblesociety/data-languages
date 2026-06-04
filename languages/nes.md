@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بهوتي كيناوري
     auto: true
+  - translation_iso: deu
+    name: Bhoti Kinnauri
+    auto: true
   - translation_iso: fra
     name: Bhoti kinnauri
     auto: true

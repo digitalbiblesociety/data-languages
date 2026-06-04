@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نمبوران
     auto: true
+  - translation_iso: deu
+    name: Nimboran
+    auto: true
   - translation_iso: fra
     name: nimboran
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة آسانجوري
     auto: true
+  - translation_iso: deu
+    name: Assangori
+    auto: true
   - translation_iso: fra
     name: assangori
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريانج لانج
     auto: true
+  - translation_iso: deu
+    name: Riang Lang
+    auto: true
   - translation_iso: fra
     name: riang
   - translation_iso: hin

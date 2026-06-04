@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هويليتشي
     auto: true
+  - translation_iso: deu
+    name: Huilliche
   - translation_iso: fra
     name: huilliche
   - translation_iso: hin

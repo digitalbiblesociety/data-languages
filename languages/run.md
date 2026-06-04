@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kirundi"
 translations:
   - translation_iso: ara
     name: الكيروندية
+  - translation_iso: deu
+    name: Kirundi
   - translation_iso: fra
     name: kirundi
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مايينغ إيتنيغ
     auto: true
+  - translation_iso: deu
+    name: Maeng-Itneg
+    auto: true
   - translation_iso: fra
     name: itneg maeng
   - translation_iso: hin

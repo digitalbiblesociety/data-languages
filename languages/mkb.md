@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مال باهاريا
     auto: true
+  - translation_iso: deu
+    name: Mal Paharia
+    auto: true
   - translation_iso: fra
     name: mal paharia
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nuer_language"
 translations:
   - translation_iso: ara
     name: النوير
+  - translation_iso: deu
+    name: Nuer
   - translation_iso: fra
     name: nuer
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة دونجشانبا لالو
     auto: true
+  - translation_iso: deu
+    name: Dongshanba Lalo
+    auto: true
   - translation_iso: fra
     name: Lalo de Dongshanba
     auto: true

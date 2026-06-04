@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بايْجو
     auto: true
+  - translation_iso: deu
+    name: Baygo
+    auto: true
   - translation_iso: fra
     name: baygo
   - translation_iso: hin

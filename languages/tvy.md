@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيدجين تيمور
     auto: true
+  - translation_iso: deu
+    name: Timor-Pidgin
+    auto: true
   - translation_iso: fra
     name: Pidgin de Timor
     auto: true

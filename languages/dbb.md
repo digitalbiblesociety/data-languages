@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديني
     auto: true
+  - translation_iso: deu
+    name: Deno
+    auto: true
   - translation_iso: fra
     name: Deno
     auto: true

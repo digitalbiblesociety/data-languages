@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوهو-سامانيه
     auto: true
+  - translation_iso: deu
+    name: Guhu-Samane
+    auto: true
   - translation_iso: fra
     name: Guhu-Samane
     auto: true

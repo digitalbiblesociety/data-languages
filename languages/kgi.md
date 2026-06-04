@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة سلانجور للإشارة
     auto: true
+  - translation_iso: deu
+    name: Selangor-Gebärdensprache
   - translation_iso: fra
     name: langue des signes du Selangor
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالكان رومانية
     auto: true
+  - translation_iso: deu
+    name: Balkan-Romani
+    auto: true
   - translation_iso: fra
     name: romani des Balkans
   - translation_iso: hin

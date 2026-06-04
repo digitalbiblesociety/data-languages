@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الكاكاوبيرا
     auto: true
+  - translation_iso: deu
+    name: Cacaopera
+    auto: true
   - translation_iso: fra
     name: Cacaopera
     auto: true

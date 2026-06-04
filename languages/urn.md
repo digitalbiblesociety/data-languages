@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورواننجيرين
     auto: true
+  - translation_iso: deu
+    name: Uruangnirin
+    auto: true
   - translation_iso: fra
     name: uruangnirin
   - translation_iso: hin

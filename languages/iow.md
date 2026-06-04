@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أيوا-أوتو
     auto: true
+  - translation_iso: deu
+    name: Iowa-Oto
+    auto: true
   - translation_iso: fra
     name: iowa-oto
   - translation_iso: hin

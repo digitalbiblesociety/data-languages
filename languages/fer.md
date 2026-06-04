@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفيروج
     auto: true
+  - translation_iso: deu
+    name: Feroge
   - translation_iso: fra
     name: feroge
   - translation_iso: hin

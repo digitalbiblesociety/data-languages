@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة بونو
     auto: true
+  - translation_iso: deu
+    name: Punu
   - translation_iso: fra
     name: punu
   - translation_iso: hin

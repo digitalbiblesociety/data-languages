@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توتوناك كويوتلا
     auto: true
+  - translation_iso: deu
+    name: Coyutla Totonac
+    auto: true
   - translation_iso: fra
     name: totonaque de Coyutla
   - translation_iso: hin

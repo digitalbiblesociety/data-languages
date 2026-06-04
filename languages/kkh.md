@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة خون
     auto: true
+  - translation_iso: deu
+    name: Khün
   - translation_iso: fra
     name: khün
   - translation_iso: hin

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة هندكو الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Südliches Hindko
+    auto: true
   - translation_iso: fra
     name: hindko du Sud
   - translation_iso: hin

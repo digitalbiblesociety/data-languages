@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة آفار القديمة
     auto: true
+  - translation_iso: deu
+    name: Altawarisch
+    auto: true
   - translation_iso: fra
     name: Avar ancien
     auto: true

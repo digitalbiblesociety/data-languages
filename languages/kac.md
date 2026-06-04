@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jingpo_language"
 translations:
   - translation_iso: ara
     name: الكاتشين
+  - translation_iso: deu
+    name: Jingpho
   - translation_iso: fra
     name: jinghpo
   - translation_iso: hin

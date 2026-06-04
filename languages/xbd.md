@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: بيندال
     auto: true
+  - translation_iso: deu
+    name: Bindal
+    auto: true
   - translation_iso: fra
     name: Bindal
     auto: true

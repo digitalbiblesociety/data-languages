@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسباتينو
     auto: true
+  - translation_iso: deu
+    name: Masbatenyo
+    auto: true
   - translation_iso: fra
     name: masbateño
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاريين بوو الغربية
     auto: true
+  - translation_iso: deu
+    name: Westliches Pwo-Karen
+    auto: true
   - translation_iso: fra
     name: "pwo de l'Ouest"
   - translation_iso: hin

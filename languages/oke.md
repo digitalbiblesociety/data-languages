@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكبي
     auto: true
+  - translation_iso: deu
+    name: Okpe (Südwest-Edo)
+    auto: true
   - translation_iso: fra
     name: okpe
   - translation_iso: hin

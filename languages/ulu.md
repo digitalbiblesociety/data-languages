@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوما لونج
     auto: true
+  - translation_iso: deu
+    name: "Uma' Lung"
+    auto: true
   - translation_iso: fra
     name: uma’ lung
   - translation_iso: hin

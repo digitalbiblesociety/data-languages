@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بارجام
     auto: true
+  - translation_iso: deu
+    name: Bargam
+    auto: true
   - translation_iso: fra
     name: bargam
   - translation_iso: hin

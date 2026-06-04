@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماخووا-ساكا
     auto: true
+  - translation_iso: deu
+    name: Makhuwa-Saka
+    auto: true
   - translation_iso: fra
     name: makhuwa-saka
   - translation_iso: hin

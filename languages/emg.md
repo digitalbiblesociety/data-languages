@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الميوهانج الشرقية
     auto: true
+  - translation_iso: deu
+    name: Ost-Meohang
+    auto: true
   - translation_iso: fra
     name: "meohang de l'Est"
   - translation_iso: hin

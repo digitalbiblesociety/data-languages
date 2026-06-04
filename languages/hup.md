@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hupa_language"
 translations:
   - translation_iso: ara
     name: الهبا
+  - translation_iso: deu
+    name: Hupa
   - translation_iso: fra
     name: hupa
   - translation_iso: hin

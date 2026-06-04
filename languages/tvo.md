@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيدوري
     auto: true
+  - translation_iso: deu
+    name: Tidore
+    auto: true
   - translation_iso: fra
     name: tidore
   - translation_iso: hin

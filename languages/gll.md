@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآرلآلي
     auto: true
+  - translation_iso: deu
+    name: Garlali
+    auto: true
   - translation_iso: fra
     name: garlali
   - translation_iso: hin

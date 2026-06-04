@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريكباكتسا
     auto: true
+  - translation_iso: deu
+    name: Rikbaktsa
+    auto: true
   - translation_iso: fra
     name: rikbaktsa
   - translation_iso: hin

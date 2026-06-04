@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيوا الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Southern Tiwa
+    auto: true
   - translation_iso: fra
     name: tiwa du Sud
   - translation_iso: hin

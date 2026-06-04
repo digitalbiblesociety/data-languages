@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كوانهوا
     auto: true
+  - translation_iso: deu
+    name: Kuanhua
+    auto: true
   - translation_iso: fra
     name: kuan
   - translation_iso: hin

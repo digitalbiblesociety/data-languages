@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نسونغو
     auto: true
+  - translation_iso: deu
+    name: Nsongo
+    auto: true
   - translation_iso: fra
     name: nsongo
   - translation_iso: hin

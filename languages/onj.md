@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونجوب
     auto: true
+  - translation_iso: deu
+    name: Onjob
+    auto: true
   - translation_iso: fra
     name: onjob
   - translation_iso: hin

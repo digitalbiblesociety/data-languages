@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أريبواتسا
     auto: true
+  - translation_iso: deu
+    name: Aribwatsa
+    auto: true
   - translation_iso: fra
     name: Aribwatsa
     auto: true

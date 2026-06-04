@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بيلاسبوري
     auto: true
+  - translation_iso: deu
+    name: Bilaspuri
+    auto: true
   - translation_iso: fra
     name: bilaspuri
   - translation_iso: hin

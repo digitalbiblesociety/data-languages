@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناتانزي
     auto: true
+  - translation_iso: deu
+    name: Natanzi
+    auto: true
   - translation_iso: fra
     name: nata
   - translation_iso: hin

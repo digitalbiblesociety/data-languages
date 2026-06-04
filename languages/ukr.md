@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ukrainian_language"
 translations:
   - translation_iso: ara
     name: الأوكرانية
+  - translation_iso: deu
+    name: Ukrainisch
   - translation_iso: fra
     name: ukrainien
   - translation_iso: hin

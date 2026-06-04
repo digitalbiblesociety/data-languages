@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مرا
     auto: true
+  - translation_iso: deu
+    name: Marra
+    auto: true
   - translation_iso: fra
     name: mara
   - translation_iso: hin

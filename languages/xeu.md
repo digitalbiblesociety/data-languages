@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيورو-أهيا
     auto: true
+  - translation_iso: deu
+    name: Keoru-Ahia
+    auto: true
   - translation_iso: fra
     name: Keoru-Ahia
     auto: true

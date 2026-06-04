@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الماراثية القديمة
     auto: true
+  - translation_iso: deu
+    name: Altmarathi
   - translation_iso: fra
     name: Marathi ancien
     auto: true

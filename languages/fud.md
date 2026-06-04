@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: فوتونا الشرقية
     auto: true
+  - translation_iso: deu
+    name: Futunisch
   - translation_iso: fra
     name: futunien
   - translation_iso: hin

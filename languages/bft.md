@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Balti_language"
 translations:
   - translation_iso: ara
     name: البلتية
+  - translation_iso: deu
+    name: Balti
   - translation_iso: fra
     name: balti
   - translation_iso: hin

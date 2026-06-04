@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإكاري
     auto: true
+  - translation_iso: deu
+    name: Ekari
+    auto: true
   - translation_iso: fra
     name: ekari
   - translation_iso: hin

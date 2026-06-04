@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وارز
     auto: true
+  - translation_iso: deu
+    name: Wares
+    auto: true
   - translation_iso: fra
     name: wares
   - translation_iso: hin

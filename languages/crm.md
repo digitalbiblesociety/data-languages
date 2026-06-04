@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moose_Cree_language"
 translations:
   - translation_iso: ara
     name: الموس-كري
+  - translation_iso: deu
+    name: Moose Cree
   - translation_iso: fra
     name: cri de Moose
   - translation_iso: hin

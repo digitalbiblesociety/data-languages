@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجي
     auto: true
+  - translation_iso: deu
+    name: Songe
+    auto: true
   - translation_iso: fra
     name: kisongye
   - translation_iso: hin

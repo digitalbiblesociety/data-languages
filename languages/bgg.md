@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوجون
     auto: true
+  - translation_iso: deu
+    name: Bugun
+    auto: true
   - translation_iso: fra
     name: bugun
   - translation_iso: hin

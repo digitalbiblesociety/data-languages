@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سانتا ماريا ساكاتيبيك ميكستك
     auto: true
+  - translation_iso: deu
+    name: Santa-María-Zacatepec-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: Mixtèque de Santa María Zacatepec
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوراك
     auto: true
+  - translation_iso: deu
+    name: Korak
+    auto: true
   - translation_iso: fra
     name: korak
   - translation_iso: hin

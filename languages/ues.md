@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيوكو
     auto: true
+  - translation_iso: deu
+    name: Kioko
+    auto: true
   - translation_iso: fra
     name: kioko
   - translation_iso: hin

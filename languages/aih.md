@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آي-تشام
     auto: true
+  - translation_iso: deu
+    name: Ai-Cham
+    auto: true
   - translation_iso: fra
     name: ai-cham
   - translation_iso: hin

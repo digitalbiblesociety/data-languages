@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوراتي
     auto: true
+  - translation_iso: deu
+    name: Burate
+    auto: true
   - translation_iso: fra
     name: burate
   - translation_iso: hin

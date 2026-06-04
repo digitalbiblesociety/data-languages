@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: فالي ناسيونال تشينانتك
     auto: true
+  - translation_iso: deu
+    name: Valle-Nacional-Chinantekisch
+    auto: true
   - translation_iso: fra
     name: chinantèque de Valle Nacional
   - translation_iso: hin

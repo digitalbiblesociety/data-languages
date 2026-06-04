@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جافاك
     auto: true
+  - translation_iso: deu
+    name: Gavak
+    auto: true
   - translation_iso: fra
     name: Gavak
     auto: true

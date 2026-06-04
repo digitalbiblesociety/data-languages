@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة تو
     auto: true
+  - translation_iso: deu
+    name: Mangghuer
   - translation_iso: fra
     name: monguor
   - translation_iso: hin

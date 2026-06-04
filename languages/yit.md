@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسترن لالو
     auto: true
+  - translation_iso: deu
+    name: Östliches Lalu
+    auto: true
   - translation_iso: fra
     name: Lalu oriental
     auto: true

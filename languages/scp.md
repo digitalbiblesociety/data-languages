@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هيولمو
     auto: true
+  - translation_iso: deu
+    name: Hyolmo
+    auto: true
   - translation_iso: fra
     name: yolmo
   - translation_iso: hin

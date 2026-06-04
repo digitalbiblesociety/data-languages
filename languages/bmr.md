@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موينياني
     auto: true
+  - translation_iso: deu
+    name: Muinane
+    auto: true
   - translation_iso: fra
     name: muinane
   - translation_iso: hin

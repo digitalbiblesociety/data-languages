@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ريمونتادو دوماغات
     auto: true
+  - translation_iso: deu
+    name: Remontado Dumagat
+    auto: true
   - translation_iso: fra
     name: Remontado Dumagat
     auto: true

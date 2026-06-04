@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميتوكو
     auto: true
+  - translation_iso: deu
+    name: Mituku
+    auto: true
   - translation_iso: fra
     name: mituku
   - translation_iso: hin

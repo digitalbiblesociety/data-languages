@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الشونغ
     auto: true
+  - translation_iso: deu
+    name: Cung
   - translation_iso: fra
     name: chungmboko
   - translation_iso: hin

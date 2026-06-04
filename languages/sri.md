@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيريانو
     auto: true
+  - translation_iso: deu
+    name: Siriano
+    auto: true
   - translation_iso: fra
     name: siriano
   - translation_iso: hin

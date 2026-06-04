@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الصولونج
     auto: true
+  - translation_iso: deu
+    name: Solong
+    auto: true
   - translation_iso: fra
     name: Solong
     auto: true

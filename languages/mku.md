@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كونيانكا مانينكا
     auto: true
+  - translation_iso: deu
+    name: Konyanka Maninka
+    auto: true
   - translation_iso: fra
     name: maninka konyanka
   - translation_iso: hin

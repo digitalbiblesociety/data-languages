@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة آكا-بو
     auto: true
+  - translation_iso: deu
+    name: Aka-Bo
   - translation_iso: fra
     name: aka-bo
   - translation_iso: hin

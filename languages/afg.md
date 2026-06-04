@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأفغانية
     auto: true
+  - translation_iso: deu
+    name: Afghanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes afghane
   - translation_iso: hin

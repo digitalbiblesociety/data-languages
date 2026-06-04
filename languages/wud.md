@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وودو
     auto: true
+  - translation_iso: deu
+    name: Wudu
   - translation_iso: fra
     name: Wudu
     auto: true

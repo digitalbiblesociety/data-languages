@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأمبراك
     auto: true
+  - translation_iso: deu
+    name: Ambrak
+    auto: true
   - translation_iso: fra
     name: ambrak
   - translation_iso: hin

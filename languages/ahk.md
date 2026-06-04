@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أخا
     auto: true
+  - translation_iso: deu
+    name: Akha
   - translation_iso: fra
     name: akha
   - translation_iso: hin

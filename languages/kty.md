@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانجو (منطقة باس-أويليه)
     auto: true
+  - translation_iso: deu
+    name: Kango (Bas-Uélé)
+    auto: true
   - translation_iso: fra
     name: kango
   - translation_iso: hin

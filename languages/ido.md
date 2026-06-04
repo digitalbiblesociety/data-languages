@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ido"
 translations:
   - translation_iso: ara
     name: لغة إيدو
+  - translation_iso: deu
+    name: Ido
   - translation_iso: fra
     name: ido
   - translation_iso: hin

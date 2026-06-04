@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياهونا
     auto: true
+  - translation_iso: deu
+    name: Yahuna
+    auto: true
   - translation_iso: fra
     name: yahuna
   - translation_iso: hin

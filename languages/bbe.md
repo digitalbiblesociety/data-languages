@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانجبا
     auto: true
+  - translation_iso: deu
+    name: Bangba
   - translation_iso: fra
     name: bangba
   - translation_iso: hin

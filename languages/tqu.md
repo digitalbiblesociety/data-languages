@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: توو
     auto: true
+  - translation_iso: deu
+    name: Touo
+    auto: true
   - translation_iso: fra
     name: touo
   - translation_iso: hin

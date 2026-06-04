@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة جيكاريلا أباتشي
     auto: true
+  - translation_iso: deu
+    name: Jicarilla
   - translation_iso: fra
     name: jicarilla
   - translation_iso: hin

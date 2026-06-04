@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيجيجو
     auto: true
+  - translation_iso: deu
+    name: Segeju
+    auto: true
   - translation_iso: fra
     name: segeju
   - translation_iso: hin

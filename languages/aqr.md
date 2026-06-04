@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرها
     auto: true
+  - translation_iso: deu
+    name: Arhâ
+    auto: true
   - translation_iso: fra
     name: arhâ
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالينجا بوتبوت
     auto: true
+  - translation_iso: deu
+    name: Butbut-Kalinga
+    auto: true
   - translation_iso: fra
     name: Kalinga Butbut
     auto: true

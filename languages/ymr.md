@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مالاسار
     auto: true
+  - translation_iso: deu
+    name: Malasar
+    auto: true
   - translation_iso: fra
     name: malasar
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خارام ناغا
     auto: true
+  - translation_iso: deu
+    name: Kharam Naga
+    auto: true
   - translation_iso: fra
     name: naga kharam
   - translation_iso: hin

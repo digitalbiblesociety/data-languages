@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوان
     auto: true
+  - translation_iso: deu
+    name: Phuan
+    auto: true
   - translation_iso: fra
     name: Phuan
     auto: true

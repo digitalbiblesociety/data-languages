@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دولبو
     auto: true
+  - translation_iso: deu
+    name: Dolpo
+    auto: true
   - translation_iso: fra
     name: dolpo
   - translation_iso: hin

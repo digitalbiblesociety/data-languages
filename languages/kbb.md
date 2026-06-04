@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاكسويانا
     auto: true
+  - translation_iso: deu
+    name: Kaxuiâna
+    auto: true
   - translation_iso: fra
     name: kaxuiâna
   - translation_iso: hin

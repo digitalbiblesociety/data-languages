@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماداغاسكار تادرويّ ماهافالي
     auto: true
+  - translation_iso: deu
+    name: Tandroy-Mahafaly Malagasy
+    auto: true
   - translation_iso: fra
     name: antandroy
   - translation_iso: hin

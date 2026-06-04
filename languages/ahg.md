@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيمانت
     auto: true
+  - translation_iso: deu
+    name: Kemant
   - translation_iso: fra
     name: qimant
   - translation_iso: hin

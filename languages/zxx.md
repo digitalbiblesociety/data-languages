@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/ISO_639:zxx"
 translations:
   - translation_iso: ara
     name: بدون محتوى لغوي
+  - translation_iso: deu
+    name: kein sprachlicher Inhalt
   - translation_iso: fra
     name: pas de contenu linguistique
   - translation_iso: hin

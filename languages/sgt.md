@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بروكباكي
     auto: true
+  - translation_iso: deu
+    name: Brokpake
+    auto: true
   - translation_iso: fra
     name: brokpake
   - translation_iso: hin

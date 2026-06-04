@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lombard_language"
 translations:
   - translation_iso: ara
     name: اللُمبَرديَّة
+  - translation_iso: deu
+    name: Lombardisch
   - translation_iso: fra
     name: lombard
   - translation_iso: hin

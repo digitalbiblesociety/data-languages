@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة إنجليزية كريولية جزر العذراء
     auto: true
+  - translation_iso: deu
+    name: Kreolenglisch der Jungferninseln
+    auto: true
   - translation_iso: fra
     name: Créole anglais des Îles Vierges
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماغوري
     auto: true
+  - translation_iso: deu
+    name: Magori
+    auto: true
   - translation_iso: fra
     name: magori
   - translation_iso: hin

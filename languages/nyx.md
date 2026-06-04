@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغانيايوانا
     auto: true
+  - translation_iso: deu
+    name: Nganyaywana
+    auto: true
   - translation_iso: fra
     name: nganyaywana
   - translation_iso: hin

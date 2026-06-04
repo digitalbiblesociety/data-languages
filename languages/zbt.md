@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتوي
     auto: true
+  - translation_iso: deu
+    name: Batui
+    auto: true
   - translation_iso: fra
     name: batui
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيابانك
     auto: true
+  - translation_iso: deu
+    name: Chiapanekisch
+    auto: true
   - translation_iso: fra
     name: chiapanèque
   - translation_iso: hin

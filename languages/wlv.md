@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويكه لهامتس فيجوز
     auto: true
+  - translation_iso: deu
+    name: Wichí Lhamtés Vejoz
   - translation_iso: fra
     name: Wichí Lhamtés Vejoz
     auto: true

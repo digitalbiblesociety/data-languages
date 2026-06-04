@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابانا
     auto: true
+  - translation_iso: deu
+    name: Zabana
+    auto: true
   - translation_iso: fra
     name: zabana
   - translation_iso: hin

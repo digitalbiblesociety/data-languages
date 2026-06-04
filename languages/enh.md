@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنتس التندرا
     auto: true
+  - translation_iso: deu
+    name: Tundra-Enzisch
+    auto: true
   - translation_iso: fra
     name: énètse de la toundra
   - translation_iso: hin

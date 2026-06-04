@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك تلاكولولا الغربية
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (West-Tlacolula-Tal)
+    auto: true
   - translation_iso: fra
     name: zapotèque de San Juan Guelavía
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تريمينبي
     auto: true
+  - translation_iso: deu
+    name: Tremembé
+    auto: true
   - translation_iso: fra
     name: Tremembé
     auto: true

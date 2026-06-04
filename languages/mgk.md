@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة ماويس
     auto: true
+  - translation_iso: deu
+    name: Mawes
+    auto: true
   - translation_iso: fra
     name: mawes
   - translation_iso: hin

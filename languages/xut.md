@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوثانت
     auto: true
+  - translation_iso: deu
+    name: Kuthant
+    auto: true
   - translation_iso: fra
     name: kuthant
   - translation_iso: hin

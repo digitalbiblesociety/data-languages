@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Svan_language"
 translations:
   - translation_iso: ara
     name: لغة سفان
+  - translation_iso: deu
+    name: Swanisch
   - translation_iso: fra
     name: svane
   - translation_iso: hin

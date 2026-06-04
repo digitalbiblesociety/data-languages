@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مابي
     auto: true
+  - translation_iso: deu
+    name: Mape
+    auto: true
   - translation_iso: fra
     name: mape
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونما
     auto: true
+  - translation_iso: deu
+    name: Bunama
+    auto: true
   - translation_iso: fra
     name: Bunama
     auto: true

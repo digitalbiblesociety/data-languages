@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يو ميين
     auto: true
+  - translation_iso: deu
+    name: Iu Mien
+    auto: true
   - translation_iso: fra
     name: iu mien
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بآركلآيفيللإ غرإبو
     auto: true
+  - translation_iso: deu
+    name: Barclayville Grebo
+    auto: true
   - translation_iso: fra
     name: Grebo de Barclayville
     auto: true

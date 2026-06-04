@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوسانج كايان
     auto: true
+  - translation_iso: deu
+    name: Busang Kayan
+    auto: true
   - translation_iso: fra
     name: Kayan de Busang
     auto: true

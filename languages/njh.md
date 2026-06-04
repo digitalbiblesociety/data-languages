@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوتا ناجا
     auto: true
+  - translation_iso: deu
+    name: Lotha-Naga
+    auto: true
   - translation_iso: fra
     name: lotha
   - translation_iso: hin

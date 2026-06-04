@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نيسي الصينية
     auto: true
+  - translation_iso: deu
+    name: Nisi (China)
+    auto: true
   - translation_iso: fra
     name: Nisi (Chine)
     auto: true

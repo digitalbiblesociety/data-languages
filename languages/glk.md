@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gilaki_language"
 translations:
   - translation_iso: ara
     name: الكيلكية
+  - translation_iso: deu
+    name: Gilaki
   - translation_iso: fra
     name: gilaki
   - translation_iso: hin

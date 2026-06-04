@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناواتل تلاماكازابا
     auto: true
+  - translation_iso: deu
+    name: Tlamacazapa-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl de Tlamacazapa
   - translation_iso: hin

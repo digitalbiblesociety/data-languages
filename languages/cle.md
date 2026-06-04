@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليالاو تشينانتك
     auto: true
+  - translation_iso: deu
+    name: Lealao-Chinantekisch
+    auto: true
   - translation_iso: fra
     name: Chinantec de Lealao
     auto: true

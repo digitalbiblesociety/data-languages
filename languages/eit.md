@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيتيب
     auto: true
+  - translation_iso: deu
+    name: Eitiep
+    auto: true
   - translation_iso: fra
     name: eitiep
   - translation_iso: hin

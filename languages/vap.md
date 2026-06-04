@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فايفاي
     auto: true
+  - translation_iso: deu
+    name: Vaiphei
+    auto: true
   - translation_iso: fra
     name: vaiphei
   - translation_iso: hin

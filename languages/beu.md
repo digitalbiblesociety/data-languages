@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بلاغار
     auto: true
+  - translation_iso: deu
+    name: Blagar
+    auto: true
   - translation_iso: fra
     name: blagar
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كودو تشامو
     auto: true
+  - translation_iso: deu
+    name: Kudu-Camo
+    auto: true
   - translation_iso: fra
     name: kudu-camo
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مافاك
     auto: true
+  - translation_iso: deu
+    name: Mawak
+    auto: true
   - translation_iso: fra
     name: mawak
   - translation_iso: hin

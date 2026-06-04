@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة يانغو
     auto: true
+  - translation_iso: deu
+    name: Yango
+    auto: true
   - translation_iso: fra
     name: yango
   - translation_iso: hin

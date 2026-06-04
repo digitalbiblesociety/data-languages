@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآنآ
     auto: true
+  - translation_iso: deu
+    name: Gana
+    auto: true
   - translation_iso: fra
     name: gana
   - translation_iso: hin

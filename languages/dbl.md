@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديربال
     auto: true
+  - translation_iso: deu
+    name: Dyirbal
   - translation_iso: fra
     name: dyirbal
   - translation_iso: hin

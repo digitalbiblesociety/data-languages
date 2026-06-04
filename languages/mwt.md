@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موكن
     auto: true
+  - translation_iso: deu
+    name: Moken
+    auto: true
   - translation_iso: fra
     name: langues moken-moklen
   - translation_iso: hin

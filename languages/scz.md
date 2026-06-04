@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: شيتلان
     auto: true
+  - translation_iso: deu
+    name: Shetländisch
   - translation_iso: fra
     name: shetlandais
   - translation_iso: hin

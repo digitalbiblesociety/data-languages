@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تينبوتز
     auto: true
+  - translation_iso: deu
+    name: Tinputz
+    auto: true
   - translation_iso: fra
     name: tinputz
   - translation_iso: hin

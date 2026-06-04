@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامو
     auto: true
+  - translation_iso: deu
+    name: Bamu
+    auto: true
   - translation_iso: fra
     name: bamu
   - translation_iso: hin

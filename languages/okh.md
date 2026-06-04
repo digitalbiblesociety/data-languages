@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوريش رستم
     auto: true
+  - translation_iso: deu
+    name: Koresh-e Rostam
   - translation_iso: fra
     name: Koresh-e Rostam
     auto: true

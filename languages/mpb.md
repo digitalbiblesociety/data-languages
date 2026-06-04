@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالك مالك
     auto: true
+  - translation_iso: deu
+    name: Malak Malak
+    auto: true
   - translation_iso: fra
     name: malak-malak
   - translation_iso: hin

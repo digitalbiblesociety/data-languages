@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كومبا
     auto: true
+  - translation_iso: deu
+    name: Komba
+    auto: true
   - translation_iso: fra
     name: Komba
     auto: true

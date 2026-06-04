@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مامباي
     auto: true
+  - translation_iso: deu
+    name: Mambai
+    auto: true
   - translation_iso: fra
     name: mambay
   - translation_iso: hin

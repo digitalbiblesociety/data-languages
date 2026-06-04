@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتو
     auto: true
+  - translation_iso: deu
+    name: Toto
   - translation_iso: fra
     name: toto
   - translation_iso: hin

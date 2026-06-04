@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشاستا
     auto: true
+  - translation_iso: deu
+    name: Shasta
+    auto: true
   - translation_iso: fra
     name: shasta
   - translation_iso: hin

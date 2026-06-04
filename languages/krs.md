@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kresh_language"
 translations:
   - translation_iso: ara
     name: كريش
+  - translation_iso: deu
+    name: Gbaya (Sudan)
+    auto: true
   - translation_iso: fra
     name: kresh
   - translation_iso: hin

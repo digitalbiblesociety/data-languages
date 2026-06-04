@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبانجالا
     auto: true
+  - translation_iso: deu
+    name: Mbangala
+    auto: true
   - translation_iso: fra
     name: Mbangala
     auto: true

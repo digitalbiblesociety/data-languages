@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kata_Kolok"
 translations:
   - translation_iso: ara
     name: كاتا كولوك
+  - translation_iso: deu
+    name: Balinesische Gebärdensprache
   - translation_iso: fra
     name: langue des signes de Bengkala
   - translation_iso: hin

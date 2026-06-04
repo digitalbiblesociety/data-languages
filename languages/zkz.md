@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khazar_language"
 translations:
   - translation_iso: ara
     name: لغة الخزر
+  - translation_iso: deu
+    name: Chasarisch
   - translation_iso: fra
     name: khazar
   - translation_iso: hin

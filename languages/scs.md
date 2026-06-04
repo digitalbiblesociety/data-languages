@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نورث سلافي
     auto: true
+  - translation_iso: deu
+    name: Nordslavey
   - translation_iso: fra
     name: esclave du Nord
   - translation_iso: hin

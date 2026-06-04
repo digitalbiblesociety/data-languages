@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أومي
     auto: true
+  - translation_iso: deu
+    name: Omi
+    auto: true
   - translation_iso: fra
     name: omi
   - translation_iso: hin

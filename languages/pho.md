@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فونوي
     auto: true
+  - translation_iso: deu
+    name: Phunoi
+    auto: true
   - translation_iso: fra
     name: phunoi
   - translation_iso: hin

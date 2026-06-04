@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: ريبانبيتيب
     auto: true
+  - translation_iso: deu
+    name: Repanbitip
+    auto: true
   - translation_iso: fra
     name: repanbitip
   - translation_iso: hin

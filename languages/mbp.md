@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالايو
     auto: true
+  - translation_iso: deu
+    name: Malayo
+    auto: true
   - translation_iso: fra
     name: damana
   - translation_iso: hin

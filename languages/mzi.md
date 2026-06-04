@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إكسكاتلان مازاتك
     auto: true
+  - translation_iso: deu
+    name: Ixcatlán-Mazatekisch
+    auto: true
   - translation_iso: fra
     name: "Mazatèque d'Ixcatlán"
   - translation_iso: hin

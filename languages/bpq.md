@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باندا ملايو
     auto: true
+  - translation_iso: deu
+    name: Banda Malay
+    auto: true
   - translation_iso: fra
     name: Malais de Banda
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميسينج
     auto: true
+  - translation_iso: deu
+    name: Mising
+    auto: true
   - translation_iso: fra
     name: mising
   - translation_iso: hin

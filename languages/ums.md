@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بندو
     auto: true
+  - translation_iso: deu
+    name: Pendau
+    auto: true
   - translation_iso: fra
     name: pendau
   - translation_iso: hin

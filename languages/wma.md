@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماوا نيغيريا
     auto: true
+  - translation_iso: deu
+    name: Mawa (Nigeria)
+    auto: true
   - translation_iso: fra
     name: Mawa (Nigéria)
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيتي
     auto: true
+  - translation_iso: deu
+    name: Bete
   - translation_iso: fra
     name: bété
   - translation_iso: hin

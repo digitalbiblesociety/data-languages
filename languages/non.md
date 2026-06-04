@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Norse"
 translations:
   - translation_iso: ara
     name: لغة نوردية قديمة
+  - translation_iso: deu
+    name: Altnordisch
   - translation_iso: fra
     name: vieux norrois
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northwestern_Ojibwa"
 translations:
   - translation_iso: ara
     name: أوجيبوا الشمالية الغربية
+  - translation_iso: deu
+    name: Nordwestliches Ojibwe
   - translation_iso: fra
     name: ojibwé du Nord-Ouest
   - translation_iso: hin

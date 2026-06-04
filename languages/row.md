@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديلا أوينالي
     auto: true
+  - translation_iso: deu
+    name: Dela-Oenale
+    auto: true
   - translation_iso: fra
     name: dela-oenale
   - translation_iso: hin

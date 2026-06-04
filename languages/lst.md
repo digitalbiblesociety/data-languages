@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة في ترينيداد وتوباغو
     auto: true
+  - translation_iso: deu
+    name: Trinidad-und-Tobago-Gebärdensprache
   - translation_iso: fra
     name: langue des signes trinidadienne
   - translation_iso: hin

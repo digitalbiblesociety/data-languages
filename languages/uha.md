@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوهامي
     auto: true
+  - translation_iso: deu
+    name: Uhami
+    auto: true
   - translation_iso: fra
     name: Uhami
     auto: true

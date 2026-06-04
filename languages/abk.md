@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Abkhaz_language"
 translations:
   - translation_iso: ara
     name: الأبخازية
+  - translation_iso: deu
+    name: Abchasisch
   - translation_iso: fra
     name: abkhaze
   - translation_iso: hin

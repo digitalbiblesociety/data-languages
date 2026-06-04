@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوسارفا
     auto: true
+  - translation_iso: deu
+    name: Usarufa
+    auto: true
   - translation_iso: fra
     name: Usarufa
     auto: true

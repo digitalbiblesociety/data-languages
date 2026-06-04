@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوندو
     auto: true
+  - translation_iso: deu
+    name: Doondo
+    auto: true
   - translation_iso: fra
     name: Doondo
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشي
     auto: true
+  - translation_iso: deu
+    name: She
+    auto: true
   - translation_iso: fra
     name: ho nte
   - translation_iso: hin

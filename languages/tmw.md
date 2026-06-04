@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيموان
     auto: true
+  - translation_iso: deu
+    name: Temuan
+    auto: true
   - translation_iso: fra
     name: temuan
   - translation_iso: hin

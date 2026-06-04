@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوتري
     auto: true
+  - translation_iso: deu
+    name: Notre
+    auto: true
   - translation_iso: fra
     name: notre
   - translation_iso: hin

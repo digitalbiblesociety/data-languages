@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جبيسي جبي
     auto: true
+  - translation_iso: deu
+    name: Gbesi Gbe
+    auto: true
   - translation_iso: fra
     name: gbe gbesi
   - translation_iso: hin

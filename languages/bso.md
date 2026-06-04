@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: بوسو
     auto: true
+  - translation_iso: deu
+    name: Buso
+    auto: true
   - translation_iso: fra
     name: buso
   - translation_iso: hin

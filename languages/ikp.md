@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكبيشي
     auto: true
+  - translation_iso: deu
+    name: Ikpeshi
+    auto: true
   - translation_iso: fra
     name: Ikpeshi
     auto: true

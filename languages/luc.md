@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ارينجا
     auto: true
+  - translation_iso: deu
+    name: Aringa
+    auto: true
   - translation_iso: fra
     name: aringa
   - translation_iso: hin

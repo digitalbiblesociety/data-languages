@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مونسي
     auto: true
+  - translation_iso: deu
+    name: Munsee
   - translation_iso: fra
     name: munsee
   - translation_iso: hin

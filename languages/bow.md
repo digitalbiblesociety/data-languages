@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريما
     auto: true
+  - translation_iso: deu
+    name: Rema
+    auto: true
   - translation_iso: fra
     name: rema
   - translation_iso: hin

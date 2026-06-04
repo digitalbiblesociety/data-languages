@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: الشام الشرقية
     auto: true
+  - translation_iso: deu
+    name: Östliches Cham
+    auto: true
   - translation_iso: fra
     name: cham de Phan Rang
   - translation_iso: hin

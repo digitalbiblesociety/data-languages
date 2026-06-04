@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: سوروثابتيك
     auto: true
+  - translation_iso: deu
+    name: Sorothaptic
+    auto: true
   - translation_iso: fra
     name: sorothaptique
   - translation_iso: hin

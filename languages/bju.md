@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Busuu_language"
 translations:
   - translation_iso: ara
     name: لغة بوسو
+  - translation_iso: deu
+    name: Busuu
   - translation_iso: fra
     name: busuu
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بير
     auto: true
+  - translation_iso: deu
+    name: Pear
+    auto: true
   - translation_iso: fra
     name: pear
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوي
     auto: true
+  - translation_iso: deu
+    name: Auwe
+    auto: true
   - translation_iso: fra
     name: auwe
   - translation_iso: hin

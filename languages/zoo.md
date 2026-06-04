@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك أسونثيون ميكستيبيك
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Asunción Mixtepec)
+    auto: true
   - translation_iso: fra
     name: "zapotèque d'Asunción Mixtepec"
   - translation_iso: hin

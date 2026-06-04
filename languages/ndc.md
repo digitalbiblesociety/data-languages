@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ndau_language"
 translations:
   - translation_iso: ara
     name: النداو
+  - translation_iso: deu
+    name: Ndau
   - translation_iso: fra
     name: ndau
   - translation_iso: hin

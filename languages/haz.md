@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hazaragi_dialects"
 translations:
   - translation_iso: ara
     name: هزارة غى
+  - translation_iso: deu
+    name: Hazaragi
   - translation_iso: fra
     name: hazara
   - translation_iso: hin

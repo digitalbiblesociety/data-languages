@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باسّا-كونْتاجورا
     auto: true
+  - translation_iso: deu
+    name: Bassa-Kontagora
+    auto: true
   - translation_iso: fra
     name: bassa-kontagora
   - translation_iso: hin

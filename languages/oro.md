@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكولو
     auto: true
+  - translation_iso: deu
+    name: Orokolo
+    auto: true
   - translation_iso: fra
     name: Orokolo
     auto: true

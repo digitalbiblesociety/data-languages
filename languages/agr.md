@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغوارونا
     auto: true
+  - translation_iso: deu
+    name: Aguaruna
+    auto: true
   - translation_iso: fra
     name: aguaruna
   - translation_iso: hin

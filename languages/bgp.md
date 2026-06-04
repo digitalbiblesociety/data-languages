@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بلوشي شرقية
     auto: true
+  - translation_iso: deu
+    name: Eastern Balochi
+    auto: true
   - translation_iso: fra
     name: "baloutche de l'Est"
   - translation_iso: hin

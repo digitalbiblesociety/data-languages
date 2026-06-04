@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكابيكار
     auto: true
+  - translation_iso: deu
+    name: Cabécar
   - translation_iso: fra
     name: cabécar
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أيرورّان
     auto: true
+  - translation_iso: deu
+    name: Airoran
   - translation_iso: fra
     name: airoran
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسو
     auto: true
+  - translation_iso: deu
+    name: Tsou
+    auto: true
   - translation_iso: fra
     name: tsou
   - translation_iso: hin

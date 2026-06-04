@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوتشيابام تشينانتك
     auto: true
+  - translation_iso: deu
+    name: Sochiapam-Chinantekisch
+    auto: true
   - translation_iso: fra
     name: chinantèque de Sochiapam
   - translation_iso: hin

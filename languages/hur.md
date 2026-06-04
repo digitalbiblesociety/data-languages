@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Halkomelem"
 translations:
   - translation_iso: ara
     name: الهالكوميليم
+  - translation_iso: deu
+    name: Halkomelem
   - translation_iso: fra
     name: halkomelem
   - translation_iso: hin

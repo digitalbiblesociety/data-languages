@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يانيوا
     auto: true
+  - translation_iso: deu
+    name: Yanyuwa
+    auto: true
   - translation_iso: fra
     name: yanyuwa
   - translation_iso: hin

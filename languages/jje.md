@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jeju_language"
 translations:
   - translation_iso: ara
     name: لغة جيجو
+  - translation_iso: deu
+    name: Jeju
   - translation_iso: fra
     name: jeju
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جوا
     auto: true
+  - translation_iso: deu
+    name: Zhoa
+    auto: true
   - translation_iso: fra
     name: zhoa
   - translation_iso: hin

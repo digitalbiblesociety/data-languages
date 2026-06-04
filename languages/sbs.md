@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوبيا
     auto: true
+  - translation_iso: deu
+    name: Subiya
+    auto: true
   - translation_iso: fra
     name: kuhane
   - translation_iso: hin

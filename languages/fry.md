@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/West_Frisian_language"
 translations:
   - translation_iso: ara
     name: الفريزية الغربية
+  - translation_iso: deu
+    name: Westfriesisch
   - translation_iso: fra
     name: frison occidental
   - translation_iso: hin

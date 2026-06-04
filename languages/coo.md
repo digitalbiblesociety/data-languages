@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوموكس
     auto: true
+  - translation_iso: deu
+    name: Comox
+    auto: true
   - translation_iso: fra
     name: comox
   - translation_iso: hin

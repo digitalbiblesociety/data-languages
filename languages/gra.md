@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رآجبوت غآرآسيآ
     auto: true
+  - translation_iso: deu
+    name: Rajput Garasia
+    auto: true
   - translation_iso: fra
     name: Garasia rajput
     auto: true

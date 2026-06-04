@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نجبكا مانزا
     auto: true
+  - translation_iso: deu
+    name: Ngbaka Manza
+    auto: true
   - translation_iso: fra
     name: manza ngbaka
   - translation_iso: hin

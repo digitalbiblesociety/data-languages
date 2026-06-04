@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ووو
     auto: true
+  - translation_iso: deu
+    name: Luwo
+    auto: true
   - translation_iso: fra
     name: lwo
   - translation_iso: hin

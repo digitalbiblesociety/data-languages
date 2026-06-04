@@ -9,6 +9,9 @@ translations:
   - translation_iso: ara
     name: وياندوت
     auto: true
+  - translation_iso: deu
+    name: Wyandot
+    auto: true
   - translation_iso: fra
     name: wyandot
   - translation_iso: hin

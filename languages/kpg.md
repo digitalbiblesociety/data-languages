@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كابينجاماراني
     auto: true
+  - translation_iso: deu
+    name: Kapingamarangisch
   - translation_iso: fra
     name: kapingamarangi
   - translation_iso: hin

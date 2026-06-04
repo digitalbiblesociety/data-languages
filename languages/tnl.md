@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لينكيل
     auto: true
+  - translation_iso: deu
+    name: Lenakel
   - translation_iso: fra
     name: lenakel
   - translation_iso: hin

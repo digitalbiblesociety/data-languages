@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوي كاريْن
     auto: true
+  - translation_iso: deu
+    name: Bwe-Karen
+    auto: true
   - translation_iso: fra
     name: karen bwe
   - translation_iso: hin

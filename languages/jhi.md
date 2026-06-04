@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيهاي
     auto: true
+  - translation_iso: deu
+    name: Jehai
+    auto: true
   - translation_iso: fra
     name: jehai
   - translation_iso: hin

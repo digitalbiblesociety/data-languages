@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجيزيم
     auto: true
+  - translation_iso: deu
+    name: Ngizim
+    auto: true
   - translation_iso: fra
     name: ngizim
   - translation_iso: hin

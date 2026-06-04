@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أويا
     auto: true
+  - translation_iso: deu
+    name: Uya
+    auto: true
   - translation_iso: fra
     name: uya
   - translation_iso: hin

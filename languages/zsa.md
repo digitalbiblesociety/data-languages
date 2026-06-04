@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: سارسيرا
     auto: true
+  - translation_iso: deu
+    name: Sarasira
   - translation_iso: fra
     name: Sarasira
     auto: true

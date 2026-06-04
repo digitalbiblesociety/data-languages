@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: تاي لونغ
     auto: true
+  - translation_iso: deu
+    name: Tai Long
+    auto: true
   - translation_iso: fra
     name: tai long
   - translation_iso: hin

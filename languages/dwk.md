@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: داويك كوي
     auto: true
+  - translation_iso: deu
+    name: Dawik Kui
+    auto: true
   - translation_iso: fra
     name: Dawik Kui
     auto: true

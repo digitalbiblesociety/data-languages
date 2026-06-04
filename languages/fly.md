@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الفلايتال
     auto: true
+  - translation_iso: deu
+    name: Tsotsitaal
   - translation_iso: fra
     name: tsotsitaal
   - translation_iso: hin

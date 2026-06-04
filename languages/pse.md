@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ملايو الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentralmalaiisch
+    auto: true
   - translation_iso: fra
     name: Malais central
     auto: true

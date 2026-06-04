@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: دونا
     auto: true
+  - translation_iso: deu
+    name: Duna
   - translation_iso: fra
     name: duna
   - translation_iso: hin

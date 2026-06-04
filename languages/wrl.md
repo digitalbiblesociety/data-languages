@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وارلمانپا
     auto: true
+  - translation_iso: deu
+    name: Warlmanpa
+    auto: true
   - translation_iso: fra
     name: warlmanpa
   - translation_iso: hin

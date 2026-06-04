@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مانجاريفا
     auto: true
+  - translation_iso: deu
+    name: Mangarevanisch
   - translation_iso: fra
     name: mangarévien
   - translation_iso: hin

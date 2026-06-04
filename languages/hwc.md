@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الكريولية الهاواية الإنجليزية
     auto: true
+  - translation_iso: deu
+    name: Hawaii Creole English
   - translation_iso: fra
     name: créole hawaïen
   - translation_iso: hin

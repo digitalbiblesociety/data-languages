@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتيس
     auto: true
+  - translation_iso: deu
+    name: Matís
+    auto: true
   - translation_iso: fra
     name: matís
   - translation_iso: hin

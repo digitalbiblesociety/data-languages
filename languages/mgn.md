@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة مبانجي
     auto: true
+  - translation_iso: deu
+    name: Mbangi
+    auto: true
   - translation_iso: fra
     name: mbangi
   - translation_iso: hin

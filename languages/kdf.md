@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماموسي
     auto: true
+  - translation_iso: deu
+    name: Mamusi
+    auto: true
   - translation_iso: fra
     name: Mamusi
     auto: true

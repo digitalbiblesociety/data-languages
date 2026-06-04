@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة غوانيينتشياو
     auto: true
+  - translation_iso: deu
+    name: Guanyinqiao
+    auto: true
   - translation_iso: fra
     name: guanyinqiao
   - translation_iso: hin

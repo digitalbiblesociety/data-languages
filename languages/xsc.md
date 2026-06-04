@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: سيثية
     auto: true
+  - translation_iso: deu
+    name: Skythisch
   - translation_iso: fra
     name: langues scythes
   - translation_iso: hin

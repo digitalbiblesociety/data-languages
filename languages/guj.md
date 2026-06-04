@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gujarati_language"
 translations:
   - translation_iso: ara
     name: الكجراتية
+  - translation_iso: deu
+    name: Gujarati
   - translation_iso: fra
     name: gujarati
   - translation_iso: hin

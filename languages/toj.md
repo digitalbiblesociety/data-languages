@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توجولابال
     auto: true
+  - translation_iso: deu
+    name: Tojolabal-Sprache
   - translation_iso: fra
     name: tojolabal
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيروم
     auto: true
+  - translation_iso: deu
+    name: Berom
   - translation_iso: fra
     name: birom
   - translation_iso: hin

@@ -18,8 +18,11 @@ translations:
   - translation_iso: ara
     name: أوروي
     auto: true
+  - translation_iso: deu
+    name: Orowe
+    auto: true
   - translation_iso: fra
-    name: "'ôrôê"
+    name: ôrôê
   - translation_iso: hin
     name: ओरोवे
     auto: true

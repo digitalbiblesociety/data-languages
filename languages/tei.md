@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توريسيلي
     auto: true
+  - translation_iso: deu
+    name: Torricelli
+    auto: true
   - translation_iso: fra
     name: torricelli
   - translation_iso: hin

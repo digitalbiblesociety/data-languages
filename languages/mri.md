@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/M%C4%81ori_language"
 translations:
   - translation_iso: ara
     name: الماورية
+  - translation_iso: deu
+    name: Māori
   - translation_iso: fra
     name: māori
   - translation_iso: hin

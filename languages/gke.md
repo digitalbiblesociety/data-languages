@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندآي
     auto: true
+  - translation_iso: deu
+    name: Ndai
+    auto: true
   - translation_iso: fra
     name: ndai
   - translation_iso: hin

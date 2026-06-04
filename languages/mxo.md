@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مبوي
     auto: true
+  - translation_iso: deu
+    name: Mbowe
+    auto: true
   - translation_iso: fra
     name: mbowe
   - translation_iso: hin

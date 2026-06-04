@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالي
     auto: true
+  - translation_iso: deu
+    name: Ibaali
   - translation_iso: fra
     name: ibaali
   - translation_iso: hin

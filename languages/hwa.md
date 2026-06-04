@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وان
     auto: true
+  - translation_iso: deu
+    name: Wané
+    auto: true
   - translation_iso: fra
     name: langue wané
   - translation_iso: hin

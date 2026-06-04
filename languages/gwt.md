@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآوآر-بآتي
     auto: true
+  - translation_iso: deu
+    name: Gawar-Bati
+    auto: true
   - translation_iso: fra
     name: gawar-bati
   - translation_iso: hin

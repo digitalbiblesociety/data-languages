@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خاريا ثار
     auto: true
+  - translation_iso: deu
+    name: Kharia Thar
+    auto: true
   - translation_iso: fra
     name: Kharia Thar
     auto: true

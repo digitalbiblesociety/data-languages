@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوديوها
     auto: true
+  - translation_iso: deu
+    name: Kodeoha
+    auto: true
   - translation_iso: fra
     name: kodeoha
   - translation_iso: hin

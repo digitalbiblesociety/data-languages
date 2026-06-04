@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Miami%E2%80%93Illinois_language"
 translations:
   - translation_iso: ara
     name: ميامي-إيلينوي
+  - translation_iso: deu
+    name: Miami-Illinois
   - translation_iso: fra
     name: miami-illinois
   - translation_iso: hin

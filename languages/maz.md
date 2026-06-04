@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاهوا وسطية
     auto: true
+  - translation_iso: deu
+    name: Mazahua-Sprache
   - translation_iso: fra
     name: mazahua
   - translation_iso: hin

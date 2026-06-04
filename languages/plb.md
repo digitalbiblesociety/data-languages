@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولونومباوك
     auto: true
+  - translation_iso: deu
+    name: Polonombauk
+    auto: true
   - translation_iso: fra
     name: polonombauk
   - translation_iso: hin

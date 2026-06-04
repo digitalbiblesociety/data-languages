@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بودو
     auto: true
+  - translation_iso: deu
+    name: Bodo (Central African Republic)
+    auto: true
   - translation_iso: fra
     name: bodo
   - translation_iso: hin

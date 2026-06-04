@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غورإنج غورإنج
     auto: true
+  - translation_iso: deu
+    name: Gureng Gureng
+    auto: true
   - translation_iso: fra
     name: gureng gureng
   - translation_iso: hin

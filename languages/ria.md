@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ريانج
     auto: true
+  - translation_iso: deu
+    name: Riang (Indien)
+    auto: true
   - translation_iso: fra
     name: riang
   - translation_iso: hin

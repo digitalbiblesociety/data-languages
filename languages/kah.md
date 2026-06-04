@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fer_language"
 translations:
   - translation_iso: ara
     name: فير
+  - translation_iso: deu
+    name: Kara (Zentralafrikanische Republik)
+    auto: true
   - translation_iso: fra
     name: fer
   - translation_iso: hin

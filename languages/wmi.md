@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وامين
     auto: true
+  - translation_iso: deu
+    name: Wamin
+    auto: true
   - translation_iso: fra
     name: wamin
   - translation_iso: hin

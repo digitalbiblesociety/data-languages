@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميندي (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: deu
+    name: Mende (Papua-Neuguinea)
+    auto: true
   - translation_iso: fra
     name: mende
   - translation_iso: hin

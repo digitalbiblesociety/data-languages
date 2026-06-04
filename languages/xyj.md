@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: مايي-يابي
     auto: true
+  - translation_iso: deu
+    name: Mayi-Yapi
+    auto: true
   - translation_iso: fra
     name: mayi-yapi
   - translation_iso: hin

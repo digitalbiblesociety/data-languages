@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوان الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Tepehuan
+    auto: true
   - translation_iso: fra
     name: tepehuan du Nord
   - translation_iso: hin

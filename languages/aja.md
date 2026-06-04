@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أجا
     auto: true
+  - translation_iso: deu
+    name: Aja
+    auto: true
   - translation_iso: fra
     name: aja
   - translation_iso: hin

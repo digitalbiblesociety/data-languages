@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة تيكي كوكويا
     auto: true
+  - translation_iso: deu
+    name: Teke-Kukuya
   - translation_iso: fra
     name: kukuya
   - translation_iso: hin

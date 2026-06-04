@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سابو
     auto: true
+  - translation_iso: deu
+    name: Hawu
   - translation_iso: fra
     name: hawu
   - translation_iso: hin

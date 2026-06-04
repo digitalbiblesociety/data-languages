@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيكويا
     auto: true
+  - translation_iso: deu
+    name: Secoya
+    auto: true
   - translation_iso: fra
     name: secoya
   - translation_iso: hin

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لاوبانج
     auto: true
+  - translation_iso: deu
+    name: Laopang
+    auto: true
   - translation_iso: fra
     name: Laopang
     auto: true

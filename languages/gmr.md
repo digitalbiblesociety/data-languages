@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: ميرنينج\ر
     auto: true
+  - translation_iso: deu
+    name: Mirning
+    auto: true
   - translation_iso: fra
     name: mirning
   - translation_iso: hin

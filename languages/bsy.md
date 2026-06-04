@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: صباح بيسايا
     auto: true
+  - translation_iso: deu
+    name: Sabah Bisaya
+    auto: true
   - translation_iso: fra
     name: Bisaya du Sabah
     auto: true

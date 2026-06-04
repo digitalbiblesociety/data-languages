@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيريبو
     auto: true
+  - translation_iso: deu
+    name: Bierebo
+    auto: true
   - translation_iso: fra
     name: bierebo
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كومو
     auto: true
+  - translation_iso: deu
+    name: Komo (Sudan)
+    auto: true
   - translation_iso: fra
     name: komo
   - translation_iso: hin

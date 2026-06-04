@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديمتا
     auto: true
+  - translation_iso: deu
+    name: Demta
+    auto: true
   - translation_iso: fra
     name: demta
   - translation_iso: hin

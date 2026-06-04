@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بينومريين
     auto: true
+  - translation_iso: deu
+    name: Binumarien
+    auto: true
   - translation_iso: fra
     name: binumarien
   - translation_iso: hin

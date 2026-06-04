@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واندامين
     auto: true
+  - translation_iso: deu
+    name: Wandamen
+    auto: true
   - translation_iso: fra
     name: wandamen
   - translation_iso: hin

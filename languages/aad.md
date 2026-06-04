@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأمال
     auto: true
+  - translation_iso: deu
+    name: Amal
   - translation_iso: fra
     name: amal
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موريا الغربية
     auto: true
+  - translation_iso: deu
+    name: West-Muria
+    auto: true
   - translation_iso: fra
     name: "muria de l'Ouest"
   - translation_iso: hin

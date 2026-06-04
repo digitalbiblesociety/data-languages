@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبيبون
     auto: true
+  - translation_iso: deu
+    name: Callaga
   - translation_iso: fra
     name: abipón
   - translation_iso: hin

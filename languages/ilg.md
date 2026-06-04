@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غاريغ-إيلغار
     auto: true
+  - translation_iso: deu
+    name: Garig-Ilgar
+    auto: true
   - translation_iso: fra
     name: garig-ilgar
   - translation_iso: hin

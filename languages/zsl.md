@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الزامبية
     auto: true
+  - translation_iso: deu
+    name: Sambianische Gebärdensprache
   - translation_iso: fra
     name: langue des signes zambienne
   - translation_iso: hin

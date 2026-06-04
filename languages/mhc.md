@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موتشو
     auto: true
+  - translation_iso: deu
+    name: Mocho
   - translation_iso: fra
     name: mocho
   - translation_iso: hin

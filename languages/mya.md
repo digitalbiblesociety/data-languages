@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Burmese_language"
 translations:
   - translation_iso: ara
     name: البورمية
+  - translation_iso: deu
+    name: Birmanisch
   - translation_iso: fra
     name: birman
   - translation_iso: hin

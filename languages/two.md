@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوابونج
     auto: true
+  - translation_iso: deu
+    name: Tswapong
+    auto: true
   - translation_iso: fra
     name: tswapong
   - translation_iso: hin

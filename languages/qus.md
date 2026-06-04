@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا سانتياجو ديل إستيرو
     auto: true
+  - translation_iso: deu
+    name: argentinisches Quechua
   - translation_iso: fra
     name: quechua de Santiago del Estero
   - translation_iso: hin

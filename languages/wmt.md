@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: والماجارري
     auto: true
+  - translation_iso: deu
+    name: Walmajarri
+    auto: true
   - translation_iso: fra
     name: walmajarri
   - translation_iso: hin

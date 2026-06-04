@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كونسو
     auto: true
+  - translation_iso: deu
+    name: Konso
   - translation_iso: fra
     name: konso
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واجا
     auto: true
+  - translation_iso: deu
+    name: Waja
+    auto: true
   - translation_iso: fra
     name: Waja
   - translation_iso: hin

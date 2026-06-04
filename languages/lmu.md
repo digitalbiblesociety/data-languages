@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة امينو
     auto: true
+  - translation_iso: deu
+    name: Lamenu
+    auto: true
   - translation_iso: fra
     name: lamenu
   - translation_iso: hin

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تاي دام
     auto: true
+  - translation_iso: deu
+    name: Tai Dam
+    auto: true
   - translation_iso: fra
     name: tay dam
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dangme_language"
 translations:
   - translation_iso: ara
     name: الأدانجمية
+  - translation_iso: deu
+    name: Dangme
   - translation_iso: fra
     name: adangme
   - translation_iso: hin

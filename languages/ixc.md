@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيكسكاتك
     auto: true
+  - translation_iso: deu
+    name: Ixcatekisch
+    auto: true
   - translation_iso: fra
     name: ixcatèque
   - translation_iso: hin

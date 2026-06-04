@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكوبو
     auto: true
+  - translation_iso: deu
+    name: Okobo
+    auto: true
   - translation_iso: fra
     name: Okobo
     auto: true

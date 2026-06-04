@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكيو
     auto: true
+  - translation_iso: deu
+    name: Akeu
+    auto: true
   - translation_iso: fra
     name: akeu
   - translation_iso: hin

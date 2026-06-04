@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبوم
     auto: true
+  - translation_iso: deu
+    name: Mbum
   - translation_iso: fra
     name: mboum
   - translation_iso: hin

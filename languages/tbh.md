@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ذاراوال
     auto: true
+  - translation_iso: deu
+    name: Dharawal
+    auto: true
   - translation_iso: fra
     name: thurawal
   - translation_iso: hin

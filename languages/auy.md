@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويايانا
     auto: true
+  - translation_iso: deu
+    name: Awiyaana
+    auto: true
   - translation_iso: fra
     name: auyana
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rangi_language"
 translations:
   - translation_iso: ara
     name: لانجي
+  - translation_iso: deu
+    name: Langi
   - translation_iso: fra
     name: langi
   - translation_iso: hin

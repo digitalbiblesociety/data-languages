@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويري
     auto: true
+  - translation_iso: deu
+    name: Weri
+    auto: true
   - translation_iso: fra
     name: weri
   - translation_iso: hin

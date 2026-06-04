@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوكو-يآلآنجي
     auto: true
+  - translation_iso: deu
+    name: Kuku-Yalanji
+    auto: true
   - translation_iso: fra
     name: kuku-yalanji
   - translation_iso: hin

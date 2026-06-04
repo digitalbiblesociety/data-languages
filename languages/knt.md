@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة باناوان كاتوكينا
     auto: true
+  - translation_iso: deu
+    name: Panoanisches Katukína
+    auto: true
   - translation_iso: fra
     name: katukina
   - translation_iso: hin

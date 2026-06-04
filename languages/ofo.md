@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوفو
     auto: true
+  - translation_iso: deu
+    name: Ofo
+    auto: true
   - translation_iso: fra
     name: ofo
   - translation_iso: hin

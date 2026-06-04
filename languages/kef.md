@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كبيسي
     auto: true
+  - translation_iso: deu
+    name: Kpessi
   - translation_iso: fra
     name: kpessi
   - translation_iso: hin

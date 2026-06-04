@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجالكجان
     auto: true
+  - translation_iso: deu
+    name: Ngalakgan
+    auto: true
   - translation_iso: fra
     name: ngalakgan
   - translation_iso: hin

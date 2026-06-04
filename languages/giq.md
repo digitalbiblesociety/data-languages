@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غرإإن غإلآو
     auto: true
+  - translation_iso: deu
+    name: Grünes Gelao
+    auto: true
   - translation_iso: fra
     name: gelao vert
   - translation_iso: hin

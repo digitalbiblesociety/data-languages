@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أداسين
     auto: true
+  - translation_iso: deu
+    name: Adasen
+    auto: true
   - translation_iso: fra
     name: adasen
   - translation_iso: hin

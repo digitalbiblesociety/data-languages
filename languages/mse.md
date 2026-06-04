@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موسي
     auto: true
+  - translation_iso: deu
+    name: Musey
+    auto: true
   - translation_iso: fra
     name: moussey
   - translation_iso: hin

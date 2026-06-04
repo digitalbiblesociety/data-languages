@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توراو
     auto: true
+  - translation_iso: deu
+    name: Torau
+    auto: true
   - translation_iso: fra
     name: torau
   - translation_iso: hin

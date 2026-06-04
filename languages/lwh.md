@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هيتي اكهي
     auto: true
+  - translation_iso: deu
+    name: White Lachi
+    auto: true
   - translation_iso: fra
     name: lachi blanc
   - translation_iso: hin

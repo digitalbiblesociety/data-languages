@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونغو
     auto: true
+  - translation_iso: deu
+    name: Bungu
+    auto: true
   - translation_iso: fra
     name: Bungu
     auto: true

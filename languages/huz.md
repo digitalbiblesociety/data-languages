@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هونزب
     auto: true
+  - translation_iso: deu
+    name: Hunzib
+    auto: true
   - translation_iso: fra
     name: hunzib
   - translation_iso: hin

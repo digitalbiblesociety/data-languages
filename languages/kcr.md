@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاتلا
     auto: true
+  - translation_iso: deu
+    name: Katla
   - translation_iso: fra
     name: katla
   - translation_iso: hin

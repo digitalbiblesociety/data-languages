@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة خفارشي
     auto: true
+  - translation_iso: deu
+    name: Chwarschisch
   - translation_iso: fra
     name: khvarshi
   - translation_iso: hin

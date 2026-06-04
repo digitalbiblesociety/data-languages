@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بندي
     auto: true
+  - translation_iso: deu
+    name: Bendi
+    auto: true
   - translation_iso: fra
     name: langue bendi
   - translation_iso: hin

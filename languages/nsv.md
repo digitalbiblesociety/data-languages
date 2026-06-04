@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: نيسو الجنوبية الغربية
     auto: true
+  - translation_iso: deu
+    name: Südwestliches Nisu
+    auto: true
   - translation_iso: fra
     name: nisu du Sud-Ouest
   - translation_iso: hin

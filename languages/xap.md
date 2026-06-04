@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اپالاكهيي
     auto: true
+  - translation_iso: deu
+    name: Apalachee
+    auto: true
   - translation_iso: fra
     name: apalachee
   - translation_iso: hin

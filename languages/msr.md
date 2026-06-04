@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة المنغولية
     auto: true
+  - translation_iso: deu
+    name: Mongolische Gebärdensprache
   - translation_iso: fra
     name: langue des signes mongole
   - translation_iso: hin

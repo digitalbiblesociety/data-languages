@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سومبا سيواري
     auto: true
+  - translation_iso: deu
+    name: Somba-Siawari
+    auto: true
   - translation_iso: fra
     name: Somba-Siawari
     auto: true

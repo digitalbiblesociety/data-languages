@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماريتسايا
     auto: true
+  - translation_iso: deu
+    name: Maritsauá
+    auto: true
   - translation_iso: fra
     name: Maritsauá
     auto: true

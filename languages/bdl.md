@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بجاو إندونيسيا
     auto: true
+  - translation_iso: deu
+    name: Bajo
   - translation_iso: fra
     name: bajo
   - translation_iso: hin

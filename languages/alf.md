@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أليج
     auto: true
+  - translation_iso: deu
+    name: Alege
   - translation_iso: fra
     name: alege
   - translation_iso: hin

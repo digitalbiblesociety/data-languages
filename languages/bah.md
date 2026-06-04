@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إنجليزية كريول البهاما
     auto: true
+  - translation_iso: deu
+    name: Bahama-Kreolenglisch
+    auto: true
   - translation_iso: fra
     name: créole bahamien
   - translation_iso: hin

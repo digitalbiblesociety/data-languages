@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوايا
     auto: true
+  - translation_iso: deu
+    name: Kwaya
+    auto: true
   - translation_iso: fra
     name: kwaya
   - translation_iso: hin

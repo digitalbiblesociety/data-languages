@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سووثإرن غرإبو
     auto: true
+  - translation_iso: deu
+    name: Südliches Grebo
+    auto: true
   - translation_iso: fra
     name: grebo du Sud
   - translation_iso: hin

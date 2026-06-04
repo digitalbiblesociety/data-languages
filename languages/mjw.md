@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاربي
     auto: true
+  - translation_iso: deu
+    name: Karbi
+    auto: true
   - translation_iso: fra
     name: karbi
   - translation_iso: hin

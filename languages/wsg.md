@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اديلاباد غوندي
     auto: true
+  - translation_iso: deu
+    name: Adilabad-Gondi
+    auto: true
   - translation_iso: fra
     name: "gondi d'Adilabad"
   - translation_iso: hin

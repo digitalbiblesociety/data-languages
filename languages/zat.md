@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك تابا
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Tabaa)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Tabaa
   - translation_iso: hin

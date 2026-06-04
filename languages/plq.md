@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالايك
     auto: true
+  - translation_iso: deu
+    name: Palaisch
   - translation_iso: fra
     name: palaïte
   - translation_iso: hin

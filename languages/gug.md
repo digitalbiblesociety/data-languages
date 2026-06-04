@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بآرآغوآيآن غوآرآنí
     auto: true
+  - translation_iso: deu
+    name: Paraguayisches Guaraní
+    auto: true
   - translation_iso: fra
     name: guarani paraguayen
   - translation_iso: hin

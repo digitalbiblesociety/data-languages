@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غوريندجي كريول
     auto: true
+  - translation_iso: deu
+    name: Gurindji Kriol
+    auto: true
   - translation_iso: fra
     name: kriol gurindji
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوينيغا
     auto: true
+  - translation_iso: deu
+    name: Owiniga
+    auto: true
   - translation_iso: fra
     name: owiniga
   - translation_iso: hin

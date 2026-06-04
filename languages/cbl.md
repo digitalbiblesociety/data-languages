@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: البوالخاو تشين
     auto: true
+  - translation_iso: deu
+    name: Bualkhaw-Chin
+    auto: true
   - translation_iso: fra
     name: Chin Bualkhaw
     auto: true

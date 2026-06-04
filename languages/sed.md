@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيدانج
     auto: true
+  - translation_iso: deu
+    name: Sedang
+    auto: true
   - translation_iso: fra
     name: sedang
   - translation_iso: hin

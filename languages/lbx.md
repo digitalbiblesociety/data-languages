@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاوانجان
     auto: true
+  - translation_iso: deu
+    name: Lawangan
+    auto: true
   - translation_iso: fra
     name: lawangan
   - translation_iso: hin

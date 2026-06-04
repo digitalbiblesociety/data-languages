@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاهوا ميتشواكان
     auto: true
+  - translation_iso: deu
+    name: Michoacán Mazahua
+    auto: true
   - translation_iso: fra
     name: mazahua du Michoacán
   - translation_iso: hin

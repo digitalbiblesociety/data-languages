@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانساكا
     auto: true
+  - translation_iso: deu
+    name: Mansaka
+    auto: true
   - translation_iso: fra
     name: mansaka
   - translation_iso: hin

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: كايوباپا
     auto: true
+  - translation_iso: deu
+    name: Cayubaba
   - translation_iso: fra
     name: cayubaba
   - translation_iso: hin

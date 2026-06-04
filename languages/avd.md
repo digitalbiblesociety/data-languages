@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الويري-ويداري
     auto: true
+  - translation_iso: deu
+    name: Alviri-Vidari
   - translation_iso: fra
     name: alviri-vidari
   - translation_iso: hin

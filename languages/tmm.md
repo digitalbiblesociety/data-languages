@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي ثانه
     auto: true
+  - translation_iso: deu
+    name: Tai Thanh
+    auto: true
   - translation_iso: fra
     name: tay thanh
   - translation_iso: hin

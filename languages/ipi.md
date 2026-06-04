@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيبيلي
     auto: true
+  - translation_iso: deu
+    name: Ipili
+    auto: true
   - translation_iso: fra
     name: Ipili
     auto: true

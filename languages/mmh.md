@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة محيناكو
     auto: true
+  - translation_iso: deu
+    name: Mehináku
+    auto: true
   - translation_iso: fra
     name: mehinaku
   - translation_iso: hin

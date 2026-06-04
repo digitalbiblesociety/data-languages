@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك كاكالوكستيبك
     auto: true
+  - translation_iso: deu
+    name: Cacaloxtepec Mixtec
+    auto: true
   - translation_iso: fra
     name: Mixtèque de Cacaloxtepec
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجان جيتييميري
     auto: true
+  - translation_iso: deu
+    name: "Ngan'gityemerri"
+    auto: true
   - translation_iso: fra
     name: ngan’gityemerri
   - translation_iso: hin

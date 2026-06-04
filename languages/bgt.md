@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوغوتو
     auto: true
+  - translation_iso: deu
+    name: Bughotu
+    auto: true
   - translation_iso: fra
     name: bughotu
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميجابك
     auto: true
+  - translation_iso: deu
+    name: Migabac
+    auto: true
   - translation_iso: fra
     name: Migabac
     auto: true

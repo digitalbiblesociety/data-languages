@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وارنمان
     auto: true
+  - translation_iso: deu
+    name: Warnman
+    auto: true
   - translation_iso: fra
     name: wanman
   - translation_iso: hin

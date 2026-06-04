@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاروالي
     auto: true
+  - translation_iso: deu
+    name: Karuwali
+    auto: true
   - translation_iso: fra
     name: karuwali
   - translation_iso: hin

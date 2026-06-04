@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أوخويجو
     auto: true
+  - translation_iso: deu
+    name: Ukhwejo
   - translation_iso: fra
     name: ukhwejo
   - translation_iso: hin

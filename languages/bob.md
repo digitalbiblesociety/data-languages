@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أويير
     auto: true
+  - translation_iso: deu
+    name: Aweer
   - translation_iso: fra
     name: aweer
   - translation_iso: hin

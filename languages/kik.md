@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kikuyu_language"
 translations:
   - translation_iso: ara
     name: الكيكويوئية
+  - translation_iso: deu
+    name: Kikuyu
   - translation_iso: fra
     name: kikuyu
   - translation_iso: hin

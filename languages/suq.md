@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوري
     auto: true
+  - translation_iso: deu
+    name: Suri
+    auto: true
   - translation_iso: fra
     name: suri
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وهيتإ غإلآو
     auto: true
+  - translation_iso: deu
+    name: Weißes Gelao
+    auto: true
   - translation_iso: fra
     name: gelao blanc
   - translation_iso: hin

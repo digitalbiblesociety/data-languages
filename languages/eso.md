@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Estonian
     auto: true
+  - translation_iso: deu
+    name: Estnische Gebärdensprache
   - translation_iso: fra
     name: langue des signes estonienne
   - translation_iso: hin

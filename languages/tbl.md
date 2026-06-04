@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تبولي
     auto: true
+  - translation_iso: deu
+    name: Tboli
+    auto: true
   - translation_iso: fra
     name: "t'boli"
   - translation_iso: hin

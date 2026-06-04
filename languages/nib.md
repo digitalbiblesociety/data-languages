@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناكامي
     auto: true
+  - translation_iso: deu
+    name: Nakame
+    auto: true
   - translation_iso: fra
     name: Nakame
     auto: true

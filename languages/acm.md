@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mesopotamian_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة عراقية
+  - translation_iso: deu
+    name: Irakisch-Arabisch
   - translation_iso: fra
     name: arabe mésopotamien
   - translation_iso: hin

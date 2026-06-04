@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الديراشا
     auto: true
+  - translation_iso: deu
+    name: Dirasha
   - translation_iso: fra
     name: dirasha
   - translation_iso: hin

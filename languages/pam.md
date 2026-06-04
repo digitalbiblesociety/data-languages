@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kapampangan_language"
 translations:
   - translation_iso: ara
     name: لغة كابامبانجان
+  - translation_iso: deu
+    name: Kapampangan
   - translation_iso: fra
     name: pampangue
   - translation_iso: hin

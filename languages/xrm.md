@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: أرمازية
     auto: true
+  - translation_iso: deu
+    name: Armasisch
   - translation_iso: fra
     name: armazique
   - translation_iso: hin

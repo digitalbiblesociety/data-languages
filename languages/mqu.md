@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندري
     auto: true
+  - translation_iso: deu
+    name: Mandari
+    auto: true
   - translation_iso: fra
     name: mandari
   - translation_iso: hin

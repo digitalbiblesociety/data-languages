@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيانجان
     auto: true
+  - translation_iso: deu
+    name: Giangan
+    auto: true
   - translation_iso: fra
     name: Giangan
     auto: true

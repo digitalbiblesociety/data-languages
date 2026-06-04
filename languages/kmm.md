@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوم
     auto: true
+  - translation_iso: deu
+    name: Kom (Indien)
+    auto: true
   - translation_iso: fra
     name: kom
   - translation_iso: hin

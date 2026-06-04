@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سارافيكا
     auto: true
+  - translation_iso: deu
+    name: Saraveca
+    auto: true
   - translation_iso: fra
     name: saraveca
   - translation_iso: hin

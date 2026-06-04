@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبيلونغ
     auto: true
+  - translation_iso: deu
+    name: Tobilung
+    auto: true
   - translation_iso: fra
     name: tobilung
   - translation_iso: hin

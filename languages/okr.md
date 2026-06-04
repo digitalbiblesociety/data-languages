@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيريكي
     auto: true
+  - translation_iso: deu
+    name: Kirike
+    auto: true
   - translation_iso: fra
     name: kirike
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كالابري
     auto: true
+  - translation_iso: deu
+    name: Kalabari
   - translation_iso: fra
     name: kalabari
   - translation_iso: hin

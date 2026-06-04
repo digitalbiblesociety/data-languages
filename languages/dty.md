@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوتيالي
     auto: true
+  - translation_iso: deu
+    name: Doteli
   - translation_iso: fra
     name: dotyali
   - translation_iso: hin

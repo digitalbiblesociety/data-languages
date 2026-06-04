@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فونابو
     auto: true
+  - translation_iso: deu
+    name: Vunapu
+    auto: true
   - translation_iso: fra
     name: vunapu
   - translation_iso: hin

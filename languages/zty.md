@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك ياتي
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Yatee)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Yateé
   - translation_iso: hin

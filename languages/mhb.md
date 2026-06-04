@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماهونجوي
     auto: true
+  - translation_iso: deu
+    name: Mahongwe
   - translation_iso: fra
     name: mahongwé
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجنجام
     auto: true
+  - translation_iso: deu
+    name: Lyngngam
+    auto: true
   - translation_iso: fra
     name: lyngngam
   - translation_iso: hin

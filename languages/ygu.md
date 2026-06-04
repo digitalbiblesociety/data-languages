@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: يوجول
     auto: true
+  - translation_iso: deu
+    name: Yugul
+    auto: true
   - translation_iso: fra
     name: Yugul
     auto: true

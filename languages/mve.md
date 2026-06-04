@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماروري (باكستان)
     auto: true
+  - translation_iso: deu
+    name: Marwari (Pakistan)
+    auto: true
   - translation_iso: fra
     name: marvari
   - translation_iso: hin

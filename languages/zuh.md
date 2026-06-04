@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توكانو
     auto: true
+  - translation_iso: deu
+    name: Tokano
+    auto: true
   - translation_iso: fra
     name: Tokano
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ناهوتل درانجو الشرقية
     auto: true
+  - translation_iso: deu
+    name: Ost-Durango-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl du Durango oriental
   - translation_iso: hin

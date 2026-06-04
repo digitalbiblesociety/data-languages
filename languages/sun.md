@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sundanese_language"
 translations:
   - translation_iso: ara
     name: الصندية
+  - translation_iso: deu
+    name: Sundanesisch
   - translation_iso: fra
     name: soundanais
   - translation_iso: hin

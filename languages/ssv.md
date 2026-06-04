@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة شارك باي
     auto: true
+  - translation_iso: deu
+    name: Shark Bay
+    auto: true
   - translation_iso: fra
     name: ngen
   - translation_iso: hin

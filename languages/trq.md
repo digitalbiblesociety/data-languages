@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تريكي سان مارتين إيتونيوسو
     auto: true
+  - translation_iso: deu
+    name: San Martín Itunyoso Triqui
+    auto: true
   - translation_iso: fra
     name: trique de San Martín Itunyoso
   - translation_iso: hin

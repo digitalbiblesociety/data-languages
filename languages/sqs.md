@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة السريلانكية
     auto: true
+  - translation_iso: deu
+    name: Sri-Lankische Gebärdensprache
   - translation_iso: fra
     name: langue des signes sri-lankaise
   - translation_iso: hin

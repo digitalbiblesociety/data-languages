@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتسائي
     auto: true
+  - translation_iso: deu
+    name: Kitsai
+    auto: true
   - translation_iso: fra
     name: kitsai
   - translation_iso: hin

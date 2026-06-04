@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واديجو
     auto: true
+  - translation_iso: deu
+    name: Wadjigu
+    auto: true
   - translation_iso: fra
     name: wadjigu
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك ألاكاتلاتزالا
     auto: true
+  - translation_iso: deu
+    name: Alacatlatzala Mixtec
+    auto: true
   - translation_iso: fra
     name: mixtèque d’Alacatlatzala
   - translation_iso: hin

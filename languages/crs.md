@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Seychellois_Creole"
 translations:
   - translation_iso: ara
     name: الكريولية السيشيلية
+  - translation_iso: deu
+    name: Seychellenkreol
   - translation_iso: fra
     name: créole seychellois
   - translation_iso: hin

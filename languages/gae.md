@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Baniwa_of_Guain%C3%ADa"
 translations:
   - translation_iso: ara
     name: لغة واريكينا
+  - translation_iso: deu
+    name: Guarequena
+    auto: true
   - translation_iso: fra
     name: guarequena
   - translation_iso: hin

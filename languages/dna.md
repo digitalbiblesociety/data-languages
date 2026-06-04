@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أبر جراند فالي داني
     auto: true
+  - translation_iso: deu
+    name: Upper Grand Valley Dani
+    auto: true
   - translation_iso: fra
     name: Dani de la haute vallée de la Grand Valley
     auto: true

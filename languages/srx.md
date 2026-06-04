@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيرماوري
     auto: true
+  - translation_iso: deu
+    name: Sirmauri
+    auto: true
   - translation_iso: fra
     name: sirmauri
   - translation_iso: hin

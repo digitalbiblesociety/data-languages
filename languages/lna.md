@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة انجباسهي
     auto: true
+  - translation_iso: deu
+    name: Langbashe
+    auto: true
   - translation_iso: fra
     name: langbashe
   - translation_iso: hin

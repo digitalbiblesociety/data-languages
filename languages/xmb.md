@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مبونجا
     auto: true
+  - translation_iso: deu
+    name: Mbonga
   - translation_iso: fra
     name: mbonga
   - translation_iso: hin

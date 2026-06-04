@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ingush_language"
 translations:
   - translation_iso: ara
     name: الإنغوشية
+  - translation_iso: deu
+    name: Inguschisch
   - translation_iso: fra
     name: ingouche
   - translation_iso: hin

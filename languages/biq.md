@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيبي
     auto: true
+  - translation_iso: deu
+    name: Bipi
+    auto: true
   - translation_iso: fra
     name: bipi
   - translation_iso: hin

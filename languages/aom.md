@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/%C3%96mie_language"
 translations:
   - translation_iso: ara
     name: لغة آومي
+  - translation_iso: deu
+    name: Ömie
+    auto: true
   - translation_iso: fra
     name: ömie
   - translation_iso: hin

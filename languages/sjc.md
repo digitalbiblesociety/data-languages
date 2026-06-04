@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة شاوجيانج الصينية
     auto: true
+  - translation_iso: deu
+    name: Shaojiang-Chinesisch
+    auto: true
   - translation_iso: fra
     name: shaojiang
   - translation_iso: hin

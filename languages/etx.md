@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإتين
     auto: true
+  - translation_iso: deu
+    name: Eten
+    auto: true
   - translation_iso: fra
     name: Eten
   - translation_iso: hin

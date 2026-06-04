@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مانزا
     auto: true
+  - translation_iso: deu
+    name: Manza
   - translation_iso: fra
     name: manza
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا باستازا الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nord-Pastaza-Quichua
+    auto: true
   - translation_iso: fra
     name: quechua de Pastaza du Nord
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورومي
     auto: true
+  - translation_iso: deu
+    name: Urumi
+    auto: true
   - translation_iso: fra
     name: ouroumi
   - translation_iso: hin

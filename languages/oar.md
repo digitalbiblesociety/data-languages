@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Aramaic"
 translations:
   - translation_iso: ara
     name: الآرامية القديمة
+  - translation_iso: deu
+    name: Altaramäisch
   - translation_iso: fra
     name: "Araméen ancien (jusqu'à 700 av. J.-C.)"
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة البيلينية
     auto: true
+  - translation_iso: deu
+    name: Pälignisch
+    auto: true
   - translation_iso: fra
     name: Pélignien
     auto: true

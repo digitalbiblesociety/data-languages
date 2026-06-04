@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماشكو بيرو
     auto: true
+  - translation_iso: deu
+    name: Mashco Piro
+    auto: true
   - translation_iso: fra
     name: mashco piro
   - translation_iso: hin

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكانجا
     auto: true
+  - translation_iso: deu
+    name: Pokangá
+    auto: true
   - translation_iso: fra
     name: pokangá
   - translation_iso: hin

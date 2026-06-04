@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشوني-دزيهانا-كاوما
     auto: true
+  - translation_iso: deu
+    name: Chonyi-Dzihana-Kauma
+    auto: true
   - translation_iso: fra
     name: chonyi
   - translation_iso: hin

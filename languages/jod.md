@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة وويينياكا
     auto: true
+  - translation_iso: deu
+    name: Wojenaka
+    auto: true
   - translation_iso: fra
     name: wojenaka
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موروي هويتوتو
     auto: true
+  - translation_iso: deu
+    name: Murui-Huitoto
+    auto: true
   - translation_iso: fra
     name: witoto murui
   - translation_iso: hin

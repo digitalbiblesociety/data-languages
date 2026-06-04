@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تالوكي
     auto: true
+  - translation_iso: deu
+    name: Taloki
+    auto: true
   - translation_iso: fra
     name: taloki
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دارلونج
     auto: true
+  - translation_iso: deu
+    name: Darlong
+    auto: true
   - translation_iso: fra
     name: Darlong
     auto: true

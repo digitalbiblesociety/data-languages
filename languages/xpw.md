@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الشمالية الغربية
     auto: true
+  - translation_iso: deu
+    name: Nordwesttasmanisch
+    auto: true
   - translation_iso: fra
     name: peerapper
   - translation_iso: hin

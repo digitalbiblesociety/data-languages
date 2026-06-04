@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: باتيري
     auto: true
+  - translation_iso: deu
+    name: Bateri
   - translation_iso: fra
     name: bateri
   - translation_iso: hin

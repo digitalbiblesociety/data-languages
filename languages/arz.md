@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_Arabic"
 translations:
   - translation_iso: ara
     name: العامية المصرية
+  - translation_iso: deu
+    name: Ägyptisch-Arabisch
   - translation_iso: fra
     name: arabe égyptien
   - translation_iso: hin

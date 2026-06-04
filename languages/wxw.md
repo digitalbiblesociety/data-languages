@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: وارداندي
     auto: true
+  - translation_iso: deu
+    name: Wardandi
+    auto: true
   - translation_iso: fra
     name: wardandi
   - translation_iso: hin

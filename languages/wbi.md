@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فواينجي
     auto: true
+  - translation_iso: deu
+    name: Vwanji
+    auto: true
   - translation_iso: fra
     name: vwanji
   - translation_iso: hin

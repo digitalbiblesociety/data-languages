@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيريس الغربية
     auto: true
+  - translation_iso: deu
+    name: West-Keres
+    auto: true
   - translation_iso: fra
     name: "keres de l'Ouest"
   - translation_iso: hin

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/North_Mesopotamian_Arabic"
 translations:
   - translation_iso: ara
     name: العربية الموصلية
+  - translation_iso: deu
+    name: Nordmesopotamisches Arabisch
+    auto: true
   - translation_iso: fra
     name: arabe mésopotamien du Nord
   - translation_iso: hin

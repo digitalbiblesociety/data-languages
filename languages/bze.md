@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيناما بوزو
     auto: true
+  - translation_iso: deu
+    name: Jenaama-Bozo
+    auto: true
   - translation_iso: fra
     name: bozo de Jenaama
   - translation_iso: hin

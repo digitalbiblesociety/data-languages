@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة تشام القديمة
     auto: true
+  - translation_iso: deu
+    name: Alt-Cham
+    auto: true
   - translation_iso: fra
     name: vieux cham
   - translation_iso: hin

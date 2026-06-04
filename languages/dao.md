@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داي تشين
     auto: true
+  - translation_iso: deu
+    name: Daai-Chin
+    auto: true
   - translation_iso: fra
     name: Chin Daai
     auto: true

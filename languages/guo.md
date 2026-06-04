@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآيآبإرو
     auto: true
+  - translation_iso: deu
+    name: Guayabero
+    auto: true
   - translation_iso: fra
     name: guayabero
   - translation_iso: hin

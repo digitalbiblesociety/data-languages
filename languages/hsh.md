@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة المجرية
     auto: true
+  - translation_iso: deu
+    name: Ungarische Gebärdensprache
   - translation_iso: fra
     name: langue des signes hongroise
   - translation_iso: hin

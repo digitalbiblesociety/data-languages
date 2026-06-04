@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميتلاتونجو ميكستيك
     auto: true
+  - translation_iso: deu
+    name: Mitlatongo-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: mixtèque de Mitlatongo
   - translation_iso: hin

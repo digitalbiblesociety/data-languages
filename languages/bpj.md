@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيجي
     auto: true
+  - translation_iso: deu
+    name: Binji
+    auto: true
   - translation_iso: fra
     name: bindji-ngusu
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفانجالو
     auto: true
+  - translation_iso: deu
+    name: Fanakalo
   - translation_iso: fra
     name: fanagalo
   - translation_iso: hin

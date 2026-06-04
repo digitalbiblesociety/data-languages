@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تييفو
     auto: true
+  - translation_iso: deu
+    name: Tiéfo
+    auto: true
   - translation_iso: fra
     name: tiéfo
   - translation_iso: hin

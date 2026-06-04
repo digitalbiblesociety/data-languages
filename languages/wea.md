@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويواو
     auto: true
+  - translation_iso: deu
+    name: Wewaw
+    auto: true
   - translation_iso: fra
     name: wewaw
   - translation_iso: hin

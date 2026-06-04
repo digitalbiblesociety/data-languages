@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هاليا
     auto: true
+  - translation_iso: deu
+    name: Halia
+    auto: true
   - translation_iso: fra
     name: halia
   - translation_iso: hin

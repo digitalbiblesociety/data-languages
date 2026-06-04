@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتيجسالوج مانوبو
     auto: true
+  - translation_iso: deu
+    name: Matigsalug Manobo
+    auto: true
   - translation_iso: fra
     name: Manobo Matigsalug
     auto: true

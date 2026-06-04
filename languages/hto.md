@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مينيكا هويتوتو
     auto: true
+  - translation_iso: deu
+    name: Minica-Huitoto
+    auto: true
   - translation_iso: fra
     name: witoto minica
   - translation_iso: hin

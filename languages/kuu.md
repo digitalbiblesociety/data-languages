@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوسكوكويم العليا
     auto: true
+  - translation_iso: deu
+    name: Upper Kuskokwim
   - translation_iso: fra
     name: kolchan
   - translation_iso: hin

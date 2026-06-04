@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إينوكتيتوت كندي شرقي
     auto: true
+  - translation_iso: deu
+    name: Ostkanadisches Inuktitut
+    auto: true
   - translation_iso: fra
     name: inuktitut canadien oriental
   - translation_iso: hin

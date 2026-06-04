@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاتاويخي
     auto: true
+  - translation_iso: deu
+    name: Katawixi
+    auto: true
   - translation_iso: fra
     name: katawixi
   - translation_iso: hin

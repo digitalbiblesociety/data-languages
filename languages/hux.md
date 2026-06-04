@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوبودي هويتوتو
     auto: true
+  - translation_iso: deu
+    name: Nüpode-Huitoto
+    auto: true
   - translation_iso: fra
     name: witoto nipode
   - translation_iso: hin

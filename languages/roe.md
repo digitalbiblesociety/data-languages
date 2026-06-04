@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رونجي
     auto: true
+  - translation_iso: deu
+    name: Ronji
+    auto: true
   - translation_iso: fra
     name: ronji
   - translation_iso: hin

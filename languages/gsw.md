@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Alemannic_German"
 translations:
   - translation_iso: ara
     name: الألامانية
+  - translation_iso: deu
+    name: Alemannisch
   - translation_iso: fra
     name: alémanique
   - translation_iso: hin

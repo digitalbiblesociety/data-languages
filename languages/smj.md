@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lule_S%C3%A1mi"
 translations:
   - translation_iso: ara
     name: لغة لوله سامي
+  - translation_iso: deu
+    name: Lulesamisch
   - translation_iso: fra
     name: same de Lule
   - translation_iso: hin

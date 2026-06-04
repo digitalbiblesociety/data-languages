@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجيبي
     auto: true
+  - translation_iso: deu
+    name: Njebi
   - translation_iso: fra
     name: nzebi
   - translation_iso: hin

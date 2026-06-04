@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مانغير
     auto: true
+  - translation_iso: deu
+    name: Mangerr
+    auto: true
   - translation_iso: fra
     name: mangerr
   - translation_iso: hin

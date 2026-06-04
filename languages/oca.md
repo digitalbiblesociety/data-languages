@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكاينا
     auto: true
+  - translation_iso: deu
+    name: Ocaina
+    auto: true
   - translation_iso: fra
     name: ocaina
   - translation_iso: hin

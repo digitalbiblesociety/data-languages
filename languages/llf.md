@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يرميت
     auto: true
+  - translation_iso: deu
+    name: Hermit
+    auto: true
   - translation_iso: fra
     name: hermit
   - translation_iso: hin

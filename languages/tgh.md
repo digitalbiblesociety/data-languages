@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإنجليزية الكريولية التوباغونية
     auto: true
+  - translation_iso: deu
+    name: Tobagonian Creole English
+    auto: true
   - translation_iso: fra
     name: Créole anglais de Tobago
     auto: true

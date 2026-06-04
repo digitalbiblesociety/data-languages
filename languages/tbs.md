@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تانغوات
     auto: true
+  - translation_iso: deu
+    name: Tanguat
+    auto: true
   - translation_iso: fra
     name: tanguat
   - translation_iso: hin

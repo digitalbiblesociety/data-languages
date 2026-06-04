@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيدي إيداكا
     auto: true
+  - translation_iso: deu
+    name: Ede Idaca
+    auto: true
   - translation_iso: fra
     name: Ede Idaca
     auto: true

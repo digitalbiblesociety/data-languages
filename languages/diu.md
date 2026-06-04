@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديريكو
     auto: true
+  - translation_iso: deu
+    name: Diriku
+    auto: true
   - translation_iso: fra
     name: diriku
   - translation_iso: hin

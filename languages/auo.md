@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويوكاوا
     auto: true
+  - translation_iso: deu
+    name: Auyokawa
+    auto: true
   - translation_iso: fra
     name: Auyokawa
     auto: true

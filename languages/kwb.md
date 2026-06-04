@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوا
     auto: true
+  - translation_iso: deu
+    name: Baa
   - translation_iso: fra
     name: Kwa
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دورا
     auto: true
+  - translation_iso: deu
+    name: Dura
+    auto: true
   - translation_iso: fra
     name: dura
   - translation_iso: hin

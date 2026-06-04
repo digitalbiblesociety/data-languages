@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالو
     auto: true
+  - translation_iso: deu
+    name: Malo
+    auto: true
   - translation_iso: fra
     name: tamambo
   - translation_iso: hin

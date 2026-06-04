@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بيتور
     auto: true
+  - translation_iso: deu
+    name: Bitur
+    auto: true
   - translation_iso: fra
     name: bitur
   - translation_iso: hin

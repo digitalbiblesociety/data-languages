@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة الكورنية القديمة
     auto: true
+  - translation_iso: deu
+    name: Altkornisch
   - translation_iso: fra
     name: vieux cornique
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونان ميرا
     auto: true
+  - translation_iso: deu
+    name: Punan Merah
+    auto: true
   - translation_iso: fra
     name: punan merah
   - translation_iso: hin

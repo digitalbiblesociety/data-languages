@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مان ميت
     auto: true
+  - translation_iso: deu
+    name: Man Met
+    auto: true
   - translation_iso: fra
     name: kemie
   - translation_iso: hin

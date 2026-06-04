@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دهواري
     auto: true
+  - translation_iso: deu
+    name: Dehwari
   - translation_iso: fra
     name: Dehwari
     auto: true

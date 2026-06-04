@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أدونارا
     auto: true
+  - translation_iso: deu
+    name: Adonara
   - translation_iso: fra
     name: adonara
   - translation_iso: hin

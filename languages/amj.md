@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Amdang_language"
 translations:
   - translation_iso: ara
     name: أمدانغ
+  - translation_iso: deu
+    name: Amdang
   - translation_iso: fra
     name: amdang
   - translation_iso: hin

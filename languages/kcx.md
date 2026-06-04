@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاتشاما غانجولي
     auto: true
+  - translation_iso: deu
+    name: Kachama-Ganjule
+    auto: true
   - translation_iso: fra
     name: kachama-ganjule
   - translation_iso: hin

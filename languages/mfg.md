@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موجوفين
     auto: true
+  - translation_iso: deu
+    name: Mogofin
+    auto: true
   - translation_iso: fra
     name: mogofin
   - translation_iso: hin

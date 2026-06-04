@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة إيبولو
     auto: true
+  - translation_iso: deu
+    name: Ipulo
   - translation_iso: fra
     name: ipulo
   - translation_iso: hin

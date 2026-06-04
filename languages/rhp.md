@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يهانج
     auto: true
+  - translation_iso: deu
+    name: Yahang
+    auto: true
   - translation_iso: fra
     name: yahang
   - translation_iso: hin

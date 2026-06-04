@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ريشيوا
     auto: true
+  - translation_iso: deu
+    name: Rishiwa
+    auto: true
   - translation_iso: fra
     name: Rishiwa
     auto: true

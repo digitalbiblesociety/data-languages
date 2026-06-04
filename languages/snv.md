@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "اللغة سا'بان"
     auto: true
+  - translation_iso: deu
+    name: "Sa'ban"
+    auto: true
   - translation_iso: fra
     name: sa’ban
   - translation_iso: hin

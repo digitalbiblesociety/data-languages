@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ليانا-سيتي
     auto: true
+  - translation_iso: deu
+    name: Liana-Seti
+    auto: true
   - translation_iso: fra
     name: Liana-Seti
     auto: true

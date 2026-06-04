@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تافي
     auto: true
+  - translation_iso: deu
+    name: Tafi
   - translation_iso: fra
     name: tafi
   - translation_iso: hin

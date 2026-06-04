@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باملونا أتا
     auto: true
+  - translation_iso: deu
+    name: Pamplona-Atta
+    auto: true
   - translation_iso: fra
     name: atta de Pamplona
   - translation_iso: hin

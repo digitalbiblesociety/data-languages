@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويلاويلا
     auto: true
+  - translation_iso: deu
+    name: Wilawila
+    auto: true
   - translation_iso: fra
     name: wilawila
   - translation_iso: hin

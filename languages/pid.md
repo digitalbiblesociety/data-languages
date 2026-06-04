@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيارويا
     auto: true
+  - translation_iso: deu
+    name: Piaroa
+    auto: true
   - translation_iso: fra
     name: piaroa
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوتاي
     auto: true
+  - translation_iso: deu
+    name: Doutai
+    auto: true
   - translation_iso: fra
     name: doutai
   - translation_iso: hin

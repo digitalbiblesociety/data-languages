@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيمي
     auto: true
+  - translation_iso: deu
+    name: Nemi
+    auto: true
   - translation_iso: fra
     name: nemi
   - translation_iso: hin

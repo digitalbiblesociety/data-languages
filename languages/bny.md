@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بينتولو
     auto: true
+  - translation_iso: deu
+    name: Bintulu
+    auto: true
   - translation_iso: fra
     name: bintulu
   - translation_iso: hin

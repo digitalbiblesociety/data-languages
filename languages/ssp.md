@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Spanish_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة إشارة الإسبانية
+  - translation_iso: deu
+    name: Spanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes espagnole
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السيني
     auto: true
+  - translation_iso: deu
+    name: Cineni
+    auto: true
   - translation_iso: fra
     name: Cineni
     auto: true

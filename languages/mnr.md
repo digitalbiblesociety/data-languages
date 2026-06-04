@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mono_language_(California)"
 translations:
   - translation_iso: ara
     name: لغة مونو
+  - translation_iso: deu
+    name: Mono (USA)
+    auto: true
   - translation_iso: fra
     name: mono
   - translation_iso: hin

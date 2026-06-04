@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باليان
     auto: true
+  - translation_iso: deu
+    name: Paliyan
+    auto: true
   - translation_iso: fra
     name: Paliyan
     auto: true

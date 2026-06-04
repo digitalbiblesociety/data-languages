@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وويووررونغ
     auto: true
+  - translation_iso: deu
+    name: Woiwurrung
+    auto: true
   - translation_iso: fra
     name: Woiwurrung
     auto: true

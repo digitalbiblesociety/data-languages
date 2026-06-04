@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هانو
     auto: true
+  - translation_iso: deu
+    name: Hano
+    auto: true
   - translation_iso: fra
     name: hano
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ورته يفاتي
     auto: true
+  - translation_iso: deu
+    name: Nord-Efate
   - translation_iso: fra
     name: éfaté du Nord
   - translation_iso: hin

@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: تامبورا
     auto: true
+  - translation_iso: deu
+    name: Tambora
   - translation_iso: fra
     name: Tambora
   - translation_iso: hin

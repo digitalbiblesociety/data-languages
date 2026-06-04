@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واليو
     auto: true
+  - translation_iso: deu
+    name: Walio
+    auto: true
   - translation_iso: fra
     name: walio
   - translation_iso: hin

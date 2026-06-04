@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة التايلاندية الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Südthailändisch
   - translation_iso: fra
     name: thaï du Sud
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تامي
     auto: true
+  - translation_iso: deu
+    name: Tami
+    auto: true
   - translation_iso: fra
     name: tami
   - translation_iso: hin

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كورو زوبا
     auto: true
+  - translation_iso: deu
+    name: Koro Zuba
+    auto: true
   - translation_iso: fra
     name: Koro Zuba
     auto: true

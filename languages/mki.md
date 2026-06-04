@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ذاتكي
     auto: true
+  - translation_iso: deu
+    name: Dhatki
   - translation_iso: fra
     name: dhatki
   - translation_iso: hin

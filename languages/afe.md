@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة پوتوكوّام
     auto: true
+  - translation_iso: deu
+    name: Putukwam
+    auto: true
   - translation_iso: fra
     name: putukwam
   - translation_iso: hin

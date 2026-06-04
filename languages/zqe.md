@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ كيوبي
     auto: true
+  - translation_iso: deu
+    name: Qiubei-Zhuang
+    auto: true
   - translation_iso: fra
     name: zhuang de Qiubei
   - translation_iso: hin

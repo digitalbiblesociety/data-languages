@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موبوا كارين
     auto: true
+  - translation_iso: deu
+    name: Mobwa-Karen
+    auto: true
   - translation_iso: fra
     name: mobwa
   - translation_iso: hin

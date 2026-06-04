@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لومويي
     auto: true
+  - translation_iso: deu
+    name: Lomwe
   - translation_iso: fra
     name: lomwe
   - translation_iso: hin

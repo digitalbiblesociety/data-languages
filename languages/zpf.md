@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان بيدرو كوياتوني
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (San Pedro Quiatoni)
+    auto: true
   - translation_iso: fra
     name: zapotèque de San Pedro Quiatoni
   - translation_iso: hin

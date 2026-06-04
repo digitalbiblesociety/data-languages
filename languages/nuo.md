@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغويون
     auto: true
+  - translation_iso: deu
+    name: Nguôn
+    auto: true
   - translation_iso: fra
     name: nguon
   - translation_iso: hin

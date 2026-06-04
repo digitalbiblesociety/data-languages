@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبانين الشمالية
     auto: true
+  - translation_iso: deu
+    name: Northern Subanen
+    auto: true
   - translation_iso: fra
     name: subanen du Nord
   - translation_iso: hin

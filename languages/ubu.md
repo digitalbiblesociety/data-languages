@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أمبو-أونجو
     auto: true
+  - translation_iso: deu
+    name: Umbu-Ungu
+    auto: true
   - translation_iso: fra
     name: umbu-ungu
   - translation_iso: hin

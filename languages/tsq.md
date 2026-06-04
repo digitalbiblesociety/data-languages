@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التايلندية
     auto: true
+  - translation_iso: deu
+    name: Thailändische Gebärdensprache
   - translation_iso: fra
     name: Langue des signes thaïlandaise
     auto: true

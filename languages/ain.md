@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ainu_language"
 translations:
   - translation_iso: ara
     name: الآينوية
+  - translation_iso: deu
+    name: Ainu
   - translation_iso: fra
     name: aïnou
   - translation_iso: hin

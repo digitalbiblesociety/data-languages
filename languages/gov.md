@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: غوو
     auto: true
+  - translation_iso: deu
+    name: Goo
+    auto: true
   - translation_iso: fra
     name: goo
   - translation_iso: hin

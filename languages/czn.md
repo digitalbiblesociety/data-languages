@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زينزونتيبك تشاتينو
     auto: true
+  - translation_iso: deu
+    name: Zenzontepec-Chatino
+    auto: true
   - translation_iso: fra
     name: chatino de Zenzontepec
   - translation_iso: hin

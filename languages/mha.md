@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Manda_language_(India)"
 translations:
   - translation_iso: ara
     name: لغة ماندا
+  - translation_iso: deu
+    name: Manda (India)
+    auto: true
   - translation_iso: fra
     name: manda
   - translation_iso: hin

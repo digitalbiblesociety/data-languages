@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميندري
     auto: true
+  - translation_iso: deu
+    name: Mindiri
+    auto: true
   - translation_iso: fra
     name: mindiri
   - translation_iso: hin

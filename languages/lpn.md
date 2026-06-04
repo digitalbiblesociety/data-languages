@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ونج هوري اجا
     auto: true
+  - translation_iso: deu
+    name: Long Phuri Naga
+    auto: true
   - translation_iso: fra
     name: Naga Long Phuri
     auto: true

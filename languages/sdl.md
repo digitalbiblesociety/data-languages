@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Saudi_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة السعودية
+  - translation_iso: deu
+    name: Saudi-arabische Gebärdensprache
   - translation_iso: fra
     name: langue des signes saoudienne
   - translation_iso: hin

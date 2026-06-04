@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيداتي
     auto: true
+  - translation_iso: deu
+    name: Idaté
   - translation_iso: fra
     name: idaté
   - translation_iso: hin

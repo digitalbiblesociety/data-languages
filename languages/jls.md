@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة جامايكا للغة الإشارة
     auto: true
+  - translation_iso: deu
+    name: Jamaikanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes jamaïcaine
   - translation_iso: hin

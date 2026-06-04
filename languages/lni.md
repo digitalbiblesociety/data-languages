@@ -18,8 +18,11 @@ translations:
   - translation_iso: ara
     name: لغة اانتاناي
     auto: true
-  - translation_iso: fra
+  - translation_iso: deu
     name: "Daantanai'"
+    auto: true
+  - translation_iso: fra
+    name: Daantanai
     auto: true
   - translation_iso: hin
     name: दानतानाई

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بامويي
     auto: true
+  - translation_iso: deu
+    name: Bamwe
   - translation_iso: fra
     name: Bamwe
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيرْوا
     auto: true
+  - translation_iso: deu
+    name: Birwa
+    auto: true
   - translation_iso: fra
     name: birwa
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاناشي
     auto: true
+  - translation_iso: deu
+    name: Kanashi
+    auto: true
   - translation_iso: fra
     name: kanashi
   - translation_iso: hin

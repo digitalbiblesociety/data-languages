@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غولآ يرو
     auto: true
+  - translation_iso: deu
+    name: Gula Iro
   - translation_iso: fra
     name: Kulaal
   - translation_iso: hin

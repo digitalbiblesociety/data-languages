@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باريغا
     auto: true
+  - translation_iso: deu
+    name: Parenga
+    auto: true
   - translation_iso: fra
     name: gorum
   - translation_iso: hin

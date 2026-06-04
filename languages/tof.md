@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيزرا
     auto: true
+  - translation_iso: deu
+    name: Gizrra
+    auto: true
   - translation_iso: fra
     name: gizrra
   - translation_iso: hin

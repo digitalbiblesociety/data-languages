@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Venetian_language"
 translations:
   - translation_iso: ara
     name: الفينيسية
+  - translation_iso: deu
+    name: Venetisch
   - translation_iso: fra
     name: vénitien
   - translation_iso: hin

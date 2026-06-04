@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتوناك فيلومينا ماتا كواويتلان
     auto: true
+  - translation_iso: deu
+    name: Filomena Mata-Coahuitlán Totonac
+    auto: true
   - translation_iso: fra
     name: totonaque de Filomeno Mata
   - translation_iso: hin

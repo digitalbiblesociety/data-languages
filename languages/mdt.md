@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة مبير
     auto: true
+  - translation_iso: deu
+    name: Mbere
   - translation_iso: fra
     name: mbere
   - translation_iso: hin

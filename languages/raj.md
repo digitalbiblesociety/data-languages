@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rajasthani_languages"
 translations:
   - translation_iso: ara
     name: لغات راجاستان
+  - translation_iso: deu
+    name: Rajasthani
   - translation_iso: fra
     name: rajasthanais
   - translation_iso: hin

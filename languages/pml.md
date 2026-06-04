@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mediterranean_Lingua_Franca"
 translations:
   - translation_iso: ara
     name: صابر
+  - translation_iso: deu
+    name: Sabir
   - translation_iso: fra
     name: sabir
   - translation_iso: hin

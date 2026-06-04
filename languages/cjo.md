@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأشينينكا باخونال
     auto: true
+  - translation_iso: deu
+    name: Ashéninka Pajonal
+    auto: true
   - translation_iso: fra
     name: Ashéninka
   - translation_iso: hin

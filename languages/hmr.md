@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: همار
     auto: true
+  - translation_iso: deu
+    name: Hmar
+    auto: true
   - translation_iso: fra
     name: hmar
   - translation_iso: hin

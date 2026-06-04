@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كارامي
     auto: true
+  - translation_iso: deu
+    name: Karami
+    auto: true
   - translation_iso: fra
     name: Karami
     auto: true

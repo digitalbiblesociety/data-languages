@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سينجو
     auto: true
+  - translation_iso: deu
+    name: Sengo
+    auto: true
   - translation_iso: fra
     name: sengo
   - translation_iso: hin

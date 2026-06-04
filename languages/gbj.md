@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جادابا بودو
     auto: true
+  - translation_iso: deu
+    name: Bodo Gadaba
+    auto: true
   - translation_iso: fra
     name: gutob
   - translation_iso: hin

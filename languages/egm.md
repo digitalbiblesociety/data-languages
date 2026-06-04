@@ -9,6 +9,9 @@ translations:
   - translation_iso: ara
     name: بينامانجا
     auto: true
+  - translation_iso: deu
+    name: Benamanga
+    auto: true
   - translation_iso: fra
     name: Benamanga
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألابا-كابينا
     auto: true
+  - translation_iso: deu
+    name: Alaba-K’abeena
   - translation_iso: fra
     name: alaba
   - translation_iso: hin

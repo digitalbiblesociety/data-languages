@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ايري
     auto: true
+  - translation_iso: deu
+    name: Ere
+    auto: true
   - translation_iso: fra
     name: ere
   - translation_iso: hin

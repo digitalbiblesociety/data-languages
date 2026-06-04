@@ -14,6 +14,9 @@ glottolog_family_id: indo1319
 glottolog_family_name: Indo-European
 glottolog_classification: "Indo-European > Classical Indo-European > Indo-Iranian > Indo-Aryan > Middle-Modern Indo-Aryan > Continental Indo-Aryan > Midlands Indo-Aryan > Bhil > Garasia Bhil > Adiwasi Garasia"
 translations:
+  - translation_iso: deu
+    name: Adiwasi Garasia
+    auto: true
   - translation_iso: fra
     name: Garasia adiwasi
     auto: true

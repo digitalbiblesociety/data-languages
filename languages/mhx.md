@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارو
     auto: true
+  - translation_iso: deu
+    name: Maru
+    auto: true
   - translation_iso: fra
     name: Maru
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايكي
     auto: true
+  - translation_iso: deu
+    name: Kaike
+    auto: true
   - translation_iso: fra
     name: kaike
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سان فيليبي
     auto: true
+  - translation_iso: deu
+    name: San Felipe Otlaltepec-Popoloca
+    auto: true
   - translation_iso: fra
     name: popoloca otlaltepèque de San Felipe
   - translation_iso: hin

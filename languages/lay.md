@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لاما باي
     auto: true
+  - translation_iso: deu
+    name: Lama-Bai
+    auto: true
   - translation_iso: fra
     name: lama
   - translation_iso: hin

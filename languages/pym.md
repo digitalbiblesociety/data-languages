@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فيام
     auto: true
+  - translation_iso: deu
+    name: Fyam
+    auto: true
   - translation_iso: fra
     name: fyam
   - translation_iso: hin

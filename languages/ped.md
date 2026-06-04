@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مالا
     auto: true
+  - translation_iso: deu
+    name: Mala (Papua-Neuguinea)
+    auto: true
   - translation_iso: fra
     name: mala
   - translation_iso: hin

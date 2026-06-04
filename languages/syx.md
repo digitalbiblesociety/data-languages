@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سامي
     auto: true
+  - translation_iso: deu
+    name: Samay
+    auto: true
   - translation_iso: fra
     name: samayé
   - translation_iso: hin

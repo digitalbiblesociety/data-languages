@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كامولا
     auto: true
+  - translation_iso: deu
+    name: Kamula
+    auto: true
   - translation_iso: fra
     name: kamula
   - translation_iso: hin

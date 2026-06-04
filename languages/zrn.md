@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زيرينكل
     auto: true
+  - translation_iso: deu
+    name: Zerenkel
+    auto: true
   - translation_iso: fra
     name: zirenkel
   - translation_iso: hin

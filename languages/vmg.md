@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لونجالونجا
     auto: true
+  - translation_iso: deu
+    name: Lungalunga
+    auto: true
   - translation_iso: fra
     name: minigir
   - translation_iso: hin

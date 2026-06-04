@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: السيليزية السفلى
     auto: true
+  - translation_iso: deu
+    name: Schlesisch
   - translation_iso: fra
     name: silésien
   - translation_iso: hin

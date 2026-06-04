@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جانغشونغ
     auto: true
+  - translation_iso: deu
+    name: Jangshung
+    auto: true
   - translation_iso: fra
     name: jangshung
   - translation_iso: hin

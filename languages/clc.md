@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tsilhqot%CA%BCin_language"
 translations:
   - translation_iso: ara
     name: تسيلكوتين
+  - translation_iso: deu
+    name: Tschilcotin
   - translation_iso: fra
     name: chilcotin
   - translation_iso: hin

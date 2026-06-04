@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماكيان ناجا
     auto: true
+  - translation_iso: deu
+    name: Makyan Naga
+    auto: true
   - translation_iso: fra
     name: Naga Makyan
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألانغان
     auto: true
+  - translation_iso: deu
+    name: Alangan
+    auto: true
   - translation_iso: fra
     name: alangan
   - translation_iso: hin

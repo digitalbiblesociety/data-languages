@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيمجو-مابس
     auto: true
+  - translation_iso: deu
+    name: Vemgo-Mabas
+    auto: true
   - translation_iso: fra
     name: vemgo-mabas
   - translation_iso: hin

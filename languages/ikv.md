@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكو-غورا-أنكوا
     auto: true
+  - translation_iso: deu
+    name: Iku-Gora-Ankwa
+    auto: true
   - translation_iso: fra
     name: Iku-Gora-Ankwa
     auto: true

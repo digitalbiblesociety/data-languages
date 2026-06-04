@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داور
     auto: true
+  - translation_iso: deu
+    name: Dagurisch
   - translation_iso: fra
     name: daur
   - translation_iso: hin

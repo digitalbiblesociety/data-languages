@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا خاوخا وانكا
     auto: true
+  - translation_iso: deu
+    name: Shawsha Wanka
   - translation_iso: fra
     name: quechua jauja wanca
   - translation_iso: hin

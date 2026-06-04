@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ngiemboon_language"
 translations:
   - translation_iso: ara
     name: لغة النجيمبون
+  - translation_iso: deu
+    name: Ngiemboon
   - translation_iso: fra
     name: ngiemboon
   - translation_iso: hin

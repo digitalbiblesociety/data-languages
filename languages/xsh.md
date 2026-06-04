@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شامانج
     auto: true
+  - translation_iso: deu
+    name: Shamang
+    auto: true
   - translation_iso: fra
     name: Shamang
     auto: true

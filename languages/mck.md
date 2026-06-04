@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوندا
     auto: true
+  - translation_iso: deu
+    name: Mbunda
+    auto: true
   - translation_iso: fra
     name: mbunda
   - translation_iso: hin

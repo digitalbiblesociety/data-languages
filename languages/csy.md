@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيين تشين
     auto: true
+  - translation_iso: deu
+    name: Siyin-Chin
+    auto: true
   - translation_iso: fra
     name: Chin Siyin
     auto: true

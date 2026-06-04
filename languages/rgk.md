@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رانجكاس
     auto: true
+  - translation_iso: deu
+    name: Rangkas
+    auto: true
   - translation_iso: fra
     name: rangkas
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيانيكا
     auto: true
+  - translation_iso: deu
+    name: Nyaneka
+    auto: true
   - translation_iso: fra
     name: Nyaneka
   - translation_iso: hin

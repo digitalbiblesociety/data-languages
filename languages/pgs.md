@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانغسينغ
     auto: true
+  - translation_iso: deu
+    name: Pangseng
+    auto: true
   - translation_iso: fra
     name: Pangseng
     auto: true

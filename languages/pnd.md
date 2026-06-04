@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مبيندا
     auto: true
+  - translation_iso: deu
+    name: Mpinda
+    auto: true
   - translation_iso: fra
     name: mpinda
   - translation_iso: hin

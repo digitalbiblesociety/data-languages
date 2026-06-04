@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويربا مامبيرامو
     auto: true
+  - translation_iso: deu
+    name: Kwerba Mamberamo
+    auto: true
   - translation_iso: fra
     name: kwerba du Mamberamo
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كورانا
     auto: true
+  - translation_iso: deu
+    name: Korana
   - translation_iso: fra
     name: korana
   - translation_iso: hin

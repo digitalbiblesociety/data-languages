@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واراي اوستراليا
     auto: true
+  - translation_iso: deu
+    name: Waray (Australien)
+    auto: true
   - translation_iso: fra
     name: warray
   - translation_iso: hin

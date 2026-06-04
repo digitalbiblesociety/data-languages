@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Median_language"
 translations:
   - translation_iso: ara
     name: لغة ميدية
+  - translation_iso: deu
+    name: Medisch
   - translation_iso: fra
     name: mède
   - translation_iso: hin

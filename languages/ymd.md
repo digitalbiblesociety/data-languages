@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مودا
     auto: true
+  - translation_iso: deu
+    name: Muda
+    auto: true
   - translation_iso: fra
     name: muda
   - translation_iso: hin

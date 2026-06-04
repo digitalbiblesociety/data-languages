@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كرومن بلابو
     auto: true
+  - translation_iso: deu
+    name: Plapo-Krumen
+    auto: true
   - translation_iso: fra
     name: kroumen plapo
   - translation_iso: hin

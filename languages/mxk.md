@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مونومبو
     auto: true
+  - translation_iso: deu
+    name: Monumbo
+    auto: true
   - translation_iso: fra
     name: monumbo
   - translation_iso: hin

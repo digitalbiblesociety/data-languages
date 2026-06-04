@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كوميكرودو
     auto: true
+  - translation_iso: deu
+    name: Comecrudo
+    auto: true
   - translation_iso: fra
     name: comecrudo
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة منجبوتو
     auto: true
+  - translation_iso: deu
+    name: Mangbutu
+    auto: true
   - translation_iso: fra
     name: mangbutu
   - translation_iso: hin

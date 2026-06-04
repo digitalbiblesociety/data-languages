@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورثرن أواكاكا ناهواتل
     auto: true
+  - translation_iso: deu
+    name: Nördliches Oaxaca-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl de l’Oaxaca du Nord
   - translation_iso: hin

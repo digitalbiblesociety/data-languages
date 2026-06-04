@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوتونج
     auto: true
+  - translation_iso: deu
+    name: Kutong
+    auto: true
   - translation_iso: fra
     name: Kutong
     auto: true

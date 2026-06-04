@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أورلامس
     auto: true
+  - translation_iso: deu
+    name: Oorlams
   - translation_iso: fra
     name: Oorlams
     auto: true

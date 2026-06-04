@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويستيرن مينياغ
     auto: true
+  - translation_iso: deu
+    name: West-Minyag
+    auto: true
   - translation_iso: fra
     name: Minyag occidental
     auto: true

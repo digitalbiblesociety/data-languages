@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة شوي بالاونج
     auto: true
+  - translation_iso: deu
+    name: Shwe-Palaung
+    auto: true
   - translation_iso: fra
     name: palaung shwe
   - translation_iso: hin

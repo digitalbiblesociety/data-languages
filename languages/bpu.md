@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بونجو
     auto: true
+  - translation_iso: deu
+    name: Bongu
+    auto: true
   - translation_iso: fra
     name: Bongu
     auto: true

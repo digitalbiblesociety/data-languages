@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفالا
     auto: true
+  - translation_iso: deu
+    name: Fala
   - translation_iso: fra
     name: fala
   - translation_iso: hin

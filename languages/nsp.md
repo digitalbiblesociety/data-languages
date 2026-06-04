@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة النيبالية
     auto: true
+  - translation_iso: deu
+    name: Nepali-Gebärdensprache
   - translation_iso: fra
     name: langue des signes népalaise
   - translation_iso: hin

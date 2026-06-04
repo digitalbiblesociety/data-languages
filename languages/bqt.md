@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بامُكومْبيت
     auto: true
+  - translation_iso: deu
+    name: Bamukumbit
   - translation_iso: fra
     name: bamunkumbit
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوسيلا تشينانتك
     auto: true
+  - translation_iso: deu
+    name: Usila-Chinantekisch
+    auto: true
   - translation_iso: fra
     name: chinantèque d’Usila
   - translation_iso: hin

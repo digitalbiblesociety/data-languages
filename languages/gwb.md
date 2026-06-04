@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: غوآ
     auto: true
+  - translation_iso: deu
+    name: Gwa
+    auto: true
   - translation_iso: fra
     name: gwa
   - translation_iso: hin

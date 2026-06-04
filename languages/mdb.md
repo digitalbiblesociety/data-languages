@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موريجي
     auto: true
+  - translation_iso: deu
+    name: Morigi
+    auto: true
   - translation_iso: fra
     name: morigi
   - translation_iso: hin

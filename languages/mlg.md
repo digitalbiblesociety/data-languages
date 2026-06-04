@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Malagasy_language"
 translations:
   - translation_iso: ara
     name: الملغاشية
+  - translation_iso: deu
+    name: Malagasy
   - translation_iso: fra
     name: malgache
   - translation_iso: hin

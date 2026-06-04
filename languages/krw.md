@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كرين الغربية
     auto: true
+  - translation_iso: deu
+    name: West-Krahn
+    auto: true
   - translation_iso: fra
     name: "krahn de l'Ouest"
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دايي
     auto: true
+  - translation_iso: deu
+    name: Dayi
+    auto: true
   - translation_iso: fra
     name: dayi
   - translation_iso: hin

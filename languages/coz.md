@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشوتشوتك
     auto: true
+  - translation_iso: deu
+    name: Chochotekisch
+    auto: true
   - translation_iso: fra
     name: chocho
   - translation_iso: hin

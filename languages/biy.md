@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيرهور
     auto: true
+  - translation_iso: deu
+    name: Birhor
+    auto: true
   - translation_iso: fra
     name: birhor
   - translation_iso: hin

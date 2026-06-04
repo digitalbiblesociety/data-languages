@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كايان
     auto: true
+  - translation_iso: deu
+    name: Kaian
+    auto: true
   - translation_iso: fra
     name: kaian
   - translation_iso: hin

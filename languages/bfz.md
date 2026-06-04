@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماهاسو باهاري
     auto: true
+  - translation_iso: deu
+    name: Mahasu-Pahari
   - translation_iso: fra
     name: pahari mahasu
   - translation_iso: hin

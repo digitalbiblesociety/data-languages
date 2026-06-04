@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة غولا
     auto: true
+  - translation_iso: deu
+    name: Gula (Zentralafrikanische Republik)
+    auto: true
   - translation_iso: fra
     name: gula
   - translation_iso: hin

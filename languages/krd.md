@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كايروي-ميديكي
     auto: true
+  - translation_iso: deu
+    name: Kairui-Midiki
   - translation_iso: fra
     name: kairui-midiki
   - translation_iso: hin

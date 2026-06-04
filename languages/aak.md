@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأنكافي
     auto: true
+  - translation_iso: deu
+    name: Ankave
+    auto: true
   - translation_iso: fra
     name: ankave
   - translation_iso: hin

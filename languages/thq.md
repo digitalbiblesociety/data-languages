@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تشوتشيلا ثارو
     auto: true
+  - translation_iso: deu
+    name: Kochila Tharu
+    auto: true
   - translation_iso: fra
     name: kochila
   - translation_iso: hin

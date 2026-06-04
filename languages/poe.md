@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سان خوان
     auto: true
+  - translation_iso: deu
+    name: San Juan Atzingo-Popoloca
+    auto: true
   - translation_iso: fra
     name: popoloca de San Juan Atzingo
   - translation_iso: hin

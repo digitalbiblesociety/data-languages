@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shina_language"
 translations:
   - translation_iso: ara
     name: شينا
+  - translation_iso: deu
+    name: Shina
   - translation_iso: fra
     name: shina
   - translation_iso: hin

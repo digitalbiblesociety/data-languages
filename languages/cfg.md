@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كومو كاريم
     auto: true
+  - translation_iso: deu
+    name: Como Karim
   - translation_iso: fra
     name: Como Karim
     auto: true

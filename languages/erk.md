@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإفاتي الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Süd-Efate
+    auto: true
   - translation_iso: fra
     name: éfaté du Sud
   - translation_iso: hin

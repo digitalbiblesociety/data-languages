@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سري لانكا كريول ملاي
     auto: true
+  - translation_iso: deu
+    name: Sri-Lanka-Kreolmalaiisch
+    auto: true
   - translation_iso: fra
     name: Malais créole du Sri Lanka
     auto: true

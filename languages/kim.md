@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tofa_language"
 translations:
   - translation_iso: ara
     name: لغة التوفا
+  - translation_iso: deu
+    name: Tofalarisch
   - translation_iso: fra
     name: tofalar
   - translation_iso: hin

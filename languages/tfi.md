@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توفين غبي
     auto: true
+  - translation_iso: deu
+    name: Tofin Gbe
+    auto: true
   - translation_iso: fra
     name: tofin-gbe
   - translation_iso: hin

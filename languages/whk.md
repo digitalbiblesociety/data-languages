@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واهاو كينياه
     auto: true
+  - translation_iso: deu
+    name: Wahau Kenyah
+    auto: true
   - translation_iso: fra
     name: kenyah wahau
   - translation_iso: hin

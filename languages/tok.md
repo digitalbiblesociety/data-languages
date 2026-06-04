@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Toki_Pona"
 translations:
   - translation_iso: ara
     name: توكي بونا
+  - translation_iso: deu
+    name: Toki Pona
   - translation_iso: fra
     name: toki pona
   - translation_iso: hin

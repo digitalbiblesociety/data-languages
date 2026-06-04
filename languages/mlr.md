@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة فامي
     auto: true
+  - translation_iso: deu
+    name: Vame
+    auto: true
   - translation_iso: fra
     name: vame
   - translation_iso: hin

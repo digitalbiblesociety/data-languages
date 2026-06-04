@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مولام
     auto: true
+  - translation_iso: deu
+    name: Mulam
+    auto: true
   - translation_iso: fra
     name: mulam
   - translation_iso: hin

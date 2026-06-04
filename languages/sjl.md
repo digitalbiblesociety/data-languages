@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساجالونج
     auto: true
+  - translation_iso: deu
+    name: Sajalong
+    auto: true
   - translation_iso: fra
     name: miji
   - translation_iso: hin

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: الفوم
     auto: true
+  - translation_iso: deu
+    name: Fum
+    auto: true
   - translation_iso: fra
     name: fum
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارا تشين
     auto: true
+  - translation_iso: deu
+    name: Mara-Chin
+    auto: true
   - translation_iso: fra
     name: mara
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوتآ مآرودو تآلآنتآنج
     auto: true
+  - translation_iso: deu
+    name: Kota Marudu Talantang
+    auto: true
   - translation_iso: fra
     name: Talantang de Kota Marudu
     auto: true

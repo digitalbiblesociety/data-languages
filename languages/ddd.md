@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دونجوتونو
     auto: true
+  - translation_iso: deu
+    name: Dongotono
+    auto: true
   - translation_iso: fra
     name: dongotono
   - translation_iso: hin

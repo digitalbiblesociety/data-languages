@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dinka_language"
 translations:
   - translation_iso: ara
     name: لغة دينكاوية
+  - translation_iso: deu
+    name: Dinka
   - translation_iso: fra
     name: dinka
   - translation_iso: hin

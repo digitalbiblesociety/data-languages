@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوايلا وانكا
     auto: true
+  - translation_iso: deu
+    name: Waylla Wanka
   - translation_iso: fra
     name: Quechua huaylla wanca
     auto: true

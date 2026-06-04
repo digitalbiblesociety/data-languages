@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني برواني آيلاند
     auto: true
+  - translation_iso: deu
+    name: Bruny Island Tasmanian
+    auto: true
   - translation_iso: fra
     name: "Tasmanien de l'île Bruny"
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: آونجثيم
     auto: true
+  - translation_iso: deu
+    name: Awngthim
+    auto: true
   - translation_iso: fra
     name: awngthim
   - translation_iso: hin

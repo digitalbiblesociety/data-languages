@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة كوستاريكية
     auto: true
+  - translation_iso: deu
+    name: Costa-ricanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes costaricienne
   - translation_iso: hin

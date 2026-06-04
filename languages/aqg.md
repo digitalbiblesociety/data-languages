@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أريجيدي
     auto: true
+  - translation_iso: deu
+    name: Akoko
   - translation_iso: fra
     name: Arigidi
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوساريك يال
     auto: true
+  - translation_iso: deu
+    name: Kosarek Yale
+    auto: true
   - translation_iso: fra
     name: kosarek yale
   - translation_iso: hin

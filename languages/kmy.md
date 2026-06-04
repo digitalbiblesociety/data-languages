@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كوما
     auto: true
+  - translation_iso: deu
+    name: Koma
   - translation_iso: fra
     name: koma
   - translation_iso: hin

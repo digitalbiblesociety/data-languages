@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جالورسي سردينية
     auto: true
+  - translation_iso: deu
+    name: Galluresisch
   - translation_iso: fra
     name: gallurais
   - translation_iso: hin

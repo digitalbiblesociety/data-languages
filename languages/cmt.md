@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكامثو
     auto: true
+  - translation_iso: deu
+    name: Camtho
+    auto: true
   - translation_iso: fra
     name: camtho
   - translation_iso: hin

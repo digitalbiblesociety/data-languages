@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيغا
     auto: true
+  - translation_iso: deu
+    name: Keiga
+    auto: true
   - translation_iso: fra
     name: keiga
   - translation_iso: hin

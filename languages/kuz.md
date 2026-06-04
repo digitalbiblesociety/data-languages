@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: كونزا
     auto: true
+  - translation_iso: deu
+    name: Kunza
   - translation_iso: fra
     name: kunza
   - translation_iso: hin

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوزا
     auto: true
+  - translation_iso: deu
+    name: Phuza
+    auto: true
   - translation_iso: fra
     name: phuza
   - translation_iso: hin

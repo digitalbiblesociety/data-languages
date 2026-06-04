@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ديما
     auto: true
+  - translation_iso: deu
+    name: Dima
+    auto: true
   - translation_iso: fra
     name: dima
   - translation_iso: hin

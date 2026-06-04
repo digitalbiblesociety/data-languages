@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باراس
     auto: true
+  - translation_iso: deu
+    name: Baras
+    auto: true
   - translation_iso: fra
     name: baras
   - translation_iso: hin

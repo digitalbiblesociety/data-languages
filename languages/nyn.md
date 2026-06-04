@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nkore_language"
 translations:
   - translation_iso: ara
     name: رونيانكولية
+  - translation_iso: deu
+    name: Runyankole
   - translation_iso: fra
     name: nkore
   - translation_iso: hin

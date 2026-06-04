@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بايالي
     auto: true
+  - translation_iso: deu
+    name: Bayali
+    auto: true
   - translation_iso: fra
     name: bayali
   - translation_iso: hin

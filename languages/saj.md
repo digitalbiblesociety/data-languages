@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ساهو
     auto: true
+  - translation_iso: deu
+    name: Sahu
   - translation_iso: fra
     name: sahu
   - translation_iso: hin

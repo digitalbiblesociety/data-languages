@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كاناوجي
     auto: true
+  - translation_iso: deu
+    name: Kanauji
+    auto: true
   - translation_iso: fra
     name: kanauji
   - translation_iso: hin

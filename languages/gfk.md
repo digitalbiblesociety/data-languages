@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بآتبآتآر
     auto: true
+  - translation_iso: deu
+    name: Patpatar
+    auto: true
   - translation_iso: fra
     name: patpatar
   - translation_iso: hin

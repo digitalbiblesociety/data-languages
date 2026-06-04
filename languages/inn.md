@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسيناي
     auto: true
+  - translation_iso: deu
+    name: Isinai
+    auto: true
   - translation_iso: fra
     name: isinai
   - translation_iso: hin

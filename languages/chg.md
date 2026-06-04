@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chagatai_language"
 translations:
   - translation_iso: ara
     name: الجغتائية
+  - translation_iso: deu
+    name: Tschagataisch
   - translation_iso: fra
     name: tchaghataï
   - translation_iso: hin

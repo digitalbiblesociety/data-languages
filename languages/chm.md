@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mari_language"
 translations:
   - translation_iso: ara
     name: لغة مارية
+  - translation_iso: deu
+    name: Mari
   - translation_iso: fra
     name: mari
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوفي
     auto: true
+  - translation_iso: deu
+    name: Kofei
+    auto: true
   - translation_iso: fra
     name: kofei
   - translation_iso: hin

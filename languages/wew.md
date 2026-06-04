@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويجيوا
     auto: true
+  - translation_iso: deu
+    name: Wejewa
+    auto: true
   - translation_iso: fra
     name: wejewa
   - translation_iso: hin

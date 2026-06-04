@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ينكاو
     auto: true
+  - translation_iso: deu
+    name: Lenkau
+    auto: true
   - translation_iso: fra
     name: lenkau
   - translation_iso: hin

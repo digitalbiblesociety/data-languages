@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشيا-شيا
     auto: true
+  - translation_iso: deu
+    name: Cia-Cia
   - translation_iso: fra
     name: cia-cia
   - translation_iso: hin

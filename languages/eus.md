@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Basque_language"
 translations:
   - translation_iso: ara
     name: البشكنشية
+  - translation_iso: deu
+    name: Baskisch
   - translation_iso: fra
     name: basque
   - translation_iso: hin

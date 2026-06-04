@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة مسكاليرو-تشيريكاهوا أباتشي
     auto: true
+  - translation_iso: deu
+    name: Chiricahua
   - translation_iso: fra
     name: chiricahua
   - translation_iso: hin

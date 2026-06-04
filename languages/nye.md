@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نييينغو
     auto: true
+  - translation_iso: deu
+    name: Nyengo
+    auto: true
   - translation_iso: fra
     name: Nyengo
     auto: true

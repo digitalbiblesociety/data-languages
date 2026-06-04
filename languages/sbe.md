@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سالبا
     auto: true
+  - translation_iso: deu
+    name: Saliba
+    auto: true
   - translation_iso: fra
     name: saliba
   - translation_iso: hin

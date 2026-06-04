@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة منجول
     auto: true
+  - translation_iso: deu
+    name: Mongol
+    auto: true
   - translation_iso: fra
     name: mongol
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بوسام
     auto: true
+  - translation_iso: deu
+    name: Busam
   - translation_iso: fra
     name: busam
   - translation_iso: hin

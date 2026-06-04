@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيبا
     auto: true
+  - translation_iso: deu
+    name: Beba
   - translation_iso: fra
     name: beba
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كومان (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: deu
+    name: Kuman (Papua-Neuguinea)
+    auto: true
   - translation_iso: fra
     name: kuman
   - translation_iso: hin

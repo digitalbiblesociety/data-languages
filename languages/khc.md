@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة توكانج بيسي الشمالية
     auto: true
+  - translation_iso: deu
+    name: Tukang Besi Nord
+    auto: true
   - translation_iso: fra
     name: tukang besi du Nord
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ديفاكا
     auto: true
+  - translation_iso: deu
+    name: Defaka
   - translation_iso: fra
     name: defaka
   - translation_iso: hin

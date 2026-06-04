@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانكاراري
     auto: true
+  - translation_iso: deu
+    name: Pankararú
+    auto: true
   - translation_iso: fra
     name: pankararu
   - translation_iso: hin

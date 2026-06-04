@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبييمو
     auto: true
+  - translation_iso: deu
+    name: Mpiemo
   - translation_iso: fra
     name: mpiemo
   - translation_iso: hin

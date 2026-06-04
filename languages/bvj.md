@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باان
     auto: true
+  - translation_iso: deu
+    name: Baan
+    auto: true
   - translation_iso: fra
     name: baan
   - translation_iso: hin

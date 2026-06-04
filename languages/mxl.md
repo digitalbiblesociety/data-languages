@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ماكسي جبي
     auto: true
+  - translation_iso: deu
+    name: Mahi
   - translation_iso: fra
     name: maxi-gbe
   - translation_iso: hin

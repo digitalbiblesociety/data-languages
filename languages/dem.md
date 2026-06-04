@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ديم
     auto: true
+  - translation_iso: deu
+    name: Dem
+    auto: true
   - translation_iso: fra
     name: dem
   - translation_iso: hin

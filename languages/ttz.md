@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوم
     auto: true
+  - translation_iso: deu
+    name: Tsum
+    auto: true
   - translation_iso: fra
     name: tsum
   - translation_iso: hin

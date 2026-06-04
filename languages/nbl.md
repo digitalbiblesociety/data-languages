@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Ndebele_language"
 translations:
   - translation_iso: ara
     name: لغة نديبلي جنوبية
+  - translation_iso: deu
+    name: Süd-Ndebele
   - translation_iso: fra
     name: nrebele
   - translation_iso: hin

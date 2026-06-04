@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موروبالاما
     auto: true
+  - translation_iso: deu
+    name: Morrobalama
+    auto: true
   - translation_iso: fra
     name: morrobalama
   - translation_iso: hin

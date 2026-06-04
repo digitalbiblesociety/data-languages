@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوكانا
     auto: true
+  - translation_iso: deu
+    name: Gokana
+    auto: true
   - translation_iso: fra
     name: gokana
   - translation_iso: hin

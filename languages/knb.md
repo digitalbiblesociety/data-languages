@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة لوبوآغان كالينجا
     auto: true
+  - translation_iso: deu
+    name: Lubuagan Kalinga
+    auto: true
   - translation_iso: fra
     name: lilubuagen
   - translation_iso: hin

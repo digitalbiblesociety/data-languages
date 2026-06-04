@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكورب
     auto: true
+  - translation_iso: deu
+    name: Makuráp
+    auto: true
   - translation_iso: fra
     name: makuráp
   - translation_iso: hin

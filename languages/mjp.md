@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالابندارام
     auto: true
+  - translation_iso: deu
+    name: Malapandaram
+    auto: true
   - translation_iso: fra
     name: malapandaram
   - translation_iso: hin

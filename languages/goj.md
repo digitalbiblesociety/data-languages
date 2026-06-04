@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: غوولآن
     auto: true
+  - translation_iso: deu
+    name: Gowlan
+    auto: true
   - translation_iso: fra
     name: gowlan
   - translation_iso: hin

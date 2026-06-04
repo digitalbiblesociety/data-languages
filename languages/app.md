@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبما
     auto: true
+  - translation_iso: deu
+    name: Apma
+    auto: true
   - translation_iso: fra
     name: apma
   - translation_iso: hin

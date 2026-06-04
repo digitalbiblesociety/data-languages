@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بشتو الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentralpaschtu
+    auto: true
   - translation_iso: fra
     name: Pachto central
     auto: true

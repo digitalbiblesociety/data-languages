@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوروما أتابادي
     auto: true
+  - translation_iso: deu
+    name: Attapady-Kurumba
+    auto: true
   - translation_iso: fra
     name: attapardy kurumba
   - translation_iso: hin

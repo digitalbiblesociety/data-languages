@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yemba_language"
 translations:
   - translation_iso: ara
     name: يمبا
+  - translation_iso: deu
+    name: Yemba
   - translation_iso: fra
     name: yemba
   - translation_iso: hin

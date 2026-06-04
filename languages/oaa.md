@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوروك
     auto: true
+  - translation_iso: deu
+    name: Orok-Sprache
   - translation_iso: fra
     name: orok
   - translation_iso: hin

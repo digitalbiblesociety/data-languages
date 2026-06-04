@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Qashqai_language"
 translations:
   - translation_iso: ara
     name: القشقائية
+  - translation_iso: deu
+    name: Kaschgaisch
   - translation_iso: fra
     name: kachkaï
   - translation_iso: hin

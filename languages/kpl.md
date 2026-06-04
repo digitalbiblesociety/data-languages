@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كبالا
     auto: true
+  - translation_iso: deu
+    name: Kpala
+    auto: true
   - translation_iso: fra
     name: kpala
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يامبيتا
     auto: true
+  - translation_iso: deu
+    name: Yambeta
+    auto: true
   - translation_iso: fra
     name: yambetta
   - translation_iso: hin

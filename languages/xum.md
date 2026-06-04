@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Umbrian_language"
 translations:
   - translation_iso: ara
     name: لغة أمبرية
+  - translation_iso: deu
+    name: Umbrisch
   - translation_iso: fra
     name: ombrien
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساروجا
     auto: true
+  - translation_iso: deu
+    name: Saruga
+    auto: true
   - translation_iso: fra
     name: saruga
   - translation_iso: hin

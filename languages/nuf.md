@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوسو
     auto: true
+  - translation_iso: deu
+    name: Nusu
+    auto: true
   - translation_iso: fra
     name: nusu
   - translation_iso: hin

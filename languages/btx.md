@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Batak_Karo_language"
 translations:
   - translation_iso: ara
     name: كارو باتاك
+  - translation_iso: deu
+    name: Karo
   - translation_iso: fra
     name: batak karo
   - translation_iso: hin

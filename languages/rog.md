@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورذرن روجلاي
     auto: true
+  - translation_iso: deu
+    name: Nord-Roglai
+    auto: true
   - translation_iso: fra
     name: roglai du Nord
   - translation_iso: hin

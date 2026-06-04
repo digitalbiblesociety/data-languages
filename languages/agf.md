@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أرغوني
     auto: true
+  - translation_iso: deu
+    name: Arguni
   - translation_iso: fra
     name: arguni
   - translation_iso: hin

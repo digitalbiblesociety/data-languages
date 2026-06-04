@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكوري
     auto: true
+  - translation_iso: deu
+    name: Chori
   - translation_iso: fra
     name: Cori
     auto: true

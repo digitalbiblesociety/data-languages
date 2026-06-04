@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غورمآنآ
     auto: true
+  - translation_iso: deu
+    name: Gurmana
+    auto: true
   - translation_iso: fra
     name: gurmana
   - translation_iso: hin

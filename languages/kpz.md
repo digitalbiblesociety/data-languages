@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبسابيني
     auto: true
+  - translation_iso: deu
+    name: Kupsabiny
+    auto: true
   - translation_iso: fra
     name: sapiny
   - translation_iso: hin

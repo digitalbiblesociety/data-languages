@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناوري
     auto: true
+  - translation_iso: deu
+    name: Nawuri
   - translation_iso: fra
     name: nawuri
   - translation_iso: hin

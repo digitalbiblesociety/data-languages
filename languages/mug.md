@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موسجو
     auto: true
+  - translation_iso: deu
+    name: Musgu
+    auto: true
   - translation_iso: fra
     name: mousgoum
   - translation_iso: hin

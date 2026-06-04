@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوآريآ
     auto: true
+  - translation_iso: deu
+    name: Goaria
   - translation_iso: fra
     name: Goaria
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديوكسي-تيلانتونجو ميكستيك
     auto: true
+  - translation_iso: deu
+    name: Diuxi-Tilantongo-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: Mixtèque de Diuxi-Tilantongo
     auto: true

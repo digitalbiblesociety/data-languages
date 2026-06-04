@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مونا
     auto: true
+  - translation_iso: deu
+    name: Muna
   - translation_iso: fra
     name: muna
   - translation_iso: hin

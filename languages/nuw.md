@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغولووان
     auto: true
+  - translation_iso: deu
+    name: Nguluwan
+    auto: true
   - translation_iso: fra
     name: nguluwan
   - translation_iso: hin

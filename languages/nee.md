@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيليمواا نيكسومواك
     auto: true
+  - translation_iso: deu
+    name: Kumak
   - translation_iso: fra
     name: nêlêmwa-nixumwak
   - translation_iso: hin

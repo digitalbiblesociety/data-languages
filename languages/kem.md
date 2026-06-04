@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيماك
     auto: true
+  - translation_iso: deu
+    name: Kemak
   - translation_iso: fra
     name: kemak
   - translation_iso: hin

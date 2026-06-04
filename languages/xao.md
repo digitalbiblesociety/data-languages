@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كهاو
     auto: true
+  - translation_iso: deu
+    name: Khao
+    auto: true
   - translation_iso: fra
     name: khao
   - translation_iso: hin

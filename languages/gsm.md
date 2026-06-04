@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الغواتيمالية
     auto: true
+  - translation_iso: deu
+    name: Guatemalanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes guatémaltèque
   - translation_iso: hin

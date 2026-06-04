@@ -15,6 +15,9 @@ glottolog_family_name: Austronesian
 glottolog_classification: "Austronesian > Malayo-Polynesian > Eastern Malayo-Polynesian > Oceanic > Southern Melanesian > New Caledonian > Mainland New Caledonian > Northern New Caledonian > Mid-Northern New Caledonian > Nmi-Pij-Fwa-Pam-Pap > Nmi-Fij-Fwa > Hyenghene > Fwâi"
 wikipedia_url: "https://en.wikipedia.org/wiki/Fw%C3%A2i_language"
 translations:
+  - translation_iso: deu
+    name: Fwâi
+    auto: true
   - translation_iso: fra
     name: fwâi
   - translation_iso: hin

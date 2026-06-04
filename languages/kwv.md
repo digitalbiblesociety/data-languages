@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سارا كابا ناا
     auto: true
+  - translation_iso: deu
+    name: Sara Kaba Náà
+    auto: true
   - translation_iso: fra
     name: sara kaba náà
   - translation_iso: hin

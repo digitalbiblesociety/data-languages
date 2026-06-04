@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوكيت
     auto: true
+  - translation_iso: deu
+    name: Ukit
+    auto: true
   - translation_iso: fra
     name: ukit
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ليموس كالينجا
     auto: true
+  - translation_iso: deu
+    name: Limos Kalinga
+    auto: true
   - translation_iso: fra
     name: kalinga limos
   - translation_iso: hin

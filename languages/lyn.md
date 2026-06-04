@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ويانا
     auto: true
+  - translation_iso: deu
+    name: Luyana
+    auto: true
   - translation_iso: fra
     name: luyana
   - translation_iso: hin

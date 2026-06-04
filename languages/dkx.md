@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مازاجواي
     auto: true
+  - translation_iso: deu
+    name: Mazagway
+    auto: true
   - translation_iso: fra
     name: mazagway
   - translation_iso: hin

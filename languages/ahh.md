@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أغو
     auto: true
+  - translation_iso: deu
+    name: Aghu
   - translation_iso: fra
     name: aghu
   - translation_iso: hin

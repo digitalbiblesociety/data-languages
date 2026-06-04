@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ووته يمباتا
     auto: true
+  - translation_iso: deu
+    name: Süd-Lembata
+    auto: true
   - translation_iso: fra
     name: Lembata méridional
     auto: true

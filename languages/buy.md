@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوْلوم سو
     auto: true
+  - translation_iso: deu
+    name: Bullom So
   - translation_iso: fra
     name: bullom so
   - translation_iso: hin

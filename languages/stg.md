@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة تريينج
     auto: true
+  - translation_iso: deu
+    name: Trieng
+    auto: true
   - translation_iso: fra
     name: trieng
   - translation_iso: hin

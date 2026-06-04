@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توجون
     auto: true
+  - translation_iso: deu
+    name: Tugun
+    auto: true
   - translation_iso: fra
     name: tugun
   - translation_iso: hin

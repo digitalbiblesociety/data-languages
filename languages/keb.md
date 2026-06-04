@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيلي
     auto: true
+  - translation_iso: deu
+    name: Kélé
   - translation_iso: fra
     name: kele
   - translation_iso: hin

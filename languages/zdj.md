@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوموريان نغازيدجا
     auto: true
+  - translation_iso: deu
+    name: Ngazidja
   - translation_iso: fra
     name: grand comorien
   - translation_iso: hin

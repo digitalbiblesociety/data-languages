@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندينديول
     auto: true
+  - translation_iso: deu
+    name: Ndendeule
+    auto: true
   - translation_iso: fra
     name: Ndendeule
     auto: true

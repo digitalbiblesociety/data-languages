@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موجي الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Südliches Muji
+    auto: true
   - translation_iso: fra
     name: muji du Sud
   - translation_iso: hin

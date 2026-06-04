@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gusii_language"
 translations:
   - translation_iso: ara
     name: الغيزية
+  - translation_iso: deu
+    name: Gusii
   - translation_iso: fra
     name: gusii
   - translation_iso: hin

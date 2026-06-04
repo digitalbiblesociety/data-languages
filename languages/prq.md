@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أشينينكا بيريني
     auto: true
+  - translation_iso: deu
+    name: Ashéninka Perené
+    auto: true
   - translation_iso: fra
     name: Ashéninka du Perené
     auto: true

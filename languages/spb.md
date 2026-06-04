@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيبا (إندونيسيا)
     auto: true
+  - translation_iso: deu
+    name: Sepa (Indonesia)
+    auto: true
   - translation_iso: fra
     name: sepa
   - translation_iso: hin

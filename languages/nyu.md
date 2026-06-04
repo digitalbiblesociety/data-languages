@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيونغوي
     auto: true
+  - translation_iso: deu
+    name: Nyungwe
   - translation_iso: fra
     name: nyungwe
   - translation_iso: hin

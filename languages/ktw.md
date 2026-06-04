@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاتو
     auto: true
+  - translation_iso: deu
+    name: Kato
   - translation_iso: fra
     name: cahto
   - translation_iso: hin

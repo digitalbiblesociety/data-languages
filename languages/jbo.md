@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lojban"
 translations:
   - translation_iso: ara
     name: لجبن
+  - translation_iso: deu
+    name: Lojban
   - translation_iso: fra
     name: lojban
   - translation_iso: hin

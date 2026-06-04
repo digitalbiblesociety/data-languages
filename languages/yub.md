@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوغامبال
     auto: true
+  - translation_iso: deu
+    name: Yugambal
+    auto: true
   - translation_iso: fra
     name: yugambal
   - translation_iso: hin

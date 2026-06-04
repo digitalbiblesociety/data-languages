@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موك-أريا
     auto: true
+  - translation_iso: deu
+    name: Mouk-Aria
+    auto: true
   - translation_iso: fra
     name: mouk-aria
   - translation_iso: hin

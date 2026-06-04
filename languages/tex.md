@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تينيت
     auto: true
+  - translation_iso: deu
+    name: Tennet
+    auto: true
   - translation_iso: fra
     name: tennet
   - translation_iso: hin

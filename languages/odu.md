@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوديوال
     auto: true
+  - translation_iso: deu
+    name: Odual
+    auto: true
   - translation_iso: fra
     name: odual
   - translation_iso: hin

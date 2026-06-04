@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايناماار
     auto: true
+  - translation_iso: deu
+    name: Paynamar
+    auto: true
   - translation_iso: fra
     name: paynamar
   - translation_iso: hin

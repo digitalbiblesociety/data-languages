@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورو
     auto: true
+  - translation_iso: deu
+    name: Boro (Äthiopien)
+    auto: true
   - translation_iso: fra
     name: shinasha
   - translation_iso: hin

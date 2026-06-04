@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: باتجالا
     auto: true
+  - translation_iso: deu
+    name: Batjala
+    auto: true
   - translation_iso: fra
     name: batyala
   - translation_iso: hin

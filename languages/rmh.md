@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موركيم
     auto: true
+  - translation_iso: deu
+    name: Murkim
+    auto: true
   - translation_iso: fra
     name: murkim
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريريو
     auto: true
+  - translation_iso: deu
+    name: Ririo
+    auto: true
   - translation_iso: fra
     name: ririo
   - translation_iso: hin

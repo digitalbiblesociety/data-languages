@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي باو
     auto: true
+  - translation_iso: deu
+    name: Tai Pao
+    auto: true
   - translation_iso: fra
     name: tai pao
   - translation_iso: hin

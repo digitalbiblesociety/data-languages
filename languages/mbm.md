@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة أومبامبا
     auto: true
+  - translation_iso: deu
+    name: Ombamba
   - translation_iso: fra
     name: lembaama
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيكويري
     auto: true
+  - translation_iso: deu
+    name: Ikwere
   - translation_iso: fra
     name: ikwere
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تآزنآتيت
     auto: true
+  - translation_iso: deu
+    name: Taznatit
+    auto: true
   - translation_iso: fra
     name: Sud Oranais-Gourara
   - translation_iso: hin

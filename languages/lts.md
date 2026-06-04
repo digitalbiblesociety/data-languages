@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اكهوني
     auto: true
+  - translation_iso: deu
+    name: Tachoni
+    auto: true
   - translation_iso: fra
     name: tachoni
   - translation_iso: hin

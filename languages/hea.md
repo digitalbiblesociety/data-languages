@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورثإرن قيآندونج ميآو
     auto: true
+  - translation_iso: deu
+    name: Nördliches Qiandong-Miao
+    auto: true
   - translation_iso: fra
     name: hmu septentrional
   - translation_iso: hin

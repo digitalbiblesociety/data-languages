@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك أيوتلا
     auto: true
+  - translation_iso: deu
+    name: Ayutla Mixtec
+    auto: true
   - translation_iso: fra
     name: mixtèque d’Ayutla
   - translation_iso: hin

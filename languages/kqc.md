@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة دوروموو كوكي
     auto: true
+  - translation_iso: deu
+    name: Doromu-Koki
+    auto: true
   - translation_iso: fra
     name: doromu-koki
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كانتوسي
     auto: true
+  - translation_iso: deu
+    name: Kantosi
   - translation_iso: fra
     name: kantosi
   - translation_iso: hin

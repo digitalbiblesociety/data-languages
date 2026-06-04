@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بانتشبرغانيا
     auto: true
+  - translation_iso: deu
+    name: Panchpargania
+    auto: true
   - translation_iso: fra
     name: panchpargania
   - translation_iso: hin

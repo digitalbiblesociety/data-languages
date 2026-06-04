@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساويلا
     auto: true
+  - translation_iso: deu
+    name: Sawila
+    auto: true
   - translation_iso: fra
     name: sawila
   - translation_iso: hin

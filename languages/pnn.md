@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينّاي-هاجاهاي
     auto: true
+  - translation_iso: deu
+    name: Pinai-Hagahai
+    auto: true
   - translation_iso: fra
     name: pinai-hagahai
   - translation_iso: hin

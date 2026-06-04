@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوتولان سامبال
     auto: true
+  - translation_iso: deu
+    name: Botolan-Sambal
+    auto: true
   - translation_iso: fra
     name: Sambal de Botolan
     auto: true

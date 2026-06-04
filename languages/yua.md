@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yucatec_Maya_language"
 translations:
   - translation_iso: ara
     name: لغة المايا اليوكاتية
+  - translation_iso: deu
+    name: Mayathan
   - translation_iso: fra
     name: maya yucatèque
   - translation_iso: hin

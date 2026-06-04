@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: يانجيبارا
     auto: true
+  - translation_iso: deu
+    name: Yandjibara
+    auto: true
   - translation_iso: fra
     name: yandjibara
   - translation_iso: hin

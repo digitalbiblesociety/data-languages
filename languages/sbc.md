@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيلي
     auto: true
+  - translation_iso: deu
+    name: Kele (Papua-Neuguinea)
+    auto: true
   - translation_iso: fra
     name: kele
   - translation_iso: hin

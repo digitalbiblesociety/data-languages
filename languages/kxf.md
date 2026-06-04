@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كارين مانوماناو
     auto: true
+  - translation_iso: deu
+    name: Manumanaw-Karen
+    auto: true
   - translation_iso: fra
     name: manumanaw
   - translation_iso: hin

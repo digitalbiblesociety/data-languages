@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاولونج
     auto: true
+  - translation_iso: deu
+    name: Kaulong
+    auto: true
   - translation_iso: fra
     name: kaulong
   - translation_iso: hin

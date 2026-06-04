@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوبو
     auto: true
+  - translation_iso: deu
+    name: Dobu
+    auto: true
   - translation_iso: fra
     name: dobu
   - translation_iso: hin

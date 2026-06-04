@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوندي
     auto: true
+  - translation_iso: deu
+    name: Suundi
+    auto: true
   - translation_iso: fra
     name: sundi
   - translation_iso: hin

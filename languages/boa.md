@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورا
     auto: true
+  - translation_iso: deu
+    name: Bora
+    auto: true
   - translation_iso: fra
     name: bora
   - translation_iso: hin

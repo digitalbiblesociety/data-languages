@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيدوما
     auto: true
+  - translation_iso: deu
+    name: Idoma
   - translation_iso: fra
     name: idoma
   - translation_iso: hin

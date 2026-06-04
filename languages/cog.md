@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشونغ
     auto: true
+  - translation_iso: deu
+    name: Chong
+    auto: true
   - translation_iso: fra
     name: chong
   - translation_iso: hin

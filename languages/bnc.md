@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: بونتوك
     auto: true
+  - translation_iso: deu
+    name: Bontok
+    auto: true
   - translation_iso: fra
     name: bontok
   - translation_iso: hin

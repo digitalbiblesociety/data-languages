@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ندوي
     auto: true
+  - translation_iso: deu
+    name: Ndoe
   - translation_iso: fra
     name: Ndoe
     auto: true

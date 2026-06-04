@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: اللغة الكورية الوسيطة
     auto: true
+  - translation_iso: deu
+    name: Mittelkoreanisch
   - translation_iso: fra
     name: moyen coréen
   - translation_iso: hin

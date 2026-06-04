@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانوفي
     auto: true
+  - translation_iso: deu
+    name: Kanufi
+    auto: true
   - translation_iso: fra
     name: Kanufi
     auto: true

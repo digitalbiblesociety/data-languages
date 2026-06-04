@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: تاوشيرو
     auto: true
+  - translation_iso: deu
+    name: Taushiro
+    auto: true
   - translation_iso: fra
     name: taushiro
   - translation_iso: hin

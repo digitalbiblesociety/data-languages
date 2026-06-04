@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميتو
     auto: true
+  - translation_iso: deu
+    name: Mittu
+    auto: true
   - translation_iso: fra
     name: mittu
   - translation_iso: hin

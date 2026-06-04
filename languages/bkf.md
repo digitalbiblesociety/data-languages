@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيكي
     auto: true
+  - translation_iso: deu
+    name: Beeke
+    auto: true
   - translation_iso: fra
     name: beeke
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أباتاني
     auto: true
+  - translation_iso: deu
+    name: Apatani
   - translation_iso: fra
     name: apatani
   - translation_iso: hin

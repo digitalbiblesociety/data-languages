@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لامبادي
     auto: true
+  - translation_iso: deu
+    name: Lamani
   - translation_iso: fra
     name: banjari
   - translation_iso: hin

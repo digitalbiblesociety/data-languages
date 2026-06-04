@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جاندافرا
     auto: true
+  - translation_iso: deu
+    name: Jandavra
+    auto: true
   - translation_iso: fra
     name: Jandavra
     auto: true

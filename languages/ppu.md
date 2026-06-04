@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابورا
     auto: true
+  - translation_iso: deu
+    name: Papora
+    auto: true
   - translation_iso: fra
     name: papora
   - translation_iso: hin

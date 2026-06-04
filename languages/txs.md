@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تونسيا
     auto: true
+  - translation_iso: deu
+    name: Tonsea
   - translation_iso: fra
     name: tonsea
   - translation_iso: hin

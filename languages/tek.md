@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إبالي تيكي
     auto: true
+  - translation_iso: deu
+    name: Teke-Sprachen
   - translation_iso: fra
     name: téké-ibali
   - translation_iso: hin

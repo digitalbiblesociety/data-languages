@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشانجا
     auto: true
+  - translation_iso: deu
+    name: Shanga
+    auto: true
   - translation_iso: fra
     name: shanga
   - translation_iso: hin

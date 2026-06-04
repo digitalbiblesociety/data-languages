@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: ماردين ساين لانجويج
     auto: true
+  - translation_iso: deu
+    name: Mardin-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: langue des signes de Mardin
   - translation_iso: hin

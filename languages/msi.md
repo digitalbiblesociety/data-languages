@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة صابح مالاي
     auto: true
+  - translation_iso: deu
+    name: Sabah-Malaiisch
+    auto: true
   - translation_iso: fra
     name: malais de Sabah
   - translation_iso: hin

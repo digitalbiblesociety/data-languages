@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجيبي
     auto: true
+  - translation_iso: deu
+    name: Gebe
+    auto: true
   - translation_iso: fra
     name: gebe
   - translation_iso: hin

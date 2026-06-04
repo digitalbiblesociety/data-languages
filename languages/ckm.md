@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: الشاكافي
     auto: true
+  - translation_iso: deu
+    name: Čakavisch
   - translation_iso: fra
     name: tchakavien
   - translation_iso: hin

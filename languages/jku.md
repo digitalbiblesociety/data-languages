@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة لابير
     auto: true
+  - translation_iso: deu
+    name: Labir
+    auto: true
   - translation_iso: fra
     name: labir
   - translation_iso: hin

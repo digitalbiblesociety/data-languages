@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميفيلي
     auto: true
+  - translation_iso: deu
+    name: Mefele
+    auto: true
   - translation_iso: fra
     name: mefele
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غآو
     auto: true
+  - translation_iso: deu
+    name: Gao
+    auto: true
   - translation_iso: fra
     name: gao
   - translation_iso: hin

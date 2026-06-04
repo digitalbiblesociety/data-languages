@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بو-ناو بونو
     auto: true
+  - translation_iso: deu
+    name: Bu-Nao Bunu
+    auto: true
   - translation_iso: fra
     name: bunu dongnu de Dahua
   - translation_iso: hin

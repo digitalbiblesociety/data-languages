@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داركينيونغ
     auto: true
+  - translation_iso: deu
+    name: Darkinyung
+    auto: true
   - translation_iso: fra
     name: darkinyung
   - translation_iso: hin

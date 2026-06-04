@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلي
     auto: true
+  - translation_iso: deu
+    name: Kele (Demokratische Republik Kongo)
+    auto: true
   - translation_iso: fra
     name: lokele
   - translation_iso: hin

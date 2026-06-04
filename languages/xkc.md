@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: خويني
     auto: true
+  - translation_iso: deu
+    name: "Kho'ini"
   - translation_iso: fra
     name: kho’ini
   - translation_iso: hin

@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Doga_language"
 translations:
   - translation_iso: ara
     name: لغة دوجا
+  - translation_iso: deu
+    name: Doga
+    auto: true
   - translation_iso: fra
     name: doga
   - translation_iso: hin

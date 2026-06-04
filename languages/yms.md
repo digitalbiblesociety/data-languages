@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميسيان
     auto: true
+  - translation_iso: deu
+    name: Mysisch
+    auto: true
   - translation_iso: fra
     name: mysien
   - translation_iso: hin

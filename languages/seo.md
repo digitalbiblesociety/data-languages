@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: سوارمين
     auto: true
+  - translation_iso: deu
+    name: Suarmin
+    auto: true
   - translation_iso: fra
     name: suarmin
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاوية جديدة كاليدونية
     auto: true
+  - translation_iso: deu
+    name: Neukaledonisches Javanisch
+    auto: true
   - translation_iso: fra
     name: javanais de Nouvelle-Calédonie
   - translation_iso: hin

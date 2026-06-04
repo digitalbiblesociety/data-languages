@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مينيا
     auto: true
+  - translation_iso: deu
+    name: Menya
   - translation_iso: fra
     name: menya
   - translation_iso: hin

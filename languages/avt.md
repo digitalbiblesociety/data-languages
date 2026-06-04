@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أو
     auto: true
+  - translation_iso: deu
+    name: Au
+    auto: true
   - translation_iso: fra
     name: au
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوكاغيز الشمالية
     auto: true
+  - translation_iso: deu
+    name: Tundrajukagirisch
   - translation_iso: fra
     name: youkaguir du Nord
   - translation_iso: hin

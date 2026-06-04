@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناهالي
     auto: true
+  - translation_iso: deu
+    name: Kalto
   - translation_iso: fra
     name: kalto
   - translation_iso: hin

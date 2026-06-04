@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: الجينجلي
     auto: true
+  - translation_iso: deu
+    name: Gengle
+    auto: true
   - translation_iso: fra
     name: gengle
   - translation_iso: hin

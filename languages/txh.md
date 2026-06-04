@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ثراقي
     auto: true
+  - translation_iso: deu
+    name: Thrakisch
   - translation_iso: fra
     name: thrace
   - translation_iso: hin

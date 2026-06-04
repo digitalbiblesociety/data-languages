@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الاوي وموي
     auto: true
+  - translation_iso: deu
+    name: Malawi-Lomwe
+    auto: true
   - translation_iso: fra
     name: Lomwe du Malawi
     auto: true

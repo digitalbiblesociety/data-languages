@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هايلاند واخاكا تشونتال
     auto: true
+  - translation_iso: deu
+    name: Hochland-Oaxaca-Chontal
+    auto: true
   - translation_iso: fra
     name: chontal des hautes terres
   - translation_iso: hin

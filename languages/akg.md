@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أنّاكالانغو
     auto: true
+  - translation_iso: deu
+    name: Anakalangu
+    auto: true
   - translation_iso: fra
     name: Anakalangu
     auto: true

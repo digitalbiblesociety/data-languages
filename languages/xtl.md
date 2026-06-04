@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيخالتيبيك ميكستيك
     auto: true
+  - translation_iso: deu
+    name: Tijaltepec-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: mixtèque de Tijaltepec
   - translation_iso: hin

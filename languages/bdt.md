@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوكوتو
     auto: true
+  - translation_iso: deu
+    name: Bokoto
+    auto: true
   - translation_iso: fra
     name: bokoto
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kabyle_language"
 translations:
   - translation_iso: ara
     name: القبائلية
+  - translation_iso: deu
+    name: Kabylisch
   - translation_iso: fra
     name: kabyle
   - translation_iso: hin

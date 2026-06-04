@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بهنار
     auto: true
+  - translation_iso: deu
+    name: Bahnar-Sprache
   - translation_iso: fra
     name: bahnar
   - translation_iso: hin

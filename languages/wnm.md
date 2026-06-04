@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانغغامالا
     auto: true
+  - translation_iso: deu
+    name: Wanggamala
+    auto: true
   - translation_iso: fra
     name: wanggamala
   - translation_iso: hin

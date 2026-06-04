@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيكار
     auto: true
+  - translation_iso: deu
+    name: Tikar
   - translation_iso: fra
     name: tikar
   - translation_iso: hin

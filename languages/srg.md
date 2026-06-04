@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السولود
     auto: true
+  - translation_iso: deu
+    name: Sulod
+    auto: true
   - translation_iso: fra
     name: Sulod
     auto: true

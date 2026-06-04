@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أمبيلاو
     auto: true
+  - translation_iso: deu
+    name: Ambalau
   - translation_iso: fra
     name: ambelau
   - translation_iso: hin

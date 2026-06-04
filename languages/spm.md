@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أكوكيم
     auto: true
+  - translation_iso: deu
+    name: Akukem
+    auto: true
   - translation_iso: fra
     name: akukem
   - translation_iso: hin

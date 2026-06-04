@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باي تافييترا
     auto: true
+  - translation_iso: deu
+    name: Pai Tavytera
+    auto: true
   - translation_iso: fra
     name: pai tavytera
   - translation_iso: hin

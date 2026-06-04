@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mi%27kmaq_language"
 translations:
   - translation_iso: ara
     name: الميكماكيونية
+  - translation_iso: deu
+    name: Micmac-Sprache
   - translation_iso: fra
     name: micmac
   - translation_iso: hin

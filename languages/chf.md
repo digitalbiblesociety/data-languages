@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاباسكو تشونتال
     auto: true
+  - translation_iso: deu
+    name: Chontal-Maya-Sprache
   - translation_iso: fra
     name: chontal du Tabasco
   - translation_iso: hin

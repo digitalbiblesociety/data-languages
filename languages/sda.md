@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توراجا سادان
     auto: true
+  - translation_iso: deu
+    name: Toraja-Sa’dan
   - translation_iso: fra
     name: "sa'dan-toraja"
   - translation_iso: hin

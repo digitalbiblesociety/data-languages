@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا تشاتشابويس
     auto: true
+  - translation_iso: deu
+    name: Chachapoyas-Quechua
   - translation_iso: fra
     name: quechua de Chachapoyas
   - translation_iso: hin

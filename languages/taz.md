@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتشو
     auto: true
+  - translation_iso: deu
+    name: Totscho
   - translation_iso: fra
     name: tocho
   - translation_iso: hin

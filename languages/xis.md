@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: كيسان
     auto: true
+  - translation_iso: deu
+    name: Kisan
+    auto: true
   - translation_iso: fra
     name: kisangani
   - translation_iso: hin

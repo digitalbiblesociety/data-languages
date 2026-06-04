@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيتاويت
     auto: true
+  - translation_iso: deu
+    name: Itawit
+    auto: true
   - translation_iso: fra
     name: itawit
   - translation_iso: hin

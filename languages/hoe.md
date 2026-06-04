@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوروم
     auto: true
+  - translation_iso: deu
+    name: Horom
+    auto: true
   - translation_iso: fra
     name: horom
   - translation_iso: hin

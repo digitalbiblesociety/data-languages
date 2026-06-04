@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سوكي تاباسكو
     auto: true
+  - translation_iso: deu
+    name: Ayapaneco
   - translation_iso: fra
     name: ayapaneco
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أفاتيم
     auto: true
+  - translation_iso: deu
+    name: Avatime
   - translation_iso: fra
     name: avatime
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جيليك
     auto: true
+  - translation_iso: deu
+    name: Niwchisch
   - translation_iso: fra
     name: nivkhe
   - translation_iso: hin

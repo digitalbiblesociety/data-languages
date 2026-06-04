@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رانجلونج
     auto: true
+  - translation_iso: deu
+    name: Ranglong
+    auto: true
   - translation_iso: fra
     name: Ranglong
     auto: true

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: بو
     auto: true
+  - translation_iso: deu
+    name: Bo (Laos)
+    auto: true
   - translation_iso: fra
     name: bo
   - translation_iso: hin

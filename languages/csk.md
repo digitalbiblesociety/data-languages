@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جولا-كاسا
     auto: true
+  - translation_iso: deu
+    name: Jola-Kasa
+    auto: true
   - translation_iso: fra
     name: diola-kasa
   - translation_iso: hin

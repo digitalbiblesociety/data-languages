@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماخووا-ماريفوني
     auto: true
+  - translation_iso: deu
+    name: Makhuwa-Marrevone
+    auto: true
   - translation_iso: fra
     name: makhuwa-marrevone
   - translation_iso: hin

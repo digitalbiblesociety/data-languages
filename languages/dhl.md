@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دهاالندجي
     auto: true
+  - translation_iso: deu
+    name: Dhalandji
+    auto: true
   - translation_iso: fra
     name: dhalandji
   - translation_iso: hin

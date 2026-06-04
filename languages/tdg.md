@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تامانغ الغربية
     auto: true
+  - translation_iso: deu
+    name: Western Tamang
+    auto: true
   - translation_iso: fra
     name: "tamang de l'Ouest"
   - translation_iso: hin

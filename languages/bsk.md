@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Burushaski"
 translations:
   - translation_iso: ara
     name: بروشسكي
+  - translation_iso: deu
+    name: Burushaski
   - translation_iso: fra
     name: bourouchaski
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيمنام
     auto: true
+  - translation_iso: deu
+    name: Semnam
+    auto: true
   - translation_iso: fra
     name: semnam
   - translation_iso: hin

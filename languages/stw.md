@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ساتاوالية
     auto: true
+  - translation_iso: deu
+    name: Satawal
   - translation_iso: fra
     name: satawal
   - translation_iso: hin

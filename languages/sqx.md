@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة لغة الإشارة قصر قاسم
     auto: true
+  - translation_iso: deu
+    name: Kufr Qassem Sign Language (KQSL)
+    auto: true
   - translation_iso: fra
     name: Langue des signes de Kufr Qassem
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوكواني-أبوه-ندوني
     auto: true
+  - translation_iso: deu
+    name: Ukwuani-aboh-ndoni
   - translation_iso: fra
     name: ukwuani-aboh-ndoni
   - translation_iso: hin

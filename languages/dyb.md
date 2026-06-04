@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديابيرديابير
     auto: true
+  - translation_iso: deu
+    name: Dyaberdyaber
+    auto: true
   - translation_iso: fra
     name: dyaberdyaber
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشايهويتا
     auto: true
+  - translation_iso: deu
+    name: Chayahuita
+    auto: true
   - translation_iso: fra
     name: chayahuita
   - translation_iso: hin

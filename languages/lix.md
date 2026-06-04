@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يابوكو
     auto: true
+  - translation_iso: deu
+    name: Liabuku
+    auto: true
   - translation_iso: fra
     name: liabuku
   - translation_iso: hin

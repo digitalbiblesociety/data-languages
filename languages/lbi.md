@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "لا'بي"
     auto: true
+  - translation_iso: deu
+    name: "La'bi"
+    auto: true
   - translation_iso: fra
     name: "la'bi"
   - translation_iso: hin

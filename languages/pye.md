@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بي كرومن
     auto: true
+  - translation_iso: deu
+    name: Pye-Krumen
+    auto: true
   - translation_iso: fra
     name: kroumen pye
   - translation_iso: hin

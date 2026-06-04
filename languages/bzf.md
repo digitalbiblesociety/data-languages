@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بويكين
     auto: true
+  - translation_iso: deu
+    name: Boikin
+    auto: true
   - translation_iso: fra
     name: boiken
   - translation_iso: hin

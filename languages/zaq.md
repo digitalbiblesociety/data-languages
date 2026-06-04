@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك ألوابام
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Aloápam)
+    auto: true
   - translation_iso: fra
     name: "zapotèque d'Aloápam"
   - translation_iso: hin

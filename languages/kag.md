@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاجامان
     auto: true
+  - translation_iso: deu
+    name: Kajaman
+    auto: true
   - translation_iso: fra
     name: Kajaman
     auto: true

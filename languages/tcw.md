@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيكبتلان توتوناك
     auto: true
+  - translation_iso: deu
+    name: Tecpatlán Totonac
+    auto: true
   - translation_iso: fra
     name: totonaque du Tecpatlán
   - translation_iso: hin

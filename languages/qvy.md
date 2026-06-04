@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كويو
     auto: true
+  - translation_iso: deu
+    name: Queyu
+    auto: true
   - translation_iso: fra
     name: queyu
   - translation_iso: hin

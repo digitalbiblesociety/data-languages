@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأرجنتينية
     auto: true
+  - translation_iso: deu
+    name: Argentinische Gebärdensprache
   - translation_iso: fra
     name: langue des signes argentine
   - translation_iso: hin

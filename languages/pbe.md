@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا ميثونتلا
     auto: true
+  - translation_iso: deu
+    name: Mezontla-Popoloca
+    auto: true
   - translation_iso: fra
     name: popoloca de Mezontla
   - translation_iso: hin

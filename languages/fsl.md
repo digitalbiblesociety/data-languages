@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/French_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الفرنسية
+  - translation_iso: deu
+    name: Langue des signes française
   - translation_iso: fra
     name: langue des signes française
   - translation_iso: hin

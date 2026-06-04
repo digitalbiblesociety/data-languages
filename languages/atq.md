@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرالي-تابولاهان
     auto: true
+  - translation_iso: deu
+    name: Aralle-Tabulahan
   - translation_iso: fra
     name: Aralle-Tabulahan
     auto: true

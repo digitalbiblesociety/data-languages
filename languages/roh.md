@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Romansh_language"
 translations:
   - translation_iso: ara
     name: الرومانشية
+  - translation_iso: deu
+    name: Bündnerromanisch
   - translation_iso: fra
     name: romanche
   - translation_iso: hin

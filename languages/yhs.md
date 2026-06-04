@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: لغة يان-نهانغو الإشارة
     auto: true
+  - translation_iso: deu
+    name: Yan-nhaŋu-Gebärdensprache
   - translation_iso: fra
     name: Langue des signes yan-nhaŋu
     auto: true

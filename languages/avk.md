@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوتافا
     auto: true
+  - translation_iso: deu
+    name: Kotava
   - translation_iso: fra
     name: kotava
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لاما (توجو)
     auto: true
+  - translation_iso: deu
+    name: Lama
   - translation_iso: fra
     name: lama
   - translation_iso: hin

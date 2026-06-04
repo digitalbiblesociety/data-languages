@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Neo-Aramaic_dialect_of_Bohtan"
 translations:
   - translation_iso: ara
     name: الآرامية البوتانية الحديثة
+  - translation_iso: deu
+    name: Bohtan-Neuaramäisch
   - translation_iso: fra
     name: néo-araméen de Bohtan
   - translation_iso: hin

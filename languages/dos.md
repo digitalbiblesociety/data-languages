@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوجوسي
     auto: true
+  - translation_iso: deu
+    name: Dogosé
+    auto: true
   - translation_iso: fra
     name: dogosé
   - translation_iso: hin

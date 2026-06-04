@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة أدوج
     auto: true
+  - translation_iso: deu
+    name: Aduge
   - translation_iso: fra
     name: Aduge
     auto: true

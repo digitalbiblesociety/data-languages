@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ثقافة الفودو الهاitian
     auto: true
+  - translation_iso: deu
+    name: Langaj
   - translation_iso: fra
     name: Langue culturelle vaudou haïtienne
     auto: true

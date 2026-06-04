@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نانسيري
     auto: true
+  - translation_iso: deu
+    name: Nancere
+    auto: true
   - translation_iso: fra
     name: nangjere
   - translation_iso: hin

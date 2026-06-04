@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بالْيا باريلي
     auto: true
+  - translation_iso: deu
+    name: Palya Bareli
+    auto: true
   - translation_iso: fra
     name: Bareli Palya
     auto: true

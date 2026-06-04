@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Azerbaijani_language"
 translations:
   - translation_iso: ara
     name: الأذرية
+  - translation_iso: deu
+    name: Aserbaidschanisch
   - translation_iso: fra
     name: azéri
   - translation_iso: hin

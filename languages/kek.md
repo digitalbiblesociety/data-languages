@@ -18,8 +18,10 @@ translations:
   - translation_iso: ara
     name: لغة كيكتشي
     auto: true
+  - translation_iso: deu
+    name: Kekchí-Sprache
   - translation_iso: fra
-    name: "q'eqchi'"
+    name: "q'eqchi"
   - translation_iso: hin
     name: केकची
     auto: true

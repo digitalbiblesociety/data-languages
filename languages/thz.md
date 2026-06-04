@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Air_Tamajeq_language"
 translations:
   - translation_iso: ara
     name: تايرت
+  - translation_iso: deu
+    name: Tayart Tamajeq
+    auto: true
   - translation_iso: fra
     name: "tamajeq de l'Aïr"
   - translation_iso: hin

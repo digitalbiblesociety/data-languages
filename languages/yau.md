@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: يوانا
     auto: true
+  - translation_iso: deu
+    name: Yuwana
+    auto: true
   - translation_iso: fra
     name: yuwana
   - translation_iso: hin

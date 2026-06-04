@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاندي
     auto: true
+  - translation_iso: deu
+    name: Kande
   - translation_iso: fra
     name: kande
   - translation_iso: hin

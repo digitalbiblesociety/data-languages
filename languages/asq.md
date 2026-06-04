@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Austrian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة النمساوية
+  - translation_iso: deu
+    name: Österreichische Gebärdensprache
   - translation_iso: fra
     name: langue des signes autrichienne
   - translation_iso: hin

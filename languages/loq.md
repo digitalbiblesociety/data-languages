@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وبالا
     auto: true
+  - translation_iso: deu
+    name: Lobala
+    auto: true
   - translation_iso: fra
     name: lobala
   - translation_iso: hin

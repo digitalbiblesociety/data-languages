@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة هندكو الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Hindko
+    auto: true
   - translation_iso: fra
     name: hindko du Nord
   - translation_iso: hin

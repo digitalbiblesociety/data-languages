@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة براغات
     auto: true
+  - translation_iso: deu
+    name: Bragat
+    auto: true
   - translation_iso: fra
     name: bragat
   - translation_iso: hin

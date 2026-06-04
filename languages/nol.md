@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نوملاكي
     auto: true
+  - translation_iso: deu
+    name: Nomlaki
+    auto: true
   - translation_iso: fra
     name: nomlaki
   - translation_iso: hin

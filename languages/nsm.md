@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سومي ناغا
     auto: true
+  - translation_iso: deu
+    name: Sumi-Naga
+    auto: true
   - translation_iso: fra
     name: sema
   - translation_iso: hin

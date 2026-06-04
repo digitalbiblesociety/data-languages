@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة آسوي أويو
     auto: true
+  - translation_iso: deu
+    name: Asue Awyu
+    auto: true
   - translation_iso: fra
     name: aghu d’Asue
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاكاهوا ميكستيك
     auto: true
+  - translation_iso: deu
+    name: Tacahua-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: mixtèque tacahua
   - translation_iso: hin

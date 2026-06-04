@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك يوتيبيك
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Yautepec)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Yautepec
   - translation_iso: hin

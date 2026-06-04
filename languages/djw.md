@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دجاوي
     auto: true
+  - translation_iso: deu
+    name: Djawi
+    auto: true
   - translation_iso: fra
     name: djawi
   - translation_iso: hin

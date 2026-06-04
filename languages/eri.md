@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأوجيا
     auto: true
+  - translation_iso: deu
+    name: Ogea
+    auto: true
   - translation_iso: fra
     name: ogea
   - translation_iso: hin

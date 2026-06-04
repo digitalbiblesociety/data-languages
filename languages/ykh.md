@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة خامنيجان مونغول
     auto: true
+  - translation_iso: deu
+    name: Khamnigan-Mongolisch
+    auto: true
   - translation_iso: fra
     name: khamnigan
   - translation_iso: hin

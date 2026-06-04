@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغاانياتجارا
     auto: true
+  - translation_iso: deu
+    name: Ngaanyatjarra
+    auto: true
   - translation_iso: fra
     name: ngaanyatjarra
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبآتو
     auto: true
+  - translation_iso: deu
+    name: Mbato
+    auto: true
   - translation_iso: fra
     name: mbatto
   - translation_iso: hin

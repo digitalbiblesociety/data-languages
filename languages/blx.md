@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماج إندي ايتا
     auto: true
+  - translation_iso: deu
+    name: Mag-Indi Ayta
+    auto: true
   - translation_iso: fra
     name: Mag-Indi Ayta
     auto: true

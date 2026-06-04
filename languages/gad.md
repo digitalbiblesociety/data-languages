@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجادانج
     auto: true
+  - translation_iso: deu
+    name: Gaddang
+    auto: true
   - translation_iso: fra
     name: gaddang
   - translation_iso: hin

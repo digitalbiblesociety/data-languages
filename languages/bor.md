@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوروروا
     auto: true
+  - translation_iso: deu
+    name: Bororo
   - translation_iso: fra
     name: bororo
   - translation_iso: hin

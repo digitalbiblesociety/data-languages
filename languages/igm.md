@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كانغغابي
     auto: true
+  - translation_iso: deu
+    name: Kanggape
+    auto: true
   - translation_iso: fra
     name: kanggape
   - translation_iso: hin

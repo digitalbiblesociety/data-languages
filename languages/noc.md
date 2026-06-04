@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوك
     auto: true
+  - translation_iso: deu
+    name: Nuk
+    auto: true
   - translation_iso: fra
     name: Nuk
     auto: true

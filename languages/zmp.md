@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مبوونو
     auto: true
+  - translation_iso: deu
+    name: Mpuono
   - translation_iso: fra
     name: mbuun
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باهونْسوايي
     auto: true
+  - translation_iso: deu
+    name: Bahonsuai
+    auto: true
   - translation_iso: fra
     name: bahonsuai
   - translation_iso: hin

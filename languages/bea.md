@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيفر
     auto: true
+  - translation_iso: deu
+    name: Danezaa
   - translation_iso: fra
     name: danezaa
   - translation_iso: hin

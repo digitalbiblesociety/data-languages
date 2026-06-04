@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة تايرورا الجنوبية
     auto: true
+  - translation_iso: deu
+    name: South Tairora
+    auto: true
   - translation_iso: fra
     name: tairora du Sud
   - translation_iso: hin

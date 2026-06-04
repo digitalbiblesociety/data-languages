@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويكمونغكان
     auto: true
+  - translation_iso: deu
+    name: Wik-Mungkan
+    auto: true
   - translation_iso: fra
     name: wik-mungkan
   - translation_iso: hin

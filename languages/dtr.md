@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوتود
     auto: true
+  - translation_iso: deu
+    name: Lotud
+    auto: true
   - translation_iso: fra
     name: lotud
   - translation_iso: hin

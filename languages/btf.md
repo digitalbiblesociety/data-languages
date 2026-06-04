@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيرْجيت
     auto: true
+  - translation_iso: deu
+    name: Birgit
+    auto: true
   - translation_iso: fra
     name: langue Birgit
   - translation_iso: hin

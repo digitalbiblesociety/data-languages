@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دومونج
     auto: true
+  - translation_iso: deu
+    name: Domung
+    auto: true
   - translation_iso: fra
     name: domung
   - translation_iso: hin

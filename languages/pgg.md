@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانغوالي
     auto: true
+  - translation_iso: deu
+    name: Pangwali
+    auto: true
   - translation_iso: fra
     name: pangwali
   - translation_iso: hin

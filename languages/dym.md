@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياندا دوم دوجون
     auto: true
+  - translation_iso: deu
+    name: Yanda Dom Dogon
+    auto: true
   - translation_iso: fra
     name: yanda dom
   - translation_iso: hin

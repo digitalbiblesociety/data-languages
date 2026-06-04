@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نجاريجو
     auto: true
+  - translation_iso: deu
+    name: Ngarigu
+    auto: true
   - translation_iso: fra
     name: ngarigu
   - translation_iso: hin

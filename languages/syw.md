@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاغاتي
     auto: true
+  - translation_iso: deu
+    name: Kagate
+    auto: true
   - translation_iso: fra
     name: kagate
   - translation_iso: hin

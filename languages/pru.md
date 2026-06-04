@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوراجي
     auto: true
+  - translation_iso: deu
+    name: Puragi
+    auto: true
   - translation_iso: fra
     name: Puragi
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وانو
     auto: true
+  - translation_iso: deu
+    name: Wannu
+    auto: true
   - translation_iso: fra
     name: Wannu
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زوايي
     auto: true
+  - translation_iso: deu
+    name: "Zo'é"
+    auto: true
   - translation_iso: fra
     name: "zo'é"
   - translation_iso: hin

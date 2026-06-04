@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة فويي
     auto: true
+  - translation_iso: deu
+    name: Phuie
   - translation_iso: fra
     name: puguli
   - translation_iso: hin

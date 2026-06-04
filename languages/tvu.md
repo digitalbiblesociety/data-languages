@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توننن
     auto: true
+  - translation_iso: deu
+    name: Tunen
   - translation_iso: fra
     name: tunen
   - translation_iso: hin

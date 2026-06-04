@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اكوروماو
     auto: true
+  - translation_iso: deu
+    name: Lakurumau
+    auto: true
   - translation_iso: fra
     name: laxudumau
   - translation_iso: hin

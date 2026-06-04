@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوكابوكا
     auto: true
+  - translation_iso: deu
+    name: Pukapukanisch
   - translation_iso: fra
     name: pukapuka
   - translation_iso: hin

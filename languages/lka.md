@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اكاليي
     auto: true
+  - translation_iso: deu
+    name: Lakalei
+    auto: true
   - translation_iso: fra
     name: lakalei
   - translation_iso: hin

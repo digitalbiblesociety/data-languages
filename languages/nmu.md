@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مايدو الشمالية الشرقية
     auto: true
+  - translation_iso: deu
+    name: Maidu
   - translation_iso: fra
     name: maidu
   - translation_iso: hin

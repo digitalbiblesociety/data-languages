@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: باجا ماندوري
     auto: true
+  - translation_iso: deu
+    name: Manduri
   - translation_iso: fra
     name: Baga Manduri
     auto: true

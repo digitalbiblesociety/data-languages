@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوزو
     auto: true
+  - translation_iso: deu
+    name: Hozo
+    auto: true
   - translation_iso: fra
     name: hozo
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأمبو
     auto: true
+  - translation_iso: deu
+    name: Ambo
+    auto: true
   - translation_iso: fra
     name: ambo
   - translation_iso: hin

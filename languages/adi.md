@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أدي
     auto: true
+  - translation_iso: deu
+    name: Adi
   - translation_iso: fra
     name: adi
   - translation_iso: hin

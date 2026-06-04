@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واسا
     auto: true
+  - translation_iso: deu
+    name: Wasa
   - translation_iso: fra
     name: wasa
   - translation_iso: hin

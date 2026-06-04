@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دهوندري
     auto: true
+  - translation_iso: deu
+    name: Dhundari
+    auto: true
   - translation_iso: fra
     name: Dhundari
     auto: true

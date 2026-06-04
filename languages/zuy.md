@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زومايا
     auto: true
+  - translation_iso: deu
+    name: Zumaya
+    auto: true
   - translation_iso: fra
     name: zumaya
   - translation_iso: hin

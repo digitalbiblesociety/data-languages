@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ويتشي يامتيس نوكتن
     auto: true
+  - translation_iso: deu
+    name: Wichí Lhamtés Nocten
+    auto: true
   - translation_iso: fra
     name: Wichí Lhamtés Nocten
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيتشيلت
     auto: true
+  - translation_iso: deu
+    name: Sechelt
+    auto: true
   - translation_iso: fra
     name: sechelt
   - translation_iso: hin

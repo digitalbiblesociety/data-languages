@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: يابين
     auto: true
+  - translation_iso: deu
+    name: Yaben
+    auto: true
   - translation_iso: fra
     name: yaben
   - translation_iso: hin

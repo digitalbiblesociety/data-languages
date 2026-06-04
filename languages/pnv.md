@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينيجورا
     auto: true
+  - translation_iso: deu
+    name: Pinigura
+    auto: true
   - translation_iso: fra
     name: pinigura
   - translation_iso: hin

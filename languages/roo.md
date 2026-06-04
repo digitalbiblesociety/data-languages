@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rotokas_language"
 translations:
   - translation_iso: ara
     name: اللغة الروتوكاسية
+  - translation_iso: deu
+    name: Rotokas
   - translation_iso: fra
     name: rotokas
   - translation_iso: hin

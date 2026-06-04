@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوندا دورا
     auto: true
+  - translation_iso: deu
+    name: Konda
   - translation_iso: fra
     name: konda
   - translation_iso: hin

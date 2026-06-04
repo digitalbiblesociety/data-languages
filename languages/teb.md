@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: تيتيتي
     auto: true
+  - translation_iso: deu
+    name: Tetete
+    auto: true
   - translation_iso: fra
     name: tetete
   - translation_iso: hin

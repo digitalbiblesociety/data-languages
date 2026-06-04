@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنغورك يالي
     auto: true
+  - translation_iso: deu
+    name: Angguruk Yali
+    auto: true
   - translation_iso: fra
     name: "yali d'Angguruk"
   - translation_iso: hin

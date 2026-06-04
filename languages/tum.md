@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tumbuka_language"
 translations:
   - translation_iso: ara
     name: التامبوكا
+  - translation_iso: deu
+    name: Tumbuka
   - translation_iso: fra
     name: tumbuka
   - translation_iso: hin

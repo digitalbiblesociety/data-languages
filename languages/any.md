@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أنيين
     auto: true
+  - translation_iso: deu
+    name: Anyin
   - translation_iso: fra
     name: agni
   - translation_iso: hin

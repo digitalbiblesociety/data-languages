@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مانانغكاري
     auto: true
+  - translation_iso: deu
+    name: Manangkari
+    auto: true
   - translation_iso: fra
     name: Manangkari
     auto: true

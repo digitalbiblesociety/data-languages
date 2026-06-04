@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أيوو
     auto: true
+  - translation_iso: deu
+    name: Ayiwo
+    auto: true
   - translation_iso: fra
     name: äiwoo
   - translation_iso: hin

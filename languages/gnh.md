@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لإرإ
     auto: true
+  - translation_iso: deu
+    name: Lere
+    auto: true
   - translation_iso: fra
     name: lere
   - translation_iso: hin

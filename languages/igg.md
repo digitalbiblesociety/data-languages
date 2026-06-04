@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيغانا
     auto: true
+  - translation_iso: deu
+    name: Igana
+    auto: true
   - translation_iso: fra
     name: igana
   - translation_iso: hin

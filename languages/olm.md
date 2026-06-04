@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولوما
     auto: true
+  - translation_iso: deu
+    name: Oloma
+    auto: true
   - translation_iso: fra
     name: Oloma
     auto: true

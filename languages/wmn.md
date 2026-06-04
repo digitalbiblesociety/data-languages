@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وااموانغ
     auto: true
+  - translation_iso: deu
+    name: Waamwang
+    auto: true
   - translation_iso: fra
     name: waamwang
   - translation_iso: hin

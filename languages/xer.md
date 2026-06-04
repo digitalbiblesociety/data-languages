@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خيرنتي
     auto: true
+  - translation_iso: deu
+    name: Xerénte
+    auto: true
   - translation_iso: fra
     name: xerénte
   - translation_iso: hin

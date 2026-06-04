@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيسالپيني غاوليسه
     auto: true
+  - translation_iso: deu
+    name: Zisalpinisches Gallisch
+    auto: true
   - translation_iso: fra
     name: gaulois cisalpin
   - translation_iso: hin

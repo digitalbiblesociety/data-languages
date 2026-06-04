@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شيريانا
     auto: true
+  - translation_iso: deu
+    name: Xiriâna
+    auto: true
   - translation_iso: fra
     name: Xiriâna
     auto: true

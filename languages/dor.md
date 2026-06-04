@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوريو
     auto: true
+  - translation_iso: deu
+    name: "Dori'o"
+    auto: true
   - translation_iso: fra
     name: dori’o
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ميني
     auto: true
+  - translation_iso: deu
+    name: Myene
   - translation_iso: fra
     name: myènè
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آلّار
     auto: true
+  - translation_iso: deu
+    name: Allar
+    auto: true
   - translation_iso: fra
     name: allar
   - translation_iso: hin

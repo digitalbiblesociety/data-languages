@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جادابا بوتانجي أولار
     auto: true
+  - translation_iso: deu
+    name: Gadaba
   - translation_iso: fra
     name: gadaba pottangi ollar
   - translation_iso: hin

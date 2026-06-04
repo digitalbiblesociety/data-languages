@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ووتونهوا
     auto: true
+  - translation_iso: deu
+    name: Wutun
   - translation_iso: fra
     name: wutun
   - translation_iso: hin

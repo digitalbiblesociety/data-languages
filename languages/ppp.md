@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيليندي
     auto: true
+  - translation_iso: deu
+    name: Pelende
+    auto: true
   - translation_iso: fra
     name: pelende
   - translation_iso: hin

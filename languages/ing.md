@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: "ديغيكست'ان"
     auto: true
+  - translation_iso: deu
+    name: Deg Xinag
   - translation_iso: fra
     name: "deg hit'an"
   - translation_iso: hin

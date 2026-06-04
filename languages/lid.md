@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ييندروو
     auto: true
+  - translation_iso: deu
+    name: Nyindrou
+    auto: true
   - translation_iso: fra
     name: nyindrou
   - translation_iso: hin

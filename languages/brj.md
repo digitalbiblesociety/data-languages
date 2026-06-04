@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيِريا
     auto: true
+  - translation_iso: deu
+    name: Bieria
+    auto: true
   - translation_iso: fra
     name: bieria
   - translation_iso: hin

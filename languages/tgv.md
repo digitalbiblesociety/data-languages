@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: تينغوي بوتو
     auto: true
+  - translation_iso: deu
+    name: Tingui-Boto
+    auto: true
   - translation_iso: fra
     name: tingui-boto
   - translation_iso: hin

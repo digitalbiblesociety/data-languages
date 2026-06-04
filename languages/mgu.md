@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايلو
     auto: true
+  - translation_iso: deu
+    name: Mailu
+    auto: true
   - translation_iso: fra
     name: mailu
   - translation_iso: hin

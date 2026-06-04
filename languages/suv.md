@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوروايك
     auto: true
+  - translation_iso: deu
+    name: Puroik
+    auto: true
   - translation_iso: fra
     name: puroik
   - translation_iso: hin

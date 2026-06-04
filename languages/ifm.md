@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيك-فوومو
     auto: true
+  - translation_iso: deu
+    name: Teke-Fuumu
   - translation_iso: fra
     name: fuumu
   - translation_iso: hin

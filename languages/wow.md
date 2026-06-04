@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واوونيي
     auto: true
+  - translation_iso: deu
+    name: Wawonii
   - translation_iso: fra
     name: wawonii
   - translation_iso: hin

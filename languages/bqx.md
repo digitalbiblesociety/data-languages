@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بااْنْجي
     auto: true
+  - translation_iso: deu
+    name: Baangi
+    auto: true
   - translation_iso: fra
     name: Baangi
     auto: true

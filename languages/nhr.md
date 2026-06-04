@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نارو
     auto: true
+  - translation_iso: deu
+    name: Naro
+    auto: true
   - translation_iso: fra
     name: naro
   - translation_iso: hin

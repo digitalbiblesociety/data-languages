@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اييولو
     auto: true
+  - translation_iso: deu
+    name: Laiyolo
+    auto: true
   - translation_iso: fra
     name: laiyolo
   - translation_iso: hin

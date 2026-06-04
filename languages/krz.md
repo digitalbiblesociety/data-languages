@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سوتا كانوم
     auto: true
+  - translation_iso: deu
+    name: Sota Kanum
   - translation_iso: fra
     name: kanum sota
   - translation_iso: hin

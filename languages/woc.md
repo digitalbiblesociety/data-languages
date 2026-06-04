@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووغيو
     auto: true
+  - translation_iso: deu
+    name: Wogeo
+    auto: true
   - translation_iso: fra
     name: wogeo
   - translation_iso: hin

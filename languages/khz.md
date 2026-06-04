@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيابارا
     auto: true
+  - translation_iso: deu
+    name: Keapara
+    auto: true
   - translation_iso: fra
     name: Keapara
     auto: true

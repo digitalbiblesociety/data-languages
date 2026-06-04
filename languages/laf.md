@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lafofa_languages"
 translations:
   - translation_iso: ara
     name: لغات لافوفا
+  - translation_iso: deu
+    name: Lafofa
   - translation_iso: fra
     name: lafofa
   - translation_iso: hin

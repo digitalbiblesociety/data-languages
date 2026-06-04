@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أهيو
     auto: true
+  - translation_iso: deu
+    name: Aheu
   - translation_iso: fra
     name: thavung
   - translation_iso: hin

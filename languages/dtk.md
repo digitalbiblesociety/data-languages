@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيني كان دوجون
     auto: true
+  - translation_iso: deu
+    name: Tene Kan Dogon
+    auto: true
   - translation_iso: fra
     name: tene kan
   - translation_iso: hin

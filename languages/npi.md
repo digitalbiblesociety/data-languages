@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة النيبالية
     auto: true
+  - translation_iso: deu
+    name: Nepalesisch
+    auto: true
   - translation_iso: fra
     name: Népalais
     auto: true

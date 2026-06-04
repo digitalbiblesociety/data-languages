@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناواتل سيرا نيغرا
     auto: true
+  - translation_iso: deu
+    name: Sierra-Negra-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl de la Sierra Negra
   - translation_iso: hin

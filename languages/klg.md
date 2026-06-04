@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة تاجاكاولو
     auto: true
+  - translation_iso: deu
+    name: Tagakaulo
+    auto: true
   - translation_iso: fra
     name: tagakaulo
   - translation_iso: hin

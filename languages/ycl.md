@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوللوبو
     auto: true
+  - translation_iso: deu
+    name: Lolopo
+    auto: true
   - translation_iso: fra
     name: lolopo
   - translation_iso: hin

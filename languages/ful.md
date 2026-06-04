@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fula_language"
 translations:
   - translation_iso: ara
     name: الفولانية
+  - translation_iso: deu
+    name: Fulfulde
   - translation_iso: fra
     name: peul
   - translation_iso: hin

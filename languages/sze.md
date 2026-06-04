@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيزي
     auto: true
+  - translation_iso: deu
+    name: Seze
+    auto: true
   - translation_iso: fra
     name: seze
   - translation_iso: hin

@@ -17,6 +17,8 @@ glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid 
 translations:
   - translation_iso: ara
     name: أكوس
+  - translation_iso: deu
+    name: Akoose
   - translation_iso: fra
     name: akoose
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مكوي
     auto: true
+  - translation_iso: deu
+    name: Mekwei
+    auto: true
   - translation_iso: fra
     name: Mekwei
     auto: true

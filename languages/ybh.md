@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياخا
     auto: true
+  - translation_iso: deu
+    name: Yakha
+    auto: true
   - translation_iso: fra
     name: yakkha
   - translation_iso: hin

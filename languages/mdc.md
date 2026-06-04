@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميل
     auto: true
+  - translation_iso: deu
+    name: Male (Papua New Guinea)
+    auto: true
   - translation_iso: fra
     name: Male (Papouasie-Nouvelle-Guinée)
     auto: true

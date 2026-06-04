@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موكيليسي
     auto: true
+  - translation_iso: deu
+    name: Mokilesisch
   - translation_iso: fra
     name: mokil
   - translation_iso: hin

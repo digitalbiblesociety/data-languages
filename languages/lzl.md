@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يتزليتز
     auto: true
+  - translation_iso: deu
+    name: Litzlitz
+    auto: true
   - translation_iso: fra
     name: litzlitz
   - translation_iso: hin

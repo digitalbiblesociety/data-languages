@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أتشومّاوي
     auto: true
+  - translation_iso: deu
+    name: Achumawi
+    auto: true
   - translation_iso: fra
     name: achumawi
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي دينج
     auto: true
+  - translation_iso: deu
+    name: Tai Daeng
+    auto: true
   - translation_iso: fra
     name: tay deng
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشاملال
     auto: true
+  - translation_iso: deu
+    name: Tschamalinisch
   - translation_iso: fra
     name: chamalal
   - translation_iso: hin

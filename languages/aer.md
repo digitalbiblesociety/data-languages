@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إيسترن أريرنتي
     auto: true
+  - translation_iso: deu
+    name: Ost-Arrernte
+    auto: true
   - translation_iso: fra
     name: "arrernte de l'Est"
   - translation_iso: hin

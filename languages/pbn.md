@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كباسام
     auto: true
+  - translation_iso: deu
+    name: Kpasam
+    auto: true
   - translation_iso: fra
     name: Nyesam
   - translation_iso: hin

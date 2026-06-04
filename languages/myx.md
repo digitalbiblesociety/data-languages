@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: ماسابا
     auto: true
+  - translation_iso: deu
+    name: Masaaba
+    auto: true
   - translation_iso: fra
     name: masaba
   - translation_iso: hin

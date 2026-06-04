@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Franco-Proven%C3%A7al"
 translations:
   - translation_iso: ara
     name: البروفانسية الفرنسية
+  - translation_iso: deu
+    name: frankoprovenzalische Sprache
   - translation_iso: fra
     name: Francoprovençal
   - translation_iso: hin

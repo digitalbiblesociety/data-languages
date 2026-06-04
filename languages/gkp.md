@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غوينإآ كبإللإ
     auto: true
+  - translation_iso: deu
+    name: Guinea-Kpelle
   - translation_iso: fra
     name: kpellé de Guinée
   - translation_iso: hin

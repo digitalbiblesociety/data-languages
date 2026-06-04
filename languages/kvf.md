@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كابالاي
     auto: true
+  - translation_iso: deu
+    name: Kabalai
+    auto: true
   - translation_iso: fra
     name: kabalai
   - translation_iso: hin

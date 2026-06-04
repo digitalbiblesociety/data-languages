@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بوكيدنون الغربية
     auto: true
+  - translation_iso: deu
+    name: Western Bukidnon Manobo
+    auto: true
   - translation_iso: fra
     name: manobo de l’Ouest de Bukidnon
   - translation_iso: hin

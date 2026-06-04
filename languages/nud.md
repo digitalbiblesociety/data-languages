@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغالا
     auto: true
+  - translation_iso: deu
+    name: Ngala
+    auto: true
   - translation_iso: fra
     name: ngala
   - translation_iso: hin

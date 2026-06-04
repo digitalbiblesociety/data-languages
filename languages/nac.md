@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناراك
     auto: true
+  - translation_iso: deu
+    name: Narak
+    auto: true
   - translation_iso: fra
     name: Narak
     auto: true

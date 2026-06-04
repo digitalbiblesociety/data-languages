@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوراك لاووي
     auto: true
+  - translation_iso: deu
+    name: "Urak Lawoi'"
+    auto: true
   - translation_iso: fra
     name: urak lawoi’
   - translation_iso: hin

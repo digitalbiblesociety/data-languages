@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dzongkha"
 translations:
   - translation_iso: ara
     name: لغة دزونكا
+  - translation_iso: deu
+    name: Dzongkha
   - translation_iso: fra
     name: dzongkha
   - translation_iso: hin

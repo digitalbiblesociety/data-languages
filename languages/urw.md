@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوب
     auto: true
+  - translation_iso: deu
+    name: Sop
+    auto: true
   - translation_iso: fra
     name: Sop
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميفاع أكاتيبيك
     auto: true
+  - translation_iso: deu
+    name: "Acatepec Me'phaa"
+    auto: true
   - translation_iso: fra
     name: "Tlapanèque d'Acatepec"
     auto: true

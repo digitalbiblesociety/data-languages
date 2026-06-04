@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياويويوها
     auto: true
+  - translation_iso: deu
+    name: Yaweyuha
+    auto: true
   - translation_iso: fra
     name: yabiyufa
   - translation_iso: hin

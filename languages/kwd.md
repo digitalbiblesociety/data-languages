@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كواييو
     auto: true
+  - translation_iso: deu
+    name: Kwaio
+    auto: true
   - translation_iso: fra
     name: kwaio
   - translation_iso: hin

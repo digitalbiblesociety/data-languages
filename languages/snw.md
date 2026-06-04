@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيلي
     auto: true
+  - translation_iso: deu
+    name: Selee
   - translation_iso: fra
     name: selee
   - translation_iso: hin

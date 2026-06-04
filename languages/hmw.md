@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ ماشان الغربية
     auto: true
+  - translation_iso: deu
+    name: Westliches Mashan-Hmong
+    auto: true
   - translation_iso: fra
     name: Hmong mashan occidental
     auto: true

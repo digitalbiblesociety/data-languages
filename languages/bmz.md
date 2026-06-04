@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بارامو
     auto: true
+  - translation_iso: deu
+    name: Baramu
+    auto: true
   - translation_iso: fra
     name: baramu
   - translation_iso: hin

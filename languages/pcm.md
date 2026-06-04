@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nigerian_Pidgin"
 translations:
   - translation_iso: ara
     name: البيدغينية النيجيرية
+  - translation_iso: deu
+    name: nigerianisches Pidgin
   - translation_iso: fra
     name: pidgin nigérian
   - translation_iso: hin

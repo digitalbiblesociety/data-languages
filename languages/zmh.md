@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماكولكول
     auto: true
+  - translation_iso: deu
+    name: Makolkol
+    auto: true
   - translation_iso: fra
     name: makolkol
   - translation_iso: hin

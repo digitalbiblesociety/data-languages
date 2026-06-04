@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Iraqi_Arabic"
 translations:
   - translation_iso: ara
     name: يهودية عراقية
+  - translation_iso: deu
+    name: Judäo-Irakisches Arabisch
+    auto: true
   - translation_iso: fra
     name: arabe judéo-irakien
   - translation_iso: hin

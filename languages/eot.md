@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: البيتي
     auto: true
+  - translation_iso: deu
+    name: Beti (Elfenbeinküste)
+    auto: true
   - translation_iso: fra
     name: eotilé
   - translation_iso: hin

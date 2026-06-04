@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Afar_language"
 translations:
   - translation_iso: ara
     name: العفارية
+  - translation_iso: deu
+    name: Afar
   - translation_iso: fra
     name: afar
   - translation_iso: hin

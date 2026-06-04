@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: فيستينية
     auto: true
+  - translation_iso: deu
+    name: Vestinisch
   - translation_iso: fra
     name: vestinien
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نغانديرا
     auto: true
+  - translation_iso: deu
+    name: Ngandyera
+    auto: true
   - translation_iso: fra
     name: ngandyera
   - translation_iso: hin

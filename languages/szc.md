@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيماك بيري
     auto: true
+  - translation_iso: deu
+    name: Semaq Beri
+    auto: true
   - translation_iso: fra
     name: semaq beri
   - translation_iso: hin

@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: إيسترن نجدا
     auto: true
+  - translation_iso: deu
+    name: Ngada Timur
   - translation_iso: fra
     name: ngada Timur
   - translation_iso: hin

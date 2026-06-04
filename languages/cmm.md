@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الميتشيغاميا
     auto: true
+  - translation_iso: deu
+    name: Michigamea
+    auto: true
   - translation_iso: fra
     name: mitchigamea
   - translation_iso: hin

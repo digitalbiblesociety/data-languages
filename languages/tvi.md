@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: توللاي
     auto: true
+  - translation_iso: deu
+    name: Tulai
+    auto: true
   - translation_iso: fra
     name: tule
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيمتويك
     auto: true
+  - translation_iso: deu
+    name: Kemtuik
+    auto: true
   - translation_iso: fra
     name: Kemtuik
     auto: true

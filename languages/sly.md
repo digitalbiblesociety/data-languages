@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيلايار
     auto: true
+  - translation_iso: deu
+    name: Selayar
   - translation_iso: fra
     name: selayar
   - translation_iso: hin

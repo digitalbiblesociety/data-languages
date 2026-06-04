@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفوي
     auto: true
+  - translation_iso: deu
+    name: Fwe
+    auto: true
   - translation_iso: fra
     name: fwe
   - translation_iso: hin

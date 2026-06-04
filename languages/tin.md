@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تندي
     auto: true
+  - translation_iso: deu
+    name: Tindisch
   - translation_iso: fra
     name: tindi
   - translation_iso: hin

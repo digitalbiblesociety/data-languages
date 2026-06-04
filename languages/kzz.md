@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالابرا
     auto: true
+  - translation_iso: deu
+    name: Kalabra
+    auto: true
   - translation_iso: fra
     name: kalabra
   - translation_iso: hin

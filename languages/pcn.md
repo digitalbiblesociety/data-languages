@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيتي
     auto: true
+  - translation_iso: deu
+    name: Piti
+    auto: true
   - translation_iso: fra
     name: piti
   - translation_iso: hin

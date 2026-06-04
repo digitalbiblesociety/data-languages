@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماريماننديجي
     auto: true
+  - translation_iso: deu
+    name: Marimanindji
+    auto: true
   - translation_iso: fra
     name: marimanindji
   - translation_iso: hin

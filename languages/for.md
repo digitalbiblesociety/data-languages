@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الفور
     auto: true
+  - translation_iso: deu
+    name: Fore
+    auto: true
   - translation_iso: fra
     name: fore
   - translation_iso: hin

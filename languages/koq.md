@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوتا
     auto: true
+  - translation_iso: deu
+    name: Kota
   - translation_iso: fra
     name: kota
   - translation_iso: hin

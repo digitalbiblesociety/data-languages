@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراننان
     auto: true
+  - translation_iso: deu
+    name: Paranan
+    auto: true
   - translation_iso: fra
     name: Paranan
     auto: true

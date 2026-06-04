@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيليمو
     auto: true
+  - translation_iso: deu
+    name: Silimo
+    auto: true
   - translation_iso: fra
     name: Silimo
     auto: true

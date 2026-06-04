@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السينسي
     auto: true
+  - translation_iso: deu
+    name: Sensi
+    auto: true
   - translation_iso: fra
     name: Sensi
     auto: true

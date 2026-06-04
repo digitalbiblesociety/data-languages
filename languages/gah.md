@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأليكانو
     auto: true
+  - translation_iso: deu
+    name: Alekano
+    auto: true
   - translation_iso: fra
     name: alekano
   - translation_iso: hin

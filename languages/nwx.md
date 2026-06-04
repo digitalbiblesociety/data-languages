@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نيوار الوسطى
     auto: true
+  - translation_iso: deu
+    name: Mittel-Newari
+    auto: true
   - translation_iso: fra
     name: Newar moyen
     auto: true

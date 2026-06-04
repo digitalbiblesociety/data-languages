@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييندجيبارندي
     auto: true
+  - translation_iso: deu
+    name: Yindjibarndi
+    auto: true
   - translation_iso: fra
     name: yinjibarndi
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايتسي
     auto: true
+  - translation_iso: deu
+    name: Paicî
+    auto: true
   - translation_iso: fra
     name: paicî
   - translation_iso: hin

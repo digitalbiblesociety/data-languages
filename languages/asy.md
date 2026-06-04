@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياوساكور أسمات
     auto: true
+  - translation_iso: deu
+    name: Yaosakor-Asmat
+    auto: true
   - translation_iso: fra
     name: yaosakor
   - translation_iso: hin

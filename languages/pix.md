@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيو
     auto: true
+  - translation_iso: deu
+    name: Piu
+    auto: true
   - translation_iso: fra
     name: piu
   - translation_iso: hin

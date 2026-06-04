@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوسيلآي
     auto: true
+  - translation_iso: deu
+    name: Gusilay
   - translation_iso: fra
     name: gusilay
   - translation_iso: hin

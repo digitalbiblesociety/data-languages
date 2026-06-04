@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سايولا
     auto: true
+  - translation_iso: deu
+    name: Sayula-Popoluca
+    auto: true
   - translation_iso: fra
     name: popoluca de Sayula
   - translation_iso: hin

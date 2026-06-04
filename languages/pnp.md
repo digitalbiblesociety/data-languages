@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانكانا
     auto: true
+  - translation_iso: deu
+    name: Pancana
+    auto: true
   - translation_iso: fra
     name: panacana
   - translation_iso: hin

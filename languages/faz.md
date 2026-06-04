@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: الفارسية الشمالية الغربية
     auto: true
+  - translation_iso: deu
+    name: Nordwest-Fars
+    auto: true
   - translation_iso: fra
     name: Fars du nord-ouest
     auto: true

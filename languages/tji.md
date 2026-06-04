@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توجيا الشمالية
     auto: true
+  - translation_iso: deu
+    name: Northern Tujia
+    auto: true
   - translation_iso: fra
     name: tujia du Nord
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Extremaduran_language"
 translations:
   - translation_iso: ara
     name: لغة إكستريمادورا
+  - translation_iso: deu
+    name: Extremadurisc
   - translation_iso: fra
     name: estrémègne
   - translation_iso: hin

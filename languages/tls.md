@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تامبوتالو
     auto: true
+  - translation_iso: deu
+    name: Tambotalo
+    auto: true
   - translation_iso: fra
     name: tambotalo
   - translation_iso: hin

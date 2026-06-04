@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توبا
     auto: true
+  - translation_iso: deu
+    name: Toba
+    auto: true
   - translation_iso: fra
     name: toba
   - translation_iso: hin

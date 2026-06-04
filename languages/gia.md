@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيجآ
     auto: true
+  - translation_iso: deu
+    name: Kija
+    auto: true
   - translation_iso: fra
     name: kija
   - translation_iso: hin

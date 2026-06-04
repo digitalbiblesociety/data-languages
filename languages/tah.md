@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tahitian_language"
 translations:
   - translation_iso: ara
     name: التاهيتية
+  - translation_iso: deu
+    name: Tahitianisch
   - translation_iso: fra
     name: tahitien
   - translation_iso: hin

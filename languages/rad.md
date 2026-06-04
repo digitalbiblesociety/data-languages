@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رادي
     auto: true
+  - translation_iso: deu
+    name: Rade
+    auto: true
   - translation_iso: fra
     name: rhade
   - translation_iso: hin

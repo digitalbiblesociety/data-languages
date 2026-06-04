@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة ثور
     auto: true
+  - translation_iso: deu
+    name: Thur
+    auto: true
   - translation_iso: fra
     name: thur
   - translation_iso: hin

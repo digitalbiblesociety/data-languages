@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويو الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Süd-Awyu
+    auto: true
   - translation_iso: fra
     name: aghu du Sud
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أيميل
     auto: true
+  - translation_iso: deu
+    name: Aimele
+    auto: true
   - translation_iso: fra
     name: aimele
   - translation_iso: hin

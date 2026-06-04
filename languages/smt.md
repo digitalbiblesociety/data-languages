@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيمتي
     auto: true
+  - translation_iso: deu
+    name: Simte
+    auto: true
   - translation_iso: fra
     name: simte
   - translation_iso: hin

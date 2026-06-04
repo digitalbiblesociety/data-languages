@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاوتو تشين
     auto: true
+  - translation_iso: deu
+    name: Lautu-Chin
+    auto: true
   - translation_iso: fra
     name: Chin Lautu
     auto: true

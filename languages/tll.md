@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيتيلا
     auto: true
+  - translation_iso: deu
+    name: Tetela
+    auto: true
   - translation_iso: fra
     name: tetela
   - translation_iso: hin

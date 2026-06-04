@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وومو
     auto: true
+  - translation_iso: deu
+    name: Womo
+    auto: true
   - translation_iso: fra
     name: womo
   - translation_iso: hin

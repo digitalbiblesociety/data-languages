@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: غوفآ
     auto: true
+  - translation_iso: deu
+    name: Gofa
+    auto: true
   - translation_iso: fra
     name: gofa
   - translation_iso: hin

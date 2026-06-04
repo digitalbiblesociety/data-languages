@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الملايو المعياري
     auto: true
+  - translation_iso: deu
+    name: Standardmalaiisch
+    auto: true
   - translation_iso: fra
     name: Malais standard
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إل نايار كورا
     auto: true
+  - translation_iso: deu
+    name: El Nayar Cora
   - translation_iso: fra
     name: cora El Nayar
   - translation_iso: hin

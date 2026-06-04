@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة باهاري
     auto: true
+  - translation_iso: deu
+    name: Pahari
+    auto: true
   - translation_iso: fra
     name: Pahari
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة منغولي الطرفية
     auto: true
+  - translation_iso: deu
+    name: Peripheres Mongolisch
+    auto: true
   - translation_iso: fra
     name: mongol de Chine
   - translation_iso: hin

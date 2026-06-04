@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gan_Chinese"
 translations:
   - translation_iso: ara
     name: كن
+  - translation_iso: deu
+    name: Gan
   - translation_iso: fra
     name: gan
   - translation_iso: hin

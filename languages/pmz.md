@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامي الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Süd-Pame
+    auto: true
   - translation_iso: fra
     name: pame du Sud
   - translation_iso: hin

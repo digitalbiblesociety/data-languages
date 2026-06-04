@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موريسادا
     auto: true
+  - translation_iso: deu
+    name: Moresada
+    auto: true
   - translation_iso: fra
     name: moresada
   - translation_iso: hin

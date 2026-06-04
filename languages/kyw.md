@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kurmali_language"
 translations:
   - translation_iso: ara
     name: لغة كورمالية
+  - translation_iso: deu
+    name: Kudmali
+    auto: true
   - translation_iso: fra
     name: kudmali
   - translation_iso: hin

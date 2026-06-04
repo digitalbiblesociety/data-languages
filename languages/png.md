@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بونجو
     auto: true
+  - translation_iso: deu
+    name: Pongu
   - translation_iso: fra
     name: pongu
   - translation_iso: hin

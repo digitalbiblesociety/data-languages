@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يل
     auto: true
+  - translation_iso: deu
+    name: Lyélé
+    auto: true
   - translation_iso: fra
     name: lyélé
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وورروغو
     auto: true
+  - translation_iso: deu
+    name: Wurrugu
+    auto: true
   - translation_iso: fra
     name: Wurrugu
     auto: true

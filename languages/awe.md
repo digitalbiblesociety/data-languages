@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويتي
     auto: true
+  - translation_iso: deu
+    name: Awetí
+    auto: true
   - translation_iso: fra
     name: aweti
   - translation_iso: hin

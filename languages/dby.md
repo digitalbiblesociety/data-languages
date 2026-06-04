@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: ديبياسو
     auto: true
+  - translation_iso: deu
+    name: Dibiyaso
+    auto: true
   - translation_iso: fra
     name: dibiyaso
   - translation_iso: hin

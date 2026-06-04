@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيشوو
     auto: true
+  - translation_iso: deu
+    name: Bischuo
   - translation_iso: fra
     name: bishuo
   - translation_iso: hin

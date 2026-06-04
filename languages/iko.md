@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أولولومو-إيكوم
     auto: true
+  - translation_iso: deu
+    name: Olulumo-Ikom
+    auto: true
   - translation_iso: fra
     name: langue Ikom
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيوا
     auto: true
+  - translation_iso: deu
+    name: Tewa (USA)
+    auto: true
   - translation_iso: fra
     name: tewa
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكبيغو
     auto: true
+  - translation_iso: deu
+    name: Kpeego
+    auto: true
   - translation_iso: fra
     name: kpeego
   - translation_iso: hin

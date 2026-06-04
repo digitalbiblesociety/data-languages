@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لامبيا
     auto: true
+  - translation_iso: deu
+    name: Lambya
+    auto: true
   - translation_iso: fra
     name: Lambya
     auto: true

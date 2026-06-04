@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: وومبفو
     auto: true
+  - translation_iso: deu
+    name: Wumbvu
   - translation_iso: fra
     name: wumbvu
   - translation_iso: hin

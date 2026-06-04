@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كافوندو كريول
     auto: true
+  - translation_iso: deu
+    name: Cafundo-Kreol
+    auto: true
   - translation_iso: fra
     name: Créole de Cafundo
     auto: true

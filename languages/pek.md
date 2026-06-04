@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينتشال
     auto: true
+  - translation_iso: deu
+    name: Penchal
+    auto: true
   - translation_iso: fra
     name: penchal
   - translation_iso: hin

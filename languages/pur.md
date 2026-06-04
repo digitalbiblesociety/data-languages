@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوروبورا
     auto: true
+  - translation_iso: deu
+    name: Puruborá
+    auto: true
   - translation_iso: fra
     name: puruborá
   - translation_iso: hin

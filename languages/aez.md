@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أيكا
     auto: true
+  - translation_iso: deu
+    name: Aeka
+    auto: true
   - translation_iso: fra
     name: aeka
   - translation_iso: hin

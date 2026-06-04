@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة تينهاريم
     auto: true
+  - translation_iso: deu
+    name: Tenharim
+    auto: true
   - translation_iso: fra
     name: tenharim
   - translation_iso: hin

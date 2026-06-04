@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nayini_language"
 translations:
   - translation_iso: ara
     name: لغة ناييني
+  - translation_iso: deu
+    name: Nayini
+    auto: true
   - translation_iso: fra
     name: nayini
   - translation_iso: hin

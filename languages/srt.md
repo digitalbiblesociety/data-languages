@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساوري
     auto: true
+  - translation_iso: deu
+    name: Sauri
+    auto: true
   - translation_iso: fra
     name: sauri
   - translation_iso: hin

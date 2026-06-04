@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توملييو
     auto: true
+  - translation_iso: deu
+    name: Tumleo
+    auto: true
   - translation_iso: fra
     name: tumleo
   - translation_iso: hin

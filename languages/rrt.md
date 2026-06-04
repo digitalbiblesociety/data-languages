@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أريتينجيثيج
     auto: true
+  - translation_iso: deu
+    name: Arritinngithigh
+    auto: true
   - translation_iso: fra
     name: arritinngithigh
   - translation_iso: hin

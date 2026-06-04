@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aari_language"
 translations:
   - translation_iso: ara
     name: لغة آري
+  - translation_iso: deu
+    name: Aari
   - translation_iso: fra
     name: aari
   - translation_iso: hin

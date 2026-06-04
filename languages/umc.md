@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ماروتسينيان
     auto: true
+  - translation_iso: deu
+    name: Marrukinisch
   - translation_iso: fra
     name: marrucin
   - translation_iso: hin

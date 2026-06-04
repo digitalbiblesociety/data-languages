@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوانغ
     auto: true
+  - translation_iso: deu
+    name: Dwang
   - translation_iso: fra
     name: dwang
   - translation_iso: hin

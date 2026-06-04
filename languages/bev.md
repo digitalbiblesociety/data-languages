@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دالوا بيتي
     auto: true
+  - translation_iso: deu
+    name: Daloa Bété
+    auto: true
   - translation_iso: fra
     name: Bété de Daloa
     auto: true

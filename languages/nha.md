@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نهاندا
     auto: true
+  - translation_iso: deu
+    name: Nhanda
+    auto: true
   - translation_iso: fra
     name: nhanta
   - translation_iso: hin

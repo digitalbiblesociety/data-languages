@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوروبون سيلا
     auto: true
+  - translation_iso: deu
+    name: Korupun-Sela
+    auto: true
   - translation_iso: fra
     name: korupun-sela
   - translation_iso: hin

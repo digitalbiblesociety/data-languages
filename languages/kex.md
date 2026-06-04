@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة كوكنا
     auto: true
+  - translation_iso: deu
+    name: Kukna
+    auto: true
   - translation_iso: fra
     name: Kukna
     auto: true

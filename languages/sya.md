@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيانغ
     auto: true
+  - translation_iso: deu
+    name: Siang
+    auto: true
   - translation_iso: fra
     name: siang
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمبولاس
     auto: true
+  - translation_iso: deu
+    name: Ambulas
+    auto: true
   - translation_iso: fra
     name: ambulas
   - translation_iso: hin

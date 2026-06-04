@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوا
     auto: true
+  - translation_iso: deu
+    name: Awa
   - translation_iso: fra
     name: awa
   - translation_iso: hin

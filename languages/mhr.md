@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماري الشرقية
     auto: true
+  - translation_iso: deu
+    name: Wiesenmari
   - translation_iso: fra
     name: mari des prairies
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tamil_language"
 translations:
   - translation_iso: ara
     name: التملية
+  - translation_iso: deu
+    name: Tamil
   - translation_iso: fra
     name: tamoul
   - translation_iso: hin

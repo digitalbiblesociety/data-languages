@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Prussian_language"
 translations:
   - translation_iso: ara
     name: البروسية القديمة
+  - translation_iso: deu
+    name: Altpreußisch
   - translation_iso: fra
     name: vieux-prussien
   - translation_iso: hin

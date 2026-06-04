@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة غالو
     auto: true
+  - translation_iso: deu
+    name: Galo
+    auto: true
   - translation_iso: fra
     name: galo
   - translation_iso: hin

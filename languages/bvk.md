@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوكات
     auto: true
+  - translation_iso: deu
+    name: Bukat
+    auto: true
   - translation_iso: fra
     name: bukat
   - translation_iso: hin

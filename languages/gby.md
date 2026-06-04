@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجباري
     auto: true
+  - translation_iso: deu
+    name: Gbari
+    auto: true
   - translation_iso: fra
     name: gbari
   - translation_iso: hin

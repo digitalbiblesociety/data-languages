@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ابراس
     auto: true
+  - translation_iso: deu
+    name: Kabras
+    auto: true
   - translation_iso: fra
     name: lukabaras
   - translation_iso: hin

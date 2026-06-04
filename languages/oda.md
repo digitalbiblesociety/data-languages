@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة أودوت
     auto: true
+  - translation_iso: deu
+    name: Odut
+    auto: true
   - translation_iso: fra
     name: odut
   - translation_iso: hin

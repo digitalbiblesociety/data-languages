@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة يارسون
     auto: true
+  - translation_iso: deu
+    name: Yarsun
+    auto: true
   - translation_iso: fra
     name: yarsun
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة نغاجوري
     auto: true
+  - translation_iso: deu
+    name: Ngadjuri
+    auto: true
   - translation_iso: fra
     name: ngadjuri
   - translation_iso: hin

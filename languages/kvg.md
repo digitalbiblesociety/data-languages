@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوني-بوازي
     auto: true
+  - translation_iso: deu
+    name: Kuni-Boazi
+    auto: true
   - translation_iso: fra
     name: boazi
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ألتا الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nord-Alta
+    auto: true
   - translation_iso: fra
     name: alta du Nord
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موروكودو
     auto: true
+  - translation_iso: deu
+    name: Morokodo
+    auto: true
   - translation_iso: fra
     name: morokodo
   - translation_iso: hin

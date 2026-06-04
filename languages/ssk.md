@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونام
     auto: true
+  - translation_iso: deu
+    name: Sunam
+    auto: true
   - translation_iso: fra
     name: Sunam
     auto: true

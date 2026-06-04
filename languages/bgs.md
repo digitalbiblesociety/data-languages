@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاجابوا
     auto: true
+  - translation_iso: deu
+    name: Tagabawa
+    auto: true
   - translation_iso: fra
     name: Tagabawa
     auto: true

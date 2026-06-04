@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميندانكوي نكوين
     auto: true
+  - translation_iso: deu
+    name: Mendankwe-Nkwen
+    auto: true
   - translation_iso: fra
     name: mendankwe-nkwen
   - translation_iso: hin

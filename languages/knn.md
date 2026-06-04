@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكونكانية
     auto: true
+  - translation_iso: deu
+    name: Konkani
+    auto: true
   - translation_iso: fra
     name: konkani de Maharashtra
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كونيمايبا
     auto: true
+  - translation_iso: deu
+    name: Kunimaipa
+    auto: true
   - translation_iso: fra
     name: kunimaipa
   - translation_iso: hin

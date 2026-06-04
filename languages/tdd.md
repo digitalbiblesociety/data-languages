@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: تاي نويا
     auto: true
+  - translation_iso: deu
+    name: Tai Nüa
   - translation_iso: fra
     name: tai nüa
   - translation_iso: hin

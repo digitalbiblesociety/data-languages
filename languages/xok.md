@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شوكلينج
     auto: true
+  - translation_iso: deu
+    name: Xokleng
+    auto: true
   - translation_iso: fra
     name: xoclengue
   - translation_iso: hin

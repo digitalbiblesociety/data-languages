@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوكودا
     auto: true
+  - translation_iso: deu
+    name: Kokoda
+    auto: true
   - translation_iso: fra
     name: Kokoda
     auto: true

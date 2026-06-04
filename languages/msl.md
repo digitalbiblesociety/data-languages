@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة مولوف
     auto: true
+  - translation_iso: deu
+    name: Molof
+    auto: true
   - translation_iso: fra
     name: molof
   - translation_iso: hin

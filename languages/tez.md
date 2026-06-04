@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tetserret_language"
 translations:
   - translation_iso: ara
     name: لغة تتسرت
+  - translation_iso: deu
+    name: Tetserret
+    auto: true
   - translation_iso: fra
     name: tetserret
   - translation_iso: hin

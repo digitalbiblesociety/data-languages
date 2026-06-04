@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانيكاران
     auto: true
+  - translation_iso: deu
+    name: Kanikkaran
+    auto: true
   - translation_iso: fra
     name: kanikkaran
   - translation_iso: hin

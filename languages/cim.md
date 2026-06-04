@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: السيمبري
     auto: true
+  - translation_iso: deu
+    name: Zimbrisch
   - translation_iso: fra
     name: cimbre
   - translation_iso: hin

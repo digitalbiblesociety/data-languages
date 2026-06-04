@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بارا ملاجاشي
     auto: true
+  - translation_iso: deu
+    name: Bara Malagasy
+    auto: true
   - translation_iso: fra
     name: malgache bara
   - translation_iso: hin

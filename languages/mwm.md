@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سار
     auto: true
+  - translation_iso: deu
+    name: Sar
+    auto: true
   - translation_iso: fra
     name: sar
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايي
     auto: true
+  - translation_iso: deu
+    name: Kaiy
+    auto: true
   - translation_iso: fra
     name: kaiy
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونتوك الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentral-Bontok
+    auto: true
   - translation_iso: fra
     name: bontok central
   - translation_iso: hin

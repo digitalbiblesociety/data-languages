@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجارينيين
     auto: true
+  - translation_iso: deu
+    name: Ngarinyin
+    auto: true
   - translation_iso: fra
     name: ngarinyin
   - translation_iso: hin

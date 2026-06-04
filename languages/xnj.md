@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشينجوني
     auto: true
+  - translation_iso: deu
+    name: Chingoni
+    auto: true
   - translation_iso: fra
     name: ngoni de Tanzanie
   - translation_iso: hin

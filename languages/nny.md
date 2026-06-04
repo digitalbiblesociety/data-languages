@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييانغا
     auto: true
+  - translation_iso: deu
+    name: Nyangga
+    auto: true
   - translation_iso: fra
     name: nyangga
   - translation_iso: hin

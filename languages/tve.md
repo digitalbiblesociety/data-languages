@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيعون
     auto: true
+  - translation_iso: deu
+    name: "Te'un"
   - translation_iso: fra
     name: "te'un"
   - translation_iso: hin

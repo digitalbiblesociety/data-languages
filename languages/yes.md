@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيانكبا
     auto: true
+  - translation_iso: deu
+    name: Nyankpa
+    auto: true
   - translation_iso: fra
     name: Nyankpa
     auto: true

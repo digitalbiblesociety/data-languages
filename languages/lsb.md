@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البوروندية
     auto: true
+  - translation_iso: deu
+    name: Burundi-Gebärdensprache
   - translation_iso: fra
     name: langue des signes du Burundi
   - translation_iso: hin

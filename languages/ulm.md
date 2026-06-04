@@ -18,8 +18,10 @@ translations:
   - translation_iso: ara
     name: أولوماندا
     auto: true
+  - translation_iso: deu
+    name: Ulumanda’
   - translation_iso: fra
-    name: "Ulumanda'"
+    name: Ulumanda
     auto: true
   - translation_iso: hin
     name: उलुमांदा

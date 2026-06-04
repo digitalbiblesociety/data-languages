@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اكون
     auto: true
+  - translation_iso: deu
+    name: Lakon
+    auto: true
   - translation_iso: fra
     name: lakon
   - translation_iso: hin

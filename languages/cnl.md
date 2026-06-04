@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لالانا تشينانتك
     auto: true
+  - translation_iso: deu
+    name: Lalana-Chinantekisch
+    auto: true
   - translation_iso: fra
     name: chinantèque de Lalana
   - translation_iso: hin

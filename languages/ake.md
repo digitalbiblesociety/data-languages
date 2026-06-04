@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أكاوايو
     auto: true
+  - translation_iso: deu
+    name: Akawaio
   - translation_iso: fra
     name: akawaïo
   - translation_iso: hin

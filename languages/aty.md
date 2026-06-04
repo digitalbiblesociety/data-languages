@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنيتيوم
     auto: true
+  - translation_iso: deu
+    name: Aneityum
+    auto: true
   - translation_iso: fra
     name: anejom
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة اورينتيان
     auto: true
+  - translation_iso: deu
+    name: Laurentisch
   - translation_iso: fra
     name: laurentien
   - translation_iso: hin

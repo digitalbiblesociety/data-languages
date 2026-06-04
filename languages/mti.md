@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مايوا (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: deu
+    name: Maiwa (Papua-Neuguinea)
+    auto: true
   - translation_iso: fra
     name: Maiwa (Papouasie-Nouvelle-Guinée)
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويكيييانه
     auto: true
+  - translation_iso: deu
+    name: Wik-Iiyanh
+    auto: true
   - translation_iso: fra
     name: wik-iiyanh
   - translation_iso: hin

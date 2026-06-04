@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سوروي
     auto: true
+  - translation_iso: deu
+    name: Surui
   - translation_iso: fra
     name: suruí
   - translation_iso: hin

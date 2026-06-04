@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماروبو
     auto: true
+  - translation_iso: deu
+    name: Marúbo
+    auto: true
   - translation_iso: fra
     name: marubo
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيميولوي
     auto: true
+  - translation_iso: deu
+    name: Simeulue
   - translation_iso: fra
     name: simeulue
   - translation_iso: hin

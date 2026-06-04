@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دانوار
     auto: true
+  - translation_iso: deu
+    name: Dhanwar (Nepal)
+    auto: true
   - translation_iso: fra
     name: dhanwar
   - translation_iso: hin

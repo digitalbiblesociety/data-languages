@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بنرين
     auto: true
+  - translation_iso: deu
+    name: Penrhyn
+    auto: true
   - translation_iso: fra
     name: tongareva
   - translation_iso: hin

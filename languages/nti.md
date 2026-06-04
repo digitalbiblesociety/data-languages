@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناتيورو
     auto: true
+  - translation_iso: deu
+    name: Natioro
   - translation_iso: fra
     name: natioro
   - translation_iso: hin

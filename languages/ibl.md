@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيبالوي
     auto: true
+  - translation_iso: deu
+    name: Ibaloi
+    auto: true
   - translation_iso: fra
     name: ivadois
   - translation_iso: hin

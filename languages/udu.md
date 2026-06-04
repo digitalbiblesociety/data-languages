@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أودوك
     auto: true
+  - translation_iso: deu
+    name: Uduk
+    auto: true
   - translation_iso: fra
     name: uduk
   - translation_iso: hin

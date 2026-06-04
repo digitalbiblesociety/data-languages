@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كايكادي
     auto: true
+  - translation_iso: deu
+    name: Kaikadi
+    auto: true
   - translation_iso: fra
     name: Kaikadi
     auto: true

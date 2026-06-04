@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الفيليبينية
     auto: true
+  - translation_iso: deu
+    name: Philippinische Gebärdensprache
   - translation_iso: fra
     name: Langue des signes philippine
     auto: true

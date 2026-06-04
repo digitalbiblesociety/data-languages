@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أنغولار
     auto: true
+  - translation_iso: deu
+    name: Angolar
   - translation_iso: fra
     name: angolar
   - translation_iso: hin

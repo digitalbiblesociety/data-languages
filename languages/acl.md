@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أكار-بالي
     auto: true
+  - translation_iso: deu
+    name: Akar-Bale
   - translation_iso: fra
     name: Akar-Bale
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: آندآمآن كرإولإ هيندي
     auto: true
+  - translation_iso: deu
+    name: Andamanen-Kreolhindi
+    auto: true
   - translation_iso: fra
     name: Hindi créole des Andaman
     auto: true

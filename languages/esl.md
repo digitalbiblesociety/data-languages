@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Egyptian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة المصرية
+  - translation_iso: deu
+    name: Ägyptische Gebärdensprache
   - translation_iso: fra
     name: langue des signes égyptienne
   - translation_iso: hin

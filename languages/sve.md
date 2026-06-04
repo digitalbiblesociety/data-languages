@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيريلي
     auto: true
+  - translation_iso: deu
+    name: Serili
   - translation_iso: fra
     name: serili
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: باجا كوجا
     auto: true
+  - translation_iso: deu
+    name: Koga
   - translation_iso: fra
     name: Baga Koga
     auto: true

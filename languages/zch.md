@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة هونغشويهي الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentral-Hongshuihe-Zhuang
+    auto: true
   - translation_iso: fra
     name: zhuang de Hongshuihe central
   - translation_iso: hin

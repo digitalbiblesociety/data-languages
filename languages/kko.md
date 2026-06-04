@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Karko_language_(Sudan)"
 translations:
   - translation_iso: ara
     name: كاركو (لغة)
+  - translation_iso: deu
+    name: Karko
   - translation_iso: fra
     name: karko
   - translation_iso: hin

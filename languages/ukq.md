@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوكوا
     auto: true
+  - translation_iso: deu
+    name: Ukwa
+    auto: true
   - translation_iso: fra
     name: ukwa
   - translation_iso: hin

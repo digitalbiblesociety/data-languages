@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي ولاية مكسيكو
     auto: true
+  - translation_iso: deu
+    name: Otomí des Bundesstaates México
+    auto: true
   - translation_iso: fra
     name: "otomi de l'État de Mexico"
   - translation_iso: hin

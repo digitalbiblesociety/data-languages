@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موبي
     auto: true
+  - translation_iso: deu
+    name: Mubi
   - translation_iso: fra
     name: mubi
   - translation_iso: hin

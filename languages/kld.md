@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاميلاراي
     auto: true
+  - translation_iso: deu
+    name: Gamilaraay
+    auto: true
   - translation_iso: fra
     name: kamilaroi
   - translation_iso: hin

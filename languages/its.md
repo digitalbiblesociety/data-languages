@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيسيكيري
     auto: true
+  - translation_iso: deu
+    name: Itsekiri
   - translation_iso: fra
     name: itsekiri
   - translation_iso: hin

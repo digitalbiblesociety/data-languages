@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة التبتية الآمدو
     auto: true
+  - translation_iso: deu
+    name: Amdo-Tibetisch
+    auto: true
   - translation_iso: fra
     name: "tibétain de l'Amdo"
   - translation_iso: hin

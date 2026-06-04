@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: فويا فويا
     auto: true
+  - translation_iso: deu
+    name: Foia Foia
+    auto: true
   - translation_iso: fra
     name: Foia Foia
     auto: true

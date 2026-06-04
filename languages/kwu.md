@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كواكوم
     auto: true
+  - translation_iso: deu
+    name: Kwakum
   - translation_iso: fra
     name: kwakum
   - translation_iso: hin

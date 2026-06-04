@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيدجن ناجا
     auto: true
+  - translation_iso: deu
+    name: Naga-Pidgin
+    auto: true
   - translation_iso: fra
     name: Naga Pidgin
     auto: true

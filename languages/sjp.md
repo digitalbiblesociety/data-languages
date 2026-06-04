@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Surjapuri_language"
 translations:
   - translation_iso: ara
     name: لغة سورجابورية
+  - translation_iso: deu
+    name: Surjapuri
+    auto: true
   - translation_iso: fra
     name: Surjapuri
     auto: true

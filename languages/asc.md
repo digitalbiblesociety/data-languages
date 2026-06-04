@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أسمات ساحل كاسواارينا
     auto: true
+  - translation_iso: deu
+    name: Casuarina-Coast-Asmat
+    auto: true
   - translation_iso: fra
     name: Asmat de la côte Casuarina
     auto: true

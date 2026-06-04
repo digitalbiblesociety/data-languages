@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موري
     auto: true
+  - translation_iso: deu
+    name: Moere
+    auto: true
   - translation_iso: fra
     name: moere
   - translation_iso: hin

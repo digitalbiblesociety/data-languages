@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك ميكستيبك
     auto: true
+  - translation_iso: deu
+    name: Mixtepec Mixtec
+    auto: true
   - translation_iso: fra
     name: mixtèque de Mixtepec
   - translation_iso: hin

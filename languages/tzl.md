@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: تالوسان
     auto: true
+  - translation_iso: deu
+    name: Talossanisch
   - translation_iso: fra
     name: talossien
   - translation_iso: hin

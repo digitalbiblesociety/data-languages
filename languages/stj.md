@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماتيا سامو
     auto: true
+  - translation_iso: deu
+    name: Matya Samo
+    auto: true
   - translation_iso: fra
     name: samo matya
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجو
     auto: true
+  - translation_iso: deu
+    name: Songo
+    auto: true
   - translation_iso: fra
     name: songo
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يakan
     auto: true
+  - translation_iso: deu
+    name: Yakan
+    auto: true
   - translation_iso: fra
     name: yakan
   - translation_iso: hin

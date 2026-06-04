@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيهاكور
     auto: true
+  - translation_iso: deu
+    name: Nyahkur
   - translation_iso: fra
     name: nyahkur
   - translation_iso: hin

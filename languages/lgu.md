@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لونغو
     auto: true
+  - translation_iso: deu
+    name: Longgu
   - translation_iso: fra
     name: longgu
   - translation_iso: hin

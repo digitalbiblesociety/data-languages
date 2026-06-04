@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلاندا بور
     auto: true
+  - translation_iso: deu
+    name: Belanda Bor
+    auto: true
   - translation_iso: fra
     name: belanda bor
   - translation_iso: hin

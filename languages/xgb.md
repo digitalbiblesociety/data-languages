@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غبين
     auto: true
+  - translation_iso: deu
+    name: Gbin
+    auto: true
   - translation_iso: fra
     name: gbin
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كامايورا
     auto: true
+  - translation_iso: deu
+    name: Kamayurá
+    auto: true
   - translation_iso: fra
     name: kamayurá
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كباتي
     auto: true
+  - translation_iso: deu
+    name: Kpati
+    auto: true
   - translation_iso: fra
     name: Kpati
     auto: true

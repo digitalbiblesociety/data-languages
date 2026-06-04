@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جنوب شرق كولامي
     auto: true
+  - translation_iso: deu
+    name: Südöstliches Kolami
+    auto: true
   - translation_iso: fra
     name: kolami du Sud-Est
   - translation_iso: hin

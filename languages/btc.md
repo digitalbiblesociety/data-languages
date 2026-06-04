@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باتي
     auto: true
+  - translation_iso: deu
+    name: Bati
   - translation_iso: fra
     name: bati
   - translation_iso: hin

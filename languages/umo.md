@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوموتينا
     auto: true
+  - translation_iso: deu
+    name: Umotína
+    auto: true
   - translation_iso: fra
     name: umotina
   - translation_iso: hin

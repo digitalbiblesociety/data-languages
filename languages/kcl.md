@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلا
     auto: true
+  - translation_iso: deu
+    name: Kela (Papua-Neuguinea)
+    auto: true
   - translation_iso: fra
     name: kala
   - translation_iso: hin

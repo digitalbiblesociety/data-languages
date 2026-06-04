@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Xiang_Chinese"
 translations:
   - translation_iso: ara
     name: شيانغ الصينية
+  - translation_iso: deu
+    name: Xiang
   - translation_iso: fra
     name: xiang
   - translation_iso: hin

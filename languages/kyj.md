@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاراو
     auto: true
+  - translation_iso: deu
+    name: Karao
+    auto: true
   - translation_iso: fra
     name: karao
   - translation_iso: hin

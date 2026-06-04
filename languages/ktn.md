@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاريتيانا
     auto: true
+  - translation_iso: deu
+    name: Karitiâna
+    auto: true
   - translation_iso: fra
     name: karitiana
   - translation_iso: hin

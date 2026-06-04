@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الأشانينكا
     auto: true
+  - translation_iso: deu
+    name: Asháninka
   - translation_iso: fra
     name: ashaninka
   - translation_iso: hin

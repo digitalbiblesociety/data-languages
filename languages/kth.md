@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كارانجا
     auto: true
+  - translation_iso: deu
+    name: Karanga
+    auto: true
   - translation_iso: fra
     name: karanga
   - translation_iso: hin

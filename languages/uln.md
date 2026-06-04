@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوبر دوتش
     auto: true
+  - translation_iso: deu
+    name: Unserdeutsch
   - translation_iso: fra
     name: unserdeutsch
   - translation_iso: hin

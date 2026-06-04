@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاريبونا
     auto: true
+  - translation_iso: deu
+    name: Karipuna
+    auto: true
   - translation_iso: fra
     name: karipuna
   - translation_iso: hin

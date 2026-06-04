@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي تيكستيبك
     auto: true
+  - translation_iso: deu
+    name: Texcatepec-Otomí
+    auto: true
   - translation_iso: fra
     name: otomi de Texcatepec
   - translation_iso: hin

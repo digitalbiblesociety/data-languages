@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أجينينكا أبوروكايالي
     auto: true
+  - translation_iso: deu
+    name: Ajyíninka Apurucayali
+    auto: true
   - translation_iso: fra
     name: Ajyíninka Apurucayali
     auto: true

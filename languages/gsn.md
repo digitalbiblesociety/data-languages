@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نإمآ
     auto: true
+  - translation_iso: deu
+    name: Nema
+    auto: true
   - translation_iso: fra
     name: nema
   - translation_iso: hin

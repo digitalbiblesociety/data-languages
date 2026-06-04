@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة المنغولية الخالخا
     auto: true
+  - translation_iso: deu
+    name: Chalcha-Mongolisch
   - translation_iso: fra
     name: khalkha
   - translation_iso: hin

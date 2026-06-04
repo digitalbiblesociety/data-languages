@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيبسان
     auto: true
+  - translation_iso: deu
+    name: Nipsan
+    auto: true
   - translation_iso: fra
     name: nipsan
   - translation_iso: hin

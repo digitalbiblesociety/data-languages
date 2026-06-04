@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيتو مبون أوزو
     auto: true
+  - translation_iso: deu
+    name: Itu Mbon Uzo
+    auto: true
   - translation_iso: fra
     name: itu mbon uzo
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بورجي
     auto: true
+  - translation_iso: deu
+    name: Burji
   - translation_iso: fra
     name: burji
   - translation_iso: hin

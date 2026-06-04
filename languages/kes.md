@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوغبو
     auto: true
+  - translation_iso: deu
+    name: Kugbo
+    auto: true
   - translation_iso: fra
     name: kugbo
   - translation_iso: hin

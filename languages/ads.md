@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الآدمورب
     auto: true
+  - translation_iso: deu
+    name: Adamorobe-Gebärdensprache
   - translation_iso: fra
     name: "langue des signes d'Adamorobe"
   - translation_iso: hin

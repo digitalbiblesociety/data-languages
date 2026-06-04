@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سانتا ماريا ديل مار
     auto: true
+  - translation_iso: deu
+    name: Santa-María-del-Mar-Huave
+    auto: true
   - translation_iso: fra
     name: huave de Santa María del Mar
   - translation_iso: hin

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كانويه
     auto: true
+  - translation_iso: deu
+    name: Kanoé
+    auto: true
   - translation_iso: fra
     name: kanoê
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوبانين الوسطى
     auto: true
+  - translation_iso: deu
+    name: Central Subanen
+    auto: true
   - translation_iso: fra
     name: subanen central
   - translation_iso: hin

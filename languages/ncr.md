@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نكاني
     auto: true
+  - translation_iso: deu
+    name: Ncane
+    auto: true
   - translation_iso: fra
     name: ncane
   - translation_iso: hin

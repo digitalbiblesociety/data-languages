@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مارما
     auto: true
+  - translation_iso: deu
+    name: Marma
+    auto: true
   - translation_iso: fra
     name: marma
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كينسيو
     auto: true
+  - translation_iso: deu
+    name: Kensiu
+    auto: true
   - translation_iso: fra
     name: kensiu
   - translation_iso: hin

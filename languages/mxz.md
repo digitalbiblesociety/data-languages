@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سينترال ماسيلا
     auto: true
+  - translation_iso: deu
+    name: Zentral-Masela
+    auto: true
   - translation_iso: fra
     name: masela central
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيمي
     auto: true
+  - translation_iso: deu
+    name: Teme
+    auto: true
   - translation_iso: fra
     name: Teme
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيريسا
     auto: true
+  - translation_iso: deu
+    name: Teressa
+    auto: true
   - translation_iso: fra
     name: teressa
   - translation_iso: hin

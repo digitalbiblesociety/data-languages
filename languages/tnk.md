@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوامير
     auto: true
+  - translation_iso: deu
+    name: Kwamera
+    auto: true
   - translation_iso: fra
     name: kwamera
   - translation_iso: hin

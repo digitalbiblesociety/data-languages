@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kalina_language"
 translations:
   - translation_iso: ara
     name: الكاريبية
+  - translation_iso: deu
+    name: Karibisch
   - translation_iso: fra
     name: "kali'na"
   - translation_iso: hin

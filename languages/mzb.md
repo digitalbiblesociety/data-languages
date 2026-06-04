@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mozabite_language"
 translations:
   - translation_iso: ara
     name: المزابية
+  - translation_iso: deu
+    name: Tumzabt
+    auto: true
   - translation_iso: fra
     name: mozabite
   - translation_iso: hin

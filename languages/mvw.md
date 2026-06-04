@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتشينجا
     auto: true
+  - translation_iso: deu
+    name: Machinga
+    auto: true
   - translation_iso: fra
     name: Machinga
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داهو دو
     auto: true
+  - translation_iso: deu
+    name: Daho-Doo
+    auto: true
   - translation_iso: fra
     name: daho-doo
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Harari_language"
 translations:
   - translation_iso: ara
     name: الهرارية
+  - translation_iso: deu
+    name: Harari
   - translation_iso: fra
     name: harari
   - translation_iso: hin

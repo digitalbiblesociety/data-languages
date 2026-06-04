@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Japanese_language"
 translations:
   - translation_iso: ara
     name: اليابانية
+  - translation_iso: deu
+    name: Japanisch
   - translation_iso: fra
     name: japonais
   - translation_iso: hin

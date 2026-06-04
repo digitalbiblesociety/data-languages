@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أكوا
     auto: true
+  - translation_iso: deu
+    name: Akwa
   - translation_iso: fra
     name: akwa
   - translation_iso: hin

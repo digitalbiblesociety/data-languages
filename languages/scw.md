@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شا
     auto: true
+  - translation_iso: deu
+    name: Sha
+    auto: true
   - translation_iso: fra
     name: sha
   - translation_iso: hin

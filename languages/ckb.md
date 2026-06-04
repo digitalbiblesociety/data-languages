@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Central_Kurdish"
 translations:
   - translation_iso: ara
     name: السورانية
+  - translation_iso: deu
+    name: Sorani
   - translation_iso: fra
     name: sorani
   - translation_iso: hin

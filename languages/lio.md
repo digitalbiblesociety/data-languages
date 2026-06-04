@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يكي
     auto: true
+  - translation_iso: deu
+    name: Liki
+    auto: true
   - translation_iso: fra
     name: liki
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دغويدي
     auto: true
+  - translation_iso: deu
+    name: Dghwede
+    auto: true
   - translation_iso: fra
     name: dghwede
   - translation_iso: hin

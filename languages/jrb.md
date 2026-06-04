@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Arabic"
 translations:
   - translation_iso: ara
     name: عربية يهودية
+  - translation_iso: deu
+    name: Judäo-Arabisch
   - translation_iso: fra
     name: judéo-arabe
   - translation_iso: hin

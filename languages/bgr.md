@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باوم تشين
     auto: true
+  - translation_iso: deu
+    name: Bawm Chin
+    auto: true
   - translation_iso: fra
     name: chin bawm
   - translation_iso: hin

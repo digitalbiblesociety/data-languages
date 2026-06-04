@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوكو
     auto: true
+  - translation_iso: deu
+    name: Oku
   - translation_iso: fra
     name: oku
   - translation_iso: hin

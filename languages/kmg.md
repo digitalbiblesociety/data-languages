@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاتي
     auto: true
+  - translation_iso: deu
+    name: Kâte
+    auto: true
   - translation_iso: fra
     name: kâte
   - translation_iso: hin

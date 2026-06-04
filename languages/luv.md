@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Luwati_language"
 translations:
   - translation_iso: ara
     name: لغة لواتية
+  - translation_iso: deu
+    name: Luwati
   - translation_iso: fra
     name: luwati
   - translation_iso: hin

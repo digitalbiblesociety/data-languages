@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة أماميت كونيا للإشارة
     auto: true
+  - translation_iso: deu
+    name: Amami-Koniya-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: "Langue des signes d'Amami Koniya"
     auto: true

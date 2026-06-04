@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Serbo-Croatian"
 translations:
   - translation_iso: ara
     name: الصربية الكرواتية
+  - translation_iso: deu
+    name: Serbokroatisch
   - translation_iso: fra
     name: serbo-croate
   - translation_iso: hin

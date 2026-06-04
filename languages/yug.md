@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوغ
     auto: true
+  - translation_iso: deu
+    name: Jugisch
   - translation_iso: fra
     name: youge
   - translation_iso: hin

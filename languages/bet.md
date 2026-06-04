@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غيبيروا بيتي
     auto: true
+  - translation_iso: deu
+    name: Guiberoua Béte
+    auto: true
   - translation_iso: fra
     name: Bété de Guiberoua
     auto: true

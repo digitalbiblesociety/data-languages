@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابانجو
     auto: true
+  - translation_iso: deu
+    name: Babango
   - translation_iso: fra
     name: Babango
     auto: true

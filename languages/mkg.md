@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماك
     auto: true
+  - translation_iso: deu
+    name: Mak (China)
+    auto: true
   - translation_iso: fra
     name: mak
   - translation_iso: hin

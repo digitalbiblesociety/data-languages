@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاو لان
     auto: true
+  - translation_iso: deu
+    name: Cao Lan
+    auto: true
   - translation_iso: fra
     name: cao lan
   - translation_iso: hin

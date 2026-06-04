@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نامكورا
     auto: true
+  - translation_iso: deu
+    name: Namakura
+    auto: true
   - translation_iso: fra
     name: namakura
   - translation_iso: hin

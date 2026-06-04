@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماريكوبا
     auto: true
+  - translation_iso: deu
+    name: Maricopa
+    auto: true
   - translation_iso: fra
     name: maricopa
   - translation_iso: hin

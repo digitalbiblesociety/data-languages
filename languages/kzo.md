@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كانينجي
     auto: true
+  - translation_iso: deu
+    name: Kaningi
   - translation_iso: fra
     name: kaningi
   - translation_iso: hin

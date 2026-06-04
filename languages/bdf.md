@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة بياجي
     auto: true
+  - translation_iso: deu
+    name: Biage
+    auto: true
   - translation_iso: fra
     name: biage
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بينونغان إيتنيغ
     auto: true
+  - translation_iso: deu
+    name: Binongan-Itneg
+    auto: true
   - translation_iso: fra
     name: Itneg de Binongan
     auto: true

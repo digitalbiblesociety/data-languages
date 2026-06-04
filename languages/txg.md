@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tangut_language"
 translations:
   - translation_iso: ara
     name: لغة تانغوت
+  - translation_iso: deu
+    name: Tangutisch
   - translation_iso: fra
     name: tangoute
   - translation_iso: hin

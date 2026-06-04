@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إماي
     auto: true
+  - translation_iso: deu
+    name: Emae
+    auto: true
   - translation_iso: fra
     name: emae
   - translation_iso: hin

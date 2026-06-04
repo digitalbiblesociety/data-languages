@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كونجو سان سالفادور
     auto: true
+  - translation_iso: deu
+    name: San-Salvador-Kongo
+    auto: true
   - translation_iso: fra
     name: kikongo de San Salvador
   - translation_iso: hin

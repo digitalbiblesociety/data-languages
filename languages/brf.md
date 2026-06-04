@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيرا
     auto: true
+  - translation_iso: deu
+    name: Bera
+    auto: true
   - translation_iso: fra
     name: bera
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aimaq_dialect"
 translations:
   - translation_iso: ara
     name: اللهجة الإيماقية
+  - translation_iso: deu
+    name: Aimaq
   - translation_iso: fra
     name: Aimaq
     auto: true

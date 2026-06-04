@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تامان
     auto: true
+  - translation_iso: deu
+    name: Taman (Myanmar)
+    auto: true
   - translation_iso: fra
     name: taman
   - translation_iso: hin

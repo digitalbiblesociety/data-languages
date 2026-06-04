@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شومتشو
     auto: true
+  - translation_iso: deu
+    name: Shumcho
+    auto: true
   - translation_iso: fra
     name: shumcho
   - translation_iso: hin

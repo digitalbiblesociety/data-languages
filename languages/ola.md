@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة والونغي
     auto: true
+  - translation_iso: deu
+    name: Walungge
+    auto: true
   - translation_iso: fra
     name: walungge
   - translation_iso: hin

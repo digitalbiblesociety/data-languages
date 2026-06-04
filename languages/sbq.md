@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيليبي
     auto: true
+  - translation_iso: deu
+    name: Sileibi
+    auto: true
   - translation_iso: fra
     name: sileibi
   - translation_iso: hin

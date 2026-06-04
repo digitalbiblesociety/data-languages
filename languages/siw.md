@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيواي
     auto: true
+  - translation_iso: deu
+    name: Siwai
+    auto: true
   - translation_iso: fra
     name: siwai
   - translation_iso: hin

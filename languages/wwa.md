@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وااما
     auto: true
+  - translation_iso: deu
+    name: Waama
+    auto: true
   - translation_iso: fra
     name: waama
   - translation_iso: hin

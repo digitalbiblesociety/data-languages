@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيانجا
     auto: true
+  - translation_iso: deu
+    name: Kyanga
+    auto: true
   - translation_iso: fra
     name: Kyanga
   - translation_iso: hin

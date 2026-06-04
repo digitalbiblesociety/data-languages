@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جو
     auto: true
+  - translation_iso: deu
+    name: Ju
+    auto: true
   - translation_iso: fra
     name: ju
   - translation_iso: hin

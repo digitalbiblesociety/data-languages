@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Samogitian_language"
 translations:
   - translation_iso: ara
     name: اللهجة الساموغية
+  - translation_iso: deu
+    name: Schemaitisch
   - translation_iso: fra
     name: samogitien
   - translation_iso: hin

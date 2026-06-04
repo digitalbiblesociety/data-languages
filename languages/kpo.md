@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيكبوسو
     auto: true
+  - translation_iso: deu
+    name: Akposo
   - translation_iso: fra
     name: ikposso
   - translation_iso: hin

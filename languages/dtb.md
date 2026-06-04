@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لابوك كينابتانجان كاداز
     auto: true
+  - translation_iso: deu
+    name: Labuk-Kinabatangan Kadazan
+    auto: true
   - translation_iso: fra
     name: Kadazan du Labuk-Kinabatangan
     auto: true

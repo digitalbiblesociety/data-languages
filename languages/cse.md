@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التشيكية
     auto: true
+  - translation_iso: deu
+    name: Tschechische Gebärdensprache
   - translation_iso: fra
     name: langue des signes tchèque
   - translation_iso: hin

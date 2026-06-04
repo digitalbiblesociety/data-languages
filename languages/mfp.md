@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو ماكاسار
     auto: true
+  - translation_iso: deu
+    name: Makassar-Malaiisch
+    auto: true
   - translation_iso: fra
     name: malais makassar
   - translation_iso: hin

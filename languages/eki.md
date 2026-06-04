@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإكي
     auto: true
+  - translation_iso: deu
+    name: Eki
+    auto: true
   - translation_iso: fra
     name: eki
   - translation_iso: hin

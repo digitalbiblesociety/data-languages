@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوجو-موميني
     auto: true
+  - translation_iso: deu
+    name: Kugu-Muminh
+    auto: true
   - translation_iso: fra
     name: kuku-muminh
   - translation_iso: hin

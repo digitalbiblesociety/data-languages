@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونون
     auto: true
+  - translation_iso: deu
+    name: Bunun
+    auto: true
   - translation_iso: fra
     name: bunun
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة نوكنا
     auto: true
+  - translation_iso: deu
+    name: Nukna
+    auto: true
   - translation_iso: fra
     name: nukna
   - translation_iso: hin

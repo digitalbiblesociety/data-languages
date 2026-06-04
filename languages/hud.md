@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوالو
     auto: true
+  - translation_iso: deu
+    name: Huaulu
+    auto: true
   - translation_iso: fra
     name: Huaulu
     auto: true

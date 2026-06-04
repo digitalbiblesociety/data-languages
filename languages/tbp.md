@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاوورتا
     auto: true
+  - translation_iso: deu
+    name: Taworta
+    auto: true
   - translation_iso: fra
     name: taworta
   - translation_iso: hin

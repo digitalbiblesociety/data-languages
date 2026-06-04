@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيوتيلا كويكاتك
     auto: true
+  - translation_iso: deu
+    name: Teutila-Cuicatekisch
+    auto: true
   - translation_iso: fra
     name: cuicatèque de Teutila
   - translation_iso: hin

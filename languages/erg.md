@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السي
     auto: true
+  - translation_iso: deu
+    name: Sie
+    auto: true
   - translation_iso: fra
     name: sie
   - translation_iso: hin

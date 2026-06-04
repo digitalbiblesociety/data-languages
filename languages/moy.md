@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة شيكاتشو
     auto: true
+  - translation_iso: deu
+    name: Shekkacho
+    auto: true
   - translation_iso: fra
     name: Shekkacho
     auto: true

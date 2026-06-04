@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوآري
     auto: true
+  - translation_iso: deu
+    name: Puare
+    auto: true
   - translation_iso: fra
     name: puare
   - translation_iso: hin

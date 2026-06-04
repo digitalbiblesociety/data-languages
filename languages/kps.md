@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تيهيت
     auto: true
+  - translation_iso: deu
+    name: Tehit
+    auto: true
   - translation_iso: fra
     name: tehit
   - translation_iso: hin

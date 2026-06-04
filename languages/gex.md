@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآررإ
     auto: true
+  - translation_iso: deu
+    name: Garre
+    auto: true
   - translation_iso: fra
     name: garre
   - translation_iso: hin

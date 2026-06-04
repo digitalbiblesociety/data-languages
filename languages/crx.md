@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكاريير
     auto: true
+  - translation_iso: deu
+    name: Dakelh
   - translation_iso: fra
     name: porteur
   - translation_iso: hin

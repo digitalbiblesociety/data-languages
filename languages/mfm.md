@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارغي الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Marghi South
+    auto: true
   - translation_iso: fra
     name: Marghi méridional
     auto: true

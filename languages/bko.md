@@ -18,8 +18,10 @@ translations:
   - translation_iso: ara
     name: كوا
     auto: true
+  - translation_iso: deu
+    name: "Kwa'"
   - translation_iso: fra
-    name: "kwa'"
+    name: kwa
   - translation_iso: hin
     name: क्वा
     auto: true

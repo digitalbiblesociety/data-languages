@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: "الشا'اري"
     auto: true
+  - translation_iso: deu
+    name: "Cha'ari"
+    auto: true
   - translation_iso: fra
     name: danshe
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بامبام
     auto: true
+  - translation_iso: deu
+    name: Bambam
   - translation_iso: fra
     name: Bambam
     auto: true

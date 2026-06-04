@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اسكتلندي متنقل
     auto: true
+  - translation_iso: deu
+    name: Schottisch der Traveller
+    auto: true
   - translation_iso: fra
     name: Écossais des voyageurs
     auto: true

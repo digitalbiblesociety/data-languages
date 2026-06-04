@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هوانا
     auto: true
+  - translation_iso: deu
+    name: Hwana
   - translation_iso: fra
     name: Hwana
     auto: true

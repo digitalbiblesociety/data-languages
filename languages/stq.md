@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Saterland_Frisian_language"
 translations:
   - translation_iso: ara
     name: اللغة الفريزية السيترلندية
+  - translation_iso: deu
+    name: Saterfriesisch
   - translation_iso: fra
     name: frison saterlandais
   - translation_iso: hin

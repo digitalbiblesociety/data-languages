@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يابيم
     auto: true
+  - translation_iso: deu
+    name: Yabem
   - translation_iso: fra
     name: yabem
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بانكان تاي دوجون
     auto: true
+  - translation_iso: deu
+    name: Bankan Tey Dogon
+    auto: true
   - translation_iso: fra
     name: bankan tey
   - translation_iso: hin

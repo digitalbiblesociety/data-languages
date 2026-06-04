@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يندا
     auto: true
+  - translation_iso: deu
+    name: Yanda
+    auto: true
   - translation_iso: fra
     name: yanda
   - translation_iso: hin

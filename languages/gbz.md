@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: الداري الزرادشتية
     auto: true
+  - translation_iso: deu
+    name: zoroastrisches Dari
   - translation_iso: fra
     name: dari zoroastrien
   - translation_iso: hin

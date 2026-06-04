@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوديبود
     auto: true
+  - translation_iso: deu
+    name: Budibud
+    auto: true
   - translation_iso: fra
     name: budibud
   - translation_iso: hin

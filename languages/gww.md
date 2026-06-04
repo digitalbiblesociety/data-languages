@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كويني
     auto: true
+  - translation_iso: deu
+    name: Kwini
+    auto: true
   - translation_iso: fra
     name: kwini
   - translation_iso: hin

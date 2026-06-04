@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوكوكو
     auto: true
+  - translation_iso: deu
+    name: Nokuku
+    auto: true
   - translation_iso: fra
     name: nokuku
   - translation_iso: hin

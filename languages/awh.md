@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوبونو
     auto: true
+  - translation_iso: deu
+    name: Awbono
+    auto: true
   - translation_iso: fra
     name: awbono
   - translation_iso: hin

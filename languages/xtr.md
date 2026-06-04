@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: تريبوري المبكرة
     auto: true
+  - translation_iso: deu
+    name: Frühes Tripuri
+    auto: true
   - translation_iso: fra
     name: Tripuri ancien
     auto: true

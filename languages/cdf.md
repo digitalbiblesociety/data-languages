@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيرو
     auto: true
+  - translation_iso: deu
+    name: Chiru
+    auto: true
   - translation_iso: fra
     name: chiru
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة مابيا
     auto: true
+  - translation_iso: deu
+    name: Mapia
   - translation_iso: fra
     name: mapia
   - translation_iso: hin

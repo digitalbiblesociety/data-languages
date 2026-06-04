@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاكينتي
     auto: true
+  - translation_iso: deu
+    name: Caquinte
+    auto: true
   - translation_iso: fra
     name: caquinte
   - translation_iso: hin

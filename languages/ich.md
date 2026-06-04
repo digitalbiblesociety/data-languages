@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إتكيوان
     auto: true
+  - translation_iso: deu
+    name: Etkywan
+    auto: true
   - translation_iso: fra
     name: etkywan
   - translation_iso: hin

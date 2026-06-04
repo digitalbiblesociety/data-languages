@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوديست
     auto: true
+  - translation_iso: deu
+    name: Sudest
+    auto: true
   - translation_iso: fra
     name: Sudest
     auto: true

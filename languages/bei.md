@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيكاتي
     auto: true
+  - translation_iso: deu
+    name: "Bekati'"
+    auto: true
   - translation_iso: fra
     name: bekati’
   - translation_iso: hin

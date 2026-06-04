@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بيسيسي
     auto: true
+  - translation_iso: deu
+    name: Besisi
+    auto: true
   - translation_iso: fra
     name: besisi
   - translation_iso: hin

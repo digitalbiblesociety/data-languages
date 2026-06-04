@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفولفولدية النيجر الغربية
     auto: true
+  - translation_iso: deu
+    name: Westniger-Fulfulde
+    auto: true
   - translation_iso: fra
     name: peul du Niger occidental
   - translation_iso: hin

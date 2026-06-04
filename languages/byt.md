@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Berti_language"
 translations:
   - translation_iso: ara
     name: البرتي
+  - translation_iso: deu
+    name: Berti
   - translation_iso: fra
     name: Berti
     auto: true

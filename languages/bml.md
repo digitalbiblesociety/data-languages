@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بومبولي
     auto: true
+  - translation_iso: deu
+    name: Bomboli
   - translation_iso: fra
     name: bomboli
   - translation_iso: hin

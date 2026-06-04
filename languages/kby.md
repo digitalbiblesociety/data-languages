@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانغا كانوري
     auto: true
+  - translation_iso: deu
+    name: Manga-Kanuri
+    auto: true
   - translation_iso: fra
     name: kanouri manga
   - translation_iso: hin

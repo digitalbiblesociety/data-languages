@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رويلي
     auto: true
+  - translation_iso: deu
+    name: Ruuli
+    auto: true
   - translation_iso: fra
     name: ruuli
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gorani_language"
 translations:
   - translation_iso: ara
     name: لهجة كردية غورانية
+  - translation_iso: deu
+    name: Gorani
   - translation_iso: fra
     name: gurani
   - translation_iso: hin

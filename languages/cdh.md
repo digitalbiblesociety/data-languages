@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشامبيالي
     auto: true
+  - translation_iso: deu
+    name: Chambeali
+    auto: true
   - translation_iso: fra
     name: chambeali
   - translation_iso: hin

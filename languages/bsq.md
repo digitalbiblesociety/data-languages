@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باسّا
     auto: true
+  - translation_iso: deu
+    name: Bassa
   - translation_iso: fra
     name: bassa
   - translation_iso: hin

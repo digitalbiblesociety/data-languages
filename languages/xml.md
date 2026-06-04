@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الماليزية
     auto: true
+  - translation_iso: deu
+    name: Malaiische Gebärdensprache
   - translation_iso: fra
     name: langue des signes malaisienne
   - translation_iso: hin

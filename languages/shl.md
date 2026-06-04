@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشندو
     auto: true
+  - translation_iso: deu
+    name: Shendu
+    auto: true
   - translation_iso: fra
     name: shendu
   - translation_iso: hin

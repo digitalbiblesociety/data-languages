@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديميسا
     auto: true
+  - translation_iso: deu
+    name: Demisa
+    auto: true
   - translation_iso: fra
     name: demisa
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جنوب بيتسيميسارا مالْجاشي
     auto: true
+  - translation_iso: deu
+    name: Südliches Betsimisaraka-Malagasy
+    auto: true
   - translation_iso: fra
     name: betsimisaraka du Sud
   - translation_iso: hin

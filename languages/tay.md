@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Atayal_language"
 translations:
   - translation_iso: ara
     name: لغة أتايال
+  - translation_iso: deu
+    name: Atayal
   - translation_iso: fra
     name: atayal
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة مولمو وان
     auto: true
+  - translation_iso: deu
+    name: Molmo One
+    auto: true
   - translation_iso: fra
     name: one molmo
   - translation_iso: hin

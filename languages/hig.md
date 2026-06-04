@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كآموإ
     auto: true
+  - translation_iso: deu
+    name: Kamwe
+    auto: true
   - translation_iso: fra
     name: kamwe
   - translation_iso: hin

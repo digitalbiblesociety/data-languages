@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اوو
     auto: true
+  - translation_iso: deu
+    name: Lawu
+    auto: true
   - translation_iso: fra
     name: Lawu
     auto: true

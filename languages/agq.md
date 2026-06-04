@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aghem_language"
 translations:
   - translation_iso: ara
     name: الأغم
+  - translation_iso: deu
+    name: Aghem
   - translation_iso: fra
     name: aghem
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميياكو
     auto: true
+  - translation_iso: deu
+    name: Miyako-Sprache
   - translation_iso: fra
     name: miyako
   - translation_iso: hin

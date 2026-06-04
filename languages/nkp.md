@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيواتوبوتابو
     auto: true
+  - translation_iso: deu
+    name: Niuatoputapu
+    auto: true
   - translation_iso: fra
     name: niuatoputapu
   - translation_iso: hin

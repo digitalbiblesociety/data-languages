@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياكوما
     auto: true
+  - translation_iso: deu
+    name: Yakoma
+    auto: true
   - translation_iso: fra
     name: yakoma
   - translation_iso: hin

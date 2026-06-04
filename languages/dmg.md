@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أبر كينابتانجان
     auto: true
+  - translation_iso: deu
+    name: Upper Kinabatangan
+    auto: true
   - translation_iso: fra
     name: Kinabatangan supérieur
     auto: true

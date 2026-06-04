@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سيديتية
     auto: true
+  - translation_iso: deu
+    name: Sidetisch
   - translation_iso: fra
     name: sidétique
   - translation_iso: hin

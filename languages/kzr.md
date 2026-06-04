@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كارانج
     auto: true
+  - translation_iso: deu
+    name: Karang
   - translation_iso: fra
     name: karang
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاماالما
     auto: true
+  - translation_iso: deu
+    name: Lamalama
+    auto: true
   - translation_iso: fra
     name: lamu-lamu
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنوّاك
     auto: true
+  - translation_iso: deu
+    name: Anuak
+    auto: true
   - translation_iso: fra
     name: anyua
   - translation_iso: hin

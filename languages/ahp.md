@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أبروومو أيزي
     auto: true
+  - translation_iso: deu
+    name: Aproumu
   - translation_iso: fra
     name: apro
   - translation_iso: hin

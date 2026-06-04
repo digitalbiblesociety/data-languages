@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وتوهو
     auto: true
+  - translation_iso: deu
+    name: Otuho
+    auto: true
   - translation_iso: fra
     name: otuho
   - translation_iso: hin

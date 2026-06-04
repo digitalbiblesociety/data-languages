@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانا (جمهورية أفريقيا الوسطى)
     auto: true
+  - translation_iso: deu
+    name: Pana
   - translation_iso: fra
     name: pana
   - translation_iso: hin

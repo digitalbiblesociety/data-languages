@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سينترال ناهواتل
     auto: true
+  - translation_iso: deu
+    name: Zentral-Nahuatl
   - translation_iso: fra
     name: nahuatl central
   - translation_iso: hin

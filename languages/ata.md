@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيليه-أتا
     auto: true
+  - translation_iso: deu
+    name: Pele-Ata
+    auto: true
   - translation_iso: fra
     name: pele-ata
   - translation_iso: hin

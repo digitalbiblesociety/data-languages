@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كومي زيريان
     auto: true
+  - translation_iso: deu
+    name: Komi-Syrjänisch
   - translation_iso: fra
     name: komi-zyriène
   - translation_iso: hin

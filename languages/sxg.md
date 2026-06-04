@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شوهي
     auto: true
+  - translation_iso: deu
+    name: Shuhi
+    auto: true
   - translation_iso: fra
     name: shixing
   - translation_iso: hin

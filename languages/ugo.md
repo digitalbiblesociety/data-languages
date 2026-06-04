@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوجونج
     auto: true
+  - translation_iso: deu
+    name: Ugong
+    auto: true
   - translation_iso: fra
     name: ugong
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بورت ساندويتش
     auto: true
+  - translation_iso: deu
+    name: Port Sandwich
+    auto: true
   - translation_iso: fra
     name: port-sandwich
   - translation_iso: hin

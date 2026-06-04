@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ملومب
     auto: true
+  - translation_iso: deu
+    name: Mlomp
   - translation_iso: fra
     name: mlomp
   - translation_iso: hin

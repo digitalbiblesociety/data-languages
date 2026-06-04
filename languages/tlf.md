@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيليفول
     auto: true
+  - translation_iso: deu
+    name: Telefol
+    auto: true
   - translation_iso: fra
     name: telefol
   - translation_iso: hin

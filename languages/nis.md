@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيمي
     auto: true
+  - translation_iso: deu
+    name: Nimi
+    auto: true
   - translation_iso: fra
     name: Nimi
     auto: true

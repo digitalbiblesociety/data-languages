@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشوت
     auto: true
+  - translation_iso: deu
+    name: Chut
+    auto: true
   - translation_iso: fra
     name: chut
   - translation_iso: hin

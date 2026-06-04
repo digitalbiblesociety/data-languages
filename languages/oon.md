@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونغي
     auto: true
+  - translation_iso: deu
+    name: Önge
+    auto: true
   - translation_iso: fra
     name: Önge
     auto: true

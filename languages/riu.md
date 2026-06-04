@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ريونج
     auto: true
+  - translation_iso: deu
+    name: Riung
   - translation_iso: fra
     name: riung
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجاتك رجال كريول
     auto: true
+  - translation_iso: deu
+    name: Ngatik Men’s Creole
   - translation_iso: fra
     name: créole ngatik
   - translation_iso: hin

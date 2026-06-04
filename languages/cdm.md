@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيبانغ
     auto: true
+  - translation_iso: deu
+    name: Chepang
+    auto: true
   - translation_iso: fra
     name: chepang
   - translation_iso: hin

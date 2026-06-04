@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوكي رايون
     auto: true
+  - translation_iso: deu
+    name: Zoque (Rayón)
+    auto: true
   - translation_iso: fra
     name: zoque de Rayón
   - translation_iso: hin

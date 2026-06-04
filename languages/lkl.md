@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ايكو-يبوات
     auto: true
+  - translation_iso: deu
+    name: Laeko-Libuat
+    auto: true
   - translation_iso: fra
     name: laeko-libuat
   - translation_iso: hin

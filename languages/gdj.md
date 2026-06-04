@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجوردجار
     auto: true
+  - translation_iso: deu
+    name: Gurdjar
+    auto: true
   - translation_iso: fra
     name: gurdjar
   - translation_iso: hin

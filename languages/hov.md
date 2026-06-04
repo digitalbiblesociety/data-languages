@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هوفونغان
     auto: true
+  - translation_iso: deu
+    name: Hovongan
+    auto: true
   - translation_iso: fra
     name: Hovongan
     auto: true

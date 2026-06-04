@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة ألاباما
     auto: true
+  - translation_iso: deu
+    name: Alabama
   - translation_iso: fra
     name: alabama
   - translation_iso: hin

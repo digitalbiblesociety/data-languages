@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dagaare_language"
 translations:
   - translation_iso: ara
     name: لغة داجاري
+  - translation_iso: deu
+    name: Dagaare
   - translation_iso: fra
     name: dagaare
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: موغ الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentrales Mnong
+    auto: true
   - translation_iso: fra
     name: mnong central
   - translation_iso: hin

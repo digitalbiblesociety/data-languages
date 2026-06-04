@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كإنترآل غرإبو
     auto: true
+  - translation_iso: deu
+    name: Zentrales Grebo
+    auto: true
   - translation_iso: fra
     name: grebo central
   - translation_iso: hin

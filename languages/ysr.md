@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة سيرينيك يوبيك
     auto: true
+  - translation_iso: deu
+    name: Sirenik
   - translation_iso: fra
     name: sirenik
   - translation_iso: hin

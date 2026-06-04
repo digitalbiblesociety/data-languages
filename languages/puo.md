@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بووك
     auto: true
+  - translation_iso: deu
+    name: Puoc
+    auto: true
   - translation_iso: fra
     name: Puoc
     auto: true

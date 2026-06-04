@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مانتا
     auto: true
+  - translation_iso: deu
+    name: Manta
   - translation_iso: fra
     name: manta
   - translation_iso: hin

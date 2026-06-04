@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موتلاف
     auto: true
+  - translation_iso: deu
+    name: Motlav
+    auto: true
   - translation_iso: fra
     name: mwotlap
   - translation_iso: hin

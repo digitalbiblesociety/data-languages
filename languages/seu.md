@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيروي لاوت
     auto: true
+  - translation_iso: deu
+    name: Serui-Laut
+    auto: true
   - translation_iso: fra
     name: Serui-Laut
     auto: true

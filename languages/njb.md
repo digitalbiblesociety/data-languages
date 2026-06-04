@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوكتي ناجا
     auto: true
+  - translation_iso: deu
+    name: Nocte-Naga
+    auto: true
   - translation_iso: fra
     name: naga nocte
   - translation_iso: hin

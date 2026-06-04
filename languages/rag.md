@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لوجولي
     auto: true
+  - translation_iso: deu
+    name: Logooli
+    auto: true
   - translation_iso: fra
     name: logooli
   - translation_iso: hin

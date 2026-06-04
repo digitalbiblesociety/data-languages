@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تينيي
     auto: true
+  - translation_iso: deu
+    name: Tiene
   - translation_iso: fra
     name: Tiene
     auto: true

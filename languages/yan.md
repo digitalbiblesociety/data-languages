@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مايانجنا
     auto: true
+  - translation_iso: deu
+    name: Mayangna
+    auto: true
   - translation_iso: fra
     name: mayangna
   - translation_iso: hin

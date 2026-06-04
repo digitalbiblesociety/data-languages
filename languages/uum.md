@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أورم
     auto: true
+  - translation_iso: deu
+    name: Urum
   - translation_iso: fra
     name: urum
   - translation_iso: hin

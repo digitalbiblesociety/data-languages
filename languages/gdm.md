@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Laal_language"
 translations:
   - translation_iso: ara
     name: لغة لال
+  - translation_iso: deu
+    name: Laal
   - translation_iso: fra
     name: laal
   - translation_iso: hin

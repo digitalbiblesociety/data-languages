@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونديي
     auto: true
+  - translation_iso: deu
+    name: Bondei
+    auto: true
   - translation_iso: fra
     name: bondei
   - translation_iso: hin

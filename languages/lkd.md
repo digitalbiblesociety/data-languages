@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اكوند
     auto: true
+  - translation_iso: deu
+    name: Lakondê
+    auto: true
   - translation_iso: fra
     name: lakondê
   - translation_iso: hin

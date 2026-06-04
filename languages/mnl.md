@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة تيالي
     auto: true
+  - translation_iso: deu
+    name: Tiale
+    auto: true
   - translation_iso: fra
     name: malmariv
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Silesian_language"
 translations:
   - translation_iso: ara
     name: السيليزية
+  - translation_iso: deu
+    name: Schlesisch
   - translation_iso: fra
     name: silésien
   - translation_iso: hin

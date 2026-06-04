@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هايو
     auto: true
+  - translation_iso: deu
+    name: Khayo
+    auto: true
   - translation_iso: fra
     name: Khayo
     auto: true

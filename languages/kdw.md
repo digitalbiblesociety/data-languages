@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كونيرو
     auto: true
+  - translation_iso: deu
+    name: Koneraw
+    auto: true
   - translation_iso: fra
     name: koneraw
   - translation_iso: hin

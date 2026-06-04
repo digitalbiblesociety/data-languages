@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونوا
     auto: true
+  - translation_iso: deu
+    name: Unua
+    auto: true
   - translation_iso: fra
     name: unua
   - translation_iso: hin

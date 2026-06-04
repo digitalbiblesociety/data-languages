@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كونجآرآكآني
     auto: true
+  - translation_iso: deu
+    name: Kungarakany
+    auto: true
   - translation_iso: fra
     name: kungarakany
   - translation_iso: hin

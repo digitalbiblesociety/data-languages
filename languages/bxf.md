@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلور
     auto: true
+  - translation_iso: deu
+    name: Bilur
+    auto: true
   - translation_iso: fra
     name: bilur
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aghul_language"
 translations:
   - translation_iso: ara
     name: الأغولية
+  - translation_iso: deu
+    name: Aghulisch
   - translation_iso: fra
     name: agul
   - translation_iso: hin

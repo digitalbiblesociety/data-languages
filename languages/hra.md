@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هرانغخول
     auto: true
+  - translation_iso: deu
+    name: Hrangkhol
+    auto: true
   - translation_iso: fra
     name: Hrangkhol
     auto: true

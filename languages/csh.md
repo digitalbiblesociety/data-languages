@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: آشو تشين
     auto: true
+  - translation_iso: deu
+    name: Asho-Chin
+    auto: true
   - translation_iso: fra
     name: asho
   - translation_iso: hin

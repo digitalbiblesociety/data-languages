@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيكاي
     auto: true
+  - translation_iso: deu
+    name: Kikai
+    auto: true
   - translation_iso: fra
     name: kikai
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هولما
     auto: true
+  - translation_iso: deu
+    name: Holma
+    auto: true
   - translation_iso: fra
     name: Holma
     auto: true

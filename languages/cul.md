@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكولينا
     auto: true
+  - translation_iso: deu
+    name: Culina
+    auto: true
   - translation_iso: fra
     name: culina
   - translation_iso: hin

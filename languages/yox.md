@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يورون
     auto: true
+  - translation_iso: deu
+    name: Yoron
+    auto: true
   - translation_iso: fra
     name: yoron
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lithuanian_language"
 translations:
   - translation_iso: ara
     name: اللتوانية
+  - translation_iso: deu
+    name: Litauisch
   - translation_iso: fra
     name: lituanien
   - translation_iso: hin

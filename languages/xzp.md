@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك القديمة
     auto: true
+  - translation_iso: deu
+    name: Altzapotekisch
+    auto: true
   - translation_iso: fra
     name: ancien zapotèque
   - translation_iso: hin

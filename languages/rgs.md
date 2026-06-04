@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ساذرن روجلاي
     auto: true
+  - translation_iso: deu
+    name: Süd-Roglai
+    auto: true
   - translation_iso: fra
     name: roglai du Sud
   - translation_iso: hin

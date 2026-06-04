@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاتو الشرقية
     auto: true
+  - translation_iso: deu
+    name: Ost-Katu
+    auto: true
   - translation_iso: fra
     name: Katu oriental
     auto: true

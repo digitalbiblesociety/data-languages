@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: بويمي ناغا
     auto: true
+  - translation_iso: deu
+    name: Puimei-Naga
+    auto: true
   - translation_iso: fra
     name: naga puimei
   - translation_iso: hin

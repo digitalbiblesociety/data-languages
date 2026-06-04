@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساوسي
     auto: true
+  - translation_iso: deu
+    name: Sausi
+    auto: true
   - translation_iso: fra
     name: Sausi
     auto: true

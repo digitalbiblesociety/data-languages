@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غولآ
     auto: true
+  - translation_iso: deu
+    name: Gula (Tschad)
+    auto: true
   - translation_iso: fra
     name: sara gula
   - translation_iso: hin

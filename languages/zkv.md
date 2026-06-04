@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: اللغة كريفنيان
     auto: true
+  - translation_iso: deu
+    name: Krewinisch
   - translation_iso: fra
     name: krevinien
   - translation_iso: hin

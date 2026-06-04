@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gulay_language"
 translations:
   - translation_iso: ara
     name: قولاي
+  - translation_iso: deu
+    name: Gulay
+    auto: true
   - translation_iso: fra
     name: gulay
   - translation_iso: hin

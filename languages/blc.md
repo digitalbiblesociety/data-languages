@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلا كولا
     auto: true
+  - translation_iso: deu
+    name: Bella Coola
+    auto: true
   - translation_iso: fra
     name: nuxalk
   - translation_iso: hin

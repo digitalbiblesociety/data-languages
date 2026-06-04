@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كالام
     auto: true
+  - translation_iso: deu
+    name: Kalam
+    auto: true
   - translation_iso: fra
     name: Kalam
     auto: true

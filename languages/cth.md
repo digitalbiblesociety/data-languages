@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: ثايفوم تشين
     auto: true
+  - translation_iso: deu
+    name: Thaiphum-Chin
+    auto: true
   - translation_iso: fra
     name: thaiphum
   - translation_iso: hin

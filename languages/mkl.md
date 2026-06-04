@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موكول
     auto: true
+  - translation_iso: deu
+    name: Mokole
   - translation_iso: fra
     name: mokole
   - translation_iso: hin

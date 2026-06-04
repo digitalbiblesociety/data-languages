@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: موياداان إيتنيغ
     auto: true
+  - translation_iso: deu
+    name: Moyadan-Itneg
+    auto: true
   - translation_iso: fra
     name: itneg moyadan
   - translation_iso: hin

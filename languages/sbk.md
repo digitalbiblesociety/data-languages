@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سافوا
     auto: true
+  - translation_iso: deu
+    name: Safwa
+    auto: true
   - translation_iso: fra
     name: Safwa
   - translation_iso: hin

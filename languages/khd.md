@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بيدي كانوم
     auto: true
+  - translation_iso: deu
+    name: Bädi Kanum
+    auto: true
   - translation_iso: fra
     name: Kanum Bädi
     auto: true

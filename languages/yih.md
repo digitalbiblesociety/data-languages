@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الاش الغربية
     auto: true
+  - translation_iso: deu
+    name: Westjiddisch
   - translation_iso: fra
     name: yiddish occidental
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: روماي بالاونج
     auto: true
+  - translation_iso: deu
+    name: Rumai-Palaung
+    auto: true
   - translation_iso: fra
     name: rumai
   - translation_iso: hin

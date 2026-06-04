@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوانوا
     auto: true
+  - translation_iso: deu
+    name: Kuanua
   - translation_iso: fra
     name: kuanua
   - translation_iso: hin

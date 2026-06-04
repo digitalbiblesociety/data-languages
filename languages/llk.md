@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يلاك
     auto: true
+  - translation_iso: deu
+    name: Lelak
+    auto: true
   - translation_iso: fra
     name: lelak
   - translation_iso: hin

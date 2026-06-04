@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maliseet-Passamaquoddy_language"
 translations:
   - translation_iso: ara
     name: ماليسيت-باساماقودي
+  - translation_iso: deu
+    name: Maliseet-Passamaquoddy
   - translation_iso: fra
     name: malécite-passamaquoddy
   - translation_iso: hin

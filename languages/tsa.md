@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تسانجي
     auto: true
+  - translation_iso: deu
+    name: Tsaangi
   - translation_iso: fra
     name: tsengi
   - translation_iso: hin

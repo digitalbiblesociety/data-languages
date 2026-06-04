@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جادي لوهار
     auto: true
+  - translation_iso: deu
+    name: Gade Lohar
+    auto: true
   - translation_iso: fra
     name: gade lohar
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kiga_language"
 translations:
   - translation_iso: ara
     name: تشيغا
+  - translation_iso: deu
+    name: Rukiga
   - translation_iso: fra
     name: kiga
   - translation_iso: hin

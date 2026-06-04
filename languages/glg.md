@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Galician_language"
 translations:
   - translation_iso: ara
     name: الجليقية
+  - translation_iso: deu
+    name: Galicisch
   - translation_iso: fra
     name: galicien
   - translation_iso: hin

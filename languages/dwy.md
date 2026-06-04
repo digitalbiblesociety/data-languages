@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: دهووايا
     auto: true
+  - translation_iso: deu
+    name: Dhuwaya
+    auto: true
   - translation_iso: fra
     name: dhuwaya
   - translation_iso: hin

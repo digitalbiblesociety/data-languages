@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كريكاتي-تيمبيرا
     auto: true
+  - translation_iso: deu
+    name: Krikati-Timbira
+    auto: true
   - translation_iso: fra
     name: krinkati
   - translation_iso: hin

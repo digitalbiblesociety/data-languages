@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاراهومارا الشمالية
     auto: true
+  - translation_iso: deu
+    name: Northern Tarahumara
+    auto: true
   - translation_iso: fra
     name: tarahumara du Nord
   - translation_iso: hin

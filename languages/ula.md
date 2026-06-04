@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فونجوا
     auto: true
+  - translation_iso: deu
+    name: Fungwa
+    auto: true
   - translation_iso: fra
     name: Fungwa
     auto: true

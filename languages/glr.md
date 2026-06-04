@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غلآرو-توآبو
     auto: true
+  - translation_iso: deu
+    name: Glaro-Twabo
+    auto: true
   - translation_iso: fra
     name: Glaro-Twabo
     auto: true

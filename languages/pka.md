@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: اللغة أردهاماغادهي براكريت
     auto: true
+  - translation_iso: deu
+    name: Ardhamagadhi
   - translation_iso: fra
     name: Prâkrit ardhamâgadhî
     auto: true

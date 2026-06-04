@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ألتش
     auto: true
+  - translation_iso: deu
+    name: Ultschisch
   - translation_iso: fra
     name: oultche
   - translation_iso: hin

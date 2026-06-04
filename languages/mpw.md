@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مابيديان
     auto: true
+  - translation_iso: deu
+    name: Mapidian
+    auto: true
   - translation_iso: fra
     name: mapidian
   - translation_iso: hin

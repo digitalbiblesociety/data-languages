@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دونج
     auto: true
+  - translation_iso: deu
+    name: Dong
+    auto: true
   - translation_iso: fra
     name: dong
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كارين ينباو
     auto: true
+  - translation_iso: deu
+    name: Yinbaw-Karen
+    auto: true
   - translation_iso: fra
     name: yinbaw
   - translation_iso: hin

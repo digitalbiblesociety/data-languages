@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غرومآ
     auto: true
+  - translation_iso: deu
+    name: Groma
   - translation_iso: fra
     name: groma
   - translation_iso: hin

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: هانونو
     auto: true
+  - translation_iso: deu
+    name: "Hanunó'o"
   - translation_iso: fra
     name: Hanunoo
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fut_language"
 translations:
   - translation_iso: ara
     name: لغة البافوت
+  - translation_iso: deu
+    name: Bafut
   - translation_iso: fra
     name: bafut
   - translation_iso: hin

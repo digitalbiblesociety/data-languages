@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باكا
     auto: true
+  - translation_iso: deu
+    name: Baka
   - translation_iso: fra
     name: baka
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيوا الشرقية
     auto: true
+  - translation_iso: deu
+    name: Ost-Kewa
+    auto: true
   - translation_iso: fra
     name: Kewa oriental
     auto: true

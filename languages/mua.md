@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mundang_language"
 translations:
   - translation_iso: ara
     name: مندنج
+  - translation_iso: deu
+    name: Mundang
   - translation_iso: fra
     name: moundang
   - translation_iso: hin

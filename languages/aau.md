@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأباوية
     auto: true
+  - translation_iso: deu
+    name: Abau
+    auto: true
   - translation_iso: fra
     name: abau
   - translation_iso: hin

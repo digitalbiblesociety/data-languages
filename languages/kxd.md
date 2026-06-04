@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Brunei_Malay"
 translations:
   - translation_iso: ara
     name: ملايو بروناي
+  - translation_iso: deu
+    name: Brunei
+    auto: true
   - translation_iso: fra
     name: malais du Brunei
   - translation_iso: hin

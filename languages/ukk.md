@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: موآك سا-آك
     auto: true
+  - translation_iso: deu
+    name: Muak Sa-aak
+    auto: true
   - translation_iso: fra
     name: muak sa-aak
   - translation_iso: hin

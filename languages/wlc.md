@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: موالي كوموريان
     auto: true
+  - translation_iso: deu
+    name: Mwali-Komorisch
+    auto: true
   - translation_iso: fra
     name: mohélien
   - translation_iso: hin

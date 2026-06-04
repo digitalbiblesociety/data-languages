@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نكوكولي
     auto: true
+  - translation_iso: deu
+    name: Nkukoli
+    auto: true
   - translation_iso: fra
     name: Nkukoli
     auto: true

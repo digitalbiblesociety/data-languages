@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shuar_language"
 translations:
   - translation_iso: ara
     name: شوار
+  - translation_iso: deu
+    name: Shuar
   - translation_iso: fra
     name: shuar
   - translation_iso: hin

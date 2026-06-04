@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانشو ناغا
     auto: true
+  - translation_iso: deu
+    name: Wancho-Naga
+    auto: true
   - translation_iso: fra
     name: wantcho
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوليبوجان سوبانون
     auto: true
+  - translation_iso: deu
+    name: Kolibugan-Subanon
+    auto: true
   - translation_iso: fra
     name: subanon kolibugan
   - translation_iso: hin

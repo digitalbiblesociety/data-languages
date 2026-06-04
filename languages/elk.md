@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإلكاي
     auto: true
+  - translation_iso: deu
+    name: Elkei
+    auto: true
   - translation_iso: fra
     name: elkei
   - translation_iso: hin

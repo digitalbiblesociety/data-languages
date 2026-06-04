@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كاماسا
     auto: true
+  - translation_iso: deu
+    name: Kamasa
+    auto: true
   - translation_iso: fra
     name: kamasa
   - translation_iso: hin

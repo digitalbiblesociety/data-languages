@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: نوبفيخا
     auto: true
+  - translation_iso: deu
+    name: Nupbikha
+    auto: true
   - translation_iso: fra
     name: nupbikha
   - translation_iso: hin

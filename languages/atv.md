@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ألتاي الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nordaltaisch
   - translation_iso: fra
     name: altaï du Nord
   - translation_iso: hin

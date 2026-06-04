@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مام
     auto: true
+  - translation_iso: deu
+    name: Mam
   - translation_iso: fra
     name: mam
   - translation_iso: hin

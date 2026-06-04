@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانوبو
     auto: true
+  - translation_iso: deu
+    name: Panobo
+    auto: true
   - translation_iso: fra
     name: huariapano
   - translation_iso: hin

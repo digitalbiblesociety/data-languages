@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lhasa_Tibetan"
 translations:
   - translation_iso: ara
     name: التبتية
+  - translation_iso: deu
+    name: Tibetisch
   - translation_iso: fra
     name: tibétain
   - translation_iso: hin

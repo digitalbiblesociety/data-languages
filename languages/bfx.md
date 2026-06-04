@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بانتايانون
     auto: true
+  - translation_iso: deu
+    name: Bantayanon
+    auto: true
   - translation_iso: fra
     name: bantayanon
   - translation_iso: hin

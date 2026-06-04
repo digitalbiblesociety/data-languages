@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيسيفي ماسي
     auto: true
+  - translation_iso: deu
+    name: Iceve-Maci
   - translation_iso: fra
     name: iceve-maci
   - translation_iso: hin

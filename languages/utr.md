@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إتولو
     auto: true
+  - translation_iso: deu
+    name: Etulo
   - translation_iso: fra
     name: etulo
   - translation_iso: hin

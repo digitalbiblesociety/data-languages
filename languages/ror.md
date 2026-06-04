@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رونجا
     auto: true
+  - translation_iso: deu
+    name: Rongga
   - translation_iso: fra
     name: rongga
   - translation_iso: hin

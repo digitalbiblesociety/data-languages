@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الا-وبا
     auto: true
+  - translation_iso: deu
+    name: Lala-Roba
+    auto: true
   - translation_iso: fra
     name: Lala-Roba
     auto: true

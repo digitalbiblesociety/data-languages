@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نومانغانغ
     auto: true
+  - translation_iso: deu
+    name: Numanggang
+    auto: true
   - translation_iso: fra
     name: numanggang
   - translation_iso: hin

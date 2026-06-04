@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: إيرانون
     auto: true
+  - translation_iso: deu
+    name: Iranun (Malaysia)
+    auto: true
   - translation_iso: fra
     name: iranun
   - translation_iso: hin

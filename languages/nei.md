@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: نيو هيتيت
     auto: true
+  - translation_iso: deu
+    name: Junghethitisch
   - translation_iso: fra
     name: néo-hittite
   - translation_iso: hin

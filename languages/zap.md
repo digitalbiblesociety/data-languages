@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zapotec_languages"
 translations:
   - translation_iso: ara
     name: الزابوتيك
+  - translation_iso: deu
+    name: Zapotekisch
   - translation_iso: fra
     name: langues zapotèques
   - translation_iso: hin

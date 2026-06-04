@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكومايونية
     auto: true
+  - translation_iso: deu
+    name: Kumaoni
+    auto: true
   - translation_iso: fra
     name: kumaoni
   - translation_iso: hin

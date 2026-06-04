@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: اللغة ستيلينغويرفس
     auto: true
+  - translation_iso: deu
+    name: Stellingwerfs
   - translation_iso: fra
     name: Stellingwerfs
     auto: true

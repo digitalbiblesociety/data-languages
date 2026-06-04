@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أدارا
     auto: true
+  - translation_iso: deu
+    name: Adara
+    auto: true
   - translation_iso: fra
     name: adara
   - translation_iso: hin

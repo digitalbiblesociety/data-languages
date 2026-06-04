@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كورو (فانواتو)
     auto: true
+  - translation_iso: deu
+    name: Koro
   - translation_iso: fra
     name: koro
   - translation_iso: hin

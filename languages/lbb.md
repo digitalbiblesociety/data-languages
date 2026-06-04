@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لابل
     auto: true
+  - translation_iso: deu
+    name: Label
+    auto: true
   - translation_iso: fra
     name: label
   - translation_iso: hin

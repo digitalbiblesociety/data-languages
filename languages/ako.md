@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أكوريو
     auto: true
+  - translation_iso: deu
+    name: Akurio
   - translation_iso: fra
     name: akurio
   - translation_iso: hin

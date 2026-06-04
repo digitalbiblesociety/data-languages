@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بها بويانج
     auto: true
+  - translation_iso: deu
+    name: Baha Buyang
+    auto: true
   - translation_iso: fra
     name: baha
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيديو
     auto: true
+  - translation_iso: deu
+    name: Bidiyo
+    auto: true
   - translation_iso: fra
     name: bidiyo
   - translation_iso: hin

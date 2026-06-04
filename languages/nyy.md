@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نياكيوسا-نغوندي
     auto: true
+  - translation_iso: deu
+    name: Nyakyusa-Ngonde
   - translation_iso: fra
     name: nyakyusa
   - translation_iso: hin

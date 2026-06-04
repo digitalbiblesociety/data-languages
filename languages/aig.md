@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Antiguan_and_Barbudan_Creole"
 translations:
   - translation_iso: ara
     name: الكريولية الأنتيغوية وبربودية
+  - translation_iso: deu
+    name: Antigua- und Barbuda-Kreolenglisch
+    auto: true
   - translation_iso: fra
     name: créole antiguais-et-barbudien
   - translation_iso: hin

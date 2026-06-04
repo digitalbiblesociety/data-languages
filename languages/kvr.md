@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kerinci_language"
 translations:
   - translation_iso: ara
     name: لغة كيرينسي
+  - translation_iso: deu
+    name: Kerinci
   - translation_iso: fra
     name: kerinci
   - translation_iso: hin

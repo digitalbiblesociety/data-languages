@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيستريوت
     auto: true
+  - translation_iso: deu
+    name: Istriotisch
   - translation_iso: fra
     name: istriote
   - translation_iso: hin

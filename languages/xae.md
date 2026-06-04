@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ايقويان
     auto: true
+  - translation_iso: deu
+    name: Äquisch
   - translation_iso: fra
     name: èque
   - translation_iso: hin

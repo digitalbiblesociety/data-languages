@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يلوغو
     auto: true
+  - translation_iso: deu
+    name: Yelogu
+    auto: true
   - translation_iso: fra
     name: yelogu
   - translation_iso: hin

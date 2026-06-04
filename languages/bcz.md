@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايانوك-جونيامولو
     auto: true
+  - translation_iso: deu
+    name: Gunyamolo
   - translation_iso: fra
     name: bainouk-gunyaamolo-gutobor
   - translation_iso: hin

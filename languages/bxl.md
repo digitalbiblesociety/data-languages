@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جالْكونان
     auto: true
+  - translation_iso: deu
+    name: Jalkunan
+    auto: true
   - translation_iso: fra
     name: jalkunan
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Pomo
+    auto: true
   - translation_iso: fra
     name: pomo du Nord
   - translation_iso: hin

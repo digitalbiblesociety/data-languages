@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيموهي
     auto: true
+  - translation_iso: deu
+    name: Cemuhî
+    auto: true
   - translation_iso: fra
     name: cèmuhî
   - translation_iso: hin

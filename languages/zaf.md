@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك أيوكويسكو
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Ayoquesco)
+    auto: true
   - translation_iso: fra
     name: "zapotèque d'Ayoquesco"
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ري
     auto: true
+  - translation_iso: deu
+    name: Päri
   - translation_iso: fra
     name: Päri
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة الهاينانية
     auto: true
+  - translation_iso: deu
+    name: Hainanesisch
+    auto: true
   - translation_iso: fra
     name: hainanais
   - translation_iso: hin

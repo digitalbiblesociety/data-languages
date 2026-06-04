@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نامباس الكبيرة
     auto: true
+  - translation_iso: deu
+    name: Big Nambas
+    auto: true
   - translation_iso: fra
     name: big nambas
   - translation_iso: hin

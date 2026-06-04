@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوسيليوا
     auto: true
+  - translation_iso: deu
+    name: Boselewa
+    auto: true
   - translation_iso: fra
     name: boselewa
   - translation_iso: hin

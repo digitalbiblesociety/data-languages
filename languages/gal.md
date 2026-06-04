@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجالولين
     auto: true
+  - translation_iso: deu
+    name: Galoli
   - translation_iso: fra
     name: galoli
   - translation_iso: hin

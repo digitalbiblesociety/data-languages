@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماناندو ميلايو
     auto: true
+  - translation_iso: deu
+    name: Manado-Malaiisch
+    auto: true
   - translation_iso: fra
     name: malais de Manado
   - translation_iso: hin

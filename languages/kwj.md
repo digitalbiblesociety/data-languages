@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوانجا
     auto: true
+  - translation_iso: deu
+    name: Kwanga
+    auto: true
   - translation_iso: fra
     name: kwanga
   - translation_iso: hin

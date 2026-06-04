@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: نارا
     auto: true
+  - translation_iso: deu
+    name: Nara
   - translation_iso: fra
     name: nara
   - translation_iso: hin

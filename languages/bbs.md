@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكبينكا
     auto: true
+  - translation_iso: deu
+    name: Bakpinka
+    auto: true
   - translation_iso: fra
     name: bakpinka
   - translation_iso: hin

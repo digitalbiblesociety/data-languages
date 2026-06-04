@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أولوكومي
     auto: true
+  - translation_iso: deu
+    name: Ulukwumi
   - translation_iso: fra
     name: Ulukwumi
     auto: true

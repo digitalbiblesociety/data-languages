@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيجيريا مامبيلا
     auto: true
+  - translation_iso: deu
+    name: Nigeria-Mambila
+    auto: true
   - translation_iso: fra
     name: mambila du Nigeria
   - translation_iso: hin

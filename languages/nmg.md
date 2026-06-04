@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kwasio_language"
 translations:
   - translation_iso: ara
     name: كواسيو
+  - translation_iso: deu
+    name: Kwasio
   - translation_iso: fra
     name: ngoumba
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة تاجي
     auto: true
+  - translation_iso: deu
+    name: Taje
+    auto: true
   - translation_iso: fra
     name: taje
   - translation_iso: hin

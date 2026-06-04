@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوريك
     auto: true
+  - translation_iso: deu
+    name: Purik
+    auto: true
   - translation_iso: fra
     name: purik
   - translation_iso: hin

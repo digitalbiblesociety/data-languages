@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ماك
     auto: true
+  - translation_iso: deu
+    name: Maek
+    auto: true
   - translation_iso: fra
     name: ye-maek
   - translation_iso: hin

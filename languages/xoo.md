@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: شوكورو
     auto: true
+  - translation_iso: deu
+    name: Xukurú
+    auto: true
   - translation_iso: fra
     name: Xukurú
     auto: true

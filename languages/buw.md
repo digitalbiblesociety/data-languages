@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوبي
     auto: true
+  - translation_iso: deu
+    name: Bubi
   - translation_iso: fra
     name: pove
   - translation_iso: hin

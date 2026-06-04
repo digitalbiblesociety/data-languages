@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نجا بوومي
     auto: true
+  - translation_iso: deu
+    name: Poumei-Naga
+    auto: true
   - translation_iso: fra
     name: naga poumei
   - translation_iso: hin

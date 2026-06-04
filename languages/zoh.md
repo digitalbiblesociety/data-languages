@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوكي تشيمالابا
     auto: true
+  - translation_iso: deu
+    name: Zoque (Chimalapa)
+    auto: true
   - translation_iso: fra
     name: zoque de Chimalapa
   - translation_iso: hin

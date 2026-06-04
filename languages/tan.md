@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تانغالي
     auto: true
+  - translation_iso: deu
+    name: Tangale
   - translation_iso: fra
     name: tangale
   - translation_iso: hin

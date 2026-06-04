@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندا الأسترالية
     auto: true
+  - translation_iso: deu
+    name: Manda (Australien)
+    auto: true
   - translation_iso: fra
     name: manda
   - translation_iso: hin

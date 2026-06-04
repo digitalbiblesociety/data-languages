@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هونسرك
     auto: true
+  - translation_iso: deu
+    name: Riograndenser Hunsrückisch
   - translation_iso: fra
     name: hunsrik
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shabaki_language"
 translations:
   - translation_iso: ara
     name: لغة شبكية
+  - translation_iso: deu
+    name: Schabaki
   - translation_iso: fra
     name: chabak
   - translation_iso: hin

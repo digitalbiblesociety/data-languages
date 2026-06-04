@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديسانو
     auto: true
+  - translation_iso: deu
+    name: Desano
+    auto: true
   - translation_iso: fra
     name: desano
   - translation_iso: hin

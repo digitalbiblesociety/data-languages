@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khmer_language"
 translations:
   - translation_iso: ara
     name: الخميرية
+  - translation_iso: deu
+    name: Khmer
   - translation_iso: fra
     name: khmer
   - translation_iso: hin

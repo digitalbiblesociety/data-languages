@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة مبونجا
     auto: true
+  - translation_iso: deu
+    name: Mbunga
+    auto: true
   - translation_iso: fra
     name: Mbunga
     auto: true

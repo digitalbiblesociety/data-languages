@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بينابينا
     auto: true
+  - translation_iso: deu
+    name: Benabena
+    auto: true
   - translation_iso: fra
     name: benabena
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Friulian_language"
 translations:
   - translation_iso: ara
     name: الفريولية
+  - translation_iso: deu
+    name: Furlanisch
   - translation_iso: fra
     name: frioulan
   - translation_iso: hin

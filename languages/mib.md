@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك أتاتلاهوكا
     auto: true
+  - translation_iso: deu
+    name: Atatláhuca Mixtec
+    auto: true
   - translation_iso: fra
     name: "Mixtèque d'Atatláhuca"
     auto: true

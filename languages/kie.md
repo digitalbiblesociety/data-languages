@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كيبت
     auto: true
+  - translation_iso: deu
+    name: Kibet
   - translation_iso: fra
     name: kibet
   - translation_iso: hin

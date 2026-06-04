@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرتا
     auto: true
+  - translation_iso: deu
+    name: Arta
+    auto: true
   - translation_iso: fra
     name: arta
   - translation_iso: hin

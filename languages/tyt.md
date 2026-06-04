@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي تاك
     auto: true
+  - translation_iso: deu
+    name: Tày Tac
+    auto: true
   - translation_iso: fra
     name: tày tac
   - translation_iso: hin

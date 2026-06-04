@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيديوجو
     auto: true
+  - translation_iso: deu
+    name: Bidyogo
   - translation_iso: fra
     name: bijogo
   - translation_iso: hin

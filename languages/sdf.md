@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: سارلي
     auto: true
+  - translation_iso: deu
+    name: Sarli
+    auto: true
   - translation_iso: fra
     name: sarli
   - translation_iso: hin

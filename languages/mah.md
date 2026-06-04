@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Marshallese_language"
 translations:
   - translation_iso: ara
     name: المارشالية
+  - translation_iso: deu
+    name: Marshallesisch
   - translation_iso: fra
     name: marshallais
   - translation_iso: hin

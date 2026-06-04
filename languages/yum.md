@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتشوان
     auto: true
+  - translation_iso: deu
+    name: Quechan
+    auto: true
   - translation_iso: fra
     name: yuma
   - translation_iso: hin

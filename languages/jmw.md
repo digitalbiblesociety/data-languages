@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة موواسي
     auto: true
+  - translation_iso: deu
+    name: Mouwase
+    auto: true
   - translation_iso: fra
     name: mouwase
   - translation_iso: hin

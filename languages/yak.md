@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ياكاما
     auto: true
+  - translation_iso: deu
+    name: Yakama
+    auto: true
   - translation_iso: fra
     name: yakama
   - translation_iso: hin

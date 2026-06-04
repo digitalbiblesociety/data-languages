@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: النيكسيك
     auto: true
+  - translation_iso: deu
+    name: Niksek
+    auto: true
   - translation_iso: fra
     name: niksek
   - translation_iso: hin

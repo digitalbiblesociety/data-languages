@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ناكي
     auto: true
+  - translation_iso: deu
+    name: Naki
   - translation_iso: fra
     name: naki
   - translation_iso: hin

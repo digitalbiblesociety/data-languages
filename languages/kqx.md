@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مسير
     auto: true
+  - translation_iso: deu
+    name: Mser
   - translation_iso: fra
     name: mser
   - translation_iso: hin

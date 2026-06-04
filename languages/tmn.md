@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تامان إندونيسيا
     auto: true
+  - translation_iso: deu
+    name: Taman
   - translation_iso: fra
     name: Taman (Indonésie)
     auto: true

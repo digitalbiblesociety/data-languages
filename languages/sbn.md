@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سندي بيل
     auto: true
+  - translation_iso: deu
+    name: Sindhi-Bhil
+    auto: true
   - translation_iso: fra
     name: sindhi bhil
   - translation_iso: hin

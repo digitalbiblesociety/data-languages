@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: دومبي
     auto: true
+  - translation_iso: deu
+    name: Dombe
+    auto: true
   - translation_iso: fra
     name: dombe
   - translation_iso: hin

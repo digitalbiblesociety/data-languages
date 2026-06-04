@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة فيمبي
     auto: true
+  - translation_iso: deu
+    name: Fembe
+    auto: true
   - translation_iso: fra
     name: fembe
   - translation_iso: hin

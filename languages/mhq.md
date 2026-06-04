@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mandan_language"
 translations:
   - translation_iso: ara
     name: ماندان
+  - translation_iso: deu
+    name: Mandan
+    auto: true
   - translation_iso: fra
     name: mandan
   - translation_iso: hin

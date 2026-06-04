@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Carapana_language"
 translations:
   - translation_iso: ara
     name: لغة كارابانا
+  - translation_iso: deu
+    name: Carapana
+    auto: true
   - translation_iso: fra
     name: carapana
   - translation_iso: hin

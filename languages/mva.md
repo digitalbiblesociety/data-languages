@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانام
     auto: true
+  - translation_iso: deu
+    name: Manam
+    auto: true
   - translation_iso: fra
     name: manam
   - translation_iso: hin

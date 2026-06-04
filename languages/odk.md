@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أود
     auto: true
+  - translation_iso: deu
+    name: Od
   - translation_iso: fra
     name: od
   - translation_iso: hin

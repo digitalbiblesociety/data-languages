@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوي
     auto: true
+  - translation_iso: deu
+    name: Koi
+    auto: true
   - translation_iso: fra
     name: kohi
   - translation_iso: hin

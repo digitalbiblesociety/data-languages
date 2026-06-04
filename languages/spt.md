@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سبيتي بوتي
     auto: true
+  - translation_iso: deu
+    name: Spiti Bhoti
+    auto: true
   - translation_iso: fra
     name: spiti
   - translation_iso: hin

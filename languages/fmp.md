@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فيفي
     auto: true
+  - translation_iso: deu
+    name: "Fe'fe'"
   - translation_iso: fra
     name: nufi
   - translation_iso: hin

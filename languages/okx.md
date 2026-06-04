@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكبي الشمالية الغربية
     auto: true
+  - translation_iso: deu
+    name: Okpe (Nordwest-Edo)
+    auto: true
   - translation_iso: fra
     name: Okpe (Edo nord-occidental)
     auto: true

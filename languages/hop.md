@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hopi_language"
 translations:
   - translation_iso: ara
     name: هوبي
+  - translation_iso: deu
+    name: Hopi
+    auto: true
   - translation_iso: fra
     name: hopi
   - translation_iso: hin

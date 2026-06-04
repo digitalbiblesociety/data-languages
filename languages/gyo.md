@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: غيآلسومدو
     auto: true
+  - translation_iso: deu
+    name: Gyalsumdo
+    auto: true
   - translation_iso: fra
     name: gyalsumdo
   - translation_iso: hin

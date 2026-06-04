@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مونزومبو
     auto: true
+  - translation_iso: deu
+    name: Monzombo
+    auto: true
   - translation_iso: fra
     name: munzombo
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khakas_language"
 translations:
   - translation_iso: ara
     name: الخاكاسية
+  - translation_iso: deu
+    name: Chakassisch
   - translation_iso: fra
     name: khakasse
   - translation_iso: hin

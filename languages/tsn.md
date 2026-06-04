@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tswana_language"
 translations:
   - translation_iso: ara
     name: التسوانية
+  - translation_iso: deu
+    name: Setswana
   - translation_iso: fra
     name: tswana
   - translation_iso: hin

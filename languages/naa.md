@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نامالا
     auto: true
+  - translation_iso: deu
+    name: Namla
+    auto: true
   - translation_iso: fra
     name: namla
   - translation_iso: hin

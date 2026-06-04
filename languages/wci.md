@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واسي جبي
     auto: true
+  - translation_iso: deu
+    name: Waci
   - translation_iso: fra
     name: waci
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك كسانغويا
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Xanaguía)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Xanaguía
   - translation_iso: hin

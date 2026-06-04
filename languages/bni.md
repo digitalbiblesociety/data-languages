@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانجي
     auto: true
+  - translation_iso: deu
+    name: Bangi
   - translation_iso: fra
     name: bobangi
   - translation_iso: hin

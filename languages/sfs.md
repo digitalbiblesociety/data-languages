@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة جنوب أفريقيا
     auto: true
+  - translation_iso: deu
+    name: Südafrikanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes sud-africaine
   - translation_iso: hin

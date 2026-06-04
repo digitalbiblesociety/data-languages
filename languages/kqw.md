@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاندس
     auto: true
+  - translation_iso: deu
+    name: Kandas
+    auto: true
   - translation_iso: fra
     name: kandas
   - translation_iso: hin

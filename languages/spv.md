@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سامبالبوري
     auto: true
+  - translation_iso: deu
+    name: Sambalpuri
+    auto: true
   - translation_iso: fra
     name: sambalpuri
   - translation_iso: hin

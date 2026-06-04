@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيس
     auto: true
+  - translation_iso: deu
+    name: Kis
+    auto: true
   - translation_iso: fra
     name: kis
   - translation_iso: hin

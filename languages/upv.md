@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوريبيف-والا-رانو-اتشين
     auto: true
+  - translation_iso: deu
+    name: Uripiv-Sprache
   - translation_iso: fra
     name: uripiv-wala-rano-atchin
   - translation_iso: hin

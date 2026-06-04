@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيوسلاو
     auto: true
+  - translation_iso: deu
+    name: Siuslaw
+    auto: true
   - translation_iso: fra
     name: siuslaw
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجو
     auto: true
+  - translation_iso: deu
+    name: Mango
+    auto: true
   - translation_iso: fra
     name: mango
   - translation_iso: hin

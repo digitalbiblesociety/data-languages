@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوبيسبينيو
     auto: true
+  - translation_iso: deu
+    name: Obispeño
+    auto: true
   - translation_iso: fra
     name: obispeño
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ديني كيه
     auto: true
+  - translation_iso: deu
+    name: Denetaca
   - translation_iso: fra
     name: denetaca
   - translation_iso: hin

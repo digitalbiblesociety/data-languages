@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مير
     auto: true
+  - translation_iso: deu
+    name: Mer
+    auto: true
   - translation_iso: fra
     name: mer
   - translation_iso: hin

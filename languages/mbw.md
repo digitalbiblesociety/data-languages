@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارينج
     auto: true
+  - translation_iso: deu
+    name: Maring
+    auto: true
   - translation_iso: fra
     name: maring
   - translation_iso: hin

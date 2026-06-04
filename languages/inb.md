@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إينجا
     auto: true
+  - translation_iso: deu
+    name: Inga
   - translation_iso: fra
     name: inga quechua
   - translation_iso: hin

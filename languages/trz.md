@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توراه
     auto: true
+  - translation_iso: deu
+    name: Torá
+    auto: true
   - translation_iso: fra
     name: torá
   - translation_iso: hin

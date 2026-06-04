@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جارو
     auto: true
+  - translation_iso: deu
+    name: Jaru
+    auto: true
   - translation_iso: fra
     name: jaru
   - translation_iso: hin

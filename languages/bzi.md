@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيسو
     auto: true
+  - translation_iso: deu
+    name: Bisu
+    auto: true
   - translation_iso: fra
     name: bisu
   - translation_iso: hin

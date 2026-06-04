@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مايوا يندونيسيا
     auto: true
+  - translation_iso: deu
+    name: Maiwa
   - translation_iso: fra
     name: Maiwa (Indonésie)
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نام
     auto: true
+  - translation_iso: deu
+    name: Nnam
   - translation_iso: fra
     name: Nnam
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامي الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentral-Pame
+    auto: true
   - translation_iso: fra
     name: pame central
   - translation_iso: hin

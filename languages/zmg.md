@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مارتي كي
     auto: true
+  - translation_iso: deu
+    name: Marti Ke
+    auto: true
   - translation_iso: fra
     name: marti ke
   - translation_iso: hin

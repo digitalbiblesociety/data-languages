@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاواييسو
     auto: true
+  - translation_iso: deu
+    name: Kawaiisu
+    auto: true
   - translation_iso: fra
     name: kawaiisu
   - translation_iso: hin

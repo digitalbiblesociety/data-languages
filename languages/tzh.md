@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تسيلتال
     auto: true
+  - translation_iso: deu
+    name: Tzeltal-Sprache
   - translation_iso: fra
     name: tzeltal
   - translation_iso: hin

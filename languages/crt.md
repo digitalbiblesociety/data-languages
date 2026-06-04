@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "إيويجوا'جا تشوروتي"
     auto: true
+  - translation_iso: deu
+    name: "Iyojwa'ja Chorote"
+    auto: true
   - translation_iso: fra
     name: chorote iyojwa’ja
   - translation_iso: hin

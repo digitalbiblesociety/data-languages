@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: كارين لاهتا
     auto: true
+  - translation_iso: deu
+    name: Lahta
   - translation_iso: fra
     name: lahta
   - translation_iso: hin

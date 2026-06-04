@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_French"
 translations:
   - translation_iso: ara
     name: اللغة الفرنسية الوسطى
+  - translation_iso: deu
+    name: Mittelfranzösisch
   - translation_iso: fra
     name: moyen français
   - translation_iso: hin

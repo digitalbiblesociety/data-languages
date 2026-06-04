@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويوات
     auto: true
+  - translation_iso: deu
+    name: Koiwat
+    auto: true
   - translation_iso: fra
     name: koiwat
   - translation_iso: hin

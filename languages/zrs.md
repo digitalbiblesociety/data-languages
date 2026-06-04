@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مايراسي
     auto: true
+  - translation_iso: deu
+    name: Mairasi
+    auto: true
   - translation_iso: fra
     name: mairasi
   - translation_iso: hin

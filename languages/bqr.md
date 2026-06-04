@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوروسو
     auto: true
+  - translation_iso: deu
+    name: Burusu
+    auto: true
   - translation_iso: fra
     name: Burusu
     auto: true

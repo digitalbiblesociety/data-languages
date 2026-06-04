@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جامالي خام
     auto: true
+  - translation_iso: deu
+    name: Gamale Kham
+    auto: true
   - translation_iso: fra
     name: kham gamale
   - translation_iso: hin

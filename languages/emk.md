@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: المانينكاكان الشرقية
     auto: true
+  - translation_iso: deu
+    name: Ost-Maninkakan
+    auto: true
   - translation_iso: fra
     name: "maninkakan de l'Est"
   - translation_iso: hin

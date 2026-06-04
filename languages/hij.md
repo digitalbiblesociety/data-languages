@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: هيجوك
     auto: true
+  - translation_iso: deu
+    name: Hijuk
   - translation_iso: fra
     name: hijuk
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سانسي
     auto: true
+  - translation_iso: deu
+    name: Sansi
+    auto: true
   - translation_iso: fra
     name: sansi
   - translation_iso: hin

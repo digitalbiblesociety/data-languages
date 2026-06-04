@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ألو كوروما
     auto: true
+  - translation_iso: deu
+    name: Alu Kurumba
+    auto: true
   - translation_iso: fra
     name: kurumba alu
   - translation_iso: hin

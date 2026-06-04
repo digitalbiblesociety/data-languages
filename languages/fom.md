@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: الفوما
     auto: true
+  - translation_iso: deu
+    name: Foma
+    auto: true
   - translation_iso: fra
     name: foma
   - translation_iso: hin

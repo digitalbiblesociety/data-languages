@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماواكي
     auto: true
+  - translation_iso: deu
+    name: Mauwake
+    auto: true
   - translation_iso: fra
     name: mauwake
   - translation_iso: hin

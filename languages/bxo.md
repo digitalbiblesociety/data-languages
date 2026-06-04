@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باريْكانْشي
     auto: true
+  - translation_iso: deu
+    name: Barikanchi
+    auto: true
   - translation_iso: fra
     name: barikanchi
   - translation_iso: hin

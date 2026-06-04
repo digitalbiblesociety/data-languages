@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مآغومآ
     auto: true
+  - translation_iso: deu
+    name: Magoma
+    auto: true
   - translation_iso: fra
     name: magoma
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيهيا تنزانيا
     auto: true
+  - translation_iso: deu
+    name: Nyiha (Tansania)
+    auto: true
   - translation_iso: fra
     name: nyiha
   - translation_iso: hin

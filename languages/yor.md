@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yoruba_language"
 translations:
   - translation_iso: ara
     name: اليوروبية
+  - translation_iso: deu
+    name: Yoruba
   - translation_iso: fra
     name: yoruba
   - translation_iso: hin

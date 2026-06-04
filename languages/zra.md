@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: كارا
     auto: true
+  - translation_iso: deu
+    name: Kara (Korea)
+    auto: true
   - translation_iso: fra
     name: gaya
   - translation_iso: hin

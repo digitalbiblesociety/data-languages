@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيغون مبيمبي
     auto: true
+  - translation_iso: deu
+    name: Tigon-Mbembe
   - translation_iso: fra
     name: mbembe tigon
   - translation_iso: hin

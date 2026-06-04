@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دونجوما
     auto: true
+  - translation_iso: deu
+    name: Duungooma
+    auto: true
   - translation_iso: fra
     name: duungooma
   - translation_iso: hin

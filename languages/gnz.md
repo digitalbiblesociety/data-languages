@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غآنزي
     auto: true
+  - translation_iso: deu
+    name: Ganzi
+    auto: true
   - translation_iso: fra
     name: ganzi
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كونو
     auto: true
+  - translation_iso: deu
+    name: Kono (Guinea)
+    auto: true
   - translation_iso: fra
     name: kono
   - translation_iso: hin

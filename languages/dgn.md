@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داجومان
     auto: true
+  - translation_iso: deu
+    name: Dagoman
+    auto: true
   - translation_iso: fra
     name: dagoman
   - translation_iso: hin

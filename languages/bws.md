@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بومْبوما
     auto: true
+  - translation_iso: deu
+    name: Bomboma
+    auto: true
   - translation_iso: fra
     name: Bomboma
     auto: true

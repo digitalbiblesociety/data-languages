@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميجو ميشمي
     auto: true
+  - translation_iso: deu
+    name: Miju-Mishmi
+    auto: true
   - translation_iso: fra
     name: geman deng
   - translation_iso: hin

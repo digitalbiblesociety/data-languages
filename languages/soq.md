@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاناسي
     auto: true
+  - translation_iso: deu
+    name: Kanasi
+    auto: true
   - translation_iso: fra
     name: Kanasi
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سيرا
     auto: true
+  - translation_iso: deu
+    name: Sira
   - translation_iso: fra
     name: sira
   - translation_iso: hin

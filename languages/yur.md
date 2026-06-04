@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yurok_language"
 translations:
   - translation_iso: ara
     name: يوروك
+  - translation_iso: deu
+    name: Yurok
   - translation_iso: fra
     name: yurok
   - translation_iso: hin

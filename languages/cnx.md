@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: الكورنية الوسطى
     auto: true
+  - translation_iso: deu
+    name: Mittelkornisch
   - translation_iso: fra
     name: moyen cornique
   - translation_iso: hin

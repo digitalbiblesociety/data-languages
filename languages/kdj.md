@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كارامويونغ
     auto: true
+  - translation_iso: deu
+    name: Karamojong
+    auto: true
   - translation_iso: fra
     name: karimojong
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نامبو
     auto: true
+  - translation_iso: deu
+    name: Nambo
+    auto: true
   - translation_iso: fra
     name: nambo
   - translation_iso: hin

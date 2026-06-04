@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك غويفيا ده هومبولدت
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Guevea de Humboldt)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Guevea De Humboldt
   - translation_iso: hin

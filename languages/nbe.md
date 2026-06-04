@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كونيك ناجا
     auto: true
+  - translation_iso: deu
+    name: Konyak-Naga
+    auto: true
   - translation_iso: fra
     name: konyak
   - translation_iso: hin

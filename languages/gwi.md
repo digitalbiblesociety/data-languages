@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gwich%CA%BCin_language"
 translations:
   - translation_iso: ara
     name: غوتشن
+  - translation_iso: deu
+    name: Gwichʼin
   - translation_iso: fra
     name: gwich’in
   - translation_iso: hin

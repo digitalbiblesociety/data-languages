@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بويي
     auto: true
+  - translation_iso: deu
+    name: Bouyei
   - translation_iso: fra
     name: bouyei
   - translation_iso: hin

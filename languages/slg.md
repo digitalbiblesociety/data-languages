@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيلونجاي موروت
     auto: true
+  - translation_iso: deu
+    name: Selungai-Murut
+    auto: true
   - translation_iso: fra
     name: Murut de Selungai
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تايرما
     auto: true
+  - translation_iso: deu
+    name: Tairuma
+    auto: true
   - translation_iso: fra
     name: Tairuma
     auto: true

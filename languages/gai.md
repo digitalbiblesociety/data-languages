@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: البوري
     auto: true
+  - translation_iso: deu
+    name: Borei
+    auto: true
   - translation_iso: fra
     name: borei
   - translation_iso: hin

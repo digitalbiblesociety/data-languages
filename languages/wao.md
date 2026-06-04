@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وابو
     auto: true
+  - translation_iso: deu
+    name: Wappo
   - translation_iso: fra
     name: wappo
   - translation_iso: hin

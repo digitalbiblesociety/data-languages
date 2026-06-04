@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بينجيلابيسية
     auto: true
+  - translation_iso: deu
+    name: Pingelapisch
   - translation_iso: fra
     name: pingelap
   - translation_iso: hin

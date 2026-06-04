@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وامبار
     auto: true
+  - translation_iso: deu
+    name: Wampar
+    auto: true
   - translation_iso: fra
     name: Wampar
   - translation_iso: hin

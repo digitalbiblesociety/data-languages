@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سومتو تشين
     auto: true
+  - translation_iso: deu
+    name: Sumtu-Chin
+    auto: true
   - translation_iso: fra
     name: Chin Sumtu
     auto: true

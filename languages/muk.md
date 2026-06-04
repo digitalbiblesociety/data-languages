@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موجوم
     auto: true
+  - translation_iso: deu
+    name: Mugom
+    auto: true
   - translation_iso: fra
     name: dialect Mugom
   - translation_iso: hin

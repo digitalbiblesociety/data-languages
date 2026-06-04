@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ساوث واتوت
     auto: true
+  - translation_iso: deu
+    name: South Watut
+    auto: true
   - translation_iso: fra
     name: watut du Sud
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنجليزية الليبيرية
     auto: true
+  - translation_iso: deu
+    name: Liberianisches Englisch
+    auto: true
   - translation_iso: fra
     name: créole libérien
   - translation_iso: hin

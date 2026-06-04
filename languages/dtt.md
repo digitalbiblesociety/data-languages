@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تورو تيجو دوجون
     auto: true
+  - translation_iso: deu
+    name: Toro Tegu Dogon
+    auto: true
   - translation_iso: fra
     name: Toro tegu dogon
     auto: true

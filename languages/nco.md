@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيبي
     auto: true
+  - translation_iso: deu
+    name: Sibe
+    auto: true
   - translation_iso: fra
     name: sibe
   - translation_iso: hin

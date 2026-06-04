@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألوتور
     auto: true
+  - translation_iso: deu
+    name: Aliutorisch
   - translation_iso: fra
     name: alioutor
   - translation_iso: hin

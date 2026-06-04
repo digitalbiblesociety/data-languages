@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fur_language"
 translations:
   - translation_iso: ara
     name: الفوراوية
+  - translation_iso: deu
+    name: Fur
   - translation_iso: fra
     name: four
   - translation_iso: hin

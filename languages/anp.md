@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Angika"
 translations:
   - translation_iso: ara
     name: الأنجيكية
+  - translation_iso: deu
+    name: Angika
   - translation_iso: fra
     name: angika
   - translation_iso: hin

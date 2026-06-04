@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jju_language"
 translations:
   - translation_iso: ara
     name: الجيو
+  - translation_iso: deu
+    name: Kaje
   - translation_iso: fra
     name: jju
   - translation_iso: hin

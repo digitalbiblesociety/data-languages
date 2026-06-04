@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيداخو-إيسوخا-تيريكي
     auto: true
+  - translation_iso: deu
+    name: Idakho-Isukha-Tiriki
+    auto: true
   - translation_iso: fra
     name: Idakho-Isukha-Tiriki
     auto: true

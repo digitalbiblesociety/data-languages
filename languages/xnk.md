@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نجانكاكاتي
     auto: true
+  - translation_iso: deu
+    name: Nganakarti
+    auto: true
   - translation_iso: fra
     name: nganakarti
   - translation_iso: hin

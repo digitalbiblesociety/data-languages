@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كورو
     auto: true
+  - translation_iso: deu
+    name: Koro
   - translation_iso: fra
     name: koro
   - translation_iso: hin

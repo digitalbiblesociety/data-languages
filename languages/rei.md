@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريلي
     auto: true
+  - translation_iso: deu
+    name: Reli
+    auto: true
   - translation_iso: fra
     name: reli
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينترال هواستيكا ناهواتل
     auto: true
+  - translation_iso: deu
+    name: Zentral-Huasteca-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl du Huasteca central
   - translation_iso: hin

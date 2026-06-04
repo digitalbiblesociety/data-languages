@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة والو
     auto: true
+  - translation_iso: deu
+    name: Lwalu
+    auto: true
   - translation_iso: fra
     name: lwalu
   - translation_iso: hin

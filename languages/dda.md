@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: دادي دادي
     auto: true
+  - translation_iso: deu
+    name: Dadi Dadi
+    auto: true
   - translation_iso: fra
     name: dadi dadi
   - translation_iso: hin

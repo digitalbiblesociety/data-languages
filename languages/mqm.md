@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماركيزان الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Südmarquesanisch
   - translation_iso: fra
     name: marquisien du Sud
   - translation_iso: hin

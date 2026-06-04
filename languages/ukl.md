@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأوكرانية
     auto: true
+  - translation_iso: deu
+    name: ukrainische Gebärdensprache
   - translation_iso: fra
     name: langue des signes ukrainienne
   - translation_iso: hin

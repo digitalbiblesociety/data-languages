@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أكونتسو
     auto: true
+  - translation_iso: deu
+    name: Akuntsu
+    auto: true
   - translation_iso: fra
     name: akuntsu
   - translation_iso: hin

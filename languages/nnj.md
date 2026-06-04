@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيانغاتوم
     auto: true
+  - translation_iso: deu
+    name: Nyangatom
+    auto: true
   - translation_iso: fra
     name: Nyangatom
     auto: true

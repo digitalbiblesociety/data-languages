@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة ألبارادا
     auto: true
+  - translation_iso: deu
+    name: Albarradas-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: "Langue des signes d'Albarradas"
     auto: true

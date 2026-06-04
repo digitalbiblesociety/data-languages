@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Modern_Greek"
 translations:
   - translation_iso: ara
     name: اليونانية الحديثة
+  - translation_iso: deu
+    name: Neugriechisch
   - translation_iso: fra
     name: grec moderne
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماندي
     auto: true
+  - translation_iso: deu
+    name: modernes Mandäisch
   - translation_iso: fra
     name: néo-mandéen
   - translation_iso: hin

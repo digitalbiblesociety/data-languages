@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيناهاري
     auto: true
+  - translation_iso: deu
+    name: Binahari
+    auto: true
   - translation_iso: fra
     name: binahari
   - translation_iso: hin

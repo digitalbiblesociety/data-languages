@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماري
     auto: true
+  - translation_iso: deu
+    name: Mari (East Sepik Province)
+    auto: true
   - translation_iso: fra
     name: mari
   - translation_iso: hin

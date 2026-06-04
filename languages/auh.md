@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوشي
     auto: true
+  - translation_iso: deu
+    name: Aushi
   - translation_iso: fra
     name: aushi
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باسّوسّي
     auto: true
+  - translation_iso: deu
+    name: Bassossi
   - translation_iso: fra
     name: bassossi
   - translation_iso: hin

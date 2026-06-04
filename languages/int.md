@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إينثا
     auto: true
+  - translation_iso: deu
+    name: Intha
+    auto: true
   - translation_iso: fra
     name: Intha
     auto: true

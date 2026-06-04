@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الفايو
     auto: true
+  - translation_iso: deu
+    name: Fayu
+    auto: true
   - translation_iso: fra
     name: fayu
   - translation_iso: hin

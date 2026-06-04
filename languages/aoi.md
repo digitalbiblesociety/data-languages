@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنيندّيليّاكوا
     auto: true
+  - translation_iso: deu
+    name: Anindilyakwa
+    auto: true
   - translation_iso: fra
     name: anindilyakwa
   - translation_iso: hin

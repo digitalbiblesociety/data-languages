@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مويمبي-موثامبي
     auto: true
+  - translation_iso: deu
+    name: Mwimbi-Muthambi
+    auto: true
   - translation_iso: fra
     name: mwimbi-muthambi
   - translation_iso: hin

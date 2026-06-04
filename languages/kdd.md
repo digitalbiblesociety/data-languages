@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يانكونيتجاتجارا
     auto: true
+  - translation_iso: deu
+    name: Yankunytjatjara
+    auto: true
   - translation_iso: fra
     name: yankunytjatjara
   - translation_iso: hin

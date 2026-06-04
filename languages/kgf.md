@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبي
     auto: true
+  - translation_iso: deu
+    name: Kube
+    auto: true
   - translation_iso: fra
     name: tobo-kube
   - translation_iso: hin

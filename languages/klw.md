@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تادو
     auto: true
+  - translation_iso: deu
+    name: Tado
+    auto: true
   - translation_iso: fra
     name: lindu
   - translation_iso: hin

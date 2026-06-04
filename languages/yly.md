@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة نيالايو
     auto: true
+  - translation_iso: deu
+    name: Nyâlayu
+    auto: true
   - translation_iso: fra
     name: nyelâyu
   - translation_iso: hin

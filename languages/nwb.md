@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نييابوا
     auto: true
+  - translation_iso: deu
+    name: Nyabwa
   - translation_iso: fra
     name: nyabwa
   - translation_iso: hin

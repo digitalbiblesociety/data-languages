@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لغة كانادا كوروما
     auto: true
+  - translation_iso: deu
+    name: Kannada-Kurumba
+    auto: true
   - translation_iso: fra
     name: kurumba
   - translation_iso: hin

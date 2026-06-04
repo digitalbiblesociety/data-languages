@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أبادي
     auto: true
+  - translation_iso: deu
+    name: Abadi
+    auto: true
   - translation_iso: fra
     name: abadi
   - translation_iso: hin

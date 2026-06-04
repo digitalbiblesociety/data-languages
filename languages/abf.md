@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أبّاي سونجاي
     auto: true
+  - translation_iso: deu
+    name: Abai Sungai
+    auto: true
   - translation_iso: fra
     name: Abai Sungai
     auto: true

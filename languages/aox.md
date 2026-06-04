@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتورادا
     auto: true
+  - translation_iso: deu
+    name: Atorada
+    auto: true
   - translation_iso: fra
     name: Atorada
     auto: true

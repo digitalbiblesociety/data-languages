@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايو
     auto: true
+  - translation_iso: deu
+    name: Mayo
+    auto: true
   - translation_iso: fra
     name: mayo
   - translation_iso: hin

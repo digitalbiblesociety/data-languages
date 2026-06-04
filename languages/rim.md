@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نياتورو
     auto: true
+  - translation_iso: deu
+    name: Nyaturu
+    auto: true
   - translation_iso: fra
     name: nyaturu
   - translation_iso: hin

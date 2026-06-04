@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوجوور
     auto: true
+  - translation_iso: deu
+    name: Dugwor
+    auto: true
   - translation_iso: fra
     name: dugvor
   - translation_iso: hin

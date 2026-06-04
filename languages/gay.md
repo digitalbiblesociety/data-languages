@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gayo_language"
 translations:
   - translation_iso: ara
     name: الجايو
+  - translation_iso: deu
+    name: Gayo
   - translation_iso: fra
     name: gayo
   - translation_iso: hin

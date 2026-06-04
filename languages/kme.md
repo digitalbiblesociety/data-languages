@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة باكولي
     auto: true
+  - translation_iso: deu
+    name: Bakole
   - translation_iso: fra
     name: bakole
   - translation_iso: hin

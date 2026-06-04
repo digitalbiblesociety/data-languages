@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mauritian_Creole"
 translations:
   - translation_iso: ara
     name: الكريولية الموريشية
+  - translation_iso: deu
+    name: Morisyen
   - translation_iso: fra
     name: créole mauricien
   - translation_iso: hin

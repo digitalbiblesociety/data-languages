@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويكورو-كالابالو
     auto: true
+  - translation_iso: deu
+    name: Kuikúro-Kalapálo
+    auto: true
   - translation_iso: fra
     name: kuikúro-kalapálo
   - translation_iso: hin

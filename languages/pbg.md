@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراوخانو
     auto: true
+  - translation_iso: deu
+    name: Paraujano
+    auto: true
   - translation_iso: fra
     name: agnou
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تابيرابي
     auto: true
+  - translation_iso: deu
+    name: Tapirapé
+    auto: true
   - translation_iso: fra
     name: tapirapé
   - translation_iso: hin

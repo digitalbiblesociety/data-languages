@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كورا إيدي ناغو
     auto: true
+  - translation_iso: deu
+    name: Kura Ede Nago
+    auto: true
   - translation_iso: fra
     name: kura nago
   - translation_iso: hin

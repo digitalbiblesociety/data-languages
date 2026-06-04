@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أييري
     auto: true
+  - translation_iso: deu
+    name: Ayere
   - translation_iso: fra
     name: Ayere
     auto: true

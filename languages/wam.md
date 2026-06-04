@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Massachusett_language"
 translations:
   - translation_iso: ara
     name: لغة ماساتشوستس
+  - translation_iso: deu
+    name: Massachusett-Sprache
   - translation_iso: fra
     name: massachusett
   - translation_iso: hin

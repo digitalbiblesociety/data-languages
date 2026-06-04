@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Omani_Arabic"
 translations:
   - translation_iso: ara
     name: اللهجة العمانية
+  - translation_iso: deu
+    name: Omanisches Arabisch
+    auto: true
   - translation_iso: fra
     name: arabe omanais
   - translation_iso: hin

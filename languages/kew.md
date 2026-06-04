@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيوا الغربية
     auto: true
+  - translation_iso: deu
+    name: West-Kewa
+    auto: true
   - translation_iso: fra
     name: "kewa de l'Ouest"
   - translation_iso: hin

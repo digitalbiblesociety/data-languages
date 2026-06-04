@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميسيما-باناياتي
     auto: true
+  - translation_iso: deu
+    name: Misima-Panaeati
+    auto: true
   - translation_iso: fra
     name: Misima-Panaeati
     auto: true

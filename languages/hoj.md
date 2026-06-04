@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: هادوثي
     auto: true
+  - translation_iso: deu
+    name: Harauti
   - translation_iso: fra
     name: Hadothi
     auto: true

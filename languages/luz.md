@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة ووتهيرن وري
     auto: true
+  - translation_iso: deu
+    name: Südliches Lori
   - translation_iso: fra
     name: lori du Sud
   - translation_iso: hin

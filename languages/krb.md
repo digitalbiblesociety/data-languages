@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاركين
     auto: true
+  - translation_iso: deu
+    name: Karkin
+    auto: true
   - translation_iso: fra
     name: karkin
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الجنوبية الشرقية
     auto: true
+  - translation_iso: deu
+    name: Südosttasmanisch
+    auto: true
   - translation_iso: fra
     name: nuenonne
   - translation_iso: hin

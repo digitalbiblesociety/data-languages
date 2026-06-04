@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيدو-ميشمي
     auto: true
+  - translation_iso: deu
+    name: Idu-Mishmi
+    auto: true
   - translation_iso: fra
     name: idu mishmi
   - translation_iso: hin

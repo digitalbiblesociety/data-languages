@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة كون كيو
     auto: true
+  - translation_iso: deu
+    name: Kon Keu
+    auto: true
   - translation_iso: fra
     name: kon keu
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشيبيبو-كونيبو
     auto: true
+  - translation_iso: deu
+    name: Shipibo-Conibo
+    auto: true
   - translation_iso: fra
     name: shipibo-conibo
   - translation_iso: hin

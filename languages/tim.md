@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيمبي
     auto: true
+  - translation_iso: deu
+    name: Timbe
+    auto: true
   - translation_iso: fra
     name: Timbe
     auto: true

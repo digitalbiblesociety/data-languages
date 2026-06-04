@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالاونغ رتشينغ
     auto: true
+  - translation_iso: deu
+    name: Ruching-Palaung
+    auto: true
   - translation_iso: fra
     name: palaung ruching
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديهو
     auto: true
+  - translation_iso: deu
+    name: Dehu
+    auto: true
   - translation_iso: fra
     name: drehu
   - translation_iso: hin

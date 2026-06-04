@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآتآم
     auto: true
+  - translation_iso: deu
+    name: Hatam
+    auto: true
   - translation_iso: fra
     name: hatam
   - translation_iso: hin

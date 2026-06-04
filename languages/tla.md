@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوان الجنوبية الغربية
     auto: true
+  - translation_iso: deu
+    name: Südwestliches Tepehuan
+    auto: true
   - translation_iso: fra
     name: tepehuan du Sud-Ouest
   - translation_iso: hin

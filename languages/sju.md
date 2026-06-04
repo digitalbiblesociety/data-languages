@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أومي سامي
     auto: true
+  - translation_iso: deu
+    name: Umesamisch
   - translation_iso: fra
     name: "same d'Ume"
   - translation_iso: hin

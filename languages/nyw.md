@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: نيياو
     auto: true
+  - translation_iso: deu
+    name: Nyaw
+    auto: true
   - translation_iso: fra
     name: nyaw
   - translation_iso: hin

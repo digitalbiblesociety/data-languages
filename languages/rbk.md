@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نورذرن بونتوك
     auto: true
+  - translation_iso: deu
+    name: Nord-Bontok
+    auto: true
   - translation_iso: fra
     name: bontok du Nord
   - translation_iso: hin

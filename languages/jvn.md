@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاوية كاريبية
     auto: true
+  - translation_iso: deu
+    name: Karibisches Javanisch
+    auto: true
   - translation_iso: fra
     name: javanais des Caraïbes
   - translation_iso: hin

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: باغيلي
     auto: true
+  - translation_iso: deu
+    name: Bagheli
+    auto: true
   - translation_iso: fra
     name: bagheli
   - translation_iso: hin

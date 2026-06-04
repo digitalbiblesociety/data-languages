@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Albanian_language"
 translations:
   - translation_iso: ara
     name: الألبانية
+  - translation_iso: deu
+    name: Albanisch
   - translation_iso: fra
     name: albanais
   - translation_iso: hin

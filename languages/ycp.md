@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تشيبيا
     auto: true
+  - translation_iso: deu
+    name: Chepya
+    auto: true
   - translation_iso: fra
     name: chepya
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كاجان كالاجان
     auto: true
+  - translation_iso: deu
+    name: Kagan Kalagan
+    auto: true
   - translation_iso: fra
     name: kalagan kagan
   - translation_iso: hin

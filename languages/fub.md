@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفولفولدية آدمووا
     auto: true
+  - translation_iso: deu
+    name: Adamaua-Fulfulde
   - translation_iso: fra
     name: "peul de l'Adamaoua"
   - translation_iso: hin

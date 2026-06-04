@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آكا-كيدي
     auto: true
+  - translation_iso: deu
+    name: Aka-Kede
+    auto: true
   - translation_iso: fra
     name: Aka-Kede
     auto: true

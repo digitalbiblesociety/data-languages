@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناي
     auto: true
+  - translation_iso: deu
+    name: Nayi
+    auto: true
   - translation_iso: fra
     name: nayi
   - translation_iso: hin

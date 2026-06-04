@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاهويليا
     auto: true
+  - translation_iso: deu
+    name: Cahuilla
+    auto: true
   - translation_iso: fra
     name: cahuilla
   - translation_iso: hin

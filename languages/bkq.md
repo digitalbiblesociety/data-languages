@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باكايري
     auto: true
+  - translation_iso: deu
+    name: Bakairí
+    auto: true
   - translation_iso: fra
     name: bakairi
   - translation_iso: hin

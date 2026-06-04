@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جابابايوا
     auto: true
+  - translation_iso: deu
+    name: Gapapaiwa
+    auto: true
   - translation_iso: fra
     name: gapapaiwa
   - translation_iso: hin

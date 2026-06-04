@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فاجري بولي
     auto: true
+  - translation_iso: deu
+    name: Vaagri Booli
+    auto: true
   - translation_iso: fra
     name: Vaagri Booli
     auto: true

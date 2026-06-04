@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآيل
     auto: true
+  - translation_iso: deu
+    name: Gail
+    auto: true
   - translation_iso: fra
     name: gayle
   - translation_iso: hin

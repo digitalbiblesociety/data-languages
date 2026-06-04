@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغبوندو
     auto: true
+  - translation_iso: deu
+    name: Ngbundu
+    auto: true
   - translation_iso: fra
     name: ngbundu
   - translation_iso: hin

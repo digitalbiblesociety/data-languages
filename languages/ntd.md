@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيدونغ الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Tidung
+    auto: true
   - translation_iso: fra
     name: Tidung septentrional
     auto: true

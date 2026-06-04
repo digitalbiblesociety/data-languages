@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونين
     auto: true
+  - translation_iso: deu
+    name: Onin
+    auto: true
   - translation_iso: fra
     name: onin
   - translation_iso: hin

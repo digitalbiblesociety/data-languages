@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باكي
     auto: true
+  - translation_iso: deu
+    name: Baki
+    auto: true
   - translation_iso: fra
     name: baki
   - translation_iso: hin

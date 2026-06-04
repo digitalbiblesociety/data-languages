@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bamum_language"
 translations:
   - translation_iso: ara
     name: بامن
+  - translation_iso: deu
+    name: Bamun
   - translation_iso: fra
     name: bamoun
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tuvan_language"
 translations:
   - translation_iso: ara
     name: اللغة التوفانية
+  - translation_iso: deu
+    name: Tuwinisch
   - translation_iso: fra
     name: touvain
   - translation_iso: hin

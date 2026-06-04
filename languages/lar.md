@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لارتيه
     auto: true
+  - translation_iso: deu
+    name: Larteh
   - translation_iso: fra
     name: larteh
   - translation_iso: hin

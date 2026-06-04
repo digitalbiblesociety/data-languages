@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ساو باولو كاينغانج
     auto: true
+  - translation_iso: deu
+    name: Kaingáng (São Paulo)
+    auto: true
   - translation_iso: fra
     name: Kaingáng de São Paulo
     auto: true

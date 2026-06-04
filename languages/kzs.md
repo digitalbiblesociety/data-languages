@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوسون سوجوت
     auto: true
+  - translation_iso: deu
+    name: Sugut-Dusun
+    auto: true
   - translation_iso: fra
     name: dusun sugut
   - translation_iso: hin

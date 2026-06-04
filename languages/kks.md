@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيووي
     auto: true
+  - translation_iso: deu
+    name: Giiwo
+    auto: true
   - translation_iso: fra
     name: Giiwo
     auto: true

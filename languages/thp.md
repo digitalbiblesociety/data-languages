@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثومبسون
     auto: true
+  - translation_iso: deu
+    name: Thompson
+    auto: true
   - translation_iso: fra
     name: thompson
   - translation_iso: hin

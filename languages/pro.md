@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Occitan"
 translations:
   - translation_iso: ara
     name: القسطانية القديمة
+  - translation_iso: deu
+    name: Altokzitanisch
   - translation_iso: fra
     name: ancien occitan
   - translation_iso: hin

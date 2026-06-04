@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميــاو تشياندونغ الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Südliches Qiandong-Miao
+    auto: true
   - translation_iso: fra
     name: Miao du Qiandong méridional
     auto: true

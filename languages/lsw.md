@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة السيشيلية
     auto: true
+  - translation_iso: deu
+    name: Seychellen-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: Langue des signes des Seychelles
     auto: true

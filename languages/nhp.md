@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إستموس بابابان ناهواتل
     auto: true
+  - translation_iso: deu
+    name: Isthmus-Pajapan-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl de l’isthme de Pajapan
   - translation_iso: hin

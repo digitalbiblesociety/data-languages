@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: سيليان
     auto: true
+  - translation_iso: deu
+    name: Selonisch
   - translation_iso: fra
     name: sélonien
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نورثوإست غبآيآ
     auto: true
+  - translation_iso: deu
+    name: Nordwest-Gbaya
   - translation_iso: fra
     name: gbaya du Nord-Ouest
   - translation_iso: hin

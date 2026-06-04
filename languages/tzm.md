@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Central_Atlas_Tamazight"
 translations:
   - translation_iso: ara
     name: تمازيغت
+  - translation_iso: deu
+    name: Zentralatlas-Tamazight
   - translation_iso: fra
     name: tamazight du Maroc central
   - translation_iso: hin

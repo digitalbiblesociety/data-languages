@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييابارلي
     auto: true
+  - translation_iso: deu
+    name: Nyiyaparli
+    auto: true
   - translation_iso: fra
     name: nyiyaparli
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آدولا
     auto: true
+  - translation_iso: deu
+    name: Adhola
+    auto: true
   - translation_iso: fra
     name: adhola
   - translation_iso: hin

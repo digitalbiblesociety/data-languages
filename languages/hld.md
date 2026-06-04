@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هالانغ دوان
     auto: true
+  - translation_iso: deu
+    name: Halang Doan
+    auto: true
   - translation_iso: fra
     name: Halang Doan
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالاجادي
     auto: true
+  - translation_iso: deu
+    name: Kgalagadi
+    auto: true
   - translation_iso: fra
     name: kgalagadi
   - translation_iso: hin

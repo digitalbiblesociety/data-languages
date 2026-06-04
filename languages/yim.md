@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييمتشونغرو ناغا
     auto: true
+  - translation_iso: deu
+    name: Yimchungru Naga
+    auto: true
   - translation_iso: fra
     name: yimchungru
   - translation_iso: hin

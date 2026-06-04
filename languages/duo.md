@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوبانينان أجتا
     auto: true
+  - translation_iso: deu
+    name: Dupaninan-Agta
+    auto: true
   - translation_iso: fra
     name: agta de Dupaningan
   - translation_iso: hin

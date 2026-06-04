@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاغبو
     auto: true
+  - translation_iso: deu
+    name: Tagbu
+    auto: true
   - translation_iso: fra
     name: tagbu
   - translation_iso: hin

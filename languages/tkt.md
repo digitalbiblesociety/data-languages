@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: كاثوريا ثارو
     auto: true
+  - translation_iso: deu
+    name: Kathoriya Tharu
+    auto: true
   - translation_iso: fra
     name: tharu kathoriya
   - translation_iso: hin

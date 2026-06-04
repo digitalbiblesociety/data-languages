@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gorontalo_language"
 translations:
   - translation_iso: ara
     name: جورونتالو
+  - translation_iso: deu
+    name: Gorontalo
   - translation_iso: fra
     name: gorontalo
   - translation_iso: hin

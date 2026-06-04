@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: إيتونما
     auto: true
+  - translation_iso: deu
+    name: Itonama
   - translation_iso: fra
     name: itonama
   - translation_iso: hin

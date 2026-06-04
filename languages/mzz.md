@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مايادومو
     auto: true
+  - translation_iso: deu
+    name: Maiadomu
+    auto: true
   - translation_iso: fra
     name: Maiadomu
     auto: true

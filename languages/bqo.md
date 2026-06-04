@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بالو
     auto: true
+  - translation_iso: deu
+    name: Balo
   - translation_iso: fra
     name: balo
   - translation_iso: hin

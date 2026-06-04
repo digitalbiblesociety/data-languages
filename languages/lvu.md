@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يفوكا
     auto: true
+  - translation_iso: deu
+    name: Levuka
   - translation_iso: fra
     name: Levuka
     auto: true

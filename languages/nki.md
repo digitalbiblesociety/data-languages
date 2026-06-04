@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثانغال ناغا
     auto: true
+  - translation_iso: deu
+    name: Thangal-Naga
+    auto: true
   - translation_iso: fra
     name: naga de Thangal
   - translation_iso: hin

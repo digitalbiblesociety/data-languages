@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشيليسو
     auto: true
+  - translation_iso: deu
+    name: Chilisso
+    auto: true
   - translation_iso: fra
     name: chilisso
   - translation_iso: hin

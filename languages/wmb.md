@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وامبايا
     auto: true
+  - translation_iso: deu
+    name: Wambaya
+    auto: true
   - translation_iso: fra
     name: wambaya
   - translation_iso: hin

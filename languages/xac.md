@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاكهاري
     auto: true
+  - translation_iso: deu
+    name: Kachari
+    auto: true
   - translation_iso: fra
     name: kachari
   - translation_iso: hin

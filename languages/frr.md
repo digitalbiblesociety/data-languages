@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/North_Frisian_language"
 translations:
   - translation_iso: ara
     name: اللغة الفريزية الشمالية
+  - translation_iso: deu
+    name: nordfriesische Sprache
   - translation_iso: fra
     name: frison septentrional
   - translation_iso: hin

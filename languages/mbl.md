@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكساكالي
     auto: true
+  - translation_iso: deu
+    name: Maxakalí
+    auto: true
   - translation_iso: fra
     name: maxakali
   - translation_iso: hin

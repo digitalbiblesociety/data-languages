@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا أريكويبا-لا أونيون
     auto: true
+  - translation_iso: deu
+    name: Arequipa-La-Unión-Quechua
+    auto: true
   - translation_iso: fra
     name: quechua d’Arequipa-La Unión
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشاماكوكو
     auto: true
+  - translation_iso: deu
+    name: Chamacoco
+    auto: true
   - translation_iso: fra
     name: chamacoco
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أراووم
     auto: true
+  - translation_iso: deu
+    name: Arawum
+    auto: true
   - translation_iso: fra
     name: Arawum
     auto: true

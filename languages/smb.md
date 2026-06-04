@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيمباري
     auto: true
+  - translation_iso: deu
+    name: Simbari
+    auto: true
   - translation_iso: fra
     name: Simbari
     auto: true

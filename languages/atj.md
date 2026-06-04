@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Atikamekw_language"
 translations:
   - translation_iso: ara
     name: الأتيكاميكوية
+  - translation_iso: deu
+    name: Atikamekw
   - translation_iso: fra
     name: atikamekw
   - translation_iso: hin

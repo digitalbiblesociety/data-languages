@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غيثآبول
     auto: true
+  - translation_iso: deu
+    name: Githabul
+    auto: true
   - translation_iso: fra
     name: githabul
   - translation_iso: hin

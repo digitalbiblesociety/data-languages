@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: رينْكونادا بيكول
     auto: true
+  - translation_iso: deu
+    name: Rinconada Bikol
+    auto: true
   - translation_iso: fra
     name: bikol rinconada
   - translation_iso: hin

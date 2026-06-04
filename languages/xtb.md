@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشازومبا ميكستيك
     auto: true
+  - translation_iso: deu
+    name: Chazumba-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: Mixtèque de Chazumba
     auto: true

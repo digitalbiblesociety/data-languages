@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نورثوإست بآشآي
     auto: true
+  - translation_iso: deu
+    name: Nordwest-Pashai
+    auto: true
   - translation_iso: fra
     name: pashai du Nord-Ouest
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوجليري
     auto: true
+  - translation_iso: deu
+    name: Buglere
+    auto: true
   - translation_iso: fra
     name: buglere
   - translation_iso: hin

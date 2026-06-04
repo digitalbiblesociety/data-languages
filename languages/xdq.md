@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كايتاغ
     auto: true
+  - translation_iso: deu
+    name: Kaitakisch
   - translation_iso: fra
     name: Kaitag
     auto: true

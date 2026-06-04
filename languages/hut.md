@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هومला
     auto: true
+  - translation_iso: deu
+    name: Humla
+    auto: true
   - translation_iso: fra
     name: humla
   - translation_iso: hin

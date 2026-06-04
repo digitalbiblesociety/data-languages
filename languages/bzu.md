@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بورميسو
     auto: true
+  - translation_iso: deu
+    name: Burmeso
+    auto: true
   - translation_iso: fra
     name: burmeso
   - translation_iso: hin

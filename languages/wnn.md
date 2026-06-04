@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: وونومارا
     auto: true
+  - translation_iso: deu
+    name: Wunumara
+    auto: true
   - translation_iso: fra
     name: wunumara
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mende_language"
 translations:
   - translation_iso: ara
     name: الميند
+  - translation_iso: deu
+    name: Mende
   - translation_iso: fra
     name: mendé
   - translation_iso: hin

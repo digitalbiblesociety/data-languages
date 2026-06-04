@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيكو
     auto: true
+  - translation_iso: deu
+    name: Neku
+    auto: true
   - translation_iso: fra
     name: neku
   - translation_iso: hin

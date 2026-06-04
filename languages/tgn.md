@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: تاندًاغانون
     auto: true
+  - translation_iso: deu
+    name: Tandaganon
+    auto: true
   - translation_iso: fra
     name: tandaganon
   - translation_iso: hin

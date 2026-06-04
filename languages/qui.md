@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Quileute_language"
 translations:
   - translation_iso: ara
     name: كيلوت
+  - translation_iso: deu
+    name: Quileute
   - translation_iso: fra
     name: quileute
   - translation_iso: hin

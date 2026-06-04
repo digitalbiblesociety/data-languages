@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فومبو
     auto: true
+  - translation_iso: deu
+    name: Vumbu
   - translation_iso: fra
     name: vumbu
   - translation_iso: hin

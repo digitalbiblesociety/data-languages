@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الموزمبيقية
     auto: true
+  - translation_iso: deu
+    name: Mosambikanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes mozambicaine
   - translation_iso: hin

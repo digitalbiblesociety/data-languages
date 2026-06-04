@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باوريا
     auto: true
+  - translation_iso: deu
+    name: Bauria
+    auto: true
   - translation_iso: fra
     name: Bauria
     auto: true

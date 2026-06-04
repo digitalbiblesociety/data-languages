@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيبيكو
     auto: true
+  - translation_iso: deu
+    name: Ipiko
+    auto: true
   - translation_iso: fra
     name: ipiko
   - translation_iso: hin

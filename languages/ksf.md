@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bafia_language"
 translations:
   - translation_iso: ara
     name: لغة البافيا
+  - translation_iso: deu
+    name: Bafia
   - translation_iso: fra
     name: bafia
   - translation_iso: hin

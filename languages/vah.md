@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فارهادي-ناجبوري
     auto: true
+  - translation_iso: deu
+    name: Varhadi-Nagpuri
+    auto: true
   - translation_iso: fra
     name: varhadi
   - translation_iso: hin

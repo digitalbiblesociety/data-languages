@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإجاغام
     auto: true
+  - translation_iso: deu
+    name: Ejagham
   - translation_iso: fra
     name: ejagham
   - translation_iso: hin

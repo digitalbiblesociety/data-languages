@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كومبيواها
     auto: true
+  - translation_iso: deu
+    name: Kumbewaha
+    auto: true
   - translation_iso: fra
     name: kumbewaha
   - translation_iso: hin

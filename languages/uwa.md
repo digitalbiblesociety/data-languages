@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوكو-أوانه
     auto: true
+  - translation_iso: deu
+    name: Kuku-Uwanh
+    auto: true
   - translation_iso: fra
     name: kuku-uwanh
   - translation_iso: hin

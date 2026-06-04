@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوبا
     auto: true
+  - translation_iso: deu
+    name: Suba
+    auto: true
   - translation_iso: fra
     name: suba
   - translation_iso: hin

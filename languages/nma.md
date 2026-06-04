@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مارام ناغا
     auto: true
+  - translation_iso: deu
+    name: Maram-Naga
+    auto: true
   - translation_iso: fra
     name: maram naga
   - translation_iso: hin

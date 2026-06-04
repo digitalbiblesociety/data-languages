@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميفاع أزويو
     auto: true
+  - translation_iso: deu
+    name: "Azoyú Me'phaa"
+    auto: true
   - translation_iso: fra
     name: "Tlapanèque d'Azoyú"
     auto: true

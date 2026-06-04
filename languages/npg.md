@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونيو-غونغوانغ ناغا
     auto: true
+  - translation_iso: deu
+    name: Ponyo-Gongwang-Naga
+    auto: true
   - translation_iso: fra
     name: ponyo-gongwang
   - translation_iso: hin

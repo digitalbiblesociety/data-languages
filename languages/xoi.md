@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كومينيمونج
     auto: true
+  - translation_iso: deu
+    name: Kominimung
+    auto: true
   - translation_iso: fra
     name: kominimung
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تايكات
     auto: true
+  - translation_iso: deu
+    name: Taikat
+    auto: true
   - translation_iso: fra
     name: taikat
   - translation_iso: hin

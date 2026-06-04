@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آكا-جيرو
     auto: true
+  - translation_iso: deu
+    name: Aka-Jeru
+    auto: true
   - translation_iso: fra
     name: aka-Jeru
   - translation_iso: hin

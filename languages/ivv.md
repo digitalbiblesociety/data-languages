@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيفاتان
     auto: true
+  - translation_iso: deu
+    name: Ivatan
+    auto: true
   - translation_iso: fra
     name: Ivatan
     auto: true

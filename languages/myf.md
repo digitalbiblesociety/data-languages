@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بامباسي
     auto: true
+  - translation_iso: deu
+    name: Bambassi
+    auto: true
   - translation_iso: fra
     name: bambassi
   - translation_iso: hin

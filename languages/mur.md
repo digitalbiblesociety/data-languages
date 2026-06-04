@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Murle_language"
 translations:
   - translation_iso: ara
     name: لغة مرلية
+  - translation_iso: deu
+    name: Murle
+    auto: true
   - translation_iso: fra
     name: murle
   - translation_iso: hin

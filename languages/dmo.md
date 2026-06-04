@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيميدزونج
     auto: true
+  - translation_iso: deu
+    name: Kemezung
   - translation_iso: fra
     name: kemedzung
   - translation_iso: hin

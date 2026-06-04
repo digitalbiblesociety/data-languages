@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيلارو
     auto: true
+  - translation_iso: deu
+    name: Selaru
   - translation_iso: fra
     name: selaru
   - translation_iso: hin

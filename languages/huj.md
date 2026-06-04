@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ غويانغ الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Guiyang-Hmong
+    auto: true
   - translation_iso: fra
     name: guiyang du Nord
   - translation_iso: hin

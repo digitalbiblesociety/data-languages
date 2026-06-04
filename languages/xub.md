@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيتا كوروما
     auto: true
+  - translation_iso: deu
+    name: Betta Kurumba
+    auto: true
   - translation_iso: fra
     name: kurumba betta
   - translation_iso: hin

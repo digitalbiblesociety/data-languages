@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ورو
     auto: true
+  - translation_iso: deu
+    name: Yuru
+    auto: true
   - translation_iso: fra
     name: yuru
   - translation_iso: hin

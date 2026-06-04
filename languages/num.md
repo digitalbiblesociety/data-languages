@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: "نيواتو'و"
     auto: true
+  - translation_iso: deu
+    name: Niuafoʻouanisch
   - translation_iso: fra
     name: niuafoʻou
   - translation_iso: hin

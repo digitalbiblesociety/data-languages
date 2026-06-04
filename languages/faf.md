@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفاغاني
     auto: true
+  - translation_iso: deu
+    name: Fagani
+    auto: true
   - translation_iso: fra
     name: fagani
   - translation_iso: hin

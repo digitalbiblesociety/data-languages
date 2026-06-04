@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديانجو
     auto: true
+  - translation_iso: deu
+    name: Dhangu-Djangu
+    auto: true
   - translation_iso: fra
     name: dhangu-djangu
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ليمي
     auto: true
+  - translation_iso: deu
+    name: Limi
+    auto: true
   - translation_iso: fra
     name: Limi
     auto: true

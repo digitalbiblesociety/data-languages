@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ هويشوي الجنوبية الغربية
     auto: true
+  - translation_iso: deu
+    name: Südwestliches Huishui-Hmong
+    auto: true
   - translation_iso: fra
     name: huishui du Sud-Ouest
   - translation_iso: hin

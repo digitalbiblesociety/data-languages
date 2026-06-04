@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوجون
     auto: true
+  - translation_iso: deu
+    name: Dugun
+    auto: true
   - translation_iso: fra
     name: dugun
   - translation_iso: hin

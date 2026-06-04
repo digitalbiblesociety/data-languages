@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جاهري
     auto: true
+  - translation_iso: deu
+    name: Gahri
+    auto: true
   - translation_iso: fra
     name: gahri
   - translation_iso: hin

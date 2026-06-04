@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نينجرا
     auto: true
+  - translation_iso: deu
+    name: Ningera
+    auto: true
   - translation_iso: fra
     name: ningera
   - translation_iso: hin

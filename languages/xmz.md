@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موري باوا
     auto: true
+  - translation_iso: deu
+    name: Mori Bawah
+    auto: true
   - translation_iso: fra
     name: mori bawah
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نالوغو
     auto: true
+  - translation_iso: deu
+    name: Nalögo
+    auto: true
   - translation_iso: fra
     name: nalögo
   - translation_iso: hin

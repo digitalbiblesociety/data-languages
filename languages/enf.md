@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإنتس الحرجية
     auto: true
+  - translation_iso: deu
+    name: Wald-Enzisch
   - translation_iso: fra
     name: énètse des forêts
   - translation_iso: hin

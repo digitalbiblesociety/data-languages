@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسماجي
     auto: true
+  - translation_iso: deu
+    name: Masmaje
+    auto: true
   - translation_iso: fra
     name: Masmaje
     auto: true

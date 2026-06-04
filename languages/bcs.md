@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوهومونو
     auto: true
+  - translation_iso: deu
+    name: Kohumono
   - translation_iso: fra
     name: Kohumono
     auto: true

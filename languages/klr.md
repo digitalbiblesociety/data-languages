@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خالينج
     auto: true
+  - translation_iso: deu
+    name: Khaling
+    auto: true
   - translation_iso: fra
     name: khaling
   - translation_iso: hin

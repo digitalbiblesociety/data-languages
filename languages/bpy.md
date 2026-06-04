@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bishnupriya_Manipuri"
 translations:
   - translation_iso: ara
     name: لغة بيشنوبريا مانيبورية
+  - translation_iso: deu
+    name: Bishnupriya Manipuri
   - translation_iso: fra
     name: manipourî de Bishnupriyay
   - translation_iso: hin

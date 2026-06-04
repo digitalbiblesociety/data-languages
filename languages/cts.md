@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: البيكول الشمالي كاتانديانيس
     auto: true
+  - translation_iso: deu
+    name: Nördliches Catanduanes-Bikol
+    auto: true
   - translation_iso: fra
     name: bikol du Nord de Catanduanes
   - translation_iso: hin

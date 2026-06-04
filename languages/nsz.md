@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيسينان
     auto: true
+  - translation_iso: deu
+    name: Nisenan
   - translation_iso: fra
     name: nisenan
   - translation_iso: hin

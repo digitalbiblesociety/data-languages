@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجن
     auto: true
+  - translation_iso: deu
+    name: Njen
   - translation_iso: fra
     name: njen
   - translation_iso: hin

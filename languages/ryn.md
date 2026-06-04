@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نورذرن أمامي أوشيما
     auto: true
+  - translation_iso: deu
+    name: Nord-Amami-Oshima
+    auto: true
   - translation_iso: fra
     name: amami du Nord
   - translation_iso: hin

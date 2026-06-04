@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توروموني
     auto: true
+  - translation_iso: deu
+    name: Toromono
+    auto: true
   - translation_iso: fra
     name: toromona
   - translation_iso: hin

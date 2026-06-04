@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتيا
     auto: true
+  - translation_iso: deu
+    name: Pathiya
+    auto: true
   - translation_iso: fra
     name: Pathiya
     auto: true

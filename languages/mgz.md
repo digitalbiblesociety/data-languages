@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوجوي
     auto: true
+  - translation_iso: deu
+    name: Mbugwe
+    auto: true
   - translation_iso: fra
     name: mbugwe
   - translation_iso: hin

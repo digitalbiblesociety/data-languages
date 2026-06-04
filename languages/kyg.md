@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كييجانا
     auto: true
+  - translation_iso: deu
+    name: Keyagana
+    auto: true
   - translation_iso: fra
     name: Keyagana
     auto: true

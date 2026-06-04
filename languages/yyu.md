@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يو - ساندان
     auto: true
+  - translation_iso: deu
+    name: Yau (Provinz Sandaun)
+    auto: true
   - translation_iso: fra
     name: yau
   - translation_iso: hin

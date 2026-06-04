@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بونا
     auto: true
+  - translation_iso: deu
+    name: Buna
+    auto: true
   - translation_iso: fra
     name: buna
   - translation_iso: hin

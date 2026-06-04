@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلا
     auto: true
+  - translation_iso: deu
+    name: Kela (Demokratische Republik Kongo)
+    auto: true
   - translation_iso: fra
     name: kela
   - translation_iso: hin

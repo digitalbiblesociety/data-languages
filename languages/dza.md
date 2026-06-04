@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونزو
     auto: true
+  - translation_iso: deu
+    name: Tunzu
+    auto: true
   - translation_iso: fra
     name: tunzu
   - translation_iso: hin

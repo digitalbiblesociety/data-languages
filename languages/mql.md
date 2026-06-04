@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبليمي
     auto: true
+  - translation_iso: deu
+    name: Mbelime
+    auto: true
   - translation_iso: fra
     name: mbèlimè
   - translation_iso: hin

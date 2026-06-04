@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة يراكاي
     auto: true
+  - translation_iso: deu
+    name: Yerakai
+    auto: true
   - translation_iso: fra
     name: yerakai
   - translation_iso: hin

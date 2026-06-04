@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هواستيك
     auto: true
+  - translation_iso: deu
+    name: Huastekisch
   - translation_iso: fra
     name: huastèque
   - translation_iso: hin

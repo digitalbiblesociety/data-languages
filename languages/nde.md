@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Ndebele_language"
 translations:
   - translation_iso: ara
     name: النديبيلية الشمالية
+  - translation_iso: deu
+    name: Nord-Ndebele
   - translation_iso: fra
     name: sindebele
   - translation_iso: hin

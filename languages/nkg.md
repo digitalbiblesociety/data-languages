@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيكجيني
     auto: true
+  - translation_iso: deu
+    name: Nekgini
+    auto: true
   - translation_iso: fra
     name: nekgini
   - translation_iso: hin

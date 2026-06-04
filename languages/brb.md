@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاڤي
     auto: true
+  - translation_iso: deu
+    name: Lave
+    auto: true
   - translation_iso: fra
     name: brao
   - translation_iso: hin

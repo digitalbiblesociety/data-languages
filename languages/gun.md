@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مبيá غوآرآنí
     auto: true
+  - translation_iso: deu
+    name: Mbyá-Guaraní
+    auto: true
   - translation_iso: fra
     name: mbyá
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإليبي
     auto: true
+  - translation_iso: deu
+    name: Elepi
+    auto: true
   - translation_iso: fra
     name: elepi
   - translation_iso: hin

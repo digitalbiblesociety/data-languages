@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الغواهاتيك
     auto: true
+  - translation_iso: deu
+    name: Gwahatike
+    auto: true
   - translation_iso: fra
     name: gwahatike
   - translation_iso: hin

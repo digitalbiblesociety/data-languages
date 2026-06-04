@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييالي
     auto: true
+  - translation_iso: deu
+    name: Nyali
+    auto: true
   - translation_iso: fra
     name: Nyali
   - translation_iso: hin

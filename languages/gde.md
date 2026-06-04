@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غودي
     auto: true
+  - translation_iso: deu
+    name: Gude
+    auto: true
   - translation_iso: fra
     name: gude
   - translation_iso: hin

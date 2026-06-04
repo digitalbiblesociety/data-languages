@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بارك
     auto: true
+  - translation_iso: deu
+    name: Barok
+    auto: true
   - translation_iso: fra
     name: barok
   - translation_iso: hin

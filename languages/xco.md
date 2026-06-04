@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khwarezmian_language"
 translations:
   - translation_iso: ara
     name: الخوارزمية
+  - translation_iso: deu
+    name: Choresmisch
   - translation_iso: fra
     name: chorasmien
   - translation_iso: hin

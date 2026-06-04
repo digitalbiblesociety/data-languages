@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويك نغاتهان
     auto: true
+  - translation_iso: deu
+    name: Wik Ngathan
+    auto: true
   - translation_iso: fra
     name: wik-ngathan
   - translation_iso: hin

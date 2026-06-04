@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجارايي
     auto: true
+  - translation_iso: deu
+    name: Mangarrayi
+    auto: true
   - translation_iso: fra
     name: mangarayi
   - translation_iso: hin

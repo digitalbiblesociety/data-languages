@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مينجانج دوسو
     auto: true
+  - translation_iso: deu
+    name: Mingang Doso
+    auto: true
   - translation_iso: fra
     name: mingang doso
   - translation_iso: hin

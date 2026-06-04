@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مانيا
     auto: true
+  - translation_iso: deu
+    name: Manya
+    auto: true
   - translation_iso: fra
     name: manya
   - translation_iso: hin

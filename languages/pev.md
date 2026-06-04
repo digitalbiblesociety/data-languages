@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيمونو
     auto: true
+  - translation_iso: deu
+    name: Pémono
+    auto: true
   - translation_iso: fra
     name: pémono
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانخو
     auto: true
+  - translation_iso: deu
+    name: Pankhu
+    auto: true
   - translation_iso: fra
     name: pankhu
   - translation_iso: hin

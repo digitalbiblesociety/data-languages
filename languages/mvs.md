@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة ماسيب
     auto: true
+  - translation_iso: deu
+    name: Massep
+    auto: true
   - translation_iso: fra
     name: massep
   - translation_iso: hin

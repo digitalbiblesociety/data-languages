@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أندي كايلي
     auto: true
+  - translation_iso: deu
+    name: Unde Kaili
+    auto: true
   - translation_iso: fra
     name: kaili unde
   - translation_iso: hin

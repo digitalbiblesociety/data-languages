@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ساوث سنترال دينكا
     auto: true
+  - translation_iso: deu
+    name: Südzentral-Dinka
   - translation_iso: fra
     name: dinka du Sud-Central
   - translation_iso: hin

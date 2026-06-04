@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مآغɨ
     auto: true
+  - translation_iso: deu
+    name: Magɨ (Madang Province)
+    auto: true
   - translation_iso: fra
     name: Magɨ (province de Madang)
     auto: true

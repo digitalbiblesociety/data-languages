@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تيتون ديلي
     auto: true
+  - translation_iso: deu
+    name: Tetum Dili
   - translation_iso: fra
     name: tetun de Dili
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مومبو دوجون
     auto: true
+  - translation_iso: deu
+    name: Mombo-Dogon
+    auto: true
   - translation_iso: fra
     name: mombo
   - translation_iso: hin

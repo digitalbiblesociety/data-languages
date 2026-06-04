@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يليمي
     auto: true
+  - translation_iso: deu
+    name: Lelemi
   - translation_iso: fra
     name: lelemi
   - translation_iso: hin

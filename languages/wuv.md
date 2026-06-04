@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووفولواوا
     auto: true
+  - translation_iso: deu
+    name: Wuvulu-Aua
+    auto: true
   - translation_iso: fra
     name: wuvulu-aua
   - translation_iso: hin

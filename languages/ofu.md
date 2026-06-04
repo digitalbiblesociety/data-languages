@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة إيفوتوب
     auto: true
+  - translation_iso: deu
+    name: Efutop
   - translation_iso: fra
     name: Efutop
     auto: true

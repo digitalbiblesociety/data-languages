@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Javanese"
 translations:
   - translation_iso: ara
     name: الجاوية القديمة
+  - translation_iso: deu
+    name: Kawi
   - translation_iso: fra
     name: kawi
   - translation_iso: hin

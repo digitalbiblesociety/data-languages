@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Coeur_d%27Alene_language"
 translations:
   - translation_iso: ara
     name: الكردلينية
+  - translation_iso: deu
+    name: "Coeur D'Alene"
   - translation_iso: fra
     name: "cœur d'Alène"
   - translation_iso: hin

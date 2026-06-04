@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ge%CA%BDez"
 translations:
   - translation_iso: ara
     name: الجعزية
+  - translation_iso: deu
+    name: Ge’ez
   - translation_iso: fra
     name: guèze
   - translation_iso: hin

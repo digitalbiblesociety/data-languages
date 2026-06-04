@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: أومبوجارلا
     auto: true
+  - translation_iso: deu
+    name: Umbugarla
+    auto: true
   - translation_iso: fra
     name: umbugarla
   - translation_iso: hin

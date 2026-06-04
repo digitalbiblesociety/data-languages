@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بآرá غآفيãو
     auto: true
+  - translation_iso: deu
+    name: Pará-Gavião
+    auto: true
   - translation_iso: fra
     name: parkatejê
   - translation_iso: hin

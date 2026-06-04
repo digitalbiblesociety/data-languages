@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بونكيمان
     auto: true
+  - translation_iso: deu
+    name: Bonkiman
+    auto: true
   - translation_iso: fra
     name: bonkiman
   - translation_iso: hin

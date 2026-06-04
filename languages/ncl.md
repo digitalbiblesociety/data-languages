@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ميتشواكان ناهواتل
     auto: true
+  - translation_iso: deu
+    name: Michoacán-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl du Michoacán
   - translation_iso: hin

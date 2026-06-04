@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتاكابا
     auto: true
+  - translation_iso: deu
+    name: Atakapa
+    auto: true
   - translation_iso: fra
     name: atakapa
   - translation_iso: hin

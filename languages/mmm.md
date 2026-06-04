@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مايي
     auto: true
+  - translation_iso: deu
+    name: Maii
+    auto: true
   - translation_iso: fra
     name: maii
   - translation_iso: hin

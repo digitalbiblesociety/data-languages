@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Noongar_language"
 translations:
   - translation_iso: ara
     name: نونغار
+  - translation_iso: deu
+    name: Noongar
   - translation_iso: fra
     name: nyungar
   - translation_iso: hin

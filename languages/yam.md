@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يامبا
     auto: true
+  - translation_iso: deu
+    name: Yamba
   - translation_iso: fra
     name: yamba
   - translation_iso: hin

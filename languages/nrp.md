@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: بيسيني الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nordpikenisch
   - translation_iso: fra
     name: nord-picène
   - translation_iso: hin

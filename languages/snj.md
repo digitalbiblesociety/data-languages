@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ريفيراين سانجو
     auto: true
+  - translation_iso: deu
+    name: Riverain-Sango
+    auto: true
   - translation_iso: fra
     name: sango riverain
   - translation_iso: hin

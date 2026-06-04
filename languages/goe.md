@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غونجدوك
     auto: true
+  - translation_iso: deu
+    name: Gongduk
+    auto: true
   - translation_iso: fra
     name: gongduk
   - translation_iso: hin

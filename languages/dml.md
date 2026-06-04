@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دمالي
     auto: true
+  - translation_iso: deu
+    name: Dameli
   - translation_iso: fra
     name: dameli
   - translation_iso: hin

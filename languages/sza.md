@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيميلاي
     auto: true
+  - translation_iso: deu
+    name: Semelai
+    auto: true
   - translation_iso: fra
     name: semelai
   - translation_iso: hin

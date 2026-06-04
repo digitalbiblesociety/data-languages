@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lakota_language"
 translations:
   - translation_iso: ara
     name: لغة لاكوتا
+  - translation_iso: deu
+    name: Lakota
   - translation_iso: fra
     name: lakota
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كابتيو
     auto: true
+  - translation_iso: deu
+    name: Kaptiau
+    auto: true
   - translation_iso: fra
     name: Kaptiau
     auto: true

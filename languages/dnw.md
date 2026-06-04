@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داني الغربية
     auto: true
+  - translation_iso: deu
+    name: West-Dani
+    auto: true
   - translation_iso: fra
     name: dani occidental
   - translation_iso: hin

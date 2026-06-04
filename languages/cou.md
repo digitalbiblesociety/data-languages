@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الوامي
     auto: true
+  - translation_iso: deu
+    name: Wamey
   - translation_iso: fra
     name: coniagui
   - translation_iso: hin

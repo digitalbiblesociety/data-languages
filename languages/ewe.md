@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ewe_language"
 translations:
   - translation_iso: ara
     name: لغة الإيوي
+  - translation_iso: deu
+    name: Ewe
   - translation_iso: fra
     name: ewé
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورو وين
     auto: true
+  - translation_iso: deu
+    name: Oro Win
+    auto: true
   - translation_iso: fra
     name: oro win
   - translation_iso: hin

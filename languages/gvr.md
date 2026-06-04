@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: غورونج
     auto: true
+  - translation_iso: deu
+    name: Gurung
   - translation_iso: fra
     name: gouroung
   - translation_iso: hin

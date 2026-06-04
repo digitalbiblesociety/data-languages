@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميياني
     auto: true
+  - translation_iso: deu
+    name: Miani
+    auto: true
   - translation_iso: fra
     name: miani
   - translation_iso: hin

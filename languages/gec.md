@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جبولو جريبو
     auto: true
+  - translation_iso: deu
+    name: Gboloo Grebo
+    auto: true
   - translation_iso: fra
     name: grebo gboloo
   - translation_iso: hin

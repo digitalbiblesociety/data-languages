@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مارينغ ناغا
     auto: true
+  - translation_iso: deu
+    name: Maring-Naga
+    auto: true
   - translation_iso: fra
     name: marin
   - translation_iso: hin

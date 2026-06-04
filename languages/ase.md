@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/American_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الأمريكية
+  - translation_iso: deu
+    name: American Sign Language
   - translation_iso: fra
     name: langue des signes américaine
   - translation_iso: hin

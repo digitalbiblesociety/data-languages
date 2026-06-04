@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مونتول
     auto: true
+  - translation_iso: deu
+    name: Montol
+    auto: true
   - translation_iso: fra
     name: Montol
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإنجيني
     auto: true
+  - translation_iso: deu
+    name: Engenni
+    auto: true
   - translation_iso: fra
     name: egene
   - translation_iso: hin

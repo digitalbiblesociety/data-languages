@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتساهواكا
     auto: true
+  - translation_iso: deu
+    name: Atsawaka
   - translation_iso: fra
     name: Atsahuaca
     auto: true

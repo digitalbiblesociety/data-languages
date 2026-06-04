@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نينجيل
     auto: true
+  - translation_iso: deu
+    name: Ningil
+    auto: true
   - translation_iso: fra
     name: ningil
   - translation_iso: hin

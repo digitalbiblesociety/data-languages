@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Caddo_language"
 translations:
   - translation_iso: ara
     name: الكادو
+  - translation_iso: deu
+    name: Caddo
   - translation_iso: fra
     name: caddo
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يين
     auto: true
+  - translation_iso: deu
+    name: Yine
+    auto: true
   - translation_iso: fra
     name: yine
   - translation_iso: hin

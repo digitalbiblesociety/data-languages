@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Church_Slavonic"
 translations:
   - translation_iso: ara
     name: الصقلبية الكنسية
+  - translation_iso: deu
+    name: Kirchenslawisch
   - translation_iso: fra
     name: slavon d’église
   - translation_iso: hin

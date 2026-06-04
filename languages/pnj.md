@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينجاروب
     auto: true
+  - translation_iso: deu
+    name: Pinjarup
+    auto: true
   - translation_iso: fra
     name: pinjarup
   - translation_iso: hin

@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Siculo-Arabic"
 translations:
   - translation_iso: ara
     name: صقلية عربية
+  - translation_iso: deu
+    name: Sizilianisch-Arabisch
   - translation_iso: fra
     name: arabe sicilien
   - translation_iso: hin

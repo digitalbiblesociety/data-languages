@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: نجوني
     auto: true
+  - translation_iso: deu
+    name: Ngoni (Mosambik)
+    auto: true
   - translation_iso: fra
     name: ngoni du Mozambique
   - translation_iso: hin

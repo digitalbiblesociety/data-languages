@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: واجدي
     auto: true
+  - translation_iso: deu
+    name: Wagdi
   - translation_iso: fra
     name: Wagdi
   - translation_iso: hin

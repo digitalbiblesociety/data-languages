@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بادوي
     auto: true
+  - translation_iso: deu
+    name: Padoe
   - translation_iso: fra
     name: padoe
   - translation_iso: hin

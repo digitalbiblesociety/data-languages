@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يوْنوو بونو
     auto: true
+  - translation_iso: deu
+    name: Younuo Bunu
+    auto: true
   - translation_iso: fra
     name: younuo
   - translation_iso: hin

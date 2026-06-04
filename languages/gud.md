@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: يوكوبووé ديدآ
     auto: true
+  - translation_iso: deu
+    name: Yocoboué Dida
+    auto: true
   - translation_iso: fra
     name: Dida de Yocoboué
     auto: true

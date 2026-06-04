@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاماغاريو
     auto: true
+  - translation_iso: deu
+    name: Tamagario
   - translation_iso: fra
     name: tamagario
   - translation_iso: hin

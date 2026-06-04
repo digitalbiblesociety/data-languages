@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داتوغا
     auto: true
+  - translation_iso: deu
+    name: Datooga
   - translation_iso: fra
     name: datooga
   - translation_iso: hin

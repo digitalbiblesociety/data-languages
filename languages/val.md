@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيهس
     auto: true
+  - translation_iso: deu
+    name: Vehes
+    auto: true
   - translation_iso: fra
     name: vehes
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أجّاوا
     auto: true
+  - translation_iso: deu
+    name: Ajawa
+    auto: true
   - translation_iso: fra
     name: Ajawa
     auto: true

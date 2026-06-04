@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفيران
     auto: true
+  - translation_iso: deu
+    name: Firan
+    auto: true
   - translation_iso: fra
     name: firan
   - translation_iso: hin

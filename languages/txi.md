@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إكبينج
     auto: true
+  - translation_iso: deu
+    name: Ikpeng
+    auto: true
   - translation_iso: fra
     name: ikpeng
   - translation_iso: hin

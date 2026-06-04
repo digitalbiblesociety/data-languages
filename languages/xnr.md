@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kangri_language"
 translations:
   - translation_iso: ara
     name: كانغري
+  - translation_iso: deu
+    name: Kangri
   - translation_iso: fra
     name: kangri
   - translation_iso: hin

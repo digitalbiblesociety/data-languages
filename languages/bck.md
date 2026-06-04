@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونوبا
     auto: true
+  - translation_iso: deu
+    name: Bunuba
+    auto: true
   - translation_iso: fra
     name: bunuba
   - translation_iso: hin

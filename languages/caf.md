@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاريير جنوبية
     auto: true
+  - translation_iso: deu
+    name: Südliches Carrier
+    auto: true
   - translation_iso: fra
     name: porteur du Sud
   - translation_iso: hin

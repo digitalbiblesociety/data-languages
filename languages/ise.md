@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الإيطالية
     auto: true
+  - translation_iso: deu
+    name: italienische Gebärdensprache
   - translation_iso: fra
     name: langue des signes italienne
   - translation_iso: hin

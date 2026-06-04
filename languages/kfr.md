@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kutchi_language"
 translations:
   - translation_iso: ara
     name: لغة الكوتشي
+  - translation_iso: deu
+    name: Kachchi
+    auto: true
   - translation_iso: fra
     name: kutchi
   - translation_iso: hin

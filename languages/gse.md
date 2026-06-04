@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الغانية
     auto: true
+  - translation_iso: deu
+    name: Ghanaische Gebärdensprache
   - translation_iso: fra
     name: langue des signes ghanéenne
   - translation_iso: hin

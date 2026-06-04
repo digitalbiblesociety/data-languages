@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثيين
     auto: true
+  - translation_iso: deu
+    name: Thiin
+    auto: true
   - translation_iso: fra
     name: thiin
   - translation_iso: hin

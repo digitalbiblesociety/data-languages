@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سان خوان تيتا ميكستيك
     auto: true
+  - translation_iso: deu
+    name: San-Juan-Teita-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: Mixtèque de San Juan Teita
     auto: true

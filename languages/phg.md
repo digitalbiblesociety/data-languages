@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فوونغ
     auto: true
+  - translation_iso: deu
+    name: Phuong
+    auto: true
   - translation_iso: fra
     name: phuong
   - translation_iso: hin

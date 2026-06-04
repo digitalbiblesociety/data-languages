@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمول
     auto: true
+  - translation_iso: deu
+    name: Amol
+    auto: true
   - translation_iso: fra
     name: mol
   - translation_iso: hin

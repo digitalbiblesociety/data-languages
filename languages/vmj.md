@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إكستايوتلا ميكستيك
     auto: true
+  - translation_iso: deu
+    name: Ixtayutla-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: "Mixtèque d'Ixtayutla"
     auto: true

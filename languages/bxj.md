@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بايونْجو
     auto: true
+  - translation_iso: deu
+    name: Bayungu
+    auto: true
   - translation_iso: fra
     name: bayungu
   - translation_iso: hin

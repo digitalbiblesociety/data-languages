@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة موا ghavul
     auto: true
+  - translation_iso: deu
+    name: Mwaghavul
+    auto: true
   - translation_iso: fra
     name: mwaghavul
   - translation_iso: hin

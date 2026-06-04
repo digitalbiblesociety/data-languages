@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تمبس
     auto: true
+  - translation_iso: deu
+    name: Tambas
+    auto: true
   - translation_iso: fra
     name: Tambas
     auto: true

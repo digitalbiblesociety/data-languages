@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيي
     auto: true
+  - translation_iso: deu
+    name: Ayi (Papua-Neuguinea)
+    auto: true
   - translation_iso: fra
     name: ayi
   - translation_iso: hin

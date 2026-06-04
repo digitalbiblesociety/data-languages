@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مانينكاكان الغربية
     auto: true
+  - translation_iso: deu
+    name: Western Maninkakan
+    auto: true
   - translation_iso: fra
     name: "malinké de l'Ouest"
   - translation_iso: hin

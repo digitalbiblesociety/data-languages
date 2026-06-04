@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nzema_language"
 translations:
   - translation_iso: ara
     name: النزيما
+  - translation_iso: deu
+    name: Nzema
   - translation_iso: fra
     name: nzema
   - translation_iso: hin

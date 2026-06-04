@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دجابوجاي
     auto: true
+  - translation_iso: deu
+    name: Djabugay
+    auto: true
   - translation_iso: fra
     name: djabugay
   - translation_iso: hin

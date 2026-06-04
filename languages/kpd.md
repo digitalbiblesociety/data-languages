@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبا
     auto: true
+  - translation_iso: deu
+    name: Koba
+    auto: true
   - translation_iso: fra
     name: Koba
     auto: true

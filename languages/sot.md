@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sotho_language"
 translations:
   - translation_iso: ara
     name: لغة سوتية
+  - translation_iso: deu
+    name: Sesotho
   - translation_iso: fra
     name: sotho du Sud
   - translation_iso: hin

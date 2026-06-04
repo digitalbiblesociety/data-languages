@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جنوب نجباندي
     auto: true
+  - translation_iso: deu
+    name: Süd-Ngbandi
+    auto: true
   - translation_iso: fra
     name: ngbandi du Sud
   - translation_iso: hin

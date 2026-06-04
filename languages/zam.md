@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك مياهوتلان
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Miahuatlán)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Miahuatlán
   - translation_iso: hin

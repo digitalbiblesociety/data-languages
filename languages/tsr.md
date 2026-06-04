@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أكيي
     auto: true
+  - translation_iso: deu
+    name: Akei
+    auto: true
   - translation_iso: fra
     name: akei
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لافاتبورا-لاموسونج
     auto: true
+  - translation_iso: deu
+    name: Lavatbura-Lamusong
+    auto: true
   - translation_iso: fra
     name: lavatbura-lamusong
   - translation_iso: hin

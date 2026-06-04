@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديدينجا
     auto: true
+  - translation_iso: deu
+    name: Didinga
+    auto: true
   - translation_iso: fra
     name: Didinga
     auto: true

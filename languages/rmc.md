@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الرومانية الكاربثية
     auto: true
+  - translation_iso: deu
+    name: Karpathen-Romani
   - translation_iso: fra
     name: romani central
   - translation_iso: hin

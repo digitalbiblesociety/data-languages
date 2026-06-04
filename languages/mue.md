@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميديا لينجوا
     auto: true
+  - translation_iso: deu
+    name: Media Lengua
   - translation_iso: fra
     name: media Lengua
   - translation_iso: hin

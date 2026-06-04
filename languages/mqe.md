@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتيبي
     auto: true
+  - translation_iso: deu
+    name: Matepi
+    auto: true
   - translation_iso: fra
     name: Matepi
     auto: true

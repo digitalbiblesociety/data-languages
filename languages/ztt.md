@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تيخالابان
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Tejalapan)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Tejalapan
   - translation_iso: hin

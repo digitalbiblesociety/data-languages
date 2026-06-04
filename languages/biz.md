@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بالوي
     auto: true
+  - translation_iso: deu
+    name: Baloi
   - translation_iso: fra
     name: loi
   - translation_iso: hin

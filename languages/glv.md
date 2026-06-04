@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Manx_language"
 translations:
   - translation_iso: ara
     name: اللغة المنكية
+  - translation_iso: deu
+    name: Manx
   - translation_iso: fra
     name: mannois
   - translation_iso: hin

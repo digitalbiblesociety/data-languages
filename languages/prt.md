@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فاي
     auto: true
+  - translation_iso: deu
+    name: Phai
+    auto: true
   - translation_iso: fra
     name: phai
   - translation_iso: hin

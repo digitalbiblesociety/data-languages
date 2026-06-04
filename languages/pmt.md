@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة توموتوان
     auto: true
+  - translation_iso: deu
+    name: Tuamotuisch
   - translation_iso: fra
     name: paumotu
   - translation_iso: hin

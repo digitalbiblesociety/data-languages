@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: الإزا
     auto: true
+  - translation_iso: deu
+    name: Ezaa
+    auto: true
   - translation_iso: fra
     name: ezaa
   - translation_iso: hin

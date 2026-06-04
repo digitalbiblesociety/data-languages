@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة لاجوان
     auto: true
+  - translation_iso: deu
+    name: Lagwan
   - translation_iso: fra
     name: lagwan
   - translation_iso: hin

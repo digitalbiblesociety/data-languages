@@ -16,6 +16,8 @@ glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semit
 translations:
   - translation_iso: ara
     name: لغة آرامية كلدانية حديثة
+  - translation_iso: deu
+    name: Chaldäisch-Neuaramäisch
   - translation_iso: fra
     name: néo-araméen chaldéen
   - translation_iso: hin

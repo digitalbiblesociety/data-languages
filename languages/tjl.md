@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاي لاينغ
     auto: true
+  - translation_iso: deu
+    name: Tai Laing
+    auto: true
   - translation_iso: fra
     name: tai laing
   - translation_iso: hin

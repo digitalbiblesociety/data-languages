@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يوكونا
     auto: true
+  - translation_iso: deu
+    name: Yucuna
+    auto: true
   - translation_iso: fra
     name: yucuna
   - translation_iso: hin

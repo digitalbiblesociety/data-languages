@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاراو ناجا
     auto: true
+  - translation_iso: deu
+    name: Tarao Naga
+    auto: true
   - translation_iso: fra
     name: tarao
   - translation_iso: hin

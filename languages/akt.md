@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أكوليت
     auto: true
+  - translation_iso: deu
+    name: Akolet
+    auto: true
   - translation_iso: fra
     name: Akolet
     auto: true

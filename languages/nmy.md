@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناموي
     auto: true
+  - translation_iso: deu
+    name: Namuyi
+    auto: true
   - translation_iso: fra
     name: namuyi
   - translation_iso: hin

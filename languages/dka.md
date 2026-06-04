@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داكباخا
     auto: true
+  - translation_iso: deu
+    name: Dakpakha
+    auto: true
   - translation_iso: fra
     name: dakpakha
   - translation_iso: hin

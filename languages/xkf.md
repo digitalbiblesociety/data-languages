@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خينجخا
     auto: true
+  - translation_iso: deu
+    name: Khengkha
+    auto: true
   - translation_iso: fra
     name: khengkha
   - translation_iso: hin

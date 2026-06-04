@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: كييررايووورروونغ
     auto: true
+  - translation_iso: deu
+    name: Keerray-Woorroong
+    auto: true
   - translation_iso: fra
     name: keerray-woorroong
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكيان الغربية
     auto: true
+  - translation_iso: deu
+    name: West-Makian
+    auto: true
   - translation_iso: fra
     name: makian occidental
   - translation_iso: hin

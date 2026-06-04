@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نسيويا
     auto: true
+  - translation_iso: deu
+    name: Naasioi
   - translation_iso: fra
     name: nasioi
   - translation_iso: hin

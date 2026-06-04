@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة بانجكا
     auto: true
+  - translation_iso: deu
+    name: Bangka
   - translation_iso: fra
     name: bangka
   - translation_iso: hin

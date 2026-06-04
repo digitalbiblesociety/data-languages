@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييندجيلاندجي
     auto: true
+  - translation_iso: deu
+    name: Yindjilandji
+    auto: true
   - translation_iso: fra
     name: yindjilandji
   - translation_iso: hin

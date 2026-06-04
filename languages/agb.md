@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ليغبو
     auto: true
+  - translation_iso: deu
+    name: Legbo
   - translation_iso: fra
     name: Legbo
     auto: true

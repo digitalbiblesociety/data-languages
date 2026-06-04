@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كايكو
     auto: true
+  - translation_iso: deu
+    name: Kaiku
+    auto: true
   - translation_iso: fra
     name: Kaiku
   - translation_iso: hin

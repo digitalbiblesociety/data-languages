@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانيا
     auto: true
+  - translation_iso: deu
+    name: Paniya
+    auto: true
   - translation_iso: fra
     name: paniya
   - translation_iso: hin

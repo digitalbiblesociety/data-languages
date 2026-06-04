@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيل آبي
     auto: true
+  - translation_iso: deu
+    name: Ile Ape
   - translation_iso: fra
     name: Ile Ape
     auto: true

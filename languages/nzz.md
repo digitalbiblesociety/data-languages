@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ننغا دمه دوغون
     auto: true
+  - translation_iso: deu
+    name: Nanga-Dama-Dogon
+    auto: true
   - translation_iso: fra
     name: nanga
   - translation_iso: hin

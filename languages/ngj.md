@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجيي
     auto: true
+  - translation_iso: deu
+    name: Ngie
   - translation_iso: fra
     name: ngie
   - translation_iso: hin

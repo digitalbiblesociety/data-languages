@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تولوماكو
     auto: true
+  - translation_iso: deu
+    name: Tolomako
+    auto: true
   - translation_iso: fra
     name: tolomako
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاتو الغربية
     auto: true
+  - translation_iso: deu
+    name: West-Katu
+    auto: true
   - translation_iso: fra
     name: katu
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خيهيك
     auto: true
+  - translation_iso: deu
+    name: Khehek
+    auto: true
   - translation_iso: fra
     name: khehek
   - translation_iso: hin

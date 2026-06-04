@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اراكهي
     auto: true
+  - translation_iso: deu
+    name: Marachi
+    auto: true
   - translation_iso: fra
     name: marachi
   - translation_iso: hin

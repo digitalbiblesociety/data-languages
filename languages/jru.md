@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جابريريا
     auto: true
+  - translation_iso: deu
+    name: Japrería
+    auto: true
   - translation_iso: fra
     name: japreria
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يينيتشي
     auto: true
+  - translation_iso: deu
+    name: Jenisch
   - translation_iso: fra
     name: yéniche
   - translation_iso: hin

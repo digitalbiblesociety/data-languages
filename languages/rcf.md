@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: كريول ريونيون الفرنسي
     auto: true
+  - translation_iso: deu
+    name: Réunion-Kreolisch
   - translation_iso: fra
     name: Créole réunionnais
   - translation_iso: hin

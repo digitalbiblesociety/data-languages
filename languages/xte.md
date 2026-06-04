@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيتينجبان
     auto: true
+  - translation_iso: deu
+    name: Ketengban
+    auto: true
   - translation_iso: fra
     name: ketengban
   - translation_iso: hin

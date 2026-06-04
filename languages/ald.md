@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألّاديان
     auto: true
+  - translation_iso: deu
+    name: Alladian
   - translation_iso: fra
     name: alladian
   - translation_iso: hin

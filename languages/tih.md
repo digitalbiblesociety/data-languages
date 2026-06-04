@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيموغون موروت
     auto: true
+  - translation_iso: deu
+    name: Timugon Murut
+    auto: true
   - translation_iso: fra
     name: Murut timugon
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمارا
     auto: true
+  - translation_iso: deu
+    name: Amara
+    auto: true
   - translation_iso: fra
     name: amara
   - translation_iso: hin

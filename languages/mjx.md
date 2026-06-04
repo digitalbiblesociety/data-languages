@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماهالي
     auto: true
+  - translation_iso: deu
+    name: Mahali
+    auto: true
   - translation_iso: fra
     name: mahali
   - translation_iso: hin

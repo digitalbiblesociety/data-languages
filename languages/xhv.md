@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كهوا
     auto: true
+  - translation_iso: deu
+    name: Khua
+    auto: true
   - translation_iso: fra
     name: khua
   - translation_iso: hin

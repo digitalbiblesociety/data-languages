@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة بان خور الإشارية
     auto: true
+  - translation_iso: deu
+    name: Ban Khor-Gebärdensprache
   - translation_iso: fra
     name: langue des signes de Ban Khor
   - translation_iso: hin

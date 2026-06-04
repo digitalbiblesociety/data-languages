@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tsat_language"
 translations:
   - translation_iso: ara
     name: التساتية
+  - translation_iso: deu
+    name: Tsat
+    auto: true
   - translation_iso: fra
     name: tsat
   - translation_iso: hin

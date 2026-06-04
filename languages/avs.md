@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوشيري
     auto: true
+  - translation_iso: deu
+    name: Aushiri
+    auto: true
   - translation_iso: fra
     name: Aushiri
     auto: true

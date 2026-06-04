@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داجبا
     auto: true
+  - translation_iso: deu
+    name: Dagba
+    auto: true
   - translation_iso: fra
     name: Dagba
   - translation_iso: hin

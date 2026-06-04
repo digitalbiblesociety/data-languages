@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالانجينجي
     auto: true
+  - translation_iso: deu
+    name: Balangingi
+    auto: true
   - translation_iso: fra
     name: sama balangingi
   - translation_iso: hin

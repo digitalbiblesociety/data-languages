@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميريوونج لغة الإشارة
     auto: true
+  - translation_iso: deu
+    name: Miriwoong-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: langue des signes miriwoong
   - translation_iso: hin

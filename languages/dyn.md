@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديانجادي
     auto: true
+  - translation_iso: deu
+    name: Dyangadi
+    auto: true
   - translation_iso: fra
     name: dyangadi
   - translation_iso: hin

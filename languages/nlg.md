@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جيلا
     auto: true
+  - translation_iso: deu
+    name: Gela
+    auto: true
   - translation_iso: fra
     name: gela
   - translation_iso: hin

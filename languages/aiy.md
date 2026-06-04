@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة علي
     auto: true
+  - translation_iso: deu
+    name: Ali
   - translation_iso: fra
     name: ali
   - translation_iso: hin

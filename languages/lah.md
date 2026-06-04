@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lahnda"
 translations:
   - translation_iso: ara
     name: لاهندا
+  - translation_iso: deu
+    name: Lahnda
   - translation_iso: fra
     name: lahnda
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سبوكان
     auto: true
+  - translation_iso: deu
+    name: Spokane
+    auto: true
   - translation_iso: fra
     name: spokane
   - translation_iso: hin

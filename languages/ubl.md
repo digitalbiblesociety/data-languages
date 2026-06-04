@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: بيكول بوهي
     auto: true
+  - translation_iso: deu
+    name: "Buhi'non Bikol"
+    auto: true
   - translation_iso: fra
     name: bikol buhi
   - translation_iso: hin

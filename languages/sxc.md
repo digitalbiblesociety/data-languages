@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: سيكاني
     auto: true
+  - translation_iso: deu
+    name: Sikanisch
   - translation_iso: fra
     name: sicanien
   - translation_iso: hin

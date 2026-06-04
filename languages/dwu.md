@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: دهوال
     auto: true
+  - translation_iso: deu
+    name: Dhuwal
+    auto: true
   - translation_iso: fra
     name: dhuwal
   - translation_iso: hin

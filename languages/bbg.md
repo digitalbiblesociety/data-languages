@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باراما
     auto: true
+  - translation_iso: deu
+    name: Barama
   - translation_iso: fra
     name: varama
   - translation_iso: hin

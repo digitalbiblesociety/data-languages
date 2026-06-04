@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فينماويس
     auto: true
+  - translation_iso: deu
+    name: Vinmavis
+    auto: true
   - translation_iso: fra
     name: neve’ei
   - translation_iso: hin

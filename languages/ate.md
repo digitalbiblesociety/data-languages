@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتيمبل
     auto: true
+  - translation_iso: deu
+    name: Atemble
+    auto: true
   - translation_iso: fra
     name: atemble
   - translation_iso: hin

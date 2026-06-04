@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سوي
     auto: true
+  - translation_iso: deu
+    name: Soi
   - translation_iso: fra
     name: soi
   - translation_iso: hin

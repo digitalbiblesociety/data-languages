@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واتيوا
     auto: true
+  - translation_iso: deu
+    name: Dumpu
   - translation_iso: fra
     name: watiwa
   - translation_iso: hin

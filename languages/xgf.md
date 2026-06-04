@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غابرييلينوفيرنانديو
     auto: true
+  - translation_iso: deu
+    name: Tongwa
   - translation_iso: fra
     name: gabrielino-fernandeño
   - translation_iso: hin

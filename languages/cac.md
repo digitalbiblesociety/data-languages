@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشوج
     auto: true
+  - translation_iso: deu
+    name: Chuj-Sprache
   - translation_iso: fra
     name: chuj
   - translation_iso: hin

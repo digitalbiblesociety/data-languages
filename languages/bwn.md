@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وونايي بونو
     auto: true
+  - translation_iso: deu
+    name: Wunai Bunu
+    auto: true
   - translation_iso: fra
     name: wunai
   - translation_iso: hin

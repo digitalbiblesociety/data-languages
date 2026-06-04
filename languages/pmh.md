@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماهاراشتري براكريت
     auto: true
+  - translation_iso: deu
+    name: Maharashtri-Prakrit
+    auto: true
   - translation_iso: fra
     name: Prâkrit māhārāṣṭrī
     auto: true

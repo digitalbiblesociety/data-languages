@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة القمرية النزوانية
     auto: true
+  - translation_iso: deu
+    name: Ndzwani-Komorisch
+    auto: true
   - translation_iso: fra
     name: anjouanais
   - translation_iso: hin

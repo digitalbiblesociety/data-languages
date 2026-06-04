@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أواد بينج
     auto: true
+  - translation_iso: deu
+    name: Awad Bing
+    auto: true
   - translation_iso: fra
     name: awad bing
   - translation_iso: hin

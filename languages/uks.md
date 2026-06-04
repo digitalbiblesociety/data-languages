@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة أوروبو-كاابور
     auto: true
+  - translation_iso: deu
+    name: Urubú-Kaapor-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: "langue des signes urubú-ka'apór"
   - translation_iso: hin

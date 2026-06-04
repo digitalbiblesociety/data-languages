@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيليز كريول إنْجليزي
     auto: true
+  - translation_iso: deu
+    name: Belize-Kreolenglisch
+    auto: true
   - translation_iso: fra
     name: créole bélizien
   - translation_iso: hin

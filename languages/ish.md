@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيسان
     auto: true
+  - translation_iso: deu
+    name: Esan
   - translation_iso: fra
     name: esan
   - translation_iso: hin

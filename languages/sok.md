@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sokoro_language"
 translations:
   - translation_iso: ara
     name: سوكورو
+  - translation_iso: deu
+    name: Sokoro
+    auto: true
   - translation_iso: fra
     name: sokoro
   - translation_iso: hin

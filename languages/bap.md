@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانتاوا
     auto: true
+  - translation_iso: deu
+    name: Bantawa
+    auto: true
   - translation_iso: fra
     name: bantawa
   - translation_iso: hin

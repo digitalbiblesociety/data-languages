@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هآنجآزآ
     auto: true
+  - translation_iso: deu
+    name: Hangaza
+    auto: true
   - translation_iso: fra
     name: hangaza
   - translation_iso: hin

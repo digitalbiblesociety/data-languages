@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة اللوفية الهيروغليفية
     auto: true
+  - translation_iso: deu
+    name: Hieroglyphen-Luwisch
   - translation_iso: fra
     name: louvite hiéroglyphique
   - translation_iso: hin

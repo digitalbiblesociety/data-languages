@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجايكوندي
     auto: true
+  - translation_iso: deu
+    name: Gaikundi
+    auto: true
   - translation_iso: fra
     name: gaikundi
   - translation_iso: hin

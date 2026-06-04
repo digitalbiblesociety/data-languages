@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيبانغ
     auto: true
+  - translation_iso: deu
+    name: Ibanag
+    auto: true
   - translation_iso: fra
     name: ibanag
   - translation_iso: hin

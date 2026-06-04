@@ -18,6 +18,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sabaic"
 translations:
   - translation_iso: ara
     name: اللغة السبئية
+  - translation_iso: deu
+    name: Sabäisch
+    auto: true
   - translation_iso: fra
     name: sabéen
   - translation_iso: hin

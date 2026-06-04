@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: بويو
     auto: true
+  - translation_iso: deu
+    name: Puyo
+    auto: true
   - translation_iso: fra
     name: buyeo
   - translation_iso: hin

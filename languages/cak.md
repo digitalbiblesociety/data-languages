@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاتشيكيل
     auto: true
+  - translation_iso: deu
+    name: Cakchiquel-Sprache
   - translation_iso: fra
     name: cakchiquel
   - translation_iso: hin

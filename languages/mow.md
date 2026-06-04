@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موي (الكونغو)
     auto: true
+  - translation_iso: deu
+    name: Moi (Kongo)
+    auto: true
   - translation_iso: fra
     name: moye
   - translation_iso: hin

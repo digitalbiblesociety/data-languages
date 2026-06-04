@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دانو
     auto: true
+  - translation_iso: deu
+    name: Danau
+    auto: true
   - translation_iso: fra
     name: danau
   - translation_iso: hin

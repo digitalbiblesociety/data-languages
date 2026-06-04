@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راو
     auto: true
+  - translation_iso: deu
+    name: Rao
+    auto: true
   - translation_iso: fra
     name: rao
   - translation_iso: hin

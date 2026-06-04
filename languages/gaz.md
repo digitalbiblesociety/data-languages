@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الأرومية الغربية الوسطى
     auto: true
+  - translation_iso: deu
+    name: West-Central-Oromo
+    auto: true
   - translation_iso: fra
     name: "oromo central de l'Ouest"
   - translation_iso: hin

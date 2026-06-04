@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نغالوم
     auto: true
+  - translation_iso: deu
+    name: Ngalum
+    auto: true
   - translation_iso: fra
     name: ngalum
   - translation_iso: hin

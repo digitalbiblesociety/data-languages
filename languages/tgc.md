@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيغاك
     auto: true
+  - translation_iso: deu
+    name: Tigak
+    auto: true
   - translation_iso: fra
     name: tigak
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكاسانغا
     auto: true
+  - translation_iso: deu
+    name: Kasanga
   - translation_iso: fra
     name: kassanga
   - translation_iso: hin

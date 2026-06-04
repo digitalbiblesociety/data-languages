@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: موشونجولو
     auto: true
+  - translation_iso: deu
+    name: Mushungulu
+    auto: true
   - translation_iso: fra
     name: mushungulu
   - translation_iso: hin

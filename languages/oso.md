@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوسوسو
     auto: true
+  - translation_iso: deu
+    name: Ososo
+    auto: true
   - translation_iso: fra
     name: Ososo
     auto: true

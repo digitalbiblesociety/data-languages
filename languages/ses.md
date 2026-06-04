@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Koyraboro_Senni"
 translations:
   - translation_iso: ara
     name: كويرابورو سيني
+  - translation_iso: deu
+    name: Koyra Senni
   - translation_iso: fra
     name: koyraboro senni
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لابو
     auto: true
+  - translation_iso: deu
+    name: Labu
+    auto: true
   - translation_iso: fra
     name: labu
   - translation_iso: hin

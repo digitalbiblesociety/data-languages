@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رومام
     auto: true
+  - translation_iso: deu
+    name: Romam
+    auto: true
   - translation_iso: fra
     name: romam
   - translation_iso: hin

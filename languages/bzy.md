@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوبانْليكو
     auto: true
+  - translation_iso: deu
+    name: Obanliku
   - translation_iso: fra
     name: obanliku
   - translation_iso: hin

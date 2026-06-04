@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Basap_language"
 translations:
   - translation_iso: ara
     name: لغة الباساب
+  - translation_iso: deu
+    name: Basap
+    auto: true
   - translation_iso: fra
     name: Basap
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شاكريابا
     auto: true
+  - translation_iso: deu
+    name: Xakriabá
+    auto: true
   - translation_iso: fra
     name: xakriabá
   - translation_iso: hin

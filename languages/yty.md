@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياتاي
     auto: true
+  - translation_iso: deu
+    name: Yatay
+    auto: true
   - translation_iso: fra
     name: yatay
   - translation_iso: hin

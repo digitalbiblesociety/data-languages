@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باراناوات
     auto: true
+  - translation_iso: deu
+    name: Paranawát
+    auto: true
   - translation_iso: fra
     name: paranawát
   - translation_iso: hin

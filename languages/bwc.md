@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوايلي
     auto: true
+  - translation_iso: deu
+    name: Bwile
+    auto: true
   - translation_iso: fra
     name: Bwile
     auto: true

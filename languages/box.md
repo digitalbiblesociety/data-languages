@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوامو
     auto: true
+  - translation_iso: deu
+    name: Bwamu
   - translation_iso: fra
     name: bwamu
   - translation_iso: hin

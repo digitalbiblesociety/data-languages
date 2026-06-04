@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة راوات
     auto: true
+  - translation_iso: deu
+    name: Rawat
+    auto: true
   - translation_iso: fra
     name: rawat
   - translation_iso: hin

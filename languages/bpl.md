@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بروم بيرلينج لوجير بيدجن
     auto: true
+  - translation_iso: deu
+    name: Broome Pearling Lugger Pidgin
+    auto: true
   - translation_iso: fra
     name: Pidgin de Broome
     auto: true

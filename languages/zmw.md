@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إمبو
     auto: true
+  - translation_iso: deu
+    name: Mbo (Demokratische Republik Kongo)
+    auto: true
   - translation_iso: fra
     name: mbo
   - translation_iso: hin

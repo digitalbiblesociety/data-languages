@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة پو شرق كارين
     auto: true
+  - translation_iso: deu
+    name: Ost-Pwo-Karen
+    auto: true
   - translation_iso: fra
     name: "pwo de l'Est"
   - translation_iso: hin

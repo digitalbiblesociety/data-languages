@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماتيبوهي
     auto: true
+  - translation_iso: deu
+    name: Matipuhy
+    auto: true
   - translation_iso: fra
     name: matipuhy
   - translation_iso: hin

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تامانغ الشرقية
     auto: true
+  - translation_iso: deu
+    name: Eastern Tamang
+    auto: true
   - translation_iso: fra
     name: "tamang de l'Est"
   - translation_iso: hin

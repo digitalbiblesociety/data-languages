@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غويآني
     auto: true
+  - translation_iso: deu
+    name: Guyani
+    auto: true
   - translation_iso: fra
     name: guyani
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Modern_Hebrew"
 translations:
   - translation_iso: ara
     name: العبرية الحديثة
+  - translation_iso: deu
+    name: modernes Hebräisch
   - translation_iso: fra
     name: hébreu moderne
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشولون
     auto: true
+  - translation_iso: deu
+    name: Cholón
+    auto: true
   - translation_iso: fra
     name: cholón
   - translation_iso: hin

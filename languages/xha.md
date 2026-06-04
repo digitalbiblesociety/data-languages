@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: هارامي
     auto: true
+  - translation_iso: deu
+    name: Harami
+    auto: true
   - translation_iso: fra
     name: harami
   - translation_iso: hin

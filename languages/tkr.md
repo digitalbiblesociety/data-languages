@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tsakhur_language"
 translations:
   - translation_iso: ara
     name: لغة تساخورية
+  - translation_iso: deu
+    name: Tsachurisch
   - translation_iso: fra
     name: tsakhur
   - translation_iso: hin

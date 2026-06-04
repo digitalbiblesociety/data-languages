@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موبا
     auto: true
+  - translation_iso: deu
+    name: Mvuba
+    auto: true
   - translation_iso: fra
     name: mvuba
   - translation_iso: hin

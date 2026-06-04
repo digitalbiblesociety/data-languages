@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يولنغو الإشارة
     auto: true
+  - translation_iso: deu
+    name: Yolngu-Gebärdensprache
   - translation_iso: fra
     name: Langue des signes yolŋu
     auto: true

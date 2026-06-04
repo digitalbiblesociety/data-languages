@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيريوو
     auto: true
+  - translation_iso: deu
+    name: Kerewo
+    auto: true
   - translation_iso: fra
     name: kerewo
   - translation_iso: hin

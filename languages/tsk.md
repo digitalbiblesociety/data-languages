@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسيكو
     auto: true
+  - translation_iso: deu
+    name: Tseku
+    auto: true
   - translation_iso: fra
     name: tseku
   - translation_iso: hin

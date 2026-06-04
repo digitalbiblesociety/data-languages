@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآɓوغبو
     auto: true
+  - translation_iso: deu
+    name: Gaɓogbo
+    auto: true
   - translation_iso: fra
     name: guébie
   - translation_iso: hin

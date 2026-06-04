@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميفاع تلاكواپا
     auto: true
+  - translation_iso: deu
+    name: "Tlacoapa Me'phaa"
+    auto: true
   - translation_iso: fra
     name: Tlapanèque de Tlacoapa
     auto: true

@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nihali_language"
 translations:
   - translation_iso: ara
     name: نيهالي
+  - translation_iso: deu
+    name: Nahali
   - translation_iso: fra
     name: nihali
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانييت
     auto: true
+  - translation_iso: deu
+    name: Kaniet
+    auto: true
   - translation_iso: fra
     name: kaniet
   - translation_iso: hin

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: بانيڤا
     auto: true
+  - translation_iso: deu
+    name: Baniva
+    auto: true
   - translation_iso: fra
     name: baniva
   - translation_iso: hin

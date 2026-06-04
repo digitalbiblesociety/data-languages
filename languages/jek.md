@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جيري كوو
     auto: true
+  - translation_iso: deu
+    name: Jeri Kuo
+    auto: true
   - translation_iso: fra
     name: jerikuo
   - translation_iso: hin

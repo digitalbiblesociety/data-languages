@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونغانديتج
     auto: true
+  - translation_iso: deu
+    name: Bunganditj
+    auto: true
   - translation_iso: fra
     name: bunganditj
   - translation_iso: hin

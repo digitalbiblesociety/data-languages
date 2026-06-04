@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: شمال نجباندي
     auto: true
+  - translation_iso: deu
+    name: Nord-Ngbandi
+    auto: true
   - translation_iso: fra
     name: ngbandi du Nord
   - translation_iso: hin

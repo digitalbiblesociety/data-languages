@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاريين بوو الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Pwo-Karen
+    auto: true
   - translation_iso: fra
     name: pwo du Nord
   - translation_iso: hin

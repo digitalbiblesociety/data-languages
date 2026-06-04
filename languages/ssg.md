@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيمات
     auto: true
+  - translation_iso: deu
+    name: Seimat
+    auto: true
   - translation_iso: fra
     name: seimat
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة باماكو الإشارية
     auto: true
+  - translation_iso: deu
+    name: Bamako Sign Language
+    auto: true
   - translation_iso: fra
     name: langue des signes malienne
   - translation_iso: hin

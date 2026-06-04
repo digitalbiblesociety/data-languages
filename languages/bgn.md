@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rakhshani_dialect"
 translations:
   - translation_iso: ara
     name: البلوشية الغربية
+  - translation_iso: deu
+    name: Westliches Belutschi
   - translation_iso: fra
     name: "baloutche de l'Ouest"
   - translation_iso: hin

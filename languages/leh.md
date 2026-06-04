@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ينجي
     auto: true
+  - translation_iso: deu
+    name: Lenje
+    auto: true
   - translation_iso: fra
     name: Lenje
     auto: true

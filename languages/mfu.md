@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مبويلا
     auto: true
+  - translation_iso: deu
+    name: Mbwela
+    auto: true
   - translation_iso: fra
     name: mbwela
   - translation_iso: hin

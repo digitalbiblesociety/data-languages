@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كومام
     auto: true
+  - translation_iso: deu
+    name: Kumam
+    auto: true
   - translation_iso: fra
     name: Kumam
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مريدجابين
     auto: true
+  - translation_iso: deu
+    name: Maridjabin
+    auto: true
   - translation_iso: fra
     name: maridjabin
   - translation_iso: hin

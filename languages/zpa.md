@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاتشيغويري
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Lachiguiri)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Lachiguiri
   - translation_iso: hin

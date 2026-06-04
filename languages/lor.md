@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ن
     auto: true
+  - translation_iso: deu
+    name: Téén
   - translation_iso: fra
     name: téén
   - translation_iso: hin

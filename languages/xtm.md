@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مجدالينا بينيسكو ميكستيك
     auto: true
+  - translation_iso: deu
+    name: Magdalena-Peñasco-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: Mixtèque de Magdalena Peñasco
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانغو
     auto: true
+  - translation_iso: deu
+    name: Tanggu
+    auto: true
   - translation_iso: fra
     name: tanggu
   - translation_iso: hin

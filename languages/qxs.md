@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تشيانج الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Süd-Qiang
+    auto: true
   - translation_iso: fra
     name: qiang du Sud
   - translation_iso: hin

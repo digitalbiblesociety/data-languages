@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نكوروو
     auto: true
+  - translation_iso: deu
+    name: Nkoro
   - translation_iso: fra
     name: nkoroo
   - translation_iso: hin

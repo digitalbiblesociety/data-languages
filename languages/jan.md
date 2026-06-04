@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: لغة جانداي
     auto: true
+  - translation_iso: deu
+    name: Jandai
+    auto: true
   - translation_iso: fra
     name: jandai
   - translation_iso: hin

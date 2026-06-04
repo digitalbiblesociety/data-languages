@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوبو مادوري الشمالية
     auto: true
+  - translation_iso: deu
+    name: Boboda
   - translation_iso: fra
     name: konabéré
   - translation_iso: hin

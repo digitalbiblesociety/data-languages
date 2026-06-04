@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميلي
     auto: true
+  - translation_iso: deu
+    name: Mili
+    auto: true
   - translation_iso: fra
     name: Mili
     auto: true

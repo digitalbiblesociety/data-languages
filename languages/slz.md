@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "اللغة ما'يا"
     auto: true
+  - translation_iso: deu
+    name: "Ma'ya"
+    auto: true
   - translation_iso: fra
     name: "ma'ya"
   - translation_iso: hin

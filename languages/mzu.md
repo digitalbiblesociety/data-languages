@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيناباج
     auto: true
+  - translation_iso: deu
+    name: Inapang
+    auto: true
   - translation_iso: fra
     name: inapang
   - translation_iso: hin

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: كاداز دوسون
     auto: true
+  - translation_iso: deu
+    name: Kadazandusun
   - translation_iso: fra
     name: kadazandusun
   - translation_iso: hin

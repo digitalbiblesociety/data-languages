@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجانجاليدا
     auto: true
+  - translation_iso: deu
+    name: Ganggalida
+    auto: true
   - translation_iso: fra
     name: ganggalida
   - translation_iso: hin

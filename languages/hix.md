@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هيكسكاريانا
     auto: true
+  - translation_iso: deu
+    name: Hixkaryána
   - translation_iso: fra
     name: hixkaryana
   - translation_iso: hin

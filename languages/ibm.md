@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أغوي
     auto: true
+  - translation_iso: deu
+    name: Agoi
   - translation_iso: fra
     name: agoi
   - translation_iso: hin

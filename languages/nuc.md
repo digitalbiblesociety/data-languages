@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوكويني
     auto: true
+  - translation_iso: deu
+    name: Nukuini
+    auto: true
   - translation_iso: fra
     name: nukuini
   - translation_iso: hin

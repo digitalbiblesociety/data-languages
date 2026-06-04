@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبالايي
     auto: true
+  - translation_iso: deu
+    name: Apalaí
   - translation_iso: fra
     name: apalaï
   - translation_iso: hin

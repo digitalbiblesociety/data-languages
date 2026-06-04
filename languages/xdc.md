@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: داكيان
     auto: true
+  - translation_iso: deu
+    name: Dakisch
   - translation_iso: fra
     name: dace
   - translation_iso: hin

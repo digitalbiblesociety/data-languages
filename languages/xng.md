@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Mongol"
 translations:
   - translation_iso: ara
     name: منغولية وسطى
+  - translation_iso: deu
+    name: Mittelmongolisch
   - translation_iso: fra
     name: moyen mongol
   - translation_iso: hin

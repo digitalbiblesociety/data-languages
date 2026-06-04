@@ -11,6 +11,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dongolawi_language"
 translations:
   - translation_iso: ara
     name: الأنداندية
+  - translation_iso: deu
+    name: Andaandi
+    auto: true
   - translation_iso: fra
     name: dongola
   - translation_iso: hin

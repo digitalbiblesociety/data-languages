@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماداغاسكار تيساكا
     auto: true
+  - translation_iso: deu
+    name: Tesaka Malagasy
+    auto: true
   - translation_iso: fra
     name: antaisaka
   - translation_iso: hin

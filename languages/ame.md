@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يانيشا
     auto: true
+  - translation_iso: deu
+    name: "Yanesha'"
+    auto: true
   - translation_iso: fra
     name: yanesha
   - translation_iso: hin

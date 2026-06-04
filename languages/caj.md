@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: تشاني
     auto: true
+  - translation_iso: deu
+    name: Chané
+    auto: true
   - translation_iso: fra
     name: chané
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: والانغاما
     auto: true
+  - translation_iso: deu
+    name: Walangama
+    auto: true
   - translation_iso: fra
     name: Walangama
     auto: true

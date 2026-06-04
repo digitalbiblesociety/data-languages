@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أنغال
     auto: true
+  - translation_iso: deu
+    name: Angal
+    auto: true
   - translation_iso: fra
     name: Angal
     auto: true

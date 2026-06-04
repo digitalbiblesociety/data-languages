@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هدي
     auto: true
+  - translation_iso: deu
+    name: Hdi
+    auto: true
   - translation_iso: fra
     name: hidé
   - translation_iso: hin

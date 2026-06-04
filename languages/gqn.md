@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: غوآنآ
     auto: true
+  - translation_iso: deu
+    name: Guana (Brasilien)
+    auto: true
   - translation_iso: fra
     name: kinikinao
   - translation_iso: hin

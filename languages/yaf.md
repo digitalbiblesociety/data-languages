@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ياكا
     auto: true
+  - translation_iso: deu
+    name: Kiyaka
   - translation_iso: fra
     name: yaka
   - translation_iso: hin

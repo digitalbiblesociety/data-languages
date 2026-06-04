@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: شيبايا
     auto: true
+  - translation_iso: deu
+    name: Xipaya
   - translation_iso: fra
     name: xipaya
   - translation_iso: hin

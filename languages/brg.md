@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باوري
     auto: true
+  - translation_iso: deu
+    name: Baure
   - translation_iso: fra
     name: baure
   - translation_iso: hin

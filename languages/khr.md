@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة خاريا
     auto: true
+  - translation_iso: deu
+    name: Kharia
   - translation_iso: fra
     name: kharia
   - translation_iso: hin

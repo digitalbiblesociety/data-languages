@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ووتاپوريكاتارقالاي
     auto: true
+  - translation_iso: deu
+    name: Wotapuri-Katarqalai
   - translation_iso: fra
     name: Wotapuri-Katarqalai
     auto: true

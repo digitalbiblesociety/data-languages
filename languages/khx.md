@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كانو
     auto: true
+  - translation_iso: deu
+    name: Kanu
+    auto: true
   - translation_iso: fra
     name: kanu
   - translation_iso: hin

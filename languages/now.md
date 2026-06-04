@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييامبو
     auto: true
+  - translation_iso: deu
+    name: Nyambo
+    auto: true
   - translation_iso: fra
     name: nyambo
   - translation_iso: hin

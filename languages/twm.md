@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: تاوانج مونبا
     auto: true
+  - translation_iso: deu
+    name: Takpa
   - translation_iso: fra
     name: monba
   - translation_iso: hin

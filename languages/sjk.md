@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيمي سامي
     auto: true
+  - translation_iso: deu
+    name: Kemisamisch
   - translation_iso: fra
     name: same de Kemi
   - translation_iso: hin

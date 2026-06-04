@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميو
     auto: true
+  - translation_iso: deu
+    name: Miu
+    auto: true
   - translation_iso: fra
     name: miu
   - translation_iso: hin

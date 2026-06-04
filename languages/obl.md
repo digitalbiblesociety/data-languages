@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوبلو
     auto: true
+  - translation_iso: deu
+    name: Oblo
   - translation_iso: fra
     name: oblo
   - translation_iso: hin

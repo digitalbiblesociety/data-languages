@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفاس
     auto: true
+  - translation_iso: deu
+    name: Fas
+    auto: true
   - translation_iso: fra
     name: fas
   - translation_iso: hin

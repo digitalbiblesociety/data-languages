@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كونزيمي
     auto: true
+  - translation_iso: deu
+    name: Koonzime
   - translation_iso: fra
     name: koonzime
   - translation_iso: hin

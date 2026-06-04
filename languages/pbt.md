@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باشتو الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Südpaschtu
+    auto: true
   - translation_iso: fra
     name: pachto du Sud
   - translation_iso: hin

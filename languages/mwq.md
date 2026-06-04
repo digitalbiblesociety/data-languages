@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موين تشين
     auto: true
+  - translation_iso: deu
+    name: Mün-Chin
+    auto: true
   - translation_iso: fra
     name: Chin mün
     auto: true

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Faifi_language"
 translations:
   - translation_iso: ara
     name: لهجة خولانية سعودية
+  - translation_iso: deu
+    name: Faifi
+    auto: true
   - translation_iso: fra
     name: faifi
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيداآن
     auto: true
+  - translation_iso: deu
+    name: "Ida'an"
+    auto: true
   - translation_iso: fra
     name: ida’an
   - translation_iso: hin

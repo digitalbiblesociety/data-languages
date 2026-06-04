@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الدزاندو
     auto: true
+  - translation_iso: deu
+    name: Dzando
+    auto: true
   - translation_iso: fra
     name: dzando
   - translation_iso: hin

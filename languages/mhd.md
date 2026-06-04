@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبوجو
     auto: true
+  - translation_iso: deu
+    name: Mbugu
   - translation_iso: fra
     name: mbugu
   - translation_iso: hin

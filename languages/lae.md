@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتاني
     auto: true
+  - translation_iso: deu
+    name: Pattani
+    auto: true
   - translation_iso: fra
     name: pattani
   - translation_iso: hin

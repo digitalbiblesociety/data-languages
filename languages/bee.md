@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيانجسي
     auto: true
+  - translation_iso: deu
+    name: Byangsi
+    auto: true
   - translation_iso: fra
     name: byangsi
   - translation_iso: hin

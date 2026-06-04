@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: نادروفيان
     auto: true
+  - translation_iso: deu
+    name: Nadrauisch
+    auto: true
   - translation_iso: fra
     name: nadruvien
   - translation_iso: hin

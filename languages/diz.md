@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديند
     auto: true
+  - translation_iso: deu
+    name: Ding
   - translation_iso: fra
     name: dzing
   - translation_iso: hin

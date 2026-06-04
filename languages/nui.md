@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نغومبي
     auto: true
+  - translation_iso: deu
+    name: Ngumbi
   - translation_iso: fra
     name: langue kombe
   - translation_iso: hin

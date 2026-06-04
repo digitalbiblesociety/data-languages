@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوكاتا
     auto: true
+  - translation_iso: deu
+    name: Kokata
+    auto: true
   - translation_iso: fra
     name: kokata
   - translation_iso: hin

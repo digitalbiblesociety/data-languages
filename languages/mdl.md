@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة إشارة المالطية
     auto: true
+  - translation_iso: deu
+    name: Maltesische Gebärdensprache
   - translation_iso: fra
     name: langue des signes maltaise
   - translation_iso: hin

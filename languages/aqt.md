@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أنجايتيه
     auto: true
+  - translation_iso: deu
+    name: Angaité
+    auto: true
   - translation_iso: fra
     name: angaité
   - translation_iso: hin

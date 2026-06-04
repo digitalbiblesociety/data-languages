@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يالاهاتان
     auto: true
+  - translation_iso: deu
+    name: Yalahatan
+    auto: true
   - translation_iso: fra
     name: yalahatan
   - translation_iso: hin

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: الشوكوا
     auto: true
+  - translation_iso: deu
+    name: Chukwa
+    auto: true
   - translation_iso: fra
     name: chukwa
   - translation_iso: hin

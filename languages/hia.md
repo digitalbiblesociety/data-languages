@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لآمآنج
     auto: true
+  - translation_iso: deu
+    name: Lamang
   - translation_iso: fra
     name: laamang
   - translation_iso: hin

@@ -10,6 +10,9 @@ latitude: -18.99999
 longitude: -40.41666
 wikipedia_url: "https://en.wikipedia.org/wiki/Tupiniquim_dialect"
 translations:
+  - translation_iso: deu
+    name: Tupinikin
+    auto: true
   - translation_iso: fra
     name: tupiniquim
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تومو كان دوجون
     auto: true
+  - translation_iso: deu
+    name: Tomo Kan Dogon
+    auto: true
   - translation_iso: fra
     name: tomo kan
   - translation_iso: hin

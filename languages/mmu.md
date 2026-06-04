@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مّالا
     auto: true
+  - translation_iso: deu
+    name: Mmaala
+    auto: true
   - translation_iso: fra
     name: mmaala
   - translation_iso: hin

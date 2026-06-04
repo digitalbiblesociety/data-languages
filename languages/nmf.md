@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانخول ناغا (الهند)
     auto: true
+  - translation_iso: deu
+    name: Tangkhul-Naga (Indien)
+    auto: true
   - translation_iso: fra
     name: tangkhul naga
   - translation_iso: hin

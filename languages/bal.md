@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Balochi_language"
 translations:
   - translation_iso: ara
     name: البلوشية
+  - translation_iso: deu
+    name: Belutschisch
   - translation_iso: fra
     name: baloutche
   - translation_iso: hin

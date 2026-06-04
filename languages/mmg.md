@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة شمال أمبريم
     auto: true
+  - translation_iso: deu
+    name: North Ambrym
+    auto: true
   - translation_iso: fra
     name: ambrym du Nord
   - translation_iso: hin

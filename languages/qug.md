@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا تشيمبوراسو الجبلية
     auto: true
+  - translation_iso: deu
+    name: Chimborazo Hochland-Quechua
   - translation_iso: fra
     name: quichua du Chimborazo
   - translation_iso: hin

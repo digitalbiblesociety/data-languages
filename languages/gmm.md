@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غبآيآ-مبودومو
     auto: true
+  - translation_iso: deu
+    name: Gbaya-Mbodomo
+    auto: true
   - translation_iso: fra
     name: gbaya-mbodomo
   - translation_iso: hin

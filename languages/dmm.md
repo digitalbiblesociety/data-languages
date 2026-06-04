@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: دما
     auto: true
+  - translation_iso: deu
+    name: Dama
+    auto: true
   - translation_iso: fra
     name: dama
   - translation_iso: hin

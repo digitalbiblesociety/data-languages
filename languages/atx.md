@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة أروتاني
     auto: true
+  - translation_iso: deu
+    name: Arutani
+    auto: true
   - translation_iso: fra
     name: arutani
   - translation_iso: hin

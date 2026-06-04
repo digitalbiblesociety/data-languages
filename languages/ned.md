@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: ندي جبيتي
     auto: true
+  - translation_iso: deu
+    name: Nde-Gbite
+    auto: true
   - translation_iso: fra
     name: nde-gbite
   - translation_iso: hin

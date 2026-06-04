@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفينونغان
     auto: true
+  - translation_iso: deu
+    name: Finongan
+    auto: true
   - translation_iso: fra
     name: finongan
   - translation_iso: hin

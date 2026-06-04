@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tuareg_languages"
 translations:
   - translation_iso: ara
     name: لغات طارقية
+  - translation_iso: deu
+    name: Tuareg
   - translation_iso: fra
     name: langues touarègues
   - translation_iso: hin

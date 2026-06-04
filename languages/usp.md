@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوسبانتيكو
     auto: true
+  - translation_iso: deu
+    name: Uspanteco
   - translation_iso: fra
     name: uspantèque
   - translation_iso: hin

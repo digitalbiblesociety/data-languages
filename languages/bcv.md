@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة شو-مندا-نيي
     auto: true
+  - translation_iso: deu
+    name: Schoo-Minda-Nye
   - translation_iso: fra
     name: Shoo-Minda-Nye
     auto: true

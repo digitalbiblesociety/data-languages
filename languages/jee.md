@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيرونغ
     auto: true
+  - translation_iso: deu
+    name: Jerung
+    auto: true
   - translation_iso: fra
     name: jerung
   - translation_iso: hin

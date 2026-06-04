@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توما
     auto: true
+  - translation_iso: deu
+    name: Toma
+    auto: true
   - translation_iso: fra
     name: toma
   - translation_iso: hin

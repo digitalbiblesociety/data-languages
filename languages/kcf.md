@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أوكان
     auto: true
+  - translation_iso: deu
+    name: Ukaan
   - translation_iso: fra
     name: Ukaan
     auto: true

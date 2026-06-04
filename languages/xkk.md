@@ -18,8 +18,11 @@ translations:
   - translation_iso: ara
     name: كاكو
     auto: true
+  - translation_iso: deu
+    name: "Kaco'"
+    auto: true
   - translation_iso: fra
-    name: "kaco'"
+    name: kaco
   - translation_iso: hin
     name: काको
     auto: true

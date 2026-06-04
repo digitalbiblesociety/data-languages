@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وانيكي
     auto: true
+  - translation_iso: deu
+    name: Wanetsi
   - translation_iso: fra
     name: wanetsi
   - translation_iso: hin

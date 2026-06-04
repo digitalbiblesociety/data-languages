@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياووو
     auto: true
+  - translation_iso: deu
+    name: Yawuru
+    auto: true
   - translation_iso: fra
     name: yawuru
   - translation_iso: hin

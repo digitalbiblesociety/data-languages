@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيمري
     auto: true
+  - translation_iso: deu
+    name: Kimré
+    auto: true
   - translation_iso: fra
     name: kimré
   - translation_iso: hin

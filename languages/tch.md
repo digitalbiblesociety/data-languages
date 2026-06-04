@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإنجليزية الكريولية بتوركس وكايكوس
     auto: true
+  - translation_iso: deu
+    name: Turks And Caicos Creole English
+    auto: true
   - translation_iso: fra
     name: Créole anglais des Turks et Caïques
     auto: true

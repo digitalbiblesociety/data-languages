@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة أندّ
     auto: true
+  - translation_iso: deu
+    name: Andh
+    auto: true
   - translation_iso: fra
     name: Andh
     auto: true

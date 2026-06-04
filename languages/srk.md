@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيرودونج موروت
     auto: true
+  - translation_iso: deu
+    name: Serudung Murut
+    auto: true
   - translation_iso: fra
     name: serudung
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاغبانوا الوسطى
     auto: true
+  - translation_iso: deu
+    name: Central Tagbanwa
+    auto: true
   - translation_iso: fra
     name: tagbanwa central
   - translation_iso: hin

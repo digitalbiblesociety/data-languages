@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أندرا-هوس
     auto: true
+  - translation_iso: deu
+    name: Andra-Hus
+    auto: true
   - translation_iso: fra
     name: andra-hus
   - translation_iso: hin

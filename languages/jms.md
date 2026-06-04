@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماشي
     auto: true
+  - translation_iso: deu
+    name: Mashi (Nigeria)
+    auto: true
   - translation_iso: fra
     name: mashi
   - translation_iso: hin

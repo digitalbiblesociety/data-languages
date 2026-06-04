@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أنماتييري
     auto: true
+  - translation_iso: deu
+    name: Anmatyerre
+    auto: true
   - translation_iso: fra
     name: anmatyerre
   - translation_iso: hin

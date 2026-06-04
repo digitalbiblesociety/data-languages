@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيمبو
     auto: true
+  - translation_iso: deu
+    name: Simbo
+    auto: true
   - translation_iso: fra
     name: simbo
   - translation_iso: hin

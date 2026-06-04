@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غونإ دآو
     auto: true
+  - translation_iso: deu
+    name: Gone Dau
+    auto: true
   - translation_iso: fra
     name: gone dau
   - translation_iso: hin

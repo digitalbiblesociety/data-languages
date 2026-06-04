@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة برينسيبيبنسي
     auto: true
+  - translation_iso: deu
+    name: Principensisch
   - translation_iso: fra
     name: principense
   - translation_iso: hin

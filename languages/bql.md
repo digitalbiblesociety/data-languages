@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلاكورا
     auto: true
+  - translation_iso: deu
+    name: Bilakura
+    auto: true
   - translation_iso: fra
     name: bilakura
   - translation_iso: hin

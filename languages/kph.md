@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كبلانج
     auto: true
+  - translation_iso: deu
+    name: Kplang
   - translation_iso: fra
     name: kplang
   - translation_iso: hin

@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Meroitic_language"
 translations:
   - translation_iso: ara
     name: اللغة المروية
+  - translation_iso: deu
+    name: Meroitisch
   - translation_iso: fra
     name: méroïtique
   - translation_iso: hin

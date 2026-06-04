@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أخڤاخ
     auto: true
+  - translation_iso: deu
+    name: Achwachisch
+    auto: true
   - translation_iso: fra
     name: akhvakh
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوم
     auto: true
+  - translation_iso: deu
+    name: Som
+    auto: true
   - translation_iso: fra
     name: som
   - translation_iso: hin

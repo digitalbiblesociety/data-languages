@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أبوم
     auto: true
+  - translation_iso: deu
+    name: Abom
+    auto: true
   - translation_iso: fra
     name: abom
   - translation_iso: hin

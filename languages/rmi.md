@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوماڤرين
     auto: true
+  - translation_iso: deu
+    name: Lomavren
   - translation_iso: fra
     name: Lomavren
     auto: true

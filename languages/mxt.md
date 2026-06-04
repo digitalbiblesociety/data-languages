@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جاميلتيبيك ميكستك
     auto: true
+  - translation_iso: deu
+    name: Jamiltepec-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: mixtèque de Jamiltepec
   - translation_iso: hin

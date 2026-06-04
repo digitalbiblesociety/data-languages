@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإشتهاردي
     auto: true
+  - translation_iso: deu
+    name: Eshtehardi
+    auto: true
   - translation_iso: fra
     name: eshtehardi
   - translation_iso: hin

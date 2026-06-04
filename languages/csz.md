@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hanis_language"
 translations:
   - translation_iso: ara
     name: هانيس
+  - translation_iso: deu
+    name: Coos
+    auto: true
   - translation_iso: fra
     name: hanis
   - translation_iso: hin

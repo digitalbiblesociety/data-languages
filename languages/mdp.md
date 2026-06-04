@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبالا
     auto: true
+  - translation_iso: deu
+    name: Mbala
+    auto: true
   - translation_iso: fra
     name: mbala
   - translation_iso: hin

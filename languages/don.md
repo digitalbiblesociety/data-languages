@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تورا
     auto: true
+  - translation_iso: deu
+    name: Toura
   - translation_iso: fra
     name: toura
   - translation_iso: hin

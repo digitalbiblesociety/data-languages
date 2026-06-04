@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: نغومبي (جمهورية أفريقيا الوسطى)
     auto: true
+  - translation_iso: deu
+    name: Ngombe (Zentralafrikanische Republik)
+    auto: true
   - translation_iso: fra
     name: ngombe
   - translation_iso: hin

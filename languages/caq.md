@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كار نيكوبارية
     auto: true
+  - translation_iso: deu
+    name: Car
   - translation_iso: fra
     name: car
   - translation_iso: hin

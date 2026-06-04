@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كالاو
     auto: true
+  - translation_iso: deu
+    name: Kalao
+    auto: true
   - translation_iso: fra
     name: kalao
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فانوما
     auto: true
+  - translation_iso: deu
+    name: Vanuma
+    auto: true
   - translation_iso: fra
     name: Vanuma
   - translation_iso: hin

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة كوهستاني إندوس
     auto: true
+  - translation_iso: deu
+    name: Indus-Kohistani
   - translation_iso: fra
     name: "kohistani de l'Indus"
   - translation_iso: hin

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اداي
     auto: true
+  - translation_iso: deu
+    name: Adai
   - translation_iso: fra
     name: adaizan
   - translation_iso: hin

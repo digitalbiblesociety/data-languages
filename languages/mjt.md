@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ساوريا باهاريا
     auto: true
+  - translation_iso: deu
+    name: Malto
   - translation_iso: fra
     name: sauria paharia
   - translation_iso: hin

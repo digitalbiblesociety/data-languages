@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نك
     auto: true
+  - translation_iso: deu
+    name: Nake
+    auto: true
   - translation_iso: fra
     name: nake
   - translation_iso: hin

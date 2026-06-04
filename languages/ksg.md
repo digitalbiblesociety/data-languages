@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوساغي
     auto: true
+  - translation_iso: deu
+    name: Kusaghe
+    auto: true
   - translation_iso: fra
     name: kusaghe
   - translation_iso: hin

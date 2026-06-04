@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: الكارينجابا
     auto: true
+  - translation_iso: deu
+    name: Karenggapa
   - translation_iso: fra
     name: karenggapa
   - translation_iso: hin

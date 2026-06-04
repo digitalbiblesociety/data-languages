@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هإمبآ
     auto: true
+  - translation_iso: deu
+    name: Hemba
+    auto: true
   - translation_iso: fra
     name: hemba
   - translation_iso: hin

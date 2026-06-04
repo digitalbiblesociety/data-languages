@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: شيخاواتي
     auto: true
+  - translation_iso: deu
+    name: Shekhawati
+    auto: true
   - translation_iso: fra
     name: Shekhawati
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوميراي دوماجت أجتا
     auto: true
+  - translation_iso: deu
+    name: Umiray-Dumaget-Agta
+    auto: true
   - translation_iso: fra
     name: Agta Umiray Dumaget
     auto: true

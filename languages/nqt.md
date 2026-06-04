@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: نتينج
     auto: true
+  - translation_iso: deu
+    name: Nteng
+    auto: true
   - translation_iso: fra
     name: Nteng
     auto: true

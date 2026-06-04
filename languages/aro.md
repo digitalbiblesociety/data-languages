@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة أراونا
     auto: true
+  - translation_iso: deu
+    name: Araona
   - translation_iso: fra
     name: araona
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هاريجان كيناوري
     auto: true
+  - translation_iso: deu
+    name: Harijan-Kinnauri
+    auto: true
   - translation_iso: fra
     name: Kinnauri Harijan
     auto: true

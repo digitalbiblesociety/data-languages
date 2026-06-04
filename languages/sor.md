@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السومراي
     auto: true
+  - translation_iso: deu
+    name: Somrai
+    auto: true
   - translation_iso: fra
     name: soumray
   - translation_iso: hin

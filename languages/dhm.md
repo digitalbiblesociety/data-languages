@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زيمبا
     auto: true
+  - translation_iso: deu
+    name: Zemba
+    auto: true
   - translation_iso: fra
     name: zemba
   - translation_iso: hin

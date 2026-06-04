@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوكو
     auto: true
+  - translation_iso: deu
+    name: Boko
   - translation_iso: fra
     name: boko
   - translation_iso: hin

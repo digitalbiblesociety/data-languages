@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشراو
     auto: true
+  - translation_iso: deu
+    name: Chrau
+    auto: true
   - translation_iso: fra
     name: chrau
   - translation_iso: hin

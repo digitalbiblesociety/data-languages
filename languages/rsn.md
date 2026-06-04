@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الرواندية
     auto: true
+  - translation_iso: deu
+    name: Ruandische Gebärdensprache
   - translation_iso: fra
     name: Langue des signes rwandaise
     auto: true

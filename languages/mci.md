@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميسي
     auto: true
+  - translation_iso: deu
+    name: Mese
+    auto: true
   - translation_iso: fra
     name: mesem
   - translation_iso: hin

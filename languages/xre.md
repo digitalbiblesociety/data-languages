@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كرييي
     auto: true
+  - translation_iso: deu
+    name: Kreye
+    auto: true
   - translation_iso: fra
     name: kreye
   - translation_iso: hin

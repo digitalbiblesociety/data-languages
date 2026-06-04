@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ندوت
     auto: true
+  - translation_iso: deu
+    name: Ndut
   - translation_iso: fra
     name: ndut
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيجيدال
     auto: true
+  - translation_iso: deu
+    name: Negidalisch
+    auto: true
   - translation_iso: fra
     name: néguidale
   - translation_iso: hin

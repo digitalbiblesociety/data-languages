@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يمون
     auto: true
+  - translation_iso: deu
+    name: Remun
+    auto: true
   - translation_iso: fra
     name: remun
   - translation_iso: hin

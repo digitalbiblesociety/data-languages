@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينجفو
     auto: true
+  - translation_iso: deu
+    name: Singpho
+    auto: true
   - translation_iso: fra
     name: singpho
   - translation_iso: hin

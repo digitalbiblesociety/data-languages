@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بونام
     auto: true
+  - translation_iso: deu
+    name: Ponam
+    auto: true
   - translation_iso: fra
     name: ponam
   - translation_iso: hin

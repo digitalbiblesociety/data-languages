@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآيسلآ
     auto: true
+  - translation_iso: deu
+    name: Haisla
+    auto: true
   - translation_iso: fra
     name: haisla
   - translation_iso: hin

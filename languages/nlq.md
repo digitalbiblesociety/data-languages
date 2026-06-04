@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لاو ناغا
     auto: true
+  - translation_iso: deu
+    name: Lao-Naga
+    auto: true
   - translation_iso: fra
     name: naga lao
   - translation_iso: hin

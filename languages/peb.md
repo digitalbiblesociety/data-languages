@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الشرقية
     auto: true
+  - translation_iso: deu
+    name: Östliches Pomo
+    auto: true
   - translation_iso: fra
     name: pomo oriental
   - translation_iso: hin

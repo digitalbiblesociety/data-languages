@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبيكانو
     auto: true
+  - translation_iso: deu
+    name: Tepecano
+    auto: true
   - translation_iso: fra
     name: tepecano
   - translation_iso: hin

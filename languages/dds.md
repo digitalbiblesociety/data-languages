@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دونو سو دوجون
     auto: true
+  - translation_iso: deu
+    name: Donno So Dogon
+    auto: true
   - translation_iso: fra
     name: Dogon Donno So
     auto: true

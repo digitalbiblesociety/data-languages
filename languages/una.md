@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: شمال واتوت
     auto: true
+  - translation_iso: deu
+    name: North Watut
+    auto: true
   - translation_iso: fra
     name: watut du Nord
   - translation_iso: hin

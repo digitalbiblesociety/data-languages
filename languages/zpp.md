@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك ال ألتو
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (El Alto)
+    auto: true
   - translation_iso: fra
     name: "zapotèque d'El Alto"
   - translation_iso: hin

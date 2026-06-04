@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سينينكري
     auto: true
+  - translation_iso: deu
+    name: Sininkere
+    auto: true
   - translation_iso: fra
     name: sininkéré
   - translation_iso: hin

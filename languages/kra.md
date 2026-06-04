@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كومهالي
     auto: true
+  - translation_iso: deu
+    name: Kumhali
+    auto: true
   - translation_iso: fra
     name: kumhali
   - translation_iso: hin

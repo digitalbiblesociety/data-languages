@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتو
     auto: true
+  - translation_iso: deu
+    name: Mato
+    auto: true
   - translation_iso: fra
     name: mato
   - translation_iso: hin

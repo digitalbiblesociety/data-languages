@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: السيميمي
     auto: true
+  - translation_iso: deu
+    name: Semimi
+    auto: true
   - translation_iso: fra
     name: semimi
   - translation_iso: hin

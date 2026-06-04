@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Swedish_language"
 translations:
   - translation_iso: ara
     name: السويدية
+  - translation_iso: deu
+    name: Schwedisch
   - translation_iso: fra
     name: suédois
   - translation_iso: hin

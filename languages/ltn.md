@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اتوند
     auto: true
+  - translation_iso: deu
+    name: Latundê
+    auto: true
   - translation_iso: fra
     name: latundê
   - translation_iso: hin

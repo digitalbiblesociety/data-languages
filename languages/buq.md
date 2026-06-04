@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بريم
     auto: true
+  - translation_iso: deu
+    name: Brem
+    auto: true
   - translation_iso: fra
     name: Brem
     auto: true

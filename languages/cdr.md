@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشيندا-ريغي-تيايال
     auto: true
+  - translation_iso: deu
+    name: Kamuku
   - translation_iso: fra
     name: langue kamuku
   - translation_iso: hin

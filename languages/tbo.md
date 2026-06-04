@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاوالا
     auto: true
+  - translation_iso: deu
+    name: Tawala
+    auto: true
   - translation_iso: fra
     name: Tawala
     auto: true

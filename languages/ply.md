@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولفو
     auto: true
+  - translation_iso: deu
+    name: Bolyu
+    auto: true
   - translation_iso: fra
     name: palyu
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بهونغ كونغ
     auto: true
+  - translation_iso: deu
+    name: Hongkong-Gebärdensprache
   - translation_iso: fra
     name: langue des signes hongkongaise
   - translation_iso: hin

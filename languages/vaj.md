@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيكيلي
     auto: true
+  - translation_iso: deu
+    name: Sekele
+    auto: true
   - translation_iso: fra
     name: vaseleke
   - translation_iso: hin

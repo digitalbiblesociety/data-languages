@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: كورونيان
     auto: true
+  - translation_iso: deu
+    name: Kurisch
   - translation_iso: fra
     name: curonien
   - translation_iso: hin

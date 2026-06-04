@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دجانجون
     auto: true
+  - translation_iso: deu
+    name: Djangun
+    auto: true
   - translation_iso: fra
     name: djangun
   - translation_iso: hin

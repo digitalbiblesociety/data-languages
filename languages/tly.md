@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Talysh_language"
 translations:
   - translation_iso: ara
     name: الطالشية
+  - translation_iso: deu
+    name: Talisch
   - translation_iso: fra
     name: talysh
   - translation_iso: hin

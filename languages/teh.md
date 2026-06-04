@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيهويلتشي
     auto: true
+  - translation_iso: deu
+    name: Tehuelche
   - translation_iso: fra
     name: tehuelche
   - translation_iso: hin

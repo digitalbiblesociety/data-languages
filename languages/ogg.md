@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوغبوغولو
     auto: true
+  - translation_iso: deu
+    name: Ogbogolo
+    auto: true
   - translation_iso: fra
     name: Ogbogolo
     auto: true

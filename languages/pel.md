@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيكال
     auto: true
+  - translation_iso: deu
+    name: Pekal
+    auto: true
   - translation_iso: fra
     name: pekal
   - translation_iso: hin

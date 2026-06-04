@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيبيرو
     auto: true
+  - translation_iso: deu
+    name: Jebero
+    auto: true
   - translation_iso: fra
     name: jebero
   - translation_iso: hin

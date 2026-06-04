@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة واندالا
     auto: true
+  - translation_iso: deu
+    name: Wandala
+    auto: true
   - translation_iso: fra
     name: wandala
   - translation_iso: hin

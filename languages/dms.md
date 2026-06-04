@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دامبيلاس
     auto: true
+  - translation_iso: deu
+    name: Dampelas
+    auto: true
   - translation_iso: fra
     name: dampelas
   - translation_iso: hin

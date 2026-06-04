@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة اراجيا
     auto: true
+  - translation_iso: deu
+    name: Laragia
+    auto: true
   - translation_iso: fra
     name: laragia
   - translation_iso: hin

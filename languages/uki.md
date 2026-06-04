@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: كوي
     auto: true
+  - translation_iso: deu
+    name: Kui (Indien)
+    auto: true
   - translation_iso: fra
     name: kui
   - translation_iso: hin

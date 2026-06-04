@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيكيوم
     auto: true
+  - translation_iso: deu
+    name: Aekyom
+    auto: true
   - translation_iso: fra
     name: aekyom langue
   - translation_iso: hin

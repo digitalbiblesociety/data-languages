@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باجوسا
     auto: true
+  - translation_iso: deu
+    name: Bagusa
+    auto: true
   - translation_iso: fra
     name: bagusa
   - translation_iso: hin

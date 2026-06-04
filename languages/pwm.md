@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مولبوج
     auto: true
+  - translation_iso: deu
+    name: Molbog
+    auto: true
   - translation_iso: fra
     name: Molbog
     auto: true

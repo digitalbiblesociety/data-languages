@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يوم
     auto: true
+  - translation_iso: deu
+    name: Yom
   - translation_iso: fra
     name: yom
   - translation_iso: hin

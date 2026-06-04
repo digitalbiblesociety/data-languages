@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بسيكي
     auto: true
+  - translation_iso: deu
+    name: Psikye
+    auto: true
   - translation_iso: fra
     name: psikye
   - translation_iso: hin

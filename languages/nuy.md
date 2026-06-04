@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نونغغوبويو
     auto: true
+  - translation_iso: deu
+    name: Nunggubuyu
+    auto: true
   - translation_iso: fra
     name: nunggubuyu
   - translation_iso: hin

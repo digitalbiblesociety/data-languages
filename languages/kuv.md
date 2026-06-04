@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كور
     auto: true
+  - translation_iso: deu
+    name: Kur
+    auto: true
   - translation_iso: fra
     name: kur
   - translation_iso: hin

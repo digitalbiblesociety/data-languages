@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيناغ
     auto: true
+  - translation_iso: deu
+    name: Zenag
+    auto: true
   - translation_iso: fra
     name: zenag
   - translation_iso: hin

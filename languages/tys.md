@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي سا با
     auto: true
+  - translation_iso: deu
+    name: Tày Sa Pa
+    auto: true
   - translation_iso: fra
     name: tay sa pa
   - translation_iso: hin

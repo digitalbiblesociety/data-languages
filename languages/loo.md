@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ومبو
     auto: true
+  - translation_iso: deu
+    name: Lombo
+    auto: true
   - translation_iso: fra
     name: lombo
   - translation_iso: hin

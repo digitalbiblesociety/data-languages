@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kabardian_language"
 translations:
   - translation_iso: ara
     name: القبردينية
+  - translation_iso: deu
+    name: Kabardinisch
   - translation_iso: fra
     name: kabarde
   - translation_iso: hin

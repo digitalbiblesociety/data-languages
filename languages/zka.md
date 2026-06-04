@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كايمبولاوا
     auto: true
+  - translation_iso: deu
+    name: Kaimbulawa
+    auto: true
   - translation_iso: fra
     name: Kaimbulawa
     auto: true

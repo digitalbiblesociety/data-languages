@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واكا
     auto: true
+  - translation_iso: deu
+    name: Waka
+    auto: true
   - translation_iso: fra
     name: Waka
     auto: true

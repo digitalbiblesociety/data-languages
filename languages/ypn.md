@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أني فوا
     auto: true
+  - translation_iso: deu
+    name: Ani Phowa
+    auto: true
   - translation_iso: fra
     name: phowa ani
   - translation_iso: hin

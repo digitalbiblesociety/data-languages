@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jewish_Palestinian_Aramaic"
 translations:
   - translation_iso: ara
     name: آرامية فلسطينية يهودية
+  - translation_iso: deu
+    name: jüdisch-palästinisches Aramäisch
   - translation_iso: fra
     name: judéo-araméen galiléen
   - translation_iso: hin

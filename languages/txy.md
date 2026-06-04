@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تانوسي ملغاشي
     auto: true
+  - translation_iso: deu
+    name: Tanosy Malagasy
+    auto: true
   - translation_iso: fra
     name: antanosy
   - translation_iso: hin

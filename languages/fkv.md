@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kven_language"
 translations:
   - translation_iso: ara
     name: لغة كفين
+  - translation_iso: deu
+    name: Kvenisch
   - translation_iso: fra
     name: kvène
   - translation_iso: hin

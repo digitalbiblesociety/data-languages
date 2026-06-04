@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيدون
     auto: true
+  - translation_iso: deu
+    name: Idon
+    auto: true
   - translation_iso: fra
     name: idon
   - translation_iso: hin

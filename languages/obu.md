@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوبولوم
     auto: true
+  - translation_iso: deu
+    name: Obulom
+    auto: true
   - translation_iso: fra
     name: obulom
   - translation_iso: hin

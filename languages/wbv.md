@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واجاري
     auto: true
+  - translation_iso: deu
+    name: Wajarri
   - translation_iso: fra
     name: wajarri
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توي
     auto: true
+  - translation_iso: deu
+    name: Tewe
+    auto: true
   - translation_iso: fra
     name: tewe
   - translation_iso: hin

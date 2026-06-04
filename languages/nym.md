@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nyamwezi_language"
 translations:
   - translation_iso: ara
     name: النيامويزي
+  - translation_iso: deu
+    name: Nyamwezi
   - translation_iso: fra
     name: nyamwezi
   - translation_iso: hin

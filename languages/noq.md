@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نغونغو
     auto: true
+  - translation_iso: deu
+    name: Ngongo
+    auto: true
   - translation_iso: fra
     name: ngongo
   - translation_iso: hin

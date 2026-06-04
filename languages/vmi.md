@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميوا
     auto: true
+  - translation_iso: deu
+    name: Miwa
+    auto: true
   - translation_iso: fra
     name: miwa
   - translation_iso: hin

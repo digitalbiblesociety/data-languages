@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيمي ناغا
     auto: true
+  - translation_iso: deu
+    name: Zeme-Naga
+    auto: true
   - translation_iso: fra
     name: naga zeme
   - translation_iso: hin

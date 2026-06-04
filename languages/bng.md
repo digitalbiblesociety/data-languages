@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بينجا
     auto: true
+  - translation_iso: deu
+    name: Benga
   - translation_iso: fra
     name: benga
   - translation_iso: hin

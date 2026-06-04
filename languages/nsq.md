@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مايوك سيرا الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Sierra-Miwok
+    auto: true
   - translation_iso: fra
     name: miwok de la Sierra du Nord
   - translation_iso: hin

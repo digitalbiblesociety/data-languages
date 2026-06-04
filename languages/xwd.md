@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: وادي وادي
     auto: true
+  - translation_iso: deu
+    name: Wadi Wadi
+    auto: true
   - translation_iso: fra
     name: wadi wadi
   - translation_iso: hin

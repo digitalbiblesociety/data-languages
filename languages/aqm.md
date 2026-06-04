@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتوهوايم
     auto: true
+  - translation_iso: deu
+    name: Atohwaim
   - translation_iso: fra
     name: atohwaim
   - translation_iso: hin

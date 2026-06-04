@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامب
     auto: true
+  - translation_iso: deu
+    name: Yamap
+    auto: true
   - translation_iso: fra
     name: Yamap
     auto: true

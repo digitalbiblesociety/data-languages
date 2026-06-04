@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جيين
     auto: true
+  - translation_iso: deu
+    name: Jen
   - translation_iso: fra
     name: Dza
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاراوا
     auto: true
+  - translation_iso: deu
+    name: Jarawa (Indien)
+    auto: true
   - translation_iso: fra
     name: jarawa
   - translation_iso: hin

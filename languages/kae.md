@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيتانغالان
     auto: true
+  - translation_iso: deu
+    name: Ketangalan
+    auto: true
   - translation_iso: fra
     name: ketangalan
   - translation_iso: hin

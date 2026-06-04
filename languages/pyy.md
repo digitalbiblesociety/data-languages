@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيين
     auto: true
+  - translation_iso: deu
+    name: Pyen
+    auto: true
   - translation_iso: fra
     name: Pyen
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توما-إيروموو
     auto: true
+  - translation_iso: deu
+    name: Tuma-Irumu
+    auto: true
   - translation_iso: fra
     name: Tuma-Irumu
     auto: true

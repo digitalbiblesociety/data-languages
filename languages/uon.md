@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كولون
     auto: true
+  - translation_iso: deu
+    name: Kulon
+    auto: true
   - translation_iso: fra
     name: Kulon
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كونزو
     auto: true
+  - translation_iso: deu
+    name: Konzo
+    auto: true
   - translation_iso: fra
     name: konjo
   - translation_iso: hin

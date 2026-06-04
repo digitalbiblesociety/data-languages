@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاماري
     auto: true
+  - translation_iso: deu
+    name: Kamaru
+    auto: true
   - translation_iso: fra
     name: kamaru
   - translation_iso: hin

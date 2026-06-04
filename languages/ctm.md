@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chitimacha_language"
 translations:
   - translation_iso: ara
     name: شيتيماشا
+  - translation_iso: deu
+    name: Chitimacha
+    auto: true
   - translation_iso: fra
     name: chitimacha
   - translation_iso: hin

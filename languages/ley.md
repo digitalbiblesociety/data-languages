@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يمولانج
     auto: true
+  - translation_iso: deu
+    name: Lemolang
   - translation_iso: fra
     name: lemolang
   - translation_iso: hin

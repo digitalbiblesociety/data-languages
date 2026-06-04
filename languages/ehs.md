@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Miyakubo
     auto: true
+  - translation_iso: deu
+    name: Miyakubo-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: Langue des signes de Miyakubo
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موتو
     auto: true
+  - translation_iso: deu
+    name: Mutu
+    auto: true
   - translation_iso: fra
     name: mutu
   - translation_iso: hin

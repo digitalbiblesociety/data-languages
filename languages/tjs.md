@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توجيا الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Southern Tujia
+    auto: true
   - translation_iso: fra
     name: tujia du Sud
   - translation_iso: hin

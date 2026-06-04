@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تانا كروس
     auto: true
+  - translation_iso: deu
+    name: Tanacross
   - translation_iso: fra
     name: tanacross
   - translation_iso: hin

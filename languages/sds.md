@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sened_language"
 translations:
   - translation_iso: ara
     name: لغة سند
+  - translation_iso: deu
+    name: Sened
+    auto: true
   - translation_iso: fra
     name: tamazight du Sened
   - translation_iso: hin

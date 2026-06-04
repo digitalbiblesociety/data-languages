@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تارتيسي
     auto: true
+  - translation_iso: deu
+    name: Tartessisch
   - translation_iso: fra
     name: tartessien
   - translation_iso: hin

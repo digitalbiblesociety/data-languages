@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كباتيلي
     auto: true
+  - translation_iso: deu
+    name: Kpatili
+    auto: true
   - translation_iso: fra
     name: kpatili
   - translation_iso: hin

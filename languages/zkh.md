@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khorezmian_Turkic"
 translations:
   - translation_iso: ara
     name: التركية الخوارزمية
+  - translation_iso: deu
+    name: Choresm-Türkisch
   - translation_iso: fra
     name: turc du Khwarezm
   - translation_iso: hin

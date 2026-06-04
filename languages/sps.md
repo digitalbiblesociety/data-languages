@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابوسا
     auto: true
+  - translation_iso: deu
+    name: Saposa
+    auto: true
   - translation_iso: fra
     name: saposa
   - translation_iso: hin

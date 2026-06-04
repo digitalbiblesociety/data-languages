@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالفي
     auto: true
+  - translation_iso: deu
+    name: Malvi
+    auto: true
   - translation_iso: fra
     name: malvi
   - translation_iso: hin

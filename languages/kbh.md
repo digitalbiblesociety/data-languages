@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة كامسا
     auto: true
+  - translation_iso: deu
+    name: Camsá
+    auto: true
   - translation_iso: fra
     name: camsá
   - translation_iso: hin

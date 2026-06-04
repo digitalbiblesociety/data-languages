@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كاخامركا
     auto: true
+  - translation_iso: deu
+    name: Cajamarca-Quechua
   - translation_iso: fra
     name: quechua de Cajamarca
   - translation_iso: hin

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة بانكال
     auto: true
+  - translation_iso: deu
+    name: Bankal
+    auto: true
   - translation_iso: fra
     name: bankal
   - translation_iso: hin

@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة مور
     auto: true
+  - translation_iso: deu
+    name: Mor (Bomberai-Halbinsel)
+    auto: true
   - translation_iso: fra
     name: mor
   - translation_iso: hin

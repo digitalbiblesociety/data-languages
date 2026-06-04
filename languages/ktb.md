@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كامباتا
     auto: true
+  - translation_iso: deu
+    name: Kambaata
   - translation_iso: fra
     name: timbaro
   - translation_iso: hin

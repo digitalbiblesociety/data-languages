@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رانج
     auto: true
+  - translation_iso: deu
+    name: Rang
+    auto: true
   - translation_iso: fra
     name: Rang
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: منجاكا
     auto: true
+  - translation_iso: deu
+    name: Mengaka
   - translation_iso: fra
     name: mengaka
   - translation_iso: hin

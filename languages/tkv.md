@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مور بانو
     auto: true
+  - translation_iso: deu
+    name: Mur Pano
+    auto: true
   - translation_iso: fra
     name: mur pano
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإيجون
     auto: true
+  - translation_iso: deu
+    name: Eggon
   - translation_iso: fra
     name: eggon
   - translation_iso: hin

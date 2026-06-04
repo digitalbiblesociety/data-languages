@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة فيمبي
     auto: true
+  - translation_iso: deu
+    name: Phimbi
+    auto: true
   - translation_iso: fra
     name: phimbi
   - translation_iso: hin

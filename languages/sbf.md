@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: تشابو
     auto: true
+  - translation_iso: deu
+    name: Shabo
   - translation_iso: fra
     name: shabo
   - translation_iso: hin

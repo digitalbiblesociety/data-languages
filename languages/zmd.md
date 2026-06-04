@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماريدان
     auto: true
+  - translation_iso: deu
+    name: Maridan
+    auto: true
   - translation_iso: fra
     name: maridan
   - translation_iso: hin

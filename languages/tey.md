@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توليشي
     auto: true
+  - translation_iso: deu
+    name: Tulishi
+    auto: true
   - translation_iso: fra
     name: tulishi
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك كويوكويتاني-كويري
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Quioquitani-Quierí)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Quioquitani
   - translation_iso: hin

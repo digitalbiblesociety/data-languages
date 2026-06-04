@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وآسإمبو
     auto: true
+  - translation_iso: deu
+    name: Wasembo
+    auto: true
   - translation_iso: fra
     name: Wasembo
     auto: true

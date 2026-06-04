@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مبوركو
     auto: true
+  - translation_iso: deu
+    name: Mburku
+    auto: true
   - translation_iso: fra
     name: Mburku
     auto: true

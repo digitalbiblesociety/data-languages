@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيبو
     auto: true
+  - translation_iso: deu
+    name: Jibu
+    auto: true
   - translation_iso: fra
     name: Jibu
     auto: true

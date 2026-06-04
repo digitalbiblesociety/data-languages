@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توواري
     auto: true
+  - translation_iso: deu
+    name: Tuwari
+    auto: true
   - translation_iso: fra
     name: tuwari
   - translation_iso: hin

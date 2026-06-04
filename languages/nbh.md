@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجامو
     auto: true
+  - translation_iso: deu
+    name: Ngamo
+    auto: true
   - translation_iso: fra
     name: ngamo
   - translation_iso: hin

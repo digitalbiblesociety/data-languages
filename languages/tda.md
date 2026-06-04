@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاغدال
     auto: true
+  - translation_iso: deu
+    name: Tihishit
   - translation_iso: fra
     name: tagdal
   - translation_iso: hin

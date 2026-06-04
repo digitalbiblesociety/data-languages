@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نافوت
     auto: true
+  - translation_iso: deu
+    name: Navut
+    auto: true
   - translation_iso: fra
     name: navut
   - translation_iso: hin

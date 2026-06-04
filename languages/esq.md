@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الإسيلين
     auto: true
+  - translation_iso: deu
+    name: Esselen
+    auto: true
   - translation_iso: fra
     name: esselen
   - translation_iso: hin

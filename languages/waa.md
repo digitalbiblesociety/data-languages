@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: والا والا
     auto: true
+  - translation_iso: deu
+    name: Walla Walla
+    auto: true
   - translation_iso: fra
     name: walla walla
   - translation_iso: hin

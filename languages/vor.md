@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فورو
     auto: true
+  - translation_iso: deu
+    name: Voro
+    auto: true
   - translation_iso: fra
     name: voro
   - translation_iso: hin

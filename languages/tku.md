@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتوناك نيكاكسا العليا
     auto: true
+  - translation_iso: deu
+    name: Upper Necaxa Totonac
+    auto: true
   - translation_iso: fra
     name: totonaque du haut Necaxa
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pijin"
 translations:
   - translation_iso: ara
     name: بيجين
+  - translation_iso: deu
+    name: Pijin
   - translation_iso: fra
     name: pidgin des îles Salomon
   - translation_iso: hin

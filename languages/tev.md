@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: تيور
     auto: true
+  - translation_iso: deu
+    name: Teor
+    auto: true
   - translation_iso: fra
     name: teor
   - translation_iso: hin

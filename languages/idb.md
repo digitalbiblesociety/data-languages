@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الهند-البرتغالية
     auto: true
+  - translation_iso: deu
+    name: Indoportugiesisch
+    auto: true
   - translation_iso: fra
     name: créole indo-portugais de Cannanore
   - translation_iso: hin

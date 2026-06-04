@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بهلوية
     auto: true
+  - translation_iso: deu
+    name: Pahlavani
+    auto: true
   - translation_iso: fra
     name: Pahlavani
     auto: true

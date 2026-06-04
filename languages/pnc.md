@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانّي
     auto: true
+  - translation_iso: deu
+    name: Pannei
   - translation_iso: fra
     name: Pannei
     auto: true

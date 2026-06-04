@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واماس
     auto: true
+  - translation_iso: deu
+    name: Wamas
+    auto: true
   - translation_iso: fra
     name: wamas
   - translation_iso: hin

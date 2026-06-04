@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يجا-وينجا
     auto: true
+  - translation_iso: deu
+    name: Lega-Mwenga
+    auto: true
   - translation_iso: fra
     name: lega de Mwenga
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mon_language"
 translations:
   - translation_iso: ara
     name: لغة مون
+  - translation_iso: deu
+    name: Mon
   - translation_iso: fra
     name: môn
   - translation_iso: hin

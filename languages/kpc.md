@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوريباكو
     auto: true
+  - translation_iso: deu
+    name: Curripaco
+    auto: true
   - translation_iso: fra
     name: baniwa de l’Içana
   - translation_iso: hin

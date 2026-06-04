@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ياست يمبا
     auto: true
+  - translation_iso: deu
+    name: Ost-Limba
+    auto: true
   - translation_iso: fra
     name: "limba de l'Est"
   - translation_iso: hin

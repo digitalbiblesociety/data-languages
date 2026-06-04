@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غييوغ
     auto: true
+  - translation_iso: deu
+    name: Giyug
+    auto: true
   - translation_iso: fra
     name: giyug
   - translation_iso: hin

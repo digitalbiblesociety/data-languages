@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tawellemmet_language"
 translations:
   - translation_iso: ara
     name: تاولميت
+  - translation_iso: deu
+    name: Tawellemet
   - translation_iso: fra
     name: tawellemmet
   - translation_iso: hin

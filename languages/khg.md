@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة التبتية خام
     auto: true
+  - translation_iso: deu
+    name: Kham-Tibetisch
+    auto: true
   - translation_iso: fra
     name: tibétain khamké
   - translation_iso: hin

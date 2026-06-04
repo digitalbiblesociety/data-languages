@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونجورا
     auto: true
+  - translation_iso: deu
+    name: Songoora
+    auto: true
   - translation_iso: fra
     name: Songoora
     auto: true

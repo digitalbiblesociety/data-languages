@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشوغ
     auto: true
+  - translation_iso: deu
+    name: Chug
+    auto: true
   - translation_iso: fra
     name: chug
   - translation_iso: hin

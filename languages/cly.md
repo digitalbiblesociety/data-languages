@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الشاتينو الشرقي الأعلى
     auto: true
+  - translation_iso: deu
+    name: Östliches Hochland-Chatino
+    auto: true
   - translation_iso: fra
     name: chatino de la Sierra orientale
   - translation_iso: hin

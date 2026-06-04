@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أروا
     auto: true
+  - translation_iso: deu
+    name: Aruá
+    auto: true
   - translation_iso: fra
     name: arawá
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوي بوامو
     auto: true
+  - translation_iso: deu
+    name: Cwi Bwamu
+    auto: true
   - translation_iso: fra
     name: bwamu cwi
   - translation_iso: hin

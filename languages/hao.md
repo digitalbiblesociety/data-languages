@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآكö
     auto: true
+  - translation_iso: deu
+    name: Hakö
+    auto: true
   - translation_iso: fra
     name: hakö
   - translation_iso: hin

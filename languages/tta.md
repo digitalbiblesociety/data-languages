@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتيلو
     auto: true
+  - translation_iso: deu
+    name: Tutelo
+    auto: true
   - translation_iso: fra
     name: tutelo
   - translation_iso: hin

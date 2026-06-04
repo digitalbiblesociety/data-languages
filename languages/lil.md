@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lillooet_language"
 translations:
   - translation_iso: ara
     name: الليلويتية
+  - translation_iso: deu
+    name: Lillooet
   - translation_iso: fra
     name: "st'at'imcets"
   - translation_iso: hin

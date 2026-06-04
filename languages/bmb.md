@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيمبي
     auto: true
+  - translation_iso: deu
+    name: Bembe
+    auto: true
   - translation_iso: fra
     name: bembe
   - translation_iso: hin

@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Standard_Moroccan_Amazigh"
 translations:
   - translation_iso: ara
     name: الأمازيغية المعيارية المغربية
+  - translation_iso: deu
+    name: marokkanisches Amazigh
   - translation_iso: fra
     name: amazighe standard marocain
   - translation_iso: hin

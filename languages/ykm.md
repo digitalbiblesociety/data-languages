@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كاب
     auto: true
+  - translation_iso: deu
+    name: Kap
+    auto: true
   - translation_iso: fra
     name: yakamul
   - translation_iso: hin

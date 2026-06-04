@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو بابا
     auto: true
+  - translation_iso: deu
+    name: Baba-Malaiisch
+    auto: true
   - translation_iso: fra
     name: malais baba
   - translation_iso: hin

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كراهو
     auto: true
+  - translation_iso: deu
+    name: Krahô
+    auto: true
   - translation_iso: fra
     name: krahô
   - translation_iso: hin

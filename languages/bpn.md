@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زاو مين
     auto: true
+  - translation_iso: deu
+    name: Dzao Min
+    auto: true
   - translation_iso: fra
     name: dzao min
   - translation_iso: hin

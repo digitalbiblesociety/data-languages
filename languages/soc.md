@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سو (جمهورية الكونغو الديمقراطية)
     auto: true
+  - translation_iso: deu
+    name: So (Democratic Republic of Congo)
+    auto: true
   - translation_iso: fra
     name: So (République démocratique du Congo)
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رهامبو
     auto: true
+  - translation_iso: deu
+    name: Rahambuu
+    auto: true
   - translation_iso: fra
     name: rahambuu
   - translation_iso: hin

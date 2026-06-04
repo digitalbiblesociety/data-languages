@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داجو دار سيلا
     auto: true
+  - translation_iso: deu
+    name: Dar-Sila-Daju
+    auto: true
   - translation_iso: fra
     name: sila
   - translation_iso: hin

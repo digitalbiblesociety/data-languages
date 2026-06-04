@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاديّاوان
     auto: true
+  - translation_iso: deu
+    name: Tadyawan
+    auto: true
   - translation_iso: fra
     name: tadyawan
   - translation_iso: hin

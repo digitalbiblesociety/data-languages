@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بايونو
     auto: true
+  - translation_iso: deu
+    name: Bayono
+    auto: true
   - translation_iso: fra
     name: bayono
   - translation_iso: hin

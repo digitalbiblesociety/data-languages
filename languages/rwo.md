@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راوا
     auto: true
+  - translation_iso: deu
+    name: Rawa
+    auto: true
   - translation_iso: fra
     name: rawa
   - translation_iso: hin

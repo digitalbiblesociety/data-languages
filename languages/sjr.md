@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيار-لاك
     auto: true
+  - translation_iso: deu
+    name: Siar-Lak
+    auto: true
   - translation_iso: fra
     name: siar-lak
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جاتا
     auto: true
+  - translation_iso: deu
+    name: "Gata'"
+    auto: true
   - translation_iso: fra
     name: gta’
   - translation_iso: hin

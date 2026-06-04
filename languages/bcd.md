@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بابار الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nord-Babar
+    auto: true
   - translation_iso: fra
     name: Babar septentrional
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هاشا
     auto: true
+  - translation_iso: deu
+    name: Hasha
+    auto: true
   - translation_iso: fra
     name: hasha
   - translation_iso: hin

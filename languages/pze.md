@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيسي
     auto: true
+  - translation_iso: deu
+    name: Pesse
+    auto: true
   - translation_iso: fra
     name: Pesse
     auto: true

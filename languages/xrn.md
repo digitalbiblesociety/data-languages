@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: آرين
     auto: true
+  - translation_iso: deu
+    name: Arin
+    auto: true
   - translation_iso: fra
     name: arine
   - translation_iso: hin

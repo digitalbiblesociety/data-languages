@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: حومبوري سيني سونغاي
     auto: true
+  - translation_iso: deu
+    name: Humburi Senni
   - translation_iso: fra
     name: humburi senni
   - translation_iso: hin

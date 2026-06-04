@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسانزو
     auto: true
+  - translation_iso: deu
+    name: Isanzu
+    auto: true
   - translation_iso: fra
     name: isanzu
   - translation_iso: hin

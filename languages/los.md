@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ونيو
     auto: true
+  - translation_iso: deu
+    name: Loniu
+    auto: true
   - translation_iso: fra
     name: loniu
   - translation_iso: hin

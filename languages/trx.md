@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيداه ترينجوس سيمبان
     auto: true
+  - translation_iso: deu
+    name: Tringgus-Sembaan Bidayuh
+    auto: true
   - translation_iso: fra
     name: Bidayuh de Tringgus-Sembaan
     auto: true

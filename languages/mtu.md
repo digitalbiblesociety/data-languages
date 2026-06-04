@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك توتوتيبك
     auto: true
+  - translation_iso: deu
+    name: Tututepec-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: Mixtèque de Tututepec
     auto: true

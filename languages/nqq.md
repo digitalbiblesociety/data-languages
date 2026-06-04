@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيان-كاريو ناغا
     auto: true
+  - translation_iso: deu
+    name: Kyan-Karyaw-Naga
+    auto: true
   - translation_iso: fra
     name: naga kyan-karyaw
   - translation_iso: hin

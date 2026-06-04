@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإيفن
     auto: true
+  - translation_iso: deu
+    name: Ewenisch
   - translation_iso: fra
     name: évène
   - translation_iso: hin

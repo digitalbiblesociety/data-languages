@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فينسينتيان كريول إنجليزية
     auto: true
+  - translation_iso: deu
+    name: Vincentian Creole English
+    auto: true
   - translation_iso: fra
     name: Créole anglais vincentien
     auto: true

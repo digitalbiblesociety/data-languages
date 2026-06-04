@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: بيوثوك
     auto: true
+  - translation_iso: deu
+    name: Beothuk
+    auto: true
   - translation_iso: fra
     name: béothuk
   - translation_iso: hin

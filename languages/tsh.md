@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسوفان
     auto: true
+  - translation_iso: deu
+    name: Tsuvan
+    auto: true
   - translation_iso: fra
     name: tsuvan
   - translation_iso: hin

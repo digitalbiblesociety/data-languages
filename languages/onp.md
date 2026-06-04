@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سارتانغ
     auto: true
+  - translation_iso: deu
+    name: Sartang
+    auto: true
   - translation_iso: fra
     name: Sartang
     auto: true

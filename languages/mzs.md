@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماكايينسي
     auto: true
+  - translation_iso: deu
+    name: Macaista
   - translation_iso: fra
     name: patois macanais
   - translation_iso: hin

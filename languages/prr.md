@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوري
     auto: true
+  - translation_iso: deu
+    name: Puri
+    auto: true
   - translation_iso: fra
     name: Puri
     auto: true

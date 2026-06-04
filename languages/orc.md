@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورما
     auto: true
+  - translation_iso: deu
+    name: Orma
+    auto: true
   - translation_iso: fra
     name: orma
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أناّانج
     auto: true
+  - translation_iso: deu
+    name: Anaang
+    auto: true
   - translation_iso: fra
     name: anang
   - translation_iso: hin

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ganza_language"
 translations:
   - translation_iso: ara
     name: لغة جانزا
+  - translation_iso: deu
+    name: Ganza
+    auto: true
   - translation_iso: fra
     name: ganza
   - translation_iso: hin

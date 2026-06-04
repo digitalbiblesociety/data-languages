@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مين بي الصينية
     auto: true
+  - translation_iso: deu
+    name: Min Bei
   - translation_iso: fra
     name: minbei
   - translation_iso: hin

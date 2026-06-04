@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إبواورو
     auto: true
+  - translation_iso: deu
+    name: Ibuoro
+    auto: true
   - translation_iso: fra
     name: ibuoro
   - translation_iso: hin

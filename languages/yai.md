@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ياجنوبي
     auto: true
+  - translation_iso: deu
+    name: Jaghnobi
   - translation_iso: fra
     name: yaghnobi
   - translation_iso: hin

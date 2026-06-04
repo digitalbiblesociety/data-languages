@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة لانغي
     auto: true
+  - translation_iso: deu
+    name: "Lang'e"
+    auto: true
   - translation_iso: fra
     name: "lang'e"
   - translation_iso: hin

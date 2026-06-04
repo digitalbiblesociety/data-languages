@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tuscarora_language"
 translations:
   - translation_iso: ara
     name: توسكارورا
+  - translation_iso: deu
+    name: Tuscarora
   - translation_iso: fra
     name: tuscarora
   - translation_iso: hin

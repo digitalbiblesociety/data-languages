@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تيتا
     auto: true
+  - translation_iso: deu
+    name: Tita
+    auto: true
   - translation_iso: fra
     name: Tita
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيبسيجيس
     auto: true
+  - translation_iso: deu
+    name: Kipsigis
+    auto: true
   - translation_iso: fra
     name: kipsikis
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبتيابا
     auto: true
+  - translation_iso: deu
+    name: Subtiaba
+    auto: true
   - translation_iso: fra
     name: Subtiaba
     auto: true

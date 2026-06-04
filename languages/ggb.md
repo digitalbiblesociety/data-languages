@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غبيي
     auto: true
+  - translation_iso: deu
+    name: Gbii
+    auto: true
   - translation_iso: fra
     name: gbii
   - translation_iso: hin

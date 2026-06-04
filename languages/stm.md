@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيتامان
     auto: true
+  - translation_iso: deu
+    name: Setaman
+    auto: true
   - translation_iso: fra
     name: setaman
   - translation_iso: hin

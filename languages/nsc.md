@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نشي
     auto: true
+  - translation_iso: deu
+    name: Nshi
+    auto: true
   - translation_iso: fra
     name: nshi
   - translation_iso: hin

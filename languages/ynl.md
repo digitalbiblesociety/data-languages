@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يانغولام
     auto: true
+  - translation_iso: deu
+    name: Yangulam
+    auto: true
   - translation_iso: fra
     name: Yangulam
     auto: true

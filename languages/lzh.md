@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Classical_Chinese"
 translations:
   - translation_iso: ara
     name: الصينية الكلاسيكية
+  - translation_iso: deu
+    name: klassisches Chinesisch
   - translation_iso: fra
     name: chinois classique
   - translation_iso: hin

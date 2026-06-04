@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تول
     auto: true
+  - translation_iso: deu
+    name: Tol
+    auto: true
   - translation_iso: fra
     name: jicaque de la Flor
   - translation_iso: hin

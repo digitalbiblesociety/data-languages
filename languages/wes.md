@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بدجن كاميرون
     auto: true
+  - translation_iso: deu
+    name: Kamtok
   - translation_iso: fra
     name: pidgin camerounais
   - translation_iso: hin

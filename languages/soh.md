@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أكا
     auto: true
+  - translation_iso: deu
+    name: Aka
+    auto: true
   - translation_iso: fra
     name: sillok
   - translation_iso: hin

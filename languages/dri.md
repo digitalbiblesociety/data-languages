@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيليلا
     auto: true
+  - translation_iso: deu
+    name: "C'Lela"
+    auto: true
   - translation_iso: fra
     name: "C'Lela"
     auto: true

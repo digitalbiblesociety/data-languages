@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيماسكالتيبيك ناهواتل
     auto: true
+  - translation_iso: deu
+    name: Temascaltepec-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl du Temascaltepec
   - translation_iso: hin

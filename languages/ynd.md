@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياندروواندا
     auto: true
+  - translation_iso: deu
+    name: Yandruwandha
+    auto: true
   - translation_iso: fra
     name: yandruwandha
   - translation_iso: hin

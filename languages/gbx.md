@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: زولا جبي الشرقية
     auto: true
+  - translation_iso: deu
+    name: Östliches Xwla Gbe
+    auto: true
   - translation_iso: fra
     name: "gbe xwla de l'Est"
   - translation_iso: hin

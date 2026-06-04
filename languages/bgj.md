@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بانجولان
     auto: true
+  - translation_iso: deu
+    name: Bangolan
   - translation_iso: fra
     name: bangolan
   - translation_iso: hin

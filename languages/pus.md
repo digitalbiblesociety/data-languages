@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pashto"
 translations:
   - translation_iso: ara
     name: البشتوية
+  - translation_iso: deu
+    name: Paschtu
   - translation_iso: fra
     name: pachto
   - translation_iso: hin

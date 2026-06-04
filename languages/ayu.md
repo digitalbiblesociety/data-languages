@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيو
     auto: true
+  - translation_iso: deu
+    name: Ayu
   - translation_iso: fra
     name: ayu
   - translation_iso: hin

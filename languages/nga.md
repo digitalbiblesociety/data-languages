@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجبكا
     auto: true
+  - translation_iso: deu
+    name: Ngbaka
   - translation_iso: fra
     name: ngbaka minangende
   - translation_iso: hin

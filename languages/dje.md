@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zarma_language"
 translations:
   - translation_iso: ara
     name: لغة زرمة
+  - translation_iso: deu
+    name: Zarma
   - translation_iso: fra
     name: zarma
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بجان
     auto: true
+  - translation_iso: deu
+    name: Bajan
+    auto: true
   - translation_iso: fra
     name: créole barbadien
   - translation_iso: hin

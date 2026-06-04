@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باري
     auto: true
+  - translation_iso: deu
+    name: Pare
+    auto: true
   - translation_iso: fra
     name: Pare
     auto: true

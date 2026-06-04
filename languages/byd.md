@@ -18,8 +18,11 @@ translations:
   - translation_iso: ara
     name: بينيادو
     auto: true
+  - translation_iso: deu
+    name: "Benyadu'"
+    auto: true
   - translation_iso: fra
-    name: "benyadu'"
+    name: benyadu
   - translation_iso: hin
     name: बेन्यादु
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بينتش
     auto: true
+  - translation_iso: deu
+    name: Bench
   - translation_iso: fra
     name: gimira
   - translation_iso: hin

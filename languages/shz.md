@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: اللغة السينارا سينوفو
     auto: true
+  - translation_iso: deu
+    name: Schenara
   - translation_iso: fra
     name: syenara
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جفوكو
     auto: true
+  - translation_iso: deu
+    name: Gvoko
+    auto: true
   - translation_iso: fra
     name: gvoko
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ونججا
     auto: true
+  - translation_iso: deu
+    name: Lungga
+    auto: true
   - translation_iso: fra
     name: lungga
   - translation_iso: hin

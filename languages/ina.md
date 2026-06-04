@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Interlingua"
 translations:
   - translation_iso: ara
     name: إنترلنغوا
+  - translation_iso: deu
+    name: Interlingua
   - translation_iso: fra
     name: interlingua
   - translation_iso: hin

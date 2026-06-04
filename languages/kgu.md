@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوبول
     auto: true
+  - translation_iso: deu
+    name: Kobol
+    auto: true
   - translation_iso: fra
     name: Kobol
     auto: true

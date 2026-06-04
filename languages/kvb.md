@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوبو
     auto: true
+  - translation_iso: deu
+    name: Kubu
   - translation_iso: fra
     name: kubu
   - translation_iso: hin

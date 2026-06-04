@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Andalusi_Romance"
 translations:
   - translation_iso: ara
     name: المستعربية
+  - translation_iso: deu
+    name: Mozarabisch
   - translation_iso: fra
     name: mozarabe
   - translation_iso: hin

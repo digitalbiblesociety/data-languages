@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: مينكين
     auto: true
+  - translation_iso: deu
+    name: Minkin
+    auto: true
   - translation_iso: fra
     name: Minkin
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Acehnese_language"
 translations:
   - translation_iso: ara
     name: الآتشيهية
+  - translation_iso: deu
+    name: Achinesisch
   - translation_iso: fra
     name: acehnais
   - translation_iso: hin

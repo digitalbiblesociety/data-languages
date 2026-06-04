@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وفو
     auto: true
+  - translation_iso: deu
+    name: Lufu
   - translation_iso: fra
     name: lufu
   - translation_iso: hin

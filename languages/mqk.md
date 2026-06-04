@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتوبو راجا كابونسوان
     auto: true
+  - translation_iso: deu
+    name: Rajah-Kabunsuwan-Manobo
+    auto: true
   - translation_iso: fra
     name: manobo rajah kabunsuwan
   - translation_iso: hin

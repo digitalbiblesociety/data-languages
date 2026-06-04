@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واكونا
     auto: true
+  - translation_iso: deu
+    name: Wakoná
+    auto: true
   - translation_iso: fra
     name: Wakoná
     auto: true

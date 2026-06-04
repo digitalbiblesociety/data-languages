@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأسترالية الأصلية
     auto: true
+  - translation_iso: deu
+    name: Gebärdensprachen der Aborigines
   - translation_iso: fra
     name: langue des signes aborigène australienne
   - translation_iso: hin

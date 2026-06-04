@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أجونا
     auto: true
+  - translation_iso: deu
+    name: Aguna
   - translation_iso: fra
     name: aguna
   - translation_iso: hin

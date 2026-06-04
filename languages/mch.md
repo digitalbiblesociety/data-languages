@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكويريتاري
     auto: true
+  - translation_iso: deu
+    name: Maquiritari
+    auto: true
   - translation_iso: fra
     name: maquiritari
   - translation_iso: hin

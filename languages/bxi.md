@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: پيرْلاتاپا
     auto: true
+  - translation_iso: deu
+    name: Pirlatapa
+    auto: true
   - translation_iso: fra
     name: pirlatapa
   - translation_iso: hin

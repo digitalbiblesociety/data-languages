@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: إير
     auto: true
+  - translation_iso: deu
+    name: Ir
+    auto: true
   - translation_iso: fra
     name: ir
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Parthian_language"
 translations:
   - translation_iso: ara
     name: لغة فرثية
+  - translation_iso: deu
+    name: Parthisch
   - translation_iso: fra
     name: parthe
   - translation_iso: hin

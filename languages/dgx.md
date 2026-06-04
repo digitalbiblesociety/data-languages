@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوجورو
     auto: true
+  - translation_iso: deu
+    name: Doghoro
+    auto: true
   - translation_iso: fra
     name: Doghoro
     auto: true

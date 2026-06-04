@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Komi-Permyak_language"
 translations:
   - translation_iso: ara
     name: بيرمياك
+  - translation_iso: deu
+    name: Komi-Permjakisch
   - translation_iso: fra
     name: komi-permiak
   - translation_iso: hin

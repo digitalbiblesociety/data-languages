@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأوسيتية القديمة
     auto: true
+  - translation_iso: deu
+    name: Altossetisch
   - translation_iso: fra
     name: Ossète ancien
     auto: true

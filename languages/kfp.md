@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كورا
     auto: true
+  - translation_iso: deu
+    name: Korwa
+    auto: true
   - translation_iso: fra
     name: korwa
   - translation_iso: hin

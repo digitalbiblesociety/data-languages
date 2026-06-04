@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ماهو
     auto: true
+  - translation_iso: deu
+    name: Mahou
+    auto: true
   - translation_iso: fra
     name: mahou
   - translation_iso: hin

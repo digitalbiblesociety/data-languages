@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بوم
     auto: true
+  - translation_iso: deu
+    name: Bum
   - translation_iso: fra
     name: bum
   - translation_iso: hin

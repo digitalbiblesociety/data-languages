@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كويا
     auto: true
+  - translation_iso: deu
+    name: Kuya
   - translation_iso: fra
     name: sokuya
   - translation_iso: hin

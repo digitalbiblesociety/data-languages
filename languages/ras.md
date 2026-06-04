@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيجالي
     auto: true
+  - translation_iso: deu
+    name: Taqali
   - translation_iso: fra
     name: tegali
   - translation_iso: hin

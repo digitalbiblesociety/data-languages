@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورا
     auto: true
+  - translation_iso: deu
+    name: Ura (Vanuatu)
+    auto: true
   - translation_iso: fra
     name: ura
   - translation_iso: hin

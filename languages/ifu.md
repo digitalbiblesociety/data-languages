@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مايوياو إيفوغاو
     auto: true
+  - translation_iso: deu
+    name: Mayoyao-Ifugao
+    auto: true
   - translation_iso: fra
     name: mayoyao
   - translation_iso: hin

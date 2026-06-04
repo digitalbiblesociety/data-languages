@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بارويي
     auto: true
+  - translation_iso: deu
+    name: Barwe
   - translation_iso: fra
     name: barwe
   - translation_iso: hin

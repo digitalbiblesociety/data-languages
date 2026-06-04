@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوريسيمينيو
     auto: true
+  - translation_iso: deu
+    name: Purisimeño
+    auto: true
   - translation_iso: fra
     name: chumash purisimeño
   - translation_iso: hin

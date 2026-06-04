@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: نورا
     auto: true
+  - translation_iso: deu
+    name: Norra
+    auto: true
   - translation_iso: fra
     name: nora
   - translation_iso: hin

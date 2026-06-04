@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يوجور الغربية
     auto: true
+  - translation_iso: deu
+    name: West-Yugurisch
   - translation_iso: fra
     name: yugur occidental
   - translation_iso: hin

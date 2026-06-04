@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باو بيدايوه
     auto: true
+  - translation_iso: deu
+    name: Bau-Bidayuh
+    auto: true
   - translation_iso: fra
     name: bau bidayuh
   - translation_iso: hin

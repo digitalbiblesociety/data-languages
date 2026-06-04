@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوانجالي
     auto: true
+  - translation_iso: deu
+    name: RuKwangali
   - translation_iso: fra
     name: kwangali
   - translation_iso: hin

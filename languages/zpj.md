@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك كويافيكوزاس
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Quiavicuzas)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Quiavicuzas
   - translation_iso: hin

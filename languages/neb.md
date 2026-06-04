@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توورا
     auto: true
+  - translation_iso: deu
+    name: Toura (Elfenbeinküste)
+    auto: true
   - translation_iso: fra
     name: toura
   - translation_iso: hin

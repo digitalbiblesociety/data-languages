@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماتلاتزينكا أتزينغو
     auto: true
+  - translation_iso: deu
+    name: Atzingo-Matlatzinca
+    auto: true
   - translation_iso: fra
     name: "matlatzinca d'Atzingo"
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رابتينج
     auto: true
+  - translation_iso: deu
+    name: Rapting
+    auto: true
   - translation_iso: fra
     name: Rapting
     auto: true

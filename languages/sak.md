@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سيك
     auto: true
+  - translation_iso: deu
+    name: Sake
   - translation_iso: fra
     name: saké
   - translation_iso: hin

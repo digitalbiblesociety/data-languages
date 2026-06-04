@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هاروي
     auto: true
+  - translation_iso: deu
+    name: Haroi
+    auto: true
   - translation_iso: fra
     name: haroi
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: واوياي
     auto: true
+  - translation_iso: deu
+    name: Wauyai
+    auto: true
   - translation_iso: fra
     name: wauyai
   - translation_iso: hin

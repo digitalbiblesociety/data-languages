@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مانجايات
     auto: true
+  - translation_iso: deu
+    name: Mangayat
   - translation_iso: fra
     name: mangaya
   - translation_iso: hin

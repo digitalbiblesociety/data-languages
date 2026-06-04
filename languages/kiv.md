@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيمبو
     auto: true
+  - translation_iso: deu
+    name: Kimbu
+    auto: true
   - translation_iso: fra
     name: kimbu
   - translation_iso: hin

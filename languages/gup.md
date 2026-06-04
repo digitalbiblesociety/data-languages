@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غونوينجغو
     auto: true
+  - translation_iso: deu
+    name: Gunwinggu
+    auto: true
   - translation_iso: fra
     name: gunwinggu
   - translation_iso: hin

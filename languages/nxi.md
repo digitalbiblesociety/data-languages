@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيندي
     auto: true
+  - translation_iso: deu
+    name: Nindi
+    auto: true
   - translation_iso: fra
     name: Nindi
     auto: true

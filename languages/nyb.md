@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نييانغبو
     auto: true
+  - translation_iso: deu
+    name: Nyangbo
   - translation_iso: fra
     name: nyangbo
   - translation_iso: hin

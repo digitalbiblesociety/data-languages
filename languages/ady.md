@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Adyghe_language"
 translations:
   - translation_iso: ara
     name: الأديغية
+  - translation_iso: deu
+    name: Adygeisch
   - translation_iso: fra
     name: adyguéen
   - translation_iso: hin

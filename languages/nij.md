@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: نجاجو
     auto: true
+  - translation_iso: deu
+    name: Ngaju
   - translation_iso: fra
     name: ngaju dayak
   - translation_iso: hin

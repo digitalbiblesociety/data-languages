@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة بورو الإندونيسية
     auto: true
+  - translation_iso: deu
+    name: Buru
   - translation_iso: fra
     name: buru
   - translation_iso: hin

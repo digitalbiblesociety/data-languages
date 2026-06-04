@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Koroshi_dialect"
 translations:
   - translation_iso: ara
     name: اللهجة الكوروشية
+  - translation_iso: deu
+    name: Koroshi
+    auto: true
   - translation_iso: fra
     name: koroshi
   - translation_iso: hin

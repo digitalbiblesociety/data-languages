@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كافيت
     auto: true
+  - translation_iso: deu
+    name: Kavet
+    auto: true
   - translation_iso: fra
     name: kravet
   - translation_iso: hin

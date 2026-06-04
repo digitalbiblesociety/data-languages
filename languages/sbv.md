@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: سابيني
     auto: true
+  - translation_iso: deu
+    name: Sabinische Sprache
   - translation_iso: fra
     name: Sabin
     auto: true

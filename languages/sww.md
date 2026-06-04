@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سووا
     auto: true
+  - translation_iso: deu
+    name: Sowa
+    auto: true
   - translation_iso: fra
     name: Sowa
     auto: true

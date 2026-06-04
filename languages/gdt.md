@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: كونجاردوتي
     auto: true
+  - translation_iso: deu
+    name: Kungardutyi
+    auto: true
   - translation_iso: fra
     name: kungardutyi
   - translation_iso: hin

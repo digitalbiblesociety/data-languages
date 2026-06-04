@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليسابتا-نونيالي
     auto: true
+  - translation_iso: deu
+    name: Lisabata-Nuniali
+    auto: true
   - translation_iso: fra
     name: Lisabata-Nuniali
     auto: true

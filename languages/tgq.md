@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ترينغ
     auto: true
+  - translation_iso: deu
+    name: Tring
+    auto: true
   - translation_iso: fra
     name: Tring
     auto: true

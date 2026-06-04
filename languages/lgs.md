@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة في غينيا بيساو
     auto: true
+  - translation_iso: deu
+    name: Guinea-bissauische Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: langue des signes bissau-guinéenne
   - translation_iso: hin

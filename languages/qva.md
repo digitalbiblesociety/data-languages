@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا أمبو-باسكو
     auto: true
+  - translation_iso: deu
+    name: Ambo-Pasco-Quechua
+    auto: true
   - translation_iso: fra
     name: quechua d’Ambo-Pasco
   - translation_iso: hin

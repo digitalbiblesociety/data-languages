@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dungan_language"
 translations:
   - translation_iso: ara
     name: لغة_الدونغان
+  - translation_iso: deu
+    name: Dunganisch
   - translation_iso: fra
     name: doungane
   - translation_iso: hin

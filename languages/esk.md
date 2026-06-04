@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإينوبياتون الأسكا الشمالية الغربية
     auto: true
+  - translation_iso: deu
+    name: Nordwestalaska-Inupiatun
+    auto: true
   - translation_iso: fra
     name: inupiaq de la péninsule de Seward
   - translation_iso: hin

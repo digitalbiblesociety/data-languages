@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوبونجكو
     auto: true
+  - translation_iso: deu
+    name: Bobongko
+    auto: true
   - translation_iso: fra
     name: bobongko
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: خوكيلا ميكسي
     auto: true
+  - translation_iso: deu
+    name: Juquila-Mixe
+    auto: true
   - translation_iso: fra
     name: mixe de Juquila
   - translation_iso: hin

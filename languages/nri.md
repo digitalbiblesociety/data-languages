@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشوكري ناغا
     auto: true
+  - translation_iso: deu
+    name: Chokri-Naga
+    auto: true
   - translation_iso: fra
     name: chokri
   - translation_iso: hin

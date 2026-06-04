@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nottoway_language"
 translations:
   - translation_iso: ara
     name: نوتوويي
+  - translation_iso: deu
+    name: Nottoway
   - translation_iso: fra
     name: nottoway
   - translation_iso: hin

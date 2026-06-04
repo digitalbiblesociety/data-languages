@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي دو
     auto: true
+  - translation_iso: deu
+    name: Tai Do
+    auto: true
   - translation_iso: fra
     name: taï yo
   - translation_iso: hin

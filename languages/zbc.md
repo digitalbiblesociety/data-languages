@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بيراوان الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentral-Berawan
+    auto: true
   - translation_iso: fra
     name: batu belah
   - translation_iso: hin

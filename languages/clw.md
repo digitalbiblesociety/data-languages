@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chulym_language"
 translations:
   - translation_iso: ara
     name: لغة التشوليم
+  - translation_iso: deu
+    name: Tschulymisch
   - translation_iso: fra
     name: tchoulym
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ميتشي
     auto: true
+  - translation_iso: deu
+    name: Miqie
+    auto: true
   - translation_iso: fra
     name: miqie
   - translation_iso: hin

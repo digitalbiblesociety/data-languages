@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كادار
     auto: true
+  - translation_iso: deu
+    name: Kadar
+    auto: true
   - translation_iso: fra
     name: Kadar
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تجوباني
     auto: true
+  - translation_iso: deu
+    name: Tjupany
+    auto: true
   - translation_iso: fra
     name: tjupany
   - translation_iso: hin

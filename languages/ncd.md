@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناشرينج
     auto: true
+  - translation_iso: deu
+    name: Nachering
+    auto: true
   - translation_iso: fra
     name: nachering
   - translation_iso: hin

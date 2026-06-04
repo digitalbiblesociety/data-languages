@@ -18,8 +18,10 @@ translations:
   - translation_iso: ara
     name: تشورتي
     auto: true
+  - translation_iso: deu
+    name: Chortí-Sprache
   - translation_iso: fra
-    name: "ch'orti'"
+    name: "ch'orti"
   - translation_iso: hin
     name: चोर्ती
     auto: true

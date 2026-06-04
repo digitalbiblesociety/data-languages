@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة افي
     auto: true
+  - translation_iso: deu
+    name: Lavi
+    auto: true
   - translation_iso: fra
     name: lawi
   - translation_iso: hin

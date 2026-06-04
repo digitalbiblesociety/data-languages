@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة السنتينيل
     auto: true
+  - translation_iso: deu
+    name: Sentinelesisch
   - translation_iso: fra
     name: sentinelle
   - translation_iso: hin

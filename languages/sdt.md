@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: شوديت
     auto: true
+  - translation_iso: deu
+    name: Judenprovenzalisch
   - translation_iso: fra
     name: shuadit
   - translation_iso: hin

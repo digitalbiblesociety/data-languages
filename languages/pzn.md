@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نجا بارا
     auto: true
+  - translation_iso: deu
+    name: Para-Naga
+    auto: true
   - translation_iso: fra
     name: naga para
   - translation_iso: hin

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: سوروجيا
     auto: true
+  - translation_iso: deu
+    name: Surgujia
+    auto: true
   - translation_iso: fra
     name: surgujia
   - translation_iso: hin

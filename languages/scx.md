@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Siculian"
 translations:
   - translation_iso: ara
     name: اللغة صقلية
+  - translation_iso: deu
+    name: Sikulisch
   - translation_iso: fra
     name: sicule
   - translation_iso: hin

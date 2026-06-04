@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونو
     auto: true
+  - translation_iso: deu
+    name: Ono
+    auto: true
   - translation_iso: fra
     name: Ono
     auto: true

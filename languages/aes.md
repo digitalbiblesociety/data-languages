@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة ألسي
     auto: true
+  - translation_iso: deu
+    name: Alsea
+    auto: true
   - translation_iso: fra
     name: alsea
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكو جووي
     auto: true
+  - translation_iso: deu
+    name: Oko-Juwoi
+    auto: true
   - translation_iso: fra
     name: Oko-Juwoi
     auto: true

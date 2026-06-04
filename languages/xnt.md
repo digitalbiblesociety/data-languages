@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Narragansett_language"
 translations:
   - translation_iso: ara
     name: ناراغانسيت
+  - translation_iso: deu
+    name: Narragansett-Sprache
   - translation_iso: fra
     name: narragansett
   - translation_iso: hin

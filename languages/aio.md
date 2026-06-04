@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيتون
     auto: true
+  - translation_iso: deu
+    name: Aiton
+    auto: true
   - translation_iso: fra
     name: aiton
   - translation_iso: hin

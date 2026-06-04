@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويست أويفيان
     auto: true
+  - translation_iso: deu
+    name: Westuveanisch
   - translation_iso: fra
     name: fagauvea
   - translation_iso: hin

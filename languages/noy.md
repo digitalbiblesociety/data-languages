@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نوي
     auto: true
+  - translation_iso: deu
+    name: Noy
   - translation_iso: fra
     name: noy
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيامية
     auto: true
+  - translation_iso: deu
+    name: Piame
+    auto: true
   - translation_iso: fra
     name: piame
   - translation_iso: hin

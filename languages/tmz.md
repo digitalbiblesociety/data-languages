@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تامانكو
     auto: true
+  - translation_iso: deu
+    name: Tamanaku
+    auto: true
   - translation_iso: fra
     name: tamanaku
   - translation_iso: hin

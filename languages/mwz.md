@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موينجي
     auto: true
+  - translation_iso: deu
+    name: Moingi
+    auto: true
   - translation_iso: fra
     name: moingi
   - translation_iso: hin

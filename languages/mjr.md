@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالافيدان
     auto: true
+  - translation_iso: deu
+    name: Malavedan
+    auto: true
   - translation_iso: fra
     name: malavedan
   - translation_iso: hin

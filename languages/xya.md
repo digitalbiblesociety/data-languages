@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يايجير
     auto: true
+  - translation_iso: deu
+    name: Yaygir
+    auto: true
   - translation_iso: fra
     name: yaygir
   - translation_iso: hin

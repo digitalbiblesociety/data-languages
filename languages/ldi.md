@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لاري
     auto: true
+  - translation_iso: deu
+    name: Laari
+    auto: true
   - translation_iso: fra
     name: lari
   - translation_iso: hin

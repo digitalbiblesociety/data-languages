@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثاكالي
     auto: true
+  - translation_iso: deu
+    name: Thakali
+    auto: true
   - translation_iso: fra
     name: thakali
   - translation_iso: hin

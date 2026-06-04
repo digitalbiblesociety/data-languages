@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وè سووثإرن
     auto: true
+  - translation_iso: deu
+    name: Südliches Wè
+    auto: true
   - translation_iso: fra
     name: guéré méridional
   - translation_iso: hin

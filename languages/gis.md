@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نورث غيزيغآ
     auto: true
+  - translation_iso: deu
+    name: Nördliches Giziga
+    auto: true
   - translation_iso: fra
     name: guiziga du Nord
   - translation_iso: hin

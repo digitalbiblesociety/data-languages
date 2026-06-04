@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Tutchone_language"
 translations:
   - translation_iso: ara
     name: التوتشون الجنوبية
+  - translation_iso: deu
+    name: Südliches Tutchone
   - translation_iso: fra
     name: tutchone du Sud
   - translation_iso: hin

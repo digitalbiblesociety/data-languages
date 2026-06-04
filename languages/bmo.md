@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بامبالانج
     auto: true
+  - translation_iso: deu
+    name: Bambalang
   - translation_iso: fra
     name: bambalang
   - translation_iso: hin

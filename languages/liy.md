@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اندا-امباري
     auto: true
+  - translation_iso: deu
+    name: Banda-Bambari
+    auto: true
   - translation_iso: fra
     name: Banda-Bambari
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سواو
     auto: true
+  - translation_iso: deu
+    name: Suau
+    auto: true
   - translation_iso: fra
     name: suau
   - translation_iso: hin

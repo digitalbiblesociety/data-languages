@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سيليبوت
     auto: true
+  - translation_iso: deu
+    name: Siliput
+    auto: true
   - translation_iso: fra
     name: siliput
   - translation_iso: hin

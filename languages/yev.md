@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يابوندا
     auto: true
+  - translation_iso: deu
+    name: Yapunda
+    auto: true
   - translation_iso: fra
     name: yapunda
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اهي
     auto: true
+  - translation_iso: deu
+    name: Pahi
+    auto: true
   - translation_iso: fra
     name: pahi
   - translation_iso: hin

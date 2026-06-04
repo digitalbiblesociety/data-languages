@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغوشي
     auto: true
+  - translation_iso: deu
+    name: Ngoshie
+    auto: true
   - translation_iso: fra
     name: ngoshie
   - translation_iso: hin

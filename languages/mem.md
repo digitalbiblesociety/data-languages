@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجالا
     auto: true
+  - translation_iso: deu
+    name: Mangala
+    auto: true
   - translation_iso: fra
     name: mangala
   - translation_iso: hin

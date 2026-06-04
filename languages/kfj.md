@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة كيميهوا
     auto: true
+  - translation_iso: deu
+    name: Kemiehua
+    auto: true
   - translation_iso: fra
     name: kemie
   - translation_iso: hin

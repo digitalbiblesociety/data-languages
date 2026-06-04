@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ياستيرن اوا
     auto: true
+  - translation_iso: deu
+    name: Eastern Lawa
+    auto: true
   - translation_iso: fra
     name: "lawa de l'Est"
   - translation_iso: hin

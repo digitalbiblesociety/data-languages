@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإمبلاواس
     auto: true
+  - translation_iso: deu
+    name: Emplawas
   - translation_iso: fra
     name: emplawas
   - translation_iso: hin

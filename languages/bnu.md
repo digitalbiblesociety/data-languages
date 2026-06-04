@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بينتونج
     auto: true
+  - translation_iso: deu
+    name: Bentong
   - translation_iso: fra
     name: Bentong
     auto: true

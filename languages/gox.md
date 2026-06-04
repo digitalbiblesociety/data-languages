@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غوبو
     auto: true
+  - translation_iso: deu
+    name: Gobu
+    auto: true
   - translation_iso: fra
     name: gobu
   - translation_iso: hin

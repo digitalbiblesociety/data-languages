@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تامانغ غوركها الشرقية
     auto: true
+  - translation_iso: deu
+    name: Eastern Gorkha Tamang
+    auto: true
   - translation_iso: fra
     name: "tamang de Gorkha de l'Est"
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايانوك-جونيونو
     auto: true
+  - translation_iso: deu
+    name: Gunyuño
   - translation_iso: fra
     name: baïnouk gujaher
   - translation_iso: hin

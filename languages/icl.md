@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأيسلندية
     auto: true
+  - translation_iso: deu
+    name: Isländische Gebärdensprache
   - translation_iso: fra
     name: langue des signes islandaise
   - translation_iso: hin

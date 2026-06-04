@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة خلولا
     auto: true
+  - translation_iso: deu
+    name: Khlula
+    auto: true
   - translation_iso: fra
     name: Khlula
     auto: true

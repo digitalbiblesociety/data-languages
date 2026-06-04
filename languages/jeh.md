@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيه
     auto: true
+  - translation_iso: deu
+    name: Jeh
+    auto: true
   - translation_iso: fra
     name: Jeh
     auto: true

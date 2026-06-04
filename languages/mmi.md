@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موسار
     auto: true
+  - translation_iso: deu
+    name: Musar
+    auto: true
   - translation_iso: fra
     name: Musar
     auto: true

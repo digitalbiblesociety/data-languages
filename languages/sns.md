@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة خليج الجنوب الغربي
     auto: true
+  - translation_iso: deu
+    name: South West Bay
+    auto: true
   - translation_iso: fra
     name: nahavaq
   - translation_iso: hin

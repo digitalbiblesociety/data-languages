@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوامي
     auto: true
+  - translation_iso: deu
+    name: Kwami
+    auto: true
   - translation_iso: fra
     name: kwami
   - translation_iso: hin

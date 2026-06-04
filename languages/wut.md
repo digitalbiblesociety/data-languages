@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووتونغ
     auto: true
+  - translation_iso: deu
+    name: Wutung
+    auto: true
   - translation_iso: fra
     name: wutung
   - translation_iso: hin

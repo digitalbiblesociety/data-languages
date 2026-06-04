@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثادو تشين
     auto: true
+  - translation_iso: deu
+    name: Thado Chin
+    auto: true
   - translation_iso: fra
     name: thado
   - translation_iso: hin

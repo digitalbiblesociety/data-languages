@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: لغة يكي-االي
     auto: true
+  - translation_iso: deu
+    name: Teke-Laali
   - translation_iso: fra
     name: teke-laali
   - translation_iso: hin

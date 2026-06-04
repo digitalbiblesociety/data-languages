@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لودهي
     auto: true
+  - translation_iso: deu
+    name: Lodhi
+    auto: true
   - translation_iso: fra
     name: Lodhi
     auto: true

@@ -17,6 +17,8 @@ glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid 
 translations:
   - translation_iso: ara
     name: الفونجو
+  - translation_iso: deu
+    name: Vunjo
   - translation_iso: fra
     name: vunjo
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نوسوب الأدنى
     auto: true
+  - translation_iso: deu
+    name: Nieder-Nossob
   - translation_iso: fra
     name: bas nossob
   - translation_iso: hin

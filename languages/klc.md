@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كولبيلا
     auto: true
+  - translation_iso: deu
+    name: Kolbila
+    auto: true
   - translation_iso: fra
     name: kolbila
   - translation_iso: hin

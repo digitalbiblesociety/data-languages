@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا تشيكيان أنكاش
     auto: true
+  - translation_iso: deu
+    name: Chiquián-Ancash-Quechua
+    auto: true
   - translation_iso: fra
     name: Quechua de Chiquián (Ancash)
     auto: true

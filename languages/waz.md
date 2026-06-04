@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: وامبور
     auto: true
+  - translation_iso: deu
+    name: Wampur
+    auto: true
   - translation_iso: fra
     name: Wampur
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تريغامي
     auto: true
+  - translation_iso: deu
+    name: Tregami
+    auto: true
   - translation_iso: fra
     name: tregami
   - translation_iso: hin

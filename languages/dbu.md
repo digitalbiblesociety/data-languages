@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوندوم دوم دوجون
     auto: true
+  - translation_iso: deu
+    name: Bondum Dom Dogon
+    auto: true
   - translation_iso: fra
     name: bondum dom
   - translation_iso: hin

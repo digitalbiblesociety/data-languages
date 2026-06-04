@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاو تسون
     auto: true
+  - translation_iso: deu
+    name: "Ts'ün-Lao"
+    auto: true
   - translation_iso: fra
     name: "Ts'ün-Lao"
     auto: true

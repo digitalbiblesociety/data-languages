@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبولا
     auto: true
+  - translation_iso: deu
+    name: Mbula
+    auto: true
   - translation_iso: fra
     name: mbula
   - translation_iso: hin

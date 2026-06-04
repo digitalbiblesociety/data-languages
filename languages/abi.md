@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أبيدجي
     auto: true
+  - translation_iso: deu
+    name: Abidschi
   - translation_iso: fra
     name: abidji
   - translation_iso: hin

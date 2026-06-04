@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيجاارا
     auto: true
+  - translation_iso: deu
+    name: Bidjara
+    auto: true
   - translation_iso: fra
     name: bidjara
   - translation_iso: hin

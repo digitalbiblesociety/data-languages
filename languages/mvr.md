@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماراو
     auto: true
+  - translation_iso: deu
+    name: Marau
+    auto: true
   - translation_iso: fra
     name: Marau
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسي ناغا
     auto: true
+  - translation_iso: deu
+    name: Tase-Naga
+    auto: true
   - translation_iso: fra
     name: tangsa
   - translation_iso: hin

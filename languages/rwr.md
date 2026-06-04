@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مارواري
     auto: true
+  - translation_iso: deu
+    name: Marwari (Indien)
+    auto: true
   - translation_iso: fra
     name: marvari
   - translation_iso: hin

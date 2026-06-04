@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيريبو
     auto: true
+  - translation_iso: deu
+    name: Terebu
+    auto: true
   - translation_iso: fra
     name: Terebu
     auto: true

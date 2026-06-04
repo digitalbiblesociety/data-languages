@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيغامبال
     auto: true
+  - translation_iso: deu
+    name: Bigambal
+    auto: true
   - translation_iso: fra
     name: bigambal
   - translation_iso: hin

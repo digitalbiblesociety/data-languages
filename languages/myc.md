@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: مايكا
     auto: true
+  - translation_iso: deu
+    name: Mayeka
+    auto: true
   - translation_iso: fra
     name: mayeka
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أبون
     auto: true
+  - translation_iso: deu
+    name: Abon
   - translation_iso: fra
     name: abon
   - translation_iso: hin

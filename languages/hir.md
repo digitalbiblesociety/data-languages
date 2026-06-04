@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هيماريما
     auto: true
+  - translation_iso: deu
+    name: Himarimã
+    auto: true
   - translation_iso: fra
     name: Himarimã
     auto: true

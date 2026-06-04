@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة فراي پو كارين
     auto: true
+  - translation_iso: deu
+    name: Phrae Pwo Karen
+    auto: true
   - translation_iso: fra
     name: pwo phrae
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خيغوي
     auto: true
+  - translation_iso: deu
+    name: ǁXegwi
+    auto: true
   - translation_iso: fra
     name: ǁXegwi
     auto: true

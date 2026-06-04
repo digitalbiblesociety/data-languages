@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاردل
     auto: true
+  - translation_iso: deu
+    name: Lardil
+    auto: true
   - translation_iso: fra
     name: lardil
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سووتهيرن تووسسيان
     auto: true
+  - translation_iso: deu
+    name: Süd-Toussian
+    auto: true
   - translation_iso: fra
     name: toussian du Sud
   - translation_iso: hin

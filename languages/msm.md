@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أجوسان مانوبو
     auto: true
+  - translation_iso: deu
+    name: Agusan-Manobo
+    auto: true
   - translation_iso: fra
     name: manobo agusan
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة و-وكول
     auto: true
+  - translation_iso: deu
+    name: Bo-Rukul
   - translation_iso: fra
     name: bo-rukul
   - translation_iso: hin

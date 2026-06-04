@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nanticoke_language"
 translations:
   - translation_iso: ara
     name: نانتيكوك
+  - translation_iso: deu
+    name: Nanticoke
+    auto: true
   - translation_iso: fra
     name: nanticoke
   - translation_iso: hin

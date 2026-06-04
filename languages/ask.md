@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أشكون
     auto: true
+  - translation_iso: deu
+    name: Ashkun
   - translation_iso: fra
     name: ashkun
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سانجا
     auto: true
+  - translation_iso: deu
+    name: Sanga (Nigeria)
+    auto: true
   - translation_iso: fra
     name: sanga
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ewondo_language"
 translations:
   - translation_iso: ara
     name: الإيوندو
+  - translation_iso: deu
+    name: Ewondo
   - translation_iso: fra
     name: ewondo
   - translation_iso: hin

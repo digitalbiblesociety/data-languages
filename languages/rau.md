@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راوتي
     auto: true
+  - translation_iso: deu
+    name: Raute
+    auto: true
   - translation_iso: fra
     name: raute
   - translation_iso: hin

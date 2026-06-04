@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي تيموايا
     auto: true
+  - translation_iso: deu
+    name: Temoaya-Otomí
+    auto: true
   - translation_iso: fra
     name: otomi de Temoaya
   - translation_iso: hin

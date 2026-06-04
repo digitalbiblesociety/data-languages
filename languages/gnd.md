@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زولغو-غإمزإك
     auto: true
+  - translation_iso: deu
+    name: Zulgo-Gemzek
+    auto: true
   - translation_iso: fra
     name: zulgo
   - translation_iso: hin

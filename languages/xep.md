@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: يپيولميك
     auto: true
+  - translation_iso: deu
+    name: Epi-Olmekisch
+    auto: true
   - translation_iso: fra
     name: Épi-olmèque
     auto: true

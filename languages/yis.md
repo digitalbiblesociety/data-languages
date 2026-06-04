@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ييس
     auto: true
+  - translation_iso: deu
+    name: Yis
+    auto: true
   - translation_iso: fra
     name: yis
   - translation_iso: hin

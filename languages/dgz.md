@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داجا
     auto: true
+  - translation_iso: deu
+    name: Daga
+    auto: true
   - translation_iso: fra
     name: daga
   - translation_iso: hin

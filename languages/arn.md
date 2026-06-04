@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mapudungun"
 translations:
   - translation_iso: ara
     name: لغة مابوتشي
+  - translation_iso: deu
+    name: Mapudungun
   - translation_iso: fra
     name: mapudungun
   - translation_iso: hin

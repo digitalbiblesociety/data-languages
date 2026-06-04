@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Western_Ojibwa_language"
 translations:
   - translation_iso: ara
     name: الأوجيبوا الغربية
+  - translation_iso: deu
+    name: West-Ojibwe
   - translation_iso: fra
     name: saulteaux
   - translation_iso: hin

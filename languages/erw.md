@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإروكوانس
     auto: true
+  - translation_iso: deu
+    name: Erokwanas
+    auto: true
   - translation_iso: fra
     name: erokwanas
   - translation_iso: hin

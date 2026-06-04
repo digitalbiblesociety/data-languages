@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوني الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Nuni
+    auto: true
   - translation_iso: fra
     name: nuni du Nord
   - translation_iso: hin

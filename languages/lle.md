@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يلي
     auto: true
+  - translation_iso: deu
+    name: Lele (Papua-Neuguinea)
+    auto: true
   - translation_iso: fra
     name: lele
   - translation_iso: hin

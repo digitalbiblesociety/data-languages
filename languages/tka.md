@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توركا
     auto: true
+  - translation_iso: deu
+    name: Truká
+    auto: true
   - translation_iso: fra
     name: Truká
     auto: true

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jin_Chinese"
 translations:
   - translation_iso: ara
     name: جين الصينية (لغة)
+  - translation_iso: deu
+    name: Jin
   - translation_iso: fra
     name: jinyu
   - translation_iso: hin

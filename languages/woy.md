@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وييتو
     auto: true
+  - translation_iso: deu
+    name: Weyto
+    auto: true
   - translation_iso: fra
     name: Weyto
     auto: true

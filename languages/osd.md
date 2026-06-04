@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأوسيتية ديجور
     auto: true
+  - translation_iso: deu
+    name: Digor-Ossetisch
+    auto: true
   - translation_iso: fra
     name: digor
   - translation_iso: hin

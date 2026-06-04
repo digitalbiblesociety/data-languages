@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماري
     auto: true
+  - translation_iso: deu
+    name: Mari (Provinz Madang)
+    auto: true
   - translation_iso: fra
     name: mari
   - translation_iso: hin

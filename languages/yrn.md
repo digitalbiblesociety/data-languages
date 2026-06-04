@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يرونج
     auto: true
+  - translation_iso: deu
+    name: Yerong
+    auto: true
   - translation_iso: fra
     name: yerong
   - translation_iso: hin

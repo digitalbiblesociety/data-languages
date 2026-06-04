@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كارناي
     auto: true
+  - translation_iso: deu
+    name: Karnai
+    auto: true
   - translation_iso: fra
     name: Karnai
     auto: true

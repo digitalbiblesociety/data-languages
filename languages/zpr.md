@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتياغو كسانيكا
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Santiago Xanica)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Santiago Xanica
   - translation_iso: hin

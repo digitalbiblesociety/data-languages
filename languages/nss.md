@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نالي
     auto: true
+  - translation_iso: deu
+    name: Nali
+    auto: true
   - translation_iso: fra
     name: nali
   - translation_iso: hin

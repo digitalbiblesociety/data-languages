@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Assamese_language"
 translations:
   - translation_iso: ara
     name: الآسامية
+  - translation_iso: deu
+    name: Assamesisch
   - translation_iso: fra
     name: assamais
   - translation_iso: hin

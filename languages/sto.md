@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ستوني
     auto: true
+  - translation_iso: deu
+    name: Stoney
+    auto: true
   - translation_iso: fra
     name: stoney
   - translation_iso: hin

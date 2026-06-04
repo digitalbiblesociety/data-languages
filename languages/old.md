@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة موتشي
     auto: true
+  - translation_iso: deu
+    name: Mochi
+    auto: true
   - translation_iso: fra
     name: Mochi
   - translation_iso: hin

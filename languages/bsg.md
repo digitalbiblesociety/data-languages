@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bashkardi_language"
 translations:
   - translation_iso: ara
     name: لغة باشكاردي
+  - translation_iso: deu
+    name: Bashkardi
   - translation_iso: fra
     name: bashkardi
   - translation_iso: hin

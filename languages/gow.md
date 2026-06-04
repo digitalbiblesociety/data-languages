@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غورووآ
     auto: true
+  - translation_iso: deu
+    name: Gorowa
   - translation_iso: fra
     name: Gorowa
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوما
     auto: true
+  - translation_iso: deu
+    name: Ouma
+    auto: true
   - translation_iso: fra
     name: ouma
   - translation_iso: hin

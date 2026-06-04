@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماريا
     auto: true
+  - translation_iso: deu
+    name: Maria (Papua New Guinea)
+    auto: true
   - translation_iso: fra
     name: maria
   - translation_iso: hin

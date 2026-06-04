@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kpelle_language"
 translations:
   - translation_iso: ara
     name: الكبيل
+  - translation_iso: deu
+    name: Kpelle
   - translation_iso: fra
     name: kpèllé
   - translation_iso: hin

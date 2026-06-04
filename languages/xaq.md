@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aquitanian_language"
 translations:
   - translation_iso: ara
     name: اللغة الأقطانية
+  - translation_iso: deu
+    name: Aquitanisch
   - translation_iso: fra
     name: aquitain
   - translation_iso: hin

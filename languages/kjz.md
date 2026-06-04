@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بومثانجخا
     auto: true
+  - translation_iso: deu
+    name: Bumthangkha
+    auto: true
   - translation_iso: fra
     name: bumthang
   - translation_iso: hin

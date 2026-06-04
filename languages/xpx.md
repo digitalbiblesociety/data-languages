@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني الجنوبية الغربية
     auto: true
+  - translation_iso: deu
+    name: Südwesttasmanisch
+    auto: true
   - translation_iso: fra
     name: toogee
   - translation_iso: hin

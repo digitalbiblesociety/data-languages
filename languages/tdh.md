@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: ثولونغ
     auto: true
+  - translation_iso: deu
+    name: Thulung
   - translation_iso: fra
     name: thulung
   - translation_iso: hin

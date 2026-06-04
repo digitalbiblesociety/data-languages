@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوكيت مالاي
     auto: true
+  - translation_iso: deu
+    name: Bukit Malay
+    auto: true
   - translation_iso: fra
     name: Malais Bukit
     auto: true

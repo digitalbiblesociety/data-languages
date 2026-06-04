@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشوانغ يونغنان
     auto: true
+  - translation_iso: deu
+    name: Yongnan-Zhuang
+    auto: true
   - translation_iso: fra
     name: zhuang de Yongnan
   - translation_iso: hin

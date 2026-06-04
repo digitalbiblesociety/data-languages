@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاو
     auto: true
+  - translation_iso: deu
+    name: Kao
+    auto: true
   - translation_iso: fra
     name: kao
   - translation_iso: hin

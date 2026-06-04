@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك سانتا لوسيا
     auto: true
+  - translation_iso: deu
+    name: Santa Lucía Monteverde Mixtec
+    auto: true
   - translation_iso: fra
     name: mixtèque de Santa Lucía Monteverde
   - translation_iso: hin

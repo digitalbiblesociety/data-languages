@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوساجادي
     auto: true
+  - translation_iso: deu
+    name: Usaghade
+    auto: true
   - translation_iso: fra
     name: usaghade
   - translation_iso: hin

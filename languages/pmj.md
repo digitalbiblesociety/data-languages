@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة بومي الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Südliches Pumi
+    auto: true
   - translation_iso: fra
     name: primi méridional
   - translation_iso: hin

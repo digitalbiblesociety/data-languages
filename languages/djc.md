@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دار داجو داجو
     auto: true
+  - translation_iso: deu
+    name: Dar Daju Daju
+    auto: true
   - translation_iso: fra
     name: dadjo
   - translation_iso: hin

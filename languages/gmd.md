@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مáغدì
     auto: true
+  - translation_iso: deu
+    name: Mághdì
+    auto: true
   - translation_iso: fra
     name: maghdi
   - translation_iso: hin

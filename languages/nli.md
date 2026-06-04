@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غرانغالي
     auto: true
+  - translation_iso: deu
+    name: Grangali
+    auto: true
   - translation_iso: fra
     name: grangali
   - translation_iso: hin

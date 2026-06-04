@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوكو بابانغك
     auto: true
+  - translation_iso: deu
+    name: Koko Babangk
+    auto: true
   - translation_iso: fra
     name: koko babangk
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الطاعة السفلى
     auto: true
+  - translation_iso: deu
+    name: "Lower Ta'oih"
+    auto: true
   - translation_iso: fra
     name: ta’oih inférieur
   - translation_iso: hin

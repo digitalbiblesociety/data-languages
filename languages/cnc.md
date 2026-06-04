@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوونغ
     auto: true
+  - translation_iso: deu
+    name: Côông
+    auto: true
   - translation_iso: fra
     name: côông
   - translation_iso: hin

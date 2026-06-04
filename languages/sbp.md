@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sangu_language_(Tanzania)"
 translations:
   - translation_iso: ara
     name: سانغو
+  - translation_iso: deu
+    name: Sangu
   - translation_iso: fra
     name: sangu
   - translation_iso: hin

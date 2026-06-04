@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تسيكيمبا
     auto: true
+  - translation_iso: deu
+    name: Tsikimba
+    auto: true
   - translation_iso: fra
     name: Tsikimba
     auto: true

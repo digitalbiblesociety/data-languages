@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: منتيل
     auto: true
+  - translation_iso: deu
+    name: Mintil
+    auto: true
   - translation_iso: fra
     name: mintil
   - translation_iso: hin

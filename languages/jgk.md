@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة غواك
     auto: true
+  - translation_iso: deu
+    name: Gwak
+    auto: true
   - translation_iso: fra
     name: gwak
   - translation_iso: hin

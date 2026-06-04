@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوجا
     auto: true
+  - translation_iso: deu
+    name: Boga
+    auto: true
   - translation_iso: fra
     name: boga
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة بييب
     auto: true
+  - translation_iso: deu
+    name: Byep
   - translation_iso: fra
     name: byep
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الأدب الكايكافياني
     auto: true
+  - translation_iso: deu
+    name: Kajkavisch
   - translation_iso: fra
     name: kaïkavien
   - translation_iso: hin

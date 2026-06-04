@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بواتو
     auto: true
+  - translation_iso: deu
+    name: Bwatoo
+    auto: true
   - translation_iso: fra
     name: bwatoo
   - translation_iso: hin

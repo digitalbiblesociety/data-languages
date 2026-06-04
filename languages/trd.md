@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توري
     auto: true
+  - translation_iso: deu
+    name: Turi
+    auto: true
   - translation_iso: fra
     name: turi
   - translation_iso: hin

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيرلندية بدائية
     auto: true
+  - translation_iso: deu
+    name: Uririsch
+    auto: true
   - translation_iso: fra
     name: vieil irlandais archaïque
   - translation_iso: hin

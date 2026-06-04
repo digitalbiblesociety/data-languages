@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مادك
     auto: true
+  - translation_iso: deu
+    name: Madak
+    auto: true
   - translation_iso: fra
     name: madak
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة جاير أويو
     auto: true
+  - translation_iso: deu
+    name: Jair-Awyu
+    auto: true
   - translation_iso: fra
     name: aghu de Jair
   - translation_iso: hin

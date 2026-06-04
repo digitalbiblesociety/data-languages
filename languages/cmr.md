@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإم‌رو-خيمي تشين
     auto: true
+  - translation_iso: deu
+    name: Mro-Khimi-Chin
+    auto: true
   - translation_iso: fra
     name: Chin Mro-Khimi
     auto: true

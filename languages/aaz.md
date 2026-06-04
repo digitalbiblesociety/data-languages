@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أماراسي
     auto: true
+  - translation_iso: deu
+    name: Amarasi
+    auto: true
   - translation_iso: fra
     name: amarasi
   - translation_iso: hin

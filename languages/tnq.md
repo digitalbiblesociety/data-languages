@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تايينو
     auto: true
+  - translation_iso: deu
+    name: Taíno
   - translation_iso: fra
     name: taïno
   - translation_iso: hin

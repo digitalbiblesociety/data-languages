@@ -12,6 +12,9 @@ longitude: -37.14017
 glottocode: fuln1247
 wikipedia_url: "https://en.wikipedia.org/wiki/Iat%C3%AA_language"
 translations:
+  - translation_iso: deu
+    name: Fulniô
+    auto: true
   - translation_iso: fra
     name: yatê
   - translation_iso: hin

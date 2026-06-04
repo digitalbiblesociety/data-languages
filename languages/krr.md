@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كرونغ
     auto: true
+  - translation_iso: deu
+    name: Krung
+    auto: true
   - translation_iso: fra
     name: krung
   - translation_iso: hin

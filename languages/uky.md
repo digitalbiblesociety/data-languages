@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوك-ياك
     auto: true
+  - translation_iso: deu
+    name: Kuuk-Yak
+    auto: true
   - translation_iso: fra
     name: kuuk-yak
   - translation_iso: hin

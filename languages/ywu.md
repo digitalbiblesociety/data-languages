@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ووميج ناسو
     auto: true
+  - translation_iso: deu
+    name: Wumeng-Nasu
+    auto: true
   - translation_iso: fra
     name: Nasu de Wumeng
     auto: true

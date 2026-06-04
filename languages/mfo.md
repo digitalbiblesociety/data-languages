@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبي
     auto: true
+  - translation_iso: deu
+    name: Mbe
   - translation_iso: fra
     name: Mbe
     auto: true

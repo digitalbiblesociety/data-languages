@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Wolaytta_language"
 translations:
   - translation_iso: ara
     name: الولاياتا
+  - translation_iso: deu
+    name: Wolaytta
   - translation_iso: fra
     name: wolaita
   - translation_iso: hin

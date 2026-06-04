@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانجارلا
     auto: true
+  - translation_iso: deu
+    name: Barngarla
   - translation_iso: fra
     name: banggarla
   - translation_iso: hin

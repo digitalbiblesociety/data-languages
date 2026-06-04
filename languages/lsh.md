@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ليش
     auto: true
+  - translation_iso: deu
+    name: Lish
+    auto: true
   - translation_iso: fra
     name: lish
   - translation_iso: hin

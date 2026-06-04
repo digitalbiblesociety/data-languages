@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانو
     auto: true
+  - translation_iso: deu
+    name: Mano
+    auto: true
   - translation_iso: fra
     name: mano
   - translation_iso: hin

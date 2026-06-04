@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Manding_languages"
 translations:
   - translation_iso: ara
     name: الماندينغ
+  - translation_iso: deu
+    name: Manding-Sprachen
   - translation_iso: fra
     name: langues mandingues
   - translation_iso: hin

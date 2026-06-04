@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكوا
     auto: true
+  - translation_iso: deu
+    name: Cua
+    auto: true
   - translation_iso: fra
     name: Cua
     auto: true

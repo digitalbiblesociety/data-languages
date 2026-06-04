@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دانارو
     auto: true
+  - translation_iso: deu
+    name: Danaru
+    auto: true
   - translation_iso: fra
     name: Danaru
     auto: true

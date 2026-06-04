@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماما
     auto: true
+  - translation_iso: deu
+    name: Mamaa
+    auto: true
   - translation_iso: fra
     name: mamaa
   - translation_iso: hin

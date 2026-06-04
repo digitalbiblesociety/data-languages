@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Greenlandic_language"
 translations:
   - translation_iso: ara
     name: الغرينلاندية
+  - translation_iso: deu
+    name: Grönländisch
   - translation_iso: fra
     name: groenlandais
   - translation_iso: hin

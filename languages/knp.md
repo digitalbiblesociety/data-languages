@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوانجا
     auto: true
+  - translation_iso: deu
+    name: Kwanja
   - translation_iso: fra
     name: kwanja
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويلاونر
     auto: true
+  - translation_iso: deu
+    name: Bekais
   - translation_iso: fra
     name: Welaun
     auto: true

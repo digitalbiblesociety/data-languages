@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غومآتج
     auto: true
+  - translation_iso: deu
+    name: Gumatj
+    auto: true
   - translation_iso: fra
     name: gumatj
   - translation_iso: hin

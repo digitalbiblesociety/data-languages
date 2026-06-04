@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإنوان
     auto: true
+  - translation_iso: deu
+    name: Enwan (Akwa Ibom State)
+    auto: true
   - translation_iso: fra
     name: enwang
   - translation_iso: hin

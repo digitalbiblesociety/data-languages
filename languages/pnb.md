@@ -16,6 +16,8 @@ glottolog_classification: "Indo-European > Classical Indo-European > Indo-Irania
 translations:
   - translation_iso: ara
     name: بنجابية غربية
+  - translation_iso: deu
+    name: Westliches Panjabi
   - translation_iso: fra
     name: "pendjabi de l'Ouest"
   - translation_iso: hin

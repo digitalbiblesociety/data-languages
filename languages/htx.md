@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: لغة الحثيين الوسطى
     auto: true
+  - translation_iso: deu
+    name: Mittelhethitisch
   - translation_iso: fra
     name: moyen hittite
   - translation_iso: hin

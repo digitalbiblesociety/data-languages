@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاكفم-موشيري
     auto: true
+  - translation_iso: deu
+    name: Cakfem-Mushere
+    auto: true
   - translation_iso: fra
     name: Cakfem-Mushere
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوي
     auto: true
+  - translation_iso: deu
+    name: Yoy
+    auto: true
   - translation_iso: fra
     name: Yoy
     auto: true

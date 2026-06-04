@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: آو ناجا
     auto: true
+  - translation_iso: deu
+    name: Ao-Mongsen
   - translation_iso: fra
     name: ao
   - translation_iso: hin

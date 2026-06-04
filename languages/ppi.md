@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايباي
     auto: true
+  - translation_iso: deu
+    name: Paipai
+    auto: true
   - translation_iso: fra
     name: paipai
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فيشافان
     auto: true
+  - translation_iso: deu
+    name: Vishavan
+    auto: true
   - translation_iso: fra
     name: vishavan
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باسي
     auto: true
+  - translation_iso: deu
+    name: Pasi
+    auto: true
   - translation_iso: fra
     name: pasi
   - translation_iso: hin

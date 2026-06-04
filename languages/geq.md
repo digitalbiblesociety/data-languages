@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غإمإ
     auto: true
+  - translation_iso: deu
+    name: Geme
+    auto: true
   - translation_iso: fra
     name: gèmé
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: آوا
     auto: true
+  - translation_iso: deu
+    name: Awa (China)
+    auto: true
   - translation_iso: fra
     name: awa
   - translation_iso: hin

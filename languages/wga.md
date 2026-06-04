@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واغايا
     auto: true
+  - translation_iso: deu
+    name: Wagaya
+    auto: true
   - translation_iso: fra
     name: wagaya
   - translation_iso: hin

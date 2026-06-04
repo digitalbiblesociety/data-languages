@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أواك
     auto: true
+  - translation_iso: deu
+    name: Awak
+    auto: true
   - translation_iso: fra
     name: Awak
     auto: true

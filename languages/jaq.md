@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ياقاي
     auto: true
+  - translation_iso: deu
+    name: Yaqay
+    auto: true
   - translation_iso: fra
     name: Yaqay
     auto: true

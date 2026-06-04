@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sassarese_language"
 translations:
   - translation_iso: ara
     name: الساسارية
+  - translation_iso: deu
+    name: Sassaresisch
   - translation_iso: fra
     name: sassarais
   - translation_iso: hin

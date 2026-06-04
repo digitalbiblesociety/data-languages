@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة و-وجا
     auto: true
+  - translation_iso: deu
+    name: Lo-Toga
+    auto: true
   - translation_iso: fra
     name: lo-toga
   - translation_iso: hin

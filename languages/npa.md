@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نار فو
     auto: true
+  - translation_iso: deu
+    name: Nar Phu
+    auto: true
   - translation_iso: fra
     name: nar phu
   - translation_iso: hin

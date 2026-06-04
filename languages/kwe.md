@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويربا
     auto: true
+  - translation_iso: deu
+    name: Kwerba
+    auto: true
   - translation_iso: fra
     name: kwerba
   - translation_iso: hin

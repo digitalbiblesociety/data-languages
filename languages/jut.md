@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة جوتية
     auto: true
+  - translation_iso: deu
+    name: Jütisch
   - translation_iso: fra
     name: jute
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوجورو
     auto: true
+  - translation_iso: deu
+    name: Boguru
+    auto: true
   - translation_iso: fra
     name: boguru
   - translation_iso: hin

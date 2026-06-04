@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كينينجال
     auto: true
+  - translation_iso: deu
+    name: Keninjal
+    auto: true
   - translation_iso: fra
     name: Keninjal
     auto: true

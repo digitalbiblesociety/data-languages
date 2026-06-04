@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داندامي ماريا
     auto: true
+  - translation_iso: deu
+    name: Dandami Maria
+    auto: true
   - translation_iso: fra
     name: Maria Dandami
     auto: true

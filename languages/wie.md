@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويكيپا
     auto: true
+  - translation_iso: deu
+    name: Wik-Epa
+    auto: true
   - translation_iso: fra
     name: wik-epa
   - translation_iso: hin

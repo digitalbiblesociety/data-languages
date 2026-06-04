@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيتيري
     auto: true
+  - translation_iso: deu
+    name: Iteri
+    auto: true
   - translation_iso: fra
     name: iteri
   - translation_iso: hin

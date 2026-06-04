@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفام
     auto: true
+  - translation_iso: deu
+    name: Fam
   - translation_iso: fra
     name: fam
   - translation_iso: hin

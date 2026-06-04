@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كا هونجوارا
     auto: true
+  - translation_iso: deu
+    name: Ca̱hungwa̱rya̱
+    auto: true
   - translation_iso: fra
     name: hungworo
   - translation_iso: hin

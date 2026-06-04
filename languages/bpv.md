@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيان ماريند
     auto: true
+  - translation_iso: deu
+    name: Bian Marind
+    auto: true
   - translation_iso: fra
     name: Marind du Bian
     auto: true

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Urartian_language"
 translations:
   - translation_iso: ara
     name: اللغة الأورارتية
+  - translation_iso: deu
+    name: Urartäisch
   - translation_iso: fra
     name: urartéen
   - translation_iso: hin

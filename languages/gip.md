@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غيمي
     auto: true
+  - translation_iso: deu
+    name: Gimi (West New Britain)
+    auto: true
   - translation_iso: fra
     name: gimi
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فاجوا
     auto: true
+  - translation_iso: deu
+    name: Vaghua
+    auto: true
   - translation_iso: fra
     name: vaghua
   - translation_iso: hin

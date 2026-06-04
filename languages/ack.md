@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آكا-كورا
     auto: true
+  - translation_iso: deu
+    name: Aka-Kora
+    auto: true
   - translation_iso: fra
     name: aka-kora
   - translation_iso: hin

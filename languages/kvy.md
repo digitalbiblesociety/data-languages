@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كارين ينتالي
     auto: true
+  - translation_iso: deu
+    name: Yintale
   - translation_iso: fra
     name: yintale
   - translation_iso: hin

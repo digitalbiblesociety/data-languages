@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبوتاي
     auto: true
+  - translation_iso: deu
+    name: Aputai
   - translation_iso: fra
     name: aputai
   - translation_iso: hin

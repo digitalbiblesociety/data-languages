@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يينونج اجا
     auto: true
+  - translation_iso: deu
+    name: Leinong Naga
+    auto: true
   - translation_iso: fra
     name: Naga Leinong
     auto: true

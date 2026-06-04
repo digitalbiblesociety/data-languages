@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إسيراوا
     auto: true
+  - translation_iso: deu
+    name: Isirawa
+    auto: true
   - translation_iso: fra
     name: isirawa
   - translation_iso: hin

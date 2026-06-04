@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Muscogee_language"
 translations:
   - translation_iso: ara
     name: لغة مسكوكية
+  - translation_iso: deu
+    name: Maskoki
   - translation_iso: fra
     name: creek
   - translation_iso: hin

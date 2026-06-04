@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيلابيت
     auto: true
+  - translation_iso: deu
+    name: Kelabit
+    auto: true
   - translation_iso: fra
     name: kelabit
   - translation_iso: hin

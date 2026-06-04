@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توندي
     auto: true
+  - translation_iso: deu
+    name: Twendi
+    auto: true
   - translation_iso: fra
     name: twendi
   - translation_iso: hin

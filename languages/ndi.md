@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سامبا ليكو
     auto: true
+  - translation_iso: deu
+    name: Samba Leko
   - translation_iso: fra
     name: samba leko
   - translation_iso: hin

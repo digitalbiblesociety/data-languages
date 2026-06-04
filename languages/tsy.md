@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة تيبول
     auto: true
+  - translation_iso: deu
+    name: Tebul-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: langue des signes de Tebul
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كانجوبال الغربية
     auto: true
+  - translation_iso: deu
+    name: Akatekisch
   - translation_iso: fra
     name: acatèque
   - translation_iso: hin

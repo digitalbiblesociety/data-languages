@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايابو
     auto: true
+  - translation_iso: deu
+    name: Kayapó
+    auto: true
   - translation_iso: fra
     name: kayapo
   - translation_iso: hin

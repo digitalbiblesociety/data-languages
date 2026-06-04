@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: غوآتó
     auto: true
+  - translation_iso: deu
+    name: Guató
+    auto: true
   - translation_iso: fra
     name: guató
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مآنيان
     auto: true
+  - translation_iso: deu
+    name: "Ma'anyan"
+    auto: true
   - translation_iso: fra
     name: "ma'anyan"
   - translation_iso: hin

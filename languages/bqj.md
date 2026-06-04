@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باندْيال
     auto: true
+  - translation_iso: deu
+    name: Bandial
   - translation_iso: fra
     name: bandial
   - translation_iso: hin

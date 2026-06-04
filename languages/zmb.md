@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيمبا
     auto: true
+  - translation_iso: deu
+    name: Zimba
+    auto: true
   - translation_iso: fra
     name: Zimba
     auto: true

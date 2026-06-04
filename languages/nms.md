@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليتيمبوي
     auto: true
+  - translation_iso: deu
+    name: Letemboi
+    auto: true
   - translation_iso: fra
     name: letemboi
   - translation_iso: hin

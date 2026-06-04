@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوجاما
     auto: true
+  - translation_iso: deu
+    name: Kugama
+    auto: true
   - translation_iso: fra
     name: kugama
   - translation_iso: hin

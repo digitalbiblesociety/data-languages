@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة رامويا
     auto: true
+  - translation_iso: deu
+    name: Ramopa
+    auto: true
   - translation_iso: fra
     name: Ramopa
     auto: true

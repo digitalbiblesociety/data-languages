@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تالو
     auto: true
+  - translation_iso: deu
+    name: Talu
+    auto: true
   - translation_iso: fra
     name: talu
   - translation_iso: hin

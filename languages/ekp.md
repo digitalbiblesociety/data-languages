@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإكبي
     auto: true
+  - translation_iso: deu
+    name: Ekpeye
   - translation_iso: fra
     name: ekpeye
   - translation_iso: hin

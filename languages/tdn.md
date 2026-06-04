@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تونداونو
     auto: true
+  - translation_iso: deu
+    name: Tondano
   - translation_iso: fra
     name: tondano
   - translation_iso: hin

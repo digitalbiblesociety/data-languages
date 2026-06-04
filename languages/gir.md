@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رإد غإلآو
     auto: true
+  - translation_iso: deu
+    name: Rotes Gelao
+    auto: true
   - translation_iso: fra
     name: gelao rouge
   - translation_iso: hin

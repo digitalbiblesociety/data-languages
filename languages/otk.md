@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Turkic"
 translations:
   - translation_iso: ara
     name: التركية القديمة
+  - translation_iso: deu
+    name: Alttürkisch
   - translation_iso: fra
     name: vieux-turc
   - translation_iso: hin

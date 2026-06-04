@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أباغا
     auto: true
+  - translation_iso: deu
+    name: Abaga
+    auto: true
   - translation_iso: fra
     name: abaga
   - translation_iso: hin

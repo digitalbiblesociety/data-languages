@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبيمب
     auto: true
+  - translation_iso: deu
+    name: Cross River Mbembe
+    auto: true
   - translation_iso: fra
     name: mbembe cross river
   - translation_iso: hin

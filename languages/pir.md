@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيراتابويو
     auto: true
+  - translation_iso: deu
+    name: Piratapuyo
+    auto: true
   - translation_iso: fra
     name: piratapuya
   - translation_iso: hin

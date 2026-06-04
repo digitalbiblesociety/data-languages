@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجبكا ماقبو
     auto: true
+  - translation_iso: deu
+    name: "Ngbaka Ma'bo"
+    auto: true
   - translation_iso: fra
     name: mbaka
   - translation_iso: hin

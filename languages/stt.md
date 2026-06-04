@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودي ستينج
     auto: true
+  - translation_iso: deu
+    name: Budeh Stieng
+    auto: true
   - translation_iso: fra
     name: Stieng Budeh
     auto: true

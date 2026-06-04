@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك مازالتيبيك
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Mazaltepec)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Mazaltepec
   - translation_iso: hin

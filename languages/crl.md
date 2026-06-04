@@ -17,6 +17,8 @@ glottolog_classification: "Algic > Algonquian-Blackfoot > Algonquian > Cree-Mont
 translations:
   - translation_iso: ara
     name: الكري شمال الشرقية
+  - translation_iso: deu
+    name: Northern East Cree
   - translation_iso: fra
     name: "cri de l’Est, dialecte du Nord"
   - translation_iso: hin

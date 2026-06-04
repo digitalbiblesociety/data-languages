@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة توكي
     auto: true
+  - translation_iso: deu
+    name: Tuki
   - translation_iso: fra
     name: tuki
   - translation_iso: hin

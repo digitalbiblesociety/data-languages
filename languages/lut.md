@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة وسهووتسييد
     auto: true
+  - translation_iso: deu
+    name: Lushootseed
   - translation_iso: fra
     name: lushootseed
   - translation_iso: hin

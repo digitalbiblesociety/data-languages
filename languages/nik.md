@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جنوب نيكوبارسي
     auto: true
+  - translation_iso: deu
+    name: Süd-Nikobaresisch
   - translation_iso: fra
     name: nicobar du Sud
   - translation_iso: hin

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كايورت
     auto: true
+  - translation_iso: deu
+    name: Kayort
+    auto: true
   - translation_iso: fra
     name: kayort
   - translation_iso: hin

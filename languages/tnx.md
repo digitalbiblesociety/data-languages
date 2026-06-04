@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تانيما
     auto: true
+  - translation_iso: deu
+    name: Tanema
+    auto: true
   - translation_iso: fra
     name: tanema
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي تيلابا
     auto: true
+  - translation_iso: deu
+    name: Tilapa-Otomí
+    auto: true
   - translation_iso: fra
     name: otomi de Tilapa
   - translation_iso: hin

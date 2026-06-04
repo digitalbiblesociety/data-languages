@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chewa_language"
 translations:
   - translation_iso: ara
     name: لغة الشيشيوا
+  - translation_iso: deu
+    name: Chichewa
   - translation_iso: fra
     name: chewa
   - translation_iso: hin

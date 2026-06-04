@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوپالا تشاتينو
     auto: true
+  - translation_iso: deu
+    name: Nopala-Chatino
+    auto: true
   - translation_iso: fra
     name: Chatino de Nopala
   - translation_iso: hin

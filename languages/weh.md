@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويه
     auto: true
+  - translation_iso: deu
+    name: Weh
+    auto: true
   - translation_iso: fra
     name: weh
   - translation_iso: hin

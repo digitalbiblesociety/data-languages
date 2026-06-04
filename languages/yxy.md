@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: لغة يابولا يابولا
     auto: true
+  - translation_iso: deu
+    name: Yabula Yabula
+    auto: true
   - translation_iso: fra
     name: Yabula Yabula
     auto: true

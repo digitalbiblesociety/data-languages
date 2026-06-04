@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتومبي
     auto: true
+  - translation_iso: deu
+    name: Matumbi
+    auto: true
   - translation_iso: fra
     name: matumbi
   - translation_iso: hin

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: روتومان
     auto: true
+  - translation_iso: deu
+    name: Rotumanisch
   - translation_iso: fra
     name: rotuman
   - translation_iso: hin

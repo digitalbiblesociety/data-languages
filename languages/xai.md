@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايمب
     auto: true
+  - translation_iso: deu
+    name: Kaimbé
+    auto: true
   - translation_iso: fra
     name: Kaimbé
     auto: true

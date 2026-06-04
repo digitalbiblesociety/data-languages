@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مالالامي
     auto: true
+  - translation_iso: deu
+    name: Malalamai
+    auto: true
   - translation_iso: fra
     name: malalamai
   - translation_iso: hin

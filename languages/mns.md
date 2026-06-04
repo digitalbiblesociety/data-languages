@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mansi_languages"
 translations:
   - translation_iso: ara
     name: المانسية
+  - translation_iso: deu
+    name: Mansisch
   - translation_iso: fra
     name: mansi
   - translation_iso: hin

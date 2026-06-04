@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الماركويتا
     auto: true
+  - translation_iso: deu
+    name: Markweeta
+    auto: true
   - translation_iso: fra
     name: markweta
   - translation_iso: hin

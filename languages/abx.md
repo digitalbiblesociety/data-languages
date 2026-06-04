@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إناباكنون
     auto: true
+  - translation_iso: deu
+    name: Inabaknon
+    auto: true
   - translation_iso: fra
     name: abaknon
   - translation_iso: hin

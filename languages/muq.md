@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ميـاو شيانغشي الشرقية
     auto: true
+  - translation_iso: deu
+    name: Ost-Xiangxi-Miao
+    auto: true
   - translation_iso: fra
     name: Miao du Xiangxi oriental
     auto: true

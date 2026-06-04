@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإيمان
     auto: true
+  - translation_iso: deu
+    name: Eman
+    auto: true
   - translation_iso: fra
     name: eman
   - translation_iso: hin

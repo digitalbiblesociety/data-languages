@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبيهوا بيسافلوريس
     auto: true
+  - translation_iso: deu
+    name: Pisaflores Tepehua
+    auto: true
   - translation_iso: fra
     name: tepehua de Pisa Flores
   - translation_iso: hin

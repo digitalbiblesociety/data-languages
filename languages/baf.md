@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة نوباكا
     auto: true
+  - translation_iso: deu
+    name: Nubaca
   - translation_iso: fra
     name: baca
   - translation_iso: hin

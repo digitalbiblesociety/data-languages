@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيبينو
     auto: true
+  - translation_iso: deu
+    name: Ibino
+    auto: true
   - translation_iso: fra
     name: ibino
   - translation_iso: hin

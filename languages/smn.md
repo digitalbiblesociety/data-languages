@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Inari_S%C3%A1mi_language"
 translations:
   - translation_iso: ara
     name: لغة سامي الإنارية
+  - translation_iso: deu
+    name: Inarisamisch
   - translation_iso: fra
     name: "same d'Inari"
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوبا
     auto: true
+  - translation_iso: deu
+    name: Yoba
+    auto: true
   - translation_iso: fra
     name: Yoba
     auto: true

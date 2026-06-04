@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Wu_Chinese"
 translations:
   - translation_iso: ara
     name: وو
+  - translation_iso: deu
+    name: Wu
   - translation_iso: fra
     name: wu
   - translation_iso: hin

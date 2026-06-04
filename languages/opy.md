@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوفايي
     auto: true
+  - translation_iso: deu
+    name: Ofayé
+    auto: true
   - translation_iso: fra
     name: ofayé
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشوا
     auto: true
+  - translation_iso: deu
+    name: Shua
+    auto: true
   - translation_iso: fra
     name: shua
   - translation_iso: hin

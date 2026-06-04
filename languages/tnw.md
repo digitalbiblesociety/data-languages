@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تونساوانج
     auto: true
+  - translation_iso: deu
+    name: Tonsawang
   - translation_iso: fra
     name: tonsawang
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يبيدو
     auto: true
+  - translation_iso: deu
+    name: Marako/Libido
   - translation_iso: fra
     name: Libido
     auto: true

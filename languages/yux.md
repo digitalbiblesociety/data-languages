@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوكاغيز الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Kolymajukagirisch
   - translation_iso: fra
     name: youkaguir de la Kolyma
   - translation_iso: hin

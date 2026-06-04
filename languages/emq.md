@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الينياج الشرقية
     auto: true
+  - translation_iso: deu
+    name: Ost-Minyag
+    auto: true
   - translation_iso: fra
     name: Minyag oriental
     auto: true

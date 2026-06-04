@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينثانج تشين
     auto: true
+  - translation_iso: deu
+    name: Senthang-Chin
+    auto: true
   - translation_iso: fra
     name: Chin senthang
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشيكو
     auto: true
+  - translation_iso: deu
+    name: Sheko
+    auto: true
   - translation_iso: fra
     name: sheko
   - translation_iso: hin

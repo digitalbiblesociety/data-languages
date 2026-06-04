@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأرمينية
     auto: true
+  - translation_iso: deu
+    name: Armenische Gebärdensprache
   - translation_iso: fra
     name: langue des signes arménienne
   - translation_iso: hin

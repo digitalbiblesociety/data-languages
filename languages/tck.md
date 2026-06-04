@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تشيتشيغي
     auto: true
+  - translation_iso: deu
+    name: Tchitchege
   - translation_iso: fra
     name: tchitchege
   - translation_iso: hin

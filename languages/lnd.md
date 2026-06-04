@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ونداييه
     auto: true
+  - translation_iso: deu
+    name: Lundayeh
+    auto: true
   - translation_iso: fra
     name: lundayeh
   - translation_iso: hin

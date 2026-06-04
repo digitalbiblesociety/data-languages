@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داسانتش
     auto: true
+  - translation_iso: deu
+    name: Dassanetch
   - translation_iso: fra
     name: daasanach
   - translation_iso: hin

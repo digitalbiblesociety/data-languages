@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sangsari_language"
 translations:
   - translation_iso: ara
     name: اللغة السنغسري
+  - translation_iso: deu
+    name: Sangsari
   - translation_iso: fra
     name: sangesari
   - translation_iso: hin

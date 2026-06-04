@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جبايا-بوزوم
     auto: true
+  - translation_iso: deu
+    name: Gbaya-Bozoum
+    auto: true
   - translation_iso: fra
     name: gbaya bozom
   - translation_iso: hin

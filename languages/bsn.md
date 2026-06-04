@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باراسانا-إدوريا
     auto: true
+  - translation_iso: deu
+    name: Barasana-Eduria
+    auto: true
   - translation_iso: fra
     name: barasana
   - translation_iso: hin

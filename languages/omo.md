@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتاريمبونغ
     auto: true
+  - translation_iso: deu
+    name: Utarmbung
+    auto: true
   - translation_iso: fra
     name: Utarmbung
     auto: true

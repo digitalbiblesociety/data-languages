@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نابو
     auto: true
+  - translation_iso: deu
+    name: Napu
+    auto: true
   - translation_iso: fra
     name: napu
   - translation_iso: hin

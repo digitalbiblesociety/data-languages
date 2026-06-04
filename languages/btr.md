@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باتورا
     auto: true
+  - translation_iso: deu
+    name: Baetora
+    auto: true
   - translation_iso: fra
     name: baetora
   - translation_iso: hin

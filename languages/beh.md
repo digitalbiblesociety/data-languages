@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيالي
     auto: true
+  - translation_iso: deu
+    name: Biali
   - translation_iso: fra
     name: byali
   - translation_iso: hin

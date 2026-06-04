@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أنامغورا
     auto: true
+  - translation_iso: deu
+    name: Anamgura
+    auto: true
   - translation_iso: fra
     name: Anamgura
     auto: true

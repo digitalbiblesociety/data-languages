@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفوردتا
     auto: true
+  - translation_iso: deu
+    name: Fordata
   - translation_iso: fra
     name: fordata
   - translation_iso: hin

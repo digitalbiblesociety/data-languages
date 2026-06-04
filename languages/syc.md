@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Syriac_language"
 translations:
   - translation_iso: ara
     name: السريانية
+  - translation_iso: deu
+    name: Syrisch
   - translation_iso: fra
     name: syriaque
   - translation_iso: hin

@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: لغة ماكاليرو
     auto: true
+  - translation_iso: deu
+    name: Makalero
   - translation_iso: fra
     name: Makalero
     auto: true

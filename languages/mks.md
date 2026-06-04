@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك سيلاكايوابان
     auto: true
+  - translation_iso: deu
+    name: Silacayoapan Mixtec
+    auto: true
   - translation_iso: fra
     name: mixtèque silacayoapan
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بامونْكا
     auto: true
+  - translation_iso: deu
+    name: Bamunka
   - translation_iso: fra
     name: bamunka
   - translation_iso: hin

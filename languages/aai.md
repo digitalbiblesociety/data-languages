@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الأريفاما-مينيافيا
     auto: true
+  - translation_iso: deu
+    name: Arifama-Miniafia
+    auto: true
   - translation_iso: fra
     name: Arifama-Miniafia
     auto: true

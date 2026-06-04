@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نين
     auto: true
+  - translation_iso: deu
+    name: Nen
+    auto: true
   - translation_iso: fra
     name: nen
   - translation_iso: hin

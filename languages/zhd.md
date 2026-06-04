@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة داي زوانغ
     auto: true
+  - translation_iso: deu
+    name: Dai-Zhuang
+    auto: true
   - translation_iso: fra
     name: dai zhuang
   - translation_iso: hin

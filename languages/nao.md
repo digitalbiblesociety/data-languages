@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نابا
     auto: true
+  - translation_iso: deu
+    name: Naaba
+    auto: true
   - translation_iso: fra
     name: Naaba
     auto: true

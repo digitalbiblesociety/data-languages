@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Portuguese_language"
 translations:
   - translation_iso: ara
     name: البرتغالية
+  - translation_iso: deu
+    name: Portugiesisch
   - translation_iso: fra
     name: portugais
   - translation_iso: hin

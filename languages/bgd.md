@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: راثوي بارلي
     auto: true
+  - translation_iso: deu
+    name: Rathwi Bareli
+    auto: true
   - translation_iso: fra
     name: Bareli de Rathwi
     auto: true

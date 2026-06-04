@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/San%CA%BDani_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة صنعانية
+  - translation_iso: deu
+    name: Sanaani-Arabisch
+    auto: true
   - translation_iso: fra
     name: Arabe sanaanis
     auto: true

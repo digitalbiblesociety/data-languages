@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكوما-ناتا-إيسينيي
     auto: true
+  - translation_iso: deu
+    name: Ikoma-Nata-Isenye
+    auto: true
   - translation_iso: fra
     name: nata
   - translation_iso: hin

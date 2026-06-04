@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماونتين كويالي
     auto: true
+  - translation_iso: deu
+    name: Berg-Koiali
+    auto: true
   - translation_iso: fra
     name: koiari des montagnes
   - translation_iso: hin

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة آنسّا
     auto: true
+  - translation_iso: deu
+    name: Áncá
+    auto: true
   - translation_iso: fra
     name: Áncá
     auto: true

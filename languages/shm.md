@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشاهرودية
     auto: true
+  - translation_iso: deu
+    name: Shahrudi
+    auto: true
   - translation_iso: fra
     name: Shahrudi
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هآبو
     auto: true
+  - translation_iso: deu
+    name: Habun
   - translation_iso: fra
     name: habu
   - translation_iso: hin

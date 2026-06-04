@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كوامسي
     auto: true
+  - translation_iso: deu
+    name: Kuamasi
+    auto: true
   - translation_iso: fra
     name: Kuamasi
     auto: true

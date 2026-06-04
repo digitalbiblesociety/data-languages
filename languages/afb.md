@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gulf_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة خليجية
+  - translation_iso: deu
+    name: Golf-Arabisch
   - translation_iso: fra
     name: arabe du Golfe
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيتا
     auto: true
+  - translation_iso: deu
+    name: Jita
+    auto: true
   - translation_iso: fra
     name: jita
   - translation_iso: hin

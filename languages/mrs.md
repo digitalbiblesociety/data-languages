@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مراجوس
     auto: true
+  - translation_iso: deu
+    name: Maragus
+    auto: true
   - translation_iso: fra
     name: maragus
   - translation_iso: hin

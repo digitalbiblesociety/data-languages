@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التايوانية
     auto: true
+  - translation_iso: deu
+    name: Taiwanesische Gebärdensprache
   - translation_iso: fra
     name: langue des signes taïwanaise
   - translation_iso: hin

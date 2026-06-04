@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الألمانية كولونيا توفار
     auto: true
+  - translation_iso: deu
+    name: Alemán Coloniero
   - translation_iso: fra
     name: alemán coloniero
   - translation_iso: hin

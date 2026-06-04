@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألون
     auto: true
+  - translation_iso: deu
+    name: Alune
   - translation_iso: fra
     name: alune
   - translation_iso: hin

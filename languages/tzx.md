@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تابرياك
     auto: true
+  - translation_iso: deu
+    name: Tabriak
+    auto: true
   - translation_iso: fra
     name: tabriak
   - translation_iso: hin

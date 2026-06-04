@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: كلا-دان
     auto: true
+  - translation_iso: deu
+    name: Kla-Dan
+    auto: true
   - translation_iso: fra
     name: kla-dan
   - translation_iso: hin

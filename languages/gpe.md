@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghanaian_Pidgin_English"
 translations:
   - translation_iso: ara
     name: إنجليزية بيدجين الغانية
+  - translation_iso: deu
+    name: Ghanaisches Pidgin-Englisch
+    auto: true
   - translation_iso: fra
     name: pidgin ghanéen
   - translation_iso: hin

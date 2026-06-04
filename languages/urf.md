@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: أورادهي
     auto: true
+  - translation_iso: deu
+    name: Uradhi
+    auto: true
   - translation_iso: fra
     name: uradhi
   - translation_iso: hin

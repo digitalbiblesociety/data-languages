@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مابينا
     auto: true
+  - translation_iso: deu
+    name: Mapena
+    auto: true
   - translation_iso: fra
     name: Mapena
     auto: true

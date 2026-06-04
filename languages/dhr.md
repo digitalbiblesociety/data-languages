@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دارجاري
     auto: true
+  - translation_iso: deu
+    name: Dhargari
+    auto: true
   - translation_iso: fra
     name: dhargari
   - translation_iso: hin

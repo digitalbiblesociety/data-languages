@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يانغمان
     auto: true
+  - translation_iso: deu
+    name: Yangman
+    auto: true
   - translation_iso: fra
     name: yangman
   - translation_iso: hin

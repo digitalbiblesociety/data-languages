@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سوكي فرانثيسكو ليون
     auto: true
+  - translation_iso: deu
+    name: Zoque (Francisco León)
+    auto: true
   - translation_iso: fra
     name: zoque de Francisco León
   - translation_iso: hin

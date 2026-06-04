@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مافيا
     auto: true
+  - translation_iso: deu
+    name: Mafea
+    auto: true
   - translation_iso: fra
     name: mavea
   - translation_iso: hin

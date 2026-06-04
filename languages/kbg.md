@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة خامبا
     auto: true
+  - translation_iso: deu
+    name: Khamba
+    auto: true
   - translation_iso: fra
     name: khamba
   - translation_iso: hin

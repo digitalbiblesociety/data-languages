@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بيبور
     auto: true
+  - translation_iso: deu
+    name: Bepour
+    auto: true
   - translation_iso: fra
     name: bepour
   - translation_iso: hin

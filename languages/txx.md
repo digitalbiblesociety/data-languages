@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاتانا
     auto: true
+  - translation_iso: deu
+    name: Tatana
+    auto: true
   - translation_iso: fra
     name: tatana
   - translation_iso: hin

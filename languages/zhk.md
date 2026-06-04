@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكردية
     auto: true
+  - translation_iso: deu
+    name: Kurdische Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: Langue des signes kurde
     auto: true

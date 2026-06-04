@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Multiple_languages"
 translations:
   - translation_iso: ara
     name: متعدد اللغات
+  - translation_iso: deu
+    name: mehrere Sprachen
   - translation_iso: fra
     name: multilingue
   - translation_iso: hin

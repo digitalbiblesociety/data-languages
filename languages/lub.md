@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Luba-Katanga_language"
 translations:
   - translation_iso: ara
     name: اللوبا كاتانغا
+  - translation_iso: deu
+    name: Kiluba
   - translation_iso: fra
     name: luba-katanga
   - translation_iso: hin

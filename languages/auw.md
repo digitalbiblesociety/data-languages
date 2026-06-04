@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوي
     auto: true
+  - translation_iso: deu
+    name: Awyi
   - translation_iso: fra
     name: awyi
   - translation_iso: hin

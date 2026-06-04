@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توركا
     auto: true
+  - translation_iso: deu
+    name: Tschurama
   - translation_iso: fra
     name: tchourama
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كينكي
     auto: true
+  - translation_iso: deu
+    name: Quinqui
   - translation_iso: fra
     name: Quinqui
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تافيتا
     auto: true
+  - translation_iso: deu
+    name: Taveta
+    auto: true
   - translation_iso: fra
     name: taveta
   - translation_iso: hin

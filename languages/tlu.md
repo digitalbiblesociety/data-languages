@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توليهو
     auto: true
+  - translation_iso: deu
+    name: Tulehu
   - translation_iso: fra
     name: tulehu
   - translation_iso: hin

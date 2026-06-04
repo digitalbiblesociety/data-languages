@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كونيجامي
     auto: true
+  - translation_iso: deu
+    name: Kunigami
+    auto: true
   - translation_iso: fra
     name: kunigami
   - translation_iso: hin

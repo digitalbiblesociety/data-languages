@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pennsylvania_Dutch_language"
 translations:
   - translation_iso: ara
     name: الألمانية البنسلفانية
+  - translation_iso: deu
+    name: Pennsylvania Dutch
   - translation_iso: fra
     name: allemand de Pennsylvanie
   - translation_iso: hin

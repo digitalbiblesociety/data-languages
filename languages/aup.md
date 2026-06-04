@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماكايام
     auto: true
+  - translation_iso: deu
+    name: Makayam
+    auto: true
   - translation_iso: fra
     name: makayam
   - translation_iso: hin

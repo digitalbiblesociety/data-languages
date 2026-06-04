@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوموك
     auto: true
+  - translation_iso: deu
+    name: Omokisch
   - translation_iso: fra
     name: Omok
     auto: true

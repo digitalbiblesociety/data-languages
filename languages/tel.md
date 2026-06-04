@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Telugu_language"
 translations:
   - translation_iso: ara
     name: التيلوغوية
+  - translation_iso: deu
+    name: Telugu
   - translation_iso: fra
     name: télougou
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة التومولونج سيسالا
     auto: true
+  - translation_iso: deu
+    name: Tumulung-Sisaala
+    auto: true
   - translation_iso: fra
     name: sisaala tumulung
   - translation_iso: hin

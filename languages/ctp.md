@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الشاتينو الغربي الأعلى
     auto: true
+  - translation_iso: deu
+    name: Westliches Hochland-Chatino
+    auto: true
   - translation_iso: fra
     name: "chatino des hauts-plateaux de l'Ouest"
   - translation_iso: hin

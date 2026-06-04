@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاباسكو ناهواتل
     auto: true
+  - translation_iso: deu
+    name: Tabasco-Nahuatl
+    auto: true
   - translation_iso: fra
     name: nahuatl du Tabasco
   - translation_iso: hin

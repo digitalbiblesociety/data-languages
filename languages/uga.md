@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ugaritic"
 translations:
   - translation_iso: ara
     name: الأوغاريتية
+  - translation_iso: deu
+    name: Ugaritisch
   - translation_iso: fra
     name: ougaritique
   - translation_iso: hin

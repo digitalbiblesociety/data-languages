@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكوكيل
     auto: true
+  - translation_iso: deu
+    name: Coquille
+    auto: true
   - translation_iso: fra
     name: coquille
   - translation_iso: hin

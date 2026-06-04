@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بانو
     auto: true
+  - translation_iso: deu
+    name: Pano
+    auto: true
   - translation_iso: fra
     name: pano
   - translation_iso: hin

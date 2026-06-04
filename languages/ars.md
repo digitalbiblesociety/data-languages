@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Najdi_Arabic"
 translations:
   - translation_iso: ara
     name: اللهجة النجدية
+  - translation_iso: deu
+    name: Arabisch (Nadschd)
   - translation_iso: fra
     name: arabe najdi
   - translation_iso: hin

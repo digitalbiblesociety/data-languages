@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بادي
     auto: true
+  - translation_iso: deu
+    name: Bade
+    auto: true
   - translation_iso: fra
     name: bade
   - translation_iso: hin

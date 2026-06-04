@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shona_language"
 translations:
   - translation_iso: ara
     name: لغة الشونا
+  - translation_iso: deu
+    name: Shona
   - translation_iso: fra
     name: shona
   - translation_iso: hin

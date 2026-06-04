@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة اماليرا
     auto: true
+  - translation_iso: deu
+    name: Lamalera
   - translation_iso: fra
     name: Lamalera
     auto: true

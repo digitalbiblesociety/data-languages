@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Razihi_language"
 translations:
   - translation_iso: ara
     name: اللغة الرازحية
+  - translation_iso: deu
+    name: Rāziḥī
+    auto: true
   - translation_iso: fra
     name: razihi
   - translation_iso: hin

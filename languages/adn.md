@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أدانج
     auto: true
+  - translation_iso: deu
+    name: Adang
   - translation_iso: fra
     name: adang
   - translation_iso: hin

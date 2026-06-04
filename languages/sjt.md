@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة تير سامي
     auto: true
+  - translation_iso: deu
+    name: Tersamisch
   - translation_iso: fra
     name: same de Ter
   - translation_iso: hin

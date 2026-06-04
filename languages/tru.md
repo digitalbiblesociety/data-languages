@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Turoyo_language"
 translations:
   - translation_iso: ara
     name: لهجة طورية
+  - translation_iso: deu
+    name: Turoyo
   - translation_iso: fra
     name: touroyo
   - translation_iso: hin

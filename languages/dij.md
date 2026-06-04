@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داي
     auto: true
+  - translation_iso: deu
+    name: Dai
+    auto: true
   - translation_iso: fra
     name: Dai
     auto: true

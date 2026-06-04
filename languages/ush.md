@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوشوجو
     auto: true
+  - translation_iso: deu
+    name: Ushoji
   - translation_iso: fra
     name: Ushojo
   - translation_iso: hin

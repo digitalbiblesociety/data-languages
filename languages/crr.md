@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Carolina_Algonquian_language"
 translations:
   - translation_iso: ara
     name: الألغونكوية كارولينا
+  - translation_iso: deu
+    name: Carolina-Algonkin
   - translation_iso: fra
     name: pamlico
   - translation_iso: hin

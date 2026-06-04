@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jola-Fonyi_language"
 translations:
   - translation_iso: ara
     name: جولا فونيا
+  - translation_iso: deu
+    name: Diola
   - translation_iso: fra
     name: diola-fogny
   - translation_iso: hin

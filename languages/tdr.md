@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تودراه
     auto: true
+  - translation_iso: deu
+    name: Todrah
+    auto: true
   - translation_iso: fra
     name: Todrah
     auto: true

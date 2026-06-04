@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داوافينيو
     auto: true
+  - translation_iso: deu
+    name: Davawenyo
+    auto: true
   - translation_iso: fra
     name: davaoeño
   - translation_iso: hin

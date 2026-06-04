@@ -17,6 +17,8 @@ glottolog_classification: "Indo-European > Classical Indo-European > Italic > La
 translations:
   - translation_iso: ara
     name: الفرنسية الكاجونية
+  - translation_iso: deu
+    name: Cajun
   - translation_iso: fra
     name: français cadien
   - translation_iso: hin

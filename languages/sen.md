@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نانيريجي سينوفو
     auto: true
+  - translation_iso: deu
+    name: Nanerige
   - translation_iso: fra
     name: nanerigé
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يانغوم مون
     auto: true
+  - translation_iso: deu
+    name: Yangum Mon
+    auto: true
   - translation_iso: fra
     name: yangum mon
   - translation_iso: hin

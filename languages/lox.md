@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وون
     auto: true
+  - translation_iso: deu
+    name: Loun
+    auto: true
   - translation_iso: fra
     name: loun
   - translation_iso: hin

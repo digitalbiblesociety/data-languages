@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتش
     auto: true
+  - translation_iso: deu
+    name: Koch
+    auto: true
   - translation_iso: fra
     name: koch
   - translation_iso: hin

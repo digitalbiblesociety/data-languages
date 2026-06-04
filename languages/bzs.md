@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البرازيلية
     auto: true
+  - translation_iso: deu
+    name: Brasilianische Gebärdensprache
   - translation_iso: fra
     name: langue des signes brésilienne
   - translation_iso: hin

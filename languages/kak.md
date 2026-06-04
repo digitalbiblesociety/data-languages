@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كالانغويا
     auto: true
+  - translation_iso: deu
+    name: Kalanguya
+    auto: true
   - translation_iso: fra
     name: kallahan de kayapa
   - translation_iso: hin

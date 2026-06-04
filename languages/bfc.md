@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بانيي باي
     auto: true
+  - translation_iso: deu
+    name: Panyi Bai
+    auto: true
   - translation_iso: fra
     name: bai septentrional
   - translation_iso: hin

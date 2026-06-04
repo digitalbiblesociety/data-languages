@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاغايانين
     auto: true
+  - translation_iso: deu
+    name: Kagayanen
+    auto: true
   - translation_iso: fra
     name: Kagayanen
     auto: true

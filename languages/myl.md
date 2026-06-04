@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: موما
     auto: true
+  - translation_iso: deu
+    name: Moma
+    auto: true
   - translation_iso: fra
     name: moma
   - translation_iso: hin

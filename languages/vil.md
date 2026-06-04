@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: فيليلا
     auto: true
+  - translation_iso: deu
+    name: Vilela
+    auto: true
   - translation_iso: fra
     name: vilela
   - translation_iso: hin

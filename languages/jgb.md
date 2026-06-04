@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نغبي
     auto: true
+  - translation_iso: deu
+    name: Ngbee
+    auto: true
   - translation_iso: fra
     name: Ngbee
     auto: true

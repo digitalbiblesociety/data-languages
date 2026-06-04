@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانامبري
     auto: true
+  - translation_iso: deu
+    name: Wanambre
+    auto: true
   - translation_iso: fra
     name: Wanambre
     auto: true

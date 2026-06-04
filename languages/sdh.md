@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Kurdish"
 translations:
   - translation_iso: ara
     name: الكردية الخوارينية (الكردية الجنوبية)
+  - translation_iso: deu
+    name: Südkurdisch
   - translation_iso: fra
     name: kurde du Sud
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_North_Arabian_languages"
 translations:
   - translation_iso: ara
     name: عربية شمالية قديمة
+  - translation_iso: deu
+    name: Frühnordarabisch
   - translation_iso: fra
     name: langues nordarabiques anciennes
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إيرافي
     auto: true
+  - translation_iso: deu
+    name: Erave
+    auto: true
   - translation_iso: fra
     name: Erave
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دجامينجونج
     auto: true
+  - translation_iso: deu
+    name: Djamindjung
+    auto: true
   - translation_iso: fra
     name: djamindjung
   - translation_iso: hin

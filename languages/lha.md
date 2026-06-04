@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة اها
     auto: true
+  - translation_iso: deu
+    name: Laha
   - translation_iso: fra
     name: laha
   - translation_iso: hin

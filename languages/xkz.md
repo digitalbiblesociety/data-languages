@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كورتوخا
     auto: true
+  - translation_iso: deu
+    name: Kurtokha
+    auto: true
   - translation_iso: fra
     name: kurtöp
   - translation_iso: hin

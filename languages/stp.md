@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة تيبيهوان الجنوب الشرقية
     auto: true
+  - translation_iso: deu
+    name: Southeastern Tepehuan
+    auto: true
   - translation_iso: fra
     name: tepehuan du Sud-Est
   - translation_iso: hin

@@ -14,6 +14,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dutton_Speedwords"
 translations:
   - translation_iso: ara
     name: رب لن رئي
+  - translation_iso: deu
+    name: Dutton World Speedwords
+    auto: true
   - translation_iso: fra
     name: speedwords de Dutton
   - translation_iso: hin

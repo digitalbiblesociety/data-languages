@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك كوايتسوسبان
     auto: true
+  - translation_iso: deu
+    name: Coatzospan Mixtec
+    auto: true
   - translation_iso: fra
     name: mixtèque de Coatzospan
   - translation_iso: hin

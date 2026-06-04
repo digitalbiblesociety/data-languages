@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تورونا
     auto: true
+  - translation_iso: deu
+    name: Torona
   - translation_iso: fra
     name: Torona
     auto: true

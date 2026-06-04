@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيلاغا
     auto: true
+  - translation_iso: deu
+    name: Pilagá
+    auto: true
   - translation_iso: fra
     name: pilagá
   - translation_iso: hin

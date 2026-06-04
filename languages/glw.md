@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غلآفدآ
     auto: true
+  - translation_iso: deu
+    name: Glavda
+    auto: true
   - translation_iso: fra
     name: glavda
   - translation_iso: hin

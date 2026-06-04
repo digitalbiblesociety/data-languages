@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانينغدون نيندم
     auto: true
+  - translation_iso: deu
+    name: Kaningdon-Nindem
+    auto: true
   - translation_iso: fra
     name: Kaningdon-Nindem
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أكاسيليم
     auto: true
+  - translation_iso: deu
+    name: Akaselem
   - translation_iso: fra
     name: Akaselem
   - translation_iso: hin

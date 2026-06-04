@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: فولسكية
     auto: true
+  - translation_iso: deu
+    name: Volskisch
   - translation_iso: fra
     name: volsque
   - translation_iso: hin

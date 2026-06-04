@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة منونج الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Southern Mnong
+    auto: true
   - translation_iso: fra
     name: Mnong méridional
     auto: true

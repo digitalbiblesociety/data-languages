@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ميددلي كهمير تو كي
     auto: true
+  - translation_iso: deu
+    name: Mittelkhmer (1400 bis 1850 n. Chr.)
+    auto: true
   - translation_iso: fra
     name: moyen khmer
   - translation_iso: hin

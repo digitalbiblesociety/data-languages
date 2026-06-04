@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Latvian_language"
 translations:
   - translation_iso: ara
     name: اللاتفية
+  - translation_iso: deu
+    name: Lettisch
   - translation_iso: fra
     name: letton
   - translation_iso: hin

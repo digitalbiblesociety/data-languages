@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: سيماندانج
     auto: true
+  - translation_iso: deu
+    name: Semandang
+    auto: true
   - translation_iso: fra
     name: semandang
   - translation_iso: hin

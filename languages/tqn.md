@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تينينو
     auto: true
+  - translation_iso: deu
+    name: Tenino
+    auto: true
   - translation_iso: fra
     name: tenino
   - translation_iso: hin

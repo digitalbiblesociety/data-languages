@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Tibetan"
 translations:
   - translation_iso: ara
     name: لغة تبتية قديمة
+  - translation_iso: deu
+    name: Alttibetisch
   - translation_iso: fra
     name: tibétain ancien
   - translation_iso: hin

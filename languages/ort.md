@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أديفاسي أوريا
     auto: true
+  - translation_iso: deu
+    name: Adivasi-Oriya
+    auto: true
   - translation_iso: fra
     name: oriya adivasi
   - translation_iso: hin

@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jordanian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الأردنية
+  - translation_iso: deu
+    name: Jordanische Gebärdensprache
   - translation_iso: fra
     name: langue des signes jordanienne
   - translation_iso: hin

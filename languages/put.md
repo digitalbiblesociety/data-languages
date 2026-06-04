@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوتوه
     auto: true
+  - translation_iso: deu
+    name: Putoh
+    auto: true
   - translation_iso: fra
     name: putoh
   - translation_iso: hin

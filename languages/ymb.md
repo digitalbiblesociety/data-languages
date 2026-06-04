@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يمبس
     auto: true
+  - translation_iso: deu
+    name: Yambes
+    auto: true
   - translation_iso: fra
     name: Yambes
     auto: true

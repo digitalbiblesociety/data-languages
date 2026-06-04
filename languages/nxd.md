@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغاندو (جمهورية الكونغو الديمقراطية)
     auto: true
+  - translation_iso: deu
+    name: Ngando (Demokratische Republik Kongo)
+    auto: true
   - translation_iso: fra
     name: Ngando (République démocratique du Congo)
     auto: true

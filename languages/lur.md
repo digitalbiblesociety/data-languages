@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة اورا
     auto: true
+  - translation_iso: deu
+    name: Laura
+    auto: true
   - translation_iso: fra
     name: laura
   - translation_iso: hin

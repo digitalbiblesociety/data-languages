@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ويككييانغان
     auto: true
+  - translation_iso: deu
+    name: Wik-Keyangan
+    auto: true
   - translation_iso: fra
     name: wik-keyangan
   - translation_iso: hin

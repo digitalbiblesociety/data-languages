@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maba_language"
 translations:
   - translation_iso: ara
     name: مبا
+  - translation_iso: deu
+    name: Maba
   - translation_iso: fra
     name: maba
   - translation_iso: hin

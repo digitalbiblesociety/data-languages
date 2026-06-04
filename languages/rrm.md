@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moriori_language"
 translations:
   - translation_iso: ara
     name: لغة موريورية
+  - translation_iso: deu
+    name: Moriori
   - translation_iso: fra
     name: moriori
   - translation_iso: hin

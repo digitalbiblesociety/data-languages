@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبي
     auto: true
+  - translation_iso: deu
+    name: Mpi
+    auto: true
   - translation_iso: fra
     name: mpi
   - translation_iso: hin

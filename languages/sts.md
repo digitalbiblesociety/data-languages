@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة شوماشتي
     auto: true
+  - translation_iso: deu
+    name: Shumashti
+    auto: true
   - translation_iso: fra
     name: shumashti
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الهاوسا
     auto: true
+  - translation_iso: deu
+    name: Hausa-Gebärdensprache
   - translation_iso: fra
     name: langue des signes haoussa
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة إيوام
     auto: true
+  - translation_iso: deu
+    name: Iwam
+    auto: true
   - translation_iso: fra
     name: iwam
   - translation_iso: hin

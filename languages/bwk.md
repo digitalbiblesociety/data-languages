@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باوواكي
     auto: true
+  - translation_iso: deu
+    name: Bauwaki
+    auto: true
   - translation_iso: fra
     name: bauwaki
   - translation_iso: hin

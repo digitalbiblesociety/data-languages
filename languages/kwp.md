@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوديا
     auto: true
+  - translation_iso: deu
+    name: Kodia
+    auto: true
   - translation_iso: fra
     name: kodia
   - translation_iso: hin

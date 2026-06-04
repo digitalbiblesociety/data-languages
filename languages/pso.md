@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البولندية
     auto: true
+  - translation_iso: deu
+    name: Polnische Gebärdensprache
   - translation_iso: fra
     name: langue des signes polonaise
   - translation_iso: hin

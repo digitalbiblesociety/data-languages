@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شانيناوا
     auto: true
+  - translation_iso: deu
+    name: Shanenawa
+    auto: true
   - translation_iso: fra
     name: shanenawa
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتيك
     auto: true
+  - translation_iso: deu
+    name: Batek
+    auto: true
   - translation_iso: fra
     name: batek
   - translation_iso: hin

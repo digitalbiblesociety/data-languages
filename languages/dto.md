@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تومو سو دوجون
     auto: true
+  - translation_iso: deu
+    name: Tommo So Dogon
+    auto: true
   - translation_iso: fra
     name: tommo so
   - translation_iso: hin

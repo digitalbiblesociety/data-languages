@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بونيريت
     auto: true
+  - translation_iso: deu
+    name: Bonerate
+    auto: true
   - translation_iso: fra
     name: Bonerate
     auto: true

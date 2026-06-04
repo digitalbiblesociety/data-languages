@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مالمبا
     auto: true
+  - translation_iso: deu
+    name: Malimba
   - translation_iso: fra
     name: malimba
   - translation_iso: hin

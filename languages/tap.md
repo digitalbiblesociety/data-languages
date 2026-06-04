@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تابوا
     auto: true
+  - translation_iso: deu
+    name: Taabwa
+    auto: true
   - translation_iso: fra
     name: tabwa
   - translation_iso: hin

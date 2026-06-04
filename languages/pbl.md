@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ماك نيجيريا
     auto: true
+  - translation_iso: deu
+    name: Mak (Nigeria)
+    auto: true
   - translation_iso: fra
     name: mak
   - translation_iso: hin

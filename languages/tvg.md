@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: توجونيسي
     auto: true
+  - translation_iso: deu
+    name: Tugunesisch
+    auto: true
   - translation_iso: fra
     name: Tugunais
     auto: true

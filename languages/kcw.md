@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كابواري
     auto: true
+  - translation_iso: deu
+    name: Kabwari
+    auto: true
   - translation_iso: fra
     name: langue kabwari
   - translation_iso: hin

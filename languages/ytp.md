@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ثوفو
     auto: true
+  - translation_iso: deu
+    name: Thopho
+    auto: true
   - translation_iso: fra
     name: Thopho
     auto: true

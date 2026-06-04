@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واررغاماي
     auto: true
+  - translation_iso: deu
+    name: Warrgamay
+    auto: true
   - translation_iso: fra
     name: warrgamay
   - translation_iso: hin

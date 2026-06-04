@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khowar"
 translations:
   - translation_iso: ara
     name: كهوار
+  - translation_iso: deu
+    name: Khowar
   - translation_iso: fra
     name: khowar
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناونا
     auto: true
+  - translation_iso: deu
+    name: Nauna
+    auto: true
   - translation_iso: fra
     name: nauna
   - translation_iso: hin

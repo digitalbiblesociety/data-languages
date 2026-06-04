@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أهانتا
     auto: true
+  - translation_iso: deu
+    name: Ahanta
   - translation_iso: fra
     name: ahanta
   - translation_iso: hin

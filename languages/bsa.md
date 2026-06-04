@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: أبينومن
     auto: true
+  - translation_iso: deu
+    name: Abinomn
+    auto: true
   - translation_iso: fra
     name: abinomn
   - translation_iso: hin

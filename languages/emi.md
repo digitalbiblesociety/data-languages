@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موسو-إيميرا
     auto: true
+  - translation_iso: deu
+    name: Mussau-Emira
+    auto: true
   - translation_iso: fra
     name: mussau-emira
   - translation_iso: hin

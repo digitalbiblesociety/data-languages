@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكيان الشرقية
     auto: true
+  - translation_iso: deu
+    name: East Makian
+    auto: true
   - translation_iso: fra
     name: taba
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سكو
     auto: true
+  - translation_iso: deu
+    name: Skou
+    auto: true
   - translation_iso: fra
     name: skou
   - translation_iso: hin

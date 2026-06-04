@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيسيبي
     auto: true
+  - translation_iso: deu
+    name: Isebe
+    auto: true
   - translation_iso: fra
     name: Isebe
     auto: true

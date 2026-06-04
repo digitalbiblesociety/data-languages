@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماكونا
     auto: true
+  - translation_iso: deu
+    name: Macuna
+    auto: true
   - translation_iso: fra
     name: macuna
   - translation_iso: hin

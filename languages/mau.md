@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك هواوتلا
     auto: true
+  - translation_iso: deu
+    name: Huautla Mazatec
+    auto: true
   - translation_iso: fra
     name: mazatèque de Huautla
   - translation_iso: hin

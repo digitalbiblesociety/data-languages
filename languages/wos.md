@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هانغا هوندي
     auto: true
+  - translation_iso: deu
+    name: Hanga Hundi
+    auto: true
   - translation_iso: fra
     name: hanga hundi
   - translation_iso: hin

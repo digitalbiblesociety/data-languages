@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيموق
     auto: true
+  - translation_iso: deu
+    name: Temoq
+    auto: true
   - translation_iso: fra
     name: temoq
   - translation_iso: hin

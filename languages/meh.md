@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك تلاكسياكو الجنوبي الغربي
     auto: true
+  - translation_iso: deu
+    name: Southwestern Tlaxiaco Mixtec
+    auto: true
   - translation_iso: fra
     name: Mixtèque du sud-ouest de Tlaxiaco
     auto: true

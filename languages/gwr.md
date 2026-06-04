@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوإرإ
     auto: true
+  - translation_iso: deu
+    name: Gwere
+    auto: true
   - translation_iso: fra
     name: gwere
   - translation_iso: hin

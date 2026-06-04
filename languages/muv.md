@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موتوفان
     auto: true
+  - translation_iso: deu
+    name: Muthuvan
+    auto: true
   - translation_iso: fra
     name: muduva
   - translation_iso: hin

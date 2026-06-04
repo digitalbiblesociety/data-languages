@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوبي
     auto: true
+  - translation_iso: deu
+    name: Ubi
+    auto: true
   - translation_iso: fra
     name: ubi
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Malayalam"
 translations:
   - translation_iso: ara
     name: المليالية
+  - translation_iso: deu
+    name: Malayalam
   - translation_iso: fra
     name: malayâlam
   - translation_iso: hin

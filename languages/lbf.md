@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيناني
     auto: true
+  - translation_iso: deu
+    name: Tinani
+    auto: true
   - translation_iso: fra
     name: tinani
   - translation_iso: hin

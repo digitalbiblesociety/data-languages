@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نكونيا
     auto: true
+  - translation_iso: deu
+    name: Nkonya
   - translation_iso: fra
     name: nkonya
   - translation_iso: hin

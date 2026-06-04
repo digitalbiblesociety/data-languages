@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توموييب
     auto: true
+  - translation_iso: deu
+    name: Tomoip
+    auto: true
   - translation_iso: fra
     name: tomoip
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كايبوبو
     auto: true
+  - translation_iso: deu
+    name: Kaibobo
   - translation_iso: fra
     name: kaibobo
   - translation_iso: hin

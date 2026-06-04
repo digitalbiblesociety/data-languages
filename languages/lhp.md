@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة هوكپو
     auto: true
+  - translation_iso: deu
+    name: Lhokpu
+    auto: true
   - translation_iso: fra
     name: lhokpu
   - translation_iso: hin

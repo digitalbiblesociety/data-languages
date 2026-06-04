@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غارروا
     auto: true
+  - translation_iso: deu
+    name: Garrwa
+    auto: true
   - translation_iso: fra
     name: garawa
   - translation_iso: hin

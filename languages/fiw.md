@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفيواجا
     auto: true
+  - translation_iso: deu
+    name: Fiwaga
+    auto: true
   - translation_iso: fra
     name: fiwaga
   - translation_iso: hin

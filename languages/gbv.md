@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الجبانو
     auto: true
+  - translation_iso: deu
+    name: Gbanu
+    auto: true
   - translation_iso: fra
     name: Gbanu
     auto: true

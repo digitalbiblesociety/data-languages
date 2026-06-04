@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سينيكاهوا ميكستيك
     auto: true
+  - translation_iso: deu
+    name: Sinicahua-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: mixtèque de San Antonio Sinicahua
   - translation_iso: hin

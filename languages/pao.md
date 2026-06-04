@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايوت الشمالية
     auto: true
+  - translation_iso: deu
+    name: Nördliches Paiute
+    auto: true
   - translation_iso: fra
     name: paiute du Nord
   - translation_iso: hin

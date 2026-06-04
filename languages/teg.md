@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيكي تيغي
     auto: true
+  - translation_iso: deu
+    name: Teke-Tege
   - translation_iso: fra
     name: latege
   - translation_iso: hin

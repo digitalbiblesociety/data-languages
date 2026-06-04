@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وولنا
     auto: true
+  - translation_iso: deu
+    name: Wulna
+    auto: true
   - translation_iso: fra
     name: wulna
   - translation_iso: hin

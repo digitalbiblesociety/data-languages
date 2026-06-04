@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ غويانغ الجنوبية الغربية
     auto: true
+  - translation_iso: deu
+    name: Südwestliches Guiyang-Hmong
+    auto: true
   - translation_iso: fra
     name: guiyang du Sud-Ouest
   - translation_iso: hin

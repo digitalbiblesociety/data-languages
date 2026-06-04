@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندامبا
     auto: true
+  - translation_iso: deu
+    name: Ndamba
+    auto: true
   - translation_iso: fra
     name: ndamba
   - translation_iso: hin

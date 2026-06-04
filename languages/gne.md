@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غآنآنج
     auto: true
+  - translation_iso: deu
+    name: Ganang
+    auto: true
   - translation_iso: fra
     name: ganang
   - translation_iso: hin

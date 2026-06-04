@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اللاوية
     auto: true
+  - translation_iso: deu
+    name: Laotische Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: langue des signes laotienne
   - translation_iso: hin

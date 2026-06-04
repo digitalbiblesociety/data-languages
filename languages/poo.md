@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentrales Pomo
+    auto: true
   - translation_iso: fra
     name: pomo central
   - translation_iso: hin

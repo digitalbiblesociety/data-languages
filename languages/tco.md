@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تاونغيو
     auto: true
+  - translation_iso: deu
+    name: Taungyo
+    auto: true
   - translation_iso: fra
     name: taungyo
   - translation_iso: hin

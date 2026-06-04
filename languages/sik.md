@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيكيانا
     auto: true
+  - translation_iso: deu
+    name: Sikiana
+    auto: true
   - translation_iso: fra
     name: kaxuiâna
   - translation_iso: hin

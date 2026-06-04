@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: آمبريم جنوب شرق
     auto: true
+  - translation_iso: deu
+    name: Südost-Ambrym
+    auto: true
   - translation_iso: fra
     name: ambrym du Sud-Est
   - translation_iso: hin

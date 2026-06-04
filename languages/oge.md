@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الجورجية القديمة
     auto: true
+  - translation_iso: deu
+    name: Altgeorgisch
   - translation_iso: fra
     name: vieux géorgien
   - translation_iso: hin

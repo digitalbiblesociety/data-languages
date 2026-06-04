@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مآغɨيي
     auto: true
+  - translation_iso: deu
+    name: Magɨyi
+    auto: true
   - translation_iso: fra
     name: magiyi
   - translation_iso: hin

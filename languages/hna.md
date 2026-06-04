@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مينا
     auto: true
+  - translation_iso: deu
+    name: Mina (Kamerun)
+    auto: true
   - translation_iso: fra
     name: mina
   - translation_iso: hin

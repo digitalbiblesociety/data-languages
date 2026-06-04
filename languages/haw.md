@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hawaiian_language"
 translations:
   - translation_iso: ara
     name: هاوائية
+  - translation_iso: deu
+    name: Hawaiisch
   - translation_iso: fra
     name: hawaïen
   - translation_iso: hin

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: مغبوليزهيآ
     auto: true
+  - translation_iso: deu
+    name: Mgbolizhia
+    auto: true
   - translation_iso: fra
     name: Mgbolizhia
     auto: true

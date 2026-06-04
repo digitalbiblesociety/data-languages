@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cherokee_language"
 translations:
   - translation_iso: ara
     name: شيروكي
+  - translation_iso: deu
+    name: Cherokee
   - translation_iso: fra
     name: cherokee
   - translation_iso: hin

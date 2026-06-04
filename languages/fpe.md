@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإنجليزية الكريولية فرناندو بو
     auto: true
+  - translation_iso: deu
+    name: Fernando-Po-Kreolisch
   - translation_iso: fra
     name: pichi
   - translation_iso: hin

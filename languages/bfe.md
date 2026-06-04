@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيتاف
     auto: true
+  - translation_iso: deu
+    name: Betaf
+    auto: true
   - translation_iso: fra
     name: betaf
   - translation_iso: hin

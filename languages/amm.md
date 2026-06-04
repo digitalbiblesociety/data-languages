@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آما
     auto: true
+  - translation_iso: deu
+    name: Ama (Papua-Neuguinea)
+    auto: true
   - translation_iso: fra
     name: ama
   - translation_iso: hin

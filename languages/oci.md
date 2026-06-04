@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Occitan_language"
 translations:
   - translation_iso: ara
     name: القسطانية
+  - translation_iso: deu
+    name: Okzitanisch
   - translation_iso: fra
     name: occitan
   - translation_iso: hin

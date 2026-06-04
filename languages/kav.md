@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: لغة كاتوكينا
     auto: true
+  - translation_iso: deu
+    name: Katukína
+    auto: true
   - translation_iso: fra
     name: katukina
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيجت
     auto: true
+  - translation_iso: deu
+    name: Seget
+    auto: true
   - translation_iso: fra
     name: seget
   - translation_iso: hin

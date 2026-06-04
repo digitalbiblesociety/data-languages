@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ثاو
     auto: true
+  - translation_iso: deu
+    name: Thao
+    auto: true
   - translation_iso: fra
     name: thao
   - translation_iso: hin

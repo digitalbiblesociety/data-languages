@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غونتآي
     auto: true
+  - translation_iso: deu
+    name: Guntai
+    auto: true
   - translation_iso: fra
     name: Guntai
     auto: true

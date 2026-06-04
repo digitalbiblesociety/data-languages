@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cornish_language"
 translations:
   - translation_iso: ara
     name: الكورنية
+  - translation_iso: deu
+    name: Kornisch
   - translation_iso: fra
     name: cornique
   - translation_iso: hin

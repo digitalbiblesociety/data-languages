@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باسا-جومْنا
     auto: true
+  - translation_iso: deu
+    name: Basa-Gumna
+    auto: true
   - translation_iso: fra
     name: Basa-Gumna
     auto: true

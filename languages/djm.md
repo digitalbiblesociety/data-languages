@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جامساي دوجون
     auto: true
+  - translation_iso: deu
+    name: Jamsay-Dogon
+    auto: true
   - translation_iso: fra
     name: Jamsay dogon
     auto: true

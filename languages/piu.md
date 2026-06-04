@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بينتوبي-لوريتجا
     auto: true
+  - translation_iso: deu
+    name: Pintupi-Luritja
+    auto: true
   - translation_iso: fra
     name: pintupi
   - translation_iso: hin

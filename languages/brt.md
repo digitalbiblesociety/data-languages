@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيتاري
     auto: true
+  - translation_iso: deu
+    name: Bitare
   - translation_iso: fra
     name: bitare
   - translation_iso: hin

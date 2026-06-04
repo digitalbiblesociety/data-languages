@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: أوسكو
     auto: true
+  - translation_iso: deu
+    name: Aframa
   - translation_iso: fra
     name: usku
   - translation_iso: hin

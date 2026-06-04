@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاغالاكا
     auto: true
+  - translation_iso: deu
+    name: Tagalaka
+    auto: true
   - translation_iso: fra
     name: tagalaka
   - translation_iso: hin

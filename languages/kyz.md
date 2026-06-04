@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايابي
     auto: true
+  - translation_iso: deu
+    name: Kayabí
+    auto: true
   - translation_iso: fra
     name: kayabi
   - translation_iso: hin

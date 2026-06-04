@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة وايمها
     auto: true
+  - translation_iso: deu
+    name: Waimaha
+    auto: true
   - translation_iso: fra
     name: bara
   - translation_iso: hin

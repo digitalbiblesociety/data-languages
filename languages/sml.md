@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سما الوسطى
     auto: true
+  - translation_iso: deu
+    name: Zentral-Sama
+    auto: true
   - translation_iso: fra
     name: sama central
   - translation_iso: hin

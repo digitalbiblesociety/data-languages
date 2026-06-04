@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة غرب باربات خام
     auto: true
+  - translation_iso: deu
+    name: West-Parbate-Kham
+    auto: true
   - translation_iso: fra
     name: "kham parbate de l'Ouest"
   - translation_iso: hin

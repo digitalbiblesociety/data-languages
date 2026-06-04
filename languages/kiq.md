@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوسادلي
     auto: true
+  - translation_iso: deu
+    name: Kosadle
+    auto: true
   - translation_iso: fra
     name: kosare
   - translation_iso: hin

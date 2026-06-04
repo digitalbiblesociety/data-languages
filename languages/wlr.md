@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايلاپا
     auto: true
+  - translation_iso: deu
+    name: Wailapa
+    auto: true
   - translation_iso: fra
     name: wailapa
   - translation_iso: hin

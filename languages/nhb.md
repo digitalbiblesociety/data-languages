@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بينج
     auto: true
+  - translation_iso: deu
+    name: Beng
+    auto: true
   - translation_iso: fra
     name: langue beng
   - translation_iso: hin

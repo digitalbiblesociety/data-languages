@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بومبوكول
     auto: true
+  - translation_iso: deu
+    name: Pumpokol
+    auto: true
   - translation_iso: fra
     name: poumpokole
   - translation_iso: hin

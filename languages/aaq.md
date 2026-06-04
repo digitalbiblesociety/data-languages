@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Eastern_Abenaki_language"
 translations:
   - translation_iso: ara
     name: آبيناكي الشرقي
+  - translation_iso: deu
+    name: Östliche Abenaki
   - translation_iso: fra
     name: abénaqui oriental
   - translation_iso: hin

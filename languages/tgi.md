@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لاوونويا
     auto: true
+  - translation_iso: deu
+    name: Lawunuia
+    auto: true
   - translation_iso: fra
     name: lawunuia
   - translation_iso: hin

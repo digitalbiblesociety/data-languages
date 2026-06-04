@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Serer_language"
 translations:
   - translation_iso: ara
     name: لغة سيريرية
+  - translation_iso: deu
+    name: Serer
   - translation_iso: fra
     name: sérère
   - translation_iso: hin

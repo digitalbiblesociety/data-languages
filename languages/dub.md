@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوبلي
     auto: true
+  - translation_iso: deu
+    name: Dubli
+    auto: true
   - translation_iso: fra
     name: dubli
   - translation_iso: hin

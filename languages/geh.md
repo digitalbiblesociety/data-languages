@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hutterite_German"
 translations:
   - translation_iso: ara
     name: الألمانية الهوتريتية
+  - translation_iso: deu
+    name: Hutterisch
   - translation_iso: fra
     name: allemand huttérite
   - translation_iso: hin

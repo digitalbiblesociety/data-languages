@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تامكي
     auto: true
+  - translation_iso: deu
+    name: Tamki
+    auto: true
   - translation_iso: fra
     name: tamki
   - translation_iso: hin

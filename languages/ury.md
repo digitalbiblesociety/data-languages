@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوريا
     auto: true
+  - translation_iso: deu
+    name: Orya
   - translation_iso: fra
     name: orya
   - translation_iso: hin

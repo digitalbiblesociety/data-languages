@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Phrygian_language"
 translations:
   - translation_iso: ara
     name: لغة فريجية
+  - translation_iso: deu
+    name: Phrygisch
   - translation_iso: fra
     name: phrygien
   - translation_iso: hin

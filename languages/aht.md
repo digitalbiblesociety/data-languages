@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أهتينا
     auto: true
+  - translation_iso: deu
+    name: Ahtna
   - translation_iso: fra
     name: ahtna
   - translation_iso: hin

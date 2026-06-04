@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيتلا
     auto: true
+  - translation_iso: deu
+    name: Settla
+    auto: true
   - translation_iso: fra
     name: settla
   - translation_iso: hin

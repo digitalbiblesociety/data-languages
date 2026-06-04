@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيتي
     auto: true
+  - translation_iso: deu
+    name: Biete
+    auto: true
   - translation_iso: fra
     name: biete
   - translation_iso: hin

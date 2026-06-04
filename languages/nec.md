@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيديبانج
     auto: true
+  - translation_iso: deu
+    name: Nedebang
+    auto: true
   - translation_iso: fra
     name: nedebang
   - translation_iso: hin

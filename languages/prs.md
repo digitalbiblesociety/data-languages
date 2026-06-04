@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dari"
 translations:
   - translation_iso: ara
     name: الدرية
+  - translation_iso: deu
+    name: Dari
   - translation_iso: fra
     name: dari
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيكويل
     auto: true
+  - translation_iso: deu
+    name: Bekwil
   - translation_iso: fra
     name: bekwel
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جاكاتي
     auto: true
+  - translation_iso: deu
+    name: Jakati
+    auto: true
   - translation_iso: fra
     name: inku
   - translation_iso: hin

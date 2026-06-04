@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوامهي وري
     auto: true
+  - translation_iso: deu
+    name: Gwamhi-Wuri
+    auto: true
   - translation_iso: fra
     name: gwamhi-wuri
   - translation_iso: hin

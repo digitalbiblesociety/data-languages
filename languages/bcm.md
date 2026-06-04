@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بانوني
     auto: true
+  - translation_iso: deu
+    name: Bannoni
+    auto: true
   - translation_iso: fra
     name: bannoni
   - translation_iso: hin

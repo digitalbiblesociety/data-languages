@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وامبولي
     auto: true
+  - translation_iso: deu
+    name: Wambule
+    auto: true
   - translation_iso: fra
     name: wambule
   - translation_iso: hin

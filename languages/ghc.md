@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: الغيلية الهيبرنو-الاسكتلندية
     auto: true
+  - translation_iso: deu
+    name: klassisches Gälisch
   - translation_iso: fra
     name: Gaélique hiberno-écossais
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الشيلك
     auto: true
+  - translation_iso: deu
+    name: Schilluk
   - translation_iso: fra
     name: shilluk
   - translation_iso: hin

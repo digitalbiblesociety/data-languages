@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أرابازو
     auto: true
+  - translation_iso: deu
+    name: Arapaso
+    auto: true
   - translation_iso: fra
     name: arapaso
   - translation_iso: hin

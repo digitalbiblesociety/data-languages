@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كرونجو
     auto: true
+  - translation_iso: deu
+    name: Krongo
+    auto: true
   - translation_iso: fra
     name: krongo
   - translation_iso: hin

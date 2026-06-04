@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاتويو
     auto: true
+  - translation_iso: deu
+    name: Tatuyo
+    auto: true
   - translation_iso: fra
     name: tatuyo
   - translation_iso: hin

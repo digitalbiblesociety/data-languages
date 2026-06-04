@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيراقو
     auto: true
+  - translation_iso: deu
+    name: Iraqw
   - translation_iso: fra
     name: iraqw
   - translation_iso: hin

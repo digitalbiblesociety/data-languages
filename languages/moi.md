@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مبوي
     auto: true
+  - translation_iso: deu
+    name: Mboi
+    auto: true
   - translation_iso: fra
     name: Mboi
     auto: true

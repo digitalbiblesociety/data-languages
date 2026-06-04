@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة موجي
     auto: true
+  - translation_iso: deu
+    name: Moji
+    auto: true
   - translation_iso: fra
     name: moji
   - translation_iso: hin

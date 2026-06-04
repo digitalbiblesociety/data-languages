@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بايكتشي
     auto: true
+  - translation_iso: deu
+    name: Paekche
+    auto: true
   - translation_iso: fra
     name: baekje
   - translation_iso: hin

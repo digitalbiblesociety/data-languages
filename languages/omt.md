@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوموتيك
     auto: true
+  - translation_iso: deu
+    name: Omotik
   - translation_iso: fra
     name: omotik
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكويبا
     auto: true
+  - translation_iso: deu
+    name: Cuiba
+    auto: true
   - translation_iso: fra
     name: cuiba
   - translation_iso: hin

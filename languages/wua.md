@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويكنغينكهيرا
     auto: true
+  - translation_iso: deu
+    name: Wikngenchera
+    auto: true
   - translation_iso: fra
     name: wikngenchera
   - translation_iso: hin

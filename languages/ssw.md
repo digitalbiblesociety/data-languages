@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Swazi_language"
 translations:
   - translation_iso: ara
     name: السوازية
+  - translation_iso: deu
+    name: Siswati
   - translation_iso: fra
     name: swati
   - translation_iso: hin

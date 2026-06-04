@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوندوفادي
     auto: true
+  - translation_iso: deu
+    name: Kunduvadi
+    auto: true
   - translation_iso: fra
     name: Kunduvadi
     auto: true

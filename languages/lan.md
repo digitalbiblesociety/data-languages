@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لارو
     auto: true
+  - translation_iso: deu
+    name: Laru
+    auto: true
   - translation_iso: fra
     name: laru
   - translation_iso: hin

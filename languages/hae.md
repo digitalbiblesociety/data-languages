@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الأرومو الشرقية
     auto: true
+  - translation_iso: deu
+    name: Östliches Oromo
+    auto: true
   - translation_iso: fra
     name: "oromo de l'Est"
   - translation_iso: hin

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة سونوار
     auto: true
+  - translation_iso: deu
+    name: Sunwar
   - translation_iso: fra
     name: sunwar
   - translation_iso: hin

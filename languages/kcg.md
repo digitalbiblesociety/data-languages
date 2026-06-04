@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tyap"
 translations:
   - translation_iso: ara
     name: لغة تياب
+  - translation_iso: deu
+    name: Tjap
   - translation_iso: fra
     name: tyap
   - translation_iso: hin

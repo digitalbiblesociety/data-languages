@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خيروار
     auto: true
+  - translation_iso: deu
+    name: Khirwar
+    auto: true
   - translation_iso: fra
     name: Khirwar
     auto: true

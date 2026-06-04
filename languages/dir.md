@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ديريم
     auto: true
+  - translation_iso: deu
+    name: Dirim
+    auto: true
   - translation_iso: fra
     name: dirim
   - translation_iso: hin

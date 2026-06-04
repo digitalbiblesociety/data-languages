@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هإردé
     auto: true
+  - translation_iso: deu
+    name: Herdé
+    auto: true
   - translation_iso: fra
     name: herdé
   - translation_iso: hin

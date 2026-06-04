@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإكيت
     auto: true
+  - translation_iso: deu
+    name: Ekit
+    auto: true
   - translation_iso: fra
     name: ekit
   - translation_iso: hin

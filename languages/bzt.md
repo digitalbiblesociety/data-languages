@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: بريثينج
     auto: true
+  - translation_iso: deu
+    name: Brithenig
   - translation_iso: fra
     name: brithenig
   - translation_iso: hin

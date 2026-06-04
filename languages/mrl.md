@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مورتلوكيسي
     auto: true
+  - translation_iso: deu
+    name: Mortlockesische Sprache
   - translation_iso: fra
     name: mortlock
   - translation_iso: hin

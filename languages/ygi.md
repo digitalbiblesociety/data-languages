@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينينجايي
     auto: true
+  - translation_iso: deu
+    name: Yiningayi
+    auto: true
   - translation_iso: fra
     name: yiningayi
   - translation_iso: hin

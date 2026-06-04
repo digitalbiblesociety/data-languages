@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دارو ماتو ميلانو
     auto: true
+  - translation_iso: deu
+    name: Daro-Matu Melanau
+    auto: true
   - translation_iso: fra
     name: daro-matu
   - translation_iso: hin

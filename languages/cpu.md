@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيتشيس أشينينكا
     auto: true
+  - translation_iso: deu
+    name: Pichis Ashéninka
+    auto: true
   - translation_iso: fra
     name: Ashéninka du Pichis
     auto: true

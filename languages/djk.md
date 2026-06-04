@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيسترن مارون كريول
     auto: true
+  - translation_iso: deu
+    name: Östliches Maroon-Kreol
+    auto: true
   - translation_iso: fra
     name: aluku-ndjuka-paramaka
   - translation_iso: hin

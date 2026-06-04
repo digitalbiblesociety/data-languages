@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا كالديرون الجبلية
     auto: true
+  - translation_iso: deu
+    name: Calderón Hochland-Quichua
+    auto: true
   - translation_iso: fra
     name: quichua de Calderón
   - translation_iso: hin

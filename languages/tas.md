@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاي بوي
     auto: true
+  - translation_iso: deu
+    name: Tay Boi
   - translation_iso: fra
     name: tây bồi
   - translation_iso: hin

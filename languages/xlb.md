@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لوب باء
     auto: true
+  - translation_iso: deu
+    name: Loup B
+    auto: true
   - translation_iso: fra
     name: loup b
   - translation_iso: hin

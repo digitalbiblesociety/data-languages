@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنيين موروفو
     auto: true
+  - translation_iso: deu
+    name: Anyin Morofo
+    auto: true
   - translation_iso: fra
     name: agni morofo
   - translation_iso: hin

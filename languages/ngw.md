@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجوابا
     auto: true
+  - translation_iso: deu
+    name: Ngwaba
+    auto: true
   - translation_iso: fra
     name: ngwaba
   - translation_iso: hin

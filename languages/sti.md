@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بولو ستينج
     auto: true
+  - translation_iso: deu
+    name: Bulo Stieng
+    auto: true
   - translation_iso: fra
     name: stieng de Bulo
   - translation_iso: hin

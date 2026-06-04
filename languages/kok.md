@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Konkani_language"
 translations:
   - translation_iso: ara
     name: الكونكانية
+  - translation_iso: deu
+    name: Konkani
   - translation_iso: fra
     name: konkani
   - translation_iso: hin

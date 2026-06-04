@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غاام
     auto: true
+  - translation_iso: deu
+    name: Gaam
   - translation_iso: fra
     name: gaahmg
   - translation_iso: hin

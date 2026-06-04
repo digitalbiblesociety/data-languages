@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فونج-نيانج
     auto: true
+  - translation_iso: deu
+    name: Phong-Kniang
+    auto: true
   - translation_iso: fra
     name: phong-kniang
   - translation_iso: hin

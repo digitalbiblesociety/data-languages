@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جنوب بينغ الصينية
     auto: true
+  - translation_iso: deu
+    name: Südliches Ping-Chinesisch
+    auto: true
   - translation_iso: fra
     name: Pinghua méridional
     auto: true

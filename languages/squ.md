@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سكواميش
     auto: true
+  - translation_iso: deu
+    name: Squamish
   - translation_iso: fra
     name: squamish
   - translation_iso: hin

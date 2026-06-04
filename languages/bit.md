@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيرينومو
     auto: true
+  - translation_iso: deu
+    name: Berinomo
+    auto: true
   - translation_iso: fra
     name: berinomo
   - translation_iso: hin

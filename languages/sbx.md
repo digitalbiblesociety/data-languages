@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيبيرونج
     auto: true
+  - translation_iso: deu
+    name: Seberuang
+    auto: true
   - translation_iso: fra
     name: Seberuang
     auto: true

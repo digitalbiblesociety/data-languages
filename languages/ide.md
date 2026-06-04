@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيديري
     auto: true
+  - translation_iso: deu
+    name: Idere
+    auto: true
   - translation_iso: fra
     name: Idere
     auto: true

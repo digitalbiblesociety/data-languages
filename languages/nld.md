@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dutch_language"
 translations:
   - translation_iso: ara
     name: الهولندية
+  - translation_iso: deu
+    name: Niederländisch
   - translation_iso: fra
     name: néerlandais
   - translation_iso: hin

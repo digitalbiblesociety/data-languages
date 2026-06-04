@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ليهار
     auto: true
+  - translation_iso: deu
+    name: Laalaa
   - translation_iso: fra
     name: léhar
   - translation_iso: hin

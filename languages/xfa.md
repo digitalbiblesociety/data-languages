@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: فاليسكان
     auto: true
+  - translation_iso: deu
+    name: Faliskisch
   - translation_iso: fra
     name: falisque
   - translation_iso: hin

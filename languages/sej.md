@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيني
     auto: true
+  - translation_iso: deu
+    name: Sene
+    auto: true
   - translation_iso: fra
     name: sene
   - translation_iso: hin

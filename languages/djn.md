@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جاوين
     auto: true
+  - translation_iso: deu
+    name: Jawoyn
+    auto: true
   - translation_iso: fra
     name: djauan
   - translation_iso: hin

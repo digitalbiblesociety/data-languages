@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بينانج
     auto: true
+  - translation_iso: deu
+    name: Penang-Gebärdensprache
   - translation_iso: fra
     name: langue des signes de Penang
   - translation_iso: hin

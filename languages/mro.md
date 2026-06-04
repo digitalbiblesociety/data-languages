@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة مرو
     auto: true
+  - translation_iso: deu
+    name: Mru
   - translation_iso: fra
     name: mru
   - translation_iso: hin

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Musasa_language"
 translations:
   - translation_iso: ara
     name: لغة موساساوية
+  - translation_iso: deu
+    name: Musasa
+    auto: true
   - translation_iso: fra
     name: Musasa
     auto: true

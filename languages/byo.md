@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بييو
     auto: true
+  - translation_iso: deu
+    name: Biyo
+    auto: true
   - translation_iso: fra
     name: biyo
   - translation_iso: hin

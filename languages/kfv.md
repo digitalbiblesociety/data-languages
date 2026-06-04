@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الكاماراتية
     auto: true
+  - translation_iso: deu
+    name: Kurmukar
+    auto: true
   - translation_iso: fra
     name: Kurmukar
     auto: true

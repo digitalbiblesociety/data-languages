@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويتاموت
     auto: true
+  - translation_iso: deu
+    name: Wetamut
+    auto: true
   - translation_iso: fra
     name: dorig
   - translation_iso: hin

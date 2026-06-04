@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نجيريب
     auto: true
+  - translation_iso: deu
+    name: Njerep
   - translation_iso: fra
     name: njerep
   - translation_iso: hin

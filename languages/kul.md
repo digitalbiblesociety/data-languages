@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوليري
     auto: true
+  - translation_iso: deu
+    name: Kulere
+    auto: true
   - translation_iso: fra
     name: Kulere
     auto: true

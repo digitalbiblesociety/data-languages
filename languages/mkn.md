@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو كوبانج
     auto: true
+  - translation_iso: deu
+    name: Kupang-Malaiisch
+    auto: true
   - translation_iso: fra
     name: malais kupang
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: شيني
     auto: true
+  - translation_iso: deu
+    name: Sheni
+    auto: true
   - translation_iso: fra
     name: sheni
   - translation_iso: hin

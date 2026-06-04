@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هولالا
     auto: true
+  - translation_iso: deu
+    name: Hulaula
   - translation_iso: fra
     name: hulaula
   - translation_iso: hin

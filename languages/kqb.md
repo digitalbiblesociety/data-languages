@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوفاي
     auto: true
+  - translation_iso: deu
+    name: Kovai
+    auto: true
   - translation_iso: fra
     name: Kovai
     auto: true

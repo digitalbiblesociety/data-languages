@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أودو
     auto: true
+  - translation_iso: deu
+    name: "O'du"
+    auto: true
   - translation_iso: fra
     name: iduh
   - translation_iso: hin

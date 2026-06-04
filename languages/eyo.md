@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكايو
     auto: true
+  - translation_iso: deu
+    name: Keiyo
+    auto: true
   - translation_iso: fra
     name: keyo
   - translation_iso: hin

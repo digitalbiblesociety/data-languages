@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوريخون
     auto: true
+  - translation_iso: deu
+    name: Orejón
+    auto: true
   - translation_iso: fra
     name: orejón
   - translation_iso: hin

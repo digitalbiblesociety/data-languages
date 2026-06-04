@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "كوارا'اي"
     auto: true
+  - translation_iso: deu
+    name: "Kwara'ae"
+    auto: true
   - translation_iso: fra
     name: kwara’ae
   - translation_iso: hin

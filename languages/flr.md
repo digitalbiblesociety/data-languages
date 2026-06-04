@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الفولييرو
     auto: true
+  - translation_iso: deu
+    name: Fuliiru
+    auto: true
   - translation_iso: fra
     name: fuliro
   - translation_iso: hin

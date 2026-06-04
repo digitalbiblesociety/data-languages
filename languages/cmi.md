@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإمبيرا-تشامي
     auto: true
+  - translation_iso: deu
+    name: Emberá-Chamí
+    auto: true
   - translation_iso: fra
     name: emberá chamí
   - translation_iso: hin

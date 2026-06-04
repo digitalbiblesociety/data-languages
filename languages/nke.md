@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديوك
     auto: true
+  - translation_iso: deu
+    name: Duke
+    auto: true
   - translation_iso: fra
     name: duke
   - translation_iso: hin

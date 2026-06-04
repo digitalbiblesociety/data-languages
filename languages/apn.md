@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أبيناييه
     auto: true
+  - translation_iso: deu
+    name: Apinayé
+    auto: true
   - translation_iso: fra
     name: apinajé
   - translation_iso: hin

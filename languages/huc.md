@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ǂHua
     auto: true
+  - translation_iso: deu
+    name: Hoan-Sprache
   - translation_iso: fra
     name: ǂhoan
   - translation_iso: hin

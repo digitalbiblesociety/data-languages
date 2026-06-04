@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بروفيدينسيا
     auto: true
+  - translation_iso: deu
+    name: Providencia-Gebärdensprache
   - translation_iso: fra
     name: langue des signes de Providencia
   - translation_iso: hin

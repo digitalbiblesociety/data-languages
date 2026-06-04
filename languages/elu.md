@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الإلو
     auto: true
+  - translation_iso: deu
+    name: Elu
+    auto: true
   - translation_iso: fra
     name: elu
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أغاتو
     auto: true
+  - translation_iso: deu
+    name: Agatu
   - translation_iso: fra
     name: agatu
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Badyara_language"
 translations:
   - translation_iso: ara
     name: باديارا
+  - translation_iso: deu
+    name: Badyara
   - translation_iso: fra
     name: badiaranké
   - translation_iso: hin

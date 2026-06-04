@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيرايا
     auto: true
+  - translation_iso: deu
+    name: Iraya
+    auto: true
   - translation_iso: fra
     name: iraya
   - translation_iso: hin

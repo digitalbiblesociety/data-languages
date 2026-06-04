@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة السويسرية الفرنسية
     auto: true
+  - translation_iso: deu
+    name: Westschweizer Gebärdensprache
   - translation_iso: fra
     name: langue des signes de Suisse romande
   - translation_iso: hin

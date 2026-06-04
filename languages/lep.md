@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة يپكها
     auto: true
+  - translation_iso: deu
+    name: Lepcha
   - translation_iso: fra
     name: lepcha
   - translation_iso: hin

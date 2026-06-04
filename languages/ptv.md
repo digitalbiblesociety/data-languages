@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بورت فاتو
     auto: true
+  - translation_iso: deu
+    name: Port Vato
+    auto: true
   - translation_iso: fra
     name: port-vato
   - translation_iso: hin

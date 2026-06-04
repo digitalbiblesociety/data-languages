@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا بوليفيا الشمالية
     auto: true
+  - translation_iso: deu
+    name: nordbolivianisches Quechua
   - translation_iso: fra
     name: quechua bolivien du Nord
   - translation_iso: hin

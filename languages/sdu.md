@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سارودو
     auto: true
+  - translation_iso: deu
+    name: Sarudu
+    auto: true
   - translation_iso: fra
     name: Sarudu
     auto: true

@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: كينابوي
     auto: true
+  - translation_iso: deu
+    name: Kenaboi
+    auto: true
   - translation_iso: fra
     name: Kenaboi
     auto: true

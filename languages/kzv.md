@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوميانداريت
     auto: true
+  - translation_iso: deu
+    name: Komyandaret
+    auto: true
   - translation_iso: fra
     name: komyandaret
   - translation_iso: hin

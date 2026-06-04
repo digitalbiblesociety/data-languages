@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هرزاني
     auto: true
+  - translation_iso: deu
+    name: Harzandi
   - translation_iso: fra
     name: harzani
   - translation_iso: hin

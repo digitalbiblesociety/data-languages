@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة الشوني
     auto: true
+  - translation_iso: deu
+    name: Shawnee
+    auto: true
   - translation_iso: fra
     name: shawnee
   - translation_iso: hin

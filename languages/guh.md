@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآهيبو
     auto: true
+  - translation_iso: deu
+    name: Guahibo
+    auto: true
   - translation_iso: fra
     name: sikuani
   - translation_iso: hin

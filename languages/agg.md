@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنغور
     auto: true
+  - translation_iso: deu
+    name: Angor
+    auto: true
   - translation_iso: fra
     name: angor
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيركيري
     auto: true
+  - translation_iso: deu
+    name: Kirikiri
+    auto: true
   - translation_iso: fra
     name: kirikiri
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلاري
     auto: true
+  - translation_iso: deu
+    name: Bellari
+    auto: true
   - translation_iso: fra
     name: bellari
   - translation_iso: hin

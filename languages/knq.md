@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كينتاق
     auto: true
+  - translation_iso: deu
+    name: Kintaq
+    auto: true
   - translation_iso: fra
     name: Kintaq
     auto: true

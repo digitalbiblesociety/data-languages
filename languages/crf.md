@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الكارامانتا
     auto: true
+  - translation_iso: deu
+    name: Caramanta
+    auto: true
   - translation_iso: fra
     name: Caramanta
     auto: true

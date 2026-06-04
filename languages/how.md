@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هوني
     auto: true
+  - translation_iso: deu
+    name: Honi
   - translation_iso: fra
     name: honi
   - translation_iso: hin

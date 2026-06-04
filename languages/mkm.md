@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موكلين
     auto: true
+  - translation_iso: deu
+    name: Moklen
+    auto: true
   - translation_iso: fra
     name: moklen
   - translation_iso: hin

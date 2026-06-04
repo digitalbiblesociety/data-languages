@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نجليما
     auto: true
+  - translation_iso: deu
+    name: Ngelima
+    auto: true
   - translation_iso: fra
     name: angba
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جونكور بورماتاغويل
     auto: true
+  - translation_iso: deu
+    name: Jonkor Bourmataguil
+    auto: true
   - translation_iso: fra
     name: djongor de Bourmataguil
   - translation_iso: hin

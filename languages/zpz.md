@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زابوتيك تكسميلوكان
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Texmelucan)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Texmelucan
   - translation_iso: hin

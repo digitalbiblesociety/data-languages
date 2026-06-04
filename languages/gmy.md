@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اليونانية الميسينية
     auto: true
+  - translation_iso: deu
+    name: mykenisches Griechisch
   - translation_iso: fra
     name: mycénien
   - translation_iso: hin

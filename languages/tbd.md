@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: كاكي إيي
     auto: true
+  - translation_iso: deu
+    name: Kaki Ae
+    auto: true
   - translation_iso: fra
     name: kaki ae
   - translation_iso: hin

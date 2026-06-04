@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: القطشي-السواحيلي
     auto: true
+  - translation_iso: deu
+    name: Cutchi-Swahili
+    auto: true
   - translation_iso: fra
     name: Cutchi-Swahili
     auto: true

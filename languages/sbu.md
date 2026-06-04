@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ستود بوتي
     auto: true
+  - translation_iso: deu
+    name: Stod-Bhoti
+    auto: true
   - translation_iso: fra
     name: bhoti stod
   - translation_iso: hin

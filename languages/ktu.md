@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كيتوبا
     auto: true
+  - translation_iso: deu
+    name: Kituba
+    auto: true
   - translation_iso: fra
     name: kituba
   - translation_iso: hin

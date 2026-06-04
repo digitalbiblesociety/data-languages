@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aragonese_language"
 translations:
   - translation_iso: ara
     name: الأرغونية
+  - translation_iso: deu
+    name: Aragonesisch
   - translation_iso: fra
     name: aragonais
   - translation_iso: hin

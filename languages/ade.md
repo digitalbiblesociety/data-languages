@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألدي
     auto: true
+  - translation_iso: deu
+    name: Adele
   - translation_iso: fra
     name: adele
   - translation_iso: hin

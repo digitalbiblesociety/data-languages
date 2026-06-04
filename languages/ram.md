@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كانيلا
     auto: true
+  - translation_iso: deu
+    name: Canela
+    auto: true
   - translation_iso: fra
     name: canela
   - translation_iso: hin

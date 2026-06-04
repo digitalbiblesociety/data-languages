@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tigre_language"
 translations:
   - translation_iso: ara
     name: التجرية
+  - translation_iso: deu
+    name: Tigre
   - translation_iso: fra
     name: tigré
   - translation_iso: hin

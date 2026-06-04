@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة تانودان كالينجا
     auto: true
+  - translation_iso: deu
+    name: Tanudan Kalinga
+    auto: true
   - translation_iso: fra
     name: kalinga tanudan
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياوالابيتي
     auto: true
+  - translation_iso: deu
+    name: Yawalapití
+    auto: true
   - translation_iso: fra
     name: yawalapiti
   - translation_iso: hin

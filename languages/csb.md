@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kashubian_language"
 translations:
   - translation_iso: ara
     name: الكاشوبية
+  - translation_iso: deu
+    name: Kaschubisch
   - translation_iso: fra
     name: cachoube
   - translation_iso: hin

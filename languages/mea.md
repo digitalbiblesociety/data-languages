@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة منكا
     auto: true
+  - translation_iso: deu
+    name: Menka
   - translation_iso: fra
     name: menka
   - translation_iso: hin

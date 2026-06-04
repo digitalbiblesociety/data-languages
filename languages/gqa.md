@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "غآ'آندآ"
     auto: true
+  - translation_iso: deu
+    name: "Ga'anda"
+    auto: true
   - translation_iso: fra
     name: ga’anda
   - translation_iso: hin

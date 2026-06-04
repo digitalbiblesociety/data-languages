@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجباجي
     auto: true
+  - translation_iso: deu
+    name: Gbagyi
+    auto: true
   - translation_iso: fra
     name: gbagyi
   - translation_iso: hin

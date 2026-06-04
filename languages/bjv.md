@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بدجوند
     auto: true
+  - translation_iso: deu
+    name: Bedjond
+    auto: true
   - translation_iso: fra
     name: Nangnda
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تسيتساوت
     auto: true
+  - translation_iso: deu
+    name: Tsetsaut
   - translation_iso: fra
     name: tsetsaut
   - translation_iso: hin

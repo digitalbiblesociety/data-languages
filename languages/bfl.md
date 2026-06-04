@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بندا نديلي
     auto: true
+  - translation_iso: deu
+    name: Banda-Ndele
   - translation_iso: fra
     name: banda-ndélé
   - translation_iso: hin

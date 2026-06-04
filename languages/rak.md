@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تولو بوهواي
     auto: true
+  - translation_iso: deu
+    name: Tulu-Bohuai
+    auto: true
   - translation_iso: fra
     name: bohuai
   - translation_iso: hin

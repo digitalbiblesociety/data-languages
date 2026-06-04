@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ندوندا
     auto: true
+  - translation_iso: deu
+    name: Ndunda
   - translation_iso: fra
     name: ndunda
   - translation_iso: hin

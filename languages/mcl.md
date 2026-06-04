@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماكاجواخي
     auto: true
+  - translation_iso: deu
+    name: Macaguaje
+    auto: true
   - translation_iso: fra
     name: macaguaje
   - translation_iso: hin

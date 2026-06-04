@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشيپايا
     auto: true
+  - translation_iso: deu
+    name: Chipaya
   - translation_iso: fra
     name: chipaya
   - translation_iso: hin

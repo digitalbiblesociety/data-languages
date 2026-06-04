@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جايا
     auto: true
+  - translation_iso: deu
+    name: Jaya
+    auto: true
   - translation_iso: fra
     name: jaya
   - translation_iso: hin

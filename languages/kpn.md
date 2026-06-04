@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كيبكيريوات
     auto: true
+  - translation_iso: deu
+    name: Kepkiriwát
+    auto: true
   - translation_iso: fra
     name: kepkiriwát
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الأنوفو
     auto: true
+  - translation_iso: deu
+    name: Anufo
   - translation_iso: fra
     name: anufo
   - translation_iso: hin

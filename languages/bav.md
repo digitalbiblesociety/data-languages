@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة فينجو
     auto: true
+  - translation_iso: deu
+    name: Babungo
   - translation_iso: fra
     name: babungo
   - translation_iso: hin

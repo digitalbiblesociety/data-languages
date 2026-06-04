@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يراندالي
     auto: true
+  - translation_iso: deu
+    name: Yirandali
+    auto: true
   - translation_iso: fra
     name: yirandali
   - translation_iso: hin

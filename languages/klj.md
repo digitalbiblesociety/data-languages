@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة التركمانية خالج
     auto: true
+  - translation_iso: deu
+    name: Chaladschisch
   - translation_iso: fra
     name: khalaj
   - translation_iso: hin

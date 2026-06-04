@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وارونغو
     auto: true
+  - translation_iso: deu
+    name: Warungu
+    auto: true
   - translation_iso: fra
     name: warrungu
   - translation_iso: hin

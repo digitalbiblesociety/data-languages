@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Koyra_Chiini_language"
 translations:
   - translation_iso: ara
     name: كويرا تشيني
+  - translation_iso: deu
+    name: Koyra Chiini
   - translation_iso: fra
     name: koyra chiini
   - translation_iso: hin

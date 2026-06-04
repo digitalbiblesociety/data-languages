@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دي
     auto: true
+  - translation_iso: deu
+    name: Dii
   - translation_iso: fra
     name: dii
   - translation_iso: hin

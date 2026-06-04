@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتيب
     auto: true
+  - translation_iso: deu
+    name: Patep
+    auto: true
   - translation_iso: fra
     name: patep
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كروبو
     auto: true
+  - translation_iso: deu
+    name: Krobu
   - translation_iso: fra
     name: krobu
   - translation_iso: hin

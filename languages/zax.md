@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك زادني
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Xadani)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Xadani
   - translation_iso: hin

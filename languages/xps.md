@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بيسيدية
     auto: true
+  - translation_iso: deu
+    name: Pisidisch
   - translation_iso: fra
     name: pisidien
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونديه سونجواي كيني
     auto: true
+  - translation_iso: deu
+    name: Tondi Songway Kiini
+    auto: true
   - translation_iso: fra
     name: tondi songway kiini
   - translation_iso: hin

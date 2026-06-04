@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_English"
 translations:
   - translation_iso: ara
     name: الإنجليزية القديمة
+  - translation_iso: deu
+    name: Altenglisch
   - translation_iso: fra
     name: vieil anglais
   - translation_iso: hin

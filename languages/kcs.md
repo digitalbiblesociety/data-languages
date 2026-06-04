@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كويني
     auto: true
+  - translation_iso: deu
+    name: Koenoem
+    auto: true
   - translation_iso: fra
     name: koenoem
   - translation_iso: hin

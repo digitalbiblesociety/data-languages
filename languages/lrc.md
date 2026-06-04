@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Luri_language"
 translations:
   - translation_iso: ara
     name: اللرية الشمالية
+  - translation_iso: deu
+    name: Nördliches Luri
   - translation_iso: fra
     name: lori du Nord
   - translation_iso: hin

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Achomi_language"
 translations:
   - translation_iso: ara
     name: الأتشومية
+  - translation_iso: deu
+    name: Larestani-Sprache
   - translation_iso: fra
     name: achomi
   - translation_iso: hin

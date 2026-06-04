@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أموردك
     auto: true
+  - translation_iso: deu
+    name: Amurdak
+    auto: true
   - translation_iso: fra
     name: amurdak
   - translation_iso: hin

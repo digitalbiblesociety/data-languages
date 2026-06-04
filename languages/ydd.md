@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يديش الشرقية
     auto: true
+  - translation_iso: deu
+    name: Ostjiddisch
   - translation_iso: fra
     name: yiddish oriental
   - translation_iso: hin

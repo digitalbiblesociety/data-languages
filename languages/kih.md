@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيلميري
     auto: true
+  - translation_iso: deu
+    name: Kilmeri
+    auto: true
   - translation_iso: fra
     name: kilmeri
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: تشينبون تشين
     auto: true
+  - translation_iso: deu
+    name: Chinbon-Chin
+    auto: true
   - translation_iso: fra
     name: Chin Chinbon
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ساوثيرن ألتا
     auto: true
+  - translation_iso: deu
+    name: Süd-Alta
+    auto: true
   - translation_iso: fra
     name: alta du Sud
   - translation_iso: hin

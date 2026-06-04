@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك كاخونوس
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Cajonos)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Cajonos
   - translation_iso: hin

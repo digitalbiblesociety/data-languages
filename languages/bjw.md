@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باكوي
     auto: true
+  - translation_iso: deu
+    name: Bakwé
   - translation_iso: fra
     name: bakwé
   - translation_iso: hin

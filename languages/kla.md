@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة كلامات-مودوك
     auto: true
+  - translation_iso: deu
+    name: Klamath
   - translation_iso: fra
     name: klamath
   - translation_iso: hin

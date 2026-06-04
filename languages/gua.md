@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: شيكي
     auto: true
+  - translation_iso: deu
+    name: Shiki
+    auto: true
   - translation_iso: fra
     name: shiki
   - translation_iso: hin

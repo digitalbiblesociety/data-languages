@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة منجين
     auto: true
+  - translation_iso: deu
+    name: Mengen
+    auto: true
   - translation_iso: fra
     name: mengen
   - translation_iso: hin

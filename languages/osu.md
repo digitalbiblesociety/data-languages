@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة وان الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Southern One
+    auto: true
   - translation_iso: fra
     name: one du Sud
   - translation_iso: hin

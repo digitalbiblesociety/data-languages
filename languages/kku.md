@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة توميي
     auto: true
+  - translation_iso: deu
+    name: Tumi
+    auto: true
   - translation_iso: fra
     name: tumi
   - translation_iso: hin

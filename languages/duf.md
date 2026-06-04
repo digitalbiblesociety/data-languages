@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دومبيا
     auto: true
+  - translation_iso: deu
+    name: Dumbea
+    auto: true
   - translation_iso: fra
     name: dumbéa
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إمبيرا-كاتيو
     auto: true
+  - translation_iso: deu
+    name: Emberá-Catío
+    auto: true
   - translation_iso: fra
     name: emberá catío
   - translation_iso: hin

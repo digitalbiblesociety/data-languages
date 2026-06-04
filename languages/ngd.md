@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجاندو
     auto: true
+  - translation_iso: deu
+    name: Ngando
   - translation_iso: fra
     name: Ngando (République centrafricaine)
     auto: true

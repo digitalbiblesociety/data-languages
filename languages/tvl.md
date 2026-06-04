@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tuvaluan_language"
 translations:
   - translation_iso: ara
     name: اللغة التوفالوية
+  - translation_iso: deu
+    name: Tuvaluisch
   - translation_iso: fra
     name: tuvaluan
   - translation_iso: hin

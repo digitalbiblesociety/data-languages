@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نونغ زوانغ
     auto: true
+  - translation_iso: deu
+    name: Nong-Zhuang
+    auto: true
   - translation_iso: fra
     name: nong zhuang
   - translation_iso: hin

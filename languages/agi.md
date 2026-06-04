@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغارييا
     auto: true
+  - translation_iso: deu
+    name: Agariya
+    auto: true
   - translation_iso: fra
     name: Agariya
     auto: true

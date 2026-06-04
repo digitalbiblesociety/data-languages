@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sudanese_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة سودانية
+  - translation_iso: deu
+    name: Sudanesisch-Arabisch
   - translation_iso: fra
     name: arabe soudanais
   - translation_iso: hin

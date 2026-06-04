@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاكسارري
     auto: true
+  - translation_iso: deu
+    name: Kaxararí
+    auto: true
   - translation_iso: fra
     name: kaxararí
   - translation_iso: hin

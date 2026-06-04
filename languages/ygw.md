@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ياجووويا
     auto: true
+  - translation_iso: deu
+    name: Yagwoia
+    auto: true
   - translation_iso: fra
     name: Yagwoia
     auto: true

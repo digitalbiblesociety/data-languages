@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dhofari_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة ظفارية
+  - translation_iso: deu
+    name: Dhofari-Arabisch
+    auto: true
   - translation_iso: fra
     name: arabe dhofari
   - translation_iso: hin

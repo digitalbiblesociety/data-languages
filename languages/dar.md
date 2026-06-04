@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dargwa_language"
 translations:
   - translation_iso: ara
     name: لغة درغينية
+  - translation_iso: deu
+    name: Darginisch
   - translation_iso: fra
     name: dargwa
   - translation_iso: hin

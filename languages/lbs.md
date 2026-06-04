@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Libyan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الليبية
+  - translation_iso: deu
+    name: Libysche Gebärdensprache
   - translation_iso: fra
     name: langue des signes libyenne
   - translation_iso: hin

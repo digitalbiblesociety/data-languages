@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسناغ
     auto: true
+  - translation_iso: deu
+    name: Isnag
+    auto: true
   - translation_iso: fra
     name: isnag
   - translation_iso: hin

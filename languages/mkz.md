@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماكاسي
     auto: true
+  - translation_iso: deu
+    name: Makasae
   - translation_iso: fra
     name: makasai
   - translation_iso: hin

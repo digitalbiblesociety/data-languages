@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Faroese_language"
 translations:
   - translation_iso: ara
     name: الفاروية
+  - translation_iso: deu
+    name: Färöisch
   - translation_iso: fra
     name: féroïen
   - translation_iso: hin

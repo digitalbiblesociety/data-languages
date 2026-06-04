@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هولوهولو
     auto: true
+  - translation_iso: deu
+    name: Holoholo
+    auto: true
   - translation_iso: fra
     name: holoholo
   - translation_iso: hin

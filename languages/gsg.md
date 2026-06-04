@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/German_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الألمانية
+  - translation_iso: deu
+    name: Deutsche Gebärdensprache
   - translation_iso: fra
     name: langue des signes allemande
   - translation_iso: hin

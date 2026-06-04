@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: الماموليك
     auto: true
+  - translation_iso: deu
+    name: Mamulique
+    auto: true
   - translation_iso: fra
     name: mamulique
   - translation_iso: hin

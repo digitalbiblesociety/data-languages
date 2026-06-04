@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كابوترا
     auto: true
+  - translation_iso: deu
+    name: Kabutra
+    auto: true
   - translation_iso: fra
     name: kabutra
   - translation_iso: hin

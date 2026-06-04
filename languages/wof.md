@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غامبيان وولوف
     auto: true
+  - translation_iso: deu
+    name: Gambisches Wolof
+    auto: true
   - translation_iso: fra
     name: wolof gambien
   - translation_iso: hin

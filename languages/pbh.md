@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إي نابا ورومايبو
     auto: true
+  - translation_iso: deu
+    name: "E'ñapa Woromaipu"
+    auto: true
   - translation_iso: fra
     name: "e'ñepa"
   - translation_iso: hin

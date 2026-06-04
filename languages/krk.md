@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيريك
     auto: true
+  - translation_iso: deu
+    name: Kerek
+    auto: true
   - translation_iso: fra
     name: kerek
   - translation_iso: hin

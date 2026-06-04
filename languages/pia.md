@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيما بخا
     auto: true
+  - translation_iso: deu
+    name: Pima Bajo
+    auto: true
   - translation_iso: fra
     name: pima bajo
   - translation_iso: hin

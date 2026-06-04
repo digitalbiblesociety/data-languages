@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sena_language"
 translations:
   - translation_iso: ara
     name: سينا
+  - translation_iso: deu
+    name: Sena
   - translation_iso: fra
     name: sena du Mozambique
   - translation_iso: hin

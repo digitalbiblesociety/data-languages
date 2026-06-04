@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سان ماركوس
     auto: true
+  - translation_iso: deu
+    name: San Marcos Tlacoyalco-Popoloca
+    auto: true
   - translation_iso: fra
     name: popoloca de San Marcos Tlacoyalco
   - translation_iso: hin

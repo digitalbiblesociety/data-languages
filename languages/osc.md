@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Oscan_language"
 translations:
   - translation_iso: ara
     name: لغة أوسكانية
+  - translation_iso: deu
+    name: Oskisch
   - translation_iso: fra
     name: osque
   - translation_iso: hin

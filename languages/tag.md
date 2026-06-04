@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاغوي
     auto: true
+  - translation_iso: deu
+    name: Tagoi
   - translation_iso: fra
     name: tagoi
   - translation_iso: hin

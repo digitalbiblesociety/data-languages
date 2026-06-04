@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: تائي
     auto: true
+  - translation_iso: deu
+    name: Ta’e
   - translation_iso: fra
     name: tae’
   - translation_iso: hin

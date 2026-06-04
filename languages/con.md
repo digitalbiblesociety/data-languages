@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: الكوفان
     auto: true
+  - translation_iso: deu
+    name: Cofán
+    auto: true
   - translation_iso: fra
     name: cofán
   - translation_iso: hin

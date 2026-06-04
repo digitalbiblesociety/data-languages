@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ta%CA%BDizzi-Adeni_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة تعزية-عدنية
+  - translation_iso: deu
+    name: "Ta'izzi-Adeni-Arabisch"
+    auto: true
   - translation_iso: fra
     name: "arabe ta'izzi-adeni"
   - translation_iso: hin

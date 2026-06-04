@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: فيتو
     auto: true
+  - translation_iso: deu
+    name: Vitou
+    auto: true
   - translation_iso: fra
     name: vitou
   - translation_iso: hin

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة موديل
     auto: true
+  - translation_iso: deu
+    name: Modole
   - translation_iso: fra
     name: modole
   - translation_iso: hin

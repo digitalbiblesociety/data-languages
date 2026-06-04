@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيسو
     auto: true
+  - translation_iso: deu
+    name: Isu (Menchum Division)
+    auto: true
   - translation_iso: fra
     name: isu
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جينغولو
     auto: true
+  - translation_iso: deu
+    name: Jingulu
+    auto: true
   - translation_iso: fra
     name: jingulu
   - translation_iso: hin

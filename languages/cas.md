@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: تسيماني
     auto: true
+  - translation_iso: deu
+    name: Mosetén
   - translation_iso: fra
     name: chimane
   - translation_iso: hin

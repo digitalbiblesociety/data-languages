@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dakota_language"
 translations:
   - translation_iso: ara
     name: لغة داكوتا
+  - translation_iso: deu
+    name: Dakota
   - translation_iso: fra
     name: dakota
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سونها
     auto: true
+  - translation_iso: deu
+    name: Sonha
+    auto: true
   - translation_iso: fra
     name: sonha
   - translation_iso: hin

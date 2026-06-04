@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مونوم
     auto: true
+  - translation_iso: deu
+    name: Monom
+    auto: true
   - translation_iso: fra
     name: Monom
     auto: true

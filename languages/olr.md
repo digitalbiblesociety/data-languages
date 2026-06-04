@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولرات
     auto: true
+  - translation_iso: deu
+    name: Olrat
+    auto: true
   - translation_iso: fra
     name: olrat
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دهاروك
     auto: true
+  - translation_iso: deu
+    name: Darug
   - translation_iso: fra
     name: dharug
   - translation_iso: hin

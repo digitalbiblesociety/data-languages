@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مولاها
     auto: true
+  - translation_iso: deu
+    name: Mulaha
+    auto: true
   - translation_iso: fra
     name: Mulaha
     auto: true

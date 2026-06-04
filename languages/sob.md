@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوبي
     auto: true
+  - translation_iso: deu
+    name: Sobei
+    auto: true
   - translation_iso: fra
     name: sobei
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوابو
     auto: true
+  - translation_iso: deu
+    name: Suabo
+    auto: true
   - translation_iso: fra
     name: inanwatan
   - translation_iso: hin

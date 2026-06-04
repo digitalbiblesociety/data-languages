@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كورافي ييغها
     auto: true
+  - translation_iso: deu
+    name: Korafe-Yegha
+    auto: true
   - translation_iso: fra
     name: Korafe-Yegha
     auto: true

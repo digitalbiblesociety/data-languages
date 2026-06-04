@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كومو
     auto: true
+  - translation_iso: deu
+    name: Komo (Demokratische Republik Kongo)
+    auto: true
   - translation_iso: fra
     name: komo
   - translation_iso: hin

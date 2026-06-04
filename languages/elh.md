@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/El_Hugeirat_language"
 translations:
   - translation_iso: ara
     name: لغة الحجيرات
+  - translation_iso: deu
+    name: El Hugeirat
+    auto: true
   - translation_iso: fra
     name: el hugeirat
   - translation_iso: hin

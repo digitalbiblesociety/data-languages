@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Betawi_language"
 translations:
   - translation_iso: ara
     name: البتاوية
+  - translation_iso: deu
+    name: Betawi
   - translation_iso: fra
     name: batavien
   - translation_iso: hin

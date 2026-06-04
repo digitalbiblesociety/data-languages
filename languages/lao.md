@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lao_language"
 translations:
   - translation_iso: ara
     name: لاو
+  - translation_iso: deu
+    name: Laotisch
   - translation_iso: fra
     name: lao
   - translation_iso: hin

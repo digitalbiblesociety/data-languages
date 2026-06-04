@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوكوديا
     auto: true
+  - translation_iso: deu
+    name: Okodia
   - translation_iso: fra
     name: okodia
   - translation_iso: hin

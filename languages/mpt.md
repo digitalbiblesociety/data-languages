@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ميان
     auto: true
+  - translation_iso: deu
+    name: Mian
+    auto: true
   - translation_iso: fra
     name: mian
   - translation_iso: hin

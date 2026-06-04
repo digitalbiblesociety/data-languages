@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنوس
     auto: true
+  - translation_iso: deu
+    name: Anus
   - translation_iso: fra
     name: anus
   - translation_iso: hin

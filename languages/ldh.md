@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لامجا-دينجسا-تولا
     auto: true
+  - translation_iso: deu
+    name: Lamja-Dengsa-Tola
+    auto: true
   - translation_iso: fra
     name: lamja-dengsa-tola
   - translation_iso: hin

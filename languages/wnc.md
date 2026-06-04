@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وانتوات
     auto: true
+  - translation_iso: deu
+    name: Wantoat
+    auto: true
   - translation_iso: fra
     name: wantoat
   - translation_iso: hin

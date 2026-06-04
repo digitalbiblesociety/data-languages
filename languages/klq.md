@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة روموو
     auto: true
+  - translation_iso: deu
+    name: Rumu
+    auto: true
   - translation_iso: fra
     name: Rumu
     auto: true

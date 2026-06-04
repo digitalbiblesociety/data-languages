@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تجوروروا
     auto: true
+  - translation_iso: deu
+    name: Tjurruru
+    auto: true
   - translation_iso: fra
     name: tjurruru
   - translation_iso: hin

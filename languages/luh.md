@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: لغة ييزهوو هينيسي
     auto: true
+  - translation_iso: deu
+    name: Leizhou-Chinesisch
+    auto: true
   - translation_iso: fra
     name: min de Leizhou
   - translation_iso: hin

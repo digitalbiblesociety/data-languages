@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سان ميجيل بيدراس ميكستيك
     auto: true
+  - translation_iso: deu
+    name: San-Miguel-Piedras-Mixtekisch
+    auto: true
   - translation_iso: fra
     name: Mixtèque de San Miguel Piedras
     auto: true

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: باجا كالوم
     auto: true
+  - translation_iso: deu
+    name: Baga Kaloum
+    auto: true
   - translation_iso: fra
     name: Baga Kaloum
     auto: true

@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ghandruk_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الغاندروكية
+  - translation_iso: deu
+    name: Ghandruk-Gebärdensprache
+    auto: true
   - translation_iso: fra
     name: Langue des signes de Ghandruk
     auto: true

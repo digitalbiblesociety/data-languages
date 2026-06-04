@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوسون ديايه
     auto: true
+  - translation_iso: deu
+    name: Dusun Deyah
+    auto: true
   - translation_iso: fra
     name: dusun deyah
   - translation_iso: hin

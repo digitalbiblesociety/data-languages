@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تشيشينجيني
     auto: true
+  - translation_iso: deu
+    name: Tsischingini
   - translation_iso: fra
     name: tsishingini
   - translation_iso: hin

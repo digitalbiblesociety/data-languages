@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aymara_language"
 translations:
   - translation_iso: ara
     name: الأيمرية
+  - translation_iso: deu
+    name: Aymara
   - translation_iso: fra
     name: aymara
   - translation_iso: hin

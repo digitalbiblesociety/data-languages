@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديكسون ريف
     auto: true
+  - translation_iso: deu
+    name: Dixon Reef
+    auto: true
   - translation_iso: fra
     name: Dixon Reef
     auto: true

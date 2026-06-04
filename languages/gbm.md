@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: الجارهوالي
     auto: true
+  - translation_iso: deu
+    name: Garhwali
   - translation_iso: fra
     name: garhwali
   - translation_iso: hin

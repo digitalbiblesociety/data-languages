@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Awjila_language"
 translations:
   - translation_iso: ara
     name: الأوجلية
+  - translation_iso: deu
+    name: Awjilah
+    auto: true
   - translation_iso: fra
     name: "tamazight d'Awjila"
   - translation_iso: hin

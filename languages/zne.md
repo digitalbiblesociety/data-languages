@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زاندي
     auto: true
+  - translation_iso: deu
+    name: Azande
   - translation_iso: fra
     name: zandé
   - translation_iso: hin

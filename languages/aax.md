@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندوبو أتاس
     auto: true
+  - translation_iso: deu
+    name: Mandobo Atas
+    auto: true
   - translation_iso: fra
     name: Mandobo Atas
     auto: true

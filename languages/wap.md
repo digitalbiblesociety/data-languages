@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وابيشانا
     auto: true
+  - translation_iso: deu
+    name: Wapishana
+    auto: true
   - translation_iso: fra
     name: wapishana
   - translation_iso: hin

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: تانخول ناغا (ميانمار)
     auto: true
+  - translation_iso: deu
+    name: Tangkhul-Naga (Myanmar)
+    auto: true
   - translation_iso: fra
     name: somra
   - translation_iso: hin

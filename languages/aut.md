@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أسترال
     auto: true
+  - translation_iso: deu
+    name: Austral
+    auto: true
   - translation_iso: fra
     name: austral
   - translation_iso: hin

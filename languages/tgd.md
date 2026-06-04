@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشيووغاي
     auto: true
+  - translation_iso: deu
+    name: Ciwogai
+    auto: true
   - translation_iso: fra
     name: Ciwogai
     auto: true

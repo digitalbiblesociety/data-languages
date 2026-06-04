@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة لاسي
     auto: true
+  - translation_iso: deu
+    name: Lasi
+    auto: true
   - translation_iso: fra
     name: lasi
   - translation_iso: hin

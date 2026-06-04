@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واسكيا
     auto: true
+  - translation_iso: deu
+    name: Waskia
+    auto: true
   - translation_iso: fra
     name: waskia
   - translation_iso: hin

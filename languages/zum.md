@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kumzari_language"
 translations:
   - translation_iso: ara
     name: الكمزارية
+  - translation_iso: deu
+    name: Kumzari
   - translation_iso: fra
     name: kumzari
   - translation_iso: hin

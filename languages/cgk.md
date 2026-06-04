@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشوتشانغاكاخا
     auto: true
+  - translation_iso: deu
+    name: Chocangacakha
+    auto: true
   - translation_iso: fra
     name: chocangacakha
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واريس
     auto: true
+  - translation_iso: deu
+    name: Waris
+    auto: true
   - translation_iso: fra
     name: waris
   - translation_iso: hin

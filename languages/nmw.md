@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيموا
     auto: true
+  - translation_iso: deu
+    name: Nimoa
+    auto: true
   - translation_iso: fra
     name: Nimoa
     auto: true

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: بهالاي
     auto: true
+  - translation_iso: deu
+    name: Bhalay
+    auto: true
   - translation_iso: fra
     name: Bhalay
     auto: true

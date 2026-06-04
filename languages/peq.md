@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Südliches Pomo
+    auto: true
   - translation_iso: fra
     name: pomo du Sud
   - translation_iso: hin

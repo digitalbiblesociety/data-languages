@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كاديويو
     auto: true
+  - translation_iso: deu
+    name: Kadiwéu
+    auto: true
   - translation_iso: fra
     name: kadiwéu
   - translation_iso: hin

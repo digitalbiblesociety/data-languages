@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كولا
     auto: true
+  - translation_iso: deu
+    name: Kola
   - translation_iso: fra
     name: kola
   - translation_iso: hin

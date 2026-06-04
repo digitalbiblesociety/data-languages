@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سامبال
     auto: true
+  - translation_iso: deu
+    name: Sambal
+    auto: true
   - translation_iso: fra
     name: Sambal
     auto: true

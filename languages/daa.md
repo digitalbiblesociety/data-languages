@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الدانغاليات
     auto: true
+  - translation_iso: deu
+    name: Dangla
   - translation_iso: fra
     name: dangaléat
   - translation_iso: hin

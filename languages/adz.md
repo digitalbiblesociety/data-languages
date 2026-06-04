@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أدزيرا
     auto: true
+  - translation_iso: deu
+    name: Adzera
+    auto: true
   - translation_iso: fra
     name: adzera
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بلانج
     auto: true
+  - translation_iso: deu
+    name: Blang
+    auto: true
   - translation_iso: fra
     name: blang
   - translation_iso: hin

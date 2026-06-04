@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة المينوية
     auto: true
+  - translation_iso: deu
+    name: Minoisch
   - translation_iso: fra
     name: minoen
   - translation_iso: hin

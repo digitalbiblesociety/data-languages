@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khotanese_language"
 translations:
   - translation_iso: ara
     name: الخوتانيز
+  - translation_iso: deu
+    name: Sakisch
   - translation_iso: fra
     name: khotanais
   - translation_iso: hin

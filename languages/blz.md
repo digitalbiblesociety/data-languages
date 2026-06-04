@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بالانتاك
     auto: true
+  - translation_iso: deu
+    name: Balantak
   - translation_iso: fra
     name: balantak
   - translation_iso: hin

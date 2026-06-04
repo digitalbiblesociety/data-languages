@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاوارا
     auto: true
+  - translation_iso: deu
+    name: Tawara
+    auto: true
   - translation_iso: fra
     name: tawara
   - translation_iso: hin

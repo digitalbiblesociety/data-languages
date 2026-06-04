@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مامبيلا الكاميرون
     auto: true
+  - translation_iso: deu
+    name: Cameroon Mambila
+    auto: true
   - translation_iso: fra
     name: mambila du Cameroun
   - translation_iso: hin

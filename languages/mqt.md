@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موك
     auto: true
+  - translation_iso: deu
+    name: Mok
+    auto: true
   - translation_iso: fra
     name: mok
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رينغما ناغا الجنوبية
     auto: true
+  - translation_iso: deu
+    name: Südliches Rengma-Naga
+    auto: true
   - translation_iso: fra
     name: rengma du Sud
   - translation_iso: hin

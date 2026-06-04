@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نورثويسترن دينكا
     auto: true
+  - translation_iso: deu
+    name: Nordwest-Dinka
   - translation_iso: fra
     name: dinka du Nord-Ouest
   - translation_iso: hin

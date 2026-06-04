@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناي
     auto: true
+  - translation_iso: deu
+    name: Nai
+    auto: true
   - translation_iso: fra
     name: nai
   - translation_iso: hin

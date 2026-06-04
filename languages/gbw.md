@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جابي-جابي
     auto: true
+  - translation_iso: deu
+    name: Gabi-Gabi
+    auto: true
   - translation_iso: fra
     name: gabi-gabi
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أولاو-سواين
     auto: true
+  - translation_iso: deu
+    name: Ulau-Suain
+    auto: true
   - translation_iso: fra
     name: ulau-suain
   - translation_iso: hin

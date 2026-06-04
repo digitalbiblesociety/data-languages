@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موريك (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: deu
+    name: Murik (Papua-Neuguinea)
+    auto: true
   - translation_iso: fra
     name: murik
   - translation_iso: hin

@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zimbabwean_sign_languages"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الزيمبابوية
+  - translation_iso: deu
+    name: Simbabwische Gebärdensprache
   - translation_iso: fra
     name: langue des signes zimbabwéenne
   - translation_iso: hin

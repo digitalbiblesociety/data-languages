@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غالاتيان
     auto: true
+  - translation_iso: deu
+    name: Galatisch
   - translation_iso: fra
     name: galate
   - translation_iso: hin

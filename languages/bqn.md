@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البلغارية
     auto: true
+  - translation_iso: deu
+    name: Bulgarische Gebärdensprache
   - translation_iso: fra
     name: langue des signes bulgare
   - translation_iso: hin

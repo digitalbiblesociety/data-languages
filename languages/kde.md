@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Makonde_language"
 translations:
   - translation_iso: ara
     name: ماكونده
+  - translation_iso: deu
+    name: Chimakonde
   - translation_iso: fra
     name: makonde
   - translation_iso: hin

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنيم ويك
     auto: true
+  - translation_iso: deu
+    name: Aneme Wake
+    auto: true
   - translation_iso: fra
     name: aneme wake
   - translation_iso: hin

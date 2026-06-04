@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كويري العشبية
     auto: true
+  - translation_iso: deu
+    name: Grass Koiari
+    auto: true
   - translation_iso: fra
     name: koiari grass
   - translation_iso: hin

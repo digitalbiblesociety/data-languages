@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نونغ (فيتنام)
     auto: true
+  - translation_iso: deu
+    name: Nung (Vietnam)
+    auto: true
   - translation_iso: fra
     name: nung
   - translation_iso: hin

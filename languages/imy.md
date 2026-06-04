@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ميليان
     auto: true
+  - translation_iso: deu
+    name: Milyisch
   - translation_iso: fra
     name: milyen
   - translation_iso: hin

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة النون
     auto: true
+  - translation_iso: deu
+    name: Noon
   - translation_iso: fra
     name: sérère-Noon
   - translation_iso: hin

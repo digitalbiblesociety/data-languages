@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واتهاووررونغ
     auto: true
+  - translation_iso: deu
+    name: Wathawurrung
+    auto: true
   - translation_iso: fra
     name: wathawurrung
   - translation_iso: hin

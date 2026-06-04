@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أري
     auto: true
+  - translation_iso: deu
+    name: Are
   - translation_iso: fra
     name: are
   - translation_iso: hin

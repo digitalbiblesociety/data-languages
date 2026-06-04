@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: كوكي ناغا
     auto: true
+  - translation_iso: deu
+    name: Koki-Naga
+    auto: true
   - translation_iso: fra
     name: naga koki
   - translation_iso: hin

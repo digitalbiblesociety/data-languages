@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توكو نو شيما
     auto: true
+  - translation_iso: deu
+    name: Toku-No-Shima
+    auto: true
   - translation_iso: fra
     name: toku-no-shima
   - translation_iso: hin

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاري
     auto: true
+  - translation_iso: deu
+    name: Kare
   - translation_iso: fra
     name: kare
   - translation_iso: hin

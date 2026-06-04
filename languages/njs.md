@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نيسا
     auto: true
+  - translation_iso: deu
+    name: Nisa
+    auto: true
   - translation_iso: fra
     name: nisa
   - translation_iso: hin

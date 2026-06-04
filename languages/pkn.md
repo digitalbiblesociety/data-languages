@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باكانها
     auto: true
+  - translation_iso: deu
+    name: Pakanha
+    auto: true
   - translation_iso: fra
     name: pakanh
   - translation_iso: hin

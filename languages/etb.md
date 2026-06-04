@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإتيبي
     auto: true
+  - translation_iso: deu
+    name: Etebi
+    auto: true
   - translation_iso: fra
     name: etebi
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: فاريسي
     auto: true
+  - translation_iso: deu
+    name: Varisi
+    auto: true
   - translation_iso: fra
     name: varisi
   - translation_iso: hin

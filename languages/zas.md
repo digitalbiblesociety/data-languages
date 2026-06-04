@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك سانتو دومينغو ألبرادز
     auto: true
+  - translation_iso: deu
+    name: Zapotekisch (Santo Domingo Albarradas)
+    auto: true
   - translation_iso: fra
     name: zapotèque de Santo Domingo Albarradas
   - translation_iso: hin

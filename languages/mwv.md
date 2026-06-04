@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة منتاواي
     auto: true
+  - translation_iso: deu
+    name: Mentawaisprache
   - translation_iso: fra
     name: mentawai
   - translation_iso: hin

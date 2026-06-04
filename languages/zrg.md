@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: ميرغان
     auto: true
+  - translation_iso: deu
+    name: Mirgan
+    auto: true
   - translation_iso: fra
     name: Mirgan
     auto: true

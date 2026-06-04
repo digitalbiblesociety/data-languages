@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يلي
     auto: true
+  - translation_iso: deu
+    name: Lele (Demokratische Republik Kongo)
+    auto: true
   - translation_iso: fra
     name: Lele (République démocratique du Congo)
     auto: true

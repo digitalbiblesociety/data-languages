@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السامي
     auto: true
+  - translation_iso: deu
+    name: Samei
+    auto: true
   - translation_iso: fra
     name: samei
   - translation_iso: hin

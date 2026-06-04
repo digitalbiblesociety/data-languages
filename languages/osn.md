@@ -11,6 +11,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Sundanese_language"
 translations:
   - translation_iso: ara
     name: اللغة السوندية القديمة
+  - translation_iso: deu
+    name: Altsundanesisch
+    auto: true
   - translation_iso: fra
     name: Soundanais ancien
     auto: true

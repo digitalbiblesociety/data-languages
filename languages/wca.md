@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: يانومامي
     auto: true
+  - translation_iso: deu
+    name: Yanomámi
+    auto: true
   - translation_iso: fra
     name: yanomam
   - translation_iso: hin

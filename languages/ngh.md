@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/N%C7%81ng_language"
 translations:
   - translation_iso: ara
     name: اللغة النوية
+  - translation_iso: deu
+    name: Nǁng
   - translation_iso: fra
     name: nǀu
   - translation_iso: hin

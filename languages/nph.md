@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فوم ناغا
     auto: true
+  - translation_iso: deu
+    name: Phom-Naga
+    auto: true
   - translation_iso: fra
     name: phom
   - translation_iso: hin

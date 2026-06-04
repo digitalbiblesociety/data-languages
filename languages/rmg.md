@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مسافر نرويجي
     auto: true
+  - translation_iso: deu
+    name: Rodi
   - translation_iso: fra
     name: rodi
   - translation_iso: hin

@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ngiti_language"
 translations:
   - translation_iso: ara
     name: لغة نغيتي
+  - translation_iso: deu
+    name: Ngiti
+    auto: true
   - translation_iso: fra
     name: ngiti
   - translation_iso: hin

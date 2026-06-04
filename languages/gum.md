@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوآمبيآنو
     auto: true
+  - translation_iso: deu
+    name: Guambiano
+    auto: true
   - translation_iso: fra
     name: guambiano
   - translation_iso: hin

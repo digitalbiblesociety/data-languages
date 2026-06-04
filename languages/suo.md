@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: اللغة بووني
     auto: true
+  - translation_iso: deu
+    name: Bouni
+    auto: true
   - translation_iso: fra
     name: Bouni
     auto: true

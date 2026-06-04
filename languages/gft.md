@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gafat_language"
 translations:
   - translation_iso: ara
     name: غافات
+  - translation_iso: deu
+    name: Gafat
+    auto: true
   - translation_iso: fra
     name: Gafat
     auto: true

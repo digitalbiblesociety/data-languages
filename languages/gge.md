@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غورر-غوني
     auto: true
+  - translation_iso: deu
+    name: Gurr-goni
+    auto: true
   - translation_iso: fra
     name: guragone
   - translation_iso: hin

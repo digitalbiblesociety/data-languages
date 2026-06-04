@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سان ديونيسيو ديل مار
     auto: true
+  - translation_iso: deu
+    name: San-Dionisio-del-Mar-Huave
+    auto: true
   - translation_iso: fra
     name: huave de San Dionisio del Mar
   - translation_iso: hin

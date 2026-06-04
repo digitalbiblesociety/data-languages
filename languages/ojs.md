@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Oji-Cree_language"
 translations:
   - translation_iso: ara
     name: الأوجي-كري
+  - translation_iso: deu
+    name: Oji-Cree
   - translation_iso: fra
     name: oji-cri
   - translation_iso: hin

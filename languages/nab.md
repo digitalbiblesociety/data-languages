@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جنوب نامبيكوارا
     auto: true
+  - translation_iso: deu
+    name: Nambikwara
   - translation_iso: fra
     name: nambikwara
   - translation_iso: hin

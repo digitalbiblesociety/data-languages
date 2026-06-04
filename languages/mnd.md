@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موندي
     auto: true
+  - translation_iso: deu
+    name: Mondé
+    auto: true
   - translation_iso: fra
     name: mondé
   - translation_iso: hin

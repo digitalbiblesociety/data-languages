@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوالاجا هوانوكو
     auto: true
+  - translation_iso: deu
+    name: Huallaga-Quechua
   - translation_iso: fra
     name: quechua de Huallaga Huánuco
   - translation_iso: hin

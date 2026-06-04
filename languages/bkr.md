@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باكومباي
     auto: true
+  - translation_iso: deu
+    name: Bakumpai
+    auto: true
   - translation_iso: fra
     name: Bakumpai
     auto: true

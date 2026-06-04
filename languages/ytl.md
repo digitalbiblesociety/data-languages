@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة تانغلانج
     auto: true
+  - translation_iso: deu
+    name: Tanglang
+    auto: true
   - translation_iso: fra
     name: tanglang
   - translation_iso: hin

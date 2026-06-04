@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: أورارينا
     auto: true
+  - translation_iso: deu
+    name: Urarina
+    auto: true
   - translation_iso: fra
     name: urarina
   - translation_iso: hin

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tatar_language"
 translations:
   - translation_iso: ara
     name: التترية
+  - translation_iso: deu
+    name: Tatarisch
   - translation_iso: fra
     name: tatar
   - translation_iso: hin

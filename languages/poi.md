@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا الجبلية
     auto: true
+  - translation_iso: deu
+    name: Hochland-Popoluca
+    auto: true
   - translation_iso: fra
     name: popoluca de la Sierra
   - translation_iso: hin

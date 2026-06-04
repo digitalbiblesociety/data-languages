@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاي هونغجين
     auto: true
+  - translation_iso: deu
+    name: Tai Hongjin
+    auto: true
   - translation_iso: fra
     name: taï hongjin
   - translation_iso: hin

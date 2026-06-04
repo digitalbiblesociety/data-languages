@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ووته ينترال اندا
     auto: true
+  - translation_iso: deu
+    name: Südzentral-Banda
   - translation_iso: fra
     name: banda central du Sud
   - translation_iso: hin

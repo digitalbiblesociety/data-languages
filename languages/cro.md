@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Crow_language"
 translations:
   - translation_iso: ara
     name: كروو
+  - translation_iso: deu
+    name: Crow
+    auto: true
   - translation_iso: fra
     name: crow
   - translation_iso: hin

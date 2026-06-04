@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: مونيتشي
     auto: true
+  - translation_iso: deu
+    name: Muniche
+    auto: true
   - translation_iso: fra
     name: muniche
   - translation_iso: hin

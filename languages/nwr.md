@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناوارو
     auto: true
+  - translation_iso: deu
+    name: Nawaru
+    auto: true
   - translation_iso: fra
     name: nawaru
   - translation_iso: hin

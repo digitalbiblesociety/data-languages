@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bikol_languages"
 translations:
   - translation_iso: ara
     name: لغات البيكول
+  - translation_iso: deu
+    name: Bikolano
   - translation_iso: fra
     name: langues bicol
   - translation_iso: hin

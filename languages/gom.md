@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غوآن كونكآني
     auto: true
+  - translation_iso: deu
+    name: Goa-Konkani
   - translation_iso: fra
     name: konkani de Goa
   - translation_iso: hin

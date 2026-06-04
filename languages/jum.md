@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جومجوم
     auto: true
+  - translation_iso: deu
+    name: Jumjum
+    auto: true
   - translation_iso: fra
     name: jumjum
   - translation_iso: hin

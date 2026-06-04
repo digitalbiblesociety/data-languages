@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة سوروي دو بارا
     auto: true
+  - translation_iso: deu
+    name: Suruí Do Pará
+    auto: true
   - translation_iso: fra
     name: suruí do Pará
   - translation_iso: hin

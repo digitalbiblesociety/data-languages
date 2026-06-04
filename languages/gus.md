@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الغينية
     auto: true
+  - translation_iso: deu
+    name: Guineische Gebärdensprache
   - translation_iso: fra
     name: langue des signes guinéenne
   - translation_iso: hin

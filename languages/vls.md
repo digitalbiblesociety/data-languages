@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/West_Flemish"
 translations:
   - translation_iso: ara
     name: الفلمنكية الغربية
+  - translation_iso: deu
+    name: Westflämisch
   - translation_iso: fra
     name: flamand occidental
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أومون
     auto: true
+  - translation_iso: deu
+    name: Umon
+    auto: true
   - translation_iso: fra
     name: Umon
     auto: true

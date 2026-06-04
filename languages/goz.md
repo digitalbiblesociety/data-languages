@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوزآرخآني
     auto: true
+  - translation_iso: deu
+    name: Gozarkhani
   - translation_iso: fra
     name: gozarkhani
   - translation_iso: hin

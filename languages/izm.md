@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: لغة كيزاماني
     auto: true
+  - translation_iso: deu
+    name: Kizamani
+    auto: true
   - translation_iso: fra
     name: Kizamani
     auto: true

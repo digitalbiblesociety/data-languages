@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيان
     auto: true
+  - translation_iso: deu
+    name: Sian
+    auto: true
   - translation_iso: fra
     name: sian
   - translation_iso: hin

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توراهومارا جنوب غربي
     auto: true
+  - translation_iso: deu
+    name: Südwestliches Tarahumara
+    auto: true
   - translation_iso: fra
     name: tarahumara du Sud-Ouest
   - translation_iso: hin

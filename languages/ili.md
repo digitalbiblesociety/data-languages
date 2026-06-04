@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ili_Turki_language"
 translations:
   - translation_iso: ara
     name: لغة إيلي التركية
+  - translation_iso: deu
+    name: Ili Turki
   - translation_iso: fra
     name: ili turki
   - translation_iso: hin

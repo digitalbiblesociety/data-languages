@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاتوا
     auto: true
+  - translation_iso: deu
+    name: Katua
+    auto: true
   - translation_iso: fra
     name: Katua
     auto: true

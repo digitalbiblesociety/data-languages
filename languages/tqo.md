@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توارييبي
     auto: true
+  - translation_iso: deu
+    name: Toaripi
+    auto: true
   - translation_iso: fra
     name: toaripi
   - translation_iso: hin

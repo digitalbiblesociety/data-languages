@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة كادو
     auto: true
+  - translation_iso: deu
+    name: Kadu
+    auto: true
   - translation_iso: fra
     name: kadu
   - translation_iso: hin

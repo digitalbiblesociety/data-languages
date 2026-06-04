@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داجو دار فور
     auto: true
+  - translation_iso: deu
+    name: Dar-Fur-Daju
+    auto: true
   - translation_iso: fra
     name: Daju du Darfour
     auto: true

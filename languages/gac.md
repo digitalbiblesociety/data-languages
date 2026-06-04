@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: أندمانية عظيمة مختلطة
     auto: true
+  - translation_iso: deu
+    name: Gemischtes Groß-Andamanisch
+    auto: true
   - translation_iso: fra
     name: grand andamanais
   - translation_iso: hin

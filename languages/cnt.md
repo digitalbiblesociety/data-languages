@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيبيتوتوتلا تشينانتك
     auto: true
+  - translation_iso: deu
+    name: Tepetotutla-Chinantekisch
+    auto: true
   - translation_iso: fra
     name: Chinantèque de Tepetotutla
   - translation_iso: hin
