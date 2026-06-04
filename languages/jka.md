@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كايرا
     auto: true
+  - translation_iso: fra
+    name: kaera
   - translation_iso: hin
     name: कैरा
     auto: true

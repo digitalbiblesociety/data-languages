@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة سيفيا
     auto: true
+  - translation_iso: fra
+    name: Langue des signes de Sivia
+    auto: true
   - translation_iso: hin
     name: शिविया सांकेतिक भाषा
   - translation_iso: jpn

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوكويه
     auto: true
+  - translation_iso: fra
+    name: Ukue
+    auto: true
   - translation_iso: hin
     name: उकुए
     auto: true

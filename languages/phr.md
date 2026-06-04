@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة باهاري-بوتواري
     auto: true
+  - translation_iso: fra
+    name: pahari-pothwari
   - translation_iso: hin
     name: पहाड़ी-पोतवारी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: السيباك
     auto: true
+  - translation_iso: fra
+    name: cibak
   - translation_iso: hin
     name: सिबाक
     auto: true

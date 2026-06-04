@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بشاي الجنوبية الشرقية
     auto: true
+  - translation_iso: fra
+    name: pashai du Sud-Est
   - translation_iso: hin
     name: दक्षिणपूर्वी पशाई
     auto: true

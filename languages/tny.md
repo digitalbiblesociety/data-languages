@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونغوي
     auto: true
+  - translation_iso: fra
+    name: Tongwe
+    auto: true
   - translation_iso: hin
     name: तोंगवे
     auto: true

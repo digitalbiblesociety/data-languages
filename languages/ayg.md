@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة جينيانجا
     auto: true
+  - translation_iso: fra
+    name: ginyanga
   - translation_iso: hin
     name: गिन्यांगा
     auto: true

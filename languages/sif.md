@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة السيامو
     auto: true
+  - translation_iso: fra
+    name: siamou
   - translation_iso: hin
     name: सियामू
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ما (جمهورية الكونغو الديمقراطية)
     auto: true
+  - translation_iso: fra
+    name: ma
   - translation_iso: hin
     name: मा (कांगो लोकतांत्रिक गणराज्य)
     auto: true

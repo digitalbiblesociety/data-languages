@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كاكاباي
     auto: true
+  - translation_iso: fra
+    name: langue Kakabai
   - translation_iso: hin
     name: काकाबाई
     auto: true

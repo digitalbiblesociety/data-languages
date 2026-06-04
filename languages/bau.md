@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بادا
     auto: true
+  - translation_iso: fra
+    name: mbat
   - translation_iso: hin
     name: बाडा (नाइजीरिया)
     auto: true

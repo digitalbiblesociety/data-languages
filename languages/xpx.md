@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاسماني الجنوبية الغربية
     auto: true
+  - translation_iso: fra
+    name: toogee
   - translation_iso: hin
     name: दक्षिण-पश्चिमी तस्मानियाई
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الأبالي
     auto: true
+  - translation_iso: fra
+    name: apali
   - translation_iso: hin
     name: अपाली
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الشوكا
     auto: true
+  - translation_iso: fra
+    name: chuka
   - translation_iso: hin
     name: चुका
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غيمي
     auto: true
+  - translation_iso: fra
+    name: Gimi (Hautes-Terres orientales)
+    auto: true
   - translation_iso: hin
     name: गिमी (पूर्वी हाइलैंड्स)
     auto: true

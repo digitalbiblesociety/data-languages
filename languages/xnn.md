@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كانكاناي الشمالية
     auto: true
+  - translation_iso: fra
+    name: kankanay du Nord
   - translation_iso: hin
     name: उत्तरी कंकनाय
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بويوما
     auto: true
+  - translation_iso: fra
+    name: pouyouma
   - translation_iso: hin
     name: पुयुमा
     auto: true

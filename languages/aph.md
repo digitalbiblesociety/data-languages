@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أثباريا
     auto: true
+  - translation_iso: fra
+    name: athpare
   - translation_iso: hin
     name: अठपरिया
     auto: true

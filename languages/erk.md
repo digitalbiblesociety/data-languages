@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإفاتي الجنوبية
     auto: true
+  - translation_iso: fra
+    name: éfaté du Sud
   - translation_iso: hin
     name: दक्षिण एफाते
     auto: true

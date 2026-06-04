@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دومينيكان ساين لانجويج
     auto: true
+  - translation_iso: fra
+    name: lenguaje de señas dominicano
   - translation_iso: hin
     name: डोमिनिकन सांकेतिक भाषा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سبيتي بوتي
     auto: true
+  - translation_iso: fra
+    name: spiti
   - translation_iso: hin
     name: स्पीति भाषा
   - translation_iso: jpn

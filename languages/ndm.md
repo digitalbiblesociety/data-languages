@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ndam_language"
 translations:
   - translation_iso: ara
     name: ندام
+  - translation_iso: fra
+    name: ndam
   - translation_iso: hin
     name: न्दाम
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سلافومولسانو
     auto: true
+  - translation_iso: fra
+    name: slave molisan
   - translation_iso: hin
     name: स्लावोमोलिसानो
     auto: true

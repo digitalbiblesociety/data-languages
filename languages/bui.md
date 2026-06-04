@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بونْجيلي
     auto: true
+  - translation_iso: fra
+    name: bongili
   - translation_iso: hin
     name: बोंगिली
     auto: true

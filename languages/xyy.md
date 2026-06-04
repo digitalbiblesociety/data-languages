@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يورتا يورتا
     auto: true
+  - translation_iso: fra
+    name: yorta yorta
   - translation_iso: hin
     name: योर्ता योर्ता
     auto: true

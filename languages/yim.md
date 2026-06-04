@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ييمتشونغرو ناغا
     auto: true
+  - translation_iso: fra
+    name: yimchungru
   - translation_iso: hin
     name: यिमचुंगगुरु भाषा
   - translation_iso: jpn

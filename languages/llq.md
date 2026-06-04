@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ولاك
     auto: true
+  - translation_iso: fra
+    name: lolak
   - translation_iso: hin
     name: लोलाक
     auto: true

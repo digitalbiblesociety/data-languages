@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ناكوي
     auto: true
+  - translation_iso: fra
+    name: nakwi
   - translation_iso: hin
     name: नाकवी
     auto: true

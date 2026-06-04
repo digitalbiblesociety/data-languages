@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة وان الشمالية
     auto: true
+  - translation_iso: fra
+    name: one du Nord
   - translation_iso: hin
     name: उत्तरी वन
     auto: true

@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Afrihili"
 translations:
   - translation_iso: ara
     name: أفرهيلي
+  - translation_iso: fra
+    name: afrihili
   - translation_iso: hin
     name: अफ्रिहिली
   - translation_iso: jpn

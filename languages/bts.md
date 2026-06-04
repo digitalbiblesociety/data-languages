@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باتاك سيمالونْجون
     auto: true
+  - translation_iso: fra
+    name: batak simalungun
   - translation_iso: hin
     name: बाताक सिमालुंगुन
     auto: true

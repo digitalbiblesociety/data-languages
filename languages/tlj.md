@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تالينغا بويسي
     auto: true
+  - translation_iso: fra
+    name: talinga-bwisi
   - translation_iso: hin
     name: तालिंगा-ब्विसी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داورو
     auto: true
+  - translation_iso: fra
+    name: dawro
   - translation_iso: hin
     name: दावरो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نغارلوما
     auto: true
+  - translation_iso: fra
+    name: ngarluma
   - translation_iso: hin
     name: नगारलुमा
     auto: true

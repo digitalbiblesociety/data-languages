@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإسي إجا
     auto: true
+  - translation_iso: fra
+    name: "ese 'ejja"
   - translation_iso: hin
     name: एसे एज्जा
     auto: true

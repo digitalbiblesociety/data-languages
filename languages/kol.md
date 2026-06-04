@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة كول
     auto: true
+  - translation_iso: fra
+    name: kol
   - translation_iso: hin
     name: कोल
     auto: true

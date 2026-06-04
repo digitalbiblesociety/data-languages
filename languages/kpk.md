@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كبان
     auto: true
+  - translation_iso: fra
+    name: kpan
   - translation_iso: hin
     name: क्पान
     auto: true

@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: تاي لونغ
     auto: true
+  - translation_iso: fra
+    name: tai long
   - translation_iso: hin
     name: ताई लोंग
     auto: true

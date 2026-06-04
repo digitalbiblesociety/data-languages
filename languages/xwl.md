@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غربية كسيلا جيبي
     auto: true
+  - translation_iso: fra
+    name: Xwla Gbe occidental
+    auto: true
   - translation_iso: hin
     name: पश्चिमी ख्वला ग्बे
     auto: true

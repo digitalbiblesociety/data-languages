@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Romanian_language"
 translations:
   - translation_iso: ara
     name: الرومانية
+  - translation_iso: fra
+    name: roumain
   - translation_iso: hin
     name: रोमानियाई भाषा
   - translation_iso: jpn

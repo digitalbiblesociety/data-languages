@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توجوتيل
     auto: true
+  - translation_iso: fra
+    name: tugutil
   - translation_iso: hin
     name: तुगुतिल
     auto: true

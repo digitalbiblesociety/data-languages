@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيناني
     auto: true
+  - translation_iso: fra
+    name: tinani
   - translation_iso: hin
     name: तिनान भाषा
   - translation_iso: jpn

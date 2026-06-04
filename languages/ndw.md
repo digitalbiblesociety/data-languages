@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: ندوبو
     auto: true
+  - translation_iso: fra
+    name: ndobo
   - translation_iso: hin
     name: न्दोबो
     auto: true

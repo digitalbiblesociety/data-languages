@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رامواينا
     auto: true
+  - translation_iso: fra
+    name: ramoaaina
   - translation_iso: hin
     name: रामोआइना
     auto: true

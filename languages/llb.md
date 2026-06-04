@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ولو
     auto: true
+  - translation_iso: fra
+    name: lolo
   - translation_iso: hin
     name: लोलो
     auto: true

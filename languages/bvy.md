@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: باي‌بايانون
     auto: true
+  - translation_iso: fra
+    name: baybayanon
   - translation_iso: hin
     name: बायबायानोन
     auto: true

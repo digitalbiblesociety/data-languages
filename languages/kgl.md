@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كونغاري
     auto: true
+  - translation_iso: fra
+    name: kunggari
   - translation_iso: hin
     name: कुंगगारी
     auto: true

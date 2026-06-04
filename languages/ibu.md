@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: إيبو
     auto: true
+  - translation_iso: fra
+    name: ibu
   - translation_iso: hin
     name: इबू
     auto: true

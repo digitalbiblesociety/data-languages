@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيسكوناهوا
     auto: true
+  - translation_iso: fra
+    name: isconahua
   - translation_iso: hin
     name: इस्कोनाहुआ
     auto: true

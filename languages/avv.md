@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة آفا-كانويرو
     auto: true
+  - translation_iso: fra
+    name: avá-canoeiro
   - translation_iso: hin
     name: अवा-कनोएइरो
     auto: true

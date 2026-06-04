@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كورتوخا
     auto: true
+  - translation_iso: fra
+    name: kurtöp
   - translation_iso: hin
     name: कुर्तोखा
     auto: true

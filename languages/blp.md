@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بلابلانجا
     auto: true
+  - translation_iso: fra
+    name: blablanga
   - translation_iso: hin
     name: ब्लाब्लांगा
     auto: true

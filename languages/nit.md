@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جنوب شرق كولامي
     auto: true
+  - translation_iso: fra
+    name: kolami du Sud-Est
   - translation_iso: hin
     name: नेईकी भाषा
   - translation_iso: jpn

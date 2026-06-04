@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ديواس راي
     auto: true
+  - translation_iso: fra
+    name: dewas rai
   - translation_iso: hin
     name: देवास राय
     auto: true

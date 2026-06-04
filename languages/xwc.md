@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ووكون
     auto: true
+  - translation_iso: fra
+    name: woccon
   - translation_iso: hin
     name: वोक्कोन
     auto: true

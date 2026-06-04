@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kanuri_language"
 translations:
   - translation_iso: ara
     name: الكانورية
+  - translation_iso: fra
+    name: kanouri
   - translation_iso: hin
     name: कनूरी भाषा
   - translation_iso: jpn

@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: كريول فرنسي سان ميجويل
     auto: true
+  - translation_iso: fra
+    name: créole de San Miguel
   - translation_iso: hin
     name: सान मिगुएल क्रियोल फ़्रेंच
     auto: true

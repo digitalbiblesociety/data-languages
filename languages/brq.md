@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بريري
     auto: true
+  - translation_iso: fra
+    name: breri
   - translation_iso: hin
     name: ब्रेरी
     auto: true

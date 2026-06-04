@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مودبورا
     auto: true
+  - translation_iso: fra
+    name: mudbura
   - translation_iso: hin
     name: मुदबुर्रा
     auto: true

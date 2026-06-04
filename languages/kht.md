@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة خاميتي
     auto: true
+  - translation_iso: fra
+    name: khamti
   - translation_iso: hin
     name: खाम्प्टी भाषा
   - translation_iso: jpn

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: شيربا
     auto: true
+  - translation_iso: fra
+    name: sherpa
   - translation_iso: hin
     name: शेर्पा भाषा
   - translation_iso: jpn

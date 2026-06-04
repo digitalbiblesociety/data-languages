@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الموريا الشرقية
     auto: true
+  - translation_iso: fra
+    name: "muria de l'Est"
   - translation_iso: hin
     name: पूर्वी मुरिया
     auto: true

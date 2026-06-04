@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة تير سامي
     auto: true
+  - translation_iso: fra
+    name: same de Ter
   - translation_iso: hin
     name: तेर सामी
     auto: true

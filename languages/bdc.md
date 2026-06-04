@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إمبيريه-باودو
     auto: true
+  - translation_iso: fra
+    name: Emberá-Baudó
+    auto: true
   - translation_iso: hin
     name: एम्बेरा-बाउदो
     auto: true

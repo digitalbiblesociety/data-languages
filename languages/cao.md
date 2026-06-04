@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشاكوبو
     auto: true
+  - translation_iso: fra
+    name: chácobo
   - translation_iso: hin
     name: चाकोबो
     auto: true

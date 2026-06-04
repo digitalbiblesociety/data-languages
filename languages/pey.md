@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيتجو
     auto: true
+  - translation_iso: fra
+    name: petjo
   - translation_iso: hin
     name: पेत्जो
     auto: true

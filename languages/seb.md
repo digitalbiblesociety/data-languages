@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: شيمبير سينوفو
     auto: true
+  - translation_iso: fra
+    name: Sénoufo shempire
+    auto: true
   - translation_iso: hin
     name: शेम्पिरे सेनोफो
     auto: true

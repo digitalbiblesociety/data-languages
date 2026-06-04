@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوريتي
     auto: true
+  - translation_iso: fra
+    name: koore
   - translation_iso: hin
     name: कूरेते
     auto: true

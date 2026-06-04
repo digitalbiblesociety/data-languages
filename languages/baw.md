@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بامبيلي-بامبوي
     auto: true
+  - translation_iso: fra
+    name: bambili-bambui
   - translation_iso: hin
     name: बम्बिली-बम्बुई
     auto: true

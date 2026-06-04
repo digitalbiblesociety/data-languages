@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإمبيرا-تشامي
     auto: true
+  - translation_iso: fra
+    name: emberá chamí
   - translation_iso: hin
     name: एम्बेरा-चामी
     auto: true

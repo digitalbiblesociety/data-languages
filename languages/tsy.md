@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة تيبول
     auto: true
+  - translation_iso: fra
+    name: langue des signes de Tebul
   - translation_iso: hin
     name: टेबुल सांकेतिक भाषा
   - translation_iso: jpn

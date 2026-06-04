@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: آو ناجا
     auto: true
+  - translation_iso: fra
+    name: ao
   - translation_iso: hin
     name: आओ भाषा
   - translation_iso: jpn

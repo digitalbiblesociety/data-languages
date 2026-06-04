@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سما الجنوبية
     auto: true
+  - translation_iso: fra
+    name: sama méridional
   - translation_iso: hin
     name: दक्षिणी सामा
     auto: true

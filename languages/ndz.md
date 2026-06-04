@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ندوجو
     auto: true
+  - translation_iso: fra
+    name: ndogo
   - translation_iso: hin
     name: न्दोगो
     auto: true

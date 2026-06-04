@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واخي
     auto: true
+  - translation_iso: fra
+    name: wakhi
   - translation_iso: hin
     name: वख़ी
   - translation_iso: jpn

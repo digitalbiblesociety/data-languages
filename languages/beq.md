@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيمبي
     auto: true
+  - translation_iso: fra
+    name: kibeembe
   - translation_iso: hin
     name: बीम्बे
     auto: true

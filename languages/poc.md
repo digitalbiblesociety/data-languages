@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوقومام
     auto: true
+  - translation_iso: fra
+    name: pokomam
   - translation_iso: hin
     name: पोकोमाम
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوروتي
     auto: true
+  - translation_iso: fra
+    name: yuriti
   - translation_iso: hin
     name: युरुती
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رينغما ناغا الجنوبية
     auto: true
+  - translation_iso: fra
+    name: rengma du Sud
   - translation_iso: hin
     name: रेंगमा भाषा
   - translation_iso: jpn

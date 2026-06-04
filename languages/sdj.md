@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سوندي
     auto: true
+  - translation_iso: fra
+    name: sundi
   - translation_iso: hin
     name: सुउंडी
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بانجايي
     auto: true
+  - translation_iso: fra
+    name: Banggai
+    auto: true
   - translation_iso: hin
     name: बंगाई
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باتاد إيفوغاو
     auto: true
+  - translation_iso: fra
+    name: Ifugao de Batad
+    auto: true
   - translation_iso: hin
     name: बातद इफुगाओ
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: درونج
     auto: true
+  - translation_iso: fra
+    name: drung
   - translation_iso: hin
     name: द्रुंग
     auto: true

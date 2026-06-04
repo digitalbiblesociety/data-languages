@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاماساو
     auto: true
+  - translation_iso: fra
+    name: kamasau
   - translation_iso: hin
     name: कामासाउ
     auto: true

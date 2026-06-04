@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكالويانون
     auto: true
+  - translation_iso: fra
+    name: Caluyanun
+    auto: true
   - translation_iso: hin
     name: कालुयानुन
     auto: true

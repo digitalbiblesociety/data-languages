@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوري
     auto: true
+  - translation_iso: fra
+    name: bure
   - translation_iso: hin
     name: बुरे
     auto: true

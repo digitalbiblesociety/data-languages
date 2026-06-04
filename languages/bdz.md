@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: البادشي
     auto: true
+  - translation_iso: fra
+    name: badeshi
   - translation_iso: hin
     name: बदेशी
     auto: true

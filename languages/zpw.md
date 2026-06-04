@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك زانيزا
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Zaniza
   - translation_iso: hin
     name: ज़ानिज़ा सैपोटेक
     auto: true

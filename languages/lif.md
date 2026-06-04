@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة يمبو
     auto: true
+  - translation_iso: fra
+    name: limbu
   - translation_iso: hin
     name: लिंबू भाषा
   - translation_iso: jpn

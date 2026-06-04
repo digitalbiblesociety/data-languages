@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نورثرن داجارا
     auto: true
+  - translation_iso: fra
+    name: Dagara septentrional
+    auto: true
   - translation_iso: hin
     name: उत्तरी दगारा
     auto: true

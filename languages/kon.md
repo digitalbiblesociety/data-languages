@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kongo_language"
 translations:
   - translation_iso: ara
     name: لغة كونغو
+  - translation_iso: fra
+    name: kikongo
   - translation_iso: hin
     name: कोंगो
   - translation_iso: jpn

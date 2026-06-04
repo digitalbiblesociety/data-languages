@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الهاوسا
     auto: true
+  - translation_iso: fra
+    name: langue des signes haoussa
   - translation_iso: hin
     name: हौसा सांकेतिक भाषा
   - translation_iso: jpn

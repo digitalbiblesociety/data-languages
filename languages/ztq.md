@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك كويوكويتاني-كويري
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Quioquitani
   - translation_iso: hin
     name: क्योकिटानी-क्येरी ज़ापोटेक
     auto: true

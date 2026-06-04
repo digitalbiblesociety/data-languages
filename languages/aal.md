@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأفادي
     auto: true
+  - translation_iso: fra
+    name: afade
   - translation_iso: hin
     name: अफादे
     auto: true

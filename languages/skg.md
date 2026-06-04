@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة ملاجاسي سكالافا
     auto: true
+  - translation_iso: fra
+    name: sakalava
   - translation_iso: hin
     name: साकालावा मालागासी
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توروج
     auto: true
+  - translation_iso: fra
+    name: Turung
+    auto: true
   - translation_iso: hin
     name: तुरुंग
     auto: true

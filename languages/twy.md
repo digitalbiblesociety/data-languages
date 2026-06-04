@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تابويان
     auto: true
+  - translation_iso: fra
+    name: taboyan
   - translation_iso: hin
     name: तावोयन
     auto: true

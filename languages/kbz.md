@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة دوهوا
     auto: true
+  - translation_iso: fra
+    name: Duhwa
+    auto: true
   - translation_iso: hin
     name: दुहवा
     auto: true

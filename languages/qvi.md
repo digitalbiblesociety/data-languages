@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا إمبابورا الجبلية
     auto: true
+  - translation_iso: fra
+    name: "quichua des hauts-plateaux d'Imbabura"
   - translation_iso: hin
     name: इम्बाबुरा हाइलैंड किचुआ
     auto: true

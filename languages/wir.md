@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ويرافد
     auto: true
+  - translation_iso: fra
+    name: wiraféd
   - translation_iso: hin
     name: विराफेद
     auto: true

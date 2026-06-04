@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كالاشا
     auto: true
+  - translation_iso: fra
+    name: kalasha
   - translation_iso: hin
     name: कलश भाषा
   - translation_iso: jpn

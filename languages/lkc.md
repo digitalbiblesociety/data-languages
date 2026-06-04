@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وكونج
     auto: true
+  - translation_iso: fra
+    name: kucong
   - translation_iso: hin
     name: कुचोंग
     auto: true

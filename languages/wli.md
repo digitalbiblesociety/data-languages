@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وايولي
     auto: true
+  - translation_iso: fra
+    name: waioli
   - translation_iso: hin
     name: वैओली
     auto: true

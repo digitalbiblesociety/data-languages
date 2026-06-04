@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيغوي
     auto: true
+  - translation_iso: fra
+    name: Igwe
+    auto: true
   - translation_iso: hin
     name: इग्वे
     auto: true

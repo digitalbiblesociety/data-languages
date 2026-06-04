@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيموبا
     auto: true
+  - translation_iso: fra
+    name: bimoba
   - translation_iso: hin
     name: बिमोबा
     auto: true

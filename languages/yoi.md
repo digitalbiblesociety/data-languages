@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يونانغوني
     auto: true
+  - translation_iso: fra
+    name: yonaguni
   - translation_iso: hin
     name: योनागुनी
     auto: true

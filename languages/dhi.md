@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديمال
     auto: true
+  - translation_iso: fra
+    name: dhimal
   - translation_iso: hin
     name: धीमाल
     auto: true

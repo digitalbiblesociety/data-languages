@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الباكستانية
     auto: true
+  - translation_iso: fra
+    name: langue des signes pakistanaise
   - translation_iso: hin
     name: पाकिसतान इशारा
   - translation_iso: jpn

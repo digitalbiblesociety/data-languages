@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأمهواكا
     auto: true
+  - translation_iso: fra
+    name: amahuaca
   - translation_iso: hin
     name: अमाहुआका
     auto: true

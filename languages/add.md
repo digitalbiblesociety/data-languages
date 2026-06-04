@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ليدزونكا
     auto: true
+  - translation_iso: fra
+    name: dzodinka
   - translation_iso: hin
     name: लिद्ज़ोंका
     auto: true

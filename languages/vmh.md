@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مراغاي
     auto: true
+  - translation_iso: fra
+    name: maraghei
   - translation_iso: hin
     name: मरागेई
     auto: true

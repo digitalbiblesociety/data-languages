@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الماريك
     auto: true
+  - translation_iso: fra
+    name: marik
   - translation_iso: hin
     name: मारिक
     auto: true

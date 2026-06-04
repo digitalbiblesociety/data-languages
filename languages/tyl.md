@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: تو لاو
     auto: true
+  - translation_iso: fra
+    name: thu lao
   - translation_iso: hin
     name: थू लाओ
     auto: true

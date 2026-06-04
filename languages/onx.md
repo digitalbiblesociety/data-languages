@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونين بيدجن
     auto: true
+  - translation_iso: fra
+    name: Pidgin à base onin
+    auto: true
   - translation_iso: hin
     name: ओनिन आधारित पिजिन
     auto: true

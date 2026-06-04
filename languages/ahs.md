@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أشي
     auto: true
+  - translation_iso: fra
+    name: koro wachi
   - translation_iso: hin
     name: अशे
     auto: true

@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: نوتوواي-ميهيرين
     auto: true
+  - translation_iso: fra
+    name: Nottoway-Meherrin
+    auto: true
   - translation_iso: hin
     name: नोटोवे-मेहेरिन
     auto: true

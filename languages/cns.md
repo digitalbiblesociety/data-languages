@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أسمات الوسطى
     auto: true
+  - translation_iso: fra
+    name: asmat central
   - translation_iso: hin
     name: मध्य अस्मात
     auto: true

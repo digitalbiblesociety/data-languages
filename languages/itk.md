@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يهودي-إيطالي
     auto: true
+  - translation_iso: fra
+    name: judéo-italien
   - translation_iso: hin
     name: यहूदी-इतालवी
     auto: true

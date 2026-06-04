@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كالاكتانج مونبا
     auto: true
+  - translation_iso: fra
+    name: monpa de Kalaktang
   - translation_iso: hin
     name: कलकतांग मोनपा
     auto: true

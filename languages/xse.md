@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيمبان
     auto: true
+  - translation_iso: fra
+    name: Sempan
+    auto: true
   - translation_iso: hin
     name: सेम्पन
     auto: true

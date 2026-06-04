@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماجيرا
     auto: true
+  - translation_iso: fra
+    name: majera
   - translation_iso: hin
     name: मजेरा
     auto: true

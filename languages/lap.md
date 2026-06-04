@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Laka_language"
 translations:
   - translation_iso: ara
     name: لاكا
+  - translation_iso: fra
+    name: laka
   - translation_iso: hin
     name: लाका (चाड)
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيراروتو
     auto: true
+  - translation_iso: fra
+    name: irarutu
   - translation_iso: hin
     name: इरारुतु
     auto: true

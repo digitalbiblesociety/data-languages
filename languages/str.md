@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/North_Straits_Salish_language"
 translations:
   - translation_iso: ara
     name: سترايتس ساليش
+  - translation_iso: fra
+    name: salish côtier nord
   - translation_iso: hin
     name: स्ट्रेट्स सैलिश
   - translation_iso: jpn

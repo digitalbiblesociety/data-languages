@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gujari"
 translations:
   - translation_iso: ara
     name: كجري
+  - translation_iso: fra
+    name: gujari
   - translation_iso: hin
     name: गोजरी भाषा
   - translation_iso: jpn

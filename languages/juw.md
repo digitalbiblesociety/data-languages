@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وافا
     auto: true
+  - translation_iso: fra
+    name: wãpha
   - translation_iso: hin
     name: वाँफा
     auto: true

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dagbani_language"
 translations:
   - translation_iso: ara
     name: دغبانية
+  - translation_iso: fra
+    name: dagbanli
   - translation_iso: hin
     name: डागबानी
     auto: true

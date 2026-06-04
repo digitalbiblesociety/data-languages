@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البنمية
     auto: true
+  - translation_iso: fra
+    name: langue des signes panaméenne
   - translation_iso: hin
     name: पनामियन सांकेतिक भाषा
   - translation_iso: jpn

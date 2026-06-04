@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كهيتراني
     auto: true
+  - translation_iso: fra
+    name: khetrani
   - translation_iso: hin
     name: खेतरानी
   - translation_iso: jpn

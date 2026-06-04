@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نونغالي
     auto: true
+  - translation_iso: fra
+    name: Nungali
+    auto: true
   - translation_iso: hin
     name: नुंगाली
     auto: true

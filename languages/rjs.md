@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: راجبانشي
     auto: true
+  - translation_iso: fra
+    name: rajbanshi
   - translation_iso: hin
     name: राजबंशी
     auto: true

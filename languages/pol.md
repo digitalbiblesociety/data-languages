@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Polish_language"
 translations:
   - translation_iso: ara
     name: البولندية
+  - translation_iso: fra
+    name: polonais
   - translation_iso: hin
     name: पोलिश भाषा
   - translation_iso: jpn

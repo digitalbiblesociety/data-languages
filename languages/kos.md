@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kosraean_language"
 translations:
   - translation_iso: ara
     name: الكوسراين
+  - translation_iso: fra
+    name: kosrae
   - translation_iso: hin
     name: कोसरैन
   - translation_iso: jpn

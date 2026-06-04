@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة موروني
     auto: true
+  - translation_iso: fra
+    name: moronene
   - translation_iso: hin
     name: मोरोनेने
     auto: true

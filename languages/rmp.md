@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ريمبي
     auto: true
+  - translation_iso: fra
+    name: rempi
   - translation_iso: hin
     name: रेम्पी
     auto: true

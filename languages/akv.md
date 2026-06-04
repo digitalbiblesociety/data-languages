@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أخڤاخ
     auto: true
+  - translation_iso: fra
+    name: akhvakh
   - translation_iso: hin
     name: अख्वाख
     auto: true

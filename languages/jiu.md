@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يوليه جينو
     auto: true
+  - translation_iso: fra
+    name: jinuo de Youle
   - translation_iso: hin
     name: यौले जिनुओ
     auto: true

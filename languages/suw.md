@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سومبوا
     auto: true
+  - translation_iso: fra
+    name: sumbwa
   - translation_iso: hin
     name: सुम्बवा
     auto: true

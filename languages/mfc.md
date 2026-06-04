@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبا
     auto: true
+  - translation_iso: fra
+    name: mba
   - translation_iso: hin
     name: म्बा
     auto: true

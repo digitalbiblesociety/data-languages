@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: اللغة زيم
     auto: true
+  - translation_iso: fra
+    name: zeem
   - translation_iso: hin
     name: ज़ीम
     auto: true

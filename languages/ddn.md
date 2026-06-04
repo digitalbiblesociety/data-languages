@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديندي
     auto: true
+  - translation_iso: fra
+    name: dendi
   - translation_iso: hin
     name: देंदी (बेनिन)
     auto: true

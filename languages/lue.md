@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وفالي
     auto: true
+  - translation_iso: fra
+    name: luvale
   - translation_iso: hin
     name: लुवाले
     auto: true

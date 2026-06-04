@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإنوان
     auto: true
+  - translation_iso: fra
+    name: enwan
   - translation_iso: hin
     name: एनवान (एडु राज्य)
     auto: true

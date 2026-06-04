@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: الكابيزنون
     auto: true
+  - translation_iso: fra
+    name: capiznon
   - translation_iso: hin
     name: कापिज़्नोन
     auto: true

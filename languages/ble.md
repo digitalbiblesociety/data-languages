@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بالانتا كنتوهي
     auto: true
+  - translation_iso: fra
+    name: balante-kentohe
   - translation_iso: hin
     name: बलंता-केंतोहे
     auto: true

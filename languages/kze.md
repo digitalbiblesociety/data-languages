@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: كوسينا
     auto: true
+  - translation_iso: fra
+    name: Kosena
+    auto: true
   - translation_iso: hin
     name: कोसेना
     auto: true

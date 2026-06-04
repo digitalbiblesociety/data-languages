@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كامبيو
     auto: true
+  - translation_iso: fra
+    name: Kambiwá
+    auto: true
   - translation_iso: hin
     name: कांबिवा
     auto: true

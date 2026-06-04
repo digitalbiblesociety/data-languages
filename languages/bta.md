@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باتا
     auto: true
+  - translation_iso: fra
+    name: bata
   - translation_iso: hin
     name: बाटा
     auto: true

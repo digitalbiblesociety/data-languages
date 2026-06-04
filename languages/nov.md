@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Novial"
 translations:
   - translation_iso: ara
     name: نوفيال
+  - translation_iso: fra
+    name: novial
   - translation_iso: hin
     name: नोवियाल
   - translation_iso: jpn

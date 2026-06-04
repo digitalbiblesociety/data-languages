@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مالاس
     auto: true
+  - translation_iso: fra
+    name: Malas
+    auto: true
   - translation_iso: hin
     name: मालास
     auto: true

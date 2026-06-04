@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكرواتية
     auto: true
+  - translation_iso: fra
+    name: langue des signes croate
   - translation_iso: hin
     name: क्रोएशिया सांकेतिक भाषा
     auto: true

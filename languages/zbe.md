@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة بيراوان الشرقية
     auto: true
+  - translation_iso: fra
+    name: long jegan
   - translation_iso: hin
     name: पूर्वी बेरावन
     auto: true

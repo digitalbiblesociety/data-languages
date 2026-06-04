@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رميت
     auto: true
+  - translation_iso: fra
+    name: lamet
   - translation_iso: hin
     name: रमीत
     auto: true

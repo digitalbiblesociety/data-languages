@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإيبوغو
     auto: true
+  - translation_iso: fra
+    name: ebughu
   - translation_iso: hin
     name: एबुघु
     auto: true

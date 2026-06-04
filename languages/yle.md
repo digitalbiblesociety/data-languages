@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة يلي
     auto: true
+  - translation_iso: fra
+    name: yele
   - translation_iso: hin
     name: येले
     auto: true

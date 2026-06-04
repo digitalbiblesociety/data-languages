@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باراكاي
     auto: true
+  - translation_iso: fra
+    name: barakai
   - translation_iso: hin
     name: बाराकाई
     auto: true

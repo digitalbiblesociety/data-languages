@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوباجارا
     auto: true
+  - translation_iso: fra
+    name: Ubaghara
+    auto: true
   - translation_iso: hin
     name: उबाघारा
     auto: true

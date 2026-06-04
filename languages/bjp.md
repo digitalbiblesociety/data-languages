@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: فانامكت
     auto: true
+  - translation_iso: fra
+    name: Fanamaket
+    auto: true
   - translation_iso: hin
     name: फानामाकेट
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واروپين
     auto: true
+  - translation_iso: fra
+    name: Waropen
+    auto: true
   - translation_iso: hin
     name: वारोपेन
     auto: true

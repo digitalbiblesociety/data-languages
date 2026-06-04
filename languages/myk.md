@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مامارا سينوفو
     auto: true
+  - translation_iso: fra
+    name: mamara
   - translation_iso: hin
     name: मामारा सेनोउफो
     auto: true

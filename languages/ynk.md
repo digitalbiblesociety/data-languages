@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ناوكان يوبيك
     auto: true
+  - translation_iso: fra
+    name: naukan
   - translation_iso: hin
     name: नौकान युपिक
     auto: true

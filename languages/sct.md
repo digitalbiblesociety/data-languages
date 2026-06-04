@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ساذرن كاتانج
     auto: true
+  - translation_iso: fra
+    name: katang du Sud
   - translation_iso: hin
     name: दक्षिणी कातांग
     auto: true

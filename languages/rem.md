@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريمو
     auto: true
+  - translation_iso: fra
+    name: Remo
+    auto: true
   - translation_iso: hin
     name: रेमो
     auto: true

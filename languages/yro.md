@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة ياروامي
     auto: true
+  - translation_iso: fra
+    name: yaroamë
   - translation_iso: hin
     name: यारोआमे
     auto: true

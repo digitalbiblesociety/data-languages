@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Braj_Bhasha"
 translations:
   - translation_iso: ara
     name: البرجية
+  - translation_iso: fra
+    name: braj Bhasha
   - translation_iso: hin
     name: ब्रजभाषा
   - translation_iso: jpn

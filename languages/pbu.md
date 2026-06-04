@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باشتو الشمالية
     auto: true
+  - translation_iso: fra
+    name: pashto du Nord
   - translation_iso: hin
     name: उत्तरी पश्तो
     auto: true

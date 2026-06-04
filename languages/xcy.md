@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: كايوسي
     auto: true
+  - translation_iso: fra
+    name: cayuse
   - translation_iso: hin
     name: कैयुसे
     auto: true

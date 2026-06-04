@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نييامبو
     auto: true
+  - translation_iso: fra
+    name: nyambo
   - translation_iso: hin
     name: न्याम्बो
     auto: true

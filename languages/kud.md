@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوهيلاوا
     auto: true
+  - translation_iso: fra
+    name: ’auhelawa
   - translation_iso: hin
     name: औहेलावा
     auto: true
@@ -25,7 +27,7 @@ translations:
     name: アウヘラワ語
     auto: true
   - translation_iso: spa
-    name: "'auhelawa"
+    name: auhelawa
   - translation_iso: zho
     name: 奥赫拉瓦语
     auto: true

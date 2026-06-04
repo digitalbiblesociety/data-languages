@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: اللغة مايواولي
     auto: true
+  - translation_iso: fra
+    name: mayawali
   - translation_iso: hin
     name: मायावली
     auto: true

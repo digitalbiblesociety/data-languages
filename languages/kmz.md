@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khorasani_Turkic"
 translations:
   - translation_iso: ara
     name: التركية الخراسانية
+  - translation_iso: fra
+    name: turc du Khorassan
   - translation_iso: hin
     name: खुरासानी तुर्की
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جيليك
     auto: true
+  - translation_iso: fra
+    name: nivkhe
   - translation_iso: hin
     name: गिल्याक
     auto: true

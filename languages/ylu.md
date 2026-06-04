@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أريبوانغ
     auto: true
+  - translation_iso: fra
+    name: Aribwaung
+    auto: true
   - translation_iso: hin
     name: अरिबवाउंग
     auto: true

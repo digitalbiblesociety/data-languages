@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سمول فلاوري ميتاو
     auto: true
+  - translation_iso: fra
+    name: Miao petit fleuri
+    auto: true
   - translation_iso: hin
     name: स्मॉल फ्लावरी मियाओ
     auto: true

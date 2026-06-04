@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: زوتونغ تشين
     auto: true
+  - translation_iso: fra
+    name: Chin Zotung
+    auto: true
   - translation_iso: hin
     name: ज़ोतुङ चिन
     auto: true

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: نيو
     auto: true
+  - translation_iso: fra
+    name: neo
   - translation_iso: hin
     name: नेओ
     auto: true

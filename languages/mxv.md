@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ميتلاتونوك ميكستك
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Metlatónoc
   - translation_iso: hin
     name: मेत्लातोनोक मिक्सटेक
     auto: true

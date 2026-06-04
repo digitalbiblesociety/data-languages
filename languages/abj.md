@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آكا-بيا
     auto: true
+  - translation_iso: fra
+    name: Aka-Bea
+    auto: true
   - translation_iso: hin
     name: अका बिया भाषा
   - translation_iso: jpn

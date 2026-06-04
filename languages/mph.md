@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماونج
     auto: true
+  - translation_iso: fra
+    name: maung
   - translation_iso: hin
     name: माउंग
     auto: true

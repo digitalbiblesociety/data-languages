@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دورزي
     auto: true
+  - translation_iso: fra
+    name: dorzé
   - translation_iso: hin
     name: डोरज़े
     auto: true

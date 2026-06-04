@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ماريييدي
     auto: true
+  - translation_iso: fra
+    name: mariyedi
   - translation_iso: hin
     name: मरियेदी
     auto: true

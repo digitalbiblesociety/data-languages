@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيغيدي
     auto: true
+  - translation_iso: fra
+    name: Igede
   - translation_iso: hin
     name: इगेदे
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة الأوروغوايانية
     auto: true
+  - translation_iso: fra
+    name: langue des signes uruguayenne
   - translation_iso: hin
     name: उरुग्वे सांकेतिक भाषा
     auto: true

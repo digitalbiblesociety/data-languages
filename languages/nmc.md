@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغام
     auto: true
+  - translation_iso: fra
+    name: Ngam
+    auto: true
   - translation_iso: hin
     name: न्गाम
     auto: true

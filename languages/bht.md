@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بهاتيالي
     auto: true
+  - translation_iso: fra
+    name: Bhattiyali
+    auto: true
   - translation_iso: hin
     name: भटियाली
   - translation_iso: jpn

@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: مينانج
     auto: true
+  - translation_iso: fra
+    name: minang
   - translation_iso: hin
     name: मिनांग
     auto: true

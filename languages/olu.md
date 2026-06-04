@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوفالي
     auto: true
+  - translation_iso: fra
+    name: kuvale
   - translation_iso: hin
     name: कुवाले
     auto: true

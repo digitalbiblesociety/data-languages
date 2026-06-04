@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سيكويا
     auto: true
+  - translation_iso: fra
+    name: secoya
   - translation_iso: hin
     name: सेकोया
     auto: true

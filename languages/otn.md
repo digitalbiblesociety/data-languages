@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي تينانغو
     auto: true
+  - translation_iso: fra
+    name: otomi de Tenango
   - translation_iso: hin
     name: तेनांगो ओटोमी
     auto: true

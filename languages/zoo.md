@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك أسونثيون ميكستيبيك
     auto: true
+  - translation_iso: fra
+    name: "zapotèque d'Asunción Mixtepec"
   - translation_iso: hin
     name: असुनसियोन मिक्स्तेपेक सैपोटेक
     auto: true

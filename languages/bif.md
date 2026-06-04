@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيافادا
     auto: true
+  - translation_iso: fra
+    name: biafada
   - translation_iso: hin
     name: बियाफ़ादा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوميانداريت
     auto: true
+  - translation_iso: fra
+    name: komyandaret
   - translation_iso: hin
     name: कोम्यांदारेत
     auto: true

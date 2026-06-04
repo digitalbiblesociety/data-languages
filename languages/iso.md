@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيسوكو
     auto: true
+  - translation_iso: fra
+    name: isoko
   - translation_iso: hin
     name: इसोको
     auto: true

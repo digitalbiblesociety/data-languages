@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ساكاتلان أهواكاتلان تيبتسينتلا ناهواتل
     auto: true
+  - translation_iso: fra
+    name: nahuatl de Zacatlán-Ahuacatlán-Tepetzintla
   - translation_iso: hin
     name: साकातलान-आहुआकातलान-तेपेत्ज़िंतला नाहुआतल
     auto: true

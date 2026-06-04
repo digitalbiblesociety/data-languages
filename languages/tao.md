@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يامي
     auto: true
+  - translation_iso: fra
+    name: yami
   - translation_iso: hin
     name: यामी
     auto: true

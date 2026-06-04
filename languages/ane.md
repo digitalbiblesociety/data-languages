@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة خاراتشوو
     auto: true
+  - translation_iso: fra
+    name: xârâcùù
   - translation_iso: hin
     name: शाराचू
     auto: true

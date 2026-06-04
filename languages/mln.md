@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مالانجو
     auto: true
+  - translation_iso: fra
+    name: malango
   - translation_iso: hin
     name: मालांगो
     auto: true

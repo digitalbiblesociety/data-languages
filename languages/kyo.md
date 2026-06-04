@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيلون
     auto: true
+  - translation_iso: fra
+    name: klon
   - translation_iso: hin
     name: केलोन
     auto: true

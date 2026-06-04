@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: كونامة
     auto: true
+  - translation_iso: fra
+    name: kunama
   - translation_iso: hin
     name: कुनामा
     auto: true

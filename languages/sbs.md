@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سوبيا
     auto: true
+  - translation_iso: fra
+    name: kuhane
   - translation_iso: hin
     name: सुबिया
     auto: true

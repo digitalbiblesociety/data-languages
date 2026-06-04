@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: ندوندي همبا
     auto: true
+  - translation_iso: fra
+    name: ndonde
   - translation_iso: hin
     name: न्दोंदे हाम्बा
     auto: true

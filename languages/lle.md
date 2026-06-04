@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يلي
     auto: true
+  - translation_iso: fra
+    name: lele
   - translation_iso: hin
     name: लेले (पापुआ न्यू गिनी)
     auto: true

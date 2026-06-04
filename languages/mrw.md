@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماراناو
     auto: true
+  - translation_iso: fra
+    name: maranao
   - translation_iso: hin
     name: मरानाओ
     auto: true

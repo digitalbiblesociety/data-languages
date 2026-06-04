@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة لابو
     auto: true
+  - translation_iso: fra
+    name: ninde
   - translation_iso: hin
     name: लाबो
     auto: true

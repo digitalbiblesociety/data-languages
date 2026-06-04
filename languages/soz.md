@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة تيمي
     auto: true
+  - translation_iso: fra
+    name: temi
   - translation_iso: hin
     name: तेमी
     auto: true

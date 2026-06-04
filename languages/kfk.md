@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيناوري
     auto: true
+  - translation_iso: fra
+    name: kinnauri
   - translation_iso: hin
     name: किन्नौरी भाषा
   - translation_iso: jpn

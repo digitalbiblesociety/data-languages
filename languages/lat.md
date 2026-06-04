@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Latin"
 translations:
   - translation_iso: ara
     name: اللاتينية
+  - translation_iso: fra
+    name: latin
   - translation_iso: hin
     name: लातिन भाषा
   - translation_iso: jpn

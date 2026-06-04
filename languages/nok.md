@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نوكساك
     auto: true
+  - translation_iso: fra
+    name: nooksack
   - translation_iso: hin
     name: नूकसैक
     auto: true

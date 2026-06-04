@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة أواب ميتو
     auto: true
+  - translation_iso: fra
+    name: uab meto
   - translation_iso: hin
     name: उआब मेतो
     auto: true

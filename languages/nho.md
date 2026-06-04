@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاكو
     auto: true
+  - translation_iso: fra
+    name: Takuu
+    auto: true
   - translation_iso: hin
     name: ताकू
     auto: true

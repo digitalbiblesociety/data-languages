@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة البورمية القديمة
     auto: true
+  - translation_iso: fra
+    name: ancien birman
   - translation_iso: hin
     name: प्राचीन बर्मी
     auto: true

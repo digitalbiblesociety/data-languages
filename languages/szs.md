@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بجزر سليمان
     auto: true
+  - translation_iso: fra
+    name: langue des signe salamonaise
   - translation_iso: hin
     name: सोलोमन द्वीप सांकेतिक भाषा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاجولو
     auto: true
+  - translation_iso: fra
+    name: kagulu
   - translation_iso: hin
     name: कागुलु
     auto: true

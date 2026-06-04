@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Irish"
 translations:
   - translation_iso: ara
     name: الأيرلندية الوسطى
+  - translation_iso: fra
+    name: moyen irlandais
   - translation_iso: hin
     name: मध्यकालीन आइरिश
   - translation_iso: jpn

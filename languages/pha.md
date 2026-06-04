@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة با هنغ
     auto: true
+  - translation_iso: fra
+    name: baheng
   - translation_iso: hin
     name: पा-ह्न्ग
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة لاشي
     auto: true
+  - translation_iso: fra
+    name: lashi
   - translation_iso: hin
     name: लाशी
     auto: true

@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: يانجوم جيل
     auto: true
+  - translation_iso: fra
+    name: yangum gel
   - translation_iso: hin
     name: यांगुम गेल
     auto: true

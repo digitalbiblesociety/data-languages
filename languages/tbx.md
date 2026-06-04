@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كابين
     auto: true
+  - translation_iso: fra
+    name: kapin
   - translation_iso: hin
     name: कापिन
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيمارا الوسطى
     auto: true
+  - translation_iso: fra
+    name: aymara central
   - translation_iso: hin
     name: मध्य आयमारा
     auto: true

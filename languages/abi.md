@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أبيدجي
     auto: true
+  - translation_iso: fra
+    name: abidji
   - translation_iso: hin
     name: अबिद्जी
     auto: true

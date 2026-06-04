@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: وانجكومارا
     auto: true
+  - translation_iso: fra
+    name: wangkumara
   - translation_iso: hin
     name: वांगकुमारा
     auto: true

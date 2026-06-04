@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بي
     auto: true
+  - translation_iso: fra
+    name: pe
   - translation_iso: hin
     name: पे
     auto: true

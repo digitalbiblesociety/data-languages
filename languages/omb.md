@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أمبي الشرقية
     auto: true
+  - translation_iso: fra
+    name: "ambae de l'Est"
   - translation_iso: hin
     name: पूर्वी अम्बाए
     auto: true

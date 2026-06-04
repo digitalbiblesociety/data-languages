@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيريونو
     auto: true
+  - translation_iso: fra
+    name: sirionó
   - translation_iso: hin
     name: सिरियोनो
     auto: true

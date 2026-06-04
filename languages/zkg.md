@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوغوريو
     auto: true
+  - translation_iso: fra
+    name: goguryeoan
   - translation_iso: hin
     name: कोगुरयो
     auto: true

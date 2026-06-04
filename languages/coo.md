@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكوموكس
     auto: true
+  - translation_iso: fra
+    name: comox
   - translation_iso: hin
     name: कोमॉक्स
     auto: true

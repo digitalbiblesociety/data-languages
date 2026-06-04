@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غوغودآلآ
     auto: true
+  - translation_iso: fra
+    name: Gogodala
+    auto: true
   - translation_iso: hin
     name: गोगोदाला
     auto: true

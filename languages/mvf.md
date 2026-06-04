@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة منغولي الطرفية
     auto: true
+  - translation_iso: fra
+    name: mongol de Chine
   - translation_iso: hin
     name: परिधीय मंगोलियन
     auto: true

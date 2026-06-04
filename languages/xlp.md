@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ليبونتية
     auto: true
+  - translation_iso: fra
+    name: lépontique
   - translation_iso: hin
     name: लेपोंटिक
     auto: true

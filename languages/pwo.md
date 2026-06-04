@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاريين بوو الغربية
     auto: true
+  - translation_iso: fra
+    name: "pwo de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी प्वो करेन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كودي
     auto: true
+  - translation_iso: fra
+    name: kodi
   - translation_iso: hin
     name: कोदी
     auto: true

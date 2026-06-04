@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوبي
     auto: true
+  - translation_iso: fra
+    name: kubi
   - translation_iso: hin
     name: कुबी
     auto: true

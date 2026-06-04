@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بيمين
     auto: true
+  - translation_iso: fra
+    name: bimin
   - translation_iso: hin
     name: बिमिन
     auto: true

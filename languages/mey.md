@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hassaniya_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة حسانية
+  - translation_iso: fra
+    name: hassanya
   - translation_iso: hin
     name: हसनिया अरबी
     auto: true

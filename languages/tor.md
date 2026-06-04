@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توجبو فارا بندا
     auto: true
+  - translation_iso: fra
+    name: banda togbo-vara
   - translation_iso: hin
     name: तोग्बो-वारा बांदा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ليسيلا
     auto: true
+  - translation_iso: fra
+    name: lisela
   - translation_iso: hin
     name: लिसेला
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الملاقي الكريول الملايوي
     auto: true
+  - translation_iso: fra
+    name: Créole malais de Malacca
+    auto: true
   - translation_iso: hin
     name: मलक्कन क्रियोल मलय
     auto: true

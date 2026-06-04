@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كامبيرا
     auto: true
+  - translation_iso: fra
+    name: kambera
   - translation_iso: hin
     name: कांबेरा
     auto: true

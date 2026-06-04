@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاتشا-كادولي-ميري
     auto: true
+  - translation_iso: fra
+    name: Katcha-kadugli-miri
   - translation_iso: hin
     name: कत्चा-कडुगली-मिरी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الهوربا
     auto: true
+  - translation_iso: fra
+    name: horpa
   - translation_iso: hin
     name: होरपा
     auto: true

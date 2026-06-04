@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مارفا
     auto: true
+  - translation_iso: fra
+    name: Marfa
+    auto: true
   - translation_iso: hin
     name: मार्फा
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووينيا
     auto: true
+  - translation_iso: fra
+    name: Owenia
+    auto: true
   - translation_iso: hin
     name: ओवेनिया
     auto: true

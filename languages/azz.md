@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة ناهوتل بويبلا الجبلية
     auto: true
+  - translation_iso: fra
+    name: nahuatl du haut Puebla
   - translation_iso: hin
     name: हाइलैंड प्वेबला नवात्ल
     auto: true

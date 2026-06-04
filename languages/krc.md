@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Karachay-Balkar"
 translations:
   - translation_iso: ara
     name: القراشاية البلقارية
+  - translation_iso: fra
+    name: karatchaï-balkar
   - translation_iso: hin
     name: कराचय-बल्कार
   - translation_iso: jpn

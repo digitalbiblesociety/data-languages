@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة كوي
     auto: true
+  - translation_iso: fra
+    name: kuy
   - translation_iso: hin
     name: कुय
     auto: true

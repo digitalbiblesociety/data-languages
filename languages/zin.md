@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زينزا
     auto: true
+  - translation_iso: fra
+    name: zinza
   - translation_iso: hin
     name: ज़िंज़ा
     auto: true

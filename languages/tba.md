@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: أيكانّا
     auto: true
+  - translation_iso: fra
+    name: aikana
   - translation_iso: hin
     name: ऐकाना
     auto: true

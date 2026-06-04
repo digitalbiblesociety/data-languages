@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة بلاوتديتش
     auto: true
+  - translation_iso: fra
+    name: bas allemand mennonite
   - translation_iso: hin
     name: प्लाउटडीच
     auto: true

@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ويرغايا
     auto: true
+  - translation_iso: fra
+    name: wergaia
   - translation_iso: hin
     name: वर्गाया
     auto: true

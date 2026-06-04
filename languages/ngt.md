@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كريانج
     auto: true
+  - translation_iso: fra
+    name: kriang
   - translation_iso: hin
     name: क्रियांग
     auto: true

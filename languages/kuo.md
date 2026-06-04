@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوموكيو
     auto: true
+  - translation_iso: fra
+    name: Kumukio
+    auto: true
   - translation_iso: hin
     name: कुमुकियो
     auto: true

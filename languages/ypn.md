@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أني فوا
     auto: true
+  - translation_iso: fra
+    name: phowa ani
   - translation_iso: hin
     name: अनी फोवा
     auto: true

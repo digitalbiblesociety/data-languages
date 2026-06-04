@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: مونداديان تشيتي
     auto: true
+  - translation_iso: fra
+    name: Moundadan Chetty
+    auto: true
   - translation_iso: hin
     name: मौंडादन चेट्टी
     auto: true

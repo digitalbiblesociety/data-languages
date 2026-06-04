@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Blissymbols"
 translations:
   - translation_iso: ara
     name: رموز بليس
+  - translation_iso: fra
+    name: bliss
   - translation_iso: hin
     name: ब्लिसिम्बॉल्स
   - translation_iso: jpn

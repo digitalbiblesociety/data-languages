@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديتاماري
     auto: true
+  - translation_iso: fra
+    name: ditammari
   - translation_iso: hin
     name: दितामारी
     auto: true

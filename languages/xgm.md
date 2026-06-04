@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دهارومبال
     auto: true
+  - translation_iso: fra
+    name: dharumbal
   - translation_iso: hin
     name: धारुम्बल
     auto: true

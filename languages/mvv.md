@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة تاجال موروت
     auto: true
+  - translation_iso: fra
+    name: tagol
   - translation_iso: hin
     name: तागल मुरुत
     auto: true

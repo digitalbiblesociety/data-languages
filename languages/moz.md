@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موكولو
     auto: true
+  - translation_iso: fra
+    name: mokulu
   - translation_iso: hin
     name: मुकुलु
     auto: true

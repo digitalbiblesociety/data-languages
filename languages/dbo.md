@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دولبو
     auto: true
+  - translation_iso: fra
+    name: dulbu
   - translation_iso: hin
     name: दुलबू
     auto: true

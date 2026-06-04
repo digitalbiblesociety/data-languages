@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مينيديين
     auto: true
+  - translation_iso: fra
+    name: minidien
   - translation_iso: hin
     name: मिनिडियन
     auto: true

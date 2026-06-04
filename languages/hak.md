@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hakka_Chinese"
 translations:
   - translation_iso: ara
     name: لغة الهاكا
+  - translation_iso: fra
+    name: hakka
   - translation_iso: hin
     name: होक्का भाषा
   - translation_iso: jpn

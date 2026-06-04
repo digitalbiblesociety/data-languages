@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kwasio_language"
 translations:
   - translation_iso: ara
     name: كواسيو
+  - translation_iso: fra
+    name: ngoumba
   - translation_iso: hin
     name: क्वासिओ
   - translation_iso: jpn

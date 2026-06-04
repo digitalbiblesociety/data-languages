@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: غوريآسو
     auto: true
+  - translation_iso: fra
+    name: guriaso
   - translation_iso: hin
     name: गुरियासो
     auto: true

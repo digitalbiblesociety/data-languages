@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نك
     auto: true
+  - translation_iso: fra
+    name: nek
   - translation_iso: hin
     name: नेक
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بارايه
     auto: true
+  - translation_iso: fra
+    name: baré
   - translation_iso: hin
     name: बारे
     auto: true

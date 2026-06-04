@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mbay_language"
 translations:
   - translation_iso: ara
     name: مباي
+  - translation_iso: fra
+    name: mbay
   - translation_iso: hin
     name: म्बाय
     auto: true

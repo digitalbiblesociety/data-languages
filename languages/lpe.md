@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يپكي
     auto: true
+  - translation_iso: fra
+    name: lepki
   - translation_iso: hin
     name: लेपकी
     auto: true

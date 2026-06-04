@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موري أتاس
     auto: true
+  - translation_iso: fra
+    name: mori atas
   - translation_iso: hin
     name: मोरी अतास
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفورتسينال
     auto: true
+  - translation_iso: fra
+    name: fortsenal
   - translation_iso: hin
     name: फोर्त्सेनाल
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاموري
     auto: true
+  - translation_iso: fra
+    name: kamora
   - translation_iso: hin
     name: कामोरो
     auto: true

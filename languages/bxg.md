@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بانْجالا
     auto: true
+  - translation_iso: fra
+    name: bangala
   - translation_iso: hin
     name: बंगाला
     auto: true

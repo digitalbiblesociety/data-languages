@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/I%C3%B1upiaq_language"
 translations:
   - translation_iso: ara
     name: لغة إنوبياك
+  - translation_iso: fra
+    name: inupiaq
   - translation_iso: hin
     name: इनुपियाक भाषा
   - translation_iso: jpn

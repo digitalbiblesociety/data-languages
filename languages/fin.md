@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Finnish_language"
 translations:
   - translation_iso: ara
     name: الفنلندية
+  - translation_iso: fra
+    name: finnois
   - translation_iso: hin
     name: फ़िनिश भाषा
   - translation_iso: jpn

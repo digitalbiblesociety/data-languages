@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة منونج الشرقية
     auto: true
+  - translation_iso: fra
+    name: Mnong oriental
+    auto: true
   - translation_iso: hin
     name: पूर्वी म्नोंग
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاي
     auto: true
+  - translation_iso: fra
+    name: kei
   - translation_iso: hin
     name: केई
     auto: true

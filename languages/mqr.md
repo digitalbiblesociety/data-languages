@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ماندير
     auto: true
+  - translation_iso: fra
+    name: mander
   - translation_iso: hin
     name: मांदेर
     auto: true

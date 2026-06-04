@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bima_language"
 translations:
   - translation_iso: ara
     name: لغة بيما
+  - translation_iso: fra
+    name: bima
   - translation_iso: hin
     name: बीमा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يامفو
     auto: true
+  - translation_iso: fra
+    name: yamphu
   - translation_iso: hin
     name: यांफू
     auto: true

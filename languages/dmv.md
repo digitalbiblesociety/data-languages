@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دومباس
     auto: true
+  - translation_iso: fra
+    name: dumpas
   - translation_iso: hin
     name: दुम्पास
     auto: true

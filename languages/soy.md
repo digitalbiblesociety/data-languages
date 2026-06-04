@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة مييوبي
     auto: true
+  - translation_iso: fra
+    name: miyobé
   - translation_iso: hin
     name: मियोबे
     auto: true

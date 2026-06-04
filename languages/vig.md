@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فييمو
     auto: true
+  - translation_iso: fra
+    name: viemo
   - translation_iso: hin
     name: विएमो
     auto: true

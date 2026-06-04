@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بولو
     auto: true
+  - translation_iso: fra
+    name: bulu
   - translation_iso: hin
     name: बुलु (पापुआ न्यू गिनी)
     auto: true

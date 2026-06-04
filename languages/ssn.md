@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة واتا
     auto: true
+  - translation_iso: fra
+    name: waata
   - translation_iso: hin
     name: वाटा
     auto: true

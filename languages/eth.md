@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Ethiopian
     auto: true
+  - translation_iso: fra
+    name: langue des signes éthiopienne
   - translation_iso: hin
     name: इथियोपियाई सांकेतिक भाषा
     auto: true

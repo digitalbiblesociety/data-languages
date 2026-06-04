@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة وتاندوكهي يكستيك
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Yutanduchi
   - translation_iso: hin
     name: युतान्दुची मिश्तेक
     auto: true

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sogdian_language"
 translations:
   - translation_iso: ara
     name: اللغة الصغدية
+  - translation_iso: fra
+    name: sogdien
   - translation_iso: hin
     name: सोग़दाई भाषा
   - translation_iso: jpn

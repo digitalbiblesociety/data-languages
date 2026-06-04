@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كاباتي
     auto: true
+  - translation_iso: fra
+    name: kabatei
   - translation_iso: hin
     name: कबाते
     auto: true

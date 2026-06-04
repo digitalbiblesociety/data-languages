@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كويايا
     auto: true
+  - translation_iso: fra
+    name: koyaga
   - translation_iso: hin
     name: कोयागा
     auto: true

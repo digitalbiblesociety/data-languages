@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هويتشول
     auto: true
+  - translation_iso: fra
+    name: huichol
   - translation_iso: hin
     name: हुइचोल
     auto: true

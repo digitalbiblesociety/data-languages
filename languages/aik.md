@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أكي
     auto: true
+  - translation_iso: fra
+    name: ake
   - translation_iso: hin
     name: अके
     auto: true

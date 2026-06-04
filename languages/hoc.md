@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ho_language"
 translations:
   - translation_iso: ara
     name: الهويوية
+  - translation_iso: fra
+    name: ho
   - translation_iso: hin
     name: हो भाषा
   - translation_iso: jpn

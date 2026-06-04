@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماندايا
     auto: true
+  - translation_iso: fra
+    name: mandaya
   - translation_iso: hin
     name: मंदाया
     auto: true

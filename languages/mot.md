@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة باري
     auto: true
+  - translation_iso: fra
+    name: barí
   - translation_iso: hin
     name: बारी
     auto: true

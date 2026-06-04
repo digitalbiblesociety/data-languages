@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشيانغ الشمالية
     auto: true
+  - translation_iso: fra
+    name: qiang du Nord
   - translation_iso: hin
     name: उत्तरी चियांग
     auto: true

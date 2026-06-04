@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أموردك
     auto: true
+  - translation_iso: fra
+    name: amurdak
   - translation_iso: hin
     name: अमुर्दक
     auto: true

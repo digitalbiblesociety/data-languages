@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: واديكالي
     auto: true
+  - translation_iso: fra
+    name: wadikali
   - translation_iso: hin
     name: वडिकली
     auto: true

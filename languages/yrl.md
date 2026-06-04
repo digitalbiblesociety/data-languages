@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nheengatu_language"
 translations:
   - translation_iso: ara
     name: النيينجاتو
+  - translation_iso: fra
+    name: nheengatu
   - translation_iso: hin
     name: न्हींगातु भाषा
   - translation_iso: jpn

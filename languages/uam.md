@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوامويه
     auto: true
+  - translation_iso: fra
+    name: Uamué
+    auto: true
   - translation_iso: hin
     name: उआमुए
     auto: true

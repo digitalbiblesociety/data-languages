@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Walloon_language"
 translations:
   - translation_iso: ara
     name: لغة والون
+  - translation_iso: fra
+    name: wallon
   - translation_iso: hin
     name: वाल्लून
   - translation_iso: jpn

@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة السنغافورية
     auto: true
+  - translation_iso: fra
+    name: Langue des signes de Singapour
+    auto: true
   - translation_iso: hin
     name: सिंगापुर सांकेतिक भाषा
     auto: true

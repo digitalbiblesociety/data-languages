@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هدي
     auto: true
+  - translation_iso: fra
+    name: hidé
   - translation_iso: hin
     name: ह्दी
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Russian_language"
 translations:
   - translation_iso: ara
     name: الروسية
+  - translation_iso: fra
+    name: russe
   - translation_iso: hin
     name: रूसी
   - translation_iso: jpn

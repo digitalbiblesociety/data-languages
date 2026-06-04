@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yue_Chinese"
 translations:
   - translation_iso: ara
     name: صينية يوي
+  - translation_iso: fra
+    name: cantonais
   - translation_iso: hin
     name: यू चीनी
   - translation_iso: jpn

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Uyghur_language"
 translations:
   - translation_iso: ara
     name: الأويغورية
+  - translation_iso: fra
+    name: ouïghour
   - translation_iso: hin
     name: उइगुर भाषा
   - translation_iso: jpn

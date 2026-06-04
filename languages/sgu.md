@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سالاس
     auto: true
+  - translation_iso: fra
+    name: salas
   - translation_iso: hin
     name: सालास
     auto: true

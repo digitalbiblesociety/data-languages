@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة مافا
     auto: true
+  - translation_iso: fra
+    name: mafa
   - translation_iso: hin
     name: माफ़ा
     auto: true

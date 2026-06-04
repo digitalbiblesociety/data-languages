@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جادابا موديلي
     auto: true
+  - translation_iso: fra
+    name: gadaba mudhili
   - translation_iso: hin
     name: मुधिली गडबा
     auto: true

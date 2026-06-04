@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة ملايو نيغيري سيمبيلان
     auto: true
+  - translation_iso: fra
+    name: malais de Negeri Sembilan
   - translation_iso: hin
     name: नेगेरी सेम्बिलान मलय
     auto: true

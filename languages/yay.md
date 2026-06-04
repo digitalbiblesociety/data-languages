@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أجواجوني
     auto: true
+  - translation_iso: fra
+    name: Agwagwune
+    auto: true
   - translation_iso: hin
     name: अग्वाग्वुने
     auto: true

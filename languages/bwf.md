@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوسيليوا
     auto: true
+  - translation_iso: fra
+    name: boselewa
   - translation_iso: hin
     name: बोसेलेवा
     auto: true

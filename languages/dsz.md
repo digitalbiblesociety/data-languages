@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: ماردين ساين لانجويج
     auto: true
+  - translation_iso: fra
+    name: langue des signes de Mardin
   - translation_iso: hin
     name: मार्डिन सांकेतिक भाषा
   - translation_iso: jpn

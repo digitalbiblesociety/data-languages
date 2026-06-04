@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة أبرون
     auto: true
+  - translation_iso: fra
+    name: Bono
   - translation_iso: hin
     name: अब्रोन
     auto: true

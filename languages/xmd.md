@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مبوندم
     auto: true
+  - translation_iso: fra
+    name: mbudum
   - translation_iso: hin
     name: म्बुदुम
     auto: true

@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: الفونجورو
     auto: true
+  - translation_iso: fra
+    name: fongoro
   - translation_iso: hin
     name: फोंगोरो
     auto: true

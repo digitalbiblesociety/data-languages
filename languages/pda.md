@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنام
     auto: true
+  - translation_iso: fra
+    name: anam
   - translation_iso: hin
     name: अनाम
     auto: true

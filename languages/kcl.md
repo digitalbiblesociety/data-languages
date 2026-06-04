@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيلا
     auto: true
+  - translation_iso: fra
+    name: kala
   - translation_iso: hin
     name: केला (पापुआ न्यू गिनी)
     auto: true

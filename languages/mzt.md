@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: منتيل
     auto: true
+  - translation_iso: fra
+    name: mintil
   - translation_iso: hin
     name: मिंतिल
     auto: true

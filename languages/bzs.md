@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البرازيلية
     auto: true
+  - translation_iso: fra
+    name: langue des signes brésilienne
   - translation_iso: hin
     name: ब्राज़ीलियाई सांकेतिक भाषा
   - translation_iso: jpn

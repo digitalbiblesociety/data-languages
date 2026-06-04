@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبومبونج
     auto: true
+  - translation_iso: fra
+    name: mpumpong
   - translation_iso: hin
     name: म्पुम्पोंग
     auto: true

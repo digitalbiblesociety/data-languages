@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دجينبا
     auto: true
+  - translation_iso: fra
+    name: djinba
   - translation_iso: hin
     name: जिंबा
     auto: true

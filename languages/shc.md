@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوندي
     auto: true
+  - translation_iso: fra
+    name: Sonde
+    auto: true
   - translation_iso: hin
     name: सोंडे
     auto: true

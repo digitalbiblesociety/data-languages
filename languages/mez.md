@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Menominee_language"
 translations:
   - translation_iso: ara
     name: مينوميني
+  - translation_iso: fra
+    name: menominee
   - translation_iso: hin
     name: मेनोमिनी
     auto: true

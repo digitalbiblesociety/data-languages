@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ishkashimi_language"
 translations:
   - translation_iso: ara
     name: اللغة_الإشكاشمية
+  - translation_iso: fra
+    name: ishkashimi
   - translation_iso: hin
     name: इश्काशिमी
     auto: true

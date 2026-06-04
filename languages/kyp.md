@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: كانج
     auto: true
+  - translation_iso: fra
+    name: kang
   - translation_iso: hin
     name: कांग
     auto: true

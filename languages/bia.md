@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بادمايا
     auto: true
+  - translation_iso: fra
+    name: badimaya
   - translation_iso: hin
     name: बादिमाया
     auto: true

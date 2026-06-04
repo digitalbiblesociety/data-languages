@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غور
     auto: true
+  - translation_iso: fra
+    name: gor
   - translation_iso: hin
     name: गोर
     auto: true

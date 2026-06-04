@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بومولي
     auto: true
+  - translation_iso: fra
+    name: bomwali
   - translation_iso: hin
     name: बोम्वाली
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيبالا
     auto: true
+  - translation_iso: fra
+    name: kibala
   - translation_iso: hin
     name: किबाला
     auto: true

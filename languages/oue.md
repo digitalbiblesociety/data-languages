@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أون
     auto: true
+  - translation_iso: fra
+    name: Oune
+    auto: true
   - translation_iso: hin
     name: ओउने
     auto: true

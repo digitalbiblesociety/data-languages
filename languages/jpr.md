@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Persian"
 translations:
   - translation_iso: ara
     name: الفارسية اليهودية
+  - translation_iso: fra
+    name: dzhidi
   - translation_iso: hin
     name: जुदेओ-पर्शियन
   - translation_iso: jpn

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كانجو
     auto: true
+  - translation_iso: fra
+    name: kanju
   - translation_iso: hin
     name: कांजू
     auto: true

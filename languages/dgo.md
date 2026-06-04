@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dogri_language"
 translations:
   - translation_iso: ara
     name: الدوغرية
+  - translation_iso: fra
+    name: dogri
   - translation_iso: hin
     name: डोगरी
   - translation_iso: jpn

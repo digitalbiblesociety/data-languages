@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوسيتانية
     auto: true
+  - translation_iso: fra
+    name: lusitain
   - translation_iso: hin
     name: लुसिटानियन
     auto: true

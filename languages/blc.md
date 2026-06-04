@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلا كولا
     auto: true
+  - translation_iso: fra
+    name: nuxalk
   - translation_iso: hin
     name: नूखल्क भाषा
   - translation_iso: jpn

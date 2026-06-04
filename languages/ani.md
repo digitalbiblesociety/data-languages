@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأندية
     auto: true
+  - translation_iso: fra
+    name: andi
   - translation_iso: hin
     name: अंदी
     auto: true

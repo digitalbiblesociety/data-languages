@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاسكا
     auto: true
+  - translation_iso: fra
+    name: kaska
   - translation_iso: hin
     name: कास्का
     auto: true

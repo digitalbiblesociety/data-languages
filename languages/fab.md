@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فا دمبو
     auto: true
+  - translation_iso: fra
+    name: "fá d'Ambô"
   - translation_iso: hin
     name: "फा द'अम्बु"
     auto: true

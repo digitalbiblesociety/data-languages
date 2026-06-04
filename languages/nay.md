@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجارينجري
     auto: true
+  - translation_iso: fra
+    name: ngarrindjeri
   - translation_iso: hin
     name: नगारिंजेरी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غولين
     auto: true
+  - translation_iso: fra
+    name: golin
   - translation_iso: hin
     name: गोलिन
     auto: true

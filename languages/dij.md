@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: داي
     auto: true
+  - translation_iso: fra
+    name: Dai
+    auto: true
   - translation_iso: hin
     name: दाई
     auto: true

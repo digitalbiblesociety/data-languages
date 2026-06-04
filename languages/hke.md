@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هوندي
     auto: true
+  - translation_iso: fra
+    name: hunde
   - translation_iso: hin
     name: हुंडे
     auto: true

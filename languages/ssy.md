@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Saho_language"
 translations:
   - translation_iso: ara
     name: لغة ساهو
+  - translation_iso: fra
+    name: saho
   - translation_iso: hin
     name: साहो
   - translation_iso: jpn

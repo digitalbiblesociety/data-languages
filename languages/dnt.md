@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميد جراند فالي داني
     auto: true
+  - translation_iso: fra
+    name: Dani du milieu de la Grand Valley
+    auto: true
   - translation_iso: hin
     name: मध्य ग्रैंड वैली दानी
     auto: true

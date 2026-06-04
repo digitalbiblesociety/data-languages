@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاتاباجا
     auto: true
+  - translation_iso: fra
+    name: katabaga
   - translation_iso: hin
     name: कताबागा
     auto: true

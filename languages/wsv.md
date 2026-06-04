@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ووتاپوريكاتارقالاي
     auto: true
+  - translation_iso: fra
+    name: Wotapuri-Katarqalai
+    auto: true
   - translation_iso: hin
     name: वोटापूरी-कटारक़लाई भाषा
   - translation_iso: jpn

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اهانان
     auto: true
+  - translation_iso: fra
+    name: Lahanan
+    auto: true
   - translation_iso: hin
     name: लाहानान
     auto: true

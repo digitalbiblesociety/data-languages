@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيوا الجنوبية
     auto: true
+  - translation_iso: fra
+    name: tiwa du Sud
   - translation_iso: hin
     name: दक्षिणी तिवा भाषा
   - translation_iso: jpn

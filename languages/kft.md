@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كانجاري
     auto: true
+  - translation_iso: fra
+    name: Kanjari
+    auto: true
   - translation_iso: hin
     name: कंजारी
     auto: true

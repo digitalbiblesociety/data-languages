@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشويابو
     auto: true
+  - translation_iso: fra
+    name: chuwabu
   - translation_iso: hin
     name: चुवाबू
     auto: true

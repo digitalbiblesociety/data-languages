@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ناجو الشمالية
     auto: true
+  - translation_iso: fra
+    name: nago du Nord
   - translation_iso: hin
     name: उत्तरी नागो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة امنسو
     auto: true
+  - translation_iso: fra
+    name: "lamnso'"
   - translation_iso: hin
     name: लामन्सो
     auto: true

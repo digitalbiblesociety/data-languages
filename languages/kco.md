@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كينالاكنا
     auto: true
+  - translation_iso: fra
+    name: kinalakna
   - translation_iso: hin
     name: किनालाक्ना
     auto: true

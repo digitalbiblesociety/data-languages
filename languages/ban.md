@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Balinese_language"
 translations:
   - translation_iso: ara
     name: البالية
+  - translation_iso: fra
+    name: balinais
   - translation_iso: hin
     name: बाली भाषा
   - translation_iso: jpn

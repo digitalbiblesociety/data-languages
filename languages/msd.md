@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يوكاتيك مايا للإشارة
     auto: true
+  - translation_iso: fra
+    name: langue des signes maya yucatèque
   - translation_iso: hin
     name: मय साइन लैंग्वेज
   - translation_iso: jpn

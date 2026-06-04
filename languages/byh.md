@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بهوجيل
     auto: true
+  - translation_iso: fra
+    name: boudgel
   - translation_iso: hin
     name: भुजेल
     auto: true

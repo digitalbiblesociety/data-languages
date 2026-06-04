@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سووثإرن غآلإ
     auto: true
+  - translation_iso: fra
+    name: ghale du Sud
   - translation_iso: hin
     name: दक्षिणी घले
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نشومبولو
     auto: true
+  - translation_iso: fra
+    name: nchumbulu
   - translation_iso: hin
     name: न्चुम्बुलु
     auto: true

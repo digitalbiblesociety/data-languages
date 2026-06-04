@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوموندو
     auto: true
+  - translation_iso: fra
+    name: komodo
   - translation_iso: hin
     name: कोमोदो
     auto: true

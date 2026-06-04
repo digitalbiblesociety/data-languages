@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة آب ما
     auto: true
+  - translation_iso: fra
+    name: ap ma
   - translation_iso: hin
     name: आप मा
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كولواوا
     auto: true
+  - translation_iso: fra
+    name: Koluwawa
+    auto: true
   - translation_iso: hin
     name: कोलुवावा
     auto: true

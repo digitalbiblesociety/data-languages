@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البرتغالية
     auto: true
+  - translation_iso: fra
+    name: langue des signes portugaise
   - translation_iso: hin
     name: पुर्तगाली सांकेतिक भाषा
     auto: true

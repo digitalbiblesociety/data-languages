@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ ماشان الجنوبية
     auto: true
+  - translation_iso: fra
+    name: Hmong mashan méridional
+    auto: true
   - translation_iso: hin
     name: दक्षिणी माशान ह्मोंग
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الباسال
     auto: true
+  - translation_iso: fra
+    name: paasaal
   - translation_iso: hin
     name: पासाल
     auto: true

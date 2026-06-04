@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كونونغو
     auto: true
+  - translation_iso: fra
+    name: konongo
   - translation_iso: hin
     name: कोनोंगो
     auto: true

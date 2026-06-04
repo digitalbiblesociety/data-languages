@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاي سا با
     auto: true
+  - translation_iso: fra
+    name: tay sa pa
   - translation_iso: hin
     name: ताय सा पा
     auto: true

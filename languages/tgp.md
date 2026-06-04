@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تانغوا
     auto: true
+  - translation_iso: fra
+    name: tangoa
   - translation_iso: hin
     name: तंगोआ
     auto: true

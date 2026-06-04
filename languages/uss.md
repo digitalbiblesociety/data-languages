@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: أوس-سااري
     auto: true
+  - translation_iso: fra
+    name: us-saare
   - translation_iso: hin
     name: उस-सारे
     auto: true

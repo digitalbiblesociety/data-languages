@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوريك
     auto: true
+  - translation_iso: fra
+    name: purik
   - translation_iso: hin
     name: पुरगी भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيهان
     auto: true
+  - translation_iso: fra
+    name: nehan
   - translation_iso: hin
     name: नेहान
     auto: true

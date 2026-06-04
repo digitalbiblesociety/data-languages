@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أورورو-كاابور
     auto: true
+  - translation_iso: fra
+    name: kaapor
   - translation_iso: hin
     name: उरुबू-काआपोर
     auto: true

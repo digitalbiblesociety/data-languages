@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Czech_language"
 translations:
   - translation_iso: ara
     name: التشيكية
+  - translation_iso: fra
+    name: tchèque
   - translation_iso: hin
     name: चॅक भाषा
   - translation_iso: jpn

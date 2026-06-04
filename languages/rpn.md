@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: ريبانبيتيب
     auto: true
+  - translation_iso: fra
+    name: repanbitip
   - translation_iso: hin
     name: रेपानबितिप
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ماسديت إتنيغ
     auto: true
+  - translation_iso: fra
+    name: itneg masadiit
   - translation_iso: hin
     name: मसादीत इत्नेग
     auto: true

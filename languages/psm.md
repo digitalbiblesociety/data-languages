@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باوسيرنا
     auto: true
+  - translation_iso: fra
+    name: pauserna
   - translation_iso: hin
     name: पाउसेर्ना
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالاوانو الوسطى
     auto: true
+  - translation_iso: fra
+    name: palawano central
   - translation_iso: hin
     name: मध्य पालावानो
     auto: true

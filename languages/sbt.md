@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: كيمكي
     auto: true
+  - translation_iso: fra
+    name: kimki
   - translation_iso: hin
     name: किमकी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة لاسي
     auto: true
+  - translation_iso: fra
+    name: lasi
   - translation_iso: hin
     name: लासी
   - translation_iso: jpn

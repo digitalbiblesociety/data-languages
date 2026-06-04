@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: اللغة يارلويندي
     auto: true
+  - translation_iso: fra
+    name: yarluyandi
   - translation_iso: hin
     name: यारलुयांडी
     auto: true

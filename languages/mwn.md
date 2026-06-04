@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نياموانجا
     auto: true
+  - translation_iso: fra
+    name: Nyamwanga
+    auto: true
   - translation_iso: hin
     name: न्यामवांगा
     auto: true

@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: نيور ميل
     auto: true
+  - translation_iso: fra
+    name: Niwer Mil
+    auto: true
   - translation_iso: hin
     name: निवेर मिल
     auto: true

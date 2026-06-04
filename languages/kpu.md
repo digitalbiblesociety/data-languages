@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كافوا
     auto: true
+  - translation_iso: fra
+    name: Kafoa
+    auto: true
   - translation_iso: hin
     name: कफोआ
     auto: true

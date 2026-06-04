@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إندري
     auto: true
+  - translation_iso: fra
+    name: indri
   - translation_iso: hin
     name: इंद्री
     auto: true

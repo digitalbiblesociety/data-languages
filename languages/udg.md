@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مودوغا
     auto: true
+  - translation_iso: fra
+    name: muduga
   - translation_iso: hin
     name: मुदुगा
     auto: true

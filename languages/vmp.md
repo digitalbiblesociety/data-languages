@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سويالتيبك مازاتك
     auto: true
+  - translation_iso: fra
+    name: Mazatèque de Soyaltepec
+    auto: true
   - translation_iso: hin
     name: सोयाल्तेपेक मासातेक
     auto: true

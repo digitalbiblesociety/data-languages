@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مارنجي
     auto: true
+  - translation_iso: fra
+    name: marenje
   - translation_iso: hin
     name: मारेन्जे
     auto: true

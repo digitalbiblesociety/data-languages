@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: راوو
     auto: true
+  - translation_iso: fra
+    name: rawo
   - translation_iso: hin
     name: रावो
     auto: true

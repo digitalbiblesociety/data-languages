@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مارتويهونيرا
     auto: true
+  - translation_iso: fra
+    name: martuthunira
   - translation_iso: hin
     name: मार्तुयहुनिरा
     auto: true

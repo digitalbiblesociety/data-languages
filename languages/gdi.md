@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الجوندي
     auto: true
+  - translation_iso: fra
+    name: gundi
   - translation_iso: hin
     name: गुंदी
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بونجو
     auto: true
+  - translation_iso: fra
+    name: bonjo
   - translation_iso: hin
     name: बोंजो
     auto: true

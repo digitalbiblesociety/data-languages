@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يلاو
     auto: true
+  - translation_iso: fra
+    name: lilau
   - translation_iso: hin
     name: लिलाउ
     auto: true

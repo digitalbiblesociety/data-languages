@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: مايي-كولان
     auto: true
+  - translation_iso: fra
+    name: mayi-kulan
   - translation_iso: hin
     name: मायी-कुलान
     auto: true

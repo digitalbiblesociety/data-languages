@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نغامني
     auto: true
+  - translation_iso: fra
+    name: ngamini
   - translation_iso: hin
     name: न्गामिनी
     auto: true

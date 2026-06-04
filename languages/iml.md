@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ميلوك
     auto: true
+  - translation_iso: fra
+    name: miluk
   - translation_iso: hin
     name: मिलुक
     auto: true

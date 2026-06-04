@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ايقويان
     auto: true
+  - translation_iso: fra
+    name: èque
   - translation_iso: hin
     name: एक्वियन
     auto: true

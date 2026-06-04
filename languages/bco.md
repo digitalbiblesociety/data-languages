@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة كالولي
     auto: true
+  - translation_iso: fra
+    name: Kaluli
+    auto: true
   - translation_iso: hin
     name: कालुली
     auto: true

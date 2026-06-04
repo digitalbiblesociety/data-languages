@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديج
     auto: true
+  - translation_iso: fra
+    name: degha
   - translation_iso: hin
     name: देग
     auto: true

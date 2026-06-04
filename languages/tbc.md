@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تاكيا
     auto: true
+  - translation_iso: fra
+    name: takia
   - translation_iso: hin
     name: ताकिया
     auto: true

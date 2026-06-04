@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيموندا
     auto: true
+  - translation_iso: fra
+    name: imonda
   - translation_iso: hin
     name: इमोंडा
     auto: true

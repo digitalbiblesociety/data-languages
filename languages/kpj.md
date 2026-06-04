@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاراجا
     auto: true
+  - translation_iso: fra
+    name: karajá
   - translation_iso: hin
     name: कराजा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كريول ملاكا البرتغالية
     auto: true
+  - translation_iso: fra
+    name: kristang
   - translation_iso: hin
     name: मलक्का क्रियोल पुर्तगाली
     auto: true

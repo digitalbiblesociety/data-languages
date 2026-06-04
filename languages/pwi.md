@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة باتوين
     auto: true
+  - translation_iso: fra
+    name: patwin
   - translation_iso: hin
     name: पैटविन
     auto: true

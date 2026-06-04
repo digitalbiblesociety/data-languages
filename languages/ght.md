@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوكإ
     auto: true
+  - translation_iso: fra
+    name: kuke
   - translation_iso: hin
     name: कुके
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/K%CA%BCiche%CA%BC_language"
 translations:
   - translation_iso: ara
     name: الكيشية
+  - translation_iso: fra
+    name: quiché
   - translation_iso: hin
     name: किश
   - translation_iso: jpn

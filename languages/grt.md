@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Garo_language"
 translations:
   - translation_iso: ara
     name: الغاروية
+  - translation_iso: fra
+    name: garo
   - translation_iso: hin
     name: गारो भाषा
   - translation_iso: jpn

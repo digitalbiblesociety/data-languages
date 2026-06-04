@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة نجا بوومي
     auto: true
+  - translation_iso: fra
+    name: naga poumei
   - translation_iso: hin
     name: पोउला भाषा
   - translation_iso: jpn

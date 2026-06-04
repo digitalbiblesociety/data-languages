@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هآديييآ
     auto: true
+  - translation_iso: fra
+    name: hadiyya
   - translation_iso: hin
     name: हदिय्या
     auto: true

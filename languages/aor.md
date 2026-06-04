@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أور
     auto: true
+  - translation_iso: fra
+    name: aore
   - translation_iso: hin
     name: आओरे
     auto: true

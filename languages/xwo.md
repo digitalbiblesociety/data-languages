@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: كتابية أويرات
     auto: true
+  - translation_iso: fra
+    name: oïrate littéraire
   - translation_iso: hin
     name: लिखित ओइरात
     auto: true

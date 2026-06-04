@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واي رانا
     auto: true
+  - translation_iso: fra
+    name: wae Rana
   - translation_iso: hin
     name: वाए राना
     auto: true

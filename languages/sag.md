@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sango_language"
 translations:
   - translation_iso: ara
     name: السنغوية
+  - translation_iso: fra
+    name: sango
   - translation_iso: hin
     name: सांगो
   - translation_iso: jpn

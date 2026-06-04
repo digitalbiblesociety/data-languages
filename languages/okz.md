@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: اللغة الخمير القديمة
     auto: true
+  - translation_iso: fra
+    name: vieux khmer
   - translation_iso: hin
     name: प्राचीन ख्मेर
     auto: true

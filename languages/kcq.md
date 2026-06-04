@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كامو
     auto: true
+  - translation_iso: fra
+    name: langue kamo
   - translation_iso: hin
     name: कामो
     auto: true

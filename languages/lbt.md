@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لاتشي
     auto: true
+  - translation_iso: fra
+    name: lachi
   - translation_iso: hin
     name: लाची
     auto: true

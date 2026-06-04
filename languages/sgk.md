@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سانجكونج
     auto: true
+  - translation_iso: fra
+    name: sangkong
   - translation_iso: hin
     name: सांगकोंग
     auto: true

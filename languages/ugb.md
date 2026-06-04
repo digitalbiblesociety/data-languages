@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوكو-أوجبانه
     auto: true
+  - translation_iso: fra
+    name: kuku-ugbanh
   - translation_iso: hin
     name: कुकु-उग्बान्ह
     auto: true

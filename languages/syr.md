@@ -10,6 +10,8 @@ scripts: [Syrc]
 translations:
   - translation_iso: ara
     name: السريانية
+  - translation_iso: fra
+    name: syriaque
   - translation_iso: hin
     name: सिरिएक
   - translation_iso: jpn

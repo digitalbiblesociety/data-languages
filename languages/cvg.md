@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشوغ
     auto: true
+  - translation_iso: fra
+    name: chug
   - translation_iso: hin
     name: चुग भाषा
   - translation_iso: jpn

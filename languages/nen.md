@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نينجوني
     auto: true
+  - translation_iso: fra
+    name: nengone
   - translation_iso: hin
     name: नेंगोने
     auto: true

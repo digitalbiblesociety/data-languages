@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بورا-پابير
     auto: true
+  - translation_iso: fra
+    name: babur
   - translation_iso: hin
     name: बुरा-पाबीर
     auto: true

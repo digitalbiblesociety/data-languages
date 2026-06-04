@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكين
     auto: true
+  - translation_iso: fra
+    name: oroqen
   - translation_iso: hin
     name: ओरोकेन
     auto: true

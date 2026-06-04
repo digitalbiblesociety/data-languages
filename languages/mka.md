@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبري
     auto: true
+  - translation_iso: fra
+    name: Mbre
   - translation_iso: hin
     name: म्ब्रे
     auto: true

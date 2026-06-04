@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maasai_language"
 translations:
   - translation_iso: ara
     name: الماساي
+  - translation_iso: fra
+    name: maa
   - translation_iso: hin
     name: मसाई
   - translation_iso: jpn

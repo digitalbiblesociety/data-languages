@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أفاو
     auto: true
+  - translation_iso: fra
+    name: Avau
+    auto: true
   - translation_iso: hin
     name: अवाउ
     auto: true

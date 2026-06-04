@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميا
     auto: true
+  - translation_iso: fra
+    name: meax
   - translation_iso: hin
     name: मेयाह
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماجانج
     auto: true
+  - translation_iso: fra
+    name: majang
   - translation_iso: hin
     name: माजांग
     auto: true

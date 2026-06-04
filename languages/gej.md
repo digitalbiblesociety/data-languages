@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجين
     auto: true
+  - translation_iso: fra
+    name: gen
   - translation_iso: hin
     name: गेन
     auto: true

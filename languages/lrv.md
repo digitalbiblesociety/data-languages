@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة اريفات
     auto: true
+  - translation_iso: fra
+    name: larevat
   - translation_iso: hin
     name: लारेवात
     auto: true

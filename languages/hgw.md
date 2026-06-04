@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هآيغوآي
     auto: true
+  - translation_iso: fra
+    name: Haigwai
+    auto: true
   - translation_iso: hin
     name: हाइग्वाई
     auto: true

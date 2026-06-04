@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجاجونمايا
     auto: true
+  - translation_iso: fra
+    name: ngadjunmaya
   - translation_iso: hin
     name: नगाजुनमाया
     auto: true

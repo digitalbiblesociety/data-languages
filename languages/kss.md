@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كيسي الجنوبية
     auto: true
+  - translation_iso: fra
+    name: kissi du Sud
   - translation_iso: hin
     name: दक्षिणी किसी
     auto: true

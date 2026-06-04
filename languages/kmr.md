@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kurmanji"
 translations:
   - translation_iso: ara
     name: كرمانجي
+  - translation_iso: fra
+    name: kurmandji
   - translation_iso: hin
     name: उत्तरी कुर्दी - कुरमानजी
     auto: true

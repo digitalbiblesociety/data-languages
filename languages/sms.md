@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Skolt_S%C3%A1mi"
 translations:
   - translation_iso: ara
     name: السكولت سامي
+  - translation_iso: fra
+    name: same skolt
   - translation_iso: hin
     name: स्कोल्ट सामी
   - translation_iso: jpn

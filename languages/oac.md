@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوروتش
     auto: true
+  - translation_iso: fra
+    name: orotche
   - translation_iso: hin
     name: ओरोच
     auto: true

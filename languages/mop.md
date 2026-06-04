@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موبان مايا
     auto: true
+  - translation_iso: fra
+    name: maya mopan
   - translation_iso: hin
     name: मोपान माया
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زيزيليفاكان
     auto: true
+  - translation_iso: fra
+    name: zizilivakan
   - translation_iso: hin
     name: ज़िज़िलिवाकान
     auto: true

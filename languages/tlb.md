@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توبيلو
     auto: true
+  - translation_iso: fra
+    name: tobelo
   - translation_iso: hin
     name: तोबेलो
     auto: true

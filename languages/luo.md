@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dholuo"
 translations:
   - translation_iso: ara
     name: الدهولوية
+  - translation_iso: fra
+    name: luo
   - translation_iso: hin
     name: लुओ भाषा
   - translation_iso: jpn

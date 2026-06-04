@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: لايتو تشين
     auto: true
+  - translation_iso: fra
+    name: laitu
   - translation_iso: hin
     name: लाइतू चिन
     auto: true

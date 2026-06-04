@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيري
     auto: true
+  - translation_iso: fra
+    name: Siri
+    auto: true
   - translation_iso: hin
     name: सिरी
     auto: true

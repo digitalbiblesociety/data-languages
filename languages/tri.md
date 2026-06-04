@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تريو
     auto: true
+  - translation_iso: fra
+    name: trió
   - translation_iso: hin
     name: त्रिओ
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أورو-با-إن
     auto: true
+  - translation_iso: fra
+    name: Uru-Pa-In
+    auto: true
   - translation_iso: hin
     name: उरु-पा-इन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نمبوران
     auto: true
+  - translation_iso: fra
+    name: nimboran
   - translation_iso: hin
     name: निंबोरान
     auto: true

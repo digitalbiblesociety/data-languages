@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة جنوب أفريقيا
     auto: true
+  - translation_iso: fra
+    name: langue des signes sud-africaine
   - translation_iso: hin
     name: दक्षिण अफ़्रीकी सांकेतिक भाषा
     auto: true

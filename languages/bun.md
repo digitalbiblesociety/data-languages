@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: شيربْرو
     auto: true
+  - translation_iso: fra
+    name: Sherbro
   - translation_iso: hin
     name: शेरब्रो
     auto: true

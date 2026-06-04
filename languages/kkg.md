@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ماباكا فالي كالينجا
     auto: true
+  - translation_iso: fra
+    name: kalinga de vallée de Mabaka
   - translation_iso: hin
     name: मबाका घाटी कलिंगा
     auto: true

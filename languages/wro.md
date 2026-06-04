@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وورروررا
     auto: true
+  - translation_iso: fra
+    name: worora
   - translation_iso: hin
     name: वोरोरा
     auto: true

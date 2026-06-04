@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: شوغني
     auto: true
+  - translation_iso: fra
+    name: shughni
   - translation_iso: hin
     name: शुग़नी भाषा
   - translation_iso: jpn

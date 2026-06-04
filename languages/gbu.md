@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: الجاجاد
     auto: true
+  - translation_iso: fra
+    name: gaagudju
   - translation_iso: hin
     name: गागादु
     auto: true

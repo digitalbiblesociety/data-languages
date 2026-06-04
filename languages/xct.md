@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كلاسسيكال تيبيتان
     auto: true
+  - translation_iso: fra
+    name: tibétain classique
   - translation_iso: hin
     name: शास्त्रीय तिब्बती
     auto: true

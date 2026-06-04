@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يآنومآمö
     auto: true
+  - translation_iso: fra
+    name: yanomamö
   - translation_iso: hin
     name: यानोमामो
     auto: true

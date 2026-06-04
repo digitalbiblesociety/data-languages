@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيمبالي
     auto: true
+  - translation_iso: fra
+    name: Simbali
+    auto: true
   - translation_iso: hin
     name: सिम्बाली
     auto: true

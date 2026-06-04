@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جاماماديه
     auto: true
+  - translation_iso: fra
+    name: jamamadi
   - translation_iso: hin
     name: जामामादी
     auto: true

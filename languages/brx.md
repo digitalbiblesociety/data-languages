@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Boro_language_(India)"
 translations:
   - translation_iso: ara
     name: البودووية
+  - translation_iso: fra
+    name: bodo
   - translation_iso: hin
     name: बोडो भाषा
   - translation_iso: jpn

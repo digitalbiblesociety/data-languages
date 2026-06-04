@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بت
     auto: true
+  - translation_iso: fra
+    name: bit
   - translation_iso: hin
     name: बिट
     auto: true

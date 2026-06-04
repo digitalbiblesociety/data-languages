@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واندجي
     auto: true
+  - translation_iso: fra
+    name: wandji
   - translation_iso: hin
     name: वान्जी
     auto: true

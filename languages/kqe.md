@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كالاجان
     auto: true
+  - translation_iso: fra
+    name: kalagan
   - translation_iso: hin
     name: कालागान
     auto: true

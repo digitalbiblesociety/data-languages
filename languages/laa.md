@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سوبانين الجنوبية
     auto: true
+  - translation_iso: fra
+    name: subanon du Sud
   - translation_iso: hin
     name: दक्षिणी सुबानेन
     auto: true

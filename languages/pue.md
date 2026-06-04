@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوويلتشي
     auto: true
+  - translation_iso: fra
+    name: gününa yajich
   - translation_iso: hin
     name: पुएलचे
     auto: true

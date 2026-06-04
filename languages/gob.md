@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بلآيإرو
     auto: true
+  - translation_iso: fra
+    name: playero
   - translation_iso: hin
     name: प्लायेरो
     auto: true

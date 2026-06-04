@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيزيري
     auto: true
+  - translation_iso: fra
+    name: izere
   - translation_iso: hin
     name: इज़ेरे
     auto: true

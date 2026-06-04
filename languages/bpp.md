@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاوري
     auto: true
+  - translation_iso: fra
+    name: kaure
   - translation_iso: hin
     name: कौरे
     auto: true

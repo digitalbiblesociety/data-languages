@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بينجي
     auto: true
+  - translation_iso: fra
+    name: apindji
   - translation_iso: hin
     name: पिंजी
     auto: true

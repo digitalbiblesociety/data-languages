@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فيلي
     auto: true
+  - translation_iso: fra
+    name: vili
   - translation_iso: hin
     name: विली
     auto: true

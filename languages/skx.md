@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيكو بادانج
     auto: true
+  - translation_iso: fra
+    name: seko padang
   - translation_iso: hin
     name: सेको पादांग
     auto: true

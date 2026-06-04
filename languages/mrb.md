@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مارينو
     auto: true
+  - translation_iso: fra
+    name: marino
   - translation_iso: hin
     name: मारिनो
     auto: true

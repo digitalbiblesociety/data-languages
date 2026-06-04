@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوفيار
     auto: true
+  - translation_iso: fra
+    name: Kofyar
+    auto: true
   - translation_iso: hin
     name: कोफ्यार
     auto: true

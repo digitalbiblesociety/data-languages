@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تومري كنوري
     auto: true
+  - translation_iso: fra
+    name: kanouri tumari
   - translation_iso: hin
     name: तुमारी कानुरी
     auto: true

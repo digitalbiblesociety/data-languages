@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مارابا
     auto: true
+  - translation_iso: fra
+    name: marba
   - translation_iso: hin
     name: मारबा
     auto: true

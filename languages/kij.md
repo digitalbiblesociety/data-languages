@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كيليفيلا
     auto: true
+  - translation_iso: fra
+    name: kilivila
   - translation_iso: hin
     name: किलिविला
     auto: true

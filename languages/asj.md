@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ساري
     auto: true
+  - translation_iso: fra
+    name: sari
   - translation_iso: hin
     name: सारी
     auto: true

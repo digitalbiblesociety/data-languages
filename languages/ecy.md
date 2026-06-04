@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: الإتيوسيبريوتي
     auto: true
+  - translation_iso: fra
+    name: étéochypriote
   - translation_iso: hin
     name: एतेओसाइप्रियट
     auto: true

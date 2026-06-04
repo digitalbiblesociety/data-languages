@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة امما
     auto: true
+  - translation_iso: fra
+    name: pantar de l’Ouest
   - translation_iso: hin
     name: लाम्मा
     auto: true

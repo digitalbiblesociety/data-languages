@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: الشيكاساو
     auto: true
+  - translation_iso: fra
+    name: chicacha
   - translation_iso: hin
     name: चिकसॉ
   - translation_iso: jpn

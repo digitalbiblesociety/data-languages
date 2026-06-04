@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوران
     auto: true
+  - translation_iso: fra
+    name: burun
   - translation_iso: hin
     name: बुरुन
     auto: true

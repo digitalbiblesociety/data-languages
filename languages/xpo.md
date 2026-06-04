@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوتشوتيك
     auto: true
+  - translation_iso: fra
+    name: Pochutec
+    auto: true
   - translation_iso: hin
     name: पोचुटेक
     auto: true

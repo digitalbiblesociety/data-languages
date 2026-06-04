@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: هآمبآ
     auto: true
+  - translation_iso: fra
+    name: hamba
   - translation_iso: hin
     name: हम्बा
     auto: true

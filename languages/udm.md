@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Udmurt_language"
 translations:
   - translation_iso: ara
     name: الأدمورتية
+  - translation_iso: fra
+    name: oudmourte
   - translation_iso: hin
     name: उदमुर्त
   - translation_iso: jpn

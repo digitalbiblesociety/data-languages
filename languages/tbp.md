@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاوورتا
     auto: true
+  - translation_iso: fra
+    name: taworta
   - translation_iso: hin
     name: ताओर्ता
     auto: true

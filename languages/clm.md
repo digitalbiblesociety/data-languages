@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكلالام
     auto: true
+  - translation_iso: fra
+    name: klallam
   - translation_iso: hin
     name: क्लालम
     auto: true

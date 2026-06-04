@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كيمْبيرانو
     auto: true
+  - translation_iso: fra
+    name: Kemberano
+    auto: true
   - translation_iso: hin
     name: केम्बेरानो
     auto: true

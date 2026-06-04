@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيكوارا
     auto: true
+  - translation_iso: fra
+    name: bekwarra
   - translation_iso: hin
     name: बेक्वार्रा
     auto: true

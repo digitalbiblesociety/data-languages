@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مانغا كانوري
     auto: true
+  - translation_iso: fra
+    name: kanouri manga
   - translation_iso: hin
     name: मांगा कानूरी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيكول كاتاندوانس الجنوبية
     auto: true
+  - translation_iso: fra
+    name: bikol du Sud de Catanduanes
   - translation_iso: hin
     name: दक्षिणी कातांदुआनेस बिकोल
     auto: true

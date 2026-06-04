@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lokono_language"
 translations:
   - translation_iso: ara
     name: الأراواكية
+  - translation_iso: fra
+    name: lokono
   - translation_iso: hin
     name: अरावक
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كويستن
     auto: true
+  - translation_iso: fra
+    name: kwesten
   - translation_iso: hin
     name: क्वेस्टेन
     auto: true

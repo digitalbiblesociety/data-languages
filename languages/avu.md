@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أفوكايا
     auto: true
+  - translation_iso: fra
+    name: avokaya
   - translation_iso: hin
     name: अवोकाया
     auto: true

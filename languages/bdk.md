@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوديوخ
     auto: true
+  - translation_iso: fra
+    name: boudoukh
   - translation_iso: hin
     name: बुदुख
     auto: true

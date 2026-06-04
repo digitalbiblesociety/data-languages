@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سينترال نيكوبارسي
     auto: true
+  - translation_iso: fra
+    name: nicobarais central
   - translation_iso: hin
     name: मध्य निकोबारी भाषाएँ
   - translation_iso: jpn

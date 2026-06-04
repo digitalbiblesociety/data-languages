@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: ميواتي
     auto: true
+  - translation_iso: fra
+    name: mewati
   - translation_iso: hin
     name: मेवाती
   - translation_iso: jpn

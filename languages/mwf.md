@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موريه-باتا
     auto: true
+  - translation_iso: fra
+    name: murrinh-patha
   - translation_iso: hin
     name: मुर्रिन्ह-पाथा
     auto: true

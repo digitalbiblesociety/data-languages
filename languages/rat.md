@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رازاجيردي
     auto: true
+  - translation_iso: fra
+    name: razajerdi
   - translation_iso: hin
     name: रजाजेर्दी
     auto: true

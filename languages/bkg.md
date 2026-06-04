@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: بوراكا
     auto: true
+  - translation_iso: fra
+    name: Buraka
+    auto: true
   - translation_iso: hin
     name: बुराका
     auto: true

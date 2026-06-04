@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكارا
     auto: true
+  - translation_iso: fra
+    name: cara
   - translation_iso: hin
     name: कारा
     auto: true

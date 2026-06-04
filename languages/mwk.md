@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة مانينكاكان كيتا
     auto: true
+  - translation_iso: fra
+    name: malinké de Kita
   - translation_iso: hin
     name: किता मानिंकाकान
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ لوبوهي
     auto: true
+  - translation_iso: fra
+    name: miao de Xijia
   - translation_iso: hin
     name: लुओपोहे ह्मोंग
     auto: true

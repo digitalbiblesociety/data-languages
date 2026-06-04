@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مور
     auto: true
+  - translation_iso: fra
+    name: moor
   - translation_iso: hin
     name: मोर
     auto: true

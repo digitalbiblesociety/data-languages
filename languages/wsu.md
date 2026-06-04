@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واسو
     auto: true
+  - translation_iso: fra
+    name: Wasu
+    auto: true
   - translation_iso: hin
     name: वासू
     auto: true

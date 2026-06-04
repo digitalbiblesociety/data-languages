@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باجا بوكور
     auto: true
+  - translation_iso: fra
+    name: pukur
   - translation_iso: hin
     name: बागा पोकुर
     auto: true

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: الشام الغربية
     auto: true
+  - translation_iso: fra
+    name: cham
   - translation_iso: hin
     name: चाम भाषा
   - translation_iso: jpn

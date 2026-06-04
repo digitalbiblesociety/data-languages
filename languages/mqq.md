@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة مينوكوك
     auto: true
+  - translation_iso: fra
+    name: minokok
   - translation_iso: hin
     name: मिनोकोक
     auto: true

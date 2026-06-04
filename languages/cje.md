@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشرو
     auto: true
+  - translation_iso: fra
+    name: chru
   - translation_iso: hin
     name: चरू
     auto: true

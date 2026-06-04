@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيتي
     auto: true
+  - translation_iso: fra
+    name: biete
   - translation_iso: hin
     name: बियाट भाषा
   - translation_iso: jpn

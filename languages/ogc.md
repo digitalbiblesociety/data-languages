@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوغباه
     auto: true
+  - translation_iso: fra
+    name: ogba
   - translation_iso: hin
     name: ओग्बाह
     auto: true

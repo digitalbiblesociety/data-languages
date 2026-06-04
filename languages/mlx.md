@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مالفاخال
     auto: true
+  - translation_iso: fra
+    name: "naha'ai"
   - translation_iso: hin
     name: मालफाक्साल
     auto: true

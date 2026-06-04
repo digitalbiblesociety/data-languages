@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: برو الغربية
     auto: true
+  - translation_iso: fra
+    name: bru de l’Ouest
   - translation_iso: hin
     name: पश्चिमी ब्रू
     auto: true

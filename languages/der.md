@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديوري
     auto: true
+  - translation_iso: fra
+    name: deuri
   - translation_iso: hin
     name: डियोरी भाषा
   - translation_iso: jpn

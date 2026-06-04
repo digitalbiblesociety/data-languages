@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Slovene_language"
 translations:
   - translation_iso: ara
     name: السلوفينية
+  - translation_iso: fra
+    name: slovène
   - translation_iso: hin
     name: स्लोवेनियाई भाषा
   - translation_iso: jpn

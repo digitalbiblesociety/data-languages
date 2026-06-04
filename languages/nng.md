@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مارينغ ناغا
     auto: true
+  - translation_iso: fra
+    name: marin
   - translation_iso: hin
     name: मारिंग नागा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ووون ميو
     auto: true
+  - translation_iso: fra
+    name: wounaan
   - translation_iso: hin
     name: वौन मेउ
     auto: true

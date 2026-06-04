@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بو-ناو بونو
     auto: true
+  - translation_iso: fra
+    name: bunu dongnu de Dahua
   - translation_iso: hin
     name: बू-नाओ बुनू
     auto: true

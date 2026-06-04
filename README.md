@@ -54,7 +54,7 @@ The order of keys is canonical see the `properties` block of `schema.json`.
 | `glottolog_family_name`     | Human-readable family name.                                                  |
 | `glottolog_classification`  | Top-down genealogical path, joined with ` > `.                              |
 | `wikipedia_url`             | English Wikipedia article URL. Populated by `tools/sources/wikipedia.go`.    |
-| `translations`              | Block array of `{translation_iso, name, auto?}`. Populated by `tools/sources/wikidata_names.go` (primary) and `tools/sources/cldr_names.go` (gap-fill). Currently targets `zho`, `jpn`, `hin`, `kor`, `ara`, `spa`. The optional `auto: true` flag marks automated translations; `spa` is filled to 100% coverage — curated entries from Wikidata/CLDR, and the remaining ~5,100 by LLM (`auto: true`) via `tools/spanishfill`. |                 |
+| `translations`              | Block array of `{translation_iso, name, auto?}`. Populated by `tools/sources/wikidata_names.go` (primary) and `tools/sources/cldr_names.go` (gap-fill). Currently targets `zho`, `jpn`, `hin`, `kor`, `ara`, `spa`, `fra`. The optional `auto: true` flag marks automated translations; `spa` is filled to 100% coverage — curated entries from Wikidata/CLDR, and the remaining ~5,100 by LLM (`auto: true`) via `tools/spanishfill`. |                 |
 | `rolv_dialects`  | Array of `{rolv_code, language_tag, name, country_id, location}`. Populated by `tools/sources/rolv.go` from GRN's Registry of Language Varieties. |
 
 ## Tools
@@ -100,8 +100,8 @@ go run ./tools -update all -bail                  # stop on first failure
 | `cldr`      | `scripts`                                                                            | [Unicode CLDR](https://github.com/unicode-org/cldr-json) `languageData.json`. ~810 ISO-coded languages with script affiliations (primary + secondary, deduped). |
 | `glottolog` | `glottocode`, `glottolog_family_id`, `glottolog_family_name`, `glottolog_classification`. Fills `latitude`/`longitude`/`country_id` when missing. | [Glottolog 5.x](https://glottolog.org/) languoid CSV (CC BY 4.0). ~7,500 ISO-coded languoids. |
 | `rolv`      | `rolv_dialects`                                                                     | GRN's [Registry of Language Varieties](https://hisregistries.org/rolv/) via GraphQL at `gql.globalrecordings.net`. ~12,300 varieties across ~3,300 ISO codes. |
-| `cldr_names` | `translations[]` (IfMissing per `translation_iso`, fills gaps).                       | Unicode CLDR locale files for `zh`, `ja`, `hi`, `ko`, `ar`, `es`. Adds ~330 entries on top of `wikidata_names`. Easily extended to more languages — append to `cldrLocales` in the source. |
-| `wikidata_names` | `translations[]` (per-language priority: zh-Hans > zh-CN > zh-SG > zh; ja; hi; ko; ar; es). | Wikidata SPARQL `rdfs:label` filtered by xml:lang. ~4,560 ISOs covered. Extend by appending to `translationTargets` in the source. |
+| `cldr_names` | `translations[]` (IfMissing per `translation_iso`, fills gaps).                       | Unicode CLDR locale files for `zh`, `ja`, `hi`, `ko`, `ar`, `es`, `fr`. Adds ~330 entries on top of `wikidata_names`. Easily extended to more languages — append to `cldrLocales` in the source. |
+| `wikidata_names` | `translations[]` (per-language priority: zh-Hans > zh-CN > zh-SG > zh; ja; hi; ko; ar; es; fr). | Wikidata SPARQL `rdfs:label` filtered by xml:lang. ~7,160 ISOs covered. Extend by appending to `translationTargets` in the source. |
 | `wikipedia` | `wikipedia_url` (always); `autonym`, `population` (when missing); markdown body (when empty). | Wikidata SPARQL (P220 → article) + English Wikipedia REST summary + MediaWiki action API for `{{Infobox language}}`. Per-article cache under `.cache/wikipedia/`. **Slow on a cold cache** (~50 minutes for the full corpus); use `-only iso1,iso2` to scope. |
 
 Add more under `tools/sources/` — see `tools/sources/README.md` for the template.

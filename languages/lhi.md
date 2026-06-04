@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة اهو هي
     auto: true
+  - translation_iso: fra
+    name: lahu shi
   - translation_iso: hin
     name: लाहू शी
     auto: true

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: البيجنتسي
     auto: true
+  - translation_iso: fra
+    name: Beginci
+    auto: true
   - translation_iso: hin
     name: बेगिन्ची
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كونكومبا
     auto: true
+  - translation_iso: fra
+    name: konkomba
   - translation_iso: hin
     name: कोंकोम्बा
     auto: true

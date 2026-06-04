@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: تاواديه
     auto: true
+  - translation_iso: fra
+    name: tauade
   - translation_iso: hin
     name: ताउआदे
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باراكانا
     auto: true
+  - translation_iso: fra
+    name: parakanã
   - translation_iso: hin
     name: पाराकाना
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غآروس
     auto: true
+  - translation_iso: fra
+    name: Garus
+    auto: true
   - translation_iso: hin
     name: गारुस
     auto: true

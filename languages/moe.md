@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Innu_language"
 translations:
   - translation_iso: ara
     name: إينو-ايمون
+  - translation_iso: fra
+    name: innu-aimun
   - translation_iso: hin
     name: इन्नु-एईमन
   - translation_iso: jpn

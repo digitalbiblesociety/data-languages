@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاريير جنوبية
     auto: true
+  - translation_iso: fra
+    name: porteur du Sud
   - translation_iso: hin
     name: दक्षिणी कैरियर
     auto: true

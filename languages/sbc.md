@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيلي
     auto: true
+  - translation_iso: fra
+    name: kele
   - translation_iso: hin
     name: केले (पापुआ न्यू गिनी)
     auto: true

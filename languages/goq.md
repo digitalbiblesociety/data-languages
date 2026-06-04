@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غورآب
     auto: true
+  - translation_iso: fra
+    name: gorap
   - translation_iso: hin
     name: गोराप
     auto: true

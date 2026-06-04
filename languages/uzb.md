@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Uzbek_language"
 translations:
   - translation_iso: ara
     name: الأوزبكية
+  - translation_iso: fra
+    name: ouzbek
   - translation_iso: hin
     name: उज़्बेक भाषा
   - translation_iso: jpn

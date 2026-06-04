@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تساكوامبو
     auto: true
+  - translation_iso: fra
+    name: Tsakwambo
+    auto: true
   - translation_iso: hin
     name: त्साक्वाम्बो
     auto: true

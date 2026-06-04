@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الشانغريوا
     auto: true
+  - translation_iso: fra
+    name: changriwa
   - translation_iso: hin
     name: चांगरिवा
     auto: true

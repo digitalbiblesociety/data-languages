@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ألو فولا
     auto: true
+  - translation_iso: fra
+    name: phola alo
   - translation_iso: hin
     name: अलो फोला
     auto: true

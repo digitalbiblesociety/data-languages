@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماكليو
     auto: true
+  - translation_iso: fra
+    name: maklew
   - translation_iso: hin
     name: माक्लेव
     auto: true

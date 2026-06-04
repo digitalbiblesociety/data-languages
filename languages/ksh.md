@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Colognian_dialect"
 translations:
   - translation_iso: ara
     name: لغة الكولونيان
+  - translation_iso: fra
+    name: kölsch
   - translation_iso: hin
     name: कोलोनियाई
   - translation_iso: jpn

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بومَجي
     auto: true
+  - translation_iso: fra
+    name: bumaji
   - translation_iso: hin
     name: बुमाजी
     auto: true

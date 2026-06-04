@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: يانجوم ديي
     auto: true
+  - translation_iso: fra
+    name: yangum dey
   - translation_iso: hin
     name: यांगुम डे
     auto: true

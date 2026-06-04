@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كابيياري
     auto: true
+  - translation_iso: fra
+    name: cabiyari
   - translation_iso: hin
     name: काबियारी
     auto: true

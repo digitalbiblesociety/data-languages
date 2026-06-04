@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كامانو
     auto: true
+  - translation_iso: fra
+    name: kamano
   - translation_iso: hin
     name: कामानो
     auto: true

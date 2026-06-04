@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أومبو
     auto: true
+  - translation_iso: fra
+    name: ombo
   - translation_iso: hin
     name: ओम्बो
     auto: true

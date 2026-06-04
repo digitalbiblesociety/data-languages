@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yiddish"
 translations:
   - translation_iso: ara
     name: اليديشية
+  - translation_iso: fra
+    name: yiddish
   - translation_iso: hin
     name: यिद्दी भाषा
   - translation_iso: jpn

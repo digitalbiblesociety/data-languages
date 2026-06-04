@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوشونج
     auto: true
+  - translation_iso: fra
+    name: bushong
   - translation_iso: hin
     name: बुशूंग
     auto: true

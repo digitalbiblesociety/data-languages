@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مازاتلان ميكسي
     auto: true
+  - translation_iso: fra
+    name: mixe de Mazatlán
   - translation_iso: hin
     name: माज़ातलान मिक्से
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ميل-خاوnh
     auto: true
+  - translation_iso: fra
+    name: khaonh
   - translation_iso: hin
     name: मेल-खाओंह
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاهي
     auto: true
+  - translation_iso: fra
+    name: kahe
   - translation_iso: hin
     name: काहे
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة إيباتان
     auto: true
+  - translation_iso: fra
+    name: ibatan
   - translation_iso: hin
     name: इबातान
     auto: true

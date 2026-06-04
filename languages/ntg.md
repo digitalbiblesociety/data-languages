@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: نغانتانغارا
     auto: true
+  - translation_iso: fra
+    name: ngantangarra
   - translation_iso: hin
     name: न्गंतंगारा
     auto: true

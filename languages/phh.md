@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة فوخا
     auto: true
+  - translation_iso: fra
+    name: phukha
   - translation_iso: hin
     name: फुखा
     auto: true

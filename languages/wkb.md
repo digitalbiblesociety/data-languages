@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: كومباران
     auto: true
+  - translation_iso: fra
+    name: kumbaran
   - translation_iso: hin
     name: कुम्बरन
     auto: true

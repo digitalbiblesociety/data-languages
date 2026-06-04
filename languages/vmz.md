@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مازاتلان مازاتك
     auto: true
+  - translation_iso: fra
+    name: mazatèque de Mazatlán
   - translation_iso: hin
     name: मसातलान मासातेक
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوغو
     auto: true
+  - translation_iso: fra
+    name: gogo
   - translation_iso: hin
     name: गोगो भाषा
   - translation_iso: jpn

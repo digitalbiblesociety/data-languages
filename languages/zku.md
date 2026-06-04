@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كاورنا
     auto: true
+  - translation_iso: fra
+    name: kaurna
   - translation_iso: hin
     name: कौर्ना
     auto: true

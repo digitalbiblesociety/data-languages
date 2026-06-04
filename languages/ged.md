@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الجادي
     auto: true
+  - translation_iso: fra
+    name: gade
   - translation_iso: hin
     name: गाडे
     auto: true

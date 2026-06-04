@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توروما سا
     auto: true
+  - translation_iso: fra
+    name: turumsa
   - translation_iso: hin
     name: तुरुम्सा
     auto: true

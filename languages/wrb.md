@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: والوواررا
     auto: true
+  - translation_iso: fra
+    name: warluwara
   - translation_iso: hin
     name: वालुवाररा
     auto: true

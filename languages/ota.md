@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ottoman_Turkish"
 translations:
   - translation_iso: ara
     name: العثمانية
+  - translation_iso: fra
+    name: turc ottoman
   - translation_iso: hin
     name: ओटोमान तुर्किश
   - translation_iso: jpn

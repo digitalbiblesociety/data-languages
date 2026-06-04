@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نورثإرن قيآندونج ميآو
     auto: true
+  - translation_iso: fra
+    name: hmu septentrional
   - translation_iso: hin
     name: उत्तरी छ्यान्तोंग मियाओ
     auto: true

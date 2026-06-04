@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هافاسوباي-والاباي-يافاباي
     auto: true
+  - translation_iso: fra
+    name: Havasupai-Walapai-Yavapai
+    auto: true
   - translation_iso: hin
     name: हवासुपाई-वालापाई-यवापाई
     auto: true

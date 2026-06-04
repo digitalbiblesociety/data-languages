@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دومبيا
     auto: true
+  - translation_iso: fra
+    name: dumbéa
   - translation_iso: hin
     name: डुम्बिया
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تينغير
     auto: true
+  - translation_iso: fra
+    name: tengger
   - translation_iso: hin
     name: तेंग्गर
     auto: true

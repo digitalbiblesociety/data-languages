@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الجزائرية
+  - translation_iso: fra
+    name: langue des signes algérienne
   - translation_iso: hin
     name: अल्जीरियाई सांकेतिक भाषा
     auto: true

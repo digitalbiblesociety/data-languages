@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سوما
     auto: true
+  - translation_iso: fra
+    name: suma
   - translation_iso: hin
     name: सुमा
     auto: true

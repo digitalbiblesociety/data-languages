@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوروومفيه
     auto: true
+  - translation_iso: fra
+    name: Koromfé
   - translation_iso: hin
     name: कोरोम्फे
     auto: true

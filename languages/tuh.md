@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاوليل
     auto: true
+  - translation_iso: fra
+    name: taulil
   - translation_iso: hin
     name: ताउलिल
     auto: true

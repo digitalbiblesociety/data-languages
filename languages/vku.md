@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوراما
     auto: true
+  - translation_iso: fra
+    name: kurrama
   - translation_iso: hin
     name: कुर्रामा
     auto: true

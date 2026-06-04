@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نغول
     auto: true
+  - translation_iso: fra
+    name: ngwi
   - translation_iso: hin
     name: न्गुल
     auto: true

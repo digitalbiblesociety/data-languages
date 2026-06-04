@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيسترن أسيپا
     auto: true
+  - translation_iso: fra
+    name: acipa oriental
   - translation_iso: hin
     name: पूर्वी अचिपा
     auto: true

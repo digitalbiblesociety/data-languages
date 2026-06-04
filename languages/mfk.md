@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موفو الشمالية
     auto: true
+  - translation_iso: fra
+    name: mofu du Nord
   - translation_iso: hin
     name: उत्तरी मोफू
     auto: true

@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ألانية
     auto: true
+  - translation_iso: fra
+    name: alain
   - translation_iso: hin
     name: एलैनिक
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناموسي-نايتاسيري-سيروا
     auto: true
+  - translation_iso: fra
+    name: namosi-naitasiri-serua
   - translation_iso: hin
     name: नामोसी-नैतासिरी-सेरुआ
     auto: true

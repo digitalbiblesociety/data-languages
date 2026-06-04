@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ارارانديورا
     auto: true
+  - translation_iso: fra
+    name: ararandewára
   - translation_iso: hin
     name: अरारंदेवारा
     auto: true

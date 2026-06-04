@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: نوكونول
     auto: true
+  - translation_iso: fra
+    name: nukunul
   - translation_iso: hin
     name: नुकुनुल
     auto: true

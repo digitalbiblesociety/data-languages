@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوماكي
     auto: true
+  - translation_iso: fra
+    name: domaaki
   - translation_iso: hin
     name: डोमाकी भाषा
   - translation_iso: jpn

@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: بوخا
     auto: true
+  - translation_iso: fra
+    name: bokha
   - translation_iso: hin
     name: बोखा
     auto: true

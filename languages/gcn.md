@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الجاينا
     auto: true
+  - translation_iso: fra
+    name: gaina
   - translation_iso: hin
     name: गाइना
     auto: true

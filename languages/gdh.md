@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجادجيرواج
     auto: true
+  - translation_iso: fra
+    name: gadjerawang
   - translation_iso: hin
     name: गादजेरावांग
     auto: true

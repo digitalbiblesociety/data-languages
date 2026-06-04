@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة تابو
     auto: true
+  - translation_iso: fra
+    name: tabo
   - translation_iso: hin
     name: ताबो
     auto: true

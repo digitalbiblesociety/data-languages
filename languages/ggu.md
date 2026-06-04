@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غآغو
     auto: true
+  - translation_iso: fra
+    name: gban
   - translation_iso: hin
     name: गागु
     auto: true

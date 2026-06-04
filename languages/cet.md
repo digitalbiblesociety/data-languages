@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: السينتووم
     auto: true
+  - translation_iso: fra
+    name: jalaa
   - translation_iso: hin
     name: सेंतूम
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: راجي
     auto: true
+  - translation_iso: fra
+    name: raji
   - translation_iso: hin
     name: राजी भाषा
   - translation_iso: jpn

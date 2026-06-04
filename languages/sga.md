@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Irish"
 translations:
   - translation_iso: ara
     name: الأيرلندية القديمة
+  - translation_iso: fra
+    name: vieil irlandais
   - translation_iso: hin
     name: पुरानी आइरिश
   - translation_iso: jpn

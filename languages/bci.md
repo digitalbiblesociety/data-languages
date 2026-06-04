@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة باولي
     auto: true
+  - translation_iso: fra
+    name: baoulé
   - translation_iso: hin
     name: बाउले
     auto: true

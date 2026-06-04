@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باكوه
     auto: true
+  - translation_iso: fra
+    name: pacoh
   - translation_iso: hin
     name: पाकोह
     auto: true

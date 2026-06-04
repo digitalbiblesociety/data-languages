@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كانجو (منطقة تشوبو)
     auto: true
+  - translation_iso: fra
+    name: kango
   - translation_iso: hin
     name: कांगो (त्शोपो जिला)
     auto: true

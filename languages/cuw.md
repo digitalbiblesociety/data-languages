@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: الشوكوا
     auto: true
+  - translation_iso: fra
+    name: chukwa
   - translation_iso: hin
     name: चुक्वा
     auto: true

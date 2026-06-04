@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كونج إيكوكا
     auto: true
+  - translation_iso: fra
+    name: kung ekoka
   - translation_iso: hin
     name: कुंग-एकोका
     auto: true

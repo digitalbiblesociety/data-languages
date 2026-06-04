@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موكسيلا
     auto: true
+  - translation_iso: fra
+    name: moksela
   - translation_iso: hin
     name: मोकसेला
     auto: true

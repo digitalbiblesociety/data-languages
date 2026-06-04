@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تالوندو
     auto: true
+  - translation_iso: fra
+    name: "talondo'"
   - translation_iso: hin
     name: तालोन्दो
     auto: true
@@ -25,7 +27,7 @@ translations:
     name: タロンド語
     auto: true
   - translation_iso: spa
-    name: "Talondo'"
+    name: Talondo
     auto: true
   - translation_iso: zho
     name: 塔隆多语

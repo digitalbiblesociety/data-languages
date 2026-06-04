@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Karakalpak_language"
 translations:
   - translation_iso: ara
     name: القرقلباغية
+  - translation_iso: fra
+    name: karakalpak
   - translation_iso: hin
     name: कारा-कल्पक
   - translation_iso: jpn

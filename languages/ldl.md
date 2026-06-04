@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كاان
     auto: true
+  - translation_iso: fra
+    name: Kaan
+    auto: true
   - translation_iso: hin
     name: कान
     auto: true

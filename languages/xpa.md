@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيريا
     auto: true
+  - translation_iso: fra
+    name: pirriya
   - translation_iso: hin
     name: पिरिया
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Min"
 translations:
   - translation_iso: ara
     name: مين نان
+  - translation_iso: fra
+    name: minnan
   - translation_iso: hin
     name: दक्षिणी मिन
   - translation_iso: jpn

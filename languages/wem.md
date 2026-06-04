@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ويمي غبي
     auto: true
+  - translation_iso: fra
+    name: weme
   - translation_iso: hin
     name: वेमे ग्बे
     auto: true

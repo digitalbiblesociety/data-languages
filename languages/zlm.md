@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ملايو
     auto: true
+  - translation_iso: fra
+    name: malais
   - translation_iso: hin
     name: मलय
     auto: true

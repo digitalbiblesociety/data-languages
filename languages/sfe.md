@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيسترن سوبانين
     auto: true
+  - translation_iso: fra
+    name: "subanen de l'Est"
   - translation_iso: hin
     name: पूर्वी सुबानेन
     auto: true

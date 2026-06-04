@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوهوتو
     auto: true
+  - translation_iso: fra
+    name: Buhutu
+    auto: true
   - translation_iso: hin
     name: बुहुतु
     auto: true

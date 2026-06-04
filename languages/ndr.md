@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ندولا
     auto: true
+  - translation_iso: fra
+    name: ndoola
   - translation_iso: hin
     name: न्दूला
     auto: true

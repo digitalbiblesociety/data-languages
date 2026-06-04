@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوني
     auto: true
+  - translation_iso: fra
+    name: koma
   - translation_iso: hin
     name: कोन्नी
     auto: true

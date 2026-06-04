@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيانجسي
     auto: true
+  - translation_iso: fra
+    name: byangsi
   - translation_iso: hin
     name: ब्यांग्सी भाषा
   - translation_iso: jpn

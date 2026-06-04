@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وارجي
     auto: true
+  - translation_iso: fra
+    name: warji
   - translation_iso: hin
     name: वार्जी
     auto: true

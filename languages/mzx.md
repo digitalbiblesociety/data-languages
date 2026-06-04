@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: ماوايانا
     auto: true
+  - translation_iso: fra
+    name: mawayana
   - translation_iso: hin
     name: मावायाना
     auto: true

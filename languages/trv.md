@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Seediq_language"
 translations:
   - translation_iso: ara
     name: صديك
+  - translation_iso: fra
+    name: seediq
   - translation_iso: hin
     name: तारोको
   - translation_iso: jpn

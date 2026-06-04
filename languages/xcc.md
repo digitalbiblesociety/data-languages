@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: كامونيك
     auto: true
+  - translation_iso: fra
+    name: camunien
   - translation_iso: hin
     name: कामुनिक
     auto: true

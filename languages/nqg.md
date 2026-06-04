@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناغو الجنوبية
     auto: true
+  - translation_iso: fra
+    name: Nago méridional
+    auto: true
   - translation_iso: hin
     name: दक्षिणी नागो
     auto: true

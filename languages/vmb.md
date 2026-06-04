@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باربارام
     auto: true
+  - translation_iso: fra
+    name: mbabaram
   - translation_iso: hin
     name: बारबारम
     auto: true

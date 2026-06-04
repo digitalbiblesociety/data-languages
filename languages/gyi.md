@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غيإلإ
     auto: true
+  - translation_iso: fra
+    name: gyele
   - translation_iso: hin
     name: ग्येले
     auto: true

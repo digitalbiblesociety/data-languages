@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مونجوندو
     auto: true
+  - translation_iso: fra
+    name: mongondow
   - translation_iso: hin
     name: मोंगोंडो
     auto: true

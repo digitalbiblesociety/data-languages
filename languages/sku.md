@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ساكاو
     auto: true
+  - translation_iso: fra
+    name: sakao
   - translation_iso: hin
     name: साकाओ
     auto: true

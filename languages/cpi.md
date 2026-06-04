@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإنجليزية بيدجين الصينية
     auto: true
+  - translation_iso: fra
+    name: pidgin chinois
   - translation_iso: hin
     name: चीनी पिजिन अंग्रेज़ी
     auto: true

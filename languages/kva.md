@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باغفالال
     auto: true
+  - translation_iso: fra
+    name: bagwalal
   - translation_iso: hin
     name: बागवालाल
     auto: true

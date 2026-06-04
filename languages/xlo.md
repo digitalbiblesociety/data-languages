@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لوب ألف
     auto: true
+  - translation_iso: fra
+    name: nipmuck
   - translation_iso: hin
     name: लूप ए
     auto: true

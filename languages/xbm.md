@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ميددلي بريتون
     auto: true
+  - translation_iso: fra
+    name: moyen breton
   - translation_iso: hin
     name: मध्य ब्रेटन
     auto: true

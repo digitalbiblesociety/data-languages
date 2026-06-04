@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أديوكرو
     auto: true
+  - translation_iso: fra
+    name: adjoukrou
   - translation_iso: hin
     name: अदियूक्रू
     auto: true

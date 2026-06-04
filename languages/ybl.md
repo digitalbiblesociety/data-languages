@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يوكوبين
     auto: true
+  - translation_iso: fra
+    name: yukuben
   - translation_iso: hin
     name: युकुबेन
     auto: true

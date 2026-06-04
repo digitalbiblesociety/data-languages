@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاناشي
     auto: true
+  - translation_iso: fra
+    name: kanashi
   - translation_iso: hin
     name: कनाशी भाषा
   - translation_iso: jpn

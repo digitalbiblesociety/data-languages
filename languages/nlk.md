@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نينيا يالي
     auto: true
+  - translation_iso: fra
+    name: yali de Ninia
   - translation_iso: hin
     name: निनिया याली
     auto: true

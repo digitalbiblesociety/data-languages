@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الدیجيم-بويليم
     auto: true
+  - translation_iso: fra
+    name: Dijim-Bwilim
+    auto: true
   - translation_iso: hin
     name: डिजिम-ब्विलिम
     auto: true

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: تروماي
     auto: true
+  - translation_iso: fra
+    name: trumai
   - translation_iso: hin
     name: त्रुमाई
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فاجلا
     auto: true
+  - translation_iso: fra
+    name: vagla
   - translation_iso: hin
     name: वगला
     auto: true

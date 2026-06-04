@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوبير
     auto: true
+  - translation_iso: fra
+    name: ubir
   - translation_iso: hin
     name: उबीर
     auto: true

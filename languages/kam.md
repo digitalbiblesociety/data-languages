@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kamba_language"
 translations:
   - translation_iso: ara
     name: الكامبا
+  - translation_iso: fra
+    name: kamba
   - translation_iso: hin
     name: कम्बा
   - translation_iso: jpn

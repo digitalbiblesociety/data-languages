@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tigrinya_language"
 translations:
   - translation_iso: ara
     name: التغرينية
+  - translation_iso: fra
+    name: tigrigna
   - translation_iso: hin
     name: तिग्रीन्या भाषा
   - translation_iso: jpn

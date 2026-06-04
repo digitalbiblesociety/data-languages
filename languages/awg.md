@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنجوثيمري
     auto: true
+  - translation_iso: fra
+    name: anguthimri
   - translation_iso: hin
     name: अंगुथिम्री
     auto: true

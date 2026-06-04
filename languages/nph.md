@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فوم ناغا
     auto: true
+  - translation_iso: fra
+    name: phom
   - translation_iso: hin
     name: फोम भाषा
   - translation_iso: jpn

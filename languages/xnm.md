@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجومبارل
     auto: true
+  - translation_iso: fra
+    name: ngumbarl
   - translation_iso: hin
     name: न्गुम्बार्ल
     auto: true

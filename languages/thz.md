@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Air_Tamajeq_language"
 translations:
   - translation_iso: ara
     name: تايرت
+  - translation_iso: fra
+    name: "tamajeq de l'Aïr"
   - translation_iso: hin
     name: तायार्त तामाजेक
     auto: true

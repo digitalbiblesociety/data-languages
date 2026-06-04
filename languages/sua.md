@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة سولكا
     auto: true
+  - translation_iso: fra
+    name: sulka
   - translation_iso: hin
     name: सुल्का
     auto: true

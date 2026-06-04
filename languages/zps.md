@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك كوتلان
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Coatlán
   - translation_iso: hin
     name: कोआतलान सैपोटेक
     auto: true

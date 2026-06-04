@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Komi_language"
 translations:
   - translation_iso: ara
     name: الكومية
+  - translation_iso: fra
+    name: komi
   - translation_iso: hin
     name: कोमी
   - translation_iso: jpn

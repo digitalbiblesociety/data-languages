@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوت
     auto: true
+  - translation_iso: fra
+    name: kotte
   - translation_iso: hin
     name: कोट्ट
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أغوارونا
     auto: true
+  - translation_iso: fra
+    name: aguaruna
   - translation_iso: hin
     name: अगुआरुना
     auto: true

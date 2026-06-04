@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيجيدال
     auto: true
+  - translation_iso: fra
+    name: néguidale
   - translation_iso: hin
     name: नेगिदाल
     auto: true

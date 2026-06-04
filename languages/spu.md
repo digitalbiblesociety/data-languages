@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سابوان
     auto: true
+  - translation_iso: fra
+    name: Sapuan
+    auto: true
   - translation_iso: hin
     name: सापुआन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مويكودي
     auto: true
+  - translation_iso: fra
+    name: moikodi
   - translation_iso: hin
     name: मोइकोदी
     auto: true

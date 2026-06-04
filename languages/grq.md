@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوروفو
     auto: true
+  - translation_iso: fra
+    name: gorovu
   - translation_iso: hin
     name: गोरोवू
     auto: true

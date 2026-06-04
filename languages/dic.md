@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لاكوتا ديدا
     auto: true
+  - translation_iso: fra
+    name: dida de Lakota
   - translation_iso: hin
     name: लाकोता दीदा
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أويا أويا
     auto: true
+  - translation_iso: fra
+    name: "Oya'oya"
+    auto: true
   - translation_iso: hin
     name: "ओया'ओया"
     auto: true

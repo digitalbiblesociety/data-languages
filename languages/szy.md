@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ساكيزايا
     auto: true
+  - translation_iso: fra
+    name: sakizaya
   - translation_iso: hin
     name: साकिज़ाया
     auto: true

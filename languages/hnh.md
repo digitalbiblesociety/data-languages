@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ǁAni
     auto: true
+  - translation_iso: fra
+    name: ǁani
   - translation_iso: hin
     name: ǁआनी
     auto: true

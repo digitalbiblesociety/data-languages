@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رابا
     auto: true
+  - translation_iso: fra
+    name: rapa
   - translation_iso: hin
     name: रापा
     auto: true

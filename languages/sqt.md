@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Soqotri_language"
 translations:
   - translation_iso: ara
     name: اللغة السقطرية
+  - translation_iso: fra
+    name: soqotri
   - translation_iso: hin
     name: सोकोत्री
     auto: true

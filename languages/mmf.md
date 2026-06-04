@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موندات
     auto: true
+  - translation_iso: fra
+    name: Mundat
+    auto: true
   - translation_iso: hin
     name: मुंदात
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مونو (جمهورية الكونغو الديمقراطية)
     auto: true
+  - translation_iso: fra
+    name: mono
   - translation_iso: hin
     name: मोनो (कांगो लोकतांत्रिक गणराज्य)
     auto: true

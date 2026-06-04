@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانديالانج
     auto: true
+  - translation_iso: fra
+    name: bandjalang
   - translation_iso: hin
     name: बंदजालंग
     auto: true

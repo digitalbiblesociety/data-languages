@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Magahi_language"
 translations:
   - translation_iso: ara
     name: لغة ماجادهي
+  - translation_iso: fra
+    name: magahi
   - translation_iso: hin
     name: मगही
   - translation_iso: jpn

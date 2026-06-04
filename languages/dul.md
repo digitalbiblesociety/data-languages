@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ألابات آيسلاند أجتا
     auto: true
+  - translation_iso: fra
+    name: "agta d'Alabat"
   - translation_iso: hin
     name: अलाबात द्वीप आग्ता
     auto: true

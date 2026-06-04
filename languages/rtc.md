@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: رونجتو تشين
     auto: true
+  - translation_iso: fra
+    name: rungtu
   - translation_iso: hin
     name: रुंगतू चिन
     auto: true

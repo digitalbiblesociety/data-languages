@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ليانشان زوانغ
     auto: true
+  - translation_iso: fra
+    name: zhuang de Lianshan
   - translation_iso: hin
     name: लियानशान ज़ुआंग
     auto: true

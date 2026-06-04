@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توتوبا
     auto: true
+  - translation_iso: fra
+    name: tutuba
   - translation_iso: hin
     name: तुतुबा
     auto: true

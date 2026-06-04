@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: لغة مالايانون
     auto: true
+  - translation_iso: fra
+    name: malaynon
   - translation_iso: hin
     name: मालायनोन
     auto: true

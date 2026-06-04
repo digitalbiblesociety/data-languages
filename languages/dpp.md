@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بابار
     auto: true
+  - translation_iso: fra
+    name: papar
   - translation_iso: hin
     name: पापर
     auto: true

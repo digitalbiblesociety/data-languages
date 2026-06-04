@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيهيا تنزانيا
     auto: true
+  - translation_iso: fra
+    name: nyiha
   - translation_iso: hin
     name: न्यिहा (तंज़ानिया)
     auto: true

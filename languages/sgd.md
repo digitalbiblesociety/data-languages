@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سوريجاونون
     auto: true
+  - translation_iso: fra
+    name: surigaonon
   - translation_iso: hin
     name: सुरिगाओनोन
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يووتوبي
     auto: true
+  - translation_iso: fra
+    name: Lewotobi
+    auto: true
   - translation_iso: hin
     name: लेवोतोबी
     auto: true

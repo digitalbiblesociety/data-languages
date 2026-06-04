@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوكسابمين
     auto: true
+  - translation_iso: fra
+    name: oksapmin
   - translation_iso: hin
     name: ओक्सापमिन
     auto: true

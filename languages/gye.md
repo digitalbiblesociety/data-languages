@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غيإم
     auto: true
+  - translation_iso: fra
+    name: gyem
   - translation_iso: hin
     name: ग्येम
     auto: true

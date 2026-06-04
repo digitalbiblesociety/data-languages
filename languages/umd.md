@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أومبندهامو
     auto: true
+  - translation_iso: fra
+    name: umbindhamu
   - translation_iso: hin
     name: उम्बिंधामु
     auto: true

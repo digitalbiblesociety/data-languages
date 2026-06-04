@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Samaritan_Hebrew"
 translations:
   - translation_iso: ara
     name: عبرية سامرية
+  - translation_iso: fra
+    name: hébreu samaritain
   - translation_iso: hin
     name: सामरी
     auto: true

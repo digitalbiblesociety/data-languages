@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باكاسنوفوس
     auto: true
+  - translation_iso: fra
+    name: wari
   - translation_iso: hin
     name: पाकासनोवोस
     auto: true

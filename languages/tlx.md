@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: خيهيك
     auto: true
+  - translation_iso: fra
+    name: khehek
   - translation_iso: hin
     name: खेहेक
     auto: true

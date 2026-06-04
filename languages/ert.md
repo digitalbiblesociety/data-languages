@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإريتاي
     auto: true
+  - translation_iso: fra
+    name: eritai
   - translation_iso: hin
     name: एरिताई
     auto: true

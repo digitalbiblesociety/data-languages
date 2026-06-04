@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بولونجان
     auto: true
+  - translation_iso: fra
+    name: Bolongan
+    auto: true
   - translation_iso: hin
     name: बोलोंगन
     auto: true

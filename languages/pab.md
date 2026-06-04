@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باريسيس
     auto: true
+  - translation_iso: fra
+    name: paresi
   - translation_iso: hin
     name: पारेसिस
     auto: true

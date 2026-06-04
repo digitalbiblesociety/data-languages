@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوشي
     auto: true
+  - translation_iso: fra
+    name: kushi
   - translation_iso: hin
     name: कुशी
     auto: true

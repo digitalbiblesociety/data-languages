@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دجامبارپونجو
     auto: true
+  - translation_iso: fra
+    name: Djambarrpuyngu
+    auto: true
   - translation_iso: hin
     name: जंबर्रपुयंगू
     auto: true

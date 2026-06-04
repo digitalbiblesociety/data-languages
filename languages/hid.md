@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hidatsa_language"
 translations:
   - translation_iso: ara
     name: هيداتسا
+  - translation_iso: fra
+    name: hidatsa
   - translation_iso: hin
     name: हिदात्सा
     auto: true

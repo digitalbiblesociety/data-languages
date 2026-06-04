@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيغناسيانو
     auto: true
+  - translation_iso: fra
+    name: ignaciano
   - translation_iso: hin
     name: इग्नासियानो
     auto: true

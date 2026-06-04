@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الإستونية
     auto: true
+  - translation_iso: fra
+    name: estonien standard
   - translation_iso: hin
     name: मानक एस्टोनियाई
     auto: true

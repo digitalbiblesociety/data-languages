@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tunisian_Arabic"
 translations:
   - translation_iso: ara
     name: اللهجة التونسية
+  - translation_iso: fra
+    name: arabe tunisien
   - translation_iso: hin
     name: ट्यूनीशियाई अरबी
     auto: true

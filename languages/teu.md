@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سو
     auto: true
+  - translation_iso: fra
+    name: soo
   - translation_iso: hin
     name: सू
     auto: true

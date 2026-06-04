@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشويفي
     auto: true
+  - translation_iso: fra
+    name: chuave
   - translation_iso: hin
     name: चुआवे
     auto: true

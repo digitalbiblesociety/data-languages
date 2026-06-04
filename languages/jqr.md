@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جاقارو
     auto: true
+  - translation_iso: fra
+    name: jaqaru
   - translation_iso: hin
     name: जाकारू
     auto: true

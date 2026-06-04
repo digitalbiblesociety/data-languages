@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا سالاساكا الجبلية
     auto: true
+  - translation_iso: fra
+    name: quichua de Salasaca
   - translation_iso: hin
     name: सालासाका हाइलैंड किचुआ
     auto: true

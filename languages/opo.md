@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوباو
     auto: true
+  - translation_iso: fra
+    name: Opao
   - translation_iso: hin
     name: ओपाओ
     auto: true

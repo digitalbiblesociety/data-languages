@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/New_Zealand_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة النيوزيلندية
+  - translation_iso: fra
+    name: langue des signes néo-zélandaise
   - translation_iso: hin
     name: न्यूज़ीलैण्ड हस्ताक्षर भाषा
   - translation_iso: jpn

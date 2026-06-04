@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبوجوي
     auto: true
+  - translation_iso: fra
+    name: mbugwe
   - translation_iso: hin
     name: म्बुग्वे
     auto: true

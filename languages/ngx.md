@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نججواهيا
     auto: true
+  - translation_iso: fra
+    name: nggwahyi
   - translation_iso: hin
     name: न्ग्वाह्यी
     auto: true

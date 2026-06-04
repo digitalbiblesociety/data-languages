@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ميسمي
     auto: true
+  - translation_iso: fra
+    name: mesmé
   - translation_iso: hin
     name: मेस्मे
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ماشي
     auto: true
+  - translation_iso: fra
+    name: mashi
   - translation_iso: hin
     name: माशी (नाइजीरिया)
     auto: true

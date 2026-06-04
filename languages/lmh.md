@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة امبيكههونج
     auto: true
+  - translation_iso: fra
+    name: lambichhong
   - translation_iso: hin
     name: लंबिछोंग
     auto: true

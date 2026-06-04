@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة موي (الكونغو)
     auto: true
+  - translation_iso: fra
+    name: moye
   - translation_iso: hin
     name: मोई (कांगो)
     auto: true

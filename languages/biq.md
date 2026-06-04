@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيبي
     auto: true
+  - translation_iso: fra
+    name: bipi
   - translation_iso: hin
     name: बिपी
     auto: true

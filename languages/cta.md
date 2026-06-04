@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاتالتيبك تشاتينو
     auto: true
+  - translation_iso: fra
+    name: Chatino de Tataltepec
   - translation_iso: hin
     name: तातालतेपेक चातीनो
     auto: true

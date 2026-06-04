@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوروهانون
     auto: true
+  - translation_iso: fra
+    name: porohanon
   - translation_iso: hin
     name: पोरोहानोन
     auto: true

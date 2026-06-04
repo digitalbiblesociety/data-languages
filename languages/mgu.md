@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مايلو
     auto: true
+  - translation_iso: fra
+    name: mailu
   - translation_iso: hin
     name: माइलु
     auto: true

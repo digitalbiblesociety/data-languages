@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kutenai_language"
 translations:
   - translation_iso: ara
     name: الكتيناي
+  - translation_iso: fra
+    name: kutenai
   - translation_iso: hin
     name: क्यूतनाई
   - translation_iso: jpn

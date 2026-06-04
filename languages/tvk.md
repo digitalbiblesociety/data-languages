@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: آمبريم جنوب شرق
     auto: true
+  - translation_iso: fra
+    name: ambrym du Sud-Est
   - translation_iso: hin
     name: दक्षिणपूर्व एम्ब्रिम
     auto: true

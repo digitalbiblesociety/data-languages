@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كارين ينتالي
     auto: true
+  - translation_iso: fra
+    name: yintale
   - translation_iso: hin
     name: यिनताले करेन
     auto: true

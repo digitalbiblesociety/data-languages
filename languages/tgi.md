@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لاوونويا
     auto: true
+  - translation_iso: fra
+    name: lawunuia
   - translation_iso: hin
     name: लावुनुइया
     auto: true

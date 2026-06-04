@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رونجمي ناجا
     auto: true
+  - translation_iso: fra
+    name: rongmei
   - translation_iso: hin
     name: नरूंगमई भाषा
   - translation_iso: jpn

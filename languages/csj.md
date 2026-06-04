@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: سونغلاي تشين
     auto: true
+  - translation_iso: fra
+    name: songlai
   - translation_iso: hin
     name: सोंगलाई चिन
     auto: true

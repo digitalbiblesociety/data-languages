@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماكوشي
     auto: true
+  - translation_iso: fra
+    name: macushi
   - translation_iso: hin
     name: मकुशी
     auto: true

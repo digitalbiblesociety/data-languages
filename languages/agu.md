@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أغواكاتيكو
     auto: true
+  - translation_iso: fra
+    name: aguacatèque
   - translation_iso: hin
     name: अगुआकातेको
     auto: true

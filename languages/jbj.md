@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أرانداي
     auto: true
+  - translation_iso: fra
+    name: arandai
   - translation_iso: hin
     name: अरांदाई
     auto: true

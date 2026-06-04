@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جيمي
     auto: true
+  - translation_iso: fra
+    name: jimi
   - translation_iso: hin
     name: जिमी (कैमरून)
     auto: true

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_East_Slavic"
 translations:
   - translation_iso: ara
     name: صقلبية شرقية قديمة
+  - translation_iso: fra
+    name: vieux russe
   - translation_iso: hin
     name: पुरानी रूसी
     auto: true

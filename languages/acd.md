@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جيكيود
     auto: true
+  - translation_iso: fra
+    name: gikyode
   - translation_iso: hin
     name: गिक्योदे
     auto: true

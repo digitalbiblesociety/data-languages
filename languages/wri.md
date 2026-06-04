@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: وارييانغغا
     auto: true
+  - translation_iso: fra
+    name: wariyangga
   - translation_iso: hin
     name: वारियांगा
     auto: true

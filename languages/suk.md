@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sukuma_language"
 translations:
   - translation_iso: ara
     name: السوكوما
+  - translation_iso: fra
+    name: sukuma
   - translation_iso: hin
     name: सुकुमा
   - translation_iso: jpn

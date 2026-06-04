@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دينجيسي
     auto: true
+  - translation_iso: fra
+    name: bondengese
   - translation_iso: hin
     name: देंगेसे
     auto: true

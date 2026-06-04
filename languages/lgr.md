@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ينجو
     auto: true
+  - translation_iso: fra
+    name: lengo
   - translation_iso: hin
     name: लेंगो
     auto: true

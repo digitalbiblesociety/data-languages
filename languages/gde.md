@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غودي
     auto: true
+  - translation_iso: fra
+    name: gude
   - translation_iso: hin
     name: गुडे
     auto: true

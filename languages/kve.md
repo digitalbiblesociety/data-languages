@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالابكان
     auto: true
+  - translation_iso: fra
+    name: Kalabakan
+    auto: true
   - translation_iso: hin
     name: कालाबाकान
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cape_Verdean_Creole"
 translations:
   - translation_iso: ara
     name: الرأس الأخضر
+  - translation_iso: fra
+    name: créole cap-verdien
   - translation_iso: hin
     name: काबुवेर्दियानु
   - translation_iso: jpn

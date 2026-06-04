@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: المايا الخطية
     auto: true
+  - translation_iso: fra
+    name: maya classique
   - translation_iso: hin
     name: अभिलेखीय माया
     auto: true

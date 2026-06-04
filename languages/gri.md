@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غآري
     auto: true
+  - translation_iso: fra
+    name: ghari
   - translation_iso: hin
     name: घारी
     auto: true

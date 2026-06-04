@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديماسا
     auto: true
+  - translation_iso: fra
+    name: dimasa
   - translation_iso: hin
     name: दिमासा भाषा
   - translation_iso: jpn

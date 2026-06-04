@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Choctaw_language"
 translations:
   - translation_iso: ara
     name: شوكتاو
+  - translation_iso: fra
+    name: choctaw
   - translation_iso: hin
     name: चोक्तौ
   - translation_iso: jpn

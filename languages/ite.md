@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيتيني
     auto: true
+  - translation_iso: fra
+    name: moré
   - translation_iso: hin
     name: इतेने
     auto: true

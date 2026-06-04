@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: خيري
     auto: true
+  - translation_iso: fra
+    name: xiri
   - translation_iso: hin
     name: ख़िरी
     auto: true

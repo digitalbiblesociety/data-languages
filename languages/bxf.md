@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلور
     auto: true
+  - translation_iso: fra
+    name: bilur
   - translation_iso: hin
     name: बिलुर
     auto: true

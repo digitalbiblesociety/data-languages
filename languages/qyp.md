@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كويريبي
     auto: true
+  - translation_iso: fra
+    name: quiripi
   - translation_iso: hin
     name: किरिपी
     auto: true

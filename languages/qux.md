@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا ياويوس
     auto: true
+  - translation_iso: fra
+    name: quechua de Yauyos
   - translation_iso: hin
     name: याउयोस क्वेचुआ
     auto: true

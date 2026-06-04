@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دهاالندجي
     auto: true
+  - translation_iso: fra
+    name: dhalandji
   - translation_iso: hin
     name: धालंजी
     auto: true

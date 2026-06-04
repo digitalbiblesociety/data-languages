@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرندا الجنوبية السفلى
     auto: true
+  - translation_iso: fra
+    name: bas arrernte
   - translation_iso: hin
     name: निचली दक्षिणी अरंडा
     auto: true

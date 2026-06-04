@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توندي
     auto: true
+  - translation_iso: fra
+    name: twendi
   - translation_iso: hin
     name: ट्वेंडी
     auto: true

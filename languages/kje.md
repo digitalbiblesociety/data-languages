@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيسار
     auto: true
+  - translation_iso: fra
+    name: kisar
   - translation_iso: hin
     name: किसार
     auto: true

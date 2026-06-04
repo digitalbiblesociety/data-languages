@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سييرا ليون لغة الإشارة
     auto: true
+  - translation_iso: fra
+    name: langue des signes sierra-léonaise
   - translation_iso: hin
     name: सिएरा लियोन सांकेतिक भाषा
     auto: true

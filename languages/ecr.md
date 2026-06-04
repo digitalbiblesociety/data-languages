@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: الإتيوكريتي
     auto: true
+  - translation_iso: fra
+    name: étéocrétois
   - translation_iso: hin
     name: एतेओक्रेतन
     auto: true

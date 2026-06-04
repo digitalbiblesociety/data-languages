@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: كوكي ناغا
     auto: true
+  - translation_iso: fra
+    name: naga koki
   - translation_iso: hin
     name: कोकी नागा
     auto: true

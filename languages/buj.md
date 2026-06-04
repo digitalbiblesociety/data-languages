@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باسا-جورْمانا
     auto: true
+  - translation_iso: fra
+    name: Basa-Gurmana
+    auto: true
   - translation_iso: hin
     name: बासा-गुरमाना
     auto: true

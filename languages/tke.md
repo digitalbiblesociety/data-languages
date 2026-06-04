@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تاكواني
     auto: true
+  - translation_iso: fra
+    name: takwane
   - translation_iso: hin
     name: ताकवाने
     auto: true

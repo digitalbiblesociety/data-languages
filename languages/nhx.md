@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إستموس ميكايابان ناهواتل
     auto: true
+  - translation_iso: fra
+    name: nahuatl de l’isthme de Mecayapan
   - translation_iso: hin
     name: इस्थमस-मेकायापान नाहुआतल
     auto: true

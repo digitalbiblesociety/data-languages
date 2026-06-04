@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وامبون
     auto: true
+  - translation_iso: fra
+    name: wambon
   - translation_iso: hin
     name: वाम्बोन
     auto: true

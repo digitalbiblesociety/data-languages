@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نجاممبو
     auto: true
+  - translation_iso: fra
+    name: ngamambo
   - translation_iso: hin
     name: न्गामाम्बो
     auto: true

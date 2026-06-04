@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تيبو كرومين
     auto: true
+  - translation_iso: fra
+    name: kroumen tépo
   - translation_iso: hin
     name: तेपो क्रुमेन
     auto: true

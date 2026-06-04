@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكورية
     auto: true
+  - translation_iso: fra
+    name: langue des signes coréenne
   - translation_iso: hin
     name: कोरीआई इशारों की ज़ुबान
   - translation_iso: jpn

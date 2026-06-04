@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشاميكورو
     auto: true
+  - translation_iso: fra
+    name: chamicuro
   - translation_iso: hin
     name: चामिकुरो
     auto: true

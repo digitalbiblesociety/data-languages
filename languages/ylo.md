@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة نالوو يي
     auto: true
+  - translation_iso: fra
+    name: naluo
   - translation_iso: hin
     name: नालुओ यी
     auto: true

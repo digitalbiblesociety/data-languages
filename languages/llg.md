@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ولي
     auto: true
+  - translation_iso: fra
+    name: lole
   - translation_iso: hin
     name: लोले
     auto: true

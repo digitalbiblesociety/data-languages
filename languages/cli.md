@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الشاكالي
     auto: true
+  - translation_iso: fra
+    name: chakali
   - translation_iso: hin
     name: चकाली
     auto: true

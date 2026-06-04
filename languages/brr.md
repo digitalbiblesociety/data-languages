@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيراو
     auto: true
+  - translation_iso: fra
+    name: birao
   - translation_iso: hin
     name: बिराओ
     auto: true

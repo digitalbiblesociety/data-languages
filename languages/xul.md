@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: نجوناوال
     auto: true
+  - translation_iso: fra
+    name: ngunawal
   - translation_iso: hin
     name: न्गुनावाल
     auto: true

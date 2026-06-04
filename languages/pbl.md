@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ماك نيجيريا
     auto: true
+  - translation_iso: fra
+    name: mak
   - translation_iso: hin
     name: माक (नाइजीरिया)
     auto: true

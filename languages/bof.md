@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بولون
     auto: true
+  - translation_iso: fra
+    name: bolon
   - translation_iso: hin
     name: बोलोन
     auto: true

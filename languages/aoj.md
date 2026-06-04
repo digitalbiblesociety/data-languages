@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موفيان
     auto: true
+  - translation_iso: fra
+    name: muhiang
   - translation_iso: hin
     name: मुफियान
     auto: true

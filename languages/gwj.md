@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ǀغوي
     auto: true
+  - translation_iso: fra
+    name: gǀui
   - translation_iso: hin
     name: ग्वी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وولاني
     auto: true
+  - translation_iso: fra
+    name: wolani
   - translation_iso: hin
     name: वोलानी
     auto: true

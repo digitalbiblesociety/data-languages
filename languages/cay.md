@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cayuga_language"
 translations:
   - translation_iso: ara
     name: الكايوجية
+  - translation_iso: fra
+    name: cayuga
   - translation_iso: hin
     name: कायुगा
   - translation_iso: jpn

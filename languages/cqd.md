@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مجموعة تشوانتشيانديان ميايو
     auto: true
+  - translation_iso: fra
+    name: miao chuanqiandian
   - translation_iso: hin
     name: चुआनकियानडियन समूह मियाओ
     auto: true

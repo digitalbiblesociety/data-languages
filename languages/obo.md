@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوبو مانوبو
     auto: true
+  - translation_iso: fra
+    name: Manobo obo
+    auto: true
   - translation_iso: hin
     name: ओबो मानोबो
     auto: true

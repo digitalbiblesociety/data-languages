@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوي
     auto: true
+  - translation_iso: fra
+    name: kohi
   - translation_iso: hin
     name: कोई
     auto: true

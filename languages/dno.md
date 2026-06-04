@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ندرولو
     auto: true
+  - translation_iso: fra
+    name: langue ndrulo
   - translation_iso: hin
     name: न्द्रुलो
     auto: true

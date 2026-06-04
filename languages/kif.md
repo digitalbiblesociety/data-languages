@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة شرق باربات خام
     auto: true
+  - translation_iso: fra
+    name: "kham parbate de l'Est"
   - translation_iso: hin
     name: पूर्वी पर्वते खाम
     auto: true

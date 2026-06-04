@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: راساوا
     auto: true
+  - translation_iso: fra
+    name: rasawa
   - translation_iso: hin
     name: रासावा
     auto: true

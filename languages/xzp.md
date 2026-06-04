@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك القديمة
     auto: true
+  - translation_iso: fra
+    name: ancien zapotèque
   - translation_iso: hin
     name: प्राचीन ज़ापोटेक
     auto: true

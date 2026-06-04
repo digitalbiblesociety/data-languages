@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوزوماسين تشينانتك
     auto: true
+  - translation_iso: fra
+    name: chinantèque d’Ozumacín
   - translation_iso: hin
     name: ओज़ुमासिन चिनान्तेक
     auto: true

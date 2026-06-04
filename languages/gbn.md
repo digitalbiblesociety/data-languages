@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مودا
     auto: true
+  - translation_iso: fra
+    name: "mo'da"
   - translation_iso: hin
     name: "मो'दा"
     auto: true

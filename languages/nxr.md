@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نينغيرم
     auto: true
+  - translation_iso: fra
+    name: ninggerum
   - translation_iso: hin
     name: निंगेरुम
     auto: true

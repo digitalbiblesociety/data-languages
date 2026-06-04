@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دورجا
     auto: true
+  - translation_iso: fra
+    name: dhurga
   - translation_iso: hin
     name: धुर्गा
     auto: true

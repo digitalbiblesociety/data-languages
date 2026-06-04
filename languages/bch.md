@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باريايه
     auto: true
+  - translation_iso: fra
+    name: bariai
   - translation_iso: hin
     name: बरियाई
     auto: true

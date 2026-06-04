@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الغوندية الشمالية
     auto: true
+  - translation_iso: fra
+    name: gondi du Nord
   - translation_iso: hin
     name: उत्तरी गोंडी
     auto: true

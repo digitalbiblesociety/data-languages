@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موروي هويتوتو
     auto: true
+  - translation_iso: fra
+    name: witoto murui
   - translation_iso: hin
     name: मुरुई हुइतोतो
     auto: true

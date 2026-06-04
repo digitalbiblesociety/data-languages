@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: تيكي تيي
     auto: true
+  - translation_iso: fra
+    name: teke-tyee
   - translation_iso: hin
     name: तेके-त्ये
     auto: true

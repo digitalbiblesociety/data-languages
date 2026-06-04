@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بالايسانج
     auto: true
+  - translation_iso: fra
+    name: balaesang
   - translation_iso: hin
     name: बलाएसांग
     auto: true

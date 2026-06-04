@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيسالپيني غاوليسه
     auto: true
+  - translation_iso: fra
+    name: gaulois cisalpin
   - translation_iso: hin
     name: सिसाल्पाइन गॉलिश
     auto: true

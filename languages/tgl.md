@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tagalog_language"
 translations:
   - translation_iso: ara
     name: التاغالوغية
+  - translation_iso: fra
+    name: tagalog
   - translation_iso: hin
     name: तागालोग
   - translation_iso: jpn

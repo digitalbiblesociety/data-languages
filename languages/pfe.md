@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيري
     auto: true
+  - translation_iso: fra
+    name: peere
   - translation_iso: hin
     name: पीरे
     auto: true

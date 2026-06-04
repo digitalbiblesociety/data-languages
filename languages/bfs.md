@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: باي الجنوبي
     auto: true
+  - translation_iso: fra
+    name: bai méridional
   - translation_iso: hin
     name: दक्षिणी बाई
     auto: true

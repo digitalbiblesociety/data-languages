@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بولينياو
     auto: true
+  - translation_iso: fra
+    name: bolinao
   - translation_iso: hin
     name: बोलिनाओ
     auto: true

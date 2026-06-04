@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كادونج
     auto: true
+  - translation_iso: fra
+    name: Kadung
+    auto: true
   - translation_iso: hin
     name: कादुंग
     auto: true

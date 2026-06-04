@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الموريا الشرقية البعيدة
     auto: true
+  - translation_iso: fra
+    name: muria du Grand-Ouest
   - translation_iso: hin
     name: सुदूर पश्चिमी मुरिया
     auto: true

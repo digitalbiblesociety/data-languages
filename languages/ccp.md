@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chakma_language"
 translations:
   - translation_iso: ara
     name: لهجة تشاكما
+  - translation_iso: fra
+    name: changma kodha
   - translation_iso: hin
     name: चाकमा भाषा
   - translation_iso: jpn

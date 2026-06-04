@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيزن
     auto: true
+  - translation_iso: fra
+    name: beezen
   - translation_iso: hin
     name: बीज़ेन
     auto: true

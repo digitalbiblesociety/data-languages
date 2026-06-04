@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غرانغالي
     auto: true
+  - translation_iso: fra
+    name: grangali
   - translation_iso: hin
     name: नंगलामी भाषा
   - translation_iso: jpn

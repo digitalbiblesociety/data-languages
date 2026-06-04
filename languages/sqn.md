@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سوسكويهانوك
     auto: true
+  - translation_iso: fra
+    name: susquehannock
   - translation_iso: hin
     name: सस्केहनॉक भाषा
   - translation_iso: jpn

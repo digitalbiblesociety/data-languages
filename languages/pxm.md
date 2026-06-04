@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: اللغة ميكسي كويتزالتيبك
     auto: true
+  - translation_iso: fra
+    name: mixe de Quetzaltepec
   - translation_iso: hin
     name: केत्साल्तेपेक मिखे
     auto: true

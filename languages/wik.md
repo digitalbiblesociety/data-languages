@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويكالكان
     auto: true
+  - translation_iso: fra
+    name: wikalkan
   - translation_iso: hin
     name: विकलकन
     auto: true

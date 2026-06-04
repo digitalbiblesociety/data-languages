@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الباراجوايية
     auto: true
+  - translation_iso: fra
+    name: langue des signes paraguayenne
   - translation_iso: hin
     name: पैराग्वे सांकेतिक भाषा
     auto: true

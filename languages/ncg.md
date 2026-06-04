@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نسجايا
     auto: true
+  - translation_iso: fra
+    name: nisgha
   - translation_iso: hin
     name: निस्गा
     auto: true

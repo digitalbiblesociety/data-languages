@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نغوي
     auto: true
+  - translation_iso: fra
+    name: ngwe
   - translation_iso: hin
     name: न्ग्वे
     auto: true

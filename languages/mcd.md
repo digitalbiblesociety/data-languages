@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة شارانتاهوا
     auto: true
+  - translation_iso: fra
+    name: sharanahua
   - translation_iso: hin
     name: शारानाहुआ
     auto: true

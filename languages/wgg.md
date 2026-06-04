@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وانغكانغوررو
     auto: true
+  - translation_iso: fra
+    name: wangkangurru
   - translation_iso: hin
     name: वंगकंगुर्रू
     auto: true

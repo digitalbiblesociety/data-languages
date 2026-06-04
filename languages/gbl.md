@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجاميت
     auto: true
+  - translation_iso: fra
+    name: gamit
   - translation_iso: hin
     name: गामित
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالول
     auto: true
+  - translation_iso: fra
+    name: Malol
+    auto: true
   - translation_iso: hin
     name: मालोल
     auto: true

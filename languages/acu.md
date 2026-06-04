@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أتشوار-شيويار
     auto: true
+  - translation_iso: fra
+    name: achuar
   - translation_iso: hin
     name: अचुआर-शिवियार
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أويي
     auto: true
+  - translation_iso: fra
+    name: auye
   - translation_iso: hin
     name: औये
     auto: true

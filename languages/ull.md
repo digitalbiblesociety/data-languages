@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوللاتان
     auto: true
+  - translation_iso: fra
+    name: Ullatan
+    auto: true
   - translation_iso: hin
     name: उल्लातन
     auto: true

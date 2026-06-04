@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة امپي
     auto: true
+  - translation_iso: fra
+    name: Rampi
+    auto: true
   - translation_iso: hin
     name: रंपी
     auto: true

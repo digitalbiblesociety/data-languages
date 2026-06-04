@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة دانو
     auto: true
+  - translation_iso: fra
+    name: Dano
+    auto: true
   - translation_iso: hin
     name: डानो
     auto: true

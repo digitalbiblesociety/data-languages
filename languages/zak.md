@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زانكي
     auto: true
+  - translation_iso: fra
+    name: Zanaki
   - translation_iso: hin
     name: ज़नाकी
     auto: true

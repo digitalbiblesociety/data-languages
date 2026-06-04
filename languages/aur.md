@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أروك
     auto: true
+  - translation_iso: fra
+    name: Aruek
+    auto: true
   - translation_iso: hin
     name: अरुएक
     auto: true

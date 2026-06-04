@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: رير بير
     auto: true
+  - translation_iso: fra
+    name: rer bare
   - translation_iso: hin
     name: रेर बारे
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kumyk_language"
 translations:
   - translation_iso: ara
     name: القموقية
+  - translation_iso: fra
+    name: koumyk
   - translation_iso: hin
     name: कुमीक
   - translation_iso: jpn

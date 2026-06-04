@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بايليا
     auto: true
+  - translation_iso: fra
+    name: baelelea
   - translation_iso: hin
     name: बैलेलेआ
     auto: true

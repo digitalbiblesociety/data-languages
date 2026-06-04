@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ديزين
     auto: true
+  - translation_iso: fra
+    name: dizi
   - translation_iso: hin
     name: डिज़िन
     auto: true

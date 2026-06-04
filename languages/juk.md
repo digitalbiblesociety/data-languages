@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وابان
     auto: true
+  - translation_iso: fra
+    name: wapan
   - translation_iso: hin
     name: वापन
     auto: true

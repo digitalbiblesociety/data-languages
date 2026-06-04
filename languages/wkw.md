@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واكاواكا
     auto: true
+  - translation_iso: fra
+    name: wakawaka
   - translation_iso: hin
     name: वाकावाका
     auto: true

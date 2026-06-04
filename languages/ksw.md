@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: "كارين س'جاو"
     auto: true
+  - translation_iso: fra
+    name: sgaw
   - translation_iso: hin
     name: स्गॉ करेन
     auto: true

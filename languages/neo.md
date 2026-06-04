@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نا ميو
     auto: true
+  - translation_iso: fra
+    name: ná-meo
   - translation_iso: hin
     name: ना-मेओ
     auto: true

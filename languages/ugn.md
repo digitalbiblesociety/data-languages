@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة الإشارة الأوغندية
     auto: true
+  - translation_iso: fra
+    name: langue des signes ougandaise
   - translation_iso: hin
     name: युगांडा सांकेतिक भाषा
     auto: true

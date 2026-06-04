@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويمالي
     auto: true
+  - translation_iso: fra
+    name: wemale
   - translation_iso: hin
     name: वेमाले
     auto: true

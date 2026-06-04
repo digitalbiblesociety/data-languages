@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Teso_language"
 translations:
   - translation_iso: ara
     name: تيسو
+  - translation_iso: fra
+    name: teso
   - translation_iso: hin
     name: टेसो
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نامبيا
     auto: true
+  - translation_iso: fra
+    name: nambya
   - translation_iso: hin
     name: नाम्ब्या
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سابوني
     auto: true
+  - translation_iso: fra
+    name: saponi
   - translation_iso: hin
     name: सापोनी
     auto: true

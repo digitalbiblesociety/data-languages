@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nupe_language"
 translations:
   - translation_iso: ara
     name: نوب
+  - translation_iso: fra
+    name: nupe
   - translation_iso: hin
     name: नुपे-नुपे-ताको
     auto: true

@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ميرايا بيكول
     auto: true
+  - translation_iso: fra
+    name: bikol miraya
   - translation_iso: hin
     name: मिराया बिकोल
     auto: true

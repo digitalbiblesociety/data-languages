@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ينينجيتيج
     auto: true
+  - translation_iso: fra
+    name: linngithigh
   - translation_iso: hin
     name: लेनिंगितिज
     auto: true

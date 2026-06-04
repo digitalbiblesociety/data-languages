@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوكوتس
     auto: true
+  - translation_iso: fra
+    name: langues yokuts
   - translation_iso: hin
     name: योकुट्स
     auto: true

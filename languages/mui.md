@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موسي
     auto: true
+  - translation_iso: fra
+    name: musi
   - translation_iso: hin
     name: मुसी
     auto: true

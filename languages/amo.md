@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة آمو
     auto: true
+  - translation_iso: fra
+    name: amo
   - translation_iso: hin
     name: अमो
     auto: true

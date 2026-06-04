@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيتي-بيندي
     auto: true
+  - translation_iso: fra
+    name: bete-bendi
   - translation_iso: hin
     name: बेते-बेंदी
     auto: true

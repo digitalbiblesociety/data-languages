@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إجوتا
     auto: true
+  - translation_iso: fra
+    name: Iguta
+    auto: true
   - translation_iso: hin
     name: इगुता
     auto: true

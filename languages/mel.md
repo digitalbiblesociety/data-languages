@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ميلانو الوسطية
     auto: true
+  - translation_iso: fra
+    name: melanau central
   - translation_iso: hin
     name: सेंट्रल मेलानाउ
     auto: true

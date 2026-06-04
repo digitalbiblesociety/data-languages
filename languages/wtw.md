@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ووتو
     auto: true
+  - translation_iso: fra
+    name: wotu
   - translation_iso: hin
     name: वोतू
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة وايامبي
     auto: true
+  - translation_iso: fra
+    name: wayãpi
   - translation_iso: hin
     name: वायाम्पी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوابو
     auto: true
+  - translation_iso: fra
+    name: quapaw
   - translation_iso: hin
     name: क्वापॉ
     auto: true

@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chinese_language"
 translations:
   - translation_iso: ara
     name: الصينية
+  - translation_iso: fra
+    name: chinois
   - translation_iso: hin
     name: चीनी भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوما لاسان
     auto: true
+  - translation_iso: fra
+    name: uma’ lasan
   - translation_iso: hin
     name: उमा लासन
     auto: true

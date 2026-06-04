@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيم مون
     auto: true
+  - translation_iso: fra
+    name: kim mun
   - translation_iso: hin
     name: किम मुन
     auto: true

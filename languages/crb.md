@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاريب الجزيرة
     auto: true
+  - translation_iso: fra
+    name: karipoun insulaire
   - translation_iso: hin
     name: द्वीपीय कैरिब
     auto: true

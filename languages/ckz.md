@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكاكتشيكل-كويتشي
     auto: true
+  - translation_iso: fra
+    name: cakchiquel-quiché
   - translation_iso: hin
     name: काकचिकेल-किचे
     auto: true

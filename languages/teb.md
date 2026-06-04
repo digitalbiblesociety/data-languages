@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: تيتيتي
     auto: true
+  - translation_iso: fra
+    name: tetete
   - translation_iso: hin
     name: तेतेते
     auto: true

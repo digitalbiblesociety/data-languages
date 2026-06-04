@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوجوسو
     auto: true
+  - translation_iso: fra
+    name: dogoso
   - translation_iso: hin
     name: दोगोसो
     auto: true

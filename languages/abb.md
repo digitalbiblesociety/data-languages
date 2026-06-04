@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة بانكون
     auto: true
+  - translation_iso: fra
+    name: bankon
   - translation_iso: hin
     name: बांकोन
     auto: true

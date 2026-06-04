@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Tamil"
 translations:
   - translation_iso: ara
     name: التملية القديمة
+  - translation_iso: fra
+    name: Tamoul ancien
+    auto: true
   - translation_iso: hin
     name: प्राचीन तमिल
   - translation_iso: jpn

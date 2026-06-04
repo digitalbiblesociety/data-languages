@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Quebec
     auto: true
+  - translation_iso: fra
+    name: langue des signes québécoise
   - translation_iso: hin
     name: क्यूबेक साइन लैंग्वेज
   - translation_iso: jpn

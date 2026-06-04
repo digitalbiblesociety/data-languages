@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة فيندي
     auto: true
+  - translation_iso: fra
+    name: kipende
   - translation_iso: hin
     name: फेंदे
     auto: true

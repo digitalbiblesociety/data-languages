@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البوليفية
     auto: true
+  - translation_iso: fra
+    name: langue des signes bolivienne
   - translation_iso: hin
     name: बोलिवियाई सांकेतिक भाषा
     auto: true

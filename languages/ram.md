@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كانيلا
     auto: true
+  - translation_iso: fra
+    name: canela
   - translation_iso: hin
     name: कानेला
     auto: true

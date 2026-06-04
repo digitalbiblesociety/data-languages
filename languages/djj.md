@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دجيبانا
     auto: true
+  - translation_iso: fra
+    name: djeebbana
   - translation_iso: hin
     name: जीब्बाना
     auto: true

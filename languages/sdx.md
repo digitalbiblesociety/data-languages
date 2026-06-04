@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سيبو ميلاناو
     auto: true
+  - translation_iso: fra
+    name: sibu
   - translation_iso: hin
     name: सिबु मेलानाउ
     auto: true

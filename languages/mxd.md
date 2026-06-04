@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مودانج
     auto: true
+  - translation_iso: fra
+    name: Modang
+    auto: true
   - translation_iso: hin
     name: मोदांग
     auto: true

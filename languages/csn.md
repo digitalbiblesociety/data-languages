@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكولومبية
     auto: true
+  - translation_iso: fra
+    name: langue des signes colombienne
   - translation_iso: hin
     name: कोलंबियाई सांकेतिक भाषा
   - translation_iso: jpn

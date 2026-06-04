@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كارا
     auto: true
+  - translation_iso: fra
+    name: Kara (Tanzanie)
+    auto: true
   - translation_iso: hin
     name: कारा (तंज़ानिया)
     auto: true

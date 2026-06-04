@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وار-جايينتيا
     auto: true
+  - translation_iso: fra
+    name: war
   - translation_iso: hin
     name: वार भाषा
   - translation_iso: jpn

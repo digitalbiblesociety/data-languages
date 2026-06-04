@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ليهالوروب
     auto: true
+  - translation_iso: fra
+    name: löyöp
   - translation_iso: hin
     name: लेहालुरुप
     auto: true

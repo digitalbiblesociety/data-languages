@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Salvadoran
     auto: true
+  - translation_iso: fra
+    name: langue des signes salvadorienne
   - translation_iso: hin
     name: साल्वाडोरी सांकेतिक भाषा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أنامبي
     auto: true
+  - translation_iso: fra
+    name: anambé
   - translation_iso: hin
     name: कैरारी की अनम्बे
     auto: true

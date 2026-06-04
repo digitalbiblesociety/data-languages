@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنو-هكونغسو تشين
     auto: true
+  - translation_iso: fra
+    name: Anu-Hkongso Chin
+    auto: true
   - translation_iso: hin
     name: अनु-ह्कोंगसो चिन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أبنيوم
     auto: true
+  - translation_iso: fra
+    name: abanyom
   - translation_iso: hin
     name: अबन्योम
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تالياابو
     auto: true
+  - translation_iso: fra
+    name: taliabu
   - translation_iso: hin
     name: तालियाबु
     auto: true

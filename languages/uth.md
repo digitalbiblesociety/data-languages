@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: أوت-هون
     auto: true
+  - translation_iso: fra
+    name: ut-hun
   - translation_iso: hin
     name: उत-हुन
     auto: true

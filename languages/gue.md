@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوريندجي
     auto: true
+  - translation_iso: fra
+    name: gurindji
   - translation_iso: hin
     name: गुरिंजी
     auto: true

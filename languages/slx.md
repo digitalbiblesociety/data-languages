@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سالامباسو
     auto: true
+  - translation_iso: fra
+    name: salampasu
   - translation_iso: hin
     name: सालामपासु
     auto: true

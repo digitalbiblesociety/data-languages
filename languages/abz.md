@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أبوي
     auto: true
+  - translation_iso: fra
+    name: abui
   - translation_iso: hin
     name: अबुई
     auto: true

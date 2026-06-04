@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كومو
     auto: true
+  - translation_iso: fra
+    name: komo
   - translation_iso: hin
     name: कोमो (कांगो लोकतांत्रिक गणराज्य)
     auto: true

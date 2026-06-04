@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غووآمو
     auto: true
+  - translation_iso: fra
+    name: guwamu
   - translation_iso: hin
     name: गुवामू
     auto: true

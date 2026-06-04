@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيناسينا
     auto: true
+  - translation_iso: fra
+    name: sinasina
   - translation_iso: hin
     name: सिनासिना
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cook_Islands_M%C4%81ori"
 translations:
   - translation_iso: ara
     name: الراروتونجاني
+  - translation_iso: fra
+    name: maori des îles Cook
   - translation_iso: hin
     name: रारोतोंगन
   - translation_iso: jpn

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Jewish_Babylonian_Aramaic"
 translations:
   - translation_iso: ara
     name: آرامية بابلية عربيه
+  - translation_iso: fra
+    name: judéo-araméen babylonien
   - translation_iso: hin
     name: यहूदी बेबीलोनियाई अरामी (लगभग 200-1200 ई.)
     auto: true

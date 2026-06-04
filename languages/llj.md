@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: لغة ادجي ادجي
     auto: true
+  - translation_iso: fra
+    name: ladji ladji
   - translation_iso: hin
     name: लाडजी लाडजी
     auto: true

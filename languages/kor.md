@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Korean_language"
 translations:
   - translation_iso: ara
     name: الكورية
+  - translation_iso: fra
+    name: coréen
   - translation_iso: hin
     name: कोरियाई भाषा
   - translation_iso: jpn

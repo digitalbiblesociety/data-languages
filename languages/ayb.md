@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أييزو جبي
     auto: true
+  - translation_iso: fra
+    name: ayizo-gbe
   - translation_iso: hin
     name: अयिज़ो ग्बे
     auto: true

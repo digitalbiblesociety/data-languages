@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالوان
     auto: true
+  - translation_iso: fra
+    name: Paluan
+    auto: true
   - translation_iso: hin
     name: पालुआन
     auto: true

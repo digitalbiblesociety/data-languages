@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألاغو
     auto: true
+  - translation_iso: fra
+    name: alago
   - translation_iso: hin
     name: अलागो
     auto: true

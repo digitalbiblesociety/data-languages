@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كايجار
     auto: true
+  - translation_iso: fra
+    name: kayagar
   - translation_iso: hin
     name: कायागार
     auto: true

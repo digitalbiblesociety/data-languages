@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماسيماسي
     auto: true
+  - translation_iso: fra
+    name: masimasi
   - translation_iso: hin
     name: मासिमासी
     auto: true

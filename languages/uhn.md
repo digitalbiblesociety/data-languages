@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: دامال
     auto: true
+  - translation_iso: fra
+    name: damal
   - translation_iso: hin
     name: दामाल
     auto: true

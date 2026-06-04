@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بونجو
     auto: true
+  - translation_iso: fra
+    name: bonggo
   - translation_iso: hin
     name: बोंग्गो
     auto: true

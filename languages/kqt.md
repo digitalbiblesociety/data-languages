@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كادازان كليس ريفير
     auto: true
+  - translation_iso: fra
+    name: Kadazan de la rivière Klias
+    auto: true
   - translation_iso: hin
     name: क्लियास रिवर कादाज़ान
     auto: true

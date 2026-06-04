@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كير بالار
     auto: true
+  - translation_iso: fra
+    name: Kir-Balar
+    auto: true
   - translation_iso: hin
     name: किर-बालार
     auto: true

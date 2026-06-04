@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيكو
     auto: true
+  - translation_iso: fra
+    name: sembla
   - translation_iso: hin
     name: सीकू
     auto: true

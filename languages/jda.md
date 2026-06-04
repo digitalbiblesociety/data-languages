@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جاد
     auto: true
+  - translation_iso: fra
+    name: jad
   - translation_iso: hin
     name: जाद भाषा
   - translation_iso: jpn

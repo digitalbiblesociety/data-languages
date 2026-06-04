@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإليم
     auto: true
+  - translation_iso: fra
+    name: eleme
   - translation_iso: hin
     name: एलेमे
     auto: true

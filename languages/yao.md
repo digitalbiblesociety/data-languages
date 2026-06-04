@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yao_language"
 translations:
   - translation_iso: ara
     name: الياو
+  - translation_iso: fra
+    name: chiyao
   - translation_iso: hin
     name: याओ
   - translation_iso: jpn

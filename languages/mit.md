@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك بويبلا الجنوبية
     auto: true
+  - translation_iso: fra
+    name: mixtèque du Sud de Puebla
   - translation_iso: hin
     name: दक्षिणी प्वेब्ला मिश्तेक
     auto: true

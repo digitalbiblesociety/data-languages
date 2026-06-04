@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيياوايجي
     auto: true
+  - translation_iso: fra
+    name: nyawaygi
   - translation_iso: hin
     name: न्यावायगी
     auto: true

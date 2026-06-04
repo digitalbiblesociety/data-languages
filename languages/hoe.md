@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هوروم
     auto: true
+  - translation_iso: fra
+    name: horom
   - translation_iso: hin
     name: होरोम
     auto: true

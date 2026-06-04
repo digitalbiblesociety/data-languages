@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: إيرانون
     auto: true
+  - translation_iso: fra
+    name: iranun
   - translation_iso: hin
     name: इरानुन (फिलीपींस)
     auto: true

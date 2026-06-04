@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تامبولما
     auto: true
+  - translation_iso: fra
+    name: tampulma
   - translation_iso: hin
     name: तामपुलमा
     auto: true

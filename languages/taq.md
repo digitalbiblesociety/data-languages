@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tamasheq_language"
 translations:
   - translation_iso: ara
     name: لغة طارقية
+  - translation_iso: fra
+    name: tamasheq
   - translation_iso: hin
     name: तामाशेक
     auto: true

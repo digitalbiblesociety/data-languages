@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مايوجو
     auto: true
+  - translation_iso: fra
+    name: mayogo
   - translation_iso: hin
     name: मायोगो
     auto: true

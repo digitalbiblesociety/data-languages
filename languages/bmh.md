@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كين
     auto: true
+  - translation_iso: fra
+    name: kein
   - translation_iso: hin
     name: केइन
     auto: true

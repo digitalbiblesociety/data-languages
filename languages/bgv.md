@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وركاي بيبيم
     auto: true
+  - translation_iso: fra
+    name: warkay-bipim
   - translation_iso: hin
     name: वारकाय-बिपिम
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيساواي
     auto: true
+  - translation_iso: fra
+    name: kesawai
   - translation_iso: hin
     name: केसावाई
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاسماني المنتصف الشمالي
     auto: true
+  - translation_iso: fra
+    name: "tasmanien du nord de l'intérieur"
   - translation_iso: hin
     name: उत्तरी मिडलैंड्स तस्मानियाई
     auto: true

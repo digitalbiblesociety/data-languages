@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة كينيانغ
     auto: true
+  - translation_iso: fra
+    name: kenyang
   - translation_iso: hin
     name: केन्यांग
     auto: true

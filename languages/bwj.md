@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لاا لاا بوامو
     auto: true
+  - translation_iso: fra
+    name: bwamu laa
   - translation_iso: hin
     name: लाआ लाआ ब्वामु
     auto: true

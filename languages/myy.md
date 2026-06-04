@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماكونا
     auto: true
+  - translation_iso: fra
+    name: macuna
   - translation_iso: hin
     name: माकुना
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيمارا الجنوبية
     auto: true
+  - translation_iso: fra
+    name: aymara du Sud
   - translation_iso: hin
     name: दक्षिणी आयमारा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أندغيريبينيا
     auto: true
+  - translation_iso: fra
+    name: andegerebinha
   - translation_iso: hin
     name: अंदेगेरेबिन्हा
     auto: true

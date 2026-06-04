@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: بسّاري
     auto: true
+  - translation_iso: fra
+    name: bassari
   - translation_iso: hin
     name: बस्सारी
     auto: true

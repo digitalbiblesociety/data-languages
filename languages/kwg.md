@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سارا كابا ديمي
     auto: true
+  - translation_iso: fra
+    name: sara kaba deme
   - translation_iso: hin
     name: सारा काबा देमे
     auto: true

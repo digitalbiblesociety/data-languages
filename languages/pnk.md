@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باوناكا
     auto: true
+  - translation_iso: fra
+    name: paunaka
   - translation_iso: hin
     name: पाउनाका
     auto: true

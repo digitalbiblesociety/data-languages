@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bavarian_language"
 translations:
   - translation_iso: ara
     name: البوارية
+  - translation_iso: fra
+    name: bavarois
   - translation_iso: hin
     name: बोआरिश्च भाषा
   - translation_iso: jpn

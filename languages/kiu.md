@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة كرمانجكي
     auto: true
+  - translation_iso: fra
+    name: Kırmancki
   - translation_iso: hin
     name: किरमांजकी
     auto: true

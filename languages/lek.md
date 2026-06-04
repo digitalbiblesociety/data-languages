@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ييپون
     auto: true
+  - translation_iso: fra
+    name: leipon
   - translation_iso: hin
     name: लेइपोन
     auto: true

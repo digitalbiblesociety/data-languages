@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: غورينغ
     auto: true
+  - translation_iso: fra
+    name: goreng
   - translation_iso: hin
     name: गोरेंग
     auto: true

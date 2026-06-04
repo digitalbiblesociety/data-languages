@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاييلي
     auto: true
+  - translation_iso: fra
+    name: kayeli
   - translation_iso: hin
     name: कायेली
     auto: true

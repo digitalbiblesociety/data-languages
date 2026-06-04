@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Silt%CA%BCe_language"
 translations:
   - translation_iso: ara
     name: السلتية (لغة)
+  - translation_iso: fra
+    name: silt’e
   - translation_iso: hin
     name: सिल्ते
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غآفآر
     auto: true
+  - translation_iso: fra
+    name: gawar
   - translation_iso: hin
     name: गावर
     auto: true

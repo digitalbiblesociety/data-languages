@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيبانغ
     auto: true
+  - translation_iso: fra
+    name: ibanag
   - translation_iso: hin
     name: इबानाग
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دوسون ويتو
     auto: true
+  - translation_iso: fra
+    name: dusun witu
   - translation_iso: hin
     name: दुसुन विटु
     auto: true

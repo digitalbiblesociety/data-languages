@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بايْجو
     auto: true
+  - translation_iso: fra
+    name: baeggu
   - translation_iso: hin
     name: बैगु
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكاكينتي
     auto: true
+  - translation_iso: fra
+    name: caquinte
   - translation_iso: hin
     name: कैक्विंटे
   - translation_iso: jpn

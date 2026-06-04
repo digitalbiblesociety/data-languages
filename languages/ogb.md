@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوغبيا
     auto: true
+  - translation_iso: fra
+    name: ogbia
   - translation_iso: hin
     name: ओग्बिया
     auto: true

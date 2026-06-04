@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ألاك
     auto: true
+  - translation_iso: fra
+    name: Alak
+    auto: true
   - translation_iso: hin
     name: अलक
     auto: true

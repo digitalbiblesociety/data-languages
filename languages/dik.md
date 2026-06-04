@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ساوثويسترن دينكا
     auto: true
+  - translation_iso: fra
+    name: dinka du Sud-Ouest
   - translation_iso: hin
     name: दक्षिण-पश्चिमी डिंका
     auto: true

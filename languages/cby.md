@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكاراباو
     auto: true
+  - translation_iso: fra
+    name: carabayo
   - translation_iso: hin
     name: काराबायो
     auto: true

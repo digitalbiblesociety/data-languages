@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك لوكسيتشا
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Loxicha
   - translation_iso: hin
     name: लोक्सिचा ज़ापोटेक
     auto: true

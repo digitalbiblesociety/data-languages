@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: اللغة الحيثية القديمة
     auto: true
+  - translation_iso: fra
+    name: ancien hittite
   - translation_iso: hin
     name: प्राचीन हित्ती
     auto: true

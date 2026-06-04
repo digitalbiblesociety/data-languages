@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كارابورو الشرقية
     auto: true
+  - translation_iso: fra
+    name: kar
   - translation_iso: hin
     name: पूर्वी काराबोरो
     auto: true

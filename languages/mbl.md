@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماكساكالي
     auto: true
+  - translation_iso: fra
+    name: maxakali
   - translation_iso: hin
     name: माशाकाली
     auto: true

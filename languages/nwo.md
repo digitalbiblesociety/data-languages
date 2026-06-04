@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ناوو
     auto: true
+  - translation_iso: fra
+    name: Nauo
+    auto: true
   - translation_iso: hin
     name: नाउओ
     auto: true

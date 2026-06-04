@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Macedonian_language"
 translations:
   - translation_iso: ara
     name: المقدونية
+  - translation_iso: fra
+    name: macédonien
   - translation_iso: hin
     name: मेसिडोनियन भाषा
   - translation_iso: jpn

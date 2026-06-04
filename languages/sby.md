@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سولي
     auto: true
+  - translation_iso: fra
+    name: Soli
+    auto: true
   - translation_iso: hin
     name: सोली
     auto: true

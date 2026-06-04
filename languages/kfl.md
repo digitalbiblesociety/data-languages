@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كونغ
     auto: true
+  - translation_iso: fra
+    name: kung
   - translation_iso: hin
     name: कुंग
     auto: true

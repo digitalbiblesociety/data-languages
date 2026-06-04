@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة فوفا
     auto: true
+  - translation_iso: fra
+    name: phupha
   - translation_iso: hin
     name: फूफा
     auto: true

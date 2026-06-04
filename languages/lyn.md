@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ويانا
     auto: true
+  - translation_iso: fra
+    name: luyana
   - translation_iso: hin
     name: लुयाना
     auto: true

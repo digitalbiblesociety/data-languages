@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تونجونغ
     auto: true
+  - translation_iso: fra
+    name: tunjung
   - translation_iso: hin
     name: तुंजुंग
     auto: true

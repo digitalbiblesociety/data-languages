@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أوريمو
     auto: true
+  - translation_iso: fra
+    name: urimo
   - translation_iso: hin
     name: उरिमो
     auto: true

@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: اللغة يردليواراا
     auto: true
+  - translation_iso: fra
+    name: yardliyawarra
   - translation_iso: hin
     name: यार्डलियावारा
     auto: true

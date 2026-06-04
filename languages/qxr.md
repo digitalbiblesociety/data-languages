@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا كانيار الجبلية
     auto: true
+  - translation_iso: fra
+    name: quichua de Cañar
   - translation_iso: hin
     name: कान्यार हाइलैंड किचुआ
     auto: true

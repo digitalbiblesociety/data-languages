@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ماو ناجا
     auto: true
+  - translation_iso: fra
+    name: mao
   - translation_iso: hin
     name: माओ नागा
     auto: true

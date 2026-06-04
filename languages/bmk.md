@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غايافي
     auto: true
+  - translation_iso: fra
+    name: Ghayavi
+    auto: true
   - translation_iso: hin
     name: घयावी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك أوكوتلان
     auto: true
+  - translation_iso: fra
+    name: "zapotèque d'Ocotlán"
   - translation_iso: hin
     name: ओकोत्लान ज़ापोटेक
     auto: true

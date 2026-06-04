@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوليب
     auto: true
+  - translation_iso: fra
+    name: koalib
   - translation_iso: hin
     name: कोआलिब
     auto: true

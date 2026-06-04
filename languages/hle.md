@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هليرسو
     auto: true
+  - translation_iso: fra
+    name: hlersu
   - translation_iso: hin
     name: ह्लेरसू
     auto: true

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Nubian"
 translations:
   - translation_iso: ara
     name: النوبية القديمة
+  - translation_iso: fra
+    name: ancien nubien
   - translation_iso: hin
     name: पुरानी नूबियन
     auto: true

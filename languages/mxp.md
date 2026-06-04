@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تلاهويتولتيبيك ميكسي
     auto: true
+  - translation_iso: fra
+    name: mixe de Tlahuitoltepec
   - translation_iso: hin
     name: त्लाहुइतोलतेपेक मिक्से
     auto: true

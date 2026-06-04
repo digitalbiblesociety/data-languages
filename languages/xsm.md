@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاسيم
     auto: true
+  - translation_iso: fra
+    name: kassem
   - translation_iso: hin
     name: कासेम
     auto: true

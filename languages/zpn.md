@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتا إينس ياتزيتشي
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Santa Inés Yatzechi
   - translation_iso: hin
     name: सांता इनेस यात्ज़ेची सैपोटेक
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موموي
     auto: true
+  - translation_iso: fra
+    name: mumuye
   - translation_iso: hin
     name: मुमुये
     auto: true

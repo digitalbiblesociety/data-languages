@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة منجيسا
     auto: true
+  - translation_iso: fra
+    name: manguissa
   - translation_iso: hin
     name: मेंगिसा
     auto: true

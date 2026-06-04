@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chuvash_language"
 translations:
   - translation_iso: ara
     name: التشوفاشية
+  - translation_iso: fra
+    name: tchouvache
   - translation_iso: hin
     name: चुवाश भाषा
   - translation_iso: jpn

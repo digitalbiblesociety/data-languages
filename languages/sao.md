@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: سوسي
     auto: true
+  - translation_iso: fra
+    name: sause
   - translation_iso: hin
     name: साउसे
     auto: true

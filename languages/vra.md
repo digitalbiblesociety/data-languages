@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فيرا
     auto: true
+  - translation_iso: fra
+    name: "vera'a"
   - translation_iso: hin
     name: वेराआ
     auto: true

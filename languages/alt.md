@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Altai_language"
 translations:
   - translation_iso: ara
     name: الألطائية الجنوبية
+  - translation_iso: fra
+    name: altaï méridional
   - translation_iso: hin
     name: दक्षिणी अल्ताई
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوفي
     auto: true
+  - translation_iso: fra
+    name: kove
   - translation_iso: hin
     name: कोवे
     auto: true

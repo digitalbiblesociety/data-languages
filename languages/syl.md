@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sylheti_language"
 translations:
   - translation_iso: ara
     name: لغة سيلهيتية
+  - translation_iso: fra
+    name: sylheti
   - translation_iso: hin
     name: सिलेटी भाषा
   - translation_iso: jpn

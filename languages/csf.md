@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكوبية
     auto: true
+  - translation_iso: fra
+    name: langue des signes cubaine
   - translation_iso: hin
     name: क्यूबा सांकेतिक भाषा
     auto: true

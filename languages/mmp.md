@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة سياوي
     auto: true
+  - translation_iso: fra
+    name: siawi
   - translation_iso: hin
     name: सियावी
     auto: true

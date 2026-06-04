@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بايسو
     auto: true
+  - translation_iso: fra
+    name: baiso
   - translation_iso: hin
     name: बाइसो
     auto: true

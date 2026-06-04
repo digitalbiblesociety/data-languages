@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نغوم
     auto: true
+  - translation_iso: fra
+    name: ngom
   - translation_iso: hin
     name: नगोम
     auto: true

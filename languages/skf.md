@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ساكيرابيا
     auto: true
+  - translation_iso: fra
+    name: mekens
   - translation_iso: hin
     name: साकिराबिया
     auto: true

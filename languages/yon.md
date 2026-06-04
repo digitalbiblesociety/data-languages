@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يونغكوم
     auto: true
+  - translation_iso: fra
+    name: yonggom
   - translation_iso: hin
     name: योंगकोम
     auto: true

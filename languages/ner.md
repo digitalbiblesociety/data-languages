@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ياهاديان
     auto: true
+  - translation_iso: fra
+    name: Yahadian
+    auto: true
   - translation_iso: hin
     name: याहादियान
     auto: true

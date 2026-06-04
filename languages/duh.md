@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: دونجرا بيل
     auto: true
+  - translation_iso: fra
+    name: bhil de Dungra
   - translation_iso: hin
     name: डूंगरा भील
     auto: true

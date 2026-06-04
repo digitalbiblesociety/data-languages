@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مالي كيلينج
     auto: true
+  - translation_iso: fra
+    name: maleu-kilenge
   - translation_iso: hin
     name: मालेउ-किलेंगे
     auto: true

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Muisca_language"
 translations:
   - translation_iso: ara
     name: التشيبشا
+  - translation_iso: fra
+    name: muisca
   - translation_iso: hin
     name: चिब्चा
   - translation_iso: jpn

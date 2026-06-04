@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مانانغبا
     auto: true
+  - translation_iso: fra
+    name: manangba
   - translation_iso: hin
     name: मानांगबा
     auto: true

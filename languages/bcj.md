@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باردي
     auto: true
+  - translation_iso: fra
+    name: bardi
   - translation_iso: hin
     name: बार्डी
     auto: true

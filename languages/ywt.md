@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة زيشانبا لالو
     auto: true
+  - translation_iso: fra
+    name: lalo central
   - translation_iso: hin
     name: शीशानबा लालो
     auto: true

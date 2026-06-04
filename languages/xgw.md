@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غووا
     auto: true
+  - translation_iso: fra
+    name: guwa
   - translation_iso: hin
     name: गुवा
     auto: true

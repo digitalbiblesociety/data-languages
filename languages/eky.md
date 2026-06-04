@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كايا الشرقية
     auto: true
+  - translation_iso: fra
+    name: "kayah de l'Est"
   - translation_iso: hin
     name: पूर्वी कायाह
     auto: true

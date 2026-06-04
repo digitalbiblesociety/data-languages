@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أبار
     auto: true
+  - translation_iso: fra
+    name: mungbam
   - translation_iso: hin
     name: अबार
     auto: true

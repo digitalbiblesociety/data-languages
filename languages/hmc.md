@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ هويشوي الوسطى
     auto: true
+  - translation_iso: fra
+    name: huishui central
   - translation_iso: hin
     name: मध्य हुइशुई ह्मोंग
     auto: true

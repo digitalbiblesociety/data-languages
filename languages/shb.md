@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نينام
     auto: true
+  - translation_iso: fra
+    name: ninam
   - translation_iso: hin
     name: निनाम
     auto: true

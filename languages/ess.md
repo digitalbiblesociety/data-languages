@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اليوبيك السيبيري الوسطى
     auto: true
+  - translation_iso: fra
+    name: yupik sibérien central
   - translation_iso: hin
     name: मध्य साइबेरियाई युपिक
     auto: true

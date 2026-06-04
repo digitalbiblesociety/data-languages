@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أغوانو
     auto: true
+  - translation_iso: fra
+    name: Aguano
+    auto: true
   - translation_iso: hin
     name: अगुआनो
     auto: true

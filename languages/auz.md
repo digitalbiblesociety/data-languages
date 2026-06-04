@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Uzbeki_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة قشقادریة
+  - translation_iso: fra
+    name: arabe ouzbèque
   - translation_iso: hin
     name: उज़्बेकी अरबी
     auto: true

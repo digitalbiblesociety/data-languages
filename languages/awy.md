@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة إديرا أويو
     auto: true
+  - translation_iso: fra
+    name: aghu d’Edera
   - translation_iso: hin
     name: एदेरा अव्यू
     auto: true

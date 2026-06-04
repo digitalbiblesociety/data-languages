@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ديويي
     auto: true
+  - translation_iso: fra
+    name: diuwe
   - translation_iso: hin
     name: दिउवे
     auto: true

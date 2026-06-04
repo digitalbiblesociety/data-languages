@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماداغاسكار تيساكا
     auto: true
+  - translation_iso: fra
+    name: antaisaka
   - translation_iso: hin
     name: तेसाका मलगासी
     auto: true

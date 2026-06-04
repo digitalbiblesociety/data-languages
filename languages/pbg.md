@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باراوخانو
     auto: true
+  - translation_iso: fra
+    name: agnou
   - translation_iso: hin
     name: पाराउहानो
     auto: true

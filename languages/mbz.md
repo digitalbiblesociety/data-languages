@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك أمولتيبك
     auto: true
+  - translation_iso: fra
+    name: "Mixtèque d'Amoltepec"
+    auto: true
   - translation_iso: hin
     name: अमोल्तेपेक मिश्तेक
     auto: true

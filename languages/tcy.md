@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tulu_language"
 translations:
   - translation_iso: ara
     name: لغة تولو
+  - translation_iso: fra
+    name: toulou
   - translation_iso: hin
     name: तुलु
   - translation_iso: jpn

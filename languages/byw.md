@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلْهاريْيا
     auto: true
+  - translation_iso: fra
+    name: belhariya
   - translation_iso: hin
     name: बेल्हरिया
     auto: true

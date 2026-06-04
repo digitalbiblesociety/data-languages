@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ميفاع تلاكواپا
     auto: true
+  - translation_iso: fra
+    name: Tlapanèque de Tlacoapa
+    auto: true
   - translation_iso: hin
     name: त्लाकोआपा मेफा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أونا
     auto: true
+  - translation_iso: fra
+    name: una
   - translation_iso: hin
     name: उना
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جيامو
     auto: true
+  - translation_iso: fra
+    name: jiamao
   - translation_iso: hin
     name: जियामाओ
     auto: true

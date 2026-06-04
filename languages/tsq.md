@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التايلندية
     auto: true
+  - translation_iso: fra
+    name: Langue des signes thaïlandaise
+    auto: true
   - translation_iso: hin
     name: थाई सांकेतिक भाषा
   - translation_iso: jpn

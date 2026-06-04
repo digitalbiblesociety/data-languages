@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإيبوميك
     auto: true
+  - translation_iso: fra
+    name: eipo
   - translation_iso: hin
     name: एइपोमेक
     auto: true

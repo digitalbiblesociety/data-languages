@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تشيلتيبك تشينانتك
     auto: true
+  - translation_iso: fra
+    name: chinantèque de Chiltepec
   - translation_iso: hin
     name: चिल्टेपेक चिनान्टेक
     auto: true

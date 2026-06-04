@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غلآفدآ
     auto: true
+  - translation_iso: fra
+    name: glavda
   - translation_iso: hin
     name: ग्लाव्दा
     auto: true

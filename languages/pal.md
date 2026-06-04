@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Middle_Persian"
 translations:
   - translation_iso: ara
     name: الفهلوية
+  - translation_iso: fra
+    name: moyen-perse
   - translation_iso: hin
     name: मध्य फ़ारसी भाषा
   - translation_iso: jpn

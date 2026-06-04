@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Judeo-Moroccan_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة عربية يهودية مغربية
+  - translation_iso: fra
+    name: judéo-marocain
   - translation_iso: hin
     name: यहूदी-मोरक्कन अरबी
     auto: true

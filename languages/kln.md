@@ -13,6 +13,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kalenjin_languages"
 translations:
   - translation_iso: ara
     name: الكالنجينية
+  - translation_iso: fra
+    name: langues kalenjin
   - translation_iso: hin
     name: कलेंजिन
   - translation_iso: jpn

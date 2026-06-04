@@ -17,6 +17,8 @@ glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid 
 translations:
   - translation_iso: ara
     name: ماخاوا-ميتو
+  - translation_iso: fra
+    name: makua-meetto
   - translation_iso: hin
     name: मैखुवा-मीट्टो
   - translation_iso: jpn

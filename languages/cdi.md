@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشودري
     auto: true
+  - translation_iso: fra
+    name: Chodri
+    auto: true
   - translation_iso: hin
     name: चोधरी
     auto: true

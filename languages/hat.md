@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Haitian_Creole"
 translations:
   - translation_iso: ara
     name: الكريولية الهايتية
+  - translation_iso: fra
+    name: créole haïtien
   - translation_iso: hin
     name: हैतियाई क्रियोल
   - translation_iso: jpn

@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: جايتماتانج
     auto: true
+  - translation_iso: fra
+    name: jaitmatang
   - translation_iso: hin
     name: जैतमतांग
     auto: true

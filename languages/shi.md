@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shilha_language"
 translations:
   - translation_iso: ara
     name: الشلحية
+  - translation_iso: fra
+    name: chleuh
   - translation_iso: hin
     name: तैचेल्हित
   - translation_iso: jpn

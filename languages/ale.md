@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aleut_language"
 translations:
   - translation_iso: ara
     name: الأليوتية
+  - translation_iso: fra
+    name: aléoute
   - translation_iso: hin
     name: अलेउत
   - translation_iso: jpn

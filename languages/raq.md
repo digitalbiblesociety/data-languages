@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: سام
     auto: true
+  - translation_iso: fra
+    name: saam
   - translation_iso: hin
     name: साम
     auto: true

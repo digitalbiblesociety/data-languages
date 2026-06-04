@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تريينيتاريو
     auto: true
+  - translation_iso: fra
+    name: trinitario
   - translation_iso: hin
     name: त्रिनितारियो
     auto: true

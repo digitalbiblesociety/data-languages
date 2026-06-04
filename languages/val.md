@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فيهس
     auto: true
+  - translation_iso: fra
+    name: vehes
   - translation_iso: hin
     name: वेहेस
     auto: true

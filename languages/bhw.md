@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بياك
     auto: true
+  - translation_iso: fra
+    name: biak
   - translation_iso: hin
     name: बियाक
     auto: true

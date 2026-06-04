@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة إيكليب
     auto: true
+  - translation_iso: fra
+    name: aiklep
   - translation_iso: hin
     name: ऐक्लेप
     auto: true

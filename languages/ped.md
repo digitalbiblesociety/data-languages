@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة مالا
     auto: true
+  - translation_iso: fra
+    name: mala
   - translation_iso: hin
     name: माला (पापुआ न्यू गिनी)
     auto: true

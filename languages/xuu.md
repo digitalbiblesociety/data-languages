@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كسو
     auto: true
+  - translation_iso: fra
+    name: khwe
   - translation_iso: hin
     name: क्ख्वे
     auto: true

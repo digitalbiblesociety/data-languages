@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أربوري
     auto: true
+  - translation_iso: fra
+    name: arboré
   - translation_iso: hin
     name: अर्बोरे
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الألبانية الأربريشية
     auto: true
+  - translation_iso: fra
+    name: arberèche
   - translation_iso: hin
     name: अर्बेरेश अल्बानियाई
     auto: true

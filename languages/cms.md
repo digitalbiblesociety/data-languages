@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الميسابي
     auto: true
+  - translation_iso: fra
+    name: messapien
   - translation_iso: hin
     name: मेसापिक
     auto: true

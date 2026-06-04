@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ماي براتن
     auto: true
+  - translation_iso: fra
+    name: mai brat
   - translation_iso: hin
     name: माई ब्रात
     auto: true

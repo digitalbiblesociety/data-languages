@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة كالانغا
     auto: true
+  - translation_iso: fra
+    name: kalanga
   - translation_iso: hin
     name: कलंगा
     auto: true

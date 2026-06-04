@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: نيمادي
     auto: true
+  - translation_iso: fra
+    name: Nimadi
+    auto: true
   - translation_iso: hin
     name: निमाड़ी
   - translation_iso: jpn

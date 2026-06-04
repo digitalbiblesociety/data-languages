@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تامنيم تسيتاك
     auto: true
+  - translation_iso: fra
+    name: citak tamnim
   - translation_iso: hin
     name: तामनिम चिताक
     auto: true

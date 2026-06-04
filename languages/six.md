@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السومو
     auto: true
+  - translation_iso: fra
+    name: Sumau
+    auto: true
   - translation_iso: hin
     name: सुमाउ
     auto: true

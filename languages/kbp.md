@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كابياه
     auto: true
+  - translation_iso: fra
+    name: kabiyé
   - translation_iso: hin
     name: काबिये
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northern_Sotho"
 translations:
   - translation_iso: ara
     name: لغة سوثو شمالية
+  - translation_iso: fra
+    name: sotho du Nord
   - translation_iso: hin
     name: उत्तरी सोथो
   - translation_iso: jpn

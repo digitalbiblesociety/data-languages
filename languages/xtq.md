@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توموشوكيزي
     auto: true
+  - translation_iso: fra
+    name: Tumshuqais
+    auto: true
   - translation_iso: hin
     name: तुमशुकीज़
     auto: true

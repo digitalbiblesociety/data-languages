@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماكاه
     auto: true
+  - translation_iso: fra
+    name: makah
   - translation_iso: hin
     name: माकाह
     auto: true

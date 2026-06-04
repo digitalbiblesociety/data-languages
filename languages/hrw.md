@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: وارور فيني
     auto: true
+  - translation_iso: fra
+    name: Warwar Feni
+    auto: true
   - translation_iso: hin
     name: वारवार फेनी
     auto: true

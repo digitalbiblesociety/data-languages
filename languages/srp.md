@@ -13,6 +13,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Serbian_language"
 translations:
   - translation_iso: ara
     name: الصربية
+  - translation_iso: fra
+    name: serbe
   - translation_iso: hin
     name: सर्बियाई भाषा
   - translation_iso: jpn

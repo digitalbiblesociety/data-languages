@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة اللويه
     auto: true
+  - translation_iso: fra
+    name: lü
   - translation_iso: hin
     name: ताई लुए भाषा
   - translation_iso: jpn

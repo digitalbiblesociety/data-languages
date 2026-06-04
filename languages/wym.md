@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فيلاموفيان
     auto: true
+  - translation_iso: fra
+    name: wilamowicien
   - translation_iso: hin
     name: विमिसोरिस
     auto: true

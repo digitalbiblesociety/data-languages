@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيتان
     auto: true
+  - translation_iso: fra
+    name: khitan
   - translation_iso: hin
     name: ख़ितानी भाषा
   - translation_iso: jpn

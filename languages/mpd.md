@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماتشينري
     auto: true
+  - translation_iso: fra
+    name: machinere
   - translation_iso: hin
     name: माचिनेरे
     auto: true

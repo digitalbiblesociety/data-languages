@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تومبيلالا
     auto: true
+  - translation_iso: fra
+    name: tombelala
   - translation_iso: hin
     name: तोंबेलाला
     auto: true

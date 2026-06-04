@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جودوف-جافا
     auto: true
+  - translation_iso: fra
+    name: guduf-Gava
   - translation_iso: hin
     name: गुडुफ-गावा
     auto: true

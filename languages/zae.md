@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك يارني
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Yareni
   - translation_iso: hin
     name: यारेनी ज़ापोटेक
     auto: true

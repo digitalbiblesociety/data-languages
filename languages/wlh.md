@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ويلاونر
     auto: true
+  - translation_iso: fra
+    name: Welaun
+    auto: true
   - translation_iso: hin
     name: वेलाउन
     auto: true

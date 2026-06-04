@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يپو
     auto: true
+  - translation_iso: fra
+    name: lipo
   - translation_iso: hin
     name: लिपो
     auto: true

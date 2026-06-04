@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Palauan_language"
 translations:
   - translation_iso: ara
     name: البالاوية
+  - translation_iso: fra
+    name: palau
   - translation_iso: hin
     name: पलोउआन
   - translation_iso: jpn

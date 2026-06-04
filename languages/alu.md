@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة آري آري
     auto: true
+  - translation_iso: fra
+    name: "'are'are"
   - translation_iso: hin
     name: आरे आरे
     auto: true
@@ -26,7 +28,7 @@ translations:
   - translation_iso: kor
     name: 아레아레어
   - translation_iso: spa
-    name: "'Are'are"
+    name: "Are'are"
   - translation_iso: zho
     name: 阿瑞亚瑞语
     auto: true

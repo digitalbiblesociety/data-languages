@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيرا
     auto: true
+  - translation_iso: fra
+    name: tera
   - translation_iso: hin
     name: तेरा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رانجكاس
     auto: true
+  - translation_iso: fra
+    name: rangkas
   - translation_iso: hin
     name: रंगस भाषा
   - translation_iso: jpn

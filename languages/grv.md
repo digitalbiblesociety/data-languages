@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كإنترآل غرإبو
     auto: true
+  - translation_iso: fra
+    name: grebo central
   - translation_iso: hin
     name: मध्य ग्रेबो
     auto: true

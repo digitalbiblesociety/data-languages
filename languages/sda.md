@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توراجا سادان
     auto: true
+  - translation_iso: fra
+    name: "sa'dan-toraja"
   - translation_iso: hin
     name: तोराजा-सादान
     auto: true

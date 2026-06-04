@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة تشيانج الجنوبية
     auto: true
+  - translation_iso: fra
+    name: qiang du Sud
   - translation_iso: hin
     name: दक्षिणी छ्यांग
     auto: true

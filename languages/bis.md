@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bislama"
 translations:
   - translation_iso: ara
     name: لغة بسلاما
+  - translation_iso: fra
+    name: bichelamar
   - translation_iso: hin
     name: बिस्लामा
   - translation_iso: jpn

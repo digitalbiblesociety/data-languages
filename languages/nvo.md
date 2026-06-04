@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نييوكون
     auto: true
+  - translation_iso: fra
+    name: nyokon
   - translation_iso: hin
     name: न्योकोन
     auto: true

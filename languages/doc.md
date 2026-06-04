@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نورثرن دونج
     auto: true
+  - translation_iso: fra
+    name: kam du Nord
   - translation_iso: hin
     name: उत्तरी डोंग
     auto: true

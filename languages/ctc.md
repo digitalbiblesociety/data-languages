@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: الشيتكو
     auto: true
+  - translation_iso: fra
+    name: Chetco
+    auto: true
   - translation_iso: hin
     name: चेट्को
     auto: true

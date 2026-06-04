@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موفو جودور
     auto: true
+  - translation_iso: fra
+    name: mofu-gudur
   - translation_iso: hin
     name: मोफू-गुडुर
   - translation_iso: jpn

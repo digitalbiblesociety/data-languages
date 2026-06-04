@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إمرويغ
     auto: true
+  - translation_iso: fra
+    name: Imroing
+    auto: true
   - translation_iso: hin
     name: इमरोइंग
     auto: true

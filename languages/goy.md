@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غووندو
     auto: true
+  - translation_iso: fra
+    name: goundo
   - translation_iso: hin
     name: गुंडो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كانجيا
     auto: true
+  - translation_iso: fra
+    name: kangjia
   - translation_iso: hin
     name: कांगजिया
     auto: true

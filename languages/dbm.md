@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: دوجوري
     auto: true
+  - translation_iso: fra
+    name: Duguri
+    auto: true
   - translation_iso: hin
     name: दुगुरी
     auto: true

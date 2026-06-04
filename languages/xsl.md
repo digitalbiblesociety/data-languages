@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ديني كيه
     auto: true
+  - translation_iso: fra
+    name: denetaca
   - translation_iso: hin
     name: दक्षिणी स्लेवी
     auto: true

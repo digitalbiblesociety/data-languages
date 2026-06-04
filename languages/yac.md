@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: باس فالي يالي
     auto: true
+  - translation_iso: fra
+    name: yali de Pass Valley
   - translation_iso: hin
     name: पास वैली याली
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة اكي يووك
     auto: true
+  - translation_iso: fra
+    name: miwok du lac
   - translation_iso: hin
     name: लेक मिवोक
     auto: true

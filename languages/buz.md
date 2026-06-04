@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوكْويْن
     auto: true
+  - translation_iso: fra
+    name: Bukwen
+    auto: true
   - translation_iso: hin
     name: बुकवेन
     auto: true

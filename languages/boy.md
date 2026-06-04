@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بودو
     auto: true
+  - translation_iso: fra
+    name: bodo
   - translation_iso: hin
     name: बोडो (मध्य अफ़्रीकी गणराज्य)
     auto: true

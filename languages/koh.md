@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كويو
     auto: true
+  - translation_iso: fra
+    name: Koyo
+    auto: true
   - translation_iso: hin
     name: कोयो
     auto: true

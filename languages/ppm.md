@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابوما
     auto: true
+  - translation_iso: fra
+    name: papuma
   - translation_iso: hin
     name: पापुमा
     auto: true

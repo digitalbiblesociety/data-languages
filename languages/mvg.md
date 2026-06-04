@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك يوكويني
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Yucuañe
   - translation_iso: hin
     name: युकुआञे मिश्तेक
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك بينوتبا الوطنية
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Pinotepa Nacional
   - translation_iso: hin
     name: पिनोतेपा नासियोनाल मिश्तेक
     auto: true

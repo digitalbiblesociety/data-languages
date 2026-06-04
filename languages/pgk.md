@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ريريب
     auto: true
+  - translation_iso: fra
+    name: rerep
   - translation_iso: hin
     name: रेरेप
     auto: true

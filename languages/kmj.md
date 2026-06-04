@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كومارباج باهاريا
     auto: true
+  - translation_iso: fra
+    name: kumarbhag paharia
   - translation_iso: hin
     name: कुमारभाग पहाड़िया
     auto: true

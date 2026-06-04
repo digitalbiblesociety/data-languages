@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيكتيتيكو
     auto: true
+  - translation_iso: fra
+    name: tectitèque
   - translation_iso: hin
     name: टेक्टिटेको
     auto: true

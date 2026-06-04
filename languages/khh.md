@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة كيهو
     auto: true
+  - translation_iso: fra
+    name: keuw
   - translation_iso: hin
     name: केहू
     auto: true

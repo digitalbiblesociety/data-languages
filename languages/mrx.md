@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مارمجي
     auto: true
+  - translation_iso: fra
+    name: maremgi
   - translation_iso: hin
     name: मारेम्गी
     auto: true

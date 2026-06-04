@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وپا
     auto: true
+  - translation_iso: fra
+    name: Lopa
+    auto: true
   - translation_iso: hin
     name: लोपा
     auto: true

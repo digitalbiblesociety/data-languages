@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كاريارا
     auto: true
+  - translation_iso: fra
+    name: kariyarra
   - translation_iso: hin
     name: करियारा
     auto: true

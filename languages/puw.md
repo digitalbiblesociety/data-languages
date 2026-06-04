@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بولوواتسي
     auto: true
+  - translation_iso: fra
+    name: puluwat
   - translation_iso: hin
     name: पुलुवात
     auto: true

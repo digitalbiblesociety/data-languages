@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مبانغوي
     auto: true
+  - translation_iso: fra
+    name: Mbangwe
+    auto: true
   - translation_iso: hin
     name: म्बांग्वे
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نييشي
     auto: true
+  - translation_iso: fra
+    name: nyishi
   - translation_iso: hin
     name: निशि भाषा
   - translation_iso: jpn

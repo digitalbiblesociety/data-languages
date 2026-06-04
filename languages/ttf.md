@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتوم
     auto: true
+  - translation_iso: fra
+    name: tuotomb
   - translation_iso: hin
     name: तुओतोम्ब
     auto: true

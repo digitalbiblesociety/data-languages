@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باندي
     auto: true
+  - translation_iso: fra
+    name: gbande
   - translation_iso: hin
     name: बांदी
     auto: true

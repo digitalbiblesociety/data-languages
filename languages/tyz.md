@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاي
     auto: true
+  - translation_iso: fra
+    name: tày
   - translation_iso: hin
     name: ताय
     auto: true

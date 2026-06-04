@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داجاري ديولا
     auto: true
+  - translation_iso: fra
+    name: dagaari dioula
   - translation_iso: hin
     name: दगारी दिउला
     auto: true

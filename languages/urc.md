@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أورننجانج
     auto: true
+  - translation_iso: fra
+    name: urningangg
   - translation_iso: hin
     name: उर्निंगंग
     auto: true

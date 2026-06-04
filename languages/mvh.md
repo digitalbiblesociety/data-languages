@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مولجي
     auto: true
+  - translation_iso: fra
+    name: Mulgi
+    auto: true
   - translation_iso: hin
     name: मुल्गी
     auto: true

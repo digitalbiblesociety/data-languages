@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أونوباهي
     auto: true
+  - translation_iso: fra
+    name: unubahe
   - translation_iso: hin
     name: उनुबाहे
     auto: true

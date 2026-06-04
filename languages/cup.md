@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكوپينو
     auto: true
+  - translation_iso: fra
+    name: cupeño
   - translation_iso: hin
     name: कुपेन्यो
     auto: true

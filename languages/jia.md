@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جينا
     auto: true
+  - translation_iso: fra
+    name: jina
   - translation_iso: hin
     name: जिना
     auto: true

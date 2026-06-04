@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماتال
     auto: true
+  - translation_iso: fra
+    name: mouktélé
   - translation_iso: hin
     name: माताल
     auto: true

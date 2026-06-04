@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chipewyan_language"
 translations:
   - translation_iso: ara
     name: الشيباوايان
+  - translation_iso: fra
+    name: chipewyan
   - translation_iso: hin
     name: शिपेव्यान
   - translation_iso: jpn

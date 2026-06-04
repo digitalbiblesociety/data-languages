@@ -11,6 +11,8 @@ longitude: -122.13777
 translations:
   - translation_iso: ara
     name: سنوهوميش
+  - translation_iso: fra
+    name: snohomish
   - translation_iso: hin
     name: स्नोहोमिश
   - translation_iso: jpn

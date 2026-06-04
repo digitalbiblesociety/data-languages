@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Avar_language"
 translations:
   - translation_iso: ara
     name: الأوارية
+  - translation_iso: fra
+    name: avar
   - translation_iso: hin
     name: अवेरिक
   - translation_iso: jpn

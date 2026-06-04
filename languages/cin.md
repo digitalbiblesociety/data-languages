@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سينتا لارغا
     auto: true
+  - translation_iso: fra
+    name: cinta larga
   - translation_iso: hin
     name: सिंता लार्गा
     auto: true

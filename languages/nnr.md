@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نارونغا
     auto: true
+  - translation_iso: fra
+    name: narungga
   - translation_iso: hin
     name: नारुंग्गा
     auto: true

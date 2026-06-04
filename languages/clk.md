@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيدو-ميشمي
     auto: true
+  - translation_iso: fra
+    name: idu mishmi
   - translation_iso: hin
     name: इदु मिश्मी भाषा
   - translation_iso: jpn

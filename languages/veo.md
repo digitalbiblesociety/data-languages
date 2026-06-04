@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فينتوريينو
     auto: true
+  - translation_iso: fra
+    name: chumash ventureño
   - translation_iso: hin
     name: वेन्तुरेन्यो
     auto: true

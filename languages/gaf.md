@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجيند
     auto: true
+  - translation_iso: fra
+    name: gende
   - translation_iso: hin
     name: गेन्डे
     auto: true

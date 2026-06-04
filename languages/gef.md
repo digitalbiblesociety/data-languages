@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: جيراي
     auto: true
+  - translation_iso: fra
+    name: Gerai
+    auto: true
   - translation_iso: hin
     name: गेराई
     auto: true

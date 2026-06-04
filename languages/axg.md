@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرارا ماتو جروسو
     auto: true
+  - translation_iso: fra
+    name: arara de Mato Grosso
   - translation_iso: hin
     name: माटो ग्रोसो अरारा
     auto: true

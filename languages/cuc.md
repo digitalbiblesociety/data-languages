@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوسيلا تشينانتك
     auto: true
+  - translation_iso: fra
+    name: chinantèque d’Usila
   - translation_iso: hin
     name: उसीला चिनान्तेक
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سينا ملاوي
     auto: true
+  - translation_iso: fra
+    name: sena du Malawi
   - translation_iso: hin
     name: मलावी सेना
     auto: true

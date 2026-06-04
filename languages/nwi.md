@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تانا الجنوبية الغربية
     auto: true
+  - translation_iso: fra
+    name: tanna du Sud-Ouest
   - translation_iso: hin
     name: दक्षिण-पश्चिमी तन्ना
     auto: true

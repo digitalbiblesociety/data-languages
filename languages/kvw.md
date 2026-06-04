@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويرسنج
     auto: true
+  - translation_iso: fra
+    name: wersing
   - translation_iso: hin
     name: वर्सिंग
     auto: true

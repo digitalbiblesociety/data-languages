@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كاراوا
     auto: true
+  - translation_iso: fra
+    name: karawa
   - translation_iso: hin
     name: कारावा
     auto: true

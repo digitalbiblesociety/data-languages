@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تسامعي
     auto: true
+  - translation_iso: fra
+    name: tsamai
   - translation_iso: hin
     name: त्सामाई
     auto: true

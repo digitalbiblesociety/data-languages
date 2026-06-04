@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبي
     auto: true
+  - translation_iso: fra
+    name: "mbe'"
   - translation_iso: hin
     name: म्बे
     auto: true
@@ -25,7 +27,7 @@ translations:
     name: ムベ語
     auto: true
   - translation_iso: spa
-    name: "Mbe'"
+    name: Mbe
     auto: true
   - translation_iso: zho
     name: 姆贝语

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سامبالبوري
     auto: true
+  - translation_iso: fra
+    name: sambalpuri
   - translation_iso: hin
     name: सम्बलपुरी भाषा
   - translation_iso: jpn

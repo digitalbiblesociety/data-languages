@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نارانغو
     auto: true
+  - translation_iso: fra
+    name: narango
   - translation_iso: hin
     name: नारांगो
     auto: true

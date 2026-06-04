@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ننغا دمه دوغون
     auto: true
+  - translation_iso: fra
+    name: nanga
   - translation_iso: hin
     name: नांगा दामा दोगोन
     auto: true

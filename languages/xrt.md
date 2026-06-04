@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أرانما-تاميك
     auto: true
+  - translation_iso: fra
+    name: aranama
   - translation_iso: hin
     name: अरानामा-तामिक
     auto: true

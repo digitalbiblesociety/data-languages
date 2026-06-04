@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة بويناف
     auto: true
+  - translation_iso: fra
+    name: puinave
   - translation_iso: hin
     name: पुइनावे
     auto: true

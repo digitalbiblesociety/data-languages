@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: كافيت
     auto: true
+  - translation_iso: fra
+    name: kravet
   - translation_iso: hin
     name: कावेत
     auto: true

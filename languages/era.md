@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإيرافالان
     auto: true
+  - translation_iso: fra
+    name: eravalla
   - translation_iso: hin
     name: एरवल्लन
     auto: true

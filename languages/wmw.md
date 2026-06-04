@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مواني
     auto: true
+  - translation_iso: fra
+    name: mwani
   - translation_iso: hin
     name: म्वानी
     auto: true

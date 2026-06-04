@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Soninke_language"
 translations:
   - translation_iso: ara
     name: لغة سوننكية
+  - translation_iso: fra
+    name: soninké
   - translation_iso: hin
     name: सोनिन्के
   - translation_iso: jpn

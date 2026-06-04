@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة موندجكيب
     auto: true
+  - translation_iso: fra
+    name: mungkip
   - translation_iso: hin
     name: मुंगकिप
     auto: true

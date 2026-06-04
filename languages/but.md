@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بونْجايْن
     auto: true
+  - translation_iso: fra
+    name: bungain
   - translation_iso: hin
     name: बुंगाइन
     auto: true

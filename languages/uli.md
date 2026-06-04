@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: أوليثيان
     auto: true
+  - translation_iso: fra
+    name: ulithi
   - translation_iso: hin
     name: उलिथियन
     auto: true

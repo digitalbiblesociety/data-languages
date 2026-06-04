@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كونجا
     auto: true
+  - translation_iso: fra
+    name: Kunja
+    auto: true
   - translation_iso: hin
     name: कुंजा
     auto: true

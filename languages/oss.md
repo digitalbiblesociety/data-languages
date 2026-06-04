@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Iron_Ossetian"
 translations:
   - translation_iso: ara
     name: الأوسيتيك
+  - translation_iso: fra
+    name: iron
   - translation_iso: hin
     name: ओस्सेटिक
   - translation_iso: jpn

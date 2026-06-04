@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة نورثيست باشاي
     auto: true
+  - translation_iso: fra
+    name: pashai du Nord-Est
   - translation_iso: hin
     name: उत्तरपूर्वी पशाई
     auto: true

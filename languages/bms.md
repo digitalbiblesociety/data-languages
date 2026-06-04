@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيلما كانوري
     auto: true
+  - translation_iso: fra
+    name: Kanouri de Bilma
+    auto: true
   - translation_iso: hin
     name: बिल्मा कानुरी
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كانيتي
     auto: true
+  - translation_iso: fra
+    name: Kanite
+    auto: true
   - translation_iso: hin
     name: कनिते
     auto: true

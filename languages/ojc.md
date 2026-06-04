@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Central_Ojibwa_language"
 translations:
   - translation_iso: ara
     name: أوجيبوا الوسطى
+  - translation_iso: fra
+    name: ojibwé central
   - translation_iso: hin
     name: सेंट्रल ओजीब्वे
   - translation_iso: jpn

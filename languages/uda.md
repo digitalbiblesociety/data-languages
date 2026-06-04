@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أودا
     auto: true
+  - translation_iso: fra
+    name: uda
   - translation_iso: hin
     name: उदा
     auto: true

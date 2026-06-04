@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إفييآ
     auto: true
+  - translation_iso: fra
+    name: geviya
   - translation_iso: hin
     name: एविया
     auto: true

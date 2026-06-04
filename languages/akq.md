@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة آك
     auto: true
+  - translation_iso: fra
+    name: ak
   - translation_iso: hin
     name: अक
     auto: true

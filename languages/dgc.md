@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاسيجوران دوماجات أجتا
     auto: true
+  - translation_iso: fra
+    name: agta de Casiguran
   - translation_iso: hin
     name: कासिगुरान दुमागत आग्ता
     auto: true

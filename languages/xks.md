@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كومبيواها
     auto: true
+  - translation_iso: fra
+    name: kumbewaha
   - translation_iso: hin
     name: कुम्बेवाहा
     auto: true

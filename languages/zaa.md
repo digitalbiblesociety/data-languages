@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك سيرا دي خواريز
     auto: true
+  - translation_iso: fra
+    name: zapotèque de la Sierra de Juárez
   - translation_iso: hin
     name: सिएरा डे जुआरेज़ ज़ापोटेक
     auto: true

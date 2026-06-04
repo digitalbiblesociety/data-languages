@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مافا الشاد
     auto: true
+  - translation_iso: fra
+    name: mawa
   - translation_iso: hin
     name: मावा
     auto: true

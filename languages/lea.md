@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يجا-هابوندا
     auto: true
+  - translation_iso: fra
+    name: lega de Shabunda
   - translation_iso: hin
     name: लेगा-शाबुंदा
     auto: true

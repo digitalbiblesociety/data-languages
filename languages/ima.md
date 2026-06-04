@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مالا مالاسار
     auto: true
+  - translation_iso: fra
+    name: Mala Malasar
+    auto: true
   - translation_iso: hin
     name: माला मालासर
     auto: true

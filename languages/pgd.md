@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة غاندهارا
     auto: true
+  - translation_iso: fra
+    name: gāndhārī
   - translation_iso: hin
     name: गांधारी भाषा
   - translation_iso: jpn

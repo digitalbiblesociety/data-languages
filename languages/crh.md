@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Crimean_Tatar_language"
 translations:
   - translation_iso: ara
     name: تتارية القرم
+  - translation_iso: fra
+    name: tatar de Crimée
   - translation_iso: hin
     name: क्रीमीन तुर्की
   - translation_iso: jpn

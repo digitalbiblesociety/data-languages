@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا خاوخا وانكا
     auto: true
+  - translation_iso: fra
+    name: quechua jauja wanca
   - translation_iso: hin
     name: हाउहा वांका क्वेचुआ
     auto: true

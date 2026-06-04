@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فيدوندا
     auto: true
+  - translation_iso: fra
+    name: vidunda
   - translation_iso: hin
     name: विदुंडा
     auto: true

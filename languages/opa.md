@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوكبامهيري
     auto: true
+  - translation_iso: fra
+    name: okpamheri
   - translation_iso: hin
     name: ओक्पामहेरी
     auto: true

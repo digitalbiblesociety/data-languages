@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أويساي
     auto: true
+  - translation_iso: fra
+    name: uisai
   - translation_iso: hin
     name: उइसाई
     auto: true

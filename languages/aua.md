@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسومبوا
     auto: true
+  - translation_iso: fra
+    name: asumboa
   - translation_iso: hin
     name: असुम्बोआ
     auto: true

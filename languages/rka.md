@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كراول
     auto: true
+  - translation_iso: fra
+    name: kraol
   - translation_iso: hin
     name: क्राओल
     auto: true

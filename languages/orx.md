@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أورو
     auto: true
+  - translation_iso: fra
+    name: Oro
+    auto: true
   - translation_iso: hin
     name: ओरो
     auto: true

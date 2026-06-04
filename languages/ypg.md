@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة فولا
     auto: true
+  - translation_iso: fra
+    name: phola
   - translation_iso: hin
     name: फोला
     auto: true

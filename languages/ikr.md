@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيكارانغغال
     auto: true
+  - translation_iso: fra
+    name: ikarranggal
   - translation_iso: hin
     name: इकारंगगल
     auto: true

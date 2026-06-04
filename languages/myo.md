@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أنفيلو
     auto: true
+  - translation_iso: fra
+    name: anfillo
   - translation_iso: hin
     name: अनफिल्लो
     auto: true

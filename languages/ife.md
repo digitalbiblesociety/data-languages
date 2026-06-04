@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: إيفي
     auto: true
+  - translation_iso: fra
+    name: ifè
   - translation_iso: hin
     name: इफे
     auto: true

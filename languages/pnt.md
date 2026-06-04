@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pontic_Greek"
 translations:
   - translation_iso: ara
     name: يونانية البنطس
+  - translation_iso: fra
+    name: grec pontique
   - translation_iso: hin
     name: पोंटिक यूनानी
     auto: true

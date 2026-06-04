@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك تشيتشيكابان
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Chichicapan
   - translation_iso: hin
     name: चिचिकापन सैपोटेक
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كاننجرا
     auto: true
+  - translation_iso: fra
+    name: kaningra
   - translation_iso: hin
     name: कनिंग्रा
     auto: true

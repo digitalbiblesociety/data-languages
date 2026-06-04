@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ريل
     auto: true
+  - translation_iso: fra
+    name: reel
   - translation_iso: hin
     name: रील
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sasak_language"
 translations:
   - translation_iso: ara
     name: اللغة الساساكية
+  - translation_iso: fra
+    name: sasak
   - translation_iso: hin
     name: ससक भाषा
   - translation_iso: jpn

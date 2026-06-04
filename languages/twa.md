@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توانا
     auto: true
+  - translation_iso: fra
+    name: twana
   - translation_iso: hin
     name: ट्वाना
     auto: true

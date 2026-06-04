@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توتسا ناجا
     auto: true
+  - translation_iso: fra
+    name: Naga Tutsa
+    auto: true
   - translation_iso: hin
     name: तुत्सा नागा
     auto: true

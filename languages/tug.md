@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توينيا
     auto: true
+  - translation_iso: fra
+    name: tounia
   - translation_iso: hin
     name: तुनिया
     auto: true

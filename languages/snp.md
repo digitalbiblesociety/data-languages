@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيان
     auto: true
+  - translation_iso: fra
+    name: siane
   - translation_iso: hin
     name: सियाने
     auto: true

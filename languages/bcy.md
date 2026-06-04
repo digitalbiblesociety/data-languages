@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باكاما
     auto: true
+  - translation_iso: fra
+    name: bacama
   - translation_iso: hin
     name: बाकामा
     auto: true

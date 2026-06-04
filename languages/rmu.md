@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تافرينجر رومانية
     auto: true
+  - translation_iso: fra
+    name: Romani tavringer
+    auto: true
   - translation_iso: hin
     name: टावरिंगर रोमानी
     auto: true

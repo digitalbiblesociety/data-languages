@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوري
     auto: true
+  - translation_iso: fra
+    name: Uri
+    auto: true
   - translation_iso: hin
     name: उरी
     auto: true

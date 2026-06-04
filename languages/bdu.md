@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكو
     auto: true
+  - translation_iso: fra
+    name: oroko
   - translation_iso: hin
     name: ओरोको
     auto: true

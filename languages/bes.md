@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيسمي
     auto: true
+  - translation_iso: fra
+    name: besme
   - translation_iso: hin
     name: बेस्मे
     auto: true

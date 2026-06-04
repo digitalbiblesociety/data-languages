@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ميندريكو
     auto: true
+  - translation_iso: fra
+    name: minderico
   - translation_iso: hin
     name: मिंडेरिको
     auto: true

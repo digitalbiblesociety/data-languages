@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كورتي
     auto: true
+  - translation_iso: fra
+    name: kurti
   - translation_iso: hin
     name: कुर्ती
     auto: true

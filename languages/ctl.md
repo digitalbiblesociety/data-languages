@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تلاكواتزينتيبك تشينانتك
     auto: true
+  - translation_iso: fra
+    name: chinantèque de Tlacoatzintepec
   - translation_iso: hin
     name: त्लाकोआट्ज़िंतेपेक चिनान्टेक
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دانش ساين لانجويج
     auto: true
+  - translation_iso: fra
+    name: langue des signes danoise
   - translation_iso: hin
     name: डेनिश सांकेतिक भाषा
     auto: true

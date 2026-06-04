@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مارياموا
     auto: true
+  - translation_iso: fra
+    name: marriammu
   - translation_iso: hin
     name: मैरियाम्मु
     auto: true

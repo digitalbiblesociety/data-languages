@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توني بو أنجوستورس
     auto: true
+  - translation_iso: fra
+    name: "tunebo d'Angosturas"
   - translation_iso: hin
     name: अंगोस्तुरास तुनेबो
     auto: true

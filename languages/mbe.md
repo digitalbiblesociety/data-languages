@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة مولالي
     auto: true
+  - translation_iso: fra
+    name: molala
   - translation_iso: hin
     name: मोलाले
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانيوا
     auto: true
+  - translation_iso: fra
+    name: baniwa
   - translation_iso: hin
     name: बानिवा
     auto: true

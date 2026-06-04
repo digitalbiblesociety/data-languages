@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشوراهي
     auto: true
+  - translation_iso: fra
+    name: churahi
   - translation_iso: hin
     name: चुराही
   - translation_iso: jpn

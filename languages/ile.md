@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Interlingue"
 translations:
   - translation_iso: ara
     name: الغربية (لغة)
+  - translation_iso: fra
+    name: occidental
   - translation_iso: hin
     name: इंटरलिंगुई
   - translation_iso: jpn

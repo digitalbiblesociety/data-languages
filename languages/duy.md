@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديكاماي أجتا
     auto: true
+  - translation_iso: fra
+    name: Agta de Dicamay
+    auto: true
   - translation_iso: hin
     name: डिकामाय आग्ता
     auto: true

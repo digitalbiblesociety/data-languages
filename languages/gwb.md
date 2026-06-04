@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: غوآ
     auto: true
+  - translation_iso: fra
+    name: gwa
   - translation_iso: hin
     name: ग्वा
     auto: true

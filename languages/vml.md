@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مالجانا
     auto: true
+  - translation_iso: fra
+    name: malgana
   - translation_iso: hin
     name: मलगाना
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تونجاري
     auto: true
+  - translation_iso: fra
+    name: Tunggare
+    auto: true
   - translation_iso: hin
     name: तुंगगारे
     auto: true

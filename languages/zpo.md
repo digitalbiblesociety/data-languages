@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك أمتلان
     auto: true
+  - translation_iso: fra
+    name: "zapotèque d'Amatlán"
   - translation_iso: hin
     name: अमातलान सैपोटेक
     auto: true

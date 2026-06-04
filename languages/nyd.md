@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نييوري
     auto: true
+  - translation_iso: fra
+    name: lunyore
   - translation_iso: hin
     name: न्योरे
     auto: true

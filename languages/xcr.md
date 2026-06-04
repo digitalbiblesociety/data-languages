@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: كاريان
     auto: true
+  - translation_iso: fra
+    name: carien
   - translation_iso: hin
     name: कैरियन
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيتو
     auto: true
+  - translation_iso: fra
+    name: ito
   - translation_iso: hin
     name: इतो
     auto: true

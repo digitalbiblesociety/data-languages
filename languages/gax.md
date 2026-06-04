@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الأرومية بورانا-أرسي-غوجي
     auto: true
+  - translation_iso: fra
+    name: borana
   - translation_iso: hin
     name: बोराना-अर्सी-गुजी ओरोमो
     auto: true

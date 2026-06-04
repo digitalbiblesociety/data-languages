@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ligurian_language_(ancient)"
 translations:
   - translation_iso: ara
     name: اللغة الليغورية (القديمة)
+  - translation_iso: fra
+    name: ligure ancien
   - translation_iso: hin
     name: लिगुरियन (प्राचीन)
     auto: true

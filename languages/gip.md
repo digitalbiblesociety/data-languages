@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غيمي
     auto: true
+  - translation_iso: fra
+    name: gimi
   - translation_iso: hin
     name: गिमी (पश्चिमी न्यू ब्रिटेन)
     auto: true

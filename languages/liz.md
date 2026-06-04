@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يبينزا
     auto: true
+  - translation_iso: fra
+    name: libinza
   - translation_iso: hin
     name: लिबिंज़ा
     auto: true

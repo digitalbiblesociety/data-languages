@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشامْبري
     auto: true
+  - translation_iso: fra
+    name: chambri
   - translation_iso: hin
     name: चाम्ब्री
     auto: true

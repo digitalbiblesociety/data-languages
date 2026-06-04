@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوبوت
     auto: true
+  - translation_iso: fra
+    name: Bobot
+    auto: true
   - translation_iso: hin
     name: बोबोत
     auto: true

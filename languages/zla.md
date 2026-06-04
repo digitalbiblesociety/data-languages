@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: اللغة زولا
     auto: true
+  - translation_iso: fra
+    name: Zula
+    auto: true
   - translation_iso: hin
     name: ज़ुला
     auto: true

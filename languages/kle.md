@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كولونج
     auto: true
+  - translation_iso: fra
+    name: kulung
   - translation_iso: hin
     name: कुलुंग (नेपाल)
     auto: true

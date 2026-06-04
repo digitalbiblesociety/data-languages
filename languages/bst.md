@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باسْكيتو
     auto: true
+  - translation_iso: fra
+    name: basketo
   - translation_iso: hin
     name: बास्केटो
     auto: true

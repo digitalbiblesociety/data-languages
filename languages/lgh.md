@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة اجهوو
     auto: true
+  - translation_iso: fra
+    name: laghuu
   - translation_iso: hin
     name: लाघू
     auto: true

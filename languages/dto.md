@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تومو سو دوجون
     auto: true
+  - translation_iso: fra
+    name: tommo so
   - translation_iso: hin
     name: टोम्मो सो डोगोन
     auto: true

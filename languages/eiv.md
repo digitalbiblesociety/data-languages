@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الأسكوبان
     auto: true
+  - translation_iso: fra
+    name: Askopan
+    auto: true
   - translation_iso: hin
     name: अस्कोपान
     auto: true

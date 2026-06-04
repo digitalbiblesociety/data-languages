@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تجوباني
     auto: true
+  - translation_iso: fra
+    name: tjupany
   - translation_iso: hin
     name: चुपानी
     auto: true

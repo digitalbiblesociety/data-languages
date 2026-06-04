@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كويوتيبك تشينانتك
     auto: true
+  - translation_iso: fra
+    name: chinantèque de Quiotepec
   - translation_iso: hin
     name: किओतेपेक चिनान्तेक
     auto: true

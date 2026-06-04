@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يميريج
     auto: true
+  - translation_iso: fra
+    name: lemerig
   - translation_iso: hin
     name: लेमेरिग
     auto: true

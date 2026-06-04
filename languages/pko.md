@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوكوت
     auto: true
+  - translation_iso: fra
+    name: pökot
   - translation_iso: hin
     name: पोकोट
     auto: true

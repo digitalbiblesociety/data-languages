@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كامبايرا
     auto: true
+  - translation_iso: fra
+    name: kambaira
   - translation_iso: hin
     name: कम्बाइरा
     auto: true

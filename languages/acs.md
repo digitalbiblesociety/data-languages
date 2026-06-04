@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أكروآ
     auto: true
+  - translation_iso: fra
+    name: akroá-mirim
   - translation_iso: hin
     name: अक्रोआ
     auto: true

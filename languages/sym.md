@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مايا سامو
     auto: true
+  - translation_iso: fra
+    name: samo maya
   - translation_iso: hin
     name: माया सामो
     auto: true

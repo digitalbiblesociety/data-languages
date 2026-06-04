@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يو - ساندان
     auto: true
+  - translation_iso: fra
+    name: yau
   - translation_iso: hin
     name: याउ (सैंडौन प्रांत)
     auto: true

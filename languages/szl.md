@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Silesian_language"
 translations:
   - translation_iso: ara
     name: السيليزية
+  - translation_iso: fra
+    name: silésien
   - translation_iso: hin
     name: सिलेसियन भाषा
   - translation_iso: jpn

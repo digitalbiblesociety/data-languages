@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماهالي
     auto: true
+  - translation_iso: fra
+    name: mahali
   - translation_iso: hin
     name: माहाली
     auto: true

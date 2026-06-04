@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة خانا
     auto: true
+  - translation_iso: fra
+    name: khana
   - translation_iso: hin
     name: खाना
     auto: true

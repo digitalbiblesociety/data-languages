@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جادابا بودو
     auto: true
+  - translation_iso: fra
+    name: gutob
   - translation_iso: hin
     name: गुटोब भाषा
   - translation_iso: jpn

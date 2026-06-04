@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باموسو
     auto: true
+  - translation_iso: fra
+    name: Pamosu
+    auto: true
   - translation_iso: hin
     name: पामोसु
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة فراي پو كارين
     auto: true
+  - translation_iso: fra
+    name: pwo phrae
   - translation_iso: hin
     name: फ्राए पो करेन
     auto: true

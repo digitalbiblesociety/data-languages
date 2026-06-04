@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة سيبا
     auto: true
+  - translation_iso: fra
+    name: seba
   - translation_iso: hin
     name: सेबा
     auto: true

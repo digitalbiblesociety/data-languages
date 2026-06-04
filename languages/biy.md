@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيرهور
     auto: true
+  - translation_iso: fra
+    name: birhor
   - translation_iso: hin
     name: बिरहोर भाषा
   - translation_iso: jpn

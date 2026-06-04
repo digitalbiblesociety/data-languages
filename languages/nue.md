@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نغوندو
     auto: true
+  - translation_iso: fra
+    name: ngundu
   - translation_iso: hin
     name: न्गुंडु
     auto: true

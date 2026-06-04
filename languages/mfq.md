@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة مويا
     auto: true
+  - translation_iso: fra
+    name: moba
   - translation_iso: hin
     name: मोबा
     auto: true

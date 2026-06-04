@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإنجليزية الليبيرية
     auto: true
+  - translation_iso: fra
+    name: créole libérien
   - translation_iso: hin
     name: लाइबेरियाई अंग्रेज़ी
     auto: true

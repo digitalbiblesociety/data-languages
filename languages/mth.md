@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة موجي
     auto: true
+  - translation_iso: fra
+    name: Munggui
+    auto: true
   - translation_iso: hin
     name: मुंगुई
     auto: true

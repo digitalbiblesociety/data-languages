@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكوتي
     auto: true
+  - translation_iso: fra
+    name: koti
   - translation_iso: hin
     name: कोती
     auto: true

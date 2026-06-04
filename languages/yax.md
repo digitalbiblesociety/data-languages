@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: ياوما
     auto: true
+  - translation_iso: fra
+    name: yauma
   - translation_iso: hin
     name: यौमा
     auto: true

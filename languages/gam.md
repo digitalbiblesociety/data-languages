@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكاندوو
     auto: true
+  - translation_iso: fra
+    name: Kandawo
+    auto: true
   - translation_iso: hin
     name: कंदावो
     auto: true

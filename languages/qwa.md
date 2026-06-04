@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا كورونجو أنكاش
     auto: true
+  - translation_iso: fra
+    name: quechua ancash de Corongo
   - translation_iso: hin
     name: कोरोंगो आंकाश क्वेचुआ
     auto: true

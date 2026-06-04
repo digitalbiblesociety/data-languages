@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: والماجارري
     auto: true
+  - translation_iso: fra
+    name: walmajarri
   - translation_iso: hin
     name: वालमाजारी
     auto: true

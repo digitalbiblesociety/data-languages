@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ألوو
     auto: true
+  - translation_iso: fra
+    name: aluo
   - translation_iso: hin
     name: अलुओ
     auto: true

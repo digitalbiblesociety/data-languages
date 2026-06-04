@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Suret_language"
 translations:
   - translation_iso: ara
     name: لهجة آرامية آشورية حديثة
+  - translation_iso: fra
+    name: soureth
   - translation_iso: hin
     name: आशूरी भाषा
   - translation_iso: jpn

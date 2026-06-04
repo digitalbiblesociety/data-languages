@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أدانجبي
     auto: true
+  - translation_iso: fra
+    name: adangbe
   - translation_iso: hin
     name: अदांगबे
     auto: true

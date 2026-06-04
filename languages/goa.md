@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غورو
     auto: true
+  - translation_iso: fra
+    name: gouro
   - translation_iso: hin
     name: गुरो
     auto: true

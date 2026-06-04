@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: كاسكيان
     auto: true
+  - translation_iso: fra
+    name: kaskien
   - translation_iso: hin
     name: कास्कियन
     auto: true

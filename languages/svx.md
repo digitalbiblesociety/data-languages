@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: سكالفيان
     auto: true
+  - translation_iso: fra
+    name: skalvien
   - translation_iso: hin
     name: स्कालवियन
     auto: true

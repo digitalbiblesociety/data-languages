@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Turkish_language"
 translations:
   - translation_iso: ara
     name: التركية
+  - translation_iso: fra
+    name: turc
   - translation_iso: hin
     name: तुर्कीयाई भाषा
   - translation_iso: jpn

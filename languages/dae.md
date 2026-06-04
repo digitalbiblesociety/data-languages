@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الدوپا
     auto: true
+  - translation_iso: fra
+    name: duupa
   - translation_iso: hin
     name: दूपा
     auto: true

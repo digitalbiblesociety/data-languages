@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيك
     auto: true
+  - translation_iso: fra
+    name: keak
   - translation_iso: hin
     name: केआक
     auto: true

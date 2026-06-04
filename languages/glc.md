@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بون غولآ
     auto: true
+  - translation_iso: fra
+    name: bon goula
   - translation_iso: hin
     name: बोन गुला
     auto: true

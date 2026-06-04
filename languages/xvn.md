@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: فاندالية
     auto: true
+  - translation_iso: fra
+    name: vandale
   - translation_iso: hin
     name: वैंडलिक
     auto: true

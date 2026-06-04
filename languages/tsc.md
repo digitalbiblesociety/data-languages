@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تسوا
     auto: true
+  - translation_iso: fra
+    name: tswa
   - translation_iso: hin
     name: त्स्वा
     auto: true

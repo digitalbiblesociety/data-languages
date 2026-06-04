@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: رومانو صربي
     auto: true
+  - translation_iso: fra
+    name: romano-serbe
   - translation_iso: hin
     name: रोमानो-सर्बियाई
     auto: true

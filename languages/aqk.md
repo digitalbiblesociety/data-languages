@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنينكا
     auto: true
+  - translation_iso: fra
+    name: ninka
   - translation_iso: hin
     name: अनिन्का
     auto: true

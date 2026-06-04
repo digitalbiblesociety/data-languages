@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توللوا
     auto: true
+  - translation_iso: fra
+    name: tolowa
   - translation_iso: hin
     name: तोलोवा
     auto: true

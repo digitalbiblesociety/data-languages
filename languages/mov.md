@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موهافي
     auto: true
+  - translation_iso: fra
+    name: mojave
   - translation_iso: hin
     name: मोहावे
     auto: true

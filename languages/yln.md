@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة لانغنيان بويانج
     auto: true
+  - translation_iso: fra
+    name: buyang langjia
   - translation_iso: hin
     name: लांगनियान बुयांग
     auto: true

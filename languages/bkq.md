@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باكايري
     auto: true
+  - translation_iso: fra
+    name: bakairi
   - translation_iso: hin
     name: बकैरी
     auto: true

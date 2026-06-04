@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة خيه
     auto: true
+  - translation_iso: fra
+    name: khe
   - translation_iso: hin
     name: खे
     auto: true

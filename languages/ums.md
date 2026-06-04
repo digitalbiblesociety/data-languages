@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بندو
     auto: true
+  - translation_iso: fra
+    name: pendau
   - translation_iso: hin
     name: पेन्दाउ
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: باندا منتصف جنوبية
     auto: true
+  - translation_iso: fra
+    name: banda mi-méridional
   - translation_iso: hin
     name: मध्य-दक्षिणी बांदा
     auto: true

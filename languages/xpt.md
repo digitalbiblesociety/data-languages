@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: بونتاماتا
     auto: true
+  - translation_iso: fra
+    name: punthamara
   - translation_iso: hin
     name: पुन्थामारा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة شمال أمبريم
     auto: true
+  - translation_iso: fra
+    name: ambrym du Nord
   - translation_iso: hin
     name: उत्तरी अम्ब्रिम
     auto: true

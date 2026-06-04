@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فافسي
     auto: true
+  - translation_iso: fra
+    name: vafsi
   - translation_iso: hin
     name: वाफ्सी
     auto: true

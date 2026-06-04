@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تودا
     auto: true
+  - translation_iso: fra
+    name: toda
   - translation_iso: hin
     name: टोडा भाषा
   - translation_iso: jpn

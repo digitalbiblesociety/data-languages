@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بافاو-بالونج
     auto: true
+  - translation_iso: fra
+    name: bafaw-balong
   - translation_iso: hin
     name: बाफाव-बालोंग
     auto: true

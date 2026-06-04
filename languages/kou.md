@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوكي
     auto: true
+  - translation_iso: fra
+    name: koke
   - translation_iso: hin
     name: कोके
     auto: true

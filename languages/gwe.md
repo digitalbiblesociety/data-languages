@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوإنو
     auto: true
+  - translation_iso: fra
+    name: gweno
   - translation_iso: hin
     name: ग्वेनो
     auto: true

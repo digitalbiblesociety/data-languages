@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: تشاني
     auto: true
+  - translation_iso: fra
+    name: chané
   - translation_iso: hin
     name: चाने
     auto: true

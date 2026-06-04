@@ -16,6 +16,8 @@ glottolog_classification: "Haida > Southern Haida"
 translations:
   - translation_iso: ara
     name: هايدا الجنوبية
+  - translation_iso: fra
+    name: haïda du Sud
   - translation_iso: hin
     name: दक्षिणी हाइदा
   - translation_iso: jpn

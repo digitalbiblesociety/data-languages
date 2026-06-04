@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أموزجو إبالابا
     auto: true
+  - translation_iso: fra
+    name: "amuzgo d'Ipalapa"
   - translation_iso: hin
     name: इपालापा अमुज़गो
     auto: true

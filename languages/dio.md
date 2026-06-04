@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ديبو
     auto: true
+  - translation_iso: fra
+    name: Dibo
+    auto: true
   - translation_iso: hin
     name: डिबो
     auto: true

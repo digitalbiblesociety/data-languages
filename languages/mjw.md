@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاربي
     auto: true
+  - translation_iso: fra
+    name: karbi
   - translation_iso: hin
     name: कार्बी भाषा
   - translation_iso: jpn

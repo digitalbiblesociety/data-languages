@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوكولا
     auto: true
+  - translation_iso: fra
+    name: kokola
   - translation_iso: hin
     name: कोकोला
     auto: true

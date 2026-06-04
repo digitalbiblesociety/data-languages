@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أون
     auto: true
+  - translation_iso: fra
+    name: awun
   - translation_iso: hin
     name: अवुन
     auto: true

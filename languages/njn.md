@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ليانجمي ناجا
     auto: true
+  - translation_iso: fra
+    name: liangmai
   - translation_iso: hin
     name: लिआंगमई भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: شال زوال
     auto: true
+  - translation_iso: fra
+    name: shall-zwall
   - translation_iso: hin
     name: शाल-ज़्वाल
     auto: true

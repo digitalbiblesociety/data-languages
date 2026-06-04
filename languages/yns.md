@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يانسي
     auto: true
+  - translation_iso: fra
+    name: yansi
   - translation_iso: hin
     name: यांसी
     auto: true

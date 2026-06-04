@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة بان خور الإشارية
     auto: true
+  - translation_iso: fra
+    name: langue des signes de Ban Khor
   - translation_iso: hin
     name: बान खोर सांकेतिक भाषा
   - translation_iso: jpn

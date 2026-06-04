@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيبيهويتلا تيبيهوا
     auto: true
+  - translation_iso: fra
+    name: tepehua de Huehuetla
   - translation_iso: hin
     name: हुएहुएतला तेपेहुआ
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هونغ
     auto: true
+  - translation_iso: fra
+    name: hung
   - translation_iso: hin
     name: हुंग
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ميديبور
     auto: true
+  - translation_iso: fra
+    name: medebur
   - translation_iso: hin
     name: मेदेबुर
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أمايمون
     auto: true
+  - translation_iso: fra
+    name: amaimon
   - translation_iso: hin
     name: अमाइमोन
     auto: true

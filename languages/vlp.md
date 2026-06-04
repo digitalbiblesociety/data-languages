@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فالبي
     auto: true
+  - translation_iso: fra
+    name: valpei
   - translation_iso: hin
     name: वालपेई
     auto: true

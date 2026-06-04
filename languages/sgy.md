@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سانجليتشي
     auto: true
+  - translation_iso: fra
+    name: sangletchi
   - translation_iso: hin
     name: सांगलेची
     auto: true

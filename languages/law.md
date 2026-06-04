@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لاوجي
     auto: true
+  - translation_iso: fra
+    name: lauje
   - translation_iso: hin
     name: लाउजे
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوآ
     auto: true
+  - translation_iso: fra
+    name: gua
   - translation_iso: hin
     name: गुआ
     auto: true

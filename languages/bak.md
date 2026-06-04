@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bashkir_language"
 translations:
   - translation_iso: ara
     name: الباشقيرية
+  - translation_iso: fra
+    name: bachkir
   - translation_iso: hin
     name: बाश्किर भाषा
   - translation_iso: jpn

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الكوكيل
     auto: true
+  - translation_iso: fra
+    name: coquille
   - translation_iso: hin
     name: शंख
   - translation_iso: jpn

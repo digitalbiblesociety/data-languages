@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاناكانابو
     auto: true
+  - translation_iso: fra
+    name: kanakanabu
   - translation_iso: hin
     name: कनकनबू
     auto: true

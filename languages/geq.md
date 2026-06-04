@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غإمإ
     auto: true
+  - translation_iso: fra
+    name: gèmé
   - translation_iso: hin
     name: गेमे
     auto: true

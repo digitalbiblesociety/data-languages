@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مويانج
     auto: true
+  - translation_iso: fra
+    name: muong
   - translation_iso: hin
     name: मुओंग
     auto: true

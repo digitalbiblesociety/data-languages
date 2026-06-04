@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وياروموس
     auto: true
+  - translation_iso: fra
+    name: wiarumus
   - translation_iso: hin
     name: वियारुमुस
     auto: true

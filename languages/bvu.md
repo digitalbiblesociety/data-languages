@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بوكيت مالاي
     auto: true
+  - translation_iso: fra
+    name: Malais Bukit
+    auto: true
   - translation_iso: hin
     name: बुकित मलय
     auto: true

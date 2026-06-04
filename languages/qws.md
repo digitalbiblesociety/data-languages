@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا سيهواس أنكاش
     auto: true
+  - translation_iso: fra
+    name: quechua ancash de Sihuas
   - translation_iso: hin
     name: सिवास आंकाश क्वेचुआ
     auto: true

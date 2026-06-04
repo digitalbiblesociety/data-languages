@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك تشوابان
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Choapan
   - translation_iso: hin
     name: चोआपन सैपोटेक
     auto: true

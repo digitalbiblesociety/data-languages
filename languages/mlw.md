@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مولوكو
     auto: true
+  - translation_iso: fra
+    name: moloko
   - translation_iso: hin
     name: मोलोको
     auto: true

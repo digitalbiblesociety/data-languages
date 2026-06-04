@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tarifit"
 translations:
   - translation_iso: ara
     name: الريفية
+  - translation_iso: fra
+    name: rifain
   - translation_iso: hin
     name: तारिफित
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nenets_languages"
 translations:
   - translation_iso: ara
     name: لغات النينيتس
+  - translation_iso: fra
+    name: nénètse
   - translation_iso: hin
     name: नेनेट्स
     auto: true

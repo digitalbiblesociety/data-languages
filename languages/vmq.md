@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سويالتيبك ميكستيك
     auto: true
+  - translation_iso: fra
+    name: Mixtèque de Soyaltepec
+    auto: true
   - translation_iso: hin
     name: सोयाल्तेपेक मिश्तेक
     auto: true

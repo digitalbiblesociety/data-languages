@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مبيá غوآرآنí
     auto: true
+  - translation_iso: fra
+    name: mbyá
   - translation_iso: hin
     name: म्ब्या गुआरानी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زومي
     auto: true
+  - translation_iso: fra
+    name: zou
   - translation_iso: hin
     name: ज़ौ
     auto: true

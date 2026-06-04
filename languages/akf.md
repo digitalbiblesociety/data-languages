@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أكپا
     auto: true
+  - translation_iso: fra
+    name: akpa
   - translation_iso: hin
     name: अक्पा
     auto: true

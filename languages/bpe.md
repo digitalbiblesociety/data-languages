@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باوني
     auto: true
+  - translation_iso: fra
+    name: Bauni
+    auto: true
   - translation_iso: hin
     name: बाउनी
     auto: true

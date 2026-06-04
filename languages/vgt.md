@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فلامسي جيبارنتال
     auto: true
+  - translation_iso: fra
+    name: langue des signes flamande
   - translation_iso: hin
     name: फ्लेमिश सांकेतिक भाषा
     auto: true

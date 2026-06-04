@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وجو
     auto: true
+  - translation_iso: fra
+    name: logoti
   - translation_iso: hin
     name: लोगो
     auto: true

@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: كواندو
     auto: true
+  - translation_iso: fra
+    name: kwandu
   - translation_iso: hin
     name: क्वांडू
     auto: true

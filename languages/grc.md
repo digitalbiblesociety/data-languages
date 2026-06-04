@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ancient_Greek"
 translations:
   - translation_iso: ara
     name: الإغريقية
+  - translation_iso: fra
+    name: grec ancien
   - translation_iso: hin
     name: प्राचीन यूनानी भाषा
   - translation_iso: jpn

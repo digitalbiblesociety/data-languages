@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيو
     auto: true
+  - translation_iso: fra
+    name: néyo
   - translation_iso: hin
     name: नेयो
     auto: true

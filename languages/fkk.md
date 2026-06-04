@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كيريا-كونزول
     auto: true
+  - translation_iso: fra
+    name: kirya-konzel
   - translation_iso: hin
     name: किरया-कोन्ज़ेल
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: جزر ماسيلا الشرقية
     auto: true
+  - translation_iso: fra
+    name: "masela de l'Est"
   - translation_iso: hin
     name: पूर्वी मासेला
     auto: true

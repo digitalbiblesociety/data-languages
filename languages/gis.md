@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نورث غيزيغآ
     auto: true
+  - translation_iso: fra
+    name: guiziga du Nord
   - translation_iso: hin
     name: उत्तरी गिज़िगा
     auto: true

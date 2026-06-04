@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة يا اول
     auto: true
+  - translation_iso: fra
+    name: yaul
   - translation_iso: hin
     name: यौल
     auto: true

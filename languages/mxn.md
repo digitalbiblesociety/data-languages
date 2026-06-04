@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موي إندونيسيا
     auto: true
+  - translation_iso: fra
+    name: moï
   - translation_iso: hin
     name: मोई (इंडोनेशिया)
     auto: true

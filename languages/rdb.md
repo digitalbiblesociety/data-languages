@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: رودباري
     auto: true
+  - translation_iso: fra
+    name: rudbari
   - translation_iso: hin
     name: रुदबारी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايوت الشمالية
     auto: true
+  - translation_iso: fra
+    name: paiute du Nord
   - translation_iso: hin
     name: उत्तरी पाइयूट
     auto: true

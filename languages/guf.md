@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غوبآبوينجو
     auto: true
+  - translation_iso: fra
+    name: gupapuyngu
   - translation_iso: hin
     name: गुपापुयंगु
     auto: true

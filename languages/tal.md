@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تال
     auto: true
+  - translation_iso: fra
+    name: Tal
+    auto: true
   - translation_iso: hin
     name: ताल
     auto: true

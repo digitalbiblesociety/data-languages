@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيفو
     auto: true
+  - translation_iso: fra
+    name: ifo
   - translation_iso: hin
     name: इफो
     auto: true

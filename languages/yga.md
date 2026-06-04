@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: مالييانجابا
     auto: true
+  - translation_iso: fra
+    name: malyangapa
   - translation_iso: hin
     name: मल्यांगपा
     auto: true

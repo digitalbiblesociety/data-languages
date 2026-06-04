@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الدجيواري
     auto: true
+  - translation_iso: fra
+    name: djiwarli
   - translation_iso: hin
     name: जिवार्ली
     auto: true

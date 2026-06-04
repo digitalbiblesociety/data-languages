@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Coptic_language"
 translations:
   - translation_iso: ara
     name: القبطية
+  - translation_iso: fra
+    name: copte
   - translation_iso: hin
     name: कोप्टिक
   - translation_iso: jpn

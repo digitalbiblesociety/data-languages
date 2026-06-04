@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ساكابوليتيكو
     auto: true
+  - translation_iso: fra
+    name: sakapultèque
   - translation_iso: hin
     name: साकापुल्तेको
     auto: true

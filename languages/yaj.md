@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بندا-يانجيري
     auto: true
+  - translation_iso: fra
+    name: yangere
   - translation_iso: hin
     name: बंदा-यांगेरे
     auto: true

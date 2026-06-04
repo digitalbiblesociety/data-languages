@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bagirmi_Fulfulde"
 translations:
   - translation_iso: ara
     name: باقرمي فيلفيلد
+  - translation_iso: fra
+    name: Peul de Bagirmi
   - translation_iso: hin
     name: बागिर्मी फुलफुल्दे
     auto: true

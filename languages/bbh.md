@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوجان
     auto: true
+  - translation_iso: fra
+    name: pakan
   - translation_iso: hin
     name: बुगान
     auto: true

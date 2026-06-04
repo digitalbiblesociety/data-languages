@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بامبيا
     auto: true
+  - translation_iso: fra
+    name: pambia
   - translation_iso: hin
     name: पाम्बिया
     auto: true

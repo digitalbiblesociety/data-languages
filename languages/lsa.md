@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة اسجيردي
     auto: true
+  - translation_iso: fra
+    name: lasgerdi
   - translation_iso: hin
     name: लासगेर्दी
     auto: true

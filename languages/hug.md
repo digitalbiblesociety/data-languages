@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هواتشيبايري
     auto: true
+  - translation_iso: fra
+    name: huachipaeri
   - translation_iso: hin
     name: हुआचिपाएरी
     auto: true

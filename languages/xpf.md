@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاسماني الجنوبية الشرقية
     auto: true
+  - translation_iso: fra
+    name: nuenonne
   - translation_iso: hin
     name: दक्षिणपूर्वी तस्मानियाई
     auto: true

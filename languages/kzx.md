@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاماريان
     auto: true
+  - translation_iso: fra
+    name: kamarian
   - translation_iso: hin
     name: कामारियन
     auto: true

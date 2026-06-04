@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الدازا
     auto: true
+  - translation_iso: fra
+    name: Daza
+    auto: true
   - translation_iso: hin
     name: दाज़ा
     auto: true

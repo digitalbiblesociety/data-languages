@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وايماا
     auto: true
+  - translation_iso: fra
+    name: "waima'a"
   - translation_iso: hin
     name: वाइमा
     auto: true

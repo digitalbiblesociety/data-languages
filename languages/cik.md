@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشيتكولي كينوري
     auto: true
+  - translation_iso: fra
+    name: Chitkuli Kinnauri
+    auto: true
   - translation_iso: hin
     name: चितकुली किन्नौरी भाषा
   - translation_iso: jpn

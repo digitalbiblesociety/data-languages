@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أروب-سيسانو
     auto: true
+  - translation_iso: fra
+    name: arop-sissano
   - translation_iso: hin
     name: अरोप-सिसानो
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مولوريدي
     auto: true
+  - translation_iso: fra
+    name: muluridyi
   - translation_iso: hin
     name: मुलुरिद्यी
     auto: true

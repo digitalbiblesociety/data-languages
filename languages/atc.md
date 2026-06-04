@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتساهواكا
     auto: true
+  - translation_iso: fra
+    name: Atsahuaca
+    auto: true
   - translation_iso: hin
     name: अत्साहुआका
     auto: true

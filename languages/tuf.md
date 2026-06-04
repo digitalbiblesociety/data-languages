@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توني بو المركزية
     auto: true
+  - translation_iso: fra
+    name: tunebo central
   - translation_iso: hin
     name: मध्य तुनेबो
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تيتوانيا ثارو
     auto: true
+  - translation_iso: fra
+    name: tharu chitwania
   - translation_iso: hin
     name: चितवनिया थारू
     auto: true

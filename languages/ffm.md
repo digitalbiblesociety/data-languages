@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maasina_Fulfulde"
 translations:
   - translation_iso: ara
     name: اللغة الماسينية
+  - translation_iso: fra
+    name: peul de Maasina
   - translation_iso: hin
     name: मासीना फुलफुल्दे
     auto: true

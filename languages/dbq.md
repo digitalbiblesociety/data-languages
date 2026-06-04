@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دابا
     auto: true
+  - translation_iso: fra
+    name: daba
   - translation_iso: hin
     name: दाबा
     auto: true

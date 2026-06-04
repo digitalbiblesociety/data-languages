@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيبيهوا تلاتشيتشيلكو
     auto: true
+  - translation_iso: fra
+    name: tepehua de Tlachichilco
   - translation_iso: hin
     name: त्लाचिचिल्को तेपेहुआ
     auto: true

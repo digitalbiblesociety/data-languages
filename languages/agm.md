@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أنغاتاها
     auto: true
+  - translation_iso: fra
+    name: angaataha
   - translation_iso: hin
     name: अंगाताहा
     auto: true

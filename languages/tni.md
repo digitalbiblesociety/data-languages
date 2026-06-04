@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تانديا
     auto: true
+  - translation_iso: fra
+    name: tandia
   - translation_iso: hin
     name: तांदिया
     auto: true

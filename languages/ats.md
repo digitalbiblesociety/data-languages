@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة جروس فنتر
     auto: true
+  - translation_iso: fra
+    name: atsina
   - translation_iso: hin
     name: ग्रो वांत्र
     auto: true

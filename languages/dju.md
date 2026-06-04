@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كابريمان
     auto: true
+  - translation_iso: fra
+    name: kapriman
   - translation_iso: hin
     name: कप्रिमन
     auto: true

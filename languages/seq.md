@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينارا سينوفو
     auto: true
+  - translation_iso: fra
+    name: Sénoufo senara
+    auto: true
   - translation_iso: hin
     name: सेनारा सेनोफो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجال
     auto: true
+  - translation_iso: fra
+    name: gal
   - translation_iso: hin
     name: गाल
     auto: true

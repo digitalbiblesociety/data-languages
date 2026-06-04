@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كايوبولاو
     auto: true
+  - translation_iso: fra
+    name: kayupulau
   - translation_iso: hin
     name: कायुपुलाउ
     auto: true

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: سافوسافو
     auto: true
+  - translation_iso: fra
+    name: savosavo
   - translation_iso: hin
     name: सावोसावो
     auto: true

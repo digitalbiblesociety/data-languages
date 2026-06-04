@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نوكوورو
     auto: true
+  - translation_iso: fra
+    name: nukuoro
   - translation_iso: hin
     name: नुकुओरो
     auto: true

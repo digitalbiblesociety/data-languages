@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موندو
     auto: true
+  - translation_iso: fra
+    name: mundu
   - translation_iso: hin
     name: मुंदू
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رينجو
     auto: true
+  - translation_iso: fra
+    name: ringgou
   - translation_iso: hin
     name: रिंगगौ
     auto: true

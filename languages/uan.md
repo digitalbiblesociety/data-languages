@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوان
     auto: true
+  - translation_iso: fra
+    name: Kuan
+    auto: true
   - translation_iso: hin
     name: कुआन
     auto: true

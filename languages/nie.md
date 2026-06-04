@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيليم
     auto: true
+  - translation_iso: fra
+    name: niellim
   - translation_iso: hin
     name: नीएलिम
     auto: true

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: إنتيرغلوسا
     auto: true
+  - translation_iso: fra
+    name: interglossa
   - translation_iso: hin
     name: इंटरग्लोसा
     auto: true

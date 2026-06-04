@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماتينجو
     auto: true
+  - translation_iso: fra
+    name: matengo
   - translation_iso: hin
     name: मातेंगो
     auto: true

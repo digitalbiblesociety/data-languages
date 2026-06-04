@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة لاماهولوت
     auto: true
+  - translation_iso: fra
+    name: lamaholot
   - translation_iso: hin
     name: लामाहोलोत
     auto: true

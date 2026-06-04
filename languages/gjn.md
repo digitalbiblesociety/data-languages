@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غونجآ
     auto: true
+  - translation_iso: fra
+    name: gonja
   - translation_iso: hin
     name: गोंजा
     auto: true

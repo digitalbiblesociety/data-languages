@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اللغة بفالتسيش
     auto: true
+  - translation_iso: fra
+    name: palatin
   - translation_iso: hin
     name: फ़ाल्ज़िश
     auto: true

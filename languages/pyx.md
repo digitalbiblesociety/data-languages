@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيو (ميانمار)
     auto: true
+  - translation_iso: fra
+    name: Pyu (Myanmar)
+    auto: true
   - translation_iso: hin
     name: प्यू भाषा
   - translation_iso: jpn

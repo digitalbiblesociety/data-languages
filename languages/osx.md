@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الساكسونية القديمة
     auto: true
+  - translation_iso: fra
+    name: vieux saxon
   - translation_iso: hin
     name: पुरानी सैक्सन
     auto: true

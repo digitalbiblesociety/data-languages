@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Day_language"
 translations:
   - translation_iso: ara
     name: داي
+  - translation_iso: fra
+    name: day
   - translation_iso: hin
     name: डे
     auto: true

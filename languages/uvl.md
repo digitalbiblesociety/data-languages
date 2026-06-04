@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوتي
     auto: true
+  - translation_iso: fra
+    name: lote
   - translation_iso: hin
     name: लोते
     auto: true

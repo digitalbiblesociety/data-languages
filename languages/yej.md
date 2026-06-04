@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يفانيك
     auto: true
+  - translation_iso: fra
+    name: yévanique
   - translation_iso: hin
     name: येवानिक
     auto: true

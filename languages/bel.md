@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Belarusian_language"
 translations:
   - translation_iso: ara
     name: البيلاروسية
+  - translation_iso: fra
+    name: biélorusse
   - translation_iso: hin
     name: बेलारूसी भाषा
   - translation_iso: jpn

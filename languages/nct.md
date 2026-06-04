@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشوتي ناجا
     auto: true
+  - translation_iso: fra
+    name: Naga chothe
+    auto: true
   - translation_iso: hin
     name: चोथे नागा
     auto: true

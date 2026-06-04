@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإمبالوه
     auto: true
+  - translation_iso: fra
+    name: embaloh
   - translation_iso: hin
     name: एम्बालोह
     auto: true

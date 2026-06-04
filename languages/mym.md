@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مي إن
     auto: true
+  - translation_iso: fra
+    name: "me'en"
   - translation_iso: hin
     name: मेएन
     auto: true

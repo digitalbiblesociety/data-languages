@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتورو
     auto: true
+  - translation_iso: fra
+    name: totoró
   - translation_iso: hin
     name: तोतोरो
     auto: true

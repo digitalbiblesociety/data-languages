@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة مورو
     auto: true
+  - translation_iso: fra
+    name: moro
   - translation_iso: hin
     name: मोरो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوآرآيو
     auto: true
+  - translation_iso: fra
+    name: guarayo
   - translation_iso: hin
     name: गुआरायू
     auto: true

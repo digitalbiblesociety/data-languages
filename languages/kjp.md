@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة پو شرق كارين
     auto: true
+  - translation_iso: fra
+    name: "pwo de l'Est"
   - translation_iso: hin
     name: पूर्वी पो करेन
     auto: true

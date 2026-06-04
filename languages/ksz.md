@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوداكو
     auto: true
+  - translation_iso: fra
+    name: koraku
   - translation_iso: hin
     name: कोडाकू
     auto: true

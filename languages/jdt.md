@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يهودية تاتية
     auto: true
+  - translation_iso: fra
+    name: juhuri
   - translation_iso: hin
     name: यहूदी-तात भाषा
   - translation_iso: jpn

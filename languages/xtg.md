@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: جوليا ترانسالبينية
     auto: true
+  - translation_iso: fra
+    name: Gaulois transalpin
+    auto: true
   - translation_iso: hin
     name: ट्रांसएल्पाइन गॉलिश
     auto: true

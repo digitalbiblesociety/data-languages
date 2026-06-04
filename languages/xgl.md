@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: غاليندان
     auto: true
+  - translation_iso: fra
+    name: galindien
   - translation_iso: hin
     name: गलिंदाई
     auto: true

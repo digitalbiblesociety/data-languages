@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاسماني الشمالية الشرقية
     auto: true
+  - translation_iso: fra
+    name: pyemmairre
   - translation_iso: hin
     name: उत्तरपूर्वी तस्मानियाई
     auto: true

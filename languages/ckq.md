@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكاجاكي
     auto: true
+  - translation_iso: fra
+    name: kajakse
   - translation_iso: hin
     name: काजाक्से
     auto: true

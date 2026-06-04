@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kannada"
 translations:
   - translation_iso: ara
     name: الكنادية
+  - translation_iso: fra
+    name: kannara
   - translation_iso: hin
     name: कन्नड़ भाषा
   - translation_iso: jpn

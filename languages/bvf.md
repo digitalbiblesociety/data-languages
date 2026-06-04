@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بور
     auto: true
+  - translation_iso: fra
+    name: boor
   - translation_iso: hin
     name: बूर
     auto: true

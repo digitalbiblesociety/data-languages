@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Cypriot_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة عربية قبرصية
+  - translation_iso: fra
+    name: arabe chypriote maronite
   - translation_iso: hin
     name: साइप्रसी अरबी
     auto: true

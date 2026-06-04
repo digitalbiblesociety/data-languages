@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/International_Sign"
 translations:
   - translation_iso: ara
     name: الإشارة الدولية
+  - translation_iso: fra
+    name: langue des signes internationale
   - translation_iso: hin
     name: अंतर्राष्ट्रीय सांकेतिक भाषा
     auto: true

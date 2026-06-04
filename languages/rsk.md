@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: روثيني
     auto: true
+  - translation_iso: fra
+    name: ruthène de Pannonie
   - translation_iso: hin
     name: रुथेनियन
     auto: true

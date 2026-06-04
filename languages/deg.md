@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديجيما
     auto: true
+  - translation_iso: fra
+    name: degema
   - translation_iso: hin
     name: देगेमा
     auto: true

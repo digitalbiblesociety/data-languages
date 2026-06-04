@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: السيرايا
     auto: true
+  - translation_iso: fra
+    name: siraya
   - translation_iso: hin
     name: सिरया
     auto: true

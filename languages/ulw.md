@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: أولوا
     auto: true
+  - translation_iso: fra
+    name: ulwa
   - translation_iso: hin
     name: उल्वा
     auto: true

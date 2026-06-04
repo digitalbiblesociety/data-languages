@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة اوميان
     auto: true
+  - translation_iso: fra
+    name: laomien
   - translation_iso: hin
     name: लाओमियान
     auto: true

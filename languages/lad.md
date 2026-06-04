@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Judaeo-Spanish"
 translations:
   - translation_iso: ara
     name: اللدينوية
+  - translation_iso: fra
+    name: judéo-espagnol
   - translation_iso: hin
     name: लादीनो
   - translation_iso: jpn

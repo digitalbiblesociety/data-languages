@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nias_language"
 translations:
   - translation_iso: ara
     name: لغة نياس
+  - translation_iso: fra
+    name: niha
   - translation_iso: hin
     name: नियास
   - translation_iso: jpn

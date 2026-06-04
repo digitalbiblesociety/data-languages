@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: واتوبيلا
     auto: true
+  - translation_iso: fra
+    name: Watubela
+    auto: true
   - translation_iso: hin
     name: वातुबेला
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوجاواك
     auto: true
+  - translation_iso: fra
+    name: bukawa
   - translation_iso: hin
     name: बुगावाक
     auto: true

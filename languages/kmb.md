@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kimbundu"
 translations:
   - translation_iso: ara
     name: الكيمبندو
+  - translation_iso: fra
+    name: kimbundu
   - translation_iso: hin
     name: किम्बन्दु
   - translation_iso: jpn

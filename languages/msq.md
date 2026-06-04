@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاك
     auto: true
+  - translation_iso: fra
+    name: caac
   - translation_iso: hin
     name: काक
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديان
     auto: true
+  - translation_iso: fra
+    name: dyan
   - translation_iso: hin
     name: दियान
     auto: true

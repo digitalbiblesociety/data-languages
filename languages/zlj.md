@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ليوجيانغ زوانغ
     auto: true
+  - translation_iso: fra
+    name: zhuang de Liujiang
   - translation_iso: hin
     name: लिउजियांग ज़ुआंग
     auto: true

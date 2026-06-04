@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: نيياو
     auto: true
+  - translation_iso: fra
+    name: nyaw
   - translation_iso: hin
     name: न्याव
     auto: true

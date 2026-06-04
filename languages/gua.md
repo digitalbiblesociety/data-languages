@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: شيكي
     auto: true
+  - translation_iso: fra
+    name: shiki
   - translation_iso: hin
     name: शिकी
     auto: true

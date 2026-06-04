@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هآلآنج
     auto: true
+  - translation_iso: fra
+    name: halang
   - translation_iso: hin
     name: हलंग
     auto: true

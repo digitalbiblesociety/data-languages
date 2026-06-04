@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوورو
     auto: true
+  - translation_iso: fra
+    name: gowro
   - translation_iso: hin
     name: गोवरो भाषा
   - translation_iso: jpn

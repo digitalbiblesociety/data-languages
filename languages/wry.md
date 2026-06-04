@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ميرواري
     auto: true
+  - translation_iso: fra
+    name: merwari
   - translation_iso: hin
     name: मेरवाड़ी
     auto: true

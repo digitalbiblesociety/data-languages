@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندوجا
     auto: true
+  - translation_iso: fra
+    name: Nduga
+    auto: true
   - translation_iso: hin
     name: न्दुगा
     auto: true

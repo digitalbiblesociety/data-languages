@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة بومي الشمالية
     auto: true
+  - translation_iso: fra
+    name: primi septentrional
   - translation_iso: hin
     name: उत्तरी पुमी
     auto: true

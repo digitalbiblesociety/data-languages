@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باي
     auto: true
+  - translation_iso: fra
+    name: bai
   - translation_iso: hin
     name: बाई (दक्षिण सूडान)
     auto: true

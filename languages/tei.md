@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توريسيلي
     auto: true
+  - translation_iso: fra
+    name: torricelli
   - translation_iso: hin
     name: तोरिचेली
     auto: true

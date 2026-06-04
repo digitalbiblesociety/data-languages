@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سانوما
     auto: true
+  - translation_iso: fra
+    name: sanumá
   - translation_iso: hin
     name: सानुमा
     auto: true

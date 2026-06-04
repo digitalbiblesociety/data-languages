@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ونجودا
     auto: true
+  - translation_iso: fra
+    name: longuda
   - translation_iso: hin
     name: लोंगुडा
     auto: true

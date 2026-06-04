@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوت وام
     auto: true
+  - translation_iso: fra
+    name: yout wam
   - translation_iso: hin
     name: यौत वाम
     auto: true

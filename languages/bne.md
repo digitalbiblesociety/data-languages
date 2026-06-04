@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بينتاونا
     auto: true
+  - translation_iso: fra
+    name: Bintauna
+    auto: true
   - translation_iso: hin
     name: बिंताउना
     auto: true

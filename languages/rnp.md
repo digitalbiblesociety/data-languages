@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رونجبو
     auto: true
+  - translation_iso: fra
+    name: rongpo
   - translation_iso: hin
     name: रोंग्पो भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bena_language"
 translations:
   - translation_iso: ara
     name: بينا
+  - translation_iso: fra
+    name: bena
   - translation_iso: hin
     name: बेना
   - translation_iso: jpn

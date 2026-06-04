@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Manchu_language"
 translations:
   - translation_iso: ara
     name: لغة المانشو
+  - translation_iso: fra
+    name: mandchou
   - translation_iso: hin
     name: मान्छु भाषा
   - translation_iso: jpn

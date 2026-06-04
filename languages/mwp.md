@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كالا لاجاو يا
     auto: true
+  - translation_iso: fra
+    name: kala lagaw ya
   - translation_iso: hin
     name: काला लागाव या
     auto: true

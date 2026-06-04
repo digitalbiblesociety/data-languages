@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الجانتس
     auto: true
+  - translation_iso: fra
+    name: gants
   - translation_iso: hin
     name: गांट्स
     auto: true

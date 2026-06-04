@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: اللغة بو - باوتشي
     auto: true
+  - translation_iso: fra
+    name: zaranda
   - translation_iso: hin
     name: बु (बाउची राज्य)
     auto: true

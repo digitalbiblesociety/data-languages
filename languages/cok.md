@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سانتا تيريسا كورا
     auto: true
+  - translation_iso: fra
+    name: cora Santa Teresa
   - translation_iso: hin
     name: सांता तेरेसा कोरा
     auto: true

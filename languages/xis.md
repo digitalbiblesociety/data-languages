@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: كيسان
     auto: true
+  - translation_iso: fra
+    name: kisangani
   - translation_iso: hin
     name: किसान
     auto: true

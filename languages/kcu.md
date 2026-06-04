@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كامي
     auto: true
+  - translation_iso: fra
+    name: kami
   - translation_iso: hin
     name: कामी (तंजानिया)
     auto: true

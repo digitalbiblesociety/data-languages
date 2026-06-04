@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاربيا
     auto: true
+  - translation_iso: fra
+    name: tarpia
   - translation_iso: hin
     name: तार्पिया
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جاونساري
     auto: true
+  - translation_iso: fra
+    name: jaunsari
   - translation_iso: hin
     name: जौनसारी भाषा
   - translation_iso: jpn

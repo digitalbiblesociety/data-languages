@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: النديج
     auto: true
+  - translation_iso: fra
+    name: nding
   - translation_iso: hin
     name: एनडिंग
     auto: true

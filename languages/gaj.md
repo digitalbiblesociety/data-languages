@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الجادسوب
     auto: true
+  - translation_iso: fra
+    name: Gadsup
+    auto: true
   - translation_iso: hin
     name: गाडसुप
     auto: true

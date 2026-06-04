@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ماسيلا الغربية
     auto: true
+  - translation_iso: fra
+    name: "masela de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी मासेला
     auto: true

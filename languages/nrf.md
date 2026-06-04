@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Norman_language"
 translations:
   - translation_iso: ara
     name: النرمندية
+  - translation_iso: fra
+    name: normand
   - translation_iso: hin
     name: नोर्मन भाषा
   - translation_iso: jpn

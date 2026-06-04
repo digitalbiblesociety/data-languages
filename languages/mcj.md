@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مفانيب
     auto: true
+  - translation_iso: fra
+    name: mvanip
   - translation_iso: hin
     name: म्वानिप
     auto: true

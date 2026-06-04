@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ومبو
     auto: true
+  - translation_iso: fra
+    name: lumbu
   - translation_iso: hin
     name: लुम्बू
     auto: true

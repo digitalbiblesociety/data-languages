@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يليپا
     auto: true
+  - translation_iso: fra
+    name: lelepa
   - translation_iso: hin
     name: लेलेपा
     auto: true

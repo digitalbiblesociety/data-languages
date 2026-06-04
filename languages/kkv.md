@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كانجيان
     auto: true
+  - translation_iso: fra
+    name: kangéanique
   - translation_iso: hin
     name: कांगियान
     auto: true

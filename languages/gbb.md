@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكايتيتي
     auto: true
+  - translation_iso: fra
+    name: kaytetye
   - translation_iso: hin
     name: कायतेत्ये
     auto: true

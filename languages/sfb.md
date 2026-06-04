@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البلجيكية الفرنكوفونية
     auto: true
+  - translation_iso: fra
+    name: langue des signes belge francophone
   - translation_iso: hin
     name: फ़्रेंच बेल्जियन सांकेतिक भाषा
     auto: true

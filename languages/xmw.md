@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ملغاشية تسيميهيتي
     auto: true
+  - translation_iso: fra
+    name: tsimihety
   - translation_iso: hin
     name: त्सिमिहेती मालागासी
     auto: true

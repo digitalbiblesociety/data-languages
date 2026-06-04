@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة موسكونا
     auto: true
+  - translation_iso: fra
+    name: Moskona
+    auto: true
   - translation_iso: hin
     name: मोस्कोना
     auto: true

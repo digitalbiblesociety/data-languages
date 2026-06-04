@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوقومتشي
     auto: true
+  - translation_iso: fra
+    name: poqomchi’
   - translation_iso: hin
     name: पोकोमची
     auto: true

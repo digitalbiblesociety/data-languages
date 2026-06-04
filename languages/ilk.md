@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيلونغوت
     auto: true
+  - translation_iso: fra
+    name: ilongot
   - translation_iso: hin
     name: इलोंगोट
     auto: true

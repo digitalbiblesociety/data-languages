@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دزونجو
     auto: true
+  - translation_iso: fra
+    name: dzùùngoo
   - translation_iso: hin
     name: ज़ूंगू
     auto: true

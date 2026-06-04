@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إينلاود إيتنيغ
     auto: true
+  - translation_iso: fra
+    name: "itneg d'Inlaod"
   - translation_iso: hin
     name: इनलाओद इतनेग
     auto: true

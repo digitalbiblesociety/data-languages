@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إسترو رومانية
     auto: true
+  - translation_iso: fra
+    name: istro-roumain
   - translation_iso: hin
     name: इस्त्रो रोमानियाई
     auto: true

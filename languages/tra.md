@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيراهي
     auto: true
+  - translation_iso: fra
+    name: tirahi
   - translation_iso: hin
     name: तीराही भाषा
   - translation_iso: jpn

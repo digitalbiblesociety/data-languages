@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوبانج
     auto: true
+  - translation_iso: fra
+    name: ubang
   - translation_iso: hin
     name: उबांग
     auto: true

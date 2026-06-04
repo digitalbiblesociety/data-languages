@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكاشيبو-كاكاتايبو
     auto: true
+  - translation_iso: fra
+    name: kakataibo
   - translation_iso: hin
     name: काशिबो-काकाताइबो
     auto: true

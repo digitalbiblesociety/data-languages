@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة إسبانية لوريتو-أوكايالي
     auto: true
+  - translation_iso: fra
+    name: "espagnol d'Amazonie"
   - translation_iso: hin
     name: लोरेटो-उकायाली स्पेनिश
     auto: true

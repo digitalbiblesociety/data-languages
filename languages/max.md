@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو شمالية
     auto: true
+  - translation_iso: fra
+    name: Malais des Moluques du Nord
+    auto: true
   - translation_iso: hin
     name: उत्तरी मोलुक्कन मलय
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Filipino_language"
 translations:
   - translation_iso: ara
     name: الفلبينية
+  - translation_iso: fra
+    name: philippin
   - translation_iso: hin
     name: फ़िलिपीनो भाषा
   - translation_iso: jpn

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مآغɨ
     auto: true
+  - translation_iso: fra
+    name: Magɨ (province de Madang)
+    auto: true
   - translation_iso: hin
     name: मागी (मदांग प्रांत)
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إينوك-ياتي
     auto: true
+  - translation_iso: fra
+    name: Inoke-Yate
+    auto: true
   - translation_iso: hin
     name: इनोके-याते
     auto: true

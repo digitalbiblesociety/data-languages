@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجاليلا
     auto: true
+  - translation_iso: fra
+    name: galela
   - translation_iso: hin
     name: गालेला
     auto: true

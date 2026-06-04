@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة شاما-سامبوجا
     auto: true
+  - translation_iso: fra
+    name: Shama-Sambuga
+    auto: true
   - translation_iso: hin
     name: शामा-साम्बुगा
     auto: true

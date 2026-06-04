@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مانجسينج
     auto: true
+  - translation_iso: fra
+    name: Mangseng
+    auto: true
   - translation_iso: hin
     name: मांगसेंग
     auto: true

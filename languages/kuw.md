@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: كباغوا
     auto: true
+  - translation_iso: fra
+    name: kpagua
   - translation_iso: hin
     name: क्पागुआ
     auto: true

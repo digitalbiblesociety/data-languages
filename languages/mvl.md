@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبارا (أستراليا)
     auto: true
+  - translation_iso: fra
+    name: mbara
   - translation_iso: hin
     name: म्बारा (ऑस्ट्रेलिया)
     auto: true

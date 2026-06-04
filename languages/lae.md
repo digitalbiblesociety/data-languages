@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باتاني
     auto: true
+  - translation_iso: fra
+    name: pattani
   - translation_iso: hin
     name: मंचन्द भाषा
   - translation_iso: jpn

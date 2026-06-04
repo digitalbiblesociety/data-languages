@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: الإويديفي
     auto: true
+  - translation_iso: fra
+    name: eudeve
   - translation_iso: hin
     name: एउदेवे
     auto: true

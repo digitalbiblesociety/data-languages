@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: توتيلا
     auto: true
+  - translation_iso: fra
+    name: Totela
+    auto: true
   - translation_iso: hin
     name: तोतेला
     auto: true

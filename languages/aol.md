@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألور
     auto: true
+  - translation_iso: fra
+    name: alor
   - translation_iso: hin
     name: एलोर
     auto: true

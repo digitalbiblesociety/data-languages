@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: السنسكريتية الفيدية
     auto: true
+  - translation_iso: fra
+    name: sanskrit védique
   - translation_iso: hin
     name: वैदिक संस्कृत
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديوين
     auto: true
+  - translation_iso: fra
+    name: dewoin
   - translation_iso: hin
     name: देवोइन
     auto: true

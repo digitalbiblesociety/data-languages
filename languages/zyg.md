@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشوانغ يانغ
     auto: true
+  - translation_iso: fra
+    name: zhuang de Dejing
   - translation_iso: hin
     name: यांग ज़ुआंग
     auto: true

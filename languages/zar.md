@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك رينكون
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Rincón
   - translation_iso: hin
     name: रिनकोन सैपोटेक
     auto: true

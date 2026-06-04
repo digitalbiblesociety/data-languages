@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Soga_language"
 translations:
   - translation_iso: ara
     name: السوغا
+  - translation_iso: fra
+    name: soga
   - translation_iso: hin
     name: सोगा
   - translation_iso: jpn

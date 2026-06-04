@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ساكسوي غبي
     auto: true
+  - translation_iso: fra
+    name: saxwe
   - translation_iso: hin
     name: साख्वे ग्बे
     auto: true

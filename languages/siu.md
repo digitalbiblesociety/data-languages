@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة السينجن
     auto: true
+  - translation_iso: fra
+    name: sinagen
   - translation_iso: hin
     name: सिनागेन
     auto: true

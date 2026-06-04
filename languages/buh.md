@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يوْنوو بونو
     auto: true
+  - translation_iso: fra
+    name: younuo
   - translation_iso: hin
     name: यूनुओ बुनू
     auto: true

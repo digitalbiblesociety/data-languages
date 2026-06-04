@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: كولي واديارا
     auto: true
+  - translation_iso: fra
+    name: wadiyara
   - translation_iso: hin
     name: वाडियारा कोली
     auto: true

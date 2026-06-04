@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: موندا
     auto: true
+  - translation_iso: fra
+    name: munda
   - translation_iso: hin
     name: मुंडा
     auto: true

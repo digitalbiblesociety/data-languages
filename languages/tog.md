@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tonga_language_(Malawi)"
 translations:
   - translation_iso: ara
     name: تونجا - نياسا
+  - translation_iso: fra
+    name: tonga
   - translation_iso: hin
     name: न्यासा टोन्गा
   - translation_iso: jpn

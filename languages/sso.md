@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيسانو
     auto: true
+  - translation_iso: fra
+    name: sissano
   - translation_iso: hin
     name: सिसानो
     auto: true

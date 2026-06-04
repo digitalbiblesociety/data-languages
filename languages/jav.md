@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Javanese_language"
 translations:
   - translation_iso: ara
     name: الجاوية
+  - translation_iso: fra
+    name: javanais
   - translation_iso: hin
     name: जावा भाषा
   - translation_iso: jpn

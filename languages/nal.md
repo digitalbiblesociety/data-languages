@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نالك
     auto: true
+  - translation_iso: fra
+    name: nalik
   - translation_iso: hin
     name: नालिक
     auto: true

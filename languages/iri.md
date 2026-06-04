@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ريغوي
     auto: true
+  - translation_iso: fra
+    name: Rigwe
+    auto: true
   - translation_iso: hin
     name: रिग्वे
     auto: true

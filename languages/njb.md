@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نوكتي ناجا
     auto: true
+  - translation_iso: fra
+    name: naga nocte
   - translation_iso: hin
     name: नोक्टे भाषा
   - translation_iso: jpn

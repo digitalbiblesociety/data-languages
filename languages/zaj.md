@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زارامو
     auto: true
+  - translation_iso: fra
+    name: zaramo
   - translation_iso: hin
     name: ज़रामो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زايسي-زيرغولا
     auto: true
+  - translation_iso: fra
+    name: zayse
   - translation_iso: hin
     name: ज़ायसे-ज़ेरगुल्ला
     auto: true

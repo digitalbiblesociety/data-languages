@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويرادجوري
     auto: true
+  - translation_iso: fra
+    name: wiradjuri
   - translation_iso: hin
     name: विराजुरी
     auto: true

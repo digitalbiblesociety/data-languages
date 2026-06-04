@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة فو تاي
     auto: true
+  - translation_iso: fra
+    name: Phu Thai
+    auto: true
   - translation_iso: hin
     name: फू थाई
     auto: true

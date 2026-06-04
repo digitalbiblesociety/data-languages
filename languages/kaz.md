@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kazakh_language"
 translations:
   - translation_iso: ara
     name: القزاقية
+  - translation_iso: fra
+    name: kazakh
   - translation_iso: hin
     name: कज़ाख़ भाषा
   - translation_iso: jpn

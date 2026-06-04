@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيمي
     auto: true
+  - translation_iso: fra
+    name: nemi
   - translation_iso: hin
     name: नेमी
     auto: true

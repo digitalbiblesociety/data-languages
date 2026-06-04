@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ساوثيرن ألتا
     auto: true
+  - translation_iso: fra
+    name: alta du Sud
   - translation_iso: hin
     name: दक्षिणी अल्ता
     auto: true

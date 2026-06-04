@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نومانا
     auto: true
+  - translation_iso: fra
+    name: numana-nunku-gbantu-numbu
   - translation_iso: hin
     name: नुमाना
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غيتوآ
     auto: true
+  - translation_iso: fra
+    name: gitua
   - translation_iso: hin
     name: गितुआ
     auto: true

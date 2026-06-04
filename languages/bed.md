@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بيدوانا
     auto: true
+  - translation_iso: fra
+    name: bedoanas
   - translation_iso: hin
     name: बेडोआनास
     auto: true

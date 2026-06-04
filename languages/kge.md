@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lampung_language"
 translations:
   - translation_iso: ara
     name: كومرينج
+  - translation_iso: fra
+    name: komering
   - translation_iso: hin
     name: कोमेरिंग भाषा
   - translation_iso: jpn

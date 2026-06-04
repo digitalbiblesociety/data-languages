@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: راتاوي
     auto: true
+  - translation_iso: fra
+    name: rathawi
   - translation_iso: hin
     name: राठावी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تريكي كوبالا
     auto: true
+  - translation_iso: fra
+    name: trique de Copala
   - translation_iso: hin
     name: कोपाला त्रिकी
     auto: true

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Eblaite_language"
 translations:
   - translation_iso: ara
     name: الإبلاوية
+  - translation_iso: fra
+    name: éblaïte
   - translation_iso: hin
     name: एब्लाइट
     auto: true

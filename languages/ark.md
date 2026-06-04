@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أريكابو
     auto: true
+  - translation_iso: fra
+    name: arikapu
   - translation_iso: hin
     name: अरिकापू
     auto: true

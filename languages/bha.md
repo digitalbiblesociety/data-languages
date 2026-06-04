@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بهاريا
     auto: true
+  - translation_iso: fra
+    name: Bharia
+    auto: true
   - translation_iso: hin
     name: भरीयाटी
   - translation_iso: jpn

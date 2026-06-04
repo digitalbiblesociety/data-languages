@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Amharic"
 translations:
   - translation_iso: ara
     name: الأمهرية
+  - translation_iso: fra
+    name: amharique
   - translation_iso: hin
     name: अम्हारिक
   - translation_iso: jpn

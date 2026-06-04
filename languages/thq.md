@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: تشوتشيلا ثارو
     auto: true
+  - translation_iso: fra
+    name: kochila
   - translation_iso: hin
     name: कोचिला थारू
     auto: true

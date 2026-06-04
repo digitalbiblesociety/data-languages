@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفاتاليكا
     auto: true
+  - translation_iso: fra
+    name: fataleka
   - translation_iso: hin
     name: फटालेका
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كارانجا
     auto: true
+  - translation_iso: fra
+    name: karanga
   - translation_iso: hin
     name: करंगा
     auto: true

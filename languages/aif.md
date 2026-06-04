@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أجي
     auto: true
+  - translation_iso: fra
+    name: agi
   - translation_iso: hin
     name: अगी
     auto: true

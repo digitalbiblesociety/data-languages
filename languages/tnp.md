@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وايتساندس
     auto: true
+  - translation_iso: fra
+    name: whitesands
   - translation_iso: hin
     name: व्हाइटसैंड्स
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة خاسونغاكسانغو
     auto: true
+  - translation_iso: fra
+    name: khassonké
   - translation_iso: hin
     name: ख़ासोंगाख़ांगो
     auto: true

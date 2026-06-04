@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سام
     auto: true
+  - translation_iso: fra
+    name: sam
   - translation_iso: hin
     name: साम
     auto: true

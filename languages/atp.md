@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بودتول أتا
     auto: true
+  - translation_iso: fra
+    name: Pudtol Atta
+    auto: true
   - translation_iso: hin
     name: पुडतोल अत्ता
     auto: true

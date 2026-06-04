@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كريول الجزيرة الإنجليزية
     auto: true
+  - translation_iso: fra
+    name: créole de San Andrés et Providencia
   - translation_iso: hin
     name: आइलैंडर क्रियोल अंग्रेज़ी
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الإنجانو
     auto: true
+  - translation_iso: fra
+    name: enggano
   - translation_iso: hin
     name: एंगानो
     auto: true

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: كريول ريونيون الفرنسي
     auto: true
+  - translation_iso: fra
+    name: Créole réunionnais
   - translation_iso: hin
     name: रीयूनियन क्रेओल
   - translation_iso: jpn

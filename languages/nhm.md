@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موريلوس ناهواتل
     auto: true
+  - translation_iso: fra
+    name: nahuatl du Morelos
   - translation_iso: hin
     name: मोरेलोस नाहुआतल
     auto: true

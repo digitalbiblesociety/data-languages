@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسوري
     auto: true
+  - translation_iso: fra
+    name: asur
   - translation_iso: hin
     name: असुर भाषा
   - translation_iso: jpn

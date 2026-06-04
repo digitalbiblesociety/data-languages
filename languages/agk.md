@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيسارج أغتا
     auto: true
+  - translation_iso: fra
+    name: "agta d'Isarog"
   - translation_iso: hin
     name: इसारोग अग्ता
     auto: true

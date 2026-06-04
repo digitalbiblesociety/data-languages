@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيدانج
     auto: true
+  - translation_iso: fra
+    name: kedang
   - translation_iso: hin
     name: केडांग
     auto: true

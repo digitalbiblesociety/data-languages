@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بوسوا
     auto: true
+  - translation_iso: fra
+    name: busoa
   - translation_iso: hin
     name: बुसोआ
     auto: true

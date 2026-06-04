@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أويجيتايا
     auto: true
+  - translation_iso: fra
+    name: uyajitaya
   - translation_iso: hin
     name: उयाजिताया
     auto: true

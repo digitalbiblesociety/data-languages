@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بادا
     auto: true
+  - translation_iso: fra
+    name: bada
   - translation_iso: hin
     name: बादा (इंडोनेशिया)
     auto: true

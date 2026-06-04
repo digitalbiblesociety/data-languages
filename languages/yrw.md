@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة يارواتا
     auto: true
+  - translation_iso: fra
+    name: yarawata
   - translation_iso: hin
     name: यारावाटा
     auto: true

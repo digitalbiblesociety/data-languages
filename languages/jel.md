@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يلميك
     auto: true
+  - translation_iso: fra
+    name: yelmek
   - translation_iso: hin
     name: येलमेक
     auto: true

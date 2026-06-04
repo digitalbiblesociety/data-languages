@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: وسان
     auto: true
+  - translation_iso: fra
+    name: usan
   - translation_iso: hin
     name: उसान
     auto: true

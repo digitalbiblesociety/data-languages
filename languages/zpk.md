@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك تلاكولوليتا
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Tlacolulita
   - translation_iso: hin
     name: त्लाकोलूलिता सैपोटेक
     auto: true

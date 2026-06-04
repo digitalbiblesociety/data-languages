@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوآنآنو
     auto: true
+  - translation_iso: fra
+    name: wanano
   - translation_iso: hin
     name: गुआनानो
     auto: true

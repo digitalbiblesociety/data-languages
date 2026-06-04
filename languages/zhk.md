@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكردية
     auto: true
+  - translation_iso: fra
+    name: Langue des signes kurde
+    auto: true
   - translation_iso: hin
     name: कुर्द सांकेतिक भाषा
   - translation_iso: jpn

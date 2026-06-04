@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: سابيني
     auto: true
+  - translation_iso: fra
+    name: Sabin
+    auto: true
   - translation_iso: hin
     name: साबिने
     auto: true

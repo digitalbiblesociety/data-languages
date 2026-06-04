@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ماسيكورو مالجاشية
     auto: true
+  - translation_iso: fra
+    name: masikoro
   - translation_iso: hin
     name: मसिकोरो मालागासी
     auto: true

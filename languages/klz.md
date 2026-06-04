@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كابولا
     auto: true
+  - translation_iso: fra
+    name: kabola
   - translation_iso: hin
     name: काबोला
     auto: true

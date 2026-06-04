@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ييثا ييثا
     auto: true
+  - translation_iso: fra
+    name: yitha yitha
   - translation_iso: hin
     name: यिथा यिथा
     auto: true

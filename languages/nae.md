@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نكا إيلا
     auto: true
+  - translation_iso: fra
+    name: "naka'ela"
   - translation_iso: hin
     name: नाकाएला
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الروسية
     auto: true
+  - translation_iso: fra
+    name: langue des signes russe
   - translation_iso: hin
     name: रूसी सांकेतिक भाषा
   - translation_iso: jpn

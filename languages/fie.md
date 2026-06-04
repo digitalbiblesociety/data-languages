@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفيير
     auto: true
+  - translation_iso: fra
+    name: fyer
   - translation_iso: hin
     name: फायर
     auto: true

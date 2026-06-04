@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فينزا
     auto: true
+  - translation_iso: fra
+    name: vinza
   - translation_iso: hin
     name: विन्ज़ा
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سان ديونيسيو ديل مار
     auto: true
+  - translation_iso: fra
+    name: huave de San Dionisio del Mar
   - translation_iso: hin
     name: सान डियोनिसियो डेल मार हुआवे
     auto: true

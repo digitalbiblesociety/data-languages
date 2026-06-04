@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: كيناراي-أ
     auto: true
+  - translation_iso: fra
+    name: harayen
   - translation_iso: hin
     name: किनारय-आ
     auto: true

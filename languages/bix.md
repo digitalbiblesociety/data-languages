@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيجوري
     auto: true
+  - translation_iso: fra
+    name: Bijori
+    auto: true
   - translation_iso: hin
     name: बिजोरी
     auto: true

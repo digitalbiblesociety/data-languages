@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اللاتفية
     auto: true
+  - translation_iso: fra
+    name: langue des signes lettone
   - translation_iso: hin
     name: लातवियाई सांकेतिक भाषा
     auto: true

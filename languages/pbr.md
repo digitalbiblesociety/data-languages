@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانغوا
     auto: true
+  - translation_iso: fra
+    name: pangwa
   - translation_iso: hin
     name: पांग्वा
     auto: true

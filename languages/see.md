@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Seneca_language"
 translations:
   - translation_iso: ara
     name: سينيكا
+  - translation_iso: fra
+    name: seneca
   - translation_iso: hin
     name: सेनेका
     auto: true

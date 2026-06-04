@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوت دانوم
     auto: true
+  - translation_iso: fra
+    name: dohoi
   - translation_iso: hin
     name: ओत दानुम
     auto: true

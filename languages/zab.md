@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك تلاكولولا الغربية
     auto: true
+  - translation_iso: fra
+    name: zapotèque de San Juan Guelavía
   - translation_iso: hin
     name: पश्चिमी त्लाकोलूला घाटी ज़ापोटेक
     auto: true

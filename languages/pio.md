@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيابوكو
     auto: true
+  - translation_iso: fra
+    name: piapoco
   - translation_iso: hin
     name: पियापोको
     auto: true

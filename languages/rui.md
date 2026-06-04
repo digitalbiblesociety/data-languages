@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: روفيجي
     auto: true
+  - translation_iso: fra
+    name: rufiji
   - translation_iso: hin
     name: रुफिजी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دومي
     auto: true
+  - translation_iso: fra
+    name: dumi
   - translation_iso: hin
     name: दुमी
     auto: true

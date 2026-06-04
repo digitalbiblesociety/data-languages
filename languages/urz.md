@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أورو-يو-واو-واو
     auto: true
+  - translation_iso: fra
+    name: uru-eu-wau-wau
   - translation_iso: hin
     name: उरु-एउ-वाउ-वाउ
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داكباخا
     auto: true
+  - translation_iso: fra
+    name: dakpakha
   - translation_iso: hin
     name: दक्पा भाषा
   - translation_iso: jpn

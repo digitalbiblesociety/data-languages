@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: بوبي
     auto: true
+  - translation_iso: fra
+    name: bubi
   - translation_iso: hin
     name: बूबे
     auto: true

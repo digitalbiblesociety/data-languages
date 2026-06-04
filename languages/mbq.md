@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مايسين
     auto: true
+  - translation_iso: fra
+    name: maisin
   - translation_iso: hin
     name: माइसिन
     auto: true

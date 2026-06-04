@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوتش ساين لانجويج
     auto: true
+  - translation_iso: fra
+    name: langue des signes néerlandaise
   - translation_iso: hin
     name: डच सांकेतिक भाषा
     auto: true

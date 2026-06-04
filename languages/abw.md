@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة پّال
     auto: true
+  - translation_iso: fra
+    name: Pal
+    auto: true
   - translation_iso: hin
     name: पाल
     auto: true

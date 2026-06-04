@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Western_Canadian_Inuktitut"
 translations:
   - translation_iso: ara
     name: الإنكتيتوتية الكندية الغربية
+  - translation_iso: fra
+    name: inuktitut de l’Ouest canadien
   - translation_iso: hin
     name: पश्चिमी कनाडाई इनुक्टिटुट
   - translation_iso: jpn

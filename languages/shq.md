@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة السالا
     auto: true
+  - translation_iso: fra
+    name: sala
   - translation_iso: hin
     name: साला
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشينالي
     auto: true
+  - translation_iso: fra
+    name: chinali
   - translation_iso: hin
     name: चिनाली
     auto: true

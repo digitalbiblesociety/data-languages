@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاغبانوا الوسطى
     auto: true
+  - translation_iso: fra
+    name: tagbanwa central
   - translation_iso: hin
     name: मध्य तागबानवा
     auto: true

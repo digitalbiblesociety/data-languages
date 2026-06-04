@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوروايا
     auto: true
+  - translation_iso: fra
+    name: kuruáya
   - translation_iso: hin
     name: कुरुआया
     auto: true

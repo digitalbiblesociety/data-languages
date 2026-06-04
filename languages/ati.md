@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتييه
     auto: true
+  - translation_iso: fra
+    name: attié
   - translation_iso: hin
     name: अत्तिये
     auto: true

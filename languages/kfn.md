@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوك
     auto: true
+  - translation_iso: fra
+    name: kuk
   - translation_iso: hin
     name: कुक
     auto: true

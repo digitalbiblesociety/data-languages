@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مامبروللي
     auto: true
+  - translation_iso: fra
+    name: mamprusi
   - translation_iso: hin
     name: मामप्रुली
     auto: true

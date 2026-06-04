@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: يويديك
     auto: true
+  - translation_iso: fra
+    name: Yoidik
+    auto: true
   - translation_iso: hin
     name: योइदिक
     auto: true

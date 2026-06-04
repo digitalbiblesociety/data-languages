@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نوتسي
     auto: true
+  - translation_iso: fra
+    name: notsi
   - translation_iso: hin
     name: नोत्सी
     auto: true

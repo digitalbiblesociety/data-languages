@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سينوفو بالاكا
     auto: true
+  - translation_iso: fra
+    name: Palaka
   - translation_iso: hin
     name: पलाका सेनोफो
     auto: true

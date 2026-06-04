@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توا الشمالية
     auto: true
+  - translation_iso: fra
+    name: taos
   - translation_iso: hin
     name: उत्तरी तिवा
     auto: true

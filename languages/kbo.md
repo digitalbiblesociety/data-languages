@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيليكو
     auto: true
+  - translation_iso: fra
+    name: keliko
   - translation_iso: hin
     name: केलिको
     auto: true

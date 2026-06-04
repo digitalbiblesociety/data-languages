@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا خونين الشمالية
     auto: true
+  - translation_iso: fra
+    name: quechua de Junín du Nord
   - translation_iso: hin
     name: उत्तरी हुनिन क्वेचुआ
     auto: true

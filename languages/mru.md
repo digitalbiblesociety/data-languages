@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مونو (الكاميرون)
     auto: true
+  - translation_iso: fra
+    name: mono
   - translation_iso: hin
     name: मोनो (कैमरून)
     auto: true

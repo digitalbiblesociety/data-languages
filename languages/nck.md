@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نا كارا
     auto: true
+  - translation_iso: fra
+    name: nakara
   - translation_iso: hin
     name: ना-कारा
     auto: true

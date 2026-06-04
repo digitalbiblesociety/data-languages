@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيسو
     auto: true
+  - translation_iso: fra
+    name: bisu
   - translation_iso: hin
     name: बिसु
     auto: true

@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Montenegrin_language"
 translations:
   - translation_iso: ara
     name: المونتنغرية
+  - translation_iso: fra
+    name: monténégrin
   - translation_iso: hin
     name: मोंटेनीग्रिन भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميكسي برزخ
     auto: true
+  - translation_iso: fra
+    name: "mixe de l'isthme"
   - translation_iso: hin
     name: इस्थमस मिशे
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ووديج-لوكوان يي
     auto: true
+  - translation_iso: fra
+    name: yi wuding-luquan
   - translation_iso: hin
     name: वुडिंग-लुक्वान यी
     auto: true

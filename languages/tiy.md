@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيرواي
     auto: true
+  - translation_iso: fra
+    name: tiruray
   - translation_iso: hin
     name: तिरुराय
     auto: true

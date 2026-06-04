@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Elamite_language"
 translations:
   - translation_iso: ara
     name: لغة عيلامية
+  - translation_iso: fra
+    name: élamite
   - translation_iso: hin
     name: एलामी भाषा
   - translation_iso: jpn

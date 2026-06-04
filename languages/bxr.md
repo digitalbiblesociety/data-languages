@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: روسيا بورْيات
     auto: true
+  - translation_iso: fra
+    name: bouriate de Russie
   - translation_iso: hin
     name: रूसी बुर्यात
     auto: true

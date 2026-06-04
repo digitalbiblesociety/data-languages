@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفورو
     auto: true
+  - translation_iso: fra
+    name: furu
   - translation_iso: hin
     name: फुरू
     auto: true

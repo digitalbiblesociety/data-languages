@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تومبونو
     auto: true
+  - translation_iso: fra
+    name: Tombonuo
+    auto: true
   - translation_iso: hin
     name: तोम्बोनुओ
     auto: true

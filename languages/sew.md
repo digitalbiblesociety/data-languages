@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: سيوا باي
     auto: true
+  - translation_iso: fra
+    name: Sewa Bay
+    auto: true
   - translation_iso: hin
     name: सेवा बे
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفايتا
     auto: true
+  - translation_iso: fra
+    name: faita
   - translation_iso: hin
     name: फाइता
     auto: true

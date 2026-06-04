@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جاهري
     auto: true
+  - translation_iso: fra
+    name: gahri
   - translation_iso: hin
     name: बुनान भाषा
   - translation_iso: jpn

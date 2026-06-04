@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غيآآزي
     auto: true
+  - translation_iso: fra
+    name: Gyaazi
+    auto: true
   - translation_iso: hin
     name: ग्याज़ी
     auto: true

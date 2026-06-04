@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وانغغامالا
     auto: true
+  - translation_iso: fra
+    name: wanggamala
   - translation_iso: hin
     name: वांग्गामाला
     auto: true

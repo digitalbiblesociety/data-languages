@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تامانغ غوركها الشرقية
     auto: true
+  - translation_iso: fra
+    name: "tamang de Gorkha de l'Est"
   - translation_iso: hin
     name: पूर्वी गोरखा तामाङ
     auto: true

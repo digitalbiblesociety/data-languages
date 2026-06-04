@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إينبوي ناغا
     auto: true
+  - translation_iso: fra
+    name: kabui
   - translation_iso: hin
     name: कबुई भाषा
   - translation_iso: jpn

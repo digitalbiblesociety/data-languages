@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كهيماكوم
     auto: true
+  - translation_iso: fra
+    name: chimakum
   - translation_iso: hin
     name: चेमाकुम
     auto: true

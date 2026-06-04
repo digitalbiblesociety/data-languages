@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: توبو
     auto: true
+  - translation_iso: fra
+    name: tobo
   - translation_iso: hin
     name: तोबो
     auto: true

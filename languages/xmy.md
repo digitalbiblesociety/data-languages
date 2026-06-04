@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مايابودونا
     auto: true
+  - translation_iso: fra
+    name: mayaguduna
   - translation_iso: hin
     name: मायागुडुना
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تيمبي
     auto: true
+  - translation_iso: fra
+    name: tembé
   - translation_iso: hin
     name: तेम्बे
     auto: true

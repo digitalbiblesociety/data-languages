@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Slovak_language"
 translations:
   - translation_iso: ara
     name: السلوفاكية
+  - translation_iso: fra
+    name: slovaque
   - translation_iso: hin
     name: स्लोवाक भाषा
   - translation_iso: jpn

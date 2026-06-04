@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تامبوان
     auto: true
+  - translation_iso: fra
+    name: tampuan
   - translation_iso: hin
     name: तामपुआन
     auto: true

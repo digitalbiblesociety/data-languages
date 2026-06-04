@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يلي
     auto: true
+  - translation_iso: fra
+    name: Lele (République démocratique du Congo)
+    auto: true
   - translation_iso: hin
     name: लेले (कांगो लोकतांत्रिक गणराज्य)
     auto: true

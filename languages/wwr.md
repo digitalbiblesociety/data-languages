@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وارروا
     auto: true
+  - translation_iso: fra
+    name: warrwa
   - translation_iso: hin
     name: वारवा
     auto: true

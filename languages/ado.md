@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أبو
     auto: true
+  - translation_iso: fra
+    name: abu
   - translation_iso: hin
     name: अबू
     auto: true

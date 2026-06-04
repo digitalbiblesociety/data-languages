@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تاوبوتا
     auto: true
+  - translation_iso: fra
+    name: taupota
   - translation_iso: hin
     name: ताउपोटा
     auto: true

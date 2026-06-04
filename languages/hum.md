@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هونغانا
     auto: true
+  - translation_iso: fra
+    name: hungana
   - translation_iso: hin
     name: हुंगाना
     auto: true

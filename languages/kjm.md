@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة خانج
     auto: true
+  - translation_iso: fra
+    name: khang
   - translation_iso: hin
     name: खांग
     auto: true

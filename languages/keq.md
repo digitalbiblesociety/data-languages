@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كامار
     auto: true
+  - translation_iso: fra
+    name: kamar
   - translation_iso: hin
     name: कमार
     auto: true

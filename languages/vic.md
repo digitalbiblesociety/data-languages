@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة إنجليزية كريولية جزر العذراء
     auto: true
+  - translation_iso: fra
+    name: Créole anglais des Îles Vierges
+    auto: true
   - translation_iso: hin
     name: वर्जिन द्वीप क्रियोल अंग्रेज़ी
     auto: true

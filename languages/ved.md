@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Vedda_language"
 translations:
   - translation_iso: ara
     name: لغة فيدا
+  - translation_iso: fra
+    name: veddah
   - translation_iso: hin
     name: वेद्दा
     auto: true

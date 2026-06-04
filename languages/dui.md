@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دومون
     auto: true
+  - translation_iso: fra
+    name: dumun
   - translation_iso: hin
     name: डुमुन
     auto: true

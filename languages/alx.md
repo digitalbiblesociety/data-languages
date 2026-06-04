@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أمول
     auto: true
+  - translation_iso: fra
+    name: mol
   - translation_iso: hin
     name: अमोल
     auto: true

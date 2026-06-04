@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ناواتل بويبلا الجنوبية الشرقية
     auto: true
+  - translation_iso: fra
+    name: nahuatl du Puebla du Sud-Est
   - translation_iso: hin
     name: दक्षिण-पूर्वी पुएब्ला नवात्ल
     auto: true

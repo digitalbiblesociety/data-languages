@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بينيادو
     auto: true
+  - translation_iso: fra
+    name: "benyadu'"
   - translation_iso: hin
     name: बेन्यादु
     auto: true
@@ -25,7 +27,7 @@ translations:
     name: ベニャドゥ語
     auto: true
   - translation_iso: spa
-    name: "Benyadu'"
+    name: Benyadu
     auto: true
   - translation_iso: zho
     name: 本亚杜语

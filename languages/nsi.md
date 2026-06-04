@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة النيجيرية
     auto: true
+  - translation_iso: fra
+    name: langue des signes nigériane
   - translation_iso: hin
     name: नाइजीरियाई सांकेतिक भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تسوجو
     auto: true
+  - translation_iso: fra
+    name: tsogo
   - translation_iso: hin
     name: त्सोगो
     auto: true

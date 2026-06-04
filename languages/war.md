@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Waray_language"
 translations:
   - translation_iso: ara
     name: لغة الواراى الواراى
+  - translation_iso: fra
+    name: waray-waray
   - translation_iso: hin
     name: विनारे भाषा
   - translation_iso: jpn

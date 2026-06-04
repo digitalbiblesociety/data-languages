@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رونند
     auto: true
+  - translation_iso: fra
+    name: ruund
   - translation_iso: hin
     name: रुउंड
     auto: true

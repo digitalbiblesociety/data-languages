@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ شوا
     auto: true
+  - translation_iso: fra
+    name: Hmong Shua
+    auto: true
   - translation_iso: hin
     name: ह्मोंग शुआ
     auto: true

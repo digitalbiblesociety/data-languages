@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بنار
     auto: true
+  - translation_iso: fra
+    name: pnar
   - translation_iso: hin
     name: प्नार भाषा
   - translation_iso: jpn

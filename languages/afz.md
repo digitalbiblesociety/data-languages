@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أوبوكويتاي
     auto: true
+  - translation_iso: fra
+    name: obokuitai
   - translation_iso: hin
     name: ओबोकुइताई
     auto: true

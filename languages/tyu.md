@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوا
     auto: true
+  - translation_iso: fra
+    name: kua
   - translation_iso: hin
     name: कुआ
     auto: true

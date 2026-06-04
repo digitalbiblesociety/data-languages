@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: نآنآي
     auto: true
+  - translation_iso: fra
+    name: nanaï
   - translation_iso: hin
     name: नानाई
     auto: true

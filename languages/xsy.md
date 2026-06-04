@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سيسييت
     auto: true
+  - translation_iso: fra
+    name: saisiyat
   - translation_iso: hin
     name: साइसियात
     auto: true

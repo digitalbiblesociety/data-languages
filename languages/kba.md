@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كالاركو
     auto: true
+  - translation_iso: fra
+    name: kalarko
   - translation_iso: hin
     name: कलार्को
     auto: true

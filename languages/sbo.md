@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سابوم
     auto: true
+  - translation_iso: fra
+    name: sabüm
   - translation_iso: hin
     name: साबूम
     auto: true

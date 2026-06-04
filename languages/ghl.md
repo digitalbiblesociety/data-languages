@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غولفآن
     auto: true
+  - translation_iso: fra
+    name: ghulfan
   - translation_iso: hin
     name: घुलफान
     auto: true

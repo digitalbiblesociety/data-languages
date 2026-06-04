@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باتاك ألاس-كْلويت
     auto: true
+  - translation_iso: fra
+    name: batak alas-kluet
   - translation_iso: hin
     name: बाताक आलास-क्लुएत
     auto: true

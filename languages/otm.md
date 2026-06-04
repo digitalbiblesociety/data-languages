@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي الجبلية الشرقية
     auto: true
+  - translation_iso: fra
+    name: otomi de la Sierra
   - translation_iso: hin
     name: पूर्वी हाईलैंड ओटोमी
     auto: true

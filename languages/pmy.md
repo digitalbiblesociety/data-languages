@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ملايو بابوا
     auto: true
+  - translation_iso: fra
+    name: malais papou
   - translation_iso: hin
     name: पापुआन मलय
     auto: true

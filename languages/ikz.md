@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيكيزو
     auto: true
+  - translation_iso: fra
+    name: ikizu
   - translation_iso: hin
     name: इकिज़ु
     auto: true

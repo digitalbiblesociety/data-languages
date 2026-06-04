@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وانغاايبوواننغييامباا
     auto: true
+  - translation_iso: fra
+    name: wangaaybuwan-ngiyambaa
   - translation_iso: hin
     name: वंगायबुवान-न्गियाम्बा
     auto: true

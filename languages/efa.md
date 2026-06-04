@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الإيفاي
     auto: true
+  - translation_iso: fra
+    name: efai
   - translation_iso: hin
     name: एफाई
     auto: true

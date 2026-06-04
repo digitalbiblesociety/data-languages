@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sicilian_language"
 translations:
   - translation_iso: ara
     name: الصقلية
+  - translation_iso: fra
+    name: sicilien
   - translation_iso: hin
     name: सिसिलियन
   - translation_iso: jpn

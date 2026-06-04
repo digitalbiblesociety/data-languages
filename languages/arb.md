@@ -16,6 +16,8 @@ glottolog_classification: "Afro-Asiatic > Semitic > West Semitic > Central Semit
 translations:
   - translation_iso: ara
     name: العربية الفصحى
+  - translation_iso: fra
+    name: arabe standard
   - translation_iso: hin
     name: मानक अरबी
     auto: true

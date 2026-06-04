@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيوال
     auto: true
+  - translation_iso: fra
+    name: iwal
   - translation_iso: hin
     name: इवाल
     auto: true

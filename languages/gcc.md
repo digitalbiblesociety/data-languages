@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مالي
     auto: true
+  - translation_iso: fra
+    name: mali
   - translation_iso: hin
     name: माली
     auto: true

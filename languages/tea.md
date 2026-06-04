@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيميار
     auto: true
+  - translation_iso: fra
+    name: temiar
   - translation_iso: hin
     name: तेमियार
     auto: true

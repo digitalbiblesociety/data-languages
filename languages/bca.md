@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باي الوسطى
     auto: true
+  - translation_iso: fra
+    name: bai central
   - translation_iso: hin
     name: मध्य बाई
     auto: true

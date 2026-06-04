@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: إيدي إيجي
     auto: true
+  - translation_iso: fra
+    name: Ede Ije
+    auto: true
   - translation_iso: hin
     name: एदे इजे
     auto: true

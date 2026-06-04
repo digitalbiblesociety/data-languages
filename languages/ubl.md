@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: بيكول بوهي
     auto: true
+  - translation_iso: fra
+    name: bikol buhi
   - translation_iso: hin
     name: बुहीनोन बिकोल
     auto: true

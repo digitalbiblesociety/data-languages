@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: شاروا
     auto: true
+  - translation_iso: fra
+    name: sharwa
   - translation_iso: hin
     name: शार्वा
     auto: true

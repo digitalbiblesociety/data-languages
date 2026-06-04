@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أجافوتاجيرا
     auto: true
+  - translation_iso: fra
+    name: agavotaguerra
   - translation_iso: hin
     name: अगवोतगुएर्रा
     auto: true

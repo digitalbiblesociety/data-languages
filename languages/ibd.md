@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيوايدجا
     auto: true
+  - translation_iso: fra
+    name: iwaidja
   - translation_iso: hin
     name: इवायजा
     auto: true

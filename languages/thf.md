@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ثانغمي
     auto: true
+  - translation_iso: fra
+    name: thangmi
   - translation_iso: hin
     name: थांग्मी
     auto: true

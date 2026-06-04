@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Temne_language"
 translations:
   - translation_iso: ara
     name: التيمن
+  - translation_iso: fra
+    name: temne
   - translation_iso: hin
     name: टिम्ने
   - translation_iso: jpn

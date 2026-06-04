@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوشين
     auto: true
+  - translation_iso: fra
+    name: koshin
   - translation_iso: hin
     name: कोशिन
     auto: true

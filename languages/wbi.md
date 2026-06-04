@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فواينجي
     auto: true
+  - translation_iso: fra
+    name: vwanji
   - translation_iso: hin
     name: व्वान्जी
     auto: true

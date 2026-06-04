@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشوكوي
     auto: true
+  - translation_iso: fra
+    name: tchokwé
   - translation_iso: hin
     name: चोकवे
     auto: true

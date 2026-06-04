@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: البيتي
     auto: true
+  - translation_iso: fra
+    name: eotilé
   - translation_iso: hin
     name: बेती (कोत दिवुआर)
     auto: true

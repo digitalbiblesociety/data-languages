@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة فالورا
     auto: true
+  - translation_iso: fra
+    name: phalura
   - translation_iso: hin
     name: पालूला भाषा
   - translation_iso: jpn

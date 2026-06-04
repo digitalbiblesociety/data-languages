@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غونجآبولآ
     auto: true
+  - translation_iso: fra
+    name: gungabula
   - translation_iso: hin
     name: गुंगाबुला
     auto: true

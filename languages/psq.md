@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باسي
     auto: true
+  - translation_iso: fra
+    name: pasi
   - translation_iso: hin
     name: पासी
     auto: true

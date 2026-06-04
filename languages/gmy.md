@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اليونانية الميسينية
     auto: true
+  - translation_iso: fra
+    name: mycénien
   - translation_iso: hin
     name: माइसीनियाई यूनानी
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سينترال بويبلا ناهواتل
     auto: true
+  - translation_iso: fra
+    name: nahuatl du Puebla central
   - translation_iso: hin
     name: मध्य पुएब्ला नाहुआत्ल
     auto: true

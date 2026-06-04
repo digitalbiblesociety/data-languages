@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة وورودوغو
     auto: true
+  - translation_iso: fra
+    name: worodougou
   - translation_iso: hin
     name: वोरोदुगू
     auto: true

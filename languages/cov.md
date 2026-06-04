@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاو ميايو
     auto: true
+  - translation_iso: fra
+    name: cao miao
   - translation_iso: hin
     name: काओ मियाओ
     auto: true

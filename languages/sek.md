@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سيكاني
     auto: true
+  - translation_iso: fra
+    name: sekani
   - translation_iso: hin
     name: सेकानी
     auto: true

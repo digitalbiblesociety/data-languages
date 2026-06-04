@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أيغون
     auto: true
+  - translation_iso: fra
+    name: aighon
   - translation_iso: hin
     name: ऐघोन
     auto: true

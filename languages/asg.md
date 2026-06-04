@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة تشيشينجيني
     auto: true
+  - translation_iso: fra
+    name: cishingini
   - translation_iso: hin
     name: चिशिंगिनी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أفيكام
     auto: true
+  - translation_iso: fra
+    name: avikam
   - translation_iso: hin
     name: अविकम भाषा
   - translation_iso: jpn

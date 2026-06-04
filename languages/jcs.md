@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جامايكا للغة الإشارة الريفية
     auto: true
+  - translation_iso: fra
+    name: langue des signes jamaïcaine rurale
   - translation_iso: hin
     name: जमैका देश की सांकेतिक भाषा
   - translation_iso: jpn

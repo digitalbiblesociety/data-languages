@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يسا
     auto: true
+  - translation_iso: fra
+    name: kisa
   - translation_iso: hin
     name: किसा
     auto: true

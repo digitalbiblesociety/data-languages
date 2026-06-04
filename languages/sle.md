@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة شولاجا
     auto: true
+  - translation_iso: fra
+    name: sholaga
   - translation_iso: hin
     name: शोलागा
     auto: true

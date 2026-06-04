@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناتوغو
     auto: true
+  - translation_iso: fra
+    name: natügu
   - translation_iso: hin
     name: नातुगु
     auto: true

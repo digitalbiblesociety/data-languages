@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الألبانية الأرڤانيتية
     auto: true
+  - translation_iso: fra
+    name: albanais arvanite
   - translation_iso: hin
     name: अर्वानितिका अल्बानियाई
     auto: true

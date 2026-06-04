@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاغوانا سينوفو
     auto: true
+  - translation_iso: fra
+    name: tagouana
   - translation_iso: hin
     name: तागवाना सेनोफो
     auto: true

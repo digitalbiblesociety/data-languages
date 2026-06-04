@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باك-تونج
     auto: true
+  - translation_iso: fra
+    name: pak-tong
   - translation_iso: hin
     name: पाक-तोंग
     auto: true

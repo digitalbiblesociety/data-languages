@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ونا
     auto: true
+  - translation_iso: fra
+    name: luna
   - translation_iso: hin
     name: लुना
     auto: true

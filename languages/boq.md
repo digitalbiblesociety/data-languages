@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: بوجايا
     auto: true
+  - translation_iso: fra
+    name: bogaya
   - translation_iso: hin
     name: बोगाया
     auto: true

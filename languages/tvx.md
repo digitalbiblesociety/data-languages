@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: تايفوان
     auto: true
+  - translation_iso: fra
+    name: taivoan
   - translation_iso: hin
     name: ताइवोआन
     auto: true

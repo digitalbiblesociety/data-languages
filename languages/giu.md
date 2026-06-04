@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مولآو
     auto: true
+  - translation_iso: fra
+    name: mulao
   - translation_iso: hin
     name: मुलाओ
     auto: true

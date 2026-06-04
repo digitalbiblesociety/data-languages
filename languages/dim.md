@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديمي
     auto: true
+  - translation_iso: fra
+    name: dime
   - translation_iso: hin
     name: डाइम
     auto: true

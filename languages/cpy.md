@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جنوب أوكاياليي أشينينكا
     auto: true
+  - translation_iso: fra
+    name: Ashéninka du Bas-Ucayali
+    auto: true
   - translation_iso: hin
     name: दक्षिण उकायाली अशेनिन्का
     auto: true

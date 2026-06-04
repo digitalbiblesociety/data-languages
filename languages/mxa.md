@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك أواكساكا الشمالية الغربية
     auto: true
+  - translation_iso: fra
+    name: "mixtèque d'Oaxaca du Nord-Ouest"
   - translation_iso: hin
     name: उत्तर-पश्चिमी ओआहाका मिक्सटेक
     auto: true

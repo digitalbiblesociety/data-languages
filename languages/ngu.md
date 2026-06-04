@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جويريرو ناهواتل
     auto: true
+  - translation_iso: fra
+    name: Nahuatl de Guerrero
+    auto: true
   - translation_iso: hin
     name: गेरेरो नाहुआतल
     auto: true

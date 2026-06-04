@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موجي
     auto: true
+  - translation_iso: fra
+    name: munji
   - translation_iso: hin
     name: मुंजी
     auto: true

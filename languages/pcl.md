@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بارذي
     auto: true
+  - translation_iso: fra
+    name: pardhi
   - translation_iso: hin
     name: पारधी
     auto: true

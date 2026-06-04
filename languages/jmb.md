@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة زومبون
     auto: true
+  - translation_iso: fra
+    name: Zumbun
+    auto: true
   - translation_iso: hin
     name: ज़ुम्बुन
     auto: true

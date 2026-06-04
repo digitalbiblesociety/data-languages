@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيكوما-ناتا-إيسينيي
     auto: true
+  - translation_iso: fra
+    name: nata
   - translation_iso: hin
     name: इकोमा-नाता-इसेन्ये
     auto: true

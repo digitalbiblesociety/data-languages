@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ارانتوكا الاي
     auto: true
+  - translation_iso: fra
+    name: Malais de Larantuka
+    auto: true
   - translation_iso: hin
     name: लारंतुका मलय
     auto: true

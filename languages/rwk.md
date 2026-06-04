@@ -17,6 +17,8 @@ glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid 
 translations:
   - translation_iso: ara
     name: الروا
+  - translation_iso: fra
+    name: rwa
   - translation_iso: hin
     name: रवा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توولي
     auto: true
+  - translation_iso: fra
+    name: tuwuli
   - translation_iso: hin
     name: तुवुली
     auto: true

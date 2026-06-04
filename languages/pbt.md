@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باشتو الجنوبية
     auto: true
+  - translation_iso: fra
+    name: pachto du Sud
   - translation_iso: hin
     name: दक्षिणी पश्तो
     auto: true

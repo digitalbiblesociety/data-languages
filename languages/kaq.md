@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كابانهوا
     auto: true
+  - translation_iso: fra
+    name: capanahua
   - translation_iso: hin
     name: कापानाहुआ
     auto: true

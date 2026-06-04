@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: لغة ييرك-مل
     auto: true
+  - translation_iso: fra
+    name: yirrk-thangalkl
   - translation_iso: hin
     name: यिर्क-मेल
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نكويا
     auto: true
+  - translation_iso: fra
+    name: nkoya
   - translation_iso: hin
     name: नकोया
     auto: true

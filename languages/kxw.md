@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوناي
     auto: true
+  - translation_iso: fra
+    name: konai
   - translation_iso: hin
     name: कोनाई
     auto: true

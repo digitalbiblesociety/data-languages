@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Kentish_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة إشارة كينتش القديمة
+  - translation_iso: fra
+    name: Ancienne langue des signes du Kent
+    auto: true
   - translation_iso: hin
     name: पुरानी केंटिश सांकेतिक भाषा
   - translation_iso: jpn

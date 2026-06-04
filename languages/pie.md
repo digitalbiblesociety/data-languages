@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بيرو
     auto: true
+  - translation_iso: fra
+    name: Piro
+    auto: true
   - translation_iso: hin
     name: पीरो भाषा
   - translation_iso: jpn

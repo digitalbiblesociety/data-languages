@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/L%C3%A1adan"
 translations:
   - translation_iso: ara
     name: لغة لادان
+  - translation_iso: fra
+    name: láadan
   - translation_iso: hin
     name: लादान
     auto: true

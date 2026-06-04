@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باغو
     auto: true
+  - translation_iso: fra
+    name: pagu
   - translation_iso: hin
     name: पागू
     auto: true

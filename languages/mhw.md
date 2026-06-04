@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبوكوشو
     auto: true
+  - translation_iso: fra
+    name: mbukushu
   - translation_iso: hin
     name: म्बुकुशु
     auto: true

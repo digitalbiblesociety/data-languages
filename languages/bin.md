@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Edo_language"
 translations:
   - translation_iso: ara
     name: البينية
+  - translation_iso: fra
+    name: édo
   - translation_iso: hin
     name: बिनी
   - translation_iso: jpn

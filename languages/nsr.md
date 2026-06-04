@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البحرية
     auto: true
+  - translation_iso: fra
+    name: langue des signes maritime
   - translation_iso: hin
     name: समुद्री सांकेतिक भाषा
   - translation_iso: jpn

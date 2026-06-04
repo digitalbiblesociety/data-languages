@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فاو
     auto: true
+  - translation_iso: fra
+    name: vao
   - translation_iso: hin
     name: वाओ
     auto: true

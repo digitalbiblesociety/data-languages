@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بهيلي
     auto: true
+  - translation_iso: fra
+    name: bhele
   - translation_iso: hin
     name: भेले
     auto: true

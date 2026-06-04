@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ينجاراك
     auto: true
+  - translation_iso: fra
+    name: lingarak
   - translation_iso: hin
     name: लिंगाराक
     auto: true

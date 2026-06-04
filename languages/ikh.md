@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيخين-أوكو
     auto: true
+  - translation_iso: fra
+    name: Ikhin-Aokho
+    auto: true
   - translation_iso: hin
     name: इखिन-आओखो
     auto: true

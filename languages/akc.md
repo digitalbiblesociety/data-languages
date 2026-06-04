@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة مپور
     auto: true
+  - translation_iso: fra
+    name: mpur
   - translation_iso: hin
     name: म्पुर
     auto: true

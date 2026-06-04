@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: كونجاردوتي
     auto: true
+  - translation_iso: fra
+    name: kungardutyi
   - translation_iso: hin
     name: कुंगारदुत्यी
     auto: true

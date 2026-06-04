@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديمبونج
     auto: true
+  - translation_iso: fra
+    name: dimbong
   - translation_iso: hin
     name: डिम्बोंग
     auto: true

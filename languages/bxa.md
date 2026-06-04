@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تايراها
     auto: true
+  - translation_iso: fra
+    name: bauro
   - translation_iso: hin
     name: तैराहा
     auto: true

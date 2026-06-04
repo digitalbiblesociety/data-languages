@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الناغا خيامنيونجيان
     auto: true
+  - translation_iso: fra
+    name: khiamniungan
   - translation_iso: hin
     name: ख्यामनियुंगन नागा
     auto: true

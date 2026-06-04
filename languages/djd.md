@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دجامينجونج
     auto: true
+  - translation_iso: fra
+    name: djamindjung
   - translation_iso: hin
     name: जमिनजुंग
     auto: true

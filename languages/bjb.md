@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانجارلا
     auto: true
+  - translation_iso: fra
+    name: banggarla
   - translation_iso: hin
     name: बांगर्ला
     auto: true

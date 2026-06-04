@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: الفاسو
     auto: true
+  - translation_iso: fra
+    name: fasu
   - translation_iso: hin
     name: फासू
     auto: true

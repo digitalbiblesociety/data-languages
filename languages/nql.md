@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: نجينديلينغو
     auto: true
+  - translation_iso: fra
+    name: ngendelengo
   - translation_iso: hin
     name: नगेंदेलेंगो
     auto: true

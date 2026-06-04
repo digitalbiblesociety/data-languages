@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: ييلان كريول
     auto: true
+  - translation_iso: fra
+    name: créole de Yilan
   - translation_iso: hin
     name: यिलान क्रियोल
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بآرá غآفيãو
     auto: true
+  - translation_iso: fra
+    name: parkatejê
   - translation_iso: hin
     name: पारा गाव्यांव
     auto: true

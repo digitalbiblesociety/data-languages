@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فارلي
     auto: true
+  - translation_iso: fra
+    name: Varli
+    auto: true
   - translation_iso: hin
     name: वारली
     auto: true

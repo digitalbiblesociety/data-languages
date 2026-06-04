@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تسيتاك
     auto: true
+  - translation_iso: fra
+    name: Citak
+    auto: true
   - translation_iso: hin
     name: सिताक
     auto: true

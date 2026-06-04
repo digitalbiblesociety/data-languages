@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كونيي
     auto: true
+  - translation_iso: fra
+    name: kikugni
   - translation_iso: hin
     name: कुन्यी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وابو
     auto: true
+  - translation_iso: fra
+    name: wabo
   - translation_iso: hin
     name: वाबो
     auto: true

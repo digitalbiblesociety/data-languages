@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Blackfoot_language"
 translations:
   - translation_iso: ara
     name: اللغة النيتسيتابية
+  - translation_iso: fra
+    name: pied-noir
   - translation_iso: hin
     name: सिक्सिका
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشاك
     auto: true
+  - translation_iso: fra
+    name: sak
   - translation_iso: hin
     name: चाक
     auto: true

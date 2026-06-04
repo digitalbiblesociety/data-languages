@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الشادونغ
     auto: true
+  - translation_iso: fra
+    name: chadong
   - translation_iso: hin
     name: चाडोंग
     auto: true

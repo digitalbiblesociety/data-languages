@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وايو
     auto: true
+  - translation_iso: fra
+    name: wayu
   - translation_iso: hin
     name: हायु
     auto: true

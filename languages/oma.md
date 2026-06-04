@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Omaha%E2%80%93Ponca_language"
 translations:
   - translation_iso: ara
     name: أوماها-بونكا
+  - translation_iso: fra
+    name: omaha-ponca
   - translation_iso: hin
     name: ओमाहा-पोंका
     auto: true

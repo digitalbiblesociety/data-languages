@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موندوروكو
     auto: true
+  - translation_iso: fra
+    name: munduruku
   - translation_iso: hin
     name: मुंदुरुकू
     auto: true

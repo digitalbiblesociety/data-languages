@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تومادينو
     auto: true
+  - translation_iso: fra
+    name: tomadino
   - translation_iso: hin
     name: तोमादीनो
     auto: true

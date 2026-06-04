@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مي ‍ّفا
     auto: true
+  - translation_iso: fra
+    name: tlapanèque de Malinaltepec
   - translation_iso: hin
     name: मालिनाल्तेपेक मेफा
     auto: true

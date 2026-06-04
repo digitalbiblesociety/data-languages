@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوتورو
     auto: true
+  - translation_iso: fra
+    name: otoro
   - translation_iso: hin
     name: ओटोरो
     auto: true

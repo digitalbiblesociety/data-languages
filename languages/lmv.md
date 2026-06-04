@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ومايفيتي
     auto: true
+  - translation_iso: fra
+    name: lomaiviti
   - translation_iso: hin
     name: लोमाइविती
     auto: true

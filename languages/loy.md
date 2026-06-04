@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وكي
     auto: true
+  - translation_iso: fra
+    name: lowa
   - translation_iso: hin
     name: लोके
     auto: true

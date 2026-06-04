@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشانج ناجا
     auto: true
+  - translation_iso: fra
+    name: Naga chang
+    auto: true
   - translation_iso: hin
     name: चांग भाषा
   - translation_iso: jpn

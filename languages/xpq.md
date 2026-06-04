@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: موهيجان-بيكوت
     auto: true
+  - translation_iso: fra
+    name: mohegan
   - translation_iso: hin
     name: मोहेगन-पेक्वोट
     auto: true

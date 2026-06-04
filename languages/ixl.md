@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيكسيل
     auto: true
+  - translation_iso: fra
+    name: ixil
   - translation_iso: hin
     name: इक्सिल
     auto: true

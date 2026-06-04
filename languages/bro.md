@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بروكّات
     auto: true
+  - translation_iso: fra
+    name: brokkat
   - translation_iso: hin
     name: ब्रोक्कत
     auto: true

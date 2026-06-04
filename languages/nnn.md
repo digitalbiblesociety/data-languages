@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نجيتي
     auto: true
+  - translation_iso: fra
+    name: ngeté
   - translation_iso: hin
     name: न्गेते
     auto: true

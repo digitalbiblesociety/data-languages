@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يابوندا
     auto: true
+  - translation_iso: fra
+    name: yapunda
   - translation_iso: hin
     name: यापुंडा
     auto: true

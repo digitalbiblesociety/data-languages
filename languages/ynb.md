@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة يامبن
     auto: true
+  - translation_iso: fra
+    name: Yamben
+    auto: true
   - translation_iso: hin
     name: यांबेन
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كورلاي كريول بورتغالي
     auto: true
+  - translation_iso: fra
+    name: Créole portugais de Korlai
+    auto: true
   - translation_iso: hin
     name: कोरलाई क्रियोल पुर्तगाली
     auto: true

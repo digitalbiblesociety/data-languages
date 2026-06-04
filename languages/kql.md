@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيينيلي
     auto: true
+  - translation_iso: fra
+    name: kyenele
   - translation_iso: hin
     name: क्येनेले
     auto: true

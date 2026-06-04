@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ييني
     auto: true
+  - translation_iso: fra
+    name: yeni
   - translation_iso: hin
     name: येनी
     auto: true

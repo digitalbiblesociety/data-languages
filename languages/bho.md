@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bhojpuri_language"
 translations:
   - translation_iso: ara
     name: البوجبورية
+  - translation_iso: fra
+    name: bhodjpouri
   - translation_iso: hin
     name: भोजपुरी भाषा
   - translation_iso: jpn

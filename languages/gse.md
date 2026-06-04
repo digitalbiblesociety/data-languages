@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الغانية
     auto: true
+  - translation_iso: fra
+    name: langue des signes ghanéenne
   - translation_iso: hin
     name: घाना की सांकेतिक भाषा
   - translation_iso: jpn

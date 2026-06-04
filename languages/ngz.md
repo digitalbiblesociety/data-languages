@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نجونجويل
     auto: true
+  - translation_iso: fra
+    name: Ngungwel
+    auto: true
   - translation_iso: hin
     name: न्गुंग्वेल
     auto: true

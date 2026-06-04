@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك تشيجمكاتيتلان
     auto: true
+  - translation_iso: fra
+    name: Mixtèque de Chigmecatitlán
+    auto: true
   - translation_iso: hin
     name: चिग्मेकातित्लान मिश्तेक
     auto: true

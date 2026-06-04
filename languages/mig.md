@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك سان ميجيل
     auto: true
+  - translation_iso: fra
+    name: mixtèque de San Miguel El Grande
   - translation_iso: hin
     name: सान मिगेल एल ग्रांडे मिश्तेक
     auto: true

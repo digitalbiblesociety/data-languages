@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجوندي الأهري
     auto: true
+  - translation_iso: fra
+    name: aheri
   - translation_iso: hin
     name: अहेरी गोंडी
   - translation_iso: jpn

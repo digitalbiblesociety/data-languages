@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكوكوبا
     auto: true
+  - translation_iso: fra
+    name: cocopa
   - translation_iso: hin
     name: कोकोपा
     auto: true

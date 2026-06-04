@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوميتابا
     auto: true
+  - translation_iso: fra
+    name: leke
   - translation_iso: hin
     name: बोमिताबा
     auto: true

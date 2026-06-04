@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: وافا
     auto: true
+  - translation_iso: fra
+    name: waffa
   - translation_iso: hin
     name: वाफ़ा
     auto: true

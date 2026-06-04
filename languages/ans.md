@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أنسيرما
     auto: true
+  - translation_iso: fra
+    name: Anserma
   - translation_iso: hin
     name: अनसरमा
     auto: true

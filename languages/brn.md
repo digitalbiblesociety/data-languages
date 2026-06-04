@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوروكا
     auto: true
+  - translation_iso: fra
+    name: boruca
   - translation_iso: hin
     name: बोरुका
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الملغاشية
     auto: true
+  - translation_iso: fra
+    name: langue des signes malgache
   - translation_iso: hin
     name: मेडागास्कर सांकेतिक भाषा
     auto: true

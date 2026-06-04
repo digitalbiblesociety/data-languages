@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيبيري
     auto: true
+  - translation_iso: fra
+    name: porome
   - translation_iso: hin
     name: किबिरी
     auto: true

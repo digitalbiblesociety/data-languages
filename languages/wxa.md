@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واخيانغهوا
     auto: true
+  - translation_iso: fra
+    name: xianghua
   - translation_iso: hin
     name: वाक्सियांगहुआ
     auto: true

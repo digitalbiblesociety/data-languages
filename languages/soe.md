@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سونجومينو
     auto: true
+  - translation_iso: fra
+    name: songomeno
   - translation_iso: hin
     name: सोंगोमेनो
     auto: true

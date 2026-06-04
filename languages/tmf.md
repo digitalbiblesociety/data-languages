@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توبا ماسكوي
     auto: true
+  - translation_iso: fra
+    name: toba mascoy
   - translation_iso: hin
     name: तोबा-मास्कोय
     auto: true

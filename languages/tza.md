@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التنزانية
     auto: true
+  - translation_iso: fra
+    name: langue des signes tanzanienne
   - translation_iso: hin
     name: तंजानियाई सांकेतिक भाषा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاسيبو بالسي
     auto: true
+  - translation_iso: fra
+    name: kacipo-balesi
   - translation_iso: hin
     name: कासिपो-बालेसी
     auto: true

@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: شيتلان
     auto: true
+  - translation_iso: fra
+    name: shetlandais
   - translation_iso: hin
     name: शेटलान
     auto: true

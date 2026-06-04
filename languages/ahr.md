@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة أهيراني
     auto: true
+  - translation_iso: fra
+    name: ahirani
   - translation_iso: hin
     name: अहिराणी
     auto: true

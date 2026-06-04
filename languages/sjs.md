@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Senhaja_de_Srair_language"
 translations:
   - translation_iso: ara
     name: أمازيغية صنهاجة السراير
+  - translation_iso: fra
+    name: Senhadji de Srayr
   - translation_iso: hin
     name: सेन्हाजा डे स्रायर
     auto: true

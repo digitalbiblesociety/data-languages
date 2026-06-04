@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زاري
     auto: true
+  - translation_iso: fra
+    name: zari
   - translation_iso: hin
     name: ज़ारी
     auto: true

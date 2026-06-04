@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جيديو
     auto: true
+  - translation_iso: fra
+    name: gedeo
   - translation_iso: hin
     name: गेदेओ
     auto: true

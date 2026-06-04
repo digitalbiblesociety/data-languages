@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: كوتونامي
     auto: true
+  - translation_iso: fra
+    name: cotoname
   - translation_iso: hin
     name: कोटोनामे
     auto: true

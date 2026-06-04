@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة آوو
     auto: true
+  - translation_iso: fra
+    name: Lope
   - translation_iso: hin
     name: अवू
     auto: true

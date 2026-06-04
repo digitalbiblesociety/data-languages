@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Duala_language"
 translations:
   - translation_iso: ara
     name: الديولا
+  - translation_iso: fra
+    name: Duala
   - translation_iso: hin
     name: दुआला
   - translation_iso: jpn

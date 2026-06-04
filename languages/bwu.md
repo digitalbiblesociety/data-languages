@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بولي
     auto: true
+  - translation_iso: fra
+    name: buli
   - translation_iso: hin
     name: बुली (घाना)
     auto: true

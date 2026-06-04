@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الصينية القديمة
     auto: true
+  - translation_iso: fra
+    name: chinois archaïque
   - translation_iso: hin
     name: प्राचीन चीनी
     auto: true

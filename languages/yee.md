@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ييماس
     auto: true
+  - translation_iso: fra
+    name: yimas
   - translation_iso: hin
     name: यिमास
     auto: true

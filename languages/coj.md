@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكوتشيمي
     auto: true
+  - translation_iso: fra
+    name: cochimi
   - translation_iso: hin
     name: कोचिमी
     auto: true

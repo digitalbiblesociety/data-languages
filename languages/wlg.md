@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كونبارلانغ
     auto: true
+  - translation_iso: fra
+    name: kunbarlang
   - translation_iso: hin
     name: कुनबर्लंग
     auto: true

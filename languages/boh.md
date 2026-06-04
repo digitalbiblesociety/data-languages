@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوما
     auto: true
+  - translation_iso: fra
+    name: boma
   - translation_iso: hin
     name: बोमा
     auto: true

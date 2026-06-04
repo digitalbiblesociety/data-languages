@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: "لغة ي'و"
     auto: true
+  - translation_iso: fra
+    name: "li'o"
   - translation_iso: hin
     name: लिओ
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: روكاي
     auto: true
+  - translation_iso: fra
+    name: rukai
   - translation_iso: hin
     name: रुकाई
     auto: true

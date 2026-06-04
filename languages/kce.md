@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كايفي
     auto: true
+  - translation_iso: fra
+    name: kaivi
   - translation_iso: hin
     name: काइवी
     auto: true

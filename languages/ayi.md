@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ليجيغا
     auto: true
+  - translation_iso: fra
+    name: Leyigha
+    auto: true
   - translation_iso: hin
     name: लेयिघा
     auto: true

@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: أوميدا
     auto: true
+  - translation_iso: fra
+    name: umiida
   - translation_iso: hin
     name: उमीदा
     auto: true

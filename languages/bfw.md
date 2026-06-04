@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوندو
     auto: true
+  - translation_iso: fra
+    name: bonda
   - translation_iso: hin
     name: रेमो भाषा
   - translation_iso: jpn

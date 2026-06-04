@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: اللغة تيكي نزيكو
     auto: true
+  - translation_iso: fra
+    name: teke-nzikou
   - translation_iso: hin
     name: तेके-नज़िकू
     auto: true

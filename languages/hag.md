@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: هآنجآ
     auto: true
+  - translation_iso: fra
+    name: hanga
   - translation_iso: hin
     name: हंगा
     auto: true

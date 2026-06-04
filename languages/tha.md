@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Thai_language"
 translations:
   - translation_iso: ara
     name: التايلندية
+  - translation_iso: fra
+    name: thaï
   - translation_iso: hin
     name: थाई भाषा
   - translation_iso: jpn

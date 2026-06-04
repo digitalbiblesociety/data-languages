@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تارانغان الغربية
     auto: true
+  - translation_iso: fra
+    name: tarangan occidental
   - translation_iso: hin
     name: पश्चिमी तारंगन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويرانغو
     auto: true
+  - translation_iso: fra
+    name: wirangu
   - translation_iso: hin
     name: विरंगु
     auto: true

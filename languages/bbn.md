@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونيابا
     auto: true
+  - translation_iso: fra
+    name: Uneapa
+    auto: true
   - translation_iso: hin
     name: उनेआपा
     auto: true

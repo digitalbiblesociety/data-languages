@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بيسيس
     auto: true
+  - translation_iso: fra
+    name: bisis
   - translation_iso: hin
     name: बिसिस
     auto: true

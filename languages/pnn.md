@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بينّاي-هاجاهاي
     auto: true
+  - translation_iso: fra
+    name: pinai-hagahai
   - translation_iso: hin
     name: पिनाई-हगहाई
     auto: true

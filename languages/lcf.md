@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوبو
     auto: true
+  - translation_iso: fra
+    name: lubu
   - translation_iso: hin
     name: लुबू
     auto: true

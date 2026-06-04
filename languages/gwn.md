@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوآندآرآ
     auto: true
+  - translation_iso: fra
+    name: gwandara
   - translation_iso: hin
     name: ग्वंदारा
     auto: true

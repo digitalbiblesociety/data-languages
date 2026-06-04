@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أمباكيت
     auto: true
+  - translation_iso: fra
+    name: ambakich
   - translation_iso: hin
     name: अम्बाकिच
     auto: true

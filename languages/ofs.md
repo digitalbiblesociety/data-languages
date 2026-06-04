@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الفريزية القديمة
     auto: true
+  - translation_iso: fra
+    name: vieux frison
   - translation_iso: hin
     name: प्राचीन फ़्रिज़ियन
     auto: true

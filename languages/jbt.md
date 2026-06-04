@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جابوتي
     auto: true
+  - translation_iso: fra
+    name: djeoromitxi
   - translation_iso: hin
     name: जाबुती
     auto: true

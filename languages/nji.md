@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جودانجي
     auto: true
+  - translation_iso: fra
+    name: ngarnka
   - translation_iso: hin
     name: गुदानजी
     auto: true

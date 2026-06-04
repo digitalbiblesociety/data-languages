@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيرا
     auto: true
+  - translation_iso: fra
+    name: bera
   - translation_iso: hin
     name: बेरा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسورينيه شينجو
     auto: true
+  - translation_iso: fra
+    name: asurini du Xingu
   - translation_iso: hin
     name: शिंगू असुरिनी
     auto: true

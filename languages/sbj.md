@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سوربخال
     auto: true
+  - translation_iso: fra
+    name: surbakhal
   - translation_iso: hin
     name: सुरबखाल
     auto: true

@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: مايي-ثاكورتي
     auto: true
+  - translation_iso: fra
+    name: mayi-thakurti
   - translation_iso: hin
     name: मायी-थाकुर्ती
     auto: true

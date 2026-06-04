@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كارو
     auto: true
+  - translation_iso: fra
+    name: karo
   - translation_iso: hin
     name: कारो (ब्राज़ील)
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ينجيلو
     auto: true
+  - translation_iso: fra
+    name: lengilu
   - translation_iso: hin
     name: लेंगिलु
     auto: true

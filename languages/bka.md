@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كياك
     auto: true
+  - translation_iso: fra
+    name: Kyak
+    auto: true
   - translation_iso: hin
     name: क्याक
     auto: true

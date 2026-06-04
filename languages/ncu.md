@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشومبورونج
     auto: true
+  - translation_iso: fra
+    name: chumburung
   - translation_iso: hin
     name: चुम्बुरुंग
     auto: true

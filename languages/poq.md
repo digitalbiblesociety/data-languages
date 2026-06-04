@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا تيكسيستيبك
     auto: true
+  - translation_iso: fra
+    name: popoluca de Texistepec
   - translation_iso: hin
     name: तेक्सिस्तेपेक पोपोलुका
     auto: true

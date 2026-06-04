@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مانغاس
     auto: true
+  - translation_iso: fra
+    name: mangas
   - translation_iso: hin
     name: मांगस
     auto: true

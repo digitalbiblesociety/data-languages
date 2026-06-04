@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مامايند
     auto: true
+  - translation_iso: fra
+    name: mamaindé
   - translation_iso: hin
     name: ममाइन्दे
     auto: true

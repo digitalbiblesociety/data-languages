@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساساروا
     auto: true
+  - translation_iso: fra
+    name: Sasaru
+    auto: true
   - translation_iso: hin
     name: ससारु
     auto: true

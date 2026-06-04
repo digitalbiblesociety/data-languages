@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيز بيرس
     auto: true
+  - translation_iso: fra
+    name: nez-percé
   - translation_iso: hin
     name: नेज़ पर्स
     auto: true

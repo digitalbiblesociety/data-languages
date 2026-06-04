@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشول
     auto: true
+  - translation_iso: fra
+    name: "ch'ol"
   - translation_iso: hin
     name: चोल
     auto: true

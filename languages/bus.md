@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بوكوباروو
     auto: true
+  - translation_iso: fra
+    name: bokobaru
   - translation_iso: hin
     name: बोकोबारू
     auto: true

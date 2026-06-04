@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوروكايفا
     auto: true
+  - translation_iso: fra
+    name: orokaiva
   - translation_iso: hin
     name: ओरोकैवा
     auto: true

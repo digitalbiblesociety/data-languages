@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بن تاي دوجون
     auto: true
+  - translation_iso: fra
+    name: ben tey
   - translation_iso: hin
     name: बेन तेय दोगोन
     auto: true

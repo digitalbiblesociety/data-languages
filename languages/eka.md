@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kajuk_language"
 translations:
   - translation_iso: ara
     name: الإكاجك
+  - translation_iso: fra
+    name: ékajuk
   - translation_iso: hin
     name: एकाजुक
   - translation_iso: jpn

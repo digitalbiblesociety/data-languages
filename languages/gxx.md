@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: وè سووثإرن
     auto: true
+  - translation_iso: fra
+    name: guéré méridional
   - translation_iso: hin
     name: वे दक्षिणी
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إمبونغو
     auto: true
+  - translation_iso: fra
+    name: imbongu
   - translation_iso: hin
     name: इम्बोंगु
     auto: true

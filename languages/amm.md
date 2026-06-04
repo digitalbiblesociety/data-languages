@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة آما
     auto: true
+  - translation_iso: fra
+    name: ama
   - translation_iso: hin
     name: अमा (पापुआ न्यू गिनी)
     auto: true

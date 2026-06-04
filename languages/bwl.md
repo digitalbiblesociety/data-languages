@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بويلا
     auto: true
+  - translation_iso: fra
+    name: Bwela
+    auto: true
   - translation_iso: hin
     name: ब्वेला
     auto: true

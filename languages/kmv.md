@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الكريولية الفرنسية كاريبونا
     auto: true
+  - translation_iso: fra
+    name: karipuna
   - translation_iso: hin
     name: करिपूना क्रियोल फ्रेंच
     auto: true

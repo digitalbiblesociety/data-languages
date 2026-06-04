@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بورام
     auto: true
+  - translation_iso: fra
+    name: purum
   - translation_iso: hin
     name: पुरुम भाषा
   - translation_iso: jpn

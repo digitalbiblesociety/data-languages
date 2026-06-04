@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوك ثايور
     auto: true
+  - translation_iso: fra
+    name: kuuk-thaayore
   - translation_iso: hin
     name: कूक थायोर्रे
     auto: true

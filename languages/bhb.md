@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: بهيلي
     auto: true
+  - translation_iso: fra
+    name: bhili
   - translation_iso: hin
     name: भील भाषा
   - translation_iso: jpn

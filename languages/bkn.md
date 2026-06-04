@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوكيتان
     auto: true
+  - translation_iso: fra
+    name: boukitan
   - translation_iso: hin
     name: बुकितन
     auto: true

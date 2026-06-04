@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: ليجينييم
     auto: true
+  - translation_iso: fra
+    name: legenyem
   - translation_iso: hin
     name: लेगेनयेम
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الهاواية
     auto: true
+  - translation_iso: fra
+    name: "langue des signes d'Hawaï"
   - translation_iso: hin
     name: हवाई सांकेतिक भाषा
   - translation_iso: jpn

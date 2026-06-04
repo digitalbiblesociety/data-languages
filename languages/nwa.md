@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ناواثينيهينا
     auto: true
+  - translation_iso: fra
+    name: Nawathinehena
+    auto: true
   - translation_iso: hin
     name: नावाथिनेहेना
     auto: true

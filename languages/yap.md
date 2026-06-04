@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yapese_language"
 translations:
   - translation_iso: ara
     name: اليابيز
+  - translation_iso: fra
+    name: yap
   - translation_iso: hin
     name: यापीस
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نارووا
     auto: true
+  - translation_iso: fra
+    name: na
   - translation_iso: hin
     name: ना भाषा
   - translation_iso: jpn

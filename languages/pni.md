@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوهينج
     auto: true
+  - translation_iso: fra
+    name: aoheng
   - translation_iso: hin
     name: आओहेंग
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كومبيو
     auto: true
+  - translation_iso: fra
+    name: kombio
   - translation_iso: hin
     name: कोम्बियो
     auto: true

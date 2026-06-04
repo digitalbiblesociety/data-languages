@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Indian_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة إشارة السهول للهنود الحمر
+  - translation_iso: fra
+    name: langues des signes des Indiens des Plaines
   - translation_iso: hin
     name: मैदान भारतीय सांकेतिक भाषा
   - translation_iso: jpn

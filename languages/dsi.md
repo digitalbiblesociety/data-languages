@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Disa_language"
 translations:
   - translation_iso: ara
     name: ديسا
+  - translation_iso: fra
+    name: disa
   - translation_iso: hin
     name: दिसा
     auto: true

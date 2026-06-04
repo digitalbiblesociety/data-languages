@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Central_Kanuri"
 translations:
   - translation_iso: ara
     name: وسط كانوري
+  - translation_iso: fra
+    name: kanouri central
   - translation_iso: hin
     name: मध्य कनुरी
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: غإسإر-غوروم
     auto: true
+  - translation_iso: fra
+    name: Geser-Gorom
+    auto: true
   - translation_iso: hin
     name: गेसेर-गोरोम
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Urdu"
 translations:
   - translation_iso: ara
     name: الأردية
+  - translation_iso: fra
+    name: ourdou
   - translation_iso: hin
     name: उर्दू
   - translation_iso: jpn

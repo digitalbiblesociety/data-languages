@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة ماري الغربية
     auto: true
+  - translation_iso: fra
+    name: mari des montagnes
   - translation_iso: hin
     name: पश्चिमी मारी
     auto: true

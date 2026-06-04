@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أونغ
     auto: true
+  - translation_iso: fra
+    name: ong
   - translation_iso: hin
     name: ओंग
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوسو
     auto: true
+  - translation_iso: fra
+    name: kusu
   - translation_iso: hin
     name: कुसु
     auto: true

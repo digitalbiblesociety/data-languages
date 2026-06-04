@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Acholi_dialect"
 translations:
   - translation_iso: ara
     name: الأكولية
+  - translation_iso: fra
+    name: acholi
   - translation_iso: hin
     name: अकोली
   - translation_iso: jpn

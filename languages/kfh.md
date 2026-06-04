@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوريتشيا
     auto: true
+  - translation_iso: fra
+    name: kurichiya
   - translation_iso: hin
     name: कुरिचिया
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ومبي
     auto: true
+  - translation_iso: fra
+    name: lombi
   - translation_iso: hin
     name: लोंबी
     auto: true

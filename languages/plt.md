@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة ملغاسية البلاتو
     auto: true
+  - translation_iso: fra
+    name: malgache du plateau
   - translation_iso: hin
     name: पठारी मालागासी
     auto: true

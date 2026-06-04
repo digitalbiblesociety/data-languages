@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بياپون
     auto: true
+  - translation_iso: fra
+    name: Pyapun
+    auto: true
   - translation_iso: hin
     name: प्यापुन
     auto: true

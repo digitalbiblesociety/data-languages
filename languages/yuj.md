@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاركار-يوري
     auto: true
+  - translation_iso: fra
+    name: karkar
   - translation_iso: hin
     name: कर्कर-युरी
     auto: true

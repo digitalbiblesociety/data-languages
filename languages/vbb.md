@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جنوب شرق بابار
     auto: true
+  - translation_iso: fra
+    name: Babar du Sud-Est
+    auto: true
   - translation_iso: hin
     name: दक्षिणपूर्वी बबर
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كايا الغربية
     auto: true
+  - translation_iso: fra
+    name: "kayah de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी कायाह
     auto: true

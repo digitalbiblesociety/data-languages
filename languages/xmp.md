@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوكو-موئيني
     auto: true
+  - translation_iso: fra
+    name: "kuku-mu'inh"
   - translation_iso: hin
     name: कुकु-मुइन्ह
     auto: true

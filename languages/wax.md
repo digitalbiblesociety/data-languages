@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واتام
     auto: true
+  - translation_iso: fra
+    name: watam
   - translation_iso: hin
     name: वातम
     auto: true

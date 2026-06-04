@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تانوسي ملغاشي
     auto: true
+  - translation_iso: fra
+    name: antanosy
   - translation_iso: hin
     name: तानोसी मालागासी
     auto: true

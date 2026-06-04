@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موندروبولون
     auto: true
+  - translation_iso: fra
+    name: mondropolon
   - translation_iso: hin
     name: मोन्द्रोपोलोन
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فاغري
     auto: true
+  - translation_iso: fra
+    name: Vaghri
+    auto: true
   - translation_iso: hin
     name: वाघरी
     auto: true

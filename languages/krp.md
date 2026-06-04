@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوروب
     auto: true
+  - translation_iso: fra
+    name: korop
   - translation_iso: hin
     name: कोरोप
     auto: true

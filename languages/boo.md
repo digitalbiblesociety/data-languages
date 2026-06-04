@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تيماسيوي بوزو
     auto: true
+  - translation_iso: fra
+    name: bozo de Tiemacèwè
   - translation_iso: hin
     name: तियेमासेवे बोज़ो
     auto: true

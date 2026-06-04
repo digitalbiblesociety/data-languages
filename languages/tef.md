@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيريسا
     auto: true
+  - translation_iso: fra
+    name: teressa
   - translation_iso: hin
     name: तेरेस्सा भाषा
   - translation_iso: jpn

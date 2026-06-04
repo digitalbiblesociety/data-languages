@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوآمبيآنو
     auto: true
+  - translation_iso: fra
+    name: guambiano
   - translation_iso: hin
     name: गुआम्बियानो
     auto: true

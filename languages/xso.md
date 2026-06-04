@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: سولانو
     auto: true
+  - translation_iso: fra
+    name: solano
   - translation_iso: hin
     name: सोलानो
     auto: true

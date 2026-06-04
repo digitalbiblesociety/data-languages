@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سآ
     auto: true
+  - translation_iso: fra
+    name: sa’a
   - translation_iso: hin
     name: साआ
     auto: true

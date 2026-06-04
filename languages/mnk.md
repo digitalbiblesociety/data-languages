@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mandinka_language"
 translations:
   - translation_iso: ara
     name: لغة مندنكا
+  - translation_iso: fra
+    name: mandinka
   - translation_iso: hin
     name: मंडिंका भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dhivehi_language"
 translations:
   - translation_iso: ara
     name: ديفهي
+  - translation_iso: fra
+    name: maldivien
   - translation_iso: hin
     name: महल्
   - translation_iso: jpn

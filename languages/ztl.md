@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاباغويا-غويفيني
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Lapaguía-Guivini
   - translation_iso: hin
     name: लापागुइया-गुइविनी ज़ापोटेक
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غيبآنآوآ
     auto: true
+  - translation_iso: fra
+    name: gibanawa
   - translation_iso: hin
     name: गिबानावा
     auto: true

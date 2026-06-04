@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتونج
     auto: true
+  - translation_iso: fra
+    name: tutong
   - translation_iso: hin
     name: तुतोंग
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زانغسكاري
     auto: true
+  - translation_iso: fra
+    name: zangskari
   - translation_iso: hin
     name: ज़ंग्सकरी भाषा
   - translation_iso: jpn

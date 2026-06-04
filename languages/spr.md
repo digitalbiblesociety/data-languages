@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سابارو
     auto: true
+  - translation_iso: fra
+    name: saparua
   - translation_iso: hin
     name: सापारुआ
     auto: true

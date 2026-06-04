@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تينادن
     auto: true
+  - translation_iso: fra
+    name: tonga
   - translation_iso: hin
     name: तेनेदन
     auto: true

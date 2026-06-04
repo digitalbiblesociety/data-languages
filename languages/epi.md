@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإبي
     auto: true
+  - translation_iso: fra
+    name: epie
   - translation_iso: hin
     name: एपिए
     auto: true

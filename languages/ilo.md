@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ilocano_language"
 translations:
   - translation_iso: ara
     name: الإيلوكانوية
+  - translation_iso: fra
+    name: ilocano
   - translation_iso: hin
     name: इलोकानो भाषा
   - translation_iso: jpn

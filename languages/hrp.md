@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: نهيريبي
     auto: true
+  - translation_iso: fra
+    name: nhirrpi
   - translation_iso: hin
     name: न्हिरपी
     auto: true

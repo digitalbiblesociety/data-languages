@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باهينج
     auto: true
+  - translation_iso: fra
+    name: bahing
   - translation_iso: hin
     name: बाहिङ
     auto: true

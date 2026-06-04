@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة ياكايكيكي
     auto: true
+  - translation_iso: fra
+    name: yakaikeke
   - translation_iso: hin
     name: याकाइकेके
     auto: true

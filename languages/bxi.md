@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: پيرْلاتاپا
     auto: true
+  - translation_iso: fra
+    name: pirlatapa
   - translation_iso: hin
     name: पिर्लातापा
     auto: true

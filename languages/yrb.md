@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ياربا
     auto: true
+  - translation_iso: fra
+    name: yareba
   - translation_iso: hin
     name: यारेबा
     auto: true

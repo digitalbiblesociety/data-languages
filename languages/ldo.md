@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وو
     auto: true
+  - translation_iso: fra
+    name: Loo
+    auto: true
   - translation_iso: hin
     name: लू
     auto: true

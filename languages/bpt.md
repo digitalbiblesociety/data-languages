@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باروو پوينت
     auto: true
+  - translation_iso: fra
+    name: barrow point
   - translation_iso: hin
     name: बैरो पॉइंट
     auto: true

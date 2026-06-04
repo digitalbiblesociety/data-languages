@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الوسطى
     auto: true
+  - translation_iso: fra
+    name: pomo central
   - translation_iso: hin
     name: मध्य पोमो भाषा
   - translation_iso: jpn

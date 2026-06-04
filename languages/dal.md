@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داهالو
     auto: true
+  - translation_iso: fra
+    name: dahalo
   - translation_iso: hin
     name: दहालो
     auto: true

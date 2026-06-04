@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بومبوكول
     auto: true
+  - translation_iso: fra
+    name: poumpokole
   - translation_iso: hin
     name: पुम्पोकोल
     auto: true

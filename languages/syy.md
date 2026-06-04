@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Al-Sayyid_Bedouin_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة لعشيرة السيد
+  - translation_iso: fra
+    name: "Langue des signes bédouine d'Al-Sayyid"
+    auto: true
   - translation_iso: hin
     name: अल-सय्यद बेडौइन सांकेतिक भाषा
     auto: true

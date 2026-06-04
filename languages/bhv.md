@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: باهاو
     auto: true
+  - translation_iso: fra
+    name: bahau
   - translation_iso: hin
     name: बहाऊ
     auto: true

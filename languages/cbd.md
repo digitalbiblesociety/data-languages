@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاريجونا
     auto: true
+  - translation_iso: fra
+    name: carijona
   - translation_iso: hin
     name: कारिजोना
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آي واك
     auto: true
+  - translation_iso: fra
+    name: I-Wak
+    auto: true
   - translation_iso: hin
     name: आई-वाक
     auto: true

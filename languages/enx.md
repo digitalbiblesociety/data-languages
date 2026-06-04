@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإنكسيت
     auto: true
+  - translation_iso: fra
+    name: enxet
   - translation_iso: hin
     name: एनशेट
     auto: true

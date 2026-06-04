@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أبيلن أيتا
     auto: true
+  - translation_iso: fra
+    name: Abellen Ayta
+    auto: true
   - translation_iso: hin
     name: अबेल्लेन अयता
     auto: true

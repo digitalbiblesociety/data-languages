@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يجينزا
     auto: true
+  - translation_iso: fra
+    name: genza
   - translation_iso: hin
     name: लिगेन्ज़ा
     auto: true

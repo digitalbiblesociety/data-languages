@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيليي
     auto: true
+  - translation_iso: fra
+    name: beele
   - translation_iso: hin
     name: बेएले
     auto: true

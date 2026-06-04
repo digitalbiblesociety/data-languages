@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: و نورتهيرن
     auto: true
+  - translation_iso: fra
+    name: wobé
   - translation_iso: hin
     name: उत्तरी वे
     auto: true

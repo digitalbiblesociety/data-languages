@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوروايك
     auto: true
+  - translation_iso: fra
+    name: puroik
   - translation_iso: hin
     name: पुरोइक भाषा
   - translation_iso: jpn

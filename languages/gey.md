@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إنيآ
     auto: true
+  - translation_iso: fra
+    name: enya
   - translation_iso: hin
     name: एन्या
     auto: true

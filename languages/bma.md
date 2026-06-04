@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لامي
     auto: true
+  - translation_iso: fra
+    name: Lame
+    auto: true
   - translation_iso: hin
     name: लामे
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان فيسينتي كوتلان
     auto: true
+  - translation_iso: fra
+    name: zapotèque de San Vicente Coatlán
   - translation_iso: hin
     name: सान विसेन्ते कोआतलान सैपोटेक
     auto: true

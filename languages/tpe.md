@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيبيرا
     auto: true
+  - translation_iso: fra
+    name: tippera
   - translation_iso: hin
     name: टिप्पेरा
     auto: true

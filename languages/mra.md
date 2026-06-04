@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ملابري
     auto: true
+  - translation_iso: fra
+    name: mlabri
   - translation_iso: hin
     name: म्लाब्री
     auto: true

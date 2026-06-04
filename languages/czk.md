@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: الكناني
     auto: true
+  - translation_iso: fra
+    name: knaanique
   - translation_iso: hin
     name: कनानिक
     auto: true

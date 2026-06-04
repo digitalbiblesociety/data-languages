@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الإسوما
     auto: true
+  - translation_iso: fra
+    name: essouma
   - translation_iso: hin
     name: एसुमा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيريبي
     auto: true
+  - translation_iso: fra
+    name: teribe
   - translation_iso: hin
     name: तेरिबे
     auto: true

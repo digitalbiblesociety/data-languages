@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bilen_language"
 translations:
   - translation_iso: ara
     name: البلينية
+  - translation_iso: fra
+    name: bilen
   - translation_iso: hin
     name: ब्लिन
   - translation_iso: jpn

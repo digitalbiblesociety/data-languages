@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لانجو (أوغندا)
     auto: true
+  - translation_iso: fra
+    name: lango
   - translation_iso: hin
     name: लांगो (युगांडा)
     auto: true

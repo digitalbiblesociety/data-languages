@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ساماروكينا
     auto: true
+  - translation_iso: fra
+    name: samarokena
   - translation_iso: hin
     name: समारोकेना
     auto: true

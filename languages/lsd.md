@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لشنا ديني
     auto: true
+  - translation_iso: fra
+    name: lishana deni
   - translation_iso: hin
     name: लिशाना देनी
     auto: true

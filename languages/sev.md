@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيارافولو سينوفو
     auto: true
+  - translation_iso: fra
+    name: niarafolo
   - translation_iso: hin
     name: न्यारफोलो सेनोफो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيتي سامي
     auto: true
+  - translation_iso: fra
+    name: same de Pite
   - translation_iso: hin
     name: पिते सामी
     auto: true

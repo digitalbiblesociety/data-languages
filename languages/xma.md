@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: موشونجولو
     auto: true
+  - translation_iso: fra
+    name: mushungulu
   - translation_iso: hin
     name: मुशुंगुलु
     auto: true

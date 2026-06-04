@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: بيرتا
     auto: true
+  - translation_iso: fra
+    name: berta
   - translation_iso: hin
     name: बेर्ता
     auto: true

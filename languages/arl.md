@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرابيلا
     auto: true
+  - translation_iso: fra
+    name: arabela
   - translation_iso: hin
     name: अराबेला
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مبانجا
     auto: true
+  - translation_iso: fra
+    name: mbandja
   - translation_iso: hin
     name: म्बंदजा
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جيين
     auto: true
+  - translation_iso: fra
+    name: Dza
+    auto: true
   - translation_iso: hin
     name: ज़ा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: شوكلينج
     auto: true
+  - translation_iso: fra
+    name: xoclengue
   - translation_iso: hin
     name: शोक्लेंग
     auto: true

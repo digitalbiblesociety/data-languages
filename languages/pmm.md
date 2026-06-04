@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بومو
     auto: true
+  - translation_iso: fra
+    name: pol
   - translation_iso: hin
     name: पोमो
     auto: true

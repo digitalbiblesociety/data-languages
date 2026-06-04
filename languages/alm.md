@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أمبلونج
     auto: true
+  - translation_iso: fra
+    name: amblong
   - translation_iso: hin
     name: अम्ब्लोंग
     auto: true

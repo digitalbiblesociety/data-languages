@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غورآمآلوم
     auto: true
+  - translation_iso: fra
+    name: guramalum
   - translation_iso: hin
     name: गुरामालुम
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة سنترال كاغايان أغتا
     auto: true
+  - translation_iso: fra
+    name: agta du Cagayan central
   - translation_iso: hin
     name: मध्य कागायान अग्ता
     auto: true

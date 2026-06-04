@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميل الإثيوبية
     auto: true
+  - translation_iso: fra
+    name: maale
   - translation_iso: hin
     name: माले
     auto: true

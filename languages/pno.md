@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانوبو
     auto: true
+  - translation_iso: fra
+    name: huariapano
   - translation_iso: hin
     name: पानोबो
     auto: true

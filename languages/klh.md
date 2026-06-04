@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ويليكي
     auto: true
+  - translation_iso: fra
+    name: Weliki
+    auto: true
   - translation_iso: hin
     name: वेलिकी
     auto: true

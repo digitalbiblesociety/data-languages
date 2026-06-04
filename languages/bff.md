@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوفي
     auto: true
+  - translation_iso: fra
+    name: bofi
   - translation_iso: hin
     name: बोफी
     auto: true

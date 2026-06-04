@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانامينت
     auto: true
+  - translation_iso: fra
+    name: timbisha
   - translation_iso: hin
     name: पानामिंट
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موييو
     auto: true
+  - translation_iso: fra
+    name: Muyuw
+    auto: true
   - translation_iso: hin
     name: मुयुव
     auto: true

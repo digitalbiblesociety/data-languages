@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أوكپت-إهوم
     auto: true
+  - translation_iso: fra
+    name: Ukpet-Ehom
+    auto: true
   - translation_iso: hin
     name: उक्पेट-एहोम
     auto: true

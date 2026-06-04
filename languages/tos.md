@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتوناك الجبلي
     auto: true
+  - translation_iso: fra
+    name: totonaque de la sierra
   - translation_iso: hin
     name: हाइलैंड टोटोनाक
     auto: true

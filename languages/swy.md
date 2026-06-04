@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ساروا
     auto: true
+  - translation_iso: fra
+    name: sarua
   - translation_iso: hin
     name: सारुआ
     auto: true

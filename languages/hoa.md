@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هوافا
     auto: true
+  - translation_iso: fra
+    name: hoava
   - translation_iso: hin
     name: होआवा
     auto: true

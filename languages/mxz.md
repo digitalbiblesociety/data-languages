@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سينترال ماسيلا
     auto: true
+  - translation_iso: fra
+    name: masela central
   - translation_iso: hin
     name: मध्य मासेला
     auto: true

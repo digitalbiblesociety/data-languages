@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماريثيل
     auto: true
+  - translation_iso: fra
+    name: marithiel
   - translation_iso: hin
     name: मारिथियेल
     auto: true

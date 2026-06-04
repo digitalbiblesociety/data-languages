@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Turkmen_language"
 translations:
   - translation_iso: ara
     name: التركمانية
+  - translation_iso: fra
+    name: turkmène
   - translation_iso: hin
     name: तुर्कमेन भाषा
   - translation_iso: jpn

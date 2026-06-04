@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: فآرإفآرإ
     auto: true
+  - translation_iso: fra
+    name: gurenne
   - translation_iso: hin
     name: फरेफरे
     auto: true

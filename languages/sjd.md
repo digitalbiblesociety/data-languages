@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيلدين سامي
     auto: true
+  - translation_iso: fra
+    name: same de Kildin
   - translation_iso: hin
     name: किल्डिन सामी
     auto: true

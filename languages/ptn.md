@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باتاني
     auto: true
+  - translation_iso: fra
+    name: Patani
+    auto: true
   - translation_iso: hin
     name: पातानी
     auto: true

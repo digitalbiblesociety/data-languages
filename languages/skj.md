@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيكي (نيبال)
     auto: true
+  - translation_iso: fra
+    name: seke
   - translation_iso: hin
     name: सेके (नेपाल)
     auto: true

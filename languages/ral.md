@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رالتي
     auto: true
+  - translation_iso: fra
+    name: Ralte
+    auto: true
   - translation_iso: hin
     name: राल्ते
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لووية
     auto: true
+  - translation_iso: fra
+    name: louvite cunéiforme
   - translation_iso: hin
     name: कीलाक्षर लुवियन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ماتنغالا
     auto: true
+  - translation_iso: fra
+    name: matngele
   - translation_iso: hin
     name: मतंगला
     auto: true

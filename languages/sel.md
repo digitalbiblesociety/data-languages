@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Selkup_languages"
 translations:
   - translation_iso: ara
     name: لغة سيلكوب
+  - translation_iso: fra
+    name: selkoupe
   - translation_iso: hin
     name: सेल्कप
   - translation_iso: jpn

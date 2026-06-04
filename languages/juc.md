@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جورتشن
     auto: true
+  - translation_iso: fra
+    name: jurchen
   - translation_iso: hin
     name: जुर्चेन
     auto: true

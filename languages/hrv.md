@@ -13,6 +13,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Croatian_language"
 translations:
   - translation_iso: ara
     name: الكرواتية
+  - translation_iso: fra
+    name: croate
   - translation_iso: hin
     name: क्रोएशियन भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيتزا
     auto: true
+  - translation_iso: fra
+    name: maya itzá
   - translation_iso: hin
     name: इत्ज़ा
     auto: true

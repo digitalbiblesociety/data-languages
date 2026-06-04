@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زاخرينج
     auto: true
+  - translation_iso: fra
+    name: zakhring
   - translation_iso: hin
     name: जैवा भाषा
   - translation_iso: jpn

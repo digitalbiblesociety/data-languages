@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: سيبارا سينوفو
     auto: true
+  - translation_iso: fra
+    name: cebaara
   - translation_iso: hin
     name: सेबारा सेनोफो
     auto: true

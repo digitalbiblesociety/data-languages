@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وينيه
     auto: true
+  - translation_iso: fra
+    name: winyé
   - translation_iso: hin
     name: विन्ये
     auto: true

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة خاندسي
     auto: true
+  - translation_iso: fra
+    name: khandeshi
   - translation_iso: hin
     name: अहिराणी भाषा
   - translation_iso: jpn

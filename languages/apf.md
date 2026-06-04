@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باهانان أجتا
     auto: true
+  - translation_iso: fra
+    name: Pahanan Agta
+    auto: true
   - translation_iso: hin
     name: पहानन आगता
     auto: true

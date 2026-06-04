@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مالمبونج
     auto: true
+  - translation_iso: fra
+    name: malimpung
   - translation_iso: hin
     name: मालिम्पुंग
     auto: true

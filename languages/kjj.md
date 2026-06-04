@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة خينالوغ
     auto: true
+  - translation_iso: fra
+    name: khinalug
   - translation_iso: hin
     name: ख़िनालुग़
     auto: true

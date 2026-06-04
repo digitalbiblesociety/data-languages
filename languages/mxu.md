@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مادا كاميرون
     auto: true
+  - translation_iso: fra
+    name: mada
   - translation_iso: hin
     name: मादा (कैमरून)
     auto: true

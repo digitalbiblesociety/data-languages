@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يل
     auto: true
+  - translation_iso: fra
+    name: lyélé
   - translation_iso: hin
     name: ल्येले
     auto: true

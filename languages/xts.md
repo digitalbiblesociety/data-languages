@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيندهويي ميكستيك
     auto: true
+  - translation_iso: fra
+    name: Mixtèque de Sindihui
+    auto: true
   - translation_iso: hin
     name: सिंदिहुई मिक्सटेक
     auto: true

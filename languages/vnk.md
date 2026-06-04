@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فانو
     auto: true
+  - translation_iso: fra
+    name: lovono
   - translation_iso: hin
     name: वानो
     auto: true

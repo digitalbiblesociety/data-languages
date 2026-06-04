@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فانيمو
     auto: true
+  - translation_iso: fra
+    name: vanimo
   - translation_iso: hin
     name: वानिमो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كانسا
     auto: true
+  - translation_iso: fra
+    name: kanza
   - translation_iso: hin
     name: कांसा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوريبتشا
     auto: true
+  - translation_iso: fra
+    name: purépecha
   - translation_iso: hin
     name: पुरेपेचा
     auto: true

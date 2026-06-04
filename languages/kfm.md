@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة خونساري
     auto: true
+  - translation_iso: fra
+    name: khunsari
   - translation_iso: hin
     name: खुनसारी
     auto: true

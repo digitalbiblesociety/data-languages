@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بينيين
     auto: true
+  - translation_iso: fra
+    name: pinyin
   - translation_iso: hin
     name: पिनयिन
     auto: true

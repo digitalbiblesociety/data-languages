@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وزلام
     auto: true
+  - translation_iso: fra
+    name: ouldémé
   - translation_iso: hin
     name: वुज़्लाम
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تارانغان الشرقية
     auto: true
+  - translation_iso: fra
+    name: "tarangan de l'Est"
   - translation_iso: hin
     name: पूर्वी तारंगन
     auto: true

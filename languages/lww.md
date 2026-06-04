@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يوو
     auto: true
+  - translation_iso: fra
+    name: lewo
   - translation_iso: hin
     name: लेवो
     auto: true

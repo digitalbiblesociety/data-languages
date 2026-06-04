@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة فانجونو
     auto: true
+  - translation_iso: fra
+    name: vangunu
   - translation_iso: hin
     name: वांगुनु
     auto: true

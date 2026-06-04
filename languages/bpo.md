@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: أناسي
     auto: true
+  - translation_iso: fra
+    name: anasi
   - translation_iso: hin
     name: अनासी
     auto: true

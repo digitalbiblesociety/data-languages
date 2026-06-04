@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سومباوا
     auto: true
+  - translation_iso: fra
+    name: sumbawa
   - translation_iso: hin
     name: सुम्बावा भाषा
   - translation_iso: jpn

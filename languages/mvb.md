@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماتول
     auto: true
+  - translation_iso: fra
+    name: mattole
   - translation_iso: hin
     name: मैटोल
     auto: true

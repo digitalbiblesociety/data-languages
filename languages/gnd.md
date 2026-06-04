@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زولغو-غإمزإك
     auto: true
+  - translation_iso: fra
+    name: zulgo
   - translation_iso: hin
     name: ज़ुल्गो-गेम्ज़ेक
     auto: true

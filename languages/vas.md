@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: فاسافي
     auto: true
+  - translation_iso: fra
+    name: Vasavi
+    auto: true
   - translation_iso: hin
     name: वसावी
     auto: true

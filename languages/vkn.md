@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كورو نولو
     auto: true
+  - translation_iso: fra
+    name: Koro Nulu
+    auto: true
   - translation_iso: hin
     name: कोरो नुलू
     auto: true

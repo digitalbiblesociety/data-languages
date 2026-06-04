@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Girirra_language"
 translations:
   - translation_iso: ara
     name: لغة جيريرا
+  - translation_iso: fra
+    name: girirra
   - translation_iso: hin
     name: गिरीरा
     auto: true

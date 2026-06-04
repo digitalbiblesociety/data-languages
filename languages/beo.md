@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيامي
     auto: true
+  - translation_iso: fra
+    name: beami
   - translation_iso: hin
     name: बीमी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاكانا
     auto: true
+  - translation_iso: fra
+    name: tacana
   - translation_iso: hin
     name: ताकाना
     auto: true

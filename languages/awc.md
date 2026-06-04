@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيسيبو
     auto: true
+  - translation_iso: fra
+    name: cicipu
   - translation_iso: hin
     name: सिसिपु
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داماكاوا
     auto: true
+  - translation_iso: fra
+    name: damakawa
   - translation_iso: hin
     name: दामाकावा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كواييو
     auto: true
+  - translation_iso: fra
+    name: kwaio
   - translation_iso: hin
     name: क्वाइयो
     auto: true

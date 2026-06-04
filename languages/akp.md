@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة سيوو
     auto: true
+  - translation_iso: fra
+    name: siwu
   - translation_iso: hin
     name: सिवू
     auto: true

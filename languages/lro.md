@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ارو
     auto: true
+  - translation_iso: fra
+    name: laro
   - translation_iso: hin
     name: लारो
     auto: true

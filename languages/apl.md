@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ليبان أباتشي
     auto: true
+  - translation_iso: fra
+    name: lipan
   - translation_iso: hin
     name: लिपान अपाचे
     auto: true

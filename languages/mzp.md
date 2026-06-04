@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: موفيما
     auto: true
+  - translation_iso: fra
+    name: movima
   - translation_iso: hin
     name: मोविमा
     auto: true

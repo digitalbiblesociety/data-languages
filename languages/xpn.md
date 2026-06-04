@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كابيناوا
     auto: true
+  - translation_iso: fra
+    name: Kapinawá
+    auto: true
   - translation_iso: hin
     name: कापिनावा
     auto: true

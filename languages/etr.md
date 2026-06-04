@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإدولو
     auto: true
+  - translation_iso: fra
+    name: edolo
   - translation_iso: hin
     name: एडोलो
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يريي
     auto: true
+  - translation_iso: fra
+    name: merei
   - translation_iso: hin
     name: मेरेई
     auto: true

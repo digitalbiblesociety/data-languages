@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وونغو
     auto: true
+  - translation_iso: fra
+    name: wongo
   - translation_iso: hin
     name: वोंगो
     auto: true

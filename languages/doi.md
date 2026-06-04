@@ -11,6 +11,8 @@ scripts: [Arab, Deva, Takr]
 translations:
   - translation_iso: ara
     name: الدوجرية
+  - translation_iso: fra
+    name: langues kangri-dogri
   - translation_iso: hin
     name: डोगरी
   - translation_iso: jpn

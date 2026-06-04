@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سينتاني
     auto: true
+  - translation_iso: fra
+    name: sentani
   - translation_iso: hin
     name: सेंतानी
     auto: true

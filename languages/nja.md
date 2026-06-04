@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نزانيي
     auto: true
+  - translation_iso: fra
+    name: nzanyi
   - translation_iso: hin
     name: न्ज़ान्यी
     auto: true

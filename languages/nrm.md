@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نارم
     auto: true
+  - translation_iso: fra
+    name: narum
   - translation_iso: hin
     name: नारोम
     auto: true

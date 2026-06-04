@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاجواسوهن
     auto: true
+  - translation_iso: fra
+    name: Tajuasohn
+    auto: true
   - translation_iso: hin
     name: ताजुआसोह्न
     auto: true

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: واجيمان
     auto: true
+  - translation_iso: fra
+    name: wagiman
   - translation_iso: hin
     name: वागिमान
     auto: true

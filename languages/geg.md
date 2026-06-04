@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: الجينجلي
     auto: true
+  - translation_iso: fra
+    name: gengle
   - translation_iso: hin
     name: गेंग्ले
     auto: true

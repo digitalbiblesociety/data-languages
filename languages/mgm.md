@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مامبا
     auto: true
+  - translation_iso: fra
+    name: mambai
   - translation_iso: hin
     name: माम्बाए
     auto: true

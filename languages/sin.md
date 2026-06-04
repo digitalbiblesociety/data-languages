@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sinhala_language"
 translations:
   - translation_iso: ara
     name: السنهالية
+  - translation_iso: fra
+    name: singhalais
   - translation_iso: hin
     name: सिंहली भाषा
   - translation_iso: jpn

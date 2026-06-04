@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ندومبي
     auto: true
+  - translation_iso: fra
+    name: Ndombe
+    auto: true
   - translation_iso: hin
     name: न्दोम्बे
     auto: true

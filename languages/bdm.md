@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yedina_language"
 translations:
   - translation_iso: ara
     name: بودوما
+  - translation_iso: fra
+    name: buduma
   - translation_iso: hin
     name: बुदुमा
     auto: true

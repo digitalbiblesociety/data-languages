@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الرهبانية
     auto: true
+  - translation_iso: fra
+    name: langue des signes monastique
   - translation_iso: hin
     name: मठवासी सांकेतिक भाषा
     auto: true

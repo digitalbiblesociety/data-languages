@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: سافاليبا
     auto: true
+  - translation_iso: fra
+    name: safaliba
   - translation_iso: hin
     name: साफालिबा
     auto: true

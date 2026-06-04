@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الطيري
     auto: true
+  - translation_iso: fra
+    name: tîrî
   - translation_iso: hin
     name: तिरी
     auto: true

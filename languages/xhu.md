@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hurrian_language"
 translations:
   - translation_iso: ara
     name: اللغة الحورية
+  - translation_iso: fra
+    name: hourrite
   - translation_iso: hin
     name: हुर्रियन
     auto: true

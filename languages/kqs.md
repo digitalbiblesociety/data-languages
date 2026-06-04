@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كيسي الشمالية
     auto: true
+  - translation_iso: fra
+    name: kissi du Nord
   - translation_iso: hin
     name: उत्तरी किस्सी
     auto: true

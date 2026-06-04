@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة بوريبيتشا الجبلية الغربية
     auto: true
+  - translation_iso: fra
+    name: purépecha des hauts-plateaux de l’Ouest
   - translation_iso: hin
     name: पश्चिमी हाइलैंड पुरेपेचा
     auto: true

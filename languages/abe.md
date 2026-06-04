@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ويسترن أبناكي
     auto: true
+  - translation_iso: fra
+    name: abénaqui occidental
   - translation_iso: hin
     name: पश्चिमी अब्नाकी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاما
     auto: true
+  - translation_iso: fra
+    name: tama
   - translation_iso: hin
     name: तामा (कोलंबिया)
     auto: true

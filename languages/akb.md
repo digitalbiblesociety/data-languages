@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة باتاك أنجكولا
     auto: true
+  - translation_iso: fra
+    name: batak angkola
   - translation_iso: hin
     name: बाटक अंगकोला
     auto: true

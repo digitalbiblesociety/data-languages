@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناسيريان
     auto: true
+  - translation_iso: fra
+    name: nasarian
   - translation_iso: hin
     name: नासारियन
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سو ناما
     auto: true
+  - translation_iso: fra
+    name: teluti
   - translation_iso: hin
     name: सोउ नामा
     auto: true

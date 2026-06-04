@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: ممبك
     auto: true
+  - translation_iso: fra
+    name: langue mbuk
   - translation_iso: hin
     name: म्बुक
     auto: true

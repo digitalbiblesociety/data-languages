@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أونين
     auto: true
+  - translation_iso: fra
+    name: onin
   - translation_iso: hin
     name: ओनिन
     auto: true

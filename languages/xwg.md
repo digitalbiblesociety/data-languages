@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كويجو
     auto: true
+  - translation_iso: fra
+    name: kwegu
   - translation_iso: hin
     name: क्वेगू
     auto: true

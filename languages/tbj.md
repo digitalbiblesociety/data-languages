@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيانغ
     auto: true
+  - translation_iso: fra
+    name: tiang
   - translation_iso: hin
     name: तियांग
     auto: true

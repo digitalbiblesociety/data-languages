@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيليانن مانوبو
     auto: true
+  - translation_iso: fra
+    name: ilianen
   - translation_iso: hin
     name: इलियानेन मानोबो
     auto: true

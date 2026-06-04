@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوتوانون
     auto: true
+  - translation_iso: fra
+    name: Butuanon
+    auto: true
   - translation_iso: hin
     name: बुतुआनोन
     auto: true

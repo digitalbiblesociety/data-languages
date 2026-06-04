@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نغاون تشين
     auto: true
+  - translation_iso: fra
+    name: Chin Ngawn
+    auto: true
   - translation_iso: hin
     name: न्गावन चिन
     auto: true

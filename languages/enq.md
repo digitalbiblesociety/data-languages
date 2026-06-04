@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإنجا
     auto: true
+  - translation_iso: fra
+    name: enga
   - translation_iso: hin
     name: एंगा
     auto: true

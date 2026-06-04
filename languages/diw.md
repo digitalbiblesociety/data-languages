@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نورثويسترن دينكا
     auto: true
+  - translation_iso: fra
+    name: dinka du Nord-Ouest
   - translation_iso: hin
     name: उत्तर-पश्चिमी डिंका
     auto: true

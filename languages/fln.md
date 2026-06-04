@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جزيرة فليندرز
     auto: true
+  - translation_iso: fra
+    name: flinders island
   - translation_iso: hin
     name: फ्लिंडर्स द्वीप
     auto: true

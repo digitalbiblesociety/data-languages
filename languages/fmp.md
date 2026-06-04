@@ -18,13 +18,15 @@ translations:
   - translation_iso: ara
     name: فيفي
     auto: true
+  - translation_iso: fra
+    name: nufi
   - translation_iso: hin
     name: फेफे
     auto: true
   - translation_iso: jpn
     name: フェフェ語
   - translation_iso: spa
-    name: "Fe'fe'"
+    name: "Fe'fe"
     auto: true
   - translation_iso: zho
     name: 费费语

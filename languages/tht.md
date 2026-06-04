@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tahltan_language"
 translations:
   - translation_iso: ara
     name: التالتان
+  - translation_iso: fra
+    name: tahltan
   - translation_iso: hin
     name: टैल्हटन
   - translation_iso: jpn

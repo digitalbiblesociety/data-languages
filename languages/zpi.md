@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتا ماريا كويغولاني
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Santa María Quiegolani
   - translation_iso: hin
     name: सांता मारिया कियेगोलानी सैपोटेक
     auto: true

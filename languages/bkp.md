@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بوكو
     auto: true
+  - translation_iso: fra
+    name: iboko
   - translation_iso: hin
     name: बोको (कांगो लोकतांत्रिक गणराज्य)
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ريشي
     auto: true
+  - translation_iso: fra
+    name: reshe
   - translation_iso: hin
     name: रेशे
     auto: true

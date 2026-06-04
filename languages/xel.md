@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيلو
     auto: true
+  - translation_iso: fra
+    name: kelo
   - translation_iso: hin
     name: केलो
     auto: true

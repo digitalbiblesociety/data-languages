@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Twi"
 translations:
   - translation_iso: ara
     name: توي
+  - translation_iso: fra
+    name: twi
   - translation_iso: hin
     name: ट्वी
   - translation_iso: jpn

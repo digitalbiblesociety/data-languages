@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوروودو
     auto: true
+  - translation_iso: fra
+    name: Kurudu
+    auto: true
   - translation_iso: hin
     name: कुरुदु
     auto: true

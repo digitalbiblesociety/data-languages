@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توميني
     auto: true
+  - translation_iso: fra
+    name: tomini
   - translation_iso: hin
     name: तोमिनी
     auto: true

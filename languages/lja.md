@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: لغة ولپا
     auto: true
+  - translation_iso: fra
+    name: golpa
   - translation_iso: hin
     name: गोल्पा
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_S%C3%A1mi"
 translations:
   - translation_iso: ara
     name: لغة سامي الجنوبية
+  - translation_iso: fra
+    name: same du Sud
   - translation_iso: hin
     name: दक्षिणी सामी
   - translation_iso: jpn

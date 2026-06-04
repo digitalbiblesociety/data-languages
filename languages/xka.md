@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كالكوتي
     auto: true
+  - translation_iso: fra
+    name: Kalkoti
+    auto: true
   - translation_iso: hin
     name: कलकोटी भाषा
   - translation_iso: jpn

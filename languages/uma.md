@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوماتيلا
     auto: true
+  - translation_iso: fra
+    name: umatilla
   - translation_iso: hin
     name: उमातिला
     auto: true

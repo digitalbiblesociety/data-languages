@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كالو
     auto: true
+  - translation_iso: fra
+    name: caló
   - translation_iso: hin
     name: कालो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ساوثيرن أمامي-أوشيما
     auto: true
+  - translation_iso: fra
+    name: amami du Sud
   - translation_iso: hin
     name: दक्षिणी अमामी-ओशिमा
     auto: true

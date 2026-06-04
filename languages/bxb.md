@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلاندا بور
     auto: true
+  - translation_iso: fra
+    name: belanda bor
   - translation_iso: hin
     name: बेलांडा बोर
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفانيا
     auto: true
+  - translation_iso: fra
+    name: fania
   - translation_iso: hin
     name: फानिया
     auto: true

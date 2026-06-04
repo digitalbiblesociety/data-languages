@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يافي
     auto: true
+  - translation_iso: fra
+    name: yafi
   - translation_iso: hin
     name: याफी
     auto: true

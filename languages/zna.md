@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زان غولا
     auto: true
+  - translation_iso: fra
+    name: zan goula
   - translation_iso: hin
     name: ज़ान गुला
     auto: true

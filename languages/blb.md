@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: بيلوا
     auto: true
+  - translation_iso: fra
+    name: bilua
   - translation_iso: hin
     name: बिलुआ
     auto: true

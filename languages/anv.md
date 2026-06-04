@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ديnya
     auto: true
+  - translation_iso: fra
+    name: denya
   - translation_iso: hin
     name: देन्या
     auto: true

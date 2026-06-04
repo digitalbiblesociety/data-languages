@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داكاكا
     auto: true
+  - translation_iso: fra
+    name: dakaka
   - translation_iso: hin
     name: दाकाका
     auto: true

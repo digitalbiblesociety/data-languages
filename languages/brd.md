@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باراامو
     auto: true
+  - translation_iso: fra
+    name: baraamu
   - translation_iso: hin
     name: बरामू
     auto: true

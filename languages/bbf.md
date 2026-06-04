@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايباي
     auto: true
+  - translation_iso: fra
+    name: baibai
   - translation_iso: hin
     name: बाईबाई
     auto: true

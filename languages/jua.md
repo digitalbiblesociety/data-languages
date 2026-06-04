@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جوما
     auto: true
+  - translation_iso: fra
+    name: juma
   - translation_iso: hin
     name: जूमा
     auto: true

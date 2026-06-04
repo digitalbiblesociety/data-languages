@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك تشيكيهويتلان
     auto: true
+  - translation_iso: fra
+    name: mazatèque de Chiquihuitlan
   - translation_iso: hin
     name: चिकिवित्लान माज़ातेक
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هإيبآن
     auto: true
+  - translation_iso: fra
+    name: heiban
   - translation_iso: hin
     name: हेइबान
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Luganda"
 translations:
   - translation_iso: ara
     name: اللوغندية
+  - translation_iso: fra
+    name: luganda
   - translation_iso: hin
     name: गांडा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Makhuwa_language"
 translations:
   - translation_iso: ara
     name: الماكوا
+  - translation_iso: fra
+    name: makua
   - translation_iso: hin
     name: मखुवा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sindhi_language"
 translations:
   - translation_iso: ara
     name: السندية
+  - translation_iso: fra
+    name: sindhi
   - translation_iso: hin
     name: सिन्धी
   - translation_iso: jpn

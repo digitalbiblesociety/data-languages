@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ريمبونج
     auto: true
+  - translation_iso: fra
+    name: rembong
   - translation_iso: hin
     name: रेमबोंग
     auto: true

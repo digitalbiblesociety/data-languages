@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: اليوبيك الوسطى
     auto: true
+  - translation_iso: fra
+    name: "yupik de l'Alaska central"
   - translation_iso: hin
     name: मध्य युपिक
     auto: true

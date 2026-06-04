@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كووتااي
     auto: true
+  - translation_iso: fra
+    name: kwatay
   - translation_iso: hin
     name: कुवाताय
     auto: true

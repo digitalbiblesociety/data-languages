@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ديرا
     auto: true
+  - translation_iso: fra
+    name: dera
   - translation_iso: hin
     name: देरा (नाइजीरिया)
     auto: true

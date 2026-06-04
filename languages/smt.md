@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيمتي
     auto: true
+  - translation_iso: fra
+    name: simte
   - translation_iso: hin
     name: सिम्ते
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وكويا
     auto: true
+  - translation_iso: fra
+    name: lokoya
   - translation_iso: hin
     name: लोकोया
     auto: true

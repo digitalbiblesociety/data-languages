@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: أوني
     auto: true
+  - translation_iso: fra
+    name: Uni
+    auto: true
   - translation_iso: hin
     name: उनी
     auto: true

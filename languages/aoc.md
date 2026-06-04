@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة بيمون
     auto: true
+  - translation_iso: fra
+    name: pemon
   - translation_iso: hin
     name: पेमोन
     auto: true

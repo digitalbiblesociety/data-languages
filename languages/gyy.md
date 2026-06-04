@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غونيآ
     auto: true
+  - translation_iso: fra
+    name: gunya
   - translation_iso: hin
     name: गुन्या
     auto: true

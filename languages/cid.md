@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: الشيماريكو
     auto: true
+  - translation_iso: fra
+    name: chimariko
   - translation_iso: hin
     name: चिमारिको
     auto: true

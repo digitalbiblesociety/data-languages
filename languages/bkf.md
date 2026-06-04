@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيكي
     auto: true
+  - translation_iso: fra
+    name: beeke
   - translation_iso: hin
     name: बीके
     auto: true

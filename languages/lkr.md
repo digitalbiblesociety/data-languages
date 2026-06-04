@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ري
     auto: true
+  - translation_iso: fra
+    name: Päri
+    auto: true
   - translation_iso: hin
     name: पारी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: راوانج
     auto: true
+  - translation_iso: fra
+    name: rawang
   - translation_iso: hin
     name: रावांग
     auto: true

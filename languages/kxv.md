@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kuvi_language"
 translations:
   - translation_iso: ara
     name: الكوفية
+  - translation_iso: fra
+    name: kuvi
   - translation_iso: hin
     name: कूवि भाषा
   - translation_iso: jpn

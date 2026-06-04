@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: آغو-ثآرنجغآلآ
     auto: true
+  - translation_iso: fra
+    name: aghu tharrnggala
   - translation_iso: hin
     name: अघु-थार्नगाला
     auto: true

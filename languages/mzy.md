@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الموزمبيقية
     auto: true
+  - translation_iso: fra
+    name: langue des signes mozambicaine
   - translation_iso: hin
     name: मोज़ाम्बिक सांकेतिक भाषा
     auto: true

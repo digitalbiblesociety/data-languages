@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Arikara_language"
 translations:
   - translation_iso: ara
     name: لغة أريكارا
+  - translation_iso: fra
+    name: arikara
   - translation_iso: hin
     name: अरिकारा
     auto: true

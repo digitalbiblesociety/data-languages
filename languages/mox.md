@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موليما
     auto: true
+  - translation_iso: fra
+    name: molima
   - translation_iso: hin
     name: मोलिमा
     auto: true

@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: بريبري لغة الإشارة
     auto: true
+  - translation_iso: fra
+    name: langue des signes bribri
   - translation_iso: hin
     name: ब्रिब्री सांकेतिक भाषा
   - translation_iso: jpn

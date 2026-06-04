@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إستموس كوسوليكاكاوي ناهواتل
     auto: true
+  - translation_iso: fra
+    name: nahuatl de l’isthme de Cosoleacaque
   - translation_iso: hin
     name: इस्थमस-कोसोलेआकाके नाहुआतल
     auto: true

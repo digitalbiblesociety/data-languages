@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوبا
     auto: true
+  - translation_iso: fra
+    name: Kupa
+    auto: true
   - translation_iso: hin
     name: कुपा
     auto: true

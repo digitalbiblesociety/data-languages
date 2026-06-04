@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نورثإرن هآيدآ
     auto: true
+  - translation_iso: fra
+    name: haïda du Nord
   - translation_iso: hin
     name: उत्तरी हाइदा
     auto: true

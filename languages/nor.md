@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Norwegian_language"
 translations:
   - translation_iso: ara
     name: النرويجية
+  - translation_iso: fra
+    name: norvégien
   - translation_iso: hin
     name: नॉर्वेजियाई भाषा
   - translation_iso: jpn

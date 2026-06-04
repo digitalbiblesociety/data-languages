@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرشي
     auto: true
+  - translation_iso: fra
+    name: artchi
   - translation_iso: hin
     name: अर्ची
     auto: true

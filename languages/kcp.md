@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كانغا
     auto: true
+  - translation_iso: fra
+    name: kanga
   - translation_iso: hin
     name: कांगा
     auto: true

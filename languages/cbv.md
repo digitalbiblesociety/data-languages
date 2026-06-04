@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكاكوا
     auto: true
+  - translation_iso: fra
+    name: kakua
   - translation_iso: hin
     name: काकुआ
     auto: true

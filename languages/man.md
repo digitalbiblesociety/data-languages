@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Manding_languages"
 translations:
   - translation_iso: ara
     name: الماندينغ
+  - translation_iso: fra
+    name: langues mandingues
   - translation_iso: hin
     name: अनिवर्य भाषाएं
   - translation_iso: jpn

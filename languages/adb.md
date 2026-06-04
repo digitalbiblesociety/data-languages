@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: لغة أدابي
     auto: true
+  - translation_iso: fra
+    name: adabe
   - translation_iso: hin
     name: अदाबे
     auto: true

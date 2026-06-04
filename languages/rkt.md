@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rangpuri_language"
 translations:
   - translation_iso: ara
     name: لهجة رنغفورية
+  - translation_iso: fra
+    name: rangpuri
   - translation_iso: hin
     name: राजबोंग्शी भाषा
   - translation_iso: jpn

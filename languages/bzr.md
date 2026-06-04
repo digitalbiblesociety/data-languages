@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيري
     auto: true
+  - translation_iso: fra
+    name: biri
   - translation_iso: hin
     name: बिरी
     auto: true

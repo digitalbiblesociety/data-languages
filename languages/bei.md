@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيكاتي
     auto: true
+  - translation_iso: fra
+    name: bekati’
   - translation_iso: hin
     name: बेकाती
     auto: true
@@ -25,7 +27,7 @@ translations:
     name: ベカティ語
     auto: true
   - translation_iso: spa
-    name: "Bekati'"
+    name: Bekati
     auto: true
   - translation_iso: zho
     name: 贝卡蒂语

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويستيرن فيجيان
     auto: true
+  - translation_iso: fra
+    name: fidjien occidental
   - translation_iso: hin
     name: पश्चिमी फिजियन
     auto: true

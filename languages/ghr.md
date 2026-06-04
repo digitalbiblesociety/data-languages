@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غإرآ
     auto: true
+  - translation_iso: fra
+    name: ghera
   - translation_iso: hin
     name: घेरा
     auto: true

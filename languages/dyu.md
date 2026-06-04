@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dyula_language"
 translations:
   - translation_iso: ara
     name: لغة ديولية
+  - translation_iso: fra
+    name: dioula
   - translation_iso: hin
     name: द्यूला भाषा
   - translation_iso: jpn

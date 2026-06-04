@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nyoro_language"
 translations:
   - translation_iso: ara
     name: النيورو
+  - translation_iso: fra
+    name: nyoro
   - translation_iso: hin
     name: न्योरो
   - translation_iso: jpn

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سانتا إينيس أهواتيمبان
     auto: true
+  - translation_iso: fra
+    name: popoloca de Santa Inés Ahuatempan
   - translation_iso: hin
     name: सांता इनेस अहुआतेम्पान पोपोलोका
     auto: true

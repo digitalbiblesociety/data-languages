@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: ديكان
     auto: true
+  - translation_iso: fra
+    name: Deccan
+    auto: true
   - translation_iso: hin
     name: दक्कनी
     auto: true

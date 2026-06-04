@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Romani_language"
 translations:
   - translation_iso: ara
     name: الرومنية
+  - translation_iso: fra
+    name: romani
   - translation_iso: hin
     name: रोमानी भाषा
   - translation_iso: jpn

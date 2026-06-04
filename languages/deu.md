@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/German_language"
 translations:
   - translation_iso: ara
     name: الألمانية
+  - translation_iso: fra
+    name: allemand
   - translation_iso: hin
     name: जर्मन
   - translation_iso: jpn

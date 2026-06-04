@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: كومالو
     auto: true
+  - translation_iso: fra
+    name: kumalu
   - translation_iso: hin
     name: कुमालू
     auto: true

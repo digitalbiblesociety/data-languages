@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيتك
     auto: true
+  - translation_iso: fra
+    name: itik
   - translation_iso: hin
     name: इतिक
     auto: true

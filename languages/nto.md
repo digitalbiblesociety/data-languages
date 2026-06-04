@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نتومبا
     auto: true
+  - translation_iso: fra
+    name: ntomba
   - translation_iso: hin
     name: न्तोम्बा
     auto: true

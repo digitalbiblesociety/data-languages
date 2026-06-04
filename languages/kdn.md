@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوندا
     auto: true
+  - translation_iso: fra
+    name: kunda
   - translation_iso: hin
     name: कुंडा
     auto: true

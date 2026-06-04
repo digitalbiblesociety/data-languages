@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Torwali_language"
 translations:
   - translation_iso: ara
     name: تروالية
+  - translation_iso: fra
+    name: torwali
   - translation_iso: hin
     name: तोरवाली
   - translation_iso: jpn

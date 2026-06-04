@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Erzya_language"
 translations:
   - translation_iso: ara
     name: الإرزية
+  - translation_iso: fra
+    name: erzya
   - translation_iso: hin
     name: एर्ज़या
   - translation_iso: jpn

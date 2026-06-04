@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: تاي نويا
     auto: true
+  - translation_iso: fra
+    name: tai nüa
   - translation_iso: hin
     name: ताई न्युआ
     auto: true

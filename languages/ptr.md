@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيامتسينا
     auto: true
+  - translation_iso: fra
+    name: piamatsina
   - translation_iso: hin
     name: पियामात्सिना
     auto: true

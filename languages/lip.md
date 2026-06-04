@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يكپيلي
     auto: true
+  - translation_iso: fra
+    name: sekpele
   - translation_iso: hin
     name: सेक्पेले
     auto: true

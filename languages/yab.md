@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: يوهوب
     auto: true
+  - translation_iso: fra
+    name: yuhup
   - translation_iso: hin
     name: युहुप
     auto: true

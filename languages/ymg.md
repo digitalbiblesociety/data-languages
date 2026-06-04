@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: اللغة يامونجري
     auto: true
+  - translation_iso: fra
+    name: yamongeri
   - translation_iso: hin
     name: यामोंगेरी
     auto: true

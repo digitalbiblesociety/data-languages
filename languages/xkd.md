@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: منداالم كايان
     auto: true
+  - translation_iso: fra
+    name: kayan mendalam
   - translation_iso: hin
     name: मेंदलाम कायन
     auto: true

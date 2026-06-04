@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: راتاهان
     auto: true
+  - translation_iso: fra
+    name: ratahan
   - translation_iso: hin
     name: राताहान
     auto: true

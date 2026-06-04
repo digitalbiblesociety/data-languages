@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nauruan_language"
 translations:
   - translation_iso: ara
     name: الناوروية
+  - translation_iso: fra
+    name: nauruan
   - translation_iso: hin
     name: नाउरुई भाषा
   - translation_iso: jpn

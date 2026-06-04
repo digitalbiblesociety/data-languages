@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة السويدية
     auto: true
+  - translation_iso: fra
+    name: langue des signes suédoise
   - translation_iso: hin
     name: स्वीडिश सांकेतिक भाषा
     auto: true

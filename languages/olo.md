@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ليفي
     auto: true
+  - translation_iso: fra
+    name: olonetsien
   - translation_iso: hin
     name: लिव्वी
     auto: true

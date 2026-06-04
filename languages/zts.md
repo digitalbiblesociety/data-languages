@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك تيلكيابان
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Tilquiapan
   - translation_iso: hin
     name: तिलकियापन ज़ापोटेक
     auto: true

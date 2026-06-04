@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة زول
     auto: true
+  - translation_iso: fra
+    name: zul
   - translation_iso: hin
     name: ज़ुल
     auto: true

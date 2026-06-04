@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ليهالي
     auto: true
+  - translation_iso: fra
+    name: lehali
   - translation_iso: hin
     name: लेहाली
     auto: true

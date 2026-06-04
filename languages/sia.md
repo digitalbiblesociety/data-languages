@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأكالا سامي
     auto: true
+  - translation_iso: fra
+    name: "same d'Akkala"
   - translation_iso: hin
     name: अक्कला सामी
     auto: true

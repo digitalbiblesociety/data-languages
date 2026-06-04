@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: بيراها
     auto: true
+  - translation_iso: fra
+    name: pirahã
   - translation_iso: hin
     name: पिराहा
     auto: true

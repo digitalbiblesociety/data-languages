@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تونجون
     auto: true
+  - translation_iso: fra
+    name: tonjon
   - translation_iso: hin
     name: टोंजोन
     auto: true

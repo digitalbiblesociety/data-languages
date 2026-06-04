@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة اموجاي
     auto: true
+  - translation_iso: fra
+    name: lamogai
   - translation_iso: hin
     name: लामोगाई
     auto: true

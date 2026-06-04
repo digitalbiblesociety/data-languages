@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: إيرانتخي
     auto: true
+  - translation_iso: fra
+    name: irántxe
   - translation_iso: hin
     name: इरांचे
     auto: true

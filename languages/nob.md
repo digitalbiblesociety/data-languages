@@ -13,6 +13,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bokm%C3%A5l"
 translations:
   - translation_iso: ara
     name: بوكمول
+  - translation_iso: fra
+    name: bokmål
   - translation_iso: hin
     name: बूकमॉल
   - translation_iso: jpn

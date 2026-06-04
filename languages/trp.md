@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kokborok"
 translations:
   - translation_iso: ara
     name: كوكبوروك
+  - translation_iso: fra
+    name: borok
   - translation_iso: hin
     name: कोक बोरोक भाषा
   - translation_iso: jpn

@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: إهيفبي
     auto: true
+  - translation_iso: fra
+    name: ihievbe
   - translation_iso: hin
     name: इहियेवबे
     auto: true

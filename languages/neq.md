@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: شمال سنترال ميكسي
     auto: true
+  - translation_iso: fra
+    name: mixe central du Nord
   - translation_iso: hin
     name: उत्तर मध्य मिक्से
     auto: true

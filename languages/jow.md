@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جووولو
     auto: true
+  - translation_iso: fra
+    name: jowulu
   - translation_iso: hin
     name: जोवुलु
     auto: true

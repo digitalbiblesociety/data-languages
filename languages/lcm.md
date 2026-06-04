@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تونجاج
     auto: true
+  - translation_iso: fra
+    name: tungag
   - translation_iso: hin
     name: तुंगाग
     auto: true

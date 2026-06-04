@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: جنوب كاتانج
     auto: true
+  - translation_iso: fra
+    name: katang du Nord
   - translation_iso: hin
     name: उत्तरी कातांग
     auto: true

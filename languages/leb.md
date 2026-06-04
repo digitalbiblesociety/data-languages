@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الا-يسا
     auto: true
+  - translation_iso: fra
+    name: lala-bisa
   - translation_iso: hin
     name: लाला-बिसा
     auto: true

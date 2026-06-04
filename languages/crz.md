@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكروزينو
     auto: true
+  - translation_iso: fra
+    name: chumash insulaire
   - translation_iso: hin
     name: क्रुज़ेन्यो
     auto: true

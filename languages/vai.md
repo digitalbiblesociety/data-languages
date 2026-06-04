@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Vai_language"
 translations:
   - translation_iso: ara
     name: الفاي
+  - translation_iso: fra
+    name: vaï
   - translation_iso: hin
     name: वाई
   - translation_iso: jpn

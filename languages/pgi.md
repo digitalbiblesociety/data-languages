@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باغي
     auto: true
+  - translation_iso: fra
+    name: pagi
   - translation_iso: hin
     name: पागी
     auto: true

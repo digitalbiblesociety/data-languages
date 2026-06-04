@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نييولي
     auto: true
+  - translation_iso: fra
+    name: lunyole
   - translation_iso: hin
     name: न्योले
     auto: true

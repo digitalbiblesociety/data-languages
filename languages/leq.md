@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يمبينا
     auto: true
+  - translation_iso: fra
+    name: Lembena
+    auto: true
   - translation_iso: hin
     name: लेम्बेना
     auto: true

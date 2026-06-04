@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة پارا أرارا
     auto: true
+  - translation_iso: fra
+    name: arara du Pará
   - translation_iso: hin
     name: पारा अरारा
     auto: true

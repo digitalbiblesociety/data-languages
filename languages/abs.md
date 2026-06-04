@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أمبوني مالاي
     auto: true
+  - translation_iso: fra
+    name: "malais d'Ambon"
   - translation_iso: hin
     name: अम्बोनी मलय
     auto: true

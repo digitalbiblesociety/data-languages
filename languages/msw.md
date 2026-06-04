@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مانسوانكا
     auto: true
+  - translation_iso: fra
+    name: mansoanka
   - translation_iso: hin
     name: मनसोआंका
     auto: true

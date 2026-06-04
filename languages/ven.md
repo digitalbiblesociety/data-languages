@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Venda_language"
 translations:
   - translation_iso: ara
     name: الفيندية
+  - translation_iso: fra
+    name: venda
   - translation_iso: hin
     name: वेन्दा
   - translation_iso: jpn

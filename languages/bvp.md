@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: بومانج
     auto: true
+  - translation_iso: fra
+    name: bumang
   - translation_iso: hin
     name: बुमांग
     auto: true

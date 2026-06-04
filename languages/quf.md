@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا لامبايك
     auto: true
+  - translation_iso: fra
+    name: quechua de Lambayeque
   - translation_iso: hin
     name: लांबायेके क्वेचुआ
     auto: true

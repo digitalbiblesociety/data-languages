@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الساك
     auto: true
+  - translation_iso: fra
+    name: saek
   - translation_iso: hin
     name: साएक
     auto: true

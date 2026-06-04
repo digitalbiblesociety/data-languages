@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هيما
     auto: true
+  - translation_iso: fra
+    name: hema
   - translation_iso: hin
     name: हेमा
     auto: true

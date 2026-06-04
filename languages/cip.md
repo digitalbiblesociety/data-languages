@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشيابانك
     auto: true
+  - translation_iso: fra
+    name: chiapanèque
   - translation_iso: hin
     name: चियापानेक
     auto: true

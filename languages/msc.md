@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة سنكاران مانينكا
     auto: true
+  - translation_iso: fra
+    name: maninka sankaran
   - translation_iso: hin
     name: संकरन मानिन्का
     auto: true

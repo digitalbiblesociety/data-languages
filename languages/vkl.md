@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوليسوسو
     auto: true
+  - translation_iso: fra
+    name: kulisusu
   - translation_iso: hin
     name: कुलिसुसु
     auto: true

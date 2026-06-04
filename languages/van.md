@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فالمان
     auto: true
+  - translation_iso: fra
+    name: valman
   - translation_iso: hin
     name: वाल्मन
     auto: true

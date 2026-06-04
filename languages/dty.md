@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوتيالي
     auto: true
+  - translation_iso: fra
+    name: dotyali
   - translation_iso: hin
     name: डोटेली भाषा
   - translation_iso: jpn

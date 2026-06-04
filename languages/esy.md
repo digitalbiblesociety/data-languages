@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: الإسكايان
     auto: true
+  - translation_iso: fra
+    name: eskayen
   - translation_iso: hin
     name: एस्कायन
     auto: true

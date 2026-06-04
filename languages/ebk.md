@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: البونتوك الشرقية
     auto: true
+  - translation_iso: fra
+    name: "bontok de l'Est"
   - translation_iso: hin
     name: पूर्वी बोंटोक
     auto: true

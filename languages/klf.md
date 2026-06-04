@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيندايي
     auto: true
+  - translation_iso: fra
+    name: kendeje
   - translation_iso: hin
     name: केंदेजे
     auto: true

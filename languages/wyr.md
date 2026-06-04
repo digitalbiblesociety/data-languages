@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وايور
     auto: true
+  - translation_iso: fra
+    name: ayuru
   - translation_iso: hin
     name: वायोरो
     auto: true

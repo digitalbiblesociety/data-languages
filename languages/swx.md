@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سوروهاّ
     auto: true
+  - translation_iso: fra
+    name: suruwahá
   - translation_iso: hin
     name: सुरुआहा
     auto: true

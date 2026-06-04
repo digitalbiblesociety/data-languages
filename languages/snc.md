@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة السيناوجورو
     auto: true
+  - translation_iso: fra
+    name: sinaugoro
   - translation_iso: hin
     name: सिनाउगोरो
     auto: true

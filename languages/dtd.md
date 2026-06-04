@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديتيداهت
     auto: true
+  - translation_iso: fra
+    name: nitinaht
   - translation_iso: hin
     name: डिटिडाहट
     auto: true

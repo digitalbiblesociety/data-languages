@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Herero_language"
 translations:
   - translation_iso: ara
     name: هيريرو
+  - translation_iso: fra
+    name: héréro
   - translation_iso: hin
     name: हीरीरो भाषा
   - translation_iso: jpn

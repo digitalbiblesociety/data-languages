@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واندا
     auto: true
+  - translation_iso: fra
+    name: wanda
   - translation_iso: hin
     name: वान्डा
     auto: true

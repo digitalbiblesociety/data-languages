@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوركو
     auto: true
+  - translation_iso: fra
+    name: korku
   - translation_iso: hin
     name: कोरकू भाषा
   - translation_iso: jpn

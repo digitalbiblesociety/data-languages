@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: بهيد
     auto: true
+  - translation_iso: fra
+    name: Buhid
+    auto: true
   - translation_iso: hin
     name: बुहिद
     auto: true

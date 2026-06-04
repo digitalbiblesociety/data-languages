@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوكو-أويانجا
     auto: true
+  - translation_iso: fra
+    name: doko-uyanga
   - translation_iso: hin
     name: डोको-उयांगा
     auto: true

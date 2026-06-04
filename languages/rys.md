@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ياييما
     auto: true
+  - translation_iso: fra
+    name: yaeyama
   - translation_iso: hin
     name: याएयामा
     auto: true

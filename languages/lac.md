@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لاكاندون
     auto: true
+  - translation_iso: fra
+    name: lacandon
   - translation_iso: hin
     name: लाकानदोन
     auto: true

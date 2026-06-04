@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابارو
     auto: true
+  - translation_iso: fra
+    name: zaparo
   - translation_iso: hin
     name: ज़ापारो
     auto: true

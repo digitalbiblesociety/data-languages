@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة لاريك-واكاسيهو
     auto: true
+  - translation_iso: fra
+    name: larike
   - translation_iso: hin
     name: लारिके-वाकासिहु
     auto: true

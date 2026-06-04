@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بورونجي
     auto: true
+  - translation_iso: fra
+    name: burunge
   - translation_iso: hin
     name: बुरुंगे
     auto: true

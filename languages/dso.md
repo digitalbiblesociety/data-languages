@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: ديسيا
     auto: true
+  - translation_iso: fra
+    name: desia
   - translation_iso: hin
     name: देसिया
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إڤانت
     auto: true
+  - translation_iso: fra
+    name: evant
   - translation_iso: hin
     name: एवांत
     auto: true

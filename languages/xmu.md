@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كامو
     auto: true
+  - translation_iso: fra
+    name: kamu
   - translation_iso: hin
     name: कामू
     auto: true

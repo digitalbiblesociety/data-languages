@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتيوكا
     auto: true
+  - translation_iso: fra
+    name: tuyuca
   - translation_iso: hin
     name: तुयुका
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غآنجتإ
     auto: true
+  - translation_iso: fra
+    name: gangte
   - translation_iso: hin
     name: गांटे भाषा
   - translation_iso: jpn

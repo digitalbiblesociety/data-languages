@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: خافنتي
     auto: true
+  - translation_iso: fra
+    name: xavánte
   - translation_iso: hin
     name: शावांते
     auto: true

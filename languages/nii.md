@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نيي
     auto: true
+  - translation_iso: fra
+    name: nii
   - translation_iso: hin
     name: नी
     auto: true

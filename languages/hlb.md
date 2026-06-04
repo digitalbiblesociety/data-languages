@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هالبي
     auto: true
+  - translation_iso: fra
+    name: halbi
   - translation_iso: hin
     name: हल्बी भाषा
   - translation_iso: jpn

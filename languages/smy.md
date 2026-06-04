@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة السمناني
     auto: true
+  - translation_iso: fra
+    name: semnani
   - translation_iso: hin
     name: सेमनानी
     auto: true

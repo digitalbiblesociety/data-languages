@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Marathi_language"
 translations:
   - translation_iso: ara
     name: المراثية
+  - translation_iso: fra
+    name: marathi
   - translation_iso: hin
     name: मराठी
   - translation_iso: jpn

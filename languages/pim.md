@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Powhatan_language"
 translations:
   - translation_iso: ara
     name: بوهاتان
+  - translation_iso: fra
+    name: powhatan
   - translation_iso: hin
     name: पोहाटन
     auto: true

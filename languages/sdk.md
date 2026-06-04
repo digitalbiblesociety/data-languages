@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سوس كندي
     auto: true
+  - translation_iso: fra
+    name: sos kundi
   - translation_iso: hin
     name: सोस कुंडी
     auto: true

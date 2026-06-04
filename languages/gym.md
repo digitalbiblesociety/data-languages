@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجäبإرإ
     auto: true
+  - translation_iso: fra
+    name: ngäbere
   - translation_iso: hin
     name: न्गाबेरे
     auto: true

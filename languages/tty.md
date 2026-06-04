@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سيكاريتاي
     auto: true
+  - translation_iso: fra
+    name: aikwakai
   - translation_iso: hin
     name: सिकारितई
     auto: true

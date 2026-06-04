@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك رينكون الجنوبي
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Rincón du Sud
   - translation_iso: hin
     name: दक्षिणी रिंकोन ज़ापोटेक
     auto: true

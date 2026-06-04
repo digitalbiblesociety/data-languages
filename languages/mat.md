@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ماتلاتسينكا
     auto: true
+  - translation_iso: fra
+    name: matlatzinca de San Francisco
   - translation_iso: hin
     name: सान फ्रांसिस्को मातलात्ज़िंका
     auto: true

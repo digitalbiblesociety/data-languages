@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بودونج-بودونج
     auto: true
+  - translation_iso: fra
+    name: budong-budong
   - translation_iso: hin
     name: बुदोंग-बुदोंग
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: وولاني
     auto: true
+  - translation_iso: fra
+    name: wolane
   - translation_iso: hin
     name: वोलाने
     auto: true

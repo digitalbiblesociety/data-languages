@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أريجيدي
     auto: true
+  - translation_iso: fra
+    name: Arigidi
+    auto: true
   - translation_iso: hin
     name: अरिगिदी
     auto: true

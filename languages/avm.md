@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنجكاموثي
     auto: true
+  - translation_iso: fra
+    name: angkamuthi
   - translation_iso: hin
     name: अंगकामुथी
     auto: true

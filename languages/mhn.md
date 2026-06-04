@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة موتشينو
     auto: true
+  - translation_iso: fra
+    name: mochène
   - translation_iso: hin
     name: मोकेनो
     auto: true

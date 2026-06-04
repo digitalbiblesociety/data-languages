@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الشاطية
     auto: true
+  - translation_iso: fra
+    name: caning
   - translation_iso: hin
     name: शट्ट
     auto: true

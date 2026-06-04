@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوريانكيري
     auto: true
+  - translation_iso: fra
+    name: duriankere
   - translation_iso: hin
     name: दुरियानकेरे
     auto: true

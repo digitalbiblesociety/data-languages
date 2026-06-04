@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توني بو الغربية
     auto: true
+  - translation_iso: fra
+    name: "tunebo de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी तुनेबो
     auto: true

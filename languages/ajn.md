@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: لغة أندّاجين
     auto: true
+  - translation_iso: fra
+    name: andajin
   - translation_iso: hin
     name: अंदाजिन
     auto: true

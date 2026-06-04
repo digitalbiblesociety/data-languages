@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Wali_language_(Sudan)"
 translations:
   - translation_iso: ara
     name: لغة الوالي
+  - translation_iso: fra
+    name: wali
   - translation_iso: hin
     name: वली (सूडान)
     auto: true

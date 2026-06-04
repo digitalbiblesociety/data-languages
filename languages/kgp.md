@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kaingang_language"
 translations:
   - translation_iso: ara
     name: الكاينغانغ
+  - translation_iso: fra
+    name: kaingang
   - translation_iso: hin
     name: काइंगांग
   - translation_iso: jpn

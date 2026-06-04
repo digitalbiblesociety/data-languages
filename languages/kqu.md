@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة سيروا
     auto: true
+  - translation_iso: fra
+    name: seroa
   - translation_iso: hin
     name: सेरोआ
     auto: true

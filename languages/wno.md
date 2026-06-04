@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: وانو
     auto: true
+  - translation_iso: fra
+    name: wano
   - translation_iso: hin
     name: वानो
     auto: true

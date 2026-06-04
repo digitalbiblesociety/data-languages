@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كانوم سمارتكي
     auto: true
+  - translation_iso: fra
+    name: kanum smärky
   - translation_iso: hin
     name: स्मार्की कनुम
     auto: true

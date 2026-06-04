@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نغورمبور
     auto: true
+  - translation_iso: fra
+    name: ngurmbur
   - translation_iso: hin
     name: नगुर्म्बुर
     auto: true

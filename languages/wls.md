@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: والليسيان
     auto: true
+  - translation_iso: fra
+    name: wallisien
   - translation_iso: hin
     name: वालिसी
     auto: true

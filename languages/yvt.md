@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يافيتيرو
     auto: true
+  - translation_iso: fra
+    name: yavitero
   - translation_iso: hin
     name: यवितेरो
     auto: true

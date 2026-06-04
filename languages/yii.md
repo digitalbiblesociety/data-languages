@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ييديني
     auto: true
+  - translation_iso: fra
+    name: yidiny
   - translation_iso: hin
     name: यिदिञ
     auto: true

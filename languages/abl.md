@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lampung_language"
 translations:
   - translation_iso: ara
     name: لغة لامبونغ
+  - translation_iso: fra
+    name: langues lampung
   - translation_iso: hin
     name: लामपुंग न्यो
     auto: true

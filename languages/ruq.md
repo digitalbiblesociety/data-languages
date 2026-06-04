@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ميجلينو رومانية
     auto: true
+  - translation_iso: fra
+    name: mégléno-roumain
   - translation_iso: hin
     name: मेग्लेनो रोमानियन
     auto: true

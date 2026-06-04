@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: غرونينجس
     auto: true
+  - translation_iso: fra
+    name: groningois
   - translation_iso: hin
     name: ग्रोनिंग्स
     auto: true

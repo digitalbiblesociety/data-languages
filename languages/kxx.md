@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليكوبا
     auto: true
+  - translation_iso: fra
+    name: Likuba
+    auto: true
   - translation_iso: hin
     name: लिकुबा
     auto: true

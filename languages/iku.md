@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Inuktitut"
 translations:
   - translation_iso: ara
     name: الإنكتيتوتية
+  - translation_iso: fra
+    name: inuktitut
   - translation_iso: hin
     name: इनूकीटूत्
   - translation_iso: jpn

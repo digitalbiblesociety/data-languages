@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Navajo_language"
 translations:
   - translation_iso: ara
     name: نافاهو
+  - translation_iso: fra
+    name: navajo
   - translation_iso: hin
     name: नावाहो भाषा
   - translation_iso: jpn

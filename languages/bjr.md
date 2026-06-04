@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بينومريين
     auto: true
+  - translation_iso: fra
+    name: binumarien
   - translation_iso: hin
     name: बिनुमारिएन
     auto: true

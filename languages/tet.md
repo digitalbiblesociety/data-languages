@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tetun_language"
 translations:
   - translation_iso: ara
     name: التيتومية
+  - translation_iso: fra
+    name: tétoum
   - translation_iso: hin
     name: तेतुम भाषा
   - translation_iso: jpn

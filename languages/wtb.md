@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: ماتامبوي
     auto: true
+  - translation_iso: fra
+    name: Matambwe
+    auto: true
   - translation_iso: hin
     name: मातांब्वे
     auto: true

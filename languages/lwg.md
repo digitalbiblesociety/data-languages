@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة انجا
     auto: true
+  - translation_iso: fra
+    name: wanga
   - translation_iso: hin
     name: वंगा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ووم پاپوا نيو غوينيا
     auto: true
+  - translation_iso: fra
+    name: wom
   - translation_iso: hin
     name: वोम (पापुआ न्यू गिनी)
     auto: true

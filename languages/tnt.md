@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تونتيمبوان
     auto: true
+  - translation_iso: fra
+    name: tontemboan
   - translation_iso: hin
     name: तोंतेम्बोआन
     auto: true

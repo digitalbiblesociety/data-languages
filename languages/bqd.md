@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بونج
     auto: true
+  - translation_iso: fra
+    name: bung
   - translation_iso: hin
     name: बुंग
     auto: true

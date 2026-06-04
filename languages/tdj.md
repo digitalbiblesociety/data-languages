@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاجيو
     auto: true
+  - translation_iso: fra
+    name: tajio
   - translation_iso: hin
     name: ताजियो
     auto: true

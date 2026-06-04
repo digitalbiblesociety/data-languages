@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاويا
     auto: true
+  - translation_iso: fra
+    name: Tauya
+    auto: true
   - translation_iso: hin
     name: तौया
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: السين
     auto: true
+  - translation_iso: fra
+    name: Cen
+    auto: true
   - translation_iso: hin
     name: सेन
     auto: true

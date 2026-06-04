@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يدغة
     auto: true
+  - translation_iso: fra
+    name: yidgha
   - translation_iso: hin
     name: यिदगा
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بازيجار
     auto: true
+  - translation_iso: fra
+    name: Bazigar
+    auto: true
   - translation_iso: hin
     name: बाज़ीगर
     auto: true

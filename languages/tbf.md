@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماندارا
     auto: true
+  - translation_iso: fra
+    name: mandara
   - translation_iso: hin
     name: मंदारा
     auto: true

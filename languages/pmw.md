@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ميووك البلايينز
     auto: true
+  - translation_iso: fra
+    name: miwok des plaines
   - translation_iso: hin
     name: प्लेन्स मिवोक
     auto: true

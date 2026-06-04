@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نييانغومارتا
     auto: true
+  - translation_iso: fra
+    name: Nyangumarta
+    auto: true
   - translation_iso: hin
     name: न्यांगुमार्ता
     auto: true

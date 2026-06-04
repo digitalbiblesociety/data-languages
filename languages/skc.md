@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ما ماندا
     auto: true
+  - translation_iso: fra
+    name: ma manda
   - translation_iso: hin
     name: मा मांडा
     auto: true

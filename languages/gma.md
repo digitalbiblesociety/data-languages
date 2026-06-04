@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غامبيرا
     auto: true
+  - translation_iso: fra
+    name: gambera
   - translation_iso: hin
     name: गाम्बेरा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أنونغ
     auto: true
+  - translation_iso: fra
+    name: anong
   - translation_iso: hin
     name: अनोंग
     auto: true

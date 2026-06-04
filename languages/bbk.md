@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابانكي
     auto: true
+  - translation_iso: fra
+    name: babanki
   - translation_iso: hin
     name: बबांकी
     auto: true

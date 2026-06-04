@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كامانغ
     auto: true
+  - translation_iso: fra
+    name: kamang
   - translation_iso: hin
     name: कामांग
     auto: true

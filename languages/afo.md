@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيلوي
     auto: true
+  - translation_iso: fra
+    name: éloyi
   - translation_iso: hin
     name: एलोयी
     auto: true

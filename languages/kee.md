@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كيريس الشرقية
     auto: true
+  - translation_iso: fra
+    name: "keres de l'Est"
   - translation_iso: hin
     name: पूर्वी केरेस
     auto: true

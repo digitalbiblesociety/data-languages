@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Saraiki_language"
 translations:
   - translation_iso: ara
     name: السرائيكية
+  - translation_iso: fra
+    name: saraiki
   - translation_iso: hin
     name: सराईकी
   - translation_iso: jpn

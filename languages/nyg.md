@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نيينددو
     auto: true
+  - translation_iso: fra
+    name: nyindu
   - translation_iso: hin
     name: न्यिंदु
     auto: true

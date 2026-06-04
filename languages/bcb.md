@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايانوك-ساميك
     auto: true
+  - translation_iso: fra
+    name: bainouk-samik
   - translation_iso: hin
     name: बायनूक-समिक
     auto: true

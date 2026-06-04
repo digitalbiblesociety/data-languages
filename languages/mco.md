@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كواتلان ميكسي
     auto: true
+  - translation_iso: fra
+    name: mixe de Coatlán
   - translation_iso: hin
     name: कोआत्लान मिशे
     auto: true

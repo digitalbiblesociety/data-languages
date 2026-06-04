@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نكيم-نكوم
     auto: true
+  - translation_iso: fra
+    name: Nkem-Nkum
+    auto: true
   - translation_iso: hin
     name: नकेम-नकुम
     auto: true

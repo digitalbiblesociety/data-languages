@@ -11,6 +11,8 @@ longitude: -121.99099
 translations:
   - translation_iso: ara
     name: سكاكيت
+  - translation_iso: fra
+    name: skagit
   - translation_iso: hin
     name: स्कैगिट
     auto: true

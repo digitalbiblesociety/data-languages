@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ساكاتيبك تشاتينو
     auto: true
+  - translation_iso: fra
+    name: chatino de Zacatepec
   - translation_iso: hin
     name: ज़ाकाटेपेक चातीनो
     auto: true

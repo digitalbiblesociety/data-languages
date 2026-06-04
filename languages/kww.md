@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوينتي
     auto: true
+  - translation_iso: fra
+    name: kwinti
   - translation_iso: hin
     name: क्विंटी
     auto: true

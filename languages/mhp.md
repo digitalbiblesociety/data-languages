@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو بالينسي
     auto: true
+  - translation_iso: fra
+    name: Malais balinais
+    auto: true
   - translation_iso: hin
     name: बाली मलय
     auto: true

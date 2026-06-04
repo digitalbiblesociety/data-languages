@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوكاياليي-يوروا أشينينكا
     auto: true
+  - translation_iso: fra
+    name: "Ashéninka de l'Ucayali-Yurúa"
+    auto: true
   - translation_iso: hin
     name: उकायाली-युरूआ अशेनिन्का
     auto: true

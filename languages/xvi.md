@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: كامفيري
     auto: true
+  - translation_iso: fra
+    name: kamviri
   - translation_iso: hin
     name: कामविरी
     auto: true

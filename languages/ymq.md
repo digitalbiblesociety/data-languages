@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة قيلا موجي
     auto: true
+  - translation_iso: fra
+    name: muji qila
   - translation_iso: hin
     name: किला मूजी
     auto: true

@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: كوكو-مانك
     auto: true
+  - translation_iso: fra
+    name: kuku-mangk
   - translation_iso: hin
     name: कुकु-मांक
     auto: true

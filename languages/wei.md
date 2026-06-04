@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيونوم
     auto: true
+  - translation_iso: fra
+    name: were
   - translation_iso: hin
     name: कियुनुम
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي ولاية مكسيكو
     auto: true
+  - translation_iso: fra
+    name: "otomi de l'État de Mexico"
   - translation_iso: hin
     name: एस्तादो दे मेक्सिको ओटोमी
     auto: true

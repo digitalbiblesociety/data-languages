@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتوناك شيكوتيبيك دي خوارز
     auto: true
+  - translation_iso: fra
+    name: totonaque de Xicotepec
   - translation_iso: hin
     name: शिकोतेपेक दे हुआरेस तोतोनाक
     auto: true

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: توني كا
     auto: true
+  - translation_iso: fra
+    name: tunica
   - translation_iso: hin
     name: तुनिका
     auto: true

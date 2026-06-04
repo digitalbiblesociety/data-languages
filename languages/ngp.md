@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجولو
     auto: true
+  - translation_iso: fra
+    name: ngulu
   - translation_iso: hin
     name: न्गुलु
     auto: true

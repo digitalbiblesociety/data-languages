@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: بادقة
     auto: true
+  - translation_iso: fra
+    name: badaga
   - translation_iso: hin
     name: बदगा भाषा
   - translation_iso: jpn

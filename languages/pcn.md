@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيتي
     auto: true
+  - translation_iso: fra
+    name: piti
   - translation_iso: hin
     name: पिटी
     auto: true

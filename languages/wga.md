@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واغايا
     auto: true
+  - translation_iso: fra
+    name: wagaya
   - translation_iso: hin
     name: वगाया
     auto: true

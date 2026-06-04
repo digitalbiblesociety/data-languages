@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tsimshian_language"
 translations:
   - translation_iso: ara
     name: التسيمشيان
+  - translation_iso: fra
+    name: tsimshian
   - translation_iso: hin
     name: त्सिमीशियन
   - translation_iso: jpn

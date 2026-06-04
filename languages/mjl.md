@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماندلي
     auto: true
+  - translation_iso: fra
+    name: Mandeali
+    auto: true
   - translation_iso: hin
     name: मंडयाली
   - translation_iso: jpn

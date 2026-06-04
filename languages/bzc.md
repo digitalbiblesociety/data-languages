@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: جنوب بيتسيميسارا مالْجاشي
     auto: true
+  - translation_iso: fra
+    name: betsimisaraka du Sud
   - translation_iso: hin
     name: दक्षिणी बेट्सिमिसाराका मालागासी
     auto: true

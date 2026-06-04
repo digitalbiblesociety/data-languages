@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: كوكو
     auto: true
+  - translation_iso: fra
+    name: kuku
   - translation_iso: hin
     name: कुकु
     auto: true

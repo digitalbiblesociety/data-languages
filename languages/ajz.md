@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمري كاربي
     auto: true
+  - translation_iso: fra
+    name: Amri Karbi
+    auto: true
   - translation_iso: hin
     name: अमरी कार्बी
     auto: true

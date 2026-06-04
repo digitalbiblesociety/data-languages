@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة لوسي
     auto: true
+  - translation_iso: fra
+    name: lusi
   - translation_iso: hin
     name: लुसी
     auto: true

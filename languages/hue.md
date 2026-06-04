@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة هوافي سان فرانسيسكو ديل مار
     auto: true
+  - translation_iso: fra
+    name: huave de San Francisco del Mar
   - translation_iso: hin
     name: सान फ्रांसिस्को डेल मार हुआवे
     auto: true

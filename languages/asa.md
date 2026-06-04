@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pare_language"
 translations:
   - translation_iso: ara
     name: الآسو
+  - translation_iso: fra
+    name: asu
   - translation_iso: hin
     name: असु
   - translation_iso: jpn

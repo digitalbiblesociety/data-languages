@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ييلا
     auto: true
+  - translation_iso: fra
+    name: Yela
+    auto: true
   - translation_iso: hin
     name: येला
     auto: true

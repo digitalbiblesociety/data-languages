@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الأرانادان
     auto: true
+  - translation_iso: fra
+    name: aranadan
   - translation_iso: hin
     name: अरनाडन
     auto: true

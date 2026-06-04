@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Birgid_language"
 translations:
   - translation_iso: ara
     name: لغة برجيد
+  - translation_iso: fra
+    name: birgid
   - translation_iso: hin
     name: बिर्केद
     auto: true

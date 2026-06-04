@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك كسانغويا
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Xanaguía
   - translation_iso: hin
     name: ज़ानागुइया ज़ापोटेक
     auto: true

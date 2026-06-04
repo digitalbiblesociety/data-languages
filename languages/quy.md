@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا أياتشوتشو
     auto: true
+  - translation_iso: fra
+    name: quechua d’Ayacucho
   - translation_iso: hin
     name: आयाकुचो क्वेचुआ
     auto: true

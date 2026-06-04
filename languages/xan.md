@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خامتانغا
     auto: true
+  - translation_iso: fra
+    name: Xamtanga
+    auto: true
   - translation_iso: hin
     name: ख़मतांगा
     auto: true

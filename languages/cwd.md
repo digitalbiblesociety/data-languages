@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الكري الغابات
     auto: true
+  - translation_iso: fra
+    name: Cri des bois
+    auto: true
   - translation_iso: hin
     name: वुड्स क्री
     auto: true

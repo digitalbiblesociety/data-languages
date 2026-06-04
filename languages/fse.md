@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Finnish
     auto: true
+  - translation_iso: fra
+    name: langue des signes finnoise
   - translation_iso: hin
     name: फिनिश साइन लैंग्वेज
   - translation_iso: jpn

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كيلي-آي كالاهان
     auto: true
+  - translation_iso: fra
+    name: kallahan keley-i
   - translation_iso: hin
     name: केले-इ कल्लाहान
     auto: true

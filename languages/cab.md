@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جاريفونا
     auto: true
+  - translation_iso: fra
+    name: garifuna
   - translation_iso: hin
     name: गारिफुना
     auto: true

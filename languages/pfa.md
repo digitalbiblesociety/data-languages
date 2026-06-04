@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بافانغ
     auto: true
+  - translation_iso: fra
+    name: paafang
   - translation_iso: hin
     name: पाफांग
     auto: true

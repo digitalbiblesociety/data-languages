@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة اريم
     auto: true
+  - translation_iso: fra
+    name: narim
   - translation_iso: hin
     name: नारिम
     auto: true

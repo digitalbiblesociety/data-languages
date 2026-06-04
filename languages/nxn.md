@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نغاووون
     auto: true
+  - translation_iso: fra
+    name: ngawun
   - translation_iso: hin
     name: नगावुन
     auto: true

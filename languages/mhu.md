@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ديجارو ميشمي
     auto: true
+  - translation_iso: fra
+    name: digaro-mishmi
   - translation_iso: hin
     name: तरुआंग भाषा
   - translation_iso: jpn

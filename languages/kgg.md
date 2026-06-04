@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة كوسوندا
     auto: true
+  - translation_iso: fra
+    name: kusunda
   - translation_iso: hin
     name: कुसुन्दा
   - translation_iso: jpn

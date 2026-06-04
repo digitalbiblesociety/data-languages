@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sardinian_language"
 translations:
   - translation_iso: ara
     name: سردينية
+  - translation_iso: fra
+    name: sarde
   - translation_iso: hin
     name: सार्दिनियन
   - translation_iso: jpn

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كويامكالكو ميكستيك
     auto: true
+  - translation_iso: fra
+    name: Mixtèque de Cuyamecalco
+    auto: true
   - translation_iso: hin
     name: कुयामेकाल्को मिक्सटेक
     auto: true

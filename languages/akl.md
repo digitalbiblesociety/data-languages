@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أكلانون
     auto: true
+  - translation_iso: fra
+    name: aklanon
   - translation_iso: hin
     name: अक्लानोन
     auto: true

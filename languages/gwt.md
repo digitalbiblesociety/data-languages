@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غآوآر-بآتي
     auto: true
+  - translation_iso: fra
+    name: gawar-bati
   - translation_iso: hin
     name: ग्वार-बती भाषा
   - translation_iso: jpn

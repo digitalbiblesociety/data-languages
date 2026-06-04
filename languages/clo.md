@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: السهل واخاكا تشونتال
     auto: true
+  - translation_iso: fra
+    name: chontal des basses terres
   - translation_iso: hin
     name: निचली ओआहाका चोंताल
     auto: true

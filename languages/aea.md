@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أريبا
     auto: true
+  - translation_iso: fra
+    name: areba
   - translation_iso: hin
     name: अरेबा
     auto: true

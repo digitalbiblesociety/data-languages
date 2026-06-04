@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: ميددلي ويلسه
     auto: true
+  - translation_iso: fra
+    name: moyen gallois
   - translation_iso: hin
     name: मध्य वेल्श
     auto: true

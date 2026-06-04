@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كيرونج
     auto: true
+  - translation_iso: fra
+    name: Kyerung
+    auto: true
   - translation_iso: hin
     name: क्येरुंग
     auto: true

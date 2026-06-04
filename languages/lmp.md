@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يمبوم
     auto: true
+  - translation_iso: fra
+    name: limbum
   - translation_iso: hin
     name: लिंबुम
     auto: true

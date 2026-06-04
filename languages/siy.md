@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة السيفندي
     auto: true
+  - translation_iso: fra
+    name: sivandi
   - translation_iso: hin
     name: सिवंदी
     auto: true

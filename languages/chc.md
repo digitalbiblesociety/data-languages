@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Catawba_language"
 translations:
   - translation_iso: ara
     name: كاتاوبا
+  - translation_iso: fra
+    name: catawba
   - translation_iso: hin
     name: कैटॉबा
     auto: true

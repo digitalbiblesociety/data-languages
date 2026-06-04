@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نو-تشاه-نولث
     auto: true
+  - translation_iso: fra
+    name: nuuchahnulth
   - translation_iso: hin
     name: नू-चाह-नल्थ
     auto: true

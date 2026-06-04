@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جينو كوروما
     auto: true
+  - translation_iso: fra
+    name: kurumba jennu
   - translation_iso: hin
     name: जेनु कुरुम्बा
     auto: true

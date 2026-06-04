@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجاردي
     auto: true
+  - translation_iso: fra
+    name: ngardi
   - translation_iso: hin
     name: न्गार्डी
     auto: true

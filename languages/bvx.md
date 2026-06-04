@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديبولي
     auto: true
+  - translation_iso: fra
+    name: dibole
   - translation_iso: hin
     name: दिबोले
     auto: true

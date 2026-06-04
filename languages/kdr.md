@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاراييم
     auto: true
+  - translation_iso: fra
+    name: karaïm
   - translation_iso: hin
     name: कराइम
     auto: true

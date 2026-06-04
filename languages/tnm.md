@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تابلا
     auto: true
+  - translation_iso: fra
+    name: tabla
   - translation_iso: hin
     name: तब्ला
     auto: true

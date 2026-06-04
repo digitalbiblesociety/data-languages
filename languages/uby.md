@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ubykh_language"
 translations:
   - translation_iso: ara
     name: لغة الوبخ
+  - translation_iso: fra
+    name: oubykh
   - translation_iso: hin
     name: उबीख
     auto: true

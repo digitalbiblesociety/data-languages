@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إنريكانج
     auto: true
+  - translation_iso: fra
+    name: Enrekang
+    auto: true
   - translation_iso: hin
     name: एनरेकांग
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جومل للإشارة
     auto: true
+  - translation_iso: fra
+    name: Langue des signes de Jumla
+    auto: true
   - translation_iso: hin
     name: जुमला सांकेतिक भाषा
   - translation_iso: jpn

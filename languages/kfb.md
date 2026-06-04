@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كولامي الشمالية الغربية
     auto: true
+  - translation_iso: fra
+    name: kolami
   - translation_iso: hin
     name: कोलामि भाषा
   - translation_iso: jpn

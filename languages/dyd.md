@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديوجون
     auto: true
+  - translation_iso: fra
+    name: dyugun
   - translation_iso: hin
     name: द्युगुन
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اليوغوسلافية
     auto: true
+  - translation_iso: fra
+    name: langue des signes yougoslave
   - translation_iso: hin
     name: यूगोस्लावियाई सांकेतिक भाषा
     auto: true

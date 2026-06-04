@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كونومالا
     auto: true
+  - translation_iso: fra
+    name: konomala
   - translation_iso: hin
     name: कोनोमाला
     auto: true

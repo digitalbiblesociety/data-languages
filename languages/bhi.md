@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بهيلالي
     auto: true
+  - translation_iso: fra
+    name: bhilali
   - translation_iso: hin
     name: भिलाली भाषा
   - translation_iso: jpn

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة كو
     auto: true
+  - translation_iso: fra
+    name: Kou
+    auto: true
   - translation_iso: hin
     name: कोउ
     auto: true

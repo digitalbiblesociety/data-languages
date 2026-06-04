@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Koasati_language"
 translations:
   - translation_iso: ara
     name: كواساتي
+  - translation_iso: fra
+    name: koasati
   - translation_iso: hin
     name: कोआसाटी
     auto: true

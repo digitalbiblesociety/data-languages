@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة زوانغ غويبي
     auto: true
+  - translation_iso: fra
+    name: zhuang de Guibei
   - translation_iso: hin
     name: गुइबेई ज़ुआंग
     auto: true

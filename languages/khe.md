@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كوروواي
     auto: true
+  - translation_iso: fra
+    name: korowai
   - translation_iso: hin
     name: कोरोवाई
     auto: true

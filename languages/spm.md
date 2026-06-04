@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أكوكيم
     auto: true
+  - translation_iso: fra
+    name: akukem
   - translation_iso: hin
     name: आकुकेम
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غآمو
     auto: true
+  - translation_iso: fra
+    name: gamo
   - translation_iso: hin
     name: गामो
     auto: true

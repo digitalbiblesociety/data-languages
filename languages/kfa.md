@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كودافا
     auto: true
+  - translation_iso: fra
+    name: kodagu
   - translation_iso: hin
     name: कोडवा भाषा
   - translation_iso: jpn

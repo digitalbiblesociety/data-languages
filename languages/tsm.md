@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التركية
     auto: true
+  - translation_iso: fra
+    name: langue des signes turque
   - translation_iso: hin
     name: तुर्की सांकेतिक भाषा
   - translation_iso: jpn

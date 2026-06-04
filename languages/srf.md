@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة نافي
     auto: true
+  - translation_iso: fra
+    name: nafi
   - translation_iso: hin
     name: नाफी
     auto: true

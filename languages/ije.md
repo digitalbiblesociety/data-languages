@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيسيني
     auto: true
+  - translation_iso: fra
+    name: biseni
   - translation_iso: hin
     name: बिसेनी
     auto: true

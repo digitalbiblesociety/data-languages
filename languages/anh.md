@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة نيند
     auto: true
+  - translation_iso: fra
+    name: Nend
+    auto: true
   - translation_iso: hin
     name: नेन्द
     auto: true

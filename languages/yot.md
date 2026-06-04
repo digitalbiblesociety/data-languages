@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوتي
     auto: true
+  - translation_iso: fra
+    name: yotti
   - translation_iso: hin
     name: योट्टी
     auto: true

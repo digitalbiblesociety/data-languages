@@ -16,6 +16,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ampanang_language"
 translations:
   - translation_iso: ara
     name: لغة أمبانانغ
+  - translation_iso: fra
+    name: Ampanang
+    auto: true
   - translation_iso: hin
     name: अम्पानांग
     auto: true

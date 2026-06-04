@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيلتيبيريان
     auto: true
+  - translation_iso: fra
+    name: celtibère
   - translation_iso: hin
     name: सेल्तिबेरियन
     auto: true

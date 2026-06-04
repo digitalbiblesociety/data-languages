@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشاليخا
     auto: true
+  - translation_iso: fra
+    name: chalikha
   - translation_iso: hin
     name: चालिखा
     auto: true

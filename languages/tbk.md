@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاغبانوا كالاميان
     auto: true
+  - translation_iso: fra
+    name: tagbanwa calamian
   - translation_iso: hin
     name: कालामियान तागबनवा
     auto: true

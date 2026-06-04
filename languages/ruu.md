@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لاناس لوبو
     auto: true
+  - translation_iso: fra
+    name: lobu lanas
   - translation_iso: hin
     name: लानास लोबू
     auto: true

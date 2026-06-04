@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دوروما
     auto: true
+  - translation_iso: fra
+    name: duruma
   - translation_iso: hin
     name: डुरुमा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هإلونج
     auto: true
+  - translation_iso: fra
+    name: helong
   - translation_iso: hin
     name: हेलोंग
     auto: true

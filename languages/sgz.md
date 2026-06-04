@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سورسورونجا
     auto: true
+  - translation_iso: fra
+    name: sursurunga
   - translation_iso: hin
     name: सुरसुरुंगा
     auto: true

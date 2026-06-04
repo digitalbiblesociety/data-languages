@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بورو
     auto: true
+  - translation_iso: fra
+    name: Boro (Ghana)
+    auto: true
   - translation_iso: hin
     name: बोरो (घाना)
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاديويو
     auto: true
+  - translation_iso: fra
+    name: kadiwéu
   - translation_iso: hin
     name: कादिवेउ
     auto: true

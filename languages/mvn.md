@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مينافيها
     auto: true
+  - translation_iso: fra
+    name: Minaveha
+    auto: true
   - translation_iso: hin
     name: मिनावेहा
     auto: true

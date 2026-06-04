@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانارو
     auto: true
+  - translation_iso: fra
+    name: banaro
   - translation_iso: hin
     name: बनारो
     auto: true

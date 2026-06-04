@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هونغو
     auto: true
+  - translation_iso: fra
+    name: Hungu
+    auto: true
   - translation_iso: hin
     name: हुंगू
     auto: true

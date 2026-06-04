@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رومبلومانون
     auto: true
+  - translation_iso: fra
+    name: romblomanon
   - translation_iso: hin
     name: रोम्ब्लोमानोन
     auto: true

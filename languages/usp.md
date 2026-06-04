@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوسبانتيكو
     auto: true
+  - translation_iso: fra
+    name: uspantèque
   - translation_iso: hin
     name: उसपान्तेको
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: تاغبانوا
     auto: true
+  - translation_iso: fra
+    name: Tagbanwa
+    auto: true
   - translation_iso: hin
     name: तागबनवा
     auto: true

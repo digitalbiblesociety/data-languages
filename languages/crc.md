@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لونوولول
     auto: true
+  - translation_iso: fra
+    name: lonwolwol
   - translation_iso: hin
     name: लोनवोलवोल
     auto: true

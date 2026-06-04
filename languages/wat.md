@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كانينواا
     auto: true
+  - translation_iso: fra
+    name: kaninuwa
   - translation_iso: hin
     name: कानिनुवा
     auto: true

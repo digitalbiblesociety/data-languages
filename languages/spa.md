@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Spanish_language"
 translations:
   - translation_iso: ara
     name: الإسبانية
+  - translation_iso: fra
+    name: espagnol
   - translation_iso: hin
     name: स्पेनी भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماي
     auto: true
+  - translation_iso: fra
+    name: mae
   - translation_iso: hin
     name: माए
     auto: true

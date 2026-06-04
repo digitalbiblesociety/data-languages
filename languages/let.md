@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يسينج-يليمي
     auto: true
+  - translation_iso: fra
+    name: amio-gelimi
   - translation_iso: hin
     name: लेसिंग-गेलिमी
     auto: true

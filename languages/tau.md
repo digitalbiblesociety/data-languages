@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تانانا العليا
     auto: true
+  - translation_iso: fra
+    name: haut tanana
   - translation_iso: hin
     name: ऊपरी तानाना
     auto: true

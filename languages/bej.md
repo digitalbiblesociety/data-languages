@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Beja_language"
 translations:
   - translation_iso: ara
     name: اللغة البجاوية
+  - translation_iso: fra
+    name: bedja
   - translation_iso: hin
     name: बेजा
   - translation_iso: jpn

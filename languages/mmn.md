@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماماونا
     auto: true
+  - translation_iso: fra
+    name: Mamanwa
+    auto: true
   - translation_iso: hin
     name: मामानवा
     auto: true

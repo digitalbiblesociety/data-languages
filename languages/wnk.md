@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: وانوكاكا
     auto: true
+  - translation_iso: fra
+    name: wanukaka
   - translation_iso: hin
     name: वानुकाका भाषा
   - translation_iso: jpn

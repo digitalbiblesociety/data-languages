@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/English_language"
 translations:
   - translation_iso: ara
     name: الإنجليزية
+  - translation_iso: fra
+    name: anglais
   - translation_iso: hin
     name: अंग्रेज़ी
   - translation_iso: jpn

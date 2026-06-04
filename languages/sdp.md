@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: شيردوكبين
     auto: true
+  - translation_iso: fra
+    name: sherdukpen
   - translation_iso: hin
     name: शेरडुकपेन भाषा
   - translation_iso: jpn

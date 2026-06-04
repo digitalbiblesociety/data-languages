@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: اللغة جنوب بيسيني
     auto: true
+  - translation_iso: fra
+    name: sud-picène
   - translation_iso: hin
     name: दक्षिण पिकेने
     auto: true

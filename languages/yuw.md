@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يو - مورويب
     auto: true
+  - translation_iso: fra
+    name: yau
   - translation_iso: hin
     name: याउ (मोरोबे प्रांत)
     auto: true

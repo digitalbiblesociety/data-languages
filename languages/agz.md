@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماونت إيريغا أغتا
     auto: true
+  - translation_iso: fra
+    name: Mt. Iriga Agta
+    auto: true
   - translation_iso: hin
     name: माउंट इरिगा अग्ता
     auto: true

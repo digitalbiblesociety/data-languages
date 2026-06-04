@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كولانجو بوندوكو
     auto: true
+  - translation_iso: fra
+    name: koulango de Bondoukou
   - translation_iso: hin
     name: बोंडुकू कुलांगो
     auto: true

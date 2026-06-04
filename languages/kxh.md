@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كارو (إثيوبيا)
     auto: true
+  - translation_iso: fra
+    name: karo
   - translation_iso: hin
     name: कारो (इथियोपिया)
     auto: true

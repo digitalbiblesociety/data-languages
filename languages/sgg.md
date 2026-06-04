@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سويس جيرمان لغة الإشارة
     auto: true
+  - translation_iso: fra
+    name: langue des signes de Suisse alémanique
   - translation_iso: hin
     name: स्विस-जर्मन सांकेतिक भाषा
   - translation_iso: jpn

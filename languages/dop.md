@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوكبا
     auto: true
+  - translation_iso: fra
+    name: lokpa
   - translation_iso: hin
     name: लुक्पा
     auto: true

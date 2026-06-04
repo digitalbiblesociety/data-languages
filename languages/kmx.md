@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة وابودا
     auto: true
+  - translation_iso: fra
+    name: waboda
   - translation_iso: hin
     name: वाबोदा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أنجلورومانية
     auto: true
+  - translation_iso: fra
+    name: angloromani
   - translation_iso: hin
     name: एंग्लोरोमानी
     auto: true

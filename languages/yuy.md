@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يوغور الشرقية
     auto: true
+  - translation_iso: fra
+    name: yugur oriental
   - translation_iso: hin
     name: पूर्वी युगुर
     auto: true

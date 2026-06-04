@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أنّدارم
     auto: true
+  - translation_iso: fra
+    name: andarum
   - translation_iso: hin
     name: अंदारुम
     auto: true

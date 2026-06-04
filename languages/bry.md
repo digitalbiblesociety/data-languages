@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوروي
     auto: true
+  - translation_iso: fra
+    name: burui
   - translation_iso: hin
     name: बुरुई
     auto: true

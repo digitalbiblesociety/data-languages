@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: كوازا
     auto: true
+  - translation_iso: fra
+    name: kwaza
   - translation_iso: hin
     name: क्वाज़ा
     auto: true

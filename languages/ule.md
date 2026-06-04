@@ -14,6 +14,9 @@ translations:
   - translation_iso: ara
     name: لول
     auto: true
+  - translation_iso: fra
+    name: Lule
+    auto: true
   - translation_iso: hin
     name: लुले
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلاندا فيري
     auto: true
+  - translation_iso: fra
+    name: viri
   - translation_iso: hin
     name: बेलांडा विरी
     auto: true

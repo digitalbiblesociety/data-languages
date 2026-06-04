@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بآرآغوآيآن غوآرآنí
     auto: true
+  - translation_iso: fra
+    name: guarani paraguayen
   - translation_iso: hin
     name: पराग्वायी गुआरानी
     auto: true

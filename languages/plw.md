@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بالاوانو بروكس بوينت
     auto: true
+  - translation_iso: fra
+    name: "Palawano de Brooke's Point"
+    auto: true
   - translation_iso: hin
     name: ब्रुक्स पॉइंट पालावानो
     auto: true

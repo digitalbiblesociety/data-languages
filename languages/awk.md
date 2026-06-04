@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أواباكال
     auto: true
+  - translation_iso: fra
+    name: awabakal
   - translation_iso: hin
     name: अवाबाकल
     auto: true

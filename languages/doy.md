@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دومبو
     auto: true
+  - translation_iso: fra
+    name: dompo
   - translation_iso: hin
     name: डोम्पो
     auto: true

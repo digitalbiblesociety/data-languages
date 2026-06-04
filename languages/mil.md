@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك بينيوليس
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Peñoles
   - translation_iso: hin
     name: पेन्योलेस मिश्तेक
     auto: true

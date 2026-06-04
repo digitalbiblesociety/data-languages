@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نانكينا
     auto: true
+  - translation_iso: fra
+    name: nankina
   - translation_iso: hin
     name: नानकिना
     auto: true

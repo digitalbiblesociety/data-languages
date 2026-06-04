@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوبلي
     auto: true
+  - translation_iso: fra
+    name: dubli
   - translation_iso: hin
     name: डुबली
     auto: true

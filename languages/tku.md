@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتوناك نيكاكسا العليا
     auto: true
+  - translation_iso: fra
+    name: totonaque du haut Necaxa
   - translation_iso: hin
     name: ऊपरी नेकाक्सा टोटोनाक
     auto: true

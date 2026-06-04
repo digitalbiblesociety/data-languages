@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سوبانين الغربية
     auto: true
+  - translation_iso: fra
+    name: "subanon de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी सुबानोन
     auto: true

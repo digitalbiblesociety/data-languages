@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northern_S%C3%A1mi"
 translations:
   - translation_iso: ara
     name: اللغة السامي الشمالية
+  - translation_iso: fra
+    name: same du Nord
   - translation_iso: hin
     name: नॉर्दन सामी
   - translation_iso: jpn

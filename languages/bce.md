@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بامينيام
     auto: true
+  - translation_iso: fra
+    name: mengambo
   - translation_iso: hin
     name: बामेन्याम
     auto: true

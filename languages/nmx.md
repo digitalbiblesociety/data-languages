@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نام (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: fra
+    name: nama
   - translation_iso: hin
     name: नामा (पापुआ न्यू गिनी)
     auto: true

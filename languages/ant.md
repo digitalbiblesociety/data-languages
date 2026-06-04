@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أنتاكاريnya
     auto: true
+  - translation_iso: fra
+    name: antakarinya
   - translation_iso: hin
     name: अंताकारिन्या
     auto: true

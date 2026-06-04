@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: جوكستلاهواكا ميكستيك
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Juxtlahuaca
   - translation_iso: hin
     name: हुक्स्तलाहुआका मिश्तेक
     auto: true

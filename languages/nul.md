@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوسا لاوت
     auto: true
+  - translation_iso: fra
+    name: Nusa Laut
+    auto: true
   - translation_iso: hin
     name: नुसा लाउत
     auto: true

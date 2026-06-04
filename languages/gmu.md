@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غومآلو
     auto: true
+  - translation_iso: fra
+    name: Gumalu
+    auto: true
   - translation_iso: hin
     name: गुमालु
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ريجانج كايان
     auto: true
+  - translation_iso: fra
+    name: rejang kayan
   - translation_iso: hin
     name: रेजांग कायान
     auto: true

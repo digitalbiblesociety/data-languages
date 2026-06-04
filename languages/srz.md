@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة شاهميرزادي
     auto: true
+  - translation_iso: fra
+    name: shahmirzadi
   - translation_iso: hin
     name: शाहमिरज़ादी
     auto: true

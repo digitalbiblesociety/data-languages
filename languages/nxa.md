@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناويتي
     auto: true
+  - translation_iso: fra
+    name: nauete
   - translation_iso: hin
     name: नौएते
     auto: true

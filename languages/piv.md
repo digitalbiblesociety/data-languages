@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيليني
     auto: true
+  - translation_iso: fra
+    name: vaeakau-taumako
   - translation_iso: hin
     name: पिलेनी
     auto: true

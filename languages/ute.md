@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Colorado_River_Numic_language"
 translations:
   - translation_iso: ara
     name: إيتوه
+  - translation_iso: fra
+    name: ute
   - translation_iso: hin
     name: यूट-दक्षिणी पाइयूट
     auto: true

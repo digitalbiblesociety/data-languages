@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مانتسي
     auto: true
+  - translation_iso: fra
+    name: mantsi
   - translation_iso: hin
     name: मांत्सी
     auto: true

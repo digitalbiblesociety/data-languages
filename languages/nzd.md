@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نزادي
     auto: true
+  - translation_iso: fra
+    name: nzadi
   - translation_iso: hin
     name: नज़ादी
     auto: true

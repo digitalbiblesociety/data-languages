@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوا
     auto: true
+  - translation_iso: fra
+    name: Bua
+    auto: true
   - translation_iso: hin
     name: बुआ
     auto: true

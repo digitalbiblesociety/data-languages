@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الإكي
     auto: true
+  - translation_iso: fra
+    name: eki
   - translation_iso: hin
     name: एकी
     auto: true

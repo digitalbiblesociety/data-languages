@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة السالار
     auto: true
+  - translation_iso: fra
+    name: salar
   - translation_iso: hin
     name: सालार
     auto: true

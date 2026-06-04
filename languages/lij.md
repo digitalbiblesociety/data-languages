@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ligurian_language"
 translations:
   - translation_iso: ara
     name: الليغورية
+  - translation_iso: fra
+    name: ligure
   - translation_iso: hin
     name: लिगुरियन
   - translation_iso: jpn

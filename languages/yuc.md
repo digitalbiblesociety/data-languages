@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوتشي
     auto: true
+  - translation_iso: fra
+    name: yuchi
   - translation_iso: hin
     name: युची
     auto: true

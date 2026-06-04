@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة باتاموناي
     auto: true
+  - translation_iso: fra
+    name: patamona
   - translation_iso: hin
     name: पाटामोना
     auto: true

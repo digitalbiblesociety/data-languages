@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ثادو تشين
     auto: true
+  - translation_iso: fra
+    name: thado
   - translation_iso: hin
     name: थडो भाषा
   - translation_iso: jpn

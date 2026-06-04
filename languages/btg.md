@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: جاجْنوا بيتي
     auto: true
+  - translation_iso: fra
+    name: bété de Gagnoa
   - translation_iso: hin
     name: गान्या बेते
     auto: true

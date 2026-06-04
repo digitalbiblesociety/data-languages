@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك توتوماتشابان
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Totomachapan
   - translation_iso: hin
     name: तोतोमाचापन सैपोटेक
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الكابوا
     auto: true
+  - translation_iso: fra
+    name: kabwa
   - translation_iso: hin
     name: काब्वा
     auto: true

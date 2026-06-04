@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Maore_dialect"
 translations:
   - translation_iso: ara
     name: القمرية
+  - translation_iso: fra
+    name: mahorais
   - translation_iso: hin
     name: कोमोरियन
   - translation_iso: jpn

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sidama_language"
 translations:
   - translation_iso: ara
     name: لغة السيداما
+  - translation_iso: fra
+    name: sidama
   - translation_iso: hin
     name: सिडाम भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Scottish_Gaelic"
 translations:
   - translation_iso: ara
     name: الغيلية الإسكتلندية
+  - translation_iso: fra
+    name: gaélique écossais
   - translation_iso: hin
     name: स्कॉटिश गैलिक
   - translation_iso: jpn

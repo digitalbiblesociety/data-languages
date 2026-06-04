@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باريا
     auto: true
+  - translation_iso: fra
+    name: parya
   - translation_iso: hin
     name: प्रिया भाषा
   - translation_iso: jpn

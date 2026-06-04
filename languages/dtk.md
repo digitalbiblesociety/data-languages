@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تيني كان دوجون
     auto: true
+  - translation_iso: fra
+    name: tene kan
   - translation_iso: hin
     name: टेने कान डोगोन
     auto: true

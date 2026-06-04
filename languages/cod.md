@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكوكاما-كوكاميلا
     auto: true
+  - translation_iso: fra
+    name: cocama-cocamilla
   - translation_iso: hin
     name: कोकामा-कोकामिल्ला
     auto: true

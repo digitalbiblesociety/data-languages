@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: كيور
     auto: true
+  - translation_iso: fra
+    name: kiorr
   - translation_iso: hin
     name: कियोर
     auto: true

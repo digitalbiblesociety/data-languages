@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مالاريان
     auto: true
+  - translation_iso: fra
+    name: Malaryan
+    auto: true
   - translation_iso: hin
     name: मलार्यन
     auto: true

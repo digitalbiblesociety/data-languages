@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نوبري
     auto: true
+  - translation_iso: fra
+    name: nupri
   - translation_iso: hin
     name: नुबरी भाषा
   - translation_iso: jpn

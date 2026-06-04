@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Frankish_language"
 translations:
   - translation_iso: ara
     name: الفرنكية القديمة
+  - translation_iso: fra
+    name: vieux-francique
   - translation_iso: hin
     name: फ्रैंकिश
     auto: true

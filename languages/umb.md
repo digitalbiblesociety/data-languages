@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Umbundu"
 translations:
   - translation_iso: ara
     name: الأمبندو
+  - translation_iso: fra
+    name: umbundu
   - translation_iso: hin
     name: उम्बुन्डु
   - translation_iso: jpn

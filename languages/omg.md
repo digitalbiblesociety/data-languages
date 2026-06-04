@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوماغوا
     auto: true
+  - translation_iso: fra
+    name: omagua
   - translation_iso: hin
     name: ओमागुआ
     auto: true

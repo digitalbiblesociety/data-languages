@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكومانتشي
     auto: true
+  - translation_iso: fra
+    name: comanche
   - translation_iso: hin
     name: कोमांचे
     auto: true

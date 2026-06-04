@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: شينكا
     auto: true
+  - translation_iso: fra
+    name: xinca
   - translation_iso: hin
     name: शिंका
     auto: true

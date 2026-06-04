@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كارين ينباو
     auto: true
+  - translation_iso: fra
+    name: yinbaw
   - translation_iso: hin
     name: यिनबाव करेन
     auto: true

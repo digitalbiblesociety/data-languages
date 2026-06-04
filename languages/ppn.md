@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابابانا
     auto: true
+  - translation_iso: fra
+    name: papapana
   - translation_iso: hin
     name: पापापाना
     auto: true

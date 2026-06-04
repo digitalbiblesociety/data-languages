@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ساني
     auto: true
+  - translation_iso: fra
+    name: sanie
   - translation_iso: hin
     name: सानिए
     auto: true

@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Malagasy_language"
 translations:
   - translation_iso: ara
     name: الملغاشية
+  - translation_iso: fra
+    name: malgache
   - translation_iso: hin
     name: मालागासी भाषा
   - translation_iso: jpn

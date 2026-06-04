@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوبيسبينيو
     auto: true
+  - translation_iso: fra
+    name: obispeño
   - translation_iso: hin
     name: ओबिस्पेन्यो
     auto: true

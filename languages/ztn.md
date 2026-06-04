@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك سانتا كاتارينا ألبارادس
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Santa Catarina Albarradas
   - translation_iso: hin
     name: सांता काटारिना अल्बाराडास ज़ापोटेक
     auto: true

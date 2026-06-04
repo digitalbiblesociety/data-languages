@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيست دامار
     auto: true
+  - translation_iso: fra
+    name: damar Timur
   - translation_iso: hin
     name: पूर्वी दामार
     auto: true

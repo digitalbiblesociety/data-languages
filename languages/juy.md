@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة جوراي
     auto: true
+  - translation_iso: fra
+    name: Juray
+    auto: true
   - translation_iso: hin
     name: जुराय
     auto: true

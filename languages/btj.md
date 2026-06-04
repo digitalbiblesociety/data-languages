@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باتشانيسي مالاي
     auto: true
+  - translation_iso: fra
+    name: Malais de Bacan
+    auto: true
   - translation_iso: hin
     name: बाचान मलय
     auto: true

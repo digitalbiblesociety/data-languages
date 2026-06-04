@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: غارينغبال
     auto: true
+  - translation_iso: fra
+    name: garingbal
   - translation_iso: hin
     name: गारिंगबल
     auto: true

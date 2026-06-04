@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Papua_New_Guinean_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة لبابوا غينيا الجديدة
+  - translation_iso: fra
+    name: langue des signes papouasienne
   - translation_iso: hin
     name: पापुआ न्यू गिनी सांकेतिक भाषा
   - translation_iso: jpn

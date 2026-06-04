@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سكيبي كريول دتش
     auto: true
+  - translation_iso: fra
+    name: Créole néerlandais de Skepi
+    auto: true
   - translation_iso: hin
     name: स्केपी क्रियोल डच
     auto: true

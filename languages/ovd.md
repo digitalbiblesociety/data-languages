@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: اللغة إلفدالية
     auto: true
+  - translation_iso: fra
+    name: dalécarlien
   - translation_iso: hin
     name: एल्फडेलियन
     auto: true

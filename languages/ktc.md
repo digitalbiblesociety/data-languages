@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: خولوك
     auto: true
+  - translation_iso: fra
+    name: Kholok
+    auto: true
   - translation_iso: hin
     name: खोलोक
     auto: true

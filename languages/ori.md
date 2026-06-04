@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Odia_dialects_and_varieties"
 translations:
   - translation_iso: ara
     name: الأورية
+  - translation_iso: fra
+    name: langues oriya
   - translation_iso: hin
     name: ओड़िया
   - translation_iso: jpn

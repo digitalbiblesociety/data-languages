@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: شمال تانا
     auto: true
+  - translation_iso: fra
+    name: tanna du Nord
   - translation_iso: hin
     name: उत्तरी तन्ना
     auto: true

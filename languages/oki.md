@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوكيك
     auto: true
+  - translation_iso: fra
+    name: okiek
   - translation_iso: hin
     name: ओकिएक
     auto: true

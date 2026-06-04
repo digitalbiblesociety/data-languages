@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة دادبي
     auto: true
+  - translation_iso: fra
+    name: dadibi
   - translation_iso: hin
     name: दादिबी
     auto: true

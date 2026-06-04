@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: تولاكي
     auto: true
+  - translation_iso: fra
+    name: tolaki
   - translation_iso: hin
     name: तोलाकी
     auto: true

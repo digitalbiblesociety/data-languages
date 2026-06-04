@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ميكستيك تلاكسياكو الشمالية
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Tlaxiaco du Nord
   - translation_iso: hin
     name: उत्तरी त्लाक्सियाको मिक्सटेक
     auto: true

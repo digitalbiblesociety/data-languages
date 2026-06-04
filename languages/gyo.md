@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: غيآلسومدو
     auto: true
+  - translation_iso: fra
+    name: gyalsumdo
   - translation_iso: hin
     name: ग्यालसुम्दो
     auto: true

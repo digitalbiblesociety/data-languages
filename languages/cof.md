@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكولورادو
     auto: true
+  - translation_iso: fra
+    name: tsafiqui
   - translation_iso: hin
     name: कोलोराडो
     auto: true

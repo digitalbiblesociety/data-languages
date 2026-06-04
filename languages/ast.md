@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Asturian_language"
 translations:
   - translation_iso: ara
     name: الأشتورية
+  - translation_iso: fra
+    name: asturien
   - translation_iso: hin
     name: अस्तुरियन
   - translation_iso: jpn

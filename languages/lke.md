@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ينيي
     auto: true
+  - translation_iso: fra
+    name: kenyi
   - translation_iso: hin
     name: केन्यी
     auto: true

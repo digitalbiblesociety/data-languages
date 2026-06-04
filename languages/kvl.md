@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كايאو
     auto: true
+  - translation_iso: fra
+    name: kayaw
   - translation_iso: hin
     name: कायाव
     auto: true

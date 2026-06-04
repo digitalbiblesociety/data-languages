@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kwanyama"
 translations:
   - translation_iso: ara
     name: كوانياما
+  - translation_iso: fra
+    name: kwanyama
   - translation_iso: hin
     name: क्वान्यामा भाषा
   - translation_iso: jpn

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هاروكو
     auto: true
+  - translation_iso: fra
+    name: Haruku
+    auto: true
   - translation_iso: hin
     name: हारुकू
     auto: true

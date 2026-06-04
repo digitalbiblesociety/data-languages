@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أريتينجيثيج
     auto: true
+  - translation_iso: fra
+    name: arritinngithigh
   - translation_iso: hin
     name: अरितिंगगिथिघ
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أموزجو سان بيدرو
     auto: true
+  - translation_iso: fra
+    name: amuzgo de San Pedro Amuzgos
   - translation_iso: hin
     name: सान पेद्रो अमुज़गोस अमुज़गो
     auto: true

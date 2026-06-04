@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هاجي
     auto: true
+  - translation_iso: fra
+    name: Haji
+    auto: true
   - translation_iso: hin
     name: हाजी
     auto: true

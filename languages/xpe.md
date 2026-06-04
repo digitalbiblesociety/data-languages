@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كبيللي ليبيريا
     auto: true
+  - translation_iso: fra
+    name: kpellé du Liberia
   - translation_iso: hin
     name: लाइबेरियाई क्पेल्ले
     auto: true

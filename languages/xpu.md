@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Punic_language"
 translations:
   - translation_iso: ara
     name: البونيقية
+  - translation_iso: fra
+    name: punique
   - translation_iso: hin
     name: प्यूनिक
     auto: true

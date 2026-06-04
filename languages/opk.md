@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوبكاكا
     auto: true
+  - translation_iso: fra
+    name: kopkaka
   - translation_iso: hin
     name: कोपकाका
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جزر كوكوس الملايوية
     auto: true
+  - translation_iso: fra
+    name: malais des îles Cocos
   - translation_iso: hin
     name: कोकोस द्वीप मलय
     auto: true

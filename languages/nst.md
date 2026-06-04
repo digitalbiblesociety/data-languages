@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاسي ناغا
     auto: true
+  - translation_iso: fra
+    name: tangsa
   - translation_iso: hin
     name: तंग्सा भाषा
   - translation_iso: jpn

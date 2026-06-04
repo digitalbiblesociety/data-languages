@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يكا
     auto: true
+  - translation_iso: fra
+    name: lika
   - translation_iso: hin
     name: लिका
     auto: true

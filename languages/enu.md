@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الإنو
     auto: true
+  - translation_iso: fra
+    name: enu
   - translation_iso: hin
     name: एनु
     auto: true

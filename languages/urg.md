@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أوريجينا
     auto: true
+  - translation_iso: fra
+    name: Urigina
+    auto: true
   - translation_iso: hin
     name: उरिगिना
     auto: true

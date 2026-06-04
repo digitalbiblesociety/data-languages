@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوايلاس أنكاش
     auto: true
+  - translation_iso: fra
+    name: quechua ancash de Huaylas
   - translation_iso: hin
     name: वायलास आंकाश क्वेचुआ
     auto: true

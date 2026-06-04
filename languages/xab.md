@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سامبي
     auto: true
+  - translation_iso: fra
+    name: sambe
   - translation_iso: hin
     name: साम्बे
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نييو
     auto: true
+  - translation_iso: fra
+    name: nyeu
   - translation_iso: hin
     name: न्येउ
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pohnpeian_language"
 translations:
   - translation_iso: ara
     name: البوهنبيايان
+  - translation_iso: fra
+    name: pohnpei
   - translation_iso: hin
     name: पोह्नपिएन
   - translation_iso: jpn

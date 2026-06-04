@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ما
     auto: true
+  - translation_iso: fra
+    name: Ma (Papouasie-Nouvelle-Guinée)
+    auto: true
   - translation_iso: hin
     name: मा (पापुआ न्यू गिनी)
     auto: true

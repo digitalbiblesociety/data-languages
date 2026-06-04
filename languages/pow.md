@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوبولوكا سان فيليبي
     auto: true
+  - translation_iso: fra
+    name: popoloca otlaltepèque de San Felipe
   - translation_iso: hin
     name: सान फ़ेलिपे ओतलाल्तेपेक पोपोलोका
     auto: true

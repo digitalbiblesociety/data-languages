@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوم كيم
     auto: true
+  - translation_iso: fra
+    name: bom
   - translation_iso: hin
     name: बोम-किम
     auto: true

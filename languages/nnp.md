@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وانشو ناغا
     auto: true
+  - translation_iso: fra
+    name: wantcho
   - translation_iso: hin
     name: वैन्चो भाषा
   - translation_iso: jpn

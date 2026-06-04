@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بنغال الغربية
     auto: true
+  - translation_iso: fra
+    name: langue des signes du Bengale-Occidental
   - translation_iso: hin
     name: पश्चिम बंगाल सांकेतिक भाषा
     auto: true

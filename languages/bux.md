@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوجهوم
     auto: true
+  - translation_iso: fra
+    name: Boghom
+    auto: true
   - translation_iso: hin
     name: बोघोम
     auto: true

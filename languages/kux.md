@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوكاتشا
     auto: true
+  - translation_iso: fra
+    name: kukatja
   - translation_iso: hin
     name: कुकात्जा
     auto: true

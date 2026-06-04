@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوا
     auto: true
+  - translation_iso: fra
+    name: "kwa'"
   - translation_iso: hin
     name: क्वा
     auto: true
@@ -25,7 +27,7 @@ translations:
     name: クワ語
     auto: true
   - translation_iso: spa
-    name: "Kwa'"
+    name: Kwa
     auto: true
   - translation_iso: zho
     name: 瓜语

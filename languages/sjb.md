@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساجاو باساب
     auto: true
+  - translation_iso: fra
+    name: Sajau Basap
+    auto: true
   - translation_iso: hin
     name: साजाउ बासाप
     auto: true

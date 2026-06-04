@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيفاميسي
     auto: true
+  - translation_iso: fra
+    name: Nefamese
+    auto: true
   - translation_iso: hin
     name: नेफामीज़
     auto: true

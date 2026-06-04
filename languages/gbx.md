@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: زولا جبي الشرقية
     auto: true
+  - translation_iso: fra
+    name: "gbe xwla de l'Est"
   - translation_iso: hin
     name: पूर्वी ख्व्ला ग्बे
     auto: true

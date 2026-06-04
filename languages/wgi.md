@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واهغي
     auto: true
+  - translation_iso: fra
+    name: wahgi
   - translation_iso: hin
     name: वाहगी
     auto: true

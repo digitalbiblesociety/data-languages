@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كاثو
     auto: true
+  - translation_iso: fra
+    name: kathu
   - translation_iso: hin
     name: काथु
     auto: true

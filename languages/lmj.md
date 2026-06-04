@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يست يمباتا
     auto: true
+  - translation_iso: fra
+    name: Lembata occidental
+    auto: true
   - translation_iso: hin
     name: पश्चिमी लेंबाता
     auto: true

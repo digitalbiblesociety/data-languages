@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة توهونو أودهام
     auto: true
+  - translation_iso: fra
+    name: "o'odham"
   - translation_iso: hin
     name: तोहोनो ओओधम
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيدونا
     auto: true
+  - translation_iso: fra
+    name: Iduna
+    auto: true
   - translation_iso: hin
     name: इदुना
     auto: true

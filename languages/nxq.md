@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: ناشي
     auto: true
+  - translation_iso: fra
+    name: naxi
   - translation_iso: hin
     name: नाशी भाषा
   - translation_iso: jpn

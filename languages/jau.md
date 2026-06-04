@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يور
     auto: true
+  - translation_iso: fra
+    name: Yaur
+    auto: true
   - translation_iso: hin
     name: यौर
     auto: true

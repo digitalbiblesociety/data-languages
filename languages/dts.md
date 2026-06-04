@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تورو سو دوجون
     auto: true
+  - translation_iso: fra
+    name: dogon toro so
   - translation_iso: hin
     name: टोरो सो डोगोन
     auto: true

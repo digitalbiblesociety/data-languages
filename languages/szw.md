@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ساواي
     auto: true
+  - translation_iso: fra
+    name: sawai
   - translation_iso: hin
     name: सावाई
     auto: true

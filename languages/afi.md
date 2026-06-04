@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أكروكاي
     auto: true
+  - translation_iso: fra
+    name: akrukay
   - translation_iso: hin
     name: अक्रुकाय
     auto: true

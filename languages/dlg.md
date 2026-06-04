@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دولجان
     auto: true
+  - translation_iso: fra
+    name: dolgane
   - translation_iso: hin
     name: डोलगन
     auto: true

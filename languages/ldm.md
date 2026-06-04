@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لاندوما
     auto: true
+  - translation_iso: fra
+    name: landoma
   - translation_iso: hin
     name: लांदोमा
     auto: true

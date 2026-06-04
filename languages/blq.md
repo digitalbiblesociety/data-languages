@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بالوان بام
     auto: true
+  - translation_iso: fra
+    name: baluan-pam
   - translation_iso: hin
     name: बलुआन-पाम
     auto: true

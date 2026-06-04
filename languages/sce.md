@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دونجشيانج
     auto: true
+  - translation_iso: fra
+    name: dongxiang
   - translation_iso: hin
     name: डोंगश्यांग
     auto: true

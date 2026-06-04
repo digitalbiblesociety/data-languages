@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: داويرا داويلور
     auto: true
+  - translation_iso: fra
+    name: Dawera-Daweloor
+    auto: true
   - translation_iso: hin
     name: दावेरा-दावेलूर
     auto: true

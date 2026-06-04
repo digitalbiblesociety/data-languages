@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أوكوريجوما
     auto: true
+  - translation_iso: fra
+    name: ukuriguma
   - translation_iso: hin
     name: उकुरिगुमा
     auto: true

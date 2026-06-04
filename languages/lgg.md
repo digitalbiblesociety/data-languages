@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وجبارا
     auto: true
+  - translation_iso: fra
+    name: lugbara
   - translation_iso: hin
     name: लुगबारा
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gagauz_language"
 translations:
   - translation_iso: ara
     name: اللغة الغاغاوزية
+  - translation_iso: fra
+    name: gagaouze
   - translation_iso: hin
     name: गागाउज़ भाषा
   - translation_iso: jpn

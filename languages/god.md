@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوديé
     auto: true
+  - translation_iso: fra
+    name: godié
   - translation_iso: hin
     name: गोडिए
     auto: true

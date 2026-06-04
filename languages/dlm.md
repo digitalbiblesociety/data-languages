@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dalmatian_language"
 translations:
   - translation_iso: ara
     name: الدلماتية
+  - translation_iso: fra
+    name: dalmate
   - translation_iso: hin
     name: डाल्मेशियाई
     auto: true

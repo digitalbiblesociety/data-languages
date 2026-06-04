@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي مثكيتال
     auto: true
+  - translation_iso: fra
+    name: otomi de la vallée de Mezquital
   - translation_iso: hin
     name: मेस्किताल ओटोमी
     auto: true

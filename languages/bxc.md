@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مولينْجي
     auto: true
+  - translation_iso: fra
+    name: lengue
   - translation_iso: hin
     name: मोलेंगुए
     auto: true

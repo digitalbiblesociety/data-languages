@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماشي زامبيا
     auto: true
+  - translation_iso: fra
+    name: mashi
   - translation_iso: hin
     name: माशी
     auto: true

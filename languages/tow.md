@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جيميز
     auto: true
+  - translation_iso: fra
+    name: jemez
   - translation_iso: hin
     name: जेमेज़
     auto: true

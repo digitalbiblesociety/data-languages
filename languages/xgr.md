@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: غارزا
     auto: true
+  - translation_iso: fra
+    name: garza
   - translation_iso: hin
     name: गार्ज़ा
     auto: true

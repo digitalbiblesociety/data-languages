@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سو
     auto: true
+  - translation_iso: fra
+    name: sô
   - translation_iso: hin
     name: सो
     auto: true

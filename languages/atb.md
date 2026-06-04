@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زايوا
     auto: true
+  - translation_iso: fra
+    name: zaiwa
   - translation_iso: hin
     name: ज़ाइवा
     auto: true

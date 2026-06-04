@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وونامبال
     auto: true
+  - translation_iso: fra
+    name: wunambal
   - translation_iso: hin
     name: वुनम्बल
     auto: true

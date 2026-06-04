@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاري
     auto: true
+  - translation_iso: fra
+    name: kari
   - translation_iso: hin
     name: कारी
     auto: true

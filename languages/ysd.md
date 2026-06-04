@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة سامتاو
     auto: true
+  - translation_iso: fra
+    name: samatao
   - translation_iso: hin
     name: समाताओ
     auto: true

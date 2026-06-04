@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماج أنتسي أيتا
     auto: true
+  - translation_iso: fra
+    name: Ayta mag-antsi
+    auto: true
   - translation_iso: hin
     name: माग-अंत्सी आयता
     auto: true

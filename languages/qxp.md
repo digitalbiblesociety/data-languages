@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا بونو
     auto: true
+  - translation_iso: fra
+    name: quechua de Puno
   - translation_iso: hin
     name: पुनो क्वेचुआ
     auto: true

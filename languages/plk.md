@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة شينا كوهستاني
     auto: true
+  - translation_iso: fra
+    name: shina kohistani
   - translation_iso: hin
     name: कोहिस्तानी शीना
     auto: true

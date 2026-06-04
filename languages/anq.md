@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جاراوا
     auto: true
+  - translation_iso: fra
+    name: jarawa
   - translation_iso: hin
     name: जारवा भाषा
   - translation_iso: jpn

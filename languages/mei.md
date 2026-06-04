@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميدوب
     auto: true
+  - translation_iso: fra
+    name: Midob
   - translation_iso: hin
     name: मिदोब
     auto: true

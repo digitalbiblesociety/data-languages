@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توويي
     auto: true
+  - translation_iso: fra
+    name: towei
   - translation_iso: hin
     name: तोवेई
     auto: true

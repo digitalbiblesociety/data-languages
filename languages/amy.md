@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة آمي
     auto: true
+  - translation_iso: fra
+    name: ami
   - translation_iso: hin
     name: आमी
     auto: true

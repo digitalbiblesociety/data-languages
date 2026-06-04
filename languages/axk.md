@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يكا
     auto: true
+  - translation_iso: fra
+    name: aka
   - translation_iso: hin
     name: याका (मध्य अफ्रीकी गणराज्य)
     auto: true

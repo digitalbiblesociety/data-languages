@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كورو واتشي
     auto: true
+  - translation_iso: fra
+    name: Koro wachi
   - translation_iso: hin
     name: कोरो वाची
     auto: true

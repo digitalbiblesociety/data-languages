@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أبوري
     auto: true
+  - translation_iso: fra
+    name: abouré
   - translation_iso: hin
     name: अबुरे
     auto: true

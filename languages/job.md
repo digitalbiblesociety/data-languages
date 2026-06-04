@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة جوبا
     auto: true
+  - translation_iso: fra
+    name: joba
   - translation_iso: hin
     name: जोबा
     auto: true

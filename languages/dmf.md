@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: مديفايدرين
     auto: true
+  - translation_iso: fra
+    name: médéfaïdrine
   - translation_iso: hin
     name: मेदेफ़ायड्रिन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أويدا
     auto: true
+  - translation_iso: fra
+    name: oyda
   - translation_iso: hin
     name: ओयदा
     auto: true

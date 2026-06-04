@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتوناك بابانتلا
     auto: true
+  - translation_iso: fra
+    name: totonaque de Papantla
   - translation_iso: hin
     name: पापांत्ला तोतोनाक
     auto: true

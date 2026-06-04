@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيور
     auto: true
+  - translation_iso: fra
+    name: iwur
   - translation_iso: hin
     name: इवुर
     auto: true

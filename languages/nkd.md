@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كويرينغ
     auto: true
+  - translation_iso: fra
+    name: koireng
   - translation_iso: hin
     name: कोइरेंग भाषा
   - translation_iso: jpn

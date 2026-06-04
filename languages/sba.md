@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ngambay_language"
 translations:
   - translation_iso: ara
     name: نامبي
+  - translation_iso: fra
+    name: ngambay
   - translation_iso: hin
     name: न्गाम्बे
   - translation_iso: jpn

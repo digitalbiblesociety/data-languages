@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كارين زايين
     auto: true
+  - translation_iso: fra
+    name: zayein
   - translation_iso: hin
     name: ज़ायीन करेन
     auto: true

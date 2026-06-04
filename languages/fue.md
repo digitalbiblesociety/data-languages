@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفولفولدية بورجو
     auto: true
+  - translation_iso: fra
+    name: peul de Borgou
   - translation_iso: hin
     name: बोर्गू फुलफुल्दे
     auto: true

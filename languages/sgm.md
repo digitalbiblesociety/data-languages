@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سينجا
     auto: true
+  - translation_iso: fra
+    name: Singa
+    auto: true
   - translation_iso: hin
     name: सिंगा
     auto: true

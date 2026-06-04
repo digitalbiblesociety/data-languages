@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: نغايوانغ
     auto: true
+  - translation_iso: fra
+    name: ngayawung
   - translation_iso: hin
     name: न्गायावुंग
     auto: true

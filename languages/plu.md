@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باليكور
     auto: true
+  - translation_iso: fra
+    name: palikur
   - translation_iso: hin
     name: पालिकुर
     auto: true

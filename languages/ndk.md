@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ندكا
     auto: true
+  - translation_iso: fra
+    name: Ndaka
   - translation_iso: hin
     name: न्दाका
     auto: true

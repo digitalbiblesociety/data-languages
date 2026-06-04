@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريراو
     auto: true
+  - translation_iso: fra
+    name: Rerau
+    auto: true
   - translation_iso: hin
     name: रेराउ
     auto: true

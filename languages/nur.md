@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نوكوريا
     auto: true
+  - translation_iso: fra
+    name: Nukuria
+    auto: true
   - translation_iso: hin
     name: नुकुरिया
     auto: true

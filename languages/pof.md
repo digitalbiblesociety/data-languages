@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوكي
     auto: true
+  - translation_iso: fra
+    name: poke
   - translation_iso: hin
     name: पोके
     auto: true

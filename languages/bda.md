@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بايوت
     auto: true
+  - translation_iso: fra
+    name: bayot
   - translation_iso: hin
     name: बायोट
     auto: true

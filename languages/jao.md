@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يانيوا
     auto: true
+  - translation_iso: fra
+    name: yanyuwa
   - translation_iso: hin
     name: यान्युवा
     auto: true

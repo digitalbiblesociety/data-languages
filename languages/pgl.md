@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيرلندية بدائية
     auto: true
+  - translation_iso: fra
+    name: vieil irlandais archaïque
   - translation_iso: hin
     name: आदिम आयरिश
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ميلي فيلا
     auto: true
+  - translation_iso: fra
+    name: mele-fila
   - translation_iso: hin
     name: मेले-फिला
     auto: true

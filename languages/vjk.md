@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bajjika"
 translations:
   - translation_iso: ara
     name: لغة باجيكية
+  - translation_iso: fra
+    name: bajjika
   - translation_iso: hin
     name: बज्जिका
   - translation_iso: jpn

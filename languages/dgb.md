@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بونوج دوجون
     auto: true
+  - translation_iso: fra
+    name: bunoge
   - translation_iso: hin
     name: बुनोगे दोगोन
     auto: true

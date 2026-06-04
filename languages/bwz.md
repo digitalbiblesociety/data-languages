@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بويسي
     auto: true
+  - translation_iso: fra
+    name: bwisi
   - translation_iso: hin
     name: ब्विसी
     auto: true

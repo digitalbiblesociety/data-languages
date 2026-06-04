@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بياو مون
     auto: true
+  - translation_iso: fra
+    name: Biao Mon
+    auto: true
   - translation_iso: hin
     name: बियाओ मोन
     auto: true

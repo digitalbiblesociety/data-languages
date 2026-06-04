@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كلاو
     auto: true
+  - translation_iso: fra
+    name: klao
   - translation_iso: hin
     name: क्लाओ
     auto: true

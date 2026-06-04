@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكاشيناهوا
     auto: true
+  - translation_iso: fra
+    name: cashinahua
   - translation_iso: hin
     name: काशिनावा
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة لابو فوا
     auto: true
+  - translation_iso: fra
+    name: phowa labo
   - translation_iso: hin
     name: लाबो फोवा
     auto: true

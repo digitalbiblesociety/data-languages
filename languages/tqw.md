@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: تونكاوا
     auto: true
+  - translation_iso: fra
+    name: tonkawa
   - translation_iso: hin
     name: तोंकावा
     auto: true

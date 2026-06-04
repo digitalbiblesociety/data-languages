@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أكبيس
     auto: true
+  - translation_iso: fra
+    name: akpès
   - translation_iso: hin
     name: अक्पेस
     auto: true

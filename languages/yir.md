@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة آوو الشمالية
     auto: true
+  - translation_iso: fra
+    name: aghu du Nord
   - translation_iso: hin
     name: उत्तरी अव्यु
     auto: true

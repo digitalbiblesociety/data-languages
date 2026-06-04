@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تومبولو
     auto: true
+  - translation_iso: fra
+    name: tombulu
   - translation_iso: hin
     name: तोम्बुलु
     auto: true

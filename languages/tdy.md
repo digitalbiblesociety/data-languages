@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاديّاوان
     auto: true
+  - translation_iso: fra
+    name: tadyawan
   - translation_iso: hin
     name: ताद्यावान
     auto: true

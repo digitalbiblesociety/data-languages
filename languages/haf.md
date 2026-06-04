@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة بهايفونج
     auto: true
+  - translation_iso: fra
+    name: langue des signes de Haiphong
   - translation_iso: hin
     name: हाइफोंग सांकेतिक भाषा
     auto: true

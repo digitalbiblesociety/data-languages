@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ميشتك تيزواتلان
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Tezoatlán
   - translation_iso: hin
     name: तेसोआतलान मिक्सटेक
     auto: true

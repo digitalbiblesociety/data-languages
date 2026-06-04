@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: آتشé
     auto: true
+  - translation_iso: fra
+    name: guayaki
   - translation_iso: hin
     name: आचे
     auto: true

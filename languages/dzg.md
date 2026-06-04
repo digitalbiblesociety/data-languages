@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Daza_language"
 translations:
   - translation_iso: ara
     name: لغة الدازاقا
+  - translation_iso: fra
+    name: dazaga-kara
   - translation_iso: hin
     name: दज़ागा
   - translation_iso: jpn

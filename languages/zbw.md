@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة بيراوان الغربية
     auto: true
+  - translation_iso: fra
+    name: long terawan
   - translation_iso: hin
     name: पश्चिमी बेरावन
     auto: true

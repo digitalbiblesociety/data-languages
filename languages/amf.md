@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة هامر-بانا
     auto: true
+  - translation_iso: fra
+    name: hamar
   - translation_iso: hin
     name: हामेर-बन्ना
     auto: true

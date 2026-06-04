@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واتاكاتاوي
     auto: true
+  - translation_iso: fra
+    name: watakataui
   - translation_iso: hin
     name: वाताकाताउई
     auto: true

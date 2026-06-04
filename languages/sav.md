@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سافي سافي
     auto: true
+  - translation_iso: fra
+    name: saafi
   - translation_iso: hin
     name: साफी-साफी
     auto: true

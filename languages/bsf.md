@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: باوتشي
     auto: true
+  - translation_iso: fra
+    name: Bauchi
+    auto: true
   - translation_iso: hin
     name: बाउची
     auto: true

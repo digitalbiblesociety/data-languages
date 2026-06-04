@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أويتي
     auto: true
+  - translation_iso: fra
+    name: aweti
   - translation_iso: hin
     name: आवेति भाषा
   - translation_iso: jpn

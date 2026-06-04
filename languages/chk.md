@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chuukese_language"
 translations:
   - translation_iso: ara
     name: لغة تروكية
+  - translation_iso: fra
+    name: chuuk
   - translation_iso: hin
     name: चूकीस
   - translation_iso: jpn

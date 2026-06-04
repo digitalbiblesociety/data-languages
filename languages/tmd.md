@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هاروعاي
     auto: true
+  - translation_iso: fra
+    name: haruai
   - translation_iso: hin
     name: हरुआई
     auto: true

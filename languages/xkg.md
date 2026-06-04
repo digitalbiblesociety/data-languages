@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كاجورو
     auto: true
+  - translation_iso: fra
+    name: kagoro
   - translation_iso: hin
     name: कागोरो
     auto: true

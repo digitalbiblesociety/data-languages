@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بولا
     auto: true
+  - translation_iso: fra
+    name: bola
   - translation_iso: hin
     name: बोला
     auto: true

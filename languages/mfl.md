@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة بوتاي
     auto: true
+  - translation_iso: fra
+    name: putai
   - translation_iso: hin
     name: पुताई
     auto: true

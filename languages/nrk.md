@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نغارلا
     auto: true
+  - translation_iso: fra
+    name: ngarla
   - translation_iso: hin
     name: नगारला
     auto: true

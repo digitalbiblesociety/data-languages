@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: إيدي إيكا
     auto: true
+  - translation_iso: fra
+    name: Ede ica
   - translation_iso: hin
     name: एदे इका
     auto: true

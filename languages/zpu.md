@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك يالاليغ
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Yalálag
   - translation_iso: hin
     name: यालालाग सैपोटेक
     auto: true

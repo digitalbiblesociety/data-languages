@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوميا
     auto: true
+  - translation_iso: fra
+    name: diegueño
   - translation_iso: hin
     name: कुमियाई
     auto: true

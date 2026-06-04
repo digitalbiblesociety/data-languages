@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لاوا الغربية
     auto: true
+  - translation_iso: fra
+    name: "lawa de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी लावा
     auto: true

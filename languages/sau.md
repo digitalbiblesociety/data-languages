@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سالمان
     auto: true
+  - translation_iso: fra
+    name: Saleman
+    auto: true
   - translation_iso: hin
     name: सालेमान
     auto: true

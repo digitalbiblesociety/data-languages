@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة السانجيل
     auto: true
+  - translation_iso: fra
+    name: sangil
   - translation_iso: hin
     name: सांगिल
     auto: true

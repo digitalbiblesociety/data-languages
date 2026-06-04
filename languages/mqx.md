@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماموجو
     auto: true
+  - translation_iso: fra
+    name: Mamuju
+    auto: true
   - translation_iso: hin
     name: मामुजू
     auto: true

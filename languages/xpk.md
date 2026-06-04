@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كولينا بانو
     auto: true
+  - translation_iso: fra
+    name: kulina páno
   - translation_iso: hin
     name: कुलिना पानो
     auto: true

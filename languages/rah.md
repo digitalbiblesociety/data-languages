@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رابها
     auto: true
+  - translation_iso: fra
+    name: rabha
   - translation_iso: hin
     name: रभा भाषा
   - translation_iso: jpn

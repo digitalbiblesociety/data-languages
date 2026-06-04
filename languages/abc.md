@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أمبالا أيتا
     auto: true
+  - translation_iso: fra
+    name: Ambala Ayta
+    auto: true
   - translation_iso: hin
     name: अम्बाला अयता
     auto: true

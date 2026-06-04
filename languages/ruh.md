@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: روجا
     auto: true
+  - translation_iso: fra
+    name: ruga
   - translation_iso: hin
     name: रुगा भाषा
   - translation_iso: jpn

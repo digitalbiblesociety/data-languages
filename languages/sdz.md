@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: سالاندس
     auto: true
+  - translation_iso: fra
+    name: Sallandais
+    auto: true
   - translation_iso: hin
     name: सलांड्स
     auto: true

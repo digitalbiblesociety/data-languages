@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيستريوت
     auto: true
+  - translation_iso: fra
+    name: istriote
   - translation_iso: hin
     name: इस्ट्रियट
     auto: true

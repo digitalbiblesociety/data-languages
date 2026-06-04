@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ليشانيد نوشان
     auto: true
+  - translation_iso: fra
+    name: lishanid noshan
   - translation_iso: hin
     name: लिशानिद नोशान
     auto: true

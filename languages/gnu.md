@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غنآو
     auto: true
+  - translation_iso: fra
+    name: gnau
   - translation_iso: hin
     name: ग्नाउ
     auto: true

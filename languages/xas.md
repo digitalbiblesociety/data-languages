@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاماس
     auto: true
+  - translation_iso: fra
+    name: kamasse
   - translation_iso: hin
     name: कामास
     auto: true

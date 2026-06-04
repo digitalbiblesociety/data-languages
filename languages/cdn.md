@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشاودانغسي
     auto: true
+  - translation_iso: fra
+    name: chaudangsi
   - translation_iso: hin
     name: चौडांगसी भाषा
   - translation_iso: jpn

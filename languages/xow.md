@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوواكي
     auto: true
+  - translation_iso: fra
+    name: kowaki
   - translation_iso: hin
     name: कोवाकी
     auto: true

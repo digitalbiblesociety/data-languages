@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك إيكستلان الجنوبي الشرقي
     auto: true
+  - translation_iso: fra
+    name: "zapotèque d'Ixtlán du Sud-Est"
   - translation_iso: hin
     name: दक्षिणपूर्वी इक्स्तलान सैपोटेक
     auto: true

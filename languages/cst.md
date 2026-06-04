@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أوهلوني الشمالية
     auto: true
+  - translation_iso: fra
+    name: ohlone du Nord
   - translation_iso: hin
     name: उत्तरी ओह्लोन
     auto: true

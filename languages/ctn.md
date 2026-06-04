@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشينتانغي
     auto: true
+  - translation_iso: fra
+    name: chintang
   - translation_iso: hin
     name: छिन्ताङ
   - translation_iso: jpn

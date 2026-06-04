@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوجول دوم دوجون
     auto: true
+  - translation_iso: fra
+    name: dogul dom
   - translation_iso: hin
     name: दोगुल दोम दोगोन
     auto: true

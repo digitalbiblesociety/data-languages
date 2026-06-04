@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سارا كابا
     auto: true
+  - translation_iso: fra
+    name: sara kaba
   - translation_iso: hin
     name: सारा काबा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاراس
     auto: true
+  - translation_iso: fra
+    name: karas
   - translation_iso: hin
     name: कारास
     auto: true

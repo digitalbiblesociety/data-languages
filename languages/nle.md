@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نييالا الشرقية
     auto: true
+  - translation_iso: fra
+    name: nyala de l’Est
   - translation_iso: hin
     name: पूर्वी न्याला
     auto: true

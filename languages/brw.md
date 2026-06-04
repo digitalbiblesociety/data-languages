@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلاري
     auto: true
+  - translation_iso: fra
+    name: bellari
   - translation_iso: hin
     name: बेल्लारी भाषा
   - translation_iso: jpn

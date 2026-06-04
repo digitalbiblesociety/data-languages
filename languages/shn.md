@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shan_language"
 translations:
   - translation_iso: ara
     name: لغة شان
+  - translation_iso: fra
+    name: shan
   - translation_iso: hin
     name: शान भाषा
   - translation_iso: jpn

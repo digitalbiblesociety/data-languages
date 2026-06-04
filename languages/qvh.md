@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا هوامالييس-دوس دي مايو هوانوكو
     auto: true
+  - translation_iso: fra
+    name: quechua de Huamalíes-Dos de Mayo Huánuco
   - translation_iso: hin
     name: वामालीस-दोस दे मायो वानूको क्वेचुआ
     auto: true

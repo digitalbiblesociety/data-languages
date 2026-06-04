@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الغواتيمالية
     auto: true
+  - translation_iso: fra
+    name: langue des signes guatémaltèque
   - translation_iso: hin
     name: ग्वाटेमेले सांकेतिक भाषा
   - translation_iso: jpn

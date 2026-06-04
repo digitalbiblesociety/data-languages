@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: روماڤا
     auto: true
+  - translation_iso: fra
+    name: romanova
   - translation_iso: hin
     name: रोमानोवा
     auto: true

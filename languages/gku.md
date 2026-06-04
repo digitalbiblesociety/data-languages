@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ǂونجكوإ
     auto: true
+  - translation_iso: fra
+    name: ǂungkue
   - translation_iso: hin
     name: उंगक्वे
     auto: true

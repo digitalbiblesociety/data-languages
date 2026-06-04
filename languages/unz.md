@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: أندي كايلي
     auto: true
+  - translation_iso: fra
+    name: kaili unde
   - translation_iso: hin
     name: उन्डे कैली
     auto: true

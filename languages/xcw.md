@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: كواهويلتيكو
     auto: true
+  - translation_iso: fra
+    name: coahuilteco
   - translation_iso: hin
     name: कोआहुइल्टेको
     auto: true

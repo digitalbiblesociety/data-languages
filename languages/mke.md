@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مافتشي
     auto: true
+  - translation_iso: fra
+    name: mawchi
   - translation_iso: hin
     name: माउची
     auto: true

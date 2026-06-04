@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موراد
     auto: true
+  - translation_iso: fra
+    name: moraid
   - translation_iso: hin
     name: मोराइद
     auto: true

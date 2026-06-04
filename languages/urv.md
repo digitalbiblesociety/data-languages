@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أورواوا
     auto: true
+  - translation_iso: fra
+    name: uruava
   - translation_iso: hin
     name: उरुआवा
     auto: true

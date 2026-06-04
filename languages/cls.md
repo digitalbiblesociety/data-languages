@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: السنسكريتية الكلاسيكية
     auto: true
+  - translation_iso: fra
+    name: sanskrit classique
   - translation_iso: hin
     name: शास्त्रीय संस्कृत
     auto: true

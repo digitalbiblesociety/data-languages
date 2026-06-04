@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أندرا-هوس
     auto: true
+  - translation_iso: fra
+    name: andra-hus
   - translation_iso: hin
     name: अंद्रा-हुस
     auto: true

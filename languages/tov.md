@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الطرومي العليا
     auto: true
+  - translation_iso: fra
+    name: haut taromi
   - translation_iso: hin
     name: ऊपरी तारोमी
     auto: true

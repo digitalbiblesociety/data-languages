@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تانغتشانغيا
     auto: true
+  - translation_iso: fra
+    name: tanchangya
   - translation_iso: hin
     name: तंचंग्या भाषा
   - translation_iso: jpn

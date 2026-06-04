@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باتونوم
     auto: true
+  - translation_iso: fra
+    name: bariba
   - translation_iso: hin
     name: बातोनुम
     auto: true

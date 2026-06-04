@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: الشانغثانغ
     auto: true
+  - translation_iso: fra
+    name: Changthang
+    auto: true
   - translation_iso: hin
     name: चांगथंग भाषा
   - translation_iso: jpn

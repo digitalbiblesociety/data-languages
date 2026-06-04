@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تجونغوندجي
     auto: true
+  - translation_iso: fra
+    name: yangathimri
   - translation_iso: hin
     name: चुंगुंडजी
     auto: true

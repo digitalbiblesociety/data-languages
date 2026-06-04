@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سيغو
     auto: true
+  - translation_iso: fra
+    name: lisiwu
   - translation_iso: hin
     name: सिघु
     auto: true

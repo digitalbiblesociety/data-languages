@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيونا
     auto: true
+  - translation_iso: fra
+    name: siona
   - translation_iso: hin
     name: सिओना
     auto: true

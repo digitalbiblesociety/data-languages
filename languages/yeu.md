@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ييروكولا
     auto: true
+  - translation_iso: fra
+    name: Yerukula
+    auto: true
   - translation_iso: hin
     name: कुर्रु भाषा
   - translation_iso: jpn

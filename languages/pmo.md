@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوم
     auto: true
+  - translation_iso: fra
+    name: Pom
+    auto: true
   - translation_iso: hin
     name: पोम
     auto: true

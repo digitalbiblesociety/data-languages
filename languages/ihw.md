@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: بيدهاوال
     auto: true
+  - translation_iso: fra
+    name: Bidhawal
+    auto: true
   - translation_iso: hin
     name: बिधावल
     auto: true

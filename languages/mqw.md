@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة موروبي
     auto: true
+  - translation_iso: fra
+    name: murupi
   - translation_iso: hin
     name: मुरुपी
     auto: true

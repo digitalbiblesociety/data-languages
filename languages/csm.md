@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سييرا المركزية ميووك
     auto: true
+  - translation_iso: fra
+    name: miwok central de la Sierra
   - translation_iso: hin
     name: मध्य सिएरा मिवोक
     auto: true

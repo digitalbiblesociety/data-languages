@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: إيكولو
     auto: true
+  - translation_iso: fra
+    name: Ikulu
+    auto: true
   - translation_iso: hin
     name: इकुलु
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة واندالا
     auto: true
+  - translation_iso: fra
+    name: wandala
   - translation_iso: hin
     name: वंडाला
     auto: true

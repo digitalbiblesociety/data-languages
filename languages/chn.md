@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chinook_Jargon"
 translations:
   - translation_iso: ara
     name: الشينوك جارجون
+  - translation_iso: fra
+    name: chinook
   - translation_iso: hin
     name: चिनूक जारगॉन
   - translation_iso: jpn

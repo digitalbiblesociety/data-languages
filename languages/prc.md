@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باراتشي
     auto: true
+  - translation_iso: fra
+    name: parachi
   - translation_iso: hin
     name: पराची
     auto: true

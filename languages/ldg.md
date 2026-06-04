@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لينيما
     auto: true
+  - translation_iso: fra
+    name: nyima
   - translation_iso: hin
     name: लेनयिमा
     auto: true

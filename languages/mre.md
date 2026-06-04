@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Martha%27s_Vineyard_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة في مارثا فينيارد
+  - translation_iso: fra
+    name: "langue des signes de Martha's Vineyard"
   - translation_iso: hin
     name: मार्था की वाइनयार्ड साइन भाषा
   - translation_iso: jpn

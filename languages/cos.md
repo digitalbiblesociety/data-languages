@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Corsican_language"
 translations:
   - translation_iso: ara
     name: الكورسيكية
+  - translation_iso: fra
+    name: corse
   - translation_iso: hin
     name: कोर्सीकन
   - translation_iso: jpn

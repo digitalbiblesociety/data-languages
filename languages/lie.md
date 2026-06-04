@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يكيلا
     auto: true
+  - translation_iso: fra
+    name: likila
   - translation_iso: hin
     name: लिकिला
     auto: true

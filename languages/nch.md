@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سينترال هواستيكا ناهواتل
     auto: true
+  - translation_iso: fra
+    name: nahuatl du Huasteca central
   - translation_iso: hin
     name: मध्य हुआस्तेका नाहुआत्ल
     auto: true

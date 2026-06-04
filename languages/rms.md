@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة الرومانية للإشارة
     auto: true
+  - translation_iso: fra
+    name: langue des signes roumaine
   - translation_iso: hin
     name: रोमानियाई सांकेतिक भाषा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كومبايينجار
     auto: true
+  - translation_iso: fra
+    name: gumbaynggirr
   - translation_iso: hin
     name: कुम्बैन्गर
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ووم نيغيريا
     auto: true
+  - translation_iso: fra
+    name: wom
   - translation_iso: hin
     name: वोम (नाइजीरिया)
     auto: true

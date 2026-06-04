@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: لغة جومل
     auto: true
+  - translation_iso: fra
+    name: Jumli
+    auto: true
   - translation_iso: hin
     name: जुमली
     auto: true

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: تامانغ الشرقية
     auto: true
+  - translation_iso: fra
+    name: "tamang de l'Est"
   - translation_iso: hin
     name: पूर्वी तामाङ
     auto: true

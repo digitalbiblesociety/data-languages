@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مان ميت
     auto: true
+  - translation_iso: fra
+    name: kemie
   - translation_iso: hin
     name: मान मेत
     auto: true

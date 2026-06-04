@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوشوري ناغا
     auto: true
+  - translation_iso: fra
+    name: pochuri
   - translation_iso: hin
     name: पोचुरी भाषा
   - translation_iso: jpn

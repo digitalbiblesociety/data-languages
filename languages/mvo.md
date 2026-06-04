@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مارفو
     auto: true
+  - translation_iso: fra
+    name: marovo
   - translation_iso: hin
     name: मारोवो
     auto: true

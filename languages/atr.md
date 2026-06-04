@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة وايميري-أترواري
     auto: true
+  - translation_iso: fra
+    name: waimiri-atroari
   - translation_iso: hin
     name: वाइमिरी-अत्रोआरी
     auto: true

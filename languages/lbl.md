@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: ليبون بيكول
     auto: true
+  - translation_iso: fra
+    name: bikol libon
   - translation_iso: hin
     name: लिबोन बिकोल
     auto: true

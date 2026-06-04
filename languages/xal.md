@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kalmyk_Oirat"
 translations:
   - translation_iso: ara
     name: اللغة القلميقية
+  - translation_iso: fra
+    name: kalmouk
   - translation_iso: hin
     name: ओइरत भाषा
   - translation_iso: jpn

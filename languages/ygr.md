@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ياجاريا
     auto: true
+  - translation_iso: fra
+    name: yagaria
   - translation_iso: hin
     name: यागरिया
     auto: true

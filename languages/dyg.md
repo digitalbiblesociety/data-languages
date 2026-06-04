@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: فيلا فيسيوسا أجتا
     auto: true
+  - translation_iso: fra
+    name: agta de Villa Viciosa
   - translation_iso: hin
     name: विला विसिओसा आग्ता
     auto: true

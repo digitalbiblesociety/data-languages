@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ماجوكايانج كالينجا
     auto: true
+  - translation_iso: fra
+    name: kalinga majukayang
   - translation_iso: hin
     name: माजुकायांग कालिंगा
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ستودسدي
     auto: true
+  - translation_iso: fra
+    name: shangzhai
   - translation_iso: hin
     name: स्तोदस्दे
     auto: true

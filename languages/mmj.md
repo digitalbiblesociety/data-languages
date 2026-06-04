@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماجوار
     auto: true
+  - translation_iso: fra
+    name: majhwar
   - translation_iso: hin
     name: मझवार
     auto: true

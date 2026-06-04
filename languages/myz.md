@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماندايك كلاسيكي
     auto: true
+  - translation_iso: fra
+    name: mandéen classique
   - translation_iso: hin
     name: शास्त्रीय मंडाइक
     auto: true

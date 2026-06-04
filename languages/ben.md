@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bengali_language"
 translations:
   - translation_iso: ara
     name: البنغالية
+  - translation_iso: fra
+    name: bengali
   - translation_iso: hin
     name: बांग्ला
   - translation_iso: jpn

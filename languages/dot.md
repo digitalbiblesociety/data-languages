@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داس
     auto: true
+  - translation_iso: fra
+    name: dass
   - translation_iso: hin
     name: डास
     auto: true

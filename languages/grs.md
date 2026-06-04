@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غرإسي
     auto: true
+  - translation_iso: fra
+    name: gresi
   - translation_iso: hin
     name: ग्रेसी
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تايني
     auto: true
+  - translation_iso: fra
+    name: Tainae
+    auto: true
   - translation_iso: hin
     name: ताइनाए
     auto: true

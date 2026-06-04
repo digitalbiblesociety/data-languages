@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: واغاواغا
     auto: true
+  - translation_iso: fra
+    name: wagawaga
   - translation_iso: hin
     name: वगवगा
     auto: true

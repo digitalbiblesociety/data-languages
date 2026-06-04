@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بورو
     auto: true
+  - translation_iso: fra
+    name: Buru (Nigéria)
+    auto: true
   - translation_iso: hin
     name: बुरु (नाइजीरिया)
     auto: true

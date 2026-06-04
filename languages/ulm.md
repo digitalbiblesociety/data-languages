@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أولوماندا
     auto: true
+  - translation_iso: fra
+    name: "Ulumanda'"
+    auto: true
   - translation_iso: hin
     name: उलुमांदा
     auto: true
@@ -25,7 +28,7 @@ translations:
     name: アウォ・スマクユ語
     auto: true
   - translation_iso: spa
-    name: "Ulumanda'"
+    name: Ulumanda
     auto: true
   - translation_iso: zho
     name: 乌卢曼达语

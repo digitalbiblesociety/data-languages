@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نابك
     auto: true
+  - translation_iso: fra
+    name: Nabak
+    auto: true
   - translation_iso: hin
     name: नाबाक
     auto: true

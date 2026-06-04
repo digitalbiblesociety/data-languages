@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيسالا
     auto: true
+  - translation_iso: fra
+    name: sisaali
   - translation_iso: hin
     name: सिस्साला
     auto: true

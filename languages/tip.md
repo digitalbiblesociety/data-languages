@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تريموريس
     auto: true
+  - translation_iso: fra
+    name: trimuris
   - translation_iso: hin
     name: त्रिमुरिस
     auto: true

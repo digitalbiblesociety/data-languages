@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: سودوفية
     auto: true
+  - translation_iso: fra
+    name: sudovien
   - translation_iso: hin
     name: सुडोवियन
     auto: true

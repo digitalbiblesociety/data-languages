@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: تاناميراه
     auto: true
+  - translation_iso: fra
+    name: tanahmerah
   - translation_iso: hin
     name: तानामेराह
     auto: true

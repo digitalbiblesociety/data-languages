@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مال
     auto: true
+  - translation_iso: fra
+    name: mal
   - translation_iso: hin
     name: माल
     auto: true

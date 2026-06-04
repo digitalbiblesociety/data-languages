@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ووريمي
     auto: true
+  - translation_iso: fra
+    name: Worimi
+    auto: true
   - translation_iso: hin
     name: वोरिमी
     auto: true

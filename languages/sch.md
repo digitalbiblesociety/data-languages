@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ساكاتشيب
     auto: true
+  - translation_iso: fra
+    name: Sakachep
+    auto: true
   - translation_iso: hin
     name: साकाचेप
     auto: true

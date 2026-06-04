@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نومات سيغويينغا
     auto: true
+  - translation_iso: fra
+    name: nomatsiguenga
   - translation_iso: hin
     name: नोमात्सिगेंगा
     auto: true

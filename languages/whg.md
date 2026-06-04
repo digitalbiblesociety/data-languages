@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نورته واهغي
     auto: true
+  - translation_iso: fra
+    name: wahgi du Nord
   - translation_iso: hin
     name: उत्तरी वाहगी
     auto: true

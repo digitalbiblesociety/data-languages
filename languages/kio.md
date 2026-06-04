@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيوا
     auto: true
+  - translation_iso: fra
+    name: kiowa
   - translation_iso: hin
     name: कियोवा भाषा
   - translation_iso: jpn

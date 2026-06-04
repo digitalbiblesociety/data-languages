@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالني
     auto: true
+  - translation_iso: fra
+    name: paleni
   - translation_iso: hin
     name: पालेनी
     auto: true

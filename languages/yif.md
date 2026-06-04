@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة آتشي
     auto: true
+  - translation_iso: fra
+    name: Ache
+    auto: true
   - translation_iso: hin
     name: आचे
     auto: true

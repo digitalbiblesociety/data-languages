@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كريول
     auto: true
+  - translation_iso: fra
+    name: créole australien
   - translation_iso: hin
     name: क्रियोल
     auto: true

@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لووير بورديكين
     auto: true
+  - translation_iso: fra
+    name: Burdekin inférieur
+    auto: true
   - translation_iso: hin
     name: निचली बर्डेकिन
     auto: true

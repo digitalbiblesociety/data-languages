@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باجا ماندوري
     auto: true
+  - translation_iso: fra
+    name: Baga Manduri
+    auto: true
   - translation_iso: hin
     name: बागा मांडुरी
     auto: true

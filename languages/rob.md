@@ -19,13 +19,15 @@ translations:
   - translation_iso: ara
     name: تائي
     auto: true
+  - translation_iso: fra
+    name: tae’
   - translation_iso: hin
     name: ताए
     auto: true
   - translation_iso: jpn
     name: タエ語
   - translation_iso: spa
-    name: "Tae'"
+    name: Tae
     auto: true
   - translation_iso: zho
     name: 塔伊语

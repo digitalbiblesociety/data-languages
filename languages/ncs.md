@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nicaraguan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة النيكاراغوية
+  - translation_iso: fra
+    name: langue des signes nicaraguayenne
   - translation_iso: hin
     name: निकारागुआई सांकेतिक भाषा
     auto: true

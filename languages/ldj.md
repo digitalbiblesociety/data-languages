@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ليمورو
     auto: true
+  - translation_iso: fra
+    name: Lemoro
+    auto: true
   - translation_iso: hin
     name: लेमोरो
     auto: true

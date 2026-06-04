@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بايماك
     auto: true
+  - translation_iso: fra
+    name: Baimak
+    auto: true
   - translation_iso: hin
     name: बैमक
     auto: true

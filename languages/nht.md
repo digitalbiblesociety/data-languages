@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوميتيبك ناهواتل
     auto: true
+  - translation_iso: fra
+    name: nahuatl de l’Ometepec
   - translation_iso: hin
     name: ओमेतेपेक नाहुआतल
     auto: true

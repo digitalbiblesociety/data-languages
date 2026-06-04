@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوك
     auto: true
+  - translation_iso: fra
+    name: yoke
   - translation_iso: hin
     name: योके
     auto: true

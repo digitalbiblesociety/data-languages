@@ -9,6 +9,9 @@ translations:
   - translation_iso: ara
     name: لغة وو
     auto: true
+  - translation_iso: fra
+    name: Buu (Cameroun)
+    auto: true
   - translation_iso: hin
     name: बू (कैमरून)
     auto: true

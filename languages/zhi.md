@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة جيري
     auto: true
+  - translation_iso: fra
+    name: Zhire
+    auto: true
   - translation_iso: hin
     name: ज़िरे
     auto: true

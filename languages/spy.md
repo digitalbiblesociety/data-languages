@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ساباوت
     auto: true
+  - translation_iso: fra
+    name: sabaot
   - translation_iso: hin
     name: साबाओत
     auto: true

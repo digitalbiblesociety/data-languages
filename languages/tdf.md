@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تاليينج
     auto: true
+  - translation_iso: fra
+    name: talieng
   - translation_iso: hin
     name: तालिएंग
     auto: true

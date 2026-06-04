@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جورونا
     auto: true
+  - translation_iso: fra
+    name: juruna
   - translation_iso: hin
     name: जुरूना
     auto: true

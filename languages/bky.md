@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوكيي
     auto: true
+  - translation_iso: fra
+    name: boki
   - translation_iso: hin
     name: बोक्यी
     auto: true

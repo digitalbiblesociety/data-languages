@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fang_language"
 translations:
   - translation_iso: ara
     name: الفانج
+  - translation_iso: fra
+    name: fang
   - translation_iso: hin
     name: फैन्ग
   - translation_iso: jpn

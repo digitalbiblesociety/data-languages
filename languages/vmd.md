@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: موده كوراجا
     auto: true
+  - translation_iso: fra
+    name: koraga mudu
   - translation_iso: hin
     name: मुदु कोरगा
     auto: true

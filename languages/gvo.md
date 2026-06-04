@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غآفيãو دو جيبآرآنá
     auto: true
+  - translation_iso: fra
+    name: gavião de Jiparaná
   - translation_iso: hin
     name: गाव्यांव डो जिपराना
     auto: true

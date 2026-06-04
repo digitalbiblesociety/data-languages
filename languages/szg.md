@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سينجيلي
     auto: true
+  - translation_iso: fra
+    name: sengele
   - translation_iso: hin
     name: सेंगेले
     auto: true

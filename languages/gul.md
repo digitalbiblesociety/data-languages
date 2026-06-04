@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gullah_language"
 translations:
   - translation_iso: ara
     name: كولا
+  - translation_iso: fra
+    name: gullah
   - translation_iso: hin
     name: सी आइलैंड क्रियोल अंग्रेज़ी
     auto: true

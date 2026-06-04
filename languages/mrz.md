@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مارند
     auto: true
+  - translation_iso: fra
+    name: marind
   - translation_iso: hin
     name: मारिंद
     auto: true

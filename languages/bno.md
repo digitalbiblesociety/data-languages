@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانتوانون
     auto: true
+  - translation_iso: fra
+    name: bantonais
   - translation_iso: hin
     name: बंतोआनोन
     auto: true

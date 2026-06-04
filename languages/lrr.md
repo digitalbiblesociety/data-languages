@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ووتهيرن امپهو
     auto: true
+  - translation_iso: fra
+    name: yamphu du Sud
   - translation_iso: hin
     name: दक्षिणी याम्फु
     auto: true

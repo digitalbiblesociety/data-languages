@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة السيتية
     auto: true
+  - translation_iso: fra
+    name: seta
   - translation_iso: hin
     name: सेता
     auto: true

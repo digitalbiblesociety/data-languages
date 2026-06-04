@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاليسي
     auto: true
+  - translation_iso: fra
+    name: talise
   - translation_iso: hin
     name: तालिसे
     auto: true

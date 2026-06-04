@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chukchi_language"
 translations:
   - translation_iso: ara
     name: لغة تشوكشي
+  - translation_iso: fra
+    name: tchouktche
   - translation_iso: hin
     name: चुकची भाषा
   - translation_iso: jpn

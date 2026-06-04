@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بلافي
     auto: true
+  - translation_iso: fra
+    name: Blafe
+    auto: true
   - translation_iso: hin
     name: ब्लाफे
     auto: true

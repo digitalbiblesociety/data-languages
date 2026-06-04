@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ناري ناري
     auto: true
+  - translation_iso: fra
+    name: nari nari
   - translation_iso: hin
     name: नारी नारी
     auto: true

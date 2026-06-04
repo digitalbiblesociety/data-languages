@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيريونج
     auto: true
+  - translation_iso: fra
+    name: tereweng
   - translation_iso: hin
     name: तेरेवेंग
     auto: true

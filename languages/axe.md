@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيريريرينجي
     auto: true
+  - translation_iso: fra
+    name: ayerrerenge
   - translation_iso: hin
     name: अयेर्रेरेंगे
     auto: true

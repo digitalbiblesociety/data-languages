@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: اللغة يالبا
     auto: true
+  - translation_iso: fra
+    name: yaleba
   - translation_iso: hin
     name: यालेबा
     auto: true

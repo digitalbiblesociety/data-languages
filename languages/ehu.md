@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإهويون
     auto: true
+  - translation_iso: fra
+    name: ehueun
   - translation_iso: hin
     name: एहुयून
     auto: true

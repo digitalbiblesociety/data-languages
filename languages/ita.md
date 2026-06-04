@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Italian_language"
 translations:
   - translation_iso: ara
     name: الإيطالية
+  - translation_iso: fra
+    name: italien
   - translation_iso: hin
     name: इतालवी
   - translation_iso: jpn

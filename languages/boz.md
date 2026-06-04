@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تييياكسو بوزو
     auto: true
+  - translation_iso: fra
+    name: bozo de Tiéyaxo
   - translation_iso: hin
     name: तियेयाक्सो बोज़ो
     auto: true

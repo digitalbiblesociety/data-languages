@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: سوبي
     auto: true
+  - translation_iso: fra
+    name: subi
   - translation_iso: hin
     name: सुबी
     auto: true

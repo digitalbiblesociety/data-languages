@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بابتانا
     auto: true
+  - translation_iso: fra
+    name: babatana
   - translation_iso: hin
     name: बबताना
     auto: true

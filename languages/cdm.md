@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشيبانغ
     auto: true
+  - translation_iso: fra
+    name: chepang
   - translation_iso: hin
     name: चेपाङ भाषा
   - translation_iso: jpn

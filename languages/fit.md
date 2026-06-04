@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Me%C3%A4nkieli"
 translations:
   - translation_iso: ara
     name: منكيلي
+  - translation_iso: fra
+    name: meänkieli
   - translation_iso: hin
     name: तोर्नेदालेन फिनिश
     auto: true

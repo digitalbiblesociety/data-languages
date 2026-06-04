@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك ميتلا
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Mitla
   - translation_iso: hin
     name: मित्ला सैपोटेक
     auto: true

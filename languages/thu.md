@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ثوري
     auto: true
+  - translation_iso: fra
+    name: Thuri
+    auto: true
   - translation_iso: hin
     name: थुरी
     auto: true

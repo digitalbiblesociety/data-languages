@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كورناي
     auto: true
+  - translation_iso: fra
+    name: kurnai
   - translation_iso: hin
     name: कुर्नाई
     auto: true

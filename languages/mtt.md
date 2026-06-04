@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موتا
     auto: true
+  - translation_iso: fra
+    name: mota
   - translation_iso: hin
     name: मोता
     auto: true

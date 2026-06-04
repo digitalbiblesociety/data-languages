@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيك-إيبو
     auto: true
+  - translation_iso: fra
+    name: teke-ebo
   - translation_iso: hin
     name: तेके-एबो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ريمباررنجا
     auto: true
+  - translation_iso: fra
+    name: rembarrnga
   - translation_iso: hin
     name: रेम्बार्न्गा
     auto: true

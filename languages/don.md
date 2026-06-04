@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تورا
     auto: true
+  - translation_iso: fra
+    name: toura
   - translation_iso: hin
     name: तौरा (पापुआ न्यू गिनी)
     auto: true

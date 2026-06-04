@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: لغة جوغي
     auto: true
+  - translation_iso: fra
+    name: jogi
   - translation_iso: hin
     name: जोगी
     auto: true

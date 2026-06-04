@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دامبيلاس
     auto: true
+  - translation_iso: fra
+    name: dampelas
   - translation_iso: hin
     name: दम्पेलास
     auto: true

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/West_Coast_Bajau_language"
 translations:
   - translation_iso: ara
     name: الساحل الغربي باجاو
+  - translation_iso: fra
+    name: bajau de la côte occidentale
   - translation_iso: hin
     name: पश्चिमी तट बजाऊ
     auto: true

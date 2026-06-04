@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيوا أباتشي
     auto: true
+  - translation_iso: fra
+    name: apache des plaines
   - translation_iso: hin
     name: कियोवा अपाचे
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نيسو الشمالية الغربية
     auto: true
+  - translation_iso: fra
+    name: nisu du Nord-Ouest
   - translation_iso: hin
     name: उत्तर-पश्चिमी निसू
     auto: true

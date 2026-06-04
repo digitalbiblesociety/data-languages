@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويه
     auto: true
+  - translation_iso: fra
+    name: weh
   - translation_iso: hin
     name: वेह
     auto: true

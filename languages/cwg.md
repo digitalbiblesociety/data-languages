@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشيونغ
     auto: true
+  - translation_iso: fra
+    name: cheq wong
   - translation_iso: hin
     name: चेवोंग
     auto: true

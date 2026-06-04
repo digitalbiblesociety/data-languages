@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوراررا
     auto: true
+  - translation_iso: fra
+    name: burarra
   - translation_iso: hin
     name: बुरार्रा
     auto: true

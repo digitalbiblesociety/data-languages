@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: وينتو
     auto: true
+  - translation_iso: fra
+    name: wintu
   - translation_iso: hin
     name: विंटू
     auto: true

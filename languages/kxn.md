@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ميلاناو كانويت-تانجونج
     auto: true
+  - translation_iso: fra
+    name: kanowit
   - translation_iso: hin
     name: कनोविट-तंजोंग मेलानाउ
     auto: true

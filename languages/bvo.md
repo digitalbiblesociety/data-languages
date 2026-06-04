@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بولْجو
     auto: true
+  - translation_iso: fra
+    name: bolgo
   - translation_iso: hin
     name: बोल्गो
     auto: true

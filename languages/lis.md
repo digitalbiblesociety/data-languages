@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة يسو
     auto: true
+  - translation_iso: fra
+    name: lissou
   - translation_iso: hin
     name: लिसू
     auto: true

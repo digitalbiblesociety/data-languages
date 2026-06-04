@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Slavey_language"
 translations:
   - translation_iso: ara
     name: السلافية
+  - translation_iso: fra
+    name: esclave
   - translation_iso: hin
     name: स्लेव
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيمباري
     auto: true
+  - translation_iso: fra
+    name: nimbari
   - translation_iso: hin
     name: निम्बारी
     auto: true

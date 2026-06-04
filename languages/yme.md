@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يامو
     auto: true
+  - translation_iso: fra
+    name: yameo
   - translation_iso: hin
     name: यामेओ
     auto: true

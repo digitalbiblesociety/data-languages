@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجوو
     auto: true
+  - translation_iso: fra
+    name: ngwo
   - translation_iso: hin
     name: न्ग्वो
     auto: true

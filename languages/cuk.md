@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سان بلاس كونا
     auto: true
+  - translation_iso: fra
+    name: kuna de San Blas
   - translation_iso: hin
     name: सान ब्लास कुना
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يسي
     auto: true
+  - translation_iso: fra
+    name: lese
   - translation_iso: hin
     name: लेसे
     auto: true

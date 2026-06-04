@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ساجالا
     auto: true
+  - translation_iso: fra
+    name: sagara
   - translation_iso: hin
     name: सागाला
     auto: true

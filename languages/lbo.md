@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لافن
     auto: true
+  - translation_iso: fra
+    name: laven
   - translation_iso: hin
     name: लावेन
     auto: true

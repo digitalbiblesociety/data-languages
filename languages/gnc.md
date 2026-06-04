@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Guanche_language"
 translations:
   - translation_iso: ara
     name: لغة غوانش
+  - translation_iso: fra
+    name: guanche
   - translation_iso: hin
     name: ग्वांचे
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتوكار
     auto: true
+  - translation_iso: fra
+    name: Matukar
+    auto: true
   - translation_iso: hin
     name: मातुकार
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة فاكي
     auto: true
+  - translation_iso: fra
+    name: phake
   - translation_iso: hin
     name: ताई फेके भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مينجونجبال
     auto: true
+  - translation_iso: fra
+    name: yugambeh
   - translation_iso: hin
     name: मिन्जुंगबल
     auto: true

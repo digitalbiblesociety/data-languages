@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: سيكي
     auto: true
+  - translation_iso: fra
+    name: seki
   - translation_iso: hin
     name: सेकी
     auto: true

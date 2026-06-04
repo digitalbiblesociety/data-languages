@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Balaibalan"
 translations:
   - translation_iso: ara
     name: باليبلن
+  - translation_iso: fra
+    name: bâleybelen
   - translation_iso: hin
     name: बलैबलन
     auto: true

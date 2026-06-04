@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نورثإرن غآلإ
     auto: true
+  - translation_iso: fra
+    name: ghale du Nord
   - translation_iso: hin
     name: उत्तरी घले
     auto: true

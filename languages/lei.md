@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يميو
     auto: true
+  - translation_iso: fra
+    name: Lemio
+    auto: true
   - translation_iso: hin
     name: लेमियो
     auto: true

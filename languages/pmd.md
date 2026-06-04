@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالانجانميدانج
     auto: true
+  - translation_iso: fra
+    name: pallanganmiddang
   - translation_iso: hin
     name: पल्लांगनमिद्दांग
     auto: true

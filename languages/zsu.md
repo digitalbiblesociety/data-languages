@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: سوكوروم
     auto: true
+  - translation_iso: fra
+    name: Sukurum
+    auto: true
   - translation_iso: hin
     name: सुकुरुम
     auto: true

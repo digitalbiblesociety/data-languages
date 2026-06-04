@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جوال
     auto: true
+  - translation_iso: fra
+    name: juwal
   - translation_iso: hin
     name: जुवाल
     auto: true

@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: نوبفيخا
     auto: true
+  - translation_iso: fra
+    name: nupbikha
   - translation_iso: hin
     name: नुपबिखा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاتي
     auto: true
+  - translation_iso: fra
+    name: kâte
   - translation_iso: hin
     name: काते
     auto: true

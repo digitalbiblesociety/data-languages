@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: روفيانا
     auto: true
+  - translation_iso: fra
+    name: roviana
   - translation_iso: hin
     name: रोवियाना
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تينيس
     auto: true
+  - translation_iso: fra
+    name: tenis
   - translation_iso: hin
     name: तेनिस
     auto: true

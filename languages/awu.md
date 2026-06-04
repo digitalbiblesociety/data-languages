@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أويو الوسطى
     auto: true
+  - translation_iso: fra
+    name: aghu central
   - translation_iso: hin
     name: मध्य अव्यू
     auto: true

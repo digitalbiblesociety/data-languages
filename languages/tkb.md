@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوكسا
     auto: true
+  - translation_iso: fra
+    name: buksa
   - translation_iso: hin
     name: बुक्सा
     auto: true

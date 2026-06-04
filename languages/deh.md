@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دهواري
     auto: true
+  - translation_iso: fra
+    name: Dehwari
+    auto: true
   - translation_iso: hin
     name: देहवारी भाषा
   - translation_iso: jpn

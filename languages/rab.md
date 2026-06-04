@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاملينج
     auto: true
+  - translation_iso: fra
+    name: chamling
   - translation_iso: hin
     name: चामलिंग
     auto: true

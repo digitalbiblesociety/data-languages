@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يكورا
     auto: true
+  - translation_iso: fra
+    name: Yekora
+    auto: true
   - translation_iso: hin
     name: येकोरा
     auto: true

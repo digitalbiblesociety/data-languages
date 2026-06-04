@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ديفي جبي
     auto: true
+  - translation_iso: fra
+    name: Defi-gbe
   - translation_iso: hin
     name: देफी ग्बे
     auto: true

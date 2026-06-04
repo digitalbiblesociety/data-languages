@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ناسال
     auto: true
+  - translation_iso: fra
+    name: nasal
   - translation_iso: hin
     name: नासाल
     auto: true

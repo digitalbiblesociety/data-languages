@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Sandawe_language"
 translations:
   - translation_iso: ara
     name: السانداوي
+  - translation_iso: fra
+    name: sandawe
   - translation_iso: hin
     name: सन्डावे
   - translation_iso: jpn

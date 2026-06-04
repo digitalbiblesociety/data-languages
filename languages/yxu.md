@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: اللغة يويو
     auto: true
+  - translation_iso: fra
+    name: Yuyu
+    auto: true
   - translation_iso: hin
     name: युयु
     auto: true

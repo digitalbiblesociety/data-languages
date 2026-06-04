@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أورهوبو
     auto: true
+  - translation_iso: fra
+    name: urhobo
   - translation_iso: hin
     name: उरहोबो
     auto: true

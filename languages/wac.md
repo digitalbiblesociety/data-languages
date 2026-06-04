@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واسكو-ويشرام
     auto: true
+  - translation_iso: fra
+    name: wasco-wishram
   - translation_iso: hin
     name: वास्को-विश्रम
     auto: true

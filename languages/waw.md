@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وايواي
     auto: true
+  - translation_iso: fra
+    name: waiwai
   - translation_iso: hin
     name: वाइवाइ
     auto: true

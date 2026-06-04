@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nobiin"
 translations:
   - translation_iso: ara
     name: النوبية
+  - translation_iso: fra
+    name: nobiin
   - translation_iso: hin
     name: नोबीन
     auto: true

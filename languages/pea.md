@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة إندونيسية بيرانكان
     auto: true
+  - translation_iso: fra
+    name: Indonésien peranakan
+    auto: true
   - translation_iso: hin
     name: पेरानाकन इंडोनेशियाई
     auto: true

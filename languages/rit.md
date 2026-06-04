@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ريثارنجو
     auto: true
+  - translation_iso: fra
+    name: ritarungo
   - translation_iso: hin
     name: रिथार्न्गु
     auto: true

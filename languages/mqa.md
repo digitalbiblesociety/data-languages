@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مابا (إندونيسيا)
     auto: true
+  - translation_iso: fra
+    name: maba
   - translation_iso: hin
     name: माबा (इंडोनेशिया)
     auto: true

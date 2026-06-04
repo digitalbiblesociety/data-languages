@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: مويون ناغا
     auto: true
+  - translation_iso: fra
+    name: Naga moyon
+    auto: true
   - translation_iso: hin
     name: मोयोन भाषा
   - translation_iso: jpn

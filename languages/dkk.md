@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دكا
     auto: true
+  - translation_iso: fra
+    name: dakka
   - translation_iso: hin
     name: दक्का
     auto: true

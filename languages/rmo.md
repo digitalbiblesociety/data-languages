@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: سينتي رومانية
     auto: true
+  - translation_iso: fra
+    name: sintikès
   - translation_iso: hin
     name: सिंते रोमानी
     auto: true

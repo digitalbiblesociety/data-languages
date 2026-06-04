@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة وسط واتوت
     auto: true
+  - translation_iso: fra
+    name: watut central
   - translation_iso: hin
     name: मध्य वातुत
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة بهام
     auto: true
+  - translation_iso: fra
+    name: Baham
+    auto: true
   - translation_iso: hin
     name: बहम
     auto: true

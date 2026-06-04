@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: أوديايي
     auto: true
+  - translation_iso: fra
+    name: odiai
   - translation_iso: hin
     name: ओडियाई
     auto: true

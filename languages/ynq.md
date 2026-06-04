@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يندانغ
     auto: true
+  - translation_iso: fra
+    name: yendang
   - translation_iso: hin
     name: येंदांग
     auto: true

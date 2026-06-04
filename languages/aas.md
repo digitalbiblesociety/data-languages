@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة آسّاع
     auto: true
+  - translation_iso: fra
+    name: aasá
   - translation_iso: hin
     name: आसाक्स
     auto: true

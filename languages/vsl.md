@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Venezuelan_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة الفنزويلية
+  - translation_iso: fra
+    name: langue des signes vénézuélienne
   - translation_iso: hin
     name: वेनेज़ुएलाई सांकेतिक भाषा
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيليون
     auto: true
+  - translation_iso: fra
+    name: "ili'uun"
   - translation_iso: hin
     name: इलिउन
     auto: true

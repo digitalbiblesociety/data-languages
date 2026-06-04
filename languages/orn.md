@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أورانغ كانق
     auto: true
+  - translation_iso: fra
+    name: orang kanaq
   - translation_iso: hin
     name: ओरंग कानाक
     auto: true

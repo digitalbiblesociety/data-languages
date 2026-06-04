@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ولودا
     auto: true
+  - translation_iso: fra
+    name: loloda
   - translation_iso: hin
     name: लोलोदा
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التبتية
     auto: true
+  - translation_iso: fra
+    name: Langue des signes tibétaine
+    auto: true
   - translation_iso: hin
     name: तिब्बती सांकेतिक भाषा
   - translation_iso: jpn

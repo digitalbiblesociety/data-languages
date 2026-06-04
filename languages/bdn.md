@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالديمو
     auto: true
+  - translation_iso: fra
+    name: baldamu
   - translation_iso: hin
     name: बाल्डेमु
     auto: true

@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: لغة وپي
     auto: true
+  - translation_iso: fra
+    name: lopi
   - translation_iso: hin
     name: लोपी
     auto: true

@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: برونكا لغة الإشارة
     auto: true
+  - translation_iso: fra
+    name: langue des signes brunca
   - translation_iso: hin
     name: ब्रुंका सांकेतिक भाषा
   - translation_iso: jpn

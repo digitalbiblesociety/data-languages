@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فتالوكو
     auto: true
+  - translation_iso: fra
+    name: fataluku
   - translation_iso: hin
     name: फ़ातालुकू
     auto: true

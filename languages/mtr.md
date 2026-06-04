@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة ميواري
     auto: true
+  - translation_iso: fra
+    name: mewari
   - translation_iso: hin
     name: मेवाड़ी भाषा
   - translation_iso: jpn

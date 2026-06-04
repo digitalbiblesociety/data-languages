@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك تيخالابان
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Tejalapan
   - translation_iso: hin
     name: तेहालापान ज़ापोटेक
     auto: true

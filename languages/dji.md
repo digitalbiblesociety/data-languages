@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دجيناند
     auto: true
+  - translation_iso: fra
+    name: djinang
   - translation_iso: hin
     name: जिनांग
     auto: true

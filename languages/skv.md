@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سكو
     auto: true
+  - translation_iso: fra
+    name: skou
   - translation_iso: hin
     name: स्कोउ
     auto: true

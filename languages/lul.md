@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: "لغة ولو'بو"
     auto: true
+  - translation_iso: fra
+    name: "Olu'bo"
+    auto: true
   - translation_iso: hin
     name: ओलुबो
     auto: true

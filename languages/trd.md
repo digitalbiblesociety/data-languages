@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توري
     auto: true
+  - translation_iso: fra
+    name: turi
   - translation_iso: hin
     name: तुरी भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ملغاشية أنتانكارانا
     auto: true
+  - translation_iso: fra
+    name: Fiteny Antakarana
   - translation_iso: hin
     name: अंतनकराना मालागासी
     auto: true

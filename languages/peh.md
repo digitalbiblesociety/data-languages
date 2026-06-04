@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بونان
     auto: true
+  - translation_iso: fra
+    name: Bonan
   - translation_iso: hin
     name: बोनान
     auto: true

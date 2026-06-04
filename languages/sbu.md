@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ستود بوتي
     auto: true
+  - translation_iso: fra
+    name: bhoti stod
   - translation_iso: hin
     name: लाहौली भाषा
   - translation_iso: jpn

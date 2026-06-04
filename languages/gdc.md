@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: جوجو باضون
     auto: true
+  - translation_iso: fra
+    name: gugu badhun
   - translation_iso: hin
     name: गुगु बधुन
     auto: true

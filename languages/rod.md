@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: روجو
     auto: true
+  - translation_iso: fra
+    name: Rogo
+    auto: true
   - translation_iso: hin
     name: रोगो
     auto: true

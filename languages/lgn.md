@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: "لغة 'اپو"
     auto: true
+  - translation_iso: fra
+    name: opo
   - translation_iso: hin
     name: तापो
     auto: true

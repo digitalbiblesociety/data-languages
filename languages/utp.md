@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أمبا
     auto: true
+  - translation_iso: fra
+    name: amba
   - translation_iso: hin
     name: अम्बा (सोलोमन द्वीप)
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باوماري
     auto: true
+  - translation_iso: fra
+    name: paumari
   - translation_iso: hin
     name: पौमारी
     auto: true

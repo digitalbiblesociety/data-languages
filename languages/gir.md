@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رإد غإلآو
     auto: true
+  - translation_iso: fra
+    name: gelao rouge
   - translation_iso: hin
     name: रेड गेलाओ
     auto: true

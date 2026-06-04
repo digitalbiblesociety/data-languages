@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الشاتينو الشرقي الأعلى
     auto: true
+  - translation_iso: fra
+    name: chatino de la Sierra orientale
   - translation_iso: hin
     name: पूर्वी हाइलैंड चाटिनो
     auto: true

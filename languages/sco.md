@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Scots_language"
 translations:
   - translation_iso: ara
     name: إسكتلندية
+  - translation_iso: fra
+    name: écossais
   - translation_iso: hin
     name: स्कौट्स भाषा
   - translation_iso: jpn

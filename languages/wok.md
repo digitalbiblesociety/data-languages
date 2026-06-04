@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لونغتو
     auto: true
+  - translation_iso: fra
+    name: longto
   - translation_iso: hin
     name: लोंगतो
     auto: true

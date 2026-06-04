@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوري
     auto: true
+  - translation_iso: fra
+    name: kuri
   - translation_iso: hin
     name: कुरी
     auto: true

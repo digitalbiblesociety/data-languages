@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mari_language"
 translations:
   - translation_iso: ara
     name: لغة مارية
+  - translation_iso: fra
+    name: mari
   - translation_iso: hin
     name: मरी भाषा
   - translation_iso: jpn

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: بانجيمي
     auto: true
+  - translation_iso: fra
+    name: bangeri me
   - translation_iso: hin
     name: बंगिमे
     auto: true

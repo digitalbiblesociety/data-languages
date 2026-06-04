@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: السيرما
     auto: true
+  - translation_iso: fra
+    name: cerma
   - translation_iso: hin
     name: सेर्मा
     auto: true

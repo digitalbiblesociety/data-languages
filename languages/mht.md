@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مندتهواكا
     auto: true
+  - translation_iso: fra
+    name: mandahuaca
   - translation_iso: hin
     name: मंदाहुआका
     auto: true

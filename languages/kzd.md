@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: كادي
     auto: true
+  - translation_iso: fra
+    name: kadaï
   - translation_iso: hin
     name: कदाई
     auto: true

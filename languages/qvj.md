@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كيتشوا لوخا الجبلية
     auto: true
+  - translation_iso: fra
+    name: quichua de Loja
   - translation_iso: hin
     name: लोखा हाइलैंड किचुआ
     auto: true

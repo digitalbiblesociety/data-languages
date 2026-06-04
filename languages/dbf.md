@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيدوبي
     auto: true
+  - translation_iso: fra
+    name: edopi
   - translation_iso: hin
     name: एदोपी
     auto: true

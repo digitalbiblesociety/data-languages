@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة امكانج
     auto: true
+  - translation_iso: fra
+    name: lamkang
   - translation_iso: hin
     name: लामगांग भाषा
   - translation_iso: jpn

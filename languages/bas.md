@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Basaa_language"
 translations:
   - translation_iso: ara
     name: الباسا
+  - translation_iso: fra
+    name: bassa
   - translation_iso: hin
     name: बसा
   - translation_iso: jpn

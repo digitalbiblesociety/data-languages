@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توورا
     auto: true
+  - translation_iso: fra
+    name: toura
   - translation_iso: hin
     name: "तूरा (कोत द'इवोआर)"
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كالو
     auto: true
+  - translation_iso: fra
+    name: kalou
   - translation_iso: hin
     name: कालू
     auto: true

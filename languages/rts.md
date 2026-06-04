@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: يوراتس
     auto: true
+  - translation_iso: fra
+    name: yourats
   - translation_iso: hin
     name: युरात्स
     auto: true

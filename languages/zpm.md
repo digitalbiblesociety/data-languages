@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك ميكستيبيك
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Mixtepec
   - translation_iso: hin
     name: मिक्स्तेपेक सैपोटेक
     auto: true

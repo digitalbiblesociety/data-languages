@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غامبيان وولوف
     auto: true
+  - translation_iso: fra
+    name: wolof gambien
   - translation_iso: hin
     name: गाम्बियाई वोलोफ़
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماتور
     auto: true
+  - translation_iso: fra
+    name: mator
   - translation_iso: hin
     name: मातोर
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أودي
     auto: true
+  - translation_iso: fra
+    name: oudi
   - translation_iso: hin
     name: उदी
     auto: true

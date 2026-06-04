@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك الحزم
     auto: true
+  - translation_iso: fra
+    name: "zapotèque de l'Isthme"
   - translation_iso: hin
     name: इस्तमस ज़ापोटेक
     auto: true

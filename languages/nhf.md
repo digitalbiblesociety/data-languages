@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نهوالا
     auto: true
+  - translation_iso: fra
+    name: nhuwala
   - translation_iso: hin
     name: न्हुवाला
     auto: true

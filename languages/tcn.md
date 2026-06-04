@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيتشورونغ
     auto: true
+  - translation_iso: fra
+    name: Tichurong
+    auto: true
   - translation_iso: hin
     name: तिचुरोंग
     auto: true

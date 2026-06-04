@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: اللغة أردهاماغادهي براكريت
     auto: true
+  - translation_iso: fra
+    name: Prâkrit ardhamâgadhî
+    auto: true
   - translation_iso: hin
     name: अर्धमागधी
   - translation_iso: jpn

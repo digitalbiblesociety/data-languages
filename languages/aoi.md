@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أنيندّيليّاكوا
     auto: true
+  - translation_iso: fra
+    name: anindilyakwa
   - translation_iso: hin
     name: अनिन्डिल्याक्वा
     auto: true

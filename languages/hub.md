@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هوامبيسا
     auto: true
+  - translation_iso: fra
+    name: huambisa
   - translation_iso: hin
     name: हुआम्बिसा
     auto: true

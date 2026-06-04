@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ميوسوار
     auto: true
+  - translation_iso: fra
+    name: meoswar
   - translation_iso: hin
     name: मेओस्वार
     auto: true

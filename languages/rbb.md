@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: روماي بالاونج
     auto: true
+  - translation_iso: fra
+    name: rumai
   - translation_iso: hin
     name: रुमाई पलौंग
     auto: true

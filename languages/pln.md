@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باليينكيرو
     auto: true
+  - translation_iso: fra
+    name: palenquero
   - translation_iso: hin
     name: पालेंकेरो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكومانغوتو
     auto: true
+  - translation_iso: fra
+    name: cumanagoto
   - translation_iso: hin
     name: कुमानागोतो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك زادني
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Xadani
   - translation_iso: hin
     name: ज़ादानी सैपोटेक
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جيريامة
     auto: true
+  - translation_iso: fra
+    name: giriama
   - translation_iso: hin
     name: गिर्यामा
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة نيسو الشمالية
     auto: true
+  - translation_iso: fra
+    name: nisu du Nord
   - translation_iso: hin
     name: उत्तरी निसू
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الكاتالونية
     auto: true
+  - translation_iso: fra
+    name: langue des signes catalane
   - translation_iso: hin
     name: कैटलन सांकेतिक भाषा
   - translation_iso: jpn

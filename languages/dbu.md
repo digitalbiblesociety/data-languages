@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوندوم دوم دوجون
     auto: true
+  - translation_iso: fra
+    name: bondum dom
   - translation_iso: hin
     name: बोंडुम दोम दोगोन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أراويتيه
     auto: true
+  - translation_iso: fra
+    name: araweté
   - translation_iso: hin
     name: अरावेते
     auto: true

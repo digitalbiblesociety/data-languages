@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وييوت
     auto: true
+  - translation_iso: fra
+    name: wiyot
   - translation_iso: hin
     name: वियोट
     auto: true

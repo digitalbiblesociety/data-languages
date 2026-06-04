@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يتي
     auto: true
+  - translation_iso: fra
+    name: leti
   - translation_iso: hin
     name: लेती (इंडोनेशिया)
     auto: true

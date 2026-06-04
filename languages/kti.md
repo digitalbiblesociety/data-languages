@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: موي الشمالية
     auto: true
+  - translation_iso: fra
+    name: muyu du Nord
   - translation_iso: hin
     name: उत्तरी मुयु
     auto: true

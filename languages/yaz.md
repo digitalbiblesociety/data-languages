@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوكاا
     auto: true
+  - translation_iso: fra
+    name: lokaa
   - translation_iso: hin
     name: लोकाआ
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة اللوجودورية الساردينية
     auto: true
+  - translation_iso: fra
+    name: logudorais
   - translation_iso: hin
     name: लोगुडोरेसे सार्डिनियन
     auto: true

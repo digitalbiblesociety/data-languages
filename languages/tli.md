@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tlingit_language"
 translations:
   - translation_iso: ara
     name: التلينغيتية
+  - translation_iso: fra
+    name: tlingit
   - translation_iso: hin
     name: त्लिंगित
   - translation_iso: jpn

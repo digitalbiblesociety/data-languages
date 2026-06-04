@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الزاير
     auto: true
+  - translation_iso: fra
+    name: sîshëë
   - translation_iso: hin
     name: ज़िरे
     auto: true

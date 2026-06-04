@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكاراجاري
     auto: true
+  - translation_iso: fra
+    name: karadjeri
   - translation_iso: hin
     name: कराजर्री
     auto: true

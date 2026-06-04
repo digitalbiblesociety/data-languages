@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كارين جيبا
     auto: true
+  - translation_iso: fra
+    name: geba
   - translation_iso: hin
     name: गेबा करेन
     auto: true

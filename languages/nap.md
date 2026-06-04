@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Neapolitan_language"
 translations:
   - translation_iso: ara
     name: النابولية
+  - translation_iso: fra
+    name: napolitain
   - translation_iso: hin
     name: नीपोलिटन
   - translation_iso: jpn

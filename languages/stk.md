@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أرامبا
     auto: true
+  - translation_iso: fra
+    name: arammba
   - translation_iso: hin
     name: अरम्बा
     auto: true

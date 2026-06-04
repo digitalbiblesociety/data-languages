@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فارهادي-ناجبوري
     auto: true
+  - translation_iso: fra
+    name: varhadi
   - translation_iso: hin
     name: वर्हाडी बोली
   - translation_iso: jpn

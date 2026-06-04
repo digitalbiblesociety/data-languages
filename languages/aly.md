@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ألياوار
     auto: true
+  - translation_iso: fra
+    name: alyawarr
   - translation_iso: hin
     name: अल्यावार
     auto: true

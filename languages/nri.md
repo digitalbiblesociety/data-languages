@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشوكري ناغا
     auto: true
+  - translation_iso: fra
+    name: chokri
   - translation_iso: hin
     name: चोकरी भाषा
   - translation_iso: jpn

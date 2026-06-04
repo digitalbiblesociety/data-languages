@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الزامبية
     auto: true
+  - translation_iso: fra
+    name: langue des signes zambienne
   - translation_iso: hin
     name: ज़ाम्बियाई सांकेतिक भाषा
     auto: true

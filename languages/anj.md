@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أنور
     auto: true
+  - translation_iso: fra
+    name: anor
   - translation_iso: hin
     name: अनोर
     auto: true

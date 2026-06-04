@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة تابي
     auto: true
+  - translation_iso: fra
+    name: tapei
   - translation_iso: hin
     name: तापेई
     auto: true

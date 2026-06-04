@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مارينغار
     auto: true
+  - translation_iso: fra
+    name: maringarr
   - translation_iso: hin
     name: मरिंगर
     auto: true

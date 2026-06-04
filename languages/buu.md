@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوديو
     auto: true
+  - translation_iso: fra
+    name: budu
   - translation_iso: hin
     name: बुडू
     auto: true

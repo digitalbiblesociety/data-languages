@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أتا مانوبو
     auto: true
+  - translation_iso: fra
+    name: Ata Manobo
+    auto: true
   - translation_iso: hin
     name: अता मनोबो
     auto: true

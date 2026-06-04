@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة وان الجنوبية
     auto: true
+  - translation_iso: fra
+    name: one du Sud
   - translation_iso: hin
     name: दक्षिणी वन
     auto: true

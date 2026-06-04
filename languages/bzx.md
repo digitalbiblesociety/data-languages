@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيلينْجاخو بوزو
     auto: true
+  - translation_iso: fra
+    name: "bozo d'Hainyaxo"
   - translation_iso: hin
     name: केलेंगाखो बोज़ो
     auto: true

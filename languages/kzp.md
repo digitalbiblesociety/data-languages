@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كايديبانج
     auto: true
+  - translation_iso: fra
+    name: Kaidipang
+    auto: true
   - translation_iso: hin
     name: कैदिपांग
     auto: true

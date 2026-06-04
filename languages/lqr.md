@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة وجير
     auto: true
+  - translation_iso: fra
+    name: Logir
+    auto: true
   - translation_iso: hin
     name: लोगिर
     auto: true

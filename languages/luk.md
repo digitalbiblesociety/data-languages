@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة وناناكها
     auto: true
+  - translation_iso: fra
+    name: Lunanakha
+    auto: true
   - translation_iso: hin
     name: लुनाना बोली
   - translation_iso: jpn

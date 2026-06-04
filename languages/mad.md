@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Madurese_language"
 translations:
   - translation_iso: ara
     name: مادورية
+  - translation_iso: fra
+    name: madourais
   - translation_iso: hin
     name: मादुरी
   - translation_iso: jpn

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: أودياه
     auto: true
+  - translation_iso: fra
+    name: oudihe
   - translation_iso: hin
     name: उदिहे
     auto: true

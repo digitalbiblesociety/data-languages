@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوامي
     auto: true
+  - translation_iso: fra
+    name: kwaami
   - translation_iso: hin
     name: क्वामी
     auto: true

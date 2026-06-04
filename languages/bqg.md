@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باجو-كوسونتو
     auto: true
+  - translation_iso: fra
+    name: bago-kusuntu
   - translation_iso: hin
     name: बागो-कुसुंतु
     auto: true

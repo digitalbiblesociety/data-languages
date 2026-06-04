@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فوتي
     auto: true
+  - translation_iso: fra
+    name: vute
   - translation_iso: hin
     name: वुते
     auto: true

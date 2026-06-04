@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبولونجيش
     auto: true
+  - translation_iso: fra
+    name: bulongic
   - translation_iso: hin
     name: म्बुलुंगिश
     auto: true

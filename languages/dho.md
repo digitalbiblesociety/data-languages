@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دوديا
     auto: true
+  - translation_iso: fra
+    name: Dhodia
+    auto: true
   - translation_iso: hin
     name: धोडिया
     auto: true

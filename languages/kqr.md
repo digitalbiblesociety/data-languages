@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيمارجانج
     auto: true
+  - translation_iso: fra
+    name: kimaragang
   - translation_iso: hin
     name: किमारागंग
     auto: true

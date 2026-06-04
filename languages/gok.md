@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: غوولي
     auto: true
+  - translation_iso: fra
+    name: gowli
   - translation_iso: hin
     name: गौली
     auto: true

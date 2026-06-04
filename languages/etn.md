@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإيتون
     auto: true
+  - translation_iso: fra
+    name: eton
   - translation_iso: hin
     name: एटोन (वानुअतु)
     auto: true

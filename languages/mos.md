@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moor%C3%A9"
 translations:
   - translation_iso: ara
     name: مور
+  - translation_iso: fra
+    name: mooré
   - translation_iso: hin
     name: मोस्सी
   - translation_iso: jpn

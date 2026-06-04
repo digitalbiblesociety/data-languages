@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Papiamento"
 translations:
   - translation_iso: ara
     name: بابيامنتو
+  - translation_iso: fra
+    name: papiamento
   - translation_iso: hin
     name: पापियामेन्टो
   - translation_iso: jpn

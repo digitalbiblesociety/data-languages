@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشوانغ يوجيانغ
     auto: true
+  - translation_iso: fra
+    name: zhuang de Youjiang
   - translation_iso: hin
     name: यौजियांग ज़ुआंग
     auto: true

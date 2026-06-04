@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة دونج الجنوبية
     auto: true
+  - translation_iso: fra
+    name: kam
   - translation_iso: hin
     name: दक्षिणी डोंग
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيجو الجنوب الشرقي
     auto: true
+  - translation_iso: fra
+    name: ijo du Sud-Est
   - translation_iso: hin
     name: दक्षिणपूर्वी इजो
     auto: true

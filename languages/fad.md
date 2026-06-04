@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الواجي
     auto: true
+  - translation_iso: fra
+    name: wagi
   - translation_iso: hin
     name: वागी
     auto: true

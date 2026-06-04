@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة مازاتك أباسكو أبوالا
     auto: true
+  - translation_iso: fra
+    name: "Mixtèque d'Apasco-Apoala"
+    auto: true
   - translation_iso: hin
     name: अपास्को-अपोआला मिश्तेक
     auto: true

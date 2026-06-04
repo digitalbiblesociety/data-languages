@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ليش
     auto: true
+  - translation_iso: fra
+    name: lish
   - translation_iso: hin
     name: लिश भाषा
   - translation_iso: jpn

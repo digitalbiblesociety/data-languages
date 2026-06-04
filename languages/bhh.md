@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بخاري
     auto: true
+  - translation_iso: fra
+    name: bukhori
   - translation_iso: hin
     name: बुख़ारी
     auto: true

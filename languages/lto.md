@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة سوتسو
     auto: true
+  - translation_iso: fra
+    name: tsotso
   - translation_iso: hin
     name: त्सोत्सो
     auto: true

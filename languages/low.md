@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة امپياس وبو
     auto: true
+  - translation_iso: fra
+    name: lobu tampias
   - translation_iso: hin
     name: तंपियास लोबू
     auto: true

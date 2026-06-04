@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كانيوك
     auto: true
+  - translation_iso: fra
+    name: kanyok
   - translation_iso: hin
     name: कान्योक
     auto: true

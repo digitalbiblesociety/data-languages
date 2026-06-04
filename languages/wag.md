@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: وا إيما
     auto: true
+  - translation_iso: fra
+    name: "wa'ema"
   - translation_iso: hin
     name: वाएमा
     auto: true

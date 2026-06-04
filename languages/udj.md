@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوجير
     auto: true
+  - translation_iso: fra
+    name: ujir
   - translation_iso: hin
     name: उजीर
     auto: true

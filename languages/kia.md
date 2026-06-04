@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيم
     auto: true
+  - translation_iso: fra
+    name: kim
   - translation_iso: hin
     name: किम
     auto: true

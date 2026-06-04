@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Aromanian_language"
 translations:
   - translation_iso: ara
     name: الأرومونية
+  - translation_iso: fra
+    name: aroumain
   - translation_iso: hin
     name: अरोमानियन
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غويقيونج
     auto: true
+  - translation_iso: fra
+    name: guiqiong
   - translation_iso: hin
     name: ग्विचोंग
     auto: true

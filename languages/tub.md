@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توباتولابال
     auto: true
+  - translation_iso: fra
+    name: tubatulabal
   - translation_iso: hin
     name: तुबातुलाबल
     auto: true

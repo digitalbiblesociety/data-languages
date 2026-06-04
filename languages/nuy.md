@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نونغغوبويو
     auto: true
+  - translation_iso: fra
+    name: nunggubuyu
   - translation_iso: hin
     name: वुबुय भाषा
   - translation_iso: jpn

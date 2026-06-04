@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يزجوليام
     auto: true
+  - translation_iso: fra
+    name: yazgulami
   - translation_iso: hin
     name: यज़गुल्याम
     auto: true

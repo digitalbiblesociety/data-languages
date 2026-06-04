@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: قابياو
     auto: true
+  - translation_iso: fra
+    name: qabiao
   - translation_iso: hin
     name: क़ाबियाओ
     auto: true

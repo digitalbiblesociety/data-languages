@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة ياجومي
     auto: true
+  - translation_iso: fra
+    name: yagomi
   - translation_iso: hin
     name: यागोमी
     auto: true

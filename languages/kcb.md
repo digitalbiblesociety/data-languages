@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كاواتشا
     auto: true
+  - translation_iso: fra
+    name: kawacha
   - translation_iso: hin
     name: कावाचा
     auto: true

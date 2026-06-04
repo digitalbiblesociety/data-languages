@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة مارغاني
     auto: true
+  - translation_iso: fra
+    name: margany
   - translation_iso: hin
     name: मार्गनी
     auto: true

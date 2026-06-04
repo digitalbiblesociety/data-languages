@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Iban_language"
 translations:
   - translation_iso: ara
     name: الإيبان
+  - translation_iso: fra
+    name: iban
   - translation_iso: hin
     name: इबान
   - translation_iso: jpn

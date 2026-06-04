@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Punjabi_language"
 translations:
   - translation_iso: ara
     name: البنجابية
+  - translation_iso: fra
+    name: pendjabi
   - translation_iso: hin
     name: पंजाबी
   - translation_iso: jpn

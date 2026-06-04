@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الويلزية القديمة
     auto: true
+  - translation_iso: fra
+    name: vieux gallois
   - translation_iso: hin
     name: पुरानी वेल्श
     auto: true

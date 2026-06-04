@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ladin_language"
 translations:
   - translation_iso: ara
     name: اللادينية
+  - translation_iso: fra
+    name: ladin
   - translation_iso: hin
     name: लादीन
     auto: true

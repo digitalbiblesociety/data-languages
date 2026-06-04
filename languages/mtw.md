@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة بينوكدنون الجنوبية
     auto: true
+  - translation_iso: fra
+    name: Binukidnon méridional
+    auto: true
   - translation_iso: hin
     name: दक्षिणी बिनुकिदनोन
     auto: true

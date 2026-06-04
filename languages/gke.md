@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ندآي
     auto: true
+  - translation_iso: fra
+    name: ndai
   - translation_iso: hin
     name: न्डाई
     auto: true

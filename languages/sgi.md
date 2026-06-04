@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سوجا
     auto: true
+  - translation_iso: fra
+    name: suga
   - translation_iso: hin
     name: सुगा
     auto: true

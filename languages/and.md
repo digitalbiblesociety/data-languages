@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أنسوس
     auto: true
+  - translation_iso: fra
+    name: Ansus
+    auto: true
   - translation_iso: hin
     name: अनसस
     auto: true

@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: غوآنآ
     auto: true
+  - translation_iso: fra
+    name: kinikinao
   - translation_iso: hin
     name: ग्वाना (ब्राज़ील)
     auto: true

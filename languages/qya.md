@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Quenya"
 translations:
   - translation_iso: ara
     name: كوينيا
+  - translation_iso: fra
+    name: quenya
   - translation_iso: hin
     name: क्वेन्या
   - translation_iso: jpn

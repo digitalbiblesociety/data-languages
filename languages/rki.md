@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rakhine_language"
 translations:
   - translation_iso: ara
     name: راخين
+  - translation_iso: fra
+    name: arakanais
   - translation_iso: hin
     name: रख़ाइन भाषा
   - translation_iso: jpn

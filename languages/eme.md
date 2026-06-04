@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإميريون
     auto: true
+  - translation_iso: fra
+    name: émérillon
   - translation_iso: hin
     name: एमेरिलॉन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جاكون
     auto: true
+  - translation_iso: fra
+    name: jakun
   - translation_iso: hin
     name: जाकुन
     auto: true

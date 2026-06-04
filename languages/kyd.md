@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاري
     auto: true
+  - translation_iso: fra
+    name: karey
   - translation_iso: hin
     name: कारेय
     auto: true

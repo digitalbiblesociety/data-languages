@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نسينغا
     auto: true
+  - translation_iso: fra
+    name: nsenga
   - translation_iso: hin
     name: नसेंगा
     auto: true

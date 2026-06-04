@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أمبيل
     auto: true
+  - translation_iso: fra
+    name: ambele
   - translation_iso: hin
     name: अम्बेले
     auto: true

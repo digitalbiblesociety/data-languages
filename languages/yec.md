@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يينيتشي
     auto: true
+  - translation_iso: fra
+    name: yéniche
   - translation_iso: hin
     name: येनिशे
     auto: true

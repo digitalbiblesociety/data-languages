@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ندولو
     auto: true
+  - translation_iso: fra
+    name: Ndolo
+    auto: true
   - translation_iso: hin
     name: न्दोलो
     auto: true

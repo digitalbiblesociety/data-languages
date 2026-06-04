@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توخاري ألف
     auto: true
+  - translation_iso: fra
+    name: agnéen
   - translation_iso: hin
     name: तुषारी ए
     auto: true

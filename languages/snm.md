@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: "اللغة ما'دي الجنوبية"
     auto: true
+  - translation_iso: fra
+    name: "ma'di du Sud"
   - translation_iso: hin
     name: दक्षिणी मादी
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ديندي
     auto: true
+  - translation_iso: fra
+    name: dendi
   - translation_iso: hin
     name: देंदी (मध्य अफ़्रीकी गणराज्य)
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوينسو
     auto: true
+  - translation_iso: fra
+    name: kwinsu
   - translation_iso: hin
     name: क्विन्सू
     auto: true

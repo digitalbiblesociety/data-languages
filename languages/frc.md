@@ -17,6 +17,8 @@ glottolog_classification: "Indo-European > Classical Indo-European > Italic > La
 translations:
   - translation_iso: ara
     name: الفرنسية الكاجونية
+  - translation_iso: fra
+    name: français cadien
   - translation_iso: hin
     name: केजन फ़्रेंच
   - translation_iso: jpn

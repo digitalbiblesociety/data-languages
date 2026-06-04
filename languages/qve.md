@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا أبورينتك الشرقية
     auto: true
+  - translation_iso: fra
+    name: "quechua d'Apurímac de l'Est"
   - translation_iso: hin
     name: ईस्टर्न अपुरीमैक क्वेचुआ
   - translation_iso: jpn

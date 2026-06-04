@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/British_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة الإشارة البريطانية
+  - translation_iso: fra
+    name: langue des signes britannique
   - translation_iso: hin
     name: ब्रिटिश सांकेतिक भाषा
   - translation_iso: jpn

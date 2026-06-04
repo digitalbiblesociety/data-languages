@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باكاكا
     auto: true
+  - translation_iso: fra
+    name: bakaka
   - translation_iso: hin
     name: बकाका
     auto: true

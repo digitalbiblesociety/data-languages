@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واريتاي
     auto: true
+  - translation_iso: fra
+    name: waritai
   - translation_iso: hin
     name: वरितै
     auto: true

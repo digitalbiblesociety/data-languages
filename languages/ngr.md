@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إنجديو
     auto: true
+  - translation_iso: fra
+    name: nanggu
   - translation_iso: hin
     name: एंगदेवू
     auto: true

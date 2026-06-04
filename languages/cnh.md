@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هاخا تشين
     auto: true
+  - translation_iso: fra
+    name: haka chin
   - translation_iso: hin
     name: हाखा चिन भाषा
   - translation_iso: jpn

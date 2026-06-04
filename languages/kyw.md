@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kurmali_language"
 translations:
   - translation_iso: ara
     name: لغة كورمالية
+  - translation_iso: fra
+    name: kudmali
   - translation_iso: hin
     name: कुङमालि भाखि
   - translation_iso: jpn

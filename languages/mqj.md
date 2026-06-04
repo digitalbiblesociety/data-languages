@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماماسا
     auto: true
+  - translation_iso: fra
+    name: Mamasa
+    auto: true
   - translation_iso: hin
     name: मामासा
     auto: true

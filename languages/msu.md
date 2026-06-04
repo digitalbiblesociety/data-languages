@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة موسوم
     auto: true
+  - translation_iso: fra
+    name: musom
   - translation_iso: hin
     name: मुसोम
     auto: true

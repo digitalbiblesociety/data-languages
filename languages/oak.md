@@ -12,6 +12,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Noakhali_language"
 translations:
   - translation_iso: ara
     name: لهجة نواخالوية
+  - translation_iso: fra
+    name: Noakhali
+    auto: true
   - translation_iso: hin
     name: नवाखालीय बोली
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان بالتازار لوكسيتشا
     auto: true
+  - translation_iso: fra
+    name: zapotèque de San Baltazar Loxicha
   - translation_iso: hin
     name: सान बाल्तज़ार लोक्सिचा सैपोटेक
     auto: true

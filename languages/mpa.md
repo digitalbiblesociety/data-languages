@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبوتو
     auto: true
+  - translation_iso: fra
+    name: Mpoto
   - translation_iso: hin
     name: म्पोटो
     auto: true

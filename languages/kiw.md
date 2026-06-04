@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كيواي الشمالية الشرقية
     auto: true
+  - translation_iso: fra
+    name: kiwai du Nord-Est
   - translation_iso: hin
     name: पूर्वोत्तर किवाई
     auto: true

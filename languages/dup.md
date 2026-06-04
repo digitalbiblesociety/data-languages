@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوانو
     auto: true
+  - translation_iso: fra
+    name: duano
   - translation_iso: hin
     name: दुआनो
     auto: true

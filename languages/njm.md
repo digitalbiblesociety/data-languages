@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أنجامي ناجا
     auto: true
+  - translation_iso: fra
+    name: angami
   - translation_iso: hin
     name: अंगामी भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيماما
     auto: true
+  - translation_iso: fra
+    name: kimaghima
   - translation_iso: hin
     name: किमामा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كولبيلا
     auto: true
+  - translation_iso: fra
+    name: kolbila
   - translation_iso: hin
     name: कोलबिला
     auto: true

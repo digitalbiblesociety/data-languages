@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوكوسو
     auto: true
+  - translation_iso: fra
+    name: bukusu
   - translation_iso: hin
     name: बुकुसु
     auto: true

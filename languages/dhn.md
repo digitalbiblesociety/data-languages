@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: دانكي
     auto: true
+  - translation_iso: fra
+    name: Dhanki
+    auto: true
   - translation_iso: hin
     name: ढांकी
     auto: true

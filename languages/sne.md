@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باو بيدايوه
     auto: true
+  - translation_iso: fra
+    name: bau bidayuh
   - translation_iso: hin
     name: बाउ बिदायुह
     auto: true

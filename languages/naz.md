@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كواتيبيك ناهواتل
     auto: true
+  - translation_iso: fra
+    name: nahuatl de Coatepec
   - translation_iso: hin
     name: कोआतेपेक नाहुआत्ल
     auto: true

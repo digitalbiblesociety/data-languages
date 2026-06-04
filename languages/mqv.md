@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة موسيمو
     auto: true
+  - translation_iso: fra
+    name: mosimo
   - translation_iso: hin
     name: मोसिमो
     auto: true

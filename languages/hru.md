@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: هروسو
     auto: true
+  - translation_iso: fra
+    name: hruso
   - translation_iso: hin
     name: अका भाषा
   - translation_iso: jpn

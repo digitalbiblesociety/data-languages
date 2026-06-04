@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سويا
     auto: true
+  - translation_iso: fra
+    name: Suyá
   - translation_iso: hin
     name: सुया
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيكتية
     auto: true
+  - translation_iso: fra
+    name: picte
   - translation_iso: hin
     name: पिक्टिश
     auto: true

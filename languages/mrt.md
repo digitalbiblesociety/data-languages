@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماركي الوسطى
     auto: true
+  - translation_iso: fra
+    name: margi
   - translation_iso: hin
     name: मध्य मार्घी
     auto: true

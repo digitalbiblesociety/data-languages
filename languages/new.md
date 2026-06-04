@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Newar_language"
 translations:
   - translation_iso: ara
     name: النيوارية
+  - translation_iso: fra
+    name: newari
   - translation_iso: hin
     name: नेपालभाषा
   - translation_iso: jpn

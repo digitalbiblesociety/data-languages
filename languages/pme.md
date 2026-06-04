@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بوامي
     auto: true
+  - translation_iso: fra
+    name: pwaamèi
   - translation_iso: hin
     name: प्वामेई
     auto: true

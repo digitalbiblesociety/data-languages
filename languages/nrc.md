@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نوريك
     auto: true
+  - translation_iso: fra
+    name: norique
   - translation_iso: hin
     name: नोरिक
     auto: true

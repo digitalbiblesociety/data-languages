@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باكانتي
     auto: true
+  - translation_iso: fra
+    name: darling
   - translation_iso: hin
     name: पाकंत्यी
     auto: true

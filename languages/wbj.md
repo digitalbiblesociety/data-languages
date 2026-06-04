@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ألاجوا
     auto: true
+  - translation_iso: fra
+    name: alagwa
   - translation_iso: hin
     name: अलाग्वा
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ياكو
     auto: true
+  - translation_iso: fra
+    name: Yaaku
+    auto: true
   - translation_iso: hin
     name: याकू
     auto: true

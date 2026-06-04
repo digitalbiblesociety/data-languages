@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبو
     auto: true
+  - translation_iso: fra
+    name: mbo
   - translation_iso: hin
     name: म्बो (कैमरून)
     auto: true

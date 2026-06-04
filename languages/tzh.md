@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تسيلتال
     auto: true
+  - translation_iso: fra
+    name: tzeltal
   - translation_iso: hin
     name: त्सेल्ताल
     auto: true

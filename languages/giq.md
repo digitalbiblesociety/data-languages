@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غرإإن غإلآو
     auto: true
+  - translation_iso: fra
+    name: gelao vert
   - translation_iso: hin
     name: ग्रीन गेलाओ
     auto: true

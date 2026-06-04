@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وانج
     auto: true
+  - translation_iso: fra
+    name: luang
   - translation_iso: hin
     name: लुआंग
     auto: true

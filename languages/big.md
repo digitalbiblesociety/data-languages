@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: بيانجايي
     auto: true
+  - translation_iso: fra
+    name: biangai
   - translation_iso: hin
     name: बियांगाई
     auto: true

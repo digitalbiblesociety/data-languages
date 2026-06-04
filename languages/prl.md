@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البيروفية
     auto: true
+  - translation_iso: fra
+    name: langue des signes péruvienne
   - translation_iso: hin
     name: पेरू सांकेतिक भाषा
   - translation_iso: jpn

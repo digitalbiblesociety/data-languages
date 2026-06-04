@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: روما
     auto: true
+  - translation_iso: fra
+    name: ruma
   - translation_iso: hin
     name: रुमा
     auto: true

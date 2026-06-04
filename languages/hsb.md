@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Upper_Sorbian_language"
 translations:
   - translation_iso: ara
     name: اللغة الصوربية العليا
+  - translation_iso: fra
+    name: haut-sorabe
   - translation_iso: hin
     name: ऊपरी सॉर्बियन
   - translation_iso: jpn

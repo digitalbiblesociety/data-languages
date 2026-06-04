@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تشانج-تشونج
     auto: true
+  - translation_iso: fra
+    name: zhang-zhung
   - translation_iso: hin
     name: झांग-झुंग भाषा
   - translation_iso: jpn

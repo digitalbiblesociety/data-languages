@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميكاسوكي
     auto: true
+  - translation_iso: fra
+    name: mikasuki
   - translation_iso: hin
     name: मिकासुकी
     auto: true

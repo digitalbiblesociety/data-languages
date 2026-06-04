@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سينجي
     auto: true
+  - translation_iso: fra
+    name: senggi
   - translation_iso: hin
     name: सेंग्गी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نانده
     auto: true
+  - translation_iso: fra
+    name: kinande
   - translation_iso: hin
     name: नान्दे
     auto: true

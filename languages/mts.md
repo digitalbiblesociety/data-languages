@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يورا
     auto: true
+  - translation_iso: fra
+    name: yora
   - translation_iso: hin
     name: योरा
     auto: true

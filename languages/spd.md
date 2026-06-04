@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة ساب
     auto: true
+  - translation_iso: fra
+    name: Saep
+    auto: true
   - translation_iso: hin
     name: साएप
     auto: true

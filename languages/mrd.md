@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماجار الغربية
     auto: true
+  - translation_iso: fra
+    name: Magar occidental
+    auto: true
   - translation_iso: hin
     name: पश्चिमी मगर
     auto: true

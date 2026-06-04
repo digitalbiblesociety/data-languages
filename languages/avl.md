@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Northwest_Arabian_Arabic"
 translations:
   - translation_iso: ara
     name: لهجة بدوية
+  - translation_iso: fra
+    name: arabe bédawi
   - translation_iso: hin
     name: पूर्वी मिस्री बदावी अरबी
     auto: true

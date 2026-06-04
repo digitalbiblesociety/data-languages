@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماسكيليينس
     auto: true
+  - translation_iso: fra
+    name: maskelynes
   - translation_iso: hin
     name: मास्केलिनेस
     auto: true

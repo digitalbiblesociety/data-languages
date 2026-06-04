@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أيمول
     auto: true
+  - translation_iso: fra
+    name: aimol
   - translation_iso: hin
     name: आइमोल भाषा
   - translation_iso: jpn

@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: ووتجوبالوك
     auto: true
+  - translation_iso: fra
+    name: wotjobaluk
   - translation_iso: hin
     name: वोत्जोबालुक
     auto: true

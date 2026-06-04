@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Amis_language"
 translations:
   - translation_iso: ara
     name: أميس
+  - translation_iso: fra
+    name: amis
   - translation_iso: hin
     name: अमिस
     auto: true

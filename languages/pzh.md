@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بازيه
     auto: true
+  - translation_iso: fra
+    name: pazeh
   - translation_iso: hin
     name: पाजेह
     auto: true

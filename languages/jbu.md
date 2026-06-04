@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جوكون تاكوم
     auto: true
+  - translation_iso: fra
+    name: jukun takum
   - translation_iso: hin
     name: जुकुन ताकुम
     auto: true

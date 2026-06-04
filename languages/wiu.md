@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: ويرو
     auto: true
+  - translation_iso: fra
+    name: wiru
   - translation_iso: hin
     name: विरू
     auto: true

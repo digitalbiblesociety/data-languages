@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوال
     auto: true
+  - translation_iso: fra
+    name: buwal
   - translation_iso: hin
     name: बुवाल
     auto: true

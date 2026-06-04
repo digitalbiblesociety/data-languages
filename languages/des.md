@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديسانو
     auto: true
+  - translation_iso: fra
+    name: desano
   - translation_iso: hin
     name: देसानो
     auto: true

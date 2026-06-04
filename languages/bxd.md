@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلا
     auto: true
+  - translation_iso: fra
+    name: pela
   - translation_iso: hin
     name: पेला
     auto: true

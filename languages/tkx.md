@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تانغكو
     auto: true
+  - translation_iso: fra
+    name: tangko
   - translation_iso: hin
     name: तांग्को
     auto: true

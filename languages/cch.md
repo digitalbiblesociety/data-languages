@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Atsam_language"
 translations:
   - translation_iso: ara
     name: الأتسام
+  - translation_iso: fra
+    name: atsam
   - translation_iso: hin
     name: अत्सम
   - translation_iso: jpn

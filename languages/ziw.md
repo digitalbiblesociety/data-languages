@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زيغولا
     auto: true
+  - translation_iso: fra
+    name: zigula
   - translation_iso: hin
     name: ज़िगुला
     auto: true

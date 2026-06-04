@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نيسو الجنوبية
     auto: true
+  - translation_iso: fra
+    name: nisu du Sud
   - translation_iso: hin
     name: दक्षिणी निसु
     auto: true

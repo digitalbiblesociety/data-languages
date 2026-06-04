@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: خيرنتي
     auto: true
+  - translation_iso: fra
+    name: xerénte
   - translation_iso: hin
     name: ज़ेरेन्ते
     auto: true

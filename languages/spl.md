@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيليبت
     auto: true
+  - translation_iso: fra
+    name: Selepet
+    auto: true
   - translation_iso: hin
     name: सेलेपेट
     auto: true

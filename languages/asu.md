@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسورينيه توكانتينس
     auto: true
+  - translation_iso: fra
+    name: akwawa
   - translation_iso: hin
     name: टोकेंटिन्स असुरिनी
     auto: true

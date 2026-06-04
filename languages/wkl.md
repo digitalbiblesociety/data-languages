@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كالانادي
     auto: true
+  - translation_iso: fra
+    name: Kalanadi
+    auto: true
   - translation_iso: hin
     name: कलनादी
     auto: true

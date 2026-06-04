@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مسكيتو
     auto: true
+  - translation_iso: fra
+    name: miskito
   - translation_iso: hin
     name: मिस्कितो
     auto: true

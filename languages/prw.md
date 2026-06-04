@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة باراوين
     auto: true
+  - translation_iso: fra
+    name: parawen
   - translation_iso: hin
     name: पारावेन
     auto: true

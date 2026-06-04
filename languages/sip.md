@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة السيكيمية
     auto: true
+  - translation_iso: fra
+    name: sikkimais
   - translation_iso: hin
     name: सिक्किमी भाषा
   - translation_iso: jpn

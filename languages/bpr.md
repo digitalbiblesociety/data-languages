@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بلاان
     auto: true
+  - translation_iso: fra
+    name: Blaan
+    auto: true
   - translation_iso: hin
     name: ब्लान
     auto: true

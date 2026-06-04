@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشينشو
     auto: true
+  - translation_iso: fra
+    name: chenchu
   - translation_iso: hin
     name: चेंचू
     auto: true

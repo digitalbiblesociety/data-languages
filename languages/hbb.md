@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هوبآ
     auto: true
+  - translation_iso: fra
+    name: Huba
+    auto: true
   - translation_iso: hin
     name: हुबा
     auto: true

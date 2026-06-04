@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gbaya_languages"
 translations:
   - translation_iso: ara
     name: الجبيا
+  - translation_iso: fra
+    name: langues gbaya
   - translation_iso: hin
     name: ग्बाया
   - translation_iso: jpn

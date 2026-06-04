@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيكيتو
     auto: true
+  - translation_iso: fra
+    name: iquito
   - translation_iso: hin
     name: इकीतो
     auto: true

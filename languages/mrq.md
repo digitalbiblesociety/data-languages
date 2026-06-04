@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماركيزان الشمالية
     auto: true
+  - translation_iso: fra
+    name: marquisien du Nord
   - translation_iso: hin
     name: उत्तरी मार्केसन
     auto: true

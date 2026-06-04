@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Arabic"
 translations:
   - translation_iso: ara
     name: العربية
+  - translation_iso: fra
+    name: arabe
   - translation_iso: hin
     name: अरबी भाषा
   - translation_iso: jpn

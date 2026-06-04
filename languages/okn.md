@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوكي نو إيرابو
     auto: true
+  - translation_iso: fra
+    name: oki-no-erabu
   - translation_iso: hin
     name: ओकी-नो-एराबु
     auto: true

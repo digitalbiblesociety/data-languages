@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الأفبي
     auto: true
+  - translation_iso: fra
+    name: uvbie
   - translation_iso: hin
     name: उव्बी
     auto: true

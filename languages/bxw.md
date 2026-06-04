@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانْكاجوما
     auto: true
+  - translation_iso: fra
+    name: bankagooma
   - translation_iso: hin
     name: बांकागूमा
     auto: true

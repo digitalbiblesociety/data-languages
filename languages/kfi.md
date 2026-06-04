@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: لغة كانادا كوروما
     auto: true
+  - translation_iso: fra
+    name: kurumba
   - translation_iso: hin
     name: कुरुबा भाषा
   - translation_iso: jpn

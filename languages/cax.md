@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشيكيتانو
     auto: true
+  - translation_iso: fra
+    name: chiquitano
   - translation_iso: hin
     name: चिकितानो
     auto: true

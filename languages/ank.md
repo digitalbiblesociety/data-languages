@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جويمّاي
     auto: true
+  - translation_iso: fra
+    name: goemai
   - translation_iso: hin
     name: गोएमाई
     auto: true

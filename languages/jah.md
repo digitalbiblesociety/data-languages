@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جاه هوت
     auto: true
+  - translation_iso: fra
+    name: jah hut
   - translation_iso: hin
     name: जाह हुत
     auto: true

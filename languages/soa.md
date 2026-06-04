@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة تاي سونج
     auto: true
+  - translation_iso: fra
+    name: thai song
   - translation_iso: hin
     name: थाई सोंग
     auto: true

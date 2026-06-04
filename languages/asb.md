@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسينيبوين
     auto: true
+  - translation_iso: fra
+    name: assiniboine
   - translation_iso: hin
     name: असिनिबोइन
     auto: true

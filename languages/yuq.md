@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يوكي
     auto: true
+  - translation_iso: fra
+    name: yuqui
   - translation_iso: hin
     name: युकी
     auto: true

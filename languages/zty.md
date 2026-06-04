@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك ياتي
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Yateé
   - translation_iso: hin
     name: यातेय ज़ापोटेक
     auto: true

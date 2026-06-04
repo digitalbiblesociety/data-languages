@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أودودي
     auto: true
+  - translation_iso: fra
+    name: odoodee
   - translation_iso: hin
     name: ओडूडी
     auto: true

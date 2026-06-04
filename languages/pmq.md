@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بامي الشمالية
     auto: true
+  - translation_iso: fra
+    name: pame du Nord
   - translation_iso: hin
     name: उत्तरी पामे
     auto: true

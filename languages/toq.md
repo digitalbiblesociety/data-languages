@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توبوسا
     auto: true
+  - translation_iso: fra
+    name: toposa
   - translation_iso: hin
     name: तोपोसा
     auto: true

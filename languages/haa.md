@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هآن
     auto: true
+  - translation_iso: fra
+    name: han
   - translation_iso: hin
     name: हान
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كالابويا الجنوبية
     auto: true
+  - translation_iso: fra
+    name: kalapuya du Sud
   - translation_iso: hin
     name: दक्षिणी कालापुया
     auto: true

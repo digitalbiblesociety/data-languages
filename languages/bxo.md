@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: باريْكانْشي
     auto: true
+  - translation_iso: fra
+    name: barikanchi
   - translation_iso: hin
     name: बारिकांची
     auto: true

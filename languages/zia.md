@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زيا
     auto: true
+  - translation_iso: fra
+    name: zia
   - translation_iso: hin
     name: ज़िया
     auto: true

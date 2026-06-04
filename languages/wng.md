@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: وانغغوم
     auto: true
+  - translation_iso: fra
+    name: wanggom
   - translation_iso: hin
     name: वांग्गोम
     auto: true

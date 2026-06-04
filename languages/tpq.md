@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: توكبا
     auto: true
+  - translation_iso: fra
+    name: tukpa
   - translation_iso: hin
     name: तुकपा भाषा
   - translation_iso: jpn

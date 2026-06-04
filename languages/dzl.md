@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الدزالاخا
     auto: true
+  - translation_iso: fra
+    name: dzalakha
   - translation_iso: hin
     name: ज़ालाखा
     auto: true

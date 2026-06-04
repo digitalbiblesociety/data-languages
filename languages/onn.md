@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أونوباسولو
     auto: true
+  - translation_iso: fra
+    name: Onobasulu
+    auto: true
   - translation_iso: hin
     name: ओनोबासुलु
     auto: true

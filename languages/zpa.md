@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاتشيغويري
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Lachiguiri
   - translation_iso: hin
     name: लाचीगिरी सैपोटेक
     auto: true

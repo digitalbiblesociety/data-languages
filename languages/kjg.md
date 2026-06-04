@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: لغة خمو
     auto: true
+  - translation_iso: fra
+    name: khmu
   - translation_iso: hin
     name: ख्मू
     auto: true

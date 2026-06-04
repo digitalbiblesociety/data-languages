@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ساؤوتش
     auto: true
+  - translation_iso: fra
+    name: "sa'och"
   - translation_iso: hin
     name: साओच
     auto: true

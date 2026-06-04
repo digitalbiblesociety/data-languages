@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Saban%C3%AA_language"
 translations:
   - translation_iso: ara
     name: لغة سابانيس
+  - translation_iso: fra
+    name: sabanê
   - translation_iso: hin
     name: साबाने
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة أكويي
     auto: true
+  - translation_iso: fra
+    name: Akoye
+    auto: true
   - translation_iso: hin
     name: अकोये
     auto: true

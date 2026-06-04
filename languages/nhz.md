@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سانتا ماريا لا ألتا ناهواتل
     auto: true
+  - translation_iso: fra
+    name: nahuatl de Santa María la Alta
   - translation_iso: hin
     name: सांता मारिया ला आल्ता नाहुआतल
     auto: true

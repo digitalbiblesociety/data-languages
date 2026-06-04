@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توغويو
     auto: true
+  - translation_iso: fra
+    name: togoyo
   - translation_iso: hin
     name: तोगोयो
     auto: true

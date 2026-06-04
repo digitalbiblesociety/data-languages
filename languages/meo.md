@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ملايو كيدا
     auto: true
+  - translation_iso: fra
+    name: Malais de Kedah
+    auto: true
   - translation_iso: hin
     name: केदाह मलय
     auto: true

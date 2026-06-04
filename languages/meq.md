@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميري
     auto: true
+  - translation_iso: fra
+    name: merey
   - translation_iso: hin
     name: मेरेय
     auto: true

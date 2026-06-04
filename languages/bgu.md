@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موبونجنو
     auto: true
+  - translation_iso: fra
+    name: kamkam
   - translation_iso: hin
     name: म्बोंग्नो
     auto: true

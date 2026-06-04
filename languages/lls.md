@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يتهوانيان يجن انجواجي
     auto: true
+  - translation_iso: fra
+    name: langue des signes lituanienne
   - translation_iso: hin
     name: लिथुआनियाई सांकेतिक भाषा
     auto: true

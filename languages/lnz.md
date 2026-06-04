@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: لغة ونزو
     auto: true
+  - translation_iso: fra
+    name: lonzo
   - translation_iso: hin
     name: लोंज़ो
     auto: true

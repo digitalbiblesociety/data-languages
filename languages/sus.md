@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Susu_language"
 translations:
   - translation_iso: ara
     name: لغة سوسوية
+  - translation_iso: fra
+    name: soussou
   - translation_iso: hin
     name: सूसू भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوإدآ
     auto: true
+  - translation_iso: fra
+    name: gweda
   - translation_iso: hin
     name: ग्वेदा
     auto: true

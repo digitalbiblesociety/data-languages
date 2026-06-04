@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أيزي
     auto: true
+  - translation_iso: fra
+    name: Ayizi
+    auto: true
   - translation_iso: hin
     name: आयिज़ी
     auto: true

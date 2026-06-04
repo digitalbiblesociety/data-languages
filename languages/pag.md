@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Pangasinan_language"
 translations:
   - translation_iso: ara
     name: البانجاسينان
+  - translation_iso: fra
+    name: pangassinais
   - translation_iso: hin
     name: पंगासीनान
   - translation_iso: jpn

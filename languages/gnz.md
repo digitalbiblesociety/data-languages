@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غآنزي
     auto: true
+  - translation_iso: fra
+    name: ganzi
   - translation_iso: hin
     name: गांज़ी
     auto: true

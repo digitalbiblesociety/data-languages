@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة البومبيتا أرابيش
     auto: true
+  - translation_iso: fra
+    name: arapesh bumbita
   - translation_iso: hin
     name: बुम्बिता अरापेश
     auto: true

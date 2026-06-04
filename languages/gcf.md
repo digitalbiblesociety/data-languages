@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكريولية الفرنسية جوادلوب
     auto: true
+  - translation_iso: fra
+    name: créole guadeloupéen
   - translation_iso: hin
     name: ग्वाडेलूपी क्रियोल फ्रेंच
     auto: true

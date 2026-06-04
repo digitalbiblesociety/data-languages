@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أورانغ سيليتار
     auto: true
+  - translation_iso: fra
+    name: orang seletar
   - translation_iso: hin
     name: ओरंग सेलेतार
     auto: true

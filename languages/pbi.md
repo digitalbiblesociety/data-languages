@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باركوا
     auto: true
+  - translation_iso: fra
+    name: paduko
   - translation_iso: hin
     name: पार्कवा
     auto: true

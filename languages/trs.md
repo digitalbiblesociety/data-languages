@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تريكي تشيكاهواكستلا
     auto: true
+  - translation_iso: fra
+    name: trique de Chicahuaxtla
   - translation_iso: hin
     name: चिकाहुआख्त्ला त्रिकी
     auto: true

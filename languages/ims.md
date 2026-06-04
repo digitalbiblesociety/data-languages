@@ -11,6 +11,9 @@ translations:
   - translation_iso: ara
     name: مارسيان
     auto: true
+  - translation_iso: fra
+    name: Marsian
+    auto: true
   - translation_iso: hin
     name: मार्सियन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيڤاكلي
     auto: true
+  - translation_iso: fra
+    name: nivaklé
   - translation_iso: hin
     name: निवाक्ले
     auto: true

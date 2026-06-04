@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كورا كوراغا
     auto: true
+  - translation_iso: fra
+    name: koraga korra
   - translation_iso: hin
     name: कोर्रा कोरगा
     auto: true

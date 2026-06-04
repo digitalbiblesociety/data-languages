@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيمبيرا تادو
     auto: true
+  - translation_iso: fra
+    name: emberá tadó
   - translation_iso: hin
     name: एम्बेरा-तादो
     auto: true

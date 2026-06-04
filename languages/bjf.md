@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بارزاني اليهودية آرامية جديدة
     auto: true
+  - translation_iso: fra
+    name: néo-araméen juif de Barzani
   - translation_iso: hin
     name: बरज़ानी यहूदी नव-अरामी
     auto: true

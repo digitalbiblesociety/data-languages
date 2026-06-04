@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غآنونجغآ
     auto: true
+  - translation_iso: fra
+    name: ghanongga
   - translation_iso: hin
     name: घनोंग्गा
     auto: true

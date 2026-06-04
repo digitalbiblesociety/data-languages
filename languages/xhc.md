@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: هوننيك
     auto: true
+  - translation_iso: fra
+    name: hunnique
   - translation_iso: hin
     name: हुणिक
     auto: true

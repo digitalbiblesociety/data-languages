@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Delaware_languages"
 translations:
   - translation_iso: ara
     name: الديلوير
+  - translation_iso: fra
+    name: langues delaware
   - translation_iso: hin
     name: डिलैवेयर
   - translation_iso: jpn

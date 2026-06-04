@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Natchez_language"
 translations:
   - translation_iso: ara
     name: ناتشيز
+  - translation_iso: fra
+    name: natchez
   - translation_iso: hin
     name: नैचेज़
     auto: true

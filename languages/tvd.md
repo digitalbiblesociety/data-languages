@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تسوفادي
     auto: true
+  - translation_iso: fra
+    name: tsuvadi
   - translation_iso: hin
     name: त्सुवादी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوليكها
     auto: true
+  - translation_iso: fra
+    name: olekha
   - translation_iso: hin
     name: ओलेखा
     auto: true

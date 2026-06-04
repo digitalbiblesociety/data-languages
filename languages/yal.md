@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يالونكا
     auto: true
+  - translation_iso: fra
+    name: jalonké
   - translation_iso: hin
     name: यालुंका
     auto: true

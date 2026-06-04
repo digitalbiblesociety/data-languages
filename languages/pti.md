@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بينديينى
     auto: true
+  - translation_iso: fra
+    name: pintiini
   - translation_iso: hin
     name: पिंडीनी
     auto: true

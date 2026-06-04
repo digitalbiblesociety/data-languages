@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا نابو المنخفضة
     auto: true
+  - translation_iso: fra
+    name: quechua de Napo
   - translation_iso: hin
     name: नापो तराई क्वेचुआ
     auto: true

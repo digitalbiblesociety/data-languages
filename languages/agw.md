@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاهوا
     auto: true
+  - translation_iso: fra
+    name: kahua
   - translation_iso: hin
     name: काहुआ
     auto: true

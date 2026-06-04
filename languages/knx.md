@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيندايان
     auto: true
+  - translation_iso: fra
+    name: kendayan
   - translation_iso: hin
     name: केन्दायन
     auto: true

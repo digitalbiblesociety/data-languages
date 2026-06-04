@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك ألوابام
     auto: true
+  - translation_iso: fra
+    name: "zapotèque d'Aloápam"
   - translation_iso: hin
     name: अलोआपम सैपोटेक
     auto: true

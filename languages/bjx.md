@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: بناو إيتنج
     auto: true
+  - translation_iso: fra
+    name: Banao Itneg
+    auto: true
   - translation_iso: hin
     name: बानाओ इत्नेग
     auto: true

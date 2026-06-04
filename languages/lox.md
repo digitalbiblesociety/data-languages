@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وون
     auto: true
+  - translation_iso: fra
+    name: loun
   - translation_iso: hin
     name: लोउन
     auto: true

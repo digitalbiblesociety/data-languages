@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توركانا
     auto: true
+  - translation_iso: fra
+    name: turkana
   - translation_iso: hin
     name: तुर्काना
     auto: true

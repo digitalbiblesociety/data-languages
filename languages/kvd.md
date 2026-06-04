@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوي (إندونيسيا)
     auto: true
+  - translation_iso: fra
+    name: kui
   - translation_iso: hin
     name: कुई (इंडोनेशिया)
     auto: true

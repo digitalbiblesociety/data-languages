@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة إنجليزية كريول البهاما
     auto: true
+  - translation_iso: fra
+    name: créole bahamien
   - translation_iso: hin
     name: बहामास क्रियोल अंग्रेज़ी
     auto: true

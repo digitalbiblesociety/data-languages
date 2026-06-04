@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Arabic"
 translations:
   - translation_iso: ara
     name: اللهجة الجزائرية
+  - translation_iso: fra
+    name: arabe algérien
   - translation_iso: hin
     name: अल्जीरियाई अरबी
     auto: true

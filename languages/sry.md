@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيرا
     auto: true
+  - translation_iso: fra
+    name: sera
   - translation_iso: hin
     name: सेरा
     auto: true

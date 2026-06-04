@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رونجوا
     auto: true
+  - translation_iso: fra
+    name: Rungwa
+    auto: true
   - translation_iso: hin
     name: रुंगवा
     auto: true

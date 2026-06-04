@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة امبويا
     auto: true
+  - translation_iso: fra
+    name: lamboya
   - translation_iso: hin
     name: लंबोया
     auto: true

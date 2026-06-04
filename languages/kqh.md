@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة كيسانكاسا
     auto: true
+  - translation_iso: fra
+    name: kisankasa
   - translation_iso: hin
     name: किसांकासा
     auto: true

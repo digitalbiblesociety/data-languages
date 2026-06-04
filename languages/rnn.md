@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: رون
     auto: true
+  - translation_iso: fra
+    name: Roon
+    auto: true
   - translation_iso: hin
     name: रून
     auto: true

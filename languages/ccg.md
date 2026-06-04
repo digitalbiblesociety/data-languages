@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: سامبا داكا
     auto: true
+  - translation_iso: fra
+    name: daka samba
   - translation_iso: hin
     name: सांबा डाका
     auto: true

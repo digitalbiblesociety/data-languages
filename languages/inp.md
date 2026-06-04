@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إينابري
     auto: true
+  - translation_iso: fra
+    name: iñapari
   - translation_iso: hin
     name: इन्यापारी
     auto: true

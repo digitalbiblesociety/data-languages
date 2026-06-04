@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أبوّا
     auto: true
+  - translation_iso: fra
+    name: abua
   - translation_iso: hin
     name: अबुआ
     auto: true

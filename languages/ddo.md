@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديدو
     auto: true
+  - translation_iso: fra
+    name: tsez
   - translation_iso: hin
     name: दीदो
     auto: true

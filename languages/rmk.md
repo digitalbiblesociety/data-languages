@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: رومكون
     auto: true
+  - translation_iso: fra
+    name: romkun
   - translation_iso: hin
     name: रोमकुन
     auto: true

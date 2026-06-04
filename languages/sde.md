@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سوروبو
     auto: true
+  - translation_iso: fra
+    name: surubu
   - translation_iso: hin
     name: सुरुबू
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ساراْنْجاني بلاان
     auto: true
+  - translation_iso: fra
+    name: Blaan de Sarangani
+    auto: true
   - translation_iso: hin
     name: सारंगानी ब्लान
     auto: true

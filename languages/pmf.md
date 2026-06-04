@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بامونا
     auto: true
+  - translation_iso: fra
+    name: Pamona
+    auto: true
   - translation_iso: hin
     name: पामोना
     auto: true

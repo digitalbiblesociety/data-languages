@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ميتوكو
     auto: true
+  - translation_iso: fra
+    name: mituku
   - translation_iso: hin
     name: मितुकु
     auto: true

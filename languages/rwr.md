@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مارواري
     auto: true
+  - translation_iso: fra
+    name: marvari
   - translation_iso: hin
     name: मारवाड़ी (भारत)
     auto: true

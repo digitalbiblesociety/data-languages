@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أمباي
     auto: true
+  - translation_iso: fra
+    name: ambai
   - translation_iso: hin
     name: अम्बाई
     auto: true

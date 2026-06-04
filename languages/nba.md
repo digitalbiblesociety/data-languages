@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نييمبا
     auto: true
+  - translation_iso: fra
+    name: nyemba
   - translation_iso: hin
     name: न्येम्बा
     auto: true

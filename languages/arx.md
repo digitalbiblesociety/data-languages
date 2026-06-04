@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أروا
     auto: true
+  - translation_iso: fra
+    name: arua
   - translation_iso: hin
     name: अरुआ (रोंडोनिया राज्य)
     auto: true

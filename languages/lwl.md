@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ياستيرن اوا
     auto: true
+  - translation_iso: fra
+    name: "lawa de l'Est"
   - translation_iso: hin
     name: पूर्वी लावा
     auto: true

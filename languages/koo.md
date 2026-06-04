@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كونزو
     auto: true
+  - translation_iso: fra
+    name: konjo
   - translation_iso: hin
     name: कोंज़ो
     auto: true

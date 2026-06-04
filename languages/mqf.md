@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة موموا
     auto: true
+  - translation_iso: fra
+    name: momuna
   - translation_iso: hin
     name: मोमुना
     auto: true

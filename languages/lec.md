@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة يكو
     auto: true
+  - translation_iso: fra
+    name: leko
   - translation_iso: hin
     name: लेको
     auto: true

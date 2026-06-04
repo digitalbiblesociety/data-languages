@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هآيآ
     auto: true
+  - translation_iso: fra
+    name: haya
   - translation_iso: hin
     name: हाया
     auto: true

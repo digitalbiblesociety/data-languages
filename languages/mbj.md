@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة نادباب
     auto: true
+  - translation_iso: fra
+    name: nadëb
   - translation_iso: hin
     name: नादेब
     auto: true

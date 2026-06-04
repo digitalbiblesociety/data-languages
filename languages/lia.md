@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة يست-ينترال يمبا
     auto: true
+  - translation_iso: fra
+    name: limba central-ouest
   - translation_iso: hin
     name: पश्चिम-मध्य लिंबा
     auto: true

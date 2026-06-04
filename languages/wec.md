@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: و ويستيرن
     auto: true
+  - translation_iso: fra
+    name: guéré occidental
   - translation_iso: hin
     name: वे पश्चिमी
     auto: true

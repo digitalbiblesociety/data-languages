@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: أديثينجيث
     auto: true
+  - translation_iso: fra
+    name: adithinngithigh
   - translation_iso: hin
     name: अदितिंगिथि
     auto: true

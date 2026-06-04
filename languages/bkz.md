@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بونجكو
     auto: true
+  - translation_iso: fra
+    name: bungku
   - translation_iso: hin
     name: बुंगकू
     auto: true

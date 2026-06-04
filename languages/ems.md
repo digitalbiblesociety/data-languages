@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اليوبيك خليج الهادئ
     auto: true
+  - translation_iso: fra
+    name: alutiiq
   - translation_iso: hin
     name: प्रशांत खाड़ी युपिक
     auto: true

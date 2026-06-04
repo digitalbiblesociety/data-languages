@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كويسي
     auto: true
+  - translation_iso: fra
+    name: kwese
   - translation_iso: hin
     name: क्वेसे
     auto: true

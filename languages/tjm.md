@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: تيموكوا
     auto: true
+  - translation_iso: fra
+    name: timucua
   - translation_iso: hin
     name: तिमुकुआ
     auto: true

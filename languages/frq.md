@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الفوراك
     auto: true
+  - translation_iso: fra
+    name: forak
   - translation_iso: hin
     name: फोराक
     auto: true

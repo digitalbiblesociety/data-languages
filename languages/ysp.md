@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة لولوبو الجنوبية
     auto: true
+  - translation_iso: fra
+    name: lolopo du Sud
   - translation_iso: hin
     name: दक्षिणी लोलोपो
     auto: true

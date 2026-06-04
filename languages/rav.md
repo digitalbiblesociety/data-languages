@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سامبانج
     auto: true
+  - translation_iso: fra
+    name: sampang
   - translation_iso: hin
     name: सामपांग
     auto: true

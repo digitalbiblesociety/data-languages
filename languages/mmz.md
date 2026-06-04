@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة مابالي
     auto: true
+  - translation_iso: fra
+    name: mabale
   - translation_iso: hin
     name: माबाले
     auto: true

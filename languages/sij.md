@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة النومبامي
     auto: true
+  - translation_iso: fra
+    name: numbani
   - translation_iso: hin
     name: नुम्बामी
     auto: true

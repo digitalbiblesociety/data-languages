@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بيسوريو
     auto: true
+  - translation_iso: fra
+    name: bisorio
   - translation_iso: hin
     name: बिसोरियो
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة زيالو
     auto: true
+  - translation_iso: fra
+    name: zialo
   - translation_iso: hin
     name: ज़ियालो
     auto: true

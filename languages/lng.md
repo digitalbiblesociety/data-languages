@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lombardic_language"
 translations:
   - translation_iso: ara
     name: اللغة اللومباردية/اللانغوباردية
+  - translation_iso: fra
+    name: lombard
   - translation_iso: hin
     name: लोम्बार्डिक
     auto: true

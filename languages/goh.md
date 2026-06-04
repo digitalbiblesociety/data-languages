@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_High_German"
 translations:
   - translation_iso: ara
     name: لغة ألمانية عليا قديمة
+  - translation_iso: fra
+    name: vieux haut-allemand
   - translation_iso: hin
     name: पुरातन हाइ जर्मन
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بروكسكات
     auto: true
+  - translation_iso: fra
+    name: brokskat
   - translation_iso: hin
     name: ब्रोकस्कत भाषा
   - translation_iso: jpn

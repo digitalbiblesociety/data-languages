@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة غيريرو أموزغو
     auto: true
+  - translation_iso: fra
+    name: amuzgo du Guerrero
   - translation_iso: hin
     name: गेरेरो आमुस्गो
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ديجينان
     auto: true
+  - translation_iso: fra
+    name: degenan
   - translation_iso: hin
     name: देगेनान
     auto: true

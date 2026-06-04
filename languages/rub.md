@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جونجو
     auto: true
+  - translation_iso: fra
+    name: gungu
   - translation_iso: hin
     name: गुंगु
     auto: true

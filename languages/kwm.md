@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كوامبي
     auto: true
+  - translation_iso: fra
+    name: Kwambi
+    auto: true
   - translation_iso: hin
     name: क्वाम्बी
     auto: true

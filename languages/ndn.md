@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجوندي
     auto: true
+  - translation_iso: fra
+    name: Ngundi
+    auto: true
   - translation_iso: hin
     name: न्गुंडी
     auto: true

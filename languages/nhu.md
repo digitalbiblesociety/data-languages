@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نوني
     auto: true
+  - translation_iso: fra
+    name: noone
   - translation_iso: hin
     name: नूने
     auto: true

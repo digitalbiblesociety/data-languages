@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Awadhi_language"
 translations:
   - translation_iso: ara
     name: الأودية
+  - translation_iso: fra
+    name: awadhi
   - translation_iso: hin
     name: अवधी
   - translation_iso: jpn

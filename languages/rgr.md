@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ريسيجارو
     auto: true
+  - translation_iso: fra
+    name: resigaro
   - translation_iso: hin
     name: रेसिगारो
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مالاييك داياك
     auto: true
+  - translation_iso: fra
+    name: Dayak malais
+    auto: true
   - translation_iso: hin
     name: मलयिक दायक
     auto: true

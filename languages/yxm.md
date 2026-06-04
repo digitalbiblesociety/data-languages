@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة يينووم
     auto: true
+  - translation_iso: fra
+    name: Yinwum
+    auto: true
   - translation_iso: hin
     name: यिनवुम
     auto: true

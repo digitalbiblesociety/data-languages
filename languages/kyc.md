@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: كياكا
     auto: true
+  - translation_iso: fra
+    name: Kyaka
+    auto: true
   - translation_iso: hin
     name: क्याका
     auto: true

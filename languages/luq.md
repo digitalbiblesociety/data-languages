@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وكومي
     auto: true
+  - translation_iso: fra
+    name: lucumí
   - translation_iso: hin
     name: लुकुमी
     auto: true

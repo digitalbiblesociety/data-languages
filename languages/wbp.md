@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Warlpiri_language"
 translations:
   - translation_iso: ara
     name: وارلبيري
+  - translation_iso: fra
+    name: warlpiri
   - translation_iso: hin
     name: वॉल्पेरी
   - translation_iso: jpn

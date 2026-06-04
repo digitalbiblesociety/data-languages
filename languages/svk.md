@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة السلوفاكية
     auto: true
+  - translation_iso: fra
+    name: langue des signes slovaque
   - translation_iso: hin
     name: स्लोवाक सांकेतिक भाषा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الكريول الإنجليزية الغيانية
     auto: true
+  - translation_iso: fra
+    name: créole guyanien
   - translation_iso: hin
     name: गयानी क्रेओल
   - translation_iso: jpn

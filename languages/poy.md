@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بوجولو
     auto: true
+  - translation_iso: fra
+    name: Pogolo
+    auto: true
   - translation_iso: hin
     name: पोगोलो
     auto: true

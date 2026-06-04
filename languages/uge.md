@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوجيلي
     auto: true
+  - translation_iso: fra
+    name: ughele
   - translation_iso: hin
     name: उघेले
     auto: true

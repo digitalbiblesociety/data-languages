@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: تاكيلما
     auto: true
+  - translation_iso: fra
+    name: takelma
   - translation_iso: hin
     name: ताकेल्मा
     auto: true

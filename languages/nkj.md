@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناكاي
     auto: true
+  - translation_iso: fra
+    name: nakai
   - translation_iso: hin
     name: नकाई
     auto: true

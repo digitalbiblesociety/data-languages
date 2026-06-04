@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نكانغالا
     auto: true
+  - translation_iso: fra
+    name: nkangala
   - translation_iso: hin
     name: नकांगाला
     auto: true

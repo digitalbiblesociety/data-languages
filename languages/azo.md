@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوينج
     auto: true
+  - translation_iso: fra
+    name: awing
   - translation_iso: hin
     name: अविंग
     auto: true

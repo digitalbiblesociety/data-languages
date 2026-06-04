@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفايول
     auto: true
+  - translation_iso: fra
+    name: faiwol
   - translation_iso: hin
     name: फाइवोल
     auto: true

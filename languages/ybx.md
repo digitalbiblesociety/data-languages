@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ياويو
     auto: true
+  - translation_iso: fra
+    name: yawiyo
   - translation_iso: hin
     name: यावियो
     auto: true

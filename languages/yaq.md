@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ياكي
     auto: true
+  - translation_iso: fra
+    name: yaqui
   - translation_iso: hin
     name: याकी
     auto: true

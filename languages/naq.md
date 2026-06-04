@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Khoekhoe_language"
 translations:
   - translation_iso: ara
     name: لغة ناما
+  - translation_iso: fra
+    name: khoekhoe
   - translation_iso: hin
     name: खोईखोई भाषा
   - translation_iso: jpn

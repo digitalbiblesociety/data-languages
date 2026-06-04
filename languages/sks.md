@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة مايا
     auto: true
+  - translation_iso: fra
+    name: Maia
+    auto: true
   - translation_iso: hin
     name: माइया
     auto: true

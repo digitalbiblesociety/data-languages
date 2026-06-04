@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتولي
     auto: true
+  - translation_iso: fra
+    name: totoli
   - translation_iso: hin
     name: तोतोली
     auto: true

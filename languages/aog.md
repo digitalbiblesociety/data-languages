@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أنغورام
     auto: true
+  - translation_iso: fra
+    name: angoram
   - translation_iso: hin
     name: अंगोरम
     auto: true

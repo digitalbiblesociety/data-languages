@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بيتسيميسارaka الشمالية ملاجاشي
     auto: true
+  - translation_iso: fra
+    name: malgache betsimisaraka du Nord
   - translation_iso: hin
     name: उत्तरी बेत्सिमिसारका मलागासी
     auto: true

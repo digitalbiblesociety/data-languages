@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانكان تاي دوجون
     auto: true
+  - translation_iso: fra
+    name: bankan tey
   - translation_iso: hin
     name: बंकन तेय दोगोन
     auto: true

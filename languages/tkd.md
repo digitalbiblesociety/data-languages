@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توكوديدي
     auto: true
+  - translation_iso: fra
+    name: Tukudede
+    auto: true
   - translation_iso: hin
     name: तुकुदेदे
     auto: true

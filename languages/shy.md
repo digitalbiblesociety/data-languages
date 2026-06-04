@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Shawiya_language"
 translations:
   - translation_iso: ara
     name: الشاوية
+  - translation_iso: fra
+    name: chaoui
   - translation_iso: hin
     name: ताशावित
     auto: true

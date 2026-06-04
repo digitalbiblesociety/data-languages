@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: دانغاورا ثارو
     auto: true
+  - translation_iso: fra
+    name: tharu dangaura
   - translation_iso: hin
     name: दंगौरा थारू
     auto: true

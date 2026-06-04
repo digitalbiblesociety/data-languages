@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الآري
     auto: true
+  - translation_iso: fra
+    name: ari
   - translation_iso: hin
     name: आरी
     auto: true

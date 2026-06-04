@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة همونج داو
     auto: true
+  - translation_iso: fra
+    name: hmong daw
   - translation_iso: hin
     name: ह्मोंग दाव
     auto: true

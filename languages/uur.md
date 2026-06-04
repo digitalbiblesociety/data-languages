@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أورا
     auto: true
+  - translation_iso: fra
+    name: ura
   - translation_iso: hin
     name: उरा (वानुअतु)
     auto: true

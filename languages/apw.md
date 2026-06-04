@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أباتشي الغربية
     auto: true
+  - translation_iso: fra
+    name: apache de l’Ouest
   - translation_iso: hin
     name: पश्चिमी अपाचे
     auto: true

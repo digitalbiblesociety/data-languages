@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة لوبيلا
     auto: true
+  - translation_iso: fra
+    name: Lubila
+    auto: true
   - translation_iso: hin
     name: लुबिला
     auto: true

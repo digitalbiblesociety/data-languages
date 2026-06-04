@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الخومي الشرقية تشين
     auto: true
+  - translation_iso: fra
+    name: Chin Khumi oriental
+    auto: true
   - translation_iso: hin
     name: पूर्वी खुमी चिन
     auto: true

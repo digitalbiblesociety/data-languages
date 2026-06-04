@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة تيسي
     auto: true
+  - translation_iso: fra
+    name: Tese
+    auto: true
   - translation_iso: hin
     name: तेसे
     auto: true

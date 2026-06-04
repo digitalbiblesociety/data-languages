@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كومبان
     auto: true
+  - translation_iso: fra
+    name: kompane
   - translation_iso: hin
     name: कोम्पाने
     auto: true

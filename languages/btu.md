@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: باتو
     auto: true
+  - translation_iso: fra
+    name: batu
   - translation_iso: hin
     name: बातू
     auto: true

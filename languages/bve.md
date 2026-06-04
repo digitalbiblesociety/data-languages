@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيراو مالاي
     auto: true
+  - translation_iso: fra
+    name: Malais de Berau
+    auto: true
   - translation_iso: hin
     name: बेराउ मलय
     auto: true

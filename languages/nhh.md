@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناهاري
     auto: true
+  - translation_iso: fra
+    name: nahari
   - translation_iso: hin
     name: नाहारी
   - translation_iso: jpn

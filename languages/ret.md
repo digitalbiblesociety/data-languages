@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ريتا
     auto: true
+  - translation_iso: fra
+    name: retta
   - translation_iso: hin
     name: रेत्ता
     auto: true

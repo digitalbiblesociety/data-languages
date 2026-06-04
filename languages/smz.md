@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة السيمكو
     auto: true
+  - translation_iso: fra
+    name: Simeku
+    auto: true
   - translation_iso: hin
     name: सिमेकु
     auto: true

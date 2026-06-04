@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: مينيك
     auto: true
+  - translation_iso: fra
+    name: bédik
   - translation_iso: hin
     name: मेनिक
     auto: true

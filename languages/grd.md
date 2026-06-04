@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غورونتوم-مبآآرو
     auto: true
+  - translation_iso: fra
+    name: guruntum
   - translation_iso: hin
     name: गुरुन्तुम-म्बारू
     auto: true

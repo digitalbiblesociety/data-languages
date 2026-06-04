@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الياسي
     auto: true
+  - translation_iso: fra
+    name: yace
   - translation_iso: hin
     name: यासे
     auto: true

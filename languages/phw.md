@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: اللغة فانغدووالي
     auto: true
+  - translation_iso: fra
+    name: phangduwali
   - translation_iso: hin
     name: फंगडुवाली
     auto: true

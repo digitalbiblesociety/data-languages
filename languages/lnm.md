@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة انجام
     auto: true
+  - translation_iso: fra
+    name: langam
   - translation_iso: hin
     name: लंगम
     auto: true

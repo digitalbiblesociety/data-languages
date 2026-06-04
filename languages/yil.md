@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ييندجيلاندجي
     auto: true
+  - translation_iso: fra
+    name: yindjilandji
   - translation_iso: hin
     name: यिन्जिलान्जी
     auto: true

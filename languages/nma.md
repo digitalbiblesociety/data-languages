@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مارام ناغا
     auto: true
+  - translation_iso: fra
+    name: maram naga
   - translation_iso: hin
     name: मरम भाषा
   - translation_iso: jpn

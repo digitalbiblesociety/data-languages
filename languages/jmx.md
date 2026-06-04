@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك خوكسلاهواكا الغربية
     auto: true
+  - translation_iso: fra
+    name: "mixtèque de Juxtlahuaca de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी हुक्सत्लाहुआका मिक्सटेक
     auto: true

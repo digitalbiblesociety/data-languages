@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يامدينا
     auto: true
+  - translation_iso: fra
+    name: yamdena
   - translation_iso: hin
     name: यामदेना
     auto: true

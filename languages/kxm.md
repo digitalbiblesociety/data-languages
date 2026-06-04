@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: خمير الشمالية
     auto: true
+  - translation_iso: fra
+    name: khmer du Nord
   - translation_iso: hin
     name: उत्तरी ख्मेर
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توجن
     auto: true
+  - translation_iso: fra
+    name: tuken
   - translation_iso: hin
     name: तुगेन
     auto: true

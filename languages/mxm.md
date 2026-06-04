@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ميراميرا
     auto: true
+  - translation_iso: fra
+    name: meramera
   - translation_iso: hin
     name: मेरामेरा
     auto: true

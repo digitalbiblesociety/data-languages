@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: نجإن
     auto: true
+  - translation_iso: fra
+    name: ngen
   - translation_iso: hin
     name: न्गेन
     auto: true

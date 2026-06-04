@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة السامبيريجية
     auto: true
+  - translation_iso: fra
+    name: Samberigi
+    auto: true
   - translation_iso: hin
     name: सामबेरिगी
     auto: true

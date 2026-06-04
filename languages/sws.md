@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سيلوواسان
     auto: true
+  - translation_iso: fra
+    name: seluwasan
   - translation_iso: hin
     name: सेलुवासान
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميريووج
     auto: true
+  - translation_iso: fra
+    name: miriwoong
   - translation_iso: hin
     name: मिरिवूंग
     auto: true

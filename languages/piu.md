@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بينتوبي-لوريتجا
     auto: true
+  - translation_iso: fra
+    name: pintupi
   - translation_iso: hin
     name: पिंतुपी-लुरित्जा
     auto: true

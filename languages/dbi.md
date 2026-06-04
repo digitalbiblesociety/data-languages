@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دوكا
     auto: true
+  - translation_iso: fra
+    name: doka
   - translation_iso: hin
     name: दोका
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماتيبوهي
     auto: true
+  - translation_iso: fra
+    name: matipuhy
   - translation_iso: hin
     name: मातिपुही
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيريك
     auto: true
+  - translation_iso: fra
+    name: terik
   - translation_iso: hin
     name: तेरिक
     auto: true

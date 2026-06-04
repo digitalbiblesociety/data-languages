@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الأوزبكية الشمالية
     auto: true
+  - translation_iso: fra
+    name: ouzbek du Nord
   - translation_iso: hin
     name: उत्तरी उज़्बेक
     auto: true

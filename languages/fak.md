@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفانج
     auto: true
+  - translation_iso: fra
+    name: fang
   - translation_iso: hin
     name: फांग (कैमरून)
     auto: true

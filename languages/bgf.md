@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانجاندو
     auto: true
+  - translation_iso: fra
+    name: bangandu
   - translation_iso: hin
     name: बंगांडु
     auto: true

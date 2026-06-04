@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Plains_Cree_language"
 translations:
   - translation_iso: ara
     name: لغة بلينز كري
+  - translation_iso: fra
+    name: cri des plaines
   - translation_iso: hin
     name: प्लेंज़ क्री
   - translation_iso: jpn

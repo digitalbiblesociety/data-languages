@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مالكو خايكا
     auto: true
+  - translation_iso: fra
+    name: maleku
   - translation_iso: hin
     name: मालेकू हाइका
     auto: true

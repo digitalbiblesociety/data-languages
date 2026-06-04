@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أمغانداد إيفوغاو
     auto: true
+  - translation_iso: fra
+    name: "Ifugao d'Amganad"
+    auto: true
   - translation_iso: hin
     name: अमगानाद इफुगाओ
     auto: true

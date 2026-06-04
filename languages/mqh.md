@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك تلازويالتبيك
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Tlazoyaltepec
   - translation_iso: hin
     name: त्लाज़ोयाल्तेपेक मिश्तेक
     auto: true

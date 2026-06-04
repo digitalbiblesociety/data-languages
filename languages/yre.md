@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة ياوري
     auto: true
+  - translation_iso: fra
+    name: yaouré
   - translation_iso: hin
     name: याउरे
     auto: true

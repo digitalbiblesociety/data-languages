@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دوسنر
     auto: true
+  - translation_iso: fra
+    name: dusner
   - translation_iso: hin
     name: डुस्नर
     auto: true

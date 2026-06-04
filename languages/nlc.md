@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نالكا
     auto: true
+  - translation_iso: fra
+    name: nalca
   - translation_iso: hin
     name: नाल्का
     auto: true

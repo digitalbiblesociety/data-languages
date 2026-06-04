@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: شيبايا
     auto: true
+  - translation_iso: fra
+    name: xipaya
   - translation_iso: hin
     name: शिपाया
     auto: true

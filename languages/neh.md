@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نينكها
     auto: true
+  - translation_iso: fra
+    name: nyenkha
   - translation_iso: hin
     name: न्येंखा
     auto: true

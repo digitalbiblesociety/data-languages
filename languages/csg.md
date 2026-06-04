@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة التشيلية
     auto: true
+  - translation_iso: fra
+    name: langue des signes chilienne
   - translation_iso: hin
     name: चिली सांकेतिक भाषा
     auto: true

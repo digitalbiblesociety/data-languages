@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ووليو
     auto: true
+  - translation_iso: fra
+    name: wolio
   - translation_iso: hin
     name: वोलियो
     auto: true

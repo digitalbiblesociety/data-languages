@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإرسو
     auto: true
+  - translation_iso: fra
+    name: ersu
   - translation_iso: hin
     name: एरसु
     auto: true

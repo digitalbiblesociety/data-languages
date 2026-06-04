@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة زيماكاني
     auto: true
+  - translation_iso: fra
+    name: Zimakani
+    auto: true
   - translation_iso: hin
     name: ज़िमाकानी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة إيه-بوتشيكوار
     auto: true
+  - translation_iso: fra
+    name: pucikwar
   - translation_iso: hin
     name: ओपूचीक्वार भाषा
   - translation_iso: jpn

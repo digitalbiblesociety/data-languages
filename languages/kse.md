@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كوني
     auto: true
+  - translation_iso: fra
+    name: Kuni
+    auto: true
   - translation_iso: hin
     name: कुनी
     auto: true

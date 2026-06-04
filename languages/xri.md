@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: كريكاتي-تيمبيرا
     auto: true
+  - translation_iso: fra
+    name: krinkati
   - translation_iso: hin
     name: क्रिकाटी-टिम्बिरा
     auto: true

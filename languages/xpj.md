@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: مبالتجان
     auto: true
+  - translation_iso: fra
+    name: mpalitjanh
   - translation_iso: hin
     name: म्पालिटजान्ह
     auto: true

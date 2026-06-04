@@ -14,6 +14,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Algerian_Jewish_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة غرداية للإشارة
+  - translation_iso: fra
+    name: langue des signes juive algérienne
   - translation_iso: hin
     name: अल्जीरियाई यहूदी सांकेतिक भाषा
   - translation_iso: jpn

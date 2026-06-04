@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اليخي
     auto: true
+  - translation_iso: fra
+    name: etsako
   - translation_iso: hin
     name: येखी
     auto: true

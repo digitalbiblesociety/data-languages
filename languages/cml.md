@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكامبالاغيان
     auto: true
+  - translation_iso: fra
+    name: campalagien
   - translation_iso: hin
     name: कम्पालागियन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوهو
     auto: true
+  - translation_iso: fra
+    name: luhu
   - translation_iso: hin
     name: लुहू
     auto: true

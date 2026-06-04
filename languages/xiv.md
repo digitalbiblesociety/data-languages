@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة وادي السند
     auto: true
+  - translation_iso: fra
+    name: harappéen
   - translation_iso: hin
     name: सिंधु घाटी भाषा
     auto: true

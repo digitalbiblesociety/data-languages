@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة جيمي
     auto: true
+  - translation_iso: fra
+    name: gimme
   - translation_iso: hin
     name: गिम्मे
     auto: true

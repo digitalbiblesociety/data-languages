@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بينوكيد
     auto: true
+  - translation_iso: fra
+    name: Binukid
+    auto: true
   - translation_iso: hin
     name: बिनुकिड
     auto: true

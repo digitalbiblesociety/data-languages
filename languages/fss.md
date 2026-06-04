@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة Finland-Swedish
     auto: true
+  - translation_iso: fra
+    name: langue des signes finno-suédoise
   - translation_iso: hin
     name: फिनलैंड-स्वेडिश सांकेतिक भाषा
   - translation_iso: jpn

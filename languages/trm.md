@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تريغامي
     auto: true
+  - translation_iso: fra
+    name: tregami
   - translation_iso: hin
     name: त्रेगामी भाषा
   - translation_iso: jpn

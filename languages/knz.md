@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كالامسيه
     auto: true
+  - translation_iso: fra
+    name: kalamsé
   - translation_iso: hin
     name: कलामसे
     auto: true

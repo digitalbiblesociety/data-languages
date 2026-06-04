@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشامبيالي
     auto: true
+  - translation_iso: fra
+    name: chambeali
   - translation_iso: hin
     name: चम्बयाली
   - translation_iso: jpn

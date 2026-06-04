@@ -10,6 +10,9 @@ translations:
   - translation_iso: ara
     name: لغة يان-نهانغو الإشارة
     auto: true
+  - translation_iso: fra
+    name: Langue des signes yan-nhaŋu
+    auto: true
   - translation_iso: hin
     name: यान-नहाङु सांकेतिक भाषा
     auto: true

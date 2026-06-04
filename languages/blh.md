@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كواا
     auto: true
+  - translation_iso: fra
+    name: kuwaa
   - translation_iso: hin
     name: कुवा
     auto: true

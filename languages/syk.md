@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سوكور
     auto: true
+  - translation_iso: fra
+    name: Sukur
+    auto: true
   - translation_iso: hin
     name: सुकुर
     auto: true

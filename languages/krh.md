@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كورامة
     auto: true
+  - translation_iso: fra
+    name: kurama
   - translation_iso: hin
     name: कुरामा
     auto: true

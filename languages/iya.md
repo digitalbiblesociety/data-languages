@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة إياي
     auto: true
+  - translation_iso: fra
+    name: Iyayu
+    auto: true
   - translation_iso: hin
     name: इयायु
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: فالي الجنوبية
     auto: true
+  - translation_iso: fra
+    name: Fali méridional
+    auto: true
   - translation_iso: hin
     name: दक्षिणी फाली
     auto: true

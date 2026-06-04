@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة يولنغو الإشارة
     auto: true
+  - translation_iso: fra
+    name: Langue des signes yolŋu
+    auto: true
   - translation_iso: hin
     name: योलङु सांकेतिक भाषा
     auto: true

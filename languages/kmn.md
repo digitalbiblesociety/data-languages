@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أوتووو
     auto: true
+  - translation_iso: fra
+    name: awtuw
   - translation_iso: hin
     name: आवतुव
     auto: true

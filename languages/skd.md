@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة جنوب سييرا ميووك
     auto: true
+  - translation_iso: fra
+    name: miwok de la Sierra du Sud
   - translation_iso: hin
     name: दक्षिणी सिएरा मिवोक
     auto: true

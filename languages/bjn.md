@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Banjarese_language"
 translations:
   - translation_iso: ara
     name: البنجرية
+  - translation_iso: fra
+    name: banjar
   - translation_iso: hin
     name: बंजार
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيكْيا
     auto: true
+  - translation_iso: fra
+    name: bikya
   - translation_iso: hin
     name: बिक्या
     auto: true

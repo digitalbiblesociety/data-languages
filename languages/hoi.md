@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هوليكاتشوك
     auto: true
+  - translation_iso: fra
+    name: holikachuk
   - translation_iso: hin
     name: होलिकाचुक
     auto: true

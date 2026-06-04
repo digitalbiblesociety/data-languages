@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيتا سورسوجون
     auto: true
+  - translation_iso: fra
+    name: ayta du Sorsogon
   - translation_iso: hin
     name: सोरसोगोन आयता
     auto: true

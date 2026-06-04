@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيوريو
     auto: true
+  - translation_iso: fra
+    name: ayoreo
   - translation_iso: hin
     name: अयोरेओ
     auto: true

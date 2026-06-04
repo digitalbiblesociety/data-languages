@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إينيسينو
     auto: true
+  - translation_iso: fra
+    name: chumash ineseño
   - translation_iso: hin
     name: इनेसेन्यो
     auto: true

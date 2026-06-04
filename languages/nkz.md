@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نكاري
     auto: true
+  - translation_iso: fra
+    name: nkari
   - translation_iso: hin
     name: नकारी
     auto: true

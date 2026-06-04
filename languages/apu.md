@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أبورينيا
     auto: true
+  - translation_iso: fra
+    name: apurinã
   - translation_iso: hin
     name: अपुरिना
     auto: true

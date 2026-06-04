@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fijian_language"
 translations:
   - translation_iso: ara
     name: الفيجية
+  - translation_iso: fra
+    name: fidjien
   - translation_iso: hin
     name: फ़िजीयाई भाषा
   - translation_iso: jpn

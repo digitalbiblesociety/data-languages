@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Walser_German"
 translations:
   - translation_iso: ara
     name: الوالسر
+  - translation_iso: fra
+    name: haut-valaisan
   - translation_iso: hin
     name: वाल्सर
   - translation_iso: jpn

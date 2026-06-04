@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة أندّاقوي
     auto: true
+  - translation_iso: fra
+    name: andaquí
   - translation_iso: hin
     name: अंदाकी
     auto: true

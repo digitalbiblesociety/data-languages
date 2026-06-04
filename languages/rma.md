@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rama_language"
 translations:
   - translation_iso: ara
     name: الراما
+  - translation_iso: fra
+    name: rama
   - translation_iso: hin
     name: रामा
     auto: true

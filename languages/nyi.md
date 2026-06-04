@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أما (السودان)
     auto: true
+  - translation_iso: fra
+    name: ama
   - translation_iso: hin
     name: अमा (सूडान)
     auto: true

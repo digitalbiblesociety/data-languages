@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: هويآهويآ
     auto: true
+  - translation_iso: fra
+    name: Hoyahoya
+    auto: true
   - translation_iso: hin
     name: होयाहोया
     auto: true

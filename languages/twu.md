@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيرمانو
     auto: true
+  - translation_iso: fra
+    name: termanu
   - translation_iso: hin
     name: तेर्मानू
     auto: true

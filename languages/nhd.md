@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشيريبا
     auto: true
+  - translation_iso: fra
+    name: ava-guarani
   - translation_iso: hin
     name: चिरिपा
     auto: true

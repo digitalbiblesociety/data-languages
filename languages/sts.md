@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة شوماشتي
     auto: true
+  - translation_iso: fra
+    name: shumashti
   - translation_iso: hin
     name: शुमश्ती भाषा
   - translation_iso: jpn

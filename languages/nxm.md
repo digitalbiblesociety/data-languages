@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Numidian_language"
 translations:
   - translation_iso: ara
     name: اللغة النوميدية
+  - translation_iso: fra
+    name: libyque
   - translation_iso: hin
     name: नुमिडियन
     auto: true

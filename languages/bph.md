@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوتليخ
     auto: true
+  - translation_iso: fra
+    name: botlikh
   - translation_iso: hin
     name: बोतलिख
     auto: true

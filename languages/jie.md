@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جيلبي
     auto: true
+  - translation_iso: fra
+    name: jilbe
   - translation_iso: hin
     name: जिलबे
     auto: true

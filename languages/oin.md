@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة إينيبو وان
     auto: true
+  - translation_iso: fra
+    name: one inebu
   - translation_iso: hin
     name: इनेबु वन
     auto: true

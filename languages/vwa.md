@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: آوا
     auto: true
+  - translation_iso: fra
+    name: awa
   - translation_iso: hin
     name: आवा (चीन)
     auto: true

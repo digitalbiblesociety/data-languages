@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الهندية
     auto: true
+  - translation_iso: fra
+    name: langue des signes indienne
   - translation_iso: hin
     name: भारतीय सांकेतिक भाषा
   - translation_iso: jpn

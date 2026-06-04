@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشيكوموسيلتك
     auto: true
+  - translation_iso: fra
+    name: chicomuceltec
   - translation_iso: hin
     name: चिकोमुसेल्टेक
     auto: true

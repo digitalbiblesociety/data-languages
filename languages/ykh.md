@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: اللغة خامنيجان مونغول
     auto: true
+  - translation_iso: fra
+    name: khamnigan
   - translation_iso: hin
     name: खामनिगन मंगोल
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ميـاو شيانغشي الغربية
     auto: true
+  - translation_iso: fra
+    name: miao du Xiangxi occidental
   - translation_iso: hin
     name: पश्चिमी श्यांगशी मियाओ
     auto: true

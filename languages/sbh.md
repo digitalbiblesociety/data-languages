@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سوري هارينجان
     auto: true
+  - translation_iso: fra
+    name: sori-harengan
   - translation_iso: hin
     name: सोरी-हारेंगान
     auto: true

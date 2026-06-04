@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة مريدجابين
     auto: true
+  - translation_iso: fra
+    name: maridjabin
   - translation_iso: hin
     name: मरीजबिन
     auto: true

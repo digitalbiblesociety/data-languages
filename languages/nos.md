@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نيسو الشرقية
     auto: true
+  - translation_iso: fra
+    name: Nisu oriental
+    auto: true
   - translation_iso: hin
     name: पूर्वी निसू
     auto: true

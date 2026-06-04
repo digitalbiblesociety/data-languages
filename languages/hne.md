@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chhattisgarhi_language"
 translations:
   - translation_iso: ara
     name: تشهاتيسجارية
+  - translation_iso: fra
+    name: chhattisgarhi
   - translation_iso: hin
     name: छत्तीसगढ़ी
   - translation_iso: jpn

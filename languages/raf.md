@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ويسترن ميهانج
     auto: true
+  - translation_iso: fra
+    name: "meohang de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी मेओहांग
     auto: true

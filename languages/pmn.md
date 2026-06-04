@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة بام
     auto: true
+  - translation_iso: fra
+    name: pam
   - translation_iso: hin
     name: पाम
     auto: true

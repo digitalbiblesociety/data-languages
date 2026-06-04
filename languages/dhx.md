@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: دونجالو
     auto: true
+  - translation_iso: fra
+    name: dhungaloo
   - translation_iso: hin
     name: धुंगालू
     auto: true

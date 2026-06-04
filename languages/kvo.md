@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوبل
     auto: true
+  - translation_iso: fra
+    name: dobel
   - translation_iso: hin
     name: दोबेल
     auto: true

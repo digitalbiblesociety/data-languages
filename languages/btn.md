@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: راتاجْنون
     auto: true
+  - translation_iso: fra
+    name: ratagnon
   - translation_iso: hin
     name: रातान्योन
     auto: true

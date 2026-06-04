@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بارا ملاجاشي
     auto: true
+  - translation_iso: fra
+    name: malgache bara
   - translation_iso: hin
     name: बारा मालागासी
     auto: true

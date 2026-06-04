@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بولاري
     auto: true
+  - translation_iso: fra
+    name: polari
   - translation_iso: hin
     name: पोलारी
     auto: true

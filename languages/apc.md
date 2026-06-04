@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Levantine_Arabic"
 translations:
   - translation_iso: ara
     name: العربية الشامية
+  - translation_iso: fra
+    name: arabe levantin
   - translation_iso: hin
     name: लेवेंटाइन अरबी
   - translation_iso: jpn

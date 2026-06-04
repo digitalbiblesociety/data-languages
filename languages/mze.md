@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: موراوا
     auto: true
+  - translation_iso: fra
+    name: morawa
   - translation_iso: hin
     name: मोरावा
     auto: true

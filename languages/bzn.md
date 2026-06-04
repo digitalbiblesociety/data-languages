@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوانو
     auto: true
+  - translation_iso: fra
+    name: boano
   - translation_iso: hin
     name: बोआनो (मालुकु)
     auto: true

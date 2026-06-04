@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توراكا
     auto: true
+  - translation_iso: fra
+    name: turaka
   - translation_iso: hin
     name: तुराका
     auto: true

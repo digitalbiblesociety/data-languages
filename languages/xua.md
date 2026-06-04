@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ألو كوروما
     auto: true
+  - translation_iso: fra
+    name: kurumba alu
   - translation_iso: hin
     name: आलू कुरुम्बा
     auto: true

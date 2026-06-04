@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة ماتشيجينجا
     auto: true
+  - translation_iso: fra
+    name: Machiguenga
+    auto: true
   - translation_iso: hin
     name: माचिगेंगा
     auto: true

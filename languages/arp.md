@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Arapaho_language"
 translations:
   - translation_iso: ara
     name: أرباهو
+  - translation_iso: fra
+    name: arapaho
   - translation_iso: hin
     name: अरापाहो
   - translation_iso: jpn

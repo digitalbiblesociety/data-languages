@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: إيكاي تشين
     auto: true
+  - translation_iso: fra
+    name: ekai
   - translation_iso: hin
     name: एकाई चिन
     auto: true

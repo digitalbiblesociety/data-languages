@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مادا النيجيرية
     auto: true
+  - translation_iso: fra
+    name: mada
   - translation_iso: hin
     name: मादा
     auto: true

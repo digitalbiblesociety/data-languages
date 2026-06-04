@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Ho-Chunk_language"
 translations:
   - translation_iso: ara
     name: وينيباكو
+  - translation_iso: fra
+    name: winnebago
   - translation_iso: hin
     name: हो-चंक
     auto: true

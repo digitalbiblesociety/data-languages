@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة موجي الشمالية
     auto: true
+  - translation_iso: fra
+    name: muji du Nord
   - translation_iso: hin
     name: उत्तरी मूजी
     auto: true

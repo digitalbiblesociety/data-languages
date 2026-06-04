@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: رابويسي
     auto: true
+  - translation_iso: fra
+    name: Rapoisi
+    auto: true
   - translation_iso: hin
     name: रापोइसी
     auto: true

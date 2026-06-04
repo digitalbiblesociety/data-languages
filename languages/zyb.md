@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشوانغ يونغبي
     auto: true
+  - translation_iso: fra
+    name: zhuang de Yongbei
   - translation_iso: hin
     name: योंगबेई ज़ुआंग
     auto: true

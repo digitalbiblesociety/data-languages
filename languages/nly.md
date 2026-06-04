@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نييامال
     auto: true
+  - translation_iso: fra
+    name: nyamal
   - translation_iso: hin
     name: न्यामल
     auto: true

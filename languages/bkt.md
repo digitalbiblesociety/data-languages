@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بولوكي
     auto: true
+  - translation_iso: fra
+    name: boloki
   - translation_iso: hin
     name: बोलोकी
     auto: true

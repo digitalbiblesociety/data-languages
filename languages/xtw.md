@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تاواندي
     auto: true
+  - translation_iso: fra
+    name: tawandê
   - translation_iso: hin
     name: तावांदे
     auto: true

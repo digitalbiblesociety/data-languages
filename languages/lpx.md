@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وپيت
     auto: true
+  - translation_iso: fra
+    name: lopit
   - translation_iso: hin
     name: लोपित
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإمومو
     auto: true
+  - translation_iso: fra
+    name: emumu
   - translation_iso: hin
     name: एमुमु
     auto: true

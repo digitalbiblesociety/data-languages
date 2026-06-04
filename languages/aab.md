@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الألوموتسو
     auto: true
+  - translation_iso: fra
+    name: alumu
   - translation_iso: hin
     name: अलुमू-तेसू
     auto: true

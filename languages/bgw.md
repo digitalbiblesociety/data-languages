@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بهاتري
     auto: true
+  - translation_iso: fra
+    name: bhatri
   - translation_iso: hin
     name: भातरी भाषा
   - translation_iso: jpn

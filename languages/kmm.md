@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوم
     auto: true
+  - translation_iso: fra
+    name: kom
   - translation_iso: hin
     name: कोम भाषा
   - translation_iso: jpn

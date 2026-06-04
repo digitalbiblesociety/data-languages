@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: غورآكور
     auto: true
+  - translation_iso: fra
+    name: gorakor
   - translation_iso: hin
     name: गोराकोर
     auto: true

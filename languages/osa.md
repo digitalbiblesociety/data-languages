@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Osage_language"
 translations:
   - translation_iso: ara
     name: الأوساج
+  - translation_iso: fra
+    name: osage
   - translation_iso: hin
     name: ओसेज
   - translation_iso: jpn

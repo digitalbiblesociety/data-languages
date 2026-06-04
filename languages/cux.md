@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيبيوكسيلا كويكاتك
     auto: true
+  - translation_iso: fra
+    name: cuicatèque de Tepeuxila
   - translation_iso: hin
     name: तेपेउशिला कुइकातेक
     auto: true

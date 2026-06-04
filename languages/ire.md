@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيريسيم
     auto: true
+  - translation_iso: fra
+    name: iresim
   - translation_iso: hin
     name: इरेसिम
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميلتو
     auto: true
+  - translation_iso: fra
+    name: miltu
   - translation_iso: hin
     name: मिल्तु
     auto: true

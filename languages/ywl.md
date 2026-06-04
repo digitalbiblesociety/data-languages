@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة لالو الغربية
     auto: true
+  - translation_iso: fra
+    name: "lalu de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी लालू
     auto: true

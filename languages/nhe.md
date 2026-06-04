@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيسترن هواستيكا ناهواتل
     auto: true
+  - translation_iso: fra
+    name: nahuatl de la Huasteca oriental
   - translation_iso: hin
     name: पूर्वी हुआस्तेका नाहुआतल
     auto: true

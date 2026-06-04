@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دووإت
     auto: true
+  - translation_iso: fra
+    name: duwet
   - translation_iso: hin
     name: डुवेट
     auto: true

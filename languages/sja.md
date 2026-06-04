@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة إيبينا
     auto: true
+  - translation_iso: fra
+    name: epena saija
   - translation_iso: hin
     name: एपेना
     auto: true

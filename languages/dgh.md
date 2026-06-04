@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دغويدي
     auto: true
+  - translation_iso: fra
+    name: dghwede
   - translation_iso: hin
     name: द्घवेदे
     auto: true

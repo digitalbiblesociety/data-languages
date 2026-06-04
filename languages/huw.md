@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: هوكومينا
     auto: true
+  - translation_iso: fra
+    name: hukumina
   - translation_iso: hin
     name: हुकुमिना
     auto: true

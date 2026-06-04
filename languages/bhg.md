@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بيناندري
     auto: true
+  - translation_iso: fra
+    name: Binandere
+    auto: true
   - translation_iso: hin
     name: बिनान्देरे
     auto: true

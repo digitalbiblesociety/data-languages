@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Inuit_Sign_Language"
 translations:
   - translation_iso: ara
     name: لغة إشارة الإنويت
+  - translation_iso: fra
+    name: langue des signes inuite
   - translation_iso: hin
     name: इनुइट सांकेतिक भाषा
   - translation_iso: jpn

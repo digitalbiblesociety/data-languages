@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: يابارانا
     auto: true
+  - translation_iso: fra
+    name: yabarana
   - translation_iso: hin
     name: याबाराना
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة سوكو
     auto: true
+  - translation_iso: fra
+    name: suku
   - translation_iso: hin
     name: सुकु
     auto: true

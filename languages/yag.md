@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: يامانا
     auto: true
+  - translation_iso: fra
+    name: yagan
   - translation_iso: hin
     name: यामाना
     auto: true

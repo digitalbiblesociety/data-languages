@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ريسانو
     auto: true
+  - translation_iso: fra
+    name: reyesano
   - translation_iso: hin
     name: रेयेसानो
     auto: true

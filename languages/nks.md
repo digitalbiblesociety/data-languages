@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديار أسمات الشمالية
     auto: true
+  - translation_iso: fra
+    name: asmat du Nord
   - translation_iso: hin
     name: उत्तरी अस्मात
     auto: true

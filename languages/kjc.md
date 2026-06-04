@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كونجو الساحلية
     auto: true
+  - translation_iso: fra
+    name: konjo de la côte
   - translation_iso: hin
     name: तटीय कोंजो
     auto: true

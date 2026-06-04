@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماكا
     auto: true
+  - translation_iso: fra
+    name: maká
   - translation_iso: hin
     name: माका
     auto: true

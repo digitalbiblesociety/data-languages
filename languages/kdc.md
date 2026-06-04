@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كوتو
     auto: true
+  - translation_iso: fra
+    name: Kutu
+    auto: true
   - translation_iso: hin
     name: कुटू
     auto: true

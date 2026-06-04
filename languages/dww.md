@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: داواوا
     auto: true
+  - translation_iso: fra
+    name: dawawa
   - translation_iso: hin
     name: दावावा
     auto: true

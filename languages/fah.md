@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فالي بايسا
     auto: true
+  - translation_iso: fra
+    name: fali de Baissa
   - translation_iso: hin
     name: बैसा फाली
     auto: true

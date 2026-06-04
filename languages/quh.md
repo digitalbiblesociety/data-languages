@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة كويتشوا بوليفيا الجنوبية
     auto: true
+  - translation_iso: fra
+    name: quechua bolivien du Sud
   - translation_iso: hin
     name: दक्षिणी बोलिवियाई क्वेचुआ
     auto: true

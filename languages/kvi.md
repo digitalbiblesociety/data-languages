@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوانج
     auto: true
+  - translation_iso: fra
+    name: kwang
   - translation_iso: hin
     name: क्वांग
     auto: true

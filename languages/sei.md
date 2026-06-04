@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: سيري
     auto: true
+  - translation_iso: fra
+    name: seri
   - translation_iso: hin
     name: सेरी
     auto: true

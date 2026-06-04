@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: كالو فنلندي رومانية
     auto: true
+  - translation_iso: fra
+    name: romani finlandais
   - translation_iso: hin
     name: कालो फिनिश रोमानी
     auto: true

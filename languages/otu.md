@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوتوكي
     auto: true
+  - translation_iso: fra
+    name: Otuke
+    auto: true
   - translation_iso: hin
     name: ओतुके
     auto: true

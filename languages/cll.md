@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشالا
     auto: true
+  - translation_iso: fra
+    name: chala
   - translation_iso: hin
     name: चाला
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: غينومآن
     auto: true
+  - translation_iso: fra
+    name: Ginuman
+    auto: true
   - translation_iso: hin
     name: गिनुमान
     auto: true

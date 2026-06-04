@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نغادا
     auto: true
+  - translation_iso: fra
+    name: ngadha
   - translation_iso: hin
     name: नगादा
     auto: true

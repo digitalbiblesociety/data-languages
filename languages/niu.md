@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Niuean_language"
 translations:
   - translation_iso: ara
     name: النييوية
+  - translation_iso: fra
+    name: niuéen
   - translation_iso: hin
     name: नियुआन
   - translation_iso: jpn

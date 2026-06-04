@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة باباسينا
     auto: true
+  - translation_iso: fra
+    name: Papasena
+    auto: true
   - translation_iso: hin
     name: पापासेना
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أتامپايا
     auto: true
+  - translation_iso: fra
+    name: atampaya
   - translation_iso: hin
     name: अटाम्पाया
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تاسماني برواني آيلاند
     auto: true
+  - translation_iso: fra
+    name: "Tasmanien de l'île Bruny"
+    auto: true
   - translation_iso: hin
     name: ब्रूनी द्वीप तस्मानियाई
     auto: true

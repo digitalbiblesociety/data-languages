@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سانجو (جابون)
     auto: true
+  - translation_iso: fra
+    name: isangu
   - translation_iso: hin
     name: सांगु (गैबॉन)
     auto: true

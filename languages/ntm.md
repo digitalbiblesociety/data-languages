@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناتيني
     auto: true
+  - translation_iso: fra
+    name: naténi
   - translation_iso: hin
     name: नातेनी
     auto: true

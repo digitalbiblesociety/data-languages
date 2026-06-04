@@ -16,6 +16,9 @@ translations:
   - translation_iso: ara
     name: دوكشي
     auto: true
+  - translation_iso: fra
+    name: Dokshi
+    auto: true
   - translation_iso: hin
     name: डोक्शी
     auto: true

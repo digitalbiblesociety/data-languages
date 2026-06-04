@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مينا
     auto: true
+  - translation_iso: fra
+    name: mina
   - translation_iso: hin
     name: मीना (कैमरून)
     auto: true

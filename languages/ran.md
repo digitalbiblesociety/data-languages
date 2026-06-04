@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ريانتانا
     auto: true
+  - translation_iso: fra
+    name: Riantana
+    auto: true
   - translation_iso: hin
     name: रिआंताना
     auto: true

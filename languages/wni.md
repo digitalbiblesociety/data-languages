@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة القمرية النزوانية
     auto: true
+  - translation_iso: fra
+    name: anjouanais
   - translation_iso: hin
     name: न्द्ज़्वानी कोमोरियन
     auto: true

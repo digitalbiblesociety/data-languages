@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غويآ
     auto: true
+  - translation_iso: fra
+    name: guya
   - translation_iso: hin
     name: गुया
     auto: true

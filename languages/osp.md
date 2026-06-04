@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Spanish"
 translations:
   - translation_iso: ara
     name: الإسبانية القديمة
+  - translation_iso: fra
+    name: castillan ancien
   - translation_iso: hin
     name: पुरानी स्पेनिश
     auto: true

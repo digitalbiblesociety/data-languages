@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يدو ايلي
     auto: true
+  - translation_iso: fra
+    name: kaili ledo
   - translation_iso: hin
     name: लेदो कैली
     auto: true

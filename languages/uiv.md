@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيفيه
     auto: true
+  - translation_iso: fra
+    name: iyive
   - translation_iso: hin
     name: इयिवे
     auto: true

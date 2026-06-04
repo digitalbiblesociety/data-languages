@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاليسبيل-بند ديري
     auto: true
+  - translation_iso: fra
+    name: kalispel
   - translation_iso: hin
     name: सेलिश भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألّاوا
     auto: true
+  - translation_iso: fra
+    name: alawa
   - translation_iso: hin
     name: अलावा
     auto: true

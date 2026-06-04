@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بولوندو
     auto: true
+  - translation_iso: fra
+    name: londo
   - translation_iso: hin
     name: बोलोंडो
     auto: true

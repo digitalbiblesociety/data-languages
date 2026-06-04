@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bagri_language"
 translations:
   - translation_iso: ara
     name: لغة بجرية
+  - translation_iso: fra
+    name: bagri
   - translation_iso: hin
     name: बागड़ी भाषा
   - translation_iso: jpn

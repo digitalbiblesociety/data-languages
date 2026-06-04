@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة شارك باي
     auto: true
+  - translation_iso: fra
+    name: ngen
   - translation_iso: hin
     name: शार्क बे
     auto: true

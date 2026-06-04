@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيدي كابي
     auto: true
+  - translation_iso: fra
+    name: ede cabe
   - translation_iso: hin
     name: एदे काबे
     auto: true

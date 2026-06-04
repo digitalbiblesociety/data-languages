@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Michif"
 translations:
   - translation_iso: ara
     name: الميتشيف
+  - translation_iso: fra
+    name: métchif
   - translation_iso: hin
     name: मिचिफ़
   - translation_iso: jpn

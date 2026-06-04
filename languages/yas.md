@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نوجونو
     auto: true
+  - translation_iso: fra
+    name: nugunu
   - translation_iso: hin
     name: नुगुनु (कैमरून)
     auto: true

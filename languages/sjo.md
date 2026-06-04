@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الكسيبية
     auto: true
+  - translation_iso: fra
+    name: xibe
   - translation_iso: hin
     name: शिबे
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: طويل وات
     auto: true
+  - translation_iso: fra
+    name: long wat
   - translation_iso: hin
     name: लोंग वाट
     auto: true

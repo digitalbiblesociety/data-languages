@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لونجالونجا
     auto: true
+  - translation_iso: fra
+    name: minigir
   - translation_iso: hin
     name: लुंगालुंगा
     auto: true

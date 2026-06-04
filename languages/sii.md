@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة شوم بينج
     auto: true
+  - translation_iso: fra
+    name: shom peng
   - translation_iso: hin
     name: शोम्पेन भाषा
   - translation_iso: jpn

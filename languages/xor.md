@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوروبو
     auto: true
+  - translation_iso: fra
+    name: korubo
   - translation_iso: hin
     name: कोरुबो
     auto: true

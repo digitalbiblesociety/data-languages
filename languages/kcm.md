@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة غولا
     auto: true
+  - translation_iso: fra
+    name: gula
   - translation_iso: hin
     name: गुला (मध्य अफ़्रीकी गणराज्य)
     auto: true

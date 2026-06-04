@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: والينغ
     auto: true
+  - translation_iso: fra
+    name: Waling
+    auto: true
   - translation_iso: hin
     name: वालिंग
     auto: true

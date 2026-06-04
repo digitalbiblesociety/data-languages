@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة اماتوكا
     auto: true
+  - translation_iso: fra
+    name: Lamatuka
+    auto: true
   - translation_iso: hin
     name: लामातुका
     auto: true

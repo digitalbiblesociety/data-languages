@@ -18,13 +18,15 @@ translations:
   - translation_iso: ara
     name: جاتا
     auto: true
+  - translation_iso: fra
+    name: gta’
   - translation_iso: hin
     name: गेता भाषा
   - translation_iso: jpn
     name: ガタ語
     auto: true
   - translation_iso: spa
-    name: "Gata'"
+    name: Gata
     auto: true
   - translation_iso: zho
     name: 格塔语

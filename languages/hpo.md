@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هبون
     auto: true
+  - translation_iso: fra
+    name: hpon
   - translation_iso: hin
     name: ह्पोन
     auto: true

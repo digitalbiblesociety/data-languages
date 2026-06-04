@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيلاغا
     auto: true
+  - translation_iso: fra
+    name: pilagá
   - translation_iso: hin
     name: पिलागा
     auto: true

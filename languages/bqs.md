@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوسْنْجون
     auto: true
+  - translation_iso: fra
+    name: bosngun
   - translation_iso: hin
     name: बोसंगुन
     auto: true

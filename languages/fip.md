@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الفيبا
     auto: true
+  - translation_iso: fra
+    name: fipa
   - translation_iso: hin
     name: फिपा
     auto: true

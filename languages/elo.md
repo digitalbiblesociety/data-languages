@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإل مولو
     auto: true
+  - translation_iso: fra
+    name: elmolo
   - translation_iso: hin
     name: एल मोलो
     auto: true

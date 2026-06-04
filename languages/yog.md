@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة يوغاد
     auto: true
+  - translation_iso: fra
+    name: Yogad
+    auto: true
   - translation_iso: hin
     name: योगाद
     auto: true

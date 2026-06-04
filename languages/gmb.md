@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: "غولآ'آلآآ"
     auto: true
+  - translation_iso: fra
+    name: gula’alaa
   - translation_iso: hin
     name: गुलाअला
     auto: true

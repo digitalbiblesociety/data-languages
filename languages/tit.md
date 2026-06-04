@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: تينيغوا
     auto: true
+  - translation_iso: fra
+    name: tinigua
   - translation_iso: hin
     name: तिनिगुआ
     auto: true

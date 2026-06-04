@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توباتي
     auto: true
+  - translation_iso: fra
+    name: tobati
   - translation_iso: hin
     name: तोबाती
     auto: true

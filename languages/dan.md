@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Danish_language"
 translations:
   - translation_iso: ara
     name: الدنماركية
+  - translation_iso: fra
+    name: danois
   - translation_iso: hin
     name: डेनिश भाषा
   - translation_iso: jpn

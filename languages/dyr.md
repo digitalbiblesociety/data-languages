@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: ديريم
     auto: true
+  - translation_iso: fra
+    name: dyarim
   - translation_iso: hin
     name: डयारिम
     auto: true

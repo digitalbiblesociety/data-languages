@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تشين بورْيات
     auto: true
+  - translation_iso: fra
+    name: bouriate de Chine
   - translation_iso: hin
     name: चीनी बुर्यात
     auto: true

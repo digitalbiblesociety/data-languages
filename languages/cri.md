@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الساوتوميزية
     auto: true
+  - translation_iso: fra
+    name: forro
   - translation_iso: hin
     name: साओतोमेन्से
     auto: true

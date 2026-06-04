@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيوات
     auto: true
+  - translation_iso: fra
+    name: biwat
   - translation_iso: hin
     name: बिवाट
     auto: true

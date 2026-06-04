@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دانوار
     auto: true
+  - translation_iso: fra
+    name: dhanwar
   - translation_iso: hin
     name: दनुवार भाषा
   - translation_iso: jpn

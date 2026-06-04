@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الفالنسية
     auto: true
+  - translation_iso: fra
+    name: langue des signes valencienne
   - translation_iso: hin
     name: वालेंसियन साइन लैंग्वेज
   - translation_iso: jpn

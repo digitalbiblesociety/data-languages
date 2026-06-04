@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك بيتابا
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Petapa
   - translation_iso: hin
     name: पेतापा सैपोटेक
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوروما
     auto: true
+  - translation_iso: fra
+    name: oruma
   - translation_iso: hin
     name: ओरुमा
     auto: true

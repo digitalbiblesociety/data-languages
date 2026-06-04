@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: داتسيين
     auto: true
+  - translation_iso: fra
+    name: daatsʼíin
   - translation_iso: hin
     name: दात्सीन
     auto: true

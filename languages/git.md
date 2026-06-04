@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غيتكسسآن
     auto: true
+  - translation_iso: fra
+    name: gitksan
   - translation_iso: hin
     name: गित्क्सान
     auto: true

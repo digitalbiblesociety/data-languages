@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tugurt_language"
 translations:
   - translation_iso: ara
     name: لغة تقرت
+  - translation_iso: fra
+    name: tamazight temacine
   - translation_iso: hin
     name: तेमासीन तामाज़ीगत
     auto: true

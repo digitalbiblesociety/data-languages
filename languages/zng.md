@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مانغ
     auto: true
+  - translation_iso: fra
+    name: mang
   - translation_iso: hin
     name: मांग
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أونجي
     auto: true
+  - translation_iso: fra
+    name: awngi
   - translation_iso: hin
     name: आउंगी
     auto: true

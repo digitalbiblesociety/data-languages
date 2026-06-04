@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غيليمآ
     auto: true
+  - translation_iso: fra
+    name: gilima
   - translation_iso: hin
     name: गिलिमा
     auto: true

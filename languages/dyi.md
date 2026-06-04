@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دجيميني سينوفو
     auto: true
+  - translation_iso: fra
+    name: djimini
   - translation_iso: hin
     name: जिमिनी सेनुफो
     auto: true

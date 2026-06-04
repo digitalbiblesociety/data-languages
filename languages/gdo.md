@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الغودوبيري
     auto: true
+  - translation_iso: fra
+    name: godoberi
   - translation_iso: hin
     name: घोदोबेरी
     auto: true

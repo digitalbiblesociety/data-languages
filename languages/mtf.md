@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موريك (بابوا غينيا الجديدة)
     auto: true
+  - translation_iso: fra
+    name: murik
   - translation_iso: hin
     name: मुरिक (पापुआ न्यू गिनी)
     auto: true

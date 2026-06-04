@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Avestan"
 translations:
   - translation_iso: ara
     name: الأوستية
+  - translation_iso: fra
+    name: avestique
   - translation_iso: hin
     name: अवस्ताई भाषा
   - translation_iso: jpn

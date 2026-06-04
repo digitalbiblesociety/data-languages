@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إمبو
     auto: true
+  - translation_iso: fra
+    name: mbo
   - translation_iso: hin
     name: म्बो (कांगो लोकतांत्रिक गणराज्य)
     auto: true

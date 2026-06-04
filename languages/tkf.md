@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توكومانفيد
     auto: true
+  - translation_iso: fra
+    name: kagwahiva
   - translation_iso: hin
     name: तुकुमानफेद
     auto: true

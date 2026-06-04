@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بارويا
     auto: true
+  - translation_iso: fra
+    name: yipma
   - translation_iso: hin
     name: बारुया
     auto: true

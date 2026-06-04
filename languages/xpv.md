@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: تاسماني الشمالية
     auto: true
+  - translation_iso: fra
+    name: tommeginne
   - translation_iso: hin
     name: उत्तरी तस्मानियाई
     auto: true

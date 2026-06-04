@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكوفوك
     auto: true
+  - translation_iso: fra
+    name: cuvok
   - translation_iso: hin
     name: कुवोक
     auto: true

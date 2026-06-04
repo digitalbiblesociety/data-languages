@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة انوه
     auto: true
+  - translation_iso: fra
+    name: lanoh
   - translation_iso: hin
     name: लानोह
     auto: true

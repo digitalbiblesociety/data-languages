@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إناوينيه-ناويه
     auto: true
+  - translation_iso: fra
+    name: enawene-nawe
   - translation_iso: hin
     name: एनावेने-नावे
     auto: true

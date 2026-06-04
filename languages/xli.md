@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: ليبيرنية
     auto: true
+  - translation_iso: fra
+    name: liburnien
   - translation_iso: hin
     name: लिबर्नियन
     auto: true

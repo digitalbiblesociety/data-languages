@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوتومي كويريتارو
     auto: true
+  - translation_iso: fra
+    name: otomi de Querétaro
   - translation_iso: hin
     name: केरेतारो ओटोमी
     auto: true

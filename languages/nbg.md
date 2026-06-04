@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناجاركال
     auto: true
+  - translation_iso: fra
+    name: nagarchal
   - translation_iso: hin
     name: नागरचाल
     auto: true

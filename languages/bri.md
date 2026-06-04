@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: موكْپوي
     auto: true
+  - translation_iso: fra
+    name: bakweri
   - translation_iso: hin
     name: मोक्प्वे
     auto: true

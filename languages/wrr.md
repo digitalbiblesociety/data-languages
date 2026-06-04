@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واردامان
     auto: true
+  - translation_iso: fra
+    name: wardaman
   - translation_iso: hin
     name: वार्दामान
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاوويرا
     auto: true
+  - translation_iso: fra
+    name: kauwera
   - translation_iso: hin
     name: काउवेरा
     auto: true

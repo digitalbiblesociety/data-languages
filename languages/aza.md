@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة أزها
     auto: true
+  - translation_iso: fra
+    name: Azha
+    auto: true
   - translation_iso: hin
     name: अज़ा
     auto: true

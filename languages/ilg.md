@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غاريغ-إيلغار
     auto: true
+  - translation_iso: fra
+    name: garig-ilgar
   - translation_iso: hin
     name: गारिग-इलगर
     auto: true

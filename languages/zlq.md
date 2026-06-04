@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ليوتشيان زوانغ
     auto: true
+  - translation_iso: fra
+    name: zhuang de Liuqian
   - translation_iso: hin
     name: लिउचियान ज़ुआंग
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوتيب
     auto: true
+  - translation_iso: fra
+    name: kutep
   - translation_iso: hin
     name: कुटेप
     auto: true

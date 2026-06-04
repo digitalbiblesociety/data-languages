@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سيسيتي سينوفو
     auto: true
+  - translation_iso: fra
+    name: Sénoufo sìcìté
+    auto: true
   - translation_iso: hin
     name: सिसिते सेनोफो
     auto: true

@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: واجوك
     auto: true
+  - translation_iso: fra
+    name: wajuk
   - translation_iso: hin
     name: वाजुक
     auto: true

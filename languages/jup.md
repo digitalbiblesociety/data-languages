@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة هوبدي
     auto: true
+  - translation_iso: fra
+    name: hupda
   - translation_iso: hin
     name: हुपदे
     auto: true

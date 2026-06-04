@@ -19,6 +19,9 @@ translations:
   - translation_iso: ara
     name: هادوثي
     auto: true
+  - translation_iso: fra
+    name: Hadothi
+    auto: true
   - translation_iso: hin
     name: हड़ौती भाषा
   - translation_iso: jpn

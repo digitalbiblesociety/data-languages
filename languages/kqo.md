@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كراهن الشرقية
     auto: true
+  - translation_iso: fra
+    name: Konobo
   - translation_iso: hin
     name: पूर्वी क्राह्न
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاسماني بورت سوريل
     auto: true
+  - translation_iso: fra
+    name: port sorell
   - translation_iso: hin
     name: पोर्ट सोरेल तस्मानियाई
     auto: true

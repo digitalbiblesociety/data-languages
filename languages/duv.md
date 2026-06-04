@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوفلي
     auto: true
+  - translation_iso: fra
+    name: duvle
   - translation_iso: hin
     name: डुव्ले
     auto: true

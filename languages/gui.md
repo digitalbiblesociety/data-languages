@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إآستإرن بوليفيآن غوآرآنí
     auto: true
+  - translation_iso: fra
+    name: chiriguano
   - translation_iso: hin
     name: पूर्वी बोलिवियाई गुआरानी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أنوتا
     auto: true
+  - translation_iso: fra
+    name: anuta
   - translation_iso: hin
     name: अनुता
     auto: true

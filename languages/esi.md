@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: الإينوبياتون الأسكا الشمالية
     auto: true
+  - translation_iso: fra
+    name: "Inupiaq du nord de l'Alaska"
+    auto: true
   - translation_iso: hin
     name: उत्तरी अलास्का इनुपियातुन
     auto: true

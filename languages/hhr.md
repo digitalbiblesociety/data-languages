@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كإرآك
     auto: true
+  - translation_iso: fra
+    name: keerak
   - translation_iso: hin
     name: केराक
     auto: true

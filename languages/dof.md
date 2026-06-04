@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دومو
     auto: true
+  - translation_iso: fra
+    name: domu
   - translation_iso: hin
     name: डोमू
     auto: true

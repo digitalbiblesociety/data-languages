@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: مادي مادي
     auto: true
+  - translation_iso: fra
+    name: madhi madhi
   - translation_iso: hin
     name: मधी मधी
     auto: true

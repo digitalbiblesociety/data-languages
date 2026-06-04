@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Southern_Lushootseed"
 translations:
   - translation_iso: ara
     name: لوشوتسيد الجنوبية
+  - translation_iso: fra
+    name: whulshootseed
   - translation_iso: hin
     name: दक्षिणी लशूटसीड
   - translation_iso: jpn

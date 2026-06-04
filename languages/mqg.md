@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كوتا بانجون كوتاي مالاي
     auto: true
+  - translation_iso: fra
+    name: malais kota bangun kutai
   - translation_iso: hin
     name: कोटा बांगुन कुताई मलय
     auto: true

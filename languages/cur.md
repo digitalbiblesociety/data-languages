@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: التشولونغ
     auto: true
+  - translation_iso: fra
+    name: chulung
   - translation_iso: hin
     name: छुलुङ
     auto: true

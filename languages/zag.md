@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Zaghawa_language"
 translations:
   - translation_iso: ara
     name: الزغاوية
+  - translation_iso: fra
+    name: béria
   - translation_iso: hin
     name: ज़घावा
     auto: true

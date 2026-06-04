@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Chittagonian_language"
 translations:
   - translation_iso: ara
     name: لهجة جاتجامية
+  - translation_iso: fra
+    name: chittagonien
   - translation_iso: hin
     name: चटगाँवी बोली
   - translation_iso: jpn

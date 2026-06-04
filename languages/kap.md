@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة بيزتا
     auto: true
+  - translation_iso: fra
+    name: bejta
   - translation_iso: hin
     name: बेज़्ता
     auto: true

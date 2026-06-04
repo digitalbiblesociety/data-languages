@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميلو
     auto: true
+  - translation_iso: fra
+    name: melo
   - translation_iso: hin
     name: मेलो
     auto: true

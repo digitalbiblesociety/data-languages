@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Karelian_language"
 translations:
   - translation_iso: ara
     name: الكاريلية
+  - translation_iso: fra
+    name: carélien
   - translation_iso: hin
     name: करेलियन
   - translation_iso: jpn

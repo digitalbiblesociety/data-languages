@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: تيور
     auto: true
+  - translation_iso: fra
+    name: teor
   - translation_iso: hin
     name: तेओर
     auto: true

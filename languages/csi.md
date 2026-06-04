@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوست ميووك
     auto: true
+  - translation_iso: fra
+    name: miwok de la côte
   - translation_iso: hin
     name: तटीय मिवोक
     auto: true

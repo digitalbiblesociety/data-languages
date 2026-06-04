@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوواي
     auto: true
+  - translation_iso: fra
+    name: kowiai
   - translation_iso: hin
     name: कोवियाई
     auto: true

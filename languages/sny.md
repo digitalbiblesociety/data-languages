@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سانيو-هيويي
     auto: true
+  - translation_iso: fra
+    name: saniyo-hiyewe
   - translation_iso: hin
     name: सानियो-हियेवे
     auto: true

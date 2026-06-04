@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيلوي
     auto: true
+  - translation_iso: fra
+    name: ilue
   - translation_iso: hin
     name: इलुए
     auto: true

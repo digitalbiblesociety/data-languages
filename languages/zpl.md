@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك لاتشيكسيو
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Lachixío
   - translation_iso: hin
     name: लाचिशियो सैपोटेक
     auto: true

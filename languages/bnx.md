@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانجوبانجو
     auto: true
+  - translation_iso: fra
+    name: bangubangu
   - translation_iso: hin
     name: बंगुबंगु
     auto: true

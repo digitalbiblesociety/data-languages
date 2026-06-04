@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بينان الغربية
     auto: true
+  - translation_iso: fra
+    name: "penan de l'Ouest"
   - translation_iso: hin
     name: पश्चिमी पेनान
     auto: true

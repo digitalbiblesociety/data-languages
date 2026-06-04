@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة يواناوا
     auto: true
+  - translation_iso: fra
+    name: yawanawa
   - translation_iso: hin
     name: यवानावा
     auto: true

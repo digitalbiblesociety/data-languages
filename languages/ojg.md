@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أوجيبوا الشرقية
     auto: true
+  - translation_iso: fra
+    name: "ojibwé de l'Est"
   - translation_iso: hin
     name: पूर्वी ओजिब्वा
     auto: true

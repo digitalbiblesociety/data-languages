@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: النوبونوب
     auto: true
+  - translation_iso: fra
+    name: nobonob
   - translation_iso: hin
     name: नोबोनोब
     auto: true

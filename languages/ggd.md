@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غوغآدج
     auto: true
+  - translation_iso: fra
+    name: gugadj
   - translation_iso: hin
     name: गुगाज
     auto: true

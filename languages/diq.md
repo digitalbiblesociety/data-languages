@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديملي
     auto: true
+  - translation_iso: fra
+    name: zazaki du Sud
   - translation_iso: hin
     name: दिमली
     auto: true

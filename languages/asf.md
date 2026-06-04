@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Auslan"
 translations:
   - translation_iso: ara
     name: لغة أوسلان
+  - translation_iso: fra
+    name: langue des signes australienne
   - translation_iso: hin
     name: असलन
   - translation_iso: jpn

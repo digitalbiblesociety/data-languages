@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: قاقيت
     auto: true
+  - translation_iso: fra
+    name: qaqet
   - translation_iso: hin
     name: काकेत
     auto: true

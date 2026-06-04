@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماكو
     auto: true
+  - translation_iso: fra
+    name: maco
   - translation_iso: hin
     name: माको
     auto: true

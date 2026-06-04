@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نونويا
     auto: true
+  - translation_iso: fra
+    name: nonuya
   - translation_iso: hin
     name: नोनुया
     auto: true

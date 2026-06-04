@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيسترن مارون كريول
     auto: true
+  - translation_iso: fra
+    name: aluku-ndjuka-paramaka
   - translation_iso: hin
     name: पूर्वी मरून क्रियोल
     auto: true

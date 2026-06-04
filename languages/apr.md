@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أروب-لوكيب
     auto: true
+  - translation_iso: fra
+    name: arop-lokep
   - translation_iso: hin
     name: अरोप-लोकेप
     auto: true

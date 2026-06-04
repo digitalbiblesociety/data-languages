@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bactrian_language"
 translations:
   - translation_iso: ara
     name: اللغة الباخترية
+  - translation_iso: fra
+    name: bactrien
   - translation_iso: hin
     name: बाख़्त्री भाषा
   - translation_iso: jpn

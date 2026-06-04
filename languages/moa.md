@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موان
     auto: true
+  - translation_iso: fra
+    name: monan
   - translation_iso: hin
     name: म्वान
     auto: true

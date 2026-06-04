@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بالانتلا تشينانتك
     auto: true
+  - translation_iso: fra
+    name: chinantèque de Palantla
   - translation_iso: hin
     name: पलांत्ला चिनान्टेक
     auto: true

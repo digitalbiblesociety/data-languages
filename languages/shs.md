@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة الشوسواب
     auto: true
+  - translation_iso: fra
+    name: shuswap
   - translation_iso: hin
     name: शुस्वाप भाषा
   - translation_iso: jpn

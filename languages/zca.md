@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة زابوتيك كواتيكاس ألتاس
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Coatecas Altas
   - translation_iso: hin
     name: कोआतेकास अल्तास सैपोटेक
     auto: true

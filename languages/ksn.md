@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كاسيجورانين
     auto: true
+  - translation_iso: fra
+    name: Kasiguranin
+    auto: true
   - translation_iso: hin
     name: कासीगुरानिन
     auto: true

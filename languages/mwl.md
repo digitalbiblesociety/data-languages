@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mirandese_language"
 translations:
   - translation_iso: ara
     name: الميراندية
+  - translation_iso: fra
+    name: mirandais
   - translation_iso: hin
     name: मिरांडी
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الماركويتا
     auto: true
+  - translation_iso: fra
+    name: markweta
   - translation_iso: hin
     name: मार्कवीटा
     auto: true

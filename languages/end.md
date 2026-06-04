@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الإندي
     auto: true
+  - translation_iso: fra
+    name: ende
   - translation_iso: hin
     name: एंडे
     auto: true

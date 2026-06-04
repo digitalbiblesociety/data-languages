@@ -16,6 +16,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Majhi_language"
 translations:
   - translation_iso: ara
     name: لغة ماجهي
+  - translation_iso: fra
+    name: majhi
   - translation_iso: hin
     name: माझी
     auto: true

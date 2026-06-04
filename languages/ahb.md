@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أكسامب
     auto: true
+  - translation_iso: fra
+    name: axamb
   - translation_iso: hin
     name: अक्साम्ब
     auto: true

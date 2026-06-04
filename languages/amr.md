@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أراتبوتين هوا
     auto: true
+  - translation_iso: fra
+    name: amarakaeri
   - translation_iso: hin
     name: अमाराकाएरी
     auto: true

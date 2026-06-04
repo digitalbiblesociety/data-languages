@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوتشازي
     auto: true
+  - translation_iso: fra
+    name: luchazi
   - translation_iso: hin
     name: लुचाज़ी
     auto: true

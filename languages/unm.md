@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أونامي
     auto: true
+  - translation_iso: fra
+    name: unami
   - translation_iso: hin
     name: उनामी
     auto: true

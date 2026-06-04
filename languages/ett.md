@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Etruscan_language"
 translations:
   - translation_iso: ara
     name: اللغة الإترورية
+  - translation_iso: fra
+    name: étrusque
   - translation_iso: hin
     name: एत्रुस्कन
     auto: true

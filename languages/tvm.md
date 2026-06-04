@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيلا ماسبوار
     auto: true
+  - translation_iso: fra
+    name: Tela-Masbuar
+    auto: true
   - translation_iso: hin
     name: तेला-मस्बुआर
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هإيلتسوك
     auto: true
+  - translation_iso: fra
+    name: heiltsuk
   - translation_iso: hin
     name: हेइल्त्सुक
     auto: true

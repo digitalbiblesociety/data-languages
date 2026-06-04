@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hiri_Motu"
 translations:
   - translation_iso: ara
     name: هيري موتو
+  - translation_iso: fra
+    name: hiri motou
   - translation_iso: hin
     name: हिरी मोतू
   - translation_iso: jpn

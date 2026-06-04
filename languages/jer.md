@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة جيري
     auto: true
+  - translation_iso: fra
+    name: jere
   - translation_iso: hin
     name: जेरे
     auto: true

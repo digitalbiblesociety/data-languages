@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Siwi_language"
 translations:
   - translation_iso: ara
     name: السيوي
+  - translation_iso: fra
+    name: siwi
   - translation_iso: hin
     name: सिवी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماسلام
     auto: true
+  - translation_iso: fra
+    name: maslam
   - translation_iso: hin
     name: मासलाम
     auto: true

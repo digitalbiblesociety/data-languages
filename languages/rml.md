@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بالتيك رومانية
     auto: true
+  - translation_iso: fra
+    name: romani baltique
   - translation_iso: hin
     name: बाल्टिक रोमानी
     auto: true

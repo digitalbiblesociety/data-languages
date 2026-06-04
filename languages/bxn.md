@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوردونا
     auto: true
+  - translation_iso: fra
+    name: burduna
   - translation_iso: hin
     name: बुर्दुना
     auto: true

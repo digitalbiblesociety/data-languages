@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أونتونغ جافا
     auto: true
+  - translation_iso: fra
+    name: luanguia
   - translation_iso: hin
     name: ओंटोंग जावा
     auto: true

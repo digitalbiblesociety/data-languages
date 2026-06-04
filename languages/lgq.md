@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وجبا
     auto: true
+  - translation_iso: fra
+    name: logba
   - translation_iso: hin
     name: लोगबा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيزورا
     auto: true
+  - translation_iso: fra
+    name: izora
   - translation_iso: hin
     name: इज़ोरा
     auto: true

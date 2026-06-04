@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة إيتون
     auto: true
+  - translation_iso: fra
+    name: aiton
   - translation_iso: hin
     name: एटन भाषा
   - translation_iso: jpn

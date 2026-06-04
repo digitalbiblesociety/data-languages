@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غآييل
     auto: true
+  - translation_iso: fra
+    name: gayil
   - translation_iso: hin
     name: गायिल
     auto: true

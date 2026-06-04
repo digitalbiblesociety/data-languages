@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Birri_language"
 translations:
   - translation_iso: ara
     name: بيري
+  - translation_iso: fra
+    name: birri
   - translation_iso: hin
     name: बिर्री
     auto: true

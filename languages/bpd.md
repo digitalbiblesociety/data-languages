@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باندا باندا
     auto: true
+  - translation_iso: fra
+    name: Banda-Banda
+    auto: true
   - translation_iso: hin
     name: बांदा-बांदा
     auto: true

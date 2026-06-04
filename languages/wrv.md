@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وارونا
     auto: true
+  - translation_iso: fra
+    name: Waruna
+    auto: true
   - translation_iso: hin
     name: वारुना
     auto: true

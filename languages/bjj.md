@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: كاناوجي
     auto: true
+  - translation_iso: fra
+    name: kanauji
   - translation_iso: hin
     name: कन्नौजी
   - translation_iso: jpn

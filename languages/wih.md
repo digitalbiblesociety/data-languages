@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويكميانها
     auto: true
+  - translation_iso: fra
+    name: "wik-me'anha"
   - translation_iso: hin
     name: विक-मेअन्हा
     auto: true

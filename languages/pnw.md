@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانيجيما
     auto: true
+  - translation_iso: fra
+    name: panytyima
   - translation_iso: hin
     name: बान्यजिमा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة بو-أونج
     auto: true
+  - translation_iso: fra
+    name: bo-ung
   - translation_iso: hin
     name: बो-उंग
     auto: true

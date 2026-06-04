@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ساذرن سامو
     auto: true
+  - translation_iso: fra
+    name: samo du Sud
   - translation_iso: hin
     name: दक्षिणी सामो
     auto: true

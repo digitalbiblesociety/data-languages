@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة تياغبامرين أيزي
     auto: true
+  - translation_iso: fra
+    name: Tiagba
   - translation_iso: hin
     name: तियाग्बाम्रिन आइज़ी
     auto: true

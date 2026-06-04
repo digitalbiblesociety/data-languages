@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nagpuri_language"
 translations:
   - translation_iso: ara
     name: لغة سادرية
+  - translation_iso: fra
+    name: sadri
   - translation_iso: hin
     name: नागपुरी भाषा
   - translation_iso: jpn

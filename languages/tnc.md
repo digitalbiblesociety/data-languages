@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تانيموكا ريتواريا
     auto: true
+  - translation_iso: fra
+    name: tanimuca
   - translation_iso: hin
     name: तानिमुका-रेतुआरा
     auto: true

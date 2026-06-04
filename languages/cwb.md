@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: مايندو
     auto: true
+  - translation_iso: fra
+    name: Maindo
+    auto: true
   - translation_iso: hin
     name: माइन्दो
     auto: true

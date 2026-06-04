@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Naba_language"
 translations:
   - translation_iso: ara
     name: نابا
+  - translation_iso: fra
+    name: naba
   - translation_iso: hin
     name: नाबा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة مالينج
     auto: true
+  - translation_iso: fra
+    name: maleng
   - translation_iso: hin
     name: मालेंग
     auto: true

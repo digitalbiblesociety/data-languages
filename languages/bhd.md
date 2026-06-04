@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bhadarwahi_language"
 translations:
   - translation_iso: ara
     name: البدرواهية
+  - translation_iso: fra
+    name: bhadrawahi
   - translation_iso: hin
     name: भदरवाही
   - translation_iso: jpn

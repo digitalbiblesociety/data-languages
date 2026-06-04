@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: "كايلي دا'ا"
     auto: true
+  - translation_iso: fra
+    name: "kaili da'a"
   - translation_iso: hin
     name: दआ कैली
     auto: true

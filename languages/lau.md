@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: لابا
     auto: true
+  - translation_iso: fra
+    name: laba
   - translation_iso: hin
     name: लाबा
     auto: true

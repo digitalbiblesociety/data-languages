@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ويكيييانه
     auto: true
+  - translation_iso: fra
+    name: wik-iiyanh
   - translation_iso: hin
     name: विक-इयान्ह
     auto: true

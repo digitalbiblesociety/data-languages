@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Anii_language"
 translations:
   - translation_iso: ara
     name: الآنية
+  - translation_iso: fra
+    name: anii
   - translation_iso: hin
     name: अनी
   - translation_iso: jpn

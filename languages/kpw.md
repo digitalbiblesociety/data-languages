@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوبون
     auto: true
+  - translation_iso: fra
+    name: Kobon
   - translation_iso: hin
     name: कोबोन
     auto: true

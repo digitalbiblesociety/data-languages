@@ -15,6 +15,9 @@ translations:
   - translation_iso: ara
     name: توكسا
     auto: true
+  - translation_iso: fra
+    name: Tuxá
+    auto: true
   - translation_iso: hin
     name: तुक्सा
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كونا الحدية
     auto: true
+  - translation_iso: fra
+    name: kuna de la frontière
   - translation_iso: hin
     name: सीमावर्ती कुना
     auto: true

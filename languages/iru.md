@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيرولا
     auto: true
+  - translation_iso: fra
+    name: irula
   - translation_iso: hin
     name: ईरुला भाषा
   - translation_iso: jpn

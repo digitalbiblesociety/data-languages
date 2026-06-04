@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Mohawk_language"
 translations:
   - translation_iso: ara
     name: لغة الموهوك
+  - translation_iso: fra
+    name: mohawk
   - translation_iso: hin
     name: मोहौक
   - translation_iso: jpn

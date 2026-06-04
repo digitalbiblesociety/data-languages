@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ووريا
     auto: true
+  - translation_iso: fra
+    name: woria
   - translation_iso: hin
     name: वोरिया
     auto: true

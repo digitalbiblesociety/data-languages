@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: آنا تينجا دوجون
     auto: true
+  - translation_iso: fra
+    name: ana dogon
   - translation_iso: hin
     name: आना तिंगा डोगोन
     auto: true

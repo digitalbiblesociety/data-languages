@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بودزا
     auto: true
+  - translation_iso: fra
+    name: ebudza
   - translation_iso: hin
     name: बुद्ज़ा
     auto: true

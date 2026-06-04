@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نكوتو
     auto: true
+  - translation_iso: fra
+    name: nkutu
   - translation_iso: hin
     name: नकुतु
     auto: true

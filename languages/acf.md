@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة سان لوسيان كريول فرنش
     auto: true
+  - translation_iso: fra
+    name: créole sainte-lucien
   - translation_iso: hin
     name: सेंट लूसियन क्रियोल फ्रेंच
     auto: true

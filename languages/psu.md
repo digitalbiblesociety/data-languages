@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة سوراسيني براكريت
     auto: true
+  - translation_iso: fra
+    name: Prâkrit sauraseni
+    auto: true
   - translation_iso: hin
     name: शौरसेनी
   - translation_iso: jpn

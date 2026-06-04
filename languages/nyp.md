@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: "نيانغ'i"
     auto: true
+  - translation_iso: fra
+    name: "nyang'i"
   - translation_iso: hin
     name: न्यांगी
     auto: true

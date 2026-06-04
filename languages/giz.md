@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سووث غيزيغآ
     auto: true
+  - translation_iso: fra
+    name: guiziga du Sud
   - translation_iso: hin
     name: दक्षिणी गिज़िगा
     auto: true

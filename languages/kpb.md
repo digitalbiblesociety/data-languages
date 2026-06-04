@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مولو كوروومبا
     auto: true
+  - translation_iso: fra
+    name: kurumba mullu
   - translation_iso: hin
     name: मुल्लु कुरुम्बा
     auto: true

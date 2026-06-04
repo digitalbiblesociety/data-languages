@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سانجا (جمهورية الكونغو الديمقراطية)
     auto: true
+  - translation_iso: fra
+    name: luba-sanga
   - translation_iso: hin
     name: सांगा (कांगो लोकतांत्रिक गणराज्य)
     auto: true

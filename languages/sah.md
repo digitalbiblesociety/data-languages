@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Yakut_language"
 translations:
   - translation_iso: ara
     name: الياقوتية
+  - translation_iso: fra
+    name: iakoute
   - translation_iso: hin
     name: साख़ा भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماريا (الهند)
     auto: true
+  - translation_iso: fra
+    name: maria
   - translation_iso: hin
     name: मारिया (भारत)
     auto: true

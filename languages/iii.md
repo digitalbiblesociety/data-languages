@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Nuosu_language"
 translations:
   - translation_iso: ara
     name: السيتشيون يي
+  - translation_iso: fra
+    name: nuosu
   - translation_iso: hin
     name: नोसू भाषा
   - translation_iso: jpn

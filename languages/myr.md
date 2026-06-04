@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: مونيتشي
     auto: true
+  - translation_iso: fra
+    name: muniche
   - translation_iso: hin
     name: मुनिचे
     auto: true

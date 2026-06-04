@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ دون
     auto: true
+  - translation_iso: fra
+    name: hmong don
   - translation_iso: hin
     name: ह्मोंग डोन
     auto: true

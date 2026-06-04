@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باتاك دايري
     auto: true
+  - translation_iso: fra
+    name: batak dairi
   - translation_iso: hin
     name: बाताक दैरी
     auto: true

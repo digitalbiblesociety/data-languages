@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة فامالي
     auto: true
+  - translation_iso: fra
+    name: vamale
   - translation_iso: hin
     name: वामाले
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نداليا
     auto: true
+  - translation_iso: fra
+    name: ndali
   - translation_iso: hin
     name: न्दाली
     auto: true

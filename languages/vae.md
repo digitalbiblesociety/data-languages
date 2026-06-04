@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فالي
     auto: true
+  - translation_iso: fra
+    name: vale
   - translation_iso: hin
     name: वाले
     auto: true

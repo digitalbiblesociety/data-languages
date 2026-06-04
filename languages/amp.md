@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ألامبلاك
     auto: true
+  - translation_iso: fra
+    name: alamblak
   - translation_iso: hin
     name: अलाम्ब्लाक
     auto: true

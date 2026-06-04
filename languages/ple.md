@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالو
     auto: true
+  - translation_iso: fra
+    name: "palu'e"
   - translation_iso: hin
     name: पालुए
     auto: true

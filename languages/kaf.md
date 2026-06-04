@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاتسو
     auto: true
+  - translation_iso: fra
+    name: katso
   - translation_iso: hin
     name: कात्सो
     auto: true

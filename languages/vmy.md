@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: أيوتلا مازاتك
     auto: true
+  - translation_iso: fra
+    name: "Mazatèque d'Ayautla"
+    auto: true
   - translation_iso: hin
     name: अयाउतला मासातेक
     auto: true

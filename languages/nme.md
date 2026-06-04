@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زيمي ناغا
     auto: true
+  - translation_iso: fra
+    name: naga mzieme
   - translation_iso: hin
     name: ज़ाईमे भाषा
   - translation_iso: jpn

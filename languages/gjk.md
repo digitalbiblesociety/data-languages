@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: كآتشي كولي
     auto: true
+  - translation_iso: fra
+    name: koli kachi
   - translation_iso: hin
     name: कच्छी कोली
     auto: true

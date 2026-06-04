@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أس
     auto: true
+  - translation_iso: fra
+    name: as
   - translation_iso: hin
     name: आस
     auto: true

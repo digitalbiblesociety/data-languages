@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: اللغة أولكول
     auto: true
+  - translation_iso: fra
+    name: olkol
   - translation_iso: hin
     name: ओल्कोल
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإيجا
     auto: true
+  - translation_iso: fra
+    name: éga
   - translation_iso: hin
     name: एगा
     auto: true

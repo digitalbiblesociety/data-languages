@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توكانج بيسي الجنوبية
     auto: true
+  - translation_iso: fra
+    name: tukang besi du Sud
   - translation_iso: hin
     name: दक्षिणी तुकांग बेसी
     auto: true

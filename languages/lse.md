@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة وسينجو
     auto: true
+  - translation_iso: fra
+    name: losengo
   - translation_iso: hin
     name: लुसेंगो
     auto: true

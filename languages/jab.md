@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة هيام
     auto: true
+  - translation_iso: fra
+    name: hyam
   - translation_iso: hin
     name: ह्याम
     auto: true

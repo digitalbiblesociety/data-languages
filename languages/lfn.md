@@ -15,6 +15,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Lingua_Franca_Nova"
 translations:
   - translation_iso: ara
     name: لينجوا فرانكا نوفا
+  - translation_iso: fra
+    name: lingua franca nova
   - translation_iso: hin
     name: लिंगुआ फ़्रांका नोवा
   - translation_iso: jpn

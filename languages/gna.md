@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كآآنسآ
     auto: true
+  - translation_iso: fra
+    name: kaansa
   - translation_iso: hin
     name: कांसा
     auto: true

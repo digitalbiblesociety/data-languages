@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بلوشي شرقية
     auto: true
+  - translation_iso: fra
+    name: "baloutche de l'Est"
   - translation_iso: hin
     name: पूर्वी बलोची
     auto: true

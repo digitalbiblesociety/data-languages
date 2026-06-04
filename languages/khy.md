@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيلي
     auto: true
+  - translation_iso: fra
+    name: lokele
   - translation_iso: hin
     name: केले (कांगो लोकतांत्रिक गणराज्य)
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مارجو
     auto: true
+  - translation_iso: fra
+    name: marggu
   - translation_iso: hin
     name: मार्गु
     auto: true

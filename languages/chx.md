@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشانتيال
     auto: true
+  - translation_iso: fra
+    name: chantyal
   - translation_iso: hin
     name: छंत्याल
     auto: true

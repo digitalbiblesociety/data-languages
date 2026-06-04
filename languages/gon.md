@@ -11,6 +11,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Gondi_language"
 translations:
   - translation_iso: ara
     name: الجندي
+  - translation_iso: fra
+    name: gondi
   - translation_iso: hin
     name: गोंडी भाषा
   - translation_iso: jpn

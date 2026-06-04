@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاريين بوو الشمالية
     auto: true
+  - translation_iso: fra
+    name: pwo du Nord
   - translation_iso: hin
     name: उत्तरी प्वो करेन
     auto: true

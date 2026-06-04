@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة مولدوفا
     auto: true
+  - translation_iso: fra
+    name: langue des signes moldave
   - translation_iso: hin
     name: मोल्दोवा सांकेतिक भाषा
     auto: true

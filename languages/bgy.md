@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بينجويي
     auto: true
+  - translation_iso: fra
+    name: benggoi
   - translation_iso: hin
     name: बेंगोई
     auto: true

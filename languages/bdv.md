@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بودو بارجا
     auto: true
+  - translation_iso: fra
+    name: bodo parja
   - translation_iso: hin
     name: बोडो परजा
     auto: true

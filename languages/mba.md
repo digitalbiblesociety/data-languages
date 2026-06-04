@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة هيجاونون
     auto: true
+  - translation_iso: fra
+    name: Higaonon
+    auto: true
   - translation_iso: hin
     name: हिगाओनोन
     auto: true

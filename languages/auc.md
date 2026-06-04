@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة واورانيه
     auto: true
+  - translation_iso: fra
+    name: huaorani
   - translation_iso: hin
     name: वाओरानी
     auto: true

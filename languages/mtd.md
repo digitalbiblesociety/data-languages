@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مويالانج
     auto: true
+  - translation_iso: fra
+    name: mualang
   - translation_iso: hin
     name: मुआलांग
     auto: true

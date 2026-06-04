@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة آتي
     auto: true
+  - translation_iso: fra
+    name: langues inati
   - translation_iso: hin
     name: अती
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميكسي توتونتيبك
     auto: true
+  - translation_iso: fra
+    name: mixe de Totontepec
   - translation_iso: hin
     name: टोटोंटेपेक मिशे
     auto: true

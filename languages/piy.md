@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيّا-كوونتسي
     auto: true
+  - translation_iso: fra
+    name: piya-kwonci
   - translation_iso: hin
     name: पिया-क्वोंची
     auto: true

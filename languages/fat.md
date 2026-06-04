@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fante_dialect"
 translations:
   - translation_iso: ara
     name: الفانتية
+  - translation_iso: fra
+    name: fanti
   - translation_iso: hin
     name: फन्टी
   - translation_iso: jpn

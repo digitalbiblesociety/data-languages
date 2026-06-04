@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Santali_language"
 translations:
   - translation_iso: ara
     name: سنتالية
+  - translation_iso: fra
+    name: santâlî
   - translation_iso: hin
     name: संथाली
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوسوي
     auto: true
+  - translation_iso: fra
+    name: usui
   - translation_iso: hin
     name: उसुई
     auto: true

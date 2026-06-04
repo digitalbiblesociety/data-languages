@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: اللغة السالينان
     auto: true
+  - translation_iso: fra
+    name: salinan
   - translation_iso: hin
     name: सालिनान
     auto: true

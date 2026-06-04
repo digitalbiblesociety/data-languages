@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سايا
     auto: true
+  - translation_iso: fra
+    name: saya
   - translation_iso: hin
     name: साया
     auto: true

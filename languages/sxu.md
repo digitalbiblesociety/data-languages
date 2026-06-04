@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الساكسونية العليا
     auto: true
+  - translation_iso: fra
+    name: haut-saxon
   - translation_iso: hin
     name: ऊपरी सैक्सन
     auto: true

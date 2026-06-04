@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كالينجا الجنوبية
     auto: true
+  - translation_iso: fra
+    name: kalinga du Sud
   - translation_iso: hin
     name: दक्षिणी कलिंगा
     auto: true

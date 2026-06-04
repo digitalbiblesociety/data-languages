@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: موبامي
     auto: true
+  - translation_iso: fra
+    name: Mubami
+    auto: true
   - translation_iso: hin
     name: मुबामी
     auto: true

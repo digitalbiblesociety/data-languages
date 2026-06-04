@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هينوخ
     auto: true
+  - translation_iso: fra
+    name: hinukh
   - translation_iso: hin
     name: हिनुख
     auto: true

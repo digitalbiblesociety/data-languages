@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: أومبوجارلا
     auto: true
+  - translation_iso: fra
+    name: umbugarla
   - translation_iso: hin
     name: उमबुगरला भाषा
   - translation_iso: jpn

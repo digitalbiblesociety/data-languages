@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مال باهاريا
     auto: true
+  - translation_iso: fra
+    name: mal paharia
   - translation_iso: hin
     name: माल पहाड़िया
     auto: true

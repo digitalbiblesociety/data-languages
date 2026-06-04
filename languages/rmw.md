@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويلش رومانية
     auto: true
+  - translation_iso: fra
+    name: romani gallois
   - translation_iso: hin
     name: वेल्श रोमानी
     auto: true

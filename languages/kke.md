@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاكابي
     auto: true
+  - translation_iso: fra
+    name: kakabé
   - translation_iso: hin
     name: काकाबे
     auto: true

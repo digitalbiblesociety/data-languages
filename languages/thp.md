@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ثومبسون
     auto: true
+  - translation_iso: fra
+    name: thompson
   - translation_iso: hin
     name: थॉम्पसन नदी सलीशन भाषा
   - translation_iso: jpn

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: توكسيناوا
     auto: true
+  - translation_iso: fra
+    name: Tuxináwa
+    auto: true
   - translation_iso: hin
     name: तुक्सिनावा
     auto: true

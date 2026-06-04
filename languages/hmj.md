@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: "لغة جي / لغة ميــاو تشونغ'آن ريفر"
     auto: true
+  - translation_iso: fra
+    name: gejia
   - translation_iso: hin
     name: गे
     auto: true

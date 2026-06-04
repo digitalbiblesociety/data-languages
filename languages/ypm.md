@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: اللغة فوما
     auto: true
+  - translation_iso: fra
+    name: phuma
   - translation_iso: hin
     name: फूमा
     auto: true

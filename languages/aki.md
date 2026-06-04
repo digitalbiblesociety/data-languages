@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أيومي
     auto: true
+  - translation_iso: fra
+    name: aiome
   - translation_iso: hin
     name: ऐयोमे
     auto: true

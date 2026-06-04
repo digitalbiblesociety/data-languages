@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجيدجيد
     auto: true
+  - translation_iso: fra
+    name: gedaged
   - translation_iso: hin
     name: गेदागेद
     auto: true

@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: التايلاندية الشمالية
     auto: true
+  - translation_iso: fra
+    name: thaï du Nord
   - translation_iso: hin
     name: उत्तरी थाई
     auto: true

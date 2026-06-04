@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Piedmontese_language"
 translations:
   - translation_iso: ara
     name: البيمنتية
+  - translation_iso: fra
+    name: piémontais
   - translation_iso: hin
     name: पीडमॉन्टी
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: ماتبات
     auto: true
+  - translation_iso: fra
+    name: Matbat
+    auto: true
   - translation_iso: hin
     name: मतबत
     auto: true

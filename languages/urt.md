@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أورات
     auto: true
+  - translation_iso: fra
+    name: urat
   - translation_iso: hin
     name: उरात
     auto: true

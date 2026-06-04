@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيفال
     auto: true
+  - translation_iso: fra
+    name: tifal
   - translation_iso: hin
     name: तीफाल
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماركا
     auto: true
+  - translation_iso: fra
+    name: marka
   - translation_iso: hin
     name: मार्का
     auto: true

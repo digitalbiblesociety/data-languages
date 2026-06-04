@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tat_language_(Caucasus)"
 translations:
   - translation_iso: ara
     name: لغة تات
+  - translation_iso: fra
+    name: tat
   - translation_iso: hin
     name: कोकेशियान टाट भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بايما
     auto: true
+  - translation_iso: fra
+    name: baima
   - translation_iso: hin
     name: बैमा
     auto: true

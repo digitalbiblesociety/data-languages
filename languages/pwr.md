@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باوري
     auto: true
+  - translation_iso: fra
+    name: powari
   - translation_iso: hin
     name: पोवारी भाषा
   - translation_iso: jpn

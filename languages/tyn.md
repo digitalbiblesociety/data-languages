@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: كومباي
     auto: true
+  - translation_iso: fra
+    name: Kombai
+    auto: true
   - translation_iso: hin
     name: कोम्बाई
     auto: true

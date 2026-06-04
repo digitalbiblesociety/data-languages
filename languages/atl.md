@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة آجتا جبل إيرايا
     auto: true
+  - translation_iso: fra
+    name: agta du mont Iraya
   - translation_iso: hin
     name: माउंट इराया अग्ता
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجامكونورا
     auto: true
+  - translation_iso: fra
+    name: gamkonora
   - translation_iso: hin
     name: गामकोनोरा
     auto: true

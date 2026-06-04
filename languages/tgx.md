@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Tagish_language"
 translations:
   - translation_iso: ara
     name: التاغيش
+  - translation_iso: fra
+    name: tagish
   - translation_iso: hin
     name: टैगिश
   - translation_iso: jpn

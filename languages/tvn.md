@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تافويان
     auto: true
+  - translation_iso: fra
+    name: tavoyan
   - translation_iso: hin
     name: तावोयन
     auto: true

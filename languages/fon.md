@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Fon_language"
 translations:
   - translation_iso: ara
     name: الفون
+  - translation_iso: fra
+    name: fon-gbe
   - translation_iso: hin
     name: फोन भाषा
   - translation_iso: jpn

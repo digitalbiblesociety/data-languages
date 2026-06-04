@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فالام تشين
     auto: true
+  - translation_iso: fra
+    name: falam
   - translation_iso: hin
     name: फलाम चिन
     auto: true

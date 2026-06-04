@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ساويرو
     auto: true
+  - translation_iso: fra
+    name: saweru
   - translation_iso: hin
     name: सावेरु
     auto: true

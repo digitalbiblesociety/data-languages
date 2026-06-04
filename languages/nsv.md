@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: نيسو الجنوبية الغربية
     auto: true
+  - translation_iso: fra
+    name: nisu du Sud-Ouest
   - translation_iso: hin
     name: दक्षिण-पश्चिमी निसू
     auto: true

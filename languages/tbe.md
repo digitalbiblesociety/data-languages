@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تانيمبيلي
     auto: true
+  - translation_iso: fra
+    name: tanibili
   - translation_iso: hin
     name: तानिम्बिली
     auto: true

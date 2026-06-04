@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوجون
     auto: true
+  - translation_iso: fra
+    name: bugun
   - translation_iso: hin
     name: बुगुन भाषा
   - translation_iso: jpn

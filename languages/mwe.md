@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مويرا
     auto: true
+  - translation_iso: fra
+    name: mwera
   - translation_iso: hin
     name: म्वेरा
     auto: true

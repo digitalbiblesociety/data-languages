@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة باريغا
     auto: true
+  - translation_iso: fra
+    name: gorum
   - translation_iso: hin
     name: गोरुम भाषा
   - translation_iso: jpn

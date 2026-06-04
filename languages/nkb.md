@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: خويبو ناغا
     auto: true
+  - translation_iso: fra
+    name: khoibu
   - translation_iso: hin
     name: खोइबु
   - translation_iso: jpn

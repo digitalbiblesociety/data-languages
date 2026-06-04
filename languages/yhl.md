@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة هليفو فوا
     auto: true
+  - translation_iso: fra
+    name: phowa de Hlepho
   - translation_iso: hin
     name: ह्लेफो फोवा
     auto: true

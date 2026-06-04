@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: بون
     auto: true
+  - translation_iso: fra
+    name: bun
   - translation_iso: hin
     name: बुन
     auto: true

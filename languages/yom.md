@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة يومبي
     auto: true
+  - translation_iso: fra
+    name: yombe
   - translation_iso: hin
     name: योम्बे
     auto: true

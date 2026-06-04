@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة كوا-نسي
     auto: true
+  - translation_iso: fra
+    name: Kua-nsi
+    auto: true
   - translation_iso: hin
     name: कुआ-न्सी
     auto: true

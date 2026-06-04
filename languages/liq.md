@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يبيدو
     auto: true
+  - translation_iso: fra
+    name: Libido
+    auto: true
   - translation_iso: hin
     name: लिबिदो
     auto: true

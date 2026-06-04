@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كابا
     auto: true
+  - translation_iso: fra
+    name: Kabba
   - translation_iso: hin
     name: काबा
     auto: true

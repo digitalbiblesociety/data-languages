@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاسماني الشمالية الغربية
     auto: true
+  - translation_iso: fra
+    name: peerapper
   - translation_iso: hin
     name: उत्तर-पश्चिमी तस्मानियाई
     auto: true

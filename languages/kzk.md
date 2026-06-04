@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كازوكورو
     auto: true
+  - translation_iso: fra
+    name: kazukuru
   - translation_iso: hin
     name: कज़ुकुरु
     auto: true

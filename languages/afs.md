@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أفرو-سيميينول كريول
     auto: true
+  - translation_iso: fra
+    name: créole afro-séminole
   - translation_iso: hin
     name: एफ्रो-सेमिनोल क्रियोल
     auto: true

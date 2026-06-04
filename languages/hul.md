@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: هولا
     auto: true
+  - translation_iso: fra
+    name: Hula
+    auto: true
   - translation_iso: hin
     name: हुला
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيريك
     auto: true
+  - translation_iso: fra
+    name: berik
   - translation_iso: hin
     name: बेरिक
     auto: true

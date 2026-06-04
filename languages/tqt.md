@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتوناك الغربية
     auto: true
+  - translation_iso: fra
+    name: "totonaque d'Ozomatlán"
   - translation_iso: hin
     name: पश्चिमी तोतोनाक
     auto: true

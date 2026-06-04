@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نتْشام
     auto: true
+  - translation_iso: fra
+    name: ntcham
   - translation_iso: hin
     name: न्चाम
     auto: true

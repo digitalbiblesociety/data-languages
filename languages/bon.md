@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيني
     auto: true
+  - translation_iso: fra
+    name: bine
   - translation_iso: hin
     name: बाइन
     auto: true

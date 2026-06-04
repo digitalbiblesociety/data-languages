@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كولفا
     auto: true
+  - translation_iso: fra
+    name: koulfa
   - translation_iso: hin
     name: कुल्फा
     auto: true

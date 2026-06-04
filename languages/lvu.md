@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة يفوكا
     auto: true
+  - translation_iso: fra
+    name: Levuka
+    auto: true
   - translation_iso: hin
     name: लेवुका
     auto: true

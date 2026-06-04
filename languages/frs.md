@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/East_Frisian_Low_Saxon"
 translations:
   - translation_iso: ara
     name: الفريزينية الشرقية
+  - translation_iso: fra
+    name: bas saxon de Frise orientale
   - translation_iso: hin
     name: पूर्वी फ़्रीसियाई
   - translation_iso: jpn

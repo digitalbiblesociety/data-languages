@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باتانجا
     auto: true
+  - translation_iso: fra
+    name: batanga
   - translation_iso: hin
     name: बतांगा
     auto: true

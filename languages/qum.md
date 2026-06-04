@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيباكابينسي
     auto: true
+  - translation_iso: fra
+    name: sipakapense
   - translation_iso: hin
     name: सिपाकापेन्से
     auto: true

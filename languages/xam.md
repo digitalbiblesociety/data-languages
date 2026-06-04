@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: خام
     auto: true
+  - translation_iso: fra
+    name: ǀxam
   - translation_iso: hin
     name: ǀखाम
     auto: true

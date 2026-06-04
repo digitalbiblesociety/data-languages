@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Rutul_language"
 translations:
   - translation_iso: ara
     name: لغة رتولية
+  - translation_iso: fra
+    name: routoul
   - translation_iso: hin
     name: रुतुल
     auto: true

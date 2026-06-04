@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: جنوب أوهلوني
     auto: true
+  - translation_iso: fra
+    name: ohlone du Sud
   - translation_iso: hin
     name: दक्षिणी ओह्लोन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توريوارا
     auto: true
+  - translation_iso: fra
+    name: turiwara
   - translation_iso: hin
     name: तुरिवारा
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بندا الوسطى الغربية
     auto: true
+  - translation_iso: fra
+    name: "banda central de l'Ouest"
   - translation_iso: hin
     name: पश्चिम मध्य बांदा
     auto: true

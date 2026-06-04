@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كونيك ناجا
     auto: true
+  - translation_iso: fra
+    name: konyak
   - translation_iso: hin
     name: कोन्यक भाषा
   - translation_iso: jpn

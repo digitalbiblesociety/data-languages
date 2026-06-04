@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سابو
     auto: true
+  - translation_iso: fra
+    name: sapo
   - translation_iso: hin
     name: सापो
     auto: true

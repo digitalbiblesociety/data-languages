@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة لينغاو
     auto: true
+  - translation_iso: fra
+    name: be
   - translation_iso: hin
     name: लिंगाओ
     auto: true

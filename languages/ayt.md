@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أيتا ماجبوكون
     auto: true
+  - translation_iso: fra
+    name: ayta du Bataan
   - translation_iso: hin
     name: मगबुकुन आयता
     auto: true

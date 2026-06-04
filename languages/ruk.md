@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تشي
     auto: true
+  - translation_iso: fra
+    name: Che
+    auto: true
   - translation_iso: hin
     name: चे
     auto: true

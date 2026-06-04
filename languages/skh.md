@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة السيكولية
     auto: true
+  - translation_iso: fra
+    name: sikule
   - translation_iso: hin
     name: सिकुले
     auto: true

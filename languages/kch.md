@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة فونو
     auto: true
+  - translation_iso: fra
+    name: Vono
+    auto: true
   - translation_iso: hin
     name: वोनो
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة زاوزو
     auto: true
+  - translation_iso: fra
+    name: zauzou
   - translation_iso: hin
     name: ज़ौज़ौ
     auto: true

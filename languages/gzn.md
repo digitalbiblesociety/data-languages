@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غآنإ
     auto: true
+  - translation_iso: fra
+    name: gane
   - translation_iso: hin
     name: गाने
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة بونان توبو
     auto: true
+  - translation_iso: fra
+    name: Punan Tubu
+    auto: true
   - translation_iso: hin
     name: पुनान तुबु
     auto: true

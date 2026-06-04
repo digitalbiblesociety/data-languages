@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سووثوإست غبآيآ
     auto: true
+  - translation_iso: fra
+    name: gbaya du Sud-Ouest
   - translation_iso: hin
     name: दक्षिण-पश्चिमी ग्बाया
     auto: true

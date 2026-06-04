@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مالانكورافان
     auto: true
+  - translation_iso: fra
+    name: malankuravan
   - translation_iso: hin
     name: मलंकुरवन
     auto: true

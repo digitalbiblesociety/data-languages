@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: كوفا
     auto: true
+  - translation_iso: fra
+    name: kofa
   - translation_iso: hin
     name: कोफा
     auto: true

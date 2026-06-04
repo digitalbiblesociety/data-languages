@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كايريرو
     auto: true
+  - translation_iso: fra
+    name: kairiru
   - translation_iso: hin
     name: कैरिरू
     auto: true

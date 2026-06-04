@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: باجوبي
     auto: true
+  - translation_iso: fra
+    name: Bagupi
+    auto: true
   - translation_iso: hin
     name: बागुपी
     auto: true

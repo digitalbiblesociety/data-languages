@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيبيلي
     auto: true
+  - translation_iso: fra
+    name: bebeli
   - translation_iso: hin
     name: बेबेली
     auto: true

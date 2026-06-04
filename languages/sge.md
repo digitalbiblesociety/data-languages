@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سيجاي
     auto: true
+  - translation_iso: fra
+    name: segai
   - translation_iso: hin
     name: सेगाई
     auto: true

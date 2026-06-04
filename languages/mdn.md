@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مباتي
     auto: true
+  - translation_iso: fra
+    name: mbati
   - translation_iso: hin
     name: म्बाती
     auto: true

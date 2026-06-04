@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أمانايي
     auto: true
+  - translation_iso: fra
+    name: amanayé
   - translation_iso: hin
     name: अमानाये
     auto: true

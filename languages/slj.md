@@ -13,6 +13,9 @@ translations:
   - translation_iso: ara
     name: اللغة سالوما
     auto: true
+  - translation_iso: fra
+    name: Salumá
+    auto: true
   - translation_iso: hin
     name: सालुमा
     auto: true

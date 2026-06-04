@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: إيها بيسد بيدجن
     auto: true
+  - translation_iso: fra
+    name: pidgin iha
   - translation_iso: hin
     name: इहा-आधारित पिजिन
     auto: true

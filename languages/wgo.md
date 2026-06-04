@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وايغيو
     auto: true
+  - translation_iso: fra
+    name: waigeo
   - translation_iso: hin
     name: वैगेओ
     auto: true

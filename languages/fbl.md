@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: البيكول البي الغربية
     auto: true
+  - translation_iso: fra
+    name: "bikol de l'Ouest d'Albay"
   - translation_iso: hin
     name: पश्चिमी अल्बाय बिकोल
     auto: true

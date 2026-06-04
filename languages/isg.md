@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة الأيرلندية
     auto: true
+  - translation_iso: fra
+    name: langue des signes irlandaise
   - translation_iso: hin
     name: आयरिश साइन लैंग्वेज
   - translation_iso: jpn

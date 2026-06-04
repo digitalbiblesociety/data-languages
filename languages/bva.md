@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بارياْن
     auto: true
+  - translation_iso: fra
+    name: baraïn
   - translation_iso: hin
     name: बरीन
     auto: true

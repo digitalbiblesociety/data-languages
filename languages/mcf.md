@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماتسيس
     auto: true
+  - translation_iso: fra
+    name: matses
   - translation_iso: hin
     name: मात्सेस
     auto: true

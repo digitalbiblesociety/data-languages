@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيلا
     auto: true
+  - translation_iso: fra
+    name: sila
   - translation_iso: hin
     name: सिला
     auto: true

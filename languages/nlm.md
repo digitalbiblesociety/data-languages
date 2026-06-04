@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: مانكيالي
     auto: true
+  - translation_iso: fra
+    name: mankiyali
   - translation_iso: hin
     name: मनकियाली
     auto: true

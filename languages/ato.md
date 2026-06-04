@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة أتونج
     auto: true
+  - translation_iso: fra
+    name: atong
   - translation_iso: hin
     name: अतोंग (कैमरून)
     auto: true

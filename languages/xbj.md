@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: بيررپايي
     auto: true
+  - translation_iso: fra
+    name: birrpayi
   - translation_iso: hin
     name: बिरपायी
     auto: true

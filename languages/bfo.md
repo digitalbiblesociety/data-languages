@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مالبا بيريفور
     auto: true
+  - translation_iso: fra
+    name: birifor du Nord
   - translation_iso: hin
     name: माल्बा बिरिफोर
     auto: true

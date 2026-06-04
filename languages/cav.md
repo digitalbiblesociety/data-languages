@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كافينيا
     auto: true
+  - translation_iso: fra
+    name: cavineña
   - translation_iso: hin
     name: कविनेन्या
     auto: true

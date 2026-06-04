@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: بيببولمان
     auto: true
+  - translation_iso: fra
+    name: bibbulman
   - translation_iso: hin
     name: बिबुलमन
     auto: true

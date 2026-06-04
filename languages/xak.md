@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: مكو
     auto: true
+  - translation_iso: fra
+    name: máku
   - translation_iso: hin
     name: माकू
     auto: true

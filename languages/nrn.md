@@ -10,6 +10,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Norn_language"
 translations:
   - translation_iso: ara
     name: لغة نورن
+  - translation_iso: fra
+    name: norne
   - translation_iso: hin
     name: नोर्न भाषा
   - translation_iso: jpn

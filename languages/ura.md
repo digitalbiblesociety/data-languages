@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: أورارينا
     auto: true
+  - translation_iso: fra
+    name: urarina
   - translation_iso: hin
     name: उरारिना
     auto: true

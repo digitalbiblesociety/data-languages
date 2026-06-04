@@ -17,6 +17,8 @@ glottolog_classification: "Mande > Western Mande > Manding-Kpelle > Central Mand
 translations:
   - translation_iso: ara
     name: الكورو
+  - translation_iso: fra
+    name: koro
   - translation_iso: hin
     name: कोरो
   - translation_iso: jpn

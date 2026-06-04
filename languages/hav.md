@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: هآفو
     auto: true
+  - translation_iso: fra
+    name: havu
   - translation_iso: hin
     name: हावु
     auto: true

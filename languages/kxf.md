@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كارين مانوماناو
     auto: true
+  - translation_iso: fra
+    name: manumanaw
   - translation_iso: hin
     name: मनुमनाव करेन
     auto: true

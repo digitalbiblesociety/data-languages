@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: منْجوليا بورْيات
     auto: true
+  - translation_iso: fra
+    name: bouriate de Mongolie
   - translation_iso: hin
     name: मंगोलियाई बुर्यात
     auto: true

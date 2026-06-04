@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نوالو الشمالية
     auto: true
+  - translation_iso: fra
+    name: nuaulu du Nord
   - translation_iso: hin
     name: उत्तरी नुआउलु
     auto: true

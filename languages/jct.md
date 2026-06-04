@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كريمتشاك
     auto: true
+  - translation_iso: fra
+    name: krymchak
   - translation_iso: hin
     name: क्रिमचाक
     auto: true

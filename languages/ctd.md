@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: تيديم تشين
     auto: true
+  - translation_iso: fra
+    name: tedim
   - translation_iso: hin
     name: टेडिम चिन
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بانتيك
     auto: true
+  - translation_iso: fra
+    name: bantik
   - translation_iso: hin
     name: बांतिक
     auto: true

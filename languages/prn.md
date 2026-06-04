@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Prasun_language"
 translations:
   - translation_iso: ara
     name: واسي وري
+  - translation_iso: fra
+    name: prasun
   - translation_iso: hin
     name: प्रसुनी
     auto: true

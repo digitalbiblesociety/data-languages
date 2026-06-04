@@ -12,6 +12,8 @@ translations:
   - translation_iso: ara
     name: كهوا
     auto: true
+  - translation_iso: fra
+    name: khua
   - translation_iso: hin
     name: ख़ुआ
     auto: true

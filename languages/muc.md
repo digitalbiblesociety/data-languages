@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أجومبو
     auto: true
+  - translation_iso: fra
+    name: ajumbu
   - translation_iso: hin
     name: अजुम्बु
     auto: true

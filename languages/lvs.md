@@ -12,6 +12,9 @@ translations:
   - translation_iso: ara
     name: لغة تاندارد اتفيان
     auto: true
+  - translation_iso: fra
+    name: Letton standard
+    auto: true
   - translation_iso: hin
     name: मानक लातवियाई
     auto: true

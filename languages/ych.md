@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تشيسو
     auto: true
+  - translation_iso: fra
+    name: chesu
   - translation_iso: hin
     name: चेसू
     auto: true

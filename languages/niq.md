@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ناندي
     auto: true
+  - translation_iso: fra
+    name: nandi
   - translation_iso: hin
     name: नांदी
     auto: true

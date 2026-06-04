@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة موني
     auto: true
+  - translation_iso: fra
+    name: munit
   - translation_iso: hin
     name: मुनित
     auto: true

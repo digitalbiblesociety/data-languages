@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: جبايا-بوسانجوا
     auto: true
+  - translation_iso: fra
+    name: gbaya de Bossangoa
   - translation_iso: hin
     name: ग्बाया-बोसांगोआ
     auto: true

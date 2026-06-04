@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يامينهوا
     auto: true
+  - translation_iso: fra
+    name: yaminahua
   - translation_iso: hin
     name: यामिनाहुआ
     auto: true

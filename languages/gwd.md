@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: غآووآدآ
     auto: true
+  - translation_iso: fra
+    name: gollango
   - translation_iso: hin
     name: गव्वादा
     auto: true

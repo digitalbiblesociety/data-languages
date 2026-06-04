@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بياتاه بيدايوه
     auto: true
+  - translation_iso: fra
+    name: biatah bidayuh
   - translation_iso: hin
     name: बियाताह बिदायुह
     auto: true

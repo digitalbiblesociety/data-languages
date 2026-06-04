@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ف
     auto: true
+  - translation_iso: fra
+    name: pévé
   - translation_iso: hin
     name: पेवे
     auto: true

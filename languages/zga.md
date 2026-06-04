@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كينغا
     auto: true
+  - translation_iso: fra
+    name: kinga
   - translation_iso: hin
     name: किंगा
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة باكو كارين
     auto: true
+  - translation_iso: fra
+    name: karen paku
   - translation_iso: hin
     name: पाकू कारेन
     auto: true

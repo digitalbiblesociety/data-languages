@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Makassarese_language"
 translations:
   - translation_iso: ara
     name: الماكاسار
+  - translation_iso: fra
+    name: makassar
   - translation_iso: hin
     name: मकासर
   - translation_iso: jpn

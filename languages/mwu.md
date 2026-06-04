@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ميتو
     auto: true
+  - translation_iso: fra
+    name: mittu
   - translation_iso: hin
     name: मित्तू
     auto: true

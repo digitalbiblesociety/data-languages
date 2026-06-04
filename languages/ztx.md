@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك زاتشيلا
     auto: true
+  - translation_iso: fra
+    name: zapotèque de Zaachila
   - translation_iso: hin
     name: ज़ाचिला ज़ापोटेक
     auto: true

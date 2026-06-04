@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كومو
     auto: true
+  - translation_iso: fra
+    name: komo
   - translation_iso: hin
     name: कोमो (सूडान)
     auto: true

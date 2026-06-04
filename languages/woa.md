@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كوويما
     auto: true
+  - translation_iso: fra
+    name: tyaraity
   - translation_iso: hin
     name: कुवेमा
     auto: true

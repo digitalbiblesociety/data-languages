@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة البورتوريكية
     auto: true
+  - translation_iso: fra
+    name: langue des signes portoricaine
   - translation_iso: hin
     name: प्यूर्टो रिको सांकेतिक भाषा
     auto: true

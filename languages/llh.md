@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة امو
     auto: true
+  - translation_iso: fra
+    name: lamu
   - translation_iso: hin
     name: लामू
     auto: true

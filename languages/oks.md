@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوكو إني أوسايين
     auto: true
+  - translation_iso: fra
+    name: Oko-Eni-Osayen
+    auto: true
   - translation_iso: hin
     name: ओको-एनी-ओसायेन
     auto: true

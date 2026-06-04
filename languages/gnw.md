@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وإستإرن بوليفيآن غوآرآنí
     auto: true
+  - translation_iso: fra
+    name: guaraní de Bolivie occidental
   - translation_iso: hin
     name: पश्चिमी बोलिवियाई ग्वारानी
     auto: true

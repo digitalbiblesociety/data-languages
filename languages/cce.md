@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشوبي
     auto: true
+  - translation_iso: fra
+    name: chopi
   - translation_iso: hin
     name: चोपी
     auto: true

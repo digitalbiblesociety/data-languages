@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: هآهون
     auto: true
+  - translation_iso: fra
+    name: hahon
   - translation_iso: hin
     name: हाहोन
     auto: true

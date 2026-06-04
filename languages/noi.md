@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نويري
     auto: true
+  - translation_iso: fra
+    name: noiri
   - translation_iso: hin
     name: नोइरी
     auto: true

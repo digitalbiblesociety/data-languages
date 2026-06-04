@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: تينغوي بوتو
     auto: true
+  - translation_iso: fra
+    name: tingui-boto
   - translation_iso: hin
     name: तिंगुई-बोतो
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أنغال إينين
     auto: true
+  - translation_iso: fra
+    name: Angal Enen
+    auto: true
   - translation_iso: hin
     name: अंगाल एनेन
     auto: true

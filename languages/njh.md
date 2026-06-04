@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوتا ناجا
     auto: true
+  - translation_iso: fra
+    name: lotha
   - translation_iso: hin
     name: लोथा भाषा
   - translation_iso: jpn

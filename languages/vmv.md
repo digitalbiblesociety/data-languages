@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: فالي مايدو
     auto: true
+  - translation_iso: fra
+    name: maidu de la vallée
   - translation_iso: hin
     name: वैली माइदू
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إبيرا
     auto: true
+  - translation_iso: fra
+    name: ebira
   - translation_iso: hin
     name: एबिरा
     auto: true

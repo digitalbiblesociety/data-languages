@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: وراو
     auto: true
+  - translation_iso: fra
+    name: warao
   - translation_iso: hin
     name: वराओ
     auto: true

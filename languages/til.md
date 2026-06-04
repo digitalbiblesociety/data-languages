@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تيلاموك
     auto: true
+  - translation_iso: fra
+    name: tillamook
   - translation_iso: hin
     name: टिलामूक
     auto: true

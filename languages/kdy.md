@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كيدير
     auto: true
+  - translation_iso: fra
+    name: keder
   - translation_iso: hin
     name: केडर
     auto: true

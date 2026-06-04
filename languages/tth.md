@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: الطاعة العليا
     auto: true
+  - translation_iso: fra
+    name: ta’oih supérieur
   - translation_iso: hin
     name: "ऊपरी ता'ओइह"
     auto: true

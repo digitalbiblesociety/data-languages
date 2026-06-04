@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نيمانبور
     auto: true
+  - translation_iso: fra
+    name: nimanbur
   - translation_iso: hin
     name: निमानबुर
     auto: true

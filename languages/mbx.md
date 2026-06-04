@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماري
     auto: true
+  - translation_iso: fra
+    name: mari
   - translation_iso: hin
     name: मारी (पूर्वी सेपिक प्रांत)
     auto: true

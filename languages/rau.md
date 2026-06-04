@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: راوتي
     auto: true
+  - translation_iso: fra
+    name: raute
   - translation_iso: hin
     name: राउते
     auto: true

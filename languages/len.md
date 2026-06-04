@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: لغة ينكا
     auto: true
+  - translation_iso: fra
+    name: langues lencas
   - translation_iso: hin
     name: लेंका
     auto: true

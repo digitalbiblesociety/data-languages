@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: تاروما
     auto: true
+  - translation_iso: fra
+    name: taruma
   - translation_iso: hin
     name: तारुमा
     auto: true

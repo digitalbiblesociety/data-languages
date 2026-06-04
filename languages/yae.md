@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: بومي
     auto: true
+  - translation_iso: fra
+    name: yaruro
   - translation_iso: hin
     name: पुमे
     auto: true

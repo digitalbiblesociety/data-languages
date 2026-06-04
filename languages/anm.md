@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أناّال
     auto: true
+  - translation_iso: fra
+    name: anal
   - translation_iso: hin
     name: अनाल भाषा
   - translation_iso: jpn

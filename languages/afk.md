@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة نانوبي
     auto: true
+  - translation_iso: fra
+    name: nanubae
   - translation_iso: hin
     name: नानुबाए
     auto: true

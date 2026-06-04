@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الكوبيو
     auto: true
+  - translation_iso: fra
+    name: cubeo
   - translation_iso: hin
     name: कुबेओ
     auto: true

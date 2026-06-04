@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كيندم
     auto: true
+  - translation_iso: fra
+    name: kendem
   - translation_iso: hin
     name: केंडेम
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تانايناه
     auto: true
+  - translation_iso: fra
+    name: "dena'ina"
   - translation_iso: hin
     name: तनैना
     auto: true

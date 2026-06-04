@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة أبوريني
     auto: true
+  - translation_iso: fra
+    name: Abureni
+    auto: true
   - translation_iso: hin
     name: अबुरेनी
     auto: true

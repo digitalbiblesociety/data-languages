@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة وكو
     auto: true
+  - translation_iso: fra
+    name: loko
   - translation_iso: hin
     name: लोको
     auto: true

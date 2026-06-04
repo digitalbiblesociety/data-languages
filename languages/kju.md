@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاشايا
     auto: true
+  - translation_iso: fra
+    name: kashaya
   - translation_iso: hin
     name: काशाया
     auto: true

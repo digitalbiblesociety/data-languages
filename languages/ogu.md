@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: اللغة أوغبرونواغوم
     auto: true
+  - translation_iso: fra
+    name: Ogbronuagum
+    auto: true
   - translation_iso: hin
     name: ओग्ब्रोनुआगुम
     auto: true

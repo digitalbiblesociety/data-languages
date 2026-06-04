@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أراكي
     auto: true
+  - translation_iso: fra
+    name: araki
   - translation_iso: hin
     name: अराकी
     auto: true

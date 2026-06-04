@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: وايانيد تشيتي
     auto: true
+  - translation_iso: fra
+    name: Chetti du Wayanad
+    auto: true
   - translation_iso: hin
     name: वायनाड चेट्टी
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تيفارو
     auto: true
+  - translation_iso: fra
+    name: tefaro
   - translation_iso: hin
     name: तेफारो
     auto: true

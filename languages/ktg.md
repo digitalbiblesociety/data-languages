@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كالكوتونج
     auto: true
+  - translation_iso: fra
+    name: kalkatungu
   - translation_iso: hin
     name: कलकुटुंग
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لإرإ
     auto: true
+  - translation_iso: fra
+    name: lere
   - translation_iso: hin
     name: लेरे
     auto: true

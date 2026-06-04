@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Kiswahili"
 translations:
   - translation_iso: ara
     name: السواحيلية
+  - translation_iso: fra
+    name: kiswahili
   - translation_iso: hin
     name: स्वाहिली (तटीय)
     auto: true

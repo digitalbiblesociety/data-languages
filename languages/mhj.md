@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Moghol_language"
 translations:
   - translation_iso: ara
     name: المغولية
+  - translation_iso: fra
+    name: moghol
   - translation_iso: hin
     name: मोगोली
     auto: true

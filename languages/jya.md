@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: لغة جيارونغ
     auto: true
+  - translation_iso: fra
+    name: langues rGyalrong
   - translation_iso: hin
     name: जियारोंग
     auto: true

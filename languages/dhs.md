@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: دايسو
     auto: true
+  - translation_iso: fra
+    name: dhaiso
   - translation_iso: hin
     name: धाइसो
     auto: true

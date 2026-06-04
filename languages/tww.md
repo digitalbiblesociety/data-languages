@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توواري
     auto: true
+  - translation_iso: fra
+    name: tuwari
   - translation_iso: hin
     name: तुवारी
     auto: true

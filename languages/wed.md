@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: ويداو
     auto: true
+  - translation_iso: fra
+    name: wedau
   - translation_iso: hin
     name: वेदाउ
     auto: true

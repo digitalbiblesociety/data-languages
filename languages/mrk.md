@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة همفافيكي
     auto: true
+  - translation_iso: fra
+    name: hmwaveke
   - translation_iso: hin
     name: ह्मवावेके
     auto: true

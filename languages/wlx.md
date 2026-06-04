@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: والي غهانا
     auto: true
+  - translation_iso: fra
+    name: wali
   - translation_iso: hin
     name: वली (घाना)
     auto: true

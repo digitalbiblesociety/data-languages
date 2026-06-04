@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الأزكوي
     auto: true
+  - translation_iso: fra
+    name: uzekwe
   - translation_iso: hin
     name: उज़ेक्वे
     auto: true

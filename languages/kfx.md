@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كولو باهاري
     auto: true
+  - translation_iso: fra
+    name: Pahari de Kullu
+    auto: true
   - translation_iso: hin
     name: कुलुई
   - translation_iso: jpn

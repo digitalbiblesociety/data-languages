@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توتوناك ييكواتلا
     auto: true
+  - translation_iso: fra
+    name: totonaque de Misantla
   - translation_iso: hin
     name: येकुआत्ला टोटोनाक
     auto: true

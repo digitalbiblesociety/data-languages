@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديني
     auto: true
+  - translation_iso: fra
+    name: dení
   - translation_iso: hin
     name: देनी
     auto: true

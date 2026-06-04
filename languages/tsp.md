@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توسيان الشمالية
     auto: true
+  - translation_iso: fra
+    name: toussian du Nord
   - translation_iso: hin
     name: उत्तरी तूसियन
     auto: true

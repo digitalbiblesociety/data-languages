@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وايجالي
     auto: true
+  - translation_iso: fra
+    name: waigali
   - translation_iso: hin
     name: वैगली
     auto: true

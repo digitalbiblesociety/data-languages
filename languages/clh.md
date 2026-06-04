@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشيليسو
     auto: true
+  - translation_iso: fra
+    name: chilisso
   - translation_iso: hin
     name: चीलीस्सो भाषा
   - translation_iso: jpn

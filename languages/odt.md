@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Old_Dutch"
 translations:
   - translation_iso: ara
     name: اللغة الهولندية القديمة
+  - translation_iso: fra
+    name: vieux néerlandais
   - translation_iso: hin
     name: प्राचीन डच
     auto: true

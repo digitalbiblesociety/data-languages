@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: اللغة البريتونية القديمة
     auto: true
+  - translation_iso: fra
+    name: vieux breton
   - translation_iso: hin
     name: प्राचीन ब्रेटन
     auto: true

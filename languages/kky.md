@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة غوغو ييميدير
     auto: true
+  - translation_iso: fra
+    name: guugu yimidhirr
   - translation_iso: hin
     name: गूगू यिमिधिर
     auto: true

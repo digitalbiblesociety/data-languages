@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ديبابوون مانوبو
     auto: true
+  - translation_iso: fra
+    name: manobo dibabawon
   - translation_iso: hin
     name: डिबाबावोन मानोबो
     auto: true

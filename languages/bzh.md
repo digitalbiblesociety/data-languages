@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماپوس بوانج
     auto: true
+  - translation_iso: fra
+    name: buang mapos
   - translation_iso: hin
     name: मापोस बुआंग
     auto: true

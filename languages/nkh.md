@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: خيزها ناغا
     auto: true
+  - translation_iso: fra
+    name: khezha
   - translation_iso: hin
     name: खेज़ा भाषा
   - translation_iso: jpn

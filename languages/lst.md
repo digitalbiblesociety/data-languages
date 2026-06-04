@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة في ترينيداد وتوباغو
     auto: true
+  - translation_iso: fra
+    name: langue des signes trinidadienne
   - translation_iso: hin
     name: त्रिनिदाद और टोबैगो सांकेतिक भाषा
     auto: true

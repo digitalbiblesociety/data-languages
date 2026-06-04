@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيمبوي
     auto: true
+  - translation_iso: fra
+    name: pimbwe
   - translation_iso: hin
     name: पिम्ब्वे
     auto: true

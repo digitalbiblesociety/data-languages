@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تاماسولا ميكستيك
     auto: true
+  - translation_iso: fra
+    name: mixtèque tamazola
   - translation_iso: hin
     name: तामासोला मिश्तेक
     auto: true

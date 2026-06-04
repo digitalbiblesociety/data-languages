@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: اللغة ياغارا
     auto: true
+  - translation_iso: fra
+    name: yagara
   - translation_iso: hin
     name: यगारा
     auto: true

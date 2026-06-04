@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كاوندي
     auto: true
+  - translation_iso: fra
+    name: kaonde
   - translation_iso: hin
     name: काओन्दे
     auto: true

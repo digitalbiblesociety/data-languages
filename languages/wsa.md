@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: واريمبوري
     auto: true
+  - translation_iso: fra
+    name: warembori
   - translation_iso: hin
     name: वारेम्बोरी
     auto: true

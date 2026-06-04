@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: ثاتشانادان
     auto: true
+  - translation_iso: fra
+    name: Thachanadan
+    auto: true
   - translation_iso: hin
     name: थचनादन
     auto: true

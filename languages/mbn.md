@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة ماكاغوان
     auto: true
+  - translation_iso: fra
+    name: macaguán
   - translation_iso: hin
     name: माकागुआन
     auto: true

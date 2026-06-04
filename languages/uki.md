@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: كوي
     auto: true
+  - translation_iso: fra
+    name: kui
   - translation_iso: hin
     name: कुई भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مايوو الوسطى
     auto: true
+  - translation_iso: fra
+    name: maewo central
   - translation_iso: hin
     name: मध्य माएवो
     auto: true

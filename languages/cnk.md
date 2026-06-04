@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الخومي تشين
     auto: true
+  - translation_iso: fra
+    name: khumi chin
   - translation_iso: hin
     name: खुमी चिन
     auto: true

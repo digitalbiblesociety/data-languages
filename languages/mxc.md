@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: مانيكا
     auto: true
+  - translation_iso: fra
+    name: manyika
   - translation_iso: hin
     name: मन्यिका
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: سورسوجانون الشمالية
     auto: true
+  - translation_iso: fra
+    name: sorsoganon du Nord
   - translation_iso: hin
     name: उत्तरी सोरसोगानोन
     auto: true

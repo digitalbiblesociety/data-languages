@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: إيزون
     auto: true
+  - translation_iso: fra
+    name: izon
   - translation_iso: hin
     name: इज़ोन
     auto: true

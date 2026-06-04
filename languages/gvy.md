@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: غويآني
     auto: true
+  - translation_iso: fra
+    name: guyani
   - translation_iso: hin
     name: गुयानी
     auto: true

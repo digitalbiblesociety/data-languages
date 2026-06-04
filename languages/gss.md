@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة الإشارة اليونانية
     auto: true
+  - translation_iso: fra
+    name: langue des signes grecque
   - translation_iso: hin
     name: यूनानी सांकेतिक भाषा
     auto: true

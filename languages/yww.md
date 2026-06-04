@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة ياوارواركا
     auto: true
+  - translation_iso: fra
+    name: yawarawarga
   - translation_iso: hin
     name: यवरवर्गा
     auto: true

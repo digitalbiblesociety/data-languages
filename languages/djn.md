@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جاوين
     auto: true
+  - translation_iso: fra
+    name: djauan
   - translation_iso: hin
     name: जावोयन
     auto: true

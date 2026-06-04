@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ناجومي
     auto: true
+  - translation_iso: fra
+    name: nagumi
   - translation_iso: hin
     name: नागुमी
     auto: true

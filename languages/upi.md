@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: أوميدا
     auto: true
+  - translation_iso: fra
+    name: Umeda
+    auto: true
   - translation_iso: hin
     name: उमेदा
     auto: true

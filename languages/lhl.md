@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة اهول وهار
     auto: true
+  - translation_iso: fra
+    name: Lohar de Lahul
+    auto: true
   - translation_iso: hin
     name: लाहुल लोहार
     auto: true

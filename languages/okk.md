@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة كوامتيم وان
     auto: true
+  - translation_iso: fra
+    name: one kwamtim
   - translation_iso: hin
     name: क्वामतिम वन
     auto: true

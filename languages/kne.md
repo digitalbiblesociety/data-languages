@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كانكانيي
     auto: true
+  - translation_iso: fra
+    name: kankanaey
   - translation_iso: hin
     name: कनकनाय
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة أميل
     auto: true
+  - translation_iso: fra
+    name: amélé
   - translation_iso: hin
     name: अमेले
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة خاراجوري
     auto: true
+  - translation_iso: fra
+    name: xaragurè
   - translation_iso: hin
     name: ख़ारागुरे
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الجادي
     auto: true
+  - translation_iso: fra
+    name: gaddi
   - translation_iso: hin
     name: गदी
   - translation_iso: jpn

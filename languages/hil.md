@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hiligaynon_language"
 translations:
   - translation_iso: ara
     name: الهيليجينون
+  - translation_iso: fra
+    name: hiligaïnon
   - translation_iso: hin
     name: हिलिगायनोन भाषा
   - translation_iso: jpn

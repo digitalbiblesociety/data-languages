@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كوادي
     auto: true
+  - translation_iso: fra
+    name: kwadi
   - translation_iso: hin
     name: क्वाडी
     auto: true

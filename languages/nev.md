@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نياهيون
     auto: true
+  - translation_iso: fra
+    name: Nyaheun
+    auto: true
   - translation_iso: hin
     name: न्याहेउन
     auto: true

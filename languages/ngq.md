@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: نجوريمي
     auto: true
+  - translation_iso: fra
+    name: Ngurimi
+    auto: true
   - translation_iso: hin
     name: न्गुरिमी
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: جور مودو
     auto: true
+  - translation_iso: fra
+    name: modo
   - translation_iso: hin
     name: जुर मोदो
     auto: true

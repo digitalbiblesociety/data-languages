@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كاكو
     auto: true
+  - translation_iso: fra
+    name: "kaco'"
   - translation_iso: hin
     name: काको
     auto: true
@@ -25,7 +27,7 @@ translations:
     name: カコ語
     auto: true
   - translation_iso: spa
-    name: "Kaco'"
+    name: Kaco
     auto: true
   - translation_iso: zho
     name: 卡乔语

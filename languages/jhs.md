@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: لغة جهانكوت للإشارة
     auto: true
+  - translation_iso: fra
+    name: Langue des signes de Jhankot
+    auto: true
   - translation_iso: hin
     name: झनकोट सांकेतिक भाषा
   - translation_iso: jpn

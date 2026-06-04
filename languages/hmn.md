@@ -12,6 +12,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hmong_language"
 translations:
   - translation_iso: ara
     name: الهمونجية
+  - translation_iso: fra
+    name: miao chuanqiandian
   - translation_iso: hin
     name: ह्मॉंग
   - translation_iso: jpn

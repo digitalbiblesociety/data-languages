@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كيبوت
     auto: true
+  - translation_iso: fra
+    name: kiput
   - translation_iso: hin
     name: किपुत
     auto: true

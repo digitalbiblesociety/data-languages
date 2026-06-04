@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bari_language"
 translations:
   - translation_iso: ara
     name: لغة باري
+  - translation_iso: fra
+    name: bari
   - translation_iso: hin
     name: बारी
     auto: true

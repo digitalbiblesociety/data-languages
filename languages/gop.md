@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يإرإتوآر
     auto: true
+  - translation_iso: fra
+    name: yeretuar
   - translation_iso: hin
     name: येरेतुआर
     auto: true

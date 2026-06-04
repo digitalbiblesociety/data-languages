@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كامايو
     auto: true
+  - translation_iso: fra
+    name: kamayo
   - translation_iso: hin
     name: कामायो
     auto: true

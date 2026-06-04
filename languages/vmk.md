@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ماخووا-شيريما
     auto: true
+  - translation_iso: fra
+    name: chirima
   - translation_iso: hin
     name: माखुवा-शिरिमा
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: بوكان
     auto: true
+  - translation_iso: fra
+    name: Bookan
+    auto: true
   - translation_iso: hin
     name: बूकान
     auto: true

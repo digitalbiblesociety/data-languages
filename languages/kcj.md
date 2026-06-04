@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كوبيانا
     auto: true
+  - translation_iso: fra
+    name: cobiana
   - translation_iso: hin
     name: कोबियाना
     auto: true

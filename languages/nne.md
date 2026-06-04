@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نغانديرا
     auto: true
+  - translation_iso: fra
+    name: ngandyera
   - translation_iso: hin
     name: न्गान्द्येरा
     auto: true

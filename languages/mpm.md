@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة ميكستك يوسونديا
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Yosondúa
   - translation_iso: hin
     name: योसोंदुआ मिश्तेक
     auto: true

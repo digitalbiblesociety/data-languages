@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مبوكو
     auto: true
+  - translation_iso: fra
+    name: mboko
   - translation_iso: hin
     name: म्बोको
     auto: true

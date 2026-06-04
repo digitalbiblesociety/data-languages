@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كريسا
     auto: true
+  - translation_iso: fra
+    name: krisa
   - translation_iso: hin
     name: क्रिसा
     auto: true

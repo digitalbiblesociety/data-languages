@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة يميلنجان
     auto: true
+  - translation_iso: fra
+    name: limilngan
   - translation_iso: hin
     name: लिमिल्नगान
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: جنوب شرق نوتشيكستلان ميكستك
     auto: true
+  - translation_iso: fra
+    name: Mixtèque du sud-est de Nochixtlán
+    auto: true
   - translation_iso: hin
     name: दक्षिण-पूर्वी नोचिक्सतलान मिक्सटेक
     auto: true

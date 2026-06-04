@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ويست جودينو
     auto: true
+  - translation_iso: fra
+    name: diodio
   - translation_iso: hin
     name: पश्चिमी गुडइनफ़
     auto: true

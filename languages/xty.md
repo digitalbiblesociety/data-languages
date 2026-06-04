@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: يولوكسوتشيتل ميكستيك
     auto: true
+  - translation_iso: fra
+    name: mixtèque de Yoloxóchitl
   - translation_iso: hin
     name: योलोक्सोचित्ल मिक्सटेक
     auto: true

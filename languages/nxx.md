@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نافري
     auto: true
+  - translation_iso: fra
+    name: nafri
   - translation_iso: hin
     name: नाफ्री
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أسارو
     auto: true
+  - translation_iso: fra
+    name: "asaro'o"
   - translation_iso: hin
     name: असारोओ
     auto: true

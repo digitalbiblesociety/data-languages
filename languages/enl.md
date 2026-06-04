@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الإنلهيت
     auto: true
+  - translation_iso: fra
+    name: enlhet
   - translation_iso: hin
     name: एनलहेट
     auto: true

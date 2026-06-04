@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مادي
     auto: true
+  - translation_iso: fra
+    name: madi
   - translation_iso: hin
     name: मादी
     auto: true

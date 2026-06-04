@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: توينيبو باريو نيغرو
     auto: true
+  - translation_iso: fra
+    name: tunebo de Barro Negro
   - translation_iso: hin
     name: बारो नेग्रो तुनेबो
     auto: true

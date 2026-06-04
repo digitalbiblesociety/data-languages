@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: جابورونغ
     auto: true
+  - translation_iso: fra
+    name: djabwurrung
   - translation_iso: hin
     name: जाबवुर्रुंग
     auto: true

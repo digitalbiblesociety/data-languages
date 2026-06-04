@@ -17,6 +17,9 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Dezfuli_dialect"
 translations:
   - translation_iso: ara
     name: لهجة دزفولية
+  - translation_iso: fra
+    name: Dezfuli
+    auto: true
   - translation_iso: hin
     name: देज़फ़ुली
     auto: true

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: "ندا'ندا"
     auto: true
+  - translation_iso: fra
+    name: "nda'nda'"
   - translation_iso: hin
     name: न्दान्दा
     auto: true
@@ -25,7 +27,7 @@ translations:
     name: ンダンダ語
     auto: true
   - translation_iso: spa
-    name: "Nda'nda'"
+    name: "Nda'nda"
     auto: true
   - translation_iso: zho
     name: 恩达恩达语

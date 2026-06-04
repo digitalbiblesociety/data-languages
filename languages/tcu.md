@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تاراهومارا الجنوبية الشرقية
     auto: true
+  - translation_iso: fra
+    name: tarahumara du Sud-Est
   - translation_iso: hin
     name: दक्षिणपूर्वी तारहुमारा
     auto: true

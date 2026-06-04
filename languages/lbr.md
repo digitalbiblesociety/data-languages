@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوهورونج
     auto: true
+  - translation_iso: fra
+    name: lohorung
   - translation_iso: hin
     name: लोहोरुङ
     auto: true

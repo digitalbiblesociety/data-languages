@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سيكو تينجاه
     auto: true
+  - translation_iso: fra
+    name: seko tengah
   - translation_iso: hin
     name: सेको तेंगाह
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة كينوكو
     auto: true
+  - translation_iso: fra
+    name: Kinuku
+    auto: true
   - translation_iso: hin
     name: किनुकु
     auto: true

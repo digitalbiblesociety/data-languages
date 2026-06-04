@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لوري
     auto: true
+  - translation_iso: fra
+    name: luri
   - translation_iso: hin
     name: लुरी
     auto: true

@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة أندّوك
     auto: true
+  - translation_iso: fra
+    name: andoke
   - translation_iso: hin
     name: अंदोके
     auto: true

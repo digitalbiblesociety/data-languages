@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: لغة افوكاليفي
     auto: true
+  - translation_iso: fra
+    name: lavukaleve
   - translation_iso: hin
     name: लावुकालेवे
     auto: true

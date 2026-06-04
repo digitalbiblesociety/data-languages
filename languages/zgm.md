@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مينز زوانغ
     auto: true
+  - translation_iso: fra
+    name: minz zhuang
   - translation_iso: hin
     name: मिन्ज़ ज़ुआंग
     auto: true

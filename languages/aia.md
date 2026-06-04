@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة أروسي
     auto: true
+  - translation_iso: fra
+    name: arosi
   - translation_iso: hin
     name: अरोसी
     auto: true

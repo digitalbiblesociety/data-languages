@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Okanagan_language"
 translations:
   - translation_iso: ara
     name: الأوكاناغانية
+  - translation_iso: fra
+    name: colville-okanagan
   - translation_iso: hin
     name: ओकानागन भाषा
   - translation_iso: jpn

@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: أوتانك
     auto: true
+  - translation_iso: fra
+    name: langue Otank
   - translation_iso: hin
     name: ओतांक
     auto: true

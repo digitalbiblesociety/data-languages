@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ممن
     auto: true
+  - translation_iso: fra
+    name: mmen
   - translation_iso: hin
     name: म्मेन
     auto: true

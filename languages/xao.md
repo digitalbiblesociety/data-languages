@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: كهاو
     auto: true
+  - translation_iso: fra
+    name: khao
   - translation_iso: hin
     name: खाओ
     auto: true

@@ -13,6 +13,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Estonian_language"
 translations:
   - translation_iso: ara
     name: الإستونية
+  - translation_iso: fra
+    name: estonien
   - translation_iso: hin
     name: एस्टोनियाई
   - translation_iso: jpn

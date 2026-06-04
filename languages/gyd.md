@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: كآيآرديلد
     auto: true
+  - translation_iso: fra
+    name: kayardild
   - translation_iso: hin
     name: कायार्डिल्ड
     auto: true

@@ -11,6 +11,8 @@ translations:
   - translation_iso: ara
     name: اللغة ميسيان
     auto: true
+  - translation_iso: fra
+    name: mysien
   - translation_iso: hin
     name: मिसियन
     auto: true

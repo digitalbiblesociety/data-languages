@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: توران
     auto: true
+  - translation_iso: fra
+    name: toram
   - translation_iso: hin
     name: तोराम
     auto: true

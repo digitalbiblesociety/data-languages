@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بانسوان
     auto: true
+  - translation_iso: fra
+    name: panasuan
   - translation_iso: hin
     name: पानासुआन
     auto: true

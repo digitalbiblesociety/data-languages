@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: دوواي
     auto: true
+  - translation_iso: fra
+    name: Ɗuwai
   - translation_iso: hin
     name: दुवाई
     auto: true

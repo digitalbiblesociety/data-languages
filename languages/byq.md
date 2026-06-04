@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باساي
     auto: true
+  - translation_iso: fra
+    name: basay
   - translation_iso: hin
     name: बासाय
     auto: true

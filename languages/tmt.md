@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تاسماتي
     auto: true
+  - translation_iso: fra
+    name: tasmate
   - translation_iso: hin
     name: तासमाते
     auto: true

@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Quinault_language"
 translations:
   - translation_iso: ara
     name: كينولت
+  - translation_iso: fra
+    name: quinault
   - translation_iso: hin
     name: क्विनॉल्ट
     auto: true

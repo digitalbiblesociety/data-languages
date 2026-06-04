@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة كايوا
     auto: true
+  - translation_iso: fra
+    name: kaiwá
   - translation_iso: hin
     name: कैवा
     auto: true

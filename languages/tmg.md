@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: تيرناتينو
     auto: true
+  - translation_iso: fra
+    name: Ternateño
+    auto: true
   - translation_iso: hin
     name: तेरनातेन्यो
     auto: true

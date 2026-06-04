@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: وانيي
     auto: true
+  - translation_iso: fra
+    name: wanyi
   - translation_iso: hin
     name: वान्यी
     auto: true

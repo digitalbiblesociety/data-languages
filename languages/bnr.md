@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بوتماس تور
     auto: true
+  - translation_iso: fra
+    name: butmas-tur
   - translation_iso: hin
     name: बुटमास-तुर
     auto: true

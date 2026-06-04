@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: باربارينيو
     auto: true
+  - translation_iso: fra
+    name: barbareño
   - translation_iso: hin
     name: बारबारेन्यो
     auto: true

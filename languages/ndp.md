@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ندو
     auto: true
+  - translation_iso: fra
+    name: ndo
   - translation_iso: hin
     name: न्दो
     auto: true

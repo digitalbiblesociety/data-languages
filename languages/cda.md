@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الشوني
     auto: true
+  - translation_iso: fra
+    name: choni
   - translation_iso: hin
     name: चोनी
     auto: true

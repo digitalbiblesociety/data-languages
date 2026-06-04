@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: هويآ هويآ
     auto: true
+  - translation_iso: fra
+    name: hoia hoia ukusi-koparamio
   - translation_iso: hin
     name: होइया होइया
     auto: true

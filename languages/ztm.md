@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك سان أغوستين ميكستيبيك
     auto: true
+  - translation_iso: fra
+    name: zapotèque de San Agustín Mixtepec
   - translation_iso: hin
     name: सान अगुस्तीन मिक्सटेपेक ज़ापोटेक
     auto: true

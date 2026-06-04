@@ -19,6 +19,8 @@ translations:
   - translation_iso: ara
     name: ريجانج
     auto: true
+  - translation_iso: fra
+    name: rejang
   - translation_iso: hin
     name: रेजांग
     auto: true

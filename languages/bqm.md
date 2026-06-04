@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: وومبوكو
     auto: true
+  - translation_iso: fra
+    name: wumboko
   - translation_iso: hin
     name: वुम्बोको
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: سووا
     auto: true
+  - translation_iso: fra
+    name: Suwawa
+    auto: true
   - translation_iso: hin
     name: सुवावा
     auto: true

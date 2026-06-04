@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة سوميييف
     auto: true
+  - translation_iso: fra
+    name: somyev
   - translation_iso: hin
     name: सोम्येव
     auto: true

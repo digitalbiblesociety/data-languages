@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: مبآتو
     auto: true
+  - translation_iso: fra
+    name: mbatto
   - translation_iso: hin
     name: म्बातो
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة باه دي
     auto: true
+  - translation_iso: fra
+    name: pa di
   - translation_iso: hin
     name: पा दी
     auto: true

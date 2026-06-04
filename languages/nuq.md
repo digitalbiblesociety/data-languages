@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: نوكومانو
     auto: true
+  - translation_iso: fra
+    name: Nukumanu
+    auto: true
   - translation_iso: hin
     name: नुकुमानु
     auto: true

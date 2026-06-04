@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نجيمبا
     auto: true
+  - translation_iso: fra
+    name: ngemba
   - translation_iso: hin
     name: न्गेम्बा
     auto: true

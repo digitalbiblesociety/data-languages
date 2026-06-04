@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بيندي
     auto: true
+  - translation_iso: fra
+    name: bende
   - translation_iso: hin
     name: बेंडे
     auto: true

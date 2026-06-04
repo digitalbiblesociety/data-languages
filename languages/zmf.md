@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة مفينو
     auto: true
+  - translation_iso: fra
+    name: mfinu
   - translation_iso: hin
     name: मफिनू
     auto: true

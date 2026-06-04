@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كيسي
     auto: true
+  - translation_iso: fra
+    name: kisi
   - translation_iso: hin
     name: किसी
     auto: true

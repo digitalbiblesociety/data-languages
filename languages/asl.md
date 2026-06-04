@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة أسيلولو
     auto: true
+  - translation_iso: fra
+    name: asilulu
   - translation_iso: hin
     name: असिलुलु
     auto: true

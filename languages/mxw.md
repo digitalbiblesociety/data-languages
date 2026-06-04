@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نامو
     auto: true
+  - translation_iso: fra
+    name: namo
   - translation_iso: hin
     name: नामो
     auto: true

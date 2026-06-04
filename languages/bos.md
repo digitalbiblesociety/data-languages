@@ -13,6 +13,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Bosnian_language"
 translations:
   - translation_iso: ara
     name: البوسنية
+  - translation_iso: fra
+    name: bosnien
   - translation_iso: hin
     name: बॉस्नियाई भाषा
   - translation_iso: jpn

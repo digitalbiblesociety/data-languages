@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ذاو
     auto: true
+  - translation_iso: fra
+    name: dhao
   - translation_iso: hin
     name: धाओ
     auto: true

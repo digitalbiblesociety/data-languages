@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تينّ
     auto: true
+  - translation_iso: fra
+    name: then
   - translation_iso: hin
     name: टेन
     auto: true

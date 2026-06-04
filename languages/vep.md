@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Veps_language"
 translations:
   - translation_iso: ara
     name: الفيبسية
+  - translation_iso: fra
+    name: vepse
   - translation_iso: hin
     name: वेप्स
     auto: true

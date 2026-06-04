@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة هايك
     auto: true
+  - translation_iso: fra
+    name: haéké
   - translation_iso: hin
     name: हाएके
     auto: true

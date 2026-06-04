@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة بومو الشمالية الشرقية
     auto: true
+  - translation_iso: fra
+    name: pomo du Nord-Est
   - translation_iso: hin
     name: उत्तरपूर्वी पोमो
     auto: true

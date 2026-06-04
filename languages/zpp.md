@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: زابوتيك ال ألتو
     auto: true
+  - translation_iso: fra
+    name: "zapotèque d'El Alto"
   - translation_iso: hin
     name: एल आल्तो सैपोटेक
     auto: true

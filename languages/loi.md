@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة وما
     auto: true
+  - translation_iso: fra
+    name: loma
   - translation_iso: hin
     name: लोमा (कोत दिव्वार)
     auto: true

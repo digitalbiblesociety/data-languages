@@ -16,6 +16,8 @@ translations:
   - translation_iso: ara
     name: تاغين
     auto: true
+  - translation_iso: fra
+    name: tagin
   - translation_iso: hin
     name: तागिन
     auto: true

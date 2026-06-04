@@ -17,6 +17,9 @@ translations:
   - translation_iso: ara
     name: اللغة سيالوم
     auto: true
+  - translation_iso: fra
+    name: Sialum
+    auto: true
   - translation_iso: hin
     name: सियालुम
     auto: true

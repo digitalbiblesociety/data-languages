@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: اللغة بالاوانو الجنوبية الغربية
     auto: true
+  - translation_iso: fra
+    name: palawano du Sud-Ouest
   - translation_iso: hin
     name: दक्षिण-पश्चिम पालावानो
     auto: true

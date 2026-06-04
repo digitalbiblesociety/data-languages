@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: ديجو
     auto: true
+  - translation_iso: fra
+    name: digo
   - translation_iso: hin
     name: दिगो
     auto: true

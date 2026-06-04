@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: بيلي
     auto: true
+  - translation_iso: fra
+    name: beli
   - translation_iso: hin
     name: बेली (पापुआ न्यू गिनी)
     auto: true

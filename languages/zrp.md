@@ -13,6 +13,8 @@ translations:
   - translation_iso: ara
     name: زارفاتيك
     auto: true
+  - translation_iso: fra
+    name: sarphatique
   - translation_iso: hin
     name: ज़ारफ़ाटिक
     auto: true

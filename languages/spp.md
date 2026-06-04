@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة سوبيير سينوفو
     auto: true
+  - translation_iso: fra
+    name: supyiré
   - translation_iso: hin
     name: सुपयिरे सेनोफो
     auto: true

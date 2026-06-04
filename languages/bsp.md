@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: باجا سيتيمو
     auto: true
+  - translation_iso: fra
+    name: baga sitem
   - translation_iso: hin
     name: बागा सितेमु
     auto: true

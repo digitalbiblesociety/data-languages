@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة مهمونغ نجوا
     auto: true
+  - translation_iso: fra
+    name: hmong njua
   - translation_iso: hin
     name: हमोंग नजुआ
   - translation_iso: jpn

@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: لغة كوتافون جبي
     auto: true
+  - translation_iso: fra
+    name: kotafon
   - translation_iso: hin
     name: कोटाफोन ग्बे
     auto: true

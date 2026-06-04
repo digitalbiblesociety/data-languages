@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: نغاسا
     auto: true
+  - translation_iso: fra
+    name: ongamo
   - translation_iso: hin
     name: न्गासा
     auto: true

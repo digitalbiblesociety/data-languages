@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: كاامبا
     auto: true
+  - translation_iso: fra
+    name: kaamba
   - translation_iso: hin
     name: कामबा
     auto: true

@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Hausa_language"
 translations:
   - translation_iso: ara
     name: الهوسية
+  - translation_iso: fra
+    name: haoussa
   - translation_iso: hin
     name: हौसा भाषा
   - translation_iso: jpn

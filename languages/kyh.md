@@ -15,6 +15,8 @@ translations:
   - translation_iso: ara
     name: كاروك
     auto: true
+  - translation_iso: fra
+    name: karuk
   - translation_iso: hin
     name: कारोक
     auto: true

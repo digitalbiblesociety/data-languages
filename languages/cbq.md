@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: تسوكوبا
     auto: true
+  - translation_iso: fra
+    name: tsucuba
   - translation_iso: hin
     name: त्सुकुबा
     auto: true

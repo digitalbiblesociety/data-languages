@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: لغة بو
     auto: true
+  - translation_iso: fra
+    name: bu
   - translation_iso: hin
     name: बू
     auto: true

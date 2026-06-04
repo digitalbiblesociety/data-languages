@@ -18,6 +18,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/Luxembourgish"
 translations:
   - translation_iso: ara
     name: اللوكسمبورغية
+  - translation_iso: fra
+    name: luxembourgeois
   - translation_iso: hin
     name: लक्जमबर्गिश भाषा
   - translation_iso: jpn

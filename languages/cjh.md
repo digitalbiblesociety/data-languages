@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: الأعلى تشهاليس
     auto: true
+  - translation_iso: fra
+    name: chehalis supérieur
   - translation_iso: hin
     name: ऊपरी चेहालिस
     auto: true

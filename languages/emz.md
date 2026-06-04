@@ -14,6 +14,8 @@ translations:
   - translation_iso: ara
     name: الميسا
     auto: true
+  - translation_iso: fra
+    name: mbessa
   - translation_iso: hin
     name: म्बेसा
     auto: true

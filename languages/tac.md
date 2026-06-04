@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: تاراهومارا المنخفضة
     auto: true
+  - translation_iso: fra
+    name: tarahumara occidental
   - translation_iso: hin
     name: निचली तारहुमारा
     auto: true

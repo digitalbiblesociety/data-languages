@@ -18,6 +18,9 @@ translations:
   - translation_iso: ara
     name: لغة آهان
     auto: true
+  - translation_iso: fra
+    name: Àhàn
+    auto: true
   - translation_iso: hin
     name: आहान
     auto: true

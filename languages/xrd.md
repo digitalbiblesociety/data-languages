@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: جوندونجورا
     auto: true
+  - translation_iso: fra
+    name: gundungurra
   - translation_iso: hin
     name: गुंडुंगुर्रा
     auto: true

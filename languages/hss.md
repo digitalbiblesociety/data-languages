@@ -17,6 +17,8 @@ wikipedia_url: "https://en.wikipedia.org/wiki/%E1%B8%A4arsusi_language"
 translations:
   - translation_iso: ara
     name: الحرسوسية
+  - translation_iso: fra
+    name: harsusi
   - translation_iso: hin
     name: हरसूसी
     auto: true

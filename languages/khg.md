@@ -18,6 +18,8 @@ translations:
   - translation_iso: ara
     name: اللغة التبتية خام
     auto: true
+  - translation_iso: fra
+    name: tibétain khamké
   - translation_iso: hin
     name: खम्बा भाषा
   - translation_iso: jpn

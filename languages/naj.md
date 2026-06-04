@@ -17,6 +17,8 @@ translations:
   - translation_iso: ara
     name: نالو
     auto: true
+  - translation_iso: fra
+    name: nalu
   - translation_iso: hin
     name: नालू
     auto: true

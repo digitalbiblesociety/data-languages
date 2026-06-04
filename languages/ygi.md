@@ -10,6 +10,8 @@ translations:
   - translation_iso: ara
     name: اللغة يينينجايي
     auto: true
+  - translation_iso: fra
+    name: yiningayi
   - translation_iso: hin
     name: यिनिंगायी
     auto: true
