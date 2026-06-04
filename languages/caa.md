@@ -25,6 +25,8 @@ translations:
     name: チョルティ語
   - translation_iso: kor
     name: 초르티어
+  - translation_iso: spa
+    name: Idioma chortí
   - translation_iso: zho
     name: 渚庐递语
 ---

@@ -25,6 +25,8 @@ translations:
     name: ドレウ語
   - translation_iso: kor
     name: 데후어
+  - translation_iso: spa
+    name: Idioma drehu
   - translation_iso: zho
     name: 德雷胡语
 rolv_dialects:

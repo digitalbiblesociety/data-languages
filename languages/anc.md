@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガス語
+  - translation_iso: spa
+    name: Idioma angas
   - translation_iso: zho
     name: 恩加斯语
     auto: true

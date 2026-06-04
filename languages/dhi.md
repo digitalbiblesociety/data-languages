@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディマール語
+  - translation_iso: spa
+    name: dhimal
   - translation_iso: zho
     name: 狄摩語
 rolv_dialects:

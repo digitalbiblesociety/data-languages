@@ -24,6 +24,8 @@ translations:
     name: ヘレロ語
   - translation_iso: kor
     name: 헤레로어
+  - translation_iso: spa
+    name: herero
   - translation_iso: zho
     name: 赫雷羅語
 rolv_dialects:

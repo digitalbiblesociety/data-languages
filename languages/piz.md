@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ピジェ語
     auto: true
+  - translation_iso: spa
+    name: Idioma pije
   - translation_iso: zho
     name: 皮杰语
     auto: true

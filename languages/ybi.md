@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヤンプ語
     auto: true
+  - translation_iso: spa
+    name: idioma yamphu
   - translation_iso: zho
     name: 扬普语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: モノ語
     auto: true
+  - translation_iso: spa
+    name: Idioma mono (Camerún)
   - translation_iso: zho
     name: 喀麦隆莫诺语
     auto: true

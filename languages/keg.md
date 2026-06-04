@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: テセ語
     auto: true
+  - translation_iso: spa
+    name: Idioma tese
   - translation_iso: zho
     name: 特塞语
     auto: true

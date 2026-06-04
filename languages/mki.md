@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ダツキ語
     auto: true
+  - translation_iso: spa
+    name: dhatki
   - translation_iso: zho
     name: 达特基语
     auto: true

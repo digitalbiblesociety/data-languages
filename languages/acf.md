@@ -25,6 +25,8 @@ translations:
     name: セントルシア・クレオール
   - translation_iso: kor
     name: 세인트루시아 크리올
+  - translation_iso: spa
+    name: idioma criollo santalucense
   - translation_iso: zho
     name: 聖盧西亞克里奧爾語
 rolv_dialects:

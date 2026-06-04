@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トマ語
+  - translation_iso: spa
+    name: loma
   - translation_iso: zho
     name: 洛玛语
     auto: true

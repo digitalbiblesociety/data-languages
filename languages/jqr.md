@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 하카루어
+  - translation_iso: spa
+    name: jacaru
   - translation_iso: zho
     name: 加嘎魯語
 rolv_dialects:

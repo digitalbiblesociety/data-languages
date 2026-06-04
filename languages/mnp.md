@@ -25,6 +25,8 @@ translations:
     name: 閩北語
   - translation_iso: kor
     name: 민북어
+  - translation_iso: spa
+    name: chino min bei
   - translation_iso: zho
     name: 闽北语
 rolv_dialects:

@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ンガリグ語
     auto: true
+  - translation_iso: spa
+    name: Idioma ngarigo
   - translation_iso: zho
     name: 恩加里古语
     auto: true

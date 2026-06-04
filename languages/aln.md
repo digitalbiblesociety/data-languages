@@ -25,6 +25,8 @@ translations:
     name: ゲグ方言
   - translation_iso: kor
     name: 게그 알바니아어
+  - translation_iso: spa
+    name: albanés guego
   - translation_iso: zho
     name: 盖格方言
 rolv_dialects:

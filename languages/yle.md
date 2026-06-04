@@ -22,6 +22,8 @@ translations:
     name: イェレ語
   - translation_iso: kor
     name: 옐레어
+  - translation_iso: spa
+    name: Idioma yélî dnye
   - translation_iso: zho
     name: 耶里多涅語
 rolv_dialects:

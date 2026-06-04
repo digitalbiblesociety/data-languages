@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モノ語
+  - translation_iso: spa
+    name: Mono
   - translation_iso: zho
     name: 刚果莫諾语
 rolv_dialects:

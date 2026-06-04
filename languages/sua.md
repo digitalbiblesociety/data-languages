@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スルカ語
+  - translation_iso: spa
+    name: Idioma sulka
   - translation_iso: zho
     name: 苏尔卡语
     auto: true

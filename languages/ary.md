@@ -25,6 +25,8 @@ translations:
     name: アラビア語モロッコ方言
   - translation_iso: kor
     name: 모로코 아랍어
+  - translation_iso: spa
+    name: árabe marroquí
   - translation_iso: zho
     name: 摩洛哥阿拉伯语
 rolv_dialects:

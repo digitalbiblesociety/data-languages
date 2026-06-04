@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 마체스어
+  - translation_iso: spa
+    name: Matsés
   - translation_iso: zho
     name: 马茨斯语
     auto: true

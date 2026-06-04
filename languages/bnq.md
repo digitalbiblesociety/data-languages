@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンティック語
+  - translation_iso: spa
+    name: Bantik
   - translation_iso: zho
     name: 班迪語
 ---

@@ -24,6 +24,8 @@ translations:
     name: リグリア語
   - translation_iso: kor
     name: 리구리아어
+  - translation_iso: spa
+    name: idioma ligur
   - translation_iso: zho
     name: 利古里亚语
 rolv_dialects:

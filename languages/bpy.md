@@ -24,6 +24,8 @@ translations:
     name: ビシュヌプリヤ・マニプリ語
   - translation_iso: kor
     name: 비시누프리야마니푸르어
+  - translation_iso: spa
+    name: Bishnupriya manipurí
   - translation_iso: zho
     name: 比什努普里亚-曼尼普尔语
 rolv_dialects:

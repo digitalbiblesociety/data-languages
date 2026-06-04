@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パリクール語
+  - translation_iso: spa
+    name: palikur
   - translation_iso: zho
     name: 帕利库尔语
     auto: true

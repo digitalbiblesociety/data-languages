@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウィチ・ルハムテス・ノクテン語
     auto: true
+  - translation_iso: spa
+    name: Idioma weenhayek
   - translation_iso: zho
     name: Nocten维跽语
 ---

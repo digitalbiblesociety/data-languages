@@ -22,6 +22,8 @@ translations:
     name: शौरसेनी
   - translation_iso: jpn
     name: シャウラセーニー
+  - translation_iso: spa
+    name: Śauraseni
   - translation_iso: zho
     name: 索拉塞那语
 ---

@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: アルマジック語
     auto: true
+  - translation_iso: spa
+    name: armázico
   - translation_iso: zho
     name: 阿尔马齐克语
     auto: true

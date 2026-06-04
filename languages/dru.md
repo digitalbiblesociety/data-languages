@@ -25,6 +25,8 @@ translations:
     name: ルカイ語
   - translation_iso: kor
     name: 루카이어
+  - translation_iso: spa
+    name: rukai
   - translation_iso: zho
     name: 鲁凯语
 rolv_dialects:

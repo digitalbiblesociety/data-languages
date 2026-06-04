@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デニ語
+  - translation_iso: spa
+    name: Lishán Didán
   - translation_iso: zho
     name: 李山帝丹語
 rolv_dialects:

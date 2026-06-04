@@ -24,6 +24,8 @@ translations:
     name: マイティリー語
   - translation_iso: kor
     name: 마이틸어
+  - translation_iso: spa
+    name: Maithili
   - translation_iso: zho
     name: 迈蒂利语
 rolv_dialects:

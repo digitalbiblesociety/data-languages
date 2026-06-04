@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ガッダン語
     auto: true
+  - translation_iso: spa
+    name: gaddang
   - translation_iso: zho
     name: 加甘语
     auto: true

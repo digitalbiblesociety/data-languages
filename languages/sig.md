@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: サザン・シサーラ語
     auto: true
+  - translation_iso: spa
+    name: paasaal
   - translation_iso: zho
     name: 帕萨尔语
     auto: true

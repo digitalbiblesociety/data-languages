@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クバチ語
+  - translation_iso: spa
+    name: idioma kubachi
   - translation_iso: zho
     name: 库巴奇语
     auto: true

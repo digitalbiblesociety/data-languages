@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カガヤネン語
+  - translation_iso: spa
+    name: idioma cagayano
   - translation_iso: zho
     name: 巴拉望语
 ---

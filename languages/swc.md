@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コンゴ・スワヒリ語
+  - translation_iso: spa
+    name: Suajili congoleño
   - translation_iso: zho
     name: 刚果斯瓦希里语
     auto: true

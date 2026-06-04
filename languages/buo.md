@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブイン語
+  - translation_iso: spa
+    name: terei
   - translation_iso: zho
     name: 特雷伊语
     auto: true

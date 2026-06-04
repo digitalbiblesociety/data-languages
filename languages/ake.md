@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アカワイオ語
     auto: true
+  - translation_iso: spa
+    name: Idioma akawayo
   - translation_iso: zho
     name: 阿卡瓦约语
     auto: true

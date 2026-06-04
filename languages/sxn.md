@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンギル語
+  - translation_iso: spa
+    name: Sangihe
   - translation_iso: zho
     name: 桑吉尔语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: ツォウ語
   - translation_iso: kor
     name: 초우어
+  - translation_iso: spa
+    name: Idioma tsou
   - translation_iso: zho
     name: 邹语
 rolv_dialects:

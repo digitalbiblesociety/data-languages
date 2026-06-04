@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カビエ語
+  - translation_iso: spa
+    name: kabiyé
   - translation_iso: zho
     name: 卡比耶語
 rolv_dialects:

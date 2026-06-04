@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: セバ語
     auto: true
+  - translation_iso: spa
+    name: Seba
   - translation_iso: zho
     name: 塞巴语
     auto: true

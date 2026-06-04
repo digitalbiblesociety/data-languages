@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アリカラ語
+  - translation_iso: spa
+    name: Lengua arikara
   - translation_iso: zho
     name: 阿里卡拉語
 ---

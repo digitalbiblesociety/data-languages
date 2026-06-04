@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バゴ・クスントゥ語
     auto: true
+  - translation_iso: spa
+    name: bago kusuntu
   - translation_iso: zho
     name: 巴戈-库松图语
     auto: true

@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウォルスキ語
+  - translation_iso: spa
+    name: idioma volsco
   - translation_iso: zho
     name: 沃尔西语
 ---

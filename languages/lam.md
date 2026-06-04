@@ -24,6 +24,8 @@ translations:
     name: ランバ語
   - translation_iso: kor
     name: 람바어
+  - translation_iso: spa
+    name: lamba
   - translation_iso: zho
     name: Lamba语
 rolv_dialects:

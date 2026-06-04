@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ブンガンディッジ語
     auto: true
+  - translation_iso: spa
+    name: Idioma bungandidj
   - translation_iso: zho
     name: 邦甘迪奇语
     auto: true

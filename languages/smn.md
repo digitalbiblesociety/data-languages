@@ -24,6 +24,8 @@ translations:
     name: イナリ・サーミ語
   - translation_iso: kor
     name: 이나리 사미어
+  - translation_iso: spa
+    name: sami inari
   - translation_iso: zho
     name: 伊纳里萨米语
 ---

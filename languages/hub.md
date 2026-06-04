@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: フアンビサ語
     auto: true
+  - translation_iso: spa
+    name: huambisa
   - translation_iso: zho
     name: 瓦姆比萨语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: アラビア語チュニジア方言
   - translation_iso: kor
     name: 튀니지 아랍어
+  - translation_iso: spa
+    name: árabe tunecino
   - translation_iso: zho
     name: 突尼斯阿拉伯语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レムボング語
+  - translation_iso: spa
+    name: Rembong
   - translation_iso: zho
     name: 仁邦语
     auto: true

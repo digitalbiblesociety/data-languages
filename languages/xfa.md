@@ -24,6 +24,8 @@ translations:
     name: ファリスク語
   - translation_iso: kor
     name: 팔리스크어
+  - translation_iso: spa
+    name: idioma falisco
   - translation_iso: zho
     name: 法利斯克语
 ---

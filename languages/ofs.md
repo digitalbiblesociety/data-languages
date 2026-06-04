@@ -25,6 +25,8 @@ translations:
     name: 古フリジア語
   - translation_iso: kor
     name: 고대 프리지아어
+  - translation_iso: spa
+    name: frisón antiguo
   - translation_iso: zho
     name: 古弗里西语
 ---

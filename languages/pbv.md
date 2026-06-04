@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: プナル語
     auto: true
+  - translation_iso: spa
+    name: idioma pnar
   - translation_iso: zho
     name: 布那语
 rolv_dialects:

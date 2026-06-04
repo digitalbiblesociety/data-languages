@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: フウェ語
     auto: true
+  - translation_iso: spa
+    name: Fwe
   - translation_iso: zho
     name: 富韦语
     auto: true

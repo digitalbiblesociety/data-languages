@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: チカウアストラ・トリケ語
     auto: true
+  - translation_iso: spa
+    name: triqui de Chicahuaxtla
   - translation_iso: zho
     name: 奇卡瓦斯特拉特里基语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ガバンジリ語
     auto: true
+  - translation_iso: spa
+    name: Idioma Gbanzili
   - translation_iso: zho
     name: 加邦齐里语
     auto: true

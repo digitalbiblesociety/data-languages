@@ -18,6 +18,8 @@ translations:
     name: コンカニ語
   - translation_iso: kor
     name: 콘칸어
+  - translation_iso: spa
+    name: konkaní
   - translation_iso: zho
     name: 孔卡尼语
 ---

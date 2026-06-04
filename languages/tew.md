@@ -22,6 +22,8 @@ translations:
     name: तेवा भाषा
   - translation_iso: jpn
     name: テワ語
+  - translation_iso: spa
+    name: Tewa
   - translation_iso: zho
     name: 特瓦语
 rolv_dialects:

@@ -25,6 +25,8 @@ translations:
     name: アラビア語ハッサニア方言
   - translation_iso: kor
     name: 하사니아 아랍어
+  - translation_iso: spa
+    name: hassanía
   - translation_iso: zho
     name: 哈桑语
 rolv_dialects:

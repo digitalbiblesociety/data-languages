@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 西フィジー語
     auto: true
+  - translation_iso: spa
+    name: Fiyiano occidental
   - translation_iso: zho
     name: 西斐济语
     auto: true

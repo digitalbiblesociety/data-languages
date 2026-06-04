@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラー・アララ語
+  - translation_iso: spa
+    name: arára de Pará
   - translation_iso: zho
     name: 帕拉阿拉拉語
 ---

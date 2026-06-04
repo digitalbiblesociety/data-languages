@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ビディヨ語
     auto: true
+  - translation_iso: spa
+    name: bidiyo
   - translation_iso: zho
     name: 比迪约语
     auto: true

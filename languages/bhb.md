@@ -25,6 +25,8 @@ translations:
     name: ビリー語
   - translation_iso: kor
     name: 빌리어
+  - translation_iso: spa
+    name: idioma bhili
   - translation_iso: zho
     name: 比尔语
 rolv_dialects:

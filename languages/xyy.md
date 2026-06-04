@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヨルタ・ヨルタ語
     auto: true
+  - translation_iso: spa
+    name: idioma yorta yorta
   - translation_iso: zho
     name: 约尔塔-约尔塔语
     auto: true

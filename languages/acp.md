@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 東部アシパ語
     auto: true
+  - translation_iso: spa
+    name: acipa oriental
   - translation_iso: zho
     name: 东部阿奇帕语
     auto: true

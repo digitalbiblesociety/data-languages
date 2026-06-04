@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クムザール語
+  - translation_iso: spa
+    name: Idioma kumzari
   - translation_iso: zho
     name: 库姆扎里语
     auto: true

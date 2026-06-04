@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 象形文字ルウィ語
+  - translation_iso: spa
+    name: jeroglífico luvita
   - translation_iso: zho
     name: 象形文字式盧維語
 ---

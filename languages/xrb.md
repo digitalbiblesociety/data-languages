@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 東カラボロ語
     auto: true
+  - translation_iso: spa
+    name: Kar
   - translation_iso: zho
     name: 东卡拉博罗语
     auto: true

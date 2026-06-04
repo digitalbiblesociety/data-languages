@@ -24,6 +24,8 @@ translations:
     name: 朝鮮語
   - translation_iso: kor
     name: 한국어
+  - translation_iso: spa
+    name: coreano
   - translation_iso: zho
     name: 朝鲜语
 rolv_dialects:

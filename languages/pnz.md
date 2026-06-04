@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パナ語
+  - translation_iso: spa
+    name: pana
   - translation_iso: zho
     name: 帕纳语(中非共和国)
     auto: true

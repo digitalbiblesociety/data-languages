@@ -24,6 +24,8 @@ translations:
     name: エスペラント
   - translation_iso: kor
     name: 에스페란토
+  - translation_iso: spa
+    name: esperanto
   - translation_iso: zho
     name: 世界语
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ゴーン・ダウ語
     auto: true
+  - translation_iso: spa
+    name: Yahoo
   - translation_iso: zho
     name: 贡达乌语
     auto: true

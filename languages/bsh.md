@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カム・カタヴァリ語
+  - translation_iso: spa
+    name: Idioma kamkata-viri
   - translation_iso: zho
     name: 卡蒂语
 rolv_dialects:

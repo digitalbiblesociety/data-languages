@@ -24,6 +24,8 @@ translations:
     name: ブラジュ・バーシャー語
   - translation_iso: kor
     name: 브라지어
+  - translation_iso: spa
+    name: braj
   - translation_iso: zho
     name: 布拉杰語
 rolv_dialects:

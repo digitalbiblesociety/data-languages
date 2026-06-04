@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: オイラタ語
     auto: true
+  - translation_iso: spa
+    name: Idioma oirata
   - translation_iso: zho
     name: 奥伊拉塔语
 ---

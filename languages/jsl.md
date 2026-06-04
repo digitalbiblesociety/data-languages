@@ -23,6 +23,8 @@ translations:
     name: 日本手話
   - translation_iso: kor
     name: 일본 수화
+  - translation_iso: spa
+    name: lengua de señas japonesa
   - translation_iso: zho
     name: 日本手语
 ---

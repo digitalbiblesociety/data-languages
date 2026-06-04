@@ -24,6 +24,8 @@ translations:
     name: ゼナガ語
   - translation_iso: kor
     name: 제나가어
+  - translation_iso: spa
+    name: Idioma zenaga
   - translation_iso: zho
     name: 哲納加語
 ---

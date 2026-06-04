@@ -25,6 +25,8 @@ translations:
     name: シベ語
   - translation_iso: kor
     name: 시버어
+  - translation_iso: spa
+    name: xibe
   - translation_iso: zho
     name: 锡伯语
 ---

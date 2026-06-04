@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 山岳アラペシュ語
+  - translation_iso: spa
+    name: arapeso montañés
   - translation_iso: zho
     name: 布基伊普语
     auto: true

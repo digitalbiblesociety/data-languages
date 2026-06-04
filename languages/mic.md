@@ -24,6 +24,8 @@ translations:
     name: ミクマク語
   - translation_iso: kor
     name: 미크맥어
+  - translation_iso: spa
+    name: micmac
   - translation_iso: zho
     name: 米克馬克語
 rolv_dialects:

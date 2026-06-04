@@ -24,6 +24,8 @@ translations:
     name: カタルーニャ語
   - translation_iso: kor
     name: 카탈루냐어
+  - translation_iso: spa
+    name: catalán
   - translation_iso: zho
     name: 加泰罗尼亚语
 rolv_dialects:

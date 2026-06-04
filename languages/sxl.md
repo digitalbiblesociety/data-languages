@@ -18,6 +18,8 @@ translations:
     name: セロニア語
   - translation_iso: kor
     name: 셀로니아어
+  - translation_iso: spa
+    name: selonio
   - translation_iso: zho
     name: 塞利安语
     auto: true

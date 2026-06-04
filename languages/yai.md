@@ -25,6 +25,8 @@ translations:
     name: ヤグノビ語
   - translation_iso: kor
     name: 야그노비어
+  - translation_iso: spa
+    name: yagnobi
   - translation_iso: zho
     name: 亞爾諾比語
 rolv_dialects:

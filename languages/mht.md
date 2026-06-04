@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンダワカ語
+  - translation_iso: spa
+    name: mandahuaca
   - translation_iso: zho
     name: 曼达瓦卡语
     auto: true

@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アビノムン語
+  - translation_iso: spa
+    name: Idioma abinomn
   - translation_iso: zho
     name: 阿比诺姆语
     auto: true

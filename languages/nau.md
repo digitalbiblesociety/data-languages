@@ -24,6 +24,8 @@ translations:
     name: ナウル語
   - translation_iso: kor
     name: 나우루어
+  - translation_iso: spa
+    name: nauruano
   - translation_iso: zho
     name: 瑙鲁语
 ---

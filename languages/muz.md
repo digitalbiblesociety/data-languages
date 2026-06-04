@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムルシ語
     auto: true
+  - translation_iso: spa
+    name: Idioma mursi
   - translation_iso: zho
     name: 穆尔西语
     auto: true

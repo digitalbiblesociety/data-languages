@@ -25,6 +25,8 @@ translations:
     name: ヴェプス語
   - translation_iso: kor
     name: 벱스어
+  - translation_iso: spa
+    name: vepsio
   - translation_iso: zho
     name: 维普斯语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アスコパン語
     auto: true
+  - translation_iso: spa
+    name: askopan
   - translation_iso: zho
     name: 阿斯科潘语
     auto: true

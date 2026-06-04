@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヤミナウア語
     auto: true
+  - translation_iso: spa
+    name: idioma yaminahua
   - translation_iso: zho
     name: 亚米那瓦语
     auto: true

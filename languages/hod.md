@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ホルマ語
     auto: true
+  - translation_iso: spa
+    name: holma
   - translation_iso: zho
     name: 霍尔玛语
     auto: true

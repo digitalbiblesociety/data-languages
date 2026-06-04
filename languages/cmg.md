@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 고전 몽골어
+  - translation_iso: spa
+    name: mongol clásico
   - translation_iso: zho
     name: 古典蒙古語
 ---

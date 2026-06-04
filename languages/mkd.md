@@ -24,6 +24,8 @@ translations:
     name: マケドニア語
   - translation_iso: kor
     name: 마케도니아어
+  - translation_iso: spa
+    name: macedonio
   - translation_iso: zho
     name: 马其顿语
 rolv_dialects:

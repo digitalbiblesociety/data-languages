@@ -18,6 +18,8 @@ translations:
   - translation_iso: jpn
     name: グアナ語
     auto: true
+  - translation_iso: spa
+    name: kinikinao
   - translation_iso: zho
     name: 瓜纳语(巴西)
     auto: true

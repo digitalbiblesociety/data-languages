@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ＝パレスチナ・アラム語
+  - translation_iso: spa
+    name: arameo palestino judío
   - translation_iso: zho
     name: 猶太-巴勒斯坦亞拉姆語
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ガンディッジマラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma dhauwurd wurrung
   - translation_iso: zho
     name: 古迪特吉马拉语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ジャラワ語
   - translation_iso: kor
     name: 자라와어
+  - translation_iso: spa
+    name: Idioma järawa
   - translation_iso: zho
     name: 加洛瓦语
 ---

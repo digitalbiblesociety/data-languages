@@ -17,6 +17,8 @@ translations:
     name: トゥアレグ語
   - translation_iso: kor
     name: 투아레그어군
+  - translation_iso: spa
+    name: lenguas tuareg
   - translation_iso: zho
     name: 圖阿雷格語
 ---

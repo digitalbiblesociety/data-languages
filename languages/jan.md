@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ジャンダイ語
     auto: true
+  - translation_iso: spa
+    name: Idioma jandai
   - translation_iso: zho
     name: 詹代语
     auto: true

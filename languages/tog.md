@@ -24,6 +24,8 @@ translations:
     name: トンガ語 (ニアサ)
   - translation_iso: kor
     name: 니아사 통가어
+  - translation_iso: spa
+    name: tonga del Nyasa
   - translation_iso: zho
     name: 尼亚萨汤加语
 rolv_dialects:

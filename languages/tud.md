@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: トデラ語
     auto: true
+  - translation_iso: spa
+    name: tuxá
   - translation_iso: zho
     name: 图夏语
     auto: true

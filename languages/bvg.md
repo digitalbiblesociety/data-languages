@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ボンケング語
     auto: true
+  - translation_iso: spa
+    name: bonkeng
   - translation_iso: zho
     name: 邦肯语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 레코어
+  - translation_iso: spa
+    name: idioma leco
   - translation_iso: zho
     name: 離戈語
 ---

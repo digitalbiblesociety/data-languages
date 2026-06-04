@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 東部高地オトミ語
     auto: true
+  - translation_iso: spa
+    name: Otomí mexiquense
   - translation_iso: zho
     name: 东高地奥托米语
     auto: true

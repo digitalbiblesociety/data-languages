@@ -1,6 +1,6 @@
 // cldr_names fills the `translations[]` array on each language file from
 // Unicode CLDR locale data. One CLDR file per target language (zh, ja, hi,
-// ko, ar) provides a {language_code → display_name_in_target} map.
+// ko, ar, es) provides a {language_code → display_name_in_target} map.
 //
 // Variant keys ("en-GB", "ars-alt-menu", etc.) are skipped — only base
 // ISO 639-1/3 codes are used.
@@ -41,6 +41,7 @@ var cldrLocales = []cldrLocale{
 	{Iso: "hin", Folder: "hi"},
 	{Iso: "kor", Folder: "ko"},
 	{Iso: "ara", Folder: "ar"},
+	{Iso: "spa", Folder: "es"},
 }
 
 const cldrLocaleURLTmpl = "https://raw.githubusercontent.com/unicode-org/cldr-json/main/cldr-json/cldr-localenames-full/main/%s/languages.json"

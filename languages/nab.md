@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 南ナンビクワラ語
     auto: true
+  - translation_iso: spa
+    name: Lenguas nambicuaras
   - translation_iso: zho
     name: 南比夸拉語
 rolv_dialects:

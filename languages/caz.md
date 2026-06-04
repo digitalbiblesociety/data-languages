@@ -20,6 +20,8 @@ translations:
   - translation_iso: jpn
     name: カニチャナ語
     auto: true
+  - translation_iso: spa
+    name: idioma canichana
   - translation_iso: zho
     name: 卡尼查纳语
     auto: true

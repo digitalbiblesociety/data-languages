@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: ムニチェ語
     auto: true
+  - translation_iso: spa
+    name: muniche
   - translation_iso: zho
     name: 穆尼切语
     auto: true

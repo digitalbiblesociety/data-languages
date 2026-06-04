@@ -25,6 +25,8 @@ translations:
     name: 与那国語
   - translation_iso: kor
     name: 요나구니어
+  - translation_iso: spa
+    name: yonaguni
   - translation_iso: zho
     name: 與那國語
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バハマ・クレオール語
+  - translation_iso: spa
+    name: inglés criollo bahameño
   - translation_iso: zho
     name: 巴哈馬克里奧爾語
 ---

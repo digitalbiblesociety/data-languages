@@ -24,6 +24,8 @@ translations:
     name: 北部サーミ語
   - translation_iso: kor
     name: 북부 사미어
+  - translation_iso: spa
+    name: sami septentrional
   - translation_iso: zho
     name: 北萨米语
 rolv_dialects:

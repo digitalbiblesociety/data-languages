@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: トゥルカ語
     auto: true
+  - translation_iso: spa
+    name: Idioma truká
   - translation_iso: zho
     name: 特鲁卡语
     auto: true

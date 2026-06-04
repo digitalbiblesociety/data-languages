@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワタウルング語
     auto: true
+  - translation_iso: spa
+    name: idioma wathaurong
   - translation_iso: zho
     name: 瓦塔乌伦语
     auto: true

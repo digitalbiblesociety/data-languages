@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ジャジャワルング語
     auto: true
+  - translation_iso: spa
+    name: Idioma djadjawurrung
   - translation_iso: zho
     name: 詹詹武隆语
     auto: true

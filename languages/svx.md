@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スカロヴィア語
+  - translation_iso: spa
+    name: escálvico
   - translation_iso: zho
     name: 斯卡尔维亚语
     auto: true

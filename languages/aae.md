@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルベレシュ方言
+  - translation_iso: spa
+    name: Dialecto arbëreshë
   - translation_iso: zho
     name: 阿尔伯雷什方言
 rolv_dialects:

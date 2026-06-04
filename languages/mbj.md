@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナドゥブ語
+  - translation_iso: spa
+    name: idioma nadëb
   - translation_iso: zho
     name: 纳德卜语
     auto: true

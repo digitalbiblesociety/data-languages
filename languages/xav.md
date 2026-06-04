@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シャバンテ語
+  - translation_iso: spa
+    name: Idioma xavante
   - translation_iso: zho
     name: 夏凡特语
 ---

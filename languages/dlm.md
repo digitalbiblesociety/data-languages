@@ -23,6 +23,8 @@ translations:
     name: ダルマチア語
   - translation_iso: kor
     name: 달마티아어
+  - translation_iso: spa
+    name: dalmático
   - translation_iso: zho
     name: 达尔马提亚语
 ---

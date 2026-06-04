@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: サン・ディオニシオ・デル・マル・ウアベ語
     auto: true
+  - translation_iso: spa
+    name: huave de San Dionisio del Mar
   - translation_iso: zho
     name: 圣迪奥尼西奥德尔玛尔瓦夫语
     auto: true

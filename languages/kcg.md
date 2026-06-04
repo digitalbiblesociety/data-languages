@@ -24,6 +24,8 @@ translations:
     name: カタブ語
   - translation_iso: kor
     name: 티얍어
+  - translation_iso: spa
+    name: Katab
   - translation_iso: zho
     name: 蒂亞普語
 rolv_dialects:

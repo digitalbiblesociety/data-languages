@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パタショーハーハーハーエ語
     auto: true
+  - translation_iso: spa
+    name: Idioma patashó
   - translation_iso: zho
     name: 帕塔肖哈哈哈埃语
     auto: true

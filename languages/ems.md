@@ -25,6 +25,8 @@ translations:
     name: アリュティーク語
   - translation_iso: kor
     name: 알류티크어
+  - translation_iso: spa
+    name: alutiiq
   - translation_iso: zho
     name: 阿魯提克語
 rolv_dialects:

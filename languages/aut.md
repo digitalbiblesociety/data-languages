@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オーストラル語
+  - translation_iso: spa
+    name: australés
   - translation_iso: zho
     name: 南方語
 rolv_dialects:

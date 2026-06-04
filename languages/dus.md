@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥミー語
+  - translation_iso: spa
+    name: idioma dumi
   - translation_iso: zho
     name: 杜米语
 rolv_dialects:

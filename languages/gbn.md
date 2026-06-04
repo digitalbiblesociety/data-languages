@@ -18,11 +18,13 @@ translations:
     name: مودا
     auto: true
   - translation_iso: hin
-    name: मो'दा
+    name: "मो'दा"
     auto: true
   - translation_iso: jpn
     name: モダ語
     auto: true
+  - translation_iso: spa
+    name: moda
   - translation_iso: zho
     name: 莫达语
     auto: true

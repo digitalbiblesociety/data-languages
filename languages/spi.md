@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: バハササポニ語
     auto: true
+  - translation_iso: spa
+    name: Idioma saponi
   - translation_iso: zho
     name: 萨波尼语
     auto: true

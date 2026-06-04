@@ -20,6 +20,8 @@ translations:
     name: クリンゴン語
   - translation_iso: kor
     name: 클링온어
+  - translation_iso: spa
+    name: klingon
   - translation_iso: zho
     name: 克林贡语
 ---

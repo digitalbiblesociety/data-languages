@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スゴー語
+  - translation_iso: spa
+    name: "S'gaw Karen"
   - translation_iso: zho
     name: 斯高克伦语
 rolv_dialects:

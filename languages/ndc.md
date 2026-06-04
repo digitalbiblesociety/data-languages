@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンダウ語
+  - translation_iso: spa
+    name: Ndau
   - translation_iso: zho
     name: 恩道方言
 rolv_dialects:

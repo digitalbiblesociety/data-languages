@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マリク語
     auto: true
+  - translation_iso: spa
+    name: Marik
   - translation_iso: zho
     name: 玛里克语
     auto: true

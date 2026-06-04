@@ -24,6 +24,8 @@ translations:
     name: パンパンガ語
   - translation_iso: kor
     name: 카팜팡안 어
+  - translation_iso: spa
+    name: pampango
   - translation_iso: zho
     name: 邦板牙語
 ---

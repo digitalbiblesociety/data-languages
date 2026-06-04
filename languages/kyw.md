@@ -21,6 +21,8 @@ translations:
     name: कुङमालि भाखि
   - translation_iso: jpn
     name: クドマリ語
+  - translation_iso: spa
+    name: kudmali
   - translation_iso: zho
     name: 库马利语
 rolv_dialects:

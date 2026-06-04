@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: グアジャジャラ語
     auto: true
+  - translation_iso: spa
+    name: tembé
   - translation_iso: zho
     name: 特姆贝语
     auto: true

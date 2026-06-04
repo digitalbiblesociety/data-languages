@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: テトゥン・ディリ語
     auto: true
+  - translation_iso: spa
+    name: tetun dili
   - translation_iso: zho
     name: 迪力岱都语
     auto: true

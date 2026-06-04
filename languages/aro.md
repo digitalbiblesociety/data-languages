@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラオナ語
+  - translation_iso: spa
+    name: idioma araona
   - translation_iso: zho
     name: 阿拉奥纳语
 ---

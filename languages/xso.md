@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: ソラノ語
     auto: true
+  - translation_iso: spa
+    name: idioma solano
   - translation_iso: zho
     name: 索拉诺语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: 低地ドイツ語
   - translation_iso: kor
     name: 저지 독일어
+  - translation_iso: spa
+    name: bajo alemán
   - translation_iso: zho
     name: 低地德语
 rolv_dialects:

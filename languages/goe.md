@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴングドゥク語
+  - translation_iso: spa
+    name: gongduk
   - translation_iso: zho
     name: 工德语
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チグメカティトラン・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Chigmecatitlán
   - translation_iso: zho
     name: 奇格梅卡蒂特兰混合语
     auto: true

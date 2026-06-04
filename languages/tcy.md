@@ -24,6 +24,8 @@ translations:
     name: トゥル語
   - translation_iso: kor
     name: 툴루어
+  - translation_iso: spa
+    name: tulu
   - translation_iso: zho
     name: 图卢语
 rolv_dialects:

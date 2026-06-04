@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダネザ語
+  - translation_iso: spa
+    name: danezaa
   - translation_iso: zho
     name: 比弗尔语
     auto: true

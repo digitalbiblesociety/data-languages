@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌーチャヌルス語
+  - translation_iso: spa
+    name: idioma nutka
   - translation_iso: zho
     name: 努查努阿特语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: サテレ・マウェ語
     auto: true
+  - translation_iso: spa
+    name: Idioma mawé
   - translation_iso: zho
     name: 萨特雷-马韦语
     auto: true

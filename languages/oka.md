@@ -24,6 +24,8 @@ translations:
     name: オカナゴン語
   - translation_iso: kor
     name: 오카나간어
+  - translation_iso: spa
+    name: Okanagan
   - translation_iso: zho
     name: 奧卡諾根語
 rolv_dialects:

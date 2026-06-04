@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モチカ語
+  - translation_iso: spa
+    name: mochica
   - translation_iso: zho
     name: 莫奇卡语
 ---

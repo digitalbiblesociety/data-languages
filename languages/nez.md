@@ -25,6 +25,8 @@ translations:
     name: ネズ・パース語
   - translation_iso: kor
     name: 네즈퍼스어
+  - translation_iso: spa
+    name: Nez Perce
   - translation_iso: zho
     name: 内兹珀斯语
 rolv_dialects:

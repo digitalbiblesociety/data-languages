@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 柳江チワン語
+  - translation_iso: spa
+    name: Zhuang Liujiang
   - translation_iso: zho
     name: 柳江壮语
     auto: true

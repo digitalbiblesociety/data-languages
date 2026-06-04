@@ -25,6 +25,8 @@ translations:
     name: ギニアビサウ・クレオール語
   - translation_iso: kor
     name: 기니비사우 크리올
+  - translation_iso: spa
+    name: Criollo de Guinea-Bisáu
   - translation_iso: zho
     name: 几内亚比绍克里奥尔语
 rolv_dialects:

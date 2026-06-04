@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ブア語
     auto: true
+  - translation_iso: spa
+    name: bua
   - translation_iso: zho
     name: 布阿语
     auto: true

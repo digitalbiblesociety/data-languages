@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイオワ語
+  - translation_iso: spa
+    name: Idioma chiwere
   - translation_iso: zho
     name: 奇維雷語
 rolv_dialects:

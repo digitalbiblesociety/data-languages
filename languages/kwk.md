@@ -24,6 +24,8 @@ translations:
     name: クヮキゥートル語
   - translation_iso: kor
     name: 콰콸라어
+  - translation_iso: spa
+    name: kwakʼwala
   - translation_iso: zho
     name: 夸夸嘉夸語
 rolv_dialects:

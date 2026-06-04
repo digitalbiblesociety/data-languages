@@ -24,6 +24,8 @@ translations:
     name: 中古中国語
   - translation_iso: kor
     name: 중고 한어
+  - translation_iso: spa
+    name: chino medio
   - translation_iso: zho
     name: 中古汉语
 ---

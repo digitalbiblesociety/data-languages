@@ -24,6 +24,8 @@ translations:
     name: アラビア語サハラ方言
   - translation_iso: kor
     name: 알제리 사하라 아랍어
+  - translation_iso: spa
+    name: árabe sahariano
   - translation_iso: zho
     name: 阿爾及利亞撒哈拉阿拉伯語
 ---

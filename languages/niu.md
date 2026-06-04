@@ -24,6 +24,8 @@ translations:
     name: ニウエ語
   - translation_iso: kor
     name: 니우에어
+  - translation_iso: spa
+    name: Idioma niuano
   - translation_iso: zho
     name: 纽埃语
 ---

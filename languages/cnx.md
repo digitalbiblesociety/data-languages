@@ -18,6 +18,8 @@ translations:
   - translation_iso: jpn
     name: コーニッシュ語
     auto: true
+  - translation_iso: spa
+    name: córnico medio
   - translation_iso: zho
     name: 中世康沃尔语
     auto: true

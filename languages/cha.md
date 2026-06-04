@@ -24,6 +24,8 @@ translations:
     name: チャモロ語
   - translation_iso: kor
     name: 차모로어
+  - translation_iso: spa
+    name: idioma chamorro
   - translation_iso: zho
     name: 查莫罗语
 rolv_dialects:

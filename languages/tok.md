@@ -20,6 +20,8 @@ translations:
     name: トキポナ
   - translation_iso: kor
     name: 도기 보나
+  - translation_iso: spa
+    name: toki pona
   - translation_iso: zho
     name: 道本语
 ---

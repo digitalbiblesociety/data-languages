@@ -24,6 +24,8 @@ translations:
     name: 古フランス語
   - translation_iso: kor
     name: 고대 프랑스어
+  - translation_iso: spa
+    name: francés antiguo
   - translation_iso: zho
     name: 古法語
 ---

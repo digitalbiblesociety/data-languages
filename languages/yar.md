@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤワラナ語
+  - translation_iso: spa
+    name: Idioma yabarana
   - translation_iso: zho
     name: 亚巴拉纳语
     auto: true

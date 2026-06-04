@@ -24,6 +24,8 @@ translations:
     name: 中英語
   - translation_iso: kor
     name: 중세 영어
+  - translation_iso: spa
+    name: inglés medio
   - translation_iso: zho
     name: 中古英语
 ---

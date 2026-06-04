@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ドゥワン語
     auto: true
+  - translation_iso: spa
+    name: dwang
   - translation_iso: zho
     name: 德旺语
     auto: true

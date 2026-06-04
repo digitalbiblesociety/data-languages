@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 야뉴와어
+  - translation_iso: spa
+    name: yanyuwa
   - translation_iso: zho
     name: 亚纽瓦语
 ---

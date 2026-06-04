@@ -24,6 +24,8 @@ translations:
     name: コワール語
   - translation_iso: kor
     name: 코와르어
+  - translation_iso: spa
+    name: Khowar
   - translation_iso: zho
     name: 科瓦語
 rolv_dialects:

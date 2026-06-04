@@ -24,6 +24,8 @@ translations:
     name: ルクセンブルク語
   - translation_iso: kor
     name: 룩셈부르크어
+  - translation_iso: spa
+    name: luxemburgués
   - translation_iso: zho
     name: 卢森堡语
 rolv_dialects:

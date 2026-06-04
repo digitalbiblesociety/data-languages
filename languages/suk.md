@@ -24,6 +24,8 @@ translations:
     name: スクマ語
   - translation_iso: kor
     name: 수쿠마어
+  - translation_iso: spa
+    name: sukuma
   - translation_iso: zho
     name: 苏库马语
 rolv_dialects:

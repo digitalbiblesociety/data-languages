@@ -24,6 +24,8 @@ translations:
     name: 晋語
   - translation_iso: kor
     name: 진어
+  - translation_iso: spa
+    name: chino jin
   - translation_iso: zho
     name: 晋语
 rolv_dialects:

@@ -21,6 +21,8 @@ translations:
     name: ताज़ी अदनी अरबी
   - translation_iso: jpn
     name: アラビア語南イエメン方言
+  - translation_iso: spa
+    name: "Árabe ta'izzi-adeni"
   - translation_iso: zho
     name: 塔伊茲-亞丁阿拉伯語
 rolv_dialects:

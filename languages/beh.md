@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ビアリ語
     auto: true
+  - translation_iso: spa
+    name: Idioma Berba
   - translation_iso: zho
     name: 比亚利语
     auto: true

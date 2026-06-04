@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヌグヌ語
     auto: true
+  - translation_iso: spa
+    name: Idioma nukunu
   - translation_iso: zho
     name: 努古努语
     auto: true

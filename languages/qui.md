@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: クイレウテ語
     auto: true
+  - translation_iso: spa
+    name: Quileute
   - translation_iso: zho
     name: 奎留特语
     auto: true

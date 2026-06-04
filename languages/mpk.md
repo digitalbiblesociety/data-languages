@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムバラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma mbara
   - translation_iso: zho
     name: 姆巴拉语（乍得）
     auto: true

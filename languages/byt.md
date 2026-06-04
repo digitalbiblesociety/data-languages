@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベルティ語
+  - translation_iso: spa
+    name: Berti
   - translation_iso: zho
     name: 贝尔蒂语
     auto: true

@@ -21,6 +21,8 @@ translations:
     name: オンゴタ語
   - translation_iso: kor
     name: 옹고타어
+  - translation_iso: spa
+    name: Idioma ongota
   - translation_iso: zho
     name: 翁果塔語
 ---

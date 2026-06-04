@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラトビア手話
+  - translation_iso: spa
+    name: lengua de señas letona
   - translation_iso: zho
     name: 拉脱维亚手语
 ---

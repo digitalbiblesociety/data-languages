@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥワナ語
+  - translation_iso: spa
+    name: Twana
   - translation_iso: zho
     name: 特瓦纳语
     auto: true

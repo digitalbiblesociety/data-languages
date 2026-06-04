@@ -24,6 +24,8 @@ translations:
     name: 南アルタイ語
   - translation_iso: kor
     name: 남알타이어
+  - translation_iso: spa
+    name: altái meridional
   - translation_iso: zho
     name: 南阿尔泰语
 rolv_dialects:

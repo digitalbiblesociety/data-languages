@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムンドゥルク
+  - translation_iso: spa
+    name: idioma mundurucú
   - translation_iso: zho
     name: Mundurukú語
 ---

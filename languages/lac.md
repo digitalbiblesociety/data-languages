@@ -25,6 +25,8 @@ translations:
     name: ラカンドン語
   - translation_iso: kor
     name: 라칸돈어
+  - translation_iso: spa
+    name: lacandón
   - translation_iso: zho
     name: 拉坎顿语
     auto: true

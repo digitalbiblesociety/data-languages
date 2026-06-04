@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アフロ・セミノール語
+  - translation_iso: spa
+    name: criollo afroseminola
   - translation_iso: zho
     name: 非洲塞米诺尔克尔奥尔语
 rolv_dialects:

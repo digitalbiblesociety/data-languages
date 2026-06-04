@@ -25,6 +25,8 @@ translations:
     name: 南エストニア語
   - translation_iso: kor
     name: 버로어
+  - translation_iso: spa
+    name: idioma võro
   - translation_iso: zho
     name: 南爱沙尼亚语
 rolv_dialects:

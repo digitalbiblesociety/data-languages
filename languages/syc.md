@@ -23,6 +23,8 @@ translations:
     name: シリア語
   - translation_iso: kor
     name: 시리아어
+  - translation_iso: spa
+    name: siríaco
   - translation_iso: zho
     name: 叙利亚语
 rolv_dialects:

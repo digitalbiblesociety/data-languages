@@ -24,6 +24,8 @@ translations:
     name: ブルトン語
   - translation_iso: kor
     name: 브르타뉴어
+  - translation_iso: spa
+    name: bretón
   - translation_iso: zho
     name: 布列塔尼语
 rolv_dialects:

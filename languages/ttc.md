@@ -25,6 +25,8 @@ translations:
     name: テクティテコ語
   - translation_iso: kor
     name: 텍티텍어
+  - translation_iso: spa
+    name: tektiteko
   - translation_iso: zho
     name: 特克蒂特克语
     auto: true

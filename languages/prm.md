@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: キビリ語
     auto: true
+  - translation_iso: spa
+    name: Idioma porome
   - translation_iso: zho
     name: 基比里语
     auto: true

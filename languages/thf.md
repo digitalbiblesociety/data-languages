@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タングミ語
     auto: true
+  - translation_iso: spa
+    name: thangmi
   - translation_iso: zho
     name: 唐米語
 rolv_dialects:

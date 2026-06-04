@@ -24,6 +24,8 @@ translations:
     name: サンタル語
   - translation_iso: kor
     name: 산탈어
+  - translation_iso: spa
+    name: idioma santalí
   - translation_iso: zho
     name: 桑塔利语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ブキドノン語
     auto: true
+  - translation_iso: spa
+    name: panayano
   - translation_iso: zho
     name: 苏洛德语
     auto: true

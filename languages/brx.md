@@ -24,6 +24,8 @@ translations:
     name: ボド語
   - translation_iso: kor
     name: 보도어
+  - translation_iso: spa
+    name: idioma bodo
   - translation_iso: zho
     name: 博多语
 rolv_dialects:

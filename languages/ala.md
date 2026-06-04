@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アラゴ語
     auto: true
+  - translation_iso: spa
+    name: alago
   - translation_iso: zho
     name: 阿拉戈语
     auto: true

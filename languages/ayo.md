@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヨレオ語
+  - translation_iso: spa
+    name: Idioma ayoreo
   - translation_iso: zho
     name: 扎穆科语
 rolv_dialects:

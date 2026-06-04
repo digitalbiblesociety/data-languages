@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ンコンゴ語
     auto: true
+  - translation_iso: spa
+    name: nkongho
   - translation_iso: zho
     name: 恩贡戈语
     auto: true

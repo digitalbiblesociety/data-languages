@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルシ語
+  - translation_iso: spa
+    name: idioma marso
   - translation_iso: zho
     name: 马尔西安语
     auto: true

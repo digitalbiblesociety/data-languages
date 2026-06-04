@@ -25,6 +25,8 @@ translations:
     name: バグバリ語
   - translation_iso: kor
     name: 바그발랄어
+  - translation_iso: spa
+    name: Idioma bagvalal
   - translation_iso: zho
     name: 巴格瓦拉尔语
     auto: true

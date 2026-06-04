@@ -24,6 +24,8 @@ translations:
     name: ホラズム語
   - translation_iso: kor
     name: 화레즘어
+  - translation_iso: spa
+    name: corasmio
   - translation_iso: zho
     name: 花剌子模语
 ---

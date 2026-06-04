@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 말토어
+  - translation_iso: spa
+    name: malto
   - translation_iso: zho
     name: 绍里亚帕哈里亚语
 rolv_dialects:

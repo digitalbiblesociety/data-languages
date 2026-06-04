@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: サビーネ語
     auto: true
+  - translation_iso: spa
+    name: Idioma sabino
   - translation_iso: zho
     name: 萨宾语
     auto: true

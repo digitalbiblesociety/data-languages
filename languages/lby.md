@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 라말라마어
+  - translation_iso: spa
+    name: Idioma lama-lama
   - translation_iso: zho
     name: 拉马拉玛语
     auto: true

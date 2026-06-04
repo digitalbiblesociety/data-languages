@@ -18,6 +18,8 @@ translations:
     name: ミャオ語
   - translation_iso: kor
     name: 몽어
+  - translation_iso: spa
+    name: Idioma hmong
   - translation_iso: zho
     name: 苗语川黔滇次方言
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チキターノ語
     auto: true
+  - translation_iso: spa
+    name: idioma chiquitano
   - translation_iso: zho
     name: 奇基塔诺语
     auto: true

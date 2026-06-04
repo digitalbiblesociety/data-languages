@@ -24,6 +24,8 @@ translations:
     name: 古英語
   - translation_iso: kor
     name: 고대 영어
+  - translation_iso: spa
+    name: inglés antiguo
   - translation_iso: zho
     name: 古英語
 ---

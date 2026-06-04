@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロンブロン語
+  - translation_iso: spa
+    name: romblomanon
   - translation_iso: zho
     name: 隆布洛曼农语
     auto: true

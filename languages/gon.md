@@ -17,6 +17,8 @@ translations:
     name: ゴーンディー語
   - translation_iso: kor
     name: 곤드어
+  - translation_iso: spa
+    name: gondi
   - translation_iso: zho
     name: 貢德語
 ---

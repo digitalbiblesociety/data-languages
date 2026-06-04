@@ -24,6 +24,8 @@ translations:
     name: エウェ語
   - translation_iso: kor
     name: 에웨어
+  - translation_iso: spa
+    name: ewé
   - translation_iso: zho
     name: 埃维语
 rolv_dialects:

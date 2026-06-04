@@ -24,6 +24,8 @@ translations:
     name: ノガイ語
   - translation_iso: kor
     name: 노가이어
+  - translation_iso: spa
+    name: Nogai
   - translation_iso: zho
     name: 諾蓋語
 rolv_dialects:

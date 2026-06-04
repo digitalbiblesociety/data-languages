@@ -25,6 +25,8 @@ translations:
     name: イェニッシュ
   - translation_iso: kor
     name: 예니셰어
+  - translation_iso: spa
+    name: Idioma yeniche
   - translation_iso: zho
     name: 耶尼舍语
     auto: true

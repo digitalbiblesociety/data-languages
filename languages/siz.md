@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シワ語
+  - translation_iso: spa
+    name: Idioma siwi
   - translation_iso: zho
     name: 西瓦语
 ---

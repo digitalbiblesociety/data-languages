@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: カノエ語
     auto: true
+  - translation_iso: spa
+    name: Idioma kanoé
   - translation_iso: zho
     name: 卡诺埃语
     auto: true

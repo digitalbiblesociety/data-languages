@@ -21,6 +21,8 @@ translations:
     name: पुरानी केंटिश सांकेतिक भाषा
   - translation_iso: jpn
     name: 古ケント手話
+  - translation_iso: spa
+    name: Antiguo lenguaje de señas de Kent
   - translation_iso: zho
     name: 古肯特手语
     auto: true

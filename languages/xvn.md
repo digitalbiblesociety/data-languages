@@ -18,6 +18,8 @@ translations:
     name: ヴァンダル語
   - translation_iso: kor
     name: 반달어
+  - translation_iso: spa
+    name: vándalo
   - translation_iso: zho
     name: 汪达尔语
 ---

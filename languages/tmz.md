@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タマナク語
     auto: true
+  - translation_iso: spa
+    name: Idioma tamanaco
   - translation_iso: zho
     name: 塔马纳库语
     auto: true

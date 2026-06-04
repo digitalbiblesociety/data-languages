@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: トボリ語
     auto: true
+  - translation_iso: spa
+    name: idioma tboli
   - translation_iso: zho
     name: 特波里語
 rolv_dialects:

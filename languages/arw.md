@@ -24,6 +24,8 @@ translations:
     name: アラワク語
   - translation_iso: kor
     name: 아라와크어
+  - translation_iso: spa
+    name: arawak-lokono
   - translation_iso: zho
     name: 阿拉瓦克语
 ---

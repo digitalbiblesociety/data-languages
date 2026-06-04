@@ -25,6 +25,8 @@ translations:
     name: クリツ語
   - translation_iso: kor
     name: 크리츠어
+  - translation_iso: spa
+    name: Kryts
   - translation_iso: zho
     name: 克里茨语
     auto: true

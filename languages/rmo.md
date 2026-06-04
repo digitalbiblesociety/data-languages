@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シンティー＝ロマ語
+  - translation_iso: spa
+    name: Romaní Sinti
   - translation_iso: zho
     name: 聖羅馬尼语
 rolv_dialects:

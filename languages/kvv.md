@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: コラ語
     auto: true
+  - translation_iso: spa
+    name: Kola
   - translation_iso: zho
     name: 科拉语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: カハタンボ北リマケチュア語
     auto: true
+  - translation_iso: spa
+    name: quechua de Cajatambo
   - translation_iso: zho
     name: 卡哈塔姆博北利马克丘亚语
     auto: true

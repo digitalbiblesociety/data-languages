@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Päri語
+  - translation_iso: spa
+    name: Idioma päri
   - translation_iso: zho
     name: 帕里语
 ---

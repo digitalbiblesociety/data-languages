@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラビア語オマーン方言
+  - translation_iso: spa
+    name: árabe omaní
   - translation_iso: zho
     name: 阿曼阿拉伯語
 ---

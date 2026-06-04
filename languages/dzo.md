@@ -24,6 +24,8 @@ translations:
     name: ゾンカ語
   - translation_iso: kor
     name: 종카어
+  - translation_iso: spa
+    name: idioma dzongkha
   - translation_iso: zho
     name: 宗卡语
 rolv_dialects:

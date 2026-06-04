@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アスリニ語
+  - translation_iso: spa
+    name: Akwawa
   - translation_iso: zho
     name: 托坎京斯阿苏里尼语
     auto: true

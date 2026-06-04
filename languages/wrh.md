@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィラドゥリ語
+  - translation_iso: spa
+    name: Idioma wiradjuri
   - translation_iso: zho
     name: 威拉祖里语
     auto: true

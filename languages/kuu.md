@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アッパー・クスコクウィム語
     auto: true
+  - translation_iso: spa
+    name: "dinak'i"
   - translation_iso: zho
     name: 上卡斯科奎姆語
 ---

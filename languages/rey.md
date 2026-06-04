@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レイェサノ語
+  - translation_iso: spa
+    name: idioma maropa
   - translation_iso: zho
     name: 奇里瓦语
 ---

@@ -22,6 +22,8 @@ translations:
     name: त्रेगामी भाषा
   - translation_iso: jpn
     name: トレガミ語
+  - translation_iso: spa
+    name: tregamí
   - translation_iso: zho
     name: 特雷加米语
 ---

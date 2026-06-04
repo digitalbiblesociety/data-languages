@@ -24,6 +24,8 @@ translations:
     name: ポンペイ語
   - translation_iso: kor
     name: 폰페이어
+  - translation_iso: spa
+    name: ponapeño
   - translation_iso: zho
     name: 波纳佩语
 rolv_dialects:

@@ -22,6 +22,8 @@ translations:
     name: कोंडा भाषा
   - translation_iso: jpn
     name: コンダ語
+  - translation_iso: spa
+    name: konda
   - translation_iso: zho
     name: 孔达语
 rolv_dialects:

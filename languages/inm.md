@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミナエア語
+  - translation_iso: spa
+    name: Idioma mineo
   - translation_iso: zho
     name: 米那艾亚语
     auto: true

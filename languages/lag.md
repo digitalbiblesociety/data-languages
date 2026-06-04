@@ -24,6 +24,8 @@ translations:
     name: ランギ語
   - translation_iso: kor
     name: 랑기어
+  - translation_iso: spa
+    name: langi
   - translation_iso: zho
     name: 朗吉语
 rolv_dialects:

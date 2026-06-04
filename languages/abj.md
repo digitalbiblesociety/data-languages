@@ -24,6 +24,8 @@ translations:
     name: Aka-Bea族の言葉
   - translation_iso: kor
     name: 아카베아어
+  - translation_iso: spa
+    name: Idioma bea
   - translation_iso: zho
     name: （Aka-）Bea
 ---

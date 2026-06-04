@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バタック語
     auto: true
+  - translation_iso: spa
+    name: idioma batac
   - translation_iso: zho
     name: 巴塔克语
     auto: true

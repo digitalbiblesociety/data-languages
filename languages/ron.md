@@ -24,6 +24,8 @@ translations:
     name: ルーマニア語
   - translation_iso: kor
     name: 루마니아어
+  - translation_iso: spa
+    name: rumano
   - translation_iso: zho
     name: 罗马尼亚语
 rolv_dialects:

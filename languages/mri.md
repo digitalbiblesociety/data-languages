@@ -24,6 +24,8 @@ translations:
     name: マオリ語
   - translation_iso: kor
     name: 마오리어
+  - translation_iso: spa
+    name: maorí
   - translation_iso: zho
     name: 毛利语
 rolv_dialects:

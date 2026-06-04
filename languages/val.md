@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ブアシ語
     auto: true
+  - translation_iso: spa
+    name: Vehes
   - translation_iso: zho
     name: 韦赫斯语
     auto: true

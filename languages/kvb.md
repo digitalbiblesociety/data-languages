@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クブ語
     auto: true
+  - translation_iso: spa
+    name: Kubu
   - translation_iso: zho
     name: 库布语
     auto: true

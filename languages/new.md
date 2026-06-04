@@ -24,6 +24,8 @@ translations:
     name: ネパール・バサ語
   - translation_iso: kor
     name: 네와르어
+  - translation_iso: spa
+    name: Newari
   - translation_iso: zho
     name: 尼瓦尔语
 rolv_dialects:

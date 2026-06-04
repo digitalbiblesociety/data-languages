@@ -24,6 +24,8 @@ translations:
     name: カピンガマランギ語
   - translation_iso: kor
     name: 카핑아마랑이어
+  - translation_iso: spa
+    name: idioma kapingamarangi
   - translation_iso: zho
     name: 卡平加马兰吉语
     auto: true

@@ -17,6 +17,8 @@ translations:
     name: 中期アイルランド語
   - translation_iso: kor
     name: 중세 아일랜드어
+  - translation_iso: spa
+    name: irlandés medio
   - translation_iso: zho
     name: 中古爱尔兰语
 ---

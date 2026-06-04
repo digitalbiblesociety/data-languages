@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 国際手話
+  - translation_iso: spa
+    name: lengua internacional de signos
   - translation_iso: zho
     name: 國際手語
 ---

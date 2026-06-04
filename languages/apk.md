@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: キオワ・アパッチ語
     auto: true
+  - translation_iso: spa
+    name: apache kiowa
   - translation_iso: zho
     name: 基奥瓦阿帕奇语
     auto: true

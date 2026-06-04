@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: エル・モロ語
     auto: true
+  - translation_iso: spa
+    name: Idioma El Molo
   - translation_iso: zho
     name: 埃尔莫洛语
     auto: true

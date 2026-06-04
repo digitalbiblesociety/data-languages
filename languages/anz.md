@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アネム語
+  - translation_iso: spa
+    name: Idioma anêm
   - translation_iso: zho
     name: 阿內姆語
 rolv_dialects:

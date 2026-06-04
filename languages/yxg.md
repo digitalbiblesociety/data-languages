@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ヤガラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma turrubul
   - translation_iso: zho
     name: 亚加拉语
     auto: true

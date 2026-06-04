@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: キバラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma bolo
   - translation_iso: zho
     name: 基巴拉语
     auto: true

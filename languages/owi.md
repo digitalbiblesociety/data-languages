@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オウィニガ語
     auto: true
+  - translation_iso: spa
+    name: Owiniga
   - translation_iso: zho
     name: 奥维尼加语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: オストフリース語
   - translation_iso: kor
     name: 동부 프리슬란드어
+  - translation_iso: spa
+    name: Bajo alemán de Frisia oriental
   - translation_iso: zho
     name: 东弗里斯兰下萨克森语
 ---

@@ -23,6 +23,8 @@ translations:
     name: 古タミル語
   - translation_iso: kor
     name: 고대 타밀어
+  - translation_iso: spa
+    name: tamil antiguo
   - translation_iso: zho
     name: 古泰米尔语
 ---

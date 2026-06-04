@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンガラ語
+  - translation_iso: spa
+    name: Idioma bangala
   - translation_iso: zho
     name: 邦加拉语
     auto: true

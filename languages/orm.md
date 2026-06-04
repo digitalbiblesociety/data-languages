@@ -17,6 +17,8 @@ translations:
     name: オロモ語
   - translation_iso: kor
     name: 오로모어
+  - translation_iso: spa
+    name: oromo
   - translation_iso: zho
     name: 奧羅莫語
 ---

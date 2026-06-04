@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナラ語
+  - translation_iso: spa
+    name: nara
   - translation_iso: zho
     name: 纳拉语
     auto: true

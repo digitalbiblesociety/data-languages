@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ダラワル語
     auto: true
+  - translation_iso: spa
+    name: Idioma tharawal
   - translation_iso: zho
     name: 达拉瓦尔语
     auto: true

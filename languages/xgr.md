@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ガルサ語
     auto: true
+  - translation_iso: spa
+    name: idioma garza
   - translation_iso: zho
     name: 加尔扎语
     auto: true

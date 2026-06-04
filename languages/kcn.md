@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 누비어
+  - translation_iso: spa
+    name: nubi
   - translation_iso: zho
     name: 努比亚语
 ---

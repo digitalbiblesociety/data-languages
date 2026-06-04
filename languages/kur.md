@@ -17,6 +17,8 @@ translations:
     name: クルド語
   - translation_iso: kor
     name: 쿠르드어
+  - translation_iso: spa
+    name: kurdo
   - translation_iso: zho
     name: 库尔德语
 ---

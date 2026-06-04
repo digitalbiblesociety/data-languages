@@ -24,6 +24,8 @@ translations:
     name: 古ノルド語
   - translation_iso: kor
     name: 고대 노르드어
+  - translation_iso: spa
+    name: nórdico antiguo
   - translation_iso: zho
     name: 古诺尔斯语
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カンギアン語
     auto: true
+  - translation_iso: spa
+    name: Kangean
   - translation_iso: zho
     name: 康甘语
     auto: true

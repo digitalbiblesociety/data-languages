@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ドゥグウォル語
     auto: true
+  - translation_iso: spa
+    name: dugwor
   - translation_iso: zho
     name: 杜格沃尔语
     auto: true

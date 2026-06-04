@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クンジェン語
     auto: true
+  - translation_iso: spa
+    name: idioma kunjen
   - translation_iso: zho
     name: 昆任语
     auto: true

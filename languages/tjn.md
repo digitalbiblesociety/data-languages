@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: トンジョン語
     auto: true
+  - translation_iso: spa
+    name: tonjon
   - translation_iso: zho
     name: 通琼语
     auto: true

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아마라카에리어
+  - translation_iso: spa
+    name: Amarakaeri
   - translation_iso: zho
     name: 阿拉特布滕胡亚语
     auto: true

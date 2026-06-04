@@ -24,6 +24,8 @@ translations:
     name: 粤語
   - translation_iso: kor
     name: 월어
+  - translation_iso: spa
+    name: cantonés
   - translation_iso: zho
     name: 粤语
 rolv_dialects:

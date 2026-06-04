@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タグバヌワ語
+  - translation_iso: spa
+    name: idioma tagbanuá central
   - translation_iso: zho
     name: 中塔格邦瓦语
     auto: true

@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: ネーザーランズ・アンティルズ・クレオール英語
     auto: true
+  - translation_iso: spa
+    name: Criollo de las Islas Vírgenes
   - translation_iso: zho
     name: 维尔京群岛克里奥尔英语
     auto: true

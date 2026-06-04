@@ -24,6 +24,8 @@ translations:
     name: フリュギア語
   - translation_iso: kor
     name: 프리기아어
+  - translation_iso: spa
+    name: frigio
   - translation_iso: zho
     name: 弗里吉亞語
 ---

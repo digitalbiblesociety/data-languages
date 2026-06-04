@@ -22,6 +22,8 @@ translations:
     name: コル語
   - translation_iso: kor
     name: 콜어
+  - translation_iso: spa
+    name: Idioma kol
   - translation_iso: zho
     name: 科尔语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バンコン語
     auto: true
+  - translation_iso: spa
+    name: bankon
   - translation_iso: zho
     name: 班孔语
     auto: true

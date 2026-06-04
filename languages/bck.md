@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ブヌバ語
     auto: true
+  - translation_iso: spa
+    name: Bunuba
   - translation_iso: zho
     name: 布努巴语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ティラパ・オトミ語
     auto: true
+  - translation_iso: spa
+    name: otomí de Tilapa
   - translation_iso: zho
     name: 蒂拉帕奥托米语
     auto: true

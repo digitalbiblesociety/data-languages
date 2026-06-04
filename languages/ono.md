@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 오논다가어
+  - translation_iso: spa
+    name: Onondaga
   - translation_iso: zho
     name: 奧農達加語
 ---

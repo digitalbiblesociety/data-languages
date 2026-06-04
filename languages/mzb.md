@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムザブ語
+  - translation_iso: spa
+    name: Idioma mozabita
   - translation_iso: zho
     name: 图姆扎布特语
     auto: true

@@ -17,6 +17,8 @@ translations:
     name: マリ語
   - translation_iso: kor
     name: 마리어
+  - translation_iso: spa
+    name: idioma mari
   - translation_iso: zho
     name: 马里语
 ---

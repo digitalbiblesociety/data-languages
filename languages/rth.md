@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラタハン
+  - translation_iso: spa
+    name: Ratahan
   - translation_iso: zho
     name: 拉塔汉语
     auto: true

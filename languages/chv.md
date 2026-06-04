@@ -24,6 +24,8 @@ translations:
     name: チュヴァシ語
   - translation_iso: kor
     name: 추바시어
+  - translation_iso: spa
+    name: chuvasio
   - translation_iso: zho
     name: 楚瓦什语
 rolv_dialects:

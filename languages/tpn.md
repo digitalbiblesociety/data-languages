@@ -23,6 +23,8 @@ translations:
     name: トゥピ語
   - translation_iso: kor
     name: 고대 투피어
+  - translation_iso: spa
+    name: tupí
   - translation_iso: zho
     name: 图皮语
 ---

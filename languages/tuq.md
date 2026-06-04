@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テダ語
+  - translation_iso: spa
+    name: Idioma teda
   - translation_iso: zho
     name: 泰达语
 rolv_dialects:

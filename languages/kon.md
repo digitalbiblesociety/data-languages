@@ -17,6 +17,8 @@ translations:
     name: コンゴ語
   - translation_iso: kor
     name: 콩고어
+  - translation_iso: spa
+    name: kikongo
   - translation_iso: zho
     name: 刚果语
 ---

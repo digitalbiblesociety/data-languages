@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 팔렌케로 크리올
+  - translation_iso: spa
+    name: criollo palenquero
   - translation_iso: zho
     name: 帕伦奎罗人
 ---

@@ -20,6 +20,8 @@ translations:
   - translation_iso: jpn
     name: ルレ語
     auto: true
+  - translation_iso: spa
+    name: Idioma lule
   - translation_iso: zho
     name: 卢莱语
 ---

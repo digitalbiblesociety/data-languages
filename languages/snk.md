@@ -24,6 +24,8 @@ translations:
     name: ソニンケ語
   - translation_iso: kor
     name: 소닌케어
+  - translation_iso: spa
+    name: Idioma soninké
   - translation_iso: zho
     name: 索宁克语
 rolv_dialects:

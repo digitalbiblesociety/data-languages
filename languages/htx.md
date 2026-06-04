@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ミドル・ヒッタイト語
     auto: true
+  - translation_iso: spa
+    name: hitita medio
   - translation_iso: zho
     name: 中赫梯语
     auto: true

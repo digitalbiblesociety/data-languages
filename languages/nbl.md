@@ -20,6 +20,8 @@ translations:
     name: 南ンデベレ語
   - translation_iso: kor
     name: 남은데벨레어
+  - translation_iso: spa
+    name: ndebele del Sur
   - translation_iso: zho
     name: 南恩德贝莱语
 rolv_dialects:

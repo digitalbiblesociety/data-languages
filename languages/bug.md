@@ -24,6 +24,8 @@ translations:
     name: ブギス語
   - translation_iso: kor
     name: 부기어
+  - translation_iso: spa
+    name: idioma buguinés
   - translation_iso: zho
     name: 布吉語
 rolv_dialects:

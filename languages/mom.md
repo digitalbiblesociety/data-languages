@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: マングエ語
     auto: true
+  - translation_iso: spa
+    name: chorotega
   - translation_iso: zho
     name: 曼格语
     auto: true

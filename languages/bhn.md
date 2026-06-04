@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボータン現代アラム語
+  - translation_iso: spa
+    name: neoarameo de Botan
   - translation_iso: zho
     name: 波坦新亞拉姆語
 ---

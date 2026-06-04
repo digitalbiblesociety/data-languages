@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティムクア語
+  - translation_iso: spa
+    name: idioma timucua
   - translation_iso: zho
     name: 蒂木库亚语
     auto: true

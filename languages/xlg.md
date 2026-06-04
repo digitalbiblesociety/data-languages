@@ -19,6 +19,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古代リグリア語
+  - translation_iso: spa
+    name: Antiguo idioma ligur
   - translation_iso: zho
     name: 古利古里亚语
 ---

@@ -25,6 +25,8 @@ translations:
     name: チコムセルテック語
   - translation_iso: kor
     name: 치코무셀텍어
+  - translation_iso: spa
+    name: chicomuselteco
   - translation_iso: zho
     name: 奇科穆塞尔特克语
     auto: true

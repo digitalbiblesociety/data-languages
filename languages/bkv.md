@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ベクワッラ語
     auto: true
+  - translation_iso: spa
+    name: bekwarra
   - translation_iso: zho
     name: 贝克瓦拉语
     auto: true

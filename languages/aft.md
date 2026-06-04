@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アフィティ語
     auto: true
+  - translation_iso: spa
+    name: afitti
   - translation_iso: zho
     name: 阿菲蒂语
     auto: true

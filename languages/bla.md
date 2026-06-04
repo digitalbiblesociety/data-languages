@@ -24,6 +24,8 @@ translations:
     name: ブラックフット語
   - translation_iso: kor
     name: 블랙풋어
+  - translation_iso: spa
+    name: Idioma siksiká
   - translation_iso: zho
     name: 黑脚语
 rolv_dialects:

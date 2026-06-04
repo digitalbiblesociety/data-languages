@@ -16,6 +16,8 @@ translations:
     name: トウィ語
   - translation_iso: kor
     name: 트위어
+  - translation_iso: spa
+    name: idioma twi
   - translation_iso: zho
     name: 契維語
 rolv_dialects:

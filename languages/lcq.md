@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ルフ語
     auto: true
+  - translation_iso: spa
+    name: Luhu
   - translation_iso: zho
     name: 鲁胡语
 rolv_dialects:

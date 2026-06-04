@@ -25,6 +25,8 @@ translations:
     name: ノビイン語
   - translation_iso: kor
     name: 노빈어
+  - translation_iso: spa
+    name: Idioma nobiin
   - translation_iso: zho
     name: 诺宾语
 rolv_dialects:

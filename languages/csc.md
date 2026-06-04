@@ -24,6 +24,8 @@ translations:
     name: カタルーニャ手話
   - translation_iso: kor
     name: 카탈루냐어 수화
+  - translation_iso: spa
+    name: lengua de signos catalana
   - translation_iso: zho
     name: 加泰罗尼亚手语
 ---

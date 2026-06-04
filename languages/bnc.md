@@ -18,6 +18,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボントック語
+  - translation_iso: spa
+    name: Idioma bontoc
   - translation_iso: zho
     name: 邦托克语
     auto: true

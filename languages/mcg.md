@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マポヨ語
     auto: true
+  - translation_iso: spa
+    name: idioma mapoyo
   - translation_iso: zho
     name: 马波约人
 ---

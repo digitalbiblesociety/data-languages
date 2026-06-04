@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グウェノ語
+  - translation_iso: spa
+    name: Gweno
   - translation_iso: zho
     name: 格韦诺语
     auto: true

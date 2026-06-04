@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガヤウング語
+  - translation_iso: spa
+    name: Idioma ngayawung
   - translation_iso: zho
     name: 下河地语
     auto: true

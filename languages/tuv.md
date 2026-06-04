@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥルカナ語
+  - translation_iso: spa
+    name: turkana
   - translation_iso: zho
     name: 图尔卡纳语
 rolv_dialects:

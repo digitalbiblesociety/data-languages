@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バンガルラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma barngarla
   - translation_iso: zho
     name: 邦加拉语
     auto: true

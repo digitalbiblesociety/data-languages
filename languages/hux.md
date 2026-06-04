@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヌポデ・ウイトト語
     auto: true
+  - translation_iso: spa
+    name: nipode
   - translation_iso: zho
     name: 努波德惠托托语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: アムハラ語
   - translation_iso: kor
     name: 암하라어
+  - translation_iso: spa
+    name: amhárico
   - translation_iso: zho
     name: 阿姆哈拉语
 rolv_dialects:

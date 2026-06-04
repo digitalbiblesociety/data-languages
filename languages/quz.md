@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クスコ語
+  - translation_iso: spa
+    name: Quechua cusqueño
   - translation_iso: zho
     name: 库斯科克丘亚语
     auto: true

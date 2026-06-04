@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エセレン語
+  - translation_iso: spa
+    name: idioma esselen
   - translation_iso: zho
     name: 埃塞伦语
     auto: true

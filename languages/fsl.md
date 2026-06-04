@@ -23,6 +23,8 @@ translations:
     name: フランス手話
   - translation_iso: kor
     name: 프랑스 수화
+  - translation_iso: spa
+    name: lengua de señas francesa
   - translation_iso: zho
     name: 法国手语
 rolv_dialects:

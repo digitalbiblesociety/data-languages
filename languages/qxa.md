@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: チキアンアンカシュケチュア語
     auto: true
+  - translation_iso: spa
+    name: Quechua de Chiquián
   - translation_iso: zho
     name: 奇基安安卡什克丘亚语
     auto: true

@@ -22,6 +22,8 @@ translations:
     name: अहेरी गोंडी
   - translation_iso: jpn
     name: アヘリ・ゴンディ
+  - translation_iso: spa
+    name: Aheri Gondi
   - translation_iso: zho
     name: 阿赫里贡迪语
     auto: true

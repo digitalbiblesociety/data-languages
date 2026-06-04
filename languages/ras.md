@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: テガリ語
     auto: true
+  - translation_iso: spa
+    name: Idioma tegali
   - translation_iso: zho
     name: 特加利语
     auto: true

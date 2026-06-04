@@ -24,6 +24,8 @@ translations:
     name: トスク方言
   - translation_iso: kor
     name: 토스크 알바니아어
+  - translation_iso: spa
+    name: albanés tosco
   - translation_iso: zho
     name: 托斯克方言
 rolv_dialects:

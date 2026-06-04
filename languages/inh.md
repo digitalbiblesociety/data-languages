@@ -24,6 +24,8 @@ translations:
     name: イングーシ語
   - translation_iso: kor
     name: 인구시어
+  - translation_iso: spa
+    name: ingusetio
   - translation_iso: zho
     name: 印古什語
 ---

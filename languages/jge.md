@@ -18,6 +18,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グルジン語
+  - translation_iso: spa
+    name: judeogeorgiano
   - translation_iso: zho
     name: 犹太-格鲁吉亚语
     auto: true

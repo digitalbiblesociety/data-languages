@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テオプ語
+  - translation_iso: spa
+    name: Teop
   - translation_iso: zho
     name: 特奥普语
     auto: true

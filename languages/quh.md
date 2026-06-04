@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 南ボリビアンケチュア語
     auto: true
+  - translation_iso: spa
+    name: quechua sudboliviano
   - translation_iso: zho
     name: 南玻利維亞克丘亞語
 rolv_dialects:

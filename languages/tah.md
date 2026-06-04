@@ -24,6 +24,8 @@ translations:
     name: タヒチ語
   - translation_iso: kor
     name: 타히티어
+  - translation_iso: spa
+    name: tahitiano
   - translation_iso: zho
     name: 塔希提语
 ---

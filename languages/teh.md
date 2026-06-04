@@ -25,6 +25,8 @@ translations:
     name: テウェルチェ語
   - translation_iso: kor
     name: 떼우엘체어
+  - translation_iso: spa
+    name: Idioma tehuelche
   - translation_iso: zho
     name: 特维尔切语
 ---

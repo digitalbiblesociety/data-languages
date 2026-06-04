@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガファト語
+  - translation_iso: spa
+    name: gafat
   - translation_iso: zho
     name: 加法特语
     auto: true

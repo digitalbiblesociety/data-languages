@@ -24,6 +24,8 @@ translations:
     name: タア語
   - translation_iso: kor
     name: 꽁옹어
+  - translation_iso: spa
+    name: taa
   - translation_iso: zho
     name: 宏语
 rolv_dialects:

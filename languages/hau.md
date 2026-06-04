@@ -24,6 +24,8 @@ translations:
     name: ハウサ語
   - translation_iso: kor
     name: 하우사어
+  - translation_iso: spa
+    name: hausa
   - translation_iso: zho
     name: 豪萨语
 rolv_dialects:

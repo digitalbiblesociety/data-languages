@@ -21,6 +21,8 @@ translations:
     name: ラール語
   - translation_iso: kor
     name: 랄어
+  - translation_iso: spa
+    name: Idioma laal
   - translation_iso: zho
     name: 拉尔语
     auto: true

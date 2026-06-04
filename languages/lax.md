@@ -22,6 +22,8 @@ translations:
     name: टिवा भाषा
   - translation_iso: jpn
     name: ティワ語
+  - translation_iso: spa
+    name: idioma tiwa
   - translation_iso: zho
     name: 蒂瓦语
     auto: true

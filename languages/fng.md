@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ファナガロ語
+  - translation_iso: spa
+    name: Fanagalo
   - translation_iso: zho
     name: 凡那伽罗
 rolv_dialects:

@@ -25,6 +25,8 @@ translations:
     name: ファラ語
   - translation_iso: kor
     name: 팔라어
+  - translation_iso: spa
+    name: fala
   - translation_iso: zho
     name: 法拉語
 rolv_dialects:

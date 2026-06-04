@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パパントラ・トトナック語
     auto: true
+  - translation_iso: spa
+    name: totonaco de Papantla
   - translation_iso: zho
     name: 帕潘特拉托托纳克语
 ---

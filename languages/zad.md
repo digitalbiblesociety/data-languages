@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カホノス・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco cajono
   - translation_iso: zho
     name: 卡约诺斯-萨波特克语
     auto: true

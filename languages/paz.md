@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: パンカラル語
     auto: true
+  - translation_iso: spa
+    name: Idioma pankararú
   - translation_iso: zho
     name: 潘卡拉鲁语
     auto: true

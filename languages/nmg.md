@@ -24,6 +24,8 @@ translations:
     name: クワシオ語
   - translation_iso: kor
     name: 크와시오어
+  - translation_iso: spa
+    name: kwasio
   - translation_iso: zho
     name: 夸西奥语
 rolv_dialects:

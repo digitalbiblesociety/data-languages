@@ -22,6 +22,8 @@ translations:
     name: अपतानी भाषा
   - translation_iso: jpn
     name: アパタニ語
+  - translation_iso: spa
+    name: idioma apatani
   - translation_iso: zho
     name: 阿帕塔尼语
     auto: true

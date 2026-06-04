@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ナモシ・ナイタシリ・セルア語
     auto: true
+  - translation_iso: spa
+    name: Namosi-Naitasiri-Serua
   - translation_iso: zho
     name: 纳莫西-奈塔西里-塞鲁阿语
     auto: true

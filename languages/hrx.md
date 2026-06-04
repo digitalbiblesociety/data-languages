@@ -25,6 +25,8 @@ translations:
     name: フンスリュック方言
   - translation_iso: kor
     name: 훈스리크어
+  - translation_iso: spa
+    name: Riograndenser Hunsrückisch
   - translation_iso: zho
     name: 里奥格兰德洪斯吕克语
 ---

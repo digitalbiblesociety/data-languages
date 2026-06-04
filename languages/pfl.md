@@ -26,6 +26,8 @@ translations:
     name: プファルツ語
   - translation_iso: kor
     name: 팔츠 독일어
+  - translation_iso: spa
+    name: alemán palatino
   - translation_iso: zho
     name: 普法尔茨方言
 ---

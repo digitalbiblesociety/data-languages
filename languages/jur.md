@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ジュルナ語
     auto: true
+  - translation_iso: spa
+    name: yuruna
   - translation_iso: zho
     name: 朱鲁纳语
     auto: true

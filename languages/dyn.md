@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ディャンガディ語
     auto: true
+  - translation_iso: spa
+    name: Idioma dunghutti
   - translation_iso: zho
     name: 甸加迪语
     auto: true

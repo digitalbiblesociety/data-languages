@@ -19,6 +19,8 @@ translations:
     name: ボスニア語
   - translation_iso: kor
     name: 보스니아어
+  - translation_iso: spa
+    name: bosnio
   - translation_iso: zho
     name: 波斯尼亚语
 rolv_dialects:

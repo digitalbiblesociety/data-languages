@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンカルロス・アパッチ語
+  - translation_iso: spa
+    name: apache occidental
   - translation_iso: zho
     name: 西阿帕奇語
 rolv_dialects:

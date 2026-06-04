@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダフラク語
+  - translation_iso: spa
+    name: dahalik
   - translation_iso: zho
     name: 達哈利克語
 ---

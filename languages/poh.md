@@ -25,6 +25,8 @@ translations:
     name: ポコムチ語
   - translation_iso: kor
     name: 포콤치어
+  - translation_iso: spa
+    name: pocomchí
   - translation_iso: zho
     name: 波寇姆奇语
     auto: true

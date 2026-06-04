@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: ティニグア語
     auto: true
+  - translation_iso: spa
+    name: idioma tinigua
   - translation_iso: zho
     name: 提尼瓜語
 ---

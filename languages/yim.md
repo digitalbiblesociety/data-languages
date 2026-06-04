@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: イムチュングル・ナガ語
     auto: true
+  - translation_iso: spa
+    name: yimchungrü
   - translation_iso: zho
     name: 伊姆春古鲁-纳格语
     auto: true

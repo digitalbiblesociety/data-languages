@@ -24,6 +24,8 @@ translations:
     name: アグール語
   - translation_iso: kor
     name: 아굴어
+  - translation_iso: spa
+    name: Aghul
   - translation_iso: zho
     name: 阿古尔语
 rolv_dialects:

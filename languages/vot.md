@@ -24,6 +24,8 @@ translations:
     name: ヴォート語
   - translation_iso: kor
     name: 바트어
+  - translation_iso: spa
+    name: votio
   - translation_iso: zho
     name: 瓦佳语
 rolv_dialects:

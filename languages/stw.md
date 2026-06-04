@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サタワル語
+  - translation_iso: spa
+    name: satawal
   - translation_iso: zho
     name: 萨塔瓦莱塞语
     auto: true

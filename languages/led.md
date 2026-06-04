@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レンドュ語
+  - translation_iso: spa
+    name: Lendu
   - translation_iso: zho
     name: 蘭度語
 rolv_dialects:

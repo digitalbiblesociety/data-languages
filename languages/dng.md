@@ -25,6 +25,8 @@ translations:
     name: ドンガン語
   - translation_iso: kor
     name: 둥간어
+  - translation_iso: spa
+    name: dungano
   - translation_iso: zho
     name: 东干语
 rolv_dialects:

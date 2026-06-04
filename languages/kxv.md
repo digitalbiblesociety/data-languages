@@ -24,6 +24,8 @@ translations:
     name: クーヴィンガ語
   - translation_iso: kor
     name: 쿠비어
+  - translation_iso: spa
+    name: kuvi
   - translation_iso: zho
     name: 库维
 rolv_dialects:

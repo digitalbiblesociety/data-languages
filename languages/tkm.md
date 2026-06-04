@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タケルマ語
+  - translation_iso: spa
+    name: Idioma takelma
   - translation_iso: zho
     name: 塔克尔玛语
     auto: true

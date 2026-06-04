@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ニナム語
     auto: true
+  - translation_iso: spa
+    name: Idioma yanam
   - translation_iso: zho
     name: 尼南语
     auto: true

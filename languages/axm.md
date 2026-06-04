@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中世アルメニア語
+  - translation_iso: spa
+    name: armenio medio
   - translation_iso: zho
     name: 中古亚美尼亚语
 ---

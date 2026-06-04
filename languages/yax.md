@@ -18,6 +18,8 @@ translations:
   - translation_iso: jpn
     name: ヤウマ語
     auto: true
+  - translation_iso: spa
+    name: Idioma yauma
   - translation_iso: zho
     name: 亚乌玛语
     auto: true

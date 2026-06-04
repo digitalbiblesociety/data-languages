@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北東ディンカ語
+  - translation_iso: spa
+    name: dinka nororiental
   - translation_iso: zho
     name: 东北丁卡语
     auto: true

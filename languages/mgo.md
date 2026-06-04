@@ -24,6 +24,8 @@ translations:
     name: メタ語
   - translation_iso: kor
     name: 메타어
+  - translation_iso: spa
+    name: meta’
   - translation_iso: zho
     name: 梅塔语
 rolv_dialects:

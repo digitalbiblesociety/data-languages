@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カニング語
     auto: true
+  - translation_iso: spa
+    name: shatt
   - translation_iso: zho
     name: 沙特语
     auto: true

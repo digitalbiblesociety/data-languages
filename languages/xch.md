@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チェマクム語
     auto: true
+  - translation_iso: spa
+    name: chimakum
   - translation_iso: zho
     name: 切马库姆语
     auto: true

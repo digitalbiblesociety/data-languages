@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: サステアン語
     auto: true
+  - translation_iso: spa
+    name: shasta
   - translation_iso: zho
     name: 沙斯塔语
     auto: true

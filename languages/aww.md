@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アウン語
     auto: true
+  - translation_iso: spa
+    name: awun
   - translation_iso: zho
     name: 阿温语
     auto: true

@@ -22,6 +22,8 @@ translations:
     name: कोटा भाषा
   - translation_iso: jpn
     name: コータ語
+  - translation_iso: spa
+    name: kota
   - translation_iso: zho
     name: 科塔语
 rolv_dialects:

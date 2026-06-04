@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コユコン語
+  - translation_iso: spa
+    name: koyukón
   - translation_iso: zho
     name: 科育空語
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: リオ語
     auto: true
+  - translation_iso: spa
+    name: Lio
   - translation_iso: zho
     name: 立歐語
 ---

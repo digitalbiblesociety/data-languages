@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モビリアン語
+  - translation_iso: spa
+    name: mobilian
   - translation_iso: zho
     name: 莫比利安语
     auto: true

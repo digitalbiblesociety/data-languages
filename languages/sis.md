@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サイウスロー語
+  - translation_iso: spa
+    name: idioma siuslaw
   - translation_iso: zho
     name: 西乌斯劳语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: モム・ジャンゴ語
     auto: true
+  - translation_iso: spa
+    name: Vere
   - translation_iso: zho
     name: 妈妈姜戈语
     auto: true

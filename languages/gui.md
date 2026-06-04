@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チリグアノ族
+  - translation_iso: spa
+    name: guaraní oriental boliviano
   - translation_iso: zho
     name: 东玻利维亚瓜拉尼语
     auto: true

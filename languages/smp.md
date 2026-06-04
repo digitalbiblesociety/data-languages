@@ -25,6 +25,8 @@ translations:
     name: サマリア語
   - translation_iso: kor
     name: 사마리아어
+  - translation_iso: spa
+    name: samaritano
   - translation_iso: zho
     name: 撒瑪利亞希伯來文
 ---

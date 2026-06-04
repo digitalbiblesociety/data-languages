@@ -24,6 +24,8 @@ translations:
     name: ナマ語
   - translation_iso: kor
     name: 나마어
+  - translation_iso: spa
+    name: khoekhoe
   - translation_iso: zho
     name: 纳马语
 rolv_dialects:

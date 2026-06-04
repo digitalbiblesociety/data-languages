@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: プイナベ語
     auto: true
+  - translation_iso: spa
+    name: idioma puinave
   - translation_iso: zho
     name: Puinave語
 ---

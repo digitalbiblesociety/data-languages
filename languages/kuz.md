@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クンサ語
+  - translation_iso: spa
+    name: Kunza
   - translation_iso: zho
     name: 坤扎語
 ---

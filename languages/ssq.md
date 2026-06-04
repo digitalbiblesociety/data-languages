@@ -19,6 +19,8 @@ translations:
   - translation_iso: jpn
     name: ソア語
     auto: true
+  - translation_iso: spa
+    name: "So'a"
   - translation_iso: zho
     name: 索阿语
     auto: true

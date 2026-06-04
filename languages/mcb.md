@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マチゲンガ語
+  - translation_iso: spa
+    name: machiguenga
   - translation_iso: zho
     name: 马奇格恩加语
     auto: true

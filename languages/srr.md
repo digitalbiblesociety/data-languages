@@ -24,6 +24,8 @@ translations:
     name: セレール語
   - translation_iso: kor
     name: 세레르어
+  - translation_iso: spa
+    name: serer
   - translation_iso: zho
     name: 塞雷尔语
 rolv_dialects:

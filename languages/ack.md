@@ -25,6 +25,8 @@ translations:
     name: アカコラ語
   - translation_iso: kor
     name: 아카코라 방언
+  - translation_iso: spa
+    name: Idioma kora
   - translation_iso: zho
     name: 阿卡-科拉语
     auto: true

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エクアドル手話
+  - translation_iso: spa
+    name: Lengua de señas de Ecuador
   - translation_iso: zho
     name: 厄瓜多尔手语
     auto: true

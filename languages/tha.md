@@ -24,6 +24,8 @@ translations:
     name: タイ語
   - translation_iso: kor
     name: 태국어
+  - translation_iso: spa
+    name: tailandés
   - translation_iso: zho
     name: 泰语
 rolv_dialects:

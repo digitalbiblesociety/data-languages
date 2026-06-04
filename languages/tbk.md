@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カラミアン・タグバンワ語
     auto: true
+  - translation_iso: spa
+    name: idioma calamián
   - translation_iso: zho
     name: 卡拉米安塔格邦瓦语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: ウーメ・サーミ語
   - translation_iso: kor
     name: 우메 사미어
+  - translation_iso: spa
+    name: sami del Ume
   - translation_iso: zho
     name: 于默萨米语
 ---

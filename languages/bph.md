@@ -25,6 +25,8 @@ translations:
     name: ボトリフ語
   - translation_iso: kor
     name: 보틀리흐어
+  - translation_iso: spa
+    name: idioma botlij
   - translation_iso: zho
     name: 博特利赫语
     auto: true

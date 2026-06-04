@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トバ語 (アルゼンチン)
+  - translation_iso: spa
+    name: idioma toba
   - translation_iso: zho
     name: 科姆语
 rolv_dialects:

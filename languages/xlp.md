@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レポント語
+  - translation_iso: spa
+    name: lepóntico
   - translation_iso: zho
     name: 南阿爾卑高盧語
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: コンコンバ語
     auto: true
+  - translation_iso: spa
+    name: konkomba
   - translation_iso: zho
     name: 孔空芭语
 rolv_dialects:

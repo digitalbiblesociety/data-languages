@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: アグ・タルングガラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma aghu-tharnggala
   - translation_iso: zho
     name: 阿古-塔尔恩加拉语
     auto: true

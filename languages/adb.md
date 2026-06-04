@@ -20,6 +20,8 @@ translations:
   - translation_iso: jpn
     name: アダベ語
     auto: true
+  - translation_iso: spa
+    name: Idioma adabe
   - translation_iso: zho
     name: 阿达贝语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アングティムリ語
     auto: true
+  - translation_iso: spa
+    name: Idioma anguthimri
   - translation_iso: zho
     name: 安古西姆里语
 rolv_dialects:

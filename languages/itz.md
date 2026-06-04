@@ -25,6 +25,8 @@ translations:
     name: イツァ語
   - translation_iso: kor
     name: 이차어
+  - translation_iso: spa
+    name: itzá
   - translation_iso: zho
     name: 伊察语
     auto: true

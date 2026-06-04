@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガジュ語
+  - translation_iso: spa
+    name: Dayak Ngaju
   - translation_iso: zho
     name: 雅朱語
 rolv_dialects:

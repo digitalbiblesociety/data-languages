@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: トリムリス語
     auto: true
+  - translation_iso: spa
+    name: Trimuris
   - translation_iso: zho
     name: 特里穆里斯语
     auto: true

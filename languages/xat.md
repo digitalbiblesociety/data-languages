@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カタウィキシ語
     auto: true
+  - translation_iso: spa
+    name: Idioma katawixí
   - translation_iso: zho
     name: 卡塔维希语
     auto: true

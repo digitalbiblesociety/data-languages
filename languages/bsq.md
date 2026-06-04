@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バッサ語
+  - translation_iso: spa
+    name: bassa
   - translation_iso: zho
     name: 巴萨语
 rolv_dialects:

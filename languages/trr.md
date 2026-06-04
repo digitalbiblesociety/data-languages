@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: ピンチェ語
     auto: true
+  - translation_iso: spa
+    name: taushiro
   - translation_iso: zho
     name: 陶希洛語
 ---

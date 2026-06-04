@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: クイ語
     auto: true
+  - translation_iso: spa
+    name: kuy
   - translation_iso: zho
     name: Suay人
 rolv_dialects:

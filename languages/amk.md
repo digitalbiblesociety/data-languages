@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アンバイ語
     auto: true
+  - translation_iso: spa
+    name: Ambai
   - translation_iso: zho
     name: 安拜语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ドゥアラ語
   - translation_iso: kor
     name: 두알라어
+  - translation_iso: spa
+    name: duala
   - translation_iso: zho
     name: 杜阿拉语
 rolv_dialects:

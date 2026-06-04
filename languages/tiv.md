@@ -24,6 +24,8 @@ translations:
     name: ティヴ語
   - translation_iso: kor
     name: 티브어
+  - translation_iso: spa
+    name: idioma tiv
   - translation_iso: zho
     name: 蒂夫语
 rolv_dialects:

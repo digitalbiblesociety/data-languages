@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソチアパム・チナンテク語
+  - translation_iso: spa
+    name: chinanteca de Sochiapan
   - translation_iso: zho
     name: 索奇亚帕姆奇南特克语
     auto: true

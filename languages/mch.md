@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マキリタリ語
     auto: true
+  - translation_iso: spa
+    name: idioma yekuana
   - translation_iso: zho
     name: 马基里塔里语
     auto: true

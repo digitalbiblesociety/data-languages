@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウルグアイ手話
+  - translation_iso: spa
+    name: lengua de señas uruguaya
   - translation_iso: zho
     name: 乌拉圭手语
     auto: true

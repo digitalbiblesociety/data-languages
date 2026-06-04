@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ムピンダ語
     auto: true
+  - translation_iso: spa
+    name: Mpinda
   - translation_iso: zho
     name: 姆平达语
     auto: true

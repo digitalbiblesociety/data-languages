@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: マッセップ語
     auto: true
+  - translation_iso: spa
+    name: Idioma massep
   - translation_iso: zho
     name: 玛塞普语
     auto: true

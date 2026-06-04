@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クヨノン語
     auto: true
+  - translation_iso: spa
+    name: idioma cuyano
   - translation_iso: zho
     name: 库约语
 ---

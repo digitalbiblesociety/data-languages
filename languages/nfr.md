@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナファーンラ語
+  - translation_iso: spa
+    name: nafaanra
   - translation_iso: zho
     name: 納凡拉語
 rolv_dialects:

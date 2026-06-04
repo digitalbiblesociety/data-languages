@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 西テペウア語
     auto: true
+  - translation_iso: spa
+    name: tepehua de Tlachichilco
   - translation_iso: zho
     name: 特拉奇奇尔科特佩瓦语
     auto: true

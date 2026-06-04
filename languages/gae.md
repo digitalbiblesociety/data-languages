@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワレケナ語
+  - translation_iso: spa
+    name: Warekena
   - translation_iso: zho
     name: 瓜雷基纳语
     auto: true

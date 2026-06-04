@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オズマシン・チナンテク語
     auto: true
+  - translation_iso: spa
+    name: chinanteca de Ozumacín
   - translation_iso: zho
     name: 奧蘇馬辛奇南特克語
 rolv_dialects:

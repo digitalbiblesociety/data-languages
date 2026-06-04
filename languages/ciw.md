@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南西部オジブワ語
+  - translation_iso: spa
+    name: Chippewa
   - translation_iso: zho
     name: 奇普瓦语
     auto: true

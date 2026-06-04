@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アルハー語
     auto: true
+  - translation_iso: spa
+    name: Idioma arhâ
   - translation_iso: zho
     name: 阿尔哈语
     auto: true

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウジラ語
+  - translation_iso: spa
+    name: awjila
   - translation_iso: zho
     name: 奥吉拉语
 ---

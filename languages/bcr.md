@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バビーネ語
     auto: true
+  - translation_iso: spa
+    name: babine
   - translation_iso: zho
     name: 巴比尼语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: 中央ビコール語
   - translation_iso: kor
     name: 중부 비콜어
+  - translation_iso: spa
+    name: bicolano central
   - translation_iso: zho
     name: 中比科尔语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ロ・トガ語
     auto: true
+  - translation_iso: spa
+    name: Lo-Toga
   - translation_iso: zho
     name: 洛-托加语
     auto: true

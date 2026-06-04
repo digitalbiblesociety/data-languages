@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: デニ語
     auto: true
+  - translation_iso: spa
+    name: dení
   - translation_iso: zho
     name: 丹尼語
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クークターヨレ語
+  - translation_iso: spa
+    name: Idioma kuuk thaayorre
   - translation_iso: zho
     name: 庫克薩優里語
 rolv_dialects:

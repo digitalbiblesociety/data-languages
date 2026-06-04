@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルゼンチン手話
+  - translation_iso: spa
+    name: lengua de señas argentina
   - translation_iso: zho
     name: 阿根廷手语
 rolv_dialects:

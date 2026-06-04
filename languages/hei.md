@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘイルツク語
+  - translation_iso: spa
+    name: heilchuco
   - translation_iso: zho
     name: 海尔楚克-奥韦基亚拉语
 rolv_dialects:

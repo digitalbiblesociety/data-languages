@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウィカルカン語
     auto: true
+  - translation_iso: spa
+    name: idioma wik-ngatharr
   - translation_iso: zho
     name: 威卡尔坎语
     auto: true

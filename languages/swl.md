@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スウェーデン手話
+  - translation_iso: spa
+    name: Lengua de señas sueca
   - translation_iso: zho
     name: 瑞典手语
 ---

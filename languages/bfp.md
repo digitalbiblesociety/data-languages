@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ベバ語
     auto: true
+  - translation_iso: spa
+    name: beba
   - translation_iso: zho
     name: 贝巴语
     auto: true

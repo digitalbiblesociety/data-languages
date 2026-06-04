@@ -23,6 +23,8 @@ translations:
     name: 北西部オジブワ語
   - translation_iso: kor
     name: 북서부 오지브와어
+  - translation_iso: spa
+    name: ojibwa noroccidental
   - translation_iso: zho
     name: 西北部奥吉布瓦语
 rolv_dialects:

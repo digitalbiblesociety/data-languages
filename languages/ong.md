@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オロ語
+  - translation_iso: spa
+    name: Olo
   - translation_iso: zho
     name: 奥洛语
     auto: true

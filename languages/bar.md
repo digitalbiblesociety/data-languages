@@ -24,6 +24,8 @@ translations:
     name: バイエルン・オーストリア語
   - translation_iso: kor
     name: 오스트로바이에른어
+  - translation_iso: spa
+    name: bávaro
   - translation_iso: zho
     name: 奥地利-巴伐利亚德语
 rolv_dialects:

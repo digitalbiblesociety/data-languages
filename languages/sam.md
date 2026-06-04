@@ -20,6 +20,8 @@ translations:
     name: サマリア・アラム語
   - translation_iso: kor
     name: 사마리아 아람어
+  - translation_iso: spa
+    name: samaritano
   - translation_iso: zho
     name: 撒瑪利亞亞拉姆語
 ---

@@ -24,6 +24,8 @@ translations:
     name: マプチェ語
   - translation_iso: kor
     name: 마푸둥군어
+  - translation_iso: spa
+    name: mapuche
   - translation_iso: zho
     name: 马普切语
 rolv_dialects:

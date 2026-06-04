@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: タグバンワ語
     auto: true
+  - translation_iso: spa
+    name: idioma aborlano
   - translation_iso: zho
     name: 塔格邦瓦语
     auto: true

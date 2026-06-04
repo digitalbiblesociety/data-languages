@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カシボ・カカタイボ語
     auto: true
+  - translation_iso: spa
+    name: Kakataibo
   - translation_iso: zho
     name: 卡什博-卡卡塔伊博语
     auto: true

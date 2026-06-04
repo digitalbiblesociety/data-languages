@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チリ手話
+  - translation_iso: spa
+    name: lengua de señas chilena
   - translation_iso: zho
     name: 智利手语
 ---

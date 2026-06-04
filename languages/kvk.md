@@ -24,6 +24,8 @@ translations:
     name: 韓国手話
   - translation_iso: kor
     name: 한국 수어
+  - translation_iso: spa
+    name: lengua de señas coreana
   - translation_iso: zho
     name: 韩文手语
 rolv_dialects:

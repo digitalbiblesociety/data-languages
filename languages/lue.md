@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルヴァレ語
+  - translation_iso: spa
+    name: Idioma luvale
   - translation_iso: zho
     name: 卢瓦莱语
     auto: true

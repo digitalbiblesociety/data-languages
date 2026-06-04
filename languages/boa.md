@@ -25,6 +25,8 @@ translations:
     name: ボラ語
   - translation_iso: kor
     name: 보라어
+  - translation_iso: spa
+    name: bora
   - translation_iso: zho
     name: 博拉語
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     name: チブチャ語
   - translation_iso: kor
     name: 치브차어
+  - translation_iso: spa
+    name: idioma muisca
   - translation_iso: zho
     name: 奇布查语
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中央テケ語
+  - translation_iso: spa
+    name: teke-ebo
   - translation_iso: zho
     name: 中部特克語
 rolv_dialects:

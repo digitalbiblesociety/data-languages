@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サオ語
+  - translation_iso: spa
+    name: Idioma thao
   - translation_iso: zho
     name: 邵語
 rolv_dialects:

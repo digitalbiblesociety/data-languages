@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ディガロ・ミシミ語
     auto: true
+  - translation_iso: spa
+    name: digarú
   - translation_iso: zho
     name: 达让语
 rolv_dialects:

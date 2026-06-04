@@ -24,6 +24,8 @@ translations:
     name: オランダ語
   - translation_iso: kor
     name: 네덜란드어
+  - translation_iso: spa
+    name: neerlandés
   - translation_iso: zho
     name: 荷兰语
 rolv_dialects:

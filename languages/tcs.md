@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トレス海峡クレオール
+  - translation_iso: spa
+    name: Criollo del Estrecho de Torres
   - translation_iso: zho
     name: 托雷斯海峽克里奧爾語
 rolv_dialects:

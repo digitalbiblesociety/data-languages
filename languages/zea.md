@@ -25,6 +25,8 @@ translations:
     name: ゼーランド語
   - translation_iso: kor
     name: 제일란트어
+  - translation_iso: spa
+    name: zelandés
   - translation_iso: zho
     name: 西兰语
 rolv_dialects:

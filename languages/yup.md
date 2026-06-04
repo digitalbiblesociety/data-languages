@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ユクパ語
     auto: true
+  - translation_iso: spa
+    name: Idioma yukpa
   - translation_iso: zho
     name: 尤克帕语
 rolv_dialects:

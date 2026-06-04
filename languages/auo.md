@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウヨカワ語
+  - translation_iso: spa
+    name: auyokawa
   - translation_iso: zho
     name: 奥约卡瓦语
     auto: true

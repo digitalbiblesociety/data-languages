@@ -24,6 +24,8 @@ translations:
     name: マクア語
   - translation_iso: kor
     name: 마쿠아어
+  - translation_iso: spa
+    name: Lenguaje Makhuwa
   - translation_iso: zho
     name: 馬庫阿語
 rolv_dialects:

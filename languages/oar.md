@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古代アラム語
+  - translation_iso: spa
+    name: arameo antiguo
   - translation_iso: zho
     name: 古亞拉姆語
 ---

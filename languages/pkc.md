@@ -22,6 +22,8 @@ translations:
     name: 百済語
   - translation_iso: kor
     name: 백제어
+  - translation_iso: spa
+    name: Idioma baekje
   - translation_iso: zho
     name: 百濟語
 ---

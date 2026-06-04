@@ -24,6 +24,8 @@ translations:
     name: タミル語
   - translation_iso: kor
     name: 타밀어
+  - translation_iso: spa
+    name: tamil
   - translation_iso: zho
     name: 泰米尔语
 rolv_dialects:

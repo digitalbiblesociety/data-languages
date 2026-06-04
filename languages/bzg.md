@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バブサ語
+  - translation_iso: spa
+    name: babuza
   - translation_iso: zho
     name: 巴布萨语
 rolv_dialects:

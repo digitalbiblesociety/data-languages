@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハラウラ語
+  - translation_iso: spa
+    name: hulaulá
   - translation_iso: zho
     name: 胡老拉語
 rolv_dialects:

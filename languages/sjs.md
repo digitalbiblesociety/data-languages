@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンハジャ語
+  - translation_iso: spa
+    name: Senhayi de Serair
   - translation_iso: zho
     name: 森哈加語
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ペベ語
     auto: true
+  - translation_iso: spa
+    name: pevé
   - translation_iso: zho
     name: 裴韋語
 rolv_dialects:

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 푸마어
+  - translation_iso: spa
+    name: Puma
   - translation_iso: zho
     name: 普玛语
     auto: true

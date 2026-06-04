@@ -17,6 +17,8 @@ translations:
     name: サルデーニャ語
   - translation_iso: kor
     name: 사르데냐어
+  - translation_iso: spa
+    name: sardo
   - translation_iso: zho
     name: 撒丁语
 ---

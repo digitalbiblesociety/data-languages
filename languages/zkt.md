@@ -24,6 +24,8 @@ translations:
     name: 契丹語
   - translation_iso: kor
     name: 거란어
+  - translation_iso: spa
+    name: Idioma kitán
   - translation_iso: zho
     name: 契丹语
 ---

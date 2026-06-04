@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ママ語
     auto: true
+  - translation_iso: spa
+    name: Idioma mama
   - translation_iso: zho
     name: 玛玛语
     auto: true

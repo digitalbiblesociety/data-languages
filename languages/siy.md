@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シーバンド語
+  - translation_iso: spa
+    name: sivandi
   - translation_iso: zho
     name: 西瓦迪语
     auto: true

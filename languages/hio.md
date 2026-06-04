@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チュワ語
+  - translation_iso: spa
+    name: Tsoa
   - translation_iso: zho
     name: 措阿语
     auto: true

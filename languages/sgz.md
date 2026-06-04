@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スルスルンガ語
+  - translation_iso: spa
+    name: Sursurunga
   - translation_iso: zho
     name: Sursurunga语
 rolv_dialects:

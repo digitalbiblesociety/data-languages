@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: サン・フランシスコ・マトラツィンカ語
     auto: true
+  - translation_iso: spa
+    name: Matlatzinca
   - translation_iso: zho
     name: 圣弗朗西斯科马特拉特平卡语
     auto: true

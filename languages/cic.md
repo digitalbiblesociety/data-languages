@@ -23,6 +23,8 @@ translations:
     name: चिकसॉ
   - translation_iso: jpn
     name: チカソー語
+  - translation_iso: spa
+    name: chickasaw
   - translation_iso: zho
     name: 奇卡索語
 ---

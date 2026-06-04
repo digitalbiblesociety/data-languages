@@ -17,6 +17,8 @@ translations:
     name: ハイダ語
   - translation_iso: kor
     name: 하이다어
+  - translation_iso: spa
+    name: idioma haida
   - translation_iso: zho
     name: 海达语
 ---

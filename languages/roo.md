@@ -24,6 +24,8 @@ translations:
     name: ロトカス語
   - translation_iso: kor
     name: 로토카스어
+  - translation_iso: spa
+    name: rotokas
   - translation_iso: zho
     name: 羅托卡特語
 rolv_dialects:

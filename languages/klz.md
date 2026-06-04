@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: カボラ語
     auto: true
+  - translation_iso: spa
+    name: Kabola
   - translation_iso: zho
     name: 卡博拉语
     auto: true

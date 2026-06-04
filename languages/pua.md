@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: 西高地プレペチャ語
     auto: true
+  - translation_iso: spa
+    name: Idioma purépecha
   - translation_iso: zho
     name: 西部高地普雷佩查语
     auto: true

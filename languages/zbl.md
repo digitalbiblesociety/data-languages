@@ -21,6 +21,8 @@ translations:
     name: ブリスシンボル
   - translation_iso: kor
     name: 블리스심볼
+  - translation_iso: spa
+    name: símbolos Bliss
   - translation_iso: zho
     name: 布力辛博语
 ---

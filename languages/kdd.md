@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤンクニチャチャラ語
+  - translation_iso: spa
+    name: Yankunytjatjara
   - translation_iso: zho
     name: 揚庫因賈賈拉語
 ---

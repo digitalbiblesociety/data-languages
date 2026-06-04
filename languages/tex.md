@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: テンネット語
     auto: true
+  - translation_iso: spa
+    name: tennet
   - translation_iso: zho
     name: 特内特语
     auto: true

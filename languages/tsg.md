@@ -25,6 +25,8 @@ translations:
     name: タウスグ語
   - translation_iso: kor
     name: 타우수그어
+  - translation_iso: spa
+    name: joloano
   - translation_iso: zho
     name: 陶蘇格語
 ---

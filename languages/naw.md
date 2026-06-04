@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ナウリ語
     auto: true
+  - translation_iso: spa
+    name: nawuri
   - translation_iso: zho
     name: 纳武里语
     auto: true

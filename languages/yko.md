@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヤサ語
     auto: true
+  - translation_iso: spa
+    name: yasa
   - translation_iso: zho
     name: 亚萨语
     auto: true

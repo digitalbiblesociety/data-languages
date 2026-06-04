@@ -24,6 +24,8 @@ translations:
     name: ラコタ語
   - translation_iso: kor
     name: 라코타어
+  - translation_iso: spa
+    name: lakota
   - translation_iso: zho
     name: 拉科塔语
 rolv_dialects:

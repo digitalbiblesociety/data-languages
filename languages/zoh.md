@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チマラパ・ゾケ語
     auto: true
+  - translation_iso: spa
+    name: zoque de los Chimalapas
   - translation_iso: zho
     name: 奇马拉帕索克语
     auto: true

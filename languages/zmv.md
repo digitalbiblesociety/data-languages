@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ググ・ワラ語
+  - translation_iso: spa
+    name: Idioma mbariman-gudhinma
   - translation_iso: zho
     name: 姆巴里曼-古丁玛语
     auto: true

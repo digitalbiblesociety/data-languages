@@ -24,6 +24,8 @@ translations:
     name: トンガ語
   - translation_iso: kor
     name: 통가어
+  - translation_iso: spa
+    name: tongano
   - translation_iso: zho
     name: 汤加语
 ---

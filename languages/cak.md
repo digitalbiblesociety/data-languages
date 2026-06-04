@@ -25,6 +25,8 @@ translations:
     name: カクチケル語
   - translation_iso: kor
     name: 칵치켈어
+  - translation_iso: spa
+    name: Kaqchikel
   - translation_iso: zho
     name: 喀克其奎語
 rolv_dialects:

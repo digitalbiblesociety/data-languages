@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オレ語
+  - translation_iso: spa
+    name: idioma olekha
   - translation_iso: zho
     name: 奥莱哈语
     auto: true

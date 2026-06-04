@@ -24,6 +24,8 @@ translations:
     name: ラロトンガ語
   - translation_iso: kor
     name: 라로통가어
+  - translation_iso: spa
+    name: Idioma rarotongano
   - translation_iso: zho
     name: 庫克群島毛利語
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カルカル-ユリ語
     auto: true
+  - translation_iso: spa
+    name: Idioma yuri
   - translation_iso: zho
     name: 卡尔卡尔-尤里语
     auto: true

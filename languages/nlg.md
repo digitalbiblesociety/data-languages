@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゲラ語
+  - translation_iso: spa
+    name: Lengua gela
   - translation_iso: zho
     name: 盖拉语
     auto: true

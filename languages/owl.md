@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ウェールズ語
+  - translation_iso: spa
+    name: galés antiguo
   - translation_iso: zho
     name: 古威尔士语
 ---

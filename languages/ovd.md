@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エルヴダーレン語
+  - translation_iso: spa
+    name: idioma dalecarliano
   - translation_iso: zho
     name: 埃尔夫达利安语
     auto: true

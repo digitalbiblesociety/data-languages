@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルメニア手話
+  - translation_iso: spa
+    name: lengua de señas armenia
   - translation_iso: zho
     name: 亚美尼亚手语
     auto: true

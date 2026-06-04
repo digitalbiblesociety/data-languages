@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ンガウン語
     auto: true
+  - translation_iso: spa
+    name: Idioma ngawun
   - translation_iso: zho
     name: 恩加旺语
 ---

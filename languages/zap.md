@@ -17,6 +17,8 @@ translations:
     name: サポテク語
   - translation_iso: kor
     name: 사포텍어
+  - translation_iso: spa
+    name: zapoteca
   - translation_iso: zho
     name: 萨波特克语
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パンク語
     auto: true
+  - translation_iso: spa
+    name: Lengua pangkhu
   - translation_iso: zho
     name: 潘库语
     auto: true

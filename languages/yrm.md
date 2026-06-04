@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: イリク-メル語
     auto: true
+  - translation_iso: spa
+    name: Dialecto yirrk-thangalkl
   - translation_iso: zho
     name: 伊里克-梅尔语
     auto: true

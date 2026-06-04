@@ -23,6 +23,8 @@ translations:
     name: マンディンカ語
   - translation_iso: kor
     name: 만딩카어
+  - translation_iso: spa
+    name: mandinga
   - translation_iso: zho
     name: 曼丁哥语
 rolv_dialects:

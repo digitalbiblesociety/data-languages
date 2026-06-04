@@ -24,6 +24,8 @@ translations:
     name: 北ソト語
   - translation_iso: kor
     name: 북소토어
+  - translation_iso: spa
+    name: Idioma sotho septentrional
   - translation_iso: zho
     name: 北索托語
 rolv_dialects:

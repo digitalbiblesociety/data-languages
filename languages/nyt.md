@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ニャワイギ語
     auto: true
+  - translation_iso: spa
+    name: Idioma nyawaygi
   - translation_iso: zho
     name: 尼亚韦吉语
     auto: true

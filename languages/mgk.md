@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: マウェス語
     auto: true
+  - translation_iso: spa
+    name: Idioma mawes
   - translation_iso: zho
     name: 玛韦斯语
     auto: true

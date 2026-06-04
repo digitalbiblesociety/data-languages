@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トワ語
+  - translation_iso: spa
+    name: idioma jémez
   - translation_iso: zho
     name: 傑梅茲語
 ---

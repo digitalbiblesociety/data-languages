@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムンダット語
     auto: true
+  - translation_iso: spa
+    name: mundat
   - translation_iso: zho
     name: 蒙达特语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ナカエラ語
     auto: true
+  - translation_iso: spa
+    name: "Naka'ela"
   - translation_iso: zho
     name: 纳卡埃拉语
     auto: true

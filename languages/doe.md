@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ドエ語
     auto: true
+  - translation_iso: spa
+    name: lengua doe
   - translation_iso: zho
     name: 多埃语
     auto: true

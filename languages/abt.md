@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アベラム語
+  - translation_iso: spa
+    name: Idioma ambulas
   - translation_iso: zho
     name: 阿贝兰语
 rolv_dialects:

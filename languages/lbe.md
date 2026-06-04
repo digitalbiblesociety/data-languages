@@ -25,6 +25,8 @@ translations:
     name: ラク語
   - translation_iso: kor
     name: 라크어
+  - translation_iso: spa
+    name: idioma lak
   - translation_iso: zho
     name: 拉克语
 rolv_dialects:

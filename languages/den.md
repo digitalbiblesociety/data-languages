@@ -18,6 +18,8 @@ translations:
     name: スレイビー語
   - translation_iso: kor
     name: 슬라브어
+  - translation_iso: spa
+    name: slave
   - translation_iso: zho
     name: 史拉维语
 ---

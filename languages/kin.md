@@ -24,6 +24,8 @@ translations:
     name: ルワンダ語
   - translation_iso: kor
     name: 키냐르완다어
+  - translation_iso: spa
+    name: kiñaruanda
   - translation_iso: zho
     name: 卢旺达语
 rolv_dialects:

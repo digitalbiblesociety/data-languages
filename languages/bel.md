@@ -24,6 +24,8 @@ translations:
     name: ベラルーシ語
   - translation_iso: kor
     name: 벨라루스어
+  - translation_iso: spa
+    name: bielorruso
   - translation_iso: zho
     name: 白俄罗斯语
 rolv_dialects:

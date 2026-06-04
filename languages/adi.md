@@ -22,6 +22,8 @@ translations:
     name: तंगम भाषा
   - translation_iso: jpn
     name: アディ語
+  - translation_iso: spa
+    name: adi
   - translation_iso: zho
     name: 阿迪语
 rolv_dialects:

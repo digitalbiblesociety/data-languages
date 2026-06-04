@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: グマタジ語
     auto: true
+  - translation_iso: spa
+    name: idioma gumatj
   - translation_iso: zho
     name: 古玛吉语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: デオリ語
     auto: true
+  - translation_iso: spa
+    name: idioma deori
   - translation_iso: zho
     name: 德奥里语
     auto: true

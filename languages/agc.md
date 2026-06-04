@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アガトゥ語
     auto: true
+  - translation_iso: spa
+    name: agatu
   - translation_iso: zho
     name: 阿加图语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: マリシート＝パサマコディ語
   - translation_iso: kor
     name: 말리시트-파사마쿼디어
+  - translation_iso: spa
+    name: Malecite-Passamaquoddy
   - translation_iso: zho
     name: 马利西特-帕萨马阔迪语
 rolv_dialects:

@@ -22,6 +22,8 @@ translations:
     name: एडमोरोब साइन लैंग्वेज
   - translation_iso: jpn
     name: アダモロベ手話
+  - translation_iso: spa
+    name: lengua de señas adamorobe
   - translation_iso: zho
     name: 阿达莫罗贝手语
 ---

@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユユ語
+  - translation_iso: spa
+    name: idioma yuyu
   - translation_iso: zho
     name: 尤尤语
     auto: true

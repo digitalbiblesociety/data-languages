@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 루나어
+  - translation_iso: spa
+    name: luna
   - translation_iso: zho
     name: 卢纳语
     auto: true

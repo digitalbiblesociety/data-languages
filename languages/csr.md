@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コスタリカ手話
+  - translation_iso: spa
+    name: lengua de señas costarricense
   - translation_iso: zho
     name: 哥斯达黎加手语
 rolv_dialects:

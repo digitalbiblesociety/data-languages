@@ -24,6 +24,8 @@ translations:
     name: チャワイ語
   - translation_iso: kor
     name: 앗삼어
+  - translation_iso: spa
+    name: atsam
   - translation_iso: zho
     name: 阿灿语
 ---

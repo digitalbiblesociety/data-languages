@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイボアン語
+  - translation_iso: spa
+    name: idioma taivoan
   - translation_iso: zho
     name: 大武垅语
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワウラ語
+  - translation_iso: spa
+    name: waurá
   - translation_iso: zho
     name: 瓦乌拉语
     auto: true

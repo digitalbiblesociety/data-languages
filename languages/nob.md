@@ -19,6 +19,8 @@ translations:
     name: ブークモール
   - translation_iso: kor
     name: 노르웨이어 보크몰
+  - translation_iso: spa
+    name: bokmål
   - translation_iso: zho
     name: 书面挪威语
 ---

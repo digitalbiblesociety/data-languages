@@ -22,6 +22,8 @@ translations:
     name: मय साइन लैंग्वेज
   - translation_iso: jpn
     name: ユカテク・マヤ手話
+  - translation_iso: spa
+    name: lengua de señas maya yucateca
   - translation_iso: zho
     name: 尤卡坦玛雅手语
     auto: true

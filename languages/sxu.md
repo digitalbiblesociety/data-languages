@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 上部ザクセン語
+  - translation_iso: spa
+    name: Alto sajón
   - translation_iso: zho
     name: 上薩克森德語
 ---

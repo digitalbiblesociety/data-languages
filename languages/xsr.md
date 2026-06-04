@@ -25,6 +25,8 @@ translations:
     name: シェルパ語
   - translation_iso: kor
     name: 셰르파어
+  - translation_iso: spa
+    name: sherpa
   - translation_iso: zho
     name: 夏尔巴語
 rolv_dialects:

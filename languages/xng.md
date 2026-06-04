@@ -24,6 +24,8 @@ translations:
     name: 中期モンゴル語
   - translation_iso: kor
     name: 중세 몽골어
+  - translation_iso: spa
+    name: mongol medio
   - translation_iso: zho
     name: 中古蒙古语
 ---

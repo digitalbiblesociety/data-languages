@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プヌ語
+  - translation_iso: spa
+    name: punu
   - translation_iso: zho
     name: 普努语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: アブハズ語
   - translation_iso: kor
     name: 압하지야어
+  - translation_iso: spa
+    name: abjasio
   - translation_iso: zho
     name: 阿布哈兹语
 rolv_dialects:

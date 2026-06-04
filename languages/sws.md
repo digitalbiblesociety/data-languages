@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: セルワサン語
     auto: true
+  - translation_iso: spa
+    name: Seluarsa
   - translation_iso: zho
     name: 塞卢瓦桑语
     auto: true

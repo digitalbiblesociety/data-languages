@@ -24,6 +24,8 @@ translations:
     name: キカプー語
   - translation_iso: kor
     name: 키카푸어
+  - translation_iso: spa
+    name: idioma kikapú
   - translation_iso: zho
     name: 基卡普语
     auto: true

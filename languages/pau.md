@@ -24,6 +24,8 @@ translations:
     name: パラオ語
   - translation_iso: kor
     name: 팔라우어
+  - translation_iso: spa
+    name: palauano
   - translation_iso: zho
     name: 帕劳语
 ---

@@ -24,6 +24,8 @@ translations:
     name: マスコギ語
   - translation_iso: kor
     name: 마스코기어
+  - translation_iso: spa
+    name: idioma maskoki
   - translation_iso: zho
     name: 克里克语
 rolv_dialects:

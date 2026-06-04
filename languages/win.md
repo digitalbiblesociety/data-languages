@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィネベゴ語
+  - translation_iso: spa
+    name: Winnebago
   - translation_iso: zho
     name: 何-奇克语
     auto: true

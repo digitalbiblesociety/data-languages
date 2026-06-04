@@ -24,6 +24,8 @@ translations:
     name: イビビオ語
   - translation_iso: kor
     name: 이비비오어
+  - translation_iso: spa
+    name: Idioma ibibio
   - translation_iso: zho
     name: 伊比比奥语
 rolv_dialects:

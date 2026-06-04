@@ -26,6 +26,8 @@ translations:
     name: 北タイ語
   - translation_iso: kor
     name: 북부 태국어
+  - translation_iso: spa
+    name: idioma tailandés septentrional
   - translation_iso: zho
     name: 北部泰语
 rolv_dialects:

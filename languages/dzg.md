@@ -23,6 +23,8 @@ translations:
     name: ダザガ語
   - translation_iso: kor
     name: 다장가어
+  - translation_iso: spa
+    name: dazaga
   - translation_iso: zho
     name: 達薩語
 rolv_dialects:

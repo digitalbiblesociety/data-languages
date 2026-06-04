@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハラッパー語
+  - translation_iso: spa
+    name: Idioma harapano
   - translation_iso: zho
     name: 哈拉帕语
 ---

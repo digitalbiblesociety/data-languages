@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: 北パメ語
     auto: true
+  - translation_iso: spa
+    name: Pame norteño
   - translation_iso: zho
     name: 北部帕梅语
     auto: true

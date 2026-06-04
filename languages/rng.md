@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロンガ語
+  - translation_iso: spa
+    name: Xironga
   - translation_iso: zho
     name: 龍加語
 rolv_dialects:

@@ -22,6 +22,8 @@ translations:
     name: ヤーガン語
   - translation_iso: kor
     name: 야간어
+  - translation_iso: spa
+    name: idioma yagán
   - translation_iso: zho
     name: 雅甘语
 ---

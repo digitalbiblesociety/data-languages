@@ -24,6 +24,8 @@ translations:
     name: オック語
   - translation_iso: kor
     name: 오크어
+  - translation_iso: spa
+    name: occitano
   - translation_iso: zho
     name: 奥克语
 rolv_dialects:

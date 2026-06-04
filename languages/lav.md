@@ -24,6 +24,8 @@ translations:
     name: ラトビア語
   - translation_iso: kor
     name: 라트비아어
+  - translation_iso: spa
+    name: letón
   - translation_iso: zho
     name: 拉脱维亚语
 ---

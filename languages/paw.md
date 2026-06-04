@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポーニー語
+  - translation_iso: spa
+    name: Pawnee
   - translation_iso: zho
     name: 波尼語
 rolv_dialects:

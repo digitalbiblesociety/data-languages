@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: コミャンダレット語
     auto: true
+  - translation_iso: spa
+    name: Idioma komyandaret
   - translation_iso: zho
     name: 科迈达雷特语
     auto: true

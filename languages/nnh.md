@@ -24,6 +24,8 @@ translations:
     name: ンジエムブーン語
   - translation_iso: kor
     name: 느기엠본어
+  - translation_iso: spa
+    name: ngiemboon
   - translation_iso: zho
     name: 恩甘澎语
 rolv_dialects:

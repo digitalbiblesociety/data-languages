@@ -24,6 +24,8 @@ translations:
     name: イヤック語
   - translation_iso: kor
     name: 에야크어
+  - translation_iso: spa
+    name: Idioma eyak
   - translation_iso: zho
     name: 埃雅克語
 ---

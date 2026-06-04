@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キュン語
+  - translation_iso: spa
+    name: Khün
   - translation_iso: zho
     name: 傣痕语
 ---

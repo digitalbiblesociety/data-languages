@@ -25,6 +25,8 @@ translations:
     name: ドルガン語
   - translation_iso: kor
     name: 돌간어
+  - translation_iso: spa
+    name: Dolgano
   - translation_iso: zho
     name: 多爾干語
 ---

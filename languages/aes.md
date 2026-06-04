@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルシー語
+  - translation_iso: spa
+    name: Lenguas alseanas
   - translation_iso: zho
     name: 阿尔塞亚语
     auto: true

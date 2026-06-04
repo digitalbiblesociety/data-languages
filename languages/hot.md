@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ホテ語
     auto: true
+  - translation_iso: spa
+    name: Hote
   - translation_iso: zho
     name: 霍特语
     auto: true

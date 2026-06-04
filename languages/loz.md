@@ -24,6 +24,8 @@ translations:
     name: ロジ語
   - translation_iso: kor
     name: 로지어
+  - translation_iso: spa
+    name: Idioma lozi
   - translation_iso: zho
     name: 洛齐语
 rolv_dialects:

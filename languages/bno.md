@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バントアノン語
     auto: true
+  - translation_iso: spa
+    name: bantonés
   - translation_iso: zho
     name: 班托亚农语
     auto: true

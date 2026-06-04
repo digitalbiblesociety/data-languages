@@ -22,6 +22,8 @@ translations:
     name: चोकरी भाषा
   - translation_iso: jpn
     name: チョクリ語
+  - translation_iso: spa
+    name: Chokri
   - translation_iso: zho
     name: 乔克里纳加语
     auto: true

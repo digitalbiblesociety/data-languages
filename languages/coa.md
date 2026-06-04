@@ -25,6 +25,8 @@ translations:
     name: ココスマレー語
   - translation_iso: kor
     name: 코코스 말레이어
+  - translation_iso: spa
+    name: Malayo de las Islas Cocos
   - translation_iso: zho
     name: 科科斯馬來語
 ---

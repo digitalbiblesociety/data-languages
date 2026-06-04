@@ -17,6 +17,8 @@ translations:
     name: ラフンダー語
   - translation_iso: kor
     name: 란다어
+  - translation_iso: spa
+    name: lahnda
   - translation_iso: zho
     name: 西旁遮普语
 ---

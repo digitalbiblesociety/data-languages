@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バラエサン語
     auto: true
+  - translation_iso: spa
+    name: Balaesang
   - translation_iso: zho
     name: 巴拉桑语
     auto: true

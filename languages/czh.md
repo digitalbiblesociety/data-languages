@@ -25,6 +25,8 @@ translations:
     name: 徽語
   - translation_iso: kor
     name: 후이어
+  - translation_iso: spa
+    name: Chino hui
   - translation_iso: zho
     name: 徽语
 rolv_dialects:

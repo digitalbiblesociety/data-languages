@@ -12,6 +12,7 @@
 //	hin  ← hi
 //	kor  ← ko
 //	ara  ← ar
+//	spa  ← es
 //
 // Adding more languages: append to `translationTargets`. The SPARQL filter
 // and per-row binding logic pick the rest up automatically.
@@ -63,6 +64,7 @@ var translationTargets = []translationTarget{
 	{Iso: "hin", Tags: []string{"hi"}},
 	{Iso: "kor", Tags: []string{"ko"}},
 	{Iso: "ara", Tags: []string{"ar"}},
+	{Iso: "spa", Tags: []string{"es"}},
 }
 
 // translationItemOrder is the canonical key order inside each translations[]

@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: ワギマン語
     auto: true
+  - translation_iso: spa
+    name: Idioma wagiman
   - translation_iso: zho
     name: 瓦基曼语
 ---

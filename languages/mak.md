@@ -24,6 +24,8 @@ translations:
     name: マカッサル語
   - translation_iso: kor
     name: 마카사르어
+  - translation_iso: spa
+    name: macasar
   - translation_iso: zho
     name: 望加锡语
 rolv_dialects:

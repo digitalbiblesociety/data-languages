@@ -24,6 +24,8 @@ translations:
     name: クルク語
   - translation_iso: kor
     name: 쿠루흐어
+  - translation_iso: spa
+    name: kurukh
   - translation_iso: zho
     name: 库鲁克语
 rolv_dialects:

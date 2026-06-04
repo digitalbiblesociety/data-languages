@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma wala
   - translation_iso: zho
     name: 瓦拉语
     auto: true

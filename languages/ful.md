@@ -17,6 +17,8 @@ translations:
     name: フラニ語
   - translation_iso: kor
     name: 풀라어
+  - translation_iso: spa
+    name: fula
   - translation_iso: zho
     name: 富拉语
 ---

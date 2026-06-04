@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アンセルマ語
     auto: true
+  - translation_iso: spa
+    name: idioma anserma
   - translation_iso: zho
     name: 安塞玛语
     auto: true

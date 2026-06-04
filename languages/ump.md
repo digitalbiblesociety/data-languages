@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 北東パマン語
     auto: true
+  - translation_iso: spa
+    name: idioma umpila
   - translation_iso: zho
     name: 乌姆皮拉语
     auto: true

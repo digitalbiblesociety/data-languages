@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マレク・ハイカ語
     auto: true
+  - translation_iso: spa
+    name: guatuso
   - translation_iso: zho
     name: 马莱库哈伊卡语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: タイタ語
   - translation_iso: kor
     name: 타이타어
+  - translation_iso: spa
+    name: Idioma taita
   - translation_iso: zho
     name: 台塔语
 rolv_dialects:

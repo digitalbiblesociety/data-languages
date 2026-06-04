@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブトゥアノン語
+  - translation_iso: spa
+    name: butuano
   - translation_iso: zho
     name: 武端語
 ---

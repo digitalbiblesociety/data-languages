@@ -25,6 +25,8 @@ translations:
     name: ガリフナ語
   - translation_iso: kor
     name: 가리푸나어
+  - translation_iso: spa
+    name: Idioma garífuna
   - translation_iso: zho
     name: 黑加勒比语
 rolv_dialects:

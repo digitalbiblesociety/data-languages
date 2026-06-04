@@ -24,6 +24,8 @@ translations:
     name: カルビ語
   - translation_iso: kor
     name: 카르비어
+  - translation_iso: spa
+    name: karbi
   - translation_iso: zho
     name: 卡尔比语
 rolv_dialects:

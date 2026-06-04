@@ -25,6 +25,8 @@ translations:
     name: ゲイル言語
   - translation_iso: kor
     name: 가일어
+  - translation_iso: spa
+    name: Idioma gayle
   - translation_iso: zho
     name: 盖尔语
     auto: true

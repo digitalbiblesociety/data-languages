@@ -24,6 +24,8 @@ translations:
     name: フィジー語
   - translation_iso: kor
     name: 피지어
+  - translation_iso: spa
+    name: fiyiano
   - translation_iso: zho
     name: 斐济语
 rolv_dialects:

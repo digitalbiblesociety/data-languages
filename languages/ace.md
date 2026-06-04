@@ -24,6 +24,8 @@ translations:
     name: アチェ語
   - translation_iso: kor
     name: 아체어
+  - translation_iso: spa
+    name: idioma achenés
   - translation_iso: zho
     name: 亚齐语
 rolv_dialects:

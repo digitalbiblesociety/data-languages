@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アムダン語
+  - translation_iso: spa
+    name: Idioma amdang
   - translation_iso: zho
     name: 阿姆当语
     auto: true

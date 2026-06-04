@@ -25,6 +25,8 @@ translations:
     name: コム語
   - translation_iso: kor
     name: 콤어
+  - translation_iso: spa
+    name: kom
   - translation_iso: zho
     name: 科姆语
 rolv_dialects:

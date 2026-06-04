@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムロンプ語
     auto: true
+  - translation_iso: spa
+    name: mlomp
   - translation_iso: zho
     name: 姆洛姆普语
     auto: true

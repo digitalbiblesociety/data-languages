@@ -24,6 +24,8 @@ translations:
     name: シンハラ語
   - translation_iso: kor
     name: 싱할라어
+  - translation_iso: spa
+    name: cingalés
   - translation_iso: zho
     name: 僧伽罗语
 rolv_dialects:

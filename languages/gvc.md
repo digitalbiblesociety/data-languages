@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: グアナーノ語
     auto: true
+  - translation_iso: spa
+    name: Idioma guanano
   - translation_iso: zho
     name: 瓦纳诺语
 ---

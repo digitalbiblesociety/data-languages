@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ビリ語
     auto: true
+  - translation_iso: spa
+    name: Idioma biri
   - translation_iso: zho
     name: 比里语
     auto: true

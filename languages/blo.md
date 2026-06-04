@@ -24,6 +24,8 @@ translations:
     name: アニ語 (ベナン)
   - translation_iso: kor
     name: 아니이어
+  - translation_iso: spa
+    name: anii
   - translation_iso: zho
     name: 阿尼语
 rolv_dialects:

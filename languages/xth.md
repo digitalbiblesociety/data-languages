@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イタイタ語
+  - translation_iso: spa
+    name: idioma yitha-yitha
   - translation_iso: zho
     name: 伊萨-伊萨语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ガロ語
   - translation_iso: kor
     name: 가로어
+  - translation_iso: spa
+    name: idioma garo
   - translation_iso: zho
     name: 加罗语
 rolv_dialects:

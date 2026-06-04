@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥカノ語
+  - translation_iso: spa
+    name: Idioma tucano
   - translation_iso: zho
     name: 巨嘴鳥語
 rolv_dialects:

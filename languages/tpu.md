@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンプアン語
+  - translation_iso: spa
+    name: Tampuan
   - translation_iso: zho
     name: 坦普温语
 ---

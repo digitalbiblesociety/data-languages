@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンゴラ語
+  - translation_iso: spa
+    name: criollo angolar
   - translation_iso: zho
     name: 安哥拉克里奥尔语
 ---

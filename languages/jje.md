@@ -24,6 +24,8 @@ translations:
     name: 済州語
   - translation_iso: kor
     name: 제주어
+  - translation_iso: spa
+    name: idioma jejuano
   - translation_iso: zho
     name: 济州语
 ---

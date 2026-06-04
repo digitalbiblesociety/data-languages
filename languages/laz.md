@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アリブワツァ語
     auto: true
+  - translation_iso: spa
+    name: Idioma aribwatsa
   - translation_iso: zho
     name: 阿里布瓦特萨语
     auto: true

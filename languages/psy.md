@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ピスカタウェイ語
     auto: true
+  - translation_iso: spa
+    name: Piscataway
   - translation_iso: zho
     name: 皮斯卡特維語
 ---

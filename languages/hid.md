@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヒダッサ語
+  - translation_iso: spa
+    name: Hidatsa
   - translation_iso: zho
     name: 希达沙語
 ---

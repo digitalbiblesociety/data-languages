@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バンビリ・バンブイ語
     auto: true
+  - translation_iso: spa
+    name: bambili bambui
   - translation_iso: zho
     name: 邦比利-邦布伊语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アケロン語
     auto: true
+  - translation_iso: spa
+    name: acheron
   - translation_iso: zho
     name: 阿凯伦语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ジャブガイ語
     auto: true
+  - translation_iso: spa
+    name: idioma djabugay
   - translation_iso: zho
     name: 詹布盖语
     auto: true

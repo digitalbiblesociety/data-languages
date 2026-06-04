@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ザイ語
     auto: true
+  - translation_iso: spa
+    name: zay
   - translation_iso: zho
     name: 扎伊语
     auto: true

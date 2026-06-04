@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アクム語
     auto: true
+  - translation_iso: spa
+    name: akum
   - translation_iso: zho
     name: 阿库姆语
     auto: true

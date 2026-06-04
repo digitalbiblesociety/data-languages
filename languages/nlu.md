@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンチュンブル語
+  - translation_iso: spa
+    name: nchumbulu
   - translation_iso: zho
     name: 恩乔姆布卢语
     auto: true

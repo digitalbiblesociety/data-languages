@@ -24,6 +24,8 @@ translations:
     name: ベナ語
   - translation_iso: kor
     name: 베나어
+  - translation_iso: spa
+    name: bena
   - translation_iso: zho
     name: 贝纳语
 ---

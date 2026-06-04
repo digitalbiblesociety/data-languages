@@ -17,6 +17,8 @@ translations:
     name: マールワーリー語
   - translation_iso: kor
     name: 마르와리어
+  - translation_iso: spa
+    name: marwari
   - translation_iso: zho
     name: 馬瓦里語
 ---

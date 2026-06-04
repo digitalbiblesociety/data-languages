@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 炯奈語
+  - translation_iso: spa
+    name: kiong nai
   - translation_iso: zho
     name: 炯奈语
 rolv_dialects:

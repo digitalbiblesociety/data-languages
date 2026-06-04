@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ンガジュリ語
     auto: true
+  - translation_iso: spa
+    name: Idioma ngadjuri
   - translation_iso: zho
     name: 恩加朱里语
     auto: true

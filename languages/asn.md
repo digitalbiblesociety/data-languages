@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: シング・アスリニ語
     auto: true
+  - translation_iso: spa
+    name: assuriní do Xingú
   - translation_iso: zho
     name: 辛古阿苏里尼语
     auto: true

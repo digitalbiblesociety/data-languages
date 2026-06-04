@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ルイムビ語
     auto: true
+  - translation_iso: spa
+    name: Idioma luimbi
   - translation_iso: zho
     name: 卢因比语
     auto: true

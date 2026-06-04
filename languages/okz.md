@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: 古クメール語
     auto: true
+  - translation_iso: spa
+    name: Jemer antiguo
   - translation_iso: zho
     name: 古高棉语
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヴァングヌ語
     auto: true
+  - translation_iso: spa
+    name: Vangunu
   - translation_iso: zho
     name: 瓦恩古努语
     auto: true

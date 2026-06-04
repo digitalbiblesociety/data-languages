@@ -22,6 +22,8 @@ translations:
     name: होंडुरन सांकेतिक भाषा
   - translation_iso: jpn
     name: ホンジュラス手話
+  - translation_iso: spa
+    name: lengua de señas hondureñas
   - translation_iso: zho
     name: 洪都拉斯手语
     auto: true

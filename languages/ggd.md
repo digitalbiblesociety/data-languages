@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: グガジ語
     auto: true
+  - translation_iso: spa
+    name: Idioma gugadj
   - translation_iso: zho
     name: 古加德语
     auto: true

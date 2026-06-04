@@ -24,6 +24,8 @@ translations:
     name: 満洲語
   - translation_iso: kor
     name: 만주어
+  - translation_iso: spa
+    name: idioma manchú
   - translation_iso: zho
     name: 满语
 rolv_dialects:

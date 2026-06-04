@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: トンカワ語
     auto: true
+  - translation_iso: spa
+    name: idioma tónkawa
   - translation_iso: zho
     name: 通卡瓦語
 ---

@@ -24,6 +24,8 @@ translations:
     name: ジョラ＝フォニィ語
   - translation_iso: kor
     name: 졸라 포니어
+  - translation_iso: spa
+    name: jola-fonyi
   - translation_iso: zho
     name: 喬拉-福尼語
 rolv_dialects:

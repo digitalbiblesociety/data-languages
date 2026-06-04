@@ -24,6 +24,8 @@ translations:
     name: 湿原クリー語
   - translation_iso: kor
     name: 습지 크리어
+  - translation_iso: spa
+    name: cree de los pantanos
   - translation_iso: zho
     name: 沼泽克里语
 ---

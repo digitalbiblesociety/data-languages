@@ -25,6 +25,8 @@ translations:
     name: マンシ語
   - translation_iso: kor
     name: 만시어
+  - translation_iso: spa
+    name: mansi
   - translation_iso: zho
     name: 曼西语
 rolv_dialects:

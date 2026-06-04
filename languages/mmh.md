@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メイナク語
+  - translation_iso: spa
+    name: mehináku
   - translation_iso: zho
     name: 梅希纳库语
     auto: true

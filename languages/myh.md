@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マカー語
+  - translation_iso: spa
+    name: Lengua makah
   - translation_iso: zho
     name: 玛卡语
     auto: true

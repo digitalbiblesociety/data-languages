@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: テゾアトラン・ミステク語
     auto: true
+  - translation_iso: spa
+    name: mixteco del oeste alto
   - translation_iso: zho
     name: 特佐特兰米克斯特克语
     auto: true

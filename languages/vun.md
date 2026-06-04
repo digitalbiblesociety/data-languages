@@ -23,6 +23,8 @@ translations:
     name: ヴンジョ語
   - translation_iso: kor
     name: 분조어
+  - translation_iso: spa
+    name: vunjo
   - translation_iso: zho
     name: 温旧语
 rolv_dialects:

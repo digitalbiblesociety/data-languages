@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガウナ語
+  - translation_iso: spa
+    name: Idioma kaurna
   - translation_iso: zho
     name: 考尔纳语
 ---

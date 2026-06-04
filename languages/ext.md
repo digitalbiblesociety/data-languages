@@ -25,6 +25,8 @@ translations:
     name: エストレマドゥーラ語
   - translation_iso: kor
     name: 에스트레마두라어
+  - translation_iso: spa
+    name: extremeño
   - translation_iso: zho
     name: 埃斯特雷马杜拉语
 rolv_dialects:

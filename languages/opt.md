@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オパタ語
     auto: true
+  - translation_iso: spa
+    name: ópata
   - translation_iso: zho
     name: 奥帕塔语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グワイミ語
+  - translation_iso: spa
+    name: Idioma ngäbe
   - translation_iso: zho
     name: 恩盖贝雷语
     auto: true

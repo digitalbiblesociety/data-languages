@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シスアルパイン・ゴール語
+  - translation_iso: spa
+    name: galo cisalpino
   - translation_iso: zho
     name: 山南高卢语
 ---

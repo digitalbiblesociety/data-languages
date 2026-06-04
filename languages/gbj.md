@@ -22,6 +22,8 @@ translations:
     name: गुटोब भाषा
   - translation_iso: jpn
     name: ガダバ語
+  - translation_iso: spa
+    name: idioma gutob
   - translation_iso: zho
     name: 古托布语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ドゥルガ語
     auto: true
+  - translation_iso: spa
+    name: idioma dhurga
   - translation_iso: zho
     name: 杜尔加语
     auto: true

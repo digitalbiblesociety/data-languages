@@ -24,6 +24,8 @@ translations:
     name: コイラボロ・センニ語
   - translation_iso: kor
     name: 코이야보로 세니어
+  - translation_iso: spa
+    name: Koyraboro senni
   - translation_iso: zho
     name: 科依羅玻羅‧散尼語
 rolv_dialects:

@@ -25,6 +25,8 @@ translations:
     name: チュフ語
   - translation_iso: kor
     name: 추흐어
+  - translation_iso: spa
+    name: chuj
   - translation_iso: zho
     name: 祖赫語
 rolv_dialects:

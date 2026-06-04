@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノルウェー手話
+  - translation_iso: spa
+    name: Lengua de señas noruega
   - translation_iso: zho
     name: 挪威手语
     auto: true

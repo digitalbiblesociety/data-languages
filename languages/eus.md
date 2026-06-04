@@ -21,6 +21,8 @@ translations:
     name: バスク語
   - translation_iso: kor
     name: 바스크어
+  - translation_iso: spa
+    name: euskera
   - translation_iso: zho
     name: 巴斯克语
 rolv_dialects:

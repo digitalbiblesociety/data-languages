@@ -25,6 +25,8 @@ translations:
     name: カナカナブ語
   - translation_iso: kor
     name: 카나카나부어
+  - translation_iso: spa
+    name: idioma kanakanabu
   - translation_iso: zho
     name: 卡那卡那富语
 ---

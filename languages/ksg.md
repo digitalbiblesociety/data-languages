@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クサゲ語
     auto: true
+  - translation_iso: spa
+    name: Kusaghe
   - translation_iso: zho
     name: 库萨格语
     auto: true

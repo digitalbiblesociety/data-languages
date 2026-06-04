@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: コカマ語
     auto: true
+  - translation_iso: spa
+    name: cocama
   - translation_iso: zho
     name: 科卡玛-科卡米利亚语
     auto: true

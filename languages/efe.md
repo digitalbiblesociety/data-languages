@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: エフェ語
     auto: true
+  - translation_iso: spa
+    name: lese
   - translation_iso: zho
     name: 埃费语
     auto: true

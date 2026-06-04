@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ミチョアカン・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: náhuatl michoacano
   - translation_iso: zho
     name: 米却肯纳瓦特尔语
     auto: true

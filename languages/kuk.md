@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ケポ語
     auto: true
+  - translation_iso: spa
+    name: "Kepo'"
   - translation_iso: zho
     name: 克波语
     auto: true

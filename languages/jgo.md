@@ -24,6 +24,8 @@ translations:
     name: ンゴンバ語
   - translation_iso: kor
     name: 응곰바어
+  - translation_iso: spa
+    name: ngomba
   - translation_iso: zho
     name: 恩艮巴语
 rolv_dialects:

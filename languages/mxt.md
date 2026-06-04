@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ジャミルテペック・ミステク語
     auto: true
+  - translation_iso: spa
+    name: idioma mixteco en California
   - translation_iso: zho
     name: 贾米尔特佩克米克斯特克语
     auto: true

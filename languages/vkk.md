@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カウル語
     auto: true
+  - translation_iso: spa
+    name: Kaur
   - translation_iso: zho
     name: 考尔语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ビリン語
   - translation_iso: kor
     name: 브린어
+  - translation_iso: spa
+    name: blin
   - translation_iso: zho
     name: 比林語
 ---

@@ -24,6 +24,8 @@ translations:
     name: セナ語
   - translation_iso: kor
     name: 세나어
+  - translation_iso: spa
+    name: sena
   - translation_iso: zho
     name: 塞纳语
 rolv_dialects:

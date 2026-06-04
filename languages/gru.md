@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソッド語
+  - translation_iso: spa
+    name: soddo
   - translation_iso: zho
     name: 基斯塔内语
     auto: true

@@ -19,6 +19,8 @@ translations:
     name: シェトランド語の
   - translation_iso: kor
     name: 셰틀랜드어의
+  - translation_iso: spa
+    name: shetlandés
   - translation_iso: zho
     name: 谢特兰语
     auto: true

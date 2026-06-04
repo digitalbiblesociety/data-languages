@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 古典マンダイク語
     auto: true
+  - translation_iso: spa
+    name: mandeo clásico
   - translation_iso: zho
     name: 古代曼底语
     auto: true

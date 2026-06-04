@@ -24,6 +24,8 @@ translations:
     name: ガナサン語
   - translation_iso: kor
     name: 응가나산어
+  - translation_iso: spa
+    name: enganasano
   - translation_iso: zho
     name: 恩加納桑語
 rolv_dialects:

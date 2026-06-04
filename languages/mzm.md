@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムムイェ語
     auto: true
+  - translation_iso: spa
+    name: Mumuie
   - translation_iso: zho
     name: 穆姆耶语
     auto: true

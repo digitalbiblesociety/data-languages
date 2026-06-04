@@ -18,6 +18,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンバンバ語
+  - translation_iso: spa
+    name: mbama
   - translation_iso: zho
     name: 翁巴姆巴语
     auto: true

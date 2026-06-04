@@ -24,6 +24,8 @@ translations:
     name: ヒンディー語
   - translation_iso: kor
     name: 힌디어
+  - translation_iso: spa
+    name: hindi
   - translation_iso: zho
     name: 印地语
 rolv_dialects:

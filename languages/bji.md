@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ブルジ語
     auto: true
+  - translation_iso: spa
+    name: Idioma burji
   - translation_iso: zho
     name: 布尔吉语
     auto: true

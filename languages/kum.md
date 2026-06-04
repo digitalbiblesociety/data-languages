@@ -24,6 +24,8 @@ translations:
     name: クムク語
   - translation_iso: kor
     name: 쿠미크어
+  - translation_iso: spa
+    name: Idioma cumuco
   - translation_iso: zho
     name: 庫梅克語
 rolv_dialects:

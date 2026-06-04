@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アノル語
     auto: true
+  - translation_iso: spa
+    name: Idioma anor
   - translation_iso: zho
     name: 阿诺尔语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マグブクン・アイタ語
     auto: true
+  - translation_iso: spa
+    name: Idioma mariveleño
   - translation_iso: zho
     name: 马格布昆艾塔语
     auto: true

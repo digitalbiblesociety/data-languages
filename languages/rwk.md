@@ -23,6 +23,8 @@ translations:
     name: ルワ語
   - translation_iso: kor
     name: 르와어
+  - translation_iso: spa
+    name: rwa
   - translation_iso: zho
     name: 罗瓦语
 rolv_dialects:

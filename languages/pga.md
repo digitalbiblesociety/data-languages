@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジュバ・アラビア語
+  - translation_iso: spa
+    name: Árabe Yuba
   - translation_iso: zho
     name: 朱巴阿拉伯語
 ---

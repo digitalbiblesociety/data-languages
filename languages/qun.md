@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クイナルト語
+  - translation_iso: spa
+    name: Quinault
   - translation_iso: zho
     name: 奎诺特语
     auto: true

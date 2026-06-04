@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ミンジングバル語
     auto: true
+  - translation_iso: spa
+    name: Idioma yugambeh
   - translation_iso: zho
     name: 民金巴尔语
     auto: true

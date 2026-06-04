@@ -25,6 +25,8 @@ translations:
     name: モパン語
   - translation_iso: kor
     name: 모판어
+  - translation_iso: spa
+    name: mopán
   - translation_iso: zho
     name: 磨潘语
 ---

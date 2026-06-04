@@ -24,6 +24,8 @@ translations:
     name: カーングリー語
   - translation_iso: kor
     name: 캉그리어
+  - translation_iso: spa
+    name: kangri
   - translation_iso: zho
     name: 坎格里语
 rolv_dialects:

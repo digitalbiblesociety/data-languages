@@ -25,6 +25,8 @@ translations:
     name: カラ・ラガウ・ヤ語
   - translation_iso: kor
     name: 칼라우라가우야어
+  - translation_iso: spa
+    name: Kalaw Lagaw Ya
   - translation_iso: zho
     name: 卡劳拉高亚语
 rolv_dialects:

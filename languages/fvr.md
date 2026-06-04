@@ -25,6 +25,8 @@ translations:
     name: フル語
   - translation_iso: kor
     name: 푸르어
+  - translation_iso: spa
+    name: Idioma fur
   - translation_iso: zho
     name: 富尔语
 ---

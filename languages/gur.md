@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フラフラ語
+  - translation_iso: spa
+    name: Frafra
   - translation_iso: zho
     name: 弗拉弗拉语
 rolv_dialects:

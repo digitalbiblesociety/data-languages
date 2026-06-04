@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: 古コーンウォール語
     auto: true
+  - translation_iso: spa
+    name: córnico antiguo
   - translation_iso: zho
     name: 古康沃尔语
     auto: true

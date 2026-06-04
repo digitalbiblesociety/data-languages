@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グン語
+  - translation_iso: spa
+    name: Idioma Gungbe
   - translation_iso: zho
     name: 袞語
 rolv_dialects:

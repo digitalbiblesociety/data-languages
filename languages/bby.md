@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ベファング語
     auto: true
+  - translation_iso: spa
+    name: menchum
   - translation_iso: zho
     name: 贝芳语
     auto: true

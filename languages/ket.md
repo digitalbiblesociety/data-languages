@@ -24,6 +24,8 @@ translations:
     name: ケット語
   - translation_iso: kor
     name: 케트어
+  - translation_iso: spa
+    name: ket
   - translation_iso: zho
     name: 凯特语
 ---

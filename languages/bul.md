@@ -24,6 +24,8 @@ translations:
     name: ブルガリア語
   - translation_iso: kor
     name: 불가리아어
+  - translation_iso: spa
+    name: búlgaro
   - translation_iso: zho
     name: 保加利亚语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
     name: エフィク語
   - translation_iso: kor
     name: 에피크어
+  - translation_iso: spa
+    name: Idioma efik
   - translation_iso: zho
     name: 艾菲克語
 ---

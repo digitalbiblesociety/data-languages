@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 이토나마어
+  - translation_iso: spa
+    name: idioma itonama
   - translation_iso: zho
     name: 伊托纳玛语
     auto: true

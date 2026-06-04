@@ -24,6 +24,8 @@ translations:
     name: キンブンド語
   - translation_iso: kor
     name: 킴분두어
+  - translation_iso: spa
+    name: kimbundu
   - translation_iso: zho
     name: 姆本杜语
 rolv_dialects:

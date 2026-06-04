@@ -25,6 +25,8 @@ translations:
     name: メアンキエリ
   - translation_iso: kor
     name: 메앤키엘리
+  - translation_iso: spa
+    name: meänkieli
   - translation_iso: zho
     name: 梅安语
 rolv_dialects:

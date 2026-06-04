@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マルギ南語
     auto: true
+  - translation_iso: spa
+    name: margui meridional
   - translation_iso: zho
     name: 玛格希南语
     auto: true

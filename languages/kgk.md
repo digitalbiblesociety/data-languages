@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カイワ語
+  - translation_iso: spa
+    name: kaiwá
   - translation_iso: zho
     name: 凯瓦语
     auto: true

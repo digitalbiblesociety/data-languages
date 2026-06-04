@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フォルダタ語
+  - translation_iso: spa
+    name: Fordata
   - translation_iso: zho
     name: "Category:福爾達塔語"
 rolv_dialects:

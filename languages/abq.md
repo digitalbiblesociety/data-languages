@@ -25,6 +25,8 @@ translations:
     name: アバザ語
   - translation_iso: kor
     name: 아바자어
+  - translation_iso: spa
+    name: abaza
   - translation_iso: zho
     name: 阿巴扎语
 rolv_dialects:

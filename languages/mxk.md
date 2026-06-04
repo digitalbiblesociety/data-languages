@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: モヌンボ語
     auto: true
+  - translation_iso: spa
+    name: Lenguas monumbo
   - translation_iso: zho
     name: 莫努姆博语
     auto: true

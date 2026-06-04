@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: 東南タラウマラ語
     auto: true
+  - translation_iso: spa
+    name: tarahumara suroriental
   - translation_iso: zho
     name: 东南塔拉乌马拉语
     auto: true

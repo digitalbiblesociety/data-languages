@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ドゥムン語
     auto: true
+  - translation_iso: spa
+    name: Dumun
   - translation_iso: zho
     name: 杜蒙语
     auto: true

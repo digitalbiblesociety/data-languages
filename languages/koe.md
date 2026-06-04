@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カチポ・バレシ語
     auto: true
+  - translation_iso: spa
+    name: Idioma baalesi
   - translation_iso: zho
     name: 卡奇波-巴雷西语
     auto: true

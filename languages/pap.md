@@ -24,6 +24,8 @@ translations:
     name: パピアメント語
   - translation_iso: kor
     name: 파피아멘토어
+  - translation_iso: spa
+    name: papiamento
   - translation_iso: zho
     name: 帕皮阿门托语
 ---

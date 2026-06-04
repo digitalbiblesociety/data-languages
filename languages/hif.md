@@ -24,6 +24,8 @@ translations:
     name: フィジー・ヒンディー語
   - translation_iso: kor
     name: 피지 힌디어
+  - translation_iso: spa
+    name: hindi de Fiyi
   - translation_iso: zho
     name: 斐濟印地語
 rolv_dialects:

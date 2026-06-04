@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピアポコ語
+  - translation_iso: spa
+    name: piapoco
   - translation_iso: zho
     name: 皮亚波科语
     auto: true

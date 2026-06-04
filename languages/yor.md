@@ -24,6 +24,8 @@ translations:
     name: ヨルバ語
   - translation_iso: kor
     name: 요루바어
+  - translation_iso: spa
+    name: yoruba
   - translation_iso: zho
     name: 约鲁巴语
 rolv_dialects:

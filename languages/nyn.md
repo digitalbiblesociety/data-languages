@@ -24,6 +24,8 @@ translations:
     name: ニャンコレ語
   - translation_iso: kor
     name: 니안콜어
+  - translation_iso: spa
+    name: runyankole
   - translation_iso: zho
     name: 尼科尔语
 rolv_dialects:

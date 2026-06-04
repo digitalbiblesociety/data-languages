@@ -23,6 +23,8 @@ translations:
     name: ラル語
   - translation_iso: kor
     name: 아촘어
+  - translation_iso: spa
+    name: Lenguaje Achomic Antiguo
   - translation_iso: zho
     name: 阿喬米語
 rolv_dialects:

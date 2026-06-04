@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミュシア語
+  - translation_iso: spa
+    name: Idioma misio
   - translation_iso: zho
     name: 密细亚语
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: コフモノ語
     auto: true
+  - translation_iso: spa
+    name: kohumono
   - translation_iso: zho
     name: 科胡莫诺语
     auto: true

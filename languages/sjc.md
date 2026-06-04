@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 閩贛語
+  - translation_iso: spa
+    name: Min shaojiang
   - translation_iso: zho
     name: 邵将语
 ---

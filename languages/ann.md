@@ -24,6 +24,8 @@ translations:
     name: オボロ語
   - translation_iso: kor
     name: 오볼로어
+  - translation_iso: spa
+    name: Idioma obolo
   - translation_iso: zho
     name: 奥博洛语
 rolv_dialects:

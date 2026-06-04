@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヌクアク・マク語
     auto: true
+  - translation_iso: spa
+    name: Idioma nukak
   - translation_iso: zho
     name: 努卡克马库语
     auto: true

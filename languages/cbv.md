@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カクア語
     auto: true
+  - translation_iso: spa
+    name: Idioma kãkwã
   - translation_iso: zho
     name: 卡库亚语
     auto: true

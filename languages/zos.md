@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: フランシスコ・レオン・ゾケ語
     auto: true
+  - translation_iso: spa
+    name: zoque de Francisco León
   - translation_iso: zho
     name: 弗朗西斯科莱昂索克语
     auto: true

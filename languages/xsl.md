@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南スレイビー語
+  - translation_iso: spa
+    name: denetaca
   - translation_iso: zho
     name: 南斯拉夫语
     auto: true

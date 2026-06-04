@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チリカワ語
+  - translation_iso: spa
+    name: chiricahua
   - translation_iso: zho
     name: 梅斯卡莱罗-奇里卡瓦阿帕奇语
     auto: true

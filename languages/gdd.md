@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゲダーゲド語
+  - translation_iso: spa
+    name: gedaged
   - translation_iso: zho
     name: 格达格德语
     auto: true

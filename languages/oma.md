@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オマハ語
+  - translation_iso: spa
+    name: idioma omaha
   - translation_iso: zho
     name: 奧馬哈-龐卡語
 rolv_dialects:

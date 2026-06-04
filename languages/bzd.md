@@ -24,6 +24,8 @@ translations:
     name: ブリブリ語
   - translation_iso: kor
     name: 브리브리어
+  - translation_iso: spa
+    name: Idioma bribri
   - translation_iso: zho
     name: 布里布里语
 rolv_dialects:

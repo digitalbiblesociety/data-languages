@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ダウングワルング語
     auto: true
+  - translation_iso: spa
+    name: Idioma taungurung
   - translation_iso: zho
     name: 东格武隆语
     auto: true

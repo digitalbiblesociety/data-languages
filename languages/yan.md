@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: マヤングナ語
     auto: true
+  - translation_iso: spa
+    name: Mayangna
   - translation_iso: zho
     name: 玛央纳语
     auto: true

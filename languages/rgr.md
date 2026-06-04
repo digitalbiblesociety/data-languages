@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レシガロ語
+  - translation_iso: spa
+    name: Idioma resígaro
   - translation_iso: zho
     name: 嗨唽嘎吺語
 ---

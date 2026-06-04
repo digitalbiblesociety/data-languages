@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラウハノ語
+  - translation_iso: spa
+    name: añú
   - translation_iso: zho
     name: 阿努語
 rolv_dialects:

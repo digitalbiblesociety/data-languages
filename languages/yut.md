@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヨプノ語
     auto: true
+  - translation_iso: spa
+    name: yopno
   - translation_iso: zho
     name: 约普诺语
     auto: true

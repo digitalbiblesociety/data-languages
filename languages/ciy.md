@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チャイマ語
     auto: true
+  - translation_iso: spa
+    name: Chaima
   - translation_iso: zho
     name: 查伊马语
     auto: true

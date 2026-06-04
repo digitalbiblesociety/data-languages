@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アロアパム・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Aloápam
   - translation_iso: zho
     name: 阿洛阿帕姆-萨波特克语
     auto: true

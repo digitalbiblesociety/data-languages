@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムセイ語
     auto: true
+  - translation_iso: spa
+    name: musey
   - translation_iso: zho
     name: 穆塞语
     auto: true

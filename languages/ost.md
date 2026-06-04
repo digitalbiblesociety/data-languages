@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オサトゥ語
     auto: true
+  - translation_iso: spa
+    name: osatu
   - translation_iso: zho
     name: 奥萨图语
     auto: true

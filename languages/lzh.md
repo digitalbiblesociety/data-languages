@@ -24,6 +24,8 @@ translations:
     name: 漢文
   - translation_iso: kor
     name: 한문
+  - translation_iso: spa
+    name: chino clásico
   - translation_iso: zho
     name: 文言文
 ---

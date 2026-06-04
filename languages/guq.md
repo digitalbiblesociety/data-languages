@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グアヤキ語
+  - translation_iso: spa
+    name: idioma aché
   - translation_iso: zho
     name: 阿切语
     auto: true

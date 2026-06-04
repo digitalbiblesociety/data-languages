@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムンジャン語
+  - translation_iso: spa
+    name: Idioma munji
   - translation_iso: zho
     name: 門吉語
 ---

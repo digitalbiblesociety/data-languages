@@ -24,6 +24,8 @@ translations:
     name: オナイダ語
   - translation_iso: kor
     name: 오네이다어
+  - translation_iso: spa
+    name: Oneida
   - translation_iso: zho
     name: 奧內達語
 ---

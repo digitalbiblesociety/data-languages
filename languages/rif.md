@@ -25,6 +25,8 @@ translations:
     name: リーフ語
   - translation_iso: kor
     name: 리프어
+  - translation_iso: spa
+    name: rifeño
   - translation_iso: zho
     name: 里夫语
 rolv_dialects:

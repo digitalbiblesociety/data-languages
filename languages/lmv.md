@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ロマイビティ語
     auto: true
+  - translation_iso: spa
+    name: Idioma lomaiviti
   - translation_iso: zho
     name: 洛迈维蒂语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: 日本語
   - translation_iso: kor
     name: 일본어
+  - translation_iso: spa
+    name: japonés
   - translation_iso: zho
     name: 日语
 rolv_dialects:

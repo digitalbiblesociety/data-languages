@@ -24,6 +24,8 @@ translations:
     name: チェワ語
   - translation_iso: kor
     name: 치체와어
+  - translation_iso: spa
+    name: chichewa
   - translation_iso: zho
     name: 切瓦语
 rolv_dialects:

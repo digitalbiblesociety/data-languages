@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: フォルツェナル語
     auto: true
+  - translation_iso: spa
+    name: Idioma de kiai
   - translation_iso: zho
     name: 福尔茨纳尔语
     auto: true

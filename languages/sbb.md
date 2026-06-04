@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マデグス語
     auto: true
+  - translation_iso: spa
+    name: Simbo
   - translation_iso: zho
     name: 西姆博语
     auto: true

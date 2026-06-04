@@ -24,6 +24,8 @@ translations:
     name: 古東スラヴ語
   - translation_iso: kor
     name: 고대 동슬라브어
+  - translation_iso: spa
+    name: antiguo eslavo oriental
   - translation_iso: zho
     name: 古东斯拉夫语
 ---

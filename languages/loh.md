@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ナリム語
     auto: true
+  - translation_iso: spa
+    name: Idioma narim
   - translation_iso: zho
     name: 纳里姆语
     auto: true

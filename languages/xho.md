@@ -24,6 +24,8 @@ translations:
     name: コサ語
   - translation_iso: kor
     name: 코사어
+  - translation_iso: spa
+    name: xhosa
   - translation_iso: zho
     name: 科萨语
 rolv_dialects:

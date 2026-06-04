@@ -22,6 +22,8 @@ translations:
     name: रेंगमा भाषा
   - translation_iso: jpn
     name: 南レングマ・ナガ語
+  - translation_iso: spa
+    name: Rengma
   - translation_iso: zho
     name: 南伦格玛纳加语
     auto: true

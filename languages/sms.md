@@ -24,6 +24,8 @@ translations:
     name: スコルト・サーミ語
   - translation_iso: kor
     name: 스콜트 사미어
+  - translation_iso: spa
+    name: sami skolt
   - translation_iso: zho
     name: 斯科尔特萨米语
 rolv_dialects:

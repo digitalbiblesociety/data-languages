@@ -24,6 +24,8 @@ translations:
     name: ルンダ語
   - translation_iso: kor
     name: 룬다어
+  - translation_iso: spa
+    name: Idioma lunda
   - translation_iso: zho
     name: 隆达语
 rolv_dialects:

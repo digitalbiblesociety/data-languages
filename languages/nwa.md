@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ナワティネヘナ語
     auto: true
+  - translation_iso: spa
+    name: Nawathinehena
   - translation_iso: zho
     name: 纳瓦蒂涅赫纳语
     auto: true

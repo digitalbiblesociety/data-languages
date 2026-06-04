@@ -25,6 +25,8 @@ translations:
     name: カマス語
   - translation_iso: kor
     name: 카마스어
+  - translation_iso: spa
+    name: kamasiano
   - translation_iso: zho
     name: 卡馬斯語
 rolv_dialects:

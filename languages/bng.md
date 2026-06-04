@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベンガ語
+  - translation_iso: spa
+    name: benga mekenda
   - translation_iso: zho
     name: 贝恩加语
     auto: true

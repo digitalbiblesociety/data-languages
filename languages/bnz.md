@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ベーゼン語
     auto: true
+  - translation_iso: spa
+    name: beezen
   - translation_iso: zho
     name: 比泽恩语
     auto: true

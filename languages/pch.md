@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パルダン語
     auto: true
+  - translation_iso: spa
+    name: pardhan
   - translation_iso: zho
     name: 帕尔德汉语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: バリシ語
     auto: true
+  - translation_iso: spa
+    name: Varisi
   - translation_iso: zho
     name: 瓦里西语
     auto: true

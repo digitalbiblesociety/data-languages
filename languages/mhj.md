@@ -24,6 +24,8 @@ translations:
     name: モゴール語
   - translation_iso: kor
     name: 모골어
+  - translation_iso: spa
+    name: moghol
   - translation_iso: zho
     name: 蒙戈勒語
 rolv_dialects:

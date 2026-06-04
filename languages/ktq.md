@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カタバガ語
     auto: true
+  - translation_iso: spa
+    name: catabaga
   - translation_iso: zho
     name: 卡塔巴加语
     auto: true

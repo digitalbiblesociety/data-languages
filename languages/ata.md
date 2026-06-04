@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペレアタ語
+  - translation_iso: spa
+    name: Idioma pele-ata
   - translation_iso: zho
     name: 佩莱-阿塔语
     auto: true

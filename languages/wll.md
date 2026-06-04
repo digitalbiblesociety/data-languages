@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ワリ語（スーダン）
     auto: true
+  - translation_iso: spa
+    name: wali
   - translation_iso: zho
     name: 瓦利语（苏丹）
     auto: true

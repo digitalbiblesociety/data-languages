@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グルマンチェマ語
+  - translation_iso: spa
+    name: gurma
   - translation_iso: zho
     name: 古利曼切馬语
 rolv_dialects:

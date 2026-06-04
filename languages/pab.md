@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パレシ語
+  - translation_iso: spa
+    name: paresí
   - translation_iso: zho
     name: 帕雷西斯语
     auto: true

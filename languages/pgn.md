@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: パエリグニア語
     auto: true
+  - translation_iso: spa
+    name: Idioma peligno
   - translation_iso: zho
     name: 帕埃利尼语
     auto: true

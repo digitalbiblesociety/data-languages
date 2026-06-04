@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 오푸치콰르어
+  - translation_iso: spa
+    name: pucikwar
   - translation_iso: zho
     name: 阿-普奇卡尔语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: タマ語
     auto: true
+  - translation_iso: spa
+    name: tama
   - translation_iso: zho
     name: 塔马语
     auto: true

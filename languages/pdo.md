@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パドエ語
     auto: true
+  - translation_iso: spa
+    name: padoe
   - translation_iso: zho
     name: 帕多埃语
     auto: true

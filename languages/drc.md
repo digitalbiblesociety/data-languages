@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ミンデリコ語
     auto: true
+  - translation_iso: spa
+    name: Minderico
   - translation_iso: zho
     name: 米恩德里科语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: トラキア語
   - translation_iso: kor
     name: 트라키아어
+  - translation_iso: spa
+    name: idioma tracio
   - translation_iso: zho
     name: 色雷斯語
 ---

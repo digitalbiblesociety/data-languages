@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 北モフ語
     auto: true
+  - translation_iso: spa
+    name: mofu septentrional
   - translation_iso: zho
     name: 北莫夫语
     auto: true

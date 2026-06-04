@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パッタプ語
     auto: true
+  - translation_iso: spa
+    name: Idioma pattapu
   - translation_iso: zho
     name: "Category:帕塔普語"
 ---

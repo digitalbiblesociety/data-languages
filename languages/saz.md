@@ -23,6 +23,8 @@ translations:
     name: सौराष्ट्र भाषा
   - translation_iso: jpn
     name: サウラーシュトラ語
+  - translation_iso: spa
+    name: saurashtra
   - translation_iso: zho
     name: 萨乌拉施特拉语
 rolv_dialects:

@@ -25,6 +25,8 @@ translations:
     name: ジルバル語
   - translation_iso: kor
     name: 지르발어
+  - translation_iso: spa
+    name: dyirbal
   - translation_iso: zho
     name: 迪爾巴爾語
 rolv_dialects:

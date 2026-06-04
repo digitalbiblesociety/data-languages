@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥバトゥラバル語
+  - translation_iso: spa
+    name: Idioma tübatulabal
   - translation_iso: zho
     name: 土巴图拉巴语
 ---

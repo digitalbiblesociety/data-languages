@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 에로민첼라어
+  - translation_iso: spa
+    name: Erromintxela
   - translation_iso: zho
     name: 埃罗明切拉语
 ---

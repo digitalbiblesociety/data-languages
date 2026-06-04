@@ -24,6 +24,8 @@ translations:
     name: アレマン語
   - translation_iso: kor
     name: 알레만어
+  - translation_iso: spa
+    name: alemánico
   - translation_iso: zho
     name: 阿勒曼尼语
 rolv_dialects:

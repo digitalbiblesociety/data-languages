@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 中央ワステカ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Mexicano de la Huasteca hidalguense
   - translation_iso: zho
     name: 中瓦斯特卡纳瓦特尔语
     auto: true

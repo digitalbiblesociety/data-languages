@@ -24,6 +24,8 @@ translations:
     name: デンマーク語
   - translation_iso: kor
     name: 덴마크어
+  - translation_iso: spa
+    name: danés
   - translation_iso: zho
     name: 丹麦语
 rolv_dialects:

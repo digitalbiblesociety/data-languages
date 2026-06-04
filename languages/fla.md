@@ -22,6 +22,8 @@ translations:
     name: सेलिश भाषा
   - translation_iso: jpn
     name: カリスペル語
+  - translation_iso: spa
+    name: Montana Salish
   - translation_iso: zho
     name: 萨利什-斯波坎-卡利斯佩尔语
 rolv_dialects:

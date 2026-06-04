@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロンガ語
+  - translation_iso: spa
+    name: Rongga
   - translation_iso: zho
     name: 荣加语
 ---

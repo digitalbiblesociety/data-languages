@@ -24,6 +24,8 @@ translations:
     name: ウンブリア語
   - translation_iso: kor
     name: 움브리아어
+  - translation_iso: spa
+    name: Idioma umbro
   - translation_iso: zho
     name: 翁布里亚语
 ---

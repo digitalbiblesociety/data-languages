@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シヒン語
+  - translation_iso: spa
+    name: Idioma shixing
   - translation_iso: zho
     name: 史興語
 ---

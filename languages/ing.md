@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: デゲエキシタン語
     auto: true
+  - translation_iso: spa
+    name: idioma deg xinag
   - translation_iso: zho
     name: 德格斯納格語
 rolv_dialects:

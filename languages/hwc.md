@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハワイ・クレオール英語
+  - translation_iso: spa
+    name: Pidgin hawaiano
   - translation_iso: zho
     name: 夏威夷英语
 ---

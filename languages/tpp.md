@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 北テペウア語
     auto: true
+  - translation_iso: spa
+    name: tepehua de Pisa Flores
   - translation_iso: zho
     name: 皮萨弗洛雷斯特佩瓦语
     auto: true

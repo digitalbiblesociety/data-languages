@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東イディッシュ語
+  - translation_iso: spa
+    name: yidis oriental
   - translation_iso: zho
     name: 东意第绪语
     auto: true

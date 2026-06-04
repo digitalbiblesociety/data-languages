@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: マク語
     auto: true
+  - translation_iso: spa
+    name: Idioma maku
   - translation_iso: zho
     name: 马库语
     auto: true

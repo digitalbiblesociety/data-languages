@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パギベテ語
     auto: true
+  - translation_iso: spa
+    name: Pagibete
   - translation_iso: zho
     name: 帕吉贝特语
     auto: true

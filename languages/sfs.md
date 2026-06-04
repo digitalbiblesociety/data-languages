@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南アフリカ手話
+  - translation_iso: spa
+    name: Lenguaje de Signos Sudafricano
   - translation_iso: zho
     name: 南非手语
 ---

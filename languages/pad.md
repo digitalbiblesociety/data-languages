@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パウマリ語
     auto: true
+  - translation_iso: spa
+    name: paumarí
   - translation_iso: zho
     name: 帕烏瑪利語
 rolv_dialects:

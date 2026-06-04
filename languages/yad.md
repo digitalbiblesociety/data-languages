@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ヤグア語
     auto: true
+  - translation_iso: spa
+    name: idioma yagua
   - translation_iso: zho
     name: 亚瓜语
 ---

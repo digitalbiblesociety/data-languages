@@ -18,6 +18,8 @@ translations:
     name: チワン語
   - translation_iso: kor
     name: 좡어
+  - translation_iso: spa
+    name: chuang
   - translation_iso: zho
     name: 壮语
 ---

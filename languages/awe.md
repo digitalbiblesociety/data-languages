@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アウェティ語
     auto: true
+  - translation_iso: spa
+    name: Idioma awetí
   - translation_iso: zho
     name: 阿韦蒂语
     auto: true

@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロヴィアナ語
+  - translation_iso: spa
+    name: Roviana
   - translation_iso: zho
     name: 罗维亚纳语
     auto: true

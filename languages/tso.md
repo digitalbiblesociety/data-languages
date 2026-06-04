@@ -24,6 +24,8 @@ translations:
     name: ツォンガ語
   - translation_iso: kor
     name: 총가어
+  - translation_iso: spa
+    name: tsonga
   - translation_iso: zho
     name: 聪加语
 rolv_dialects:

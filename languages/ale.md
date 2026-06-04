@@ -24,6 +24,8 @@ translations:
     name: アレウト語
   - translation_iso: kor
     name: 알류트어
+  - translation_iso: spa
+    name: aleutiano
   - translation_iso: zho
     name: 阿留申語
 rolv_dialects:

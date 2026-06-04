@@ -24,6 +24,8 @@ translations:
     name: ショナ語
   - translation_iso: kor
     name: 쇼나어
+  - translation_iso: spa
+    name: shona
   - translation_iso: zho
     name: 修納語
 rolv_dialects:

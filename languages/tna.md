@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タカナ語
+  - translation_iso: spa
+    name: Tacana
   - translation_iso: zho
     name: 塔卡纳语
     auto: true

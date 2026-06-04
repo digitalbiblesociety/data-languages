@@ -24,6 +24,8 @@ translations:
     name: テトゥン語
   - translation_iso: kor
     name: 테툼어
+  - translation_iso: spa
+    name: Idioma tetun
   - translation_iso: zho
     name: 德顿语
 rolv_dialects:

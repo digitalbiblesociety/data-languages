@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セネド語
+  - translation_iso: spa
+    name: Idioma bereber de Sened
   - translation_iso: zho
     name: 塞内德语
     auto: true

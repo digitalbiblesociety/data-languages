@@ -25,6 +25,8 @@ translations:
     name: 八重山語
   - translation_iso: kor
     name: 야에야마어
+  - translation_iso: spa
+    name: yaeyama
   - translation_iso: zho
     name: 八重山语
 rolv_dialects:

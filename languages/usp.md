@@ -25,6 +25,8 @@ translations:
     name: ウスパンテコ語
   - translation_iso: kor
     name: 우스판텍어
+  - translation_iso: spa
+    name: Idioma uspanteco
   - translation_iso: zho
     name: 乌斯潘特克语
 ---

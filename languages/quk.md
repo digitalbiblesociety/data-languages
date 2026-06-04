@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チャチャポヤスケチュア語
     auto: true
+  - translation_iso: spa
+    name: quechua chachapoyano
   - translation_iso: zho
     name: 查查波亚斯克丘亚语
     auto: true

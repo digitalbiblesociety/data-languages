@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウィラング語
     auto: true
+  - translation_iso: spa
+    name: idioma wirangu
   - translation_iso: zho
     name: 威兰古语
     auto: true

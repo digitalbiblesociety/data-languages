@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古代北部アラビア語
+  - translation_iso: spa
+    name: Árabe antiguo septentrional
   - translation_iso: zho
     name: 古北阿拉伯字母
 ---

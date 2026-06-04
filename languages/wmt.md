@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルマジャリ語
+  - translation_iso: spa
+    name: idioma walmajarri
   - translation_iso: zho
     name: 瓦马加利语
 rolv_dialects:

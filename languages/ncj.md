@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: 北プエブラ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: náhuatl norte de Puebla
   - translation_iso: zho
     name: 北普埃布拉纳瓦特尔语
     auto: true

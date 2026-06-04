@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ベビル語
     auto: true
+  - translation_iso: spa
+    name: Bebil
   - translation_iso: zho
     name: 贝比尔语
     auto: true

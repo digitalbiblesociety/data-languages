@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バロウ・ポイント語
     auto: true
+  - translation_iso: spa
+    name: idioma Barrow Point
   - translation_iso: zho
     name: 巴罗点语
     auto: true

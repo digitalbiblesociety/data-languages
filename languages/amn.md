@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アマナブ語
     auto: true
+  - translation_iso: spa
+    name: Amanab
   - translation_iso: zho
     name: 阿马纳布语
     auto: true

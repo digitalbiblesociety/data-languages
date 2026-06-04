@@ -24,6 +24,8 @@ translations:
     name: チューク語
   - translation_iso: kor
     name: 추크어
+  - translation_iso: spa
+    name: idioma Chuuk
   - translation_iso: zho
     name: 楚克語
 rolv_dialects:

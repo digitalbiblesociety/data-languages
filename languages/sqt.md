@@ -24,6 +24,8 @@ translations:
     name: ソコトラ語
   - translation_iso: kor
     name: 소코트라어
+  - translation_iso: spa
+    name: socotrí
   - translation_iso: zho
     name: 索科特拉语
 rolv_dialects:

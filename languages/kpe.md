@@ -17,6 +17,8 @@ translations:
     name: クペレ語
   - translation_iso: kor
     name: 크펠레어
+  - translation_iso: spa
+    name: kpelle
   - translation_iso: zho
     name: 克佩列语
 ---

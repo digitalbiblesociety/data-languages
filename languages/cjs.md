@@ -25,6 +25,8 @@ translations:
     name: ショル語
   - translation_iso: kor
     name: 쇼르어
+  - translation_iso: spa
+    name: Idioma shor
   - translation_iso: zho
     name: 索爾語
 rolv_dialects:

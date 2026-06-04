@@ -22,6 +22,8 @@ translations:
     name: म्हार भाषा
   - translation_iso: jpn
     name: フマール語
+  - translation_iso: spa
+    name: idioma hmar
   - translation_iso: zho
     name: 和马语
 rolv_dialects:

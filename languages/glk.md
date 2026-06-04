@@ -25,6 +25,8 @@ translations:
     name: ギラキ語
   - translation_iso: kor
     name: 길란어
+  - translation_iso: spa
+    name: gileki
   - translation_iso: zho
     name: 吉拉基語
 rolv_dialects:

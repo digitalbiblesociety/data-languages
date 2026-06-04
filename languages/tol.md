@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: トロワ語
     auto: true
+  - translation_iso: spa
+    name: tolowa
   - translation_iso: zho
     name: 托洛瓦語
 ---

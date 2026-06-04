@@ -23,6 +23,8 @@ translations:
     name: セリ語
   - translation_iso: kor
     name: 세리어
+  - translation_iso: spa
+    name: seri
   - translation_iso: zho
     name: 塞里語
 ---

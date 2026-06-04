@@ -24,6 +24,8 @@ translations:
     name: ハンガリー語
   - translation_iso: kor
     name: 헝가리어
+  - translation_iso: spa
+    name: húngaro
   - translation_iso: zho
     name: 匈牙利语
 rolv_dialects:

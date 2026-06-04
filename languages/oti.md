@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: オティ語
     auto: true
+  - translation_iso: spa
+    name: Idioma oti
   - translation_iso: zho
     name: 奥蒂语
     auto: true

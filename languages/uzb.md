@@ -17,6 +17,8 @@ translations:
     name: ウズベク語
   - translation_iso: kor
     name: 우즈베크어
+  - translation_iso: spa
+    name: uzbeko
   - translation_iso: zho
     name: 乌孜别克语
 ---

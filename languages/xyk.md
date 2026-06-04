@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: マイイ・クラン語
     auto: true
+  - translation_iso: spa
+    name: Idioma mayi-kulan
   - translation_iso: zho
     name: 麦伊-库兰语
     auto: true

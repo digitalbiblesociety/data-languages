@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: フェルナンド・ポー・クレオール英語
     auto: true
+  - translation_iso: spa
+    name: pichinglis
   - translation_iso: zho
     name: 费南多波手语英语
     auto: true

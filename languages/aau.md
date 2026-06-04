@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アバウ語
+  - translation_iso: spa
+    name: Idioma abau
   - translation_iso: zho
     name: 阿包语
     auto: true

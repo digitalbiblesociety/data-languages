@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ハウハワンカケチュア語
     auto: true
+  - translation_iso: spa
+    name: jauja huanca
   - translation_iso: zho
     name: 豪哈瓦卡克丘亚语
     auto: true

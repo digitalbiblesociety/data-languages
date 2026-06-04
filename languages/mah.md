@@ -24,6 +24,8 @@ translations:
     name: マーシャル語
   - translation_iso: kor
     name: 마셜어
+  - translation_iso: spa
+    name: marshalés
   - translation_iso: zho
     name: 马绍尔语
 rolv_dialects:

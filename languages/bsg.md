@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バシャカ語
+  - translation_iso: spa
+    name: Bashkardi
   - translation_iso: zho
     name: 巴什卡迪语
     auto: true

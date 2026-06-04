@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルディン手話
+  - translation_iso: spa
+    name: lengua de signos albanesa
   - translation_iso: zho
     name: 阿尔巴尼亚手语
 ---

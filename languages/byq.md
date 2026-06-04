@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バサイ語
+  - translation_iso: spa
+    name: Basay
   - translation_iso: zho
     name: 巴赛语
 rolv_dialects:

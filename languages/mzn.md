@@ -24,6 +24,8 @@ translations:
     name: マーザンダラーン語
   - translation_iso: kor
     name: 마잔다란어
+  - translation_iso: spa
+    name: mazandaraní
   - translation_iso: zho
     name: 马赞德兰语
 rolv_dialects:

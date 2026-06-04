@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コギ語
+  - translation_iso: spa
+    name: idioma kogui
   - translation_iso: zho
     name: 科吉语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ルバ語
   - translation_iso: kor
     name: 루바어
+  - translation_iso: spa
+    name: chiluba
   - translation_iso: zho
     name: 鲁巴-开赛语
 rolv_dialects:

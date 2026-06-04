@@ -18,6 +18,8 @@ translations:
     name: スドヴィア語
   - translation_iso: kor
     name: 수도비아어
+  - translation_iso: spa
+    name: sudovio
   - translation_iso: zho
     name: 苏多维亚语
     auto: true

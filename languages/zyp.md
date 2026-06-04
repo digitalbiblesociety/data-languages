@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ズィフェ・チン語
     auto: true
+  - translation_iso: spa
+    name: zyphe
   - translation_iso: zho
     name: 齐菲钦语
     auto: true

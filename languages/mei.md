@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミドブ語
+  - translation_iso: spa
+    name: midob
   - translation_iso: zho
     name: 米多布语
     auto: true

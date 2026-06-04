@@ -24,6 +24,8 @@ translations:
     name: アフリカーンス語
   - translation_iso: kor
     name: 아프리칸스어
+  - translation_iso: spa
+    name: afrikáans
   - translation_iso: zho
     name: 阿非利卡语
 rolv_dialects:

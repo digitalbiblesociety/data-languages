@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バルバラム語
     auto: true
+  - translation_iso: spa
+    name: idioma mbabaram
   - translation_iso: zho
     name: 巴巴拉姆语
     auto: true

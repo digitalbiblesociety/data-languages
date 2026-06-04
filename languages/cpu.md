@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ピチス・アシェニンカ語
     auto: true
+  - translation_iso: spa
+    name: Pichis Ashéninka
   - translation_iso: zho
     name: 皮奇斯阿什尼卡语
     auto: true

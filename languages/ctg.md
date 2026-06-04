@@ -23,6 +23,8 @@ translations:
     name: チッタゴン語
   - translation_iso: kor
     name: 치타공어
+  - translation_iso: spa
+    name: Idioma chittagoniano
   - translation_iso: zho
     name: 吉大港语
 rolv_dialects:

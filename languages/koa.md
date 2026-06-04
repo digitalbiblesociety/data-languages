@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コノマラ語
+  - translation_iso: spa
+    name: Konomala
   - translation_iso: zho
     name: 科诺马拉语
     auto: true

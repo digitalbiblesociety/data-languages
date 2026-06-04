@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: サンティアゴデルエステロキチュア語
     auto: true
+  - translation_iso: spa
+    name: quichua santiagueño
   - translation_iso: zho
     name: 圣地亚哥德尔埃斯特罗基楚亚语
     auto: true

@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セケ語
+  - translation_iso: spa
+    name: seki
   - translation_iso: zho
     name: 塞基语
     auto: true

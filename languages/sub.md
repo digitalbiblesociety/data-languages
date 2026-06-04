@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スク語
+  - translation_iso: spa
+    name: Idioma suku
   - translation_iso: zho
     name: 苏库语
     auto: true

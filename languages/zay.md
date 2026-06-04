@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ザイセ-ゼルグッラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma zayse-zergulla
   - translation_iso: zho
     name: 扎伊塞-泽尔古拉语
     auto: true

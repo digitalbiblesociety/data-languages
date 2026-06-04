@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ナウオ語
     auto: true
+  - translation_iso: spa
+    name: Idioma nauo
   - translation_iso: zho
     name: 瑙奥语
     auto: true

@@ -19,6 +19,8 @@ translations:
     name: अका भाषा
   - translation_iso: jpn
     name: フルソ語
+  - translation_iso: spa
+    name: idioma hruso
   - translation_iso: zho
     name: 鲁苏语
 rolv_dialects:

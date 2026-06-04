@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヒウ語
     auto: true
+  - translation_iso: spa
+    name: Idioma Hiw
   - translation_iso: zho
     name: 希烏語
 ---

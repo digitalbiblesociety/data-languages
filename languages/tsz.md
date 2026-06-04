@@ -25,6 +25,8 @@ translations:
     name: タラスコ語
   - translation_iso: kor
     name: 푸레페차어
+  - translation_iso: spa
+    name: purépecha
   - translation_iso: zho
     name: 塔拉斯坎语
 rolv_dialects:

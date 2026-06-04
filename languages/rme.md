@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アングロ・ロマニー語
+  - translation_iso: spa
+    name: Anglorromaní
   - translation_iso: zho
     name: 盎格魯－羅姆語
 ---

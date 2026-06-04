@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: シカニア語
     auto: true
+  - translation_iso: spa
+    name: sicano
   - translation_iso: zho
     name: 西卡尼亚语
     auto: true

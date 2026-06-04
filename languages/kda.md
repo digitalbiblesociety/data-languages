@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウォリミ語
     auto: true
+  - translation_iso: spa
+    name: Idioma worimi
   - translation_iso: zho
     name: 沃里米语
     auto: true

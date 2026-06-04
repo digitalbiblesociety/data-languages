@@ -24,6 +24,8 @@ translations:
     name: アストゥリアス語
   - translation_iso: kor
     name: 아스투리아스어
+  - translation_iso: spa
+    name: asturiano
   - translation_iso: zho
     name: 阿斯图里亚斯语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
     name: オンゲ語
   - translation_iso: kor
     name: 옹게어
+  - translation_iso: spa
+    name: Idioma önge
   - translation_iso: zho
     name: 翁奇语
 ---

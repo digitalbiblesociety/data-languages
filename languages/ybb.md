@@ -24,6 +24,8 @@ translations:
     name: イエンバ語
   - translation_iso: kor
     name: 옘바어
+  - translation_iso: spa
+    name: yemba
   - translation_iso: zho
     name: 耶姆巴语
 rolv_dialects:

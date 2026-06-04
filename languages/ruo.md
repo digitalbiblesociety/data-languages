@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イストロ・ルーマニア語
+  - translation_iso: spa
+    name: idioma istrorrumano
   - translation_iso: zho
     name: 伊斯特罗-罗马尼亚语
 ---

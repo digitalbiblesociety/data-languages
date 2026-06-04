@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プカプカ語
+  - translation_iso: spa
+    name: idioma pukapukano
   - translation_iso: zho
     name: 普卡普卡语
 ---

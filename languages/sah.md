@@ -24,6 +24,8 @@ translations:
     name: サハ語
   - translation_iso: kor
     name: 야쿠트어
+  - translation_iso: spa
+    name: Idioma yakuto
   - translation_iso: zho
     name: 雅库特语
 rolv_dialects:

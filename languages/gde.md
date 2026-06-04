@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: グデ語
     auto: true
+  - translation_iso: spa
+    name: Idioma gude
   - translation_iso: zho
     name: 古德语
     auto: true

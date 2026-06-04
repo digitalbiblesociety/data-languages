@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ギニャンガ語
     auto: true
+  - translation_iso: spa
+    name: ginyanga
   - translation_iso: zho
     name: 金亚加语
     auto: true

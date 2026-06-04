@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラビア語ヒジャーズ方言
+  - translation_iso: spa
+    name: Árabe hiyazí
   - translation_iso: zho
     name: 漢志阿拉伯語
 rolv_dialects:

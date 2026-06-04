@@ -24,6 +24,8 @@ translations:
     name: マーハーラーシュトリー
   - translation_iso: kor
     name: 마하라슈트리 프라크리트
+  - translation_iso: spa
+    name: Prácrito maharashtri
   - translation_iso: zho
     name: 马哈拉施特拉俗语
 ---

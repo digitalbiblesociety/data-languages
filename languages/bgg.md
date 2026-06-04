@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ブグン語
     auto: true
+  - translation_iso: spa
+    name: bugun
   - translation_iso: zho
     name: 布贡语
 rolv_dialects:

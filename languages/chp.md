@@ -24,6 +24,8 @@ translations:
     name: チペワイアン語
   - translation_iso: kor
     name: 치퍼와이언어
+  - translation_iso: spa
+    name: idioma dene suliné
   - translation_iso: zho
     name: 奇帕维安语
 rolv_dialects:

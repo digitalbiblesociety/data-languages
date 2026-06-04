@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ナガルチャル語
     auto: true
+  - translation_iso: spa
+    name: nagarchal
   - translation_iso: zho
     name: 纳加尔恰尔语
     auto: true

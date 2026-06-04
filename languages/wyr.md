@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワイロ語
     auto: true
+  - translation_iso: spa
+    name: Huayoró
   - translation_iso: zho
     name: 瓦约罗语
     auto: true

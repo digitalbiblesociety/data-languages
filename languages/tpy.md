@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: トゥルマイ語
     auto: true
+  - translation_iso: spa
+    name: idioma trumaí
   - translation_iso: zho
     name: 特鲁迈语
     auto: true

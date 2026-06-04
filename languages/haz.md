@@ -24,6 +24,8 @@ translations:
     name: ハザラギ語
   - translation_iso: kor
     name: 하자라어
+  - translation_iso: spa
+    name: Idioma hazara
   - translation_iso: zho
     name: 哈扎拉吉語
 ---

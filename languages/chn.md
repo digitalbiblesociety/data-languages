@@ -24,6 +24,8 @@ translations:
     name: チヌーク・ジャーゴン
   - translation_iso: kor
     name: 치누크 자곤
+  - translation_iso: spa
+    name: jerga chinuk
   - translation_iso: zho
     name: 奇努克混合语
 ---

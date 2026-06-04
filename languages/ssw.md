@@ -24,6 +24,8 @@ translations:
     name: スワジ語
   - translation_iso: kor
     name: 스와티어
+  - translation_iso: spa
+    name: suazi
   - translation_iso: zho
     name: 斯瓦蒂语
 rolv_dialects:

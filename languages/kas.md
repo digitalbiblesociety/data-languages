@@ -24,6 +24,8 @@ translations:
     name: カシミール語
   - translation_iso: kor
     name: 카슈미르어
+  - translation_iso: spa
+    name: cachemir
   - translation_iso: zho
     name: 克什米尔语
 rolv_dialects:

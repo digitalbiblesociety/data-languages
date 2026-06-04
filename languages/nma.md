@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: マラム・ナガ語
     auto: true
+  - translation_iso: spa
+    name: maram
   - translation_iso: zho
     name: 玛拉姆纳加语
     auto: true

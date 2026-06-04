@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ンドゥム語
     auto: true
+  - translation_iso: spa
+    name: ndumu
   - translation_iso: zho
     name: 恩杜姆语
     auto: true

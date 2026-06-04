@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: パイテ・チン語
     auto: true
+  - translation_iso: spa
+    name: chin paite
   - translation_iso: zho
     name: 派特钦语
     auto: true

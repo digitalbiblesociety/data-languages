@@ -24,6 +24,8 @@ translations:
     name: キルギス語
   - translation_iso: kor
     name: 키르기스어
+  - translation_iso: spa
+    name: kirguís
   - translation_iso: zho
     name: 柯尔克孜语
 rolv_dialects:

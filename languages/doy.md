@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ドンポ語
     auto: true
+  - translation_iso: spa
+    name: dompo
   - translation_iso: zho
     name: 多姆波语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: オセージ語
   - translation_iso: kor
     name: 오세이지어
+  - translation_iso: spa
+    name: Lengua osage
   - translation_iso: zho
     name: 奥沙格语
 ---

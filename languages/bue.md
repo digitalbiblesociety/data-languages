@@ -22,6 +22,8 @@ translations:
     name: ベオスック語
   - translation_iso: kor
     name: 베오투크어
+  - translation_iso: spa
+    name: beothuk
   - translation_iso: zho
     name: 贝奥图克语
 ---

@@ -19,6 +19,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チマリコ語
+  - translation_iso: spa
+    name: Chimariko
   - translation_iso: zho
     name: 齊瑪利科語
 ---

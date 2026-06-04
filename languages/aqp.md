@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アタカパ語
+  - translation_iso: spa
+    name: Idioma atakapa
   - translation_iso: zho
     name: 阿塔卡帕语
     auto: true

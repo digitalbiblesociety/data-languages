@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: キオテペク・チナンテク語
     auto: true
+  - translation_iso: spa
+    name: chinanteca de Quiotepec
   - translation_iso: zho
     name: 基奥特佩克奇南特克语
     auto: true

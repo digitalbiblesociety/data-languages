@@ -25,6 +25,8 @@ translations:
     name: ツォツィル語
   - translation_iso: kor
     name: 초칠어
+  - translation_iso: spa
+    name: tsotsil
   - translation_iso: zho
     name: 索西语
 rolv_dialects:

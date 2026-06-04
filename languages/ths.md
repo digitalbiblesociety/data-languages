@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タカリ語
     auto: true
+  - translation_iso: spa
+    name: thakali
   - translation_iso: zho
     name: 塔卡利语
 rolv_dialects:

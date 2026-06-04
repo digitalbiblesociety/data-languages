@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アレ語
+  - translation_iso: spa
+    name: are
   - translation_iso: zho
     name: 阿雷语
     auto: true

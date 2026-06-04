@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: テキステペックポプロッカ語
     auto: true
+  - translation_iso: spa
+    name: Idioma popoluca (Texistepec)
   - translation_iso: zho
     name: 特克西斯特佩克波波卢卡语
     auto: true

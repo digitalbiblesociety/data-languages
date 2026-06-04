@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スバ語
+  - translation_iso: spa
+    name: Idioma suba
   - translation_iso: zho
     name: 苏巴语
     auto: true

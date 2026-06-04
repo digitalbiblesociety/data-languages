@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シェヌア語
+  - translation_iso: spa
+    name: Idioma Shenwa
   - translation_iso: zho
     name: 切努阿语
     auto: true

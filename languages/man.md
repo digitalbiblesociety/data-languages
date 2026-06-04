@@ -18,6 +18,8 @@ translations:
     name: マンディング諸語
   - translation_iso: kor
     name: 만딩어
+  - translation_iso: spa
+    name: lenguas mandinga
   - translation_iso: zho
     name: 曼丁諸語言
 ---

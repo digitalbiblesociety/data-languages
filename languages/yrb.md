@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヤレバ語
     auto: true
+  - translation_iso: spa
+    name: yareba
   - translation_iso: zho
     name: 亚雷巴语
     auto: true

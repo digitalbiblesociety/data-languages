@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケリアカ語
+  - translation_iso: spa
+    name: ramopa
   - translation_iso: zho
     name: 拉莫帕语
     auto: true

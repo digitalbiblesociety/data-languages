@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ゼンバ語
     auto: true
+  - translation_iso: spa
+    name: Idioma zemba
   - translation_iso: zho
     name: 宗巴语
     auto: true

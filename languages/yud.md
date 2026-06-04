@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ・トリポリタニア・アラビア語
+  - translation_iso: spa
+    name: árabe judeo-tripolitano
   - translation_iso: zho
     name: 猶太-的黎波里阿拉伯語
 ---

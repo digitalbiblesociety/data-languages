@@ -25,6 +25,8 @@ translations:
     name: プイ語
   - translation_iso: kor
     name: 부이어
+  - translation_iso: spa
+    name: Idioma buyei
   - translation_iso: zho
     name: 布依语
 rolv_dialects:

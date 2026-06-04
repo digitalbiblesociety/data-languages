@@ -26,6 +26,8 @@ translations:
     name: マファ語
   - translation_iso: kor
     name: 마파어
+  - translation_iso: spa
+    name: mafa
   - translation_iso: zho
     name: 马法语
 rolv_dialects:

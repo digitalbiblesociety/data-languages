@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムルレ語
+  - translation_iso: spa
+    name: Idioma murle
   - translation_iso: zho
     name: 穆爾語
 rolv_dialects:

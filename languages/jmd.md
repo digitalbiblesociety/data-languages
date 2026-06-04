@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤムデナ語
+  - translation_iso: spa
+    name: Yamdena
   - translation_iso: zho
     name: 扬德纳语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サルバドル手話
+  - translation_iso: spa
+    name: lengua de señas salvadoreñas
   - translation_iso: zho
     name: 萨尔瓦多手语
     auto: true

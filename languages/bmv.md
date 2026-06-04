@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ブム語
     auto: true
+  - translation_iso: spa
+    name: bum
   - translation_iso: zho
     name: 布姆语
     auto: true

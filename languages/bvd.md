@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バエッグ語
     auto: true
+  - translation_iso: spa
+    name: Baeggu
   - translation_iso: zho
     name: 拜古语
     auto: true

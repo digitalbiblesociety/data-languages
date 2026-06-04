@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バノニ語
+  - translation_iso: spa
+    name: Bannoni
   - translation_iso: zho
     name: 邦诺尼语
     auto: true

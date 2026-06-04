@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャングボ語
+  - translation_iso: spa
+    name: Nyangbo
   - translation_iso: zho
     name: 尼昂博语
     auto: true

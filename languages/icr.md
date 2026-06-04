@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アイランダー・クレオール・イングリッシュ語
     auto: true
+  - translation_iso: spa
+    name: Criollo sanandresano
   - translation_iso: zho
     name: 聖安德烈斯-普羅維登西亞克里奧爾語
 ---

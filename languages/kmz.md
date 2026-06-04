@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホラサン・トルコ語
+  - translation_iso: spa
+    name: Idioma turco de Jorasán
   - translation_iso: zho
     name: 呼羅珊突厥語
 rolv_dialects:

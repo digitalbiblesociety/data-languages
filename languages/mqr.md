@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: マンデル語
     auto: true
+  - translation_iso: spa
+    name: mander
   - translation_iso: zho
     name: 曼德语
     auto: true

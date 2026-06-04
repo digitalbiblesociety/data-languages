@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ホル語
     auto: true
+  - translation_iso: spa
+    name: Idioma holu
   - translation_iso: zho
     name: 霍卢语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カマヨ語
     auto: true
+  - translation_iso: spa
+    name: Idioma kamayo
   - translation_iso: zho
     name: 卡马约语
     auto: true

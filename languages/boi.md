@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バルバレーニョ語
     auto: true
+  - translation_iso: spa
+    name: barbareño
   - translation_iso: zho
     name: 巴尔巴雷尼奥语
     auto: true

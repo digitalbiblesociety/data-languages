@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タタルテペク・チャティーノ語
     auto: true
+  - translation_iso: spa
+    name: chatino de Tataltepec
   - translation_iso: zho
     name: 塔塔尔特佩克查蒂诺语
     auto: true

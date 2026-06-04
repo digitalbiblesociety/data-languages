@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ホリカチャク語
     auto: true
+  - translation_iso: spa
+    name: holikachuk
   - translation_iso: zho
     name: 霍利卡楚克語
 ---

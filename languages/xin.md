@@ -20,6 +20,8 @@ translations:
     name: シンカ語
   - translation_iso: kor
     name: 싱카어족
+  - translation_iso: spa
+    name: Lenguas xincas
   - translation_iso: zho
     name: 辛卡语
     auto: true

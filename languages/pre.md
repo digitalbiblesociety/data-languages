@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プリンシペ・クレオール語
+  - translation_iso: spa
+    name: Criollo principense
   - translation_iso: zho
     name: 普林西比语
 ---

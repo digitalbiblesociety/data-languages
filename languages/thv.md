@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タハガルト・タマハック語
+  - translation_iso: spa
+    name: Idioma tamahaq
   - translation_iso: zho
     name: 塔哈加特塔玛哈克语
     auto: true

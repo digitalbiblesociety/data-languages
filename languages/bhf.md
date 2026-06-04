@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブサ語
+  - translation_iso: spa
+    name: Idioma busa
   - translation_iso: zho
     name: 布萨语
 ---

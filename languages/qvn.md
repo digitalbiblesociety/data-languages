@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 北フニン語
     auto: true
+  - translation_iso: spa
+    name: Quechua del norte de Junín
   - translation_iso: zho
     name: 北胡宁克丘亚语
     auto: true

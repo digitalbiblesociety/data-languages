@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: タナメラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma sumeri
   - translation_iso: zho
     name: 塔纳梅拉语
     auto: true

@@ -26,6 +26,8 @@ translations:
     name: リス語
   - translation_iso: kor
     name: 리수어
+  - translation_iso: spa
+    name: idioma lisu
   - translation_iso: zho
     name: 傈僳语
 rolv_dialects:

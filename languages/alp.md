@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アルネ語
     auto: true
+  - translation_iso: spa
+    name: Alune
   - translation_iso: zho
     name: 阿卢内语
     auto: true

@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: グー語
     auto: true
+  - translation_iso: spa
+    name: goo
   - translation_iso: zho
     name: 古语
     auto: true

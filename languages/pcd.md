@@ -25,6 +25,8 @@ translations:
     name: ピカルディ語
   - translation_iso: kor
     name: 피카르디어
+  - translation_iso: spa
+    name: picardo
   - translation_iso: zho
     name: 皮卡第语
 rolv_dialects:

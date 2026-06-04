@@ -24,6 +24,8 @@ translations:
     name: ガヨ語
   - translation_iso: kor
     name: 가요어
+  - translation_iso: spa
+    name: gayo
   - translation_iso: zho
     name: 加约语
 rolv_dialects:

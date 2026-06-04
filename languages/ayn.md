@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: サナーニ・アラビア語
     auto: true
+  - translation_iso: spa
+    name: "Árabe san'ani"
   - translation_iso: zho
     name: 薩那阿拉伯語
 ---

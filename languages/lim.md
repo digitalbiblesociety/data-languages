@@ -24,6 +24,8 @@ translations:
     name: リンブルフ語
   - translation_iso: kor
     name: 림뷔르흐어
+  - translation_iso: spa
+    name: limburgués
   - translation_iso: zho
     name: 林堡语
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ディディンガ語
     auto: true
+  - translation_iso: spa
+    name: Idioma didinga
   - translation_iso: zho
     name: 迪丁加语
     auto: true

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラビア語ドファール方言
+  - translation_iso: spa
+    name: Árabe dhofarí
   - translation_iso: zho
     name: 佐法爾阿拉伯語
 ---

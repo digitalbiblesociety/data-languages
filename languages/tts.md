@@ -26,6 +26,8 @@ translations:
     name: イーサーン語
   - translation_iso: kor
     name: 이산어
+  - translation_iso: spa
+    name: lao tailandés
   - translation_iso: zho
     name: 伊善语
 rolv_dialects:

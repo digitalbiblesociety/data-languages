@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルヴァニティカ方言
+  - translation_iso: spa
+    name: arvanítico
   - translation_iso: zho
     name: 阿尔瓦尼蒂卡语
 rolv_dialects:

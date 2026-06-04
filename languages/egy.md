@@ -24,6 +24,8 @@ translations:
     name: エジプト語
   - translation_iso: kor
     name: 이집트어
+  - translation_iso: spa
+    name: egipcio
   - translation_iso: zho
     name: 埃及語
 ---

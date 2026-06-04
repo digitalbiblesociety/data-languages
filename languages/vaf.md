@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヴァフスィ語
     auto: true
+  - translation_iso: spa
+    name: vafsí
   - translation_iso: zho
     name: 瓦夫西语
     auto: true

@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウラリナ語
+  - translation_iso: spa
+    name: urarina
   - translation_iso: zho
     name: 乌拉里纳语
     auto: true

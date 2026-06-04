@@ -24,6 +24,8 @@ translations:
     name: シデ語
   - translation_iso: kor
     name: 시데어
+  - translation_iso: spa
+    name: Idioma sidético
   - translation_iso: zho
     name: 西德蒂克语
     auto: true

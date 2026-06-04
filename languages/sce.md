@@ -25,6 +25,8 @@ translations:
     name: サンタ語
   - translation_iso: kor
     name: 둥샹어
+  - translation_iso: spa
+    name: santa
   - translation_iso: zho
     name: 东乡语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
     name: ジョージア語
   - translation_iso: kor
     name: 조지아어
+  - translation_iso: spa
+    name: georgiano
   - translation_iso: zho
     name: 格鲁吉亚语
 rolv_dialects:

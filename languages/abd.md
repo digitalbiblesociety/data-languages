@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マニデ語
     auto: true
+  - translation_iso: spa
+    name: agta de Camarines Norte
   - translation_iso: zho
     name: 曼尼德語
 ---

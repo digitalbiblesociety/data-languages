@@ -24,6 +24,8 @@ translations:
     name: ドグリブ語
   - translation_iso: kor
     name: 도그리브어
+  - translation_iso: spa
+    name: dogrib
   - translation_iso: zho
     name: 多格里布语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: テミ語
     auto: true
+  - translation_iso: spa
+    name: sonjo
   - translation_iso: zho
     name: 特米语
     auto: true

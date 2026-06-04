@@ -18,6 +18,8 @@ translations:
     name: 中世フランス語
   - translation_iso: kor
     name: 중세 프랑스어
+  - translation_iso: spa
+    name: francés medio
   - translation_iso: zho
     name: 中古法語
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ピッタピッタ語
     auto: true
+  - translation_iso: spa
+    name: Idioma Pitta Pitta
   - translation_iso: zho
     name: 皮塔皮塔语
     auto: true

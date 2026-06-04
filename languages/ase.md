@@ -23,6 +23,8 @@ translations:
     name: アメリカ手話
   - translation_iso: kor
     name: 미국 수어
+  - translation_iso: spa
+    name: lengua de señas estadounidense
   - translation_iso: zho
     name: 美國手語
 rolv_dialects:

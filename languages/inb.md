@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: インガ語
     auto: true
+  - translation_iso: spa
+    name: quichua inga
   - translation_iso: zho
     name: 因加语
     auto: true

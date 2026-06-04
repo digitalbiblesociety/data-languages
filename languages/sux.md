@@ -20,6 +20,8 @@ translations:
     name: シュメール語
   - translation_iso: kor
     name: 수메르어
+  - translation_iso: spa
+    name: sumerio
   - translation_iso: zho
     name: 苏美尔语
 ---

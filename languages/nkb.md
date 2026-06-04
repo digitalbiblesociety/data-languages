@@ -22,6 +22,8 @@ translations:
     name: खोइबु
   - translation_iso: jpn
     name: コイブー
+  - translation_iso: spa
+    name: Khoibu
   - translation_iso: zho
     name: 科伊布纳加语
     auto: true

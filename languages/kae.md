@@ -25,6 +25,8 @@ translations:
     name: ケタガラン語
   - translation_iso: kor
     name: 케타가란어
+  - translation_iso: spa
+    name: Luilang
   - translation_iso: zho
     name: 凱達格蘭語
 ---

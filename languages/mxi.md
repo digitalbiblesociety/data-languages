@@ -23,6 +23,8 @@ translations:
     name: モサラベ語
   - translation_iso: kor
     name: 모사라베어
+  - translation_iso: spa
+    name: mozárabe
   - translation_iso: zho
     name: 莫扎拉布语
 ---

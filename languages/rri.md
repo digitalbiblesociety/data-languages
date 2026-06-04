@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: リリオ語
     auto: true
+  - translation_iso: spa
+    name: Ririo
   - translation_iso: zho
     name: 里里奥语
     auto: true

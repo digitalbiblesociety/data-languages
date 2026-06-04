@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ユキ語
     auto: true
+  - translation_iso: spa
+    name: Yuqui (idioma)
   - translation_iso: zho
     name: 尤基语
     auto: true

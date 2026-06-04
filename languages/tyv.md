@@ -24,6 +24,8 @@ translations:
     name: トゥヴァ語
   - translation_iso: kor
     name: 투바어
+  - translation_iso: spa
+    name: idioma tuvano
   - translation_iso: zho
     name: 图瓦语
 rolv_dialects:

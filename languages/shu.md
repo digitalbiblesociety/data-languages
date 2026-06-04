@@ -24,6 +24,8 @@ translations:
     name: アラビア語チャド方言
   - translation_iso: kor
     name: 차드 아랍어
+  - translation_iso: spa
+    name: árabe chadiano
   - translation_iso: zho
     name: 乍得阿拉伯語
 rolv_dialects:

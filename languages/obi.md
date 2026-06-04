@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オビスペーニョ語
     auto: true
+  - translation_iso: spa
+    name: Obispeño
   - translation_iso: zho
     name: 奥比斯佩尼奥语
     auto: true

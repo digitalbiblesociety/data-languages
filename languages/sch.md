@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ケルマ語
     auto: true
+  - translation_iso: spa
+    name: idioma khelma
   - translation_iso: zho
     name: 萨卡切普语
     auto: true

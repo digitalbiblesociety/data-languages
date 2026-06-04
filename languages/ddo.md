@@ -25,6 +25,8 @@ translations:
     name: ツェズ語
   - translation_iso: kor
     name: 체즈어
+  - translation_iso: spa
+    name: Idioma tsez
   - translation_iso: zho
     name: 切兹语
 rolv_dialects:

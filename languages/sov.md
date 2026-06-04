@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソンソロール語
+  - translation_iso: spa
+    name: sonsorol
   - translation_iso: zho
     name: 松索羅爾語
 rolv_dialects:

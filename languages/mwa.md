@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ムワテブ語
     auto: true
+  - translation_iso: spa
+    name: mwatebu
   - translation_iso: zho
     name: 姆瓦特布语
     auto: true

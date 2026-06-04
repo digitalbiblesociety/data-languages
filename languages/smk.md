@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボリナオ語
+  - translation_iso: spa
+    name: idioma bolínao
   - translation_iso: zho
     name: 博利瑙语
     auto: true

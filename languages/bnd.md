@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バンダ・マルク語
     auto: true
+  - translation_iso: spa
+    name: Banda
   - translation_iso: zho
     name: 班达马鲁库语
     auto: true

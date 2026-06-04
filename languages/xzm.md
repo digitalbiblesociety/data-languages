@@ -18,6 +18,8 @@ translations:
     name: セミガリア語
   - translation_iso: kor
     name: 세미갈리아어
+  - translation_iso: spa
+    name: semigalio
   - translation_iso: zho
     name: 泽姆加利亚语
     auto: true

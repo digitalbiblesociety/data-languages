@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マットレ語
     auto: true
+  - translation_iso: spa
+    name: mattole
   - translation_iso: zho
     name: 馬投爾語
 ---

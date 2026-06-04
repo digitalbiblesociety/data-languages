@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タナナ語
+  - translation_iso: spa
+    name: bajo tanana
   - translation_iso: zho
     name: 下塔納納語
 rolv_dialects:

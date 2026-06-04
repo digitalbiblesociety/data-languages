@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: バハサセルア語
     auto: true
+  - translation_iso: spa
+    name: Serua
   - translation_iso: zho
     name: 塞鲁阿语
     auto: true

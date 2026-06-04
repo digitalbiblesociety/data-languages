@@ -24,6 +24,8 @@ translations:
     name: エブラ語
   - translation_iso: kor
     name: 에블라어
+  - translation_iso: spa
+    name: Idioma eblaíta
   - translation_iso: zho
     name: 埃博拉语
 ---

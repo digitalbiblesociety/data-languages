@@ -24,6 +24,8 @@ translations:
     name: バルティー語
   - translation_iso: kor
     name: 발티어
+  - translation_iso: spa
+    name: Idioma balti
   - translation_iso: zho
     name: 巴尔蒂语
 ---

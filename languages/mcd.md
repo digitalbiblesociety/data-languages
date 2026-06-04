@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: シャラナウア語
     auto: true
+  - translation_iso: spa
+    name: sharanahua
   - translation_iso: zho
     name: 沙拉那瓦语
     auto: true

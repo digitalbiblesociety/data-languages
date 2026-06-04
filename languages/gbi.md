@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガレラ語
+  - translation_iso: spa
+    name: Galela
   - translation_iso: zho
     name: 加莱拉语
     auto: true

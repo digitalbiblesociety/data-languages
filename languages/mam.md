@@ -25,6 +25,8 @@ translations:
     name: マム語
   - translation_iso: kor
     name: 맘어
+  - translation_iso: spa
+    name: mam
   - translation_iso: zho
     name: 马姆语
 rolv_dialects:

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラビア語シフフ方言
+  - translation_iso: spa
+    name: Árabe chíji
   - translation_iso: zho
     name: 希赫阿拉伯語
 ---

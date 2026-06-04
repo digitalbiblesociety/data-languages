@@ -24,6 +24,8 @@ translations:
     name: サンゴ語
   - translation_iso: kor
     name: 상고어
+  - translation_iso: spa
+    name: idioma sango
   - translation_iso: zho
     name: 桑戈语
 rolv_dialects:

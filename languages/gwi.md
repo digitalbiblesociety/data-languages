@@ -24,6 +24,8 @@ translations:
     name: グウィッチン語
   - translation_iso: kor
     name: 그위친어
+  - translation_iso: spa
+    name: "idioma gwich'in"
   - translation_iso: zho
     name: 哥威迅语
 rolv_dialects:

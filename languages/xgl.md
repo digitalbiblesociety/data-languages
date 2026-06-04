@@ -18,6 +18,8 @@ translations:
     name: ガリンディア語
   - translation_iso: kor
     name: 갈린디아어
+  - translation_iso: spa
+    name: galíndico
   - translation_iso: zho
     name: 加林丹语
     auto: true

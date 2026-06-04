@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プノ・ケチュア語
+  - translation_iso: spa
+    name: quechua puneño
   - translation_iso: zho
     name: 普诺克丘亚语
     auto: true

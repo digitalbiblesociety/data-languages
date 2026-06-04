@@ -24,6 +24,8 @@ translations:
     name: ナバホ語
   - translation_iso: kor
     name: 나바호어
+  - translation_iso: spa
+    name: navajo
   - translation_iso: zho
     name: 納瓦荷語
 ---

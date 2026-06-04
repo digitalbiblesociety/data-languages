@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北西アラスカ・イヌピアツン語
+  - translation_iso: spa
+    name: inuit de la Península Seward
   - translation_iso: zho
     name: 西北阿拉斯加因纽皮亚特语
     auto: true

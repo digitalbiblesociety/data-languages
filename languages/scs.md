@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北スレイビー語
+  - translation_iso: spa
+    name: slave septentrional
   - translation_iso: zho
     name: 北方奴隶语
     auto: true

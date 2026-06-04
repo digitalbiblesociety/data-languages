@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブビ語
+  - translation_iso: spa
+    name: bubi
   - translation_iso: zho
     name: 布比語
 rolv_dialects:

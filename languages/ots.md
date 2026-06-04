@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: メキシコ州オトミ語
     auto: true
+  - translation_iso: spa
+    name: otomí del Estado de México
   - translation_iso: zho
     name: 墨西哥州奥托米语
     auto: true

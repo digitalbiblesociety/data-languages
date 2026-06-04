@@ -24,6 +24,8 @@ translations:
     name: ハイチ語
   - translation_iso: kor
     name: 아이티 크리올어
+  - translation_iso: spa
+    name: criollo haitiano
   - translation_iso: zho
     name: 海地克里奥尔语
 rolv_dialects:

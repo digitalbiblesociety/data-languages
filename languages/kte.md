@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ヌブリ語
     auto: true
+  - translation_iso: spa
+    name: Nubri
   - translation_iso: zho
     name: 努布里语
     auto: true

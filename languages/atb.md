@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 載瓦語
+  - translation_iso: spa
+    name: zaiwa
   - translation_iso: zho
     name: 载瓦语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニバクレ語
+  - translation_iso: spa
+    name: Idioma nivaclé
   - translation_iso: zho
     name: 尼瓦克莱语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
     name: アラビア語レバント方言
   - translation_iso: kor
     name: 레반트 아랍어
+  - translation_iso: spa
+    name: árabe levantino
   - translation_iso: zho
     name: 黎凡特阿拉伯語
 rolv_dialects:

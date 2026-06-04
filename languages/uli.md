@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウリシ語
+  - translation_iso: spa
+    name: Idioma ulithiano
   - translation_iso: zho
     name: 乌利提安语
     auto: true

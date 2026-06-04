@@ -25,6 +25,8 @@ translations:
     name: ハンティ語
   - translation_iso: kor
     name: 한티어
+  - translation_iso: spa
+    name: janti
   - translation_iso: zho
     name: 汉特语
 rolv_dialects:

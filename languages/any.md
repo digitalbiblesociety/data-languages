@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アニ語
+  - translation_iso: spa
+    name: anyi
   - translation_iso: zho
     name: 安伊语
     auto: true

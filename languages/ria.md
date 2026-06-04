@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: リアン（インド）語
     auto: true
+  - translation_iso: spa
+    name: idioma riang
   - translation_iso: zho
     name: 里昂语(印度)
     auto: true

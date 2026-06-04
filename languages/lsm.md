@@ -23,6 +23,8 @@ translations:
     name: サアミア語
   - translation_iso: kor
     name: 사미아어
+  - translation_iso: spa
+    name: samia
   - translation_iso: zho
     name: 萨米亚语
 rolv_dialects:

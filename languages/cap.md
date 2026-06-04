@@ -25,6 +25,8 @@ translations:
     name: チパヤ語
   - translation_iso: kor
     name: 치파야어
+  - translation_iso: spa
+    name: chipaya
   - translation_iso: zho
     name: 奇巴亚语
 ---

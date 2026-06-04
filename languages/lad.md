@@ -24,6 +24,8 @@ translations:
     name: ラディーノ語
   - translation_iso: kor
     name: 라디노어
+  - translation_iso: spa
+    name: idioma judeoespañol
   - translation_iso: zho
     name: 拉迪諾語
 rolv_dialects:

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モドレ語
+  - translation_iso: spa
+    name: Modole
   - translation_iso: zho
     name: 莫多莱语
     auto: true

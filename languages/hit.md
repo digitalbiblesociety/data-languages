@@ -24,6 +24,8 @@ translations:
     name: ヒッタイト語
   - translation_iso: kor
     name: 히타이트어
+  - translation_iso: spa
+    name: hitita
   - translation_iso: zho
     name: 赫梯語
 ---

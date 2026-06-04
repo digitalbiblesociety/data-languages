@@ -22,6 +22,8 @@ translations:
     name: दक्पा भाषा
   - translation_iso: jpn
     name: メンパ語
+  - translation_iso: spa
+    name: dakpa
   - translation_iso: zho
     name: 达旺门巴语
 ---

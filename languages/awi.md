@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アエキヨム語
     auto: true
+  - translation_iso: spa
+    name: Idioma aekyom
   - translation_iso: zho
     name: 埃基约姆语
     auto: true

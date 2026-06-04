@@ -25,6 +25,8 @@ translations:
     name: アルゴンキン語
   - translation_iso: kor
     name: 알곤킨어
+  - translation_iso: spa
+    name: Algonquin
   - translation_iso: zho
     name: 阿尔冈昆语
 rolv_dialects:

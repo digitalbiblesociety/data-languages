@@ -24,6 +24,8 @@ translations:
     name: ロマーニャ語
   - translation_iso: kor
     name: 로마냐어
+  - translation_iso: spa
+    name: romañol
   - translation_iso: zho
     name: 罗马涅语
 rolv_dialects:

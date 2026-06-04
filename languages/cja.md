@@ -25,6 +25,8 @@ translations:
     name: チャム語
   - translation_iso: kor
     name: 참어
+  - translation_iso: spa
+    name: idioma cham
   - translation_iso: zho
     name: 占语
 ---

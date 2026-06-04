@@ -24,6 +24,8 @@ translations:
     name: ベンバ語
   - translation_iso: kor
     name: 벰바어
+  - translation_iso: spa
+    name: bemba
   - translation_iso: zho
     name: 本巴语
 rolv_dialects:

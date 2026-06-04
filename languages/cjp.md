@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カベカル語
     auto: true
+  - translation_iso: spa
+    name: idioma cabécar
   - translation_iso: zho
     name: 卡贝卡尔语
     auto: true

@@ -22,6 +22,8 @@ translations:
     name: パエス語
   - translation_iso: kor
     name: 파에스어
+  - translation_iso: spa
+    name: Idioma paez
   - translation_iso: zho
     name: 纳萨语
 rolv_dialects:

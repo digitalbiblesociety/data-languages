@@ -24,6 +24,8 @@ translations:
     name: アルメニア語
   - translation_iso: kor
     name: 아르메니아어
+  - translation_iso: spa
+    name: armenio
   - translation_iso: zho
     name: 亚美尼亚语
 rolv_dialects:

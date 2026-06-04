@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オブロ語
     auto: true
+  - translation_iso: spa
+    name: oblo
   - translation_iso: zho
     name: 奥卜洛语
     auto: true

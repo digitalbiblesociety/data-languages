@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ナサル語
     auto: true
+  - translation_iso: spa
+    name: Nasal
   - translation_iso: zho
     name: 鼻音语
     auto: true

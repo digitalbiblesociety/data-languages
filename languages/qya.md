@@ -20,6 +20,8 @@ translations:
     name: クウェンヤ
   - translation_iso: kor
     name: 꿰냐
+  - translation_iso: spa
+    name: quenya
   - translation_iso: zho
     name: 昆雅语
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: モロバラマ語
     auto: true
+  - translation_iso: spa
+    name: Idioma umbuygamu
   - translation_iso: zho
     name: 莫罗巴拉马语
     auto: true

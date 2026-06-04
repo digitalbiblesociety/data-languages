@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チョニ語
     auto: true
+  - translation_iso: spa
+    name: coni
   - translation_iso: zho
     name: 卓尼语
 rolv_dialects:

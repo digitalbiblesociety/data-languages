@@ -24,6 +24,8 @@ translations:
     name: アラビア語東部エジプト・ベダウィ方言
   - translation_iso: kor
     name: 베다위 아랍어
+  - translation_iso: spa
+    name: Árabe bedawi
   - translation_iso: zho
     name: 西北阿拉伯半島阿拉伯語
 rolv_dialects:

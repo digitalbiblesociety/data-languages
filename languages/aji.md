@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンジエ語
+  - translation_iso: spa
+    name: Idioma ajië
   - translation_iso: zho
     name: 阿吉埃语
     auto: true

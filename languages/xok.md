@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ショクレング語
     auto: true
+  - translation_iso: spa
+    name: lengua xokleng
   - translation_iso: zho
     name: 绍克伦语
     auto: true

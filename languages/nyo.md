@@ -24,6 +24,8 @@ translations:
     name: ニョロ語
   - translation_iso: kor
     name: 뉴로어
+  - translation_iso: spa
+    name: nyoro
   - translation_iso: zho
     name: 尼奥罗语
 rolv_dialects:

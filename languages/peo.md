@@ -24,6 +24,8 @@ translations:
     name: 古代ペルシア語
   - translation_iso: kor
     name: 고대 페르시아어
+  - translation_iso: spa
+    name: persa antiguo
   - translation_iso: zho
     name: 古波斯語
 ---

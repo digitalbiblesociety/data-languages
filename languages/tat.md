@@ -24,6 +24,8 @@ translations:
     name: タタール語
   - translation_iso: kor
     name: 타타르어
+  - translation_iso: spa
+    name: tártaro
   - translation_iso: zho
     name: 鞑靼语
 rolv_dialects:

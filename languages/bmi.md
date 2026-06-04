@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バギルミ語
+  - translation_iso: spa
+    name: Idioma baguirmi
   - translation_iso: zho
     name: 巴吉尔米语
     auto: true

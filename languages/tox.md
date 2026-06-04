@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トビ語
+  - translation_iso: spa
+    name: tobiano
   - translation_iso: zho
     name: 托比語
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アアサックス語
     auto: true
+  - translation_iso: spa
+    name: Aasax
   - translation_iso: zho
     name: 阿萨克斯语
     auto: true

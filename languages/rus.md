@@ -24,6 +24,8 @@ translations:
     name: ロシア語
   - translation_iso: kor
     name: 러시아어
+  - translation_iso: spa
+    name: ruso
   - translation_iso: zho
     name: 俄语
 rolv_dialects:

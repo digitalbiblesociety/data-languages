@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オマグア語
     auto: true
+  - translation_iso: spa
+    name: Omagua
   - translation_iso: zho
     name: 奥玛瓜语
     auto: true

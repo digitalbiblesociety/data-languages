@@ -24,6 +24,8 @@ translations:
     name: シレット語
   - translation_iso: kor
     name: 실헤티어
+  - translation_iso: spa
+    name: Idioma sylheti
   - translation_iso: zho
     name: 锡尔赫特语
 ---

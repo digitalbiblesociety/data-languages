@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ブル語
     auto: true
+  - translation_iso: spa
+    name: Buru
   - translation_iso: zho
     name: 布鲁语（印度尼西亚）
     auto: true

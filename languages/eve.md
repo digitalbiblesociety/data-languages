@@ -25,6 +25,8 @@ translations:
     name: エヴェン語
   - translation_iso: kor
     name: 에벤어
+  - translation_iso: spa
+    name: even
   - translation_iso: zho
     name: 鄂温语
 rolv_dialects:

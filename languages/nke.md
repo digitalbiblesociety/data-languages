@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: デューク語
     auto: true
+  - translation_iso: spa
+    name: Nduke
   - translation_iso: zho
     name: 杜克语
     auto: true

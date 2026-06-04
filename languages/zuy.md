@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ズマヤ語
     auto: true
+  - translation_iso: spa
+    name: Idioma zumaya
   - translation_iso: zho
     name: 祖玛亚语
     auto: true

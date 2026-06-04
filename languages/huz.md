@@ -25,6 +25,8 @@ translations:
     name: フンズィブ語
   - translation_iso: kor
     name: 훈지브어
+  - translation_iso: spa
+    name: Hunzib
   - translation_iso: zho
     name: 洪兹布语
 ---

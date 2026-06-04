@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユクナ語
+  - translation_iso: spa
+    name: yucuna
   - translation_iso: zho
     name: 尤库纳语
     auto: true

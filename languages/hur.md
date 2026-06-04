@@ -24,6 +24,8 @@ translations:
     name: ハルコメレム語
   - translation_iso: kor
     name: 할코멜렘어
+  - translation_iso: spa
+    name: halkomelem
   - translation_iso: zho
     name: 哈爾魁梅林語
 rolv_dialects:

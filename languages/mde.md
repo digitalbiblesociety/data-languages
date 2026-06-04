@@ -24,6 +24,8 @@ translations:
     name: マバ語
   - translation_iso: kor
     name: 마바어
+  - translation_iso: spa
+    name: maba
   - translation_iso: zho
     name: 马坝语
 rolv_dialects:

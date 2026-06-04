@@ -17,6 +17,8 @@ translations:
     name: 線文字A
   - translation_iso: kor
     name: 선형문자 A
+  - translation_iso: spa
+    name: lineal A
   - translation_iso: zho
     name: 线形文字A
 ---

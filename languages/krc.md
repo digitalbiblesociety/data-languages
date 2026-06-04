@@ -24,6 +24,8 @@ translations:
     name: カラチャイ・バルカル語
   - translation_iso: kor
     name: 카라차이발카르어
+  - translation_iso: spa
+    name: idioma karachái-bálkaro
   - translation_iso: zho
     name: 卡拉恰伊－巴尔卡尔语
 ---

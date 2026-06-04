@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウィチタ語
     auto: true
+  - translation_iso: spa
+    name: Wichita
   - translation_iso: zho
     name: 威奇塔語
 ---

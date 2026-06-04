@@ -25,6 +25,8 @@ translations:
     name: レプチャ語
   - translation_iso: kor
     name: 렙차어
+  - translation_iso: spa
+    name: idioma lepcha
   - translation_iso: zho
     name: 绒巴语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カスカ語
     auto: true
+  - translation_iso: spa
+    name: kaska
   - translation_iso: zho
     name: 卡斯卡语
     auto: true

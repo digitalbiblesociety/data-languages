@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムリレ語
     auto: true
+  - translation_iso: spa
+    name: bocotas
   - translation_iso: zho
     name: 布格莱雷语
     auto: true

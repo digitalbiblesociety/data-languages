@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤキ語
+  - translation_iso: spa
+    name: yaqui
   - translation_iso: zho
     name: 亚基语
     auto: true

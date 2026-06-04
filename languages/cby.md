@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カラバヨ語
     auto: true
+  - translation_iso: spa
+    name: Idioma carabayo
   - translation_iso: zho
     name: 卡拉巴约语
     auto: true

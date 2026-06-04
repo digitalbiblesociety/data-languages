@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ソロテプティック語
     auto: true
+  - translation_iso: spa
+    name: sorotáptico
   - translation_iso: zho
     name: 索罗萨普蒂克语
     auto: true

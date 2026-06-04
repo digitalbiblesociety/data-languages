@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ケチュア語
+  - translation_iso: spa
+    name: lengua general quechua
   - translation_iso: zho
     name: 古典克丘亚语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アク語
     auto: true
+  - translation_iso: spa
+    name: ak
   - translation_iso: zho
     name: 阿克语
     auto: true

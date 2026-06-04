@@ -18,6 +18,8 @@ translations:
   - translation_iso: jpn
     name: イル語
     auto: true
+  - translation_iso: spa
+    name: Idioma ir
   - translation_iso: zho
     name: 伊尔语
     auto: true

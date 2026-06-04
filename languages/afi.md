@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アクルカイ語
     auto: true
+  - translation_iso: spa
+    name: akrukay
   - translation_iso: zho
     name: 阿克鲁凯语
     auto: true

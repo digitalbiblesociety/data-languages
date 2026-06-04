@@ -24,6 +24,8 @@ translations:
     name: コルシカ語
   - translation_iso: kor
     name: 코르시카어
+  - translation_iso: spa
+    name: corso
   - translation_iso: zho
     name: 科西嘉语
 rolv_dialects:

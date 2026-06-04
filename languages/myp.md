@@ -22,6 +22,8 @@ translations:
     name: ピダハン語
   - translation_iso: kor
     name: 피라항어
+  - translation_iso: spa
+    name: idioma pirahã
   - translation_iso: zho
     name: 皮拉罕語
 ---

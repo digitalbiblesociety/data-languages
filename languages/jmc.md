@@ -23,6 +23,8 @@ translations:
     name: マチャメ語
   - translation_iso: kor
     name: 마차메어
+  - translation_iso: spa
+    name: machame
   - translation_iso: zho
     name: 马切姆语
 rolv_dialects:

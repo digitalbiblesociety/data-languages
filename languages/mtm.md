@@ -25,6 +25,8 @@ translations:
     name: マトル語
   - translation_iso: kor
     name: 마토르어
+  - translation_iso: spa
+    name: mator
   - translation_iso: zho
     name: 馬托爾語
 rolv_dialects:

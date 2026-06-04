@@ -24,6 +24,8 @@ translations:
     name: ムブンドゥ語
   - translation_iso: kor
     name: 움분두어
+  - translation_iso: spa
+    name: Idioma umbundu
   - translation_iso: zho
     name: 南姆本杜語
 rolv_dialects:

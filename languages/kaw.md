@@ -24,6 +24,8 @@ translations:
     name: カウィ語
   - translation_iso: kor
     name: 카위어
+  - translation_iso: spa
+    name: kawi
   - translation_iso: zho
     name: 古爪哇语
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: セルマ語
     auto: true
+  - translation_iso: spa
+    name: cerma
   - translation_iso: zho
     name: 塞尔玛语
     auto: true

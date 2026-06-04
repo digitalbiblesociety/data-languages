@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 地中海共通語
+  - translation_iso: spa
+    name: sabir
   - translation_iso: zho
     name: 地中海通用語
 ---

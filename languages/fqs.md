@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ファス語
     auto: true
+  - translation_iso: spa
+    name: fas
   - translation_iso: zho
     name: 法斯语
 rolv_dialects:

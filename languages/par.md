@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティンビシャ語
+  - translation_iso: spa
+    name: timbisha
   - translation_iso: zho
     name: 帕那敏特语
     auto: true

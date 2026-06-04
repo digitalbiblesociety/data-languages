@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아카제루 방언
+  - translation_iso: spa
+    name: Idioma jeru
   - translation_iso: zho
     name: （Aka-）Jeru
 ---

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダガリ語
+  - translation_iso: spa
+    name: Idioma dagaare
   - translation_iso: zho
     name: 達加雷語
 rolv_dialects:

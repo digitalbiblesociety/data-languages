@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 上部タナナ語
     auto: true
+  - translation_iso: spa
+    name: nabesna
   - translation_iso: zho
     name: 上塔納納語言
 rolv_dialects:

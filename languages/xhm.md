@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: 中クメール語
     auto: true
+  - translation_iso: spa
+    name: Jemer medio
   - translation_iso: zho
     name: 中古高棉语
 ---

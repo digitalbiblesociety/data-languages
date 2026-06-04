@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: ケナティ語
     auto: true
+  - translation_iso: spa
+    name: Idioma kenati
   - translation_iso: zho
     name: 凯纳蒂语
     auto: true

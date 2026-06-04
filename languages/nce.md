@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤレ語
+  - translation_iso: spa
+    name: Idioma yalë
   - translation_iso: zho
     name: 耶鲁语
     auto: true

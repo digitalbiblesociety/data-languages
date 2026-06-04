@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ハコ語
     auto: true
+  - translation_iso: spa
+    name: Hakö
   - translation_iso: zho
     name: 哈库语
     auto: true

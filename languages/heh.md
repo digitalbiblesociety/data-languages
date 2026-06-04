@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘヘ語
+  - translation_iso: spa
+    name: Idioma hehe
   - translation_iso: zho
     name: 赫赫语
     auto: true

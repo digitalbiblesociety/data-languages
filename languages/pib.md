@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イネ語
+  - translation_iso: spa
+    name: yine
   - translation_iso: zho
     name: 皮洛語
 ---

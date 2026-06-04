@@ -24,6 +24,8 @@ translations:
     name: ツバル語
   - translation_iso: kor
     name: 투발루어
+  - translation_iso: spa
+    name: tuvaluano
   - translation_iso: zho
     name: 图瓦卢语
 rolv_dialects:

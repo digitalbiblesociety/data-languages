@@ -24,6 +24,8 @@ translations:
     name: ウォロフ語
   - translation_iso: kor
     name: 월로프어
+  - translation_iso: spa
+    name: wólof
   - translation_iso: zho
     name: 沃洛夫語
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウルアヴァ語
     auto: true
+  - translation_iso: spa
+    name: Idioma uruava
   - translation_iso: zho
     name: 乌鲁瓦语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パカンハ語
     auto: true
+  - translation_iso: spa
+    name: idioma pakanha
   - translation_iso: zho
     name: 帕卡尼亚语
     auto: true

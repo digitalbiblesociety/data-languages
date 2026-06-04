@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バアトゥヌム語
     auto: true
+  - translation_iso: spa
+    name: Idioma bariba
   - translation_iso: zho
     name: 巴阿托努姆语
     auto: true

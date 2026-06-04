@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ネレ語
     auto: true
+  - translation_iso: spa
+    name: idioma zire
   - translation_iso: zho
     name: 齐雷语
     auto: true

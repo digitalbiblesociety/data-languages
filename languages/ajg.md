@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アジャ語 (ニジェール・コンゴ語族)
+  - translation_iso: spa
+    name: Idioma aja
   - translation_iso: zho
     name: 阿扎語
 rolv_dialects:

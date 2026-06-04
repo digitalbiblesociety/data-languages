@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ニェンゴ語
     auto: true
+  - translation_iso: spa
+    name: Idioma nyengo
   - translation_iso: zho
     name: 尼恩戈语
     auto: true

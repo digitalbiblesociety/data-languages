@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: タランガン・バラト語
     auto: true
+  - translation_iso: spa
+    name: Tarangan Barat
   - translation_iso: zho
     name: 西塔兰甘语
     auto: true

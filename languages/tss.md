@@ -25,6 +25,8 @@ translations:
     name: 台湾手話
   - translation_iso: kor
     name: 대만 수화
+  - translation_iso: spa
+    name: lengua de señas taiwanesa
   - translation_iso: zho
     name: 台湾手语
 rolv_dialects:

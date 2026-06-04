@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワンガンガル語
     auto: true
+  - translation_iso: spa
+    name: idioma wangganguru
   - translation_iso: zho
     name: 瓦甘甘乌卢语
     auto: true

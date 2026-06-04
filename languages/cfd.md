@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カラ語
     auto: true
+  - translation_iso: spa
+    name: cara
   - translation_iso: zho
     name: 卡拉语
     auto: true

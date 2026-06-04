@@ -24,6 +24,8 @@ translations:
     name: ビルマ語
   - translation_iso: kor
     name: 버마어
+  - translation_iso: spa
+    name: idioma birmano
   - translation_iso: zho
     name: 缅甸语
 rolv_dialects:

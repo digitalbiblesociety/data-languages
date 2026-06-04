@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バラカイ語
     auto: true
+  - translation_iso: spa
+    name: Barakai
   - translation_iso: zho
     name: 巴拉凯语
     auto: true

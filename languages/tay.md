@@ -24,6 +24,8 @@ translations:
     name: タイヤル語
   - translation_iso: kor
     name: 타이얄어
+  - translation_iso: spa
+    name: lengua atayal
   - translation_iso: zho
     name: 泰雅语
 rolv_dialects:

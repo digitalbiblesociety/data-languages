@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: ブルメソ語
     auto: true
+  - translation_iso: spa
+    name: Idioma burmeso
   - translation_iso: zho
     name: 布尔梅索语
     auto: true

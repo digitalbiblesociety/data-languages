@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アムリ語
+  - translation_iso: spa
+    name: idioma amri
   - translation_iso: zho
     name: 阿姆里卡尔比语
     auto: true

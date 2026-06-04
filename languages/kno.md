@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コノ語
+  - translation_iso: spa
+    name: kono
   - translation_iso: zho
     name: 科诺语
     auto: true

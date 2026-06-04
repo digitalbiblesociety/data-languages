@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ザニザ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Papabuco
   - translation_iso: zho
     name: 扎尼萨萨波特克语
     auto: true

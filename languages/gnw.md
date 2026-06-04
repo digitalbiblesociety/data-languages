@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西部ボリビア・グアラニー語
+  - translation_iso: spa
+    name: Guaraní occidental boliviano
   - translation_iso: zho
     name: 西玻利维亚瓜拉尼语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: バリ語
   - translation_iso: kor
     name: 발리어
+  - translation_iso: spa
+    name: balinés
   - translation_iso: zho
     name: 巴厘语
 rolv_dialects:

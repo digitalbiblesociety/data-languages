@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: コロンゴアンカシュケチュア語
     auto: true
+  - translation_iso: spa
+    name: quechua de Corongo
   - translation_iso: zho
     name: 科龙戈安卡什克丘亚语
     auto: true

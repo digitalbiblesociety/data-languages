@@ -24,6 +24,8 @@ translations:
     name: 中期オランダ語
   - translation_iso: kor
     name: 중세 네덜란드어
+  - translation_iso: spa
+    name: neerlandés medio
   - translation_iso: zho
     name: 中古荷兰语
 ---

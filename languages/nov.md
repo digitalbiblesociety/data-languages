@@ -21,6 +21,8 @@ translations:
     name: ノヴィアル
   - translation_iso: kor
     name: 노비알
+  - translation_iso: spa
+    name: novial
   - translation_iso: zho
     name: 诺维亚语
 ---

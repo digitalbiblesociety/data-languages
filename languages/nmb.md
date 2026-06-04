@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビッグナンバス語
+  - translation_iso: spa
+    name: Idioma big nambas
   - translation_iso: zho
     name: Big Nambas語
 rolv_dialects:

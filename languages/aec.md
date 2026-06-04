@@ -24,6 +24,8 @@ translations:
     name: アラビア語サイード方言
   - translation_iso: kor
     name: 사이드 아랍어
+  - translation_iso: spa
+    name: árabe saidí
   - translation_iso: zho
     name: 薩伊德阿拉伯語
 rolv_dialects:

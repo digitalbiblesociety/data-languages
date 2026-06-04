@@ -17,6 +17,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ・ベルベル語
+  - translation_iso: spa
+    name: judeo-bereber
   - translation_iso: zho
     name: 犹太-柏柏尔语
 ---

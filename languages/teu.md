@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソ語
+  - translation_iso: spa
+    name: Idioma soo
   - translation_iso: zho
     name: 索奥语
     auto: true

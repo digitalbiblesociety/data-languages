@@ -21,6 +21,8 @@ translations:
     name: मैदान भारतीय सांकेतिक भाषा
   - translation_iso: jpn
     name: 平原インディアン手話
+  - translation_iso: spa
+    name: lengua de señas del indio de las llanuras
   - translation_iso: zho
     name: 平原手語
 rolv_dialects:

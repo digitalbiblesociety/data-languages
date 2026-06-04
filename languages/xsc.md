@@ -18,6 +18,8 @@ translations:
     name: スキタイ語
   - translation_iso: kor
     name: 스키타이어
+  - translation_iso: spa
+    name: Lenguas escito-sármatas
   - translation_iso: zho
     name: 锡西厄語
 ---

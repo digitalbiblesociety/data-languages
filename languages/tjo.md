@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥーグラ語
+  - translation_iso: spa
+    name: Idioma tugurt
   - translation_iso: zho
     name: 莱赫干谷柏柏尔语
 ---

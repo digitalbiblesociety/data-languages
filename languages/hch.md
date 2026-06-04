@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウイチョル語
+  - translation_iso: spa
+    name: Idioma huichol
   - translation_iso: zho
     name: 惠乔尔语
     auto: true

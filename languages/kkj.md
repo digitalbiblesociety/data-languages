@@ -24,6 +24,8 @@ translations:
     name: カコ語
   - translation_iso: kor
     name: 카코어
+  - translation_iso: spa
+    name: kako
   - translation_iso: zho
     name: 卡库语
 rolv_dialects:

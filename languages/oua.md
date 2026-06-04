@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルグラ語
+  - translation_iso: spa
+    name: Idioma ouargli
   - translation_iso: zho
     name: 塔加格伦特语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: ビジャゴ語
   - translation_iso: kor
     name: 비디오고어
+  - translation_iso: spa
+    name: Idioma bijago
   - translation_iso: zho
     name: Bijago语
 rolv_dialects:

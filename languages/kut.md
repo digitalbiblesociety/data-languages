@@ -21,6 +21,8 @@ translations:
     name: クテナイ語
   - translation_iso: kor
     name: 쿠테나이어
+  - translation_iso: spa
+    name: Idioma kutenai
   - translation_iso: zho
     name: 库特奈语
 rolv_dialects:

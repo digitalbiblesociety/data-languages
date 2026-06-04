@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ハン語
     auto: true
+  - translation_iso: spa
+    name: Idioma hän
   - translation_iso: zho
     name: 汗语
 ---

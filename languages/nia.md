@@ -24,6 +24,8 @@ translations:
     name: ニアス語
   - translation_iso: kor
     name: 니아스어
+  - translation_iso: spa
+    name: nias
   - translation_iso: zho
     name: 尼亚斯语
 rolv_dialects:

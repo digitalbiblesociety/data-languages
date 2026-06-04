@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エン語
+  - translation_iso: spa
+    name: Idioma en
   - translation_iso: zho
     name: 恩語
 ---

@@ -24,6 +24,8 @@ translations:
     name: クリミア・タタール語
   - translation_iso: kor
     name: 크림 타타르어
+  - translation_iso: spa
+    name: tártaro de Crimea
   - translation_iso: zho
     name: 克里米亚鞑靼语
 rolv_dialects:

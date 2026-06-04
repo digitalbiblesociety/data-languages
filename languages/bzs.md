@@ -22,6 +22,8 @@ translations:
     name: ब्राज़ीलियाई सांकेतिक भाषा
   - translation_iso: jpn
     name: ブラジル手話
+  - translation_iso: spa
+    name: lengua de señas brasileña
   - translation_iso: zho
     name: 巴西手語
 ---

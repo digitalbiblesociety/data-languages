@@ -25,6 +25,8 @@ translations:
     name: ベリーズ・クレオール語
   - translation_iso: kor
     name: 벨리즈 크리올
+  - translation_iso: spa
+    name: criollo beliceño
   - translation_iso: zho
     name: 伯利兹克里奥尔语
 ---

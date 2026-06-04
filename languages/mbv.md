@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムブルンギシュ語
     auto: true
+  - translation_iso: spa
+    name: mbulungish
   - translation_iso: zho
     name: 姆布隆吉什语
     auto: true

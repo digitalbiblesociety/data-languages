@@ -24,6 +24,8 @@ translations:
     name: ミゾ語
   - translation_iso: kor
     name: 미조어
+  - translation_iso: spa
+    name: idioma mizo
   - translation_iso: zho
     name: 米佐语
 rolv_dialects:

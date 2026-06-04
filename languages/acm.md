@@ -24,6 +24,8 @@ translations:
     name: アラビア語イラク方言
   - translation_iso: kor
     name: 이라크 아랍어
+  - translation_iso: spa
+    name: árabe mesopotámico
   - translation_iso: zho
     name: 美索不達米亞阿拉伯語
 rolv_dialects:

@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ヘルニカン語
     auto: true
+  - translation_iso: spa
+    name: érnico
   - translation_iso: zho
     name: 赫尔尼卡语
     auto: true

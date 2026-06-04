@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: トトンテペック・ミクセ語
     auto: true
+  - translation_iso: spa
+    name: Mixe de Totontepec
   - translation_iso: zho
     name: 托托纳佩克米克斯语
     auto: true

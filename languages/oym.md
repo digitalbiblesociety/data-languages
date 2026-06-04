@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワヤンピ語
+  - translation_iso: spa
+    name: Wayampi
   - translation_iso: zho
     name: 瓦亚姆皮语
     auto: true

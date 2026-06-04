@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メグレノ・ルーマニア語
+  - translation_iso: spa
+    name: meglenorrumano
   - translation_iso: zho
     name: 梅戈来诺-罗马尼亚语
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホロホロ語
+  - translation_iso: spa
+    name: Idioma holoholo
   - translation_iso: zho
     name: 霍洛霍洛语
     auto: true

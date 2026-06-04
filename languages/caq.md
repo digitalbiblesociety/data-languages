@@ -24,6 +24,8 @@ translations:
     name: カー語
   - translation_iso: kor
     name: 카어
+  - translation_iso: spa
+    name: lengua car
   - translation_iso: zho
     name: 卡尔尼科巴语
 ---

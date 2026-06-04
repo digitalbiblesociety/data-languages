@@ -22,6 +22,8 @@ translations:
     name: डोमाकी भाषा
   - translation_iso: jpn
     name: ドマーキー語
+  - translation_iso: spa
+    name: domaaki
   - translation_iso: zho
     name: 多玛基语
     auto: true

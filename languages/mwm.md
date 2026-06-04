@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サール語
+  - translation_iso: spa
+    name: sar
   - translation_iso: zho
     name: 萨尔语
     auto: true

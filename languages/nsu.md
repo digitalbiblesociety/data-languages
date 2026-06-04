@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: シエラネグラ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl de la Sierra Negra
   - translation_iso: zho
     name: 内格拉山纳瓦特尔语
     auto: true

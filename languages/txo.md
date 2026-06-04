@@ -22,6 +22,8 @@ translations:
     name: टोटो भाषा
   - translation_iso: jpn
     name: トト語
+  - translation_iso: spa
+    name: toto
   - translation_iso: zho
     name: 投投語
 ---

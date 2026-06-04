@@ -24,6 +24,8 @@ translations:
     name: ルンディ語
   - translation_iso: kor
     name: 키룬디어
+  - translation_iso: spa
+    name: kirundi
   - translation_iso: zho
     name: 基隆迪语
 rolv_dialects:

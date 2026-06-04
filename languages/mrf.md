@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: エルセング語
     auto: true
+  - translation_iso: spa
+    name: Idioma elseng
   - translation_iso: zho
     name: 埃尔森语
     auto: true

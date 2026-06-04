@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワラガウアヌコケチュア語
     auto: true
+  - translation_iso: spa
+    name: quechua huanuqueño
   - translation_iso: zho
     name: 瓦亚加瓦努科克丘亚语
     auto: true

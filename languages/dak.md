@@ -24,6 +24,8 @@ translations:
     name: ダコタ語
   - translation_iso: kor
     name: 다코타어
+  - translation_iso: spa
+    name: Dakota
   - translation_iso: zho
     name: 达科他语
 rolv_dialects:

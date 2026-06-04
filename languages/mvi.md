@@ -25,6 +25,8 @@ translations:
     name: 宮古語
   - translation_iso: kor
     name: 미야코어
+  - translation_iso: spa
+    name: idioma miyako
   - translation_iso: zho
     name: 宮古語
 rolv_dialects:

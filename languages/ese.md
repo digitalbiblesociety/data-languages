@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エセエハ語
+  - translation_iso: spa
+    name: idioma ese eja
   - translation_iso: zho
     name: 埃塞埃哈语
     auto: true

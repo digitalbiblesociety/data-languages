@@ -24,6 +24,8 @@ translations:
     name: トゥンブカ語
   - translation_iso: kor
     name: 툼부카어
+  - translation_iso: spa
+    name: Idioma tumbuka
   - translation_iso: zho
     name: 通布卡语
 rolv_dialects:

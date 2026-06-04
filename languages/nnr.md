@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ナルングガ語
     auto: true
+  - translation_iso: spa
+    name: Idioma narangga
   - translation_iso: zho
     name: 纳龙加语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マルトゥ・ワンカ語
     auto: true
+  - translation_iso: spa
+    name: martu wangka
   - translation_iso: zho
     name: 玛图瓦恩卡语
     auto: true

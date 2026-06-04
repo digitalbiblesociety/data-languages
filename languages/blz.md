@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バランタク語
     auto: true
+  - translation_iso: spa
+    name: Balantak
   - translation_iso: zho
     name: 巴兰塔克语
 ---

@@ -24,6 +24,8 @@ translations:
     name: チェロキー語
   - translation_iso: kor
     name: 체로키어
+  - translation_iso: spa
+    name: cheroqui
   - translation_iso: zho
     name: 切罗基语
 rolv_dialects:

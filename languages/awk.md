@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アワバカル語
     auto: true
+  - translation_iso: spa
+    name: idioma awabakal
   - translation_iso: zho
     name: 阿瓦巴卡尔语
     auto: true

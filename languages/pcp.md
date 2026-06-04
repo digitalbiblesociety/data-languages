@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パカワラ語
     auto: true
+  - translation_iso: spa
+    name: idioma pacahuara
   - translation_iso: zho
     name: 帕卡瓦拉语
     auto: true

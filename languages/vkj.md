@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: クハルゲ語
     auto: true
+  - translation_iso: spa
+    name: kuyargé
   - translation_iso: zho
     name: 库贾尔盖语
 ---

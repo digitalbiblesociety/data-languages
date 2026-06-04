@@ -24,6 +24,8 @@ translations:
     name: エミリア語
   - translation_iso: kor
     name: 에밀리아어
+  - translation_iso: spa
+    name: emiliano
   - translation_iso: zho
     name: 艾米利亚语
 rolv_dialects:

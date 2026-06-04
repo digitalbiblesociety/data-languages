@@ -24,6 +24,8 @@ translations:
     name: シャウィーア語
   - translation_iso: kor
     name: 샤위야어
+  - translation_iso: spa
+    name: chaoui
   - translation_iso: zho
     name: 沙維雅語
 ---

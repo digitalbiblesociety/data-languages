@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヤワナワ語
     auto: true
+  - translation_iso: spa
+    name: yawanawá
   - translation_iso: zho
     name: 亚瓦纳瓦语
     auto: true

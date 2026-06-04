@@ -24,6 +24,8 @@ translations:
     name: ダバニ語
   - translation_iso: kor
     name: 다그바니어
+  - translation_iso: spa
+    name: dagbanli
   - translation_iso: zho
     name: 达巴尼语
 rolv_dialects:

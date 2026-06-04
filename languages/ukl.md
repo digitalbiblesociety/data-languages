@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウクライナ手話
+  - translation_iso: spa
+    name: lengua de señas ucraniana
   - translation_iso: zho
     name: 烏克蘭手語
 ---

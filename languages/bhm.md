@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バトハリ語
+  - translation_iso: spa
+    name: Idioma bathari
   - translation_iso: zho
     name: 拜特赫爾語
 ---

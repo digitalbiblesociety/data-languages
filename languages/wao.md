@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワッポ語
     auto: true
+  - translation_iso: spa
+    name: Idioma wappo
   - translation_iso: zho
     name: 瓦波語
 ---

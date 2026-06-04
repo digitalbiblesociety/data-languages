@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ドカプアラエ語
     auto: true
+  - translation_iso: spa
+    name: idioma tuyuca
   - translation_iso: zho
     name: 圖尤卡語
 rolv_dialects:

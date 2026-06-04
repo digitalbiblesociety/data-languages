@@ -25,6 +25,8 @@ translations:
     name: フバルシ語
   - translation_iso: kor
     name: 흐와르시어
+  - translation_iso: spa
+    name: jvarshi
   - translation_iso: zho
     name: 克瓦尔希语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オリザバ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl veracruzano
   - translation_iso: zho
     name: 奥里萨巴纳瓦特尔语
     auto: true

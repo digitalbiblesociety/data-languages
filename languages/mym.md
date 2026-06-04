@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: メエン語
     auto: true
+  - translation_iso: spa
+    name: "Idioma me'en"
   - translation_iso: zho
     name: 梅恩语
 rolv_dialects:

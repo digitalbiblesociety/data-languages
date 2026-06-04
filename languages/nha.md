@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ンハンダ語
     auto: true
+  - translation_iso: spa
+    name: idioma nhanda
   - translation_iso: zho
     name: 恩汉达语
     auto: true

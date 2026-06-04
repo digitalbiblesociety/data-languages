@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: サルア語
     auto: true
+  - translation_iso: spa
+    name: sarua
   - translation_iso: zho
     name: 薩魯阿語
 ---

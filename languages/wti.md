@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 베르타어
+  - translation_iso: spa
+    name: Idioma berta
   - translation_iso: zho
     name: 伯塔語
 rolv_dialects:

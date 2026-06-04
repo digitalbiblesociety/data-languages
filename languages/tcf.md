@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: マリナルテペク・メファ語
     auto: true
+  - translation_iso: spa
+    name: tlapaneco oriental
   - translation_iso: zho
     name: 马利纳尔特佩克梅夫亚语
     auto: true

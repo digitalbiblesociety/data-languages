@@ -18,6 +18,8 @@ translations:
   - translation_iso: jpn
     name: フルニオ語
     auto: true
+  - translation_iso: spa
+    name: idioma fulniô-yatê
   - translation_iso: zho
     name: 富尔尼奥语
     auto: true

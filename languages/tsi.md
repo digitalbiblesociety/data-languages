@@ -24,6 +24,8 @@ translations:
     name: ツィムシアン語
   - translation_iso: kor
     name: 트심시안어
+  - translation_iso: spa
+    name: tsimshiano
   - translation_iso: zho
     name: 钦西安语
 rolv_dialects:

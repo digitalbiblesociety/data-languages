@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイカナ語
+  - translation_iso: spa
+    name: Idioma aikaná
   - translation_iso: zho
     name: 艾卡纳语
     auto: true

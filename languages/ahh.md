@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アグ語
     auto: true
+  - translation_iso: spa
+    name: Aghu
   - translation_iso: zho
     name: 阿古语
     auto: true

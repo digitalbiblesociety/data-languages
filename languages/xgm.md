@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ダルムバル語
     auto: true
+  - translation_iso: spa
+    name: Idioma darumbal
   - translation_iso: zho
     name: 达鲁姆巴尔语
     auto: true

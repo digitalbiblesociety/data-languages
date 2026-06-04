@@ -22,6 +22,8 @@ translations:
     name: आश्कूनू भाषा
   - translation_iso: jpn
     name: アシュク語
+  - translation_iso: spa
+    name: Idioma askunu
   - translation_iso: zho
     name: 阿什昆语
 rolv_dialects:

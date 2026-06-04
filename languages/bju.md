@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブスー語
+  - translation_iso: spa
+    name: busuu
   - translation_iso: zho
     name: 布苏乌语
     auto: true

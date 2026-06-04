@@ -24,6 +24,8 @@ translations:
     name: ポエニ語
   - translation_iso: kor
     name: 포에니어
+  - translation_iso: spa
+    name: púnico
   - translation_iso: zho
     name: 布匿語
 ---

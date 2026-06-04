@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: イナバクノン語
     auto: true
+  - translation_iso: spa
+    name: idioma capuleño
   - translation_iso: zho
     name: 伊那巴克农语
     auto: true

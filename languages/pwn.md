@@ -24,6 +24,8 @@ translations:
     name: パイワン語
   - translation_iso: kor
     name: 파이완어
+  - translation_iso: spa
+    name: Idioma paiwan
   - translation_iso: zho
     name: 排湾语
 ---

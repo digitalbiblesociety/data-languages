@@ -25,6 +25,8 @@ translations:
     name: ゴーマラ語
   - translation_iso: kor
     name: 고말라어
+  - translation_iso: spa
+    name: ghomala
   - translation_iso: zho
     name: 戈马拉语
 rolv_dialects:

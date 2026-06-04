@@ -21,6 +21,8 @@ translations:
     name: ズニ語
   - translation_iso: kor
     name: 주니어
+  - translation_iso: spa
+    name: zuñi
   - translation_iso: zho
     name: 苏尼语
 ---

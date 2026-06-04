@@ -24,6 +24,8 @@ translations:
     name: セデック語
   - translation_iso: kor
     name: 세디크어
+  - translation_iso: spa
+    name: Idioma seediq
   - translation_iso: zho
     name: 赛德克语
 rolv_dialects:

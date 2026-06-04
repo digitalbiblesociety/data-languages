@@ -25,6 +25,8 @@ translations:
     name: ツェルタル語
   - translation_iso: kor
     name: 첼탈어
+  - translation_iso: spa
+    name: tseltal
   - translation_iso: zho
     name: 澤套語
 rolv_dialects:

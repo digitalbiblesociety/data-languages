@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユト語
+  - translation_iso: spa
+    name: idioma ute
   - translation_iso: zho
     name: 犹特语
 rolv_dialects:

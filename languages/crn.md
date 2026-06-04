@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: エル・ナヤル・コラ語
     auto: true
+  - translation_iso: spa
+    name: Cora
   - translation_iso: zho
     name: 埃尔纳亚尔科拉语
     auto: true

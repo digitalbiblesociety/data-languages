@@ -18,6 +18,8 @@ translations:
     name: サモギティア語
   - translation_iso: kor
     name: 사모기티아어
+  - translation_iso: spa
+    name: Idioma samogitiano
   - translation_iso: zho
     name: 萨莫吉提亚语
 ---

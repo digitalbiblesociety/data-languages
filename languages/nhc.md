@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タバスコ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: náhuatl tabasqueño
   - translation_iso: zho
     name: 塔巴斯科纳瓦特尔语
     auto: true

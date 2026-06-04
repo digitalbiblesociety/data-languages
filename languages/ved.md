@@ -24,6 +24,8 @@ translations:
     name: ヴェッダ語
   - translation_iso: kor
     name: 베다어
+  - translation_iso: spa
+    name: Idioma vedda
   - translation_iso: zho
     name: 维达语
 ---

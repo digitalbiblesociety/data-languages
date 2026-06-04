@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソクナ語
+  - translation_iso: spa
+    name: Idioma sawknah
   - translation_iso: zho
     name: 萨克纳语
     auto: true

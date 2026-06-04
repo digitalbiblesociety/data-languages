@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チュワブ語
     auto: true
+  - translation_iso: spa
+    name: Idioma echuwabo
   - translation_iso: zho
     name: 楚瓦布语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤビテーロ語
+  - translation_iso: spa
+    name: Idioma yavitero
   - translation_iso: zho
     name: 亚维特罗语
     auto: true

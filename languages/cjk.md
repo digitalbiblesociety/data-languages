@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チョクウェ語
+  - translation_iso: spa
+    name: Idioma chokwe
   - translation_iso: zho
     name: 喬奎語
 rolv_dialects:

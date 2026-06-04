@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: スレーヤ語
     auto: true
+  - translation_iso: spa
+    name: Siriano
   - translation_iso: zho
     name: 西里亚诺语
     auto: true

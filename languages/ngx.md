@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ングワイ語
     auto: true
+  - translation_iso: spa
+    name: nggwahyi
   - translation_iso: zho
     name: 恩瓦希语
     auto: true

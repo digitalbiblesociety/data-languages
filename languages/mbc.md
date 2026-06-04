@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マクシー語
+  - translation_iso: spa
+    name: Idioma macushi
   - translation_iso: zho
     name: 马库西语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カトラ語
+  - translation_iso: spa
+    name: Idioma kaalak
   - translation_iso: zho
     name: 卡特拉语
     auto: true

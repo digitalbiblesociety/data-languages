@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 純正クレタ語
+  - translation_iso: spa
+    name: eteocretense
   - translation_iso: zho
     name: 埃泰爾克里特語
 ---

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 삼발어
+  - translation_iso: spa
+    name: idioma zambal
   - translation_iso: zho
     name: 三描語
 rolv_dialects:

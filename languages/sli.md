@@ -26,6 +26,8 @@ translations:
     name: 低シレジア語
   - translation_iso: kor
     name: 실레지아 독일어
+  - translation_iso: spa
+    name: alemán silesio
   - translation_iso: zho
     name: 西里西亚语
 ---

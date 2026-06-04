@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バタンガ語
     auto: true
+  - translation_iso: spa
+    name: batanga
   - translation_iso: zho
     name: 巴唐加语
     auto: true

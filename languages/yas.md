@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌグヌ語
+  - translation_iso: spa
+    name: Nugunu lengua
   - translation_iso: zho
     name: 努古努语(喀麦隆)
     auto: true

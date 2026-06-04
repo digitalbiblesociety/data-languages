@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワピシャナ語
+  - translation_iso: spa
+    name: idioma wapishana
   - translation_iso: zho
     name: 瓦皮沙纳语
     auto: true

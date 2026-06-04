@@ -22,6 +22,8 @@ translations:
     name: 南部ハイダ語
   - translation_iso: kor
     name: 남부 하이다어
+  - translation_iso: spa
+    name: haida meridional
   - translation_iso: zho
     name: 南海达语
 rolv_dialects:

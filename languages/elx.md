@@ -20,6 +20,8 @@ translations:
     name: エラム語
   - translation_iso: kor
     name: 엘람어
+  - translation_iso: spa
+    name: elamita
   - translation_iso: zho
     name: 埃兰语
 ---

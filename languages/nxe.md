@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ナゲ語
     auto: true
+  - translation_iso: spa
+    name: Nage
   - translation_iso: zho
     name: 纳格语
     auto: true

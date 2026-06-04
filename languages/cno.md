@@ -19,6 +19,8 @@ translations:
   - translation_iso: jpn
     name: コン語
     auto: true
+  - translation_iso: spa
+    name: Idioma con
   - translation_iso: zho
     name: 康语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: クロブ語
     auto: true
+  - translation_iso: spa
+    name: krobu
   - translation_iso: zho
     name: 克罗布语
     auto: true

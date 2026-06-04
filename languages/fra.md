@@ -24,6 +24,8 @@ translations:
     name: フランス語
   - translation_iso: kor
     name: 프랑스어
+  - translation_iso: spa
+    name: francés
   - translation_iso: zho
     name: 法语
 rolv_dialects:

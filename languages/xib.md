@@ -21,6 +21,8 @@ translations:
     name: イベリア語
   - translation_iso: kor
     name: 이베리아어
+  - translation_iso: spa
+    name: Idioma ibero
   - translation_iso: zho
     name: 伊比利亞語
 ---

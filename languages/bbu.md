@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クルング語
     auto: true
+  - translation_iso: spa
+    name: kulung
   - translation_iso: zho
     name: 库隆语
     auto: true

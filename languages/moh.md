@@ -24,6 +24,8 @@ translations:
     name: モホーク語
   - translation_iso: kor
     name: 모호크어
+  - translation_iso: spa
+    name: mohawk
   - translation_iso: zho
     name: 莫霍克语
 ---

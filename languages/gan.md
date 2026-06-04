@@ -25,6 +25,8 @@ translations:
     name: 贛語
   - translation_iso: kor
     name: 간어
+  - translation_iso: spa
+    name: chino gan
   - translation_iso: zho
     name: 贛語
 rolv_dialects:

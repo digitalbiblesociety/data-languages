@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウェタムト語
     auto: true
+  - translation_iso: spa
+    name: Idioma dorig
   - translation_iso: zho
     name: 韦塔穆特语
     auto: true

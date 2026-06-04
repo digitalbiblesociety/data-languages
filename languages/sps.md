@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: タイオフ語
     auto: true
+  - translation_iso: spa
+    name: saposa
   - translation_iso: zho
     name: 萨波萨语
     auto: true

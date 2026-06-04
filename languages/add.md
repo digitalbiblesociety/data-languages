@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: リゾンカ語
     auto: true
+  - translation_iso: spa
+    name: dzodinka
   - translation_iso: zho
     name: 利德宗卡语
     auto: true

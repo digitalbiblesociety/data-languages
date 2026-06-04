@@ -18,6 +18,8 @@ translations:
     name: कुरुबा भाषा
   - translation_iso: jpn
     name: クルンバ語
+  - translation_iso: spa
+    name: kurumba
   - translation_iso: zho
     name: 卡纳达库鲁姆巴语
     auto: true

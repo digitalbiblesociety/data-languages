@@ -20,6 +20,8 @@ translations:
   - translation_iso: jpn
     name: カランカワ語
     auto: true
+  - translation_iso: spa
+    name: idioma karankawa
   - translation_iso: zho
     name: 卡兰卡瓦语
     auto: true

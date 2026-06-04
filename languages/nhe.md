@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 東ワステカ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl de la Huasteca Veracruzana
   - translation_iso: zho
     name: 东瓦斯特卡纳瓦特尔语
     auto: true

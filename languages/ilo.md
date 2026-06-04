@@ -24,6 +24,8 @@ translations:
     name: イロカノ語
   - translation_iso: kor
     name: 일로카노어
+  - translation_iso: spa
+    name: ilocano
   - translation_iso: zho
     name: 伊洛卡诺语
 rolv_dialects:

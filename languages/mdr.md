@@ -24,6 +24,8 @@ translations:
     name: マンダル語
   - translation_iso: kor
     name: 만다르어
+  - translation_iso: spa
+    name: mandar
   - translation_iso: zho
     name: 曼达尔语
 rolv_dialects:

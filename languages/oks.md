@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オコ語
+  - translation_iso: spa
+    name: oko
   - translation_iso: zho
     name: 奥科-埃尼-奥萨延语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ラメ語
     auto: true
+  - translation_iso: spa
+    name: Idioma lame
   - translation_iso: zho
     name: 拉梅语
     auto: true

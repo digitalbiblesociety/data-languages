@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マングベツ語
+  - translation_iso: spa
+    name: mangbetu
   - translation_iso: zho
     name: 曼格贝图语
     auto: true

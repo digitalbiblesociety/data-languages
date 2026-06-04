@@ -24,6 +24,8 @@ translations:
     name: スコットランド語
   - translation_iso: kor
     name: 스코트어
+  - translation_iso: spa
+    name: escocés
   - translation_iso: zho
     name: 低地苏格兰语
 rolv_dialects:

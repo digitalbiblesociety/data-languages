@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ビャンシ語
     auto: true
+  - translation_iso: spa
+    name: byangsi
   - translation_iso: zho
     name: 比扬西语
     auto: true

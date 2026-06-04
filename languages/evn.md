@@ -25,6 +25,8 @@ translations:
     name: エヴェンキ語
   - translation_iso: kor
     name: 에벤키어
+  - translation_iso: spa
+    name: Idioma evenki
   - translation_iso: zho
     name: 鄂温克语
 rolv_dialects:

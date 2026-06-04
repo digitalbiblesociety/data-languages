@@ -24,6 +24,8 @@ translations:
     name: ベンガル語
   - translation_iso: kor
     name: 벵골어
+  - translation_iso: spa
+    name: bengalí
   - translation_iso: zho
     name: 孟加拉语
 rolv_dialects:

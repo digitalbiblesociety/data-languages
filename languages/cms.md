@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メッサピア語
+  - translation_iso: spa
+    name: Idioma mesapio
   - translation_iso: zho
     name: 梅萨比语
 ---

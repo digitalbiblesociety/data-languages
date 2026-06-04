@@ -24,6 +24,8 @@ translations:
     name: ソマリ語
   - translation_iso: kor
     name: 소말리어
+  - translation_iso: spa
+    name: somalí
   - translation_iso: zho
     name: 索马里语
 rolv_dialects:

@@ -25,6 +25,8 @@ translations:
     name: パラ語
   - translation_iso: kor
     name: 팔라어
+  - translation_iso: spa
+    name: Idioma palaico
   - translation_iso: zho
     name: 帕拉语
 ---

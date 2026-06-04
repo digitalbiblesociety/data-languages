@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 고투오어
+  - translation_iso: spa
+    name: ghotou
   - translation_iso: zho
     name: 古托语
     auto: true

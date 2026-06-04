@@ -24,6 +24,8 @@ translations:
     name: ニャムウェジ語
   - translation_iso: kor
     name: 니암웨지어
+  - translation_iso: spa
+    name: nyamwezi
   - translation_iso: zho
     name: 尼扬韦齐语
 rolv_dialects:

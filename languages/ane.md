@@ -25,6 +25,8 @@ translations:
     name: ハランチュー語
   - translation_iso: kor
     name: 항랑츠어
+  - translation_iso: spa
+    name: Idioma xârâcùù
   - translation_iso: zho
     name: 杭朗奇语
 ---

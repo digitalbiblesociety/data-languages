@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ハイスラ語
     auto: true
+  - translation_iso: spa
+    name: idioma haisla
   - translation_iso: zho
     name: 海斯拉语
     auto: true

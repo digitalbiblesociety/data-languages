@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サパロ語
+  - translation_iso: spa
+    name: záparo
   - translation_iso: zho
     name: 萨帕罗语
     auto: true

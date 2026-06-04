@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 楔形文字ルウィ語
+  - translation_iso: spa
+    name: luvita cuneiforme
   - translation_iso: zho
     name: 楔形文字吕维亚语
     auto: true

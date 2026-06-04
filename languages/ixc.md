@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イチャテコ族
+  - translation_iso: spa
+    name: ixcateco
   - translation_iso: zho
     name: 伊克斯卡特克语
     auto: true

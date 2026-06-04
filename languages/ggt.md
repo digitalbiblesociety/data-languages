@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ギトゥア語
     auto: true
+  - translation_iso: spa
+    name: Gitua
   - translation_iso: zho
     name: 吉图亚语
     auto: true

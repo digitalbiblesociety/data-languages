@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ロー語
     auto: true
+  - translation_iso: spa
+    name: Idioma loo
   - translation_iso: zho
     name: 洛奥语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: アルピタン語
   - translation_iso: kor
     name: 프랑코프로방스어
+  - translation_iso: spa
+    name: franco-provenzal
   - translation_iso: zho
     name: 法兰克-普罗旺斯语
 rolv_dialects:

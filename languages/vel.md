@@ -19,6 +19,8 @@ translations:
   - translation_iso: jpn
     name: ヴェルゥス語
     auto: true
+  - translation_iso: spa
+    name: dialecto bajo sajón veluwés
   - translation_iso: zho
     name: 韦卢斯语
     auto: true

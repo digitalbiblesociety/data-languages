@@ -23,6 +23,8 @@ translations:
     name: ガシュガーイー語
   - translation_iso: kor
     name: 카슈카이어
+  - translation_iso: spa
+    name: kashgai
   - translation_iso: zho
     name: 卡什加語
 ---

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: オルルモ・イコム語
     auto: true
+  - translation_iso: spa
+    name: lengua Ikom
   - translation_iso: zho
     name: 卢卢莫-伊科姆语
     auto: true

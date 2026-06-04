@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 무루이 위토토어
+  - translation_iso: spa
+    name: murui
   - translation_iso: zho
     name: 穆瑞胡图图语
 rolv_dialects:

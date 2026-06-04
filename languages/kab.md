@@ -24,6 +24,8 @@ translations:
     name: カビール語
   - translation_iso: kor
     name: 카빌리어
+  - translation_iso: spa
+    name: cabilio
   - translation_iso: zho
     name: 卡拜爾語
 rolv_dialects:

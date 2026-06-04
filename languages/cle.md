@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: レアラオ・チナンテク語
     auto: true
+  - translation_iso: spa
+    name: chinanteca de Lealao
   - translation_iso: zho
     name: 勒亚劳奇南特克语
     auto: true

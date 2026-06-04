@@ -24,6 +24,8 @@ translations:
     name: セリクプ語
   - translation_iso: kor
     name: 셀쿠프어
+  - translation_iso: spa
+    name: Selkup
   - translation_iso: zho
     name: 塞爾庫普語
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
     name: チベット語
   - translation_iso: kor
     name: 티베트어
+  - translation_iso: spa
+    name: idioma tibetano
   - translation_iso: zho
     name: 藏语
 rolv_dialects:

@@ -25,6 +25,8 @@ translations:
     name: サラール語
   - translation_iso: kor
     name: 살라르어
+  - translation_iso: spa
+    name: Idioma salar
   - translation_iso: zho
     name: 撒拉语
 rolv_dialects:

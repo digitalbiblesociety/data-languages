@@ -25,6 +25,8 @@ translations:
     name: ドマリ語
   - translation_iso: kor
     name: 도마리어
+  - translation_iso: spa
+    name: domarí
   - translation_iso: zho
     name: 多姆語
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ラジョン語
     auto: true
+  - translation_iso: spa
+    name: Rajong
   - translation_iso: zho
     name: 拉琼语
     auto: true

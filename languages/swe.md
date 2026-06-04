@@ -24,6 +24,8 @@ translations:
     name: スウェーデン語
   - translation_iso: kor
     name: 스웨덴어
+  - translation_iso: spa
+    name: sueco
   - translation_iso: zho
     name: 瑞典语
 rolv_dialects:

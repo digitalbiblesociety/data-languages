@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤワラピティ語
+  - translation_iso: spa
+    name: yawalapiti
   - translation_iso: zho
     name: 亚瓦拉皮蒂语
     auto: true

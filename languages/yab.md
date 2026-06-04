@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ユフップ語
     auto: true
+  - translation_iso: spa
+    name: Idioma yuhup
   - translation_iso: zho
     name: 尤胡普语
     auto: true

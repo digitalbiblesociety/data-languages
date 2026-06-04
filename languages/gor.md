@@ -24,6 +24,8 @@ translations:
     name: ゴロンタロ語
   - translation_iso: kor
     name: 고론탈로어
+  - translation_iso: spa
+    name: Idioma gorontalo
   - translation_iso: zho
     name: 哥伦打洛语
 ---

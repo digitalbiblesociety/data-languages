@@ -20,6 +20,8 @@ translations:
   - translation_iso: jpn
     name: ミンキン語
     auto: true
+  - translation_iso: spa
+    name: Idioma minkin
   - translation_iso: zho
     name: 闽金语
     auto: true

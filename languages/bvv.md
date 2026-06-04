@@ -18,6 +18,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バニバ語
+  - translation_iso: spa
+    name: idioma abane
   - translation_iso: zho
     name: 巴尼瓦语
     auto: true

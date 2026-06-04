@@ -24,6 +24,8 @@ translations:
     name: アヴェスター語
   - translation_iso: kor
     name: 아베스타어
+  - translation_iso: spa
+    name: avéstico
   - translation_iso: zho
     name: 阿維斯陀語
 ---

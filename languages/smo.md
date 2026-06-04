@@ -24,6 +24,8 @@ translations:
     name: サモア語
   - translation_iso: kor
     name: 사모아어
+  - translation_iso: spa
+    name: samoano
   - translation_iso: zho
     name: 萨摩亚语
 ---

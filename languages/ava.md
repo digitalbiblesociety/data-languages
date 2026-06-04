@@ -24,6 +24,8 @@ translations:
     name: アヴァル語
   - translation_iso: kor
     name: 아바르어
+  - translation_iso: spa
+    name: avar
   - translation_iso: zho
     name: 阿瓦尔语
 rolv_dialects:

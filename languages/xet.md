@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シェタ語
+  - translation_iso: spa
+    name: Xetá
   - translation_iso: zho
     name: 塞塔语
     auto: true

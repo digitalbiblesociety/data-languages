@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: イースト・ダマル語
     auto: true
+  - translation_iso: spa
+    name: Damar Timur
   - translation_iso: zho
     name: 东达马尔语
     auto: true

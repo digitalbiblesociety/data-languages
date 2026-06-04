@@ -17,6 +17,8 @@ translations:
     name: ラージャスターン語
   - translation_iso: kor
     name: 라자스탄어
+  - translation_iso: spa
+    name: rajasthani
   - translation_iso: zho
     name: 拉贾斯坦语
 ---

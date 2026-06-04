@@ -25,6 +25,8 @@ translations:
     name: チョンタル語
   - translation_iso: kor
     name: 촌탈 마야어
+  - translation_iso: spa
+    name: chontal de Tabasco
   - translation_iso: zho
     name: 钱塔尔玛雅语
 rolv_dialects:

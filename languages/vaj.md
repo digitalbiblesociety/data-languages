@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 세켈레어
+  - translation_iso: spa
+    name: idioma sekele
   - translation_iso: zho
     name: 塞克莱语
     auto: true

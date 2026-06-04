@@ -24,6 +24,8 @@ translations:
     name: センチネル語
   - translation_iso: kor
     name: 센티널어
+  - translation_iso: spa
+    name: Idioma sentinelés
   - translation_iso: zho
     name: 哨兵岛语
 ---

@@ -24,6 +24,8 @@ translations:
     name: スヴァン語
   - translation_iso: kor
     name: 스반어
+  - translation_iso: spa
+    name: esvano
   - translation_iso: zho
     name: 斯凡语
 rolv_dialects:

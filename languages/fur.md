@@ -24,6 +24,8 @@ translations:
     name: フリウリ語
   - translation_iso: kor
     name: 프리울리어
+  - translation_iso: spa
+    name: friulano
   - translation_iso: zho
     name: 弗留利语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チチメカ・ジョナス語
     auto: true
+  - translation_iso: spa
+    name: jonaz
   - translation_iso: zho
     name: 奇奇梅卡-乔纳兹语
     auto: true

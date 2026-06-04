@@ -24,6 +24,8 @@ translations:
     name: アラビア語ナジュド方言
   - translation_iso: kor
     name: 나지드 아랍어
+  - translation_iso: spa
+    name: Árabe najdí
   - translation_iso: zho
     name: 內志阿拉伯语
 rolv_dialects:

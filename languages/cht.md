@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チョロン語
     auto: true
+  - translation_iso: spa
+    name: cholón
   - translation_iso: zho
     name: 乔隆语
 ---

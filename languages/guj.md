@@ -24,6 +24,8 @@ translations:
     name: グジャラート語
   - translation_iso: kor
     name: 구자라트어
+  - translation_iso: spa
+    name: guyarati
   - translation_iso: zho
     name: 古吉拉特語
 rolv_dialects:

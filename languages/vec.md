@@ -24,6 +24,8 @@ translations:
     name: ヴェネト語
   - translation_iso: kor
     name: 베네토어
+  - translation_iso: spa
+    name: véneto
   - translation_iso: zho
     name: 威尼斯语
 rolv_dialects:

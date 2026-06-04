@@ -24,6 +24,8 @@ translations:
     name: アチョリ語
   - translation_iso: kor
     name: 아촐리어
+  - translation_iso: spa
+    name: idioma acholi
   - translation_iso: zho
     name: 阿乔利语
 rolv_dialects:

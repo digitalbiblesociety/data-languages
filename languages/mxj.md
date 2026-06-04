@@ -22,6 +22,8 @@ translations:
     name: मिजु भाषा
   - translation_iso: jpn
     name: ミジュ語
+  - translation_iso: spa
+    name: idioma miju
   - translation_iso: zho
     name: 格曼语
 ---

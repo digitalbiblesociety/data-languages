@@ -25,6 +25,8 @@ translations:
     name: ワステク語
   - translation_iso: kor
     name: 와스텍어
+  - translation_iso: spa
+    name: Téenek
   - translation_iso: zho
     name: 瓦斯特克语
     auto: true

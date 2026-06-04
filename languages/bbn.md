@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウネアパ語
     auto: true
+  - translation_iso: spa
+    name: Idioma uneapa
   - translation_iso: zho
     name: 乌内阿帕语
     auto: true

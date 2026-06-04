@@ -22,6 +22,8 @@ translations:
     name: ティウィ語
   - translation_iso: kor
     name: 티위어
+  - translation_iso: spa
+    name: idioma tiví
   - translation_iso: zho
     name: 提维语
 ---

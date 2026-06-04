@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ポモ語
     auto: true
+  - translation_iso: spa
+    name: pol
   - translation_iso: zho
     name: 波莫语
     auto: true

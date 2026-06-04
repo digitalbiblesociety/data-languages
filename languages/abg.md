@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アバガ語
     auto: true
+  - translation_iso: spa
+    name: abaga
   - translation_iso: zho
     name: 阿巴加语
     auto: true

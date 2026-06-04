@@ -24,6 +24,8 @@ translations:
     name: ワライ語
   - translation_iso: kor
     name: 와라이어
+  - translation_iso: spa
+    name: samareño
   - translation_iso: zho
     name: 瓦瑞語
 rolv_dialects:

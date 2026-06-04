@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガブリエリーノ語
+  - translation_iso: spa
+    name: Tongva
   - translation_iso: zho
     name: 维沃特语
 ---

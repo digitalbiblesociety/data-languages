@@ -24,6 +24,8 @@ translations:
     name: テソ語
   - translation_iso: kor
     name: 테조어
+  - translation_iso: spa
+    name: ateso
   - translation_iso: zho
     name: 特索语
 rolv_dialects:

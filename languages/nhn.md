@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 中央ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl central
   - translation_iso: zho
     name: 中部纳瓦特尔语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ナワト語
   - translation_iso: kor
     name: 피필어
+  - translation_iso: spa
+    name: idioma pipil
   - translation_iso: zho
     name: 纳瓦特语
 ---

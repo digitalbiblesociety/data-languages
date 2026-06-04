@@ -25,6 +25,8 @@ translations:
     name: ギリシア語ポントス方言
   - translation_iso: kor
     name: 폰토스 그리스어
+  - translation_iso: spa
+    name: griego póntico
   - translation_iso: zho
     name: 旁狄希臘語
 rolv_dialects:

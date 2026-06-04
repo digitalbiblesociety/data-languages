@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ビット語
     auto: true
+  - translation_iso: spa
+    name: Idioma bit
   - translation_iso: zho
     name: 布兴语
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワヤナ語
+  - translation_iso: spa
+    name: Idioma wayana
   - translation_iso: zho
     name: 瓦亞那語
 ---

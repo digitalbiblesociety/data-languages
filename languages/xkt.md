@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カントシ語
     auto: true
+  - translation_iso: spa
+    name: kantosi
   - translation_iso: zho
     name: 坎托西语
     auto: true

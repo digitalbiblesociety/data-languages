@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガリンジェリ語
+  - translation_iso: spa
+    name: Idioma ngarinyeri
   - translation_iso: zho
     name: 纳加林吉里语
     auto: true

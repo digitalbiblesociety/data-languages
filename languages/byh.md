@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ブジェル語
     auto: true
+  - translation_iso: spa
+    name: idioma bhujel
   - translation_iso: zho
     name: 布杰尔语
     auto: true

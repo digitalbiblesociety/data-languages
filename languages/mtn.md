@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マタガルパ語
+  - translation_iso: spa
+    name: Idioma matagalpa
   - translation_iso: zho
     name: 玛塔加尔帕语
     auto: true

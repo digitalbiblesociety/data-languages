@@ -18,6 +18,8 @@ translations:
     name: ユラツ語
   - translation_iso: kor
     name: 유라츠어
+  - translation_iso: spa
+    name: yurats
   - translation_iso: zho
     name: 尤拉茨語
 ---

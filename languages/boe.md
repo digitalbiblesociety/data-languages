@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムンダブリ語
     auto: true
+  - translation_iso: spa
+    name: mundabli
   - translation_iso: zho
     name: 蒙达布利语
     auto: true

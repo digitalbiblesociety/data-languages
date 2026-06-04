@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コティ語
+  - translation_iso: spa
+    name: ekoti
   - translation_iso: zho
     name: 科蒂语
     auto: true

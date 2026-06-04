@@ -23,6 +23,8 @@ translations:
     name: ダリー語
   - translation_iso: kor
     name: 다리어
+  - translation_iso: spa
+    name: dari
   - translation_iso: zho
     name: 达里语
 rolv_dialects:

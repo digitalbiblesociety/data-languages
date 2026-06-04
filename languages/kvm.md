@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ケンデム語
     auto: true
+  - translation_iso: spa
+    name: kendem
   - translation_iso: zho
     name: 肯德姆语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: 低地ソルブ語
   - translation_iso: kor
     name: 저지 소르브어
+  - translation_iso: spa
+    name: bajo sorabo
   - translation_iso: zho
     name: 下索布语
 ---

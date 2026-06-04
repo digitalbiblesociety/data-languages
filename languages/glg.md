@@ -24,6 +24,8 @@ translations:
     name: ガリシア語
   - translation_iso: kor
     name: 갈리시아어
+  - translation_iso: spa
+    name: gallego
   - translation_iso: zho
     name: 加利西亞語
 ---

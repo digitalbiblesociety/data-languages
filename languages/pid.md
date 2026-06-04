@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ピアロア語
     auto: true
+  - translation_iso: spa
+    name: Piaroa
   - translation_iso: zho
     name: 皮亚罗亚语
     auto: true

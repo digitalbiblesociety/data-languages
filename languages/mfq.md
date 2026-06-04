@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: モバ語
     auto: true
+  - translation_iso: spa
+    name: Moba
   - translation_iso: zho
     name: 莫巴语
     auto: true

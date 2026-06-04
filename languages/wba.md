@@ -22,6 +22,8 @@ translations:
     name: ワラオ語
   - translation_iso: kor
     name: 와라오어
+  - translation_iso: spa
+    name: idioma guarao
   - translation_iso: zho
     name: 哇撈語
 ---

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ・イエメン・アラビア語
+  - translation_iso: spa
+    name: árabe judeo-yemení
   - translation_iso: zho
     name: 猶太-葉門阿拉伯語
 rolv_dialects:

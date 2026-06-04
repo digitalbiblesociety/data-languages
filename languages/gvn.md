@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クク・ヤラニ語
     auto: true
+  - translation_iso: spa
+    name: Idioma guugu yalandji
   - translation_iso: zho
     name: 库库-亚兰吉语
     auto: true

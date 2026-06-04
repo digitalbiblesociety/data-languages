@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハブン語
+  - translation_iso: spa
+    name: Habun
   - translation_iso: zho
     name: 哈布语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マグダレナ・ペニャスコ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco central
   - translation_iso: zho
     name: 马格达莱纳-佩纳斯科-米斯特克语
     auto: true

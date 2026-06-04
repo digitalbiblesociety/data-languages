@@ -17,6 +17,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南ピケネ語
+  - translation_iso: spa
+    name: idioma piceno meridional
   - translation_iso: zho
     name: 南皮赛恩语
 ---

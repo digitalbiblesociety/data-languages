@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ミガアマ語
     auto: true
+  - translation_iso: spa
+    name: migaama
   - translation_iso: zho
     name: 米加阿玛语
     auto: true

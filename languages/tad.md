@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タウセ語
     auto: true
+  - translation_iso: spa
+    name: Idioma tause
   - translation_iso: zho
     name: 陶塞语
     auto: true

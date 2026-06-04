@@ -25,6 +25,8 @@ translations:
     name: チョル語
   - translation_iso: kor
     name: 촐어
+  - translation_iso: spa
+    name: chol
   - translation_iso: zho
     name: 喬爾語
 rolv_dialects:

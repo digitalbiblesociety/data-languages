@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ヌビア語
+  - translation_iso: spa
+    name: nubio antiguo
   - translation_iso: zho
     name: 努比亚语
 ---

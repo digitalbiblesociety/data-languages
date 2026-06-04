@@ -26,6 +26,8 @@ translations:
     name: ロツマ語
   - translation_iso: kor
     name: 로투마어
+  - translation_iso: spa
+    name: Rotumano
   - translation_iso: zho
     name: 罗图曼语
     auto: true

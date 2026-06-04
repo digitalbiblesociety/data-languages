@@ -24,6 +24,8 @@ translations:
     name: ノルウェー語
   - translation_iso: kor
     name: 노르웨이어
+  - translation_iso: spa
+    name: noruego
   - translation_iso: zho
     name: 挪威语
 rolv_dialects:

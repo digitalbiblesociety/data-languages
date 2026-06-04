@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ケーザ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Kuzhami
   - translation_iso: zho
     name: 凯扎纳加语
     auto: true

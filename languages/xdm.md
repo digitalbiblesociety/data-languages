@@ -17,6 +17,8 @@ translations:
     name: エドム語
   - translation_iso: kor
     name: 에돔어
+  - translation_iso: spa
+    name: Idioma edomita
   - translation_iso: zho
     name: 以东语
 ---

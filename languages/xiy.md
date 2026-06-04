@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: シパヤ語
     auto: true
+  - translation_iso: spa
+    name: xipaya
   - translation_iso: zho
     name: 西帕亚语
     auto: true

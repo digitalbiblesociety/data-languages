@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ンドンベ語
     auto: true
+  - translation_iso: spa
+    name: Idioma ndombe
   - translation_iso: zho
     name: 恩东贝语
     auto: true

@@ -18,6 +18,8 @@ translations:
     name: パシュトー語
   - translation_iso: kor
     name: 파슈토어
+  - translation_iso: spa
+    name: pastún
   - translation_iso: zho
     name: 普什图语
 ---

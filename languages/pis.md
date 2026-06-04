@@ -23,6 +23,8 @@ translations:
     name: ピジン語
   - translation_iso: kor
     name: 피진어
+  - translation_iso: spa
+    name: Pidgin salomonense
   - translation_iso: zho
     name: 皮京語
 ---

@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: モロリ語
     auto: true
+  - translation_iso: spa
+    name: Idioma morori
   - translation_iso: zho
     name: 摩洛利语
 ---

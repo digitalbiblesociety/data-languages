@@ -15,6 +15,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナラガンセット語
+  - translation_iso: spa
+    name: Narragansett
   - translation_iso: zho
     name: 納拉岡塞特語
 rolv_dialects:

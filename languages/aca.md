@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アチャワ語
+  - translation_iso: spa
+    name: achagua
   - translation_iso: zho
     name: 阿恰瓜语
     auto: true

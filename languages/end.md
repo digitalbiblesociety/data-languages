@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: エンデ語
     auto: true
+  - translation_iso: spa
+    name: Ende
   - translation_iso: zho
     name: 恩德语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: アディゲ語
   - translation_iso: kor
     name: 아디게어
+  - translation_iso: spa
+    name: adigués
   - translation_iso: zho
     name: 阿迪格语
 rolv_dialects:

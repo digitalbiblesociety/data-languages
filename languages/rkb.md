@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リクバクチァ語
+  - translation_iso: spa
+    name: idioma rikbaktsá
   - translation_iso: zho
     name: 里克巴克特萨语
     auto: true

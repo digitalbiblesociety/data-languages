@@ -17,6 +17,8 @@ translations:
     name: ノルマン語
   - translation_iso: kor
     name: 노르만어
+  - translation_iso: spa
+    name: normando
   - translation_iso: zho
     name: 諾曼語
 rolv_dialects:

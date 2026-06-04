@@ -25,6 +25,8 @@ translations:
     name: シレニック語
   - translation_iso: kor
     name: 시레니크어
+  - translation_iso: spa
+    name: idioma sirenik
   - translation_iso: zho
     name: 西雷尼克-尤皮克语
     auto: true

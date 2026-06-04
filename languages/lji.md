@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ライヨロ語
     auto: true
+  - translation_iso: spa
+    name: laiyolo
   - translation_iso: zho
     name: 莱约洛语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ペニョレス・ミステク語
     auto: true
+  - translation_iso: spa
+    name: mixteco de Peñoles
   - translation_iso: zho
     name: 佩尼奥莱斯混合语
     auto: true

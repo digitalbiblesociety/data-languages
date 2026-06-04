@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワンガリ語
+  - translation_iso: spa
+    name: Idioma RuKwangali
   - translation_iso: zho
     name: 卡納利語
 rolv_dialects:

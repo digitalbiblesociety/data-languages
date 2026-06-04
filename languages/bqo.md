@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: バロ語
     auto: true
+  - translation_iso: spa
+    name: balo
   - translation_iso: zho
     name: 巴洛语
     auto: true

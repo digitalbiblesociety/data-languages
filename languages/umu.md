@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンシー語
+  - translation_iso: spa
+    name: Munsee
   - translation_iso: zho
     name: 文西語
 ---

@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラウイ手話
+  - translation_iso: spa
+    name: lengua de signos malauí
   - translation_iso: zho
     name: 马拉维手语
     auto: true

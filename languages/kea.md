@@ -24,6 +24,8 @@ translations:
     name: カーボベルデ・クレオール語
   - translation_iso: kor
     name: 카보베르데 크리올
+  - translation_iso: spa
+    name: criollo caboverdiano
   - translation_iso: zho
     name: 佛得角克里奥尔语
 rolv_dialects:

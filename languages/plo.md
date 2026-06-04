@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オルタポプロッカ語
     auto: true
+  - translation_iso: spa
+    name: oluteco
   - translation_iso: zho
     name: 奥卢塔波波卢卡语
     auto: true

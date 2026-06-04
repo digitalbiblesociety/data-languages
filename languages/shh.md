@@ -24,6 +24,8 @@ translations:
     name: ショショーニ語
   - translation_iso: kor
     name: 쇼쇼니어
+  - translation_iso: spa
+    name: idioma shoshoni
   - translation_iso: zho
     name: "Sosoni' 語"
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アンディオ語
     auto: true
+  - translation_iso: spa
+    name: andio
   - translation_iso: zho
     name: 安迪奥语
     auto: true

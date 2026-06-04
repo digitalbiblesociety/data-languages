@@ -24,6 +24,8 @@ translations:
     name: ダキア語
   - translation_iso: kor
     name: 다키아어
+  - translation_iso: spa
+    name: dacio
   - translation_iso: zho
     name: 达契亚语
 ---

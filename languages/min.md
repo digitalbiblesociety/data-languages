@@ -24,6 +24,8 @@ translations:
     name: ミナンカバウ語
   - translation_iso: kor
     name: 미낭카바우어
+  - translation_iso: spa
+    name: minangkabau
   - translation_iso: zho
     name: 米南佳保语
 rolv_dialects:

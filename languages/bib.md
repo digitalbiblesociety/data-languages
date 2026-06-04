@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 비사어
+  - translation_iso: spa
+    name: bissa
   - translation_iso: zho
     name: 比萨语
     auto: true

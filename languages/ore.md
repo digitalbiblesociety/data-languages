@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オレホン語
     auto: true
+  - translation_iso: spa
+    name: Idioma maijuna
   - translation_iso: zho
     name: 奥雷洪语
     auto: true

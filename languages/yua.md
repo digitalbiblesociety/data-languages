@@ -25,6 +25,8 @@ translations:
     name: ユカテコ語
   - translation_iso: kor
     name: 유카텍어
+  - translation_iso: spa
+    name: maya
   - translation_iso: zho
     name: 猶加敦馬雅語
 ---

@@ -26,6 +26,8 @@ translations:
     name: クム語
   - translation_iso: kor
     name: 크무어
+  - translation_iso: spa
+    name: Idioma khmu
   - translation_iso: zho
     name: 克木语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
     name: フィンランド語
   - translation_iso: kor
     name: 핀란드어
+  - translation_iso: spa
+    name: finés
   - translation_iso: zho
     name: 芬兰语
 rolv_dialects:

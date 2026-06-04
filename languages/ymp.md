@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ヤマップ語
     auto: true
+  - translation_iso: spa
+    name: Yamap
   - translation_iso: zho
     name: 亚玛普语
     auto: true

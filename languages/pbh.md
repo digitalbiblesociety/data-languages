@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: エニャパ・ウォロマイプ語
     auto: true
+  - translation_iso: spa
+    name: Idioma panare
   - translation_iso: zho
     name: 埃尼亚帕沃罗迈普语
     auto: true

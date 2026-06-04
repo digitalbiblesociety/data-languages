@@ -23,6 +23,8 @@ translations:
     name: ガンダーラ語
   - translation_iso: kor
     name: 간다라어
+  - translation_iso: spa
+    name: Gāndhārī
   - translation_iso: zho
     name: 健驮逻语
 ---

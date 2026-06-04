@@ -24,6 +24,8 @@ translations:
     name: キガ語
   - translation_iso: kor
     name: 치가어
+  - translation_iso: spa
+    name: kiga
   - translation_iso: zho
     name: 奇加语
 rolv_dialects:

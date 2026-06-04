@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アネワン語
+  - translation_iso: spa
+    name: Idioma anewan
   - translation_iso: zho
     name: 恩甘雅武纳语
     auto: true

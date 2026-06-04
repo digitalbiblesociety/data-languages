@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カンビワ語
     auto: true
+  - translation_iso: spa
+    name: Idioma kambiwá
   - translation_iso: zho
     name: 坎比瓦语
     auto: true

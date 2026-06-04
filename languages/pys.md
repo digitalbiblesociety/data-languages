@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラグアイ手話
+  - translation_iso: spa
+    name: lengua de señas paraguaya
   - translation_iso: zho
     name: 巴拉圭手语
     auto: true

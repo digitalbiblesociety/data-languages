@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フンデ語
+  - translation_iso: spa
+    name: hunde
   - translation_iso: zho
     name: 胡德语
     auto: true

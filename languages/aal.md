@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アファデ語
     auto: true
+  - translation_iso: spa
+    name: afade
   - translation_iso: zho
     name: 阿法德语
     auto: true

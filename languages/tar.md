@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: 中央タラウマラ語
     auto: true
+  - translation_iso: spa
+    name: Tarahumara central
   - translation_iso: zho
     name: 中塔拉乌马拉语
     auto: true

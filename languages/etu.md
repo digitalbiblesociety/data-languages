@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エコイ語
+  - translation_iso: spa
+    name: Idioma Ekoi
   - translation_iso: zho
     name: 埃贾姆语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: クメール語
   - translation_iso: kor
     name: 크메르어
+  - translation_iso: spa
+    name: camboyano
   - translation_iso: zho
     name: 高棉语
 rolv_dialects:

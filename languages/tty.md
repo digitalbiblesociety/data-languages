@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: トリ・アイクワカイ語
     auto: true
+  - translation_iso: spa
+    name: Aikwakai
   - translation_iso: zho
     name: 西卡里塔伊语
     auto: true

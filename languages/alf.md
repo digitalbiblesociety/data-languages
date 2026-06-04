@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アレゲ語
     auto: true
+  - translation_iso: spa
+    name: alege
   - translation_iso: zho
     name: 阿莱格语
     auto: true

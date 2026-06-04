@@ -22,6 +22,8 @@ translations:
     name: दामेली भाषा
   - translation_iso: jpn
     name: ダメーリー語
+  - translation_iso: spa
+    name: dameli
   - translation_iso: zho
     name: 达梅利语
 ---

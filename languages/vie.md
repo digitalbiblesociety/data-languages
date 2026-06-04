@@ -24,6 +24,8 @@ translations:
     name: ベトナム語
   - translation_iso: kor
     name: 베트남어
+  - translation_iso: spa
+    name: vietnamita
   - translation_iso: zho
     name: 越南语
 rolv_dialects:

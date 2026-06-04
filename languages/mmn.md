@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ママンワ語
     auto: true
+  - translation_iso: spa
+    name: idioma mamanoá
   - translation_iso: zho
     name: 玛曼瓦语
     auto: true

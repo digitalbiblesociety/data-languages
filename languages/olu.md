@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: クバレ語
     auto: true
+  - translation_iso: spa
+    name: Idioma kuvale
   - translation_iso: zho
     name: 库瓦莱语
     auto: true

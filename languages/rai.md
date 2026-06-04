@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ラモアイナ語
     auto: true
+  - translation_iso: spa
+    name: Ramoaaina
   - translation_iso: zho
     name: 拉莫阿依纳语
     auto: true

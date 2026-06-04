@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: シャルワ語
     auto: true
+  - translation_iso: spa
+    name: Idioma sharwa
   - translation_iso: zho
     name: 沙尔瓦语
     auto: true

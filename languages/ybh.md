@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヤク語
     auto: true
+  - translation_iso: spa
+    name: idioma yakkha
   - translation_iso: zho
     name: 亚卡语
     auto: true

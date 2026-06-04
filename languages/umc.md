@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: マルルキニアン語
     auto: true
+  - translation_iso: spa
+    name: marrucino
   - translation_iso: zho
     name: 马鲁基尼安语
     auto: true

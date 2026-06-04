@@ -25,6 +25,8 @@ translations:
     name: 仏領ギアナのクレオール語
   - translation_iso: kor
     name: 기아나 크리올
+  - translation_iso: spa
+    name: Criollo de Guayana Francesa
   - translation_iso: zho
     name: 圭亚那克里奥尔语
 ---

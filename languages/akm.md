@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아카보어
+  - translation_iso: spa
+    name: aka-bo
   - translation_iso: zho
     name: 阿卡波语
 ---

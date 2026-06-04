@@ -25,6 +25,8 @@ translations:
     name: 牧地マリ語
   - translation_iso: kor
     name: 초원 마리어
+  - translation_iso: spa
+    name: mari de las praderas
   - translation_iso: zho
     name: 草原馬里語
 rolv_dialects:

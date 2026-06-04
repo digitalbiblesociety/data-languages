@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: テマスカルテペク・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: náhuatl oaxaqueño
   - translation_iso: zho
     name: 特马斯卡尔特佩克纳瓦特尔语
     auto: true

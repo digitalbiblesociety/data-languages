@@ -25,6 +25,8 @@ translations:
     name: ピッチャンチャジャーラ語
   - translation_iso: kor
     name: 피찬차차라어
+  - translation_iso: spa
+    name: Pitjantjatjara
   - translation_iso: zho
     name: 皮詹贾贾拉语
 rolv_dialects:

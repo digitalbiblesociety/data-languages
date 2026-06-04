@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ココパ語
+  - translation_iso: spa
+    name: cucapá
   - translation_iso: zho
     name: 科科帕语
     auto: true

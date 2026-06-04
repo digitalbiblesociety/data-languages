@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: エブグ語
     auto: true
+  - translation_iso: spa
+    name: ebughu
   - translation_iso: zho
     name: 埃布古语
     auto: true

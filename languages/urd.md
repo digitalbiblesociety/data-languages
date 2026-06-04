@@ -24,6 +24,8 @@ translations:
     name: ウルドゥー語
   - translation_iso: kor
     name: 우르두어
+  - translation_iso: spa
+    name: urdu
   - translation_iso: zho
     name: 乌尔都语
 rolv_dialects:

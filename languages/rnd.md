@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ルウンド語
     auto: true
+  - translation_iso: spa
+    name: Ruund
   - translation_iso: zho
     name: 鲁翁德语
     auto: true

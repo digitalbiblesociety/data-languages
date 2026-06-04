@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アティカム語
     auto: true
+  - translation_iso: spa
+    name: Idioma aticum
   - translation_iso: zho
     name: 乌亚梅语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クロウェ語
     auto: true
+  - translation_iso: spa
+    name: Sika
   - translation_iso: zho
     name: 西卡語
 rolv_dialects:

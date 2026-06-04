@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハヌノオ語
+  - translation_iso: spa
+    name: Hanunuo
   - translation_iso: zho
     name: 哈努诺语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: モレロス・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: náhuatl morelense
   - translation_iso: zho
     name: 莫雷洛斯纳瓦特尔语
     auto: true

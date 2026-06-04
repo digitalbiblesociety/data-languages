@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: グアヒボ語
     auto: true
+  - translation_iso: spa
+    name: idioma sikuani
   - translation_iso: zho
     name: 瓜希博语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ツワナ語
   - translation_iso: kor
     name: 츠와나어
+  - translation_iso: spa
+    name: setsuana
   - translation_iso: zho
     name: 茨瓦纳语
 rolv_dialects:

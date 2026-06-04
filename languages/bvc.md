@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バエレレア語
     auto: true
+  - translation_iso: spa
+    name: Baelelea
   - translation_iso: zho
     name: 拜莱莱阿语
     auto: true

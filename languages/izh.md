@@ -25,6 +25,8 @@ translations:
     name: イングリア語
   - translation_iso: kor
     name: 잉그리아어
+  - translation_iso: spa
+    name: ingrio
   - translation_iso: zho
     name: 伊若拉语
 rolv_dialects:

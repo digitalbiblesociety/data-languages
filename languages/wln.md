@@ -24,6 +24,8 @@ translations:
     name: ワロン語
   - translation_iso: kor
     name: 왈롱어
+  - translation_iso: spa
+    name: valón
   - translation_iso: zho
     name: 瓦隆语
 rolv_dialects:

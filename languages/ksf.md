@@ -24,6 +24,8 @@ translations:
     name: バフィア語
   - translation_iso: kor
     name: 바피아어
+  - translation_iso: spa
+    name: bafia
   - translation_iso: zho
     name: 巴菲亚语
 rolv_dialects:

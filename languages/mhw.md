@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムブクシュ語
+  - translation_iso: spa
+    name: Mbukushu
   - translation_iso: zho
     name: 姆布库苏语
     auto: true

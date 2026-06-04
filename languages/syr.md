@@ -16,6 +16,8 @@ translations:
     name: シリア語
   - translation_iso: kor
     name: 시리아어
+  - translation_iso: spa
+    name: siriaco
   - translation_iso: zho
     name: 叙利亚语
 ---

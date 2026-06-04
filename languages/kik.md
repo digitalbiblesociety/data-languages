@@ -24,6 +24,8 @@ translations:
     name: キクユ語
   - translation_iso: kor
     name: 키쿠유어
+  - translation_iso: spa
+    name: kikuyu
   - translation_iso: zho
     name: 基库尤语
 rolv_dialects:

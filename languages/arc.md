@@ -24,6 +24,8 @@ translations:
     name: 帝国アラム語
   - translation_iso: kor
     name: 아람어
+  - translation_iso: spa
+    name: arameo imperial
   - translation_iso: zho
     name: 帝国阿拉姆语
 ---

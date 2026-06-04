@@ -25,6 +25,8 @@ translations:
     name: ウィルタ語
   - translation_iso: kor
     name: 윌타어
+  - translation_iso: spa
+    name: Idioma orok
   - translation_iso: zho
     name: 鄂罗克语
 rolv_dialects:

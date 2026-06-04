@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハドラマウト語
+  - translation_iso: spa
+    name: Idioma hadramita
   - translation_iso: zho
     name: 哈德拉毛语
 ---

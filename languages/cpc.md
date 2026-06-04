@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アジェニンカ・アプルカヤリ語
     auto: true
+  - translation_iso: spa
+    name: axininca
   - translation_iso: zho
     name: 阿吉尼卡-阿普鲁卡亚利语
     auto: true

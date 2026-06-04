@@ -24,6 +24,8 @@ translations:
     name: アラビア語湾岸方言
   - translation_iso: kor
     name: 걸프 아랍어
+  - translation_iso: spa
+    name: Árabe del Golfo
   - translation_iso: zho
     name: 海湾阿拉伯语
 rolv_dialects:

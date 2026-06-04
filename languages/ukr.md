@@ -24,6 +24,8 @@ translations:
     name: ウクライナ語
   - translation_iso: kor
     name: 우크라이나어
+  - translation_iso: spa
+    name: ucraniano
   - translation_iso: zho
     name: 乌克兰语
 rolv_dialects:

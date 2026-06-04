@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ダル・シラ・ダジュ語
     auto: true
+  - translation_iso: spa
+    name: Idioma sila (Chad)
   - translation_iso: zho
     name: 达尔西拉达朱语
     auto: true

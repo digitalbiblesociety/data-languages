@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パイタビェテラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma Paí tavyterá
   - translation_iso: zho
     name: 帕伊塔维特拉语
     auto: true

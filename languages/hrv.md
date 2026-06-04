@@ -19,6 +19,8 @@ translations:
     name: クロアチア語
   - translation_iso: kor
     name: 크로아티아어
+  - translation_iso: spa
+    name: croata
   - translation_iso: zho
     name: 克罗地亚语
 rolv_dialects:

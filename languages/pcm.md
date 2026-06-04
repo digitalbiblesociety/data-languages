@@ -24,6 +24,8 @@ translations:
     name: ナイジェリア・ピジン
   - translation_iso: kor
     name: 나이지리아 피진
+  - translation_iso: spa
+    name: Pidgin nigeriano
   - translation_iso: zho
     name: 尼日利亚皮钦语
 rolv_dialects:

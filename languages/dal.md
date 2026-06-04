@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダハロ語
+  - translation_iso: spa
+    name: idioma dahalo
   - translation_iso: zho
     name: 達哈羅語
 ---

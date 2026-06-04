@@ -16,6 +16,8 @@ translations:
     name: モンテネグロ語
   - translation_iso: kor
     name: 몬테네그로어
+  - translation_iso: spa
+    name: montenegrino
   - translation_iso: zho
     name: 黑山语
 ---

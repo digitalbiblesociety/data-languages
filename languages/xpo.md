@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ポチュテク語
     auto: true
+  - translation_iso: spa
+    name: idioma pochuteco
   - translation_iso: zho
     name: 波楚特克语
     auto: true

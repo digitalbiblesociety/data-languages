@@ -25,6 +25,8 @@ translations:
     name: ブル語
   - translation_iso: kor
     name: 불루어
+  - translation_iso: spa
+    name: bulu
   - translation_iso: zho
     name: 布卢语
 rolv_dialects:

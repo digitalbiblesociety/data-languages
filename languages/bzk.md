@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ニカラグア・クレオール・イングリッシュ語
     auto: true
+  - translation_iso: spa
+    name: Inglés criollo nicaragüense
   - translation_iso: zho
     name: 蚊子海岸克里奧爾語
 rolv_dialects:

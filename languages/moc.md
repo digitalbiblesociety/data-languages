@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: モコビ語
     auto: true
+  - translation_iso: spa
+    name: idioma mocoví
   - translation_iso: zho
     name: 莫科维语
 ---

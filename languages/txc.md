@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウェタル語
     auto: true
+  - translation_iso: spa
+    name: tsetsaut
   - translation_iso: zho
     name: 策察乌特语
     auto: true

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビマ語
+  - translation_iso: spa
+    name: Bima
   - translation_iso: zho
     name: 比馬語
 rolv_dialects:

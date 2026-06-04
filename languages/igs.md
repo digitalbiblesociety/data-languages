@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: インターグロッサ
+  - translation_iso: spa
+    name: Interglossa
   - translation_iso: zho
     name: 国际语言语
     auto: true

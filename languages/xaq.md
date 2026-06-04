@@ -17,6 +17,8 @@ translations:
     name: アクイタニア語
   - translation_iso: kor
     name: 아퀴타니아어
+  - translation_iso: spa
+    name: aquitano
   - translation_iso: zho
     name: 阿基坦语
 ---

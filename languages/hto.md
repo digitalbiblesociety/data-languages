@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ミニカ・ウイトト語
     auto: true
+  - translation_iso: spa
+    name: meneca
   - translation_iso: zho
     name: 米尼卡惠托托语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: インドネシア・バジャウ語
     auto: true
+  - translation_iso: spa
+    name: Bajo
   - translation_iso: zho
     name: 印度尼西亚巴绍语
     auto: true

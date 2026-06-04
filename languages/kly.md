@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カラオ語
     auto: true
+  - translation_iso: spa
+    name: kalao
   - translation_iso: zho
     name: 卡劳语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ワヒ語
   - translation_iso: kor
     name: 와히어
+  - translation_iso: spa
+    name: wají
   - translation_iso: zho
     name: 瓦罕语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マヨ語
+  - translation_iso: spa
+    name: mayo
   - translation_iso: zho
     name: 馬約語
 ---

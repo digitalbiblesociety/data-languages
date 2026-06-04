@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サリナ語
+  - translation_iso: spa
+    name: Salinero
   - translation_iso: zho
     name: 萨利南语
     auto: true

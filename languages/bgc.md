@@ -24,6 +24,8 @@ translations:
     name: ハリヤーンウィー語
   - translation_iso: kor
     name: 하리아나어
+  - translation_iso: spa
+    name: Idioma haryanvi
   - translation_iso: zho
     name: 哈里亚纳語
 rolv_dialects:

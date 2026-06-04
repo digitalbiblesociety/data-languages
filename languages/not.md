@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノマツィゲンガ語
+  - translation_iso: spa
+    name: nomatsiguenga
   - translation_iso: zho
     name: 诺玛齐古恩加语
     auto: true

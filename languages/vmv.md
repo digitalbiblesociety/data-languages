@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バレー・マイドゥ語
     auto: true
+  - translation_iso: spa
+    name: chico
   - translation_iso: zho
     name: 山谷美都语
     auto: true

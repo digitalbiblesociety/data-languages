@@ -24,6 +24,8 @@ translations:
     name: コーラーミー語
   - translation_iso: kor
     name: 콜라미어
+  - translation_iso: spa
+    name: kolami
   - translation_iso: zho
     name: 科拉米语
 rolv_dialects:

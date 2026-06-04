@@ -25,6 +25,8 @@ translations:
     name: ユグ語
   - translation_iso: kor
     name: 유그어
+  - translation_iso: spa
+    name: yugh
   - translation_iso: zho
     name: 尤格語
 ---

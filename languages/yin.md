@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: リアング・ライ語
     auto: true
+  - translation_iso: spa
+    name: idioma yinchia
   - translation_iso: zho
     name: 日昂-莱语
     auto: true

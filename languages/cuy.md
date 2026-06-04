@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クイトラテック語
+  - translation_iso: spa
+    name: idioma cuitlateco
   - translation_iso: zho
     name: 库伊特拉特克语
     auto: true

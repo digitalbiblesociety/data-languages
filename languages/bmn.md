@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ビナ語
     auto: true
+  - translation_iso: spa
+    name: bina
   - translation_iso: zho
     name: 比纳语
     auto: true

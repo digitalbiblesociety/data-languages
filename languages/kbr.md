@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: カファ語
     auto: true
+  - translation_iso: spa
+    name: idioma kafa
   - translation_iso: zho
     name: 卡法语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: チャバカノ語
   - translation_iso: kor
     name: 차바카노어
+  - translation_iso: spa
+    name: criollo chabacano
   - translation_iso: zho
     name: 查瓦卡諾語
 rolv_dialects:

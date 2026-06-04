@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ドリオ語
     auto: true
+  - translation_iso: spa
+    name: "Dori'o"
   - translation_iso: zho
     name: 多里欧语
     auto: true

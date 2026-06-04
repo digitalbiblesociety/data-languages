@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キリワ語
+  - translation_iso: spa
+    name: idioma kiliwa
   - translation_iso: zho
     name: 基利瓦语
     auto: true

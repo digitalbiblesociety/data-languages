@@ -25,6 +25,8 @@ translations:
     name: リヴォニア語
   - translation_iso: kor
     name: 리브어
+  - translation_iso: spa
+    name: livonio
   - translation_iso: zho
     name: 立窝尼亚语
 rolv_dialects:

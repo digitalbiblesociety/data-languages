@@ -24,6 +24,8 @@ translations:
     name: モン語
   - translation_iso: kor
     name: 몬어
+  - translation_iso: spa
+    name: Mon
   - translation_iso: zho
     name: 孟语
 rolv_dialects:

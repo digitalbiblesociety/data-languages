@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンギヤンバー語
+  - translation_iso: spa
+    name: Idioma ngiyambaa
   - translation_iso: zho
     name: 旺加伊布万-恩吉亚姆巴语
     auto: true

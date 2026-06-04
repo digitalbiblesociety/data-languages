@@ -24,6 +24,8 @@ translations:
     name: アッカド語
   - translation_iso: kor
     name: 아카드어
+  - translation_iso: spa
+    name: acadio
   - translation_iso: zho
     name: 阿卡德语
 ---

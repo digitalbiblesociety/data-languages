@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウォリス語
+  - translation_iso: spa
+    name: walisiano
   - translation_iso: zho
     name: 瓦利斯語
 ---

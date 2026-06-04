@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティラムック語
+  - translation_iso: spa
+    name: idioma tillamook
   - translation_iso: zho
     name: 蒂拉莫克语
     auto: true

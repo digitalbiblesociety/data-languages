@@ -16,6 +16,8 @@ translations:
   - translation_iso: jpn
     name: トゥピナンバ語
     auto: true
+  - translation_iso: spa
+    name: tupiniquim
   - translation_iso: zho
     name: 图皮尼金语
     auto: true

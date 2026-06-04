@@ -24,6 +24,8 @@ translations:
     name: アッサム語
   - translation_iso: kor
     name: 아삼어
+  - translation_iso: spa
+    name: idioma asamés
   - translation_iso: zho
     name: 阿萨姆语
 rolv_dialects:

@@ -20,6 +20,8 @@ translations:
     name: オディア語
   - translation_iso: kor
     name: 오리야어군
+  - translation_iso: spa
+    name: oriya
   - translation_iso: zho
     name: 奥里亚语
 ---

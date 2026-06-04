@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メノミニー語
+  - translation_iso: spa
+    name: menominee
   - translation_iso: zho
     name: 梅诺米尼语
 ---

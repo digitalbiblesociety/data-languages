@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アウヘラワ語
     auto: true
+  - translation_iso: spa
+    name: "'auhelawa"
   - translation_iso: zho
     name: 奥赫拉瓦语
     auto: true

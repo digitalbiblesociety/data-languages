@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: クワルヒオクワトラツカナイ語
     auto: true
+  - translation_iso: spa
+    name: idioma kwalhioqua-tlatskanai
   - translation_iso: zho
     name: 克瓦尔希奥昆-特拉茨卡奈语
     auto: true

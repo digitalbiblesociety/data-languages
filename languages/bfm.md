@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ンメン語
     auto: true
+  - translation_iso: spa
+    name: mmen
   - translation_iso: zho
     name: 姆门语
     auto: true

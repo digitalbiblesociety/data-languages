@@ -25,6 +25,8 @@ translations:
     name: ケレク語
   - translation_iso: kor
     name: 케레크어
+  - translation_iso: spa
+    name: Idioma kerek
   - translation_iso: zho
     name: 克列克語
 rolv_dialects:

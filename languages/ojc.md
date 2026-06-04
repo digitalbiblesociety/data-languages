@@ -23,6 +23,8 @@ translations:
     name: 中部オジブワ語
   - translation_iso: kor
     name: 중앙 오지브와어
+  - translation_iso: spa
+    name: ojibwa central
   - translation_iso: zho
     name: 中奥吉布瓦语
 ---

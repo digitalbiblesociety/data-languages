@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヒマリマ語
     auto: true
+  - translation_iso: spa
+    name: Himarimã
   - translation_iso: zho
     name: 希马里玛语
     auto: true

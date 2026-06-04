@@ -17,6 +17,8 @@ translations:
     name: イヌピアック語
   - translation_iso: kor
     name: 이누피아트어
+  - translation_iso: spa
+    name: Idioma iñupiaq
   - translation_iso: zho
     name: 伊努皮克语
 ---

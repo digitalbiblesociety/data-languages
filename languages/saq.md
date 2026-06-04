@@ -24,6 +24,8 @@ translations:
     name: サンブル語
   - translation_iso: kor
     name: 삼부루어
+  - translation_iso: spa
+    name: samburu
   - translation_iso: zho
     name: 桑布鲁语
 rolv_dialects:

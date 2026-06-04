@@ -24,6 +24,8 @@ translations:
     name: チェコ語
   - translation_iso: kor
     name: 체코어
+  - translation_iso: spa
+    name: checo
   - translation_iso: zho
     name: 捷克语
 rolv_dialects:

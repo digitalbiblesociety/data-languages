@@ -24,6 +24,8 @@ translations:
     name: アラビア語キプロス方言
   - translation_iso: kor
     name: 키프로스 아랍어
+  - translation_iso: spa
+    name: árabe chipriota
   - translation_iso: zho
     name: 塞浦路斯阿拉伯语
 ---

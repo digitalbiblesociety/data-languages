@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: クミアイ語
     auto: true
+  - translation_iso: spa
+    name: diegueño
   - translation_iso: zho
     name: 库迈语
     auto: true

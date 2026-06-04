@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: アルタニ語
     auto: true
+  - translation_iso: spa
+    name: Idioma arutani
   - translation_iso: zho
     name: 阿鲁塔尼语
     auto: true

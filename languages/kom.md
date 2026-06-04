@@ -17,6 +17,8 @@ translations:
     name: コミ語
   - translation_iso: kor
     name: 코미어
+  - translation_iso: spa
+    name: komi
   - translation_iso: zho
     name: 科米語
 ---

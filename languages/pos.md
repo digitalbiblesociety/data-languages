@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サユラ語
+  - translation_iso: spa
+    name: idioma sayulteco
   - translation_iso: zho
     name: 萨尤拉波波卢卡语
     auto: true

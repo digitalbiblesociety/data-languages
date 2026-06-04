@@ -24,6 +24,8 @@ translations:
     name: イテリメン語
   - translation_iso: kor
     name: 이텔멘어
+  - translation_iso: spa
+    name: Idioma itelmen
   - translation_iso: zho
     name: 伊捷尔缅语
 rolv_dialects:

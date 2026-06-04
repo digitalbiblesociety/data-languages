@@ -19,11 +19,13 @@ translations:
     name: تيعون
     auto: true
   - translation_iso: hin
-    name: ते'उन
+    name: "ते'उन"
     auto: true
   - translation_iso: jpn
     name: テウン語
     auto: true
+  - translation_iso: spa
+    name: "Te'un"
   - translation_iso: zho
     name: 特温语
     auto: true

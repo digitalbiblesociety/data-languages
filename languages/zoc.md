@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: コパイナラ・ゾケ語
     auto: true
+  - translation_iso: spa
+    name: zoque de Copainalá
   - translation_iso: zho
     name: 科潘纳拉索克语
     auto: true

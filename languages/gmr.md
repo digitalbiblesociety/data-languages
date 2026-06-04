@@ -18,6 +18,8 @@ translations:
   - translation_iso: jpn
     name: ミルニング語
     auto: true
+  - translation_iso: spa
+    name: Idioma mirning
   - translation_iso: zho
     name: 米尔宁语
     auto: true

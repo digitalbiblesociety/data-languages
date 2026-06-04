@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イラク語
+  - translation_iso: spa
+    name: iracú
   - translation_iso: zho
     name: 伊拉库语
 rolv_dialects:

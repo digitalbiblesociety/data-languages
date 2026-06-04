@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ミアウアトラン・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Miahuatlán
   - translation_iso: zho
     name: 米亚瓦特兰-萨波特克语
     auto: true

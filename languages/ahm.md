@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: モブムリン・アイジ語
     auto: true
+  - translation_iso: spa
+    name: mobu
   - translation_iso: zho
     name: 莫布姆林艾兹语
     auto: true

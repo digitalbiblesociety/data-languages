@@ -24,6 +24,8 @@ translations:
     name: コスラエ語
   - translation_iso: kor
     name: 코스라에어
+  - translation_iso: spa
+    name: kosraeano
   - translation_iso: zho
     name: 科斯雷語
 rolv_dialects:

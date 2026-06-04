@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: フェロゲ語
     auto: true
+  - translation_iso: spa
+    name: Idioma Kaligi
   - translation_iso: zho
     name: 费罗热语
     auto: true

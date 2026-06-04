@@ -24,6 +24,8 @@ translations:
     name: ムスリム・タート語
   - translation_iso: kor
     name: 타트어
+  - translation_iso: spa
+    name: Idioma tati
   - translation_iso: zho
     name: 塔特语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アチュアルシウィアル語
     auto: true
+  - translation_iso: spa
+    name: Achuar
   - translation_iso: zho
     name: 阿楚阿尔-希维亚尔语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: トロス語
     auto: true
+  - translation_iso: spa
+    name: Idioma solos
   - translation_iso: zho
     name: 索洛斯语
     auto: true

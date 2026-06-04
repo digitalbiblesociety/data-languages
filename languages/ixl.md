@@ -25,6 +25,8 @@ translations:
     name: イシル語
   - translation_iso: kor
     name: 이실어
+  - translation_iso: spa
+    name: ixil
   - translation_iso: zho
     name: 伊克西尔语
 rolv_dialects:

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タヤルト・タマジェク語
+  - translation_iso: spa
+    name: Idioma tamajeq de Air
   - translation_iso: zho
     name: 塔亚尔特塔玛杰克语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨンカラ語
+  - translation_iso: spa
+    name: Yoncalla
   - translation_iso: zho
     name: 南卡拉普亚语
     auto: true

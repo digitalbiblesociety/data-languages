@@ -24,6 +24,8 @@ translations:
     name: ガラ語
   - translation_iso: kor
     name: 걸라어
+  - translation_iso: spa
+    name: gulá
   - translation_iso: zho
     name: 古拉語
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワイガリ語
+  - translation_iso: spa
+    name: waigali
   - translation_iso: zho
     name: 卡拉沙阿拉语
 rolv_dialects:

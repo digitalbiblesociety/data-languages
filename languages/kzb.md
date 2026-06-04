@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: カイボボ語
     auto: true
+  - translation_iso: spa
+    name: Kaibobo
   - translation_iso: zho
     name: 凯博博语
     auto: true

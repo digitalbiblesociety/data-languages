@@ -25,6 +25,8 @@ translations:
     name: ギャチック語
   - translation_iso: kor
     name: 응가틱 크리올
+  - translation_iso: spa
+    name: ngatik
   - translation_iso: zho
     name: 恩格蒂克克里奥尔语
     auto: true

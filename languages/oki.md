@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オキエク語
+  - translation_iso: spa
+    name: ogiek
   - translation_iso: zho
     name: 奥基克语
     auto: true

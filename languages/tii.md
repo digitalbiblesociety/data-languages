@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Tiene語
+  - translation_iso: spa
+    name: tiene
   - translation_iso: zho
     name: 蒂埃内语
     auto: true

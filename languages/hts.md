@@ -21,6 +21,8 @@ translations:
     name: ハヅァ語
   - translation_iso: kor
     name: 하자어
+  - translation_iso: spa
+    name: Idioma hadza
   - translation_iso: zho
     name: 哈扎语
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラグ語
+  - translation_iso: spa
+    name: Idioma Laghu
   - translation_iso: zho
     name: 拉古语
     auto: true

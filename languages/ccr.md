@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: カカオペラ語
     auto: true
+  - translation_iso: spa
+    name: Cacaopera
   - translation_iso: zho
     name: 卡卡奥佩拉语
     auto: true

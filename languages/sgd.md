@@ -24,6 +24,8 @@ translations:
     name: スリガオノン語
   - translation_iso: kor
     name: 수리가오논어
+  - translation_iso: spa
+    name: idioma surigaense
   - translation_iso: zho
     name: 蘇里高農語
 rolv_dialects:

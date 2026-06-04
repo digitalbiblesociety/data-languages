@@ -23,6 +23,8 @@ translations:
     name: ランプン語
   - translation_iso: kor
     name: 람풍어
+  - translation_iso: spa
+    name: Idioma lampung
   - translation_iso: zho
     name: 楠榜语
 rolv_dialects:

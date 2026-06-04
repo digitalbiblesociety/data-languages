@@ -24,6 +24,8 @@ translations:
     name: パーリ語
   - translation_iso: kor
     name: 팔리어
+  - translation_iso: spa
+    name: pali
   - translation_iso: zho
     name: 巴利语
 ---

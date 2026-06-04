@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マサリート語
+  - translation_iso: spa
+    name: Lengua masalit
   - translation_iso: zho
     name: 马撒利特语
 rolv_dialects:

@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 바이누크사미크어
+  - translation_iso: spa
+    name: bainuko-samik
   - translation_iso: zho
     name: 拜努克-萨米克语
     auto: true

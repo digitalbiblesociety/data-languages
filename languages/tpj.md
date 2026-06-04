@@ -19,6 +19,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タピエテ語
+  - translation_iso: spa
+    name: Tapieté
   - translation_iso: zho
     name: 塔皮埃特语
     auto: true

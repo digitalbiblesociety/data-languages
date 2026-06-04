@@ -25,6 +25,8 @@ translations:
     name: 沖縄語
   - translation_iso: kor
     name: 오키나와어
+  - translation_iso: spa
+    name: okinawense
   - translation_iso: zho
     name: 冲绳语
 rolv_dialects:

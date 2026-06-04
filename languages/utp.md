@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンバ語
+  - translation_iso: spa
+    name: Amba
   - translation_iso: zho
     name: 阿巴语（所罗门群岛）
     auto: true

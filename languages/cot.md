@@ -22,6 +22,8 @@ translations:
     name: कैक्विंटे
   - translation_iso: jpn
     name: カキンテ語
+  - translation_iso: spa
+    name: caquinte
   - translation_iso: zho
     name: 卡基因特语
     auto: true

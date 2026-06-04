@@ -22,6 +22,8 @@ translations:
     name: ग्वाटेमेले सांकेतिक भाषा
   - translation_iso: jpn
     name: グアテマラ手話
+  - translation_iso: spa
+    name: lengua de señas guatemalteco
   - translation_iso: zho
     name: 危地马拉手语
     auto: true

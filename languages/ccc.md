@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チャミクロ語
+  - translation_iso: spa
+    name: chamicuro
   - translation_iso: zho
     name: 查米库罗语
 ---

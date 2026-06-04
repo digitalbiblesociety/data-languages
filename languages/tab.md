@@ -25,6 +25,8 @@ translations:
     name: タバサラン語
   - translation_iso: kor
     name: 타바사란어
+  - translation_iso: spa
+    name: tabasarán
   - translation_iso: zho
     name: 塔巴萨兰语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: デンディ語
     auto: true
+  - translation_iso: spa
+    name: lengua dendi
   - translation_iso: zho
     name: 邓迪语
     auto: true

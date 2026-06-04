@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヤカ語（コンゴ民主共和国）
     auto: true
+  - translation_iso: spa
+    name: yaka
   - translation_iso: zho
     name: 亚卡语(刚果民主共和国)
     auto: true

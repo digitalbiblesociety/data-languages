@@ -21,6 +21,8 @@ translations:
     name: घाना की सांकेतिक भाषा
   - translation_iso: jpn
     name: ガーナ手話
+  - translation_iso: spa
+    name: lenguaje de signos de Ghana
   - translation_iso: zho
     name: 加纳手语
     auto: true

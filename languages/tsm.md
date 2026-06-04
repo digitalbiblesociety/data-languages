@@ -22,6 +22,8 @@ translations:
     name: तुर्की सांकेतिक भाषा
   - translation_iso: jpn
     name: トルコ手話
+  - translation_iso: spa
+    name: lengua de señas turca
   - translation_iso: zho
     name: 土耳其手語
 ---

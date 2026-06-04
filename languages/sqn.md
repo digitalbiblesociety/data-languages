@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: コネストガ語
     auto: true
+  - translation_iso: spa
+    name: Susquehannock
   - translation_iso: zho
     name: 薩斯奎哈諾克語
 ---

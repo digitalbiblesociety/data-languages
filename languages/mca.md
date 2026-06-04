@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マカ語
     auto: true
+  - translation_iso: spa
+    name: idioma maká
   - translation_iso: zho
     name: 马卡语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: イバン語
   - translation_iso: kor
     name: 이반어
+  - translation_iso: spa
+    name: Idioma iban
   - translation_iso: zho
     name: 伊班语
 rolv_dialects:

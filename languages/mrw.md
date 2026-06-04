@@ -25,6 +25,8 @@ translations:
     name: マラナオ語
   - translation_iso: kor
     name: 마라나오어
+  - translation_iso: spa
+    name: idioma maranao
   - translation_iso: zho
     name: 马拉瑙语
 rolv_dialects:

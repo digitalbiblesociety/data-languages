@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: プライェロ語
     auto: true
+  - translation_iso: spa
+    name: Playero
   - translation_iso: zho
     name: 玩耍罗语
     auto: true

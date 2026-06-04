@@ -25,6 +25,8 @@ translations:
     name: オロチ語
   - translation_iso: kor
     name: 오로치어
+  - translation_iso: spa
+    name: oroch
   - translation_iso: zho
     name: 奥罗奇语
 rolv_dialects:

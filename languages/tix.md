@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: 南部ティワ語
     auto: true
+  - translation_iso: spa
+    name: idioma tigua meridional
   - translation_iso: zho
     name: 南蒂瓦语
     auto: true

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 우루어
+  - translation_iso: spa
+    name: idioma uru
   - translation_iso: zho
     name: 烏魯語
 ---

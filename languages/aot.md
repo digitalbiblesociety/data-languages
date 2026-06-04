@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アトン語(インド)
     auto: true
+  - translation_iso: spa
+    name: idioma atong
   - translation_iso: zho
     name: 阿东语
     auto: true

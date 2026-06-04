@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ドベル語
     auto: true
+  - translation_iso: spa
+    name: Dobel
   - translation_iso: zho
     name: 多贝尔语
     auto: true

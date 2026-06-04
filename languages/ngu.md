@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ゲレロ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Mexicano de Guerrero
   - translation_iso: zho
     name: 格雷罗纳瓦特尔语
     auto: true

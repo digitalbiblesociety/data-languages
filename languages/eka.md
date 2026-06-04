@@ -24,6 +24,8 @@ translations:
     name: エカジュク語
   - translation_iso: kor
     name: 이카죽어
+  - translation_iso: spa
+    name: ekajuk
   - translation_iso: zho
     name: 艾卡朱克语
 rolv_dialects:

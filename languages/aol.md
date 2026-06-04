@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アロール語
+  - translation_iso: spa
+    name: Alor
   - translation_iso: zho
     name: 阿洛语
 rolv_dialects:

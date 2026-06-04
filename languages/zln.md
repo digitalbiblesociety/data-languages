@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 連山チワン語
+  - translation_iso: spa
+    name: Zhuang Lianshan
   - translation_iso: zho
     name: 廉山壮语
     auto: true

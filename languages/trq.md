@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: サン・マルティン・イトゥニョーソ・トリケ語
     auto: true
+  - translation_iso: spa
+    name: Triqui de Itunyoso
   - translation_iso: zho
     name: 圣马丁伊图尼奥索特里基语
     auto: true

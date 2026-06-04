@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: カルコ語
     auto: true
+  - translation_iso: spa
+    name: karko
   - translation_iso: zho
     name: 卡尔科语
     auto: true

@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: マト・グロッソ・アララ語
     auto: true
+  - translation_iso: spa
+    name: Idioma arára
   - translation_iso: zho
     name: 马托格罗索阿拉拉语
     auto: true

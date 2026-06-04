@@ -24,6 +24,8 @@ translations:
     name: 呉語
   - translation_iso: kor
     name: 우어
+  - translation_iso: spa
+    name: Chino wu
   - translation_iso: zho
     name: 吳語
 rolv_dialects:

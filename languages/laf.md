@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラフォファ諸語
+  - translation_iso: spa
+    name: Lenguas lalofa
   - translation_iso: zho
     name: 拉福法语
     auto: true

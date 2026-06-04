@@ -25,6 +25,8 @@ translations:
     name: マカサエ語
   - translation_iso: kor
     name: 마카사이어
+  - translation_iso: spa
+    name: makasae
   - translation_iso: zho
     name: 玛卡塞语
     auto: true

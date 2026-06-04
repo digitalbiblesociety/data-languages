@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: フプデ語
     auto: true
+  - translation_iso: spa
+    name: idioma judpa
   - translation_iso: zho
     name: 胡普德语
     auto: true

@@ -17,6 +17,8 @@ translations:
     name: マダガスカル語
   - translation_iso: kor
     name: 말라가시어
+  - translation_iso: spa
+    name: malgache
   - translation_iso: zho
     name: 马达加斯加语
 ---

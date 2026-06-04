@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グーグ・イミディル語
+  - translation_iso: spa
+    name: Idioma guugu yimithirr
   - translation_iso: zho
     name: 古古伊米吉尔语
 ---

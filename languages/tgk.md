@@ -24,6 +24,8 @@ translations:
     name: タジク語
   - translation_iso: kor
     name: 타지크어
+  - translation_iso: spa
+    name: tayiko
   - translation_iso: zho
     name: 塔吉克语
 rolv_dialects:

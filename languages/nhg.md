@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: テテルシンゴ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: náhuatl tetelcinteco
   - translation_iso: zho
     name: 特萊爾辛戈納瓦特爾語
 ---

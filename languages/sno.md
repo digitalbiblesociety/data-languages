@@ -16,6 +16,8 @@ translations:
   - translation_iso: jpn
     name: スカジット・ニスクワリ語
     auto: true
+  - translation_iso: spa
+    name: Snohomish
   - translation_iso: zho
     name: 斯诺霍米什语
     auto: true

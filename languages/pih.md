@@ -24,6 +24,8 @@ translations:
     name: ピトケアン語
   - translation_iso: kor
     name: 핏케언어
+  - translation_iso: spa
+    name: pitcairnés
   - translation_iso: zho
     name: 皮特肯語
 ---

@@ -24,6 +24,8 @@ translations:
     name: シンド語
   - translation_iso: kor
     name: 신디어
+  - translation_iso: spa
+    name: sindhi
   - translation_iso: zho
     name: 信德语
 rolv_dialects:

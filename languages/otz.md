@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: イクステンコ・オトミ語
     auto: true
+  - translation_iso: spa
+    name: otomí de Ixtenco
   - translation_iso: zho
     name: 伊克斯滕科奥托米语
     auto: true

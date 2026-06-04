@@ -24,6 +24,8 @@ translations:
     name: アラビア語エジプト方言
   - translation_iso: kor
     name: 이집트 아랍어
+  - translation_iso: spa
+    name: árabe egipcio
   - translation_iso: zho
     name: 埃及阿拉伯语
 rolv_dialects:

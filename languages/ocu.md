@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アッツィンゴ・マトラツィンカ語
     auto: true
+  - translation_iso: spa
+    name: tlahuica
   - translation_iso: zho
     name: 阿特津戈马特拉特辛卡语
     auto: true

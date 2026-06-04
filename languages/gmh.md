@@ -24,6 +24,8 @@ translations:
     name: 中高ドイツ語
   - translation_iso: kor
     name: 중세 고지 독일어
+  - translation_iso: spa
+    name: alto alemán medio
   - translation_iso: zho
     name: 中古高地德语
 ---

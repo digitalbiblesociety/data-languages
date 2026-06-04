@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チアパネック語
+  - translation_iso: spa
+    name: chiapaneco
   - translation_iso: zho
     name: 恰帕内克语
     auto: true

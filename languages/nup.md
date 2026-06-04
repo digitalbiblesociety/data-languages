@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌペ語
+  - translation_iso: spa
+    name: nupe
   - translation_iso: zho
     name: 努佩语
 rolv_dialects:

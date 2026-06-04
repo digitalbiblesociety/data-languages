@@ -25,6 +25,8 @@ translations:
     name: アリュートル語
   - translation_iso: kor
     name: 알루토르어
+  - translation_iso: spa
+    name: alutor
   - translation_iso: zho
     name: 阿留特語
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コラナ語
+  - translation_iso: spa
+    name: Idioma korana
   - translation_iso: zho
     name: 科拉纳语
     auto: true

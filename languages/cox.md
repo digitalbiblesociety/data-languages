@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ナンティ語
     auto: true
+  - translation_iso: spa
+    name: pucapucari
   - translation_iso: zho
     name: 南蒂语
     auto: true

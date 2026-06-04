@@ -24,6 +24,8 @@ translations:
     name: ヤップ語
   - translation_iso: kor
     name: 야프어
+  - translation_iso: spa
+    name: Idioma yapés
   - translation_iso: zho
     name: 雅浦語
 ---

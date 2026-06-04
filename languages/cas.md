@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モセテン・チマネ諸語
+  - translation_iso: spa
+    name: Lenguas mosetenas
   - translation_iso: zho
     name: 西曼内语
     auto: true

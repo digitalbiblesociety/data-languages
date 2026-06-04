@@ -18,6 +18,8 @@ translations:
   - translation_iso: jpn
     name: ングナワル語
     auto: true
+  - translation_iso: spa
+    name: Idioma ngunnawal
   - translation_iso: zho
     name: 南古纳瓦尔语
     auto: true

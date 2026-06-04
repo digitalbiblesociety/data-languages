@@ -24,6 +24,8 @@ translations:
     name: クワニャマ語
   - translation_iso: kor
     name: 콰냐마어
+  - translation_iso: spa
+    name: idioma kuanyama
   - translation_iso: zho
     name: 夸摩马语
 rolv_dialects:

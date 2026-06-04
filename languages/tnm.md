@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タブラ語
     auto: true
+  - translation_iso: spa
+    name: tabla
   - translation_iso: zho
     name: 塔布拉语
     auto: true

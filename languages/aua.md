@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アスンボア語
+  - translation_iso: spa
+    name: Idioma asumboa
   - translation_iso: zho
     name: 阿苏姆博亚语
     auto: true

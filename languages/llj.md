@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ラジ・ラジ語
     auto: true
+  - translation_iso: spa
+    name: Idioma latji latji
   - translation_iso: zho
     name: 拉吉-拉吉语
     auto: true

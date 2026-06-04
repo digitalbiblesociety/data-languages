@@ -22,6 +22,8 @@ translations:
     name: क्यूबेक साइन लैंग्वेज
   - translation_iso: jpn
     name: ケベック手話
+  - translation_iso: spa
+    name: lengua de señas quebequesa
   - translation_iso: zho
     name: 魁北克手语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: トリンギット語
   - translation_iso: kor
     name: 틀링깃어
+  - translation_iso: spa
+    name: tlingit
   - translation_iso: zho
     name: 特林吉特語
 rolv_dialects:

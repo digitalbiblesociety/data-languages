@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: サラル語
     auto: true
+  - translation_iso: spa
+    name: Selaru
   - translation_iso: zho
     name: 塞拉鲁语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナスカピ語
+  - translation_iso: spa
+    name: idioma naskapi
   - translation_iso: zho
     name: 纳斯卡皮语
 rolv_dialects:

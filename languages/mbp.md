@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィワ語
+  - translation_iso: spa
+    name: Damana
   - translation_iso: zho
     name: 马拉约语
     auto: true

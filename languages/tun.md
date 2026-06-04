@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥニカ語
+  - translation_iso: spa
+    name: Tunica
   - translation_iso: zho
     name: 圖尼加語
 ---

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: マルゴスヤロウィルカロウリコチャケチュア語
     auto: true
+  - translation_iso: spa
+    name: quechua de Margos-Yarowilca-Lauricocha
   - translation_iso: zho
     name: 马尔戈斯-亚罗威尔卡-劳里科查克丘亚语
     auto: true

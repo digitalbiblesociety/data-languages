@@ -17,6 +17,8 @@ translations:
     name: イヌクティトゥット語
   - translation_iso: kor
     name: 이누크티투트어
+  - translation_iso: spa
+    name: inuktitut
   - translation_iso: zho
     name: 伊努克提图特语
 ---

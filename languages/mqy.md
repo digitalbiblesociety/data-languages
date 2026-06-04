@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンガライ語
+  - translation_iso: spa
+    name: Manggarai
   - translation_iso: zho
     name: 芒加赖语
     auto: true

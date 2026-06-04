@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아카케데어
+  - translation_iso: spa
+    name: Idioma kede
   - translation_iso: zho
     name: （Aka-）Kede
 ---

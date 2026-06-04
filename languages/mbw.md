@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: マリング語
     auto: true
+  - translation_iso: spa
+    name: Idioma maring
   - translation_iso: zho
     name: 马林语
     auto: true

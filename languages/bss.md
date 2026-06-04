@@ -23,6 +23,8 @@ translations:
     name: アコース語
   - translation_iso: kor
     name: 아쿠즈어
+  - translation_iso: spa
+    name: akoose
   - translation_iso: zho
     name: 阿库色语
 rolv_dialects:

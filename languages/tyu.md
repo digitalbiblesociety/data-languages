@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: クア語
     auto: true
+  - translation_iso: spa
+    name: Kua
   - translation_iso: zho
     name: 夸语
     auto: true

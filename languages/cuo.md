@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クマナゴト語
+  - translation_iso: spa
+    name: cumanagoto
   - translation_iso: zho
     name: 库马纳戈托语
 ---

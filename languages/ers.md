@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルス語
+  - translation_iso: spa
+    name: idioma ersu
   - translation_iso: zho
     name: 爾蘇語
 rolv_dialects:

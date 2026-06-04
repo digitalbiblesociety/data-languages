@@ -25,6 +25,8 @@ translations:
     name: ポラリ
   - translation_iso: kor
     name: 폴라리
+  - translation_iso: spa
+    name: Polari
   - translation_iso: zho
     name: 波拉里语
     auto: true

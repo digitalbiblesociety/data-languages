@@ -24,6 +24,8 @@ translations:
     name: インターリングア
   - translation_iso: kor
     name: 인테르링구아
+  - translation_iso: spa
+    name: interlingua
   - translation_iso: zho
     name: 国际语
 ---

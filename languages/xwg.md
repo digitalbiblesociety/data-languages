@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クウェグ語
     auto: true
+  - translation_iso: spa
+    name: Idioma kwegu
   - translation_iso: zho
     name: 克韦古语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: スンダ語
   - translation_iso: kor
     name: 순다어
+  - translation_iso: spa
+    name: sundanés
   - translation_iso: zho
     name: 巽他语
 rolv_dialects:

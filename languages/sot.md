@@ -24,6 +24,8 @@ translations:
     name: ソト語
   - translation_iso: kor
     name: 소토어
+  - translation_iso: spa
+    name: sesotho
   - translation_iso: zho
     name: 索托语
 ---

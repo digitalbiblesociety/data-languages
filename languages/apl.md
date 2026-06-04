@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: リパン・アパッチ語
     auto: true
+  - translation_iso: spa
+    name: Lipán
   - translation_iso: zho
     name: 利潘阿帕奇语
     auto: true

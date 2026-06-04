@@ -25,6 +25,8 @@ translations:
     name: ヌクオロ語
   - translation_iso: kor
     name: 누쿠오로어
+  - translation_iso: spa
+    name: Idioma nukuoro
   - translation_iso: zho
     name: 努库奥罗语
     auto: true

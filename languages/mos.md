@@ -24,6 +24,8 @@ translations:
     name: モシ語
   - translation_iso: kor
     name: 모레어
+  - translation_iso: spa
+    name: mossi
   - translation_iso: zho
     name: 莫西语
 rolv_dialects:

@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シセル語
+  - translation_iso: spa
+    name: sículo
   - translation_iso: zho
     name: 西采尔语
     auto: true

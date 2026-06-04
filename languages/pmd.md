@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: パランガンミッダン語
     auto: true
+  - translation_iso: spa
+    name: Idioma pallanganmiddang
   - translation_iso: zho
     name: 帕兰甘米丁语
     auto: true

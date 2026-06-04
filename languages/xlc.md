@@ -25,6 +25,8 @@ translations:
     name: リュキア語
   - translation_iso: kor
     name: 리키아어
+  - translation_iso: spa
+    name: licio
   - translation_iso: zho
     name: 呂基亞語
 ---

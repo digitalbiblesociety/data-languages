@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タルテッソス語
+  - translation_iso: spa
+    name: tartésico
   - translation_iso: zho
     name: 塔特西语
 ---

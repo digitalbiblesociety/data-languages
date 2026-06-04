@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガダミス語
+  - translation_iso: spa
+    name: Idioma ghadamés
   - translation_iso: zho
     name: 加达梅斯语
     auto: true

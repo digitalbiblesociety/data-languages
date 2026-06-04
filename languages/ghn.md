@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガノンガ語
+  - translation_iso: spa
+    name: Ghanongga
   - translation_iso: zho
     name: 加农加语
     auto: true

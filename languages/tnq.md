@@ -25,6 +25,8 @@ translations:
     name: タイノ語
   - translation_iso: kor
     name: 타이노어
+  - translation_iso: spa
+    name: taíno
   - translation_iso: zho
     name: 泰诺语
 ---

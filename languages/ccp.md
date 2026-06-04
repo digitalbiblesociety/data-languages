@@ -24,6 +24,8 @@ translations:
     name: チャクマ語
   - translation_iso: kor
     name: 차크마어
+  - translation_iso: spa
+    name: chakma
   - translation_iso: zho
     name: 查克瑪語
 rolv_dialects:

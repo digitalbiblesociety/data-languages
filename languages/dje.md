@@ -24,6 +24,8 @@ translations:
     name: ザルマ語
   - translation_iso: kor
     name: 자르마어
+  - translation_iso: spa
+    name: Idioma zarma
   - translation_iso: zho
     name: 查爾馬語
 rolv_dialects:

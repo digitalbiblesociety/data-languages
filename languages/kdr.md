@@ -25,6 +25,8 @@ translations:
     name: カライム語
   - translation_iso: kor
     name: 카라임어
+  - translation_iso: spa
+    name: karaim
   - translation_iso: zho
     name: 卡拉伊姆語
 rolv_dialects:

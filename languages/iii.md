@@ -24,6 +24,8 @@ translations:
     name: 四川彝語
   - translation_iso: kor
     name: 눠쑤어
+  - translation_iso: spa
+    name: Idioma nuosu
   - translation_iso: zho
     name: 彝語北部方言
 rolv_dialects:

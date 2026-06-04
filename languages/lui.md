@@ -24,6 +24,8 @@ translations:
     name: ルイセーニョ語
   - translation_iso: kor
     name: 루이세노어
+  - translation_iso: spa
+    name: luiseño
   - translation_iso: zho
     name: 卢伊塞诺语
 rolv_dialects:

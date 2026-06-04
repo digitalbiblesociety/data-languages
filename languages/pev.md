@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ペモノ語
     auto: true
+  - translation_iso: spa
+    name: Idioma pémono
   - translation_iso: zho
     name: 佩莫诺语
     auto: true

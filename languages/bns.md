@@ -22,6 +22,8 @@ translations:
     name: बुंदेली भाषा
   - translation_iso: jpn
     name: ブンデーリー語
+  - translation_iso: spa
+    name: bundeli
   - translation_iso: zho
     name: 本德利语
 rolv_dialects:

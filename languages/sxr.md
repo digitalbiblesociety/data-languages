@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サアロア語
+  - translation_iso: spa
+    name: Idioma saaroa
   - translation_iso: zho
     name: 拉阿鲁哇语
 ---

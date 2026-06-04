@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カラス語
     auto: true
+  - translation_iso: spa
+    name: Idioma karas
   - translation_iso: zho
     name: 卡拉斯语
     auto: true

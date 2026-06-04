@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カラジャ語
     auto: true
+  - translation_iso: spa
+    name: idioma karayá
   - translation_iso: zho
     name: 卡拉贾语
     auto: true

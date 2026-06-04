@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ググベラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma koko-bera
   - translation_iso: zho
     name: 古古贝拉语
     auto: true

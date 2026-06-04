@@ -24,6 +24,8 @@ translations:
     name: アラゴン語
   - translation_iso: kor
     name: 아라곤어
+  - translation_iso: spa
+    name: aragonés
   - translation_iso: zho
     name: 阿拉贡语
 rolv_dialects:

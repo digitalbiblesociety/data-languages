@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミジ諸語
+  - translation_iso: spa
+    name: idioma miji
   - translation_iso: zho
     name: 萨亚隆语
     auto: true

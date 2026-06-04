@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: カニングラ語
     auto: true
+  - translation_iso: spa
+    name: kaningra
   - translation_iso: zho
     name: 卡宁格拉语
     auto: true

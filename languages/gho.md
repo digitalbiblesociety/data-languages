@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴマラ語
+  - translation_iso: spa
+    name: bereber ghomari
   - translation_iso: zho
     name: 加马拉语
     auto: true

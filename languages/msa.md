@@ -18,6 +18,8 @@ translations:
     name: マレー語
   - translation_iso: kor
     name: 말레이어
+  - translation_iso: spa
+    name: malayo
   - translation_iso: zho
     name: 马来语
 ---

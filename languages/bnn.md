@@ -25,6 +25,8 @@ translations:
     name: ブヌン語
   - translation_iso: kor
     name: 부눈어
+  - translation_iso: spa
+    name: Idioma bunun
   - translation_iso: zho
     name: 布農語
 rolv_dialects:

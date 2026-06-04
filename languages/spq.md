@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ロレート・ウカヤリスペイン語
     auto: true
+  - translation_iso: spa
+    name: español amazónico
   - translation_iso: zho
     name: 洛雷托-烏卡亞利西班牙語
 ---

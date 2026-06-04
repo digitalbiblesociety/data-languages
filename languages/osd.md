@@ -18,6 +18,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディゴル方言
+  - translation_iso: spa
+    name: Digor
   - translation_iso: zho
     name: 迪格隆奧塞提亞語
 ---

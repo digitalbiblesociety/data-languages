@@ -23,6 +23,8 @@ translations:
     name: パフラヴィー語
   - translation_iso: kor
     name: 팔라비어
+  - translation_iso: spa
+    name: Persa medio
   - translation_iso: zho
     name: 中古波斯语
 ---

@@ -21,6 +21,8 @@ translations:
     name: पाकिसतान इशारा
   - translation_iso: jpn
     name: パキスタン手話
+  - translation_iso: spa
+    name: lengua de señas pakistaní
   - translation_iso: zho
     name: 巴基斯坦手语
 ---

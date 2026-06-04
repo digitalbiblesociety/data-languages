@@ -25,6 +25,8 @@ translations:
     name: ウリチ語
   - translation_iso: kor
     name: 울치어
+  - translation_iso: spa
+    name: ulch
   - translation_iso: zho
     name: 乌尔奇语
 ---

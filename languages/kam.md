@@ -24,6 +24,8 @@ translations:
     name: カンバ語
   - translation_iso: kor
     name: 캄바어
+  - translation_iso: spa
+    name: Idioma kamba
   - translation_iso: zho
     name: 坎巴语
 rolv_dialects:

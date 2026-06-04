@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ティモール・ピジン語
     auto: true
+  - translation_iso: spa
+    name: portugués criollo de Bidau
   - translation_iso: zho
     name: 帝汶皮钦语
     auto: true

@@ -18,6 +18,8 @@ translations:
     name: クロニア語
   - translation_iso: kor
     name: 쿠로니아어
+  - translation_iso: spa
+    name: curonio
   - translation_iso: zho
     name: 库隆语
     auto: true

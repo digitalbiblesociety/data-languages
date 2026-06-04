@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハマー語
+  - translation_iso: spa
+    name: hamer
   - translation_iso: zho
     name: 哈默-班纳语
     auto: true

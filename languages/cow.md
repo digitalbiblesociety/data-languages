@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カウリッツ語
+  - translation_iso: spa
+    name: Cowlitz
   - translation_iso: zho
     name: 考利茨语
     auto: true

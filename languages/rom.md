@@ -17,6 +17,8 @@ translations:
     name: ロマ語
   - translation_iso: kor
     name: 롬어
+  - translation_iso: spa
+    name: romaní
   - translation_iso: zho
     name: 罗姆语
 ---

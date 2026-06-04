@@ -24,6 +24,8 @@ translations:
     name: キリバス語
   - translation_iso: kor
     name: 키리바시어
+  - translation_iso: spa
+    name: gilbertino
   - translation_iso: zho
     name: 吉里巴斯語
 rolv_dialects:

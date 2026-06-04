@@ -25,6 +25,8 @@ translations:
     name: リディア語
   - translation_iso: kor
     name: 리디아어
+  - translation_iso: spa
+    name: lidio
   - translation_iso: zho
     name: 呂底亞語
 ---

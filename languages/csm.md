@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: セントラル・シエラ・ミウォク語
     auto: true
+  - translation_iso: spa
+    name: miwok de sierra central
   - translation_iso: zho
     name: 中利埃拉米沃克语
     auto: true

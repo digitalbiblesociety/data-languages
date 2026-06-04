@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルンブ語
+  - translation_iso: spa
+    name: lumbu
   - translation_iso: zho
     name: 龙布语
     auto: true

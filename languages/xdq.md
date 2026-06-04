@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カジュタク語
+  - translation_iso: spa
+    name: idioma kaytak
   - translation_iso: zho
     name: 凯塔格语
     auto: true

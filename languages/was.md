@@ -21,6 +21,8 @@ translations:
     name: ワショ語
   - translation_iso: kor
     name: 와쇼어
+  - translation_iso: spa
+    name: washo
   - translation_iso: zho
     name: 瓦修語
 ---

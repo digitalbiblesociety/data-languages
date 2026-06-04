@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バティ語
     auto: true
+  - translation_iso: spa
+    name: bati
   - translation_iso: zho
     name: 巴蒂语（喀麦隆）
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ティグリニャ語
   - translation_iso: kor
     name: 티그리냐어
+  - translation_iso: spa
+    name: idioma tigriña
   - translation_iso: zho
     name: 提格雷尼亚语
 rolv_dialects:

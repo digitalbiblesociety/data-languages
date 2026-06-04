@@ -24,6 +24,8 @@ translations:
     name: フォックス語
   - translation_iso: kor
     name: 폭스어
+  - translation_iso: spa
+    name: Meskwaki
   - translation_iso: zho
     name: 福克斯語
 rolv_dialects:

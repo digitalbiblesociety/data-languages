@@ -26,6 +26,8 @@ translations:
     name: カピス語
   - translation_iso: kor
     name: 카피스논어
+  - translation_iso: spa
+    name: idioma capizano
   - translation_iso: zho
     name: 卡皮塞尼奧語
 ---

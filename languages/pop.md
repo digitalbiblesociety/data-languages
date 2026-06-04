@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: プワプワ語
     auto: true
+  - translation_iso: spa
+    name: Idioma pwapwâ
   - translation_iso: zho
     name: 普瓦普瓦语
     auto: true

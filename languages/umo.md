@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バルバドス語
     auto: true
+  - translation_iso: spa
+    name: Umotina
   - translation_iso: zho
     name: 乌莫蒂纳语
     auto: true

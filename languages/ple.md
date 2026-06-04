@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パルエ語
     auto: true
+  - translation_iso: spa
+    name: Palue
   - translation_iso: zho
     name: 帕卢厄语
 ---

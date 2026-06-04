@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バニワ語
+  - translation_iso: spa
+    name: baniwa
   - translation_iso: zho
     name: 卡魯語
 ---

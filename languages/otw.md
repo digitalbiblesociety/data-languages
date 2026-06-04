@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オタワ語
+  - translation_iso: spa
+    name: ottawa
   - translation_iso: zho
     name: 渥太華語
 ---

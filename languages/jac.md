@@ -25,6 +25,8 @@ translations:
     name: ハカルテク語
   - translation_iso: kor
     name: 하칼테크어
+  - translation_iso: spa
+    name: jacalteco
   - translation_iso: zho
     name: 波普蒂语
     auto: true

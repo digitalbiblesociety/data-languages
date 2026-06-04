@@ -24,6 +24,8 @@ translations:
     name: サライキ語
   - translation_iso: kor
     name: 사라이키어
+  - translation_iso: spa
+    name: seraikí
   - translation_iso: zho
     name: 色萊基語
 rolv_dialects:

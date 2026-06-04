@@ -25,6 +25,8 @@ translations:
     name: ガラティア語
   - translation_iso: kor
     name: 갈라티아어
+  - translation_iso: spa
+    name: gálata
   - translation_iso: zho
     name: 加拉提亞語
 ---

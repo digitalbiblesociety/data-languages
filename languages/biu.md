@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ビエテ語
     auto: true
+  - translation_iso: spa
+    name: idioma biete
   - translation_iso: zho
     name: 比埃特语
     auto: true

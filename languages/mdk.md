@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マングトゥ語
     auto: true
+  - translation_iso: spa
+    name: Mangbutu
   - translation_iso: zho
     name: 曼古布图语
     auto: true

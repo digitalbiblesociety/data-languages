@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: 古リトアニア語
     auto: true
+  - translation_iso: spa
+    name: lituano antiguo
   - translation_iso: zho
     name: 古立陶宛语
     auto: true

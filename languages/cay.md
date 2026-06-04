@@ -24,6 +24,8 @@ translations:
     name: カユーガ語
   - translation_iso: kor
     name: 카유가어
+  - translation_iso: spa
+    name: Cayuga
   - translation_iso: zho
     name: 卡尤加语
 ---

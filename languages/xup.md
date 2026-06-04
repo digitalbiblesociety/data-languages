@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アッパー・ウムプクア語
     auto: true
+  - translation_iso: spa
+    name: alto Umpqua
   - translation_iso: zho
     name: 上翁普夸语
     auto: true

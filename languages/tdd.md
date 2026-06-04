@@ -26,6 +26,8 @@ translations:
     name: タイ・ヌア語
   - translation_iso: kor
     name: 따이느아어
+  - translation_iso: spa
+    name: tai nüa
   - translation_iso: zho
     name: 傣那语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: テモアヤ・オトミ語
     auto: true
+  - translation_iso: spa
+    name: Otomí de Temoaya
   - translation_iso: zho
     name: 特莫亚亚奥托米语
     auto: true

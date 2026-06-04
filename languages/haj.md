@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: ハジョン語
     auto: true
+  - translation_iso: spa
+    name: idioma hajong
   - translation_iso: zho
     name: 哈琼语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: チュリム語
   - translation_iso: kor
     name: 출림어
+  - translation_iso: spa
+    name: Idioma chulym
   - translation_iso: zho
     name: 楚利姆語
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チャラ語
     auto: true
+  - translation_iso: spa
+    name: chala
   - translation_iso: zho
     name: 查拉语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: カンナダ語
   - translation_iso: kor
     name: 칸나다어
+  - translation_iso: spa
+    name: canarés
   - translation_iso: zho
     name: 卡纳达语
 rolv_dialects:

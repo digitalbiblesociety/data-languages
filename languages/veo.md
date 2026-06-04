@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ミツカナカン語
     auto: true
+  - translation_iso: spa
+    name: ventureño
   - translation_iso: zho
     name: Ventureño語
 ---

@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フローニン語
+  - translation_iso: spa
+    name: Idioma Groningués (Países Bajos)
   - translation_iso: zho
     name: 格罗宁根方言
 rolv_dialects:

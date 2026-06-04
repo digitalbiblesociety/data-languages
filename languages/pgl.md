@@ -17,6 +17,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 原アイルランド語
+  - translation_iso: spa
+    name: paleoirlandés
   - translation_iso: zho
     name: 原始爱尔兰语
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サケ語
+  - translation_iso: spa
+    name: sake
   - translation_iso: zho
     name: 萨克语
     auto: true

@@ -20,6 +20,8 @@ translations:
   - translation_iso: jpn
     name: コトナメ語
     auto: true
+  - translation_iso: spa
+    name: Idioma cotoname
   - translation_iso: zho
     name: 科托纳梅语
     auto: true

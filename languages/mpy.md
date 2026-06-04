@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マピア語
+  - translation_iso: spa
+    name: Mapia
   - translation_iso: zho
     name: 玛皮亚语
     auto: true

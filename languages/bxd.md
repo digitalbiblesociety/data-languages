@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペラ語
+  - translation_iso: spa
+    name: idioma pela
   - translation_iso: zho
     name: 波拉語
 ---

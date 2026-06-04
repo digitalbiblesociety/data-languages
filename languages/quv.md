@@ -25,6 +25,8 @@ translations:
     name: サカプルテコ語
   - translation_iso: kor
     name: 사카풀텍어
+  - translation_iso: spa
+    name: sacapulteco
   - translation_iso: zho
     name: 萨卡普尔特科语
     auto: true

@@ -23,6 +23,8 @@ translations:
     name: カロライナ・アルゴンキン語
   - translation_iso: kor
     name: 캐롤라이나 알곤킨어
+  - translation_iso: spa
+    name: Carolina Algonquian
   - translation_iso: zho
     name: 卡罗莱纳州阿尔冈昆语
 ---

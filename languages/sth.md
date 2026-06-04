@@ -24,6 +24,8 @@ translations:
     name: シェルタ語
   - translation_iso: kor
     name: 셸타어
+  - translation_iso: spa
+    name: shelta
   - translation_iso: zho
     name: 雪爾塔語
 ---

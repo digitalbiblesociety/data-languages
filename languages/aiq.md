@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイマク語
+  - translation_iso: spa
+    name: aimak
   - translation_iso: zho
     name: 艾马克语
 rolv_dialects:

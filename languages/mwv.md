@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メンタワイ語
+  - translation_iso: spa
+    name: mentawai
   - translation_iso: zho
     name: 门塔瓦伊语
     auto: true

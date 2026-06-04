@@ -24,6 +24,8 @@ translations:
     name: ウイグル語
   - translation_iso: kor
     name: 위구르어
+  - translation_iso: spa
+    name: uigur
   - translation_iso: zho
     name: 维吾尔语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アグタイネン語
     auto: true
+  - translation_iso: spa
+    name: idioma agutaíno
   - translation_iso: zho
     name: 阿古塔伊嫩语
     auto: true

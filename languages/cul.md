@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クリナ語
     auto: true
+  - translation_iso: spa
+    name: culina
   - translation_iso: zho
     name: 庫利納語
 ---

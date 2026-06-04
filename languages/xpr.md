@@ -22,6 +22,8 @@ translations:
     name: पहलवी भाषा
   - translation_iso: jpn
     name: パルティア語
+  - translation_iso: spa
+    name: parto
   - translation_iso: zho
     name: 帕提亚语
 ---

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ヨソンドゥア・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco yosonduense
   - translation_iso: zho
     name: 约松杜阿混合语
     auto: true

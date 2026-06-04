@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ヌクヌル語
     auto: true
+  - translation_iso: spa
+    name: Idioma nunukul
   - translation_iso: zho
     name: 努库努尔语
     auto: true

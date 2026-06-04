@@ -18,6 +18,8 @@ translations:
     name: アルダマーガディー
   - translation_iso: kor
     name: 아르다마가다어
+  - translation_iso: spa
+    name: Ardhamagadhi
   - translation_iso: zho
     name: 阿尔德玛格达普拉克里特语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: リンブー語
   - translation_iso: kor
     name: 림부어
+  - translation_iso: spa
+    name: limbu
   - translation_iso: zho
     name: 林布语
 rolv_dialects:

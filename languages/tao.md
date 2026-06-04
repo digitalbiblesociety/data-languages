@@ -25,6 +25,8 @@ translations:
     name: タオ語
   - translation_iso: kor
     name: 야미어
+  - translation_iso: spa
+    name: Lengua yami
   - translation_iso: zho
     name: 达悟语
 ---

@@ -24,6 +24,8 @@ translations:
     name: エイヌ語
   - translation_iso: kor
     name: 애이누어
+  - translation_iso: spa
+    name: aini
   - translation_iso: zho
     name: 艾努语
 ---

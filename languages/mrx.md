@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マレムギ語
     auto: true
+  - translation_iso: spa
+    name: maremgi
   - translation_iso: zho
     name: 玛瑞格语
     auto: true

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北メソポタミア・アラビア語
+  - translation_iso: spa
+    name: Árabe mesopotámico septentrional
   - translation_iso: zho
     name: 北美索不達米亞阿拉伯語
 rolv_dialects:

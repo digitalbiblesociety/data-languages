@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キルマンジュキ語
+  - translation_iso: spa
+    name: Kırmancki
   - translation_iso: zho
     name: 克尔曼吉语
     auto: true

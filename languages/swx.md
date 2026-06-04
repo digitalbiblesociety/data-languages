@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: スルアハ語
     auto: true
+  - translation_iso: spa
+    name: sorowahá
   - translation_iso: zho
     name: 祖魯阿哈語
 ---

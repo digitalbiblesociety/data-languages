@@ -20,6 +20,8 @@ translations:
     name: ブルシャスキー語
   - translation_iso: kor
     name: 부르샤스키어
+  - translation_iso: spa
+    name: Idioma burushaski
   - translation_iso: zho
     name: 布鲁夏斯基语
 rolv_dialects:

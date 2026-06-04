@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヴカルヴェ語
+  - translation_iso: spa
+    name: lavukaleve
   - translation_iso: zho
     name: 拉武卡莱夫语
     auto: true

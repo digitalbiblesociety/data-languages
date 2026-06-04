@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アイロラン語
     auto: true
+  - translation_iso: spa
+    name: Airoran
   - translation_iso: zho
     name: 艾罗兰语
     auto: true

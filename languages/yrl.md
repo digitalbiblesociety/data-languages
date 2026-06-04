@@ -24,6 +24,8 @@ translations:
     name: ニェエンガトゥ語
   - translation_iso: kor
     name: 녜엥가투어
+  - translation_iso: spa
+    name: "ñe'engatú"
   - translation_iso: zho
     name: 亞馬遜通用語
 rolv_dialects:

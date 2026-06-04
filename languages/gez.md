@@ -24,6 +24,8 @@ translations:
     name: ゲエズ語
   - translation_iso: kor
     name: 그으즈어
+  - translation_iso: spa
+    name: "ge'ez"
   - translation_iso: zho
     name: 格厄茲語
 ---

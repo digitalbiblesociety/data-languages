@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クルドゥ語
     auto: true
+  - translation_iso: spa
+    name: kurudu
   - translation_iso: zho
     name: 库鲁杜语
     auto: true

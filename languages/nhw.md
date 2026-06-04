@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 西ワステカ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl de la Huasteca occidental
   - translation_iso: zho
     name: 西瓦斯特卡纳瓦特尔语
     auto: true

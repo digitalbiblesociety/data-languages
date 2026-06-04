@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: トゥバル語
     auto: true
+  - translation_iso: spa
+    name: tubar
   - translation_iso: zho
     name: 图巴尔语
     auto: true

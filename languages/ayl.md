@@ -24,6 +24,8 @@ translations:
     name: アラビア語リビア方言
   - translation_iso: kor
     name: 리비아 아랍어
+  - translation_iso: spa
+    name: Árabe libio
   - translation_iso: zho
     name: 利比亞口語
 rolv_dialects:

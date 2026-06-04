@@ -24,6 +24,8 @@ translations:
     name: エド語
   - translation_iso: kor
     name: 비니어
+  - translation_iso: spa
+    name: Idioma edo
   - translation_iso: zho
     name: 埃多语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: グムズ語
     auto: true
+  - translation_iso: spa
+    name: Idioma gumuz
   - translation_iso: zho
     name: 古穆茲語
 rolv_dialects:

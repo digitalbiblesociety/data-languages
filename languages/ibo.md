@@ -24,6 +24,8 @@ translations:
     name: イボ語
   - translation_iso: kor
     name: 이그보어
+  - translation_iso: spa
+    name: idioma igbo
   - translation_iso: zho
     name: 伊博语
 rolv_dialects:

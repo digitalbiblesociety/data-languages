@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ケオ語
     auto: true
+  - translation_iso: spa
+    name: "Ke'o"
   - translation_iso: zho
     name: 奇爾語
 ---

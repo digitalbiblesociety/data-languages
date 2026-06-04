@@ -25,6 +25,8 @@ translations:
     name: 南エファテ語
   - translation_iso: kor
     name: 남에파테어
+  - translation_iso: spa
+    name: Idioma nafsan
   - translation_iso: zho
     name: 南埃法特语
 rolv_dialects:

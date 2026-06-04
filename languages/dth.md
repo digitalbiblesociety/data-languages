@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: アディティンギティ語
     auto: true
+  - translation_iso: spa
+    name: Idioma adithinngithigh
   - translation_iso: zho
     name: 阿迪辛吉提语
     auto: true

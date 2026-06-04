@@ -22,6 +22,8 @@ translations:
     name: 高句麗語
   - translation_iso: kor
     name: 고구려어
+  - translation_iso: spa
+    name: Idioma goguryeo
   - translation_iso: zho
     name: 高句丽语
 ---

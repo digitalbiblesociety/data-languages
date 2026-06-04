@@ -24,6 +24,8 @@ translations:
     name: ファン語
   - translation_iso: kor
     name: 팡그어
+  - translation_iso: spa
+    name: fang
   - translation_iso: zho
     name: 芳语
 rolv_dialects:

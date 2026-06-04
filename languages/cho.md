@@ -24,6 +24,8 @@ translations:
     name: チョクトー語
   - translation_iso: kor
     name: 촉토어
+  - translation_iso: spa
+    name: idioma choctaw
   - translation_iso: zho
     name: 乔克托语
 ---

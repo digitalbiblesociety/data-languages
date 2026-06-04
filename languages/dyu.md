@@ -24,6 +24,8 @@ translations:
     name: ジュラ語
   - translation_iso: kor
     name: 줄라어
+  - translation_iso: spa
+    name: diula
   - translation_iso: zho
     name: 迪尤拉语
 rolv_dialects:

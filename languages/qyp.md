@@ -24,6 +24,8 @@ translations:
     name: キリピ
   - translation_iso: kor
     name: 퀴리피어
+  - translation_iso: spa
+    name: Quiripi
   - translation_iso: zho
     name: 奎利皮語
 ---

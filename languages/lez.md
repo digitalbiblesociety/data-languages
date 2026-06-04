@@ -24,6 +24,8 @@ translations:
     name: レズギ語
   - translation_iso: kor
     name: 레즈긴어
+  - translation_iso: spa
+    name: Idioma lezgui
   - translation_iso: zho
     name: 列兹金语
 rolv_dialects:

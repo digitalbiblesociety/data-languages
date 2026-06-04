@@ -24,6 +24,8 @@ translations:
     name: ラテン語
   - translation_iso: kor
     name: 라틴어
+  - translation_iso: spa
+    name: latín
   - translation_iso: zho
     name: 拉丁语
 ---

@@ -24,6 +24,8 @@ translations:
     name: シルハ語
   - translation_iso: kor
     name: 실하어
+  - translation_iso: spa
+    name: chilha
   - translation_iso: zho
     name: 施卢赫语
 rolv_dialects:

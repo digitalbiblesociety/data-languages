@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: クワザ語
     auto: true
+  - translation_iso: spa
+    name: idioma kwazá
   - translation_iso: zho
     name: 夸扎语
     auto: true

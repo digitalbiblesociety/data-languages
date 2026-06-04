@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オカイナ語
+  - translation_iso: spa
+    name: Ocaina
   - translation_iso: zho
     name: 奥卡伊纳语
     auto: true

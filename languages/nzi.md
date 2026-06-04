@@ -24,6 +24,8 @@ translations:
     name: ンゼマ語
   - translation_iso: kor
     name: 느지마어
+  - translation_iso: spa
+    name: Idioma nzema
   - translation_iso: zho
     name: 恩济马语
 rolv_dialects:

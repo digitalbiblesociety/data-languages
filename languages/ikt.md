@@ -24,6 +24,8 @@ translations:
     name: イヌイナクトゥン語
   - translation_iso: kor
     name: 캐나다 서부 이누크티투트어
+  - translation_iso: spa
+    name: inuit del oeste de Canadá
   - translation_iso: zho
     name: 西加拿大因纽特语
 rolv_dialects:

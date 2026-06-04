@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: カンドシ・シャプラ語
     auto: true
+  - translation_iso: spa
+    name: candoshi
   - translation_iso: zho
     name: 坎多錫語族
 rolv_dialects:

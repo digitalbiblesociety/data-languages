@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マリコパ語
+  - translation_iso: spa
+    name: Maricopa
   - translation_iso: zho
     name: 馬里科帕語
 ---

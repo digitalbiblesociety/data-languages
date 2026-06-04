@@ -24,6 +24,8 @@ translations:
     name: ポルトガル語
   - translation_iso: kor
     name: 포르투갈어
+  - translation_iso: spa
+    name: portugués
   - translation_iso: zho
     name: 葡萄牙语
 rolv_dialects:

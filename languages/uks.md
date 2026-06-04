@@ -22,6 +22,8 @@ translations:
     name: कापोर सांकेतिक भाषा
   - translation_iso: jpn
     name: ウルブ・カァポル手話
+  - translation_iso: spa
+    name: Lengua de señas Urubu-Kaapor
   - translation_iso: zho
     name: 乌鲁布-卡阿波尔手语
     auto: true

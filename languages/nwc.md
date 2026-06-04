@@ -17,6 +17,8 @@ translations:
     name: 古典ネパール・バサ語
   - translation_iso: kor
     name: 고전 네와르어
+  - translation_iso: spa
+    name: newari clásico
   - translation_iso: zho
     name: 古典尼瓦尔语
 ---

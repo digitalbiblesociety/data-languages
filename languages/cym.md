@@ -24,6 +24,8 @@ translations:
     name: ウェールズ語
   - translation_iso: kor
     name: 웨일스어
+  - translation_iso: spa
+    name: galés
   - translation_iso: zho
     name: 威尔士语
 rolv_dialects:

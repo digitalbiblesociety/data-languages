@@ -23,6 +23,8 @@ translations:
     name: マクア・ミート語
   - translation_iso: kor
     name: 마크후와-메토어
+  - translation_iso: spa
+    name: makhuwa-meetto
   - translation_iso: zho
     name: 马库阿-梅托语
 rolv_dialects:

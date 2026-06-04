@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カハマルカケチュア語
     auto: true
+  - translation_iso: spa
+    name: quechua cajamarquino
   - translation_iso: zho
     name: 卡玛卡克丘亚语
     auto: true

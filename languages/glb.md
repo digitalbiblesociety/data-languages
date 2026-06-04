@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: ベルニング語
     auto: true
+  - translation_iso: spa
+    name: Belnəng
   - translation_iso: zho
     name: 贝尔宁语
     auto: true

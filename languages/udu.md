@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: トゥワンパ語
     auto: true
+  - translation_iso: spa
+    name: Idioma uduk
   - translation_iso: zho
     name: 乌杜克语
     auto: true

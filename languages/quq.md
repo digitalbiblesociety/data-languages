@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 킹키 자곤
+  - translation_iso: spa
+    name: idioma quinqui
   - translation_iso: zho
     name: 昆基语
     auto: true

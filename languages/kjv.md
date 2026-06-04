@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カイ方言
+  - translation_iso: spa
+    name: caicavo
   - translation_iso: zho
     name: 卡伊方言
 ---

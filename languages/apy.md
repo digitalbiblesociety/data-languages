@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アパライ語
+  - translation_iso: spa
+    name: Apalaí
   - translation_iso: zho
     name: 阿帕萊語
 ---

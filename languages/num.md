@@ -25,6 +25,8 @@ translations:
     name: ニウアフォオウ語
   - translation_iso: kor
     name: 니우아포오우어
+  - translation_iso: spa
+    name: "niuafo'ou"
   - translation_iso: zho
     name: 紐阿富歐語
 ---

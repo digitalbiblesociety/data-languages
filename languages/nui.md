@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コンベ語
+  - translation_iso: spa
+    name: kombe
   - translation_iso: zho
     name: 恩贡比语
     auto: true

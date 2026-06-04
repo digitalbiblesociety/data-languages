@@ -25,6 +25,8 @@ translations:
     name: ツンドラ・ユカギール語
   - translation_iso: kor
     name: 툰드라 유카기르어
+  - translation_iso: spa
+    name: yucaguiro septentrional
   - translation_iso: zho
     name: 冻原尤卡吉尔语
 ---

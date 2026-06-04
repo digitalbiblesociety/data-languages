@@ -22,6 +22,8 @@ translations:
     name: थॉम्पसन नदी सलीशन भाषा
   - translation_iso: jpn
     name: トンプソン語
+  - translation_iso: spa
+    name: Thompson
   - translation_iso: zho
     name: 汤普逊语
     auto: true

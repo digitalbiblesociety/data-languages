@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ボド・パルジャ語
     auto: true
+  - translation_iso: spa
+    name: idioma bodo parja
   - translation_iso: zho
     name: 博多帕尔贾语
     auto: true

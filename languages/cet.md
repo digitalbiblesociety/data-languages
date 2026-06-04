@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャラア語
+  - translation_iso: spa
+    name: Idioma centúúm
   - translation_iso: zho
     name: 琴图语
     auto: true

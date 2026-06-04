@@ -25,6 +25,8 @@ translations:
     name: ブドゥフ語
   - translation_iso: kor
     name: 부두흐어
+  - translation_iso: spa
+    name: Idioma buduj
   - translation_iso: zho
     name: 布杜克语
     auto: true

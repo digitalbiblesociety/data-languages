@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オコディア語
     auto: true
+  - translation_iso: spa
+    name: okodia
   - translation_iso: zho
     name: 奥科迪亚语
     auto: true

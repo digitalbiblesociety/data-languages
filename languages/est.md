@@ -19,6 +19,8 @@ translations:
     name: エストニア語
   - translation_iso: kor
     name: 에스토니아어
+  - translation_iso: spa
+    name: estonio
   - translation_iso: zho
     name: 爱沙尼亚语
 ---

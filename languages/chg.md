@@ -23,6 +23,8 @@ translations:
     name: チャガタイ語
   - translation_iso: kor
     name: 차가타이어
+  - translation_iso: spa
+    name: chagatai
   - translation_iso: zho
     name: 察合台語
 ---

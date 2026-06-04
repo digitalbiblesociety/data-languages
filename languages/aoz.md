@@ -26,6 +26,8 @@ translations:
     name: ウアブ・メト語
   - translation_iso: kor
     name: 우압메토어
+  - translation_iso: spa
+    name: Uab Meto
   - translation_iso: zho
     name: 瓦布梅托语
 rolv_dialects:

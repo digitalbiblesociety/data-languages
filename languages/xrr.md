@@ -22,6 +22,8 @@ translations:
     name: ラエティア語
   - translation_iso: kor
     name: 라이티아어
+  - translation_iso: spa
+    name: rético
   - translation_iso: zho
     name: 雷蒂亚语
 ---

@@ -24,6 +24,8 @@ translations:
     name: リンガラ語
   - translation_iso: kor
     name: 링갈라어
+  - translation_iso: spa
+    name: lingala
   - translation_iso: zho
     name: 林加拉语
 rolv_dialects:

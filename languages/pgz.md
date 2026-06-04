@@ -20,6 +20,8 @@ translations:
     name: पापुआ न्यू गिनी सांकेतिक भाषा
   - translation_iso: jpn
     name: パプア・ニューギニア手話
+  - translation_iso: spa
+    name: Lengua de signos de Papúa Nueva Guinea
   - translation_iso: zho
     name: 巴布亚新几内亚手语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マサトラン・マサテク語
     auto: true
+  - translation_iso: spa
+    name: Mazateco de Mazatlán
   - translation_iso: zho
     name: 马萨特兰马萨特克语
     auto: true

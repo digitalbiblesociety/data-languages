@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モーノー語
+  - translation_iso: spa
+    name: Idioma mono
   - translation_iso: zho
     name: 莫诺语（美国）
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パランラ・チナンテク語
     auto: true
+  - translation_iso: spa
+    name: chinanteca de Palantla
   - translation_iso: zho
     name: 帕蘭特拉奇南特克語
 ---

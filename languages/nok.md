@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌックサック語
+  - translation_iso: spa
+    name: Nooksack
   - translation_iso: zho
     name: 諾克塞克語
 ---

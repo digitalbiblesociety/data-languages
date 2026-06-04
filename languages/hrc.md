@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ニウェル・ミル語
     auto: true
+  - translation_iso: spa
+    name: Niwer Mil
   - translation_iso: zho
     name: 尼韦尔米尔语
     auto: true

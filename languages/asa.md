@@ -24,6 +24,8 @@ translations:
     name: アス語
   - translation_iso: kor
     name: 아수어
+  - translation_iso: spa
+    name: asu
   - translation_iso: zho
     name: 帕雷语
 rolv_dialects:

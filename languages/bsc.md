@@ -26,6 +26,8 @@ translations:
     name: バサリ語
   - translation_iso: kor
     name: 바사리어
+  - translation_iso: spa
+    name: Idioma bassari
   - translation_iso: zho
     name: 巴萨里语
 rolv_dialects:

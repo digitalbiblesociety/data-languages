@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガナイ語
+  - translation_iso: spa
+    name: idioma gunai
   - translation_iso: zho
     name: 古奈語
 ---

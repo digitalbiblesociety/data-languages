@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: アウングティム語
     auto: true
+  - translation_iso: spa
+    name: Idioma awngthim
   - translation_iso: zho
     name: 奥恩蒂姆语
     auto: true

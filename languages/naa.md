@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ナムラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma namla
   - translation_iso: zho
     name: 纳姆拉语
     auto: true

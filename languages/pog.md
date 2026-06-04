@@ -19,6 +19,8 @@ translations:
   - translation_iso: jpn
     name: ポティグアラ語
     auto: true
+  - translation_iso: spa
+    name: potiguara
   - translation_iso: zho
     name: 波蒂瓜拉语
     auto: true

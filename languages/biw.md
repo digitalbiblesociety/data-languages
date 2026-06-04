@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コル語
+  - translation_iso: spa
+    name: kol
   - translation_iso: zho
     name: 喀麦隆科尔语
     auto: true

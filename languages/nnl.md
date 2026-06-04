@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北レングマ・ナガ語
+  - translation_iso: spa
+    name: Ntenyi
   - translation_iso: zho
     name: 北伦格玛纳加语
     auto: true

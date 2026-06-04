@@ -24,6 +24,8 @@ translations:
     name: リルエット語
   - translation_iso: kor
     name: 릴루엣어
+  - translation_iso: spa
+    name: lillooet
   - translation_iso: zho
     name: 利卢埃特语
 rolv_dialects:

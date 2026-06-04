@@ -24,6 +24,8 @@ translations:
     name: ヤオ語
   - translation_iso: kor
     name: 야오어
+  - translation_iso: spa
+    name: Idioma yao
   - translation_iso: zho
     name: 約奧語
 rolv_dialects:

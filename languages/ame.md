@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アムエシャ語
+  - translation_iso: spa
+    name: yanesha
   - translation_iso: zho
     name: 亚内沙语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガロリ語
+  - translation_iso: spa
+    name: Galoli
   - translation_iso: zho
     name: 加洛伦语
     auto: true

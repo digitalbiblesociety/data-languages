@@ -24,6 +24,8 @@ translations:
     name: シチリア語
   - translation_iso: kor
     name: 시칠리아어
+  - translation_iso: spa
+    name: siciliano
   - translation_iso: zho
     name: 西西里语
 rolv_dialects:

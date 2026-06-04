@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ビルギット語
     auto: true
+  - translation_iso: spa
+    name: birgit
   - translation_iso: zho
     name: 比尔吉特语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: スケピクレオール・オランダ語
     auto: true
+  - translation_iso: spa
+    name: Criollo skepi
   - translation_iso: zho
     name: 斯克皮克里奥尔荷兰语
     auto: true

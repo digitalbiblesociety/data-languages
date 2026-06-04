@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティディム・チン語
+  - translation_iso: spa
+    name: sukte
   - translation_iso: zho
     name: 梯顶语
 rolv_dialects:

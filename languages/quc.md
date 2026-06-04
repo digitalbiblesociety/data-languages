@@ -24,6 +24,8 @@ translations:
     name: キチェ語
   - translation_iso: kor
     name: 키체어
+  - translation_iso: spa
+    name: Idioma quiché
   - translation_iso: zho
     name: 基切語
 rolv_dialects:

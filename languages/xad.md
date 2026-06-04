@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: アダイ語
     auto: true
+  - translation_iso: spa
+    name: Adai
   - translation_iso: zho
     name: 阿代语
     auto: true

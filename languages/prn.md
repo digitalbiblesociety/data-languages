@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プラスーン語
+  - translation_iso: spa
+    name: Idioma prasun
   - translation_iso: zho
     name: 瓦什瓦里语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペモン語
+  - translation_iso: spa
+    name: idioma pemón
   - translation_iso: zho
     name: 佩蒙語
 rolv_dialects:

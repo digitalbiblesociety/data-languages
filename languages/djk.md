@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: イースタン・マルーン・クレオール語
     auto: true
+  - translation_iso: spa
+    name: "idioma de los Aluku, Ndjuka y Paramaka"
   - translation_iso: zho
     name: 东马荣克里奥尔语
     auto: true

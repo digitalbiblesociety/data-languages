@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ピマバホ語
     auto: true
+  - translation_iso: spa
+    name: névome
   - translation_iso: zho
     name: 皮玛巴荷语
     auto: true

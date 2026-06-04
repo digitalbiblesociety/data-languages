@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マカレロ方言
+  - translation_iso: spa
+    name: macalero
   - translation_iso: zho
     name: 玛卡勒罗语
     auto: true

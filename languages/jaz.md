@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ジャウェ語
     auto: true
+  - translation_iso: spa
+    name: Idioma jawe
   - translation_iso: zho
     name: 贾韦语
     auto: true

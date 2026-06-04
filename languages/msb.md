@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マスバテニョ語
+  - translation_iso: spa
+    name: masbateño
   - translation_iso: zho
     name: 马斯巴特语
     auto: true

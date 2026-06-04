@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: アルバラダ手話
     auto: true
+  - translation_iso: spa
+    name: lengua de señas albarradas
   - translation_iso: zho
     name: 阿尔巴拉达斯手语
     auto: true

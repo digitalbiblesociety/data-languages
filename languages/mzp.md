@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モヴィマ語
+  - translation_iso: spa
+    name: idioma movima
   - translation_iso: zho
     name: 莫维马语
     auto: true

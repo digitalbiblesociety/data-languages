@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オランダ手話
+  - translation_iso: spa
+    name: Lengua de señas neerlandesa
   - translation_iso: zho
     name: 荷兰手语
 rolv_dialects:

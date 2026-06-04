@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エテオ・キュプロス語
+  - translation_iso: spa
+    name: eteochipriota
   - translation_iso: zho
     name: 埃泰尔塞浦路斯语
 ---

@@ -19,6 +19,8 @@ translations:
     name: ルヒヤ語
   - translation_iso: kor
     name: 루야어
+  - translation_iso: spa
+    name: luyia
   - translation_iso: zho
     name: 盧希亞語言
 ---

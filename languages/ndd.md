@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ンデ・ンセレ・ンタ語
     auto: true
+  - translation_iso: spa
+    name: nde
   - translation_iso: zho
     name: 恩德-恩塞莱-恩塔语
     auto: true

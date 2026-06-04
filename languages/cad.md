@@ -24,6 +24,8 @@ translations:
     name: カドー語
   - translation_iso: kor
     name: 캐도어
+  - translation_iso: spa
+    name: Caddo
   - translation_iso: zho
     name: 卡度語
 ---

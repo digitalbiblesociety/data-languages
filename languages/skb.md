@@ -25,6 +25,8 @@ translations:
     name: 石語
   - translation_iso: kor
     name: 색어
+  - translation_iso: spa
+    name: Idioma saek
   - translation_iso: zho
     name: 石語
 rolv_dialects:

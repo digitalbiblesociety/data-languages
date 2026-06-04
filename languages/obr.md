@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ビルマ語
+  - translation_iso: spa
+    name: birmano antiguo
   - translation_iso: zho
     name: 古缅语
 ---

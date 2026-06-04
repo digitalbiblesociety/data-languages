@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミカスキ語
+  - translation_iso: spa
+    name: idioma hitchiti-mikasuki
   - translation_iso: zho
     name: 密卡蘇奇語
 rolv_dialects:

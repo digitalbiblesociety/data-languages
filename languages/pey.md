@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ペティオ語
     auto: true
+  - translation_iso: spa
+    name: Criollo Petjo
   - translation_iso: zho
     name: 佩特乔语
     auto: true

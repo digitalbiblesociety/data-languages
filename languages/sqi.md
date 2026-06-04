@@ -17,6 +17,8 @@ translations:
     name: アルバニア語
   - translation_iso: kor
     name: 알바니아어
+  - translation_iso: spa
+    name: albanés
   - translation_iso: zho
     name: 阿尔巴尼亚语
 ---

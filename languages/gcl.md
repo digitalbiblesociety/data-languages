@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グレナダ・クレオール語
+  - translation_iso: spa
+    name: Inglés criollo granadino
   - translation_iso: zho
     name: 格林納達克里奧爾語英語
 rolv_dialects:

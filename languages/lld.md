@@ -25,6 +25,8 @@ translations:
     name: ラディン語
   - translation_iso: kor
     name: 라딘어
+  - translation_iso: spa
+    name: ladino
   - translation_iso: zho
     name: 拉迪恩语
 rolv_dialects:

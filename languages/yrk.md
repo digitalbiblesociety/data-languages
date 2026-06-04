@@ -25,6 +25,8 @@ translations:
     name: ネネツ語
   - translation_iso: kor
     name: 네네츠어
+  - translation_iso: spa
+    name: nenezo
   - translation_iso: zho
     name: 涅涅茨语
 rolv_dialects:

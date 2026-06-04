@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シュアール語
+  - translation_iso: spa
+    name: shuar
   - translation_iso: zho
     name: 舒爾語
 ---

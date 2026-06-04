@@ -22,6 +22,8 @@ translations:
     name: インタースラーヴィク
   - translation_iso: kor
     name: 인터슬라빅
+  - translation_iso: spa
+    name: Intereslavo
   - translation_iso: zho
     name: 斯拉夫共通語
 ---

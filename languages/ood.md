@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パパゴ語
+  - translation_iso: spa
+    name: "o'odham"
   - translation_iso: zho
     name: 奥奥萨姆语
 rolv_dialects:

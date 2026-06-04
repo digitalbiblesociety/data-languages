@@ -25,6 +25,8 @@ translations:
     name: メドゥンバ語
   - translation_iso: kor
     name: 메둠바어
+  - translation_iso: spa
+    name: medumba
   - translation_iso: zho
     name: 梅敦巴语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クミ・チン語
     auto: true
+  - translation_iso: spa
+    name: idioma khumi
   - translation_iso: zho
     name: 庫米語
 rolv_dialects:

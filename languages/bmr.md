@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムイナネ語
+  - translation_iso: spa
+    name: muinane
   - translation_iso: zho
     name: 穆伊纳内语
     auto: true

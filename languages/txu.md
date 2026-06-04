@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: メベング・オクレ・カベン語
     auto: true
+  - translation_iso: spa
+    name: "idioma m?bêngôkre"
   - translation_iso: zho
     name: 卡亚波语
     auto: true

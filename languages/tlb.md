@@ -25,6 +25,8 @@ translations:
     name: トベロ語
   - translation_iso: kor
     name: 토벨로어
+  - translation_iso: spa
+    name: Tobelo
   - translation_iso: zho
     name: 托貝洛語
 rolv_dialects:

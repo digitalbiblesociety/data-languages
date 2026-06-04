@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ゲレロ・アムスゴ語
     auto: true
+  - translation_iso: spa
+    name: Amuzgo de Guerrero
   - translation_iso: zho
     name: 格雷罗阿木戈语
     auto: true

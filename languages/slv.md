@@ -24,6 +24,8 @@ translations:
     name: スロベニア語
   - translation_iso: kor
     name: 슬로베니아어
+  - translation_iso: spa
+    name: esloveno
   - translation_iso: zho
     name: 斯洛文尼亚语
 rolv_dialects:

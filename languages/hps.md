@@ -22,6 +22,8 @@ translations:
     name: हवाई सांकेतिक भाषा
   - translation_iso: jpn
     name: ハワイ・ピジン手話
+  - translation_iso: spa
+    name: lenguaje de señas hawaiano
   - translation_iso: zho
     name: 夏威夷手语
     auto: true

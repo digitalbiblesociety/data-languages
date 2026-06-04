@@ -24,6 +24,8 @@ translations:
     name: ヒリモツ語
   - translation_iso: kor
     name: 히리 모투어
+  - translation_iso: spa
+    name: Hiri motu
   - translation_iso: zho
     name: 希里摩圖語
 rolv_dialects:

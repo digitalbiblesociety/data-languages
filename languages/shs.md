@@ -22,6 +22,8 @@ translations:
     name: शुस्वाप भाषा
   - translation_iso: jpn
     name: シュスワプ語
+  - translation_iso: spa
+    name: Shuswap
   - translation_iso: zho
     name: 舒什瓦普语
 rolv_dialects:

@@ -25,6 +25,8 @@ translations:
     name: クラーラム語
   - translation_iso: kor
     name: 클랠럼어
+  - translation_iso: spa
+    name: Idioma klallam
   - translation_iso: zho
     name: 克拉勒姆语
 ---

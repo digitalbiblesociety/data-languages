@@ -22,6 +22,8 @@ translations:
     name: ハッティ語
   - translation_iso: kor
     name: 하티어
+  - translation_iso: spa
+    name: Idioma hatti
   - translation_iso: zho
     name: 哈提語
 ---

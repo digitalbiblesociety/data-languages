@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カナマリ語
+  - translation_iso: spa
+    name: Idioma kanamarí
   - translation_iso: zho
     name: 卡那马里语
     auto: true

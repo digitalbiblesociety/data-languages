@@ -25,6 +25,8 @@ translations:
     name: ウルム語
   - translation_iso: kor
     name: 우룸어
+  - translation_iso: spa
+    name: urrumano
   - translation_iso: zho
     name: 乌鲁姆语
 ---

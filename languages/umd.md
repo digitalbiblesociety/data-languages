@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウンビンダムー語
     auto: true
+  - translation_iso: spa
+    name: idioma umpithamu
   - translation_iso: zho
     name: 翁宾达穆语
     auto: true

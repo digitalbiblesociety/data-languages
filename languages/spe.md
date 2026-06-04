@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セパ語
+  - translation_iso: spa
+    name: Sepa
   - translation_iso: zho
     name: 塞帕语（巴布亚新几内亚）
     auto: true

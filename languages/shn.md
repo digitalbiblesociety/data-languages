@@ -24,6 +24,8 @@ translations:
     name: シャン語
   - translation_iso: kor
     name: 샨어
+  - translation_iso: spa
+    name: shan
   - translation_iso: zho
     name: 掸语
 rolv_dialects:

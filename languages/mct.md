@@ -19,6 +19,8 @@ translations:
   - translation_iso: jpn
     name: メンギサ語
     auto: true
+  - translation_iso: spa
+    name: Mengisa
   - translation_iso: zho
     name: 门吉萨语
     auto: true

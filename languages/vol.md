@@ -21,6 +21,8 @@ translations:
     name: ヴォラピュク
   - translation_iso: kor
     name: 볼라퓌크
+  - translation_iso: spa
+    name: volapük
   - translation_iso: zho
     name: 沃拉普克语
 ---

@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウレ語
+  - translation_iso: spa
+    name: baoulé
   - translation_iso: zho
     name: 巴乌莱语
 ---

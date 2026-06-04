@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: エムプラワス語
     auto: true
+  - translation_iso: spa
+    name: Emplawas
   - translation_iso: zho
     name: 埃姆普劳瓦斯语
     auto: true

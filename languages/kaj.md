@@ -24,6 +24,8 @@ translations:
     name: カジェ語
   - translation_iso: kor
     name: 까꼬토끄어
+  - translation_iso: spa
+    name: Jju
   - translation_iso: zho
     name: 卡捷語
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マリア語
+  - translation_iso: spa
+    name: maria
   - translation_iso: zho
     name: 玛丽亚语
     auto: true

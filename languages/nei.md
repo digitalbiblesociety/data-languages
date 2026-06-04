@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ネオ・ヒッタイト語
     auto: true
+  - translation_iso: spa
+    name: neohitita
   - translation_iso: zho
     name: 新赫梯语
     auto: true

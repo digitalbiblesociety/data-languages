@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ボロ語
     auto: true
+  - translation_iso: spa
+    name: shinasha
   - translation_iso: zho
     name: 博罗语
     auto: true

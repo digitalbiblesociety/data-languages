@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ティアレ語
     auto: true
+  - translation_iso: spa
+    name: malmariv
   - translation_iso: zho
     name: 馬爾馬立夫語
 ---

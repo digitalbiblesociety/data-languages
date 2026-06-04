@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラキ語
+  - translation_iso: spa
+    name: Idioma Araki
   - translation_iso: zho
     name: 阿拉齊語
 ---

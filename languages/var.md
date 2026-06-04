@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヴァリヒオ語
     auto: true
+  - translation_iso: spa
+    name: idioma guarijío
   - translation_iso: zho
     name: 华里希奥语
     auto: true

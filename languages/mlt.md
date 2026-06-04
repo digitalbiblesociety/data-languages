@@ -24,6 +24,8 @@ translations:
     name: マルタ語
   - translation_iso: kor
     name: 몰타어
+  - translation_iso: spa
+    name: maltés
   - translation_iso: zho
     name: 马耳他语
 rolv_dialects:

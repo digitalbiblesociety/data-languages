@@ -23,6 +23,8 @@ translations:
     name: タギシュ語
   - translation_iso: kor
     name: 타기시어
+  - translation_iso: spa
+    name: tagish
   - translation_iso: zho
     name: 塔吉什语
 ---

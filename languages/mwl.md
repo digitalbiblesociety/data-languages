@@ -24,6 +24,8 @@ translations:
     name: ミランダ語
   - translation_iso: kor
     name: 미란다어
+  - translation_iso: spa
+    name: mirandés
   - translation_iso: zho
     name: 米兰德斯语
 rolv_dialects:

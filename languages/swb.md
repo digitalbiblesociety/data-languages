@@ -24,6 +24,8 @@ translations:
     name: マオレ語
   - translation_iso: kor
     name: 코모로어
+  - translation_iso: spa
+    name: mahorés
   - translation_iso: zho
     name: 马约特语
 ---

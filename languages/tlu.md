@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: トゥレフ語
     auto: true
+  - translation_iso: spa
+    name: Tulehu
   - translation_iso: zho
     name: 图勒胡语
     auto: true

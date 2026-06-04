@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パウセルナ語
     auto: true
+  - translation_iso: spa
+    name: idioma pauserna
   - translation_iso: zho
     name: 保塞尔纳语
     auto: true

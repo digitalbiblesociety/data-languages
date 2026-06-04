@@ -25,6 +25,8 @@ translations:
     name: 湘語
   - translation_iso: kor
     name: 샹어
+  - translation_iso: spa
+    name: xiang
   - translation_iso: zho
     name: 湘语
 rolv_dialects:

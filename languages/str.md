@@ -23,6 +23,8 @@ translations:
     name: 北ストレイツ語
   - translation_iso: kor
     name: 해안 살리시어
+  - translation_iso: spa
+    name: salish de los estrechos
   - translation_iso: zho
     name: 北方海峽薩利希語
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: イカランガル語
     auto: true
+  - translation_iso: spa
+    name: Idioma ikarranggali
   - translation_iso: zho
     name: 伊卡兰加尔语
     auto: true

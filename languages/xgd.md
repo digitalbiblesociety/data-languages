@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: グダン語
     auto: true
+  - translation_iso: spa
+    name: Idioma gudang
   - translation_iso: zho
     name: 古当语
     auto: true

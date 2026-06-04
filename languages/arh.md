@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アルワコ語
     auto: true
+  - translation_iso: spa
+    name: idioma arhuaco
   - translation_iso: zho
     name: 阿倮哥语
 ---

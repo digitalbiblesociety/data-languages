@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラワ語
+  - translation_iso: spa
+    name: arauá
   - translation_iso: zho
     name: 阿拉瓦語
 ---

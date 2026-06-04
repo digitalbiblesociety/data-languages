@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: チミラ語
     auto: true
+  - translation_iso: spa
+    name: idioma chimila
   - translation_iso: zho
     name: 奇米拉语
     auto: true

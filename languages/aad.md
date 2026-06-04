@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아말어
+  - translation_iso: spa
+    name: Idioma amal
   - translation_iso: zho
     name: 阿玛尔语
     auto: true

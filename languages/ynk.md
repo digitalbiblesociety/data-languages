@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナウカン語
+  - translation_iso: spa
+    name: naukanski
   - translation_iso: zho
     name: 瑙坎-尤皮克语
     auto: true

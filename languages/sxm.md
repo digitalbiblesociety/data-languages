@@ -19,6 +19,8 @@ translations:
   - translation_iso: jpn
     name: サムレ語
     auto: true
+  - translation_iso: spa
+    name: samrè
   - translation_iso: zho
     name: 桑梅语
     auto: true

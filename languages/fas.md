@@ -17,6 +17,8 @@ translations:
     name: ペルシア語
   - translation_iso: kor
     name: 페르시아어
+  - translation_iso: spa
+    name: persa
   - translation_iso: zho
     name: 波斯语
 ---

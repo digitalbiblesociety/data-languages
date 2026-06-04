@@ -24,6 +24,8 @@ translations:
     name: フルリ語
   - translation_iso: kor
     name: 후르리어
+  - translation_iso: spa
+    name: Idioma hurrita
   - translation_iso: zho
     name: 胡里安語
 ---

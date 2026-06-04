@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キューバ手話
+  - translation_iso: spa
+    name: lengua de señas cubana
   - translation_iso: zho
     name: 古巴手语
     auto: true

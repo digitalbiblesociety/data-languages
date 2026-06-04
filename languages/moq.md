@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: モル語
     auto: true
+  - translation_iso: spa
+    name: Idioma mor
   - translation_iso: zho
     name: 莫尔语（邦贝赖半岛）
     auto: true

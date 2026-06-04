@@ -24,6 +24,8 @@ translations:
     name: 西フリジア語
   - translation_iso: kor
     name: 서프리슬란트어
+  - translation_iso: spa
+    name: frisón occidental
   - translation_iso: zho
     name: 西弗里斯兰语
 rolv_dialects:

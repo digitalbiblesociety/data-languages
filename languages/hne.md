@@ -24,6 +24,8 @@ translations:
     name: チャッティースガリー語
   - translation_iso: kor
     name: 차티스가르어
+  - translation_iso: spa
+    name: chatisgarí
   - translation_iso: zho
     name: 切蒂斯格尔语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カワイイス語
     auto: true
+  - translation_iso: spa
+    name: Kawaiisu
   - translation_iso: zho
     name: 卡瓦伊苏语
     auto: true

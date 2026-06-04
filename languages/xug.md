@@ -25,6 +25,8 @@ translations:
     name: 沖縄北部方言
   - translation_iso: kor
     name: 쿠니가미어
+  - translation_iso: spa
+    name: kunigami
   - translation_iso: zho
     name: 國頭語
 rolv_dialects:

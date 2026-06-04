@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カモロ語
     auto: true
+  - translation_iso: spa
+    name: Kamora
   - translation_iso: zho
     name: 卡莫罗语
 rolv_dialects:

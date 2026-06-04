@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サイシャット語
+  - translation_iso: spa
+    name: Idioma saisiyat
   - translation_iso: zho
     name: 赛夏语
 rolv_dialects:

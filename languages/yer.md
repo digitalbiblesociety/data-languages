@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: タロク語
     auto: true
+  - translation_iso: spa
+    name: Tarok
   - translation_iso: zho
     name: 塔罗克语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: 島嶼カリブ語
   - translation_iso: kor
     name: 칼리나고어
+  - translation_iso: spa
+    name: caribe insular
   - translation_iso: zho
     name: 岛屿加勒比语
     auto: true

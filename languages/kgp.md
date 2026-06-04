@@ -24,6 +24,8 @@ translations:
     name: カインガング語
   - translation_iso: kor
     name: 카잉강어
+  - translation_iso: spa
+    name: Lengua kaingang
   - translation_iso: zho
     name: 開因岡語
 rolv_dialects:

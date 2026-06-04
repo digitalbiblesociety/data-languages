@@ -25,6 +25,8 @@ translations:
     name: メグレル語
   - translation_iso: kor
     name: 민그렐어
+  - translation_iso: spa
+    name: megreliano
   - translation_iso: zho
     name: 明格列尔语
 rolv_dialects:

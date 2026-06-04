@@ -25,6 +25,8 @@ translations:
     name: テル・サーミ語
   - translation_iso: kor
     name: 테르 사미어
+  - translation_iso: spa
+    name: sami ter
   - translation_iso: zho
     name: 特爾薩米語
 ---

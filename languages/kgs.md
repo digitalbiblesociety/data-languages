@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クンバインガル語
     auto: true
+  - translation_iso: spa
+    name: gumbaynggirr
   - translation_iso: zho
     name: 古姆巴延吉尔语
 ---

@@ -22,6 +22,8 @@ translations:
     name: हाखा चिन भाषा
   - translation_iso: jpn
     name: ハカ語
+  - translation_iso: spa
+    name: idioma hakha-chin
   - translation_iso: zho
     name: 哈卡钦语
 rolv_dialects:

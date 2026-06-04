@@ -24,6 +24,8 @@ translations:
     name: コミ・ペルミャク語
   - translation_iso: kor
     name: 코미페르먀크어
+  - translation_iso: spa
+    name: komi permio
   - translation_iso: zho
     name: 彼尔姆科米语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラベラ語
+  - translation_iso: spa
+    name: arabela
   - translation_iso: zho
     name: 阿拉贝拉语
     auto: true

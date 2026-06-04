@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ブンビタ・アラペシュ語
     auto: true
+  - translation_iso: spa
+    name: arapeso bumbita
   - translation_iso: zho
     name: 邦比塔阿拉佩什语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アトナ語
+  - translation_iso: spa
+    name: idioma ahtna
   - translation_iso: zho
     name: 阿特纳语
 ---

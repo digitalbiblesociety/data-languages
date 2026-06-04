@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: フォウポ語
     auto: true
+  - translation_iso: spa
+    name: Tauya
   - translation_iso: zho
     name: 陶亚语
     auto: true

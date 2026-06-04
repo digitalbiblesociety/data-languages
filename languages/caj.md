@@ -20,6 +20,8 @@ translations:
     name: チャネ語
   - translation_iso: kor
     name: 차네어
+  - translation_iso: spa
+    name: Idioma chané
   - translation_iso: zho
     name: 查内语
     auto: true

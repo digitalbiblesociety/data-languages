@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: カメルーン・マンビラ語
     auto: true
+  - translation_iso: spa
+    name: mambila de Camerún
   - translation_iso: zho
     name: 喀麦隆曼比拉语
     auto: true

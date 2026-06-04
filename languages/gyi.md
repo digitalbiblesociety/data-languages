@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ギェレ語
     auto: true
+  - translation_iso: spa
+    name: gyele
   - translation_iso: zho
     name: 吉埃莱语
     auto: true

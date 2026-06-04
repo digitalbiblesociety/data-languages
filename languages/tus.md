@@ -24,6 +24,8 @@ translations:
     name: タスカロラ語
   - translation_iso: kor
     name: 투스카로라어
+  - translation_iso: spa
+    name: Tuscarora
   - translation_iso: zho
     name: 圖斯卡羅拉語
 ---

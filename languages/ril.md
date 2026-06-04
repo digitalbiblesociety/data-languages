@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: リアンラン語
     auto: true
+  - translation_iso: spa
+    name: idioma riang
   - translation_iso: zho
     name: 日昂语
 ---

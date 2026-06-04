@@ -19,6 +19,8 @@ translations:
   - translation_iso: jpn
     name: ブソ語
     auto: true
+  - translation_iso: spa
+    name: buso
   - translation_iso: zho
     name: 布索语
     auto: true

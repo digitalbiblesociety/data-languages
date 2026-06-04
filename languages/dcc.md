@@ -20,6 +20,8 @@ translations:
   - translation_iso: jpn
     name: デッカン語
     auto: true
+  - translation_iso: spa
+    name: Marati berar-deccan
   - translation_iso: zho
     name: 德干语
     auto: true

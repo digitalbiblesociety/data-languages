@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アシェニンカ・パホナル語
     auto: true
+  - translation_iso: spa
+    name: ashéninka
   - translation_iso: zho
     name: 帕霍纳尔阿什尼卡语
     auto: true

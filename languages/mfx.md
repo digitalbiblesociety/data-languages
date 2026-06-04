@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: メロ語
     auto: true
+  - translation_iso: spa
+    name: melo
   - translation_iso: zho
     name: 梅洛语
     auto: true

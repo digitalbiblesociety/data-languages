@@ -24,6 +24,8 @@ translations:
     name: パンジャーブ語
   - translation_iso: kor
     name: 펀자브어
+  - translation_iso: spa
+    name: punyabí
   - translation_iso: zho
     name: 旁遮普语
 rolv_dialects:

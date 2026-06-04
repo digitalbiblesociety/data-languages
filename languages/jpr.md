@@ -24,6 +24,8 @@ translations:
     name: ジーディ
   - translation_iso: kor
     name: 유대 페르시아어
+  - translation_iso: spa
+    name: judeopersa
   - translation_iso: zho
     name: 犹太-波斯语
 ---

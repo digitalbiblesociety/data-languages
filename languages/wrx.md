@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワエ・ラナ語
     auto: true
+  - translation_iso: spa
+    name: Wae Rana
   - translation_iso: zho
     name: 瓦埃拉纳语
     auto: true

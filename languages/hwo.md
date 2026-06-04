@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: フアナ語
     auto: true
+  - translation_iso: spa
+    name: Idioma hwana
   - translation_iso: zho
     name: 华纳语
     auto: true

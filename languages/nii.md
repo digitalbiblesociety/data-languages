@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ニイ語
     auto: true
+  - translation_iso: spa
+    name: Nii
   - translation_iso: zho
     name: 尼語
 rolv_dialects:

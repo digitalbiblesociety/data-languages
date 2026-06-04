@@ -18,6 +18,8 @@ translations:
   - translation_iso: jpn
     name: マライノン語
     auto: true
+  - translation_iso: spa
+    name: aclano de Malay
   - translation_iso: zho
     name: 玛来诺语
     auto: true

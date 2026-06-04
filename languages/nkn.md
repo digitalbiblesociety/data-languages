@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ンカンガラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma nkangala
   - translation_iso: zho
     name: 恩康加拉语
     auto: true

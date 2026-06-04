@@ -24,6 +24,8 @@ translations:
     name: マラーティー語
   - translation_iso: kor
     name: 마라티어
+  - translation_iso: spa
+    name: maratí
   - translation_iso: zho
     name: 马拉提语
 rolv_dialects:

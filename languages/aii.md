@@ -24,6 +24,8 @@ translations:
     name: アッシリア現代アラム語
   - translation_iso: kor
     name: 아시리아 신아람어
+  - translation_iso: spa
+    name: neoarameo asirio
   - translation_iso: zho
     name: 亚述新亚拉姆语
 rolv_dialects:

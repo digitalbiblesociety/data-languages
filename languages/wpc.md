@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マコ語
     auto: true
+  - translation_iso: spa
+    name: idioma wirö
   - translation_iso: zho
     name: 马科语
     auto: true

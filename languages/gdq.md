@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マフラ語
+  - translation_iso: spa
+    name: mehri
   - translation_iso: zho
     name: 迈赫拉语
 rolv_dialects:

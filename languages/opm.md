@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 오크사프민어
+  - translation_iso: spa
+    name: Idioma oksapmin
   - translation_iso: zho
     name: 奥克萨普敏语
     auto: true

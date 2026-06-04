@@ -24,6 +24,8 @@ translations:
     name: 北ロル語
   - translation_iso: kor
     name: 북부 루리어
+  - translation_iso: spa
+    name: luri septentrional
   - translation_iso: zho
     name: 北卢尔语
 rolv_dialects:

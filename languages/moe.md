@@ -24,6 +24,8 @@ translations:
     name: モンタニェ語
   - translation_iso: kor
     name: 인누아이문어
+  - translation_iso: spa
+    name: innu
   - translation_iso: zho
     name: 因努語
 rolv_dialects:

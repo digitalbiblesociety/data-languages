@@ -21,6 +21,8 @@ translations:
     name: クスンダ語
   - translation_iso: kor
     name: 쿠순다어
+  - translation_iso: spa
+    name: Kusunda
   - translation_iso: zho
     name: 库松达语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デサノ語
+  - translation_iso: spa
+    name: idioma desano
   - translation_iso: zho
     name: 德萨诺语
     auto: true

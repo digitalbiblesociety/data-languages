@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルング語
+  - translation_iso: spa
+    name: idioma warrungu
   - translation_iso: zho
     name: 瓦隆戈语
 ---

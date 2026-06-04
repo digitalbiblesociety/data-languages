@@ -25,6 +25,8 @@ translations:
     name: シパカペンセ語
   - translation_iso: kor
     name: 시파카파어
+  - translation_iso: spa
+    name: Idioma sipacapense
   - translation_iso: zho
     name: 西帕卡佩尼语
     auto: true

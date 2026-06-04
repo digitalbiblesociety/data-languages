@@ -25,6 +25,8 @@ translations:
     name: ヤママディ語
   - translation_iso: kor
     name: 마디어
+  - translation_iso: spa
+    name: jamamadí
   - translation_iso: zho
     name: 賈瑪瑪蒂語
 rolv_dialects:

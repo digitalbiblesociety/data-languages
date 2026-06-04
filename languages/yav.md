@@ -23,6 +23,8 @@ translations:
     name: ヤンベン語
   - translation_iso: kor
     name: 양본어
+  - translation_iso: spa
+    name: yangben
   - translation_iso: zho
     name: 洋卞语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イキト語
+  - translation_iso: spa
+    name: iquito
   - translation_iso: zho
     name: 伊基托语
     auto: true

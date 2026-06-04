@@ -24,6 +24,8 @@ translations:
     name: ティグレ語
   - translation_iso: kor
     name: 티그레어
+  - translation_iso: spa
+    name: Idioma tigré
   - translation_iso: zho
     name: 提格雷语
 rolv_dialects:

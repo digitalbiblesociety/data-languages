@@ -25,6 +25,8 @@ translations:
     name: ソーラ語
   - translation_iso: kor
     name: 소라
+  - translation_iso: spa
+    name: sora
   - translation_iso: zho
     name: 索拉语
 rolv_dialects:

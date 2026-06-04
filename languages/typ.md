@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アウ・アラヤ語
     auto: true
+  - translation_iso: spa
+    name: Idioma thaypan
   - translation_iso: zho
     name: 泰潘语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ブルーム・パーリング・ラガー・ピジン語
     auto: true
+  - translation_iso: spa
+    name: Pidgin Broome Pearling Lugger
   - translation_iso: zho
     name: 布鲁姆採珠者皮欽马来语
 ---

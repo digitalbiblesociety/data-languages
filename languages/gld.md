@@ -26,6 +26,8 @@ translations:
     name: ナナイ語
   - translation_iso: kor
     name: 나나이어
+  - translation_iso: spa
+    name: nanai
   - translation_iso: zho
     name: 赫哲语
 rolv_dialects:

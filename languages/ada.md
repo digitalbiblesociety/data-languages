@@ -24,6 +24,8 @@ translations:
     name: アダングメ語
   - translation_iso: kor
     name: 당메어
+  - translation_iso: spa
+    name: Lengua Adangme
   - translation_iso: zho
     name: 丹美語
 rolv_dialects:

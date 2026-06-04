@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: タンチャンギャ語
     auto: true
+  - translation_iso: spa
+    name: Idioma Tanchangya
   - translation_iso: zho
     name: 坦昌亚语
     auto: true

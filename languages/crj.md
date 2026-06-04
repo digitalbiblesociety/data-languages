@@ -23,6 +23,8 @@ translations:
     name: 南東クリー語
   - translation_iso: kor
     name: 남동부 크리어
+  - translation_iso: spa
+    name: cree suroriental
   - translation_iso: zho
     name: 东南部克里语
 ---

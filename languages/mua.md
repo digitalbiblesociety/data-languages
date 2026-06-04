@@ -24,6 +24,8 @@ translations:
     name: ムンダン語
   - translation_iso: kor
     name: 문당어
+  - translation_iso: spa
+    name: mundang
   - translation_iso: zho
     name: 蒙当语
 rolv_dialects:

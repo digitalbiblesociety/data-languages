@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ネミ語
+  - translation_iso: spa
+    name: idioma nemi
   - translation_iso: zho
     name: 内米语
     auto: true

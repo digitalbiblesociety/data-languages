@@ -24,6 +24,8 @@ translations:
     name: 南部クルド語
   - translation_iso: kor
     name: 팔레와니어
+  - translation_iso: spa
+    name: kurdo meridional
   - translation_iso: zho
     name: 南库尔德语
 rolv_dialects:

@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: アンダキ語
     auto: true
+  - translation_iso: spa
+    name: idioma andaquí
   - translation_iso: zho
     name: 安达基语
     auto: true

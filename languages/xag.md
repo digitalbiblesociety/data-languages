@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ウディ語
+  - translation_iso: spa
+    name: albanés caucásico
   - translation_iso: zho
     name: 高加索阿尔巴尼亚语
 ---

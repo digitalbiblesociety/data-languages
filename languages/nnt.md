@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナンチコーク語
+  - translation_iso: spa
+    name: Nanticoke
   - translation_iso: zho
     name: 楠蒂科克語
 ---

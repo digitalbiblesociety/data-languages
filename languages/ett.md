@@ -22,6 +22,8 @@ translations:
     name: エトルリア語
   - translation_iso: kor
     name: 에트루리아어
+  - translation_iso: spa
+    name: idioma etrusco
   - translation_iso: zho
     name: 伊特拉斯坎語
 ---

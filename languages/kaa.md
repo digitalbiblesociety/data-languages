@@ -24,6 +24,8 @@ translations:
     name: カラカルパク語
   - translation_iso: kor
     name: 카라칼파크어
+  - translation_iso: spa
+    name: Idioma karakalpako
   - translation_iso: zho
     name: 卡拉卡尔帕克语
 rolv_dialects:

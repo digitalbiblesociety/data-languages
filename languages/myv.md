@@ -24,6 +24,8 @@ translations:
     name: エルジャ語
   - translation_iso: kor
     name: 에르자어
+  - translation_iso: spa
+    name: erzya
   - translation_iso: zho
     name: 埃爾齊亞語
 ---

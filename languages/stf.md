@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: セタ語
     auto: true
+  - translation_iso: spa
+    name: Seta
   - translation_iso: zho
     name: 塞塔语
     auto: true

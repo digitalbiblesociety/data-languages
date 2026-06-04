@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: ファス語
     auto: true
+  - translation_iso: spa
+    name: Idioma fasu
   - translation_iso: zho
     name: 法苏语
     auto: true

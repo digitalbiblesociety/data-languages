@@ -18,6 +18,8 @@ translations:
   - translation_iso: jpn
     name: チェツコ語
     auto: true
+  - translation_iso: spa
+    name: chetco
   - translation_iso: zho
     name: 切特科语
     auto: true

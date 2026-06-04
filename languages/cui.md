@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クイバ語
     auto: true
+  - translation_iso: spa
+    name: Cuiba
   - translation_iso: zho
     name: 库伊巴语
     auto: true

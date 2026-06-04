@@ -24,6 +24,8 @@ translations:
     name: フィリピン語
   - translation_iso: kor
     name: 필리핀어
+  - translation_iso: spa
+    name: idioma filipino
   - translation_iso: zho
     name: 菲律宾语
 ---

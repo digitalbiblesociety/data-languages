@@ -25,6 +25,8 @@ translations:
     name: ホピ語
   - translation_iso: kor
     name: 호피어
+  - translation_iso: spa
+    name: hopi
   - translation_iso: zho
     name: 霍皮語
 rolv_dialects:

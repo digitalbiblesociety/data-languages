@@ -24,6 +24,8 @@ translations:
     name: サラマッカ語
   - translation_iso: kor
     name: 사마카어
+  - translation_iso: spa
+    name: Saamáka
   - translation_iso: zho
     name: 萨拉马卡语
     auto: true

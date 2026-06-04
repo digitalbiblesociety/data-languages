@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ピロ語
     auto: true
+  - translation_iso: spa
+    name: idioma piro (kiowa-tanoano)
   - translation_iso: zho
     name: 皮罗语
     auto: true

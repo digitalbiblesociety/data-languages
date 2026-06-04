@@ -15,6 +15,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホレズム語
+  - translation_iso: spa
+    name: khorezmiano
   - translation_iso: zho
     name: 花剌子模語
 ---

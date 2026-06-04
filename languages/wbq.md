@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: ワッダル語
     auto: true
+  - translation_iso: spa
+    name: Idioma waddar
   - translation_iso: zho
     name: 瓦达尔语
     auto: true

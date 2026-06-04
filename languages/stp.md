@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: 南東テペフアン語
     auto: true
+  - translation_iso: spa
+    name: Tepehuano sureño
   - translation_iso: zho
     name: 东南特佩万语
     auto: true

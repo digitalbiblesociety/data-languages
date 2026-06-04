@@ -24,6 +24,8 @@ translations:
     name: メル語
   - translation_iso: kor
     name: 메루어
+  - translation_iso: spa
+    name: meru
   - translation_iso: zho
     name: 梅鲁语
 rolv_dialects:

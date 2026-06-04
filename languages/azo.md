@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アウィング語
     auto: true
+  - translation_iso: spa
+    name: awing
   - translation_iso: zho
     name: 阿温语
     auto: true

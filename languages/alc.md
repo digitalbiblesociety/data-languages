@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カウェスカル語
+  - translation_iso: spa
+    name: Idioma kawésqar
   - translation_iso: zho
     name: 卡瓦斯卡尔语
     auto: true

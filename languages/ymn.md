@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヤムナ語
     auto: true
+  - translation_iso: spa
+    name: sunum
   - translation_iso: zho
     name: 亚姆纳语
     auto: true

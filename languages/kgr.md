@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: アブン語
     auto: true
+  - translation_iso: spa
+    name: Idioma abun
   - translation_iso: zho
     name: 阿本语
     auto: true

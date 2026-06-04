@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: リクバ語
     auto: true
+  - translation_iso: spa
+    name: kuba
   - translation_iso: zho
     name: 利库巴语
     auto: true

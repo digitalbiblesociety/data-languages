@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カング語
     auto: true
+  - translation_iso: spa
+    name: Idioma khang
   - translation_iso: zho
     name: 抗语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: サカテペク・チャティーノ語
     auto: true
+  - translation_iso: spa
+    name: Chatino de Zacatepec
   - translation_iso: zho
     name: 萨卡特佩克查蒂诺语
     auto: true

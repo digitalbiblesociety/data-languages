@@ -24,6 +24,8 @@ translations:
     name: ウガリット語
   - translation_iso: kor
     name: 우가리트어
+  - translation_iso: spa
+    name: Idioma ugarítico
   - translation_iso: zho
     name: 烏加里特語
 ---

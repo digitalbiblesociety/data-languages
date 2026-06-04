@@ -20,6 +20,8 @@ translations:
     name: ネパール語
   - translation_iso: kor
     name: 네팔어
+  - translation_iso: spa
+    name: nepalí
   - translation_iso: zho
     name: 尼泊尔语
 ---

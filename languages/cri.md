@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フォロ語
+  - translation_iso: spa
+    name: Criollo forro
   - translation_iso: zho
     name: 弗罗克里奥尔语
 ---

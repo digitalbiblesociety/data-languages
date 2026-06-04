@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タヴラ語
     auto: true
+  - translation_iso: spa
+    name: Vaghua
   - translation_iso: zho
     name: 瓦古亚语
     auto: true

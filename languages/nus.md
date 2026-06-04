@@ -24,6 +24,8 @@ translations:
     name: ヌエル語
   - translation_iso: kor
     name: 누에르어
+  - translation_iso: spa
+    name: Idioma nuer
   - translation_iso: zho
     name: 努尔语
 rolv_dialects:

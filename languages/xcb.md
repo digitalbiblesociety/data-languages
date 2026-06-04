@@ -17,6 +17,8 @@ translations:
     name: カンブリア語
   - translation_iso: kor
     name: 컴브리아어
+  - translation_iso: spa
+    name: cúmbrico
   - translation_iso: zho
     name: 坎伯蘭語
 ---

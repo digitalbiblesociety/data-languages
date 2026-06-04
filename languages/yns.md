@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヤンシ語
     auto: true
+  - translation_iso: spa
+    name: Idioma yansi
   - translation_iso: zho
     name: 扬西语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マムプルリ語
     auto: true
+  - translation_iso: spa
+    name: Mampruli
   - translation_iso: zho
     name: 曼普鲁利语
     auto: true

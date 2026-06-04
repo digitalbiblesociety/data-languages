@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カルデア現代アラム語
+  - translation_iso: spa
+    name: caldeo neoarameo
   - translation_iso: zho
     name: 迦勒底新亚拉姆语
 rolv_dialects:

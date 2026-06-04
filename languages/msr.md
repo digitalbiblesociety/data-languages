@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モンゴル手話
+  - translation_iso: spa
+    name: lengua de signos mongola
   - translation_iso: zho
     name: 蒙古手语
     auto: true

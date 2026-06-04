@@ -24,6 +24,8 @@ translations:
     name: チェチェン語
   - translation_iso: kor
     name: 체첸어
+  - translation_iso: spa
+    name: checheno
   - translation_iso: zho
     name: 车臣语
 rolv_dialects:

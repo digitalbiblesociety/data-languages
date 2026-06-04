@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北ピケネ語
+  - translation_iso: spa
+    name: Idioma piceno septentrional
   - translation_iso: zho
     name: 北皮塞恩語
 ---

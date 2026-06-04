@@ -18,6 +18,8 @@ translations:
     name: スワヒリ語
   - translation_iso: kor
     name: 스와힐리어
+  - translation_iso: spa
+    name: suajili
   - translation_iso: zho
     name: 斯瓦希里语
 ---

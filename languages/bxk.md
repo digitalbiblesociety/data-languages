@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブクス語
+  - translation_iso: spa
+    name: bukusu
   - translation_iso: zho
     name: 布库苏语
     auto: true

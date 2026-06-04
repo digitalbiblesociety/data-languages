@@ -25,6 +25,8 @@ translations:
     name: カム語
   - translation_iso: kor
     name: ǀ캄어
+  - translation_iso: spa
+    name: idioma ǀxam
   - translation_iso: zho
     name: 卡姆语
 rolv_dialects:

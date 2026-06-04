@@ -21,6 +21,8 @@ translations:
     name: ラーダン
   - translation_iso: kor
     name: 라아단
+  - translation_iso: spa
+    name: Láadan
   - translation_iso: zho
     name: 拉丹语
 ---

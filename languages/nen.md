@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ネンゴネ語
+  - translation_iso: spa
+    name: Idioma nengone
   - translation_iso: zho
     name: 嫩贡内语
     auto: true

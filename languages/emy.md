@@ -25,6 +25,8 @@ translations:
     name: 古典マヤ語
   - translation_iso: kor
     name: 고전 마야어
+  - translation_iso: spa
+    name: idioma maya clásico
   - translation_iso: zho
     name: 古典馬雅語
 ---

@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モヘガン・ペクォート語
+  - translation_iso: spa
+    name: Mohegan-Pequot
   - translation_iso: zho
     name: 莫西干-佩克特語
 rolv_dialects:

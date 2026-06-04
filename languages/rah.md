@@ -22,6 +22,8 @@ translations:
     name: रभा भाषा
   - translation_iso: jpn
     name: ラバ語
+  - translation_iso: spa
+    name: idioma rabha
   - translation_iso: zho
     name: 拉巴语
 rolv_dialects:

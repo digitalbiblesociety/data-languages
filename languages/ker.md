@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケラ語
+  - translation_iso: spa
+    name: kera
   - translation_iso: zho
     name: 凯拉语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: アファル語
   - translation_iso: kor
     name: 아파르어
+  - translation_iso: spa
+    name: idioma afar
   - translation_iso: zho
     name: 阿法尔语
 rolv_dialects:

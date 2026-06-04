@@ -18,6 +18,8 @@ translations:
     name: アラビア語シチリア方言
   - translation_iso: kor
     name: 시칠리아 아랍어
+  - translation_iso: spa
+    name: árabe siciliano
   - translation_iso: zho
     name: 西西里阿拉伯语
 ---

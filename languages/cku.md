@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コウシャッタ語
+  - translation_iso: spa
+    name: Koasati
   - translation_iso: zho
     name: 科阿萨提语
 ---

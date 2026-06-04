@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヴュレス語
     auto: true
+  - translation_iso: spa
+    name: Idioma vurës
   - translation_iso: zho
     name: 武雷斯语
     auto: true

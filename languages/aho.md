@@ -22,6 +22,8 @@ translations:
     name: アホム語
   - translation_iso: kor
     name: 아홈어
+  - translation_iso: spa
+    name: ahom
   - translation_iso: zho
     name: 阿豪姆語
 ---

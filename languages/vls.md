@@ -25,6 +25,8 @@ translations:
     name: 西フラマン語
   - translation_iso: kor
     name: 서플랑드르어
+  - translation_iso: spa
+    name: flamenco occidental
   - translation_iso: zho
     name: 西佛兰德语
 rolv_dialects:

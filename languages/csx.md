@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンボジア手話
+  - translation_iso: spa
+    name: Lenguaje de signos camboyano
   - translation_iso: zho
     name: 柬埔寨手语
     auto: true

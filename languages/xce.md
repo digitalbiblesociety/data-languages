@@ -25,6 +25,8 @@ translations:
     name: ケルティベリア語
   - translation_iso: kor
     name: 켈티베리아어
+  - translation_iso: spa
+    name: celtíbero
   - translation_iso: zho
     name: 凱爾特伊比利亞語
 ---

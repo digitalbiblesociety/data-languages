@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プエルトリコ手話
+  - translation_iso: spa
+    name: lengua de señas puertorriqueña
   - translation_iso: zho
     name: 波多黎各手语
     auto: true

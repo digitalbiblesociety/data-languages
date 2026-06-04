@@ -18,6 +18,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンヴィリ方言
+  - translation_iso: spa
+    name: Kamviri
   - translation_iso: zho
     name: 卡姆维里方言
 rolv_dialects:

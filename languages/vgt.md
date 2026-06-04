@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フラマン手話
+  - translation_iso: spa
+    name: lengua de señas flamenca
   - translation_iso: zho
     name: 弗拉芒手语
 rolv_dialects:

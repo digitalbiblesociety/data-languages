@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: モノ語
     auto: true
+  - translation_iso: spa
+    name: lengua mono
   - translation_iso: zho
     name: 大洋洲莫諾語
 rolv_dialects:

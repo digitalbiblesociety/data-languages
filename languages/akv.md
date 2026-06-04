@@ -25,6 +25,8 @@ translations:
     name: アフバフ語
   - translation_iso: kor
     name: 아흐바흐어
+  - translation_iso: spa
+    name: ajvaj
   - translation_iso: zho
     name: 阿克瓦克語
 rolv_dialects:

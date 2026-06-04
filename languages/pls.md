@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: サンマルコストラコヤルコポポカ語
     auto: true
+  - translation_iso: spa
+    name: Popoloca norteño
   - translation_iso: zho
     name: 圣马科斯特拉科亚尔科波波卡语
     auto: true

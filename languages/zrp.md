@@ -18,6 +18,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツァルファティート
+  - translation_iso: spa
+    name: Zarfático
   - translation_iso: zho
     name: 查法蒂语
 ---

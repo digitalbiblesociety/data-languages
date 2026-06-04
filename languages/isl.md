@@ -24,6 +24,8 @@ translations:
     name: アイスランド語
   - translation_iso: kor
     name: 아이슬란드어
+  - translation_iso: spa
+    name: islandés
   - translation_iso: zho
     name: 冰岛语
 ---

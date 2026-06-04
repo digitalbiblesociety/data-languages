@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ノリック語
     auto: true
+  - translation_iso: spa
+    name: nórico
   - translation_iso: zho
     name: 諾里語
 ---

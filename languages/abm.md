@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アバニョム語
+  - translation_iso: spa
+    name: abanyom
   - translation_iso: zho
     name: 阿班约姆语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: タイ・ルー語
   - translation_iso: kor
     name: 타이루어
+  - translation_iso: spa
+    name: Tai Lü
   - translation_iso: zho
     name: 傣仂語
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オファエ語
     auto: true
+  - translation_iso: spa
+    name: idioma ofayé
   - translation_iso: zho
     name: 奥法耶语
     auto: true

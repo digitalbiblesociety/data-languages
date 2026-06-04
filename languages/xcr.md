@@ -26,6 +26,8 @@ translations:
     name: カリア語
   - translation_iso: kor
     name: 카리아어
+  - translation_iso: spa
+    name: Idioma cario
   - translation_iso: zho
     name: 卡里亞語
 ---

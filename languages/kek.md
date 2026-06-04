@@ -25,6 +25,8 @@ translations:
     name: ケクチ語
   - translation_iso: kor
     name: 켁치어
+  - translation_iso: spa
+    name: quekchí
   - translation_iso: zho
     name: 凯克其语
 rolv_dialects:

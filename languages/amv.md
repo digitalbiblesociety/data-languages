@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アンベラウ語
     auto: true
+  - translation_iso: spa
+    name: Ambalau
   - translation_iso: zho
     name: 安贝劳语
     auto: true

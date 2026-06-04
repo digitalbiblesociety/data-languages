@@ -19,6 +19,8 @@ translations:
     name: セルビア語
   - translation_iso: kor
     name: 세르비아어
+  - translation_iso: spa
+    name: serbio
   - translation_iso: zho
     name: 塞尔维亚语
 rolv_dialects:

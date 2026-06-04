@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バココ語
+  - translation_iso: spa
+    name: kogo
   - translation_iso: zho
     name: 巴科科语
     auto: true

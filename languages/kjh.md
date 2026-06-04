@@ -24,6 +24,8 @@ translations:
     name: ハカス語
   - translation_iso: kor
     name: 하카스어
+  - translation_iso: spa
+    name: Idioma jakasio
   - translation_iso: zho
     name: 哈卡斯语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
     name: ラーオ語
   - translation_iso: kor
     name: 라오어
+  - translation_iso: spa
+    name: lao
   - translation_iso: zho
     name: 老挝语
 rolv_dialects:

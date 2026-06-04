@@ -24,6 +24,8 @@ translations:
     name: カラーシャ語
   - translation_iso: kor
     name: 칼라샤어
+  - translation_iso: spa
+    name: Kalasha
   - translation_iso: zho
     name: 卡拉什语
 rolv_dialects:

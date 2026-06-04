@@ -24,6 +24,8 @@ translations:
     name: テルグ語
   - translation_iso: kor
     name: 텔루구어
+  - translation_iso: spa
+    name: télugu
   - translation_iso: zho
     name: 泰卢固语
 rolv_dialects:

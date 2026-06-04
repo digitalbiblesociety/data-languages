@@ -24,6 +24,8 @@ translations:
     name: フーパ語
   - translation_iso: kor
     name: 후파어
+  - translation_iso: spa
+    name: Hupa
   - translation_iso: zho
     name: 胡帕语
 ---

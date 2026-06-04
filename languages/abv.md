@@ -24,6 +24,8 @@ translations:
     name: アラビア語バーレーン方言
   - translation_iso: kor
     name: 바레인 아랍어
+  - translation_iso: spa
+    name: Árabe bareiní
   - translation_iso: zho
     name: 巴林阿拉伯语
 rolv_dialects:

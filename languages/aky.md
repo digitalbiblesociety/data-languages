@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 오콜어
+  - translation_iso: spa
+    name: Idioma kol
   - translation_iso: zho
     name: 阿卡-科尔语
     auto: true

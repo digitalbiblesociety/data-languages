@@ -24,6 +24,8 @@ translations:
     name: パゼッヘ語
   - translation_iso: kor
     name: 파제어
+  - translation_iso: spa
+    name: Idioma pazeh
   - translation_iso: zho
     name: 巴宰-噶哈巫語
 rolv_dialects:

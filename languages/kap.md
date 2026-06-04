@@ -25,6 +25,8 @@ translations:
     name: ベジタ語
   - translation_iso: kor
     name: 베즈타어
+  - translation_iso: spa
+    name: Idioma bezhta
   - translation_iso: zho
     name: 贝吉塔语
 rolv_dialects:

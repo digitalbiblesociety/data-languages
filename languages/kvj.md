@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: プシキエ語
     auto: true
+  - translation_iso: spa
+    name: psikye
   - translation_iso: zho
     name: 普西克耶语
     auto: true

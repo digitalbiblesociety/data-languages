@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: サファラバ語
     auto: true
+  - translation_iso: spa
+    name: safaliba
   - translation_iso: zho
     name: 萨法利巴语
     auto: true

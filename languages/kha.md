@@ -24,6 +24,8 @@ translations:
     name: カシ語
   - translation_iso: kor
     name: 카시어
+  - translation_iso: spa
+    name: idioma khasi
   - translation_iso: zho
     name: 卡西语
 rolv_dialects:

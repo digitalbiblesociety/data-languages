@@ -24,6 +24,8 @@ translations:
     name: ボージュプリー語
   - translation_iso: kor
     name: 보즈푸리어
+  - translation_iso: spa
+    name: Idioma bopurí
   - translation_iso: zho
     name: 博杰普尔语
 rolv_dialects:

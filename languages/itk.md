@@ -25,6 +25,8 @@ translations:
     name: ユダヤ・イタリア語群
   - translation_iso: kor
     name: 유대 이탈리아어
+  - translation_iso: spa
+    name: lenguas judeo-italianas
   - translation_iso: zho
     name: 犹太-意大利语
 rolv_dialects:

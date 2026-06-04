@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティディケルト語
+  - translation_iso: spa
+    name: Idioma tidikelt
   - translation_iso: zho
     name: 蒂迪克尔特塔玛齐格特语
     auto: true

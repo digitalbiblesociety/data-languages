@@ -24,6 +24,8 @@ translations:
     name: モンゴ語
   - translation_iso: kor
     name: 몽고어
+  - translation_iso: spa
+    name: mongo
   - translation_iso: zho
     name: 芒戈語
 rolv_dialects:

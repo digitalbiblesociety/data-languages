@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ハイイ語
     auto: true
+  - translation_iso: spa
+    name: ǂAakhoe
   - translation_iso: zho
     name: 海奥姆人
 rolv_dialects:

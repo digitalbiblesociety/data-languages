@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハヴェケ語
+  - translation_iso: spa
+    name: Idioma haveke
   - translation_iso: zho
     name: 哈韦克语
     auto: true

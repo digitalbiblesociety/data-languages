@@ -24,6 +24,8 @@ translations:
     name: 英語
   - translation_iso: kor
     name: 영어
+  - translation_iso: spa
+    name: inglés
   - translation_iso: zho
     name: 英语
 rolv_dialects:

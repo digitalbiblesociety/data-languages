@@ -25,6 +25,8 @@ translations:
     name: シベリア・ユピック語
   - translation_iso: kor
     name: 시베리아 유픽어
+  - translation_iso: spa
+    name: yupik siberiano
   - translation_iso: zho
     name: 中西伯利亞尤皮克語
 rolv_dialects:

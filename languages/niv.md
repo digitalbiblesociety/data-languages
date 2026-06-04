@@ -25,6 +25,8 @@ translations:
     name: ニヴフ語
   - translation_iso: kor
     name: 니브흐어
+  - translation_iso: spa
+    name: nivejí
   - translation_iso: zho
     name: 尼夫赫語
 rolv_dialects:

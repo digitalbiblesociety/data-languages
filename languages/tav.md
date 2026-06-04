@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タトゥヨ語
     auto: true
+  - translation_iso: spa
+    name: Tatuyo
   - translation_iso: zho
     name: 塔图约语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ワランガマ語
     auto: true
+  - translation_iso: spa
+    name: idioma walangama
   - translation_iso: zho
     name: 瓦兰加马语
     auto: true

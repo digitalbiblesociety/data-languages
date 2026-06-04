@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: レッタ語
     auto: true
+  - translation_iso: spa
+    name: Retta
   - translation_iso: zho
     name: 雷塔语
     auto: true

@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シアモウ語
+  - translation_iso: spa
+    name: Idioma siamou
   - translation_iso: zho
     name: 西亚莫乌语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ユダヤ・タート語
   - translation_iso: kor
     name: 유대 타트어
+  - translation_iso: spa
+    name: juhuri
   - translation_iso: zho
     name: 犹太-塔特语
 rolv_dialects:

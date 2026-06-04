@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: イディニ語
     auto: true
+  - translation_iso: spa
+    name: idioma yidiny
   - translation_iso: zho
     name: 依蒂尼语
 rolv_dialects:

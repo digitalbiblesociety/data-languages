@@ -17,6 +17,8 @@ translations:
     name: 中国語
   - translation_iso: kor
     name: 중국어
+  - translation_iso: spa
+    name: chino
   - translation_iso: zho
     name: 中文
 ---

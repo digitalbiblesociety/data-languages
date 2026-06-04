@@ -24,6 +24,8 @@ translations:
     name: ケルン語
   - translation_iso: kor
     name: 쾰른어
+  - translation_iso: spa
+    name: dialecto colonés
   - translation_iso: zho
     name: 科隆方言
 ---

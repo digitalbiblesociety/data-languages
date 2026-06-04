@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 現代マンダ語
+  - translation_iso: spa
+    name: neomandeo
   - translation_iso: zho
     name: 現代曼達安語
 rolv_dialects:

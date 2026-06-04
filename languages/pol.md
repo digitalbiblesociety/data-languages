@@ -24,6 +24,8 @@ translations:
     name: ポーランド語
   - translation_iso: kor
     name: 폴란드어
+  - translation_iso: spa
+    name: polaco
   - translation_iso: zho
     name: 波兰语
 ---

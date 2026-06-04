@@ -24,6 +24,8 @@ translations:
     name: ロンバルド語
   - translation_iso: kor
     name: 롬바르디아어
+  - translation_iso: spa
+    name: lombardo
   - translation_iso: zho
     name: 倫巴底語
 rolv_dialects:

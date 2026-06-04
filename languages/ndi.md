@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: サンバ・レコ語
     auto: true
+  - translation_iso: spa
+    name: Chamba leko
   - translation_iso: zho
     name: 桑巴莱科语
     auto: true

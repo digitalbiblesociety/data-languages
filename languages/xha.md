@@ -16,6 +16,8 @@ translations:
   - translation_iso: jpn
     name: ハラミ語
     auto: true
+  - translation_iso: spa
+    name: harami
   - translation_iso: zho
     name: 哈拉米语
     auto: true

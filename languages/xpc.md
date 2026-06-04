@@ -23,6 +23,8 @@ translations:
     name: ペチェネグ語
   - translation_iso: kor
     name: 페체네그어
+  - translation_iso: spa
+    name: pechenego
   - translation_iso: zho
     name: 佩切涅格語
 ---

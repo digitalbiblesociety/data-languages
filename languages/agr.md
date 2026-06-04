@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アグアルナ語
     auto: true
+  - translation_iso: spa
+    name: lengua awajún
   - translation_iso: zho
     name: 阿瓜鲁纳语
 ---

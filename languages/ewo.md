@@ -24,6 +24,8 @@ translations:
     name: エウォンド語
   - translation_iso: kor
     name: 이원도어
+  - translation_iso: spa
+    name: ewondo
   - translation_iso: zho
     name: 埃翁多語
 rolv_dialects:

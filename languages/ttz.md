@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ツムケ語
     auto: true
+  - translation_iso: spa
+    name: tsum
   - translation_iso: zho
     name: 楚姆语
     auto: true

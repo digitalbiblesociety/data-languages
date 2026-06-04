@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: グアヤベロ語
     auto: true
+  - translation_iso: spa
+    name: Guayabero
   - translation_iso: zho
     name: 瓜亚贝罗语
     auto: true

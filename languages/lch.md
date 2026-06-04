@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ルチャジ語
     auto: true
+  - translation_iso: spa
+    name: Idioma luchazi
   - translation_iso: zho
     name: 卢查齐语
 rolv_dialects:

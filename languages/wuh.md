@@ -25,6 +25,8 @@ translations:
     name: 五屯語
   - translation_iso: kor
     name: 우툰어
+  - translation_iso: spa
+    name: Wutun
   - translation_iso: zho
     name: 五屯话
 ---

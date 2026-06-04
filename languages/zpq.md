@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ゾオゴッチョ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Zoogocho
   - translation_iso: zho
     name: 佐奥戈乔萨波特克语
     auto: true

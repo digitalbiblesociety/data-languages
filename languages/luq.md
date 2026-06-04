@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ルクミ語
     auto: true
+  - translation_iso: spa
+    name: Idioma lucumí
   - translation_iso: zho
     name: 卢库米语
     auto: true

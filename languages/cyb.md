@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: カユババ語
     auto: true
+  - translation_iso: spa
+    name: idioma cayubaba
   - translation_iso: zho
     name: 卡尤巴巴语
     auto: true

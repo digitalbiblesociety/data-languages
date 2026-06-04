@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: セリリ語
     auto: true
+  - translation_iso: spa
+    name: Serili
   - translation_iso: zho
     name: 塞里利语
     auto: true

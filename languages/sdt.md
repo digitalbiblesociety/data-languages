@@ -20,6 +20,8 @@ translations:
     name: シュアディート
   - translation_iso: kor
     name: 유대프로방스어
+  - translation_iso: spa
+    name: Shuadit
   - translation_iso: zho
     name: 犹太普罗旺斯方言
 ---

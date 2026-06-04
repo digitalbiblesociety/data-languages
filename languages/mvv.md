@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タガル・ムルット語
     auto: true
+  - translation_iso: spa
+    name: Idioma Tagol
   - translation_iso: zho
     name: 塔加尔穆鲁特语
     auto: true

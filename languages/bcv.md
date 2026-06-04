@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: シュー・ミンダ・ニエ語
     auto: true
+  - translation_iso: spa
+    name: shoo-minda-nye
   - translation_iso: zho
     name: 舒-明达-尼亚语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ペッチ語
     auto: true
+  - translation_iso: spa
+    name: paya
   - translation_iso: zho
     name: 佩奇语
     auto: true

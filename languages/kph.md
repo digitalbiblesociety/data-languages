@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クプラン語
     auto: true
+  - translation_iso: spa
+    name: kplang
   - translation_iso: zho
     name: 克普朗语
     auto: true

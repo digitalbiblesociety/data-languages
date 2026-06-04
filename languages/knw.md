@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クング・エコカ語
     auto: true
+  - translation_iso: spa
+    name: "!Kung Ekoka"
   - translation_iso: zho
     name: 功-埃科卡语
     auto: true

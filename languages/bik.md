@@ -17,6 +17,8 @@ translations:
     name: ビコール語
   - translation_iso: kor
     name: 비콜어
+  - translation_iso: spa
+    name: Lenguas bicolanas
   - translation_iso: zho
     name: 比科爾語
 ---

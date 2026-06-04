@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キャロック語
+  - translation_iso: spa
+    name: idioma karok
   - translation_iso: zho
     name: 卡罗克语
     auto: true

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グバヤ＝ボサンゴア語
+  - translation_iso: spa
+    name: Gbaya-Bossangoa
   - translation_iso: zho
     name: 加巴亚-博桑戈阿语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: プロシア語
   - translation_iso: kor
     name: 고대 프로이센어
+  - translation_iso: spa
+    name: prusiano antiguo
   - translation_iso: zho
     name: 古普魯士語
 ---

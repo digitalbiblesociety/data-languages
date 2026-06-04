@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ンドラングイット語
     auto: true
+  - translation_iso: spa
+    name: Idioma mangarla
   - translation_iso: zho
     name: 恩德拉格瑞思语
     auto: true

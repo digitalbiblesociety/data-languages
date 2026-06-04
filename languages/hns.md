@@ -21,6 +21,8 @@ translations:
     name: कैरेबियाई हिंदुस्तानी
   - translation_iso: jpn
     name: カリブ・ヒンドゥスターニー語
+  - translation_iso: spa
+    name: Hindustaní caribeño
   - translation_iso: zho
     name: 加勒比印度斯坦語
 rolv_dialects:

@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ベスティーニ語
     auto: true
+  - translation_iso: spa
+    name: Idioma vestino
   - translation_iso: zho
     name: 维斯蒂尼语
     auto: true

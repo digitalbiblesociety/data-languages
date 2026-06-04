@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウシラ・チナンテク語
     auto: true
+  - translation_iso: spa
+    name: chinanteca de Usila
   - translation_iso: zho
     name: 乌西拉奇南特克语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: エンレット語
     auto: true
+  - translation_iso: spa
+    name: enlhet
   - translation_iso: zho
     name: 英莱特语
     auto: true

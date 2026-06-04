@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: 中央マサウア語
     auto: true
+  - translation_iso: spa
+    name: mazahua
   - translation_iso: zho
     name: 馬薩瓦語
 rolv_dialects:

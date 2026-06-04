@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: モホス語
     auto: true
+  - translation_iso: spa
+    name: trinitario
   - translation_iso: zho
     name: 三一达里奥语
     auto: true

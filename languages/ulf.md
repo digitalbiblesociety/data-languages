@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: アフラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma usku
   - translation_iso: zho
     name: 乌斯库语
     auto: true

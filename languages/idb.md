@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: インド・ポルトガル語
     auto: true
+  - translation_iso: spa
+    name: Criollo indo-portugués
   - translation_iso: zho
     name: 印度-葡萄牙語
 rolv_dialects:

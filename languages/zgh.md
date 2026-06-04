@@ -18,6 +18,8 @@ translations:
     name: 標準モロッコ・タマジクト語
   - translation_iso: kor
     name: 표준 모로코 타마지트어
+  - translation_iso: spa
+    name: Amazig estándar marroquí
   - translation_iso: zho
     name: 标准摩洛哥柏柏尔语
 ---

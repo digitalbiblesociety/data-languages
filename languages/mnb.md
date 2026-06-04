@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムナ語
+  - translation_iso: spa
+    name: Muna
   - translation_iso: zho
     name: 穆纳语
     auto: true

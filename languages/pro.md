@@ -24,6 +24,8 @@ translations:
     name: 古プロヴァンス語
   - translation_iso: kor
     name: 고대 프로방스어
+  - translation_iso: spa
+    name: occitano antiguo
   - translation_iso: zho
     name: 古奥克语
 ---

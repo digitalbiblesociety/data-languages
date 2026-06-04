@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東紅水河チワン語
+  - translation_iso: spa
+    name: Zhuang Hongshuihe oriental
   - translation_iso: zho
     name: 東紅水河壯語
 rolv_dialects:

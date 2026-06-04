@@ -25,6 +25,8 @@ translations:
     name: バムン語
   - translation_iso: kor
     name: 바문어
+  - translation_iso: spa
+    name: bamum
   - translation_iso: zho
     name: 巴姆穆語
 ---

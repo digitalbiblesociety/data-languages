@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: テンティ語
     auto: true
+  - translation_iso: spa
+    name: Sensi
   - translation_iso: zho
     name: 森西语
     auto: true

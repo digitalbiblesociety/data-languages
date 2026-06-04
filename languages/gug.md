@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラグアイ・グアラニー語
+  - translation_iso: spa
+    name: guaraní paraguayo
   - translation_iso: zho
     name: 巴拉圭瓜拉尼语
     auto: true

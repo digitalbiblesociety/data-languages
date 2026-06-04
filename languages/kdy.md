@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ケデル語
     auto: true
+  - translation_iso: spa
+    name: keder
   - translation_iso: zho
     name: 凯德语
     auto: true

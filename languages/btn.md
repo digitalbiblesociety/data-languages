@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ラタニョン語
     auto: true
+  - translation_iso: spa
+    name: ratagnon
   - translation_iso: zho
     name: 拉塔各农语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クバラン語
+  - translation_iso: spa
+    name: Idioma kavalan
   - translation_iso: zho
     name: 噶玛兰语
 ---

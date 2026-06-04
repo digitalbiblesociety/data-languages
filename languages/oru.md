@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オルムル語
+  - translation_iso: spa
+    name: Ormuri
   - translation_iso: zho
     name: 奥尔穆里语
     auto: true

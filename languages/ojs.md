@@ -24,6 +24,8 @@ translations:
     name: セヴァーン・オジブワ語
   - translation_iso: kor
     name: 오지 크리어
+  - translation_iso: spa
+    name: oji-cree
   - translation_iso: zho
     name: 欧杰克里语
 rolv_dialects:

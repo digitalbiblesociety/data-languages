@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベネズエラ手話
+  - translation_iso: spa
+    name: lengua de señas venezolana
   - translation_iso: zho
     name: 委内瑞拉手语
 ---

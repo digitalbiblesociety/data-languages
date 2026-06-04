@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カヤリ語
     auto: true
+  - translation_iso: spa
+    name: Kayeli
   - translation_iso: zho
     name: 卡耶利语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: ツァフル語
   - translation_iso: kor
     name: 차후르어
+  - translation_iso: spa
+    name: Idioma tsajur
   - translation_iso: zho
     name: 查胡尔语
 rolv_dialects:

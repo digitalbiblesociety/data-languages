@@ -24,6 +24,8 @@ translations:
     name: モーリシャス・クレオール語
   - translation_iso: kor
     name: 모리셔스 크리올
+  - translation_iso: spa
+    name: criollo mauriciano
   - translation_iso: zho
     name: 毛里求斯克里奥尔语
 rolv_dialects:

@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: ワカ語
     auto: true
+  - translation_iso: spa
+    name: Idioma vilela
   - translation_iso: zho
     name: 比莱拉语
 ---

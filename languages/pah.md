@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: テンハリム語
     auto: true
+  - translation_iso: spa
+    name: tenharim
   - translation_iso: zho
     name: 腾哈林语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クリンチ語
+  - translation_iso: spa
+    name: Kerinci
   - translation_iso: zho
     name: 葛林芝
 rolv_dialects:

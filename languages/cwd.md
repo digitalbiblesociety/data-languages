@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 森林クリー語
+  - translation_iso: spa
+    name: cree de los bosques
   - translation_iso: zho
     name: 林地克里语
     auto: true

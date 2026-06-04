@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ジョルト語
     auto: true
+  - translation_iso: spa
+    name: yorto
   - translation_iso: zho
     name: 乔尔托语
     auto: true

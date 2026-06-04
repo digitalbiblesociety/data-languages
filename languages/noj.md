@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノヌヤ語
+  - translation_iso: spa
+    name: nonuya
   - translation_iso: zho
     name: 非努亚语
     auto: true

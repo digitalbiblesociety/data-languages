@@ -24,6 +24,8 @@ translations:
     name: カルムイク語
   - translation_iso: kor
     name: 칼미크어
+  - translation_iso: spa
+    name: kalmuko
   - translation_iso: zho
     name: 卡尔梅克卫拉特语
 rolv_dialects:

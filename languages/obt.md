@@ -16,6 +16,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ブルトン語
+  - translation_iso: spa
+    name: bretón antiguo
   - translation_iso: zho
     name: 古布列塔尼语
     auto: true

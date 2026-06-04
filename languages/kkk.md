@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ココタ語
     auto: true
+  - translation_iso: spa
+    name: Kokota
   - translation_iso: zho
     name: 科科塔语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アグナ語
     auto: true
+  - translation_iso: spa
+    name: Idioma aguna
   - translation_iso: zho
     name: 阿古纳语
     auto: true

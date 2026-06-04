@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: イネセーニョ語
     auto: true
+  - translation_iso: spa
+    name: ineseño
   - translation_iso: zho
     name: 伊内塞尼奥语
     auto: true

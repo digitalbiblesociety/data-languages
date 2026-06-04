@@ -17,6 +17,8 @@ translations:
     name: ロンゴバルド語
   - translation_iso: kor
     name: 룀바르드어
+  - translation_iso: spa
+    name: lombardo
   - translation_iso: zho
     name: 伦巴底语
 ---

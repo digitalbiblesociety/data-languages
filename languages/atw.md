@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アツゲウィ語
     auto: true
+  - translation_iso: spa
+    name: Idioma atsugewi
   - translation_iso: zho
     name: 阿特苏格维语
     auto: true

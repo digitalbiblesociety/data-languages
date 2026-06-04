@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スワヒリ語
+  - translation_iso: spa
+    name: Kiswahili
   - translation_iso: zho
     name: 斯瓦希里语
 rolv_dialects:

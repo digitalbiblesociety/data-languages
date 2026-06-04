@@ -26,6 +26,8 @@ translations:
     name: ルシュツィード語
   - translation_iso: kor
     name: 루슈치드어
+  - translation_iso: spa
+    name: Lushootseed
   - translation_iso: zho
     name: 盧紹錫德語
 rolv_dialects:

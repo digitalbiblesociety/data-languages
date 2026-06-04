@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レムニア語
+  - translation_iso: spa
+    name: Idioma lemnio
   - translation_iso: zho
     name: 利姆尼亚语
 ---

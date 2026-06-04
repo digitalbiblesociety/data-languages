@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴェストファーレン語
+  - translation_iso: spa
+    name: Westfaliano
   - translation_iso: zho
     name: 威斯特法伦方言
 rolv_dialects:

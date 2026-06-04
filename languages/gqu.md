@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カウ語
     auto: true
+  - translation_iso: spa
+    name: Qau
   - translation_iso: zho
     name: 稿方言
 ---

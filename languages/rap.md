@@ -24,6 +24,8 @@ translations:
     name: ラパ・ヌイ語
   - translation_iso: kor
     name: 라파누이어
+  - translation_iso: spa
+    name: Rapa Nui
   - translation_iso: zho
     name: 拉帕努伊语
 ---

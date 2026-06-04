@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 桂北チワン語
+  - translation_iso: spa
+    name: Zhuang Guibei
   - translation_iso: zho
     name: 桂北壯語
 rolv_dialects:

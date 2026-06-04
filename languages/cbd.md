@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カリホナ語
     auto: true
+  - translation_iso: spa
+    name: Idioma carijona
   - translation_iso: zho
     name: 卡里霍纳语
     auto: true

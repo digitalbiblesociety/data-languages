@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カメルーン・ピジン
+  - translation_iso: spa
+    name: Camerunés criollo
   - translation_iso: zho
     name: 喀麥隆皮欽語
 ---

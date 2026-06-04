@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ワイラワンカケチュア語
     auto: true
+  - translation_iso: spa
+    name: huailla huanca
   - translation_iso: zho
     name: 瓦亚瓦卡克丘亚语
     auto: true

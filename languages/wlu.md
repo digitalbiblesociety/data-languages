@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウーリウーリ語
     auto: true
+  - translation_iso: spa
+    name: idioma wuliwuli
   - translation_iso: zho
     name: 武利武利语
     auto: true

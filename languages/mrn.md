@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チェケ・ホロ語
     auto: true
+  - translation_iso: spa
+    name: Cheke holo
   - translation_iso: zho
     name: 切克·霍洛语
     auto: true

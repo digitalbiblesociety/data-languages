@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バムンカ語
     auto: true
+  - translation_iso: spa
+    name: bamunka
   - translation_iso: zho
     name: 巴蒙卡语
     auto: true

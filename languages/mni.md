@@ -24,6 +24,8 @@ translations:
     name: マニプリ語
   - translation_iso: kor
     name: 마니푸르어
+  - translation_iso: spa
+    name: idioma meitei
   - translation_iso: zho
     name: 曼尼普尔语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ニャングマルタ語
     auto: true
+  - translation_iso: spa
+    name: nyangumarta
   - translation_iso: zho
     name: Nyangumarta语
 ---

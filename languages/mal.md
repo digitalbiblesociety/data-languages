@@ -24,6 +24,8 @@ translations:
     name: マラヤーラム語
   - translation_iso: kor
     name: 말라얄람어
+  - translation_iso: spa
+    name: malabar
   - translation_iso: zho
     name: 马拉雅拉姆语
 rolv_dialects:

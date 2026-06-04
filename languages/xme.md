@@ -15,6 +15,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メディア語
+  - translation_iso: spa
+    name: Medo
   - translation_iso: zho
     name: 米底语
 ---

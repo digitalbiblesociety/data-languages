@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヤラルンガ語
     auto: true
+  - translation_iso: spa
+    name: Idioma yalarnnga
   - translation_iso: zho
     name: 亚拉纽加语
     auto: true

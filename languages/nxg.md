@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ンガダ語
     auto: true
+  - translation_iso: spa
+    name: Ngada
   - translation_iso: zho
     name: 恩加达语
 rolv_dialects:

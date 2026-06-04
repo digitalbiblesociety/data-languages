@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아카차리 방언
+  - translation_iso: spa
+    name: Idioma cari
   - translation_iso: zho
     name: 阿卡-卡里语
     auto: true

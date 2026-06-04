@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デンマーク手話
+  - translation_iso: spa
+    name: Lengua de señas danesa
   - translation_iso: zho
     name: 丹麦手语
 ---

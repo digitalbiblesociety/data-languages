@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タオス語
+  - translation_iso: spa
+    name: dialecto taos
   - translation_iso: zho
     name: 北蒂瓦语
     auto: true

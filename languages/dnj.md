@@ -17,6 +17,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダン語
+  - translation_iso: spa
+    name: idioma Dan
   - translation_iso: zho
     name: 但语
 rolv_dialects:

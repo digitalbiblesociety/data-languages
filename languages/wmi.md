@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワミン語
     auto: true
+  - translation_iso: spa
+    name: idioma wamin
   - translation_iso: zho
     name: 瓦敏语
     auto: true

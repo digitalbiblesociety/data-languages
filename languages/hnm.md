@@ -24,6 +24,8 @@ translations:
     name: 海南語
   - translation_iso: kor
     name: 하이난어
+  - translation_iso: spa
+    name: Chino hainanés
   - translation_iso: zho
     name: 海南闽语
 rolv_dialects:

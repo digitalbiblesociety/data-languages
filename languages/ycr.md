@@ -23,6 +23,8 @@ translations:
     name: 宜蘭クレオール
   - translation_iso: kor
     name: 이란 크리올 일본어
+  - translation_iso: spa
+    name: Criollo de Yilan
   - translation_iso: zho
     name: 寒溪语
 ---

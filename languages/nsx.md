@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ンソンゴ語
     auto: true
+  - translation_iso: spa
+    name: Idioma songo
   - translation_iso: zho
     name: 恩松戈语
     auto: true

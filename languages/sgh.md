@@ -24,6 +24,8 @@ translations:
     name: シュグニー語
   - translation_iso: kor
     name: 슈그니어
+  - translation_iso: spa
+    name: sugní
   - translation_iso: zho
     name: 舒格南语
 rolv_dialects:

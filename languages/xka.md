@@ -22,6 +22,8 @@ translations:
     name: कलकोटी भाषा
   - translation_iso: jpn
     name: カルコート語
+  - translation_iso: spa
+    name: Kalkoti
   - translation_iso: zho
     name: 卡尔克提语
 ---

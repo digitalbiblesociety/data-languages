@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: グラアラア語
     auto: true
+  - translation_iso: spa
+    name: "Gula'alaa"
   - translation_iso: zho
     name: 古拉阿拉语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: イマス語
   - translation_iso: kor
     name: 이마스어
+  - translation_iso: spa
+    name: Idioma yimas
   - translation_iso: zho
     name: 伊玛斯语
     auto: true

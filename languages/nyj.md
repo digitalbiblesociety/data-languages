@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャンガ語
+  - translation_iso: spa
+    name: Idioma nyanga
   - translation_iso: zho
     name: 尼昂加语
     auto: true

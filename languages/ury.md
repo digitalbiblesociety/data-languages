@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オリア語
     auto: true
+  - translation_iso: spa
+    name: Orya
   - translation_iso: zho
     name: 奥里亚语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カミラロイ語
+  - translation_iso: spa
+    name: idioma gamilaraay
   - translation_iso: zho
     name: 卡米拉瑞语
 ---

@@ -25,6 +25,8 @@ translations:
     name: バオアン語
   - translation_iso: kor
     name: 바오안어
+  - translation_iso: spa
+    name: Idioma bonán
   - translation_iso: zho
     name: 保安语
 rolv_dialects:

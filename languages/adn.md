@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アダン語
     auto: true
+  - translation_iso: spa
+    name: Adang
   - translation_iso: zho
     name: 阿当语
     auto: true

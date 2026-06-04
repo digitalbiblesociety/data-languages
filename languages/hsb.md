@@ -24,6 +24,8 @@ translations:
     name: 高地ソルブ語
   - translation_iso: kor
     name: 고지 소르브어
+  - translation_iso: spa
+    name: alto sorabo
   - translation_iso: zho
     name: 上索布语
 rolv_dialects:

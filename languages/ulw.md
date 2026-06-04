@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: スム語
     auto: true
+  - translation_iso: spa
+    name: idioma ulwa
   - translation_iso: zho
     name: 乌尔瓦语
     auto: true

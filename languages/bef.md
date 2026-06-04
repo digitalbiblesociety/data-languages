@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベナベナ語
+  - translation_iso: spa
+    name: Idioma benabena
   - translation_iso: zho
     name: 贝纳贝纳语
     auto: true

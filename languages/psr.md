@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポルトガル手話
+  - translation_iso: spa
+    name: lengua de señas portuguesa
   - translation_iso: zho
     name: 葡萄牙语手语
 rolv_dialects:

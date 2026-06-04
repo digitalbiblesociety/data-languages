@@ -18,6 +18,8 @@ translations:
     name: ザザキ語
   - translation_iso: kor
     name: 자자어
+  - translation_iso: spa
+    name: zazaki
   - translation_iso: zho
     name: 扎扎其语
 ---

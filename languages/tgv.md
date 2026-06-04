@@ -19,6 +19,8 @@ translations:
   - translation_iso: jpn
     name: ティングイ・ボト語
     auto: true
+  - translation_iso: spa
+    name: Idioma tingui-boto
   - translation_iso: zho
     name: 廷圭-博托语
     auto: true

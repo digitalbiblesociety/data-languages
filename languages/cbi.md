@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チャチ語
     auto: true
+  - translation_iso: spa
+    name: "idioma cha'palaachi"
   - translation_iso: zho
     name: 查奇语
     auto: true

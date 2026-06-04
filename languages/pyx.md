@@ -23,6 +23,8 @@ translations:
     name: ピュー語
   - translation_iso: kor
     name: 쀼어
+  - translation_iso: spa
+    name: Idioma pyu
   - translation_iso: zho
     name: 驃語
 ---

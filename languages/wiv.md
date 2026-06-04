@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ビトゥ語
     auto: true
+  - translation_iso: spa
+    name: Idioma vitu
   - translation_iso: zho
     name: 维图语
     auto: true

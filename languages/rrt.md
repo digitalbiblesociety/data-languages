@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アリティングギティ語
     auto: true
+  - translation_iso: spa
+    name: Idioma aritinngithigh
   - translation_iso: zho
     name: 阿瑞廷吉蒂格语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ナムリック語
     auto: true
+  - translation_iso: spa
+    name: Idioma totoró
   - translation_iso: zho
     name: 托托罗语
     auto: true

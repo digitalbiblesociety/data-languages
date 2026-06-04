@@ -25,6 +25,8 @@ translations:
     name: 東フリジア語
   - translation_iso: kor
     name: 동프리슬란트어
+  - translation_iso: spa
+    name: dialecto frisón saterlandés
   - translation_iso: zho
     name: 萨特弗里斯兰语
 ---

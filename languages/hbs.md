@@ -23,6 +23,8 @@ translations:
     name: セルビア・クロアチア語
   - translation_iso: kor
     name: 세르보크로아트어
+  - translation_iso: spa
+    name: serbocroata
   - translation_iso: zho
     name: 塞尔维亚-克罗地亚语
 ---

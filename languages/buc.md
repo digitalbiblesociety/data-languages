@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブシ語
+  - translation_iso: spa
+    name: bushi
   - translation_iso: zho
     name: 布希语
 rolv_dialects:

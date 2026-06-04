@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マツヴァン語
     auto: true
+  - translation_iso: spa
+    name: Idioma tsuvano
   - translation_iso: zho
     name: 楚万语
     auto: true

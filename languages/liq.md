@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リビド語
+  - translation_iso: spa
+    name: Idioma Libido
   - translation_iso: zho
     name: 利比多语
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: サバ語
   - translation_iso: kor
     name: 사바어
+  - translation_iso: spa
+    name: Idioma sabeo
   - translation_iso: zho
     name: 示巴語
 ---

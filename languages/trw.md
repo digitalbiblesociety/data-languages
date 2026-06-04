@@ -22,6 +22,8 @@ translations:
     name: तोरवाली
   - translation_iso: jpn
     name: トールワーリー語
+  - translation_iso: spa
+    name: Torwali
   - translation_iso: zho
     name: 托瓦利语
 rolv_dialects:

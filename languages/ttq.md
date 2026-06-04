@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タワラマト・タマジャク語
+  - translation_iso: spa
+    name: Idioma tahoua
   - translation_iso: zho
     name: 塔瓦拉玛特塔马杰克语
     auto: true

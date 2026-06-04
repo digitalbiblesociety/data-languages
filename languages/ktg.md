@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カルクトゥン語
     auto: true
+  - translation_iso: spa
+    name: Idioma kalkatungu
   - translation_iso: zho
     name: 卡尔库通语
     auto: true

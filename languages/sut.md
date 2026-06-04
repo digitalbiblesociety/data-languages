@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: サブティアバ語
     auto: true
+  - translation_iso: spa
+    name: sutiaba
   - translation_iso: zho
     name: 萨布蒂阿巴语
     auto: true

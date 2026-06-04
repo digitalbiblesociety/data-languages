@@ -22,6 +22,8 @@ translations:
     name: आयापानेको
   - translation_iso: jpn
     name: アヤパネコ語
+  - translation_iso: spa
+    name: ayapanecaca
   - translation_iso: zho
     name: 阿亚帕涅科语
 ---

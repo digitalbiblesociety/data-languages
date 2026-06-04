@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユキ語
+  - translation_iso: spa
+    name: Idioma yuki
   - translation_iso: zho
     name: 尤基語
 ---

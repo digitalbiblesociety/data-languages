@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイ語
+  - translation_iso: spa
+    name: Idioma cofán
   - translation_iso: zho
     name: 阿依语
 rolv_dialects:

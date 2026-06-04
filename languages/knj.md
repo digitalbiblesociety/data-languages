@@ -25,6 +25,8 @@ translations:
     name: アカテク語
   - translation_iso: kor
     name: 아카텍어
+  - translation_iso: spa
+    name: acateco
   - translation_iso: zho
     name: 西坎若巴尔语
     auto: true

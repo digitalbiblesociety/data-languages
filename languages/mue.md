@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メディア・レングア
+  - translation_iso: spa
+    name: media lengua
   - translation_iso: zho
     name: 媒体伦瓜语
     auto: true

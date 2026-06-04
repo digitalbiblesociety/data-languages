@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヴァオ語
     auto: true
+  - translation_iso: spa
+    name: Idioma vao
   - translation_iso: zho
     name: Vao語
 rolv_dialects:

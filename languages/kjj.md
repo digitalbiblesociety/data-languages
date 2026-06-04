@@ -25,6 +25,8 @@ translations:
     name: ヒナルク語
   - translation_iso: kor
     name: 히날루그어
+  - translation_iso: spa
+    name: Idioma khinalug
   - translation_iso: zho
     name: 奇納魯格語
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ガアム語
     auto: true
+  - translation_iso: spa
+    name: Idioma gaam
   - translation_iso: zho
     name: 盖亚姆语
     auto: true

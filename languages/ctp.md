@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・ハイランド・チャティーノ語
     auto: true
+  - translation_iso: spa
+    name: Chatino central
   - translation_iso: zho
     name: 西高地查蒂诺语
     auto: true

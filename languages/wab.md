@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワブ語
     auto: true
+  - translation_iso: spa
+    name: Wab
   - translation_iso: zho
     name: 瓦布语
     auto: true

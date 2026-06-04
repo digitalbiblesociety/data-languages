@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ブサム語
     auto: true
+  - translation_iso: spa
+    name: Busam
   - translation_iso: zho
     name: 布萨姆语
     auto: true

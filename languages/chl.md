@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カウィラ語
     auto: true
+  - translation_iso: spa
+    name: cahuilla
   - translation_iso: zho
     name: 伊维留瓦特语
 ---

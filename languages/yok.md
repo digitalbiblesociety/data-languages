@@ -25,6 +25,8 @@ translations:
     name: ヨクツ語族
   - translation_iso: kor
     name: 요쿠츠어
+  - translation_iso: spa
+    name: lenguas yokuts
   - translation_iso: zho
     name: 约库特语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
     name: ンドンガ語
   - translation_iso: kor
     name: 느동가어
+  - translation_iso: spa
+    name: ndonga
   - translation_iso: zho
     name: 恩东加语
 rolv_dialects:

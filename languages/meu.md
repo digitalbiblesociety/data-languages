@@ -25,6 +25,8 @@ translations:
     name: モトゥ語
   - translation_iso: kor
     name: 모투어
+  - translation_iso: spa
+    name: Idioma motu
   - translation_iso: zho
     name: 莫图语
 rolv_dialects:

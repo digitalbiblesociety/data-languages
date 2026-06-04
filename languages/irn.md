@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イランシェ語
+  - translation_iso: spa
+    name: Idioma irantxe
   - translation_iso: zho
     name: 伊兰特克语
     auto: true

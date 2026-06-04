@@ -24,6 +24,8 @@ translations:
     name: クロウ語
   - translation_iso: kor
     name: 크로우어
+  - translation_iso: spa
+    name: Crow
   - translation_iso: zho
     name: 克羅語
 ---

@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユトランド方言
+  - translation_iso: spa
+    name: Juto
   - translation_iso: zho
     name: 日德兰语
 ---

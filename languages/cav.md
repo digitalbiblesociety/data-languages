@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カビネニャ語
+  - translation_iso: spa
+    name: idioma cavineña
   - translation_iso: zho
     name: 卡维涅尼亚语
     auto: true

@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ワディ・ワディ語
     auto: true
+  - translation_iso: spa
+    name: idioma wadi-wadi
   - translation_iso: zho
     name: 瓦迪-瓦迪语
     auto: true

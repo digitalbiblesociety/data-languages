@@ -24,6 +24,8 @@ translations:
     name: アカン語
   - translation_iso: kor
     name: 아칸어
+  - translation_iso: spa
+    name: lenguas akánicas
   - translation_iso: zho
     name: 阿肯语
 rolv_dialects:

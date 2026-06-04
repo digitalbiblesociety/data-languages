@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タニムカ・レトゥアラ語
     auto: true
+  - translation_iso: spa
+    name: Tanimuca
   - translation_iso: zho
     name: 塔尼穆卡-瑞图亚拉语
     auto: true

@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムビルア語
+  - translation_iso: spa
+    name: Lenguaje Bilua
   - translation_iso: zho
     name: 比鲁阿语
 rolv_dialects:

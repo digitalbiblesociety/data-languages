@@ -25,6 +25,8 @@ translations:
     name: ポコマム語
   - translation_iso: kor
     name: 포코맘어
+  - translation_iso: spa
+    name: pocomam
   - translation_iso: zho
     name: 波寇玛姆语
     auto: true

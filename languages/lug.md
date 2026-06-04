@@ -24,6 +24,8 @@ translations:
     name: ルガンダ語
   - translation_iso: kor
     name: 루간다어
+  - translation_iso: spa
+    name: luganda
   - translation_iso: zho
     name: 卢干达语
 rolv_dialects:

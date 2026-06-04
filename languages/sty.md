@@ -24,6 +24,8 @@ translations:
     name: シビール語
   - translation_iso: kor
     name: 시베리아 타타르어
+  - translation_iso: spa
+    name: tártaro de Siberia
   - translation_iso: zho
     name: 西伯利亚鞑靼语
 rolv_dialects:

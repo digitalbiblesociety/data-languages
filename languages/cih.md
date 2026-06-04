@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: チナリ語
     auto: true
+  - translation_iso: spa
+    name: Idioma chinali
   - translation_iso: zho
     name: 奇纳利语
     auto: true

@@ -18,6 +18,8 @@ translations:
     name: フン語
   - translation_iso: kor
     name: 훈어
+  - translation_iso: spa
+    name: Idioma huno
   - translation_iso: zho
     name: 匈人语
 ---

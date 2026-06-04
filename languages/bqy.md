@@ -21,6 +21,8 @@ translations:
     name: काटा कोलोक
   - translation_iso: jpn
     name: カタ・コロック
+  - translation_iso: spa
+    name: Desa Kolok
   - translation_iso: zho
     name: 孟加拉库手语
     auto: true

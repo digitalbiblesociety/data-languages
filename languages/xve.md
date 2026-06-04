@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウェネティ語
+  - translation_iso: spa
+    name: venético
   - translation_iso: zho
     name: 威尼托语
 ---

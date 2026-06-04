@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: イスコナフア語
     auto: true
+  - translation_iso: spa
+    name: idioma isconahua
   - translation_iso: zho
     name: 伊斯科纳瓦语
     auto: true

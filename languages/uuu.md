@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ポウマ語
     auto: true
+  - translation_iso: spa
+    name: Idioma u
   - translation_iso: zho
     name: 乌语
 rolv_dialects:

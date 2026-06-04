@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: サン・フランシスコ・デル・マル・ウアベ語
     auto: true
+  - translation_iso: spa
+    name: huave de San Francisco del Mar
   - translation_iso: zho
     name: 圣弗朗西斯科德尔玛尔瓦夫语
     auto: true

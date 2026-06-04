@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギナオ語
+  - translation_iso: spa
+    name: Baré
   - translation_iso: zho
     name: 巴瑞語
 ---

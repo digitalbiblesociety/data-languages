@@ -22,6 +22,8 @@ translations:
     name: ईरुला भाषा
   - translation_iso: jpn
     name: イルラ語
+  - translation_iso: spa
+    name: Idioma irula
   - translation_iso: zho
     name: 伊鲁拉语
     auto: true

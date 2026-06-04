@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ジジリヴァカン語
     auto: true
+  - translation_iso: spa
+    name: Idioma zizilivaka
   - translation_iso: zho
     name: 齐齐利瓦干语
     auto: true

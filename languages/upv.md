@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウリピブ語
+  - translation_iso: spa
+    name: Idioma uripiv
   - translation_iso: zho
     name: 乌里皮夫-瓦拉-拉诺-阿其金语
     auto: true

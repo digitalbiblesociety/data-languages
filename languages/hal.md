@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ハラング語
     auto: true
+  - translation_iso: spa
+    name: halang
   - translation_iso: zho
     name: 哈朗语
 ---

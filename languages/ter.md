@@ -24,6 +24,8 @@ translations:
     name: テレーノ語
   - translation_iso: kor
     name: 테레노어
+  - translation_iso: spa
+    name: terêna
   - translation_iso: zho
     name: 特伦诺语
 ---

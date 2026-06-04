@@ -22,6 +22,8 @@ translations:
     name: कोरो भाषा
   - translation_iso: jpn
     name: コロ語
+  - translation_iso: spa
+    name: idioma koro
   - translation_iso: zho
     name: 克羅語
 ---

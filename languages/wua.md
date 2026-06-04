@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウィクネンチェラ語
     auto: true
+  - translation_iso: spa
+    name: idioma kugu nganhcara
   - translation_iso: zho
     name: 维克恩根彻拉语
     auto: true

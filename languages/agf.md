@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アルグニ語
     auto: true
+  - translation_iso: spa
+    name: Arguni
   - translation_iso: zho
     name: 阿尔古尼语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アドナラ語
     auto: true
+  - translation_iso: spa
+    name: Adonara
   - translation_iso: zho
     name: 阿多纳拉语
 rolv_dialects:

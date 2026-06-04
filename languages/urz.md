@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カワヒブ語
     auto: true
+  - translation_iso: spa
+    name: uru-eu-uau-uau
   - translation_iso: zho
     name: 乌鲁-埃乌-瓦乌-瓦乌语
     auto: true

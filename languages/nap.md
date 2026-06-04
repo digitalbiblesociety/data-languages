@@ -24,6 +24,8 @@ translations:
     name: ナポリ語
   - translation_iso: kor
     name: 나폴리어
+  - translation_iso: spa
+    name: napolitano
   - translation_iso: zho
     name: 那不勒斯语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: サンマルティンケチュア語
     auto: true
+  - translation_iso: spa
+    name: quechua lamista
   - translation_iso: zho
     name: 圣马丁克丘亚语
     auto: true

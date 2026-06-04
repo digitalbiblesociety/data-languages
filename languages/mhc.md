@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モチョ語
+  - translation_iso: spa
+    name: mochó
   - translation_iso: zho
     name: 莫乔语
     auto: true

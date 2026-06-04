@@ -17,6 +17,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中期ウェールズ語
+  - translation_iso: spa
+    name: galés medio
   - translation_iso: zho
     name: 中古威尔斯语
 ---

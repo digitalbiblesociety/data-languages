@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: シウ語
     auto: true
+  - translation_iso: spa
+    name: siwu
   - translation_iso: zho
     name: Siwu語
 rolv_dialects:

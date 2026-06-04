@@ -17,6 +17,8 @@ translations:
     name: カヌリ語
   - translation_iso: kor
     name: 카누리어
+  - translation_iso: spa
+    name: kanuri
   - translation_iso: zho
     name: 卡努里語
 ---

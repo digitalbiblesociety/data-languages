@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: パパパナ語
     auto: true
+  - translation_iso: spa
+    name: Idioma papapana
   - translation_iso: zho
     name: 帕帕帕纳语
     auto: true

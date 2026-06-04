@@ -24,6 +24,8 @@ translations:
     name: タマシェク語
   - translation_iso: kor
     name: 타마셰크어
+  - translation_iso: spa
+    name: Idioma tamashek
   - translation_iso: zho
     name: 廷巴克語
 ---

@@ -24,6 +24,8 @@ translations:
     name: 西アルメニア語
   - translation_iso: kor
     name: 서아르메니아어
+  - translation_iso: spa
+    name: armenio occidental
   - translation_iso: zho
     name: 西部亚美尼亚语
 rolv_dialects:

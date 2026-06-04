@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウジ語
+  - translation_iso: spa
+    name: Bauzi
   - translation_iso: zho
     name: 鲍齐语
     auto: true

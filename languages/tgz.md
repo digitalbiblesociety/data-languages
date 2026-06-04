@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タガラカ語
     auto: true
+  - translation_iso: spa
+    name: Idioma takalak
   - translation_iso: zho
     name: 塔加拉卡语
     auto: true

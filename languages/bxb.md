@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベランダ・ボル語
+  - translation_iso: spa
+    name: belanda bor
   - translation_iso: zho
     name: 贝兰达博尔语
     auto: true

@@ -15,6 +15,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナドルヴィア語
+  - translation_iso: spa
+    name: nadruviano
   - translation_iso: zho
     name: 纳德鲁维亚语
     auto: true

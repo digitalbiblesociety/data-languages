@@ -23,6 +23,8 @@ translations:
     name: 北部トゥショーニ語
   - translation_iso: kor
     name: 북부 투톤어
+  - translation_iso: spa
+    name: tutchone septentrional
   - translation_iso: zho
     name: 北塔穹语
 ---

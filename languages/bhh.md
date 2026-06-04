@@ -25,6 +25,8 @@ translations:
     name: ブハラ語
   - translation_iso: kor
     name: 부하라어
+  - translation_iso: spa
+    name: Idioma bújaro
   - translation_iso: zho
     name: 布哈里安语
 ---

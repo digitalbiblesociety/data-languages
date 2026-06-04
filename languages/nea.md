@@ -19,6 +19,8 @@ translations:
   - translation_iso: jpn
     name: 東ングアダ語
     auto: true
+  - translation_iso: spa
+    name: Ngada Timur
   - translation_iso: zho
     name: 东恩加达语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ルヤナ語
     auto: true
+  - translation_iso: spa
+    name: Idioma luyana
   - translation_iso: zho
     name: 卢亚纳语
 rolv_dialects:

@@ -23,6 +23,8 @@ translations:
     name: タールタン語
   - translation_iso: kor
     name: 탈탄어
+  - translation_iso: spa
+    name: tahltan
   - translation_iso: zho
     name: 塔爾坦語
 ---

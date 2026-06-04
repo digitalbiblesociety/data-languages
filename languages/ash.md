@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: アビシラ語
     auto: true
+  - translation_iso: spa
+    name: tekiraka
   - translation_iso: zho
     name: 阿比希拉语
     auto: true

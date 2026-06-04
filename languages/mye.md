@@ -25,6 +25,8 @@ translations:
     name: ミエネ語
   - translation_iso: kor
     name: 미예네어
+  - translation_iso: spa
+    name: Idioma myene
   - translation_iso: zho
     name: 姆耶內語
 rolv_dialects:

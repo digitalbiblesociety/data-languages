@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: エピエ語
     auto: true
+  - translation_iso: spa
+    name: epie
   - translation_iso: zho
     name: 埃皮语
     auto: true

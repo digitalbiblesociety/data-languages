@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: ムプル語
     auto: true
+  - translation_iso: spa
+    name: Idioma amberbaken
   - translation_iso: zho
     name: 姆普尔语
     auto: true

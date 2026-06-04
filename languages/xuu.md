@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クエ語
+  - translation_iso: spa
+    name: Idioma khoe
   - translation_iso: zho
     name: Khwe語
 rolv_dialects:

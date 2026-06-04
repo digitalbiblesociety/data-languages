@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボリビア手話
+  - translation_iso: spa
+    name: lengua de señas bolivianas
   - translation_iso: zho
     name: 玻利维亚手语
     auto: true

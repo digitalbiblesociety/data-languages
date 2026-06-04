@@ -24,6 +24,8 @@ translations:
     name: ロヒンギャ語
   - translation_iso: kor
     name: 로힝야어
+  - translation_iso: spa
+    name: Rohinyá
   - translation_iso: zho
     name: 罗兴亚语
 ---

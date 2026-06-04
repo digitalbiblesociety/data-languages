@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ケレタロ・オトミ語
     auto: true
+  - translation_iso: spa
+    name: Otomí queretano
   - translation_iso: zho
     name: 克雷塔罗奥托米语
     auto: true

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タリアナ語
+  - translation_iso: spa
+    name: tariana
   - translation_iso: zho
     name: 塔里亚纳语
     auto: true

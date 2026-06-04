@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アウィ語
     auto: true
+  - translation_iso: spa
+    name: Awyi
   - translation_iso: zho
     name: 奥维语
     auto: true

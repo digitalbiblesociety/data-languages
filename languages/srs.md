@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: サルシー語
     auto: true
+  - translation_iso: spa
+    name: sarcee
   - translation_iso: zho
     name: 楚蒂纳语
 ---

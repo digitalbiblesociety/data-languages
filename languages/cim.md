@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チンブロ語
+  - translation_iso: spa
+    name: Idioma cimbriano
   - translation_iso: zho
     name: 席布里語
 rolv_dialects:

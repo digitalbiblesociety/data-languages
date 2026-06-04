@@ -25,6 +25,8 @@ translations:
     name: カンホバル語
   - translation_iso: kor
     name: 칸호발어
+  - translation_iso: spa
+    name: "Idioma q'anjob'al"
   - translation_iso: zho
     name: 根合巴文
 rolv_dialects:

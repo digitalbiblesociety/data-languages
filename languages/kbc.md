@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カディウェウ語
     auto: true
+  - translation_iso: spa
+    name: Idioma kadiweu
   - translation_iso: zho
     name: 卡都維歐語
 ---

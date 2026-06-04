@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ランドマ語
     auto: true
+  - translation_iso: spa
+    name: landuma
   - translation_iso: zho
     name: 兰多玛语
     auto: true

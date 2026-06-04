@@ -25,6 +25,8 @@ translations:
     name: ピエモンテ語
   - translation_iso: kor
     name: 피에몬테어
+  - translation_iso: spa
+    name: piamontés
   - translation_iso: zho
     name: 皮埃蒙特语
 rolv_dialects:

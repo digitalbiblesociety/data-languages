@@ -24,6 +24,8 @@ translations:
     name: テムネ語
   - translation_iso: kor
     name: 팀니어
+  - translation_iso: spa
+    name: Idioma temné
   - translation_iso: zho
     name: 天姆涅語
 rolv_dialects:

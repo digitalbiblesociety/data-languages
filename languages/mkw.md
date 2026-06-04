@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: キツバ語
     auto: true
+  - translation_iso: spa
+    name: Kituba
   - translation_iso: zho
     name: 基图巴语（刚果）
     auto: true

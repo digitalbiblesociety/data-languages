@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムバンガラ語
     auto: true
+  - translation_iso: spa
+    name: Idioma mbangala
   - translation_iso: zho
     name: 姆班加拉语
 rolv_dialects:

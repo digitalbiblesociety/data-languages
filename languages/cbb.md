@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カビヤリ語
+  - translation_iso: spa
+    name: Idioma cabiyarí
   - translation_iso: zho
     name: 卡比亚里语
     auto: true

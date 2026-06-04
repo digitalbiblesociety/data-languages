@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: オドゥ語
     auto: true
+  - translation_iso: spa
+    name: "Idioma o'du"
   - translation_iso: zho
     name: 俄都语
 ---

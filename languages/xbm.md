@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: 中ブルトン語
     auto: true
+  - translation_iso: spa
+    name: bretón medio
   - translation_iso: zho
     name: 中布里顿语
     auto: true

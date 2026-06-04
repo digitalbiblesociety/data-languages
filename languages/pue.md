@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: プエルチェ語
     auto: true
+  - translation_iso: spa
+    name: gününa këna
   - translation_iso: zho
     name: 布埃切语
 ---

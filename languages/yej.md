@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ・ギリシア語
+  - translation_iso: spa
+    name: judeogriego
   - translation_iso: zho
     name: 犹太-希腊语
 ---

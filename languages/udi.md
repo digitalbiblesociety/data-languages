@@ -25,6 +25,8 @@ translations:
     name: ウディ語
   - translation_iso: kor
     name: 우디어
+  - translation_iso: spa
+    name: Idioma udí
   - translation_iso: zho
     name: 乌第语
 rolv_dialects:

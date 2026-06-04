@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ニラ語
     auto: true
+  - translation_iso: spa
+    name: Nila
   - translation_iso: zho
     name: 尼拉语
     auto: true

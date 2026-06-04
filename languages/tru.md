@@ -25,6 +25,8 @@ translations:
     name: トゥロヨ語
   - translation_iso: kor
     name: 투로요어
+  - translation_iso: spa
+    name: turoyo
   - translation_iso: zho
     name: 圖羅尤語
 rolv_dialects:

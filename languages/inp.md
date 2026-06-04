@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イニャパリ語
+  - translation_iso: spa
+    name: Iñapari
   - translation_iso: zho
     name: 伊纳帕里语
     auto: true

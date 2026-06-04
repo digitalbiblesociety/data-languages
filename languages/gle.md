@@ -24,6 +24,8 @@ translations:
     name: アイルランド語
   - translation_iso: kor
     name: 아일랜드어
+  - translation_iso: spa
+    name: irlandés
   - translation_iso: zho
     name: 爱尔兰语
 rolv_dialects:

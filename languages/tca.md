@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クシヨコチャ・ティクナ語
+  - translation_iso: spa
+    name: ticuna
   - translation_iso: zho
     name: 提库纳语
 ---

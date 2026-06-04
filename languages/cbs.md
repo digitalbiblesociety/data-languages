@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カシナワ語
+  - translation_iso: spa
+    name: Kashinawa
   - translation_iso: zho
     name: 卡希纳瓦语
     auto: true

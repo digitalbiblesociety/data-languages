@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウィク・メアンハ語
     auto: true
+  - translation_iso: spa
+    name: "idioma wik-me'nh"
   - translation_iso: zho
     name: 威克-美昂哈语
     auto: true

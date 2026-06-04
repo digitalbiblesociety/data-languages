@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ジャビンド語
     auto: true
+  - translation_iso: spa
+    name: Criollo Javindo
   - translation_iso: zho
     name: 爪哇印度语
     auto: true

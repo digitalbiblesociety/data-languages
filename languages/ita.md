@@ -24,6 +24,8 @@ translations:
     name: イタリア語
   - translation_iso: kor
     name: 이탈리아어
+  - translation_iso: spa
+    name: italiano
   - translation_iso: zho
     name: 意大利语
 rolv_dialects:

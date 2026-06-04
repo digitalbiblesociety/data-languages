@@ -25,6 +25,8 @@ translations:
     name: ヤオ語
   - translation_iso: kor
     name: 유몐어
+  - translation_iso: spa
+    name: Idioma iu mien
   - translation_iso: zho
     name: 勉方言
 rolv_dialects:

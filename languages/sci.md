@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ジャワジャティ語
     auto: true
+  - translation_iso: spa
+    name: malayo esrilanqués
   - translation_iso: zho
     name: 斯里兰卡马来语
 ---

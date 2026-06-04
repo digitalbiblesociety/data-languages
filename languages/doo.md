@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ドンゴ語
     auto: true
+  - translation_iso: spa
+    name: dongo
   - translation_iso: zho
     name: 东戈语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナンデ語
+  - translation_iso: spa
+    name: Idioma nande
   - translation_iso: zho
     name: 南德语
     auto: true

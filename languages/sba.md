@@ -23,6 +23,8 @@ translations:
     name: ンガムバイ語
   - translation_iso: kor
     name: 느감바이어
+  - translation_iso: spa
+    name: Idioma ngambay
   - translation_iso: zho
     name: 甘拜语
 rolv_dialects:

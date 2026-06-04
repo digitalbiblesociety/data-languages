@@ -19,6 +19,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クオット語
+  - translation_iso: spa
+    name: Idioma kuot
   - translation_iso: zho
     name: 库奥特语
     auto: true

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ミトラ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Mitla
   - translation_iso: zho
     name: 米特拉-萨波特克语
     auto: true

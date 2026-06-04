@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セカニ語
+  - translation_iso: spa
+    name: Sekani
   - translation_iso: zho
     name: 塞卡尼语
 ---

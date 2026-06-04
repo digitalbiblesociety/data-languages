@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: 北ポモ語
     auto: true
+  - translation_iso: spa
+    name: Northern Pomo
   - translation_iso: zho
     name: 北波莫语
 rolv_dialects:

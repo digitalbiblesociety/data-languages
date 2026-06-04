@@ -24,6 +24,8 @@ translations:
     name: ユロック語
   - translation_iso: kor
     name: 유로크어
+  - translation_iso: spa
+    name: yurok
   - translation_iso: zho
     name: 尤羅克語
 ---

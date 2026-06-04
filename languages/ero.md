@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホルパ語
+  - translation_iso: spa
+    name: horpa
   - translation_iso: zho
     name: 尔龚语
 rolv_dialects:

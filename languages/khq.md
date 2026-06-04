@@ -24,6 +24,8 @@ translations:
     name: コイラ・チーニ語
   - translation_iso: kor
     name: 코이라치니어
+  - translation_iso: spa
+    name: Koyra chiini
   - translation_iso: zho
     name: 西桑海语
 rolv_dialects:

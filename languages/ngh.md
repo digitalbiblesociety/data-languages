@@ -24,6 +24,8 @@ translations:
     name: ヌン語
   - translation_iso: kor
     name: 능어
+  - translation_iso: spa
+    name: Idioma nǀu
   - translation_iso: zho
     name: 努語
 rolv_dialects:

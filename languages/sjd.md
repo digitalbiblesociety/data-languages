@@ -25,6 +25,8 @@ translations:
     name: キルディン・サーミ語
   - translation_iso: kor
     name: 킬딘 사미어
+  - translation_iso: spa
+    name: sami kildin
   - translation_iso: zho
     name: 基尔丁萨米语
 rolv_dialects:

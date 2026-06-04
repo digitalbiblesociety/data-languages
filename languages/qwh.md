@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワイラスアンカシュケチュア語
     auto: true
+  - translation_iso: spa
+    name: quechua de Huailas
   - translation_iso: zho
     name: 瓦亚拉斯安卡什克丘亚语
     auto: true

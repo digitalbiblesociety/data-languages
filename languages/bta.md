@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バタ語
+  - translation_iso: spa
+    name: bata
   - translation_iso: zho
     name: 巴塔语
     auto: true

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポウハタン語
+  - translation_iso: spa
+    name: Powhatan
   - translation_iso: zho
     name: 波瓦坦語
 ---

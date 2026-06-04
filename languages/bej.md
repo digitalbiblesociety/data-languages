@@ -24,6 +24,8 @@ translations:
     name: ベジャ語
   - translation_iso: kor
     name: 베자어
+  - translation_iso: spa
+    name: Idioma beya
   - translation_iso: zho
     name: 貝扎語
 rolv_dialects:

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドミニカ共和国手話
+  - translation_iso: spa
+    name: lengua de señas dominicano
   - translation_iso: zho
     name: 多米尼加加语
     auto: true

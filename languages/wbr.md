@@ -23,6 +23,8 @@ translations:
     name: वागडी
   - translation_iso: jpn
     name: ワグディ語
+  - translation_iso: spa
+    name: Wagdi
   - translation_iso: zho
     name: 瓦格迪语
     auto: true

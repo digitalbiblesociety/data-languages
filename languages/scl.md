@@ -23,6 +23,8 @@ translations:
     name: シナー語
   - translation_iso: kor
     name: 시나어
+  - translation_iso: spa
+    name: Idioma shina
   - translation_iso: zho
     name: 希尼亚语
 rolv_dialects:

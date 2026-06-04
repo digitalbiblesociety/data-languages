@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南西ディンカ語
+  - translation_iso: spa
+    name: dinka sudoccidental
   - translation_iso: zho
     name: 西南丁卡语
     auto: true

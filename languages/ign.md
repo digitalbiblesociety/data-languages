@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: イニャシアーノ語
     auto: true
+  - translation_iso: spa
+    name: idioma ignaciano
   - translation_iso: zho
     name: 伊格纳西亚诺语
     auto: true

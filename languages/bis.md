@@ -23,6 +23,8 @@ translations:
     name: ビスラマ語
   - translation_iso: kor
     name: 비슬라마어
+  - translation_iso: spa
+    name: Bislama
   - translation_iso: zho
     name: 比斯拉马语
 rolv_dialects:

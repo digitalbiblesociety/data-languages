@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マシ語
     auto: true
+  - translation_iso: spa
+    name: Idioma mashi
   - translation_iso: zho
     name: 玛希语（赞比亚）
     auto: true

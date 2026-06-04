@@ -24,6 +24,8 @@ translations:
     name: カシューブ語
   - translation_iso: kor
     name: 카슈브어
+  - translation_iso: spa
+    name: casubio
   - translation_iso: zho
     name: 卡舒比语
 rolv_dialects:

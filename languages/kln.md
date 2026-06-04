@@ -19,6 +19,8 @@ translations:
     name: カレンジン諸語
   - translation_iso: kor
     name: 칼렌진어
+  - translation_iso: spa
+    name: kalenjin
   - translation_iso: zho
     name: 卡伦金语
 ---

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: マサナ語
     auto: true
+  - translation_iso: spa
+    name: masa
   - translation_iso: zho
     name: 马萨纳语
     auto: true

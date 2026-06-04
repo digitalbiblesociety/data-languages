@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: パタモナ語
     auto: true
+  - translation_iso: spa
+    name: Patamona
   - translation_iso: zho
     name: 帕塔蒙纳语
     auto: true

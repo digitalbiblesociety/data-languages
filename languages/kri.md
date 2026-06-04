@@ -25,6 +25,8 @@ translations:
     name: クリオ語
   - translation_iso: kor
     name: 크리오
+  - translation_iso: spa
+    name: Criollo sierraleonés
   - translation_iso: zho
     name: 塞拉利昂克里奥尔语
 rolv_dialects:

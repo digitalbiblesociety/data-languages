@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タナクロス語
     auto: true
+  - translation_iso: spa
+    name: tanacross
   - translation_iso: zho
     name: 塔納克羅斯語
 rolv_dialects:

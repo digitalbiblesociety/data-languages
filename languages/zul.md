@@ -24,6 +24,8 @@ translations:
     name: ズールー語
   - translation_iso: kor
     name: 줄루어
+  - translation_iso: spa
+    name: zulú
   - translation_iso: zho
     name: 祖鲁语
 rolv_dialects:

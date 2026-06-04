@@ -25,6 +25,8 @@ translations:
     name: ムビア・グアラニー語
   - translation_iso: kor
     name: nujnnjuytg
+  - translation_iso: spa
+    name: mbyá
   - translation_iso: zho
     name: 姆比亞瓜拉尼語
 rolv_dialects:

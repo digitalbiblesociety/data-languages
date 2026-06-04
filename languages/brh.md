@@ -24,6 +24,8 @@ translations:
     name: ブラーフーイー語
   - translation_iso: kor
     name: 브라후이어
+  - translation_iso: spa
+    name: Idioma brahui
   - translation_iso: zho
     name: 布拉灰语
 rolv_dialects:

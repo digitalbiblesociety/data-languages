@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: モクセラ語
     auto: true
+  - translation_iso: spa
+    name: Moksela
   - translation_iso: zho
     name: 莫克塞拉语
     auto: true

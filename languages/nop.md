@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ヌマンガン語
     auto: true
+  - translation_iso: spa
+    name: Numanggang
   - translation_iso: zho
     name: 努曼冈语
     auto: true

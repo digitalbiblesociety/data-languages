@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムバンバタナ語
+  - translation_iso: spa
+    name: Babatana
   - translation_iso: zho
     name: 巴巴塔纳语
     auto: true

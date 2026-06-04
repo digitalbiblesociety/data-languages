@@ -25,6 +25,8 @@ translations:
     name: シエラポポルカ語
   - translation_iso: kor
     name: 시에라 포폴루카어
+  - translation_iso: spa
+    name: popoluca de la Sierra
   - translation_iso: zho
     name: 高地波波卢卡语
     auto: true

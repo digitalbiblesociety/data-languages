@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: リウン語
     auto: true
+  - translation_iso: spa
+    name: Riung
   - translation_iso: zho
     name: 里翁语
 ---

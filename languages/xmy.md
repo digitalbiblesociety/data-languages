@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マヤグドゥナ語
     auto: true
+  - translation_iso: spa
+    name: Idioma mayi-kutuna
   - translation_iso: zho
     name: 玛亚古杜纳语
     auto: true

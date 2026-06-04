@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: イテネ語
     auto: true
+  - translation_iso: spa
+    name: idioma itene
   - translation_iso: zho
     name: 伊特内语
     auto: true

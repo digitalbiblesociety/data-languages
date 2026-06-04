@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シラヤ語
+  - translation_iso: spa
+    name: Idioma siraya
   - translation_iso: zho
     name: 西拉雅语
 rolv_dialects:

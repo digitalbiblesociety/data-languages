@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: シュクル語
     auto: true
+  - translation_iso: spa
+    name: Xukurú
   - translation_iso: zho
     name: 许库鲁语
     auto: true

@@ -17,6 +17,8 @@ translations:
     name: アゼルバイジャン語
   - translation_iso: kor
     name: 아제르바이잔어
+  - translation_iso: spa
+    name: azerí
   - translation_iso: zho
     name: 阿塞拜疆语
 ---

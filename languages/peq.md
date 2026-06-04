@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南ポモ語
+  - translation_iso: spa
+    name: pomo meridional
   - translation_iso: zho
     name: 南波莫语
     auto: true

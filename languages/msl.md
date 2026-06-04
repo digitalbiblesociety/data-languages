@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: モロフ語
     auto: true
+  - translation_iso: spa
+    name: Idioma molof
   - translation_iso: zho
     name: 莫洛夫语
     auto: true

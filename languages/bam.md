@@ -24,6 +24,8 @@ translations:
     name: バンバラ語
   - translation_iso: kor
     name: 밤바라어
+  - translation_iso: spa
+    name: bambara
   - translation_iso: zho
     name: 班巴拉语
 rolv_dialects:

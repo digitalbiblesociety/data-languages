@@ -24,6 +24,8 @@ translations:
     name: サンスクリット
   - translation_iso: kor
     name: 산스크리트어
+  - translation_iso: spa
+    name: sánscrito
   - translation_iso: zho
     name: 梵语
 ---

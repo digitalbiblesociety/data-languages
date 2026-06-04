@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベテ語
+  - translation_iso: spa
+    name: bete
   - translation_iso: zho
     name: 贝特语
     auto: true

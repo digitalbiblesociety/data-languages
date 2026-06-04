@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: トングウェ語
     auto: true
+  - translation_iso: spa
+    name: Idioma tongwe-bende
   - translation_iso: zho
     name: 通威语
     auto: true

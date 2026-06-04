@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キャリア語
+  - translation_iso: spa
+    name: carrier
   - translation_iso: zho
     name: 达凯尔语
 rolv_dialects:

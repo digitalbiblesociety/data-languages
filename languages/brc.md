@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: バルビス・クレオール・オランダ語
     auto: true
+  - translation_iso: spa
+    name: Criollo barbiezos
   - translation_iso: zho
     name: 伯比斯克里奥尔荷兰语
     auto: true

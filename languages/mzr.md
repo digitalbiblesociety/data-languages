@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マルーボ語
     auto: true
+  - translation_iso: spa
+    name: idioma Marubo
   - translation_iso: zho
     name: 玛鲁博语
     auto: true

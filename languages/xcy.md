@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: カユース語
     auto: true
+  - translation_iso: spa
+    name: idioma cayuse
   - translation_iso: zho
     name: 凯尤斯语
     auto: true

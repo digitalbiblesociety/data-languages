@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: タフィ語
     auto: true
+  - translation_iso: spa
+    name: tafi
   - translation_iso: zho
     name: 塔菲语
     auto: true

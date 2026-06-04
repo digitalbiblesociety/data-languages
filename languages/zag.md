@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ザガワ語
+  - translation_iso: spa
+    name: Idioma zaghawa
   - translation_iso: zho
     name: 札加瓦语
 rolv_dialects:

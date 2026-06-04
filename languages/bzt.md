@@ -22,6 +22,8 @@ translations:
     name: ブリゼニグ
   - translation_iso: kor
     name: 브리터니그
+  - translation_iso: spa
+    name: Brithenig
   - translation_iso: zho
     name: 不列颠尼格语
     auto: true

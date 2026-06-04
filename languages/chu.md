@@ -24,6 +24,8 @@ translations:
     name: 教会スラヴ語
   - translation_iso: kor
     name: 교회 슬라브어
+  - translation_iso: spa
+    name: eslavo eclesiástico
   - translation_iso: zho
     name: 教会斯拉夫语
 ---

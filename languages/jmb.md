@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ズンブン語
+  - translation_iso: spa
+    name: zumbún
   - translation_iso: zho
     name: 祖姆邦语
     auto: true

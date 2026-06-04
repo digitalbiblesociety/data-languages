@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ワイラキ語
     auto: true
+  - translation_iso: spa
+    name: atabasco del río Eel
   - translation_iso: zho
     name: 瓦伊拉基语
     auto: true

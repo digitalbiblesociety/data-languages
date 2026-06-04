@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モロッコ手話
+  - translation_iso: spa
+    name: lengua de señas marroquí
   - translation_iso: zho
     name: 摩洛哥手语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヌス語
+  - translation_iso: spa
+    name: anus
   - translation_iso: zho
     name: 阿努斯语
     auto: true

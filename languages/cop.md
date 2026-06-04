@@ -24,6 +24,8 @@ translations:
     name: コプト・エジプト語
   - translation_iso: kor
     name: 콥트어
+  - translation_iso: spa
+    name: copto
   - translation_iso: zho
     name: 科普特语
 ---

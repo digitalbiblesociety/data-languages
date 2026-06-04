@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワラアエ語
+  - translation_iso: spa
+    name: "Kwara'ae"
   - translation_iso: zho
     name: 克瓦拉埃语
     auto: true

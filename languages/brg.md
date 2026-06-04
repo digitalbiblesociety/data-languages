@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウレ語
+  - translation_iso: spa
+    name: baure
   - translation_iso: zho
     name: 鲍雷语
     auto: true

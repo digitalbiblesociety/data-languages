@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ウジル語
     auto: true
+  - translation_iso: spa
+    name: ujir
   - translation_iso: zho
     name: 乌吉尔语
     auto: true

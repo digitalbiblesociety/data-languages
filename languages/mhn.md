@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モケーニ語
+  - translation_iso: spa
+    name: idioma mócheno
   - translation_iso: zho
     name: 莫凯诺语
     auto: true

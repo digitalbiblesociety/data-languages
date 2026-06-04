@@ -18,6 +18,8 @@ translations:
     name: मेरोइटिक भाषा
   - translation_iso: jpn
     name: メロエ語
+  - translation_iso: spa
+    name: meroítico
   - translation_iso: zho
     name: 麦罗埃语
 ---

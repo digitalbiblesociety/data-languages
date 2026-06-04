@@ -16,7 +16,7 @@ glottolog_classification: "Atlantic-Congo > Volta-Congo > Benue-Congo > Bantoid 
 wikipedia_url: "https://en.wikipedia.org/wiki/Nso_language"
 translations:
   - translation_iso: ara
-    name: "لغة امنسو'"
+    name: لغة امنسو
     auto: true
   - translation_iso: hin
     name: लामन्सो
@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ラムソ語
     auto: true
+  - translation_iso: spa
+    name: Lamnso
   - translation_iso: zho
     name: 兰姆索语
     auto: true

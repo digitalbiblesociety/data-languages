@@ -24,6 +24,8 @@ translations:
     name: セーシェル・クレオール語
   - translation_iso: kor
     name: 세이셸 크리올
+  - translation_iso: spa
+    name: criollo seychelense
   - translation_iso: zho
     name: 塞舌尔克里奥尔语
 ---

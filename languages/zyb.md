@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 邕北チワン語
+  - translation_iso: spa
+    name: Zhuang yongbei
   - translation_iso: zho
     name: 邕北土语
 rolv_dialects:

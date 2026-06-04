@@ -19,10 +19,12 @@ translations:
     name: فا دمبو
     auto: true
   - translation_iso: hin
-    name: फा द'अम्बु
+    name: "फा द'अम्बु"
     auto: true
   - translation_iso: jpn
     name: アノボネセ語
+  - translation_iso: spa
+    name: criollo annobonense
   - translation_iso: zho
     name: 安诺本语
 ---

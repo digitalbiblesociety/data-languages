@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥアモトゥ語
+  - translation_iso: spa
+    name: Idioma tuamotu
   - translation_iso: zho
     name: 土阿莫土語
 rolv_dialects:

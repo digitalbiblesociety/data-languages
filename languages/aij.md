@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノシャン語
+  - translation_iso: spa
+    name: Lishanid Noshan
   - translation_iso: zho
     name: 埃尔比勒犹太新阿拉姆语
 rolv_dialects:

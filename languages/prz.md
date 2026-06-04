@@ -22,6 +22,8 @@ translations:
     name: प्रोविडेंस आइलैंड सांकेतिक भाषा
   - translation_iso: jpn
     name: プロビデンシア手話
+  - translation_iso: spa
+    name: Lengua de señas de Providencia
   - translation_iso: zho
     name: 普罗维登西亚手语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジューホアン方言
+  - translation_iso: spa
+    name: Juǀʼhoan
   - translation_iso: zho
     name: 穹瓦西語
 rolv_dialects:

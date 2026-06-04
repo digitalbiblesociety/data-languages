@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パギ語
     auto: true
+  - translation_iso: spa
+    name: Pagi
   - translation_iso: zho
     name: 帕吉语
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ガオ語
     auto: true
+  - translation_iso: spa
+    name: Gao
   - translation_iso: zho
     name: 高语
     auto: true

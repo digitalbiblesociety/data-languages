@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ホアバ語
     auto: true
+  - translation_iso: spa
+    name: Hoava
   - translation_iso: zho
     name: 霍阿瓦语
     auto: true

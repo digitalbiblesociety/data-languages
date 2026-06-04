@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ニエンバ語
     auto: true
+  - translation_iso: spa
+    name: Idioma nyemba
   - translation_iso: zho
     name: 尼延巴语
     auto: true

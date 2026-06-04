@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ネオ
+  - translation_iso: spa
+    name: Idioma neo
   - translation_iso: zho
     name: 尼歐語
 ---

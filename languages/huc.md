@@ -25,6 +25,8 @@ translations:
     name: ホアン語
   - translation_iso: kor
     name: ǂʼ암코이어
+  - translation_iso: spa
+    name: Idioma ǂhua
   - translation_iso: zho
     name: "!华语"
     auto: true

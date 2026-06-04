@@ -17,6 +17,8 @@ translations:
   - translation_iso: jpn
     name: ワングクマラ語
     auto: true
+  - translation_iso: spa
+    name: wangkumara
   - translation_iso: zho
     name: Wangkumara语
 ---

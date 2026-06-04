@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: タンゴア語
     auto: true
+  - translation_iso: spa
+    name: Idioma tangoa
   - translation_iso: zho
     name: 坦戈亚语
 ---

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: グアラユ語
     auto: true
+  - translation_iso: spa
+    name: idioma guarayo
   - translation_iso: zho
     name: 瓜拉尤语
     auto: true

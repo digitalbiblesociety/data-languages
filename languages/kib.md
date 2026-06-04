@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コアリブ語
+  - translation_iso: spa
+    name: koalib
   - translation_iso: zho
     name: 科阿利布语
     auto: true

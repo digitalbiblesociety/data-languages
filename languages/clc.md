@@ -24,6 +24,8 @@ translations:
     name: チルコティン語
   - translation_iso: kor
     name: 칠코틴어
+  - translation_iso: spa
+    name: chilcotin
   - translation_iso: zho
     name: 奇尔科廷语
 ---

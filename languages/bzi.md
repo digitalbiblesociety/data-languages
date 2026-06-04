@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ビス語
     auto: true
+  - translation_iso: spa
+    name: bisu
   - translation_iso: zho
     name: 毕苏语
 rolv_dialects:

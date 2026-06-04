@@ -22,6 +22,8 @@ translations:
     name: पुरगी भाषा
   - translation_iso: jpn
     name: ブリグ
+  - translation_iso: spa
+    name: idioma purik
   - translation_iso: zho
     name: 藏回语
 rolv_dialects:

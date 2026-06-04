@@ -24,6 +24,8 @@ translations:
     name: アルーマニア語
   - translation_iso: kor
     name: 아로마니아어
+  - translation_iso: spa
+    name: arrumano
   - translation_iso: zho
     name: 阿罗马尼亚语
 rolv_dialects:

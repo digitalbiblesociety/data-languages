@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アルコザウカ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco alcozauqueño
   - translation_iso: zho
     name: 阿尔科萨乌卡米斯特克语
     auto: true

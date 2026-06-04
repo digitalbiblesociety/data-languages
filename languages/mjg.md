@@ -25,6 +25,8 @@ translations:
     name: モングォル語
   - translation_iso: kor
     name: 몽구오르어
+  - translation_iso: spa
+    name: Idioma huzhu
   - translation_iso: zho
     name: 土族语
 rolv_dialects:

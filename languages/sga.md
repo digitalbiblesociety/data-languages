@@ -24,6 +24,8 @@ translations:
     name: 古アイルランド語
   - translation_iso: kor
     name: 고대 아일랜드어
+  - translation_iso: spa
+    name: irlandés antiguo
   - translation_iso: zho
     name: 古爱尔兰语
 ---

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マロボ語
+  - translation_iso: spa
+    name: Marovo
   - translation_iso: zho
     name: 马罗沃语
 ---

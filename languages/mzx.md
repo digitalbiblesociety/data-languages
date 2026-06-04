@@ -19,6 +19,8 @@ translations:
   - translation_iso: jpn
     name: マワヤナ語
     auto: true
+  - translation_iso: spa
+    name: mahuayana
   - translation_iso: zho
     name: 玛瓦亚纳语
     auto: true

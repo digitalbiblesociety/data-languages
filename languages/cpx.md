@@ -25,6 +25,8 @@ translations:
     name: 莆仙語
   - translation_iso: kor
     name: 보선어
+  - translation_iso: spa
+    name: Pu-Xian
   - translation_iso: zho
     name: 莆仙语
 rolv_dialects:

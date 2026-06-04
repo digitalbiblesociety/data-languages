@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アワド・ビング語
     auto: true
+  - translation_iso: spa
+    name: Awad bing
   - translation_iso: zho
     name: 阿瓦德宾语
     auto: true

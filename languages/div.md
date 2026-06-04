@@ -24,6 +24,8 @@ translations:
     name: ディベヒ語
   - translation_iso: kor
     name: 디베히어
+  - translation_iso: spa
+    name: maldivo
   - translation_iso: zho
     name: 迪维希语
 rolv_dialects:

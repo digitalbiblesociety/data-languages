@@ -24,6 +24,8 @@ translations:
     name: カリブ語
   - translation_iso: kor
     name: 카리브어
+  - translation_iso: spa
+    name: kariña
   - translation_iso: zho
     name: 卡利纳語
 rolv_dialects:

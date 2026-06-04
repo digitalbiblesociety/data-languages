@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ピハオ語
     auto: true
+  - translation_iso: spa
+    name: Idioma pijao
   - translation_iso: zho
     name: 皮霍语
     auto: true

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アシェニンカ語
+  - translation_iso: spa
+    name: asháninca
   - translation_iso: zho
     name: 阿什寧卡語
 rolv_dialects:

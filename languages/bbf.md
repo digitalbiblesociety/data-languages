@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: バイバイ語
     auto: true
+  - translation_iso: spa
+    name: baibai
   - translation_iso: zho
     name: 拜拜语
     auto: true

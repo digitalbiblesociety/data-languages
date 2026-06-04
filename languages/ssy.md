@@ -24,6 +24,8 @@ translations:
     name: サホ語
   - translation_iso: kor
     name: 사호어
+  - translation_iso: spa
+    name: Idioma saho
   - translation_iso: zho
     name: 萨霍语
 rolv_dialects:

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アドニャマタンハ語
     auto: true
+  - translation_iso: spa
+    name: idioma adnyamathanha
   - translation_iso: zho
     name: 阿德尼亚马塔尼亚语
     auto: true

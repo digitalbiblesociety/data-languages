@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ムヴバ語
     auto: true
+  - translation_iso: spa
+    name: Mvuba
   - translation_iso: zho
     name: 姆武巴语
     auto: true

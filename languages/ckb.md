@@ -24,6 +24,8 @@ translations:
     name: ソラニー
   - translation_iso: kor
     name: 중부 쿠르드어
+  - translation_iso: spa
+    name: sorani
   - translation_iso: zho
     name: 中库尔德语
 rolv_dialects:

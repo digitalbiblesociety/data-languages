@@ -24,6 +24,8 @@ translations:
     name: アイヌ語
   - translation_iso: kor
     name: 아이누어
+  - translation_iso: spa
+    name: Ainu
   - translation_iso: zho
     name: 阿伊努语
 rolv_dialects:

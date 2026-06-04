@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ピサボ語
     auto: true
+  - translation_iso: spa
+    name: Pisabo
   - translation_iso: zho
     name: 皮萨博语
     auto: true

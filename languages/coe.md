@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: コレグアヘ語
     auto: true
+  - translation_iso: spa
+    name: Coreguaje
   - translation_iso: zho
     name: 科雷瓜赫语
     auto: true

@@ -24,6 +24,8 @@ translations:
     name: ジンポー語
   - translation_iso: kor
     name: 징포어
+  - translation_iso: spa
+    name: idioma jingpo
   - translation_iso: zho
     name: 景颇语
 rolv_dialects:

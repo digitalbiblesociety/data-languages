@@ -25,6 +25,8 @@ translations:
     name: トホラバル語
   - translation_iso: kor
     name: 토홀라발어
+  - translation_iso: spa
+    name: tojolabal
   - translation_iso: zho
     name: 托霍拉巴尔语
     auto: true
