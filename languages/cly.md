@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イースタン・ハイランド・チャティーノ語
     auto: true
+  - translation_iso: spa
+    name: Chatino de las Tierras Altas Orientales
+    auto: true
   - translation_iso: zho
     name: 东高地查蒂诺语
     auto: true

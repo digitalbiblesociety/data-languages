@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南ヤンフ語
     auto: true
+  - translation_iso: spa
+    name: Yamphu meridional
+    auto: true
   - translation_iso: zho
     name: 南扬普语
     auto: true

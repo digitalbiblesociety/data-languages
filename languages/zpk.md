@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トラコルリタ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Tlacolulita
+    auto: true
   - translation_iso: zho
     name: 特拉科卢利塔萨波特克语
     auto: true

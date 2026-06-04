@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥリ語
+  - translation_iso: spa
+    name: Duli-Gey
+    auto: true
   - translation_iso: zho
     name: 杜利-盖语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イラルトゥ語
     auto: true
+  - translation_iso: spa
+    name: Irarutu
+    auto: true
   - translation_iso: zho
     name: 伊拉鲁图语
     auto: true

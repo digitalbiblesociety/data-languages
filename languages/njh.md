@@ -22,6 +22,9 @@ translations:
     name: लोथा भाषा
   - translation_iso: jpn
     name: ロタ・ナガ語
+  - translation_iso: spa
+    name: Naga Lotha
+    auto: true
   - translation_iso: zho
     name: 洛撒纳加语
     auto: true

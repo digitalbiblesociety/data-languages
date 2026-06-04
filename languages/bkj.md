@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パンデ語
     auto: true
+  - translation_iso: spa
+    name: Pande
+    auto: true
   - translation_iso: zho
     name: 潘德语
     auto: true

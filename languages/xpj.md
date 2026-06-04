@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ムパリチャンハ語
     auto: true
+  - translation_iso: spa
+    name: Mpalitjanh
+    auto: true
   - translation_iso: zho
     name: 姆帕利特詹语
     auto: true

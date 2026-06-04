@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スクル語
     auto: true
+  - translation_iso: spa
+    name: Sukur
+    auto: true
   - translation_iso: zho
     name: 苏库尔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニャンボ語
     auto: true
+  - translation_iso: spa
+    name: Nyambo
+    auto: true
   - translation_iso: zho
     name: 尼扬博语
     auto: true

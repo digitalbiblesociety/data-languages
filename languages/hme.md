@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東部恵水フモン語
+  - translation_iso: spa
+    name: Hmong Huishui oriental
+    auto: true
   - translation_iso: zho
     name: 东惠水苗语
     auto: true

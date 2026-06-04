@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トカラ語A
+  - translation_iso: spa
+    name: Tocario A
+    auto: true
   - translation_iso: zho
     name: 焉耆语
 ---

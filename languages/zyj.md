@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 右江チワン語
+  - translation_iso: spa
+    name: Zhuang de Youjiang
+    auto: true
   - translation_iso: zho
     name: 右江壯語
 rolv_dialects:

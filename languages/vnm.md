@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴィンマヴィス語
+  - translation_iso: spa
+    name: Vinmavis
+    auto: true
   - translation_iso: zho
     name: 文玛维斯语
     auto: true

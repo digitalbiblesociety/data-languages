@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダイ語
     auto: true
+  - translation_iso: spa
+    name: Dai
+    auto: true
   - translation_iso: zho
     name: 戴语
 rolv_dialects:

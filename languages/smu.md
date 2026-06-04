@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・チョン語
     auto: true
+  - translation_iso: spa
+    name: Somray
+    auto: true
   - translation_iso: zho
     name: 索姆雷语
     auto: true

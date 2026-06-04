@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モハベ語
+  - translation_iso: spa
+    name: Mohave
+    auto: true
   - translation_iso: zho
     name: 莫哈維語
 ---

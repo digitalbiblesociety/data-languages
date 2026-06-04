@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カンデ語
     auto: true
+  - translation_iso: spa
+    name: Kande
+    auto: true
   - translation_iso: zho
     name: 坎德语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケンスウェイ・ンセイ語
     auto: true
+  - translation_iso: spa
+    name: Kenswei Nsei
+    auto: true
   - translation_iso: zho
     name: 肯西韦恩塞伊语
     auto: true

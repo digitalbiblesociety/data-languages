@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シュエパラウン語
     auto: true
+  - translation_iso: spa
+    name: Palaung shwe
+    auto: true
   - translation_iso: zho
     name: 掸帕劳语
     auto: true

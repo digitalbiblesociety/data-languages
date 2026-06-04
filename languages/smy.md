@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セムナーン語
+  - translation_iso: spa
+    name: Semnani
+    auto: true
   - translation_iso: zho
     name: 塞姆纳尼语
 ---

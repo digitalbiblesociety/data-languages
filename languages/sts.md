@@ -22,6 +22,9 @@ translations:
     name: शुमश्ती भाषा
   - translation_iso: jpn
     name: シュマシュティー語
+  - translation_iso: spa
+    name: Shumashti
+    auto: true
   - translation_iso: zho
     name: 舒玛什蒂语
     auto: true

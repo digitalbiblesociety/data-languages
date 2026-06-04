@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムンガカ語
     auto: true
+  - translation_iso: spa
+    name: Mungaka
+    auto: true
   - translation_iso: zho
     name: 芒加卡语
     auto: true

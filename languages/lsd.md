@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディダン語
+  - translation_iso: spa
+    name: Lishana Deni
+    auto: true
   - translation_iso: zho
     name: 李沙那德尼語
 rolv_dialects:

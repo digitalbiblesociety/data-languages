@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アガラビ語
+  - translation_iso: spa
+    name: Agarabi
+    auto: true
   - translation_iso: zho
     name: 阿加拉比语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウルナ語
     auto: true
+  - translation_iso: spa
+    name: Wulna
+    auto: true
   - translation_iso: zho
     name: 乌尔纳语
     auto: true

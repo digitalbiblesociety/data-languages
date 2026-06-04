@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プウォ北カレン語
     auto: true
+  - translation_iso: spa
+    name: Karen Pwo septentrional
+    auto: true
   - translation_iso: zho
     name: 普沃北部卡伦语
     auto: true

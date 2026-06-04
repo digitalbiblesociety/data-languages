@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マラ語（パプアニューギニア）
     auto: true
+  - translation_iso: spa
+    name: Mala
+    auto: true
   - translation_iso: zho
     name: 马拉语
     auto: true

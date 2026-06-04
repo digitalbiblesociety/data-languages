@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロラ語
     auto: true
+  - translation_iso: spa
+    name: Lola
+    auto: true
   - translation_iso: zho
     name: 洛拉语
     auto: true

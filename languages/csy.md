@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シイン・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Siyin
+    auto: true
   - translation_iso: zho
     name: 西伊因钦语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンボン・マライ語
+  - translation_iso: spa
+    name: Malayo ambonés
+    auto: true
   - translation_iso: zho
     name: 安汶马来语
 rolv_dialects:

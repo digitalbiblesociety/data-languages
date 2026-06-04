@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フィワガ語
     auto: true
+  - translation_iso: spa
+    name: Fiwaga
+    auto: true
   - translation_iso: zho
     name: 菲瓦加语
     auto: true

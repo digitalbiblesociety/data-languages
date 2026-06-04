@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クラ・エデ・ナゴ語
     auto: true
+  - translation_iso: spa
+    name: Kura Ede Nago
+    auto: true
   - translation_iso: zho
     name: 库拉埃德纳戈语
     auto: true

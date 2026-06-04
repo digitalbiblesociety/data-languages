@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ギユグ語
     auto: true
+  - translation_iso: spa
+    name: Giyug
+    auto: true
   - translation_iso: zho
     name: 吉尤格语
     auto: true

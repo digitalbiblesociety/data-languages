@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ヤンゴ語
     auto: true
+  - translation_iso: spa
+    name: Yango
+    auto: true
   - translation_iso: zho
     name: 扬戈语
     auto: true

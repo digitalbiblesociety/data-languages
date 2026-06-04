@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サン・アグスティン・ミステペック・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de San Agustín Mixtepec
+    auto: true
   - translation_iso: zho
     name: 圣奥古斯丁混特佩克萨波特克语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オフォ語
     auto: true
+  - translation_iso: spa
+    name: Ofo
+    auto: true
   - translation_iso: zho
     name: 奥佛语
     auto: true

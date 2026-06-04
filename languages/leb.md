@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ララ・ビサ語
     auto: true
+  - translation_iso: spa
+    name: Lala-Bisa
+    auto: true
   - translation_iso: zho
     name: Bisa人
 rolv_dialects:

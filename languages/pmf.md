@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パモナ語
     auto: true
+  - translation_iso: spa
+    name: Pamona
+    auto: true
   - translation_iso: zho
     name: 帕莫纳语
 rolv_dialects:

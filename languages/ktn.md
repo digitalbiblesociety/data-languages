@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カリティアナ語
     auto: true
+  - translation_iso: spa
+    name: Karitiâna
+    auto: true
   - translation_iso: zho
     name: 卡利吉亚纳语
 ---

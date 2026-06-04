@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バクムパイ語
     auto: true
+  - translation_iso: spa
+    name: Bakumpai
+    auto: true
   - translation_iso: zho
     name: 巴坤派語
 rolv_dialects:

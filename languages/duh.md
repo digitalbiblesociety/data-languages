@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ドゥングラ・ビル語
     auto: true
+  - translation_iso: spa
+    name: Dungra Bhil
+    auto: true
   - translation_iso: zho
     name: 邓格拉巴尔语
     auto: true

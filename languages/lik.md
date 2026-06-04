@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リカ語
     auto: true
+  - translation_iso: spa
+    name: Lika
+    auto: true
   - translation_iso: zho
     name: 利卡语
     auto: true

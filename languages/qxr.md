@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カニャルハイランドキチュア語
     auto: true
+  - translation_iso: spa
+    name: Quichua serrano de Cañar
+    auto: true
   - translation_iso: zho
     name: 卡尼亚高地基楚亚语
     auto: true

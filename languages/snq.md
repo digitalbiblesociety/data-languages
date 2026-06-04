@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サング語
+  - translation_iso: spa
+    name: Sangu
+    auto: true
   - translation_iso: zho
     name: 桑古语（加蓬）
     auto: true

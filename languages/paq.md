@@ -22,6 +22,9 @@ translations:
     name: प्रिया भाषा
   - translation_iso: jpn
     name: タジュズベク語
+  - translation_iso: spa
+    name: Parya
+    auto: true
   - translation_iso: zho
     name: 帕亚语
 ---

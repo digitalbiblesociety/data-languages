@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ノクテ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Nocte
+    auto: true
   - translation_iso: zho
     name: 诺克特纳加语
     auto: true

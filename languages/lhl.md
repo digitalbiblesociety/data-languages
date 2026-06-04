@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラフル・ロハル語
     auto: true
+  - translation_iso: spa
+    name: Lahul lohar
+    auto: true
   - translation_iso: zho
     name: 拉胡尔洛哈尔语
 ---

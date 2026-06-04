@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カカベ語
     auto: true
+  - translation_iso: spa
+    name: Kakabe
+    auto: true
   - translation_iso: zho
     name: 卡卡贝语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: デフワリ語
     auto: true
+  - translation_iso: spa
+    name: Dehwari
+    auto: true
   - translation_iso: zho
     name: 德瓦里語
 ---

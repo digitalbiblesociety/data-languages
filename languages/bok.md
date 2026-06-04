@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボンジョ語
+  - translation_iso: spa
+    name: Bonjo
+    auto: true
   - translation_iso: zho
     name: 邦约语
     auto: true

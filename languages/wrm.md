@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルムング語
+  - translation_iso: spa
+    name: Warumungu
+    auto: true
   - translation_iso: zho
     name: 瓦鲁蒙古语
 ---

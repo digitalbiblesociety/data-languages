@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ムジエメ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Mzieme
+    auto: true
   - translation_iso: zho
     name: 姆齐梅纳加语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダオンダ語
     auto: true
+  - translation_iso: spa
+    name: Daonda
+    auto: true
   - translation_iso: zho
     name: 达翁达语
     auto: true

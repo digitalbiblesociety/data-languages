@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キヌク語
     auto: true
+  - translation_iso: spa
+    name: Kinuku
+    auto: true
   - translation_iso: zho
     name: 基努库语
     auto: true

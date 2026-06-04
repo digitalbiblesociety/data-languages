@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: バラババラバ語
     auto: true
+  - translation_iso: spa
+    name: Barababaraba
+    auto: true
   - translation_iso: zho
     name: 巴拉巴巴拉巴语
     auto: true

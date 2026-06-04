@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンピダーノ・サルデーニャ語
+  - translation_iso: spa
+    name: Sardo campidanés
+    auto: true
   - translation_iso: zho
     name: 坎皮达诺方言
 rolv_dialects:

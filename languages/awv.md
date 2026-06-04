@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジェア・アウユ語
     auto: true
+  - translation_iso: spa
+    name: Awyu Jair
+    auto: true
   - translation_iso: zho
     name: 杰尔阿维尤语
     auto: true

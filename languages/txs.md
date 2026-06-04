@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トンセア語
+  - translation_iso: spa
+    name: Tonsea
+    auto: true
   - translation_iso: zho
     name: 通塞亚语
     auto: true

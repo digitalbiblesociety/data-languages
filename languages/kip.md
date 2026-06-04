@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シェシ・ハム語
     auto: true
+  - translation_iso: spa
+    name: Kham Sheshi
+    auto: true
   - translation_iso: zho
     name: 谢什卡姆语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミニディエン語
     auto: true
+  - translation_iso: spa
+    name: Minidien
+    auto: true
   - translation_iso: zho
     name: 米尼迪恩语
     auto: true

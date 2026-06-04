@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タウル・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Tawr
+    auto: true
   - translation_iso: zho
     name: 陶尔钦语
     auto: true

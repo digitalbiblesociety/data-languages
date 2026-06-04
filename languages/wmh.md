@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワイマア語
     auto: true
+  - translation_iso: spa
+    name: "Waima'a"
+    auto: true
   - translation_iso: zho
     name: 瓦伊玛语
     auto: true

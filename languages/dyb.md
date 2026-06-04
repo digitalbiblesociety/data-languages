@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャビルジャビル語
+  - translation_iso: spa
+    name: Dyaberdyaber
+    auto: true
   - translation_iso: zho
     name: 贾伯迪亚伯语
     auto: true

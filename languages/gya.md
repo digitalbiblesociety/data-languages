@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北西グバヤ語
+  - translation_iso: spa
+    name: Gbaya del Noroeste
+    auto: true
   - translation_iso: zho
     name: 西北吉巴亚语
     auto: true

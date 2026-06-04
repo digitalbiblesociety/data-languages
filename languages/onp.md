@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サルタング語
     auto: true
+  - translation_iso: spa
+    name: Sartang
+    auto: true
   - translation_iso: zho
     name: 萨尔当语
 ---

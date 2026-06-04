@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディリ語
     auto: true
+  - translation_iso: spa
+    name: Diri
+    auto: true
   - translation_iso: zho
     name: 迪里语
     auto: true

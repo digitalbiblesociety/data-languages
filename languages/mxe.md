@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メレ・フィラ語
+  - translation_iso: spa
+    name: Mele-Fila
+    auto: true
   - translation_iso: zho
     name: 梅勒-菲拉语
     auto: true

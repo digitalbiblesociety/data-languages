@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ングカルムプウ・カヌム語
     auto: true
+  - translation_iso: spa
+    name: Kanum Ngkâlmpw
+    auto: true
   - translation_iso: zho
     name: 恩格卡尔姆普卡努姆语
     auto: true

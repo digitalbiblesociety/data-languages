@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハルク語
     auto: true
+  - translation_iso: spa
+    name: Haruku
+    auto: true
   - translation_iso: zho
     name: 哈鲁库语
 rolv_dialects:

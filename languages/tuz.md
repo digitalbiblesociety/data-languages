@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥラマ語
     auto: true
+  - translation_iso: spa
+    name: Turka
+    auto: true
   - translation_iso: zho
     name: 图尔卡语
     auto: true

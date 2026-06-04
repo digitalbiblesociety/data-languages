@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディカマイ・アグタ語
     auto: true
+  - translation_iso: spa
+    name: Agta Dicamay
+    auto: true
   - translation_iso: zho
     name: 迪卡迈阿格塔语
     auto: true

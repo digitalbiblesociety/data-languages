@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アリファマミニアフィア語
     auto: true
+  - translation_iso: spa
+    name: Arifama-Miniafia
+    auto: true
   - translation_iso: zho
     name: 阿里法玛-米尼亚菲亚语
     auto: true

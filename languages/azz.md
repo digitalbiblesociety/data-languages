@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 高地プエブラ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl de la Sierra de Puebla
+    auto: true
   - translation_iso: zho
     name: 高地普埃布拉纳瓦特尔语
     auto: true

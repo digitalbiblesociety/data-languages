@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワンビ語
+  - translation_iso: spa
+    name: Kwambi
+    auto: true
   - translation_iso: zho
     name: 克瓦姆比语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レイポン語
     auto: true
+  - translation_iso: spa
+    name: Leipon
+    auto: true
   - translation_iso: zho
     name: 莱伊邦语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イェム語
+  - translation_iso: spa
+    name: Yemsa
+    auto: true
   - translation_iso: zho
     name: 耶姆萨语
     auto: true

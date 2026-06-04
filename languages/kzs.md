@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: スグット・ドゥスン語
     auto: true
+  - translation_iso: spa
+    name: Dusun del Sugut
+    auto: true
   - translation_iso: zho
     name: 苏古特杜顺语
     auto: true

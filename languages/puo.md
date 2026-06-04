@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プオク語
     auto: true
+  - translation_iso: spa
+    name: Puoc
+    auto: true
   - translation_iso: zho
     name: 欣门语
 ---

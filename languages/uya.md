@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イコ語
     auto: true
+  - translation_iso: spa
+    name: Doko-Uyanga
+    auto: true
   - translation_iso: zho
     name: 多科-乌扬加语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナンセレ語
     auto: true
+  - translation_iso: spa
+    name: Nancere
+    auto: true
   - translation_iso: zho
     name: 南塞雷语
     auto: true

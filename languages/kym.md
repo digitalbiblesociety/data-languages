@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: クパティリ語
     auto: true
+  - translation_iso: spa
+    name: Kpatili
+    auto: true
   - translation_iso: zho
     name: 克帕蒂利语
     auto: true

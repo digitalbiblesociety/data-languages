@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南ヌアウル語
     auto: true
+  - translation_iso: spa
+    name: Nuaulu del Sur
+    auto: true
   - translation_iso: zho
     name: 南努阿乌鲁语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 下アレンテ語
+  - translation_iso: spa
+    name: Aranda Meridional Inferior
+    auto: true
   - translation_iso: zho
     name: 下南阿兰达语
     auto: true

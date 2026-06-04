@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イブオロ語
     auto: true
+  - translation_iso: spa
+    name: Ibuoro
+    auto: true
   - translation_iso: zho
     name: 伊布奥罗语
     auto: true

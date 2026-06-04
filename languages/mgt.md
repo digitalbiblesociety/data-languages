@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モンゴル語
     auto: true
+  - translation_iso: spa
+    name: Mongol
+    auto: true
   - translation_iso: zho
     name: 蒙古語（新幾內亞）
 ---

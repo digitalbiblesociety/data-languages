@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビノンガン・イトネグ語
     auto: true
+  - translation_iso: spa
+    name: Itneg Binongan
+    auto: true
   - translation_iso: zho
     name: 比农根伊特内格语
     auto: true

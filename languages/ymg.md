@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ヤモンゲリ語
     auto: true
+  - translation_iso: spa
+    name: Yamongeri
+    auto: true
   - translation_iso: zho
     name: 亚蒙格里语
     auto: true

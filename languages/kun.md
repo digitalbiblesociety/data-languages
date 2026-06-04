@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クナマ語
+  - translation_iso: spa
+    name: Kunama
+    auto: true
   - translation_iso: zho
     name: 库纳马语
 rolv_dialects:

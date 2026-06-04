@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: スクルム語
     auto: true
+  - translation_iso: spa
+    name: Sukurum
+    auto: true
   - translation_iso: zho
     name: 苏库鲁姆语
     auto: true

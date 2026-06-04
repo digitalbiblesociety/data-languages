@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カゲート語
     auto: true
+  - translation_iso: spa
+    name: Kagate
+    auto: true
   - translation_iso: zho
     name: 卡盖特语
     auto: true

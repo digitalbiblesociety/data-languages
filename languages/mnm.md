@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マペナ語
     auto: true
+  - translation_iso: spa
+    name: Mapena
+    auto: true
   - translation_iso: zho
     name: 玛佩纳语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジェハイ語
     auto: true
+  - translation_iso: spa
+    name: Jehai
+    auto: true
   - translation_iso: zho
     name: 嘉海語
 rolv_dialects:

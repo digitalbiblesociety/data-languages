@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ゴファ語
     auto: true
+  - translation_iso: spa
+    name: Gofa
+    auto: true
   - translation_iso: zho
     name: 戈法语
     auto: true

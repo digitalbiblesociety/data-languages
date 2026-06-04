@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ヤンジバラ語
     auto: true
+  - translation_iso: spa
+    name: Yandjibara
+    auto: true
   - translation_iso: zho
     name: 扬季巴拉语
     auto: true

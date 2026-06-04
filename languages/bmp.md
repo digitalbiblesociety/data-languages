@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブルゲビ語
     auto: true
+  - translation_iso: spa
+    name: Bulgebi
+    auto: true
   - translation_iso: zho
     name: 布尔盖比语
     auto: true

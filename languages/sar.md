@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サラヴェカ語
+  - translation_iso: spa
+    name: Saraveca
+    auto: true
   - translation_iso: zho
     name: 萨拉维卡语
 ---

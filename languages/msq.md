@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カアック語
     auto: true
+  - translation_iso: spa
+    name: Caac
+    auto: true
   - translation_iso: zho
     name: 卡克语
     auto: true

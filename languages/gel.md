@@ -19,10 +19,13 @@ translations:
     name: "وت-مآ'ين"
     auto: true
   - translation_iso: hin
-    name: उत-मा'इन
+    name: "उत-मा'इन"
     auto: true
   - translation_iso: jpn
     name: ウト・マイン語
+    auto: true
+  - translation_iso: spa
+    name: "ut-Ma'in"
     auto: true
   - translation_iso: zho
     name: 乌特-玛因语

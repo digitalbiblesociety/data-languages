@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カニッカラン語
     auto: true
+  - translation_iso: spa
+    name: Kanikkaran
+    auto: true
   - translation_iso: zho
     name: 卡尼卡兰语
 rolv_dialects:

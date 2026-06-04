@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コディア語
     auto: true
+  - translation_iso: spa
+    name: Kodia
+    auto: true
   - translation_iso: zho
     name: 科迪亚语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥング語
+  - translation_iso: spa
+    name: Dungu
+    auto: true
   - translation_iso: zho
     name: 邦根语
     auto: true

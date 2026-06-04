@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: Mt.イリガ・アグタ語
     auto: true
+  - translation_iso: spa
+    name: Agta del monte Iriga
+    auto: true
   - translation_iso: zho
     name: 伊里加山艾塔语
     auto: true

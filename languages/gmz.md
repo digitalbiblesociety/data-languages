@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ムボリジア語
     auto: true
+  - translation_iso: spa
+    name: Mgbolizhia
+    auto: true
   - translation_iso: zho
     name: 姆博利日亚语
     auto: true

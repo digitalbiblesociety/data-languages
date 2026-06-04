@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タムニン・チタク語
     auto: true
+  - translation_iso: spa
+    name: Citak Tamnim
+    auto: true
   - translation_iso: zho
     name: 塔明尼姆齐塔克语
     auto: true

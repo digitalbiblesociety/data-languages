@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チャズンバ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Chazumba
+    auto: true
   - translation_iso: zho
     name: 查祖姆巴-米斯特克语
     auto: true

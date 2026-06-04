@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カグル語
     auto: true
+  - translation_iso: spa
+    name: Kagulu
+    auto: true
   - translation_iso: zho
     name: 卡古卢语
     auto: true

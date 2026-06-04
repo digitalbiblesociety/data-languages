@@ -24,6 +24,9 @@ translations:
     name: ゴラニ語
   - translation_iso: kor
     name: 고라니어
+  - translation_iso: spa
+    name: Gurani
+    auto: true
   - translation_iso: zho
     name: 戈拉尼語
 rolv_dialects:

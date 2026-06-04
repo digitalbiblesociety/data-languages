@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カジャマン語
     auto: true
+  - translation_iso: spa
+    name: Kajaman
+    auto: true
   - translation_iso: zho
     name: 卡贾曼语
     auto: true

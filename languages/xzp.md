@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古代サポテク語
+  - translation_iso: spa
+    name: Zapoteco antiguo
+    auto: true
   - translation_iso: zho
     name: 古萨波特克语
     auto: true

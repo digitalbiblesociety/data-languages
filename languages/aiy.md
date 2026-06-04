@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アリ語
     auto: true
+  - translation_iso: spa
+    name: Ali
+    auto: true
   - translation_iso: zho
     name: 阿里语
     auto: true

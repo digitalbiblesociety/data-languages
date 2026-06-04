@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ボウナ・クラング語
     auto: true
+  - translation_iso: spa
+    name: Kulango de Bouna
+    auto: true
   - translation_iso: zho
     name: 博纳库拉戈语
     auto: true

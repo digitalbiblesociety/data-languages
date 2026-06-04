@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニンディ語
     auto: true
+  - translation_iso: spa
+    name: Nindi
+    auto: true
   - translation_iso: zho
     name: 尼迪语
     auto: true

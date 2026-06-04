@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トラキ語
+  - translation_iso: spa
+    name: Tolaki
+    auto: true
   - translation_iso: zho
     name: 托拉吉语
 rolv_dialects:

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベテ語
+  - translation_iso: spa
+    name: Bété de Gagnoa
+    auto: true
   - translation_iso: zho
     name: 甘农贝特语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アシェニンカペレネ語
     auto: true
+  - translation_iso: spa
+    name: Ashéninka Perené
+    auto: true
   - translation_iso: zho
     name: 阿什尼卡佩雷内语
     auto: true

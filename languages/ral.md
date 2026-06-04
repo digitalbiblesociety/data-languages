@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラルテー語
+  - translation_iso: spa
+    name: Ralte
+    auto: true
   - translation_iso: zho
     name: 拉尔特语
     auto: true

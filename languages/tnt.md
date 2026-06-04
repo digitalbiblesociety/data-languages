@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トンテンボアン語
+  - translation_iso: spa
+    name: Tontemboan
+    auto: true
   - translation_iso: zho
     name: 通滕博安语
     auto: true

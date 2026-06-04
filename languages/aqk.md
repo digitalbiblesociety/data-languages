@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: アニンカ語
     auto: true
+  - translation_iso: spa
+    name: Aninka
+    auto: true
   - translation_iso: zho
     name: 阿尼卡语
     auto: true

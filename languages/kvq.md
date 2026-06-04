@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゲバ・カレン語
     auto: true
+  - translation_iso: spa
+    name: Karen Geba
+    auto: true
   - translation_iso: zho
     name: 格巴卡伦语
     auto: true

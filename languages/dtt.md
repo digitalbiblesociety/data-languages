@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トロ・テグ・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Toro Tegu
+    auto: true
   - translation_iso: zho
     name: 托罗特古多贡语
     auto: true

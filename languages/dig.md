@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディゴ語
+  - translation_iso: spa
+    name: Digo
+    auto: true
   - translation_iso: zho
     name: 迪戈语
     auto: true

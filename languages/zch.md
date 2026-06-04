@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・ホンシュイ河・ズアン語
     auto: true
+  - translation_iso: spa
+    name: Zhuang central del Hongshuihe
+    auto: true
   - translation_iso: zho
     name: 红水河中游壮话
 ---

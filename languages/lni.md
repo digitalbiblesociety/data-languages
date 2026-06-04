@@ -16,13 +16,16 @@ glottolog_classification: "South Bougainville > Nasioiic > Nasioi > South-Centra
 wikipedia_url: "https://en.wikipedia.org/wiki/Daantanai%CA%BC_language"
 translations:
   - translation_iso: ara
-    name: "لغة اانتاناي'"
+    name: لغة اانتاناي
     auto: true
   - translation_iso: hin
     name: दानतानाई
     auto: true
   - translation_iso: jpn
     name: ダアンタナイ語
+    auto: true
+  - translation_iso: spa
+    name: "Daantanai'"
     auto: true
   - translation_iso: zho
     name: 达昂塔那伊语

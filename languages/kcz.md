@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コノンゴ語
     auto: true
+  - translation_iso: spa
+    name: Konongo
+    auto: true
   - translation_iso: zho
     name: 科农戈语
     auto: true

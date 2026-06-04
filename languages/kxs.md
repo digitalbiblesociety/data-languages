@@ -25,6 +25,9 @@ translations:
     name: 康家語
   - translation_iso: kor
     name: 캉자어
+  - translation_iso: spa
+    name: Kangjia
+    auto: true
   - translation_iso: zho
     name: 康家语
 ---

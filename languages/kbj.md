@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カリ語
     auto: true
+  - translation_iso: spa
+    name: Kari
+    auto: true
   - translation_iso: zho
     name: 卡里语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウアレ語
     auto: true
+  - translation_iso: spa
+    name: Uare
+    auto: true
   - translation_iso: zho
     name: 乌亚雷语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポート・ヴァト語
+  - translation_iso: spa
+    name: Port Vato
+    auto: true
   - translation_iso: zho
     name: 波特瓦图语
     auto: true

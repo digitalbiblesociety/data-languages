@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メンカ語
     auto: true
+  - translation_iso: spa
+    name: Menka
+    auto: true
   - translation_iso: zho
     name: 门卡语
     auto: true

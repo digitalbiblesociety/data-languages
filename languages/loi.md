@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロマ語
     auto: true
+  - translation_iso: spa
+    name: Loma (Costa de Marfil)
+    auto: true
   - translation_iso: zho
     name: 洛玛语
     auto: true

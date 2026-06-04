@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プラー語
+  - translation_iso: spa
+    name: Pular
+    auto: true
   - translation_iso: zho
     name: 葡拉語
 rolv_dialects:

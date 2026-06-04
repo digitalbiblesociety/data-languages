@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クーンジメ語
     auto: true
+  - translation_iso: spa
+    name: Koonzime
+    auto: true
   - translation_iso: zho
     name: 昆齐梅语
     auto: true

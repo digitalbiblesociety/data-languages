@@ -26,6 +26,9 @@ translations:
     name: タイ・ダム語
   - translation_iso: kor
     name: 따이담어
+  - translation_iso: spa
+    name: Tai Dam
+    auto: true
   - translation_iso: zho
     name: 傣擔語
 ---

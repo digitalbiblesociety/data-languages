@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウサ・ナス語
     auto: true
+  - translation_iso: spa
+    name: Wusa Nasu
+    auto: true
   - translation_iso: zho
     name: 乌萨-纳苏语
     auto: true

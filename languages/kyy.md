@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カンバイラ語
     auto: true
+  - translation_iso: spa
+    name: Kambaira
+    auto: true
   - translation_iso: zho
     name: 坎拜拉语
     auto: true

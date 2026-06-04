@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウォトゥ語
     auto: true
+  - translation_iso: spa
+    name: Wotu
+    auto: true
   - translation_iso: zho
     name: 沃图语
     auto: true

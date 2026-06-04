@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ニニア・ヤリ語
     auto: true
+  - translation_iso: spa
+    name: Yali de Ninia
+    auto: true
   - translation_iso: zho
     name: 尼尼亚亚利语
     auto: true

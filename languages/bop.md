@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ボンキマン語
     auto: true
+  - translation_iso: spa
+    name: Bonkiman
+    auto: true
   - translation_iso: zho
     name: 邦基曼语
     auto: true

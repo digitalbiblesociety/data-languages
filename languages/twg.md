@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テレウェング語
     auto: true
+  - translation_iso: spa
+    name: Tereweng
+    auto: true
   - translation_iso: zho
     name: 特雷温语
     auto: true

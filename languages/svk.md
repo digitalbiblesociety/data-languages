@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スロバキア手話
+  - translation_iso: spa
+    name: Lengua de señas eslovaca
+    auto: true
   - translation_iso: zho
     name: 斯洛伐克手语
     auto: true

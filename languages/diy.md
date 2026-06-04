@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ディウウェ語
     auto: true
+  - translation_iso: spa
+    name: Diuwe
+    auto: true
   - translation_iso: zho
     name: 迪乌韦语
     auto: true

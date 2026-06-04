@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムアラン語
     auto: true
+  - translation_iso: spa
+    name: Mualang
+    auto: true
   - translation_iso: zho
     name: 穆阿朗语
     auto: true

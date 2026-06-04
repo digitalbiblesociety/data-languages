@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムサウ・エミラ語
+  - translation_iso: spa
+    name: Mussau-Emira
+    auto: true
   - translation_iso: zho
     name: 穆绍-埃米拉语
 rolv_dialects:

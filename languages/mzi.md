@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イクスカトラン・マサテク語
     auto: true
+  - translation_iso: spa
+    name: Mazateco de Ixcatlán
+    auto: true
   - translation_iso: zho
     name: 伊克斯卡特兰玛萨特克语
     auto: true

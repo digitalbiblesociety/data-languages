@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワータイ語
+  - translation_iso: spa
+    name: Kuwaataay
+    auto: true
   - translation_iso: zho
     name: 库瓦塔艾语
     auto: true

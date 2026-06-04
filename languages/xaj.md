@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: アラランデワラ語
     auto: true
+  - translation_iso: spa
+    name: Ararandewára
+    auto: true
   - translation_iso: zho
     name: 阿拉兰德瓦拉语
     auto: true

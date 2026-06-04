@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダス語
     auto: true
+  - translation_iso: spa
+    name: Dass
+    auto: true
   - translation_iso: zho
     name: 达斯语
     auto: true

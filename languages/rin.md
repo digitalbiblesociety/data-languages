@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 눙구어
+  - translation_iso: spa
+    name: Nungu
+    auto: true
   - translation_iso: zho
     name: 农古语
     auto: true

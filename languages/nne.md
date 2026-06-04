@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ングアンディエラ語
     auto: true
+  - translation_iso: spa
+    name: Ngandyera
+    auto: true
   - translation_iso: zho
     name: 恩甘德耶拉语
     auto: true

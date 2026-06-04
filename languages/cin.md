@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シンタ・ラルガ語
     auto: true
+  - translation_iso: spa
+    name: Cinta Larga
+    auto: true
   - translation_iso: zho
     name: 辛塔拉加语
     auto: true

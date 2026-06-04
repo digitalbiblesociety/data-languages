@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンゴル語
     auto: true
+  - translation_iso: spa
+    name: Angor
+    auto: true
   - translation_iso: zho
     name: 安哥爾語
 rolv_dialects:

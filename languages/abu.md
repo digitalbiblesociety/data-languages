@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アブレ語
     auto: true
+  - translation_iso: spa
+    name: Abure
+    auto: true
   - translation_iso: zho
     name: 阿布雷语
     auto: true

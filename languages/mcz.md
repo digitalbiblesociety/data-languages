@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: マワン語
     auto: true
+  - translation_iso: spa
+    name: Mawan
+    auto: true
   - translation_iso: zho
     name: 马万语
     auto: true

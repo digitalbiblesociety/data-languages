@@ -21,6 +21,9 @@ translations:
     name: झनकोट सांकेतिक भाषा
   - translation_iso: jpn
     name: ジャンコット手話
+  - translation_iso: spa
+    name: Lengua de señas de Jhankot
+    auto: true
   - translation_iso: zho
     name: 詹科特手语
     auto: true

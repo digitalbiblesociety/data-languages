@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アニフォワ語
     auto: true
+  - translation_iso: spa
+    name: Ani Phowa
+    auto: true
   - translation_iso: zho
     name: 阿尼-菲瓦语
     auto: true

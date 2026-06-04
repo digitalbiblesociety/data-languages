@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ミチガメア語
     auto: true
+  - translation_iso: spa
+    name: Michigamea
+    auto: true
   - translation_iso: zho
     name: 米奇根梅语
     auto: true

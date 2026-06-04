@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 民講語
+  - translation_iso: spa
+    name: Zhuang Minz
+    auto: true
   - translation_iso: zho
     name: 民讲
 ---

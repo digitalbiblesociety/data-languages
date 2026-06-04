@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボム語
+  - translation_iso: spa
+    name: Bomu
+    auto: true
   - translation_iso: zho
     name: 博木語
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: モヤダン・イトネグ語
     auto: true
+  - translation_iso: spa
+    name: Itneg Moyadan
+    auto: true
   - translation_iso: zho
     name: 莫亚丹伊特内格语
     auto: true

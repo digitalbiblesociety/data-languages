@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カブラス語
     auto: true
+  - translation_iso: spa
+    name: Kabras
+    auto: true
   - translation_iso: zho
     name: 卡布拉斯语
     auto: true

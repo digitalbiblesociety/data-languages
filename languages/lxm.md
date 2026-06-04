@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラクルマウ語
     auto: true
+  - translation_iso: spa
+    name: Lakurumau
+    auto: true
   - translation_iso: zho
     name: 拉库鲁毛语
     auto: true

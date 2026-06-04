@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セプアル語
     auto: true
+  - translation_iso: spa
+    name: Sapuan
+    auto: true
   - translation_iso: zho
     name: 萨潘语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラムピ語
     auto: true
+  - translation_iso: spa
+    name: Rampi
+    auto: true
   - translation_iso: zho
     name: 拉皮语
     auto: true

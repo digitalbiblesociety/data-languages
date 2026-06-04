@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドゴロ語
     auto: true
+  - translation_iso: spa
+    name: Doghoro
+    auto: true
   - translation_iso: zho
     name: 多格罗语
     auto: true

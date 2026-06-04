@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: アモ語
     auto: true
+  - translation_iso: spa
+    name: Amo
+    auto: true
   - translation_iso: zho
     name: 阿莫语
     auto: true

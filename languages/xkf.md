@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケン語
+  - translation_iso: spa
+    name: Khengkha
+    auto: true
   - translation_iso: zho
     name: 克恒卡语
     auto: true

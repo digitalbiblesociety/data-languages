@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コユトラ・トトナック語
     auto: true
+  - translation_iso: spa
+    name: Totonaco de Coyutla
+    auto: true
   - translation_iso: zho
     name: 科尤特拉托托纳克语
     auto: true

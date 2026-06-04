@@ -25,6 +25,9 @@ translations:
     name: グルン語
   - translation_iso: kor
     name: 구룽어
+  - translation_iso: spa
+    name: Gurung
+    auto: true
   - translation_iso: zho
     name: 古隆语
 rolv_dialects:

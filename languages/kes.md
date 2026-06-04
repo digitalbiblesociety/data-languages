@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クグボ語
     auto: true
+  - translation_iso: spa
+    name: Kugbo
+    auto: true
   - translation_iso: zho
     name: 库格博语
     auto: true

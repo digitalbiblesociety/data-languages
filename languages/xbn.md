@@ -19,6 +19,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケナボイ語
+  - translation_iso: spa
+    name: Kenaboi
+    auto: true
   - translation_iso: zho
     name: 克纳博伊语
 ---

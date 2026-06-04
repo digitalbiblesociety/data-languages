@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イロンゴット語
+  - translation_iso: spa
+    name: Ilongot
+    auto: true
   - translation_iso: zho
     name: 伊隆戈特语
     auto: true

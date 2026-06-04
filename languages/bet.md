@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ギベルア・ベテ語
     auto: true
+  - translation_iso: spa
+    name: Béte de Guiberoua
+    auto: true
   - translation_iso: zho
     name: 吉贝鲁亚贝特语
     auto: true

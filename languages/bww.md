@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Bwa語
+  - translation_iso: spa
+    name: Bwa
+    auto: true
   - translation_iso: zho
     name: 布瓦语
     auto: true

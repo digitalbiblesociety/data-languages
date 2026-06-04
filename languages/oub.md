@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウビ語
+  - translation_iso: spa
+    name: Glio-Oubi
+    auto: true
   - translation_iso: zho
     name: 格利奥-乌比语
     auto: true

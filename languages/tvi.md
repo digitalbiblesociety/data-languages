@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: トゥラ語
     auto: true
+  - translation_iso: spa
+    name: Tulai
+    auto: true
   - translation_iso: zho
     name: 图莱语
     auto: true

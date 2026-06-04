@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クウェリサ語
     auto: true
+  - translation_iso: spa
+    name: Kwerisa
+    auto: true
   - translation_iso: zho
     name: 克韦里萨语
     auto: true

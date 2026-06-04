@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シオ語
+  - translation_iso: spa
+    name: Sio
+    auto: true
   - translation_iso: zho
     name: 西奥语
     auto: true

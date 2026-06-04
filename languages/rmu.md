@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タブリンガーロマニ語
     auto: true
+  - translation_iso: spa
+    name: Romaní tavringer
+    auto: true
   - translation_iso: zho
     name: 塔夫林格罗姆语
     auto: true

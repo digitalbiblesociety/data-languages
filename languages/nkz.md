@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ンカリ語
     auto: true
+  - translation_iso: spa
+    name: Nkari
+    auto: true
   - translation_iso: zho
     name: 恩卡里语
     auto: true

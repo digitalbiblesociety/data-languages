@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カラン語
     auto: true
+  - translation_iso: spa
+    name: Karang
+    auto: true
   - translation_iso: zho
     name: 卡朗语
     auto: true

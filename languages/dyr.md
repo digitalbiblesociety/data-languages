@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ディャリム語
     auto: true
+  - translation_iso: spa
+    name: Dyarim
+    auto: true
   - translation_iso: zho
     name: 迪亚里姆语
     auto: true

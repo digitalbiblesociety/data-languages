@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クパン・マレー語
     auto: true
+  - translation_iso: spa
+    name: Malayo de Kupang
+    auto: true
   - translation_iso: zho
     name: 古邦马来语
     auto: true

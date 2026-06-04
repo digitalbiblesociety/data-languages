@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥキ語
     auto: true
+  - translation_iso: spa
+    name: Tuki
+    auto: true
   - translation_iso: zho
     name: 图基语
     auto: true

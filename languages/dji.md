@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 지낭어
+  - translation_iso: spa
+    name: Djinang
+    auto: true
   - translation_iso: zho
     name: 詹纳语
     auto: true

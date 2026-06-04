@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤワ語
+  - translation_iso: spa
+    name: Yawa
+    auto: true
   - translation_iso: zho
     name: 亚瓦语
     auto: true

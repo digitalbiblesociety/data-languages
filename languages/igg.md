@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イガナ語
     auto: true
+  - translation_iso: spa
+    name: Igana
+    auto: true
   - translation_iso: zho
     name: 伊加纳语
     auto: true

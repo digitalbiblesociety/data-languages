@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミラヤ・ビコール語
+  - translation_iso: spa
+    name: Bikol Miraya
+    auto: true
   - translation_iso: zho
     name: 米腊亚比科尔语
 ---

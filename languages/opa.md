@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: オクパムヘリ語
     auto: true
+  - translation_iso: spa
+    name: Okpamheri
+    auto: true
   - translation_iso: zho
     name: 奥克帕姆赫里语
     auto: true

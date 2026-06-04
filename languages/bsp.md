@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バガ・シテム語
     auto: true
+  - translation_iso: spa
+    name: Baga Sitemu
+    auto: true
   - translation_iso: zho
     name: 巴加西特穆语
     auto: true

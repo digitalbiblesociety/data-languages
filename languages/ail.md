@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アイメレ語
     auto: true
+  - translation_iso: spa
+    name: Aimele
+    auto: true
   - translation_iso: zho
     name: 艾梅莱语
     auto: true

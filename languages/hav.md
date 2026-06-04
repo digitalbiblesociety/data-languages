@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハヴ語
     auto: true
+  - translation_iso: spa
+    name: Havu
+    auto: true
   - translation_iso: zho
     name: 哈武语
     auto: true

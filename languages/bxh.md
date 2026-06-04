@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブフトゥ語
     auto: true
+  - translation_iso: spa
+    name: Buhutu
+    auto: true
   - translation_iso: zho
     name: 布胡图语
     auto: true

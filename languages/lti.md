@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レティ語
     auto: true
+  - translation_iso: spa
+    name: Leti (Indonesia)
+    auto: true
   - translation_iso: zho
     name: 勒蒂语
 rolv_dialects:

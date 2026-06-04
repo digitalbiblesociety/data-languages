@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゲメ語
     auto: true
+  - translation_iso: spa
+    name: Geme
+    auto: true
   - translation_iso: zho
     name: 蓋梅語
 rolv_dialects:

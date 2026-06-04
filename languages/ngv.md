@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナグミ語
+  - translation_iso: spa
+    name: Nagumi
+    auto: true
   - translation_iso: zho
     name: 纳古米语
     auto: true

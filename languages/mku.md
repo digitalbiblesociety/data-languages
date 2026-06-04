@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コニャンカ・マニンカ語
     auto: true
+  - translation_iso: spa
+    name: Maninka Konyanka
+    auto: true
   - translation_iso: zho
     name: 科尼扬卡马尼卡语
     auto: true

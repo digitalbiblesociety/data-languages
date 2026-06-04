@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カツ語
     auto: true
+  - translation_iso: spa
+    name: Kathu
+    auto: true
   - translation_iso: zho
     name: 嘎苏话
 ---

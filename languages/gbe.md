@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニクセク語
     auto: true
+  - translation_iso: spa
+    name: Niksek
+    auto: true
   - translation_iso: zho
     name: 尼克塞克语
     auto: true

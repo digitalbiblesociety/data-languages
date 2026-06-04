@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラブク・キナバタンガン・カダザン語
     auto: true
+  - translation_iso: spa
+    name: Kadazan Labuk-Kinabatangan
+    auto: true
   - translation_iso: zho
     name: 拉布克-基那巴坦甘卡达让语
     auto: true

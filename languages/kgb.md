@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カウェ語
     auto: true
+  - translation_iso: spa
+    name: Kawe
+    auto: true
   - translation_iso: zho
     name: 卡韦语
     auto: true

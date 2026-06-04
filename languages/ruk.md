@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルクバ語
     auto: true
+  - translation_iso: spa
+    name: Che
+    auto: true
   - translation_iso: zho
     name: 切语
     auto: true

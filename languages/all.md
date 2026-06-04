@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アッラール語
     auto: true
+  - translation_iso: spa
+    name: Allar
+    auto: true
   - translation_iso: zho
     name: 阿拉尔语
 ---

@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: イクウォ語
     auto: true
+  - translation_iso: spa
+    name: Ikwo
+    auto: true
   - translation_iso: zho
     name: 伊克沃语
     auto: true

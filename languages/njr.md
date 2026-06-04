@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ンジェレプ語
     auto: true
+  - translation_iso: spa
+    name: Njerep
+    auto: true
   - translation_iso: zho
     name: 恩杰雷普语
     auto: true

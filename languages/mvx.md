@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: メオスワル語
     auto: true
+  - translation_iso: spa
+    name: Meoswar
+    auto: true
   - translation_iso: zho
     name: 梅奥斯瓦语
     auto: true

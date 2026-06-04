@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ファン語
     auto: true
+  - translation_iso: spa
+    name: Fang (Camerún)
+    auto: true
   - translation_iso: zho
     name: 方言（喀麦隆）
     auto: true

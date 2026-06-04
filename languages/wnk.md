@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ワヌカカ語
     auto: true
+  - translation_iso: spa
+    name: Wanukaka
+    auto: true
   - translation_iso: zho
     name: 瓦努卡卡语
     auto: true

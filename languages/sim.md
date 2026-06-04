@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セイム語
+  - translation_iso: spa
+    name: Mende (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 门德语（巴布亚新几内亚）
     auto: true

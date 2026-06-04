@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: キツァイ語
     auto: true
+  - translation_iso: spa
+    name: Kitsai
+    auto: true
   - translation_iso: zho
     name: 基特塞语
     auto: true

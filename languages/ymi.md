@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モジ語
     auto: true
+  - translation_iso: spa
+    name: Moji
+    auto: true
   - translation_iso: zho
     name: 墨几语
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クニ・ボアジ語
     auto: true
+  - translation_iso: spa
+    name: Kuni-Boazi
+    auto: true
   - translation_iso: zho
     name: 库尼-博阿齐语
     auto: true

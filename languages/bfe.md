@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベタフ語
     auto: true
+  - translation_iso: spa
+    name: Betaf
+    auto: true
   - translation_iso: zho
     name: 贝塔夫语
     auto: true

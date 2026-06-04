@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イシサファ語
     auto: true
+  - translation_iso: spa
+    name: Safwa
+    auto: true
   - translation_iso: zho
     name: 萨夫瓦语
     auto: true

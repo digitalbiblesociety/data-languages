@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テレフォル語
+  - translation_iso: spa
+    name: Telefol
+    auto: true
   - translation_iso: zho
     name: 特里福語
 ---

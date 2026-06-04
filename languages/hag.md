@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ハンガ語
     auto: true
+  - translation_iso: spa
+    name: Hanga
+    auto: true
   - translation_iso: zho
     name: 汉加语
     auto: true

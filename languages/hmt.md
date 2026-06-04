@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハムタイ語
+  - translation_iso: spa
+    name: Hamtai
+    auto: true
   - translation_iso: zho
     name: 哈姆泰语
     auto: true

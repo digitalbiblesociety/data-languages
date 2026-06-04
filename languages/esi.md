@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北アラスカ・イヌピアツン語
+  - translation_iso: spa
+    name: Iñupiatun del norte de Alaska
+    auto: true
   - translation_iso: zho
     name: 北阿拉斯加因纽皮亚特语
     auto: true

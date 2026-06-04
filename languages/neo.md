@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナー・メオ語
     auto: true
+  - translation_iso: spa
+    name: Ná-Meo
+    auto: true
   - translation_iso: zho
     name: 那苗语
 ---

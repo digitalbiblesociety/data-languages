@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ビドハワル語
     auto: true
+  - translation_iso: spa
+    name: Bidhawal
+    auto: true
   - translation_iso: zho
     name: 比达瓦尔语
     auto: true

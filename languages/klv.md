@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マスケリネス語
     auto: true
+  - translation_iso: spa
+    name: Maskelynes
+    auto: true
   - translation_iso: zho
     name: 马斯克莱尼斯语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニェン語
+  - translation_iso: spa
+    name: Nyenkha
+    auto: true
   - translation_iso: zho
     name: 尼扬卡语
     auto: true

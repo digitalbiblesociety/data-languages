@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オバンリク語
     auto: true
+  - translation_iso: spa
+    name: Obanliku
+    auto: true
   - translation_iso: zho
     name: 奥班利库语
     auto: true

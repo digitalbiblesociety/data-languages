@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アプタイ語
     auto: true
+  - translation_iso: spa
+    name: Aputai
+    auto: true
   - translation_iso: zho
     name: 阿普泰语
     auto: true

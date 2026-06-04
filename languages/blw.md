@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バランガオ語
     auto: true
+  - translation_iso: spa
+    name: Balangao
+    auto: true
   - translation_iso: zho
     name: 巴兰高语
     auto: true

@@ -17,6 +17,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブヒノン・ビコール語
+  - translation_iso: spa
+    name: "Bikol Buhi'non"
+    auto: true
   - translation_iso: zho
     name: 布希农比科尔语
     auto: true

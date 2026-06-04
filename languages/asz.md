@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アス語
     auto: true
+  - translation_iso: spa
+    name: As
+    auto: true
   - translation_iso: zho
     name: 阿什语
     auto: true

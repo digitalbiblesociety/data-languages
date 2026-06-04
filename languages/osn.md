@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古スンダ語
+  - translation_iso: spa
+    name: Sundanés antiguo
+    auto: true
   - translation_iso: zho
     name: 古巽他語
 ---

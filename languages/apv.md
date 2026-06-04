@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北部ナンビクワラ語
     auto: true
+  - translation_iso: spa
+    name: Nambikwara septentrional
+    auto: true
   - translation_iso: zho
     name: 北南比夸拉语
     auto: true

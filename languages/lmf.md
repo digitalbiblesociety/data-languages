@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南レンバタ語
+  - translation_iso: spa
+    name: Lembata del sur
+    auto: true
   - translation_iso: zho
     name: 南伦巴塔语
     auto: true

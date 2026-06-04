@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タイカット語
     auto: true
+  - translation_iso: spa
+    name: Taikat
+    auto: true
   - translation_iso: zho
     name: 塔伊卡特语
     auto: true

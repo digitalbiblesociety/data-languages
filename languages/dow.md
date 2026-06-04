@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドヤヨ語
     auto: true
+  - translation_iso: spa
+    name: Doyayo
+    auto: true
   - translation_iso: zho
     name: 多瓦悠語
 rolv_dialects:

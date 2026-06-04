@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソンゴメーノ語
     auto: true
+  - translation_iso: spa
+    name: Songomeno
+    auto: true
   - translation_iso: zho
     name: 松戈梅诺语
     auto: true

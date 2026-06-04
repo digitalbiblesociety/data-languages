@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コサドレ語
     auto: true
+  - translation_iso: spa
+    name: Kosadle
+    auto: true
   - translation_iso: zho
     name: 科萨德勒语
     auto: true

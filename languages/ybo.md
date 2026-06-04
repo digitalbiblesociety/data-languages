@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤボング語
     auto: true
+  - translation_iso: spa
+    name: Yabong
+    auto: true
   - translation_iso: zho
     name: 亚邦语
     auto: true

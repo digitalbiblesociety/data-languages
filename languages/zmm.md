@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マリマニンディ語
     auto: true
+  - translation_iso: spa
+    name: Marimanindji
+    auto: true
   - translation_iso: zho
     name: 马里马尼因地语
     auto: true

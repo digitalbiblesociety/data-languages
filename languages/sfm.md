@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 小花苗語
+  - translation_iso: spa
+    name: Miao de flores pequeñas
+    auto: true
   - translation_iso: zho
     name: 小花苗语
 rolv_dialects:

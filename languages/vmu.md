@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ムルイディイ語
     auto: true
+  - translation_iso: spa
+    name: Muluridyi
+    auto: true
   - translation_iso: zho
     name: 穆卢里迪语
     auto: true

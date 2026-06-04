@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ウヌムラ語
     auto: true
+  - translation_iso: spa
+    name: Wunumara
+    auto: true
   - translation_iso: zho
     name: 乌努穆拉语
     auto: true

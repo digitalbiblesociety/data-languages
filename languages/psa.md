@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アスエアウユ語
     auto: true
+  - translation_iso: spa
+    name: Asue Awyu
+    auto: true
   - translation_iso: zho
     name: 阿苏埃阿瓦尤语
     auto: true

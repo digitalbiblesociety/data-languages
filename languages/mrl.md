@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モートロック語
+  - translation_iso: spa
+    name: Mortlockés
+    auto: true
   - translation_iso: zho
     name: 莫特洛克语
     auto: true

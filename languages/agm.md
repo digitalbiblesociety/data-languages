@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンガアタハ語
     auto: true
+  - translation_iso: spa
+    name: Angaataha
+    auto: true
   - translation_iso: zho
     name: 安加塔哈语
     auto: true

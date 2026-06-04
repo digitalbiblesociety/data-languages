@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タル語
+  - translation_iso: spa
+    name: Tal
+    auto: true
   - translation_iso: zho
     name: 塔尔语
     auto: true

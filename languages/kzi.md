@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クラビト語
+  - translation_iso: spa
+    name: Kelabit
+    auto: true
   - translation_iso: zho
     name: 克拉比特语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャキュサ語
+  - translation_iso: spa
+    name: Nyakyusa-Ngonde
+    auto: true
   - translation_iso: zho
     name: 尼亚基尤萨-恩贡德语
     auto: true

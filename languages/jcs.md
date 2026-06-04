@@ -22,6 +22,9 @@ translations:
     name: जमैका देश की सांकेतिक भाषा
   - translation_iso: jpn
     name: ジャマイカ・カントリー手話
+  - translation_iso: spa
+    name: Lengua de señas campesina jamaicana
+    auto: true
   - translation_iso: zho
     name: 牙买加乡村手语
     auto: true

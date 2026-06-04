@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 론어
+  - translation_iso: spa
+    name: Ron
+    auto: true
   - translation_iso: zho
     name: 龙语
     auto: true

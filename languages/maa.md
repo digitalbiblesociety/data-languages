@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サン・ヘロニモ・テコアトル・マサテク語
     auto: true
+  - translation_iso: spa
+    name: Mazateco de San Jerónimo Tecóatl
+    auto: true
   - translation_iso: zho
     name: 圣杰罗尼莫特科特尔马萨特克语
     auto: true

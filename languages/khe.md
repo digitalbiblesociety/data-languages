@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コロワイ語
     auto: true
+  - translation_iso: spa
+    name: Korowai
+    auto: true
   - translation_iso: zho
     name: 科罗瓦伊语
     auto: true

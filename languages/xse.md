@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セムパン語
     auto: true
+  - translation_iso: spa
+    name: Sempan
+    auto: true
   - translation_iso: zho
     name: 瑟潘语
     auto: true

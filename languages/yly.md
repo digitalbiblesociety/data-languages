@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニャラユ語
     auto: true
+  - translation_iso: spa
+    name: Nyâlayu
+    auto: true
   - translation_iso: zho
     name: 尼亚拉尤语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミリティ語
     auto: true
+  - translation_iso: spa
+    name: Miriti
+    auto: true
   - translation_iso: zho
     name: 米里蒂语
     auto: true

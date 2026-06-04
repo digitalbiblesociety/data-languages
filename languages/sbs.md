@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スビヤ語
     auto: true
+  - translation_iso: spa
+    name: Subiya
+    auto: true
   - translation_iso: zho
     name: 苏比亚语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コタバト・マノボ語
     auto: true
+  - translation_iso: spa
+    name: Manobo de Cotabato
+    auto: true
   - translation_iso: zho
     name: 科塔瓦托曼诺博语
     auto: true

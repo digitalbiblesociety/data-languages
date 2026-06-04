@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バランタ・ケントヘ語
     auto: true
+  - translation_iso: spa
+    name: Balanta-Kentohe
+    auto: true
   - translation_iso: zho
     name: 巴兰塔-肯托赫语
     auto: true

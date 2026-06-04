@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パナ語
+  - translation_iso: spa
+    name: Pana
+    auto: true
   - translation_iso: zho
     name: 帕纳语(布基纳法索)
     auto: true

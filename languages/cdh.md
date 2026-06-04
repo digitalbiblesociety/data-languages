@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チャンベアリ語
     auto: true
+  - translation_iso: spa
+    name: Chambeali
+    auto: true
   - translation_iso: zho
     name: 尚贝阿利语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ローリ語
     auto: true
+  - translation_iso: spa
+    name: Lehali
+    auto: true
   - translation_iso: zho
     name: 勒哈利语
     auto: true

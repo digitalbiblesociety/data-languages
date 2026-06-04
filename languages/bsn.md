@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バラサナ・エドゥリア語
     auto: true
+  - translation_iso: spa
+    name: Barasana-Eduria
+    auto: true
   - translation_iso: zho
     name: 巴拉萨那语
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ゾクフォ語
     auto: true
+  - translation_iso: spa
+    name: Zokhuo
+    auto: true
   - translation_iso: zho
     name: "仆拉语?"
 ---

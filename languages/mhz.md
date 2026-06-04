@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モア語
     auto: true
+  - translation_iso: spa
+    name: Mor (Islas Mor)
+    auto: true
   - translation_iso: zho
     name: 莫尔语（莫尔群岛）
     auto: true

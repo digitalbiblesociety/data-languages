@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オッラーリ語
+  - translation_iso: spa
+    name: Gadaba pottangi ollar
+    auto: true
   - translation_iso: zho
     name: 波坦吉奥拉尔加达巴语
     auto: true

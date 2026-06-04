@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アルタ語
     auto: true
+  - translation_iso: spa
+    name: Arta
+    auto: true
   - translation_iso: zho
     name: 阿尔塔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤン・ナング語
     auto: true
+  - translation_iso: spa
+    name: Yan-nhangu
+    auto: true
   - translation_iso: zho
     name: 燕-南汉古语
     auto: true

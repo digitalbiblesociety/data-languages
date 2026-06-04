@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: インバブラハイランドキチュア語
     auto: true
+  - translation_iso: spa
+    name: Quichua serrano de Imbabura
+    auto: true
   - translation_iso: zho
     name: 因巴武拉高地基楚亚语
     auto: true

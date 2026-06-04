@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レモ語
     auto: true
+  - translation_iso: spa
+    name: Remo
+    auto: true
   - translation_iso: zho
     name: 雷莫语
     auto: true

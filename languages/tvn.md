@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダウェイ語
     auto: true
+  - translation_iso: spa
+    name: Tavoyano
+    auto: true
   - translation_iso: zho
     name: 土瓦方言
 ---

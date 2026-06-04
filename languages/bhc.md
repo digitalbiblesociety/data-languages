@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビガ語
     auto: true
+  - translation_iso: spa
+    name: Biga
+    auto: true
   - translation_iso: zho
     name: 比加语
     auto: true

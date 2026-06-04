@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バマリ語
     auto: true
+  - translation_iso: spa
+    name: Bamali
+    auto: true
   - translation_iso: zho
     name: 巴马利语
     auto: true

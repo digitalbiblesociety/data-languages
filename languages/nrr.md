@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ノッラ語
     auto: true
+  - translation_iso: spa
+    name: Norra
+    auto: true
   - translation_iso: zho
     name: 诺拉语
     auto: true

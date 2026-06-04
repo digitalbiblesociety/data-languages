@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 카마르어
+  - translation_iso: spa
+    name: Kamar
+    auto: true
   - translation_iso: zho
     name: 卡马语
     auto: true

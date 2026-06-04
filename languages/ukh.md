@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ベンコンホ語
     auto: true
+  - translation_iso: spa
+    name: Ukhwejo
+    auto: true
   - translation_iso: zho
     name: 乌克韦乔语
     auto: true

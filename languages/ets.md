@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イェッキー語
     auto: true
+  - translation_iso: spa
+    name: Yekhee
+    auto: true
   - translation_iso: zho
     name: 耶赫语
     auto: true

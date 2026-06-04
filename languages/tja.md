@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タジュアソーン語
+  - translation_iso: spa
+    name: Tajuasohn
+    auto: true
   - translation_iso: zho
     name: 塔朱阿松语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イバニ語
     auto: true
+  - translation_iso: spa
+    name: Ibani
+    auto: true
   - translation_iso: zho
     name: 伊巴尼语
     auto: true

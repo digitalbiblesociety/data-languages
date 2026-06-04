@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モイ語
     auto: true
+  - translation_iso: spa
+    name: Moi (Indonesia)
+    auto: true
   - translation_iso: zho
     name: 印度尼西亚莫伊语
     auto: true

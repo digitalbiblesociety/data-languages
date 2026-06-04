@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キマーマ語
     auto: true
+  - translation_iso: spa
+    name: Kimaama
+    auto: true
   - translation_iso: zho
     name: 基马马语
     auto: true

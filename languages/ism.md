@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マシマシ語
     auto: true
+  - translation_iso: spa
+    name: Masimasi
+    auto: true
   - translation_iso: zho
     name: 玛西玛西语
     auto: true

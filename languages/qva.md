@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アンボパスコケチュア語
     auto: true
+  - translation_iso: spa
+    name: Quechua de Ambo-Pasco
+    auto: true
   - translation_iso: zho
     name: 安博帕斯科克丘亚语
     auto: true

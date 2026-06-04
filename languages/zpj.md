@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キアビクザス・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Quiavicuzas
+    auto: true
   - translation_iso: zho
     name: 基亚维库萨斯萨波特克语
     auto: true

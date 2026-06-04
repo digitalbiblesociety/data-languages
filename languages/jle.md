@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンギレ語
     auto: true
+  - translation_iso: spa
+    name: Ngile
+    auto: true
   - translation_iso: zho
     name: 恩吉雷语
     auto: true

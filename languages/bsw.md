@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バイソ語
     auto: true
+  - translation_iso: spa
+    name: Baiso
+    auto: true
   - translation_iso: zho
     name: 巴伊索語
 ---

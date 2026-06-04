@@ -22,6 +22,9 @@ translations:
     name: पालूला भाषा
   - translation_iso: jpn
     name: パルーラ語
+  - translation_iso: spa
+    name: Phalura
+    auto: true
   - translation_iso: zho
     name: 法卢拉语
     auto: true

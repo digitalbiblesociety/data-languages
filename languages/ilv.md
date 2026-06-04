@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イルエ語
     auto: true
+  - translation_iso: spa
+    name: Ilue
+    auto: true
   - translation_iso: zho
     name: 伊卢埃语
     auto: true

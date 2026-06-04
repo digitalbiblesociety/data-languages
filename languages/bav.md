@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヴェンゴ語
     auto: true
+  - translation_iso: spa
+    name: Vengo
+    auto: true
   - translation_iso: zho
     name: 文戈语
     auto: true

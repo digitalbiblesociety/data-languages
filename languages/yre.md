@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤオウレ語
     auto: true
+  - translation_iso: spa
+    name: Yaouré
+    auto: true
   - translation_iso: zho
     name: 亚乌雷语
     auto: true

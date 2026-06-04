@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ペライ語
     auto: true
+  - translation_iso: spa
+    name: Perai
+    auto: true
   - translation_iso: zho
     name: 佩莱语
     auto: true

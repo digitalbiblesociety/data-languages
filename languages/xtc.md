@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カチャ・カドゥグリ・ミリ語
     auto: true
+  - translation_iso: spa
+    name: Katcha-Kadugli-Miri
+    auto: true
   - translation_iso: zho
     name: 卡特查-卡杜格利-米里语
     auto: true

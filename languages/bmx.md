@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バイマク語
     auto: true
+  - translation_iso: spa
+    name: Baimak
+    auto: true
   - translation_iso: zho
     name: 拜马克语
     auto: true

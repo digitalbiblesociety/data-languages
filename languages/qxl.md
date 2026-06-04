@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サラサカハイランドキチュア語
     auto: true
+  - translation_iso: spa
+    name: Quichua serrano de Salasaca
+    auto: true
   - translation_iso: zho
     name: 萨拉萨卡高地基楚亚语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤフィ語
     auto: true
+  - translation_iso: spa
+    name: Yafi
+    auto: true
   - translation_iso: zho
     name: 亚菲语
     auto: true

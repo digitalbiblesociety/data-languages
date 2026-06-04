@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カワイブ語
+  - translation_iso: spa
+    name: Tukumanféd
+    auto: true
   - translation_iso: zho
     name: 卡瓦系瓦語
 ---

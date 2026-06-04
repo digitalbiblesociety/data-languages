@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 西アンバエ語
     auto: true
+  - translation_iso: spa
+    name: Ambae occidental
+    auto: true
   - translation_iso: zho
     name: 西安巴埃语
     auto: true

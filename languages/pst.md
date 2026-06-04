@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中部パシュトー語
+  - translation_iso: spa
+    name: Pastún central
+    auto: true
   - translation_iso: zho
     name: 中部普什图语
     auto: true

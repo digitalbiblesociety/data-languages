@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ノムラキ語
     auto: true
+  - translation_iso: spa
+    name: Nomlaki
+    auto: true
   - translation_iso: zho
     name: 诺姆拉基语
     auto: true

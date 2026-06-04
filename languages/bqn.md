@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブルガリア手話
+  - translation_iso: spa
+    name: Lengua de señas búlgara
+    auto: true
   - translation_iso: zho
     name: 保加利亚手语
     auto: true

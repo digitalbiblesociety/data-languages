@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アレバ語
     auto: true
+  - translation_iso: spa
+    name: Areba
+    auto: true
   - translation_iso: zho
     name: 阿瑞巴语
     auto: true

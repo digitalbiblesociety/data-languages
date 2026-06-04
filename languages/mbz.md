@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アモルテペク・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Amoltepec
+    auto: true
   - translation_iso: zho
     name: 阿莫尔特佩克混台语
     auto: true

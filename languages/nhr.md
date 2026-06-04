@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナロ語
+  - translation_iso: spa
+    name: Naro
+    auto: true
   - translation_iso: zho
     name: 納柔語
 rolv_dialects:

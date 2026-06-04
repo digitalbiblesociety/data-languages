@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディカカ語
+  - translation_iso: spa
+    name: Dijim-Bwilim
+    auto: true
   - translation_iso: zho
     name: 迪吉-布威利姆语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ギバナワ語
     auto: true
+  - translation_iso: spa
+    name: Gibanawa
+    auto: true
   - translation_iso: zho
     name: 吉巴纳瓦语
     auto: true

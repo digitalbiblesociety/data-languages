@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティドング語
     auto: true
+  - translation_iso: spa
+    name: Murut sembakung
+    auto: true
   - translation_iso: zho
     name: 森巴昆格穆鲁特语
     auto: true

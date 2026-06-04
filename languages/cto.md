@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エンベラ・カティオ語
     auto: true
+  - translation_iso: spa
+    name: Emberá-Catío
+    auto: true
   - translation_iso: zho
     name: 埃姆贝拉-卡蒂奥语
     auto: true

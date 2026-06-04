@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ミルガン語
     auto: true
+  - translation_iso: spa
+    name: Mirgan
+    auto: true
   - translation_iso: zho
     name: 米尔甘语
     auto: true

@@ -24,6 +24,9 @@ translations:
     name: 西ペルシア語
   - translation_iso: kor
     name: 이란 페르시아어
+  - translation_iso: spa
+    name: Persa iraní
+    auto: true
   - translation_iso: zho
     name: 西波斯语
 rolv_dialects:

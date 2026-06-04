@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アルアム語
     auto: true
+  - translation_iso: spa
+    name: Aruamu
+    auto: true
   - translation_iso: zho
     name: 阿鲁阿穆语
     auto: true

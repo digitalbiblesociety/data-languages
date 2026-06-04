@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドロムー・コキ語
     auto: true
+  - translation_iso: spa
+    name: Doromu-Koki
+    auto: true
   - translation_iso: zho
     name: 多罗木-科基语
     auto: true

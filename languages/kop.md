@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワウベ語
     auto: true
+  - translation_iso: spa
+    name: Waube
+    auto: true
   - translation_iso: zho
     name: 瓦乌贝语
     auto: true

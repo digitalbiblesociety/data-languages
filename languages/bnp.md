@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボラ語
+  - translation_iso: spa
+    name: Bola
+    auto: true
   - translation_iso: zho
     name: 博拉语
     auto: true

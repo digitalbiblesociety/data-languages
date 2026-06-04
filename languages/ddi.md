@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウェスト・グッデナフ語
     auto: true
+  - translation_iso: spa
+    name: West Goodenough
+    auto: true
   - translation_iso: zho
     name: 西古德依夫语
     auto: true

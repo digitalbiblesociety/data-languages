@@ -23,6 +23,9 @@ translations:
     name: बघेली
   - translation_iso: jpn
     name: バゲーリー語
+  - translation_iso: spa
+    name: Bagheli
+    auto: true
   - translation_iso: zho
     name: 巴哥里语
 rolv_dialects:

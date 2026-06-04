@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘルテヴィン語
+  - translation_iso: spa
+    name: Hértevin
+    auto: true
   - translation_iso: zho
     name: 赫特文語
 ---

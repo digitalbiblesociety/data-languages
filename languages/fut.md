@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フトゥナ・アニワ語
+  - translation_iso: spa
+    name: Futuna-Aniwa
+    auto: true
   - translation_iso: zho
     name: 富图纳-阿尼瓦语
     auto: true

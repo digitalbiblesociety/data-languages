@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コアツォスパン・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Coatzospan
+    auto: true
   - translation_iso: zho
     name: 科阿特索潘混合语
     auto: true

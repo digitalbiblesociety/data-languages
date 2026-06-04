@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 南西トラシアコ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco del Suroeste de Tlaxiaco
+    auto: true
   - translation_iso: zho
     name: 西南特拉克西亚混合语
     auto: true

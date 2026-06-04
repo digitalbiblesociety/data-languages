@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: リシワ語
     auto: true
+  - translation_iso: spa
+    name: Rishiwa
+    auto: true
   - translation_iso: zho
     name: 瑞希瓦语
     auto: true

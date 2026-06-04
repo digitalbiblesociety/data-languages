@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ドゥカ語
     auto: true
+  - translation_iso: spa
+    name: Ut-Hun
+    auto: true
   - translation_iso: zho
     name: 乌特-洪语
     auto: true

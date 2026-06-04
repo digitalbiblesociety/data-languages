@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プー・タイ語
+  - translation_iso: spa
+    name: Phu Thai
+    auto: true
   - translation_iso: zho
     name: 普泰语
 rolv_dialects:

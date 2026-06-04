@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤンダ語
     auto: true
+  - translation_iso: spa
+    name: Yanda
+    auto: true
   - translation_iso: zho
     name: 扬达语
     auto: true

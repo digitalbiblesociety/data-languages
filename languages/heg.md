@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヘロング語
     auto: true
+  - translation_iso: spa
+    name: Helong
+    auto: true
   - translation_iso: zho
     name: 赫龙语
 rolv_dialects:

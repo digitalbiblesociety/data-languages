@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メケオ語
+  - translation_iso: spa
+    name: Mekeo
+    auto: true
   - translation_iso: zho
     name: 梅克奥语
     auto: true

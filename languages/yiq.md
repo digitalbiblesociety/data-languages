@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミチエ語
     auto: true
+  - translation_iso: spa
+    name: Miqie
+    auto: true
   - translation_iso: zho
     name: 密察语
 ---

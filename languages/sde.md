@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スルブ語
     auto: true
+  - translation_iso: spa
+    name: Surubu
+    auto: true
   - translation_iso: zho
     name: 苏鲁布语
     auto: true

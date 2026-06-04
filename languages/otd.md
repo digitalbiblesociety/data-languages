@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オト・ダヌム語
     auto: true
+  - translation_iso: spa
+    name: Ot Danum
+    auto: true
   - translation_iso: zho
     name: 奧圖·大能語
 rolv_dialects:

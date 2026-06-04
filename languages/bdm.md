@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブドゥマ語
+  - translation_iso: spa
+    name: Buduma
+    auto: true
   - translation_iso: zho
     name: 布杜玛语
     auto: true

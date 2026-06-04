@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デムタ語
     auto: true
+  - translation_iso: spa
+    name: Demta
+    auto: true
   - translation_iso: zho
     name: 德姆塔语
     auto: true

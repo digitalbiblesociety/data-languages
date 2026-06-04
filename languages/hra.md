@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フランクホル語
     auto: true
+  - translation_iso: spa
+    name: Hrangkhol
+    auto: true
   - translation_iso: zho
     name: 赫朗科尔语
     auto: true

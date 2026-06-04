@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティムゴン語
+  - translation_iso: spa
+    name: Murut Timugon
+    auto: true
   - translation_iso: zho
     name: 提穆贡木鲁特语
     auto: true

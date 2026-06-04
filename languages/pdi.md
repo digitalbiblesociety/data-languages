@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パディ語
+  - translation_iso: spa
+    name: Pa Di
+    auto: true
   - translation_iso: zho
     name: 巴地语
 ---

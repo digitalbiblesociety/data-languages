@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラエコ・リブアット語
     auto: true
+  - translation_iso: spa
+    name: Laeko-Libuat
+    auto: true
   - translation_iso: zho
     name: 拉埃科-利布阿特语
     auto: true

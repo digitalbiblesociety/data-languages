@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チュルング語
     auto: true
+  - translation_iso: spa
+    name: Chhulung
+    auto: true
   - translation_iso: zho
     name: 楚隆语
     auto: true

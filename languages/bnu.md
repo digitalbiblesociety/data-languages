@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベントン語
     auto: true
+  - translation_iso: spa
+    name: Bentong
+    auto: true
   - translation_iso: zho
     name: 本通语
     auto: true

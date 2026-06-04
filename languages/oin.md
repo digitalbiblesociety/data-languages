@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イネブ・ワン語
     auto: true
+  - translation_iso: spa
+    name: One de Inebu
+    auto: true
   - translation_iso: zho
     name: 因内布翁语
     auto: true

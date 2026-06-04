@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ギズラ語
     auto: true
+  - translation_iso: spa
+    name: Gizrra
+    auto: true
   - translation_iso: zho
     name: 吉兹拉语
     auto: true

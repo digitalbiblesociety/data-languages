@@ -25,6 +25,9 @@ translations:
     name: 西ユグル語
   - translation_iso: kor
     name: 서부 유구르어
+  - translation_iso: spa
+    name: Yugur occidental
+    auto: true
   - translation_iso: zho
     name: 西部裕固语
 ---

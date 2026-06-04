@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チョユ語
+  - translation_iso: spa
+    name: Queyu
+    auto: true
   - translation_iso: zho
     name: 却域语
 ---

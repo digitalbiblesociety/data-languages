@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゴンバレ語
+  - translation_iso: spa
+    name: Ngombale
+    auto: true
   - translation_iso: zho
     name: 恩贡巴莱语
     auto: true

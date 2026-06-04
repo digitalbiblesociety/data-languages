@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メクウェイ語
     auto: true
+  - translation_iso: spa
+    name: Mekwei
+    auto: true
   - translation_iso: zho
     name: 梅克韦语
     auto: true

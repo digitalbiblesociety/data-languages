@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Bikya語
+  - translation_iso: spa
+    name: Bikya
+    auto: true
   - translation_iso: zho
     name: 比基亚语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Iatmül語
+  - translation_iso: spa
+    name: Iatmul
+    auto: true
   - translation_iso: zho
     name: 亚特穆尔语
     auto: true

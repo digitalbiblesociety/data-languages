@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グラマ語
     auto: true
+  - translation_iso: spa
+    name: Kurrama
+    auto: true
   - translation_iso: zho
     name: 库拉玛语
     auto: true

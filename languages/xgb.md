@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ギビン語
     auto: true
+  - translation_iso: spa
+    name: Gbin
+    auto: true
   - translation_iso: zho
     name: 吉宾语
     auto: true

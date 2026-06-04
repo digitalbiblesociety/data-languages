@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソンゲ語
+  - translation_iso: spa
+    name: Songe
+    auto: true
   - translation_iso: zho
     name: 松热语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヨコボウエ・ディダ語
     auto: true
+  - translation_iso: spa
+    name: Dida de Yocoboué
+    auto: true
   - translation_iso: zho
     name: 约科博韦迪达语
     auto: true

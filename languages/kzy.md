@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カンゴ語
     auto: true
+  - translation_iso: spa
+    name: Kango (Distrito de Tshopo)
+    auto: true
   - translation_iso: zho
     name: 坎戈语(楚波区)
     auto: true

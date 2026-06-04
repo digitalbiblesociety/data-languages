@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クラッシェ語
     auto: true
+  - translation_iso: spa
+    name: Krache
+    auto: true
   - translation_iso: zho
     name: 克拉切语
     auto: true

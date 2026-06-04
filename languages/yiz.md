@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アージェ語
     auto: true
+  - translation_iso: spa
+    name: Azhe
+    auto: true
   - translation_iso: zho
     name: 阿哲语
     auto: true

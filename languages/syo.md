@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スオイ語
     auto: true
+  - translation_iso: spa
+    name: Suoy
+    auto: true
   - translation_iso: zho
     name: 绥语
 ---

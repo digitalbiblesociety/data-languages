@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아리어
+  - translation_iso: spa
+    name: Ari
+    auto: true
   - translation_iso: zho
     name: 阿里语
     auto: true

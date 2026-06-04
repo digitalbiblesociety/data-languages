@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バナヴァ語
     auto: true
+  - translation_iso: spa
+    name: Unde Kaili
+    auto: true
   - translation_iso: zho
     name: 翁德-开伊利语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アダマワ・フルフルディ語
+  - translation_iso: spa
+    name: Fulfulde de Adamawa
+    auto: true
   - translation_iso: zho
     name: 亚达玛瓦富尔富尔德语
     auto: true

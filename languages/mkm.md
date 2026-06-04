@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 모클렌어
+  - translation_iso: spa
+    name: Moklen
+    auto: true
   - translation_iso: zho
     name: 莫克倫語
 ---

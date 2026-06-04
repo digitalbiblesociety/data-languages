@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ネサング語
     auto: true
+  - translation_iso: spa
+    name: Tukpa
+    auto: true
   - translation_iso: zho
     name: 图克帕语
     auto: true

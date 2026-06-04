@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: キナバリアン語
     auto: true
+  - translation_iso: spa
+    name: Kinabalian
+    auto: true
   - translation_iso: zho
     name: 基纳巴利亚语
     auto: true

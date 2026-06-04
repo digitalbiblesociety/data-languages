@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シャンガワ語
     auto: true
+  - translation_iso: spa
+    name: Shanga
+    auto: true
   - translation_iso: zho
     name: 尚加语
     auto: true

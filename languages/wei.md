@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キウヌム語
     auto: true
+  - translation_iso: spa
+    name: Kiunum
+    auto: true
   - translation_iso: zho
     name: 基乌努姆语
     auto: true

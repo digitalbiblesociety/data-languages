@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クルン語
     auto: true
+  - translation_iso: spa
+    name: Kulung (Nepal)
+    auto: true
   - translation_iso: zho
     name: 库隆语
     auto: true

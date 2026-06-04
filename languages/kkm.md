@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キオン語
     auto: true
+  - translation_iso: spa
+    name: Kiong
+    auto: true
   - translation_iso: zho
     name: 基翁语
     auto: true

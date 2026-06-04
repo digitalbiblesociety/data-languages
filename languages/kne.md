@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カンカナエ語
     auto: true
+  - translation_iso: spa
+    name: Kankanaey
+    auto: true
   - translation_iso: zho
     name: 坎卡内语
     auto: true

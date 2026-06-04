@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: 西部タマン語
     auto: true
+  - translation_iso: spa
+    name: Tamang occidental
+    auto: true
   - translation_iso: zho
     name: 西達芒語
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビッリ語
     auto: true
+  - translation_iso: spa
+    name: Birri
+    auto: true
   - translation_iso: zho
     name: 比里语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ティナニ語
     auto: true
+  - translation_iso: spa
+    name: Tinani
+    auto: true
   - translation_iso: zho
     name: 提那語
 rolv_dialects:

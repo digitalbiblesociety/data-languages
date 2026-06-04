@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムクル語
     auto: true
+  - translation_iso: spa
+    name: Mukulu
+    auto: true
   - translation_iso: zho
     name: 穆库卢语
     auto: true

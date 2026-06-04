@@ -25,6 +25,9 @@ translations:
     name: ティンディ語
   - translation_iso: kor
     name: 틴디어
+  - translation_iso: spa
+    name: Tindi
+    auto: true
   - translation_iso: zho
     name: 廷地語
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チェナピアン語
     auto: true
+  - translation_iso: spa
+    name: Chenapian
+    auto: true
   - translation_iso: zho
     name: 切纳皮亚语
     auto: true

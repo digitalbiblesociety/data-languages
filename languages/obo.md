@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オボ・マノボ語
     auto: true
+  - translation_iso: spa
+    name: Obo Manobo
+    auto: true
   - translation_iso: zho
     name: 奥博马诺博语
     auto: true

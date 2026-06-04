@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セレ語
     auto: true
+  - translation_iso: spa
+    name: Sere
+    auto: true
   - translation_iso: zho
     name: 塞雷语
     auto: true

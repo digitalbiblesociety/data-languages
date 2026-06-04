@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゴシエ語
     auto: true
+  - translation_iso: spa
+    name: Ngoshie
+    auto: true
   - translation_iso: zho
     name: 恩戈什语
     auto: true

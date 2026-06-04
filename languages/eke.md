@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エキット語
     auto: true
+  - translation_iso: spa
+    name: Ekit
+    auto: true
   - translation_iso: zho
     name: 埃克特语
 ---

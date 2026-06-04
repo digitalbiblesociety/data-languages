@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボロロ語
     auto: true
+  - translation_iso: spa
+    name: Bororo
+    auto: true
   - translation_iso: zho
     name: 博罗罗语
     auto: true

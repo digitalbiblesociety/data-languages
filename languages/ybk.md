@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ボカ語
     auto: true
+  - translation_iso: spa
+    name: Bokha
+    auto: true
   - translation_iso: zho
     name: 博卡语
     auto: true

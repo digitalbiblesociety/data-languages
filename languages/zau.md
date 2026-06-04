@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ザングスカリ語
     auto: true
+  - translation_iso: spa
+    name: Zangskari
+    auto: true
   - translation_iso: zho
     name: 桑斯嘎语
 ---

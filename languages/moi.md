@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムボイ語
     auto: true
+  - translation_iso: spa
+    name: Mboi
+    auto: true
   - translation_iso: zho
     name: 姆博伊语
     auto: true

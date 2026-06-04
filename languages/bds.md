@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブルンゲ語
     auto: true
+  - translation_iso: spa
+    name: Burunge
+    auto: true
   - translation_iso: zho
     name: 布伦格语
     auto: true

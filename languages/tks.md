@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タケスタニ語
     auto: true
+  - translation_iso: spa
+    name: Takestani
+    auto: true
   - translation_iso: zho
     name: 塔克斯坦尼语
     auto: true

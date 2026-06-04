@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エデ・イダカ語
     auto: true
+  - translation_iso: spa
+    name: Ede Idaca
+    auto: true
   - translation_iso: zho
     name: 埃德伊达卡语
     auto: true

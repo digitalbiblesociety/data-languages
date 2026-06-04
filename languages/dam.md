@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダマカワ語
     auto: true
+  - translation_iso: spa
+    name: Damakawa
+    auto: true
   - translation_iso: zho
     name: 达玛卡瓦语
     auto: true

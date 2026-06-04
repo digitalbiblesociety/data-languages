@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: テネ・カン・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Tene Kan
+    auto: true
   - translation_iso: zho
     name: 特内坎多贡语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デウォイン語
     auto: true
+  - translation_iso: spa
+    name: Dewoin
+    auto: true
   - translation_iso: zho
     name: 代沃因语
 ---

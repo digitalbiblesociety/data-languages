@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムワン語
     auto: true
+  - translation_iso: spa
+    name: Mwan
+    auto: true
   - translation_iso: zho
     name: 姆万语
     auto: true

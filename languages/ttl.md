@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エチトテラ語
     auto: true
+  - translation_iso: spa
+    name: Totela
+    auto: true
   - translation_iso: zho
     name: 托泰拉语
     auto: true

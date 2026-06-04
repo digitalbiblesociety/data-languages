@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガルラリ語
     auto: true
+  - translation_iso: spa
+    name: Garlali
+    auto: true
   - translation_iso: zho
     name: 加尔拉利语
     auto: true

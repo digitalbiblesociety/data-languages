@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コボン語
+  - translation_iso: spa
+    name: Kobon
+    auto: true
   - translation_iso: zho
     name: 柯本語
 rolv_dialects:

@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: トゥウェンテ語
     auto: true
+  - translation_iso: spa
+    name: Twents
+    auto: true
   - translation_iso: zho
     name: 特文特方言
 ---

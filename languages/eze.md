@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウゼクウェ語
     auto: true
+  - translation_iso: spa
+    name: Uzekwe
+    auto: true
   - translation_iso: zho
     name: 乌泽夸语
     auto: true

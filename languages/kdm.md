@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カゴマ語
     auto: true
+  - translation_iso: spa
+    name: Kagoma
+    auto: true
   - translation_iso: zho
     name: 卡戈马语
     auto: true

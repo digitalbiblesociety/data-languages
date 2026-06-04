@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イタウィット語
     auto: true
+  - translation_iso: spa
+    name: Itawit
+    auto: true
   - translation_iso: zho
     name: 伊塔维特语
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: カオ語
     auto: true
+  - translation_iso: spa
+    name: Khao
+    auto: true
   - translation_iso: zho
     name: 卡奥语
     auto: true

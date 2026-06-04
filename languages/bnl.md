@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブーン語
     auto: true
+  - translation_iso: spa
+    name: Boon
+    auto: true
   - translation_iso: zho
     name: 布恩语
     auto: true

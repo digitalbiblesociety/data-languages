@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アマ語（スーダン）
     auto: true
+  - translation_iso: spa
+    name: Ama (Sudán)
+    auto: true
   - translation_iso: zho
     name: 阿玛语
     auto: true

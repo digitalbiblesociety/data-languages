@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バカイリ語
     auto: true
+  - translation_iso: spa
+    name: Bakairí
+    auto: true
   - translation_iso: zho
     name: 巴凯里语
     auto: true

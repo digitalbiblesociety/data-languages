@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダンガレアト語
     auto: true
+  - translation_iso: spa
+    name: Dangaléat
+    auto: true
   - translation_iso: zho
     name: 当加勒亚特语
     auto: true

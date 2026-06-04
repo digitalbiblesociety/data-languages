@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ツク語
     auto: true
+  - translation_iso: spa
+    name: Tseku
+    auto: true
   - translation_iso: zho
     name: 切库语
 ---

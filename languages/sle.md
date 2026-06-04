@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソリガ語
     auto: true
+  - translation_iso: spa
+    name: Sholaga
+    auto: true
   - translation_iso: zho
     name: 绍拉贾语
 rolv_dialects:

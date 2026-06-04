@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: リラウ語
     auto: true
+  - translation_iso: spa
+    name: Lilau
+    auto: true
   - translation_iso: zho
     name: 利劳语
     auto: true

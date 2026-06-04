@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パナスアン語
     auto: true
+  - translation_iso: spa
+    name: Panasuan
+    auto: true
   - translation_iso: zho
     name: 潘苏安语
     auto: true

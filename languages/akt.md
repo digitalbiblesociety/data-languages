@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アコレット語
     auto: true
+  - translation_iso: spa
+    name: Akolet
+    auto: true
   - translation_iso: zho
     name: 阿科莱特语
     auto: true

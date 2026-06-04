@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シアネ語
+  - translation_iso: spa
+    name: Siane
+    auto: true
   - translation_iso: zho
     name: 西亚内语
     auto: true

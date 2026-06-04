@@ -25,6 +25,9 @@ translations:
     name: コリマ・ユカギール語
   - translation_iso: kor
     name: 콜리마 유카기르어
+  - translation_iso: spa
+    name: Yukaghir meridional
+    auto: true
   - translation_iso: zho
     name: 科雷马尤卡吉尔语
 ---

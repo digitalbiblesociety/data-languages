@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南アイマラ語
+  - translation_iso: spa
+    name: Aimara Sureño
+    auto: true
   - translation_iso: zho
     name: 南艾马拉语
     auto: true

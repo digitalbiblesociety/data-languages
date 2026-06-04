@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロンウォー語
+  - translation_iso: spa
+    name: Maru
+    auto: true
   - translation_iso: zho
     name: 浪速语
 rolv_dialects:

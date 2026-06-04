@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エンワン語
     auto: true
+  - translation_iso: spa
+    name: Enwan (Estado de Akwa Ibom)
+    auto: true
   - translation_iso: zho
     name: 恩万语（阿夸伊博姆州）
     auto: true

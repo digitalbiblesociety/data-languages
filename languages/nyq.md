@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナーイーン語
+  - translation_iso: spa
+    name: Nayini
+    auto: true
   - translation_iso: zho
     name: 纳伊尼语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カヌフィ語
     auto: true
+  - translation_iso: spa
+    name: Kanufi
+    auto: true
   - translation_iso: zho
     name: 卡努菲语
     auto: true

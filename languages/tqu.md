@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムバニアタ語
+  - translation_iso: spa
+    name: Touo
+    auto: true
   - translation_iso: zho
     name: 多沃语
 ---

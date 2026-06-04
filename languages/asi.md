@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブルウァイ語
     auto: true
+  - translation_iso: spa
+    name: Buruwai
+    auto: true
   - translation_iso: zho
     name: 布鲁瓦伊语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドルゼ語
     auto: true
+  - translation_iso: spa
+    name: Dorze
+    auto: true
   - translation_iso: zho
     name: 多尔泽语
     auto: true

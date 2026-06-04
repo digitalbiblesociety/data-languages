@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クヌア語
+  - translation_iso: spa
+    name: Rapoisi
+    auto: true
   - translation_iso: zho
     name: 拉波伊西语
     auto: true

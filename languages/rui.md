@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ルフィジ語
     auto: true
+  - translation_iso: spa
+    name: Rufiji
+    auto: true
   - translation_iso: zho
     name: 鲁菲吉语
     auto: true

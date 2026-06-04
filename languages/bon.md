@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バイン語
     auto: true
+  - translation_iso: spa
+    name: Bine
+    auto: true
   - translation_iso: zho
     name: 比内语
     auto: true

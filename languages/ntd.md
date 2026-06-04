@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北ティドゥン語
     auto: true
+  - translation_iso: spa
+    name: Tidung Septentrional
+    auto: true
   - translation_iso: zho
     name: 塞萨雅普缇洞语
 ---

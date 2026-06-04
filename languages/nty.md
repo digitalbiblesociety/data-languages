@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マントシ語
     auto: true
+  - translation_iso: spa
+    name: Mantsi
+    auto: true
   - translation_iso: zho
     name: 模耆语
 ---

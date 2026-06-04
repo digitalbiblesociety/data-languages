@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ギリマ語
     auto: true
+  - translation_iso: spa
+    name: Gilima
+    auto: true
   - translation_iso: zho
     name: 吉利玛语
     auto: true

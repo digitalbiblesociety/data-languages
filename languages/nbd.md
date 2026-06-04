@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングビンダ語
     auto: true
+  - translation_iso: spa
+    name: Ngbinda
+    auto: true
   - translation_iso: zho
     name: 恩古宾达语
     auto: true

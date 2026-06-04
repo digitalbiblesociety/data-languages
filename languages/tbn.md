@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バロネグロ・トゥネボ語
     auto: true
+  - translation_iso: spa
+    name: Tunebo de Barro Negro
+    auto: true
   - translation_iso: zho
     name: 巴罗内格罗图内博语
     auto: true

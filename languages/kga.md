@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コヤガ語
     auto: true
+  - translation_iso: spa
+    name: Koyaga
+    auto: true
   - translation_iso: zho
     name: 科亚加语
     auto: true

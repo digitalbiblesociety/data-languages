@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 峡湾部・コソレアカケ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl del Istmo-Cosoleacaque
+    auto: true
   - translation_iso: zho
     name: 地峡纳瓦特尔语
     auto: true

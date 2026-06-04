@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: コファ語
     auto: true
+  - translation_iso: spa
+    name: Kofa
+    auto: true
   - translation_iso: zho
     name: 科法语
     auto: true

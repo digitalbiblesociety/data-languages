@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: パワイア語
     auto: true
+  - translation_iso: spa
+    name: Pawaia
+    auto: true
   - translation_iso: zho
     name: 帕瓦亚语
     auto: true

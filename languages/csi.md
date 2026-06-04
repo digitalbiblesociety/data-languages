@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コースト・ミウォク語
     auto: true
+  - translation_iso: spa
+    name: Miwok Costero
+    auto: true
   - translation_iso: zho
     name: 海岸米沃克語
 rolv_dialects:

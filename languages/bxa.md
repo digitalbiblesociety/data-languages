@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウロ語
+  - translation_iso: spa
+    name: Tairaha
+    auto: true
   - translation_iso: zho
     name: 泰拉哈语
     auto: true

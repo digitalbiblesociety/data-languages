@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バグサ語
     auto: true
+  - translation_iso: spa
+    name: Bagusa
+    auto: true
   - translation_iso: zho
     name: 巴古萨语
     auto: true

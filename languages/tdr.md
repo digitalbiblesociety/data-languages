@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トドラ語
     auto: true
+  - translation_iso: spa
+    name: Todrah
+    auto: true
   - translation_iso: zho
     name: 祖查语
 ---

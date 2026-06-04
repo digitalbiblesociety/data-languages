@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レプキ語
     auto: true
+  - translation_iso: spa
+    name: Lepki
+    auto: true
   - translation_iso: zho
     name: 勒普基语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中南ディンカ語
+  - translation_iso: spa
+    name: Dinka centro-meridional
+    auto: true
   - translation_iso: zho
     name: 南中丁卡语
     auto: true

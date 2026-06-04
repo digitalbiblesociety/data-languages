@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥスン・デヤ語
     auto: true
+  - translation_iso: spa
+    name: Dusun Deyah
+    auto: true
   - translation_iso: zho
     name: 杜顺德亚语
     auto: true

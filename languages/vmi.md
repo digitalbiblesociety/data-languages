@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ミワ語
     auto: true
+  - translation_iso: spa
+    name: Miwa
+    auto: true
   - translation_iso: zho
     name: 米瓦语
     auto: true

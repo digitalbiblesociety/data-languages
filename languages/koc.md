@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クパティ語
+  - translation_iso: spa
+    name: Kpati
+    auto: true
   - translation_iso: zho
     name: 克帕蒂语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レド・カイリ語
     auto: true
+  - translation_iso: spa
+    name: Kaili Ledo
+    auto: true
   - translation_iso: zho
     name: 莱多凯利语
     auto: true

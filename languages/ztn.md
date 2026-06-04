@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サンタ・カタリナ・アルバラダス・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Santa Catarina Albarradas
+    auto: true
   - translation_iso: zho
     name: 圣卡特琳娜阿尔瓦拉达斯萨波特克语
     auto: true

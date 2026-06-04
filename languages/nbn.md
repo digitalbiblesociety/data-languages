@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クリ語
     auto: true
+  - translation_iso: spa
+    name: Kuri
+    auto: true
   - translation_iso: zho
     name: 库里语
     auto: true

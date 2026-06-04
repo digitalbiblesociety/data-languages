@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ジュムジュム語
     auto: true
+  - translation_iso: spa
+    name: Jumjum
+    auto: true
   - translation_iso: zho
     name: 朱姆朱姆语
     auto: true

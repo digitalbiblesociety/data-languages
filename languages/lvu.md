@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レブカ語
     auto: true
+  - translation_iso: spa
+    name: Levuka
+    auto: true
   - translation_iso: zho
     name: 勒武卡语
     auto: true

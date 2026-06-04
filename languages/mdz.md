@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スルイ・ド・パラ語
     auto: true
+  - translation_iso: spa
+    name: Suruí del Pará
+    auto: true
   - translation_iso: zho
     name: 苏鲁伊－帕拉语
     auto: true

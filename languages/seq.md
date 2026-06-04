@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シェナラ・セヌフォ語
+  - translation_iso: spa
+    name: Senoufo Senara
+    auto: true
   - translation_iso: zho
     name: 塞纳拉塞努福语
     auto: true

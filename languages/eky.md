@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 東カヤー語
     auto: true
+  - translation_iso: spa
+    name: Kayah Oriental
+    auto: true
   - translation_iso: zho
     name: 东凯伦语
     auto: true

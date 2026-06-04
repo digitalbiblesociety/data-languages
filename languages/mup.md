@@ -22,6 +22,9 @@ translations:
     name: मालवी
   - translation_iso: jpn
     name: マールヴィー語
+  - translation_iso: spa
+    name: Malvi
+    auto: true
   - translation_iso: zho
     name: 摩腊婆語
 rolv_dialects:

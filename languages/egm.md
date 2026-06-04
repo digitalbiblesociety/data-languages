@@ -15,6 +15,9 @@ translations:
   - translation_iso: jpn
     name: ベナマンガ語
     auto: true
+  - translation_iso: spa
+    name: Benamanga
+    auto: true
   - translation_iso: zho
     name: 贝纳曼加语
     auto: true

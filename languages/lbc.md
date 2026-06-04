@@ -25,6 +25,9 @@ translations:
     name: ラギャ語
   - translation_iso: kor
     name: 락갸어
+  - translation_iso: spa
+    name: Lakkia
+    auto: true
   - translation_iso: zho
     name: 拉珈语
 ---

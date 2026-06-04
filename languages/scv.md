@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シェニ語
     auto: true
+  - translation_iso: spa
+    name: Sheni
+    auto: true
   - translation_iso: zho
     name: 舍尼语
     auto: true

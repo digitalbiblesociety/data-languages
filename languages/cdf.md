@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チル語
     auto: true
+  - translation_iso: spa
+    name: Chiru
+    auto: true
   - translation_iso: zho
     name: 奇鲁语
 ---

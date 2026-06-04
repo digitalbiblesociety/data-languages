@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東部カナダ・イヌクティトゥット語
+  - translation_iso: spa
+    name: Inuktitut canadiense oriental
+    auto: true
   - translation_iso: zho
     name: 东加拿大因纽克提图特语
     auto: true

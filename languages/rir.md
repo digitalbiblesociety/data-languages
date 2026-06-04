@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リブン語
     auto: true
+  - translation_iso: spa
+    name: Ribun
+    auto: true
   - translation_iso: zho
     name: 里本语
     auto: true

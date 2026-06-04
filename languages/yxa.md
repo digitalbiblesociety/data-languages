@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: マヤワリ語
     auto: true
+  - translation_iso: spa
+    name: Mayawali
+    auto: true
   - translation_iso: zho
     name: 玛亚瓦利语
     auto: true

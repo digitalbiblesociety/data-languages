@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロケレ語
+  - translation_iso: spa
+    name: Kele (República Democrática del Congo)
+    auto: true
   - translation_iso: zho
     name: 凯勒语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブキシア語
     auto: true
+  - translation_iso: spa
+    name: Sangkong
+    auto: true
   - translation_iso: zho
     name: 桑孔语
 ---

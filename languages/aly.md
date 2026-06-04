@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アリャワール語
     auto: true
+  - translation_iso: spa
+    name: Alyawarr
+    auto: true
   - translation_iso: zho
     name: 阿利亚瓦尔语
     auto: true

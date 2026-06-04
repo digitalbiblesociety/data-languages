@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: プトー語
     auto: true
+  - translation_iso: spa
+    name: Putoh
+    auto: true
   - translation_iso: zho
     name: 普托语
     auto: true

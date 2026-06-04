@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 西部アレント語
     auto: true
+  - translation_iso: spa
+    name: Arrarnta occidental
+    auto: true
   - translation_iso: zho
     name: 西阿瑞伦特语
     auto: true

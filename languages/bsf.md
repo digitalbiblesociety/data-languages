@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バウチ語
     auto: true
+  - translation_iso: spa
+    name: Bauchi
+    auto: true
   - translation_iso: zho
     name: 包奇语
     auto: true

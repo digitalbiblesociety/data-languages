@@ -20,6 +20,9 @@ translations:
     name: मार्डिन सांकेतिक भाषा
   - translation_iso: jpn
     name: マルディン手話
+  - translation_iso: spa
+    name: Lengua de señas de Mardin
+    auto: true
   - translation_iso: zho
     name: 马尔丁手语
     auto: true

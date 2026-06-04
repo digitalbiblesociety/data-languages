@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マスコイ語
+  - translation_iso: spa
+    name: Toba-Maskoy
+    auto: true
   - translation_iso: zho
     name: 托巴-玛斯科伊语
     auto: true

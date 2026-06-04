@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: エル・フゲイラット語
     auto: true
+  - translation_iso: spa
+    name: El Hugeirat
+    auto: true
   - translation_iso: zho
     name: 埃尔胡吉拉特语
     auto: true

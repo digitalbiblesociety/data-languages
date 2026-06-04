@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤンダ・ドム・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Yanda Dom
+    auto: true
   - translation_iso: zho
     name: 扬达多姆多贡语
     auto: true

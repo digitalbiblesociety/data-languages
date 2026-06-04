@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クロンゴ語
+  - translation_iso: spa
+    name: Krongo
+    auto: true
   - translation_iso: zho
     name: 克隆戈語
 rolv_dialects:

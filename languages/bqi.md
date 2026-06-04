@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バフティヤーリー語
+  - translation_iso: spa
+    name: Bakhtiari
+    auto: true
   - translation_iso: zho
     name: 巴赫蒂亚语
 rolv_dialects:

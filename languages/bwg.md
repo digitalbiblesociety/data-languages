@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルウェ語
+  - translation_iso: spa
+    name: Barwe
+    auto: true
   - translation_iso: zho
     name: 巴韦语
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ブビア語
     auto: true
+  - translation_iso: spa
+    name: Bubia
+    auto: true
   - translation_iso: zho
     name: 布比亚语
     auto: true

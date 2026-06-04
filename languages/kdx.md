@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニングォム語
+  - translation_iso: spa
+    name: Kam
+    auto: true
   - translation_iso: zho
     name: 宁沃姆语
 ---

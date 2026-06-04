@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パナラ語
+  - translation_iso: spa
+    name: Panará
+    auto: true
   - translation_iso: zho
     name: 帕纳拉语
     auto: true

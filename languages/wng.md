@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワンゴム語
     auto: true
+  - translation_iso: spa
+    name: Wanggom
+    auto: true
   - translation_iso: zho
     name: 万戈姆语
     auto: true

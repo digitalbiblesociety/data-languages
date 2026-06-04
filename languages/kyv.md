@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: カヨルット語
     auto: true
+  - translation_iso: spa
+    name: Kayort
+    auto: true
   - translation_iso: zho
     name: 卡约尔特语
     auto: true

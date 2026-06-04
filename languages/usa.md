@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウサルファ語
+  - translation_iso: spa
+    name: Usarufa
+    auto: true
   - translation_iso: zho
     name: 乌萨鲁法语
     auto: true

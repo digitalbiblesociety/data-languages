@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チンゴニ語
     auto: true
+  - translation_iso: spa
+    name: Chingoni
+    auto: true
   - translation_iso: zho
     name: 钦贡尼语
     auto: true

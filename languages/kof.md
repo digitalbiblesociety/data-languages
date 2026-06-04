@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クビ語
+  - translation_iso: spa
+    name: Kubi
+    auto: true
   - translation_iso: zho
     name: 库比语
     auto: true

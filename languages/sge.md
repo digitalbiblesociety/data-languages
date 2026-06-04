@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プナン・ケライ語
     auto: true
+  - translation_iso: spa
+    name: Segai
+    auto: true
   - translation_iso: zho
     name: 塞盖语
     auto: true

@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ラニマ語
     auto: true
+  - translation_iso: spa
+    name: Lanima
+    auto: true
   - translation_iso: zho
     name: 拉尼马语
     auto: true

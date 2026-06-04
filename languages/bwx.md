@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プヌ語
+  - translation_iso: spa
+    name: Bunu Bu-Nao
+    auto: true
   - translation_iso: zho
     name: 布努语
 rolv_dialects:

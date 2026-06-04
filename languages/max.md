@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北モルッカ・マレー語
+  - translation_iso: spa
+    name: Malayo del norte de las Molucas
+    auto: true
   - translation_iso: zho
     name: 特尔纳特马来语
 ---

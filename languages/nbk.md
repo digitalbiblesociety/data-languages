@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナケ語
     auto: true
+  - translation_iso: spa
+    name: Nake
+    auto: true
   - translation_iso: zho
     name: 纳克语
     auto: true

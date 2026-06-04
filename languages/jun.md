@@ -24,6 +24,9 @@ translations:
     name: ジュアング語
   - translation_iso: kor
     name: 주앙
+  - translation_iso: spa
+    name: Juang
+    auto: true
   - translation_iso: zho
     name: 朱昂
 rolv_dialects:

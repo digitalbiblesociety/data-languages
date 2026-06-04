@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ゼナグ語
     auto: true
+  - translation_iso: spa
+    name: Zenag
+    auto: true
   - translation_iso: zho
     name: 泽纳格语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヨケ語
     auto: true
+  - translation_iso: spa
+    name: Yoke
+    auto: true
   - translation_iso: zho
     name: 约克语
     auto: true

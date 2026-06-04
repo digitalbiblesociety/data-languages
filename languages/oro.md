@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オロコロ語
     auto: true
+  - translation_iso: spa
+    name: Orokolo
+    auto: true
   - translation_iso: zho
     name: 奥罗科洛语
     auto: true

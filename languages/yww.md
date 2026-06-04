@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤワラワーガ語
+  - translation_iso: spa
+    name: Yawarawarga
+    auto: true
   - translation_iso: zho
     name: 亚瓦拉瓦尔加语
     auto: true

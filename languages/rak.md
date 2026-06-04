@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥルボフアイ語
     auto: true
+  - translation_iso: spa
+    name: Tulu-Bohuai
+    auto: true
   - translation_iso: zho
     name: 图卢-博怀语
     auto: true

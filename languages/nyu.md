@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニュングウェ語
+  - translation_iso: spa
+    name: Nyungwe
+    auto: true
   - translation_iso: zho
     name: 尼温圭语
 rolv_dialects:

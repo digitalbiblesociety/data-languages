@@ -22,6 +22,9 @@ translations:
     name: कुलुई
   - translation_iso: jpn
     name: クッルー・パハリー語
+  - translation_iso: spa
+    name: Pahari de Kullu
+    auto: true
   - translation_iso: zho
     name: 库卢·帕哈里语
     auto: true

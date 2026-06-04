@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガラワリ語
     auto: true
+  - translation_iso: spa
+    name: Karuwali
+    auto: true
   - translation_iso: zho
     name: 卡鲁瓦利语
     auto: true

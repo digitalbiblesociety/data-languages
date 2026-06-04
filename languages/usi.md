@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トリプラ語
     auto: true
+  - translation_iso: spa
+    name: Usui
+    auto: true
   - translation_iso: zho
     name: 乌苏伊语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティコピア語
+  - translation_iso: spa
+    name: Tikopia
+    auto: true
   - translation_iso: zho
     name: 蒂科皮亚语
 ---

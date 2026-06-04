@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アラバット島アグタ語
     auto: true
+  - translation_iso: spa
+    name: Agta de la isla Alabat
+    auto: true
   - translation_iso: zho
     name: 阿拉巴特岛阿格塔语
     auto: true

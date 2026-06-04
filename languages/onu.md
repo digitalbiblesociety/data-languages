@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウヌア語
     auto: true
+  - translation_iso: spa
+    name: Unua
+    auto: true
   - translation_iso: zho
     name: 乌努阿语
     auto: true

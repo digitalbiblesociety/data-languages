@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワスキア語
     auto: true
+  - translation_iso: spa
+    name: Waskia
+    auto: true
   - translation_iso: zho
     name: 瓦斯基亚语
     auto: true

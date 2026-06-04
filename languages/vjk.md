@@ -16,6 +16,9 @@ translations:
     name: バッジカ語
   - translation_iso: kor
     name: 바지카어
+  - translation_iso: spa
+    name: Bajjika
+    auto: true
   - translation_iso: zho
     name: 巴吉卡语
 ---

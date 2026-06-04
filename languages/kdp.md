@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カニングドン・ニンデム語
     auto: true
+  - translation_iso: spa
+    name: Kaningdon-Nindem
+    auto: true
   - translation_iso: zho
     name: 卡宁东-宁德姆语
     auto: true

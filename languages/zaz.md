@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ザリ語
     auto: true
+  - translation_iso: spa
+    name: Zari
+    auto: true
   - translation_iso: zho
     name: 扎里语
     auto: true

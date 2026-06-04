@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クリナ・パノ語
     auto: true
+  - translation_iso: spa
+    name: Kulina Pano
+    auto: true
   - translation_iso: zho
     name: 库利纳帕诺语
     auto: true

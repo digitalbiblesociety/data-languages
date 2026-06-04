@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: セウセ語
     auto: true
+  - translation_iso: spa
+    name: Sause
+    auto: true
   - translation_iso: zho
     name: 萨乌塞语
     auto: true

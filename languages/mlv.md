@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モトラヴ語
     auto: true
+  - translation_iso: spa
+    name: Motlav
+    auto: true
   - translation_iso: zho
     name: 莫特拉夫语
     auto: true

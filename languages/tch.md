@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タークス・カイコス・クレオール英語
     auto: true
+  - translation_iso: spa
+    name: Criollo inglés de Turks y Caicos
+    auto: true
   - translation_iso: zho
     name: 特克斯和凯科斯克里奥尔英语
     auto: true

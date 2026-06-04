@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イリガ・ビコール語
+  - translation_iso: spa
+    name: Bikol Rinconada
+    auto: true
   - translation_iso: zho
     name: 林科納達語
 ---

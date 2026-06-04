@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キレ語
     auto: true
+  - translation_iso: spa
+    name: Kire
+    auto: true
   - translation_iso: zho
     name: 基雷语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マリア語
     auto: true
+  - translation_iso: spa
+    name: Maria (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 玛丽亚语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イースタン・クラーン語
     auto: true
+  - translation_iso: spa
+    name: Krahn Oriental
+    auto: true
   - translation_iso: zho
     name: 东克兰语
     auto: true

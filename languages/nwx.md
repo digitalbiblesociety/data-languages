@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: 中部ネワール語
     auto: true
+  - translation_iso: spa
+    name: Newar Medio
+    auto: true
   - translation_iso: zho
     name: 中部新瓦尔语
     auto: true

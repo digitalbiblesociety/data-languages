@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナラク語
+  - translation_iso: spa
+    name: Narak
+    auto: true
   - translation_iso: zho
     name: 纳拉克语
     auto: true

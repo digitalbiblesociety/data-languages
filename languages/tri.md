@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タレーノ・イヨミ語
     auto: true
+  - translation_iso: spa
+    name: Tiriyó
+    auto: true
   - translation_iso: zho
     name: 特里奥语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マルバ語
     auto: true
+  - translation_iso: spa
+    name: Marba
+    auto: true
   - translation_iso: zho
     name: 玛尔巴语
     auto: true

@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケヌズ語
+  - translation_iso: spa
+    name: Kenzi
+    auto: true
   - translation_iso: zho
     name: 肯齐语
     auto: true

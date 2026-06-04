@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テケ・テゲ語
     auto: true
+  - translation_iso: spa
+    name: Teke-Tege
+    auto: true
   - translation_iso: zho
     name: 北部特克語
 ---

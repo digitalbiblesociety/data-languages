@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クアパー語
     auto: true
+  - translation_iso: spa
+    name: Quapaw
+    auto: true
   - translation_iso: zho
     name: 夸帕语
     auto: true

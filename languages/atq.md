@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アラレタブラハン語
     auto: true
+  - translation_iso: spa
+    name: Aralle-Tabulahan
+    auto: true
   - translation_iso: zho
     name: 阿拉莱-塔布拉汉语
     auto: true

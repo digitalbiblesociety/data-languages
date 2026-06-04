@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥウェデ語
     auto: true
+  - translation_iso: spa
+    name: Dghwede
+    auto: true
   - translation_iso: zho
     name: 德格韦德语
     auto: true

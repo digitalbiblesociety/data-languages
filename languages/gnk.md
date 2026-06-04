@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガーナ語
+  - translation_iso: spa
+    name: ǁGana
+    auto: true
   - translation_iso: zho
     name: "!加纳语"
     auto: true

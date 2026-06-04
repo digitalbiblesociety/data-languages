@@ -21,6 +21,9 @@ translations:
     name: हन्दुरी भाषा
   - translation_iso: jpn
     name: ヒンドゥリ語
+  - translation_iso: spa
+    name: Hinduri
+    auto: true
   - translation_iso: zho
     name: 欣杜里语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベナ語（ナイジェリア）
     auto: true
+  - translation_iso: spa
+    name: Bena (Nigeria)
+    auto: true
   - translation_iso: zho
     name: 贝纳语(尼日利亚)
     auto: true

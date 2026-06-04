@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボ・ルクル語
     auto: true
+  - translation_iso: spa
+    name: Bo-Rukul
+    auto: true
   - translation_iso: zho
     name: 博-鲁库尔语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南西パラワーノ語
     auto: true
+  - translation_iso: spa
+    name: Palawano suroccidental
+    auto: true
   - translation_iso: zho
     name: 西南帕劳瓦诺语
     auto: true

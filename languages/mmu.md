@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ンマアラ語
     auto: true
+  - translation_iso: spa
+    name: Mmaala
+    auto: true
   - translation_iso: zho
     name: 玛阿拉语
     auto: true

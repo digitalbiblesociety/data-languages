@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マイラシ語
     auto: true
+  - translation_iso: spa
+    name: Mairasi
+    auto: true
   - translation_iso: zho
     name: 迈拉西语
     auto: true

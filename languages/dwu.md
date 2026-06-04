@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ドゥワル語
     auto: true
+  - translation_iso: spa
+    name: Dhuwal
+    auto: true
   - translation_iso: zho
     name: 杜瓦尔语
     auto: true

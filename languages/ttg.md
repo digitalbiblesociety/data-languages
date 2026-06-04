@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥトン語
     auto: true
+  - translation_iso: spa
+    name: Tutong
+    auto: true
   - translation_iso: zho
     name: 图通语
     auto: true

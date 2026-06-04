@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クムハリ語
     auto: true
+  - translation_iso: spa
+    name: Kumhali
+    auto: true
   - translation_iso: zho
     name: 库姆哈利语
     auto: true

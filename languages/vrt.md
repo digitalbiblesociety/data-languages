@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バルムバル語
     auto: true
+  - translation_iso: spa
+    name: Burmbar
+    auto: true
   - translation_iso: zho
     name: 布姆巴尔语
     auto: true

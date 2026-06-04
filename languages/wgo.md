@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワイゲオ語
+  - translation_iso: spa
+    name: Waigeo
+    auto: true
   - translation_iso: zho
     name: 卫吉语
 rolv_dialects:

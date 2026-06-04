@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カレ語
     auto: true
+  - translation_iso: spa
+    name: Kare (República Centroafricana)
+    auto: true
   - translation_iso: zho
     name: 卡雷语（中非共和国）
     auto: true

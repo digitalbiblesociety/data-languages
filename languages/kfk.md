@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: キンナウリ語
     auto: true
+  - translation_iso: spa
+    name: Kinnauri
+    auto: true
   - translation_iso: zho
     name: 金瑙里语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イェサーサハ語
     auto: true
+  - translation_iso: spa
+    name: Tutelo
+    auto: true
   - translation_iso: zho
     name: 圖特盧語
 ---

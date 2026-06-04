@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・フクスラウアカ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Juxtlahuaca
+    auto: true
   - translation_iso: zho
     name: 胡克斯特拉瓦卡混特克语
     auto: true

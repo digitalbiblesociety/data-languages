@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 쿠아어
+  - translation_iso: spa
+    name: Cua
+    auto: true
   - translation_iso: zho
     name: 戈语 (南亚语系)
 rolv_dialects:

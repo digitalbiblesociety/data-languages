@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バコレ語
     auto: true
+  - translation_iso: spa
+    name: Bakole
+    auto: true
   - translation_iso: zho
     name: 巴科勒语
     auto: true

@@ -23,6 +23,9 @@ translations:
     name: कुमाऊँनी
   - translation_iso: jpn
     name: クマーオニー語
+  - translation_iso: spa
+    name: Kumaoni
+    auto: true
   - translation_iso: zho
     name: 古毛恩语
 rolv_dialects:

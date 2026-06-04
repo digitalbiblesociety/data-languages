@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: イジー語
     auto: true
+  - translation_iso: spa
+    name: Izii
+    auto: true
   - translation_iso: zho
     name: 伊兹伊语
     auto: true

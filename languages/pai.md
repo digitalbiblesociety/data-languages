@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピ語
+  - translation_iso: spa
+    name: Pe
+    auto: true
   - translation_iso: zho
     name: 佩语
     auto: true

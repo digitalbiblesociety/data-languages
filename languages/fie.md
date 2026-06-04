@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フィエル語
     auto: true
+  - translation_iso: spa
+    name: Fyer
+    auto: true
   - translation_iso: zho
     name: 费耶尔语
     auto: true

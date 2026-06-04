@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イソコ語
+  - translation_iso: spa
+    name: Isoko
+    auto: true
   - translation_iso: zho
     name: 伊索科语
     auto: true

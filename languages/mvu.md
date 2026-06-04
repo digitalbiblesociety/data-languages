@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マルファ語
     auto: true
+  - translation_iso: spa
+    name: Marfa
+    auto: true
   - translation_iso: zho
     name: 玛尔法语
     auto: true

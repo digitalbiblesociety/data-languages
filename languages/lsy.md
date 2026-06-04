@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モーリシャス手話
+  - translation_iso: spa
+    name: Lengua de señas de Mauricio
+    auto: true
   - translation_iso: zho
     name: 毛里求斯手语
     auto: true

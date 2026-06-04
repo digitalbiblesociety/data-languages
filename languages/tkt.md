@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: カトリア・タル語
     auto: true
+  - translation_iso: spa
+    name: Tharu Kathoriya
+    auto: true
   - translation_iso: zho
     name: 卡瑟里亚塔鲁语
     auto: true

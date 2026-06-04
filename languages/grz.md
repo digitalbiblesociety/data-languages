@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: グラマルム語
     auto: true
+  - translation_iso: spa
+    name: Guramalum
+    auto: true
   - translation_iso: zho
     name: 古拉马卢姆语
     auto: true

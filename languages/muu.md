@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤアク語
     auto: true
+  - translation_iso: spa
+    name: Yaaku
+    auto: true
   - translation_iso: zho
     name: 亚库语
     auto: true

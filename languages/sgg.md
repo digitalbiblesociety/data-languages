@@ -22,6 +22,9 @@ translations:
     name: स्विस-जर्मन सांकेतिक भाषा
   - translation_iso: jpn
     name: スイス・ドイツ手話
+  - translation_iso: spa
+    name: Lengua de Señas Alemana Suiza
+    auto: true
   - translation_iso: zho
     name: 瑞士德语手语
 ---

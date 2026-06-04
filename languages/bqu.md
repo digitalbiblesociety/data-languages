@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボグル語
     auto: true
+  - translation_iso: spa
+    name: Boguru
+    auto: true
   - translation_iso: zho
     name: 博古鲁语
     auto: true

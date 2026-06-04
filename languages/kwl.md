@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コフヤル語
     auto: true
+  - translation_iso: spa
+    name: Kofyar
+    auto: true
   - translation_iso: zho
     name: 科菲亚尔语
     auto: true

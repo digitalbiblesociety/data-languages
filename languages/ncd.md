@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナチェリング語
     auto: true
+  - translation_iso: spa
+    name: Nachering
+    auto: true
   - translation_iso: zho
     name: 纳切林语
     auto: true

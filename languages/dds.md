@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドンノ・ソ・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Donno So
+    auto: true
   - translation_iso: zho
     name: 多诺索多贡语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムスクム語
+  - translation_iso: spa
+    name: Muskum
+    auto: true
   - translation_iso: zho
     name: 穆斯库姆语
     auto: true

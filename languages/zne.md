@@ -25,6 +25,9 @@ translations:
     name: ザンデ語
   - translation_iso: kor
     name: 잔데어
+  - translation_iso: spa
+    name: Zande
+    auto: true
   - translation_iso: zho
     name: 贊德語
 rolv_dialects:

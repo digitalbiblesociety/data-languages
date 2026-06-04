@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディボレ語
     auto: true
+  - translation_iso: spa
+    name: Dibole
+    auto: true
   - translation_iso: zho
     name: 迪博莱语
     auto: true

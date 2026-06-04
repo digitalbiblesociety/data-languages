@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウバンゴ語
     auto: true
+  - translation_iso: spa
+    name: Ubang
+    auto: true
   - translation_iso: zho
     name: 乌邦语
     auto: true

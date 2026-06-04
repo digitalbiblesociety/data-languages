@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カヨン語
     auto: true
+  - translation_iso: spa
+    name: Kayong
+    auto: true
   - translation_iso: zho
     name: 歌庸语
 rolv_dialects:

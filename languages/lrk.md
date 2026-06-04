@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ロアルキ語
     auto: true
+  - translation_iso: spa
+    name: Loarki
+    auto: true
   - translation_iso: zho
     name: 洛阿尔基语
     auto: true

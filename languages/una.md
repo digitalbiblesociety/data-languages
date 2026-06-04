@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: オナンク語
     auto: true
+  - translation_iso: spa
+    name: Watut del Norte
+    auto: true
   - translation_iso: zho
     name: 北瓦图特语
     auto: true

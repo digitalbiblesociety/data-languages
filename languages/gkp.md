@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギニア・クペレ語
+  - translation_iso: spa
+    name: Kpelle de Guinea
+    auto: true
   - translation_iso: zho
     name: 几内亚克佩莱语
     auto: true

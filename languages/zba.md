@@ -19,6 +19,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 발레이벨렌
+  - translation_iso: spa
+    name: Balaibalan
+    auto: true
   - translation_iso: zho
     name: 巴莱巴兰语
     auto: true

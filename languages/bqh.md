@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 白馬語
+  - translation_iso: spa
+    name: Baima
+    auto: true
   - translation_iso: zho
     name: 白马语
 rolv_dialects:

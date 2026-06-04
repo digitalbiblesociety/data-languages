@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タヴェアク語
     auto: true
+  - translation_iso: spa
+    name: Ambrym suroriental
+    auto: true
   - translation_iso: zho
     name: 东安布里姆语
     auto: true

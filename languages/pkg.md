@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パクトン語
     auto: true
+  - translation_iso: spa
+    name: Pak-Tong
+    auto: true
   - translation_iso: zho
     name: 帕克-通语
     auto: true

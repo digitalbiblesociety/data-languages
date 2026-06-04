@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西アルバイ・ビコール語
+  - translation_iso: spa
+    name: Bikol del oeste de Albay
+    auto: true
   - translation_iso: zho
     name: 西阿尔拜比科尔语
     auto: true

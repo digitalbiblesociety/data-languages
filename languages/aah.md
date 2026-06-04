@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アブ・アラペシュ語
     auto: true
+  - translation_iso: spa
+    name: "Abu' Arapesh"
+    auto: true
   - translation_iso: zho
     name: 阿布阿拉佩什语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パイナマル語
     auto: true
+  - translation_iso: spa
+    name: Paynamar
+    auto: true
   - translation_iso: zho
     name: 马纳特语
 ---

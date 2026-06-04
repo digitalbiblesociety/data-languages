@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ミナング語
     auto: true
+  - translation_iso: spa
+    name: Minang
+    auto: true
   - translation_iso: zho
     name: 米南语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キェネレ語
     auto: true
+  - translation_iso: spa
+    name: Kyenele
+    auto: true
   - translation_iso: zho
     name: 克耶内勒语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラー・ラー・ブワム語
     auto: true
+  - translation_iso: spa
+    name: Láá Láá Bwamu
+    auto: true
   - translation_iso: zho
     name: 拉拉布瓦木语
     auto: true

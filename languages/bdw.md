@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バハム語
     auto: true
+  - translation_iso: spa
+    name: Baham
+    auto: true
   - translation_iso: zho
     name: 巴哈姆语
     auto: true

@@ -23,6 +23,9 @@ translations:
     name: हड़ौती भाषा
   - translation_iso: jpn
     name: ハーラウト方言
+  - translation_iso: spa
+    name: Hadothi
+    auto: true
   - translation_iso: zho
     name: 哈多蒂语
 rolv_dialects:

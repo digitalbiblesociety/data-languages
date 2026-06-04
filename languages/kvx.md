@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パルカリ・コリ語
     auto: true
+  - translation_iso: spa
+    name: Koli Parkari
+    auto: true
   - translation_iso: zho
     name: 帕尔卡里科利语
     auto: true

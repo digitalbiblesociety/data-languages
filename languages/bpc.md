@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ムブク語
     auto: true
+  - translation_iso: spa
+    name: Mbuk
+    auto: true
   - translation_iso: zho
     name: 姆布克语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビソリオ語
     auto: true
+  - translation_iso: spa
+    name: Bisorio
+    auto: true
   - translation_iso: zho
     name: 比索里奥语
     auto: true

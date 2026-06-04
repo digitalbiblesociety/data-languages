@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥチナウア語
     auto: true
+  - translation_iso: spa
+    name: Tuxináwa
+    auto: true
   - translation_iso: zho
     name: 图希纳瓦语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: グリンジ・クリオル語
     auto: true
+  - translation_iso: spa
+    name: Gurindji Kriol
+    auto: true
   - translation_iso: zho
     name: 古林吉克里奥尔语
 ---

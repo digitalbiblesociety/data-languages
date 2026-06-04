@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オワ語
+  - translation_iso: spa
+    name: Owa
+    auto: true
   - translation_iso: zho
     name: 欧瓦语
 rolv_dialects:

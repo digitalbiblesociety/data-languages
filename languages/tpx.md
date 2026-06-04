@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: メーファア語
     auto: true
+  - translation_iso: spa
+    name: "Me'phaa de Acatepec"
+    auto: true
   - translation_iso: zho
     name: 阿卡特佩克梅法语
     auto: true

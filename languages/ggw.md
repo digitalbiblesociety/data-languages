@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゴゴダラ語
     auto: true
+  - translation_iso: spa
+    name: Gogodala
+    auto: true
   - translation_iso: zho
     name: 戈戈达拉语
     auto: true

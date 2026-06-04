@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: マンナ・ドラ語
     auto: true
+  - translation_iso: spa
+    name: Manna-Dora
+    auto: true
   - translation_iso: zho
     name: 曼纳-多拉语
     auto: true

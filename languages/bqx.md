@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バアンギ語
     auto: true
+  - translation_iso: spa
+    name: Baangi
+    auto: true
   - translation_iso: zho
     name: 巴昂吉语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガル語
     auto: true
+  - translation_iso: spa
+    name: Gal
+    auto: true
   - translation_iso: zho
     name: 加尔语
     auto: true

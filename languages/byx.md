@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バイニン語
+  - translation_iso: spa
+    name: Qaqet
+    auto: true
   - translation_iso: zho
     name: 卡克特语
     auto: true

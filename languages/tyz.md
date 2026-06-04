@@ -25,6 +25,9 @@ translations:
     name: タイー語
   - translation_iso: kor
     name: 따이어
+  - translation_iso: spa
+    name: Tày
+    auto: true
   - translation_iso: zho
     name: 岱依语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リオク語
     auto: true
+  - translation_iso: spa
+    name: Sara
+    auto: true
   - translation_iso: zho
     name: 萨拉语
     auto: true

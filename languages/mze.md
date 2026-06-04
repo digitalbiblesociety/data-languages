@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: モラワ語
     auto: true
+  - translation_iso: spa
+    name: Morawa
+    auto: true
   - translation_iso: zho
     name: 莫拉瓦语
     auto: true

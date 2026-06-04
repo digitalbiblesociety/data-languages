@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南ロル語
+  - translation_iso: spa
+    name: Luri meridional
+    auto: true
   - translation_iso: zho
     name: 南卢尔语
 rolv_dialects:

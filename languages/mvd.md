@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マンボル語
     auto: true
+  - translation_iso: spa
+    name: Mamboru
+    auto: true
   - translation_iso: zho
     name: 玛姆博鲁语
     auto: true

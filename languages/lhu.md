@@ -25,6 +25,9 @@ translations:
     name: ラフ語
   - translation_iso: kor
     name: 라후어
+  - translation_iso: spa
+    name: Lahu
+    auto: true
   - translation_iso: zho
     name: 拉祜語
 rolv_dialects:

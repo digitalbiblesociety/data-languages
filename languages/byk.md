@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 標語
+  - translation_iso: spa
+    name: Biao
+    auto: true
   - translation_iso: zho
     name: 标话
 ---

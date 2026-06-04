@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベランダ・ビリ語
     auto: true
+  - translation_iso: spa
+    name: Belanda Viri
+    auto: true
   - translation_iso: zho
     name: 贝兰达维里语
     auto: true

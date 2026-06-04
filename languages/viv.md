@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヴィヴィガニ語
     auto: true
+  - translation_iso: spa
+    name: Iduna
+    auto: true
   - translation_iso: zho
     name: 伊都纳语
     auto: true

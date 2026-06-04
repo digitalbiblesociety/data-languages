@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マカヤム語
     auto: true
+  - translation_iso: spa
+    name: Makayam
+    auto: true
   - translation_iso: zho
     name: 马卡亚姆语
     auto: true

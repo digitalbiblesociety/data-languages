@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ユグル語
     auto: true
+  - translation_iso: spa
+    name: Yugul
+    auto: true
   - translation_iso: zho
     name: 尤古尔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プトゥクワム語
     auto: true
+  - translation_iso: spa
+    name: Putukwam
+    auto: true
   - translation_iso: zho
     name: 普图科姆语
     auto: true

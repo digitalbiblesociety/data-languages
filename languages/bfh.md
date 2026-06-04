@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブラフェ語
     auto: true
+  - translation_iso: spa
+    name: Blafe
+    auto: true
   - translation_iso: zho
     name: 布拉夫语
     auto: true

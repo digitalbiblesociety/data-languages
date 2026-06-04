@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カヤビ語
+  - translation_iso: spa
+    name: Kayabí
+    auto: true
   - translation_iso: zho
     name: 卡亚比语
     auto: true

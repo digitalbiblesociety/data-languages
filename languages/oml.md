@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Ombo語
+  - translation_iso: spa
+    name: Ombo
+    auto: true
   - translation_iso: zho
     name: 翁博语
     auto: true

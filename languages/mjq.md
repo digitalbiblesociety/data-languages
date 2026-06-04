@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マラリャン語
     auto: true
+  - translation_iso: spa
+    name: Malaryan
+    auto: true
   - translation_iso: zho
     name: 玛拉让语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エフエウン語
     auto: true
+  - translation_iso: spa
+    name: Ehueun
+    auto: true
   - translation_iso: zho
     name: 埃韦恩语
     auto: true

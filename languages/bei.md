@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベカティ語
     auto: true
+  - translation_iso: spa
+    name: "Bekati'"
+    auto: true
   - translation_iso: zho
     name: 贝卡蒂语
     auto: true

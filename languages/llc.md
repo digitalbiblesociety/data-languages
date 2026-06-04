@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レレ語
     auto: true
+  - translation_iso: spa
+    name: Lele (Guinea)
+    auto: true
   - translation_iso: zho
     name: 勒勒语
 rolv_dialects:

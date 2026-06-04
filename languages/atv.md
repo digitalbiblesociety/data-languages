@@ -25,6 +25,9 @@ translations:
     name: 北アルタイ語
   - translation_iso: kor
     name: 북부 알타이어
+  - translation_iso: spa
+    name: Altái septentrional
+    auto: true
   - translation_iso: zho
     name: 北阿尔泰语
 rolv_dialects:

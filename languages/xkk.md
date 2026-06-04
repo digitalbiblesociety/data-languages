@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カコ語
     auto: true
+  - translation_iso: spa
+    name: "Kaco'"
+    auto: true
   - translation_iso: zho
     name: 卡乔语
 ---

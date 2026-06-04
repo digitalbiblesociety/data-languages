@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 新カレドニア・ジャワ語
     auto: true
+  - translation_iso: spa
+    name: Javanés de Nueva Caledonia
+    auto: true
   - translation_iso: zho
     name: 新喀里多尼亚爪哇语
     auto: true

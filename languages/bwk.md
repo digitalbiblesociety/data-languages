@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バウワキ語
     auto: true
+  - translation_iso: spa
+    name: Bauwaki
+    auto: true
   - translation_iso: zho
     name: 鲍瓦基语
     auto: true

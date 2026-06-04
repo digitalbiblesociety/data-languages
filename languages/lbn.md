@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルミート語
     auto: true
+  - translation_iso: spa
+    name: Rmeet
+    auto: true
   - translation_iso: zho
     name: 拉墨语
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レイノン・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Leinong
+    auto: true
   - translation_iso: zho
     name: 莱伊农纳加语
     auto: true

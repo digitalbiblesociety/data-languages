@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: アナシ語
     auto: true
+  - translation_iso: spa
+    name: Anasi
+    auto: true
   - translation_iso: zho
     name: 阿纳西语
     auto: true

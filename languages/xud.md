@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ウミイダ語
     auto: true
+  - translation_iso: spa
+    name: Umiida
+    auto: true
   - translation_iso: zho
     name: 乌米达语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウノバイ語
     auto: true
+  - translation_iso: spa
+    name: Unubahe
+    auto: true
   - translation_iso: zho
     name: 乌努巴赫语
     auto: true

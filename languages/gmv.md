@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガモ語
     auto: true
+  - translation_iso: spa
+    name: Gamo
+    auto: true
   - translation_iso: zho
     name: 加莫语
     auto: true

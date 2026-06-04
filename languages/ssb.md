@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バジャウ語
     auto: true
+  - translation_iso: spa
+    name: Sama meridional
+    auto: true
   - translation_iso: zho
     name: 南沙玛语
     auto: true

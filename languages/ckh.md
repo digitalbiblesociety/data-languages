@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サク諸語
+  - translation_iso: spa
+    name: Chak
+    auto: true
   - translation_iso: zho
     name: 恰克语
     auto: true

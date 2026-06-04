@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Pyapun語
+  - translation_iso: spa
+    name: Pyapun
+    auto: true
   - translation_iso: zho
     name: 皮亚普恩语
     auto: true

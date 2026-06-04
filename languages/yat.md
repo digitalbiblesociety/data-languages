@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤンベタ語
+  - translation_iso: spa
+    name: Yambeta
+    auto: true
   - translation_iso: zho
     name: 扬贝塔语
     auto: true

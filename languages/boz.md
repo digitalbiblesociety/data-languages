@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ティエヤキソ・ボゾ語
     auto: true
+  - translation_iso: spa
+    name: Bozo Tiéyaxo
+    auto: true
   - translation_iso: zho
     name: 蒂埃亚克索博佐语
     auto: true

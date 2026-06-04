@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マト語
     auto: true
+  - translation_iso: spa
+    name: Mato
+    auto: true
   - translation_iso: zho
     name: 玛托语
     auto: true

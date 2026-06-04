@@ -19,10 +19,13 @@ translations:
     name: جادانج
     auto: true
   - translation_iso: hin
-    name: गा'दांग
+    name: "गा'दांग"
     auto: true
   - translation_iso: jpn
     name: ガダン語
+    auto: true
+  - translation_iso: spa
+    name: "Ga'dang"
     auto: true
   - translation_iso: zho
     name: 加当语

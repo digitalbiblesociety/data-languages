@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・ソン語
+  - translation_iso: spa
+    name: Thai del Sur
+    auto: true
   - translation_iso: zho
     name: 泰宋语
 ---

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングルンブル語
+  - translation_iso: spa
+    name: Ngurmbur
+    auto: true
   - translation_iso: zho
     name: 恩古尔布尔语
     auto: true

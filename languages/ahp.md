@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アプロウム・アイジ語
     auto: true
+  - translation_iso: spa
+    name: Aizi Aproumu
+    auto: true
   - translation_iso: zho
     name: 阿普罗乌穆艾兹语
     auto: true

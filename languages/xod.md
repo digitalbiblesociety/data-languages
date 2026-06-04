@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ココダ語
     auto: true
+  - translation_iso: spa
+    name: Kokoda
+    auto: true
   - translation_iso: zho
     name: 科科达语
     auto: true

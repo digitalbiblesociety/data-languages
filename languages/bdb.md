@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: バサップ語
     auto: true
+  - translation_iso: spa
+    name: Basap
+    auto: true
   - translation_iso: zho
     name: 巴薩普語
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バルザーニ・ユダヤ・ネオ・アラム語
     auto: true
+  - translation_iso: spa
+    name: Neoarameo judío de Barzani
+    auto: true
   - translation_iso: zho
     name: 巴尔扎尼犹太阿拉姆语
 rolv_dialects:

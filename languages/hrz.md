@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Herzendī
+  - translation_iso: spa
+    name: Harzani
+    auto: true
   - translation_iso: zho
     name: 哈尔扎尼语
     auto: true

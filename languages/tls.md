@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タンボタロ語
     auto: true
+  - translation_iso: spa
+    name: Tambotalo
+    auto: true
   - translation_iso: zho
     name: 坦博塔洛语
     auto: true

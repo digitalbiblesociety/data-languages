@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングクコリ語
     auto: true
+  - translation_iso: spa
+    name: Nkukoli
+    auto: true
   - translation_iso: zho
     name: 恩库科利语
     auto: true

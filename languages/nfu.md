@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ムフムテ語
     auto: true
+  - translation_iso: spa
+    name: Mfumte
+    auto: true
   - translation_iso: zho
     name: 姆方特语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤベン語
     auto: true
+  - translation_iso: spa
+    name: Yaben
+    auto: true
   - translation_iso: zho
     name: 亚本语
     auto: true

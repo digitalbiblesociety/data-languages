@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ヤッシック語
     auto: true
+  - translation_iso: spa
+    name: Yásico
+    auto: true
   - translation_iso: zho
     name: 傑西克方言
 ---

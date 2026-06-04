@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガイクンディ語
     auto: true
+  - translation_iso: spa
+    name: Gaikundi
+    auto: true
   - translation_iso: zho
     name: 盖昆迪语
     auto: true

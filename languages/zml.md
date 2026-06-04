@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マトゥンガラ語
     auto: true
+  - translation_iso: spa
+    name: Matngala
+    auto: true
   - translation_iso: zho
     name: 马特加拉语
     auto: true

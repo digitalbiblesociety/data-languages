@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンガ語
+  - translation_iso: spa
+    name: Sanga
+    auto: true
   - translation_iso: zho
     name: 桑加语（刚果民主共和国）
     auto: true

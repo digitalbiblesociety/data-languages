@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジレル語
     auto: true
+  - translation_iso: spa
+    name: Jirel
+    auto: true
   - translation_iso: zho
     name: 几热尔语
 ---

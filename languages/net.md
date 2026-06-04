@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ネテ語
     auto: true
+  - translation_iso: spa
+    name: Nete
+    auto: true
   - translation_iso: zho
     name: 内特语
     auto: true

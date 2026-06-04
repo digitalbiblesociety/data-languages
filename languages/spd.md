@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サエップ語
     auto: true
+  - translation_iso: spa
+    name: Saep
+    auto: true
   - translation_iso: zho
     name: 萨艾普语
     auto: true

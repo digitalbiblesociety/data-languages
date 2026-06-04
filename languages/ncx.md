@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 中央プエブラ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl del centro de Puebla
+    auto: true
   - translation_iso: zho
     name: 中普埃布拉纳瓦特尔语
     auto: true

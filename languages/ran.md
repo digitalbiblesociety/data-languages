@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: リアンタナ語
     auto: true
+  - translation_iso: spa
+    name: Riantana
+    auto: true
   - translation_iso: zho
     name: 里安塔纳语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タド語
     auto: true
+  - translation_iso: spa
+    name: Tado
+    auto: true
   - translation_iso: zho
     name: 塔多语
     auto: true

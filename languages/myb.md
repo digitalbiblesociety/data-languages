@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンバイ語
+  - translation_iso: spa
+    name: Mbay
+    auto: true
   - translation_iso: zho
     name: 姆贝语
     auto: true

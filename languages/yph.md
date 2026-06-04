@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フーファ語
     auto: true
+  - translation_iso: spa
+    name: Phupha
+    auto: true
   - translation_iso: zho
     name: 富帕语
 ---

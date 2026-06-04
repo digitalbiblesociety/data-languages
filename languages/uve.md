@@ -25,6 +25,9 @@ translations:
     name: 西ウベア語
   - translation_iso: kor
     name: 서우베아어
+  - translation_iso: spa
+    name: Uveano occidental
+    auto: true
   - translation_iso: zho
     name: 西乌维阿语
     auto: true

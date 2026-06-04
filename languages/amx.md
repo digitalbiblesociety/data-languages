@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アンマティエッレ語
     auto: true
+  - translation_iso: spa
+    name: Anmatyerre
+    auto: true
   - translation_iso: zho
     name: 安玛蒂埃瑞语
     auto: true

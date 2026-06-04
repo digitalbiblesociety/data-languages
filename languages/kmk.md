@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: リモス・カリンガ語
     auto: true
+  - translation_iso: spa
+    name: Kalinga de Limos
+    auto: true
   - translation_iso: zho
     name: 利莫斯卡林加语
     auto: true

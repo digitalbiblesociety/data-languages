@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガイン語
+  - translation_iso: spa
+    name: Ngaing
+    auto: true
   - translation_iso: zho
     name: 恩盖英语
     auto: true

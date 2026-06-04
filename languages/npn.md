@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モンドロポロン語
     auto: true
+  - translation_iso: spa
+    name: Mondropolon
+    auto: true
   - translation_iso: zho
     name: 蒙德罗波隆语
     auto: true

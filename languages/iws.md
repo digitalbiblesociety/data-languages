@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セピク・イワム語
     auto: true
+  - translation_iso: spa
+    name: Iwam del Sepik
+    auto: true
   - translation_iso: zho
     name: 塞皮克伊瓦姆语
     auto: true

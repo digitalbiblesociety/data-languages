@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トゥムレオ語
     auto: true
+  - translation_iso: spa
+    name: Tumleo
+    auto: true
   - translation_iso: zho
     name: 图姆莱奥语
     auto: true

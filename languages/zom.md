@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゾウ語
+  - translation_iso: spa
+    name: Zou
+    auto: true
   - translation_iso: zho
     name: 祖语
     auto: true

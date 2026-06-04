@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウルルグ語
     auto: true
+  - translation_iso: spa
+    name: Wurrugu
+    auto: true
   - translation_iso: zho
     name: 乌鲁古语
     auto: true

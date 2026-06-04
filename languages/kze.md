@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: コセナ語
     auto: true
+  - translation_iso: spa
+    name: Kosena
+    auto: true
   - translation_iso: zho
     name: 科塞纳语
     auto: true

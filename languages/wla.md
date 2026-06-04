@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワリオ語
     auto: true
+  - translation_iso: spa
+    name: Walio
+    auto: true
   - translation_iso: zho
     name: 瓦利奥语
     auto: true

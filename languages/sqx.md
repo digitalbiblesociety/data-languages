@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: クフルカッセムサイン言語
     auto: true
+  - translation_iso: spa
+    name: Lengua de señas de Kufr Qassem
+    auto: true
   - translation_iso: zho
     name: 库弗尔卡西姆手语
     auto: true

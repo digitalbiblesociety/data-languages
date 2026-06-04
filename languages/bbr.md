@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ギラワ語
     auto: true
+  - translation_iso: spa
+    name: Girawa
+    auto: true
   - translation_iso: zho
     name: 吉拉瓦语
     auto: true

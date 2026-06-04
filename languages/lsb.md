@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ブルンジ手話
     auto: true
+  - translation_iso: spa
+    name: Lengua de señas de Burundi
+    auto: true
   - translation_iso: zho
     name: 布隆迪手语
     auto: true

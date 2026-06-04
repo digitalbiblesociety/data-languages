@@ -54,7 +54,7 @@ The order of keys is canonical see the `properties` block of `schema.json`.
 | `glottolog_family_name`     | Human-readable family name.                                                  |
 | `glottolog_classification`  | Top-down genealogical path, joined with ` > `.                              |
 | `wikipedia_url`             | English Wikipedia article URL. Populated by `tools/sources/wikipedia.go`.    |
-| `translations`              | Block array of `{translation_iso, name, auto?}`. Populated by `tools/sources/wikidata_names.go` (primary) and `tools/sources/cldr_names.go` (gap-fill). Currently targets `zho`, `jpn`, `hin`, `kor`, `ara`, `spa`. The optional `auto: true` flag marks automated translations (for future LLM-sourced entries). |                 |
+| `translations`              | Block array of `{translation_iso, name, auto?}`. Populated by `tools/sources/wikidata_names.go` (primary) and `tools/sources/cldr_names.go` (gap-fill). Currently targets `zho`, `jpn`, `hin`, `kor`, `ara`, `spa`. The optional `auto: true` flag marks automated translations; `spa` is filled to 100% coverage — curated entries from Wikidata/CLDR, and the remaining ~5,100 by LLM (`auto: true`) via `tools/spanishfill`. |                 |
 | `rolv_dialects`  | Array of `{rolv_code, language_tag, name, country_id, location}`. Populated by `tools/sources/rolv.go` from GRN's Registry of Language Varieties. |
 
 ## Tools

@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: 北タスマニア語
     auto: true
+  - translation_iso: spa
+    name: Tasmanio septentrional
+    auto: true
   - translation_iso: zho
     name: 北塔斯马尼亚语
     auto: true

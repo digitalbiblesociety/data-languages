@@ -23,6 +23,9 @@ translations:
     name: बदगा भाषा
   - translation_iso: jpn
     name: バダガ語
+  - translation_iso: spa
+    name: Badaga
+    auto: true
   - translation_iso: zho
     name: 巴达加语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カンパラギアン語
     auto: true
+  - translation_iso: spa
+    name: Campalagian
+    auto: true
   - translation_iso: zho
     name: 坎帕拉吉语
 rolv_dialects:

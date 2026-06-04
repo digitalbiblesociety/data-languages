@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サウス・ギジガ語
     auto: true
+  - translation_iso: spa
+    name: Giziga meridional
+    auto: true
   - translation_iso: zho
     name: 南吉齐加语
     auto: true

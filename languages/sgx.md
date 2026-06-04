@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シエラレオネ手話
+  - translation_iso: spa
+    name: Lengua de Señas de Sierra Leona
+    auto: true
   - translation_iso: zho
     name: 塞拉利昂手语
     auto: true

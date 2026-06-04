@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イドン語
     auto: true
+  - translation_iso: spa
+    name: Idon
+    auto: true
   - translation_iso: zho
     name: 伊东语
     auto: true

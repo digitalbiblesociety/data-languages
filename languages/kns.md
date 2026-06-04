@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケンシウ語
+  - translation_iso: spa
+    name: Kensiu
+    auto: true
   - translation_iso: zho
     name: 肯修語
 ---

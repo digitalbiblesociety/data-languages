@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハイチ・ヴォードゥー・カルチャー言語
     auto: true
+  - translation_iso: spa
+    name: Lengua de la cultura vudú haitiana
+    auto: true
   - translation_iso: zho
     name: 海地伏都文化语言
     auto: true

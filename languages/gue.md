@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グリンジ語
+  - translation_iso: spa
+    name: Gurindji
+    auto: true
   - translation_iso: zho
     name: 古林吉语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドムング語
     auto: true
+  - translation_iso: spa
+    name: Domung
+    auto: true
   - translation_iso: zho
     name: 多蒙语
     auto: true

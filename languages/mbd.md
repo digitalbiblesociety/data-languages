@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ディババウォン・マノボ語
     auto: true
+  - translation_iso: spa
+    name: Manobo Dibabawon
+    auto: true
   - translation_iso: zho
     name: 迪巴巴翁曼诺博语
     auto: true

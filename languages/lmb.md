@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: メレイ語
     auto: true
+  - translation_iso: spa
+    name: Merei
+    auto: true
   - translation_iso: zho
     name: 梅雷伊语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オルクミ語
     auto: true
+  - translation_iso: spa
+    name: Ulukwumi
+    auto: true
   - translation_iso: zho
     name: 乌卢库米语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キナミギング・マノボ語
     auto: true
+  - translation_iso: spa
+    name: Manobo Kinamiging
+    auto: true
   - translation_iso: zho
     name: 基纳米京曼诺博语
     auto: true

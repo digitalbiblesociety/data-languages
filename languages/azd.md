@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東ドゥランゴ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl del Durango Oriental
+    auto: true
   - translation_iso: zho
     name: 东杜兰戈纳瓦特尔语
     auto: true

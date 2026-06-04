@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イウォム語
     auto: true
+  - translation_iso: spa
+    name: Ywom
+    auto: true
   - translation_iso: zho
     name: 伊翁语
     auto: true

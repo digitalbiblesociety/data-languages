@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: フォイア・フォイア語
     auto: true
+  - translation_iso: spa
+    name: Foia Foia
+    auto: true
   - translation_iso: zho
     name: 福亚福亚语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブロクスカット語
     auto: true
+  - translation_iso: spa
+    name: Brokskat
+    auto: true
   - translation_iso: zho
     name: 布罗克斯卡特语
     auto: true

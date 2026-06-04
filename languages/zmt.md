@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マリンガル語
     auto: true
+  - translation_iso: spa
+    name: Maringarr
+    auto: true
   - translation_iso: zho
     name: 马里恩格语
     auto: true

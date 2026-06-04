@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リクワラ語
     auto: true
+  - translation_iso: spa
+    name: Likwala
+    auto: true
   - translation_iso: zho
     name: 利夸拉语
     auto: true

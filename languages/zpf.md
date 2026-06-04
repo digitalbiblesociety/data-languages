@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サン・ペドロ・キアトニ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de San Pedro Quiatoní
+    auto: true
   - translation_iso: zho
     name: 圣佩德罗基亚托尼萨波特克语
     auto: true

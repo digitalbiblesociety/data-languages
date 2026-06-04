@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ロコ語
     auto: true
+  - translation_iso: spa
+    name: Loko
+    auto: true
   - translation_iso: zho
     name: 洛科语
     auto: true

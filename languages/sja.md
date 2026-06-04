@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サイジャ語
     auto: true
+  - translation_iso: spa
+    name: Epena
+    auto: true
   - translation_iso: zho
     name: 埃佩纳语
     auto: true

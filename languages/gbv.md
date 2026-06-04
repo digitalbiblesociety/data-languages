@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガバヌ語
     auto: true
+  - translation_iso: spa
+    name: Gbanu
+    auto: true
   - translation_iso: zho
     name: 加巴努语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マスラム語
     auto: true
+  - translation_iso: spa
+    name: Maslam
+    auto: true
   - translation_iso: zho
     name: 玛斯兰语
     auto: true

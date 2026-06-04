@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スキ語
     auto: true
+  - translation_iso: spa
+    name: Suki
+    auto: true
   - translation_iso: zho
     name: 苏基语
     auto: true

@@ -21,6 +21,9 @@ translations:
     name: जमैका सांकेतिक भाषा
   - translation_iso: jpn
     name: ジャマイカ手話
+  - translation_iso: spa
+    name: Lengua de señas jamaicana
+    auto: true
   - translation_iso: zho
     name: 牙买加手语
     auto: true

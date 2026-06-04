@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マヤ・サモ語
     auto: true
+  - translation_iso: spa
+    name: Samo maya
+    auto: true
   - translation_iso: zho
     name: 玛亚萨莫语
     auto: true

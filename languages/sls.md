@@ -18,6 +18,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シンガポール手話
+  - translation_iso: spa
+    name: Lengua de Señas de Singapur
+    auto: true
   - translation_iso: zho
     name: 新加坡手语
 ---

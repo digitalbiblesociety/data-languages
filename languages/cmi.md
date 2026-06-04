@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エンベラ・チャミ語
     auto: true
+  - translation_iso: spa
+    name: Emberá-Chamí
+    auto: true
   - translation_iso: zho
     name: 埃姆贝拉-查米语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カスアリーナ・コースト・アスマット語
     auto: true
+  - translation_iso: spa
+    name: Asmat de la costa Casuarina
+    auto: true
   - translation_iso: zho
     name: 红树林海岸阿斯玛特语
     auto: true

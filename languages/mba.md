@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヒガオノン語
     auto: true
+  - translation_iso: spa
+    name: Higaonon
+    auto: true
   - translation_iso: zho
     name: 希加翁语
     auto: true

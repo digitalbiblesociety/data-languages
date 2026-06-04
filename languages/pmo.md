@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポム語
+  - translation_iso: spa
+    name: Pom
+    auto: true
   - translation_iso: zho
     name: 庞语
     auto: true

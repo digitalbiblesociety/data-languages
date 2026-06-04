@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南パメ語
     auto: true
+  - translation_iso: spa
+    name: Pame meridional
+    auto: true
   - translation_iso: zho
     name: 南部帕梅语
     auto: true

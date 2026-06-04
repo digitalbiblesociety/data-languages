@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビヤック語
+  - translation_iso: spa
+    name: Biak
+    auto: true
   - translation_iso: zho
     name: 比亚克语
 rolv_dialects:

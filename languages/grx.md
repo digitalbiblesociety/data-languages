@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: グリアソ語
     auto: true
+  - translation_iso: spa
+    name: Guriaso
+    auto: true
   - translation_iso: zho
     name: 古里亚索语
     auto: true

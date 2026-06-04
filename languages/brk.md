@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビルギッド語
+  - translation_iso: spa
+    name: Birked
+    auto: true
   - translation_iso: zho
     name: 比尔克德语
     auto: true

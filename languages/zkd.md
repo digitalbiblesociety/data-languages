@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: カドゥ語
     auto: true
+  - translation_iso: spa
+    name: Kadu
+    auto: true
   - translation_iso: zho
     name: "Category:卡杜語"
 rolv_dialects:

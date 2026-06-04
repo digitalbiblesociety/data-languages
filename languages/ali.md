@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アマイモン語
     auto: true
+  - translation_iso: spa
+    name: Amaimon
+    auto: true
   - translation_iso: zho
     name: 阿迈蒙语
     auto: true

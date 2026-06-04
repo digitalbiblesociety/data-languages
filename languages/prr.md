@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プリ語
     auto: true
+  - translation_iso: spa
+    name: Puri
+    auto: true
   - translation_iso: zho
     name: 普里语
     auto: true

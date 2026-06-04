@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イデレ語
     auto: true
+  - translation_iso: spa
+    name: Idere
+    auto: true
   - translation_iso: zho
     name: 伊德雷语
     auto: true

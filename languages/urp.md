@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウル・パ・イン語
     auto: true
+  - translation_iso: spa
+    name: Uru-Pa-In
+    auto: true
   - translation_iso: zho
     name: 乌鲁-帕-因语
     auto: true

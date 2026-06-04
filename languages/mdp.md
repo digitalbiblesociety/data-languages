@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムバラ語
     auto: true
+  - translation_iso: spa
+    name: Mbala
+    auto: true
   - translation_iso: zho
     name: 姆巴拉语
     auto: true

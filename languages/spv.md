@@ -22,6 +22,9 @@ translations:
     name: सम्बलपुरी भाषा
   - translation_iso: jpn
     name: サンバルプリ語
+  - translation_iso: spa
+    name: Sambalpuri
+    auto: true
   - translation_iso: zho
     name: 桑巴尔普里语
 rolv_dialects:

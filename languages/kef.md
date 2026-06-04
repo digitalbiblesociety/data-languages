@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クペシ語
     auto: true
+  - translation_iso: spa
+    name: Kpessi
+    auto: true
   - translation_iso: zho
     name: 克佩西语
     auto: true

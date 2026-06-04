@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ピェン語
     auto: true
+  - translation_iso: spa
+    name: Pyen
+    auto: true
   - translation_iso: zho
     name: 片语 (毕苏语群)
 ---

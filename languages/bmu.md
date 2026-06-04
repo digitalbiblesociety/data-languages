@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソンバ・シアワリ語
     auto: true
+  - translation_iso: spa
+    name: Somba-Siawari
+    auto: true
   - translation_iso: zho
     name: 松巴-西亚瓦里语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティアグバムリン・アイジ語
     auto: true
+  - translation_iso: spa
+    name: Aizi Tiagbamrin
+    auto: true
   - translation_iso: zho
     name: 蒂亚格巴姆林艾兹语
     auto: true

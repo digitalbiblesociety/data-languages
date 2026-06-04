@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディクソン・リーフ語
     auto: true
+  - translation_iso: spa
+    name: Dixon Reef
+    auto: true
   - translation_iso: zho
     name: 迪克松礁语
     auto: true

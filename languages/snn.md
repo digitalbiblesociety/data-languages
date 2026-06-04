@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガンテーヤコカ語
     auto: true
+  - translation_iso: spa
+    name: Siona
+    auto: true
   - translation_iso: zho
     name: 西奥纳语
 ---

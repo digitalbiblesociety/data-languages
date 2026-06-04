@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ワディカリ語
     auto: true
+  - translation_iso: spa
+    name: Wadikali
+    auto: true
   - translation_iso: zho
     name: 瓦迪卡利语
     auto: true

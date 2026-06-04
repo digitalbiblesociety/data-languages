@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンルイ語
+  - translation_iso: spa
+    name: Malgache Tandroy-Mahafaly
+    auto: true
   - translation_iso: zho
     name: 坦德罗伊-马哈法利马达加斯加语
     auto: true

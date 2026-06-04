@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヒァムニウンガン・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Khiamniungan
+    auto: true
   - translation_iso: zho
     name: 基亚姆尼翁甘那加语
     auto: true

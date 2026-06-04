@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アオレ語
     auto: true
+  - translation_iso: spa
+    name: Aore
+    auto: true
   - translation_iso: zho
     name: 阿奥瑞语
     auto: true

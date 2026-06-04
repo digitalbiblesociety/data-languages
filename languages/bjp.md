@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ファナマケット語
     auto: true
+  - translation_iso: spa
+    name: Fanamaket
+    auto: true
   - translation_iso: zho
     name: 法纳马克特语
     auto: true

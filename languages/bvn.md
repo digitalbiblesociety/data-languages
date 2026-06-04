@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブナ語
     auto: true
+  - translation_iso: spa
+    name: Buna
+    auto: true
   - translation_iso: zho
     name: 布纳语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムアヴェケ語
+  - translation_iso: spa
+    name: Hmwaveke
+    auto: true
   - translation_iso: zho
     name: 赫姆瓦韦克语
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: カトゥキナ語
     auto: true
+  - translation_iso: spa
+    name: Katukína
+    auto: true
   - translation_iso: zho
     name: 卡图基纳语
     auto: true

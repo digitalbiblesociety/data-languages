@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バユングゥ語
     auto: true
+  - translation_iso: spa
+    name: Bayungu
+    auto: true
   - translation_iso: zho
     name: 巴永古语
     auto: true

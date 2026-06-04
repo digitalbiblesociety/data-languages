@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゴヨ語
+  - translation_iso: spa
+    name: Togoyo
+    auto: true
   - translation_iso: zho
     name: 托格约语
     auto: true

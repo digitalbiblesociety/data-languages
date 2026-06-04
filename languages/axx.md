@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 항랑구레어
+  - translation_iso: spa
+    name: Xârâgurè
+    auto: true
   - translation_iso: zho
     name: 夏拉古雷语
     auto: true

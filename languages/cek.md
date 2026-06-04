@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東クミ・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Khumi Oriental
+    auto: true
   - translation_iso: zho
     name: 东库米钦语
     auto: true

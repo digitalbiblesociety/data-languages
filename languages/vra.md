@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベラア語
     auto: true
+  - translation_iso: spa
+    name: "Vera'a"
+    auto: true
   - translation_iso: zho
     name: 韦拉阿语
     auto: true

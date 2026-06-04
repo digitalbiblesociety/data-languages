@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウカヤリ・ユルアー・アシェニンカ語
     auto: true
+  - translation_iso: spa
+    name: Ashéninka del Ucayali-Yurúa
+    auto: true
   - translation_iso: zho
     name: 乌卡亚利-尤鲁瓦阿什尼卡语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツツバ語
+  - translation_iso: spa
+    name: Tutuba
+    auto: true
   - translation_iso: zho
     name: 图图巴语
     auto: true

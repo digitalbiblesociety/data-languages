@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: インガーダ語
+  - translation_iso: spa
+    name: Yinggarda
+    auto: true
   - translation_iso: zho
     name: 因加尔达语
 ---

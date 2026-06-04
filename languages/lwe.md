@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レウォ・エレン語
     auto: true
+  - translation_iso: spa
+    name: Lewo Eleng
+    auto: true
   - translation_iso: zho
     name: 勒沃-埃伦语
     auto: true

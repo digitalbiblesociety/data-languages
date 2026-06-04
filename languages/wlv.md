@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウィチ・ハムテス・ベホス語
     auto: true
+  - translation_iso: spa
+    name: Wichí Lhamtés Vejoz
+    auto: true
   - translation_iso: zho
     name: 威奇-拉姆特斯-韦霍斯语
     auto: true

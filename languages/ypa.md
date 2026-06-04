@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ファラ語
     auto: true
+  - translation_iso: spa
+    name: Phala
+    auto: true
   - translation_iso: zho
     name: 法拉语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オコロド語
     auto: true
+  - translation_iso: spa
+    name: Okolod
+    auto: true
   - translation_iso: zho
     name: 奥科洛德语
     auto: true

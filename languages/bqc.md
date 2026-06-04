@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボコ
+  - translation_iso: spa
+    name: Boko (Benín)
+    auto: true
   - translation_iso: zho
     name: 博科语（贝宁）
     auto: true

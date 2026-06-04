@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バギルミ・フルフルディ語
+  - translation_iso: spa
+    name: Fulfulde del Bagirmi
+    auto: true
   - translation_iso: zho
     name: 巴吉尔米富尔富尔德语
     auto: true

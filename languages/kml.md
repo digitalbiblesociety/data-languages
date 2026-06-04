@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タヌダン・カリンガ語
     auto: true
+  - translation_iso: spa
+    name: Kalinga de Tanudan
+    auto: true
   - translation_iso: zho
     name: 塔努丹卡林加语
     auto: true

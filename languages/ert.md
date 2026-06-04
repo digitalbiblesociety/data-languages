@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エリタイ語
     auto: true
+  - translation_iso: spa
+    name: Eritai
+    auto: true
   - translation_iso: zho
     name: 埃里泰语
     auto: true

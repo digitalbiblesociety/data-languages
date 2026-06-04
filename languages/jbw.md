@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ヤウィジバヤ語
     auto: true
+  - translation_iso: spa
+    name: Yawijibaya
+    auto: true
   - translation_iso: zho
     name: 亚维吉巴亚语
     auto: true

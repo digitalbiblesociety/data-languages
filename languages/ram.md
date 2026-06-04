@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カネラ語
+  - translation_iso: spa
+    name: Canela
+    auto: true
   - translation_iso: zho
     name: 卡内拉语
     auto: true

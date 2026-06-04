@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セベルアン語
     auto: true
+  - translation_iso: spa
+    name: Seberuang
+    auto: true
   - translation_iso: zho
     name: 塞贝鲁昂语
     auto: true

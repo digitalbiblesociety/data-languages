@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ゲコ・カレン語
     auto: true
+  - translation_iso: spa
+    name: Karen geko
+    auto: true
   - translation_iso: zho
     name: 格科凯伦语
     auto: true

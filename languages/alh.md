@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アラワ語
     auto: true
+  - translation_iso: spa
+    name: Alawa
+    auto: true
   - translation_iso: zho
     name: 阿拉瓦语
     auto: true

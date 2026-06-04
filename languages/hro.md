@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハロイ語
     auto: true
+  - translation_iso: spa
+    name: Haroi
+    auto: true
   - translation_iso: zho
     name: 哈罗伊语
     auto: true

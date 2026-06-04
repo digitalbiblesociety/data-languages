@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東カトゥ語
     auto: true
+  - translation_iso: spa
+    name: Katu Oriental
+    auto: true
   - translation_iso: zho
     name: 东卡图语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アチェ語
+  - translation_iso: spa
+    name: Attié
+    auto: true
   - translation_iso: zho
     name: 阿蒂耶语
     auto: true

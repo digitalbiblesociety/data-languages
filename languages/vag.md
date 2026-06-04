@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コノサロラ語
     auto: true
+  - translation_iso: spa
+    name: Vagla
+    auto: true
   - translation_iso: zho
     name: 瓦格拉语
     auto: true

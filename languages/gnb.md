@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ガンテ語
     auto: true
+  - translation_iso: spa
+    name: Gangte
+    auto: true
   - translation_iso: zho
     name: 冈特语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カカロクステペク・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Cacaloxtepec
+    auto: true
   - translation_iso: zho
     name: 卡卡洛克特佩克混合语
     auto: true

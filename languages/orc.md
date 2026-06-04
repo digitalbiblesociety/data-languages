@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オルマ語
+  - translation_iso: spa
+    name: Orma
+    auto: true
   - translation_iso: zho
     name: 奥尔玛语
     auto: true

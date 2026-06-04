@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニスガ語
     auto: true
+  - translation_iso: spa
+    name: "Nisga'a"
+    auto: true
   - translation_iso: zho
     name: 尼斯迦語
 ---

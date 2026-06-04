@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イイランダリ語
     auto: true
+  - translation_iso: spa
+    name: Yirandali
+    auto: true
   - translation_iso: zho
     name: 伊兰达利语
     auto: true

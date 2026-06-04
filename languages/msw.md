@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マンソアンカ語
     auto: true
+  - translation_iso: spa
+    name: Mansoanka
+    auto: true
   - translation_iso: zho
     name: 曼索安卡语
     auto: true

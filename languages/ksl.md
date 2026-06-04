@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: クマル語
     auto: true
+  - translation_iso: spa
+    name: Kumalu
+    auto: true
   - translation_iso: zho
     name: 库马卢语
     auto: true

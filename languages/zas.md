@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サント・ドミンゴ・アルバラダス・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Santo Domingo Albarradas
+    auto: true
   - translation_iso: zho
     name: 圣多明各-阿尔瓦拉达斯-萨波特克语
     auto: true

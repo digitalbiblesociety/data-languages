@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サリバ語
     auto: true
+  - translation_iso: spa
+    name: Saliba
+    auto: true
   - translation_iso: zho
     name: 萨利巴语
     auto: true

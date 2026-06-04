@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロカア語
     auto: true
+  - translation_iso: spa
+    name: Lokaa
+    auto: true
   - translation_iso: zho
     name: 洛卡语
     auto: true

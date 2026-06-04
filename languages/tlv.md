@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タリアブ語
     auto: true
+  - translation_iso: spa
+    name: Taliabu
+    auto: true
   - translation_iso: zho
     name: 塔利亚布语
     auto: true

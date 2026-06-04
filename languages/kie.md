@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: キベット語
     auto: true
+  - translation_iso: spa
+    name: Kibet
+    auto: true
   - translation_iso: zho
     name: 基贝特语
     auto: true

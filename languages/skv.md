@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥマウォ語
     auto: true
+  - translation_iso: spa
+    name: Skou
+    auto: true
   - translation_iso: zho
     name: 斯库语
     auto: true

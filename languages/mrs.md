@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マラグス語
     auto: true
+  - translation_iso: spa
+    name: Maragus
+    auto: true
   - translation_iso: zho
     name: 马拉古斯语
     auto: true

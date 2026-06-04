@@ -22,6 +22,9 @@ translations:
     name: सुम्बावा भाषा
   - translation_iso: jpn
     name: スンバワ語
+  - translation_iso: spa
+    name: Sumbawa
+    auto: true
   - translation_iso: zho
     name: 松巴哇語
 ---

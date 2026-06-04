@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ダヌ語
     auto: true
+  - translation_iso: spa
+    name: Danu
+    auto: true
   - translation_iso: zho
     name: 达努语
     auto: true

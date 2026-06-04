@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アウ語
     auto: true
+  - translation_iso: spa
+    name: Awu
+    auto: true
   - translation_iso: zho
     name: 阿务语
 rolv_dialects:

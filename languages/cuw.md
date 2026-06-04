@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: チュクワ語
     auto: true
+  - translation_iso: spa
+    name: Chukwa
+    auto: true
   - translation_iso: zho
     name: 楚库瓦语
     auto: true

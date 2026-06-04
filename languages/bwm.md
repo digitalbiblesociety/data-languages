@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビワット語
     auto: true
+  - translation_iso: spa
+    name: Biwat
+    auto: true
   - translation_iso: zho
     name: 比瓦特语
     auto: true

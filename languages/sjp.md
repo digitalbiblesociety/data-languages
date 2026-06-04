@@ -21,6 +21,9 @@ translations:
     name: सूरजापुरी भाषा
   - translation_iso: jpn
     name: スルジャプリ語
+  - translation_iso: spa
+    name: Surjapuri
+    auto: true
   - translation_iso: zho
     name: 苏尔贾普里语
 rolv_dialects:

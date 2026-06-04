@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グリーン・ゲラオ語
     auto: true
+  - translation_iso: spa
+    name: Gelao verde
+    auto: true
   - translation_iso: zho
     name: 哈给方言
 ---

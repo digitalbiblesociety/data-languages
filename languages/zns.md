@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マンガス語
     auto: true
+  - translation_iso: spa
+    name: Mangas
+    auto: true
   - translation_iso: zho
     name: 曼加斯语
     auto: true

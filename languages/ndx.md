@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥガ語
     auto: true
+  - translation_iso: spa
+    name: Nduga
+    auto: true
   - translation_iso: zho
     name: 恩杜加语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポーランド手話
+  - translation_iso: spa
+    name: Lengua de señas polaca
+    auto: true
   - translation_iso: zho
     name: 波兰手语
 ---

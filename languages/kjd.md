@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: サザン・キワイ語
     auto: true
+  - translation_iso: spa
+    name: Kiwai del Sur
+    auto: true
   - translation_iso: zho
     name: 南基瓦伊语
     auto: true

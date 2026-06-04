@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レンディーレ語
+  - translation_iso: spa
+    name: Rendille
+    auto: true
   - translation_iso: zho
     name: 伦迪莱语
     auto: true

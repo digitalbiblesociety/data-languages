@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ネコ語
+  - translation_iso: spa
+    name: Neko
+    auto: true
   - translation_iso: zho
     name: 内科语
     auto: true

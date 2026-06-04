@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダガアリ・ジウラ語
     auto: true
+  - translation_iso: spa
+    name: Dagaari Dioula
+    auto: true
   - translation_iso: zho
     name: 达加里迪乌拉语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南ファリ語
     auto: true
+  - translation_iso: spa
+    name: Fali del Sur
+    auto: true
   - translation_iso: zho
     name: 南法利语
     auto: true

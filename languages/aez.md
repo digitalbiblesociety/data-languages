@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アエカ語
     auto: true
+  - translation_iso: spa
+    name: Aeka
+    auto: true
   - translation_iso: zho
     name: 艾卡语
     auto: true

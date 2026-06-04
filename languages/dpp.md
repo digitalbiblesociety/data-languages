@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パパル語
     auto: true
+  - translation_iso: spa
+    name: Papar
+    auto: true
   - translation_iso: zho
     name: 帕帕尔语
     auto: true

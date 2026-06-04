@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥリアンケレ語
     auto: true
+  - translation_iso: spa
+    name: Duriankere
+    auto: true
   - translation_iso: zho
     name: 杜里安克雷语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プレー・プウォ・カレン語
     auto: true
+  - translation_iso: spa
+    name: Karen Pwo de Phrae
+    auto: true
   - translation_iso: zho
     name: 普拉普沃卡伦语
     auto: true

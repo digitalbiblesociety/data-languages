@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シロイ語
+  - translation_iso: spa
+    name: Siroi
+    auto: true
   - translation_iso: zho
     name: 西罗伊语
     auto: true

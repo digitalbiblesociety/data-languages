@@ -25,6 +25,9 @@ translations:
     name: チェムヒン語
   - translation_iso: kor
     name: 체무힝어
+  - translation_iso: spa
+    name: Cemuhî
+    auto: true
   - translation_iso: zho
     name: 塞木希语
     auto: true

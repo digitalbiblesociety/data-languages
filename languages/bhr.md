@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バラ・マダガスカル語
+  - translation_iso: spa
+    name: Malgache bara
+    auto: true
   - translation_iso: zho
     name: 巴拉马拉加斯语
     auto: true

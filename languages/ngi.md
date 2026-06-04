@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンギジム語
+  - translation_iso: spa
+    name: Ngizim
+    auto: true
   - translation_iso: zho
     name: 恩吉齐姆语
     auto: true

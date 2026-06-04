@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オコボ語
     auto: true
+  - translation_iso: spa
+    name: Okobo
+    auto: true
   - translation_iso: zho
     name: 奥科博语
     auto: true

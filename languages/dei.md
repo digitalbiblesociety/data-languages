@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デミサ語
     auto: true
+  - translation_iso: spa
+    name: Demisa
+    auto: true
   - translation_iso: zho
     name: 德米萨语
     auto: true

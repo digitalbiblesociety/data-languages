@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シンバリ語
+  - translation_iso: spa
+    name: Simbari
+    auto: true
   - translation_iso: zho
     name: 辛巴里语
 ---

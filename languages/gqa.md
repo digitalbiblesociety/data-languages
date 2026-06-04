@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガアンダ語
     auto: true
+  - translation_iso: spa
+    name: "Ga'anda"
+    auto: true
   - translation_iso: zho
     name: 加安达语
     auto: true

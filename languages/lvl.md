@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ルエル語
     auto: true
+  - translation_iso: spa
+    name: Lwel
+    auto: true
   - translation_iso: zho
     name: 卢埃尔语
     auto: true

@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リブルニア語
+  - translation_iso: spa
+    name: Liburnio
+    auto: true
   - translation_iso: zho
     name: 利布爾尼安語
 ---

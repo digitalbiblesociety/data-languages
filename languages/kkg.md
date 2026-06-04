@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マバカ・ヴァレー・カリンガ語
     auto: true
+  - translation_iso: spa
+    name: Kalinga del Valle Mabaka
+    auto: true
   - translation_iso: zho
     name: 马巴卡谷卡林加语
     auto: true

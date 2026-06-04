@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ファリ語
     auto: true
+  - translation_iso: spa
+    name: Fali
+    auto: true
   - translation_iso: zho
     name: 法利语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダロマトゥ・メラナウ語
     auto: true
+  - translation_iso: spa
+    name: Melanau Daro-Matu
+    auto: true
   - translation_iso: zho
     name: 达罗-玛图梅拉瑙语
     auto: true

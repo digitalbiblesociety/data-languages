@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フレ語
     auto: true
+  - translation_iso: spa
+    name: Hre
+    auto: true
   - translation_iso: zho
     name: 赫耶语
 rolv_dialects:

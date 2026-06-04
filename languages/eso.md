@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エストニア手話
+  - translation_iso: spa
+    name: Lengua de señas estonia
+    auto: true
   - translation_iso: zho
     name: 爱沙尼亚手语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロング・ワット語
     auto: true
+  - translation_iso: spa
+    name: Long Wat
+    auto: true
   - translation_iso: zho
     name: 龙瓦特语
     auto: true

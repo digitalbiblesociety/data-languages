@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イドガ語
+  - translation_iso: spa
+    name: Yidgha
+    auto: true
   - translation_iso: zho
     name: 義得嘎語
 ---

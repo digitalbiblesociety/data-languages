@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ファンドゥワリ語
     auto: true
+  - translation_iso: spa
+    name: Phangduwali
+    auto: true
   - translation_iso: zho
     name: 法格度瓦利语
     auto: true

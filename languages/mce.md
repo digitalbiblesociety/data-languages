@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イトゥンドゥヒア・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Itundujia
+    auto: true
   - translation_iso: zho
     name: 伊图恩杜希亚混台语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤカ語
     auto: true
+  - translation_iso: spa
+    name: Yaka (Congo)
+    auto: true
   - translation_iso: zho
     name: 亚卡语（刚果）
     auto: true

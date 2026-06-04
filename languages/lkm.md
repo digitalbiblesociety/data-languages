@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カラアマヤ語
     auto: true
+  - translation_iso: spa
+    name: Kalaamaya
+    auto: true
   - translation_iso: zho
     name: 卡拉阿玛亚语
     auto: true

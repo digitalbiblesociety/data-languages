@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シリモ語
     auto: true
+  - translation_iso: spa
+    name: Silimo
+    auto: true
   - translation_iso: zho
     name: 西利莫语
     auto: true

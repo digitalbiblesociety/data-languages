@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤウ語（サンダウン州）
     auto: true
+  - translation_iso: spa
+    name: Yau (Provincia de Sandaun)
+    auto: true
   - translation_iso: zho
     name: 瓦尤语
     auto: true

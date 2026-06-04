@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トアリピ語
+  - translation_iso: spa
+    name: Toaripi
+    auto: true
   - translation_iso: zho
     name: 托阿里皮语
     auto: true

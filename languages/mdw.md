@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムボシ語
+  - translation_iso: spa
+    name: Mbosi
+    auto: true
   - translation_iso: zho
     name: 姆博西语
     auto: true

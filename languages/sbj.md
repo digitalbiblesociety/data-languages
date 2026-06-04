@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: スルバカル語
     auto: true
+  - translation_iso: spa
+    name: Surbakhal
+    auto: true
   - translation_iso: zho
     name: 苏巴卡尔语
     auto: true

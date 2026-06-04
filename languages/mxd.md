@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モダン語
     auto: true
+  - translation_iso: spa
+    name: Modang
+    auto: true
   - translation_iso: zho
     name: 莫当语
     auto: true

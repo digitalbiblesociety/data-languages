@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イドマ語
+  - translation_iso: spa
+    name: Idoma
+    auto: true
   - translation_iso: zho
     name: 伊多马语
 rolv_dialects:

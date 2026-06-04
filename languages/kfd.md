@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コッラ・コラガ語
     auto: true
+  - translation_iso: spa
+    name: Korra Koraga
+    auto: true
   - translation_iso: zho
     name: 科拉·科拉加语
     auto: true

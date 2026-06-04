@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オグブロヌアグム語
     auto: true
+  - translation_iso: spa
+    name: Ogbronuagum
+    auto: true
   - translation_iso: zho
     name: 奥格布罗努阿古姆语
     auto: true

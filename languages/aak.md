@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンカベ語
     auto: true
+  - translation_iso: spa
+    name: Ankave
+    auto: true
   - translation_iso: zho
     name: 安卡维
 rolv_dialects:

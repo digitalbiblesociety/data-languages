@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トロナ語
+  - translation_iso: spa
+    name: Torona
+    auto: true
   - translation_iso: zho
     name: 托罗纳语
     auto: true

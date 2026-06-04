@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ネク語
     auto: true
+  - translation_iso: spa
+    name: Nek
+    auto: true
   - translation_iso: zho
     name: 内克语
     auto: true

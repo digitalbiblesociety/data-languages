@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トラベラーデンマーク語
     auto: true
+  - translation_iso: spa
+    name: Viajero danés
+    auto: true
   - translation_iso: zho
     name: 丹麦旅行者语
     auto: true

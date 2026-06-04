@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コイ・サンジャク・スラト語
+  - translation_iso: spa
+    name: Surat de Koy Sanjaq
+    auto: true
   - translation_iso: zho
     name: 库伊桑贾格叙利亚语
 ---

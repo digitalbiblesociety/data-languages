@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブカ語
     auto: true
+  - translation_iso: spa
+    name: Bidayuh bukar-sadung
+    auto: true
   - translation_iso: zho
     name: 布卡-萨东比达尤语
     auto: true

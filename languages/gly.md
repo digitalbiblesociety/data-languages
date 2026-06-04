@@ -19,6 +19,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グレ語
+  - translation_iso: spa
+    name: Gule
+    auto: true
   - translation_iso: zho
     name: 古莱语
     auto: true

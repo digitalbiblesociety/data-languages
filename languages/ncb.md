@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 中央ニコバル語
     auto: true
+  - translation_iso: spa
+    name: Nicobarés central
+    auto: true
   - translation_iso: zho
     name: 中尼科巴语支
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イピコ語
     auto: true
+  - translation_iso: spa
+    name: Ipiko
+    auto: true
   - translation_iso: zho
     name: 伊皮科语
     auto: true

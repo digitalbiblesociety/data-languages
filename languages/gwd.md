@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Dullay諸語
+  - translation_iso: spa
+    name: Gawwada
+    auto: true
   - translation_iso: zho
     name: 高瓦达语
     auto: true

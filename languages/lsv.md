@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: シビア手話
     auto: true
+  - translation_iso: spa
+    name: Lengua de señas de Sivia
+    auto: true
   - translation_iso: zho
     name: 西维亚手语
     auto: true

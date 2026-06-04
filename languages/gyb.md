@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガルス語
     auto: true
+  - translation_iso: spa
+    name: Garus
+    auto: true
   - translation_iso: zho
     name: 加鲁斯语
     auto: true

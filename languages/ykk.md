@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤカイケケ語
     auto: true
+  - translation_iso: spa
+    name: Yakaikeke
+    auto: true
   - translation_iso: zho
     name: 亚卡伊克克语
     auto: true

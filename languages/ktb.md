@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カンバータ語
     auto: true
+  - translation_iso: spa
+    name: Kambaata
+    auto: true
   - translation_iso: zho
     name: 坎巴塔语
     auto: true

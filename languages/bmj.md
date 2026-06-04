@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ボテ・ダライ語
     auto: true
+  - translation_iso: spa
+    name: Bote-Darai
+    auto: true
   - translation_iso: zho
     name: 勃底語
 ---

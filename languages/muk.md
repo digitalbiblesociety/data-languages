@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムゴム語
     auto: true
+  - translation_iso: spa
+    name: Mugom
+    auto: true
   - translation_iso: zho
     name: 穆戈姆语
     auto: true

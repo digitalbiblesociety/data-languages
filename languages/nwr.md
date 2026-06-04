@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナワル語
     auto: true
+  - translation_iso: spa
+    name: Nawaru
+    auto: true
   - translation_iso: zho
     name: 纳瓦鲁语
     auto: true

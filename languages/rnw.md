@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルングワ語
     auto: true
+  - translation_iso: spa
+    name: Rungwa
+    auto: true
   - translation_iso: zho
     name: 鲁恩瓦语
     auto: true

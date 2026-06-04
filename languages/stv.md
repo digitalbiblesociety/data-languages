@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シルテ語
+  - translation_iso: spa
+    name: "Silt'e"
+    auto: true
   - translation_iso: zho
     name: 西尔特语
     auto: true

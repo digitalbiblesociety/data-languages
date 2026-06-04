@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カニヌワ語
     auto: true
+  - translation_iso: spa
+    name: Kaninuwa
+    auto: true
   - translation_iso: zho
     name: 卡宁乌瓦语
     auto: true

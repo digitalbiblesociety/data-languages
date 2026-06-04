@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルンダイエ語
     auto: true
+  - translation_iso: spa
+    name: Lundayeh
+    auto: true
   - translation_iso: zho
     name: 龙达耶语
     auto: true

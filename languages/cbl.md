@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブアルカウ・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Bualkhaw
+    auto: true
   - translation_iso: zho
     name: 布阿尔卡欧钦语
     auto: true

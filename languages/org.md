@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オリング語
     auto: true
+  - translation_iso: spa
+    name: Oring
+    auto: true
   - translation_iso: zho
     name: 奥林语
     auto: true

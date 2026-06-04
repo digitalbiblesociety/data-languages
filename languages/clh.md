@@ -22,6 +22,9 @@ translations:
     name: चीलीस्सो भाषा
   - translation_iso: jpn
     name: チリッソ語
+  - translation_iso: spa
+    name: Chilisso
+    auto: true
   - translation_iso: zho
     name: 奇利索语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東ポー語
+  - translation_iso: spa
+    name: Karen Pwo Oriental
+    auto: true
   - translation_iso: zho
     name: 普沃东卡伦语
     auto: true

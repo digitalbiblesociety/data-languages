@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベン・テイ・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Ben Tey
+    auto: true
   - translation_iso: zho
     name: 本特伊多贡语
     auto: true

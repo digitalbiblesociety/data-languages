@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メガム語
     auto: true
+  - translation_iso: spa
+    name: Megam
+    auto: true
   - translation_iso: zho
     name: 梅甘语
     auto: true

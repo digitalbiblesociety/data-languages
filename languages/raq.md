@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: サアム語
     auto: true
+  - translation_iso: spa
+    name: Saam
+    auto: true
   - translation_iso: zho
     name: 萨姆语
     auto: true

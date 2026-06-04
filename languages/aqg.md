@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アリギディ語
     auto: true
+  - translation_iso: spa
+    name: Arigidi
+    auto: true
   - translation_iso: zho
     name: 阿里吉迪语
     auto: true

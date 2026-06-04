@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: オンテヌ語
     auto: true
+  - translation_iso: spa
+    name: Ontenu
+    auto: true
   - translation_iso: zho
     name: 翁特努语
     auto: true

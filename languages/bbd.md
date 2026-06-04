@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バウ語
     auto: true
+  - translation_iso: spa
+    name: Bau
+    auto: true
   - translation_iso: zho
     name: 鲍语
     auto: true

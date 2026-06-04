@@ -17,6 +17,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セナヤ語
+  - translation_iso: spa
+    name: Senaya
+    auto: true
   - translation_iso: zho
     name: 塞納亞語
 ---

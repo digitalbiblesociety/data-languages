@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テン語
     auto: true
+  - translation_iso: spa
+    name: "T'en"
+    auto: true
   - translation_iso: zho
     name: 佯僙语
 rolv_dialects:

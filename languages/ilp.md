@@ -15,6 +15,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イラヌン語
+  - translation_iso: spa
+    name: Iranun (Filipinas)
+    auto: true
   - translation_iso: zho
     name: 伊兰农语（菲律宾）
     auto: true

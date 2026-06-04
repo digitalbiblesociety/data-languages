@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボレイ語
     auto: true
+  - translation_iso: spa
+    name: Borei
+    auto: true
   - translation_iso: zho
     name: 博雷语
     auto: true

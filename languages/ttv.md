@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティタン語
+  - translation_iso: spa
+    name: Titan
+    auto: true
   - translation_iso: zho
     name: 蒂坦语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サウスイースタン・ノチクストラン・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco del Sureste de Nochixtlán
+    auto: true
   - translation_iso: zho
     name: 东南诺奇克斯特兰米克斯特克语
     auto: true

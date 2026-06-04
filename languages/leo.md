@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レティ語
     auto: true
+  - translation_iso: spa
+    name: Leti (Camerún)
+    auto: true
   - translation_iso: zho
     name: 莱蒂语(喀麦隆)
     auto: true

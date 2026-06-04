@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウェスタンラル語
     auto: true
+  - translation_iso: spa
+    name: Lalu occidental
+    auto: true
   - translation_iso: zho
     name: 西拉卢语
     auto: true

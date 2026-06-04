@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワリス語
     auto: true
+  - translation_iso: spa
+    name: Waris
+    auto: true
   - translation_iso: zho
     name: 瓦里斯语
     auto: true

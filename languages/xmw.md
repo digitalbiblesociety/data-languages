@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツィミヘティ・マダガスカル語
+  - translation_iso: spa
+    name: Malgache tsimihety
+    auto: true
   - translation_iso: zho
     name: 西米赫蒂马尔加什语
     auto: true

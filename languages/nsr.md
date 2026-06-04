@@ -22,6 +22,9 @@ translations:
     name: समुद्री सांकेतिक भाषा
   - translation_iso: jpn
     name: 沿海州手話
+  - translation_iso: spa
+    name: Lengua de Señas Marítima
+    auto: true
   - translation_iso: zho
     name: 海事手语
     auto: true

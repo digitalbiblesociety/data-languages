@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナアバ語
     auto: true
+  - translation_iso: spa
+    name: Naaba
+    auto: true
   - translation_iso: zho
     name: 纳巴语
     auto: true

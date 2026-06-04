@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 이사카어
+  - translation_iso: spa
+    name: Krisa
+    auto: true
   - translation_iso: zho
     name: 克里萨语
     auto: true

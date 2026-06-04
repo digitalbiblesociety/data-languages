@@ -22,6 +22,9 @@ translations:
     name: harijan kinnauri language
   - translation_iso: jpn
     name: ハリジャン・キナウル語
+  - translation_iso: spa
+    name: Kinnauri Harijan
+    auto: true
   - translation_iso: zho
     name: 哈里詹金瑙里语
     auto: true

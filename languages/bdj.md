@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バイ語
     auto: true
+  - translation_iso: spa
+    name: Bai (Sudán del Sur)
+    auto: true
   - translation_iso: zho
     name: 拜语
 ---

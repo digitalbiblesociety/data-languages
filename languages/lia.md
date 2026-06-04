@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 西中部リンバ語
     auto: true
+  - translation_iso: spa
+    name: Limba occidental-central
+    auto: true
   - translation_iso: zho
     name: 西中林巴语
     auto: true

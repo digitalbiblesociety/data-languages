@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マクレウ語
     auto: true
+  - translation_iso: spa
+    name: Maklew
+    auto: true
   - translation_iso: zho
     name: 玛克鲁语
     auto: true

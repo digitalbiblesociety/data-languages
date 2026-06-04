@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カンジュ語
     auto: true
+  - translation_iso: spa
+    name: Kanju
+    auto: true
   - translation_iso: zho
     name: 卡祖语
     auto: true

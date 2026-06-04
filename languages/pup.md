@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: プラブ語
     auto: true
+  - translation_iso: spa
+    name: Pulabu
+    auto: true
   - translation_iso: zho
     name: 普拉布语
     auto: true

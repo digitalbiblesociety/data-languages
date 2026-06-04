@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワリ語（ガーナ）
     auto: true
+  - translation_iso: spa
+    name: Wali
+    auto: true
   - translation_iso: zho
     name: 瓦利语（加纳）
     auto: true

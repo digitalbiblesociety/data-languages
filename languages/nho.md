@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タクー語
+  - translation_iso: spa
+    name: Takuu
+    auto: true
   - translation_iso: zho
     name: 塔库语
     auto: true

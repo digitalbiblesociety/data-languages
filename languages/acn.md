@@ -25,6 +25,9 @@ translations:
     name: アチャン語
   - translation_iso: kor
     name: 아창어
+  - translation_iso: spa
+    name: Achang
+    auto: true
   - translation_iso: zho
     name: 阿昌语
 rolv_dialects:

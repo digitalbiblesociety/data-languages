@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドグル・ドム・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Dogul Dom
+    auto: true
   - translation_iso: zho
     name: 多古尔多姆多贡语
     auto: true

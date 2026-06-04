@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コット語
+  - translation_iso: spa
+    name: Kott
+    auto: true
   - translation_iso: zho
     name: 科特语
 ---

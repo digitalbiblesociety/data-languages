@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウォガムシン語
     auto: true
+  - translation_iso: spa
+    name: Wogamusin
+    auto: true
   - translation_iso: zho
     name: 沃加木新语
     auto: true

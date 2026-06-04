@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤフナ語
     auto: true
+  - translation_iso: spa
+    name: Yahuna
+    auto: true
   - translation_iso: zho
     name: 亚胡纳语
     auto: true

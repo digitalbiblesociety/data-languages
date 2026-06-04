@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 村語
+  - translation_iso: spa
+    name: Cun
+    auto: true
   - translation_iso: zho
     name: 仡隆语
 ---

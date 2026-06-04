@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワマス語
     auto: true
+  - translation_iso: spa
+    name: Wamas
+    auto: true
   - translation_iso: zho
     name: 瓦玛斯语
     auto: true

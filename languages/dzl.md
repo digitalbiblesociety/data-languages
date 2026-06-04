@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ザラ語
+  - translation_iso: spa
+    name: Dzalakha
+    auto: true
   - translation_iso: zho
     name: 扎拉卡语
     auto: true

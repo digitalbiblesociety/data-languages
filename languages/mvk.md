@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: メクメク語
     auto: true
+  - translation_iso: spa
+    name: Mekmek
+    auto: true
   - translation_iso: zho
     name: 梅克梅克语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クコン語
     auto: true
+  - translation_iso: spa
+    name: Kucong
+    auto: true
   - translation_iso: zho
     name: 苦聪话
 ---

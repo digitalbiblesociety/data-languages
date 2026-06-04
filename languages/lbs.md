@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リビア手話
+  - translation_iso: spa
+    name: Lengua de señas libia
+    auto: true
   - translation_iso: zho
     name: 利比亚手语
     auto: true

@@ -22,6 +22,9 @@ translations:
     name: चौरा भाषा
   - translation_iso: jpn
     name: チャウラ語
+  - translation_iso: spa
+    name: Chaura
+    auto: true
   - translation_iso: zho
     name: 焦拉语
 rolv_dialects:

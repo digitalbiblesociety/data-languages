@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プーノーイ語
+  - translation_iso: spa
+    name: Phunoi
+    auto: true
   - translation_iso: zho
     name: 普内语
 rolv_dialects:

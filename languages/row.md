@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デラオエナレ語
     auto: true
+  - translation_iso: spa
+    name: Dela-Oenale
+    auto: true
   - translation_iso: zho
     name: 德拉-欧埃纳莱语
     auto: true

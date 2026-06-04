@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アダラ語
     auto: true
+  - translation_iso: spa
+    name: Adara
+    auto: true
   - translation_iso: zho
     name: 阿达拉语
     auto: true

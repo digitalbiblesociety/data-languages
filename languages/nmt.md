@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナモヌイト語
+  - translation_iso: spa
+    name: Namonuito
+    auto: true
   - translation_iso: zho
     name: 纳莫努伊托语
     auto: true

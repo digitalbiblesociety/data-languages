@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フンガナ語
     auto: true
+  - translation_iso: spa
+    name: Hungana
+    auto: true
   - translation_iso: zho
     name: 洪加纳语
     auto: true

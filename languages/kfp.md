@@ -22,6 +22,9 @@ translations:
     name: कोरवा भाषा
   - translation_iso: jpn
     name: コルワ語
+  - translation_iso: spa
+    name: Korwa
+    auto: true
   - translation_iso: zho
     name: 科尔瓦语
 rolv_dialects:

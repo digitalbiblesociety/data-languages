@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エテビ語
     auto: true
+  - translation_iso: spa
+    name: Etebi
+    auto: true
   - translation_iso: zho
     name: 埃特比语
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ンガナカルティ語
     auto: true
+  - translation_iso: spa
+    name: Nganakarti
+    auto: true
   - translation_iso: zho
     name: 恩甘卡蒂语
     auto: true

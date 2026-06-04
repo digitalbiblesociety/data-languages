@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イインハワンカ語
     auto: true
+  - translation_iso: spa
+    name: Yinhawangka
+    auto: true
   - translation_iso: zho
     name: 伊因哈旺卡语
     auto: true

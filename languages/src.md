@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ログドーロ・サルデーニャ語
+  - translation_iso: spa
+    name: Sardo logudorés
+    auto: true
   - translation_iso: zho
     name: 洛古多罗方言
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サンタ・マリア・デル・マル・ウアベ語
     auto: true
+  - translation_iso: spa
+    name: Huave de Santa María del Mar
+    auto: true
   - translation_iso: zho
     name: 圣玛丽亚德尔玛尔瓦夫语
     auto: true

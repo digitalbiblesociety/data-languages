@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥパニナン・アグタ語
     auto: true
+  - translation_iso: spa
+    name: Agta Dupaninan
+    auto: true
   - translation_iso: zho
     name: 杜帕尼南阿格塔语
     auto: true

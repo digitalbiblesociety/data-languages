@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アダセン語
     auto: true
+  - translation_iso: spa
+    name: Adasen
+    auto: true
   - translation_iso: zho
     name: 阿达森语
     auto: true

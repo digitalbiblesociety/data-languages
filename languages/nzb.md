@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゼビ語
+  - translation_iso: spa
+    name: Njebi
+    auto: true
   - translation_iso: zho
     name: 恩杰比语
     auto: true

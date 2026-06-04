@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブノゲ・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Bunoge
+    auto: true
   - translation_iso: zho
     name: 布诺格多贡语
     auto: true

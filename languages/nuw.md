@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングルワン語
+  - translation_iso: spa
+    name: Nguluwan
+    auto: true
   - translation_iso: zho
     name: 恩古卢万语
     auto: true

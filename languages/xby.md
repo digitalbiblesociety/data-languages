@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バティアラ語
+  - translation_iso: spa
+    name: Batjala
+    auto: true
   - translation_iso: zho
     name: 巴奇亚拉语
     auto: true

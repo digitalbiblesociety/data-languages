@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エリップ語
     auto: true
+  - translation_iso: spa
+    name: Elip
+    auto: true
   - translation_iso: zho
     name: 埃利普语
     auto: true

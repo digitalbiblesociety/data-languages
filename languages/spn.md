@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サナパナパイボマ語
     auto: true
+  - translation_iso: spa
+    name: Sanapaná
+    auto: true
   - translation_iso: zho
     name: 萨纳帕纳语
     auto: true

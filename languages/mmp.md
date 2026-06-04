@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シアウィ語
     auto: true
+  - translation_iso: spa
+    name: Siawi
+    auto: true
   - translation_iso: zho
     name: 西亚维语
     auto: true

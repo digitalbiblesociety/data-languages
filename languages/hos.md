@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホーチミン市手話
+  - translation_iso: spa
+    name: Lengua de señas de Ciudad Ho Chi Minh
+    auto: true
   - translation_iso: zho
     name: 胡志明市手语
     auto: true

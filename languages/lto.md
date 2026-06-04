@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツォツォ語
+  - translation_iso: spa
+    name: Tsotso
+    auto: true
   - translation_iso: zho
     name: 措措语
     auto: true

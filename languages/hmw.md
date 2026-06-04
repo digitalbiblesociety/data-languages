@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西部麻山フモン語
+  - translation_iso: spa
+    name: Hmong Mashan occidental
+    auto: true
   - translation_iso: zho
     name: 西部土语
 rolv_dialects:

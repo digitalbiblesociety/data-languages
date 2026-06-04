@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バヤノ語
     auto: true
+  - translation_iso: spa
+    name: Bayono
+    auto: true
   - translation_iso: zho
     name: 拜约诺语
     auto: true

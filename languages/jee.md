@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ジェルング語
     auto: true
+  - translation_iso: spa
+    name: Jerung
+    auto: true
   - translation_iso: zho
     name: 杰龙语
     auto: true

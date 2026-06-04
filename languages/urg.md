@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オリガナウ語
     auto: true
+  - translation_iso: spa
+    name: Urigina
+    auto: true
   - translation_iso: zho
     name: 乌里吉纳语
     auto: true

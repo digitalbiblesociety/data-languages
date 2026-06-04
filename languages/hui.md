@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フリ語
+  - translation_iso: spa
+    name: Huli
+    auto: true
   - translation_iso: zho
     name: 胡里語
 ---

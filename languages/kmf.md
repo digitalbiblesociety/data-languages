@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カレ語
     auto: true
+  - translation_iso: spa
+    name: Kare (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 卡雷语
     auto: true

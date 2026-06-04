@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワコナ語
     auto: true
+  - translation_iso: spa
+    name: Wakoná
+    auto: true
   - translation_iso: zho
     name: 瓦科纳语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ググ・ワッラ語
     auto: true
+  - translation_iso: spa
+    name: Gugu Warra
+    auto: true
   - translation_iso: zho
     name: 古古瓦拉语
     auto: true

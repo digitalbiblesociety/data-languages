@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンカニャ語
+  - translation_iso: spa
+    name: Mankanya
+    auto: true
   - translation_iso: zho
     name: 曼卡尼亞語
 rolv_dialects:

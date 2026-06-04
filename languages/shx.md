@@ -25,6 +25,9 @@ translations:
     name: シェ語
   - translation_iso: kor
     name: 서어
+  - translation_iso: spa
+    name: She
+    auto: true
   - translation_iso: zho
     name: 畲语
 rolv_dialects:

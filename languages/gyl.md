@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガイル語
     auto: true
+  - translation_iso: spa
+    name: Gayil
+    auto: true
   - translation_iso: zho
     name: 盖伊尔语
     auto: true

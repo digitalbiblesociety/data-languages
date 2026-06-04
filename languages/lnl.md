@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サウス・セントラル・バンダ語
     auto: true
+  - translation_iso: spa
+    name: Banda centrosureño
+    auto: true
   - translation_iso: zho
     name: 南中班达语
     auto: true

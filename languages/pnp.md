@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パンカナ語
     auto: true
+  - translation_iso: spa
+    name: Pancana
+    auto: true
   - translation_iso: zho
     name: 潘卡纳语
     auto: true

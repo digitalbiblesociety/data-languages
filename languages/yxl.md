@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ヤードリアワラ語
     auto: true
+  - translation_iso: spa
+    name: Yardliyawarra
+    auto: true
   - translation_iso: zho
     name: 亚德利亚瓦拉语
     auto: true

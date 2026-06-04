@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イヴビエ北オクペラアーエ語
     auto: true
+  - translation_iso: spa
+    name: Ivbie North-Okpela-Arhe
+    auto: true
   - translation_iso: zho
     name: 伊夫比北-奥克佩拉-阿尔赫语
     auto: true

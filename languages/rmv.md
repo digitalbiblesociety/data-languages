@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロマノヴァ
+  - translation_iso: spa
+    name: Romanova
+    auto: true
   - translation_iso: zho
     name: 罗曼诺瓦语
     auto: true

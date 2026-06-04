@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Songoora語
+  - translation_iso: spa
+    name: Songoora
+    auto: true
   - translation_iso: zho
     name: 松戈拉语
     auto: true

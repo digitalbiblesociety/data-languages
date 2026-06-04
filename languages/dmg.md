@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アッパー・キナバタンガン語
     auto: true
+  - translation_iso: spa
+    name: Kinabatangan Superior
+    auto: true
   - translation_iso: zho
     name: 上基那巴坦甘语
     auto: true

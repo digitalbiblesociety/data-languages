@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ポンヨ・ゴングワン・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Ponyo-Gongwang
+    auto: true
   - translation_iso: zho
     name: 蓬约-贡旺纳加语
     auto: true

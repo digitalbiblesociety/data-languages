@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ルガ語
     auto: true
+  - translation_iso: spa
+    name: Ruga
+    auto: true
   - translation_iso: zho
     name: 鲁加语
     auto: true

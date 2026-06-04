@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Ndambomo語
+  - translation_iso: spa
+    name: Ndambomo
+    auto: true
   - translation_iso: zho
     name: 恩达姆博莫语
     auto: true

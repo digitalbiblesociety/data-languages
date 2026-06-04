@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グボコ語
     auto: true
+  - translation_iso: spa
+    name: Gvoko
+    auto: true
   - translation_iso: zho
     name: 古沃科语
     auto: true

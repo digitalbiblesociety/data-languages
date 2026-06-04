@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パンチパルガニア語
     auto: true
+  - translation_iso: spa
+    name: Panchpargania
+    auto: true
   - translation_iso: zho
     name: 潘奇帕尔甘尼亚语
     auto: true

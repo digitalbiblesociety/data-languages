@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンコロ語
     auto: true
+  - translation_iso: spa
+    name: Nkoroo
+    auto: true
   - translation_iso: zho
     name: 恩科罗语
     auto: true

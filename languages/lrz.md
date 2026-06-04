@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レメリグ語
     auto: true
+  - translation_iso: spa
+    name: Lemerig
+    auto: true
   - translation_iso: zho
     name: 勒梅里格语
     auto: true

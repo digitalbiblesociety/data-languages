@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フォロ語
     auto: true
+  - translation_iso: spa
+    name: Pholo
+    auto: true
   - translation_iso: zho
     name: 仆拉语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マレ語
     auto: true
+  - translation_iso: spa
+    name: Male (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 马莱语
     auto: true

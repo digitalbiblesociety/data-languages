@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チャコボ語
     auto: true
+  - translation_iso: spa
+    name: Chácobo
+    auto: true
   - translation_iso: zho
     name: 查科博语
     auto: true

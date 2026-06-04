@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤカイ語
     auto: true
+  - translation_iso: spa
+    name: Yaqay
+    auto: true
   - translation_iso: zho
     name: 雅盖语
     auto: true

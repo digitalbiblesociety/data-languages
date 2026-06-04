@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クァザ語
+  - translation_iso: spa
+    name: "Kw'adza"
+    auto: true
   - translation_iso: zho
     name: 夸扎语
     auto: true

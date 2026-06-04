@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムボ語（コンゴ民主共和国）
     auto: true
+  - translation_iso: spa
+    name: Mbo
+    auto: true
   - translation_iso: zho
     name: 姆博语(刚果民主共和国)
     auto: true

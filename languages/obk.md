@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南ボントク語
+  - translation_iso: spa
+    name: Bontok meridional
+    auto: true
   - translation_iso: zho
     name: 南博托克语
     auto: true

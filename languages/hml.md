@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 羅泊河フモン語
+  - translation_iso: spa
+    name: Hmong Luopohe
+    auto: true
   - translation_iso: zho
     name: 苗语罗泊河次方言
 rolv_dialects:

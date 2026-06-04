@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アプマ語
+  - translation_iso: spa
+    name: Apma
+    auto: true
   - translation_iso: zho
     name: 阿普玛语
     auto: true

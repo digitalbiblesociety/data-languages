@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タングコ語
     auto: true
+  - translation_iso: spa
+    name: Tangko
+    auto: true
   - translation_iso: zho
     name: 塘科语
     auto: true

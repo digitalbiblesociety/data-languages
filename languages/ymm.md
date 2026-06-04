@@ -24,6 +24,9 @@ translations:
     name: マーイ方言
   - translation_iso: kor
     name: 마이마이
+  - translation_iso: spa
+    name: Maay
+    auto: true
   - translation_iso: zho
     name: 玛伊语
     auto: true

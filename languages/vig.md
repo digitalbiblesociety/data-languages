@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヴィゲ語
     auto: true
+  - translation_iso: spa
+    name: Viemo
+    auto: true
   - translation_iso: zho
     name: 维莫语
     auto: true

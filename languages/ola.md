@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワルングゲ語
     auto: true
+  - translation_iso: spa
+    name: Walungge
+    auto: true
   - translation_iso: zho
     name: 瓦伦格语
     auto: true

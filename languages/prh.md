@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ポロハノン語
     auto: true
+  - translation_iso: spa
+    name: Porohanon
+    auto: true
   - translation_iso: zho
     name: 波罗哈农语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イインウム語
     auto: true
+  - translation_iso: spa
+    name: Yinwum
+    auto: true
   - translation_iso: zho
     name: 伊因温语
     auto: true

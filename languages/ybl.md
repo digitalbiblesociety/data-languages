@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ユクベン語
     auto: true
+  - translation_iso: spa
+    name: Yukuben
+    auto: true
   - translation_iso: zho
     name: 尤库本语
     auto: true

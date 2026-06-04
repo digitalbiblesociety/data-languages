@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クニェ語
+  - translation_iso: spa
+    name: Numèè
+    auto: true
   - translation_iso: zho
     name: 努梅语
     auto: true

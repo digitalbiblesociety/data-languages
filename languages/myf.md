@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バンバッシ語
     auto: true
+  - translation_iso: spa
+    name: Bambassi
+    auto: true
   - translation_iso: zho
     name: 巴姆巴西语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンガンド語
     auto: true
+  - translation_iso: spa
+    name: Ngando (República Democrática del Congo)
+    auto: true
   - translation_iso: zho
     name: 恩甘多语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アチェ語
     auto: true
+  - translation_iso: spa
+    name: Ache
+    auto: true
   - translation_iso: zho
     name: 阿車語
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボンドゥム・ドム・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Bondum Dom
+    auto: true
   - translation_iso: zho
     name: 邦杜姆多姆多贡语
     auto: true

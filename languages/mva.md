@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マナム語
+  - translation_iso: spa
+    name: Manam
+    auto: true
   - translation_iso: zho
     name: 玛南语
     auto: true

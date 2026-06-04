@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングベー語
+  - translation_iso: spa
+    name: Ngbee
+    auto: true
   - translation_iso: zho
     name: 恩格贝语
     auto: true

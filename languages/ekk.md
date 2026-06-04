@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エストニア語
     auto: true
+  - translation_iso: spa
+    name: Estonio estándar
+    auto: true
   - translation_iso: zho
     name: 爱沙尼亚语
     auto: true

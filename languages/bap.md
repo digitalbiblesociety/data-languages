@@ -23,6 +23,9 @@ translations:
     name: बंतावा भाषा
   - translation_iso: jpn
     name: バンタワ語
+  - translation_iso: spa
+    name: Bantawa
+    auto: true
   - translation_iso: zho
     name: 班塔瓦語
 rolv_dialects:

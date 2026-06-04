@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マハーラーシュトリアン・コンカニ語
+  - translation_iso: spa
+    name: Konkani
+    auto: true
   - translation_iso: zho
     name: 马哈施特拉孔卡尼语
 rolv_dialects:

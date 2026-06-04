@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部チャン語
+  - translation_iso: spa
+    name: Qiang meridional
+    auto: true
   - translation_iso: zho
     name: 南羌语
 rolv_dialects:

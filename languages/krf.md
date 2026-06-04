@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コロ語
+  - translation_iso: spa
+    name: Koro (Vanuatu)
+    auto: true
   - translation_iso: zho
     name: 科罗语(瓦努阿图)
     auto: true

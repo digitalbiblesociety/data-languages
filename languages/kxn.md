@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カノウィット・タンジョン・メラナウ語
     auto: true
+  - translation_iso: spa
+    name: Melanau Kanowit-Tanjong
+    auto: true
   - translation_iso: zho
     name: 卡诺威特-坦蓬美拉瑙语
     auto: true

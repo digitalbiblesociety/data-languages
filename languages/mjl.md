@@ -22,6 +22,9 @@ translations:
     name: मंडयाली
   - translation_iso: jpn
     name: マンデアーリー語
+  - translation_iso: spa
+    name: Mandeali
+    auto: true
   - translation_iso: zho
     name: 曼德阿利语
     auto: true

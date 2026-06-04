@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビカウ・タウマコ語
+  - translation_iso: spa
+    name: Pileni
+    auto: true
   - translation_iso: zho
     name: 皮伦尼语
     auto: true

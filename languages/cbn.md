@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャークル語
+  - translation_iso: spa
+    name: Nyahkur
+    auto: true
   - translation_iso: zho
     name: 涅固尔语
 ---

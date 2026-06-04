@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ジャド語
     auto: true
+  - translation_iso: spa
+    name: Jad
+    auto: true
   - translation_iso: zho
     name: 贾德语
     auto: true

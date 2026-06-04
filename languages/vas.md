@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴァサヴィ語
+  - translation_iso: spa
+    name: Vasavi
+    auto: true
   - translation_iso: zho
     name: 瓦萨维语
 rolv_dialects:

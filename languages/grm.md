@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コタ・マルドゥ・タランタング語
     auto: true
+  - translation_iso: spa
+    name: Talantang de Kota Marudu
+    auto: true
   - translation_iso: zho
     name: 科塔马鲁杜塔兰坦语
     auto: true

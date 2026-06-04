@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バウ語
     auto: true
+  - translation_iso: spa
+    name: Bau Bidayuh
+    auto: true
   - translation_iso: zho
     name: 查格依
 rolv_dialects:

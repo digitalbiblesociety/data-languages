@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ホイーニ語
     auto: true
+  - translation_iso: spa
+    name: "Kho'ini"
+    auto: true
   - translation_iso: zho
     name: 克霍伊尼语
     auto: true

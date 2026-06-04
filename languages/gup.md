@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グンウィング語
+  - translation_iso: spa
+    name: Gunwinggu
+    auto: true
   - translation_iso: zho
     name: 甘温古语
     auto: true

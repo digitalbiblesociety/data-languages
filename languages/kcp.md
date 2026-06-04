@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カンガ語
     auto: true
+  - translation_iso: spa
+    name: Kanga
+    auto: true
   - translation_iso: zho
     name: 康加语
     auto: true

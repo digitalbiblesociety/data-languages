@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アバイ・スンガイ語
     auto: true
+  - translation_iso: spa
+    name: Abai Sungai
+    auto: true
   - translation_iso: zho
     name: 阿拜松盖语
     auto: true

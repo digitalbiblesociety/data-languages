@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シルムバ語
     auto: true
+  - translation_iso: spa
+    name: Shwai
+    auto: true
   - translation_iso: zho
     name: 沙瓦伊语
     auto: true

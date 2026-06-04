@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヌータ語
+  - translation_iso: spa
+    name: Anuta
+    auto: true
   - translation_iso: zho
     name: 阿努塔语
 ---

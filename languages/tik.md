@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティカル語
     auto: true
+  - translation_iso: spa
+    name: Tikar
+    auto: true
   - translation_iso: zho
     name: 蒂卡尔语
     auto: true

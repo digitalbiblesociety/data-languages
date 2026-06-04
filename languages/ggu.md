@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グバン語
+  - translation_iso: spa
+    name: Gagu
+    auto: true
   - translation_iso: zho
     name: 加古语
     auto: true

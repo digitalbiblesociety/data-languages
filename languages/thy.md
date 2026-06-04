@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タ語
     auto: true
+  - translation_iso: spa
+    name: Tha
+    auto: true
   - translation_iso: zho
     name: 塔语
     auto: true

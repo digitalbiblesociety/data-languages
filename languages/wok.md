@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロング語
     auto: true
+  - translation_iso: spa
+    name: Longto
+    auto: true
   - translation_iso: zho
     name: 隆托语
     auto: true

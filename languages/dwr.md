@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダウロ語
     auto: true
+  - translation_iso: spa
+    name: Dawro
+    auto: true
   - translation_iso: zho
     name: 达乌罗语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムバ語
     auto: true
+  - translation_iso: spa
+    name: Mba
+    auto: true
   - translation_iso: zho
     name: 姆巴语
     auto: true

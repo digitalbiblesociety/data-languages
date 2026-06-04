@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラプティング語
     auto: true
+  - translation_iso: spa
+    name: Rapting
+    auto: true
   - translation_iso: zho
     name: 拉普廷语
     auto: true

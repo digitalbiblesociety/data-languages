@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マヴェア語
+  - translation_iso: spa
+    name: Mafea
+    auto: true
   - translation_iso: zho
     name: 玛费亚语
     auto: true

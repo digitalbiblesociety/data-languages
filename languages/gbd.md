@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カラジャリ語
     auto: true
+  - translation_iso: spa
+    name: Karajarri
+    auto: true
   - translation_iso: zho
     name: 卡拉杰瑞神话
 ---

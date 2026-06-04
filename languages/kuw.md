@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: クパグア語
     auto: true
+  - translation_iso: spa
+    name: Kpagua
+    auto: true
   - translation_iso: zho
     name: 克帕瓜语
     auto: true

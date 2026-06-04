@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: イモトング語
     auto: true
+  - translation_iso: spa
+    name: Imotong
+    auto: true
   - translation_iso: zho
     name: 伊莫通语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナンビャ語
+  - translation_iso: spa
+    name: Nambya
+    auto: true
   - translation_iso: zho
     name: 南比亞語
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダベ語
     auto: true
+  - translation_iso: spa
+    name: Dabe
+    auto: true
   - translation_iso: zho
     name: 达贝语
     auto: true

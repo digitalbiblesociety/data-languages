@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チュニジア手話
+  - translation_iso: spa
+    name: Lengua de señas tunecina
+    auto: true
   - translation_iso: zho
     name: 突尼斯手语
     auto: true

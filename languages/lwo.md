@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルウォ語
+  - translation_iso: spa
+    name: Luwo
+    auto: true
   - translation_iso: zho
     name: 卢沃语
     auto: true

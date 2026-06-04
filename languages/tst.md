@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: TSK語
     auto: true
+  - translation_iso: spa
+    name: Tondi Songway Kiini
+    auto: true
   - translation_iso: zho
     name: 通迪松格韦基伊尼语
     auto: true

@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シャボ語
+  - translation_iso: spa
+    name: Chabu
+    auto: true
   - translation_iso: zho
     name: 沙博语
 ---

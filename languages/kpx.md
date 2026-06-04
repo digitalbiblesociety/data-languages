@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マウンテン・コイアリ語
     auto: true
+  - translation_iso: spa
+    name: Koiali de montaña
+    auto: true
   - translation_iso: zho
     name: 山地科亚利语
     auto: true

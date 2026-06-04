@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セボップ語
     auto: true
+  - translation_iso: spa
+    name: Sebop
+    auto: true
   - translation_iso: zho
     name: 塞博普语
     auto: true

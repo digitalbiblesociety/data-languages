@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナミア語
+  - translation_iso: spa
+    name: Namia
+    auto: true
   - translation_iso: zho
     name: 纳米亚语
     auto: true

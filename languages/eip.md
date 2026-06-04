@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エイポメク語
     auto: true
+  - translation_iso: spa
+    name: Eipomek
+    auto: true
   - translation_iso: zho
     name: 埃波梅克语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タングラプウイ語
     auto: true
+  - translation_iso: spa
+    name: Kula
+    auto: true
   - translation_iso: zho
     name: 库拉语
     auto: true

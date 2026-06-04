@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ネファメセ語
     auto: true
+  - translation_iso: spa
+    name: Nefamese
+    auto: true
   - translation_iso: zho
     name: 内法梅塞语
     auto: true

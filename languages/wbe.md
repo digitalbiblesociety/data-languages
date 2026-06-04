@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワリタイ語
     auto: true
+  - translation_iso: spa
+    name: Waritai
+    auto: true
   - translation_iso: zho
     name: 瓦里泰语
     auto: true

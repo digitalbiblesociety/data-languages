@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ブルンカ手話
     auto: true
+  - translation_iso: spa
+    name: Lengua de señas brunca
+    auto: true
   - translation_iso: zho
     name: 布鲁卡手语
     auto: true

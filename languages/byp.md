@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブマジ語
     auto: true
+  - translation_iso: spa
+    name: Bumaji
+    auto: true
   - translation_iso: zho
     name: 布马吉语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コタ語
+  - translation_iso: spa
+    name: Kota (Gabón)
+    auto: true
   - translation_iso: zho
     name: Kota语
 ---

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マワ語
+  - translation_iso: spa
+    name: Mawa
+    auto: true
   - translation_iso: zho
     name: 玛瓦语（尼日利亚）
     auto: true

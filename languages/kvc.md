@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コヴェ語
+  - translation_iso: spa
+    name: Kove
+    auto: true
   - translation_iso: zho
     name: 科韦语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カロレ語
     auto: true
+  - translation_iso: spa
+    name: Karore
+    auto: true
   - translation_iso: zho
     name: 卡罗雷语
     auto: true

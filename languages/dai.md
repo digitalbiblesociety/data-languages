@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: デイ語
     auto: true
+  - translation_iso: spa
+    name: Day
+    auto: true
   - translation_iso: zho
     name: 代语
 rolv_dialects:

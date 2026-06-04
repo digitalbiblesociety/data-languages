@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トンサワン語
+  - translation_iso: spa
+    name: Tonsawang
+    auto: true
   - translation_iso: zho
     name: 通萨旺语
     auto: true

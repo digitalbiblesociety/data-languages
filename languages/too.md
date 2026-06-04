@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シコテペク・デ・フアレス・トトナック語
     auto: true
+  - translation_iso: spa
+    name: Totonaco de Xicotepec de Juárez
+    auto: true
   - translation_iso: zho
     name: 希科特佩克德胡亚雷斯托托纳克语
     auto: true

@@ -25,6 +25,9 @@ translations:
     name: ネギダール語
   - translation_iso: kor
     name: 네기달어
+  - translation_iso: spa
+    name: Negidal
+    auto: true
   - translation_iso: zho
     name: 涅吉達爾語
 rolv_dialects:

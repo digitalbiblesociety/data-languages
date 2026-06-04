@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カラムセ語
     auto: true
+  - translation_iso: spa
+    name: Kalamsé
+    auto: true
   - translation_iso: zho
     name: 卡拉梅语
     auto: true

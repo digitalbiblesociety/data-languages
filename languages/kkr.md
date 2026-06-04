@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キル・バラル語
+  - translation_iso: spa
+    name: Kir-Balar
+    auto: true
   - translation_iso: zho
     name: 基尔-巴拉尔语
     auto: true

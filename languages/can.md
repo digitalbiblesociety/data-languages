@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チャンブリ語
     auto: true
+  - translation_iso: spa
+    name: Chambri
+    auto: true
   - translation_iso: zho
     name: 尚布里语
     auto: true

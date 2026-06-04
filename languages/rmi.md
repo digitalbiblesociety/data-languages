@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロマブレン語
     auto: true
+  - translation_iso: spa
+    name: Lomavren
+    auto: true
   - translation_iso: zho
     name: 羅美語
 ---

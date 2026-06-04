@@ -25,6 +25,9 @@ translations:
     name: ニウアトプタプ語
   - translation_iso: kor
     name: 니우아토푸타푸어
+  - translation_iso: spa
+    name: Niuatoputapu
+    auto: true
   - translation_iso: zho
     name: 纽阿托普塔语
 ---

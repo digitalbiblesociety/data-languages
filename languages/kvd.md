@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クイ語（インドネシア）
     auto: true
+  - translation_iso: spa
+    name: Kui (Indonesia)
+    auto: true
   - translation_iso: zho
     name: 库伊语(印度尼西亚)
     auto: true

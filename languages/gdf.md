@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グドゥフ・ガヴァ語
     auto: true
+  - translation_iso: spa
+    name: Guduf-Gava
+    auto: true
   - translation_iso: zho
     name: 古杜夫-加瓦语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンバラアイタ語
     auto: true
+  - translation_iso: spa
+    name: Ambala Ayta
+    auto: true
   - translation_iso: zho
     name: 安巴拉艾塔语
     auto: true

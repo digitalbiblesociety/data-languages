@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソヤルテペク・マサテク語
     auto: true
+  - translation_iso: spa
+    name: Mazateco de Soyaltepec
+    auto: true
   - translation_iso: zho
     name: 索亚尔特佩克马萨特克语
     auto: true

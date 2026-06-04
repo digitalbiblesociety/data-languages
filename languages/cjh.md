@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 上チヘリス語
+  - translation_iso: spa
+    name: Chehalis Alto
+    auto: true
   - translation_iso: zho
     name: 上切哈利斯语
     auto: true

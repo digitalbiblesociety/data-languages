@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アヴォカヤ語
     auto: true
+  - translation_iso: spa
+    name: Avokaya
+    auto: true
   - translation_iso: zho
     name: 阿沃卡亚语
     auto: true

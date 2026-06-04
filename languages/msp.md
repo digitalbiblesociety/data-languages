@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マリツァウア語
     auto: true
+  - translation_iso: spa
+    name: Maritsauá
+    auto: true
   - translation_iso: zho
     name: 马里萨乌亚语
     auto: true

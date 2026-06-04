@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クケレ語
     auto: true
+  - translation_iso: spa
+    name: Kukele
+    auto: true
   - translation_iso: zho
     name: 库凯莱语
     auto: true

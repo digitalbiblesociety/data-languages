@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バングバング語
+  - translation_iso: spa
+    name: Bangubangu
+    auto: true
   - translation_iso: zho
     name: 班古班古语
     auto: true

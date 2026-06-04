@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プハ語
     auto: true
+  - translation_iso: spa
+    name: Phukha
+    auto: true
   - translation_iso: zho
     name: 夫卡语
 ---

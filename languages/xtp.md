@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サンミゲル・ピエドラス・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de San Miguel Piedras
+    auto: true
   - translation_iso: zho
     name: 圣米格尔-皮埃德拉斯-米斯特克语
     auto: true

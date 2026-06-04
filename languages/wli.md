@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワイオリ語
+  - translation_iso: spa
+    name: Waioli
+    auto: true
   - translation_iso: zho
     name: 瓦约利语
     auto: true

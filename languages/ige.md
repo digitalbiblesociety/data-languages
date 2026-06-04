@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イゲデ語
     auto: true
+  - translation_iso: spa
+    name: Igede
+    auto: true
   - translation_iso: zho
     name: 伊格德语
     auto: true

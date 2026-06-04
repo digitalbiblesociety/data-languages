@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エラヴァッラン語
     auto: true
+  - translation_iso: spa
+    name: Eravallan
+    auto: true
   - translation_iso: zho
     name: 埃拉瓦兰语
     auto: true

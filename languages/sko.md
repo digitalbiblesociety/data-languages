@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ペワネアン語
     auto: true
+  - translation_iso: spa
+    name: Seko Tengah
+    auto: true
   - translation_iso: zho
     name: 塞科滕加语
     auto: true

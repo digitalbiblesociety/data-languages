@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンギセリー語
+  - translation_iso: spa
+    name: Sangisari
+    auto: true
   - translation_iso: zho
     name: 桑吉塞里語
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ンガルム語
     auto: true
+  - translation_iso: spa
+    name: Ngalum
+    auto: true
   - translation_iso: zho
     name: 恩加卢姆语
     auto: true

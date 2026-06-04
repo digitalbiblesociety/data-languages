@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラフ・シ語
     auto: true
+  - translation_iso: spa
+    name: Lahu shi
+    auto: true
   - translation_iso: zho
     name: 拉胡施语
     auto: true

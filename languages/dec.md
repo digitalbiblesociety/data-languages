@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダギク語
     auto: true
+  - translation_iso: spa
+    name: Dagik
+    auto: true
   - translation_iso: zho
     name: 达吉克语
     auto: true

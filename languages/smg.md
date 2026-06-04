@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アシンバリ語
     auto: true
+  - translation_iso: spa
+    name: Simbali
+    auto: true
   - translation_iso: zho
     name: 西姆巴利语
     auto: true

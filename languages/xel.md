@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケロ語
     auto: true
+  - translation_iso: spa
+    name: Kelo
+    auto: true
   - translation_iso: zho
     name: 克洛语
     auto: true

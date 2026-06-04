@@ -25,6 +25,9 @@ translations:
     name: マン語
   - translation_iso: kor
     name: 망어
+  - translation_iso: spa
+    name: Mang
+    auto: true
   - translation_iso: zho
     name: 莽语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 南ビリフォル語
     auto: true
+  - translation_iso: spa
+    name: Birifor del sur
+    auto: true
   - translation_iso: zho
     name: 南比里福语
     auto: true

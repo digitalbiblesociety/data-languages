@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガレヤ語
     auto: true
+  - translation_iso: spa
+    name: Galeya
+    auto: true
   - translation_iso: zho
     name: 加莱亚语
     auto: true

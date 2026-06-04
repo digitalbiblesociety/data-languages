@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワンダラン語
     auto: true
+  - translation_iso: spa
+    name: Wandarang
+    auto: true
   - translation_iso: zho
     name: 万达兰语
     auto: true

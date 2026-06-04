@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ガンダンガラ語
     auto: true
+  - translation_iso: spa
+    name: Gundungurra
+    auto: true
   - translation_iso: zho
     name: 贡顿古拉语
     auto: true

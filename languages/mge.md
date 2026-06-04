@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マンゴ語
     auto: true
+  - translation_iso: spa
+    name: Mango
+    auto: true
   - translation_iso: zho
     name: 芒戈语
     auto: true

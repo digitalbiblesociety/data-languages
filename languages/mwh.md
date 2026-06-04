@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モク・アリア語
+  - translation_iso: spa
+    name: Mouk-Aria
+    auto: true
   - translation_iso: zho
     name: 莫克阿里亚语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンザカンバイ語
     auto: true
+  - translation_iso: spa
+    name: Nzakambay
+    auto: true
   - translation_iso: zho
     name: 恩扎坎巴伊语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 原チェンマイ手話
+  - translation_iso: spa
+    name: Lengua de Señas de Chiangmai
+    auto: true
   - translation_iso: zho
     name: 清迈手语
     auto: true

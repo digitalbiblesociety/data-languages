@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: メデブル語
     auto: true
+  - translation_iso: spa
+    name: Medebur
+    auto: true
   - translation_iso: zho
     name: 梅德布尔语
     auto: true

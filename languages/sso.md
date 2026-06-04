@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シサノ語
+  - translation_iso: spa
+    name: Sissano
+    auto: true
   - translation_iso: zho
     name: 西萨诺语
     auto: true

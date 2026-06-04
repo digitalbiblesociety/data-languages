@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: カダイ語
     auto: true
+  - translation_iso: spa
+    name: Kadai
+    auto: true
   - translation_iso: zho
     name: 卡代语
     auto: true

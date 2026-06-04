@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カウウェラ語
     auto: true
+  - translation_iso: spa
+    name: Kauwera
+    auto: true
   - translation_iso: zho
     name: 考韦拉语
     auto: true

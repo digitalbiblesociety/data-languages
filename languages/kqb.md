@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コヴァイ語
+  - translation_iso: spa
+    name: Kovai
+    auto: true
   - translation_iso: zho
     name: 科瓦伊语
     auto: true

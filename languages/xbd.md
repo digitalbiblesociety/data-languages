@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビンダル
+  - translation_iso: spa
+    name: Bindal
+    auto: true
   - translation_iso: zho
     name: 宾德尔语
     auto: true

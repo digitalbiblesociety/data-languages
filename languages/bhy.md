@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベレ語
     auto: true
+  - translation_iso: spa
+    name: Bhele
+    auto: true
   - translation_iso: zho
     name: 贝勒语
     auto: true

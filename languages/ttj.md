@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トーロ語
+  - translation_iso: spa
+    name: Tooro
+    auto: true
   - translation_iso: zho
     name: 图罗语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デグ語
     auto: true
+  - translation_iso: spa
+    name: Deg
+    auto: true
   - translation_iso: zho
     name: 德格语
     auto: true

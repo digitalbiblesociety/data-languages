@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディティダフト語
     auto: true
+  - translation_iso: spa
+    name: Ditidaht
+    auto: true
   - translation_iso: zho
     name: 迪蒂达特语
 ---

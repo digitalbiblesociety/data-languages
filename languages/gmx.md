@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マゴマ語
     auto: true
+  - translation_iso: spa
+    name: Magoma
+    auto: true
   - translation_iso: zho
     name: 马戈马语
     auto: true

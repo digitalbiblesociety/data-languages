@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フー語
     auto: true
+  - translation_iso: spa
+    name: Hu
+    auto: true
   - translation_iso: zho
     name: 户语
 ---

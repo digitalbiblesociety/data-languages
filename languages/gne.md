@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガナング語
     auto: true
+  - translation_iso: spa
+    name: Ganang
+    auto: true
   - translation_iso: zho
     name: 加南语
     auto: true

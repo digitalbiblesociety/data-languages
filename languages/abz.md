@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アブイ語
+  - translation_iso: spa
+    name: Abui
+    auto: true
   - translation_iso: zho
     name: 阿布伊语
     auto: true

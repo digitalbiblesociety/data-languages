@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: イブ語
     auto: true
+  - translation_iso: spa
+    name: Ibu
+    auto: true
   - translation_iso: zho
     name: 伊布语
     auto: true

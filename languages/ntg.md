@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ンガンタンガラ語
     auto: true
+  - translation_iso: spa
+    name: Ngantangarra
+    auto: true
   - translation_iso: zho
     name: 恩甘坦加拉语
     auto: true

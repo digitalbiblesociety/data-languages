@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シカイアナ語
+  - translation_iso: spa
+    name: Sikaiana
+    auto: true
   - translation_iso: zho
     name: 西卡亚纳语
     auto: true

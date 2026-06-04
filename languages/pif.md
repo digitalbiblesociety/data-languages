@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピンゲラップ語
+  - translation_iso: spa
+    name: Pingelapés
+    auto: true
   - translation_iso: zho
     name: 平格拉佩語
 ---

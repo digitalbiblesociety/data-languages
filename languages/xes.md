@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケサワイ語
     auto: true
+  - translation_iso: spa
+    name: Kesawai
+    auto: true
   - translation_iso: zho
     name: 克萨瓦伊语
     auto: true

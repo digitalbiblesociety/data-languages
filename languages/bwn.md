@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 唔奈方言
+  - translation_iso: spa
+    name: Bunu Wunai
+    auto: true
   - translation_iso: zho
     name: 唔奈语
 ---

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: デフィ・ベ語
     auto: true
+  - translation_iso: spa
+    name: Defi Gbe
+    auto: true
   - translation_iso: zho
     name: 德菲格贝语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: プラポ・クルメン語
     auto: true
+  - translation_iso: spa
+    name: Krumen Plapo
+    auto: true
   - translation_iso: zho
     name: 普拉波克鲁门语
     auto: true

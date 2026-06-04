@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ネパール語
     auto: true
+  - translation_iso: spa
+    name: Nepalés
+    auto: true
   - translation_iso: zho
     name: 尼泊尔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キサカタ語
     auto: true
+  - translation_iso: spa
+    name: Sakata
+    auto: true
   - translation_iso: zho
     name: 萨卡塔语
     auto: true

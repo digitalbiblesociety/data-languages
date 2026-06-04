@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メスメ語
     auto: true
+  - translation_iso: spa
+    name: Mesme
+    auto: true
   - translation_iso: zho
     name: 梅斯梅语
     auto: true

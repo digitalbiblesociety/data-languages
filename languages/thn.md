@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タチャナダン語
     auto: true
+  - translation_iso: spa
+    name: Thachanadan
+    auto: true
   - translation_iso: zho
     name: 塔恰纳丹语
     auto: true

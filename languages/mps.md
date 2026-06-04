@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダリビ語
+  - translation_iso: spa
+    name: Dadibi
+    auto: true
   - translation_iso: zho
     name: 达迪比语
     auto: true

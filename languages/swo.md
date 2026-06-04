@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シャネナワ語
     auto: true
+  - translation_iso: spa
+    name: Shanenawa
+    auto: true
   - translation_iso: zho
     name: 沙内纳瓦语
     auto: true

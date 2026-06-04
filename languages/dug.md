@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドゥルマ語
     auto: true
+  - translation_iso: spa
+    name: Duruma
+    auto: true
   - translation_iso: zho
     name: 杜鲁玛语
     auto: true

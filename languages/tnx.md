@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タネマ語
+  - translation_iso: spa
+    name: Tanema
+    auto: true
   - translation_iso: zho
     name: 塔内马语
     auto: true

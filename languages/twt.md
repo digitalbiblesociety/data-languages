@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥリウアラ語
     auto: true
+  - translation_iso: spa
+    name: Turiwára
+    auto: true
   - translation_iso: zho
     name: 图里瓦拉语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トー語
     auto: true
+  - translation_iso: spa
+    name: To
+    auto: true
   - translation_iso: zho
     name: 托语
     auto: true

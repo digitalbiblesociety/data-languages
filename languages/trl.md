@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トラベラー・スコットランド語
     auto: true
+  - translation_iso: spa
+    name: Cant escocés
+    auto: true
   - translation_iso: zho
     name: 苏格兰罗姆语
 ---

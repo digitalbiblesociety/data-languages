@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エゼシオ語
     auto: true
+  - translation_iso: spa
+    name: Kamakán
+    auto: true
   - translation_iso: zho
     name: 卡马坎语
     auto: true

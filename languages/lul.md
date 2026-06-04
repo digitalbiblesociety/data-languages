@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オルボ語
     auto: true
+  - translation_iso: spa
+    name: "Olu'bo"
+    auto: true
   - translation_iso: zho
     name: 奥卢博语
     auto: true

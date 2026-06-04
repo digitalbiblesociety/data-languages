@@ -25,6 +25,9 @@ translations:
     name: 沖永良部島方言
   - translation_iso: kor
     name: 오키노에라부 방언
+  - translation_iso: spa
+    name: Oki-No-Erabu
+    auto: true
   - translation_iso: zho
     name: 沖永良部語
 rolv_dialects:

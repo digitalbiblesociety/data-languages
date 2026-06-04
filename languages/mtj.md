@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モスコナ語
     auto: true
+  - translation_iso: spa
+    name: Moskona
+    auto: true
   - translation_iso: zho
     name: 莫斯科纳语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タングアット語
     auto: true
+  - translation_iso: spa
+    name: Tanguat
+    auto: true
   - translation_iso: zho
     name: 坦古阿特语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニミャルティ語
     auto: true
+  - translation_iso: spa
+    name: Tera
+    auto: true
   - translation_iso: zho
     name: 特拉語
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トル語
     auto: true
+  - translation_iso: spa
+    name: Tol
+    auto: true
   - translation_iso: zho
     name: 希卡克語
 ---

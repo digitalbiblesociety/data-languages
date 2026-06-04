@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: バガ・カルム語
     auto: true
+  - translation_iso: spa
+    name: Baga Kaloum
+    auto: true
   - translation_iso: zho
     name: 巴加卡卢姆语
     auto: true

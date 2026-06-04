@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドゥアウプワタ語
     auto: true
+  - translation_iso: spa
+    name: Sewa Bay
+    auto: true
   - translation_iso: zho
     name: 塞瓦湾语
     auto: true

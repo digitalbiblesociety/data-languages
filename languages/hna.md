@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミナ語
     auto: true
+  - translation_iso: spa
+    name: Mina (Camerún)
+    auto: true
   - translation_iso: zho
     name: 米纳语(喀麦隆)
     auto: true

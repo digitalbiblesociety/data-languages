@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラレバット語
     auto: true
+  - translation_iso: spa
+    name: Larevat
+    auto: true
   - translation_iso: zho
     name: 拉雷瓦特语
     auto: true

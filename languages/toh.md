@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ギトンガ語
     auto: true
+  - translation_iso: spa
+    name: Gitonga
+    auto: true
   - translation_iso: zho
     name: 吉通加语
     auto: true

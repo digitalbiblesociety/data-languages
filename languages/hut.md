@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フムラ語
     auto: true
+  - translation_iso: spa
+    name: Humla
+    auto: true
   - translation_iso: zho
     name: 胡姆拉语
     auto: true

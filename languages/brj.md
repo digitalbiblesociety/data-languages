@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビエリア語
     auto: true
+  - translation_iso: spa
+    name: Bieria
+    auto: true
   - translation_iso: zho
     name: 比埃里亚语
     auto: true

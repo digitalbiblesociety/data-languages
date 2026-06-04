@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マワ語
     auto: true
+  - translation_iso: spa
+    name: Mawa (Chad)
+    auto: true
   - translation_iso: zho
     name: 马瓦语
     auto: true

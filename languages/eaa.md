@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: カレンガッパ語
     auto: true
+  - translation_iso: spa
+    name: Karenggapa
+    auto: true
   - translation_iso: zho
     name: 卡伦加帕语
     auto: true

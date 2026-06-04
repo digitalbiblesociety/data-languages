@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バジャン語
     auto: true
+  - translation_iso: spa
+    name: Bajan
+    auto: true
   - translation_iso: zho
     name: 巴詹克里奧爾語
 ---

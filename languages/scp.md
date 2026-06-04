@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヘラムブシェルパ語
     auto: true
+  - translation_iso: spa
+    name: Hyolmo
+    auto: true
   - translation_iso: zho
     name: 约尔莫语
 rolv_dialects:

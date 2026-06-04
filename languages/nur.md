@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌクリア語
+  - translation_iso: spa
+    name: Nukuria
+    auto: true
   - translation_iso: zho
     name: 努库里亚语
     auto: true

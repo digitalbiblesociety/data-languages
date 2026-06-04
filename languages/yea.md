@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラブラ語
     auto: true
+  - translation_iso: spa
+    name: Ravula
+    auto: true
   - translation_iso: zho
     name: 拉乌拉语
     auto: true

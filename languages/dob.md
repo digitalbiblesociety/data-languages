@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドブ語
+  - translation_iso: spa
+    name: Dobu
+    auto: true
   - translation_iso: zho
     name: 多布语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アハンタ語
     auto: true
+  - translation_iso: spa
+    name: Ahanta
+    auto: true
   - translation_iso: zho
     name: 阿汉塔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カプリマン語
     auto: true
+  - translation_iso: spa
+    name: Kapriman
+    auto: true
   - translation_iso: zho
     name: 卡普里曼语
     auto: true

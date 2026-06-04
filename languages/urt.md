@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウラット語
     auto: true
+  - translation_iso: spa
+    name: Urat
+    auto: true
   - translation_iso: zho
     name: 乌拉特语
     auto: true

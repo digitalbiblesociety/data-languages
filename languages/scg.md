@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バハササンガウ語
     auto: true
+  - translation_iso: spa
+    name: Sanggau
+    auto: true
   - translation_iso: zho
     name: 桑高语
     auto: true

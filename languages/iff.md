@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イフォ語
+  - translation_iso: spa
+    name: Ifo
+    auto: true
   - translation_iso: zho
     name: 烏塔哈語
 ---

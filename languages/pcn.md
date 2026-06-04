@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピティ語
+  - translation_iso: spa
+    name: Piti
+    auto: true
   - translation_iso: zho
     name: 皮蒂语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤルンカ語
+  - translation_iso: spa
+    name: Yalunka
+    auto: true
   - translation_iso: zho
     name: 雅隆卡語
 rolv_dialects:

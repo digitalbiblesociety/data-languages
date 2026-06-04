@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カシュイアナ語
     auto: true
+  - translation_iso: spa
+    name: Kaxuiâna
+    auto: true
   - translation_iso: zho
     name: 卡许伊阿纳语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・ドン語
+  - translation_iso: spa
+    name: Tai Dón
+    auto: true
   - translation_iso: zho
     name: 傣端语
 rolv_dialects:

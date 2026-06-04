@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マシ語
     auto: true
+  - translation_iso: spa
+    name: Mashi (Nigeria)
+    auto: true
   - translation_iso: zho
     name: 玛希语（尼日利亚）
     auto: true

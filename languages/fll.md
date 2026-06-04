@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北ファリ語
     auto: true
+  - translation_iso: spa
+    name: Fali del Norte
+    auto: true
   - translation_iso: zho
     name: 北法利语
     auto: true

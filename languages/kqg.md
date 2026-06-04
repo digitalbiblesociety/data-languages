@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケ語
     auto: true
+  - translation_iso: spa
+    name: Khe
+    auto: true
   - translation_iso: zho
     name: 科语
     auto: true

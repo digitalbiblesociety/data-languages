@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルマヤ語
     auto: true
+  - translation_iso: spa
+    name: Mala (Nigeria)
+    auto: true
   - translation_iso: zho
     name: 马拉语（尼日利亚）
     auto: true

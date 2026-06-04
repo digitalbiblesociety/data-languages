@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レレ語
     auto: true
+  - translation_iso: spa
+    name: Lele (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 勒勒语
     auto: true

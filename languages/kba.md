@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カラルコ語
     auto: true
+  - translation_iso: spa
+    name: Kalarko
+    auto: true
   - translation_iso: zho
     name: 卡拉科尔语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パスバレー・ヤリ語
     auto: true
+  - translation_iso: spa
+    name: Yali del valle de los pasos
+    auto: true
   - translation_iso: zho
     name: 帕斯-瓦利-亚里语
     auto: true

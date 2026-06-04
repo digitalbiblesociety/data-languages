@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アウトゥウ語
     auto: true
+  - translation_iso: spa
+    name: Awtuw
+    auto: true
   - translation_iso: zho
     name: 奥图乌语
     auto: true

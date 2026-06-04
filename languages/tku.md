@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 上部ネカクサ・トトナック語
     auto: true
+  - translation_iso: spa
+    name: Totonaco del Alto Necaxa
+    auto: true
   - translation_iso: zho
     name: 上内卡萨托托纳克语
     auto: true

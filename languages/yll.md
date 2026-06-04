@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 일어
+  - translation_iso: spa
+    name: Yil
+    auto: true
   - translation_iso: zho
     name: 伊尔语
     auto: true

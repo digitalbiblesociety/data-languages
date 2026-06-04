@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ランブヤ語
+  - translation_iso: spa
+    name: Lambya
+    auto: true
   - translation_iso: zho
     name: 兰比亚语
     auto: true

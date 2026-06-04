@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウェワウ語
     auto: true
+  - translation_iso: spa
+    name: Wewaw
+    auto: true
   - translation_iso: zho
     name: 韦瓦语
     auto: true

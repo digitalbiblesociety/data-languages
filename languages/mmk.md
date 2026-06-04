@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムカ・ドラ語
     auto: true
+  - translation_iso: spa
+    name: Mukha-Dora
+    auto: true
   - translation_iso: zho
     name: 穆卡-多拉语
     auto: true

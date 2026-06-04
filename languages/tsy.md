@@ -21,6 +21,9 @@ translations:
     name: टेबुल सांकेतिक भाषा
   - translation_iso: jpn
     name: テブル手話
+  - translation_iso: spa
+    name: Lengua de señas de Tebul
+    auto: true
   - translation_iso: zho
     name: 泰布尔手语
     auto: true

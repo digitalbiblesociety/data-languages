@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディタマリ語
     auto: true
+  - translation_iso: spa
+    name: Ditammari
+    auto: true
   - translation_iso: zho
     name: 迪塔马里语
     auto: true

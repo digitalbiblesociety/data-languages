@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティンリン語
+  - translation_iso: spa
+    name: Tiri
+    auto: true
   - translation_iso: zho
     name: 蒂里语
     auto: true

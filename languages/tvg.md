@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: パピア・トゥグ語
     auto: true
+  - translation_iso: spa
+    name: Criollo portugués de Tugu
+    auto: true
   - translation_iso: zho
     name: 图根内塞语
     auto: true

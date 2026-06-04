@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ヤン・ナハン手話
     auto: true
+  - translation_iso: spa
+    name: Lengua de señas Yan-nhaŋu
+    auto: true
   - translation_iso: zho
     name: 扬-恩汉语手语
     auto: true

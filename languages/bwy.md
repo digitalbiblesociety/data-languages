@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クウィ・ブワム語
     auto: true
+  - translation_iso: spa
+    name: Cwi Bwamu
+    auto: true
   - translation_iso: zho
     name: 彻伊布瓦木语
     auto: true

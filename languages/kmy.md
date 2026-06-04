@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コマ語
     auto: true
+  - translation_iso: spa
+    name: Koma
+    auto: true
   - translation_iso: zho
     name: 科玛语
     auto: true

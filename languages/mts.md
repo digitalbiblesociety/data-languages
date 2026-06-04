@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヨラ語
     auto: true
+  - translation_iso: spa
+    name: Yora
+    auto: true
   - translation_iso: zho
     name: 约拉语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ジャンダブラ語
     auto: true
+  - translation_iso: spa
+    name: Jandavra
+    auto: true
   - translation_iso: zho
     name: 詹达夫拉语
     auto: true

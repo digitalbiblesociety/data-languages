@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブンジア語
     auto: true
+  - translation_iso: spa
+    name: Bhunjia
+    auto: true
   - translation_iso: zho
     name: 布门吉亚语
     auto: true

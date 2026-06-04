@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥマリ・カヌリ語
+  - translation_iso: spa
+    name: Kanuri Tumari
+    auto: true
   - translation_iso: zho
     name: 图马里卡努里语
 rolv_dialects:

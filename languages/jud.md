@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウォロドゥグ語
     auto: true
+  - translation_iso: spa
+    name: Worodougou
+    auto: true
   - translation_iso: zho
     name: 沃罗都古语
     auto: true

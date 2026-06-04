@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シン語
     auto: true
+  - translation_iso: spa
+    name: Nshi
+    auto: true
   - translation_iso: zho
     name: 恩什语
     auto: true

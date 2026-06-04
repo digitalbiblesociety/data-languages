@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ラナ・タル語
     auto: true
+  - translation_iso: spa
+    name: Tharu Rana
+    auto: true
   - translation_iso: zho
     name: 拉纳塔鲁语
     auto: true

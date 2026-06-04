@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヴロン語
+  - translation_iso: spa
+    name: Guanyinqiao
+    auto: true
   - translation_iso: zho
     name: 拉坞戎语
 rolv_dialects:

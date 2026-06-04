@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥゲン語
+  - translation_iso: spa
+    name: Tugen
+    auto: true
   - translation_iso: zho
     name: 图根语
     auto: true

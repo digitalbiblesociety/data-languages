@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バアン語
     auto: true
+  - translation_iso: spa
+    name: Baan
+    auto: true
   - translation_iso: zho
     name: 巴安语
     auto: true

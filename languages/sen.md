@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナーニ語
     auto: true
+  - translation_iso: spa
+    name: Senoufo Nanerigé
+    auto: true
   - translation_iso: zho
     name: 纳内里格塞努福语
     auto: true

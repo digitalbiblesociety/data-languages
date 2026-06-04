@@ -24,6 +24,9 @@ translations:
     name: ヌーハルク語
   - translation_iso: kor
     name: 누할크어
+  - translation_iso: spa
+    name: Bella Coola
+    auto: true
   - translation_iso: zho
     name: 努哈爾克語
 ---

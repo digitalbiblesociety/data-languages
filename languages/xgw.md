@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グワ語
     auto: true
+  - translation_iso: spa
+    name: Guwa
+    auto: true
   - translation_iso: zho
     name: 古瓦语
     auto: true

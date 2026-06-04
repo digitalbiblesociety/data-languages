@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アサロオ語
     auto: true
+  - translation_iso: spa
+    name: "Asaro'o"
+    auto: true
   - translation_iso: zho
     name: 阿萨罗语
     auto: true

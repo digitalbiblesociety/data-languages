@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カルムパン語
     auto: true
+  - translation_iso: spa
+    name: Kalumpang
+    auto: true
   - translation_iso: zho
     name: 卡隆帕语
     auto: true

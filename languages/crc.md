@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロンウォルウォル語
+  - translation_iso: spa
+    name: Lonwolwol
+    auto: true
   - translation_iso: zho
     name: 伦沃沃语
 rolv_dialects:

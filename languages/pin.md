@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ピアメ語
     auto: true
+  - translation_iso: spa
+    name: Piame
+    auto: true
   - translation_iso: zho
     name: 皮亚梅语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラムカン語
     auto: true
+  - translation_iso: spa
+    name: Lamkang
+    auto: true
   - translation_iso: zho
     name: 兰卡语
     auto: true

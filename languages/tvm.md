@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テラ・マスブアル語
     auto: true
+  - translation_iso: spa
+    name: Tela-Masbuar
+    auto: true
   - translation_iso: zho
     name: 特拉-玛斯布阿尔语
     auto: true

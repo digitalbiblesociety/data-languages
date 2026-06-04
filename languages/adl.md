@@ -2,7 +2,7 @@
 iso: adl
 name: Galo
 autonym: "Galo '"
-alt_names: [Abor, Adi, "Adi, Galo", "Adi,Galo", Adi-Gallong, Adi-Galo, Gallong, Galong]
+alt_names: [Abor, Adi, Galo, Adi-Gallong, Adi-Galo, Gallong, Galong]
 population: 29200
 country_id: IN
 country_name: India
@@ -22,6 +22,9 @@ translations:
     name: गालो भाषा
   - translation_iso: jpn
     name: Galo語
+  - translation_iso: spa
+    name: Galo
+    auto: true
   - translation_iso: zho
     name: 加洛语
     auto: true

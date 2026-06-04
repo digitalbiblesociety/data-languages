@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ティンベ語
     auto: true
+  - translation_iso: spa
+    name: Timbe
+    auto: true
   - translation_iso: zho
     name: 蒂姆贝语
     auto: true

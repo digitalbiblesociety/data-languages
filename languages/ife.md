@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: イフェ語
     auto: true
+  - translation_iso: spa
+    name: Ifè
+    auto: true
   - translation_iso: zho
     name: 伊费语
     auto: true

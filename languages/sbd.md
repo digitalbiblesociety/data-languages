@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サネ語
     auto: true
+  - translation_iso: spa
+    name: Samo meridional
+    auto: true
   - translation_iso: zho
     name: 南方萨莫语
     auto: true

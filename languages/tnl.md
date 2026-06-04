@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レナケル語
+  - translation_iso: spa
+    name: Lenakel
+    auto: true
   - translation_iso: zho
     name: 勒纳克尔语
     auto: true

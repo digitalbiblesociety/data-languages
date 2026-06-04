@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スイス・フランス手話
+  - translation_iso: spa
+    name: Lengua de señas franco-suiza
+    auto: true
   - translation_iso: zho
     name: 瑞士法语手语
 ---

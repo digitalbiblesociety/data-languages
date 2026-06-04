@@ -25,6 +25,9 @@ translations:
     name: ラーク語
   - translation_iso: kor
     name: 라크어
+  - translation_iso: spa
+    name: Laki
+    auto: true
   - translation_iso: zho
     name: 拉科语
 ---

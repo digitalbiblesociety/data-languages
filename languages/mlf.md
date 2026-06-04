@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マル語
+  - translation_iso: spa
+    name: Mal
+    auto: true
   - translation_iso: zho
     name: 马勒语
 rolv_dialects:

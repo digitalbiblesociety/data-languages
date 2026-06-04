@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブムタン語
+  - translation_iso: spa
+    name: Bumthangkha
+    auto: true
   - translation_iso: zho
     name: 布姆唐语
 rolv_dialects:

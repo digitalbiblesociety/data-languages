@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ノアカリ語
     auto: true
+  - translation_iso: spa
+    name: Noakhali
+    auto: true
   - translation_iso: zho
     name: 诺瓦克哈利语
     auto: true

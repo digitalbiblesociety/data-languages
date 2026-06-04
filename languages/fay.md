@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南西ファルス語
     auto: true
+  - translation_iso: spa
+    name: Fars del Suroeste
+    auto: true
   - translation_iso: zho
     name: 西南法尔斯语
     auto: true

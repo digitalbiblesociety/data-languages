@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マキャン語
     auto: true
+  - translation_iso: spa
+    name: Naga Makyan
+    auto: true
   - translation_iso: zho
     name: 马卡扬那加语
     auto: true

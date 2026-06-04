@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マー語
     auto: true
+  - translation_iso: spa
+    name: Maa
+    auto: true
   - translation_iso: zho
     name: 玛语
     auto: true

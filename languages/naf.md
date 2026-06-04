@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナバク語
     auto: true
+  - translation_iso: spa
+    name: Nabak
+    auto: true
   - translation_iso: zho
     name: 纳巴克语
     auto: true

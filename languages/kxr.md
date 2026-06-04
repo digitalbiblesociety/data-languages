@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コロ語
+  - translation_iso: spa
+    name: Koro (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 科罗语(巴布亚新几内亚)
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グングー語
     auto: true
+  - translation_iso: spa
+    name: Gungu
+    auto: true
   - translation_iso: zho
     name: 贡古语
     auto: true

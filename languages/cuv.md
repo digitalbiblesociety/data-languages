@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クヴォク語
     auto: true
+  - translation_iso: spa
+    name: Cuvok
+    auto: true
   - translation_iso: zho
     name: 库沃克语
     auto: true

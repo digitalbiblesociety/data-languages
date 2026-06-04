@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部モンゴル語群
+  - translation_iso: spa
+    name: Mongol Periférico
+    auto: true
   - translation_iso: zho
     name: 内蒙古方言
 rolv_dialects:

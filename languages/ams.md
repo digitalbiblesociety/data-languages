@@ -25,6 +25,9 @@ translations:
     name: 奄美大島南部方言
   - translation_iso: kor
     name: 아마미오시마 남부 방언
+  - translation_iso: spa
+    name: Amami-Oshima meridional
+    auto: true
   - translation_iso: zho
     name: 南奄美大島語
 ---

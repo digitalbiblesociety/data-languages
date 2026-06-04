@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ンナム語
     auto: true
+  - translation_iso: spa
+    name: Nnam
+    auto: true
   - translation_iso: zho
     name: 恩南语
     auto: true

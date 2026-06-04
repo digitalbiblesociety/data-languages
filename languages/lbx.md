@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラワンガン語
     auto: true
+  - translation_iso: spa
+    name: Lawangan
+    auto: true
   - translation_iso: zho
     name: 盧旺干語
 rolv_dialects:

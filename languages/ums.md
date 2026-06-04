@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウマラサ語
     auto: true
+  - translation_iso: spa
+    name: Pendau
+    auto: true
   - translation_iso: zho
     name: 彭道语
     auto: true

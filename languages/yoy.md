@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨイ語
+  - translation_iso: spa
+    name: Yoy
+    auto: true
   - translation_iso: zho
     name: Yoy语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ログバ語
     auto: true
+  - translation_iso: spa
+    name: Logba
+    auto: true
   - translation_iso: zho
     name: 洛格巴語
 ---

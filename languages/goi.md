@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゴバシ語
     auto: true
+  - translation_iso: spa
+    name: Gobasi
+    auto: true
   - translation_iso: zho
     name: 戈巴西语
     auto: true

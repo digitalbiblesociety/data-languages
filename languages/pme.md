@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プワアメイ語
     auto: true
+  - translation_iso: spa
+    name: Pwaamei
+    auto: true
   - translation_iso: zho
     name: 普瓦梅伊语
     auto: true

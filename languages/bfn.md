@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブナク語
+  - translation_iso: spa
+    name: Bunak
+    auto: true
   - translation_iso: zho
     name: 布纳克语
     auto: true

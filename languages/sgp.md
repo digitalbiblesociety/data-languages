@@ -22,6 +22,9 @@ translations:
     name: सिंगफ़ो भाषा
   - translation_iso: jpn
     name: シンポー語
+  - translation_iso: spa
+    name: Singpho
+    auto: true
   - translation_iso: zho
     name: 辛光语
     auto: true

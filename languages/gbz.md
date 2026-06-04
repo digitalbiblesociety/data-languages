@@ -26,6 +26,9 @@ translations:
     name: ダリー語
   - translation_iso: kor
     name: 조로아스터교 다리어
+  - translation_iso: spa
+    name: Dari zoroastriano
+    auto: true
   - translation_iso: zho
     name: 祆教達利語
 ---

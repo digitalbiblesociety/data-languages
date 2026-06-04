@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カイカディ語
     auto: true
+  - translation_iso: spa
+    name: Kaikadi
+    auto: true
   - translation_iso: zho
     name: 凯卡迪语
     auto: true

@@ -22,6 +22,9 @@ translations:
     name: नंगलामी भाषा
   - translation_iso: jpn
     name: ナンガラム語
+  - translation_iso: spa
+    name: Grangali
+    auto: true
   - translation_iso: zho
     name: 格朗加利语
     auto: true

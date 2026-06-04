@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 마웅어
+  - translation_iso: spa
+    name: Maung
+    auto: true
   - translation_iso: zho
     name: 毛恩语
     auto: true

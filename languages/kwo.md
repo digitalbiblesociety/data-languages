@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クウォムタリ語
     auto: true
+  - translation_iso: spa
+    name: Kwomtari
+    auto: true
   - translation_iso: zho
     name: 克沃姆塔里语
     auto: true

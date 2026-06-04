@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カンダウォ語
     auto: true
+  - translation_iso: spa
+    name: Kandawo
+    auto: true
   - translation_iso: zho
     name: 坎达沃语
     auto: true

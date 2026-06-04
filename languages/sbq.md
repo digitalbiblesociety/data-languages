@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シレイビ語
     auto: true
+  - translation_iso: spa
+    name: Sileibi
+    auto: true
   - translation_iso: zho
     name: 西莱比语
     auto: true

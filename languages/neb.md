@@ -19,10 +19,13 @@ translations:
     name: توورا
     auto: true
   - translation_iso: hin
-    name: तूरा (कोत द'इवोआर)
+    name: "तूरा (कोत द'इवोआर)"
     auto: true
   - translation_iso: jpn
     name: トゥーラ語
+    auto: true
+  - translation_iso: spa
+    name: Toura
     auto: true
   - translation_iso: zho
     name: 托拉语

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イェルメク語
+  - translation_iso: spa
+    name: Yelmek
+    auto: true
   - translation_iso: zho
     name: 耶尔梅克语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バロイ語
     auto: true
+  - translation_iso: spa
+    name: Baloi
+    auto: true
   - translation_iso: zho
     name: 巴洛伊语
     auto: true

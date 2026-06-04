@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アップ・マ語
     auto: true
+  - translation_iso: spa
+    name: Ap Ma
+    auto: true
   - translation_iso: zho
     name: 阿普玛语
     auto: true

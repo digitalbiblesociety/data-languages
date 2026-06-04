@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナマクラ語
+  - translation_iso: spa
+    name: Namakura
+    auto: true
   - translation_iso: zho
     name: 纳玛库拉语
     auto: true

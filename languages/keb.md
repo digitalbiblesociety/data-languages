@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケレ語
+  - translation_iso: spa
+    name: Kélé
+    auto: true
   - translation_iso: zho
     name: 克勒语
 ---

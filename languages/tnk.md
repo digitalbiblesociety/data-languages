@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クワメラ語
     auto: true
+  - translation_iso: spa
+    name: Kwamera
+    auto: true
   - translation_iso: zho
     name: 夸梅拉语
     auto: true

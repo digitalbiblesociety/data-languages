@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バーガンジ語
+  - translation_iso: spa
+    name: Paakantyi
+    auto: true
   - translation_iso: zho
     name: 帕卡蒂语
     auto: true

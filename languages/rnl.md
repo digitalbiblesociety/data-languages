@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラングロン語
     auto: true
+  - translation_iso: spa
+    name: Ranglong
+    auto: true
   - translation_iso: zho
     name: 让隆语
     auto: true

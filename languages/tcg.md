@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タマガリオ語
     auto: true
+  - translation_iso: spa
+    name: Tamagario
+    auto: true
   - translation_iso: zho
     name: 塔玛加里奥语
     auto: true

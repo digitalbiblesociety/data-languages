@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モマレ語
     auto: true
+  - translation_iso: spa
+    name: Momare
+    auto: true
   - translation_iso: zho
     name: 莫马雷语
     auto: true

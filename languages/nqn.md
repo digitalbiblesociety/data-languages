@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ネン語
     auto: true
+  - translation_iso: spa
+    name: Nen
+    auto: true
   - translation_iso: zho
     name: 嫩语
     auto: true

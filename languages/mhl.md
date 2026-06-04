@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マウワケ語
     auto: true
+  - translation_iso: spa
+    name: Mauwake
+    auto: true
   - translation_iso: zho
     name: 毛瓦克语
     auto: true

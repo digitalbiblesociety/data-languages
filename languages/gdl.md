@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディラシャ語
     auto: true
+  - translation_iso: spa
+    name: Dirasha
+    auto: true
   - translation_iso: zho
     name: 迪拉沙语
     auto: true

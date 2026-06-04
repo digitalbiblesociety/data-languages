@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サランガニ・ブラアン語
     auto: true
+  - translation_iso: spa
+    name: Blaan de Sarangani
+    auto: true
   - translation_iso: zho
     name: 萨兰加尼布兰语
     auto: true

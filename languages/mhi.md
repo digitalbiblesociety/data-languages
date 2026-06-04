@@ -25,6 +25,9 @@ translations:
     name: マディ語
   - translation_iso: kor
     name: 마디어
+  - translation_iso: spa
+    name: "Ma'di"
+    auto: true
   - translation_iso: zho
     name: 馬氐語
 rolv_dialects:

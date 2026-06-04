@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロング・フーリ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Long Phuri Naga
+    auto: true
   - translation_iso: zho
     name: 龙普里纳加语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サザン・キシ語
     auto: true
+  - translation_iso: spa
+    name: Kisi Meridional
+    auto: true
   - translation_iso: zho
     name: 南基西语
     auto: true

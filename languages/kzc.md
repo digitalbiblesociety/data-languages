@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ボンドゥークー・クランゴ語
     auto: true
+  - translation_iso: spa
+    name: Kulango de Bondoukou
+    auto: true
   - translation_iso: zho
     name: 邦杜库库朗戈语
     auto: true

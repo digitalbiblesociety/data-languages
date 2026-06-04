@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソルヘ語
+  - translation_iso: spa
+    name: Sorkhei
+    auto: true
   - translation_iso: zho
     name: 索尔赫伊语
     auto: true

@@ -25,6 +25,9 @@ translations:
     name: セダン語
   - translation_iso: kor
     name: 세당어
+  - translation_iso: spa
+    name: Sedang
+    auto: true
   - translation_iso: zho
     name: 色當語
 rolv_dialects:

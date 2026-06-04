@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フェンデ語
     auto: true
+  - translation_iso: spa
+    name: Phende
+    auto: true
   - translation_iso: zho
     name: 芬德语
     auto: true

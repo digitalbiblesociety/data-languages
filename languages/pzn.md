@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パラナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Para
+    auto: true
   - translation_iso: zho
     name: 帕拉那加语
     auto: true

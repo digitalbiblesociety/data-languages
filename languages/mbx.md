@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マリ語
+  - translation_iso: spa
+    name: Mari (Provincia de Sepik Oriental)
+    auto: true
   - translation_iso: zho
     name: 马里语
     auto: true

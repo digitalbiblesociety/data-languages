@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フード語
     auto: true
+  - translation_iso: spa
+    name: Foodo
+    auto: true
   - translation_iso: zho
     name: 福多语
     auto: true

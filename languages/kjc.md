@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コースタル・コンジョ語
     auto: true
+  - translation_iso: spa
+    name: Konjo Costero
+    auto: true
   - translation_iso: zho
     name: 沿海孔若语
     auto: true

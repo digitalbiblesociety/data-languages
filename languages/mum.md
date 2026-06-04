@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マイワラ語
     auto: true
+  - translation_iso: spa
+    name: Maiwala
+    auto: true
   - translation_iso: zho
     name: 迈瓦拉语
     auto: true

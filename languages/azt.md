@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フェアレ・アッタ語
     auto: true
+  - translation_iso: spa
+    name: Atta Faire
+    auto: true
   - translation_iso: zho
     name: 费尔阿塔语
     auto: true

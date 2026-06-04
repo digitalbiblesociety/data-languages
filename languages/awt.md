@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アラウェテ語
     auto: true
+  - translation_iso: spa
+    name: Araweté
+    auto: true
   - translation_iso: zho
     name: 阿拉韦特语
     auto: true

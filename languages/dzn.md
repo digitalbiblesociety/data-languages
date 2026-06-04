@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ジャンド語
     auto: true
+  - translation_iso: spa
+    name: Dzando
+    auto: true
   - translation_iso: zho
     name: 扎恩多语
     auto: true

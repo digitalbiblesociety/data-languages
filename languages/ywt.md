@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シーシャンバ・ラロ語
     auto: true
+  - translation_iso: spa
+    name: Lalo de Xishanba
+    auto: true
   - translation_iso: zho
     name: 西山坝腊罗语
 ---

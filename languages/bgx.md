@@ -25,6 +25,9 @@ translations:
     name: バルカン・ガガウズ・トルコ語
   - translation_iso: kor
     name: 발칸 가가우즈 터키어
+  - translation_iso: spa
+    name: Turco gagauzo de los Balcanes
+    auto: true
   - translation_iso: zho
     name: 魯米利亞突厥語
 rolv_dialects:

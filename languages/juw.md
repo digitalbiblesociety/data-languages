@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワムファ語
     auto: true
+  - translation_iso: spa
+    name: Wãpha
+    auto: true
   - translation_iso: zho
     name: 瓦菲语
     auto: true

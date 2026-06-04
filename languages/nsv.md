@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: 南西ニス語
     auto: true
+  - translation_iso: spa
+    name: Nisu Suroccidental
+    auto: true
   - translation_iso: zho
     name: 西南尼苏语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: インラオド・イトネグ語
     auto: true
+  - translation_iso: spa
+    name: Itneg Inlaod
+    auto: true
   - translation_iso: zho
     name: 因劳德伊特内格语
     auto: true

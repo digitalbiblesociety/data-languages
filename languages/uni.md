@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ラモ語
     auto: true
+  - translation_iso: spa
+    name: Uni
+    auto: true
   - translation_iso: zho
     name: 乌尼语
     auto: true

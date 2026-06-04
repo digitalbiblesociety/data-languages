@@ -15,6 +15,9 @@ translations:
   - translation_iso: jpn
     name: ブー語
     auto: true
+  - translation_iso: spa
+    name: Buu
+    auto: true
   - translation_iso: zho
     name: 布乌语
     auto: true

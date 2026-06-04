@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ロマーノセルビア語
     auto: true
+  - translation_iso: spa
+    name: Romaní serbio
+    auto: true
   - translation_iso: zho
     name: 罗玛-塞尔维亚语
     auto: true

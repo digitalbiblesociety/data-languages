@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナバ語
+  - translation_iso: spa
+    name: Naba
+    auto: true
   - translation_iso: zho
     name: 納巴語
 rolv_dialects:

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 수어
+  - translation_iso: spa
+    name: Sou
+    auto: true
   - translation_iso: zho
     name: 苏语
 ---

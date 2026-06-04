@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロムウェ語
+  - translation_iso: spa
+    name: Lomwe
+    auto: true
   - translation_iso: zho
     name: 洛梅语
     auto: true

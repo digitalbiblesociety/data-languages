@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツァーンギ語
+  - translation_iso: spa
+    name: Tsaangi
+    auto: true
   - translation_iso: zho
     name: 察昂吉语
     auto: true

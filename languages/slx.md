@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チサランパス語
     auto: true
+  - translation_iso: spa
+    name: Salampasu
+    auto: true
   - translation_iso: zho
     name: 萨兰帕苏语
     auto: true

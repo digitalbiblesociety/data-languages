@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パティーヤ語
     auto: true
+  - translation_iso: spa
+    name: Pathiya
+    auto: true
   - translation_iso: zho
     name: 帕蒂亚语
     auto: true

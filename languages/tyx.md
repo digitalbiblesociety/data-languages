@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ウェスト・テケ語
     auto: true
+  - translation_iso: spa
+    name: Teke-Tyee
+    auto: true
   - translation_iso: zho
     name: 特克-蒂伊语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グンディ語
+  - translation_iso: spa
+    name: Gundi
+    auto: true
   - translation_iso: zho
     name: 古迪语
     auto: true

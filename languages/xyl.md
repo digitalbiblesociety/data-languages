@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤラカロレ語
     auto: true
+  - translation_iso: spa
+    name: Yalakalore
+    auto: true
   - translation_iso: zho
     name: 亚拉卡洛雷语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タオ語
     auto: true
+  - translation_iso: spa
+    name: Mubami
+    auto: true
   - translation_iso: zho
     name: 穆巴米语
     auto: true

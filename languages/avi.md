@@ -22,6 +22,9 @@ translations:
     name: अविकम भाषा
   - translation_iso: jpn
     name: アヴィカム語
+  - translation_iso: spa
+    name: Avikam
+    auto: true
   - translation_iso: zho
     name: 阿维卡姆语
     auto: true

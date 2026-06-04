@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラヴェン語
     auto: true
+  - translation_iso: spa
+    name: Laven
+    auto: true
   - translation_iso: zho
     name: 吉盧語
 rolv_dialects:

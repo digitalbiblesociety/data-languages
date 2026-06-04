@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムダ語
     auto: true
+  - translation_iso: spa
+    name: Muda
+    auto: true
   - translation_iso: zho
     name: 木达语
 ---

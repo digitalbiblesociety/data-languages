@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パラカナン語
     auto: true
+  - translation_iso: spa
+    name: Parakanã
+    auto: true
   - translation_iso: zho
     name: 帕拉卡纳语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミステペック・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Mixtepec
+    auto: true
   - translation_iso: zho
     name: 混特佩克萨波特克语
     auto: true

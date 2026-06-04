@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カイエプ語
     auto: true
+  - translation_iso: spa
+    name: Kaiep
+    auto: true
   - translation_iso: zho
     name: 卡伊普语
     auto: true

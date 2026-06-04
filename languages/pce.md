@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ルチング・パラウン語
     auto: true
+  - translation_iso: spa
+    name: Palaung ruching
+    auto: true
   - translation_iso: zho
     name: 瑞钦帕劳恩语
     auto: true

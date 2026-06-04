@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アルア語
     auto: true
+  - translation_iso: spa
+    name: Aruá (estado de Rondonia)
+    auto: true
   - translation_iso: zho
     name: 鲁多尼亚州阿鲁亚语
     auto: true

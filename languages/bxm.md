@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モンゴルブリヤート語
+  - translation_iso: spa
+    name: Buriato de Mongolia
+    auto: true
   - translation_iso: zho
     name: 蒙古布里亚特语
 rolv_dialects:

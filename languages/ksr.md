@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボロン語
     auto: true
+  - translation_iso: spa
+    name: Borong
+    auto: true
   - translation_iso: zho
     name: 博龙语
     auto: true

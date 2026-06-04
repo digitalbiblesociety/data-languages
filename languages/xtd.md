@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディウシ・ティランベンゴ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Diuxi-Tilantongo
+    auto: true
   - translation_iso: zho
     name: 迪乌克西-蒂兰通戈-米斯特克语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ホワイトサンズ語
     auto: true
+  - translation_iso: spa
+    name: Whitesands
+    auto: true
   - translation_iso: zho
     name: 怀特桑兹语
     auto: true

@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: 東部タマン語
     auto: true
+  - translation_iso: spa
+    name: Tamang oriental
+    auto: true
   - translation_iso: zho
     name: 东塔芒语
     auto: true

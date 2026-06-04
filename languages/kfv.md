@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クルムカル語
     auto: true
+  - translation_iso: spa
+    name: Kurmukar
+    auto: true
   - translation_iso: zho
     name: 库尔穆卡尔语
     auto: true

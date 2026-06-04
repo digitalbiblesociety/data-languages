@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北カタン語
     auto: true
+  - translation_iso: spa
+    name: Katang septentrional
+    auto: true
   - translation_iso: zho
     name: 北卡当语
     auto: true

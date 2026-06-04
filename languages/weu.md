@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: ラウング・チン語
     auto: true
+  - translation_iso: spa
+    name: Rawngtu Chin
+    auto: true
   - translation_iso: zho
     name: 朗图-钦语
     auto: true

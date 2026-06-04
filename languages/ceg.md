@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チャマココ語
     auto: true
+  - translation_iso: spa
+    name: Chamacoco
+    auto: true
   - translation_iso: zho
     name: 查马科科语
     auto: true

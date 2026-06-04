@@ -22,6 +22,9 @@ translations:
     name: फिनिश साइन लैंग्वेज
   - translation_iso: jpn
     name: フィンランド手話
+  - translation_iso: spa
+    name: Lengua de señas finlandesa
+    auto: true
   - translation_iso: zho
     name: 芬兰语手语
 ---

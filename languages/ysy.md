@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サニー語
+  - translation_iso: spa
+    name: Sanie
+    auto: true
   - translation_iso: zho
     name: 撒涅语
 rolv_dialects:

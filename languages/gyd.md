@@ -25,6 +25,9 @@ translations:
     name: ヤンカール語
   - translation_iso: kor
     name: 카야르딜드어
+  - translation_iso: spa
+    name: Kayardild
+    auto: true
   - translation_iso: zho
     name: 卡亚尔第利德语
 ---

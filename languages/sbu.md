@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: スッドボティ語
     auto: true
+  - translation_iso: spa
+    name: Stod Bhoti
+    auto: true
   - translation_iso: zho
     name: 藏语上蕃方言
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビヨ語
     auto: true
+  - translation_iso: spa
+    name: Biyo
+    auto: true
   - translation_iso: zho
     name: 碧约语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アラナダン語
     auto: true
+  - translation_iso: spa
+    name: Aranadan
+    auto: true
   - translation_iso: zho
     name: 阿兰丹语
     auto: true

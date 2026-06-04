@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エブリエ語
+  - translation_iso: spa
+    name: Ebrié
+    auto: true
   - translation_iso: zho
     name: 埃布里埃语
     auto: true

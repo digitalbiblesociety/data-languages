@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハノイ手話
+  - translation_iso: spa
+    name: Lengua de señas de Hanói
+    auto: true
   - translation_iso: zho
     name: 河内手语
     auto: true

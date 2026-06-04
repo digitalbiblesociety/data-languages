@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ドゥンガル語
     auto: true
+  - translation_iso: spa
+    name: Dhungaloo
+    auto: true
   - translation_iso: zho
     name: 丹加卢语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブカット語
     auto: true
+  - translation_iso: spa
+    name: Bukat
+    auto: true
   - translation_iso: zho
     name: 布卡特语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アクロア語
     auto: true
+  - translation_iso: spa
+    name: Acroá
+    auto: true
   - translation_iso: zho
     name: 阿克罗亚语
     auto: true

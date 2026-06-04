@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミアン語
     auto: true
+  - translation_iso: spa
+    name: Mian
+    auto: true
   - translation_iso: zho
     name: 米安语
     auto: true

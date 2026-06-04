@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オーラムス語
     auto: true
+  - translation_iso: spa
+    name: Oorlams
+    auto: true
   - translation_iso: zho
     name: 奥尔拉姆斯语
     auto: true

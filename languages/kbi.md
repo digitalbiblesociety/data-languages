@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カプティアウ語
     auto: true
+  - translation_iso: spa
+    name: Kaptiau
+    auto: true
   - translation_iso: zho
     name: 卡普蒂奥语
     auto: true

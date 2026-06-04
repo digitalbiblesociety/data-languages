@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マイアドム語
     auto: true
+  - translation_iso: spa
+    name: Maiadomu
+    auto: true
   - translation_iso: zho
     name: 玛亚多姆语
     auto: true

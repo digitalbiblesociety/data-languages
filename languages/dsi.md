@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ディサ語
     auto: true
+  - translation_iso: spa
+    name: Disa
+    auto: true
   - translation_iso: zho
     name: 迪萨语
     auto: true

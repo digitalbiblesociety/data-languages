@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サンフアンアツィンゴポポロカ語
     auto: true
+  - translation_iso: spa
+    name: Popoloca de San Juan Atzingo
+    auto: true
   - translation_iso: zho
     name: 圣胡安阿特辛戈波波卡语
     auto: true

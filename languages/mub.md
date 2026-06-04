@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムビ語
     auto: true
+  - translation_iso: spa
+    name: Mubi
+    auto: true
   - translation_iso: zho
     name: 穆比语
     auto: true

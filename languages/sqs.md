@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スリランカ手話
+  - translation_iso: spa
+    name: Lengua de señas de Sri Lanka
+    auto: true
   - translation_iso: zho
     name: 斯里兰卡手语
     auto: true

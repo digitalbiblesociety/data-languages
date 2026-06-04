@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マクシ・グベ語
     auto: true
+  - translation_iso: spa
+    name: Maxi Gbe
+    auto: true
   - translation_iso: zho
     name: 玛克西格贝语
     auto: true

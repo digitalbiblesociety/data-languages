@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジョラ＝カサ語
+  - translation_iso: spa
+    name: Jola-Kasa
+    auto: true
   - translation_iso: zho
     name: 约拉-卡萨语
     auto: true

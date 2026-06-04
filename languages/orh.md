@@ -25,6 +25,9 @@ translations:
     name: オロチョン語
   - translation_iso: kor
     name: 어룬춘어
+  - translation_iso: spa
+    name: Oroqen
+    auto: true
   - translation_iso: zho
     name: 鄂伦春语
 rolv_dialects:

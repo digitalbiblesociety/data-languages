@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジタ語
     auto: true
+  - translation_iso: spa
+    name: Jita
+    auto: true
   - translation_iso: zho
     name: 吉塔语
     auto: true

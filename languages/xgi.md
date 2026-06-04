@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ガリングバル語
     auto: true
+  - translation_iso: spa
+    name: Garingbal
+    auto: true
   - translation_iso: zho
     name: 加林巴尔语
     auto: true

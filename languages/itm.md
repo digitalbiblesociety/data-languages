@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イトゥ・ムボン・ウゾ語
     auto: true
+  - translation_iso: spa
+    name: Itu Mbon Uzo
+    auto: true
   - translation_iso: zho
     name: 伊图姆邦乌佐语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボネク語
     auto: true
+  - translation_iso: spa
+    name: Tuotomb
+    auto: true
   - translation_iso: zho
     name: 图奥图姆语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アワ語
+  - translation_iso: spa
+    name: Awa
+    auto: true
   - translation_iso: zho
     name: 阿佤方言
 rolv_dialects:

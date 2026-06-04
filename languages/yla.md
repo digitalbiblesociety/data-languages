@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤウル語
     auto: true
+  - translation_iso: spa
+    name: Yaul
+    auto: true
   - translation_iso: zho
     name: 亚乌尔语
     auto: true

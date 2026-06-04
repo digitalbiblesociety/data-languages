@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤカマ語
+  - translation_iso: spa
+    name: Yakama
+    auto: true
   - translation_iso: zho
     name: 亚卡玛语
     auto: true

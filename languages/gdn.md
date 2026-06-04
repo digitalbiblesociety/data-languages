@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウマナカイナ語
     auto: true
+  - translation_iso: spa
+    name: Umanakaina
+    auto: true
   - translation_iso: zho
     name: 乌玛纳凯纳语
     auto: true

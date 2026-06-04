@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハーンサール語
+  - translation_iso: spa
+    name: Khunsari
+    auto: true
   - translation_iso: zho
     name: 胡恩萨里语
     auto: true

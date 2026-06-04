@@ -22,6 +22,9 @@ translations:
     name: कच्छी भाषा
   - translation_iso: jpn
     name: カッチ語
+  - translation_iso: spa
+    name: Kachhi
+    auto: true
   - translation_iso: zho
     name: 喀奇語
 rolv_dialects:

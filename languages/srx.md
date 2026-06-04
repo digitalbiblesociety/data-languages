@@ -23,6 +23,9 @@ translations:
     name: सिरमौरी
   - translation_iso: jpn
     name: スルマウリ語
+  - translation_iso: spa
+    name: Sirmauri
+    auto: true
   - translation_iso: zho
     name: 希尔毛里语
     auto: true

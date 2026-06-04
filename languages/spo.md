@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スポケーン語
+  - translation_iso: spa
+    name: Spokane
+    auto: true
   - translation_iso: zho
     name: 斯波肯语
     auto: true

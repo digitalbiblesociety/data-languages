@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボノ語
     auto: true
+  - translation_iso: spa
+    name: Vono
+    auto: true
   - translation_iso: zho
     name: 沃诺语
     auto: true

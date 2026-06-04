@@ -22,6 +22,9 @@ translations:
     name: गोगो भाषा
   - translation_iso: jpn
     name: ゴゴ語
+  - translation_iso: spa
+    name: Gogo
+    auto: true
   - translation_iso: zho
     name: 戈戈语
     auto: true

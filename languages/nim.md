@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニランバ語
     auto: true
+  - translation_iso: spa
+    name: Nilamba
+    auto: true
   - translation_iso: zho
     name: 尼兰巴语
     auto: true

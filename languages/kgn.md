@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カリンガニ語
     auto: true
+  - translation_iso: spa
+    name: Karingani
+    auto: true
   - translation_iso: zho
     name: 卡林加尼语
     auto: true

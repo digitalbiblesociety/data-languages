@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ジアロ語
     auto: true
+  - translation_iso: spa
+    name: Zialo
+    auto: true
   - translation_iso: zho
     name: 齐亚罗语
     auto: true

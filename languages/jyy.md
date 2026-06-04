@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジャヤ語
     auto: true
+  - translation_iso: spa
+    name: Jaya
+    auto: true
   - translation_iso: zho
     name: 雅亚语
     auto: true

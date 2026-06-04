@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マティグサルグ・マノボ語
     auto: true
+  - translation_iso: spa
+    name: Manobo Matigsalug
+    auto: true
   - translation_iso: zho
     name: 马蒂格萨卢格曼诺博语
     auto: true

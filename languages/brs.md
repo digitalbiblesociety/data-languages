@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バラス語
     auto: true
+  - translation_iso: spa
+    name: Baras
+    auto: true
   - translation_iso: zho
     name: 巴拉斯语
     auto: true

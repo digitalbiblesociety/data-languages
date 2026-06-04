@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パイコカ語
     auto: true
+  - translation_iso: spa
+    name: Secoya
+    auto: true
   - translation_iso: zho
     name: 赛科亚语
 rolv_dialects:

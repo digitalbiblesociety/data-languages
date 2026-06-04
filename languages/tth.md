@@ -18,10 +18,13 @@ translations:
     name: الطاعة العليا
     auto: true
   - translation_iso: hin
-    name: ऊपरी ता'ओइह
+    name: "ऊपरी ता'ओइह"
     auto: true
   - translation_iso: jpn
     name: タオイ語
+    auto: true
+  - translation_iso: spa
+    name: "Ta'oih septentrional"
     auto: true
   - translation_iso: zho
     name: 上塔欧伊语

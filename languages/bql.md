@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビラクラ語
     auto: true
+  - translation_iso: spa
+    name: Bilakura
+    auto: true
   - translation_iso: zho
     name: 比拉库拉语
     auto: true

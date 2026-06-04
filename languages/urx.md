@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤウギバ語
     auto: true
+  - translation_iso: spa
+    name: Urimo
+    auto: true
   - translation_iso: zho
     name: 乌里莫语
     auto: true

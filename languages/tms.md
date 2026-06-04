@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ティマ語
     auto: true
+  - translation_iso: spa
+    name: Tima
+    auto: true
   - translation_iso: zho
     name: 蒂玛语
     auto: true

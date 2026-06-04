@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: レルバレ語
     auto: true
+  - translation_iso: spa
+    name: Rer Bare
+    auto: true
   - translation_iso: zho
     name: 雷尔巴雷语
     auto: true

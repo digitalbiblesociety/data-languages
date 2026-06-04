@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガデ・ロハール語
+  - translation_iso: spa
+    name: Gade Lohar
+    auto: true
   - translation_iso: zho
     name: 加德洛哈尔语
     auto: true

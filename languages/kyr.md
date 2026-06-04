@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クルアヤ語
     auto: true
+  - translation_iso: spa
+    name: Kuruáya
+    auto: true
   - translation_iso: zho
     name: 库鲁亚语
     auto: true

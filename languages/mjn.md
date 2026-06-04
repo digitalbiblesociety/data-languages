@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マ語
     auto: true
+  - translation_iso: spa
+    name: Ma (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 玛语（巴布亚新几内亚）
     auto: true

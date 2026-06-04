@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マレー系デイアク語
     auto: true
+  - translation_iso: spa
+    name: Dayak malayo
+    auto: true
   - translation_iso: zho
     name: 马来亚克达亚克语
     auto: true

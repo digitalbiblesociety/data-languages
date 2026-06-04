@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ストニー語
+  - translation_iso: spa
+    name: Stoney
+    auto: true
   - translation_iso: zho
     name: 納科塔語
 rolv_dialects:

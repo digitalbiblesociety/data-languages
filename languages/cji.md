@@ -25,6 +25,9 @@ translations:
     name: チャマラル語
   - translation_iso: kor
     name: 차말랄어
+  - translation_iso: spa
+    name: Chamalal
+    auto: true
   - translation_iso: zho
     name: 查马拉尔语
     auto: true

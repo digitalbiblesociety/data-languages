@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パンネイ語
     auto: true
+  - translation_iso: spa
+    name: Pannei
+    auto: true
   - translation_iso: zho
     name: 潘内伊语
     auto: true

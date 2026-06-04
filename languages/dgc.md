@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カシグラン・ドゥマガット・アグタ語
     auto: true
+  - translation_iso: spa
+    name: Agta de Casiguran Dumagat
+    auto: true
   - translation_iso: zho
     name: 卡西古兰杜马加特阿格塔语
     auto: true

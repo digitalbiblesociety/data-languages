@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イクスタユトラ・ミシテク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Ixtayutla
+    auto: true
   - translation_iso: zho
     name: 伊克斯塔尤特拉混特克语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブラガット語
     auto: true
+  - translation_iso: spa
+    name: Bragat
+    auto: true
   - translation_iso: zho
     name: 布拉加特语
     auto: true

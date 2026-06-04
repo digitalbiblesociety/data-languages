@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コイワット語
     auto: true
+  - translation_iso: spa
+    name: Koiwat
+    auto: true
   - translation_iso: zho
     name: 科伊瓦特语
     auto: true

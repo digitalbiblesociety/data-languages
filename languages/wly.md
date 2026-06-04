@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワリング語
     auto: true
+  - translation_iso: spa
+    name: Waling
+    auto: true
   - translation_iso: zho
     name: 瓦林语
     auto: true

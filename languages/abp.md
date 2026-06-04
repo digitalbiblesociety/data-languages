@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アベレンアイタ語
     auto: true
+  - translation_iso: spa
+    name: Abellen Ayta
+    auto: true
   - translation_iso: zho
     name: 阿贝伦艾塔语
     auto: true

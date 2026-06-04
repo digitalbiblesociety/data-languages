@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 邕南チワン語
+  - translation_iso: spa
+    name: Zhuang de Yongnan
+    auto: true
   - translation_iso: zho
     name: 邕南壯語
 rolv_dialects:

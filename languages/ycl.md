@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リポ語
+  - translation_iso: spa
+    name: Lolopo
+    auto: true
   - translation_iso: zho
     name: 彝语中部方言
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラハナン語
     auto: true
+  - translation_iso: spa
+    name: Lahanan
+    auto: true
   - translation_iso: zho
     name: 拉哈南语
     auto: true

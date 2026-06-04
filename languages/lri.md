@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マラチ語
     auto: true
+  - translation_iso: spa
+    name: Marachi
+    auto: true
   - translation_iso: zho
     name: 马拉奇语
     auto: true

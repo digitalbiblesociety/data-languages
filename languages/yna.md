@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アルオ語
     auto: true
+  - translation_iso: spa
+    name: Aluo
+    auto: true
   - translation_iso: zho
     name: 阿罗语
 ---

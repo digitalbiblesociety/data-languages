@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルリ語
     auto: true
+  - translation_iso: spa
+    name: Luri
+    auto: true
   - translation_iso: zho
     name: 卢里语
     auto: true

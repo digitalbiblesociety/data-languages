@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カリヤ語
     auto: true
+  - translation_iso: spa
+    name: Kariya
+    auto: true
   - translation_iso: zho
     name: 卡里亚语
     auto: true

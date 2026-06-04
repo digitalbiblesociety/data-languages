@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カリア・タール語
     auto: true
+  - translation_iso: spa
+    name: Kharia Thar
+    auto: true
   - translation_iso: zho
     name: 哈里亚塔尔语
     auto: true

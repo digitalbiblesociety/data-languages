@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クワア語
     auto: true
+  - translation_iso: spa
+    name: Kuwaa
+    auto: true
   - translation_iso: zho
     name: 库瓦语
     auto: true

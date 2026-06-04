@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クァビャウ語
+  - translation_iso: spa
+    name: Qabiao
+    auto: true
   - translation_iso: zho
     name: 普标语
 ---

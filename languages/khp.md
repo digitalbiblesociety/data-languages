@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: カポリ語
     auto: true
+  - translation_iso: spa
+    name: Kapori
+    auto: true
   - translation_iso: zho
     name: 卡波里语
     auto: true

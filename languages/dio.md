@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディボ語
     auto: true
+  - translation_iso: spa
+    name: Dibo
+    auto: true
   - translation_iso: zho
     name: 迪波语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケンブラ語
     auto: true
+  - translation_iso: spa
+    name: Kembra
+    auto: true
   - translation_iso: zho
     name: 肯布拉语
     auto: true

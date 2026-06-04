@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 中央バイ語
     auto: true
+  - translation_iso: spa
+    name: Bai Central
+    auto: true
   - translation_iso: zho
     name: 白语中部方言
 rolv_dialects:

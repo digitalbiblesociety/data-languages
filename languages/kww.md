@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クウィンティ語
     auto: true
+  - translation_iso: spa
+    name: Kwinti
+    auto: true
   - translation_iso: zho
     name: 克温蒂语
     auto: true

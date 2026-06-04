@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャンビ・マレー語
+  - translation_iso: spa
+    name: Malayo de Jambi
+    auto: true
   - translation_iso: zho
     name: 占碑馬來語
 ---

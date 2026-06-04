@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: クレビニアン語
     auto: true
+  - translation_iso: spa
+    name: Krevinian
+    auto: true
   - translation_iso: zho
     name: 克雷温方言
 ---

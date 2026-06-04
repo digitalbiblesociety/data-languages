@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビャヤ語
     auto: true
+  - translation_iso: spa
+    name: Bhaya
+    auto: true
   - translation_iso: zho
     name: 巴亚语
     auto: true

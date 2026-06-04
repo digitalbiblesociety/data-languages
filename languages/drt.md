@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ドレント語
     auto: true
+  - translation_iso: spa
+    name: Drents
+    auto: true
   - translation_iso: zho
     name: 德伦茨语
     auto: true

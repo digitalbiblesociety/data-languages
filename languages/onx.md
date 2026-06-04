@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オニン系ピジン語
     auto: true
+  - translation_iso: spa
+    name: Pidgin basado en Onin
+    auto: true
   - translation_iso: zho
     name: 翁因衍基皮钦语
     auto: true

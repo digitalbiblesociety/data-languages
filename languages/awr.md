@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アウェラ語
     auto: true
+  - translation_iso: spa
+    name: Awera
+    auto: true
   - translation_iso: zho
     name: 阿韦拉语
     auto: true

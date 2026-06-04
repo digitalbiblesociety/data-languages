@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ホワイト・ゲラオ語
     auto: true
+  - translation_iso: spa
+    name: Gelao blanco
+    auto: true
   - translation_iso: zho
     name: 白仡佬语
 rolv_dialects:

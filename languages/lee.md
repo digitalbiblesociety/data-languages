@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リエレ語
+  - translation_iso: spa
+    name: Lyélé
+    auto: true
   - translation_iso: zho
     name: 莱莱语
     auto: true

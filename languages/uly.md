@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バラワ語
     auto: true
+  - translation_iso: spa
+    name: Buli
+    auto: true
   - translation_iso: zho
     name: 布利语
     auto: true

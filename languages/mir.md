@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 峡谷ミヘ語
     auto: true
+  - translation_iso: spa
+    name: Mixe del Istmo
+    auto: true
   - translation_iso: zho
     name: 地峡米克苏语
     auto: true

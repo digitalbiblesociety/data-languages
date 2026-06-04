@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソミエフ語
     auto: true
+  - translation_iso: spa
+    name: Somyev
+    auto: true
   - translation_iso: zho
     name: 索米耶夫语
     auto: true

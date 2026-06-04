@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワラワラ語
     auto: true
+  - translation_iso: spa
+    name: Walla Walla
+    auto: true
   - translation_iso: zho
     name: 瓦拉瓦拉语
     auto: true

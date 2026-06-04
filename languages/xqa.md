@@ -15,6 +15,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラハン朝トルコ語
+  - translation_iso: spa
+    name: Carejanida
+    auto: true
   - translation_iso: zho
     name: 喀喇汗语
 ---

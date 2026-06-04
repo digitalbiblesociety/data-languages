@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オドドゥ語
     auto: true
+  - translation_iso: spa
+    name: Odoodee
+    auto: true
   - translation_iso: zho
     name: 奥多迪语
     auto: true

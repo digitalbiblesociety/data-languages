@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: サンタアナデトゥシパスコケチュア語
     auto: true
+  - translation_iso: spa
+    name: "Quechua de Santa Ana de Tusi, Pasco"
+    auto: true
   - translation_iso: zho
     name: 圣塔纳德图西帕斯科克丘亚语
     auto: true

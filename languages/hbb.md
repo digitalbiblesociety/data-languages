@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フバ語
     auto: true
+  - translation_iso: spa
+    name: Huba
+    auto: true
   - translation_iso: zho
     name: 胡巴语
     auto: true

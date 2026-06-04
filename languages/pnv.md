@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ピニグラ語
     auto: true
+  - translation_iso: spa
+    name: Pinigura
+    auto: true
   - translation_iso: zho
     name: 皮尼古拉语
     auto: true

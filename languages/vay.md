@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハユ語
+  - translation_iso: spa
+    name: Wayu
+    auto: true
   - translation_iso: zho
     name: 瓦尤语
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: グワ語
     auto: true
+  - translation_iso: spa
+    name: Gwa
+    auto: true
   - translation_iso: zho
     name: 瓜语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イェッサン-マヨ語
     auto: true
+  - translation_iso: spa
+    name: Yessan-Mayo
+    auto: true
   - translation_iso: zho
     name: 耶桑-玛约语
     auto: true

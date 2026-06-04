@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナハリ語
     auto: true
+  - translation_iso: spa
+    name: Nahari
+    auto: true
   - translation_iso: zho
     name: 纳哈里语
     auto: true

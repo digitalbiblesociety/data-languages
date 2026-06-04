@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北ソルソガノン語
     auto: true
+  - translation_iso: spa
+    name: Sorsoganón del norte
+    auto: true
   - translation_iso: zho
     name: 北索尔索加农语
     auto: true

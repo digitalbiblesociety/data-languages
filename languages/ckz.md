@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カクチケル・キチェ混合言語
     auto: true
+  - translation_iso: spa
+    name: Cakchiquel-Quiché
+    auto: true
   - translation_iso: zho
     name: 卡克奇克尔-基切混合语
     auto: true

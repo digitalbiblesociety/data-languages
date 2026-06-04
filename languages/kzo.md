@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カニンギ語
     auto: true
+  - translation_iso: spa
+    name: Kaningi
+    auto: true
   - translation_iso: zho
     name: 卡宁基语
     auto: true

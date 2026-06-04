@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タロキ語
     auto: true
+  - translation_iso: spa
+    name: Taloki
+    auto: true
   - translation_iso: zho
     name: 塔洛基语
     auto: true

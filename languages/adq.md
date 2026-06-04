@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アダンゲベ語
     auto: true
+  - translation_iso: spa
+    name: Adangbe
+    auto: true
   - translation_iso: zho
     name: 阿当贝语
     auto: true

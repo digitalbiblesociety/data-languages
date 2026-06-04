@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムル語
+  - translation_iso: spa
+    name: Mru
+    auto: true
   - translation_iso: zho
     name: 默文
 rolv_dialects:

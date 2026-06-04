@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カロ・フィンランドロマ語
+  - translation_iso: spa
+    name: Romaní finlandés kalo
+    auto: true
   - translation_iso: zho
     name: 卡洛芬兰罗姆语
     auto: true

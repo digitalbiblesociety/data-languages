@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クク語
     auto: true
+  - translation_iso: spa
+    name: Kuk
+    auto: true
   - translation_iso: zho
     name: 库克语
     auto: true

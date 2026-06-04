@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バデ語
+  - translation_iso: spa
+    name: Bade
+    auto: true
   - translation_iso: zho
     name: 巴德语
     auto: true

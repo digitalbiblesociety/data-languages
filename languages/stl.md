@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ステリングワルフス語
     auto: true
+  - translation_iso: spa
+    name: Stellingwerfs
+    auto: true
   - translation_iso: zho
     name: 斯特林格沃夫语
     auto: true

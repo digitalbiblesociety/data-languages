@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プルボラ語
     auto: true
+  - translation_iso: spa
+    name: Puruborá
+    auto: true
   - translation_iso: zho
     name: 普鲁博拉语
     auto: true

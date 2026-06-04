@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ウェンダット語
     auto: true
+  - translation_iso: spa
+    name: Wendat
+    auto: true
   - translation_iso: zho
     name: 温达特语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブワイレ語
     auto: true
+  - translation_iso: spa
+    name: Bwile
+    auto: true
   - translation_iso: zho
     name: 布维莱语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チャユコ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Chayuco
+    auto: true
   - translation_iso: zho
     name: 查尤科混合语
     auto: true

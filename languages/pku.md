@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パク語
     auto: true
+  - translation_iso: spa
+    name: Paku
+    auto: true
   - translation_iso: zho
     name: 帕库语
     auto: true

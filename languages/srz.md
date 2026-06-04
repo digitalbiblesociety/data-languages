@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マザンダラーニー語
     auto: true
+  - translation_iso: spa
+    name: Shahmirzadi
+    auto: true
   - translation_iso: zho
     name: 沙赫米尔扎迪语
     auto: true

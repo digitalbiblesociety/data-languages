@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジュワル語
     auto: true
+  - translation_iso: spa
+    name: Juwal
+    auto: true
   - translation_iso: zho
     name: 朱瓦尔语
     auto: true

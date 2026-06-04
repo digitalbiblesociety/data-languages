@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アパスコ・アポアラ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Apasco-Apoala
+    auto: true
   - translation_iso: zho
     name: 阿帕斯科-阿波阿拉混合语
     auto: true

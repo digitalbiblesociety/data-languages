@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カイアン語
     auto: true
+  - translation_iso: spa
+    name: Kaian
+    auto: true
   - translation_iso: zho
     name: 凯扬语
     auto: true

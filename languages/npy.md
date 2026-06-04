@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナプ語
     auto: true
+  - translation_iso: spa
+    name: Napu
+    auto: true
   - translation_iso: zho
     name: 纳普语
     auto: true

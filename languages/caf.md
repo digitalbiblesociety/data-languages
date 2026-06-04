@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 南カリエ語
     auto: true
+  - translation_iso: spa
+    name: Carrier Meridional
+    auto: true
   - translation_iso: zho
     name: 南开里埃语
     auto: true

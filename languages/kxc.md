@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コンソ語
     auto: true
+  - translation_iso: spa
+    name: Konso
+    auto: true
   - translation_iso: zho
     name: 孔索语
     auto: true

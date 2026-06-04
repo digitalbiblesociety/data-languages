@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アクパ語
     auto: true
+  - translation_iso: spa
+    name: Akpa
+    auto: true
   - translation_iso: zho
     name: 阿卡帕语
     auto: true

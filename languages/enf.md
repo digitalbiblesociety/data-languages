@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 森林エネツ語
     auto: true
+  - translation_iso: spa
+    name: Énets del bosque
+    auto: true
   - translation_iso: zho
     name: 森林埃涅茨语
     auto: true

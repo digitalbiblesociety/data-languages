@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウィラウィラ語
     auto: true
+  - translation_iso: spa
+    name: Wilawila
+    auto: true
   - translation_iso: zho
     name: 威拉威拉语
     auto: true

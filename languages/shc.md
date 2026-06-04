@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キソオンデ語
     auto: true
+  - translation_iso: spa
+    name: Sonde
+    auto: true
   - translation_iso: zho
     name: 松德语
     auto: true

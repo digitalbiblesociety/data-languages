@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガル・ゴニ語
     auto: true
+  - translation_iso: spa
+    name: Gurr-goni
+    auto: true
   - translation_iso: zho
     name: 古尔-戈尼语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディャン語
     auto: true
+  - translation_iso: spa
+    name: Dyan
+    auto: true
   - translation_iso: zho
     name: 甸语
     auto: true

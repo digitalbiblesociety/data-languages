@@ -25,6 +25,9 @@ translations:
     name: ママラ・セヌフォ語
   - translation_iso: kor
     name: 미냥카어
+  - translation_iso: spa
+    name: Mamara Senoufo
+    auto: true
   - translation_iso: zho
     name: 明揚卡語
 rolv_dialects:

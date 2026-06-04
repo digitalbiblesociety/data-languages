@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アシェ語
     auto: true
+  - translation_iso: spa
+    name: Ashe
+    auto: true
   - translation_iso: zho
     name: 阿什语
     auto: true

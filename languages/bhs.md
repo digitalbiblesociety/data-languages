@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブワル語
+  - translation_iso: spa
+    name: Buwal
+    auto: true
   - translation_iso: zho
     name: 布瓦尔语
     auto: true

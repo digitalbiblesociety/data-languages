@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブドン・ブドン語
     auto: true
+  - translation_iso: spa
+    name: Budong-Budong
+    auto: true
   - translation_iso: zho
     name: 布东-布东语
     auto: true

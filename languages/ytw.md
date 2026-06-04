@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ユウト・ワム語
     auto: true
+  - translation_iso: spa
+    name: Yout Wam
+    auto: true
   - translation_iso: zho
     name: 尤特-瓦姆语
     auto: true

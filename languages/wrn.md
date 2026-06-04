@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワルナン語
     auto: true
+  - translation_iso: spa
+    name: Warnang
+    auto: true
   - translation_iso: zho
     name: 瓦尔南语
     auto: true

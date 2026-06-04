@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マ語
     auto: true
+  - translation_iso: spa
+    name: Ma (República Democrática del Congo)
+    auto: true
   - translation_iso: zho
     name: 马语
     auto: true

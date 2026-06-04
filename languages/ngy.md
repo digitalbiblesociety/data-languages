@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティベア語
     auto: true
+  - translation_iso: spa
+    name: Tibea
+    auto: true
   - translation_iso: zho
     name: 蒂贝亚语
     auto: true

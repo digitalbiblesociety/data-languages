@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ロハハイランドキチュア語
     auto: true
+  - translation_iso: spa
+    name: Quichua serrano de Loja
+    auto: true
   - translation_iso: zho
     name: 洛哈高地基楚亚语
     auto: true

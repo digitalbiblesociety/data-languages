@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガル語
     auto: true
+  - translation_iso: spa
+    name: Sinagen
+    auto: true
   - translation_iso: zho
     name: 西纳根语
     auto: true

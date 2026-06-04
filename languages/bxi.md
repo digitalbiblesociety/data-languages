@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ピルラタパ語
     auto: true
+  - translation_iso: spa
+    name: Pirlatapa
+    auto: true
   - translation_iso: zho
     name: 皮尔拉塔帕语
     auto: true

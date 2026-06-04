@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: オノバスル語
     auto: true
+  - translation_iso: spa
+    name: Onobasulu
+    auto: true
   - translation_iso: zho
     name: 奥诺巴苏鲁语
     auto: true

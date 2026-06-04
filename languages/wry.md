@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メールワーリー語
+  - translation_iso: spa
+    name: Merwari
+    auto: true
   - translation_iso: zho
     name: 梅瓦里语
     auto: true

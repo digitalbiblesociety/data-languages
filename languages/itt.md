@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マエング・イトネグ語
     auto: true
+  - translation_iso: spa
+    name: Itneg Maeng
+    auto: true
   - translation_iso: zho
     name: 玛英伊特内格语
     auto: true

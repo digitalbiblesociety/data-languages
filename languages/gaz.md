@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西中央オロモ語
+  - translation_iso: spa
+    name: Oromo centro-occidental
+    auto: true
   - translation_iso: zho
     name: 西中部奥罗莫语
     auto: true

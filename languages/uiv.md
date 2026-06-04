@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウイヴェ語
     auto: true
+  - translation_iso: spa
+    name: Iyive
+    auto: true
   - translation_iso: zho
     name: 依维维语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バハササウリ語
     auto: true
+  - translation_iso: spa
+    name: Sauri
+    auto: true
   - translation_iso: zho
     name: 萨乌里语
     auto: true

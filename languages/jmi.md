@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジミ語
     auto: true
+  - translation_iso: spa
+    name: Jimi (Nigeria)
+    auto: true
   - translation_iso: zho
     name: 吉米语（尼日利亚）
     auto: true

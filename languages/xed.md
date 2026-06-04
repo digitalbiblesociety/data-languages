@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フディ語
+  - translation_iso: spa
+    name: Hdi
+    auto: true
   - translation_iso: zho
     name: 赫迪语
     auto: true

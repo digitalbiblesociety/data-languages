@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タエ語
+  - translation_iso: spa
+    name: "Tae'"
+    auto: true
   - translation_iso: zho
     name: 塔伊语
 rolv_dialects:

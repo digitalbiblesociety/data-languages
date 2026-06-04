@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: クルド手話言語
     auto: true
+  - translation_iso: spa
+    name: Lengua de señas kurda
+    auto: true
   - translation_iso: zho
     name: 库尔德手语
     auto: true

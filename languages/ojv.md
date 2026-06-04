@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オントンジャワ語
+  - translation_iso: spa
+    name: Ontong Java
+    auto: true
   - translation_iso: zho
     name: 昂通-爪哇语
     auto: true

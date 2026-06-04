@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムーラオ語
+  - translation_iso: spa
+    name: Mulam
+    auto: true
   - translation_iso: zho
     name: 仫佬语
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラマ語
     auto: true
+  - translation_iso: spa
+    name: Lama (Togo)
+    auto: true
   - translation_iso: zho
     name: 拉玛语(多哥)
     auto: true

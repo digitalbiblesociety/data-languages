@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: デゲナン語
     auto: true
+  - translation_iso: spa
+    name: Degenan
+    auto: true
   - translation_iso: zho
     name: 德格南语
     auto: true

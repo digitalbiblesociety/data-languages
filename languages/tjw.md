@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ジャブウルン語
     auto: true
+  - translation_iso: spa
+    name: Djabwurrung
+    auto: true
   - translation_iso: zho
     name: 贾布武伦语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マディ語
     auto: true
+  - translation_iso: spa
+    name: Madi
+    auto: true
   - translation_iso: zho
     name: 马迪语
     auto: true

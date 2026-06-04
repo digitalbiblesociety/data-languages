@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テリク語
+  - translation_iso: spa
+    name: Terik
+    auto: true
   - translation_iso: zho
     name: 特里克语
     auto: true

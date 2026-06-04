@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギリアマ語
+  - translation_iso: spa
+    name: Giryama
+    auto: true
   - translation_iso: zho
     name: 吉里亚玛语
     auto: true

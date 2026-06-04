@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゲセル・ゴロム語
     auto: true
+  - translation_iso: spa
+    name: Geser-Gorom
+    auto: true
   - translation_iso: zho
     name: 格塞尔-戈罗姆语
     auto: true

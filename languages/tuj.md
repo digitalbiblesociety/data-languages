@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥグティル語
     auto: true
+  - translation_iso: spa
+    name: Tugutil
+    auto: true
   - translation_iso: zho
     name: 图古蒂尔语
     auto: true

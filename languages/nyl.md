@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ニェウ語
     auto: true
+  - translation_iso: spa
+    name: Nyeu
+    auto: true
   - translation_iso: zho
     name: 尼欧语
     auto: true

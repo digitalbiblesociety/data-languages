@@ -21,6 +21,9 @@ translations:
     name: बागड़ी भाषा
   - translation_iso: jpn
     name: バーガル語
+  - translation_iso: spa
+    name: Bagri
+    auto: true
   - translation_iso: zho
     name: 巴格里语
     auto: true

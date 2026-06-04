@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: レラウ語
     auto: true
+  - translation_iso: spa
+    name: Rerau
+    auto: true
   - translation_iso: zho
     name: 雷劳语
     auto: true

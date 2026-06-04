@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガンガリダ語
     auto: true
+  - translation_iso: spa
+    name: Ganggalida
+    auto: true
   - translation_iso: zho
     name: 甘格利达语
     auto: true

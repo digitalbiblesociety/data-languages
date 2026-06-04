@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バリ・マレー語
     auto: true
+  - translation_iso: spa
+    name: Malayo de Bali
+    auto: true
   - translation_iso: zho
     name: 巴厘马来语
     auto: true

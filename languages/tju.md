@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チュルル語
     auto: true
+  - translation_iso: spa
+    name: Tjurruru
+    auto: true
   - translation_iso: zho
     name: 图鲁鲁语
     auto: true

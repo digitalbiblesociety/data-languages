@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラトゥンデ語
     auto: true
+  - translation_iso: spa
+    name: Latundê
+    auto: true
   - translation_iso: zho
     name: 拉图恩德语
     auto: true

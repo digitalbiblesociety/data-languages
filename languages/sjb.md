@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サジャウ・ラッティ語
     auto: true
+  - translation_iso: spa
+    name: Sajau Basap
+    auto: true
   - translation_iso: zho
     name: 萨考巴萨普语
     auto: true

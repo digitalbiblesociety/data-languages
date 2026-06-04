@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カチャマ・ガンジュレ語
     auto: true
+  - translation_iso: spa
+    name: Kachama-Ganjule
+    auto: true
   - translation_iso: zho
     name: 卡恰马-甘朱勒语
     auto: true

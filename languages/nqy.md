@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: アキャウン・アリ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Akyaung Ari
+    auto: true
   - translation_iso: zho
     name: 阿克昂阿利语
 ---

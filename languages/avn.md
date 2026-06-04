@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アヴァティメ語
     auto: true
+  - translation_iso: spa
+    name: Avatime
+    auto: true
   - translation_iso: zho
     name: 阿瓦蒂梅語
 ---

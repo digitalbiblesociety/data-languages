@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部ゴーンディー語
+  - translation_iso: spa
+    name: Gondi del Norte
+    auto: true
   - translation_iso: zho
     name: 北岡迪语
     auto: true

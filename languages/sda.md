@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トラジャ＝サダン語
+  - translation_iso: spa
+    name: "Toraja-Sa'dan"
+    auto: true
   - translation_iso: zho
     name: 托拉查-萨达语
 rolv_dialects:

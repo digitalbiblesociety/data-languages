@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バクピンカ語
     auto: true
+  - translation_iso: spa
+    name: Bakpinka
+    auto: true
   - translation_iso: zho
     name: 巴克平卡语
     auto: true

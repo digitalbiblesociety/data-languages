@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エムバロー語
     auto: true
+  - translation_iso: spa
+    name: Embaloh
+    auto: true
   - translation_iso: zho
     name: 埃姆巴洛语
     auto: true

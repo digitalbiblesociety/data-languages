@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダサネッチ語
+  - translation_iso: spa
+    name: Daasanach
+    auto: true
   - translation_iso: zho
     name: 达桑纳克语
     auto: true

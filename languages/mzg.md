@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 修道院手話
+  - translation_iso: spa
+    name: Lengua de señas monástica
+    auto: true
   - translation_iso: zho
     name: 修道院手语
     auto: true

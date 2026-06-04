@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部黔東苗語
+  - translation_iso: spa
+    name: Miao Qiandong septentrional
+    auto: true
   - translation_iso: zho
     name: 北部土语
 rolv_dialects:

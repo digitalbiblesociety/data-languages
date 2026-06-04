@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北ングバンディ語
     auto: true
+  - translation_iso: spa
+    name: Ngbandi septentrional
+    auto: true
   - translation_iso: zho
     name: 北恩班迪语
 ---

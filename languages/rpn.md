@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: レパンビティップ語
     auto: true
+  - translation_iso: spa
+    name: Repanbitip
+    auto: true
   - translation_iso: zho
     name: 雷潘比蒂普语
     auto: true

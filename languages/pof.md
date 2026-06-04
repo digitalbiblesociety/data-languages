@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ポケ語
     auto: true
+  - translation_iso: spa
+    name: Poke
+    auto: true
   - translation_iso: zho
     name: 波克语
     auto: true

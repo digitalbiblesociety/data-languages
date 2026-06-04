@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボルゴ語
     auto: true
+  - translation_iso: spa
+    name: Bolgo
+    auto: true
   - translation_iso: zho
     name: 博尔戈语
     auto: true

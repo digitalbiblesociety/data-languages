@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バヴリ語
     auto: true
+  - translation_iso: spa
+    name: Vaghri
+    auto: true
   - translation_iso: zho
     name: 瓦格里语
     auto: true

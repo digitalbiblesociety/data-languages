@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カリスゥス語
     auto: true
+  - translation_iso: spa
+    name: Kulisusu
+    auto: true
   - translation_iso: zho
     name: 库利苏苏语
     auto: true

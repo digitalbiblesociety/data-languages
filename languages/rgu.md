@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リングゴウ語
     auto: true
+  - translation_iso: spa
+    name: Ringgou
+    auto: true
   - translation_iso: zho
     name: 林古语
     auto: true

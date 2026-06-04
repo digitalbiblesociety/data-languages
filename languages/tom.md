@@ -25,6 +25,9 @@ translations:
     name: トムブル語
   - translation_iso: kor
     name: 톰불루어
+  - translation_iso: spa
+    name: Tombulu
+    auto: true
   - translation_iso: zho
     name: 通布鲁语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソルソゴン・アイタ語
     auto: true
+  - translation_iso: spa
+    name: Ayta de Sorsogón
+    auto: true
   - translation_iso: zho
     name: 索尔索贡艾塔语
     auto: true

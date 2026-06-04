@@ -22,6 +22,9 @@ translations:
     name: इंडोनेशियाई सांकेतिक भाषा
   - translation_iso: jpn
     name: インドネシア手話
+  - translation_iso: spa
+    name: Lengua de señas indonesia
+    auto: true
   - translation_iso: zho
     name: 印度尼西亚手语
     auto: true

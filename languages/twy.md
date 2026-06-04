@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タボハン語
     auto: true
+  - translation_iso: spa
+    name: Tawoyan
+    auto: true
   - translation_iso: zho
     name: 塔沃扬语
     auto: true

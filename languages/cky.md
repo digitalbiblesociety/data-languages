@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カクフェム・ムシェレ語
     auto: true
+  - translation_iso: spa
+    name: Cakfem-Mushere
+    auto: true
   - translation_iso: zho
     name: 卡克费姆-穆舍雷语
     auto: true

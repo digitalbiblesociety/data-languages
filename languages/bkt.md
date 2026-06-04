@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボロキ語
     auto: true
+  - translation_iso: spa
+    name: Boloki
+    auto: true
   - translation_iso: zho
     name: 博洛基语
     auto: true

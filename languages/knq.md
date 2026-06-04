@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キンタク語
     auto: true
+  - translation_iso: spa
+    name: Kintaq
+    auto: true
   - translation_iso: zho
     name: 金塔克语
 ---

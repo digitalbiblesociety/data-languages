@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イプロ語
     auto: true
+  - translation_iso: spa
+    name: Ipulo
+    auto: true
   - translation_iso: zho
     name: 阿松博语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥパリ語
     auto: true
+  - translation_iso: spa
+    name: Tuparí
+    auto: true
   - translation_iso: zho
     name: 图帕里语
     auto: true

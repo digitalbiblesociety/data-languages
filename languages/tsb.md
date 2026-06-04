@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツァミ語
+  - translation_iso: spa
+    name: Tsamai
+    auto: true
   - translation_iso: zho
     name: 瑟麥語
 ---

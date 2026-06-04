@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サフェヨカ語
     auto: true
+  - translation_iso: spa
+    name: Safeyoka
+    auto: true
   - translation_iso: zho
     name: 萨费约卡语
     auto: true

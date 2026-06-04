@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サモサ語
+  - translation_iso: spa
+    name: Samosa
+    auto: true
   - translation_iso: zho
     name: 萨莫萨语
     auto: true

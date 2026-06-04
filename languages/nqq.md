@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: キャン・カリャウ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Kyan-Karyaw
+    auto: true
   - translation_iso: zho
     name: 克扬-卡里亚纳加语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワラック語
     auto: true
+  - translation_iso: spa
+    name: Walak
+    auto: true
   - translation_iso: zho
     name: 瓦拉克语
     auto: true

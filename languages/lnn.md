@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロレディアカルカル語
     auto: true
+  - translation_iso: spa
+    name: Lorediakarkar
+    auto: true
   - translation_iso: zho
     name: 洛雷迪亚卡尔卡尔语
     auto: true

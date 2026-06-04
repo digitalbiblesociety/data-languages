@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部ハイダ語
+  - translation_iso: spa
+    name: Haida septentrional
+    auto: true
   - translation_iso: zho
     name: 北海达语
     auto: true

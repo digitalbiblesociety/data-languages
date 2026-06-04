@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トゥムトゥム語
     auto: true
+  - translation_iso: spa
+    name: Tumtum
+    auto: true
   - translation_iso: zho
     name: 图图姆语
     auto: true

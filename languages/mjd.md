@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ノースウェスト・マイドゥ語
     auto: true
+  - translation_iso: spa
+    name: Maidu del Noroeste
+    auto: true
   - translation_iso: zho
     name: 西北毛伊都语
     auto: true

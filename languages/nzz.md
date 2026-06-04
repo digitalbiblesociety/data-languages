@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナンガ・ダマ・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Nanga Dama
+    auto: true
   - translation_iso: zho
     name: 南加达玛多贡语
     auto: true

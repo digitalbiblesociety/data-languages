@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トゥマク語
     auto: true
+  - translation_iso: spa
+    name: Tumak
+    auto: true
   - translation_iso: zho
     name: 图玛克语
     auto: true

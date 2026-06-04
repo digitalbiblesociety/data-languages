@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アトラダ語
+  - translation_iso: spa
+    name: Atorada
+    auto: true
   - translation_iso: zho
     name: 阿托拉达语
     auto: true

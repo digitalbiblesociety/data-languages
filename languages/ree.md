@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: レジャンカヤン語
     auto: true
+  - translation_iso: spa
+    name: Kayan Rejang
+    auto: true
   - translation_iso: zho
     name: 雷让卡岩语
     auto: true

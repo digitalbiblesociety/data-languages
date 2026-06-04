@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バムクムビット語
     auto: true
+  - translation_iso: spa
+    name: Bamukumbit
+    auto: true
   - translation_iso: zho
     name: 巴穆库姆比特语
     auto: true

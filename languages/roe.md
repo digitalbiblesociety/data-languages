@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロンジ語
     auto: true
+  - translation_iso: spa
+    name: Ronji
+    auto: true
   - translation_iso: zho
     name: 荣吉语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コルビラ語
     auto: true
+  - translation_iso: spa
+    name: Kolbila
+    auto: true
   - translation_iso: zho
     name: 科尔比拉语
     auto: true

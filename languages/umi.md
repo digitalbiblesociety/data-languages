@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セル語
+  - translation_iso: spa
+    name: Ukit
+    auto: true
   - translation_iso: zho
     name: 乌基特语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アンガル・エネン語
     auto: true
+  - translation_iso: spa
+    name: Angal Enen
+    auto: true
   - translation_iso: zho
     name: 安加尔埃嫩语
     auto: true

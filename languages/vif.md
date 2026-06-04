@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴィリ語
+  - translation_iso: spa
+    name: Vili
+    auto: true
   - translation_iso: zho
     name: 维利语
     auto: true

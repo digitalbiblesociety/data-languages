@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ジャルクナン語
     auto: true
+  - translation_iso: spa
+    name: Jalkunan
+    auto: true
   - translation_iso: zho
     name: 贾尔库南语
     auto: true

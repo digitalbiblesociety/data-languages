@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 누왈라어
+  - translation_iso: spa
+    name: Nhuwala
+    auto: true
   - translation_iso: zho
     name: 努瓦拉语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラリケワカシフ語
     auto: true
+  - translation_iso: spa
+    name: Larike-Wakasihu
+    auto: true
   - translation_iso: zho
     name: 瓦卡西胡语
 rolv_dialects:

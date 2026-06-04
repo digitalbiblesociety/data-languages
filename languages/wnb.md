@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワナンブレ語
     auto: true
+  - translation_iso: spa
+    name: Wanambre
+    auto: true
   - translation_iso: zho
     name: 瓦南布雷语
     auto: true

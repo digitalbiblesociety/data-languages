@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タバル語
+  - translation_iso: spa
+    name: Mandara
+    auto: true
   - translation_iso: zho
     name: 塔巴尔语
 rolv_dialects:

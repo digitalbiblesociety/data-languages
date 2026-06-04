@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジュマ語
     auto: true
+  - translation_iso: spa
+    name: Júma
+    auto: true
   - translation_iso: zho
     name: 朱玛语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シャムタンガ語
     auto: true
+  - translation_iso: spa
+    name: Xamtanga
+    auto: true
   - translation_iso: zho
     name: 沙姆坦加语
     auto: true

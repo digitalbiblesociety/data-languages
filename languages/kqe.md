@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カラガン語
     auto: true
+  - translation_iso: spa
+    name: Kalagan
+    auto: true
   - translation_iso: zho
     name: 卡拉甘语
     auto: true

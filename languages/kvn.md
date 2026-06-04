@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ボーダー・クナ語
     auto: true
+  - translation_iso: spa
+    name: Kuna Fronterizo
+    auto: true
   - translation_iso: zho
     name: 边境库纳语
     auto: true

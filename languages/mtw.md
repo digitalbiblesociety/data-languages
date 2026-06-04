@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サザン・ビヌキドノン語
     auto: true
+  - translation_iso: spa
+    name: Binukidnon del Sur
+    auto: true
   - translation_iso: zho
     name: 南比努基德农语
     auto: true

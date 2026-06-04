@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カルリ語
     auto: true
+  - translation_iso: spa
+    name: Kaluli
+    auto: true
   - translation_iso: zho
     name: 卡卢利语
     auto: true

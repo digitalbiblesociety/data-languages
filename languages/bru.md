@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東ブル語
     auto: true
+  - translation_iso: spa
+    name: Bru oriental
+    auto: true
   - translation_iso: zho
     name: 东布鲁语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モザンビーク手話
+  - translation_iso: spa
+    name: Lengua de señas de Mozambique
+    auto: true
   - translation_iso: zho
     name: 莫桑比克手语
     auto: true

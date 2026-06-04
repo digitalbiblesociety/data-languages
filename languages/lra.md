@@ -16,13 +16,16 @@ glottolog_classification: "Austronesian > Malayo-Polynesian > Land Dayak > Benya
 wikipedia_url: "https://en.wikipedia.org/wiki/Lara%CA%BC_language"
 translations:
   - translation_iso: ara
-    name: "لغة ارا اكاتي'"
+    name: لغة ارا اكاتي
     auto: true
   - translation_iso: hin
     name: रारा बकाती
     auto: true
   - translation_iso: jpn
     name: ララ・バカティ語
+    auto: true
+  - translation_iso: spa
+    name: "Rara Bakati'"
     auto: true
   - translation_iso: zho
     name: 拉拉-巴卡蒂语

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マニャワ語
     auto: true
+  - translation_iso: spa
+    name: Manyawa
+    auto: true
   - translation_iso: zho
     name: 曼亚瓦语
     auto: true

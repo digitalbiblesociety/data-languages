@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビャオ・モン語
     auto: true
+  - translation_iso: spa
+    name: Biao Mon
+    auto: true
   - translation_iso: zho
     name: 标曼话
 rolv_dialects:

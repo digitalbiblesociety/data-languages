@@ -25,6 +25,9 @@ translations:
     name: グアドループ・クレオール語
   - translation_iso: kor
     name: 과들루프 크리올
+  - translation_iso: spa
+    name: Criollo francés de Guadalupe
+    auto: true
   - translation_iso: zho
     name: 瓜德罗普克里奥尔语
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガジェラワン語
     auto: true
+  - translation_iso: spa
+    name: Gadjerawang
+    auto: true
   - translation_iso: zho
     name: 加德杰拉旺语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サウ・パウロ・カイングアング語
     auto: true
+  - translation_iso: spa
+    name: Kaingáng de São Paulo
+    auto: true
   - translation_iso: zho
     name: 圣保罗凯因根语
     auto: true

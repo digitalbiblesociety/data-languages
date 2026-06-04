@@ -23,6 +23,9 @@ translations:
     name: ハムニガン族
   - translation_iso: kor
     name: 함니간 몽골어
+  - translation_iso: spa
+    name: Mongol khamnigan
+    auto: true
   - translation_iso: zho
     name: 哈米尼干语
 ---

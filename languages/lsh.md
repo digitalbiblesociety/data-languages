@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: リシュ語
     auto: true
+  - translation_iso: spa
+    name: Lish
+    auto: true
   - translation_iso: zho
     name: 利西语
 ---

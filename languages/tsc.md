@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツワ語
+  - translation_iso: spa
+    name: Tswa
+    auto: true
   - translation_iso: zho
     name: 茨瓦语
 rolv_dialects:

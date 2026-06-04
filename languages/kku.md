@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥミ語
     auto: true
+  - translation_iso: spa
+    name: Tumi
+    auto: true
   - translation_iso: zho
     name: 图米语
     auto: true

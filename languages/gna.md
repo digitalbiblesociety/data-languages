@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カアンサ語
     auto: true
+  - translation_iso: spa
+    name: Kaansa
+    auto: true
   - translation_iso: zho
     name: 卡恩萨语
     auto: true

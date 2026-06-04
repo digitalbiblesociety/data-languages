@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中央ボントク語
+  - translation_iso: spa
+    name: Bontok Central
+    auto: true
   - translation_iso: zho
     name: 中心博托克语
     auto: true

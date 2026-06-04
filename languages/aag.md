@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アンブラク語
     auto: true
+  - translation_iso: spa
+    name: Ambrak
+    auto: true
   - translation_iso: zho
     name: 安布拉克语
     auto: true

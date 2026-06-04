@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エチオピア手話
+  - translation_iso: spa
+    name: Lengua de señas etíope
+    auto: true
   - translation_iso: zho
     name: 埃塞俄比亚手语
     auto: true

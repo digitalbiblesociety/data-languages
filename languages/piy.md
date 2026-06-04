@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ピヤクウォンシ語
     auto: true
+  - translation_iso: spa
+    name: Piya-Kwonci
+    auto: true
   - translation_iso: zho
     name: 皮亚-昆西语
     auto: true

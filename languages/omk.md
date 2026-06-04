@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オモク語
+  - translation_iso: spa
+    name: Omok
+    auto: true
   - translation_iso: zho
     name: 奥莫克语
 ---

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビエム語
     auto: true
+  - translation_iso: spa
+    name: Biem
+    auto: true
   - translation_iso: zho
     name: 比埃姆语
     auto: true

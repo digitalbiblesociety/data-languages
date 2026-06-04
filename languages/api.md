@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アピアカ語
     auto: true
+  - translation_iso: spa
+    name: Apiaká
+    auto: true
   - translation_iso: zho
     name: 阿皮阿卡語
 ---

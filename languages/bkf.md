@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベーケ語
     auto: true
+  - translation_iso: spa
+    name: Beeke
+    auto: true
   - translation_iso: zho
     name: 贝克语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アルボレ語
     auto: true
+  - translation_iso: spa
+    name: Arbore
+    auto: true
   - translation_iso: zho
     name: 阿尔博雷语
     auto: true

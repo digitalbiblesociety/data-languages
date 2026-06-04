@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北部タラウマラ語
     auto: true
+  - translation_iso: spa
+    name: Tarahumara del Norte
+    auto: true
   - translation_iso: zho
     name: 北塔拉乌马拉语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バスケト語
+  - translation_iso: spa
+    name: Basketo
+    auto: true
   - translation_iso: zho
     name: 巴斯克托語
 rolv_dialects:

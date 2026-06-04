@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヴァマレ語
     auto: true
+  - translation_iso: spa
+    name: Vamale
+    auto: true
   - translation_iso: zho
     name: 瓦玛勒语
     auto: true

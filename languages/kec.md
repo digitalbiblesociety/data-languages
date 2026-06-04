@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケイガ語
     auto: true
+  - translation_iso: spa
+    name: Keiga
+    auto: true
   - translation_iso: zho
     name: 凯加语
     auto: true

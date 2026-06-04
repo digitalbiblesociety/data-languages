@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: イル・ヨロント語
     auto: true
+  - translation_iso: spa
+    name: Yir Yoront
+    auto: true
   - translation_iso: zho
     name: 伊尔-约龙特语
     auto: true

@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポコット語
+  - translation_iso: spa
+    name: Pökoot
+    auto: true
   - translation_iso: zho
     name: 珀科特语
     auto: true

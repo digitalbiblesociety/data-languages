@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドンゴトノ語
+  - translation_iso: spa
+    name: Dongotono
+    auto: true
   - translation_iso: zho
     name: 东戈托诺语
     auto: true

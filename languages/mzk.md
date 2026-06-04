@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナイジェリア・マンビラ語
     auto: true
+  - translation_iso: spa
+    name: Mambila de Nigeria
+    auto: true
   - translation_iso: zho
     name: 尼日利亚曼比拉语
     auto: true

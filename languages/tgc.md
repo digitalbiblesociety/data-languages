@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティガク語
+  - translation_iso: spa
+    name: Tigak
+    auto: true
   - translation_iso: zho
     name: 蒂加克语
     auto: true

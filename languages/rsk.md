@@ -18,6 +18,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パンノニア・ルシン語
+  - translation_iso: spa
+    name: Ruteno
+    auto: true
   - translation_iso: zho
     name: 潘诺尼亚卢森尼亚语
 ---

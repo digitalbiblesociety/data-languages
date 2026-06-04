@@ -23,6 +23,9 @@ translations:
     name: बटेरी भाषा
   - translation_iso: jpn
     name: バテラ語
+  - translation_iso: spa
+    name: Bateri
+    auto: true
   - translation_iso: zho
     name: 巴特里语
 rolv_dialects:

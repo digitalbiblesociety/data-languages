@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソロモン諸島手話
+  - translation_iso: spa
+    name: Lengua de señas de las Islas Salomón
+    auto: true
   - translation_iso: zho
     name: 所罗门群岛手语
     auto: true

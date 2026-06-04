@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パラナワッ語
     auto: true
+  - translation_iso: spa
+    name: Paranawát
+    auto: true
   - translation_iso: zho
     name: 帕拉纳瓦特语
     auto: true

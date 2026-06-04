@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ママンダ語
     auto: true
+  - translation_iso: spa
+    name: Ma Manda
+    auto: true
   - translation_iso: zho
     name: 马曼达语
     auto: true

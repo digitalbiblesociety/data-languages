@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャブワ語
+  - translation_iso: spa
+    name: Nyabwa
+    auto: true
   - translation_iso: zho
     name: 尼亚布瓦语
     auto: true

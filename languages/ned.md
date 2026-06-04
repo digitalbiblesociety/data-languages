@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ンデ・グビテ語
     auto: true
+  - translation_iso: spa
+    name: Nde-Gbite
+    auto: true
   - translation_iso: zho
     name: 恩德-格比特语
     auto: true

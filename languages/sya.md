@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 시앙어
+  - translation_iso: spa
+    name: Siang
+    auto: true
   - translation_iso: zho
     name: 西昂语
     auto: true

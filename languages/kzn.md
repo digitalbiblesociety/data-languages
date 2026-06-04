@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ココラ語
     auto: true
+  - translation_iso: spa
+    name: Kokola
+    auto: true
   - translation_iso: zho
     name: 科科拉语
     auto: true

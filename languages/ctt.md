@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワヤナード・チェッティ語
     auto: true
+  - translation_iso: spa
+    name: Chetti de Wayanad
+    auto: true
   - translation_iso: zho
     name: 瓦亚纳德切蒂语
     auto: true

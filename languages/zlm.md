@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 조호르-리아우 말레이어
+  - translation_iso: spa
+    name: Malayo
+    auto: true
   - translation_iso: zho
     name: 马来语
     auto: true

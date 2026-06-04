@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハッキピッキ語
     auto: true
+  - translation_iso: spa
+    name: Vaagri Booli
+    auto: true
   - translation_iso: zho
     name: 瓦格里-布利语
     auto: true

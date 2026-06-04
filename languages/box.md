@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブヮム語
+  - translation_iso: spa
+    name: Buamu
+    auto: true
   - translation_iso: zho
     name: 布阿木语
     auto: true

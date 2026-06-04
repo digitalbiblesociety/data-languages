@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: コチラ・タル語
     auto: true
+  - translation_iso: spa
+    name: Tharu Kochila
+    auto: true
   - translation_iso: zho
     name: 科奇拉塔鲁语
     auto: true

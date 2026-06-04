@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マラサル語
     auto: true
+  - translation_iso: spa
+    name: Malasar
+    auto: true
   - translation_iso: zho
     name: 玛拉萨尔语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワダギナム語
     auto: true
+  - translation_iso: spa
+    name: Wadaginam
+    auto: true
   - translation_iso: zho
     name: 瓦达基纳姆语
     auto: true

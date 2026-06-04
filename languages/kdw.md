@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コネラウ語
     auto: true
+  - translation_iso: spa
+    name: Koneraw
+    auto: true
   - translation_iso: zho
     name: 科内劳语
     auto: true

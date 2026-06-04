@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: アンダジン語
     auto: true
+  - translation_iso: spa
+    name: Andajin
+    auto: true
   - translation_iso: zho
     name: 安达金语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北西タスマニア語
     auto: true
+  - translation_iso: spa
+    name: Tasmanio noroccidental
+    auto: true
   - translation_iso: zho
     name: 西北塔斯马尼亚语
     auto: true

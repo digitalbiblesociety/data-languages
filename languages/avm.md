@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: アンカムティ語
     auto: true
+  - translation_iso: spa
+    name: Angkamuthi
+    auto: true
   - translation_iso: zho
     name: 安卡穆蒂语
     auto: true

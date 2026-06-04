@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トバンガ語
     auto: true
+  - translation_iso: spa
+    name: Tobanga
+    auto: true
   - translation_iso: zho
     name: 托班加语
     auto: true

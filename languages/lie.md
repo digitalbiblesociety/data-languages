@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: リキラ語
     auto: true
+  - translation_iso: spa
+    name: Likila
+    auto: true
   - translation_iso: zho
     name: 利基拉语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: プナンバハビアウ語
     auto: true
+  - translation_iso: spa
+    name: Punan Bah-Biau
+    auto: true
   - translation_iso: zho
     name: 普南巴巴乌语
     auto: true

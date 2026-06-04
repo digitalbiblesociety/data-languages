@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケンバヤン語
     auto: true
+  - translation_iso: spa
+    name: Kembayan
+    auto: true
   - translation_iso: zho
     name: 肯巴扬语
     auto: true

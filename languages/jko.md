@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クボ語
     auto: true
+  - translation_iso: spa
+    name: Kubo
+    auto: true
   - translation_iso: zho
     name: 库博语
     auto: true

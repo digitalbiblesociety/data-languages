@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニエリム語
+  - translation_iso: spa
+    name: Niellim
+    auto: true
   - translation_iso: zho
     name: 尼埃利姆语
     auto: true

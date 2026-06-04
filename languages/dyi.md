@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジミニ・セヌーフォ語
     auto: true
+  - translation_iso: spa
+    name: Senoufo Djimini
+    auto: true
   - translation_iso: zho
     name: 吉米尼塞努弗语
     auto: true

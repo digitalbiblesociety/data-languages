@@ -25,6 +25,9 @@ translations:
     name: ケイ語
   - translation_iso: kor
     name: 케이어
+  - translation_iso: spa
+    name: Kei
+    auto: true
   - translation_iso: zho
     name: 凯语
     auto: true

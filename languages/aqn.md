@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北部アルタ語
     auto: true
+  - translation_iso: spa
+    name: Alta septentrional
+    auto: true
   - translation_iso: zho
     name: 北阿尔塔语
     auto: true

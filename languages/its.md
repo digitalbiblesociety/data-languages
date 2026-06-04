@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イツェキリ語
+  - translation_iso: spa
+    name: Isekiri
+    auto: true
   - translation_iso: zho
     name: 伊塞基里语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シラ語
+  - translation_iso: spa
+    name: Sira
+    auto: true
   - translation_iso: zho
     name: 西拉语
     auto: true

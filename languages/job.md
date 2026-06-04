@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ジョバ語
     auto: true
+  - translation_iso: spa
+    name: Joba
+    auto: true
   - translation_iso: zho
     name: 乔巴语
     auto: true

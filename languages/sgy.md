@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サングリチュ語
+  - translation_iso: spa
+    name: Sanglechi
+    auto: true
   - translation_iso: zho
     name: 桑格莱奇语
     auto: true

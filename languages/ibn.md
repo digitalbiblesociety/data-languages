@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イビノ語
     auto: true
+  - translation_iso: spa
+    name: Ibino
+    auto: true
   - translation_iso: zho
     name: 伊比诺语
     auto: true

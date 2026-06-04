@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オク語
     auto: true
+  - translation_iso: spa
+    name: Oku
+    auto: true
   - translation_iso: zho
     name: 奥库语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コンバイ語
+  - translation_iso: spa
+    name: Kombai
+    auto: true
   - translation_iso: zho
     name: 孔拜语
     auto: true

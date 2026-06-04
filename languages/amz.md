@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アタンパヤ語
     auto: true
+  - translation_iso: spa
+    name: Atampaya
+    auto: true
   - translation_iso: zho
     name: 阿坦帕亚语
     auto: true

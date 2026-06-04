@@ -25,6 +25,9 @@ translations:
     name: モーケン語
   - translation_iso: kor
     name: 모켄어
+  - translation_iso: spa
+    name: Moken
+    auto: true
   - translation_iso: zho
     name: 莫肯语
 rolv_dialects:

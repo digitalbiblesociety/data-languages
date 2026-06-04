@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パナオワヌコケチュア語
     auto: true
+  - translation_iso: spa
+    name: "Quechua de Panao, Huánuco"
+    auto: true
   - translation_iso: zho
     name: 帕瑙瓦努科克丘亚语
     auto: true

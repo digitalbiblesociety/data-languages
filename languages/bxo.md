@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バリカンチ語
     auto: true
+  - translation_iso: spa
+    name: Barikanchi
+    auto: true
   - translation_iso: zho
     name: 巴里坎奇语
     auto: true

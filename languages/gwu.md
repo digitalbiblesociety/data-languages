@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: グワム語
     auto: true
+  - translation_iso: spa
+    name: Guwamu
+    auto: true
   - translation_iso: zho
     name: 古瓦姆语
     auto: true

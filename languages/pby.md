@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピュー語
+  - translation_iso: spa
+    name: Pyu
+    auto: true
   - translation_iso: zho
     name: 皮尤语
     auto: true

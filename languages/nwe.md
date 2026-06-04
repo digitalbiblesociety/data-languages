@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングウェ語
+  - translation_iso: spa
+    name: Ngwe
+    auto: true
   - translation_iso: zho
     name: Ngwe語
 rolv_dialects:

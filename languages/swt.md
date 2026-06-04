@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サウィラ語
     auto: true
+  - translation_iso: spa
+    name: Sawila
+    auto: true
   - translation_iso: zho
     name: 萨威拉语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シモッグ語
     auto: true
+  - translation_iso: spa
+    name: Auwe
+    auto: true
   - translation_iso: zho
     name: 奥威语
     auto: true

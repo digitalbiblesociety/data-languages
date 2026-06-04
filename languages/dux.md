@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドゥングーマ語
     auto: true
+  - translation_iso: spa
+    name: Duungooma
+    auto: true
   - translation_iso: zho
     name: 杜翁戈玛语
     auto: true

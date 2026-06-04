@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ルーポA語
     auto: true
+  - translation_iso: spa
+    name: Loup A
+    auto: true
   - translation_iso: zho
     name: 路普A语
     auto: true

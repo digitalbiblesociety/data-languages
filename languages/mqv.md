@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: モシモ語
     auto: true
+  - translation_iso: spa
+    name: Mosimo
+    auto: true
   - translation_iso: zho
     name: 莫西莫语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イウル語
     auto: true
+  - translation_iso: spa
+    name: Iwur
+    auto: true
   - translation_iso: zho
     name: 伊武尔语
     auto: true

@@ -18,6 +18,9 @@ translations:
     name: 伽耶語
   - translation_iso: kor
     name: 가야어
+  - translation_iso: spa
+    name: Kara
+    auto: true
   - translation_iso: zho
     name: 伽倻语
 ---

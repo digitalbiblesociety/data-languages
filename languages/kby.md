@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンガ・カヌリ語
+  - translation_iso: spa
+    name: Kanuri Manga
+    auto: true
   - translation_iso: zho
     name: 曼加卡努里语
 rolv_dialects:

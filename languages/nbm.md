@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムバカ語
+  - translation_iso: spa
+    name: "Ngbaka Ma'bo"
+    auto: true
   - translation_iso: zho
     name: 恩巴卡玛博语
     auto: true

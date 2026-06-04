@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロマノギリシャ語
     auto: true
+  - translation_iso: spa
+    name: Romaní griego
+    auto: true
   - translation_iso: zho
     name: 罗玛诺-希腊语
     auto: true

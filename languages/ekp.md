@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エクペイェ語
     auto: true
+  - translation_iso: spa
+    name: Ekpeye
+    auto: true
   - translation_iso: zho
     name: 埃克佩耶语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バダ語
+  - translation_iso: spa
+    name: Bada (Indonesia)
+    auto: true
   - translation_iso: zho
     name: 印度尼西亚巴达语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラリ語
+  - translation_iso: spa
+    name: Laari
+    auto: true
   - translation_iso: zho
     name: 拉阿里语
     auto: true

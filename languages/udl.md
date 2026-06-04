@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミズリメ語
     auto: true
+  - translation_iso: spa
+    name: Wuzlam
+    auto: true
   - translation_iso: zho
     name: 武兹拉姆语
     auto: true

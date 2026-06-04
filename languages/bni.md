@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボバンギ語
+  - translation_iso: spa
+    name: Bangi
+    auto: true
   - translation_iso: zho
     name: Bangi语
 rolv_dialects:

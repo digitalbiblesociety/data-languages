@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ボネラート語
     auto: true
+  - translation_iso: spa
+    name: Bonerate
+    auto: true
   - translation_iso: zho
     name: 博内拉特语
     auto: true

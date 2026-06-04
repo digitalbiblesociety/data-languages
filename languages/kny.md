@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カニョク語
     auto: true
+  - translation_iso: spa
+    name: Kanyok
+    auto: true
   - translation_iso: zho
     name: 坎约克语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロホルン語
     auto: true
+  - translation_iso: spa
+    name: Lohorung
+    auto: true
   - translation_iso: zho
     name: 洛霍龙语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングアミニ語
     auto: true
+  - translation_iso: spa
+    name: Ngamini
+    auto: true
   - translation_iso: zho
     name: 恩加米尼语
     auto: true

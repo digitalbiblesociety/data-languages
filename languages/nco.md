@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シベ語
     auto: true
+  - translation_iso: spa
+    name: Sibe
+    auto: true
   - translation_iso: zho
     name: 锡伯语
     auto: true

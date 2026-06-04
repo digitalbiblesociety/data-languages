@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マクヴァ語
+  - translation_iso: spa
+    name: "Maku'a"
+    auto: true
   - translation_iso: zho
     name: 马库亚语
     auto: true

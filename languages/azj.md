@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北アゼルバイジャン語
+  - translation_iso: spa
+    name: Azerbaiyano Septentrional
+    auto: true
   - translation_iso: zho
     name: 北阿塞拜疆语
 rolv_dialects:

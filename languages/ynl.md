@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤングラム語
     auto: true
+  - translation_iso: spa
+    name: Yangulam
+    auto: true
   - translation_iso: zho
     name: 扬古拉姆语
     auto: true

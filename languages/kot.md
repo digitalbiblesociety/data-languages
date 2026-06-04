@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラグワン語
     auto: true
+  - translation_iso: spa
+    name: Lagwan
+    auto: true
   - translation_iso: zho
     name: 拉甘语
     auto: true

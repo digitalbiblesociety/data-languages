@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ドクシ語
     auto: true
+  - translation_iso: spa
+    name: Dokshi
+    auto: true
   - translation_iso: zho
     name: 多克希语
     auto: true

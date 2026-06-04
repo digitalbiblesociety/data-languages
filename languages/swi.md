@@ -25,6 +25,9 @@ translations:
     name: スイ語
   - translation_iso: kor
     name: 수이어
+  - translation_iso: spa
+    name: Sui
+    auto: true
   - translation_iso: zho
     name: 水语
 rolv_dialects:

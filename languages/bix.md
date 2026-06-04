@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビジョリ語
     auto: true
+  - translation_iso: spa
+    name: Bijori
+    auto: true
   - translation_iso: zho
     name: 比尔贾语
 ---

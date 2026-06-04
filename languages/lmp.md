@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リンブム語
     auto: true
+  - translation_iso: spa
+    name: Limbum
+    auto: true
   - translation_iso: zho
     name: 林布姆语
     auto: true

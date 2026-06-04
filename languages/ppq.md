@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ペイ語
     auto: true
+  - translation_iso: spa
+    name: Pei
+    auto: true
   - translation_iso: zho
     name: 佩伊语
     auto: true

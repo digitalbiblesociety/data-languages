@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コホ語
     auto: true
+  - translation_iso: spa
+    name: Koho
+    auto: true
   - translation_iso: zho
     name: 格賀語
 rolv_dialects:

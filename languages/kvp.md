@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コンパネ語
     auto: true
+  - translation_iso: spa
+    name: Kompane
+    auto: true
   - translation_iso: zho
     name: 孔帕内语
     auto: true

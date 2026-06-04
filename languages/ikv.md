@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イク・ゴラ・アンクワ語
     auto: true
+  - translation_iso: spa
+    name: Iku-Gora-Ankwa
+    auto: true
   - translation_iso: zho
     name: 伊库-戈拉-安克瓦语
     auto: true

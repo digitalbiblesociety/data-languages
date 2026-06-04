@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西ダニ語
+  - translation_iso: spa
+    name: Dani Occidental
+    auto: true
   - translation_iso: zho
     name: 西达尼语
     auto: true

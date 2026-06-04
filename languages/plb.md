@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ポロノンバウク語
     auto: true
+  - translation_iso: spa
+    name: Polonombauk
+    auto: true
   - translation_iso: zho
     name: 波隆玛瑙克语
     auto: true

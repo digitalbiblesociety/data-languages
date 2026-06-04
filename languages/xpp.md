@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: プヨ・ペクチェ語
     auto: true
+  - translation_iso: spa
+    name: Puyo-Paekche
+    auto: true
   - translation_iso: zho
     name: 普约-百济语
     auto: true

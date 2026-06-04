@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ニミ語
     auto: true
+  - translation_iso: spa
+    name: Nimi
+    auto: true
   - translation_iso: zho
     name: 尼米语
     auto: true

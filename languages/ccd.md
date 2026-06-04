@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カフンド・クレオール語
     auto: true
+  - translation_iso: spa
+    name: Criollo de Cafundo
+    auto: true
   - translation_iso: zho
     name: 卡丰多克里奥尔语
     auto: true

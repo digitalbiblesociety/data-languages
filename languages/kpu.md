@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カフォア語
     auto: true
+  - translation_iso: spa
+    name: Kafoa
+    auto: true
   - translation_iso: zho
     name: 卡福阿语
     auto: true

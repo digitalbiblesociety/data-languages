@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ウィントゥ語
     auto: true
+  - translation_iso: spa
+    name: Wintu
+    auto: true
   - translation_iso: zho
     name: 溫騰語
 ---

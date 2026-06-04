@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バファウ・バロン語
+  - translation_iso: spa
+    name: Bafaw-Balong
+    auto: true
   - translation_iso: zho
     name: 巴法-巴隆语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エイウォ語
+  - translation_iso: spa
+    name: Ayiwo
+    auto: true
   - translation_iso: zho
     name: 艾约语
     auto: true

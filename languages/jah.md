@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジャ・ハット語
     auto: true
+  - translation_iso: spa
+    name: Jah Hut
+    auto: true
   - translation_iso: zho
     name: 贾胡特语
 rolv_dialects:

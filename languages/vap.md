@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バイペイ語
     auto: true
+  - translation_iso: spa
+    name: Vaiphei
+    auto: true
   - translation_iso: zho
     name: 瓦依菲语
     auto: true

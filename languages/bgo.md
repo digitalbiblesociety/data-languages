@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バガ・コガ語
     auto: true
+  - translation_iso: spa
+    name: Baga Koga
+    auto: true
   - translation_iso: zho
     name: 巴加科加语
     auto: true

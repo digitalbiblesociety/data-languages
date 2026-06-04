@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ドゥカ語
     auto: true
+  - translation_iso: spa
+    name: Us-Saare
+    auto: true
   - translation_iso: zho
     name: 乌斯-萨雷语
     auto: true

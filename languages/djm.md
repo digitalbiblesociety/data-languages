@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャマサイ方言
+  - translation_iso: spa
+    name: Dogon Jamsay
+    auto: true
   - translation_iso: zho
     name: 詹赛多贡语
     auto: true

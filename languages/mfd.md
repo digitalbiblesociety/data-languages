@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メンダンクウェ・ンクウェン語
     auto: true
+  - translation_iso: spa
+    name: Mendankwe-Nkwen
+    auto: true
   - translation_iso: zho
     name: 门丹克韦-恩奎恩语
     auto: true

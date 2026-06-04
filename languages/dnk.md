@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デングカ語
     auto: true
+  - translation_iso: spa
+    name: Dengka
+    auto: true
   - translation_iso: zho
     name: 邓卡语
     auto: true

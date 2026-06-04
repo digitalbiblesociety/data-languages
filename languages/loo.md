@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Lombo語
+  - translation_iso: spa
+    name: Lombo
+    auto: true
   - translation_iso: zho
     name: 龙博语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モニ語
     auto: true
+  - translation_iso: spa
+    name: Moni
+    auto: true
   - translation_iso: zho
     name: 莫尼语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イラ語
+  - translation_iso: spa
+    name: Ila
+    auto: true
   - translation_iso: zho
     name: 伊拉语
     auto: true

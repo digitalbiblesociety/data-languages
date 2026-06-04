@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: トゥア語
     auto: true
+  - translation_iso: spa
+    name: Thur
+    auto: true
   - translation_iso: zho
     name: 图尔语
     auto: true

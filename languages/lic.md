@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リー語
+  - translation_iso: spa
+    name: Hlai
+    auto: true
   - translation_iso: zho
     name: 黎语
 rolv_dialects:

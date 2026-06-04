@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・パオ語
+  - translation_iso: spa
+    name: Tai Pao
+    auto: true
   - translation_iso: zho
     name: 傣包语
 rolv_dialects:

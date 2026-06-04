@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クプサビニィ語
+  - translation_iso: spa
+    name: Kupsabiny
+    auto: true
   - translation_iso: zho
     name: 薩比尼語
 rolv_dialects:

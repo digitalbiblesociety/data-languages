@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カイケ語
     auto: true
+  - translation_iso: spa
+    name: Kaike
+    auto: true
   - translation_iso: zho
     name: 凯克语
     auto: true

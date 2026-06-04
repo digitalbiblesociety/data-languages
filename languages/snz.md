@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シンサウル語
     auto: true
+  - translation_iso: spa
+    name: Kou
+    auto: true
   - translation_iso: zho
     name: 库语
     auto: true

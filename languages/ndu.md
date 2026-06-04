@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドゥグン語
     auto: true
+  - translation_iso: spa
+    name: Dugun
+    auto: true
   - translation_iso: zho
     name: 杜贡语
     auto: true

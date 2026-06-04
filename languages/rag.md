@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロゴーリ語
+  - translation_iso: spa
+    name: Logooli
+    auto: true
   - translation_iso: zho
     name: 洛戈利语
     auto: true

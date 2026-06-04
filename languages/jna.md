@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジャングシュン語
     auto: true
+  - translation_iso: spa
+    name: Jangshung
+    auto: true
   - translation_iso: zho
     name: 降松语
     auto: true

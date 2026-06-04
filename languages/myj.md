@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マンガヤット語
     auto: true
+  - translation_iso: spa
+    name: Mangayat
+    auto: true
   - translation_iso: zho
     name: 曼加亚特语
     auto: true

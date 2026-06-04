@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボレ語
+  - translation_iso: spa
+    name: Bole
+    auto: true
   - translation_iso: zho
     name: 博乐语
 rolv_dialects:

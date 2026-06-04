@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バダ語
     auto: true
+  - translation_iso: spa
+    name: Bada
+    auto: true
   - translation_iso: zho
     name: 巴达语
     auto: true

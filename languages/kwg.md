@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サラ・カバ・デメ語
     auto: true
+  - translation_iso: spa
+    name: Sara Kaba Deme
+    auto: true
   - translation_iso: zho
     name: 萨拉卡巴德梅语
     auto: true

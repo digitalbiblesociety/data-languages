@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムン・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Mün
+    auto: true
   - translation_iso: zho
     name: 蒙钦语
     auto: true

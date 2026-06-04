@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カンジャリ語
     auto: true
+  - translation_iso: spa
+    name: Kanjari
+    auto: true
   - translation_iso: zho
     name: 坎贾里语
     auto: true

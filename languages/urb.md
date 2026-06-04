@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウルブ語
     auto: true
+  - translation_iso: spa
+    name: Urubú-Kaapor
+    auto: true
   - translation_iso: zho
     name: 乌鲁布-卡阿波尔语
     auto: true

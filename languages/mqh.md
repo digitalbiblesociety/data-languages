@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トラゾアルテペック・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Tlazoyaltepec
+    auto: true
   - translation_iso: zho
     name: 特拉索亚尔特佩克混合语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴテ語
+  - translation_iso: spa
+    name: Vute
+    auto: true
   - translation_iso: zho
     name: 武特语
     auto: true

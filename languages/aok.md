@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アルホ語
     auto: true
+  - translation_iso: spa
+    name: Arhö
+    auto: true
   - translation_iso: zho
     name: 阿尔霍语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メンゲン語
+  - translation_iso: spa
+    name: Mengen
+    auto: true
   - translation_iso: zho
     name: 门根语
     auto: true

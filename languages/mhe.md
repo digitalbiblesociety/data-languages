@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベシシ語
     auto: true
+  - translation_iso: spa
+    name: Besisi
+    auto: true
   - translation_iso: zho
     name: 马赫梅里语
 ---

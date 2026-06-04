@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チャカリ語
     auto: true
+  - translation_iso: spa
+    name: Chakali
+    auto: true
   - translation_iso: zho
     name: 恰卡利语
     auto: true

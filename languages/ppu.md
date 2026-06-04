@@ -25,6 +25,9 @@ translations:
     name: パポラ・ホアンヤ語
   - translation_iso: kor
     name: 파포라-호안야어
+  - translation_iso: spa
+    name: Papora
+    auto: true
   - translation_iso: zho
     name: 巴布拉语
 rolv_dialects:

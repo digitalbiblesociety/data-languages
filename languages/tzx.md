@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カラワリ語
     auto: true
+  - translation_iso: spa
+    name: Tabriak
+    auto: true
   - translation_iso: zho
     name: 塔布里亚克语
     auto: true

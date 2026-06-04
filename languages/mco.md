@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コアトラン・ミヘ語
     auto: true
+  - translation_iso: spa
+    name: Mixe de Coatlán
+    auto: true
   - translation_iso: zho
     name: 科特兰米克斯语
     auto: true

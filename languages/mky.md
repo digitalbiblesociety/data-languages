@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東マキアン語
+  - translation_iso: spa
+    name: Makian Oriental
+    auto: true
   - translation_iso: zho
     name: 塔巴语
 ---

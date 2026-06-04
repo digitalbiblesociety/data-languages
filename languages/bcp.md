@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリ語
+  - translation_iso: spa
+    name: Bali (República Democrática del Congo)
+    auto: true
   - translation_iso: zho
     name: 刚果民主共和国巴利语
     auto: true

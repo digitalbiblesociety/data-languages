@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グアジャ語
+  - translation_iso: spa
+    name: Guajá
+    auto: true
   - translation_iso: zho
     name: 瓜雅语
     auto: true

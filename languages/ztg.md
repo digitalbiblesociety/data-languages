@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サナグア・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Xanaguía
+    auto: true
   - translation_iso: zho
     name: 哈那古亚萨波特克语
     auto: true

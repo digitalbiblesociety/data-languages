@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: イニンガイ語
     auto: true
+  - translation_iso: spa
+    name: Yiningayi
+    auto: true
   - translation_iso: zho
     name: 伊宁盖伊语
     auto: true

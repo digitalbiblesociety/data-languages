@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クウェセ語
     auto: true
+  - translation_iso: spa
+    name: Kwese
+    auto: true
   - translation_iso: zho
     name: 克韦塞语
     auto: true

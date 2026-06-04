@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: インプイ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Inpui
+    auto: true
   - translation_iso: zho
     name: 因普依纳加语
     auto: true

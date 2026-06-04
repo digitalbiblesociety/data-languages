@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミニギール語
     auto: true
+  - translation_iso: spa
+    name: Lungalunga
+    auto: true
   - translation_iso: zho
     name: 隆加隆加语
     auto: true

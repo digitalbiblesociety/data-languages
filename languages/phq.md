@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 파나어 (로로어군)
+  - translation_iso: spa
+    name: "Phana'"
+    auto: true
   - translation_iso: zho
     name: 帕那语
 ---

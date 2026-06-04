@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ザクリング語
     auto: true
+  - translation_iso: spa
+    name: Zakhring
+    auto: true
   - translation_iso: zho
     name: 扎话
 ---

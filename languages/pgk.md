@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レレップ語
     auto: true
+  - translation_iso: spa
+    name: Rerep
+    auto: true
   - translation_iso: zho
     name: 瑞瑞普语
 rolv_dialects:

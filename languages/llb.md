@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ロロ語
     auto: true
+  - translation_iso: spa
+    name: Lolo
+    auto: true
   - translation_iso: zho
     name: 洛洛语
     auto: true

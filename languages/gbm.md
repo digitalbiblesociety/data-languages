@@ -25,6 +25,9 @@ translations:
     name: ガルワーリー語
   - translation_iso: kor
     name: 가르왈어
+  - translation_iso: spa
+    name: Garhwali
+    auto: true
   - translation_iso: zho
     name: 嘉华语
 rolv_dialects:

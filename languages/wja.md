@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワジャ語
     auto: true
+  - translation_iso: spa
+    name: Waja
+    auto: true
   - translation_iso: zho
     name: 瓦贾语
     auto: true

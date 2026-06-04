@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マバ語
+  - translation_iso: spa
+    name: Maba (Indonesia)
+    auto: true
   - translation_iso: zho
     name: 玛巴语（印度尼西亚）
     auto: true

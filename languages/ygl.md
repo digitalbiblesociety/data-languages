@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ヤングム・ゲル語
     auto: true
+  - translation_iso: spa
+    name: Yangum Gel
+    auto: true
   - translation_iso: zho
     name: 扬古姆-格尔语
     auto: true

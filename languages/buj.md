@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バサ・グルマナ語
     auto: true
+  - translation_iso: spa
+    name: Basa-Gurmana
+    auto: true
   - translation_iso: zho
     name: 巴萨-古尔曼纳语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グマワナ語
     auto: true
+  - translation_iso: spa
+    name: Gumawana
+    auto: true
   - translation_iso: zho
     name: 古玛瓦纳语
     auto: true

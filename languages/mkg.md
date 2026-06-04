@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マク語
     auto: true
+  - translation_iso: spa
+    name: Mak
+    auto: true
   - translation_iso: zho
     name: 莫语
 rolv_dialects:

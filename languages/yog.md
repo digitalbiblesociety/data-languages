@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨガド語
+  - translation_iso: spa
+    name: Yogad
+    auto: true
   - translation_iso: zho
     name: 约加德语
     auto: true

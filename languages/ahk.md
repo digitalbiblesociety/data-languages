@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アカ語
+  - translation_iso: spa
+    name: Akha
+    auto: true
   - translation_iso: zho
     name: 阿卡语
 rolv_dialects:

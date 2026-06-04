@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドゥスン・ウィトゥ語
     auto: true
+  - translation_iso: spa
+    name: Dusun Witu
+    auto: true
   - translation_iso: zho
     name: 杜顺维图语
     auto: true

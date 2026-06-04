@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グイラ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Güilá
+    auto: true
   - translation_iso: zho
     name: 圭拉萨波特克语
     auto: true

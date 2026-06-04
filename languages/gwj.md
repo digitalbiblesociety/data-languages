@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グイ語
+  - translation_iso: spa
+    name: ǀGwi
+    auto: true
   - translation_iso: zho
     name: "!吉语"
     auto: true

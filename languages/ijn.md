@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラバリ語
+  - translation_iso: spa
+    name: Kalabari
+    auto: true
   - translation_iso: zho
     name: 卡拉巴里语
 ---

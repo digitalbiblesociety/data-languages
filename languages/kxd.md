@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブルネイ・マレー語
+  - translation_iso: spa
+    name: Bruneano
+    auto: true
   - translation_iso: zho
     name: 汶萊馬來語
 rolv_dialects:

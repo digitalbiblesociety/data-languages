@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ランボヤ語
     auto: true
+  - translation_iso: spa
+    name: Lamboya
+    auto: true
   - translation_iso: zho
     name: 兰博亚语
     auto: true

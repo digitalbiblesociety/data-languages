@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボロ語
     auto: true
+  - translation_iso: spa
+    name: Voro
+    auto: true
   - translation_iso: zho
     name: 沃罗语
     auto: true

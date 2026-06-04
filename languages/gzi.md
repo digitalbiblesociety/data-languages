@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギャズ語
+  - translation_iso: spa
+    name: Gazi
+    auto: true
   - translation_iso: zho
     name: 加齐语
     auto: true

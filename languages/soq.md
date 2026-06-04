@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ソナ語
     auto: true
+  - translation_iso: spa
+    name: Kanasi
+    auto: true
   - translation_iso: zho
     name: 卡纳西语
     auto: true

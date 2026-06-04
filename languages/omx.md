@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 고대 몬어
+  - translation_iso: spa
+    name: Mon antiguo
+    auto: true
   - translation_iso: zho
     name: 古孟语
     auto: true

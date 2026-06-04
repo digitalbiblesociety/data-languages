@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウングク語
     auto: true
+  - translation_iso: spa
+    name: ǂUngkue
+    auto: true
   - translation_iso: zho
     name: 克恩语
     auto: true

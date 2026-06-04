@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベクウェル語
     auto: true
+  - translation_iso: spa
+    name: Bekwel
+    auto: true
   - translation_iso: zho
     name: 贝克韦尔语
     auto: true

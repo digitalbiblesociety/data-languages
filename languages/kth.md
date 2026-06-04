@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カランガ語
     auto: true
+  - translation_iso: spa
+    name: Karanga
+    auto: true
   - translation_iso: zho
     name: 卡兰加语
     auto: true

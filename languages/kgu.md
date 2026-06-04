@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コボル語
     auto: true
+  - translation_iso: spa
+    name: Kobol
+    auto: true
   - translation_iso: zho
     name: 科博尔语
     auto: true

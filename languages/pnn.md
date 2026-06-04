@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ピナイハガハイ語
     auto: true
+  - translation_iso: spa
+    name: Pinai-Hagahai
+    auto: true
   - translation_iso: zho
     name: 皮奈哈加海伊语
     auto: true

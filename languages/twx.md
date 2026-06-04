@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チマニカ語
     auto: true
+  - translation_iso: spa
+    name: Tewe
+    auto: true
   - translation_iso: zho
     name: 特威语
     auto: true

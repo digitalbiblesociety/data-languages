@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケルバ・マンベラモ語
     auto: true
+  - translation_iso: spa
+    name: Kwerba Mamberamo
+    auto: true
   - translation_iso: zho
     name: 克韦尔巴-曼贝拉莫语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エドロ語
     auto: true
+  - translation_iso: spa
+    name: Edolo
+    auto: true
   - translation_iso: zho
     name: 艾托羅語
 rolv_dialects:

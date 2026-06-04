@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミナヴェハ語
     auto: true
+  - translation_iso: spa
+    name: Minaveha
+    auto: true
   - translation_iso: zho
     name: 米纳维哈语
     auto: true

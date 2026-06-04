@@ -22,6 +22,9 @@ translations:
     name: गोवरो भाषा
   - translation_iso: jpn
     name: ゴウロ語
+  - translation_iso: spa
+    name: Gowro
+    auto: true
   - translation_iso: zho
     name: 戈瓦罗语
 ---

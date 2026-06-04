@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ンドボ語
     auto: true
+  - translation_iso: spa
+    name: Ndobo
+    auto: true
   - translation_iso: zho
     name: 恩多博语
     auto: true

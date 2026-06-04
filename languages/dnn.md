@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ゾゥングゥ語
     auto: true
+  - translation_iso: spa
+    name: Dzùùngoo
+    auto: true
   - translation_iso: zho
     name: 祖恩戈语
     auto: true

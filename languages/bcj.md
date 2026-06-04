@@ -25,6 +25,9 @@ translations:
     name: Bardi語
   - translation_iso: kor
     name: 바르디어
+  - translation_iso: spa
+    name: Bardi
+    auto: true
   - translation_iso: zho
     name: 巴尔迪语
     auto: true

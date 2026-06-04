@@ -19,6 +19,9 @@ translations:
     name: उमबुगरला भाषा
   - translation_iso: jpn
     name: ウンブガルラ語
+  - translation_iso: spa
+    name: Umbugarla
+    auto: true
   - translation_iso: zho
     name: 翁布加拉语
     auto: true

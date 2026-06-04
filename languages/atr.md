@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワイミリアトロアリ語
     auto: true
+  - translation_iso: spa
+    name: Waimiri-Atroari
+    auto: true
   - translation_iso: zho
     name: 瓦伊米里-阿特罗阿里语
     auto: true

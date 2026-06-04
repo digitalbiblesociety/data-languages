@@ -25,6 +25,9 @@ translations:
     name: トーロン語
   - translation_iso: kor
     name: 두룽어
+  - translation_iso: spa
+    name: Drung
+    auto: true
   - translation_iso: zho
     name: 独龙语
 rolv_dialects:

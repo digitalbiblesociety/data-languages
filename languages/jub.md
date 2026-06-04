@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワンヌ語
     auto: true
+  - translation_iso: spa
+    name: Wannu
+    auto: true
   - translation_iso: zho
     name: 瓦努语
     auto: true

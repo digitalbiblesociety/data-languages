@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アユ語
     auto: true
+  - translation_iso: spa
+    name: Ayu
+    auto: true
   - translation_iso: zho
     name: 艾语
     auto: true

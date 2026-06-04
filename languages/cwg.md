@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チェウォング語
     auto: true
+  - translation_iso: spa
+    name: Chewong
+    auto: true
   - translation_iso: zho
     name: 彻翁语
 ---

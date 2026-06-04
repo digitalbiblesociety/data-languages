@@ -20,6 +20,9 @@ translations:
     name: घंड्रुक सांकेतिक भाषा
   - translation_iso: jpn
     name: ガンドルック手話
+  - translation_iso: spa
+    name: Lengua de señas de Ghandruk
+    auto: true
   - translation_iso: zho
     name: 甘德鲁克手语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤツァチ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Yatzachi
+    auto: true
   - translation_iso: zho
     name: 亚茨阿奇-萨波特克语
     auto: true

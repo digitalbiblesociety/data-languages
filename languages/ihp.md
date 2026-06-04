@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イハ語
     auto: true
+  - translation_iso: spa
+    name: Iha
+    auto: true
   - translation_iso: zho
     name: 伊哈语
     auto: true

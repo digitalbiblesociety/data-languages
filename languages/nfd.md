@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アフワイ語
     auto: true
+  - translation_iso: spa
+    name: Ahwai
+    auto: true
   - translation_iso: zho
     name: 艾瓦依语
     auto: true

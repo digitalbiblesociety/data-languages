@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カトゥ語
+  - translation_iso: spa
+    name: Katu Occidental
+    auto: true
   - translation_iso: zho
     name: 戈都语
 rolv_dialects:

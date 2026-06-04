@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: スラヴォモリサーノ語
     auto: true
+  - translation_iso: spa
+    name: Slavomolisano
+    auto: true
   - translation_iso: zho
     name: 斯拉夫莫利塞语
 ---

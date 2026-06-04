@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: テナンゴ・オトミ語
     auto: true
+  - translation_iso: spa
+    name: Otomí de Tenango
+    auto: true
   - translation_iso: zho
     name: 特南戈奥托米语
     auto: true

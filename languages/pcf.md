@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パリヤン語
     auto: true
+  - translation_iso: spa
+    name: Paliyan
+    auto: true
   - translation_iso: zho
     name: 帕利扬语
     auto: true

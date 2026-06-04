@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニマンブル語
+  - translation_iso: spa
+    name: Nimanbur
+    auto: true
   - translation_iso: zho
     name: 尼曼布尔语
     auto: true

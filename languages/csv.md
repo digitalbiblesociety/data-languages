@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スムツ・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Sumtu
+    auto: true
   - translation_iso: zho
     name: 苏木图钦语
     auto: true

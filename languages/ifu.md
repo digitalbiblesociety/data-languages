@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マヨヤオ・イフガオ語
     auto: true
+  - translation_iso: spa
+    name: Ifugao de Mayoyao
+    auto: true
   - translation_iso: zho
     name: 马约亚伊富高语
     auto: true

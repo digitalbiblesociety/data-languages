@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジョウル語
     auto: true
+  - translation_iso: spa
+    name: Jowulu
+    auto: true
   - translation_iso: zho
     name: 乔武卢语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロトゥゴ語
+  - translation_iso: spa
+    name: Otuho
+    auto: true
   - translation_iso: zho
     name: 奥图霍语
     auto: true

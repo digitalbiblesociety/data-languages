@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ラング語
     auto: true
+  - translation_iso: spa
+    name: "Lang'e"
+    auto: true
   - translation_iso: zho
     name: 崀峨语
 ---

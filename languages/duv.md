@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥヴレ語
     auto: true
+  - translation_iso: spa
+    name: Duvle
+    auto: true
   - translation_iso: zho
     name: 杜夫勒语
     auto: true

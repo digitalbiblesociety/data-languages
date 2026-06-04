@@ -24,6 +24,9 @@ translations:
     name: フッター派ドイツ語
   - translation_iso: kor
     name: 후터파 독일어
+  - translation_iso: spa
+    name: Alemán hutterita
+    auto: true
   - translation_iso: zho
     name: 哈特瑞德語
 ---

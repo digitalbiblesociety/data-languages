@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モンブム語
     auto: true
+  - translation_iso: spa
+    name: Mombum
+    auto: true
   - translation_iso: zho
     name: 蒙布姆语
     auto: true

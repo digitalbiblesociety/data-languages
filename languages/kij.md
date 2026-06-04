@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キリヴィラ語
+  - translation_iso: spa
+    name: Kilivila
+    auto: true
   - translation_iso: zho
     name: 基里維納语
 rolv_dialects:

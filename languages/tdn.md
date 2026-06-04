@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トンダノ語
+  - translation_iso: spa
+    name: Tondano
+    auto: true
   - translation_iso: zho
     name: 通达诺语
     auto: true

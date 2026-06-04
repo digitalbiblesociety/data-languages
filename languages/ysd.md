@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サマタオ語
     auto: true
+  - translation_iso: spa
+    name: Samatao
+    auto: true
   - translation_iso: zho
     name: 撒慕语
 ---

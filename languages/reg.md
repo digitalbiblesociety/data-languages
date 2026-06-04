@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラ語
+  - translation_iso: spa
+    name: Kara (Tanzania)
+    auto: true
   - translation_iso: zho
     name: 卡拉语(坦桑尼亚)
     auto: true

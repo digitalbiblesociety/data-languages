@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラカハンガ・マニヒキ語
+  - translation_iso: spa
+    name: Rakahanga-Manihiki
+    auto: true
   - translation_iso: zho
     name: 拉卡汉加-马尼希基语
     auto: true

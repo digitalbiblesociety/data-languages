@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タヴェタ語
+  - translation_iso: spa
+    name: Taveta
+    auto: true
   - translation_iso: zho
     name: 塔维塔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レシェ語
     auto: true
+  - translation_iso: spa
+    name: Reshe
+    auto: true
   - translation_iso: zho
     name: 雷歇语
     auto: true

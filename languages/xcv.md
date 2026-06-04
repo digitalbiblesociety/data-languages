@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チュバンチー語
+  - translation_iso: spa
+    name: Chuvantsy
+    auto: true
   - translation_iso: zho
     name: 楚凡语
 ---

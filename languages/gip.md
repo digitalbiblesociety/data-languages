@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ギミ語
     auto: true
+  - translation_iso: spa
+    name: Gimi (Nueva Bretaña Occidental)
+    auto: true
   - translation_iso: zho
     name: 吉米语（西新不列颠）
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スワワ語
+  - translation_iso: spa
+    name: Suwawa
+    auto: true
   - translation_iso: zho
     name: 苏瓦瓦语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワンダ語
     auto: true
+  - translation_iso: spa
+    name: Wanda
+    auto: true
   - translation_iso: zho
     name: 万达语
     auto: true

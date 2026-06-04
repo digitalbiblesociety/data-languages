@@ -21,6 +21,9 @@ translations:
     name: मंदायलिंग बतक भाषा
   - translation_iso: jpn
     name: バタク・マンダイリン語
+  - translation_iso: spa
+    name: Batak Mandailing
+    auto: true
   - translation_iso: zho
     name: 曼代灵语
 ---

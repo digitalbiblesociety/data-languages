@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サキザヤ語
+  - translation_iso: spa
+    name: Sakizaya
+    auto: true
   - translation_iso: zho
     name: 撒奇莱雅语
 ---

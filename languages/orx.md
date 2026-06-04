@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: オロ語
     auto: true
+  - translation_iso: spa
+    name: Oro
+    auto: true
   - translation_iso: zho
     name: 奥罗语
 ---

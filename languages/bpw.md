@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボ語
     auto: true
+  - translation_iso: spa
+    name: Bo (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 博语（巴布亚新几内亚）
     auto: true

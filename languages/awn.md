@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アウンギ語
     auto: true
+  - translation_iso: spa
+    name: Awngi
+    auto: true
   - translation_iso: zho
     name: 阿恩吉语
     auto: true

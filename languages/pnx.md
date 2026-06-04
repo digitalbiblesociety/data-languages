@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フォンクニアン語
     auto: true
+  - translation_iso: spa
+    name: Phong-Kniang
+    auto: true
   - translation_iso: zho
     name: 克年语
 ---

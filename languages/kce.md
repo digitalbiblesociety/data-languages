@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カイビ語
     auto: true
+  - translation_iso: spa
+    name: Kaivi
+    auto: true
   - translation_iso: zho
     name: 卡依维语
     auto: true

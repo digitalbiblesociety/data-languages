@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アボム語
     auto: true
+  - translation_iso: spa
+    name: Abom
+    auto: true
   - translation_iso: zho
     name: 阿邦语
     auto: true

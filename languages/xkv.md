@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カラガディ語
     auto: true
+  - translation_iso: spa
+    name: Kgalagadi
+    auto: true
   - translation_iso: zho
     name: 卡拉哈迪語
 rolv_dialects:

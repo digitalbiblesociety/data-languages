@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マンバエ語
     auto: true
+  - translation_iso: spa
+    name: Mambae
+    auto: true
   - translation_iso: zho
     name: 玛姆巴埃语
     auto: true

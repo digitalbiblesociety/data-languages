@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プルワット語
+  - translation_iso: spa
+    name: Puluwatés
+    auto: true
   - translation_iso: zho
     name: 普卢瓦特语
     auto: true

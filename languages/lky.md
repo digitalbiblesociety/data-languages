@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロコヤ語
+  - translation_iso: spa
+    name: Lokoya
+    auto: true
   - translation_iso: zho
     name: 洛科亚语
     auto: true

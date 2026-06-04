@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: エッチェミン語
     auto: true
+  - translation_iso: spa
+    name: Etchemin
+    auto: true
   - translation_iso: zho
     name: 埃奇明语
     auto: true

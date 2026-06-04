@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コレシュエ・ロスタム語
     auto: true
+  - translation_iso: spa
+    name: Koresh-e Rostam
+    auto: true
   - translation_iso: zho
     name: 科雷什-罗斯塔姆语
     auto: true

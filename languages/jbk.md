@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: バリケワ語
     auto: true
+  - translation_iso: spa
+    name: Barikewa
+    auto: true
   - translation_iso: zho
     name: 巴里克瓦语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セパ語
+  - translation_iso: spa
+    name: Sepa
+    auto: true
   - translation_iso: zho
     name: 塞帕语（印度尼西亚）
     auto: true

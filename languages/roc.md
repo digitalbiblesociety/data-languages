@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カギアログライ語
     auto: true
+  - translation_iso: spa
+    name: Roglai cacgia
+    auto: true
   - translation_iso: zho
     name: 卡其亚罗格莱语
     auto: true

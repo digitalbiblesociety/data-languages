@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワマ語
     auto: true
+  - translation_iso: spa
+    name: Waama
+    auto: true
   - translation_iso: zho
     name: 瓦玛语
     auto: true

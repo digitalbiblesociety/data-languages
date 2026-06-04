@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バイバヤノン語
     auto: true
+  - translation_iso: spa
+    name: Baybayanon
+    auto: true
   - translation_iso: zho
     name: 拜拜語
 ---

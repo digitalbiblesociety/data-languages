@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: コロニ語
     auto: true
+  - translation_iso: spa
+    name: Koroni
+    auto: true
   - translation_iso: zho
     name: 科罗尼语
     auto: true

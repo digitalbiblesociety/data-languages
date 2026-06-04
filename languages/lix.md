@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リアブク語
     auto: true
+  - translation_iso: spa
+    name: Liabuku
+    auto: true
   - translation_iso: zho
     name: 利亚布库语
     auto: true

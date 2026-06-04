@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナクウィ語
     auto: true
+  - translation_iso: spa
+    name: Nakwi
+    auto: true
   - translation_iso: zho
     name: 纳克维语
     auto: true

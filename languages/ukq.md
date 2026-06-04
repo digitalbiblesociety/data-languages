@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウクワ語
+  - translation_iso: spa
+    name: Ukwa
+    auto: true
   - translation_iso: zho
     name: 乌克瓦语
     auto: true

@@ -24,6 +24,9 @@ translations:
     name: カム・チベット語
   - translation_iso: kor
     name: 캄 티베트어
+  - translation_iso: spa
+    name: Tibetano de Khams
+    auto: true
   - translation_iso: zho
     name: 康方言
 rolv_dialects:

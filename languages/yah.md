@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤズグリャム語
+  - translation_iso: spa
+    name: Yazgulyam
+    auto: true
   - translation_iso: zho
     name: 亚兹古拉姆语
 rolv_dialects:

@@ -22,6 +22,9 @@ translations:
     name: रेमो भाषा
   - translation_iso: jpn
     name: ボンド語
+  - translation_iso: spa
+    name: Bondo
+    auto: true
   - translation_iso: zho
     name: 雷莫语
 rolv_dialects:

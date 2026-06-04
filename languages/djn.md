@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジャウィン語
     auto: true
+  - translation_iso: spa
+    name: Jawoyn
+    auto: true
   - translation_iso: zho
     name: 贾沃因语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビヌキド
+  - translation_iso: spa
+    name: Binukid
+    auto: true
   - translation_iso: zho
     name: 比努基德语
     auto: true

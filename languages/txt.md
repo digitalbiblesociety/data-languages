@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アスマット・ダラット語
     auto: true
+  - translation_iso: spa
+    name: Citak
+    auto: true
   - translation_iso: zho
     name: 齐塔克语
     auto: true

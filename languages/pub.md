@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: プルム語
     auto: true
+  - translation_iso: spa
+    name: Purum
+    auto: true
   - translation_iso: zho
     name: 普鲁姆语
     auto: true

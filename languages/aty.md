@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アネイチュム語
+  - translation_iso: spa
+    name: Aneityum
+    auto: true
   - translation_iso: zho
     name: 阿内蒂厄姆语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バタク・アラス＝クルット語
+  - translation_iso: spa
+    name: Batak Alas-Kluet
+    auto: true
   - translation_iso: zho
     name: 阿拉斯语
 rolv_dialects:

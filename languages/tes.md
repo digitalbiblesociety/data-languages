@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テンガー語
     auto: true
+  - translation_iso: spa
+    name: Tengger
+    auto: true
   - translation_iso: zho
     name: 騰格爾族語
 rolv_dialects:

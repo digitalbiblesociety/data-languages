@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジブ語
+  - translation_iso: spa
+    name: Jibu
+    auto: true
   - translation_iso: zho
     name: 吉布语
     auto: true

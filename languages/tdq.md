@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ティタ語
     auto: true
+  - translation_iso: spa
+    name: Tita
+    auto: true
   - translation_iso: zho
     name: 蒂塔语
     auto: true

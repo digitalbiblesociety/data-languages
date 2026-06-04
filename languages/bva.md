@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バレイン語
     auto: true
+  - translation_iso: spa
+    name: Barein
+    auto: true
   - translation_iso: zho
     name: 巴雷因语
     auto: true

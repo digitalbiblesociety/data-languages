@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブットブット・カリンガ語
     auto: true
+  - translation_iso: spa
+    name: Kalinga Butbut
+    auto: true
   - translation_iso: zho
     name: 布特布特卡林加语
     auto: true

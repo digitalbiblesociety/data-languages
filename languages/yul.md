@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ユル語
     auto: true
+  - translation_iso: spa
+    name: Yulu
+    auto: true
   - translation_iso: zho
     name: 尤卢语
     auto: true

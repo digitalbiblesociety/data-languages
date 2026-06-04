@@ -18,6 +18,9 @@ translations:
     name: アラン語
   - translation_iso: kor
     name: 알란어
+  - translation_iso: spa
+    name: Alánico
+    auto: true
   - translation_iso: zho
     name: 阿蘭語
 ---

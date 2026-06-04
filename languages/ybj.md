@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ハシャ語
     auto: true
+  - translation_iso: spa
+    name: Hasha
+    auto: true
   - translation_iso: zho
     name: 哈沙语
     auto: true

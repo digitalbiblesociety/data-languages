@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワガヤ語
     auto: true
+  - translation_iso: spa
+    name: Wagaya
+    auto: true
   - translation_iso: zho
     name: 瓦盖亚语
     auto: true

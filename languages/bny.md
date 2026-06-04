@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビントゥル語
     auto: true
+  - translation_iso: spa
+    name: Bintulu
+    auto: true
   - translation_iso: zho
     name: 民都魯方言
 ---

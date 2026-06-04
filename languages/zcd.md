@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ラス・デリシアス・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Las Delicias
+    auto: true
   - translation_iso: zho
     name: 拉斯-德利西亚斯-萨波特克语
     auto: true

@@ -22,6 +22,9 @@ translations:
     name: कोन्यक भाषा
   - translation_iso: jpn
     name: コニャック語
+  - translation_iso: spa
+    name: Naga Konyak
+    auto: true
   - translation_iso: zho
     name: 科尼亚克纳加语
     auto: true

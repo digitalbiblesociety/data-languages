@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レハル語
     auto: true
+  - translation_iso: spa
+    name: Lehar
+    auto: true
   - translation_iso: zho
     name: 勒哈尔语
     auto: true

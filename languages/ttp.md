@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トンベララ語
     auto: true
+  - translation_iso: spa
+    name: Tombelala
+    auto: true
   - translation_iso: zho
     name: 汤贝拉拉语
     auto: true

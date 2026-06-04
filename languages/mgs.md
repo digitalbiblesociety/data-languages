@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マンダ語
     auto: true
+  - translation_iso: spa
+    name: Manda (Tanzania)
+    auto: true
   - translation_iso: zho
     name: 曼达语（坦桑尼亚）
     auto: true

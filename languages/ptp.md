@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パテプ語
     auto: true
+  - translation_iso: spa
+    name: Patep
+    auto: true
   - translation_iso: zho
     name: 帕特普语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クンドゥバディ語
     auto: true
+  - translation_iso: spa
+    name: Kunduvadi
+    auto: true
   - translation_iso: zho
     name: 库杜瓦迪语
     auto: true

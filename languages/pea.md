@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ペラナカン・インドネシア語
     auto: true
+  - translation_iso: spa
+    name: Indonesio peranakan
+    auto: true
   - translation_iso: zho
     name: 印尼峇峇話
 ---

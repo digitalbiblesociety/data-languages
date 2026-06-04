@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ルマイパラウン語
     auto: true
+  - translation_iso: spa
+    name: Palaung Rumai
+    auto: true
   - translation_iso: zho
     name: 鲁迈帕劳语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラスウィ・バレリ語
     auto: true
+  - translation_iso: spa
+    name: Bareli Rathwi
+    auto: true
   - translation_iso: zho
     name: 拉思维巴雷利语
     auto: true

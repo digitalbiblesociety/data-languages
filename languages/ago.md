@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タイナエ語
     auto: true
+  - translation_iso: spa
+    name: Tainae
+    auto: true
   - translation_iso: zho
     name: 塔伊奈语
     auto: true

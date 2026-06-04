@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マグディ語
     auto: true
+  - translation_iso: spa
+    name: Mághdì
+    auto: true
   - translation_iso: zho
     name: 马格地语
 ---

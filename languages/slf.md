@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スイス＝イタリア手話
+  - translation_iso: spa
+    name: Lengua de Señas Suizo-Italiana
+    auto: true
   - translation_iso: zho
     name: 瑞士-意大利手语
     auto: true

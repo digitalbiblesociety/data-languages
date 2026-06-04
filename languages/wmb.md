@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワンバヤ語
+  - translation_iso: spa
+    name: Wambaya
+    auto: true
   - translation_iso: zho
     name: 瓦巴亚语
     auto: true

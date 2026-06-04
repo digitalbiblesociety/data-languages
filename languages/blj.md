@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボロンガン語
     auto: true
+  - translation_iso: spa
+    name: Bolongan
+    auto: true
   - translation_iso: zho
     name: 博隆干语
     auto: true

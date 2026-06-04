@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デンゲセ語
     auto: true
+  - translation_iso: spa
+    name: Dengese
+    auto: true
   - translation_iso: zho
     name: 邓格塞语
     auto: true

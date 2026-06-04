@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボマ語
     auto: true
+  - translation_iso: spa
+    name: Boma
+    auto: true
   - translation_iso: zho
     name: 博马语
     auto: true

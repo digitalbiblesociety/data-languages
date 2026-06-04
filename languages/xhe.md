@@ -22,6 +22,9 @@ translations:
     name: खेतरानी
   - translation_iso: jpn
     name: ケートラーニー語
+  - translation_iso: spa
+    name: Khetrani
+    auto: true
   - translation_iso: zho
     name: 赫特兰语
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガブリ語
     auto: true
+  - translation_iso: spa
+    name: Gabri
+    auto: true
   - translation_iso: zho
     name: 加夫里语
     auto: true

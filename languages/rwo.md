@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カロ語
     auto: true
+  - translation_iso: spa
+    name: Rawa
+    auto: true
   - translation_iso: zho
     name: 拉瓦语
     auto: true

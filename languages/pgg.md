@@ -22,6 +22,9 @@ translations:
     name: पंगवाड़ी
   - translation_iso: jpn
     name: パングワーリー語
+  - translation_iso: spa
+    name: Pangwali
+    auto: true
   - translation_iso: zho
     name: 潘瓦利语
     auto: true

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 저지 노소브어
+  - translation_iso: spa
+    name: Nossob Inferior
+    auto: true
   - translation_iso: zho
     name: 下诺索布语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レンガオ語
     auto: true
+  - translation_iso: spa
+    name: Rengao
+    auto: true
   - translation_iso: zho
     name: 卢敖语
 ---

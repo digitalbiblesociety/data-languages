@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フンブリ・センニ・ソンガイ語
     auto: true
+  - translation_iso: spa
+    name: Songhay Humburi Senni
+    auto: true
   - translation_iso: zho
     name: 洪布里森尼松哈伊语
     auto: true

@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イガラ語
+  - translation_iso: spa
+    name: Igala
+    auto: true
   - translation_iso: zho
     name: 伊加拉语
 rolv_dialects:

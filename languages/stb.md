@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: スバノン語
     auto: true
+  - translation_iso: spa
+    name: Subanen septentrional
+    auto: true
   - translation_iso: zho
     name: 北苏巴嫩语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニモア語
+  - translation_iso: spa
+    name: Nimoa
+    auto: true
   - translation_iso: zho
     name: 尼莫亚语
     auto: true

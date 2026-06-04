@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北ヌアウル語
     auto: true
+  - translation_iso: spa
+    name: Nuaulu septentrional
+    auto: true
   - translation_iso: zho
     name: 北努阿乌卢语
     auto: true

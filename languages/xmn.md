@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: マニ教中期ペルシア語
     auto: true
+  - translation_iso: spa
+    name: Persa medio maniqueo
+    auto: true
   - translation_iso: zho
     name: 摩尼教中期波斯语
     auto: true

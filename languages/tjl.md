@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タイ・ライン語
     auto: true
+  - translation_iso: spa
+    name: Tai Laing
+    auto: true
   - translation_iso: zho
     name: 傣来语
 ---

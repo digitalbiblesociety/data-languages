@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リグウェ語
     auto: true
+  - translation_iso: spa
+    name: Rigwe
+    auto: true
   - translation_iso: zho
     name: 里格韦语
     auto: true

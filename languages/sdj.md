@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キスウンディ語
     auto: true
+  - translation_iso: spa
+    name: Suundi
+    auto: true
   - translation_iso: zho
     name: 苏翁迪语
     auto: true

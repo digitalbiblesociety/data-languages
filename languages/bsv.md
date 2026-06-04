@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: バガ・ソバネ語
     auto: true
+  - translation_iso: spa
+    name: Baga Sobané
+    auto: true
   - translation_iso: zho
     name: 巴加索巴内语
     auto: true

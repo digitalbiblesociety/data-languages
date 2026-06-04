@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムボットゴテ語
+  - translation_iso: spa
+    name: Letemboi
+    auto: true
   - translation_iso: zho
     name: 莱特姆博依语
     auto: true

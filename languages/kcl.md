@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケラ語
     auto: true
+  - translation_iso: spa
+    name: Kela (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 凯拉语（巴布亚新几内亚）
     auto: true

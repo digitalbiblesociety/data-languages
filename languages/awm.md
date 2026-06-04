@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アラウム語
     auto: true
+  - translation_iso: spa
+    name: Arawum
+    auto: true
   - translation_iso: zho
     name: 阿瓦鲁姆语
     auto: true

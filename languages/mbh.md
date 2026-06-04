@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンセン語
+  - translation_iso: spa
+    name: Mangseng
+    auto: true
   - translation_iso: zho
     name: 曼格森语
     auto: true

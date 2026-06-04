@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンドゥベア語
+  - translation_iso: spa
+    name: Dumbea
+    auto: true
   - translation_iso: zho
     name: 栋贝亚语
     auto: true

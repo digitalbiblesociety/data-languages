@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジェン語
     auto: true
+  - translation_iso: spa
+    name: Dza
+    auto: true
   - translation_iso: zho
     name: 扎语
     auto: true

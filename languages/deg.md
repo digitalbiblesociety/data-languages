@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デゲマ語
     auto: true
+  - translation_iso: spa
+    name: Degema
+    auto: true
   - translation_iso: zho
     name: 德格玛语
     auto: true

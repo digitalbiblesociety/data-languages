@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: グロマ語
     auto: true
+  - translation_iso: spa
+    name: Groma
+    auto: true
   - translation_iso: zho
     name: 卓木语
 rolv_dialects:

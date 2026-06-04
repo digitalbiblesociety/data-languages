@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サンタ・マリア・サカテペック・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Santa María Zacatepec
+    auto: true
   - translation_iso: zho
     name: 圣玛丽亚扎卡特佩克米克斯特克语
     auto: true

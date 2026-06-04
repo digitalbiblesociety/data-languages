@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: プイメイ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Puimei
+    auto: true
   - translation_iso: zho
     name: 普伊梅依纳加语
     auto: true

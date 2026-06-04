@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コアテペク・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl de Coatepec
+    auto: true
   - translation_iso: zho
     name: 科阿特佩克那瓦特尔语
     auto: true

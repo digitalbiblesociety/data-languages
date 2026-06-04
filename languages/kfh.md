@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クリチヤ語
     auto: true
+  - translation_iso: spa
+    name: Kurichiya
+    auto: true
   - translation_iso: zho
     name: 库里奇亚语
     auto: true

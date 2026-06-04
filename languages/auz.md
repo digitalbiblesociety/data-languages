@@ -24,6 +24,9 @@ translations:
     name: アラビア語中央アジア方言
   - translation_iso: kor
     name: 우즈베크 아랍어
+  - translation_iso: spa
+    name: Árabe uzbeko
+    auto: true
   - translation_iso: zho
     name: 乌孜别克阿拉伯语
 rolv_dialects:

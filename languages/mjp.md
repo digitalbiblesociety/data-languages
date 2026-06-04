@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マラパンダラム語
     auto: true
+  - translation_iso: spa
+    name: Malapandaram
+    auto: true
   - translation_iso: zho
     name: 玛拉潘达拉姆语
     auto: true

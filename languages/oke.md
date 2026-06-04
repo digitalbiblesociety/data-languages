@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オクペ語
     auto: true
+  - translation_iso: spa
+    name: Okpe (Edo suroccidental)
+    auto: true
   - translation_iso: zho
     name: 奥克佩语
     auto: true

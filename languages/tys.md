@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サパ語
+  - translation_iso: spa
+    name: Tày Sa Pa
+    auto: true
   - translation_iso: zho
     name: 傣萨巴语
 ---

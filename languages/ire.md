@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イレシム語
     auto: true
+  - translation_iso: spa
+    name: Iresim
+    auto: true
   - translation_iso: zho
     name: 伊雷西姆语
     auto: true

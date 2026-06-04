@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スガンガ語
     auto: true
+  - translation_iso: spa
+    name: Suganga
+    auto: true
   - translation_iso: zho
     name: 苏甘加语
     auto: true

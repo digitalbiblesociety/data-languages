@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワイナ語
     auto: true
+  - translation_iso: spa
+    name: Sowanda
+    auto: true
   - translation_iso: zho
     name: 索万达语
     auto: true

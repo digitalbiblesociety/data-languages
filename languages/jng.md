@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤングマン語
     auto: true
+  - translation_iso: spa
+    name: Yangman
+    auto: true
   - translation_iso: zho
     name: 杨曼语
     auto: true

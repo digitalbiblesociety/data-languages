@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラサワ語
     auto: true
+  - translation_iso: spa
+    name: Rasawa
+    auto: true
   - translation_iso: zho
     name: 拉萨瓦语
     auto: true

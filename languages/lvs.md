@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: 標準ラトビア語
     auto: true
+  - translation_iso: spa
+    name: Letón estándar
+    auto: true
   - translation_iso: zho
     name: 标准拉脱维亚语
     auto: true

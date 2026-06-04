@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チェレポン語
     auto: true
+  - translation_iso: spa
+    name: Cherepon
+    auto: true
   - translation_iso: zho
     name: 切雷蓬语
     auto: true

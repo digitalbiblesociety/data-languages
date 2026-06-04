@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テメイン語
     auto: true
+  - translation_iso: spa
+    name: Temein
+    auto: true
   - translation_iso: zho
     name: 特梅因语
     auto: true

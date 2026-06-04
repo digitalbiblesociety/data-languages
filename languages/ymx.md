@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北部ムジ語
     auto: true
+  - translation_iso: spa
+    name: Muji septentrional
+    auto: true
   - translation_iso: zho
     name: 北穆吉语
     auto: true

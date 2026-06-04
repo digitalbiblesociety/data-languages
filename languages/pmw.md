@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プレーンズミウォク語
     auto: true
+  - translation_iso: spa
+    name: Miwok de las llanuras
+    auto: true
   - translation_iso: zho
     name: 平原米沃克语
     auto: true

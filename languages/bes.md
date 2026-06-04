@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベスメ語
     auto: true
+  - translation_iso: spa
+    name: Besme
+    auto: true
   - translation_iso: zho
     name: 贝斯梅语
     auto: true

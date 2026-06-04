@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マスマエ語
     auto: true
+  - translation_iso: spa
+    name: Masmaje
+    auto: true
   - translation_iso: zho
     name: 玛斯玛杰语
     auto: true

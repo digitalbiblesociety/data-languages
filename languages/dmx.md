@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: デマ語
     auto: true
+  - translation_iso: spa
+    name: Dema
+    auto: true
   - translation_iso: zho
     name: 德玛语
     auto: true

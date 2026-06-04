@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コタフォン・ゲベ語
     auto: true
+  - translation_iso: spa
+    name: Kotafon Gbe
+    auto: true
   - translation_iso: zho
     name: 科塔丰格贝语
     auto: true

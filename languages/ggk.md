@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: クンガラカニ語
     auto: true
+  - translation_iso: spa
+    name: Kungarakany
+    auto: true
   - translation_iso: zho
     name: 昆加拉卡尼语
     auto: true

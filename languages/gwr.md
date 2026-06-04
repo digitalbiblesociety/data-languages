@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グウェレ語
+  - translation_iso: spa
+    name: Gwere
+    auto: true
   - translation_iso: zho
     name: 格韦雷语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バテック語
     auto: true
+  - translation_iso: spa
+    name: Batek
+    auto: true
   - translation_iso: zho
     name: 巴特克语
 rolv_dialects:

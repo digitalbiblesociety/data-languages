@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ククナ語
     auto: true
+  - translation_iso: spa
+    name: Kukna
+    auto: true
   - translation_iso: zho
     name: 卡纳里孔卡尼语
 rolv_dialects:

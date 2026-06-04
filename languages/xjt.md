@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ジャイトマタン語
     auto: true
+  - translation_iso: spa
+    name: Jaitmatang
+    auto: true
   - translation_iso: zho
     name: 贾伊特马唐语
     auto: true

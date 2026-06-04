@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リンガム語
     auto: true
+  - translation_iso: spa
+    name: Lyngngam
+    auto: true
   - translation_iso: zho
     name: 林甘语
 ---

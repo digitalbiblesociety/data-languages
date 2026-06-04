@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イインジバルンディ語
     auto: true
+  - translation_iso: spa
+    name: Yindjibarndi
+    auto: true
   - translation_iso: zho
     name: 伊因季巴尔迪语
     auto: true

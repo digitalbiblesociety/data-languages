@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トリン語
     auto: true
+  - translation_iso: spa
+    name: Tring
+    auto: true
   - translation_iso: zho
     name: 特林语
     auto: true

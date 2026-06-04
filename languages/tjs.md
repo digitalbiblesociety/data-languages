@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南部トゥジア語
     auto: true
+  - translation_iso: spa
+    name: Tujia del Sur
+    auto: true
   - translation_iso: zho
     name: 孟兹语
 ---

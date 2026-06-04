@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビラ・ビシオサ・アグタ語
     auto: true
+  - translation_iso: spa
+    name: Agta Villa Viciosa
+    auto: true
   - translation_iso: zho
     name: 别别别山亚格塔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベエムベ語
     auto: true
+  - translation_iso: spa
+    name: Beembe
+    auto: true
   - translation_iso: zho
     name: 贝恩贝语
     auto: true

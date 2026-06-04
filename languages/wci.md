@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワシ・ゲベ語
     auto: true
+  - translation_iso: spa
+    name: Waci Gbe
+    auto: true
   - translation_iso: zho
     name: 瓦西-格贝语
     auto: true

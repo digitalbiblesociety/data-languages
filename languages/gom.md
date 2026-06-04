@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴア・コンカニ語
+  - translation_iso: spa
+    name: Konkani de Goa
+    auto: true
   - translation_iso: zho
     name: 果阿孔卡尼语
 rolv_dialects:

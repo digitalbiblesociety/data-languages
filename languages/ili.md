@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イリ・チュルク語
+  - translation_iso: spa
+    name: Ili Turki
+    auto: true
   - translation_iso: zho
     name: 伊犁土尔克语
 ---

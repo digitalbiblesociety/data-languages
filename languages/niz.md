@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニンギル語
     auto: true
+  - translation_iso: spa
+    name: Ningil
+    auto: true
   - translation_iso: zho
     name: 宁吉尔语
     auto: true

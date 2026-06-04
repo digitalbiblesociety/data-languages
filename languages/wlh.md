@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベカイス語
+  - translation_iso: spa
+    name: Welaun
+    auto: true
   - translation_iso: zho
     name: 韦劳恩语
     auto: true

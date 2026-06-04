@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガーニャチャラ語
+  - translation_iso: spa
+    name: Ngaanyatjarra
+    auto: true
   - translation_iso: zho
     name: 雅尼亞賈拉方言
 rolv_dialects:

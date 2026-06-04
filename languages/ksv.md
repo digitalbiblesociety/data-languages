@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クス語
+  - translation_iso: spa
+    name: Kusu
+    auto: true
   - translation_iso: zho
     name: 库苏语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アッタパディクルンバ語
     auto: true
+  - translation_iso: spa
+    name: Kurumba de Attapady
+    auto: true
   - translation_iso: zho
     name: 阿塔帕地可伦巴语
 ---

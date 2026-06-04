@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モライド語
     auto: true
+  - translation_iso: spa
+    name: Moraid
+    auto: true
   - translation_iso: zho
     name: 莫拉伊德语
     auto: true

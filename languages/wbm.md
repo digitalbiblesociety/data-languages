@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワ語
     auto: true
+  - translation_iso: spa
+    name: Wa
+    auto: true
   - translation_iso: zho
     name: 瓦语
     auto: true

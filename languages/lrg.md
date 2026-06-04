@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ララキア語
+  - translation_iso: spa
+    name: Laragia
+    auto: true
   - translation_iso: zho
     name: 拉拉吉亚语
     auto: true

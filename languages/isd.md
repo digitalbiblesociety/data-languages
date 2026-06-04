@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イスナグ語
     auto: true
+  - translation_iso: spa
+    name: Isnag
+    auto: true
   - translation_iso: zho
     name: 伊斯纳格语
     auto: true

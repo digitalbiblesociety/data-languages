@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中国ブリヤート語
+  - translation_iso: spa
+    name: Buriato de China
+    auto: true
   - translation_iso: zho
     name: 中国布里亚特语
 rolv_dialects:

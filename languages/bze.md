@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジェナアマ・ボゾ語
     auto: true
+  - translation_iso: spa
+    name: Bozo Jenaama
+    auto: true
   - translation_iso: zho
     name: 热纳玛博佐语
     auto: true

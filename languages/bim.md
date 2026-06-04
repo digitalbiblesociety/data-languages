@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビモバ語
     auto: true
+  - translation_iso: spa
+    name: Bimoba
+    auto: true
   - translation_iso: zho
     name: 比莫巴语
     auto: true

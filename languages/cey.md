@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: エカイ・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Ekai
+    auto: true
   - translation_iso: zho
     name: 埃凯钦语
     auto: true

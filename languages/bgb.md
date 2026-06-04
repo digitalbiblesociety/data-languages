@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボボンコ語
+  - translation_iso: spa
+    name: Bobongko
+    auto: true
   - translation_iso: zho
     name: 博邦科语
     auto: true

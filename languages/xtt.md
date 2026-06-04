@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タカフア・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Tacahua
+    auto: true
   - translation_iso: zho
     name: 塔卡瓦-米斯特克语
     auto: true

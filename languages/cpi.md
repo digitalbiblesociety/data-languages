@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中国ピジン語
+  - translation_iso: spa
+    name: Pidgin inglés chino
+    auto: true
   - translation_iso: zho
     name: 洋泾浜英语
 ---

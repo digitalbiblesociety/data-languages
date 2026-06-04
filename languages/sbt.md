@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: スクバトム語
     auto: true
+  - translation_iso: spa
+    name: Kimki
+    auto: true
   - translation_iso: zho
     name: 金基语
     auto: true

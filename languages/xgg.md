@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ゴレン語
     auto: true
+  - translation_iso: spa
+    name: Goreng
+    auto: true
   - translation_iso: zho
     name: 戈伦语
     auto: true

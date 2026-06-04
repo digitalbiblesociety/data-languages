@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リッヴィ語
+  - translation_iso: spa
+    name: Livvi
+    auto: true
   - translation_iso: zho
     name: 利维卡累利阿语
 ---

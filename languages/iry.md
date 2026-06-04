@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イラヤ語
     auto: true
+  - translation_iso: spa
+    name: Iraya
+    auto: true
   - translation_iso: zho
     name: 伊拉亚语
     auto: true

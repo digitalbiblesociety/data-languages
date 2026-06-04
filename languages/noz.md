@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナイ語
     auto: true
+  - translation_iso: spa
+    name: Nayi
+    auto: true
   - translation_iso: zho
     name: 纳伊语
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: ラマ・バイ語
     auto: true
+  - translation_iso: spa
+    name: Lama Bai
+    auto: true
   - translation_iso: zho
     name: 拉瑪方言
 ---

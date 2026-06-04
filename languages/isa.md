@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イサビ語
     auto: true
+  - translation_iso: spa
+    name: Isabi
+    auto: true
   - translation_iso: zho
     name: 伊萨比语
     auto: true

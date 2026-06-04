@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ルーン語
     auto: true
+  - translation_iso: spa
+    name: Roon
+    auto: true
   - translation_iso: zho
     name: 罗恩语
     auto: true

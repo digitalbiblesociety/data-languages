@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カリプナ語
+  - translation_iso: spa
+    name: Criollo francés karipúna
+    auto: true
   - translation_iso: zho
     name: 卡里普纳克里奥尔语
     auto: true

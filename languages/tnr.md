@@ -26,6 +26,9 @@ translations:
     name: メニク語
   - translation_iso: kor
     name: 부디크어
+  - translation_iso: spa
+    name: Ménik
+    auto: true
   - translation_iso: zho
     name: 梅尼克语
     auto: true

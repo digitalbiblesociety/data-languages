@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アインバイ語
     auto: true
+  - translation_iso: spa
+    name: Ainbai
+    auto: true
   - translation_iso: zho
     name: 艾因拜语
     auto: true

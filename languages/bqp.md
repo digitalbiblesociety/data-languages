@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブサ語
     auto: true
+  - translation_iso: spa
+    name: Busa
+    auto: true
   - translation_iso: zho
     name: 布萨语
     auto: true

@@ -22,6 +22,9 @@ translations:
     name: बॉम भाषा
   - translation_iso: jpn
     name: ボーン語
+  - translation_iso: spa
+    name: Bawm Chin
+    auto: true
   - translation_iso: zho
     name: 巴姆钦语
     auto: true

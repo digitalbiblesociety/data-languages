@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カピナワ語
     auto: true
+  - translation_iso: spa
+    name: Kapinawá
+    auto: true
   - translation_iso: zho
     name: 卡皮纳瓦语
     auto: true

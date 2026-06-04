@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キオキタニ-キエリ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Quioquitani-Quierí
+    auto: true
   - translation_iso: zho
     name: 基奥基塔尼-基埃里萨波特克语
     auto: true

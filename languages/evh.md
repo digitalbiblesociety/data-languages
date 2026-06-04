@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウヴビエ語
     auto: true
+  - translation_iso: spa
+    name: Uvbie
+    auto: true
   - translation_iso: zho
     name: 乌夫比语
     auto: true

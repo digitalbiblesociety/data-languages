@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: イデサ語
     auto: true
+  - translation_iso: spa
+    name: Idesa
+    auto: true
   - translation_iso: zho
     name: 伊德萨语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラチグイリ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Lachiguiri
+    auto: true
   - translation_iso: zho
     name: 拉奇吉里萨波特克语
     auto: true

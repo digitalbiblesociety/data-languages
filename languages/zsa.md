@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: サラシラ語
     auto: true
+  - translation_iso: spa
+    name: Sarasira
+    auto: true
   - translation_iso: zho
     name: 萨拉西拉语
     auto: true

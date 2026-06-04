@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビアタ・ビダユ語
     auto: true
+  - translation_iso: spa
+    name: Bidayuh Biatah
+    auto: true
   - translation_iso: zho
     name: 比亚他比达尤语
     auto: true

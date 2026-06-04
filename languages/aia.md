@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アロシ語
+  - translation_iso: spa
+    name: Arosi
+    auto: true
   - translation_iso: zho
     name: 阿罗西语
     auto: true

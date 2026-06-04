@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブヒッド語
+  - translation_iso: spa
+    name: Buhid
+    auto: true
   - translation_iso: zho
     name: 布希德语
     auto: true

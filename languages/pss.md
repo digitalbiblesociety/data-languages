@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パシスマヌア語
+  - translation_iso: spa
+    name: Kaulong
+    auto: true
   - translation_iso: zho
     name: 卡乌隆语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メモニ語
     auto: true
+  - translation_iso: spa
+    name: Memoni
+    auto: true
   - translation_iso: zho
     name: 梅蒙尼语
     auto: true

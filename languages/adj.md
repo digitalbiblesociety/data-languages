@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アジュクル語
+  - translation_iso: spa
+    name: Adioukrou
+    auto: true
   - translation_iso: zho
     name: 阿迪乌克鲁语
     auto: true

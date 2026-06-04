@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東ミニャン語
     auto: true
+  - translation_iso: spa
+    name: Minyag Oriental
+    auto: true
   - translation_iso: zho
     name: 东米尼亚语
     auto: true

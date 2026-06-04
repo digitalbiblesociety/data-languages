@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 文馬チワン語
+  - translation_iso: spa
+    name: Zhuang Dai
+    auto: true
   - translation_iso: zho
     name: 文麻壯語
 rolv_dialects:

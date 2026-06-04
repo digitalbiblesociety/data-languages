@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プラール語
+  - translation_iso: spa
+    name: Pulaar
+    auto: true
   - translation_iso: zho
     name: 普拉爾語
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ムングイ語
     auto: true
+  - translation_iso: spa
+    name: Munggui
+    auto: true
   - translation_iso: zho
     name: 蒙古圭语
     auto: true

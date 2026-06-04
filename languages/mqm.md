@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南マルキーズ語
+  - translation_iso: spa
+    name: Marquesano del Sur
+    auto: true
   - translation_iso: zho
     name: 南马克萨斯语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カオラン語
+  - translation_iso: spa
+    name: Cao Lan
+    auto: true
   - translation_iso: zho
     name: 山泽语
 ---

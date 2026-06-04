@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナネ語
     auto: true
+  - translation_iso: spa
+    name: Ere
+    auto: true
   - translation_iso: zho
     name: 埃雷语
     auto: true

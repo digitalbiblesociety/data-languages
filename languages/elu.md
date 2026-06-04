@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エル語
     auto: true
+  - translation_iso: spa
+    name: Elu
+    auto: true
   - translation_iso: zho
     name: 埃卢语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤコマ語
     auto: true
+  - translation_iso: spa
+    name: Yakoma
+    auto: true
   - translation_iso: zho
     name: 亚科马语
 ---

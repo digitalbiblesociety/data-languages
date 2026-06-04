@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ピンイン語
     auto: true
+  - translation_iso: spa
+    name: Pinyin
+    auto: true
   - translation_iso: zho
     name: 平音语
     auto: true

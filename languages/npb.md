@@ -18,6 +18,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌプビ語
+  - translation_iso: spa
+    name: Nupbikha
+    auto: true
   - translation_iso: zho
     name: 努普比克哈语
     auto: true

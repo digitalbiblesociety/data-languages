@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: グヤニ語
     auto: true
+  - translation_iso: spa
+    name: Guyani
+    auto: true
   - translation_iso: zho
     name: 古亚尼语
     auto: true

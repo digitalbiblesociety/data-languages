@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サザン・グレボ語
     auto: true
+  - translation_iso: spa
+    name: Grebo del Sur
+    auto: true
   - translation_iso: zho
     name: 南格雷博语
     auto: true

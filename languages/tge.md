@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東部ゴルカ・タマン語
     auto: true
+  - translation_iso: spa
+    name: Tamang Gorkha oriental
+    auto: true
   - translation_iso: zho
     name: 东高卡塔芒语
     auto: true

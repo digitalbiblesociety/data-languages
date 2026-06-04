@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グラ語
     auto: true
+  - translation_iso: spa
+    name: Gula (Chad)
+    auto: true
   - translation_iso: zho
     name: 古拉语（乍得）
     auto: true

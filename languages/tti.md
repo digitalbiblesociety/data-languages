@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヨータファ語
     auto: true
+  - translation_iso: spa
+    name: Tobati
+    auto: true
   - translation_iso: zho
     name: 托巴蒂语
     auto: true

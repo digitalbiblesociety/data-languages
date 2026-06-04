@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バジェラニ語
     auto: true
+  - translation_iso: spa
+    name: Bajelani
+    auto: true
   - translation_iso: zho
     name: 巴杰拉尼语
     auto: true

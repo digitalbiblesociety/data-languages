@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タンバス語
     auto: true
+  - translation_iso: spa
+    name: Tambas
+    auto: true
   - translation_iso: zho
     name: 坦巴斯语
     auto: true

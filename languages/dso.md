@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: デシヤ語
     auto: true
+  - translation_iso: spa
+    name: Desiya
+    auto: true
   - translation_iso: zho
     name: 德西亚语
 ---

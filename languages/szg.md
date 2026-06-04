@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: センゲレ語
     auto: true
+  - translation_iso: spa
+    name: Sengele
+    auto: true
   - translation_iso: zho
     name: 塞恩格莱语
     auto: true

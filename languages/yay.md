@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アグワグウネ語
     auto: true
+  - translation_iso: spa
+    name: Agwagwune
+    auto: true
   - translation_iso: zho
     name: 阿格瓦格武内语
     auto: true

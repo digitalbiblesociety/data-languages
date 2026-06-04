@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パタニ語
+  - translation_iso: spa
+    name: Patani
+    auto: true
   - translation_iso: zho
     name: 帕塔尼语
     auto: true

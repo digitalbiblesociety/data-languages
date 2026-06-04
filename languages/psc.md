@@ -22,6 +22,9 @@ translations:
     name: ईरानी सांकेतिक भाषा
   - translation_iso: jpn
     name: ペルシャ手話
+  - translation_iso: spa
+    name: Lengua de señas persa
+    auto: true
   - translation_iso: zho
     name: 伊朗手语
 ---

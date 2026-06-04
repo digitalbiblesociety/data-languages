@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マハリ語
     auto: true
+  - translation_iso: spa
+    name: Mahali
+    auto: true
   - translation_iso: zho
     name: 玛哈利语
     auto: true

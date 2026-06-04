@@ -22,6 +22,9 @@ translations:
     name: नेईकी भाषा
   - translation_iso: jpn
     name: ナイキー語
+  - translation_iso: spa
+    name: Kolami suroriental
+    auto: true
   - translation_iso: zho
     name: 耐基语
 rolv_dialects:

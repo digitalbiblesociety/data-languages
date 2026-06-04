@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カボレ・ワン語
     auto: true
+  - translation_iso: spa
+    name: One de Kabore
+    auto: true
   - translation_iso: zho
     name: 卡博雷翁语
     auto: true

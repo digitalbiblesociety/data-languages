@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トバゴ・クレオール語
+  - translation_iso: spa
+    name: Criollo inglés de Tobago
+    auto: true
   - translation_iso: zho
     name: 托巴哥克里奥尔英语
     auto: true

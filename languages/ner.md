@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤハディアン語
     auto: true
+  - translation_iso: spa
+    name: Yahadian
+    auto: true
   - translation_iso: zho
     name: 亚哈迪亚语
     auto: true

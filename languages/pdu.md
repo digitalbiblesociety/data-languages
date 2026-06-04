@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パダウン語
+  - translation_iso: spa
+    name: Kayan
+    auto: true
   - translation_iso: zho
     name: 卡扬语
     auto: true

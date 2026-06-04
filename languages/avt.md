@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アウ語
     auto: true
+  - translation_iso: spa
+    name: Au
+    auto: true
   - translation_iso: zho
     name: 奥语
     auto: true

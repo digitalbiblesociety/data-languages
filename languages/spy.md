@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サバオット語
+  - translation_iso: spa
+    name: Sabaot
+    auto: true
   - translation_iso: zho
     name: 萨巴奥特语
     auto: true

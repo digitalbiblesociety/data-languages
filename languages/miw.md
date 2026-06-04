@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アコイェ語
     auto: true
+  - translation_iso: spa
+    name: Akoye
+    auto: true
   - translation_iso: zho
     name: 阿科耶语
     auto: true

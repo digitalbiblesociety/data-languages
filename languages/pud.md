@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プナンアプット語
     auto: true
+  - translation_iso: spa
+    name: Punan Aput
+    auto: true
   - translation_iso: zho
     name: 普南阿普特语
     auto: true

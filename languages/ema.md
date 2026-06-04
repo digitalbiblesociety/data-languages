@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エマイ・イウレハ・オラ語
     auto: true
+  - translation_iso: spa
+    name: Emai-Iuleha-Ora
+    auto: true
   - translation_iso: zho
     name: 埃迈-尤莱哈-奥拉语
     auto: true

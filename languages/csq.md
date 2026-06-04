@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クロアチア手話
+  - translation_iso: spa
+    name: Lengua de Señas de Croacia
+    auto: true
   - translation_iso: zho
     name: 克罗地亚手语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北ミッドランド・タスマニア語
     auto: true
+  - translation_iso: spa
+    name: Tasmanio de las Midlands del Norte
+    auto: true
   - translation_iso: zho
     name: 北中部塔斯马尼亚语
     auto: true

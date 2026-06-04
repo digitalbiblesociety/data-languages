@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドカ語
     auto: true
+  - translation_iso: spa
+    name: Doka
+    auto: true
   - translation_iso: zho
     name: 多卡语
     auto: true

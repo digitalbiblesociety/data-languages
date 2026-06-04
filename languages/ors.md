@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: オラン・スレタル語
     auto: true
+  - translation_iso: spa
+    name: Orang Seletar
+    auto: true
   - translation_iso: zho
     name: 实里达语
 ---

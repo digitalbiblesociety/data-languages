@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マウチ語
     auto: true
+  - translation_iso: spa
+    name: Mawchi
+    auto: true
   - translation_iso: zho
     name: 莫奇语
     auto: true

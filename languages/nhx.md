@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 地峡メカヤパン・ナワトル語
+  - translation_iso: spa
+    name: Náhuatl del Istmo-Mecayapan
+    auto: true
   - translation_iso: zho
     name: 地峡梅卡亚潘纳瓦特尔语
     auto: true

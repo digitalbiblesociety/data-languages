@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チャングリワ語
     auto: true
+  - translation_iso: spa
+    name: Changriwa
+    auto: true
   - translation_iso: zho
     name: 昌日瓦语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コム語
     auto: true
+  - translation_iso: spa
+    name: Kom (India)
+    auto: true
   - translation_iso: zho
     name: 科姆语
     auto: true

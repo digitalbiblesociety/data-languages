@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ベギンジ語
     auto: true
+  - translation_iso: spa
+    name: Beginci
+    auto: true
   - translation_iso: zho
     name: 贝金西语
     auto: true

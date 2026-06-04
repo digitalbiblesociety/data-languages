@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グウス語
     auto: true
+  - translation_iso: spa
+    name: Saya
+    auto: true
   - translation_iso: zho
     name: 萨亚语
     auto: true

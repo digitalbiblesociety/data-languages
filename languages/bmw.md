@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボムワリ語
     auto: true
+  - translation_iso: spa
+    name: Bomwali
+    auto: true
   - translation_iso: zho
     name: 博姆瓦利语
     auto: true

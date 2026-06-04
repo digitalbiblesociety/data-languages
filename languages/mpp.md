@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミガバック語
     auto: true
+  - translation_iso: spa
+    name: Migabac
+    auto: true
   - translation_iso: zho
     name: 米加巴克语
     auto: true

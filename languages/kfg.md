@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クディヤ語
     auto: true
+  - translation_iso: spa
+    name: Kudiya
+    auto: true
   - translation_iso: zho
     name: 库迪亚语
     auto: true

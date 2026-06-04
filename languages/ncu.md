@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チュムブルング語
     auto: true
+  - translation_iso: spa
+    name: Chumburung
+    auto: true
   - translation_iso: zho
     name: 楚姆布龙语
     auto: true

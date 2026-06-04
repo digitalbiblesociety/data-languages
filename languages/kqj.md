@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コロミラ語
     auto: true
+  - translation_iso: spa
+    name: Koromira
+    auto: true
   - translation_iso: zho
     name: 科罗米拉语
     auto: true

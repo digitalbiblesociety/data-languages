@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マムシ語
+  - translation_iso: spa
+    name: Mamusi
+    auto: true
   - translation_iso: zho
     name: 马木西语
     auto: true

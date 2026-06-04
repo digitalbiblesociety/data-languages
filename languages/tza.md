@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンザニア手話
+  - translation_iso: spa
+    name: Lengua de señas de Tanzania
+    auto: true
   - translation_iso: zho
     name: 坦桑尼亚手语
     auto: true

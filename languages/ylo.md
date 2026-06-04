@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナルオ・イー語
     auto: true
+  - translation_iso: spa
+    name: Yi Naluo
+    auto: true
   - translation_iso: zho
     name: 纳若语
 ---

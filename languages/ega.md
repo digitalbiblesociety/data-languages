@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エガ語
+  - translation_iso: spa
+    name: Ega
+    auto: true
   - translation_iso: zho
     name: 艾嘉語
 ---

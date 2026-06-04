@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムラッゲ・ペゴレッボ語
     auto: true
+  - translation_iso: spa
+    name: Maraghei
+    auto: true
   - translation_iso: zho
     name: 玛拉盖语
     auto: true

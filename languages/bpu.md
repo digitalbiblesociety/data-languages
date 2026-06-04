@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ボング語
     auto: true
+  - translation_iso: spa
+    name: Bongu
+    auto: true
   - translation_iso: zho
     name: 邦古语
     auto: true

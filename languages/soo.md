@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エヤンシ語
     auto: true
+  - translation_iso: spa
+    name: Songo
+    auto: true
   - translation_iso: zho
     name: 松戈语
     auto: true

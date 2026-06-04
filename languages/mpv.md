@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ムングキップ語
     auto: true
+  - translation_iso: spa
+    name: Mungkip
+    auto: true
   - translation_iso: zho
     name: 芒基普语
     auto: true

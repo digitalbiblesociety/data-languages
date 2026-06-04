@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シーシェルト語
+  - translation_iso: spa
+    name: Sechelt
+    auto: true
   - translation_iso: zho
     name: 锡谢尔特语
 ---

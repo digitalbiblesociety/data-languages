@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アラパソ語
     auto: true
+  - translation_iso: spa
+    name: Arapaso
+    auto: true
   - translation_iso: zho
     name: 阿拉帕索语
     auto: true

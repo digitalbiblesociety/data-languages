@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハリン語
     auto: true
+  - translation_iso: spa
+    name: Khaling
+    auto: true
   - translation_iso: zho
     name: 哈林语
     auto: true

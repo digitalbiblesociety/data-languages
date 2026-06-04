@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メル語 (パプア諸語)
+  - translation_iso: spa
+    name: Mer
+    auto: true
   - translation_iso: zho
     name: 梅尔语
     auto: true

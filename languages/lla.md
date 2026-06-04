@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ララ・ロバ語
     auto: true
+  - translation_iso: spa
+    name: Lala-Roba
+    auto: true
   - translation_iso: zho
     name: 拉拉-罗巴语
     auto: true

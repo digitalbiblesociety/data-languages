@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アガリア語
+  - translation_iso: spa
+    name: Agariya
+    auto: true
   - translation_iso: zho
     name: 阿加利亚语
 rolv_dialects:

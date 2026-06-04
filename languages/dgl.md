@@ -18,6 +18,9 @@ translations:
     name: ドンゴラウィ語
   - translation_iso: kor
     name: 동골라위어
+  - translation_iso: spa
+    name: Andaandi
+    auto: true
   - translation_iso: zho
     name: 安达迪语
     auto: true

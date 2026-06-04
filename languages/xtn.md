@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北部トラシアコ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco del norte de Tlaxiaco
+    auto: true
   - translation_iso: zho
     name: 北特拉克西奥克-米斯特克语
     auto: true

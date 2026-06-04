@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コンビオ語
     auto: true
+  - translation_iso: spa
+    name: Kombio
+    auto: true
   - translation_iso: zho
     name: 科姆比奥语
     auto: true

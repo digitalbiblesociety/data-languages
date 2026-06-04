@@ -21,6 +21,9 @@ translations:
     name: ションペン語
   - translation_iso: kor
     name: 숌펜어
+  - translation_iso: spa
+    name: Shom Peng
+    auto: true
   - translation_iso: zho
     name: 尚彭語
 ---

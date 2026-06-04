@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ボザバ語
     auto: true
+  - translation_iso: spa
+    name: Bozaba
+    auto: true
   - translation_iso: zho
     name: 博扎巴语
     auto: true

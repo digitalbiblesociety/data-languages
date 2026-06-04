@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イェイ語
     auto: true
+  - translation_iso: spa
+    name: Yei
+    auto: true
   - translation_iso: zho
     name: 耶伊语
     auto: true

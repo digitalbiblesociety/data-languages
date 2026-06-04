@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タンガレ語
     auto: true
+  - translation_iso: spa
+    name: Tangale
+    auto: true
   - translation_iso: zho
     name: 坦加莱语
     auto: true

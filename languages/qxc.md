@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チンチャケチュア語
     auto: true
+  - translation_iso: spa
+    name: Quechua de Chincha
+    auto: true
   - translation_iso: zho
     name: 钦查克丘亚语
     auto: true

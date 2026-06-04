@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティーン語
     auto: true
+  - translation_iso: spa
+    name: Thiin
+    auto: true
   - translation_iso: zho
     name: 蒂因语
     auto: true

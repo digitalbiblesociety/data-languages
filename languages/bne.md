@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビンタウナ語
+  - translation_iso: spa
+    name: Bintauna
+    auto: true
   - translation_iso: zho
     name: 宾陶纳语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナル・プ語
     auto: true
+  - translation_iso: spa
+    name: Nar Phu
+    auto: true
   - translation_iso: zho
     name: 纳尔普语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワボダ語
     auto: true
+  - translation_iso: spa
+    name: Waboda
+    auto: true
   - translation_iso: zho
     name: 瓦博达语
     auto: true

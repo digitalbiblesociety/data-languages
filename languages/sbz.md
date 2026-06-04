@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サラカバ語
     auto: true
+  - translation_iso: spa
+    name: Sara Kaba
+    auto: true
   - translation_iso: zho
     name: 萨拉卡巴语
     auto: true

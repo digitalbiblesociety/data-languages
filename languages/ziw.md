@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジグア語
+  - translation_iso: spa
+    name: Zigula
+    auto: true
   - translation_iso: zho
     name: 齐古拉语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 柔若語
+  - translation_iso: spa
+    name: Zauzou
+    auto: true
   - translation_iso: zho
     name: 柔若语
 ---

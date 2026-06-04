@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウィラフェド語
     auto: true
+  - translation_iso: spa
+    name: Wiraféd
+    auto: true
   - translation_iso: zho
     name: 威拉费德语
     auto: true

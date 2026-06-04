@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東リンバ語
     auto: true
+  - translation_iso: spa
+    name: Limba oriental
+    auto: true
   - translation_iso: zho
     name: 东林巴语
     auto: true

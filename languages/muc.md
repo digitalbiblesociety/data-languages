@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アジュムブ語
     auto: true
+  - translation_iso: spa
+    name: Ajumbu
+    auto: true
   - translation_iso: zho
     name: 阿朱姆布语
     auto: true

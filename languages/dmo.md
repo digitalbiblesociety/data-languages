@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケメドズング語
     auto: true
+  - translation_iso: spa
+    name: Kemedzung
+    auto: true
   - translation_iso: zho
     name: 肯梅宗语
     auto: true

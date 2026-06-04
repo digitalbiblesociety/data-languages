@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サウスイースタン・イクスラン・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco del Sureste de Ixtlán
+    auto: true
   - translation_iso: zho
     name: 东南伊克斯特兰萨波特克语
     auto: true

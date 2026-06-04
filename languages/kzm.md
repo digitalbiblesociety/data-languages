@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カイス語
     auto: true
+  - translation_iso: spa
+    name: Kais
+    auto: true
   - translation_iso: zho
     name: 凯斯语
     auto: true

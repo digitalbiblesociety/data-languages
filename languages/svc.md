@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビンセント・クレオール英語
     auto: true
+  - translation_iso: spa
+    name: Criollo inglés de San Vicente
+    auto: true
   - translation_iso: zho
     name: 文森特克里奥尔语
 ---

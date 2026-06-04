@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東スウラ・ベ語
     auto: true
+  - translation_iso: spa
+    name: Xwla Gbe oriental
+    auto: true
   - translation_iso: zho
     name: 东克瓦拉格贝语
     auto: true

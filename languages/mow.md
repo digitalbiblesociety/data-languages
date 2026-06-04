@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: モイ語
     auto: true
+  - translation_iso: spa
+    name: Moi (Congo)
+    auto: true
   - translation_iso: zho
     name: 莫伊语（刚果）
     auto: true

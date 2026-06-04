@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トマディーノ語
     auto: true
+  - translation_iso: spa
+    name: Tomadino
+    auto: true
   - translation_iso: zho
     name: 托马迪诺语
     auto: true

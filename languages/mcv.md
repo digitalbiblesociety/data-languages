@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミナニバイ語
     auto: true
+  - translation_iso: spa
+    name: Minanibai
+    auto: true
   - translation_iso: zho
     name: 米纳尼拜语
     auto: true

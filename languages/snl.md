@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サンギル語
     auto: true
+  - translation_iso: spa
+    name: Sangil
+    auto: true
   - translation_iso: zho
     name: 桑吉尔语
     auto: true

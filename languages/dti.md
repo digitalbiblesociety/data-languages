@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アナティンガ・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Ana Tinga
+    auto: true
   - translation_iso: zho
     name: 安那廷加多贡语
     auto: true

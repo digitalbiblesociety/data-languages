@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カオンデ語
+  - translation_iso: spa
+    name: Kaonde
+    auto: true
   - translation_iso: zho
     name: 卡翁德语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パンカラレ語
     auto: true
+  - translation_iso: spa
+    name: Pankararé
+    auto: true
   - translation_iso: zho
     name: 潘卡拉雷语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テブル・ウレ・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Tebul Ure
+    auto: true
   - translation_iso: zho
     name: 特布尔乌雷多贡语
     auto: true

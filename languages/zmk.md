@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マンダンダニ語
     auto: true
+  - translation_iso: spa
+    name: Mandandanyi
+    auto: true
   - translation_iso: zho
     name: 曼丹达尼语
     auto: true

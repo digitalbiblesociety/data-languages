@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤンドルワンダ語
     auto: true
+  - translation_iso: spa
+    name: Yandruwandha
+    auto: true
   - translation_iso: zho
     name: 扬德鲁万达语
     auto: true

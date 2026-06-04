@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブル語
+  - translation_iso: spa
+    name: Bulu (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 布卢语（巴布亚新几内亚）
     auto: true

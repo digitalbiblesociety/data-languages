@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アウェ・マウェヨ語
     auto: true
+  - translation_iso: spa
+    name: Kaburi
+    auto: true
   - translation_iso: zho
     name: 卡布里语
     auto: true

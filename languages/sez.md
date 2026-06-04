@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セントゥハン・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Senthang
+    auto: true
   - translation_iso: zho
     name: 森塘钦语
     auto: true

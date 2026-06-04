@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マールワーリー語
+  - translation_iso: spa
+    name: Marwari (India)
+    auto: true
   - translation_iso: zho
     name: 马瓦里语（印度）
     auto: true

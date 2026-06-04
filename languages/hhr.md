@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ケラク語
     auto: true
+  - translation_iso: spa
+    name: Kerak
+    auto: true
   - translation_iso: zho
     name: 克拉克语
     auto: true

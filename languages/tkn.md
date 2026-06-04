@@ -25,6 +25,9 @@ translations:
     name: 徳之島方言
   - translation_iso: kor
     name: 도쿠노시마 방언
+  - translation_iso: spa
+    name: Toku-No-Shima
+    auto: true
   - translation_iso: zho
     name: 德之島語
 rolv_dialects:

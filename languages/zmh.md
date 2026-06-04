@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マコルコル語
     auto: true
+  - translation_iso: spa
+    name: Makolkol
+    auto: true
   - translation_iso: zho
     name: 马科尔科尔语
     auto: true

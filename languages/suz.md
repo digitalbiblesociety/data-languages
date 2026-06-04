@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スヌワール語
+  - translation_iso: spa
+    name: Sunwar
+    auto: true
   - translation_iso: zho
     name: 松瓦尔语
 rolv_dialects:

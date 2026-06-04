@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マクワ・モニガ語
     auto: true
+  - translation_iso: spa
+    name: Makhuwa-Moniga
+    auto: true
   - translation_iso: zho
     name: 马库瓦-莫尼加语
     auto: true

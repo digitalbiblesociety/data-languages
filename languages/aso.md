@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダーノ語
     auto: true
+  - translation_iso: spa
+    name: Dano
+    auto: true
   - translation_iso: zho
     name: 达诺语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ファタレカ語
     auto: true
+  - translation_iso: spa
+    name: Fataleka
+    auto: true
   - translation_iso: zho
     name: 法塔莱卡语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウゴン語
+  - translation_iso: spa
+    name: Ugong
+    auto: true
   - translation_iso: zho
     name: 贡语
 rolv_dialects:

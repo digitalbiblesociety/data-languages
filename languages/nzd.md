@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ンザディ語
     auto: true
+  - translation_iso: spa
+    name: Nzadi
+    auto: true
   - translation_iso: zho
     name: 恩扎迪语
     auto: true

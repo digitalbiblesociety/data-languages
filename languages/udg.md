@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ムドゥガル語
     auto: true
+  - translation_iso: spa
+    name: Muduga
+    auto: true
   - translation_iso: zho
     name: 穆杜加语
     auto: true

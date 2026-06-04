@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グバヤ＝ンボドモ語
+  - translation_iso: spa
+    name: Gbaya-Mbodomo
+    auto: true
   - translation_iso: zho
     name: 巴亚-姆博多莫语
     auto: true

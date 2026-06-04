@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダンマリ語
     auto: true
+  - translation_iso: spa
+    name: Dungmali
+    auto: true
   - translation_iso: zho
     name: 邓姆加利语
     auto: true

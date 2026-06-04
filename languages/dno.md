@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥルロ語
     auto: true
+  - translation_iso: spa
+    name: Ndrulo
+    auto: true
   - translation_iso: zho
     name: 恩德鲁洛语
     auto: true

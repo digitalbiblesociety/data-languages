@@ -22,6 +22,9 @@ translations:
     name: हमोंग नजुआ
   - translation_iso: jpn
     name: 緑苗語
+  - translation_iso: spa
+    name: Hmong Njua
+    auto: true
   - translation_iso: zho
     name: 绿苗语
 rolv_dialects:

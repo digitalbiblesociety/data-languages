@@ -21,6 +21,9 @@ translations:
     name: निशि भाषा
   - translation_iso: jpn
     name: ニシ語
+  - translation_iso: spa
+    name: Nyishi
+    auto: true
   - translation_iso: zho
     name: 尼希语
 rolv_dialects:

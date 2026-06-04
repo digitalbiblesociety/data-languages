@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: メインストリーム・ケニャ語
     auto: true
+  - translation_iso: spa
+    name: Kenyah estándar
+    auto: true
   - translation_iso: zho
     name: 主流肯雅语
     auto: true

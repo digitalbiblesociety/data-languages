@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブラ・パビール語
     auto: true
+  - translation_iso: spa
+    name: Bura-Pabir
+    auto: true
   - translation_iso: zho
     name: 布拉语
 rolv_dialects:

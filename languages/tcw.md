@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テクパトラン・トトナック語
     auto: true
+  - translation_iso: spa
+    name: Totonaco de Tecpatlán
+    auto: true
   - translation_iso: zho
     name: 特普特兰托托纳克语
     auto: true

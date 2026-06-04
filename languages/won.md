@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウォンゴ語
     auto: true
+  - translation_iso: spa
+    name: Wongo
+    auto: true
   - translation_iso: zho
     name: 翁戈语
     auto: true

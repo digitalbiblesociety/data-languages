@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダガ語
     auto: true
+  - translation_iso: spa
+    name: Daga
+    auto: true
   - translation_iso: zho
     name: 达加语
     auto: true

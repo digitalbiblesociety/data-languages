@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラオミアン語
     auto: true
+  - translation_iso: spa
+    name: Laomian
+    auto: true
   - translation_iso: zho
     name: 老緬語
 rolv_dialects:

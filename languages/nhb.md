@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベン語
     auto: true
+  - translation_iso: spa
+    name: Beng
+    auto: true
   - translation_iso: zho
     name: 本语
     auto: true

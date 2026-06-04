@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アバディ語
     auto: true
+  - translation_iso: spa
+    name: Abadi
+    auto: true
   - translation_iso: zho
     name: 阿巴迪语
     auto: true

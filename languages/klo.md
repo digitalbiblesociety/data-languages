@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カピア語
     auto: true
+  - translation_iso: spa
+    name: Kapya
+    auto: true
   - translation_iso: zho
     name: 卡皮亚语
     auto: true

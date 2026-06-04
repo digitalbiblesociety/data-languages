@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イェログ語
     auto: true
+  - translation_iso: spa
+    name: Yelogu
+    auto: true
   - translation_iso: zho
     name: 耶洛古语
     auto: true

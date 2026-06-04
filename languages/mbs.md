@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サランガニ・マノボ語
     auto: true
+  - translation_iso: spa
+    name: Manobo de Sarangani
+    auto: true
   - translation_iso: zho
     name: 萨兰加尼曼诺博语
     auto: true

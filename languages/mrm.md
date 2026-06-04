@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メルラヴ語
     auto: true
+  - translation_iso: spa
+    name: Merlav
+    auto: true
   - translation_iso: zho
     name: 梅拉夫语
     auto: true

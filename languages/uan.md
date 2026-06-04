@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クァン語
+  - translation_iso: spa
+    name: Kuan
+    auto: true
   - translation_iso: zho
     name: 宽语
 ---

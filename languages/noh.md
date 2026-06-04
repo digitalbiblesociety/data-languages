@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノム語
+  - translation_iso: spa
+    name: Nomu
+    auto: true
   - translation_iso: zho
     name: 诺穆语
     auto: true

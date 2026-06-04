@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウェハ語
     auto: true
+  - translation_iso: spa
+    name: Weh
+    auto: true
   - translation_iso: zho
     name: 韦赫语
     auto: true

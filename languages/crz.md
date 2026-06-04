@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 島嶼チュマシュ語
+  - translation_iso: spa
+    name: Cruzeño
+    auto: true
   - translation_iso: zho
     name: 克鲁塞尼奥语
     auto: true

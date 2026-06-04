@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウーメング・ナス語
     auto: true
+  - translation_iso: spa
+    name: Nasu de Wumeng
+    auto: true
   - translation_iso: zho
     name: 乌门语-纳苏语
     auto: true

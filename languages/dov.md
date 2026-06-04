@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ドンベ語
     auto: true
+  - translation_iso: spa
+    name: Dombe
+    auto: true
   - translation_iso: zho
     name: 多姆贝语
     auto: true

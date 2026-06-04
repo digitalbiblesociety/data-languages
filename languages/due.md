@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウミレイ・ドゥマゲット・アグタ語
     auto: true
+  - translation_iso: spa
+    name: Agta Umiray Dumaget
+    auto: true
   - translation_iso: zho
     name: 乌米雷杜玛格特阿格塔语
     auto: true

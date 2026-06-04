@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ババ語
     auto: true
+  - translation_iso: spa
+    name: Baba
+    auto: true
   - translation_iso: zho
     name: 巴巴语
     auto: true

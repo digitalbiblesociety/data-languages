@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 柳黔チワン語
+  - translation_iso: spa
+    name: Zhuang de Liuqian
+    auto: true
   - translation_iso: zho
     name: 柳州壮语
     auto: true

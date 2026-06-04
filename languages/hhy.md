@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ホヤホヤ語
     auto: true
+  - translation_iso: spa
+    name: Hoyahoya
+    auto: true
   - translation_iso: zho
     name: 霍亚霍亚语
     auto: true

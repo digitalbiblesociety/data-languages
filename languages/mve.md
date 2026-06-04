@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マールワーリー語
+  - translation_iso: spa
+    name: Marwari (Pakistán)
+    auto: true
   - translation_iso: zho
     name: 巴基斯坦马瓦里语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アルビリビダリ語
     auto: true
+  - translation_iso: spa
+    name: Alviri-Vidari
+    auto: true
   - translation_iso: zho
     name: 阿爾維里-維達里語
 rolv_dialects:

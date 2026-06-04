@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ワエマ語
     auto: true
+  - translation_iso: spa
+    name: "Wa'ema"
+    auto: true
   - translation_iso: zho
     name: 瓦埃玛语
     auto: true

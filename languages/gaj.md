@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガドスプ語
+  - translation_iso: spa
+    name: Gadsup
+    auto: true
   - translation_iso: zho
     name: 加德苏普语
     auto: true

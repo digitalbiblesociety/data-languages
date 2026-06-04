@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アユトラ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Ayutla
+    auto: true
   - translation_iso: zho
     name: 阿尤特拉混合语
     auto: true

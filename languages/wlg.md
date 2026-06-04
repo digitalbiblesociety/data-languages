@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クンバルラン語
     auto: true
+  - translation_iso: spa
+    name: Kunbarlang
+    auto: true
   - translation_iso: zho
     name: 昆巴兰语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サンタ・イネス・ヤツェチ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Santa Inés Yatzechi
+    auto: true
   - translation_iso: zho
     name: 圣伊内斯亚策奇萨波特克语
     auto: true

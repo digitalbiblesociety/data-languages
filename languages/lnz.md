@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ロンゾ語
     auto: true
+  - translation_iso: spa
+    name: Lonzo
+    auto: true
   - translation_iso: zho
     name: 龙佐语
     auto: true

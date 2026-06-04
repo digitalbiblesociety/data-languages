@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カナ語
     auto: true
+  - translation_iso: spa
+    name: Khana
+    auto: true
   - translation_iso: zho
     name: 哈纳语
     auto: true

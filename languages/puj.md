@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プナントゥブ語
     auto: true
+  - translation_iso: spa
+    name: Punan Tubu
+    auto: true
   - translation_iso: zho
     name: 普南图布语
     auto: true

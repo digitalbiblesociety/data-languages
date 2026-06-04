@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サンシボリ語
     auto: true
+  - translation_iso: spa
+    name: Sansi
+    auto: true
   - translation_iso: zho
     name: 桑西语
     auto: true

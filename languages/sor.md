@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シビネ語
     auto: true
+  - translation_iso: spa
+    name: Somrai
+    auto: true
   - translation_iso: zho
     name: 索姆赖语
     auto: true

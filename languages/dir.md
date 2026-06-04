@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ディリム語
     auto: true
+  - translation_iso: spa
+    name: Dirim
+    auto: true
   - translation_iso: zho
     name: 迪里姆语
     auto: true

@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: コボ語
     auto: true
+  - translation_iso: spa
+    name: Kobo
+    auto: true
   - translation_iso: zho
     name: 科博语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラチ語
+  - translation_iso: spa
+    name: Lachi
+    auto: true
   - translation_iso: zho
     name: 拉基語
 rolv_dialects:

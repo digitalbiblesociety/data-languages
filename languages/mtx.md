@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティダア・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Tidaá
+    auto: true
   - translation_iso: zho
     name: 提达阿米克斯特克语
     auto: true

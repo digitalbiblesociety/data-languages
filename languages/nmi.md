@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニャム語
     auto: true
+  - translation_iso: spa
+    name: Nyam
+    auto: true
   - translation_iso: zho
     name: 尼亚姆语
     auto: true

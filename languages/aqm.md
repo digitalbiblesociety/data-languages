@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アトワイム語
     auto: true
+  - translation_iso: spa
+    name: Atohwaim
+    auto: true
   - translation_iso: zho
     name: 阿托瓦伊姆语
     auto: true

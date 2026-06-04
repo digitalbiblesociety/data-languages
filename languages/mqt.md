@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モク語
     auto: true
+  - translation_iso: spa
+    name: Mok
+    auto: true
   - translation_iso: zho
     name: 莫克语
 ---

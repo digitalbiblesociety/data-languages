@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジナ語
     auto: true
+  - translation_iso: spa
+    name: Jina
+    auto: true
   - translation_iso: zho
     name: 吉纳语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 川黔滇苗語
+  - translation_iso: spa
+    name: Miao del Grupo Chuanqiandian
+    auto: true
   - translation_iso: zho
     name: 苗语川黔滇次方言
 rolv_dialects:

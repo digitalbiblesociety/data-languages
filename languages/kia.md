@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キム語
     auto: true
+  - translation_iso: spa
+    name: Kim
+    auto: true
   - translation_iso: zho
     name: 金语
     auto: true

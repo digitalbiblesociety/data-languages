@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ツンドラエネツ語
     auto: true
+  - translation_iso: spa
+    name: Énets de la tundra
+    auto: true
   - translation_iso: zho
     name: 苔原埃涅茨语
     auto: true

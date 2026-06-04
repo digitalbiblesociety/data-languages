@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルンガス語
     auto: true
+  - translation_iso: spa
+    name: Rungus
+    auto: true
   - translation_iso: zho
     name: 容古斯语
     auto: true

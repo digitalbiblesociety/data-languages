@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クルトプ語
+  - translation_iso: spa
+    name: Kurtokha
+    auto: true
   - translation_iso: zho
     name: 库尔托卡语
     auto: true

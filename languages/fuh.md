@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西部ニジェール・フルフルディ語
+  - translation_iso: spa
+    name: Fulfulde del Níger Occidental
+    auto: true
   - translation_iso: zho
     name: 西尼日富拉语
     auto: true

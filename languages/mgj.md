@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アブレニ語
     auto: true
+  - translation_iso: spa
+    name: Abureni
+    auto: true
   - translation_iso: zho
     name: 阿布雷尼语
     auto: true

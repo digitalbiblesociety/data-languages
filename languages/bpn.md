@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジャオ・ミン語
     auto: true
+  - translation_iso: spa
+    name: Dzao Min
+    auto: true
   - translation_iso: zho
     name: 藻敏方言
 ---

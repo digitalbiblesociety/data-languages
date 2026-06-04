@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラカ語
     auto: true
+  - translation_iso: spa
+    name: Laka (Chad)
+    auto: true
   - translation_iso: zho
     name: 拉卡语(乍得)
     auto: true

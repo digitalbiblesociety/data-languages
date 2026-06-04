@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レウォトビ語
+  - translation_iso: spa
+    name: Lewotobi
+    auto: true
   - translation_iso: zho
     name: 勒沃托比语
     auto: true

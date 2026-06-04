@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ロディ語
     auto: true
+  - translation_iso: spa
+    name: Lodhi
+    auto: true
   - translation_iso: zho
     name: 罗地语
 rolv_dialects:

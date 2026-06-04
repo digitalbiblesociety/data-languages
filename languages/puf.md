@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プナンメラ語
     auto: true
+  - translation_iso: spa
+    name: Punan Merah
+    auto: true
   - translation_iso: zho
     name: 普南梅拉语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リトアニア手話
+  - translation_iso: spa
+    name: Lengua de señas lituana
+    auto: true
   - translation_iso: zho
     name: 立陶宛手语
     auto: true

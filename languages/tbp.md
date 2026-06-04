@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タウォルタ語
     auto: true
+  - translation_iso: spa
+    name: Taworta
+    auto: true
   - translation_iso: zho
     name: 塔沃尔塔语
     auto: true

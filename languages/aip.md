@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブルマコク語
     auto: true
+  - translation_iso: spa
+    name: Burumakok
+    auto: true
   - translation_iso: zho
     name: 布鲁马科克语
     auto: true

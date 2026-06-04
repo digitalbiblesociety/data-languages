@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コフェイ語
     auto: true
+  - translation_iso: spa
+    name: Kofei
+    auto: true
   - translation_iso: zho
     name: 科费伊语
     auto: true

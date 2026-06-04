@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングアンド語
     auto: true
+  - translation_iso: spa
+    name: Ngando (República Centroafricana)
+    auto: true
   - translation_iso: zho
     name: Kota语
 rolv_dialects:

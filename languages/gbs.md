@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガベシ・ベ語
     auto: true
+  - translation_iso: spa
+    name: Gbesi Gbe
+    auto: true
   - translation_iso: zho
     name: 加贝西格贝语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガフリ語
     auto: true
+  - translation_iso: spa
+    name: Gahri
+    auto: true
   - translation_iso: zho
     name: 布南语
 ---

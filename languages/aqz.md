@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アクンツ語
     auto: true
+  - translation_iso: spa
+    name: Akuntsu
+    auto: true
   - translation_iso: zho
     name: 阿昆苏语
     auto: true

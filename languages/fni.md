@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ファニア語
     auto: true
+  - translation_iso: spa
+    name: Fania
+    auto: true
   - translation_iso: zho
     name: 范尼亚语
     auto: true

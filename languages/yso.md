@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニシ語（中国）
     auto: true
+  - translation_iso: spa
+    name: Nisi (China)
+    auto: true
   - translation_iso: zho
     name: 尼斯彝语
 ---

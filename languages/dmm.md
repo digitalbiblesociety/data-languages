@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ダマ語
     auto: true
+  - translation_iso: spa
+    name: Dama
+    auto: true
   - translation_iso: zho
     name: 达玛语
     auto: true

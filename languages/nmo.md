@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: モヨン・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Moyon
+    auto: true
   - translation_iso: zho
     name: 莫永纳加语
     auto: true

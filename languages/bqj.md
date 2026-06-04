@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンジャル語
+  - translation_iso: spa
+    name: Bandial
+    auto: true
   - translation_iso: zho
     name: 班迪亚尔语
     auto: true

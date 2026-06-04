@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソコロ語
+  - translation_iso: spa
+    name: Sokoro
+    auto: true
   - translation_iso: zho
     name: 索科罗语
     auto: true

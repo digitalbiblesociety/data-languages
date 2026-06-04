@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドルポ語
     auto: true
+  - translation_iso: spa
+    name: Dolpo
+    auto: true
   - translation_iso: zho
     name: 多尔波语
     auto: true

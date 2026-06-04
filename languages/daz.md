@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダオ語
     auto: true
+  - translation_iso: spa
+    name: Dao
+    auto: true
   - translation_iso: zho
     name: 刀语
     auto: true

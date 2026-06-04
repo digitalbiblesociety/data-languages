@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サザン・マディ語
     auto: true
+  - translation_iso: spa
+    name: "Ma'di meridional"
+    auto: true
   - translation_iso: zho
     name: 南方马迪语
     auto: true

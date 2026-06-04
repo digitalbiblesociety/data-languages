@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロゴリク語
     auto: true
+  - translation_iso: spa
+    name: Logorik
+    auto: true
   - translation_iso: zho
     name: 洛戈里克语
     auto: true

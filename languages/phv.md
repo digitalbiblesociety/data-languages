@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パハラヴァニ語
     auto: true
+  - translation_iso: spa
+    name: Pahlavani
+    auto: true
   - translation_iso: zho
     name: 帕赫拉瓦尼语
     auto: true

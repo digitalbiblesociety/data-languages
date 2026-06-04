@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アウルア語
     auto: true
+  - translation_iso: spa
+    name: Aulua
+    auto: true
   - translation_iso: zho
     name: 奥卢亚语
     auto: true

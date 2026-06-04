@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マザルテペック・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Mazaltepec
+    auto: true
   - translation_iso: zho
     name: 马扎尔特佩克萨波特克语
     auto: true

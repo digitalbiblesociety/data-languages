@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アンガル・ヘネン語
     auto: true
+  - translation_iso: spa
+    name: Angal Heneng
+    auto: true
   - translation_iso: zho
     name: 安加尔海嫩语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カイルイ・ミディキ語
     auto: true
+  - translation_iso: spa
+    name: Kairui-Midiki
+    auto: true
   - translation_iso: zho
     name: 开鲁伊-米迪基语
     auto: true

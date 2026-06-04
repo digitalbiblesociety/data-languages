@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バロク語
+  - translation_iso: spa
+    name: Barok
+    auto: true
   - translation_iso: zho
     name: 巴罗克语
     auto: true

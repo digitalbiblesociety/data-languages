@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アゴブ語
     auto: true
+  - translation_iso: spa
+    name: Agob
+    auto: true
   - translation_iso: zho
     name: 阿戈布语
     auto: true

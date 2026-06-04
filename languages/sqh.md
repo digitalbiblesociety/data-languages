@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リシャウ語
     auto: true
+  - translation_iso: spa
+    name: Shau
+    auto: true
   - translation_iso: zho
     name: 沙乌语
     auto: true

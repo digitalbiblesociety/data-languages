@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニャリ語
     auto: true
+  - translation_iso: spa
+    name: Nyali
+    auto: true
   - translation_iso: zho
     name: 尼亚利语
     auto: true

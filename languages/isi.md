@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンケム・ンクム語
     auto: true
+  - translation_iso: spa
+    name: Nkem-Nkum
+    auto: true
   - translation_iso: zho
     name: 恩克姆-恩库姆语
     auto: true

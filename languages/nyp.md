@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャンギ語
+  - translation_iso: spa
+    name: "Nyang'i"
+    auto: true
   - translation_iso: zho
     name: 尼昂伊语
     auto: true

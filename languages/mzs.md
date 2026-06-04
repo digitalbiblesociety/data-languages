@@ -25,6 +25,9 @@ translations:
     name: マカオ語
   - translation_iso: kor
     name: 마카오어
+  - translation_iso: spa
+    name: Macaense
+    auto: true
   - translation_iso: zho
     name: 澳門土生葡語
 ---

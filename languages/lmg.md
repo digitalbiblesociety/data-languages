@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラモガイ語
+  - translation_iso: spa
+    name: Lamogai
+    auto: true
   - translation_iso: zho
     name: 拉莫盖语
     auto: true

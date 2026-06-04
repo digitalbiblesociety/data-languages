@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タリエン語
     auto: true
+  - translation_iso: spa
+    name: Talieng
+    auto: true
   - translation_iso: zho
     name: 塔利恩语
     auto: true

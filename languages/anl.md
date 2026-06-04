@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アヌフコンソ・チン語
     auto: true
+  - translation_iso: spa
+    name: Anu-Hkongso Chin
+    auto: true
   - translation_iso: zho
     name: 安努-恒贡索秦语
     auto: true

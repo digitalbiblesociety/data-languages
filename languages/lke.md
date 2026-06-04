@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ケニイ語
     auto: true
+  - translation_iso: spa
+    name: Kenyi
+    auto: true
   - translation_iso: zho
     name: 肯尼语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コカタ語
     auto: true
+  - translation_iso: spa
+    name: Kokata
+    auto: true
   - translation_iso: zho
     name: 科卡塔语
     auto: true

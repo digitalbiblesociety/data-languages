@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グヤ語
     auto: true
+  - translation_iso: spa
+    name: Guya
+    auto: true
   - translation_iso: zho
     name: 圭亚语
     auto: true

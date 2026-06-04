@@ -18,6 +18,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラオス手話
+  - translation_iso: spa
+    name: Lengua de señas de Laos
+    auto: true
   - translation_iso: zho
     name: 老挝语手语
 ---

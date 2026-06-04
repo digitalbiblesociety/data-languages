@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: クンガルドゥティイ語
     auto: true
+  - translation_iso: spa
+    name: Kungardutyi
+    auto: true
   - translation_iso: zho
     name: 昆加杜蒂语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンベレ語
     auto: true
+  - translation_iso: spa
+    name: Ambele
+    auto: true
   - translation_iso: zho
     name: 安贝莱语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウヤ語
     auto: true
+  - translation_iso: spa
+    name: Sausi
+    auto: true
   - translation_iso: zho
     name: 萨乌西语
     auto: true

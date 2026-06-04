@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モリ・アタス語
     auto: true
+  - translation_iso: spa
+    name: Mori Atas
+    auto: true
   - translation_iso: zho
     name: 莫里阿塔斯语
     auto: true

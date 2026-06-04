@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヒジュク語
     auto: true
+  - translation_iso: spa
+    name: Hijuk
+    auto: true
   - translation_iso: zho
     name: 希尤克语
     auto: true

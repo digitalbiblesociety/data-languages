@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: デワス・ライ語
     auto: true
+  - translation_iso: spa
+    name: Dewas Rai
+    auto: true
   - translation_iso: zho
     name: 德瓦斯赖语
     auto: true

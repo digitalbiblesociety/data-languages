@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アランブラック語
+  - translation_iso: spa
+    name: Alamblak
+    auto: true
   - translation_iso: zho
     name: 阿兰布拉克语
     auto: true

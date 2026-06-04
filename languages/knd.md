@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コンダ語
     auto: true
+  - translation_iso: spa
+    name: Konda
+    auto: true
   - translation_iso: zho
     name: 孔达语
     auto: true

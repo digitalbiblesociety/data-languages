@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワギ語
+  - translation_iso: spa
+    name: Wahgi
+    auto: true
   - translation_iso: zho
     name: 瓦基語
 rolv_dialects:

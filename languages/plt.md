@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プラトー・マダガスカル語
+  - translation_iso: spa
+    name: Malgache de las mesetas
+    auto: true
   - translation_iso: zho
     name: 高地马达加斯加语
     auto: true

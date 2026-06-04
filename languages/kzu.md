@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カユプラウ語
     auto: true
+  - translation_iso: spa
+    name: Kayupulau
+    auto: true
   - translation_iso: zho
     name: 卡尤普劳语
     auto: true

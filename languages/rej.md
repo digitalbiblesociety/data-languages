@@ -26,6 +26,9 @@ translations:
     name: レジャン語
   - translation_iso: kor
     name: 레장어
+  - translation_iso: spa
+    name: Rejang
+    auto: true
   - translation_iso: zho
     name: 勒姜语
 rolv_dialects:

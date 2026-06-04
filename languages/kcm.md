@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グラ語
     auto: true
+  - translation_iso: spa
+    name: Gula (República Centroafricana)
+    auto: true
   - translation_iso: zho
     name: 古拉语（中非共和国）
     auto: true

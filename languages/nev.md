@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニャヘウン語
     auto: true
+  - translation_iso: spa
+    name: Nyaheun
+    auto: true
   - translation_iso: zho
     name: 洪语
 rolv_dialects:

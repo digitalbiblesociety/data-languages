@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジンザ語
+  - translation_iso: spa
+    name: Zinza
+    auto: true
   - translation_iso: zho
     name: 津扎语
     auto: true

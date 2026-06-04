@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: テオル語
     auto: true
+  - translation_iso: spa
+    name: Teor
+    auto: true
   - translation_iso: zho
     name: 特奥尔语
     auto: true

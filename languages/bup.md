@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブソア語
     auto: true
+  - translation_iso: spa
+    name: Busoa
+    auto: true
   - translation_iso: zho
     name: 布索阿语
     auto: true

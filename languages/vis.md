@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マランクディ語
     auto: true
+  - translation_iso: spa
+    name: Vishavan
+    auto: true
   - translation_iso: zho
     name: 维萨瓦语
     auto: true

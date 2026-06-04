@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イセヴェ・マシ語
     auto: true
+  - translation_iso: spa
+    name: Iceve-Maci
+    auto: true
   - translation_iso: zho
     name: 冰塞夫-马西语
     auto: true

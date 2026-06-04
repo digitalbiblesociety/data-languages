@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アビッジ語
     auto: true
+  - translation_iso: spa
+    name: Abidji
+    auto: true
   - translation_iso: zho
     name: 阿比吉语
     auto: true

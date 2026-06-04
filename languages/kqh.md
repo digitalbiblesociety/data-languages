@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: キサンカサ語
     auto: true
+  - translation_iso: spa
+    name: Kisankasa
+    auto: true
   - translation_iso: zho
     name: 基桑卡萨语
     auto: true

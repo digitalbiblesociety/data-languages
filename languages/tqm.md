@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トゥルムサ語
     auto: true
+  - translation_iso: spa
+    name: Turumsa
+    auto: true
   - translation_iso: zho
     name: 图鲁姆萨语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北ウズベク語
     auto: true
+  - translation_iso: spa
+    name: Uzbeko septentrional
+    auto: true
   - translation_iso: zho
     name: 北乌兹别克语
 rolv_dialects:

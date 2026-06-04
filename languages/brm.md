@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バランブ語
     auto: true
+  - translation_iso: spa
+    name: Barambu
+    auto: true
   - translation_iso: zho
     name: 巴兰布语
 ---

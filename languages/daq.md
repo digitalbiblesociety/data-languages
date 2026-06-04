@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダンダミ・マリア語
     auto: true
+  - translation_iso: spa
+    name: Dandami Maria
+    auto: true
   - translation_iso: zho
     name: 丹达米玛丽亚语
     auto: true

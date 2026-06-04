@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オドゥアル語
     auto: true
+  - translation_iso: spa
+    name: Odual
+    auto: true
   - translation_iso: zho
     name: 奥杜阿尔语
     auto: true

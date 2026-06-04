@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メスメス語
+  - translation_iso: spa
+    name: Mesmes
+    auto: true
   - translation_iso: zho
     name: 梅斯梅斯语
     auto: true

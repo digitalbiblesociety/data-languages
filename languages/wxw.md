@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ワルダンディ語
     auto: true
+  - translation_iso: spa
+    name: Wardandi
+    auto: true
   - translation_iso: zho
     name: 沃德迪语
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ゴウラン語
     auto: true
+  - translation_iso: spa
+    name: Gowlan
+    auto: true
   - translation_iso: zho
     name: 高兰语
     auto: true

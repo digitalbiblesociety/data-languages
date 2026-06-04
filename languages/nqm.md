@@ -25,6 +25,9 @@ translations:
     name: ンドム語
   - translation_iso: kor
     name: 은돔어
+  - translation_iso: spa
+    name: Ndom
+    auto: true
   - translation_iso: zho
     name: 恩多姆语
     auto: true

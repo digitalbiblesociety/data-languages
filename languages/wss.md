@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワサ語
+  - translation_iso: spa
+    name: Wasa
+    auto: true
   - translation_iso: zho
     name: 瓦萨语
     auto: true

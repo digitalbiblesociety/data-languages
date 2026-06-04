@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コノ語
     auto: true
+  - translation_iso: spa
+    name: Kono (Guinea)
+    auto: true
   - translation_iso: zho
     name: 科诺语
     auto: true

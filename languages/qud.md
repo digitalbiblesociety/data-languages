@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カルデロンハイランドキチュア語
     auto: true
+  - translation_iso: spa
+    name: Quichua serrano de Calderón
+    auto: true
   - translation_iso: zho
     name: 卡尔德隆高地基楚亚语
     auto: true

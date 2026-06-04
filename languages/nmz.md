@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナウドム語
     auto: true
+  - translation_iso: spa
+    name: Nawdm
+    auto: true
   - translation_iso: zho
     name: 纳务德姆语
     auto: true

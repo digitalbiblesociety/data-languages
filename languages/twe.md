@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テワ語
     auto: true
+  - translation_iso: spa
+    name: Tewa (Indonesia)
+    auto: true
   - translation_iso: zho
     name: 印度尼西亚特瓦语
     auto: true

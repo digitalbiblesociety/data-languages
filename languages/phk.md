@@ -22,6 +22,9 @@ translations:
     name: ताई फेके भाषा
   - translation_iso: jpn
     name: タイ・パケ語
+  - translation_iso: spa
+    name: Phake
+    auto: true
   - translation_iso: zho
     name: 帕基语
 ---

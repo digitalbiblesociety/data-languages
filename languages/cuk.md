@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サンブラス・クナ語
     auto: true
+  - translation_iso: spa
+    name: Kuna de San Blas
+    auto: true
   - translation_iso: zho
     name: 圣布拉斯库纳语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゴカナ語
     auto: true
+  - translation_iso: spa
+    name: Gokana
+    auto: true
   - translation_iso: zho
     name: 戈卡纳语
     auto: true

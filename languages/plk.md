@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コヒスタニシナ語
     auto: true
+  - translation_iso: spa
+    name: Shina kohistaní
+    auto: true
   - translation_iso: zho
     name: "Category:科希斯坦希納語"
 rolv_dialects:

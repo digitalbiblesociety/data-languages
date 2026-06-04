@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Montol語
+  - translation_iso: spa
+    name: Montol
+    auto: true
   - translation_iso: zho
     name: 蒙托尔语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マシワン語
     auto: true
+  - translation_iso: spa
+    name: Masiwang
+    auto: true
   - translation_iso: zho
     name: 马西望语
 ---

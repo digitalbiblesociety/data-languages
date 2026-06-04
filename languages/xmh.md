@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クグ・ムミンハ語
     auto: true
+  - translation_iso: spa
+    name: Kugu-Muminh
+    auto: true
   - translation_iso: zho
     name: 库古-木民语
     auto: true

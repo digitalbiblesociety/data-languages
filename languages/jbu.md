@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 非Jukunoid語
+  - translation_iso: spa
+    name: Jukun Takum
+    auto: true
   - translation_iso: zho
     name: 朱昆语
 rolv_dialects:

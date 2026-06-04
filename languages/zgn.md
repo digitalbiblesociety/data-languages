@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 桂辺チワン語
+  - translation_iso: spa
+    name: Zhuang de Guibian
+    auto: true
   - translation_iso: zho
     name: 桂边-庄语
     auto: true

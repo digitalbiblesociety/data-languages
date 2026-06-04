@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ツィウォガイ語
     auto: true
+  - translation_iso: spa
+    name: Ciwogai
+    auto: true
   - translation_iso: zho
     name: 西沃盖语
     auto: true

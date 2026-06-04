@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クワムティム・ワン語
     auto: true
+  - translation_iso: spa
+    name: One de Kwamtim
+    auto: true
   - translation_iso: zho
     name: 夸姆蒂姆翁语
     auto: true

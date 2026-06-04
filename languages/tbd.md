@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カキ・アエ語
+  - translation_iso: spa
+    name: Kaki Ae
+    auto: true
   - translation_iso: zho
     name: 卡基艾语
     auto: true

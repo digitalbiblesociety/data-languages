@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポング語
+  - translation_iso: spa
+    name: Pongu
+    auto: true
   - translation_iso: zho
     name: 庞古语
     auto: true

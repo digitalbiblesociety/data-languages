@@ -22,6 +22,9 @@ translations:
     name: エスカヤ語
   - translation_iso: kor
     name: 에스카야어
+  - translation_iso: spa
+    name: Eskayan
+    auto: true
   - translation_iso: zho
     name: 埃斯卡扬语
     auto: true

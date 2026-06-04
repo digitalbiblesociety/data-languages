@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カセム語
+  - translation_iso: spa
+    name: Kasem
+    auto: true
   - translation_iso: zho
     name: 卡塞納語
 rolv_dialects:

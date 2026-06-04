@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ペンチャル語
     auto: true
+  - translation_iso: spa
+    name: Penchal
+    auto: true
   - translation_iso: zho
     name: 彭查尔语
     auto: true

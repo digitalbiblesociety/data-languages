@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムユウ語
+  - translation_iso: spa
+    name: Muyuw
+    auto: true
   - translation_iso: zho
     name: 穆尤语
     auto: true

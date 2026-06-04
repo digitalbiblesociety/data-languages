@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブションゴ語
+  - translation_iso: spa
+    name: Bushoong
+    auto: true
   - translation_iso: zho
     name: 布肖翁语
     auto: true

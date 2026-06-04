@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンダイ語
     auto: true
+  - translation_iso: spa
+    name: Andai
+    auto: true
   - translation_iso: zho
     name: 安代语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラワット語
     auto: true
+  - translation_iso: spa
+    name: Rawat
+    auto: true
   - translation_iso: zho
     name: 拉瓦特语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・タィン語
+  - translation_iso: spa
+    name: Tai Thanh
+    auto: true
   - translation_iso: zho
     name: 傣奈语
 ---

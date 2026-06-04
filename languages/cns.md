@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・アスマット語
     auto: true
+  - translation_iso: spa
+    name: Asmat Central
+    auto: true
   - translation_iso: zho
     name: 中阿斯玛特语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パム語
     auto: true
+  - translation_iso: spa
+    name: Pam
+    auto: true
   - translation_iso: zho
     name: 帕姆语
     auto: true

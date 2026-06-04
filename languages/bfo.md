@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マルバ・ビリフォル語
     auto: true
+  - translation_iso: spa
+    name: Birifor del norte
+    auto: true
   - translation_iso: zho
     name: 马尔巴比里福语
     auto: true

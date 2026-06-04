@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 中央スバネン語
     auto: true
+  - translation_iso: spa
+    name: Subanen central
+    auto: true
   - translation_iso: zho
     name: 中苏巴嫩语
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: レゲニェム語
     auto: true
+  - translation_iso: spa
+    name: Legenyem
+    auto: true
   - translation_iso: zho
     name: 莱根耶姆语
     auto: true

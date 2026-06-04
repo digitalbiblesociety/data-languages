@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウォジェナカ語
     auto: true
+  - translation_iso: spa
+    name: Wojenaka
+    auto: true
   - translation_iso: zho
     name: 沃杰纳卡语
     auto: true

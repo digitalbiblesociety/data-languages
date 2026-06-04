@@ -24,6 +24,9 @@ translations:
     name: ホー語
   - translation_iso: kor
     name: 호어
+  - translation_iso: spa
+    name: Ho
+    auto: true
   - translation_iso: zho
     name: 霍语
 rolv_dialects:

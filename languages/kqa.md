@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ムム語
     auto: true
+  - translation_iso: spa
+    name: Mum
+    auto: true
   - translation_iso: zho
     name: 穆姆语
     auto: true

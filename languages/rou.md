@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ルンガ語
     auto: true
+  - translation_iso: spa
+    name: Runga
+    auto: true
   - translation_iso: zho
     name: 鲁恩加语
     auto: true

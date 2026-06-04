@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ダンビ語
     auto: true
+  - translation_iso: spa
+    name: Dambi
+    auto: true
   - translation_iso: zho
     name: 达姆比语
     auto: true

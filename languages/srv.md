@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワライソルソゴン語
     auto: true
+  - translation_iso: spa
+    name: Sorsoganón meridional
+    auto: true
   - translation_iso: zho
     name: 南索尔索加农语
     auto: true

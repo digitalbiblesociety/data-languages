@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Mpuono語
+  - translation_iso: spa
+    name: Mpuono
+    auto: true
   - translation_iso: zho
     name: 姆普翁诺语
     auto: true

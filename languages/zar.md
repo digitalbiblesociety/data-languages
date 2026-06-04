@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リンコン・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco del Rincón
+    auto: true
   - translation_iso: zho
     name: 林孔-萨波特克语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・マセラ語
     auto: true
+  - translation_iso: spa
+    name: Masela Central
+    auto: true
   - translation_iso: zho
     name: 中马塞拉语
     auto: true

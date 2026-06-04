@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バジャウ語
     auto: true
+  - translation_iso: spa
+    name: Balangingi
+    auto: true
   - translation_iso: zho
     name: 巴兰金吉语
     auto: true

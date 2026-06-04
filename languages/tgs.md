@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヌメ語
     auto: true
+  - translation_iso: spa
+    name: Nume
+    auto: true
   - translation_iso: zho
     name: 努梅语
     auto: true

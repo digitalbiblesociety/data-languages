@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケマク語
+  - translation_iso: spa
+    name: Kemak
+    auto: true
   - translation_iso: zho
     name: 克马克语
     auto: true

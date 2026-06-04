@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: セロア語
     auto: true
+  - translation_iso: spa
+    name: Seroa
+    auto: true
   - translation_iso: zho
     name: 塞罗亚语
     auto: true

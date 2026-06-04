@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アスパリヤ語
     auto: true
+  - translation_iso: spa
+    name: Athpariya
+    auto: true
   - translation_iso: zho
     name: 阿特帕里亚语
     auto: true

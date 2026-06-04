@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テシェナワ語
+  - translation_iso: spa
+    name: Teshenawa
+    auto: true
   - translation_iso: zho
     name: 特什纳瓦语
     auto: true

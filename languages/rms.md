@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルーマニア手話
+  - translation_iso: spa
+    name: Lengua de señas rumana
+    auto: true
   - translation_iso: zho
     name: 罗马尼亚手语
     auto: true

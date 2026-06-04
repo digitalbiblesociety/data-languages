@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハンガリー手話
+  - translation_iso: spa
+    name: Lengua de señas húngara
+    auto: true
   - translation_iso: zho
     name: 匈牙利手语
     auto: true

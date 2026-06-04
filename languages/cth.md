@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: タイプム・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Thaiphum
+    auto: true
   - translation_iso: zho
     name: 泰芬钦语
     auto: true

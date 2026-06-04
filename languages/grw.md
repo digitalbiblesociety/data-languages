@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グウェダ語
     auto: true
+  - translation_iso: spa
+    name: Gweda
+    auto: true
   - translation_iso: zho
     name: 格韦达语
     auto: true

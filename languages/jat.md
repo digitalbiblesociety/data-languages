@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: インク語
+  - translation_iso: spa
+    name: Jakati
+    auto: true
   - translation_iso: zho
     name: 贾卡蒂语
     auto: true

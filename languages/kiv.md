@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キンブ語
     auto: true
+  - translation_iso: spa
+    name: Kimbu
+    auto: true
   - translation_iso: zho
     name: 金布语
     auto: true

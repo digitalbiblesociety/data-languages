@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 西ペナン語
     auto: true
+  - translation_iso: spa
+    name: Penan occidental
+    auto: true
   - translation_iso: zho
     name: 西部佩南语
     auto: true

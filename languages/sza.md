@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セメライ語
     auto: true
+  - translation_iso: spa
+    name: Semelai
+    auto: true
   - translation_iso: zho
     name: 塞米莱语
 ---

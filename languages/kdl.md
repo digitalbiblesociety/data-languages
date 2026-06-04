@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ツィキンバ語
     auto: true
+  - translation_iso: spa
+    name: Tsikimba
+    auto: true
   - translation_iso: zho
     name: 茨基金巴语
     auto: true

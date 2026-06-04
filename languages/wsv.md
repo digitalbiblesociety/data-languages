@@ -22,6 +22,9 @@ translations:
     name: वोटापूरी-कटारक़लाई भाषा
   - translation_iso: jpn
     name: ウォタプル・カタルカラ語
+  - translation_iso: spa
+    name: Wotapuri-Katarqalai
+    auto: true
   - translation_iso: zho
     name: 沃塔普里-卡塔尔卡莱语
     auto: true

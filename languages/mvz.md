@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: メスカン語
     auto: true
+  - translation_iso: spa
+    name: Mesqan
+    auto: true
   - translation_iso: zho
     name: 梅斯甘语
     auto: true

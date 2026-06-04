@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ゲライ語
     auto: true
+  - translation_iso: spa
+    name: Gerai
+    auto: true
   - translation_iso: zho
     name: 格莱语
     auto: true

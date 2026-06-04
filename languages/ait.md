@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アリケム語
     auto: true
+  - translation_iso: spa
+    name: Arikem
+    auto: true
   - translation_iso: zho
     name: 阿里克姆语
     auto: true

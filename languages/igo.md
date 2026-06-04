@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イセベ語
     auto: true
+  - translation_iso: spa
+    name: Isebe
+    auto: true
   - translation_iso: zho
     name: 伊塞贝语
     auto: true

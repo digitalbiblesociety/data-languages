@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バルガム語
     auto: true
+  - translation_iso: spa
+    name: Bargam
+    auto: true
   - translation_iso: zho
     name: 巴爾加姆語
 rolv_dialects:

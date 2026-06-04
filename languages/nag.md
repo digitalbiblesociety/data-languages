@@ -22,6 +22,9 @@ translations:
     name: नागामी भाषा
   - translation_iso: jpn
     name: Nagameseクレオール語
+  - translation_iso: spa
+    name: Pidgin naga
+    auto: true
   - translation_iso: zho
     name: 那加兰语
 ---

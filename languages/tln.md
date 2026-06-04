@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タロンド語
     auto: true
+  - translation_iso: spa
+    name: "Talondo'"
+    auto: true
   - translation_iso: zho
     name: 塔隆多语
     auto: true

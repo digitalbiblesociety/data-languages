@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南ベツィミサラカ・マダガスカル語
+  - translation_iso: spa
+    name: Malgache Betsimisaraka Meridional
+    auto: true
   - translation_iso: zho
     name: 南贝齐米萨拉卡马拉加斯语
     auto: true

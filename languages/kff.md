@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コーヤ語
+  - translation_iso: spa
+    name: Koya
+    auto: true
   - translation_iso: zho
     name: 科亚语
 rolv_dialects:

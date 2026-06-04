@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウナ語
     auto: true
+  - translation_iso: spa
+    name: Una
+    auto: true
   - translation_iso: zho
     name: 乌纳语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロシアブリヤート語
+  - translation_iso: spa
+    name: Buriato de Rusia
+    auto: true
   - translation_iso: zho
     name: 俄罗斯布里亚特语
 rolv_dialects:

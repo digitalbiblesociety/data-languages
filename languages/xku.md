@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カアンバ語
     auto: true
+  - translation_iso: spa
+    name: Kaamba
+    auto: true
   - translation_iso: zho
     name: 卡姆巴语
     auto: true

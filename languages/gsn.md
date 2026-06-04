@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ネマ語
     auto: true
+  - translation_iso: spa
+    name: Nema
+    auto: true
   - translation_iso: zho
     name: 奈玛语
     auto: true

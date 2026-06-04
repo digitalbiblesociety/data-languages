@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 桂北平話
+  - translation_iso: spa
+    name: Chino Ping Septentrional
+    auto: true
   - translation_iso: zho
     name: 桂北平话
 ---

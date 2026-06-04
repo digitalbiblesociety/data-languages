@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デニャ語
     auto: true
+  - translation_iso: spa
+    name: Denya
+    auto: true
   - translation_iso: zho
     name: 德尼亚语
     auto: true

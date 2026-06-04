@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キプット語
     auto: true
+  - translation_iso: spa
+    name: Kiput
+    auto: true
   - translation_iso: zho
     name: 基普特语
     auto: true

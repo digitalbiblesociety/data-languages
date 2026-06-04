@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アブロン語
+  - translation_iso: spa
+    name: Abron
+    auto: true
   - translation_iso: zho
     name: 阿布隆语
     auto: true

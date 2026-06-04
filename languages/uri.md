@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カルプ語
     auto: true
+  - translation_iso: spa
+    name: Urim
+    auto: true
   - translation_iso: zho
     name: 乌里姆语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラナン
+  - translation_iso: spa
+    name: Paranan
+    auto: true
   - translation_iso: zho
     name: 帕拉南语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニアンガトム語
+  - translation_iso: spa
+    name: Nyangatom
+    auto: true
   - translation_iso: zho
     name: 尼扬加托姆语
     auto: true

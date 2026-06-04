@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コモックス語
+  - translation_iso: spa
+    name: Comox
+    auto: true
   - translation_iso: zho
     name: 科莫克斯語
 rolv_dialects:

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 가라와어
+  - translation_iso: spa
+    name: Garrwa
+    auto: true
   - translation_iso: zho
     name: 盖瓦语
     auto: true

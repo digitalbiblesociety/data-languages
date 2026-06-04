@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 紅金タイ語
+  - translation_iso: spa
+    name: Tai Hongjin
+    auto: true
   - translation_iso: zho
     name: 红金傣语
 rolv_dialects:

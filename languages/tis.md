@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マサディイト・イトネグ語
     auto: true
+  - translation_iso: spa
+    name: Itneg Masadiit
+    auto: true
   - translation_iso: zho
     name: 玛萨迪特伊特内格语
     auto: true

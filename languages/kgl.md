@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クングガリ語
     auto: true
+  - translation_iso: spa
+    name: Kunggari
+    auto: true
   - translation_iso: zho
     name: 庚加里语
     auto: true

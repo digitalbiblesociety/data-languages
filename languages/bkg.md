@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ブラカ語
     auto: true
+  - translation_iso: spa
+    name: Buraka
+    auto: true
   - translation_iso: zho
     name: 布拉卡语
     auto: true

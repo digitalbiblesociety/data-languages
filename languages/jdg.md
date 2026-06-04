@@ -21,6 +21,9 @@ translations:
     name: जदगाली
   - translation_iso: jpn
     name: ジャガリ語
+  - translation_iso: spa
+    name: Jadgali
+    auto: true
   - translation_iso: zho
     name: 贾德加利语
 ---

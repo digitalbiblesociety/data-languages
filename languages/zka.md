@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カイムブラワ語
     auto: true
+  - translation_iso: spa
+    name: Kaimbulawa
+    auto: true
   - translation_iso: zho
     name: 凯姆布拉瓦语
     auto: true

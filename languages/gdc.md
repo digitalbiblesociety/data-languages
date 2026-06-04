@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ググ・バドゥン語
     auto: true
+  - translation_iso: spa
+    name: Gugu Badhun
+    auto: true
   - translation_iso: zho
     name: 古古巴顿语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウバガラ語
     auto: true
+  - translation_iso: spa
+    name: Ubaghara
+    auto: true
   - translation_iso: zho
     name: 乌巴加拉语
     auto: true

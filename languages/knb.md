@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ルブアガン・カリンガ語
     auto: true
+  - translation_iso: spa
+    name: Kalinga de Lubuagan
+    auto: true
   - translation_iso: zho
     name: 卢布阿甘卡林加语
     auto: true

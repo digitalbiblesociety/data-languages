@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サルグジャ語
+  - translation_iso: spa
+    name: Surgujia
+    auto: true
   - translation_iso: zho
     name: 苏古贾方言
 ---

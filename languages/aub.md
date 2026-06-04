@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: アルグ語
     auto: true
+  - translation_iso: spa
+    name: Alugu
+    auto: true
   - translation_iso: zho
     name: 阿卢古语
     auto: true

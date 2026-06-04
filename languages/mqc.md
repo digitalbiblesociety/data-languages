@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: マンゴレ語
     auto: true
+  - translation_iso: spa
+    name: Mangole
+    auto: true
   - translation_iso: zho
     name: 芒戈莱语
     auto: true

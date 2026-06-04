@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ンドウェウェ語
     auto: true
+  - translation_iso: spa
+    name: Ndwewe
+    auto: true
   - translation_iso: zho
     name: 恩德韦韦语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイゾ語
+  - translation_iso: spa
+    name: Ayizo Gbe
+    auto: true
   - translation_iso: zho
     name: 艾伊佐格贝语
     auto: true

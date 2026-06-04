@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガラムブ語
     auto: true
+  - translation_iso: spa
+    name: Galambu
+    auto: true
   - translation_iso: zho
     name: 加朗布语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ユクアニェ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Yucuañe
+    auto: true
   - translation_iso: zho
     name: 尤库阿涅米克斯特克语
     auto: true

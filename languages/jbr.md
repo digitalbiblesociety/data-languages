@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ジョフォテク・ブロムニャ語
     auto: true
+  - translation_iso: spa
+    name: Jofotek-Bromnya
+    auto: true
   - translation_iso: zho
     name: 乔弗特克-布罗姆尼亚语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソー語
     auto: true
+  - translation_iso: spa
+    name: Swo
+    auto: true
   - translation_iso: zho
     name: 斯沃语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ゴラップ語
     auto: true
+  - translation_iso: spa
+    name: Gorap
+    auto: true
   - translation_iso: zho
     name: 戈拉普语
     auto: true

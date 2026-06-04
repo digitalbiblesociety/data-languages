@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムラオ語
     auto: true
+  - translation_iso: spa
+    name: Mulao
+    auto: true
   - translation_iso: zho
     name: 木佬語
 ---

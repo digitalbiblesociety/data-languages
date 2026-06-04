@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ミチョアカン・マサウア語
     auto: true
+  - translation_iso: spa
+    name: Mazahua de Michoacán
+    auto: true
   - translation_iso: zho
     name: 米却阿肯玛萨瓦语
     auto: true

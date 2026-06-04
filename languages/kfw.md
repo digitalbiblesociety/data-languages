@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハラム・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Kharam Naga
+    auto: true
   - translation_iso: zho
     name: 哈拉姆那加语
     auto: true

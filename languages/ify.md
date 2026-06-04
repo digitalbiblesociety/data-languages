@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ケレイ・イ・カッラハン語
     auto: true
+  - translation_iso: spa
+    name: Kallahan Keley-I
+    auto: true
   - translation_iso: zho
     name: 凯利-伊卡拉汉语
     auto: true

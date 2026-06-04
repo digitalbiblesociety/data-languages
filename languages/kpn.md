@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケプキリワット語
     auto: true
+  - translation_iso: spa
+    name: Kepkiriwát
+    auto: true
   - translation_iso: zho
     name: 凯普基里瓦特语
     auto: true

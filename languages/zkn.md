@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: カナン語
     auto: true
+  - translation_iso: spa
+    name: Kanan
+    auto: true
   - translation_iso: zho
     name: 卡南语
     auto: true

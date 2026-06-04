@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゲージ語
     auto: true
+  - translation_iso: spa
+    name: Totoli
+    auto: true
   - translation_iso: zho
     name: 托托利语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ニョコン語
     auto: true
+  - translation_iso: spa
+    name: Nyokon
+    auto: true
   - translation_iso: zho
     name: 尼奥孔语
     auto: true

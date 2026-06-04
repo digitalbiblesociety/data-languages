@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ムルピ語
     auto: true
+  - translation_iso: spa
+    name: Murupi
+    auto: true
   - translation_iso: zho
     name: 穆鲁皮语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アグサン・マノボ語
+  - translation_iso: spa
+    name: Manobo de Agusan
+    auto: true
   - translation_iso: zho
     name: 阿古桑曼诺博语
     auto: true

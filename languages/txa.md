@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロブ語
     auto: true
+  - translation_iso: spa
+    name: Tombonuo
+    auto: true
   - translation_iso: zho
     name: 通博努奥语
     auto: true

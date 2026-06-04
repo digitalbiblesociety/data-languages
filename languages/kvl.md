@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カヤウ語
+  - translation_iso: spa
+    name: Kayaw
+    auto: true
   - translation_iso: zho
     name: 卡亚语
     auto: true

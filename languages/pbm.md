@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: プエブラ・マザテク語
     auto: true
+  - translation_iso: spa
+    name: Mazateco de Puebla
+    auto: true
   - translation_iso: zho
     name: 普埃布拉马萨特克语
     auto: true

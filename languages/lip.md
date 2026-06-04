@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セクペレ語
     auto: true
+  - translation_iso: spa
+    name: Sekpele
+    auto: true
   - translation_iso: zho
     name: 塞克佩莱语
     auto: true

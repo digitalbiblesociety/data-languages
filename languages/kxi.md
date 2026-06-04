@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケニンガウ・ムルット語
     auto: true
+  - translation_iso: spa
+    name: Murut de Keningau
+    auto: true
   - translation_iso: zho
     name: 肯尼高穆鲁特语
     auto: true

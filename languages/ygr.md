@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤガリア語
+  - translation_iso: spa
+    name: Yagaria
+    auto: true
   - translation_iso: zho
     name: 亚加利亚语
     auto: true

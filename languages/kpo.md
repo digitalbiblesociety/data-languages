@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イクポソ語
     auto: true
+  - translation_iso: spa
+    name: Ikposo
+    auto: true
   - translation_iso: zho
     name: 伊克波索语
     auto: true

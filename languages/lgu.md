@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロンググ語
     auto: true
+  - translation_iso: spa
+    name: Longgu
+    auto: true
   - translation_iso: zho
     name: 龙古语
     auto: true

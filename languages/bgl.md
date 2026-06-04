@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ボ語
     auto: true
+  - translation_iso: spa
+    name: Bo (Laos)
+    auto: true
   - translation_iso: zho
     name: 老挝波语
     auto: true

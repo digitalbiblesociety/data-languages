@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アウエ語
     auto: true
+  - translation_iso: spa
+    name: Auye
+    auto: true
   - translation_iso: zho
     name: 奥耶语
     auto: true

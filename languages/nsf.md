@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北西ニス語
     auto: true
+  - translation_iso: spa
+    name: Nisu Noroccidental
+    auto: true
   - translation_iso: zho
     name: 西北尼苏语
     auto: true

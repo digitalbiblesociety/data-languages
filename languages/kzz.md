@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カラブラ語
     auto: true
+  - translation_iso: spa
+    name: Kalabra
+    auto: true
   - translation_iso: zho
     name: 卡拉布拉语
     auto: true

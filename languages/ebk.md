@@ -17,6 +17,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東ボントク語
+  - translation_iso: spa
+    name: Bontok Oriental
+    auto: true
   - translation_iso: zho
     name: 东邦托克语
     auto: true

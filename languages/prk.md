@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パラウク語
     auto: true
+  - translation_iso: spa
+    name: Parauk
+    auto: true
   - translation_iso: zho
     name: 巴饶克方言
 rolv_dialects:

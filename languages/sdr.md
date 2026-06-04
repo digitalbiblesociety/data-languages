@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナグプリ語
     auto: true
+  - translation_iso: spa
+    name: Sadri de Oraon
+    auto: true
   - translation_iso: zho
     name: 奥腊翁萨德里语
     auto: true

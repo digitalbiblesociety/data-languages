@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヌサ・ラウト語
     auto: true
+  - translation_iso: spa
+    name: Nusa Laut
+    auto: true
   - translation_iso: zho
     name: 劳特岛语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マイシン語
     auto: true
+  - translation_iso: spa
+    name: Maisin
+    auto: true
   - translation_iso: zho
     name: 迈辛语
     auto: true

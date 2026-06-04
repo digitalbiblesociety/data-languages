@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボイキン語
     auto: true
+  - translation_iso: spa
+    name: Boikin
+    auto: true
   - translation_iso: zho
     name: 博伊金语
     auto: true

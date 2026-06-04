@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テヒット語
     auto: true
+  - translation_iso: spa
+    name: Tehit
+    auto: true
   - translation_iso: zho
     name: 特希特语
     auto: true

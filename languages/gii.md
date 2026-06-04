@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ギリラ語
     auto: true
+  - translation_iso: spa
+    name: Girirra
+    auto: true
   - translation_iso: zho
     name: 吉里拉语
     auto: true

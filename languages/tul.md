@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コトゥレ語
     auto: true
+  - translation_iso: spa
+    name: Tula
+    auto: true
   - translation_iso: zho
     name: 图拉语
     auto: true

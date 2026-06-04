@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カヨ語
     auto: true
+  - translation_iso: spa
+    name: Khayo
+    auto: true
   - translation_iso: zho
     name: 卡约语
     auto: true

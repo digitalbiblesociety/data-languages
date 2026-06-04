@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ヤンベン語
     auto: true
+  - translation_iso: spa
+    name: Yamben
+    auto: true
   - translation_iso: zho
     name: 扬本语
     auto: true

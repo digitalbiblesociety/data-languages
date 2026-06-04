@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アゼラ語
+  - translation_iso: spa
+    name: Adzera
+    auto: true
   - translation_iso: zho
     name: 阿茨拉语
 rolv_dialects:

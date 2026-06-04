@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モルドバ手話
+  - translation_iso: spa
+    name: Lengua de Señas de Moldavia
+    auto: true
   - translation_iso: zho
     name: 摩尔多瓦手语
     auto: true

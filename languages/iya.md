@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イヤユ語
     auto: true
+  - translation_iso: spa
+    name: Iyayu
+    auto: true
   - translation_iso: zho
     name: 伊亚尤语
     auto: true

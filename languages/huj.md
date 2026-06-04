@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部貴陽フモン語
+  - translation_iso: spa
+    name: Hmong Guiyang septentrional
+    auto: true
   - translation_iso: zho
     name: 北贵阳苗语
     auto: true

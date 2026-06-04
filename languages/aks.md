@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アカセレム語
     auto: true
+  - translation_iso: spa
+    name: Akaselem
+    auto: true
   - translation_iso: zho
     name: 阿卡塞莱姆语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブルニー島タスマニア語
     auto: true
+  - translation_iso: spa
+    name: Tasmanio de la isla Bruny
+    auto: true
   - translation_iso: zho
     name: 布鲁尼岛塔斯马尼亚语
     auto: true

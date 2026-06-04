@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥトゥテペック・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Tututepec
+    auto: true
   - translation_iso: zho
     name: 图图特佩克米克斯特克语
     auto: true

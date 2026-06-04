@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツンニ方言
+  - translation_iso: spa
+    name: Tunni
+    auto: true
   - translation_iso: zho
     name: 吞尼语
 ---

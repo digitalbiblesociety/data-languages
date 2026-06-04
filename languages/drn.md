@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 西ダマル語
     auto: true
+  - translation_iso: spa
+    name: Damar Occidental
+    auto: true
   - translation_iso: zho
     name: 西达马尔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タズナティト語
     auto: true
+  - translation_iso: spa
+    name: Taznatit
+    auto: true
   - translation_iso: zho
     name: 塔兹纳蒂特语
     auto: true

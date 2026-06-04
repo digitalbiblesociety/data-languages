@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マリムプング語
     auto: true
+  - translation_iso: spa
+    name: Malimpung
+    auto: true
   - translation_iso: zho
     name: 玛林庞语
     auto: true

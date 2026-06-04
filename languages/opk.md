@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コプカカ語
     auto: true
+  - translation_iso: spa
+    name: Kopkaka
+    auto: true
   - translation_iso: zho
     name: 科普卡卡语
     auto: true

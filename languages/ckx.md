@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カカ語
     auto: true
+  - translation_iso: spa
+    name: Caka
+    auto: true
   - translation_iso: zho
     name: 卡卡语
     auto: true

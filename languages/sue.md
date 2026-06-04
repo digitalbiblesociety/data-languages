@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スエナ語
     auto: true
+  - translation_iso: spa
+    name: Suena
+    auto: true
   - translation_iso: zho
     name: 苏埃纳语
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: モムナ語
     auto: true
+  - translation_iso: spa
+    name: Momuna
+    auto: true
   - translation_iso: zho
     name: 莫穆纳语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パングセン語
     auto: true
+  - translation_iso: spa
+    name: Pangseng
+    auto: true
   - translation_iso: zho
     name: 庞圣语
     auto: true

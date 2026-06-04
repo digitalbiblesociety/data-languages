@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウヤナ語
+  - translation_iso: spa
+    name: Awiyaana
+    auto: true
   - translation_iso: zho
     name: 阿维亚纳语
     auto: true

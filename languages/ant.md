@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンタカリニャ語
     auto: true
+  - translation_iso: spa
+    name: Antakarinya
+    auto: true
   - translation_iso: zho
     name: 安塔卡里尼亚语
     auto: true

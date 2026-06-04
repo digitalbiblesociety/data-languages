@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マサバ語
+  - translation_iso: spa
+    name: Masaaba
+    auto: true
   - translation_iso: zho
     name: 玛萨巴语
     auto: true

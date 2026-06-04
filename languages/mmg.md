@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北アンブリム語
+  - translation_iso: spa
+    name: Ambrym del Norte
+    auto: true
   - translation_iso: zho
     name: 北安布里姆语
     auto: true

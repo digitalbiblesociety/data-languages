@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ワディヤラ・コリ語
     auto: true
+  - translation_iso: spa
+    name: Koli Wadiyara
+    auto: true
   - translation_iso: zho
     name: 瓦迪亚拉科利语
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ボガヤ語
     auto: true
+  - translation_iso: spa
+    name: Bogaya
+    auto: true
   - translation_iso: zho
     name: 博盖亚语
     auto: true

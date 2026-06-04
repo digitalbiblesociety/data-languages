@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダワワ語
     auto: true
+  - translation_iso: spa
+    name: Dawawa
+    auto: true
   - translation_iso: zho
     name: 达瓦瓦语
     auto: true

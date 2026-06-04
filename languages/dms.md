@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダンペラス語
     auto: true
+  - translation_iso: spa
+    name: Dampelas
+    auto: true
   - translation_iso: zho
     name: 丹佩拉斯语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブングク語
     auto: true
+  - translation_iso: spa
+    name: Bungku
+    auto: true
   - translation_iso: zho
     name: 邦库语
     auto: true

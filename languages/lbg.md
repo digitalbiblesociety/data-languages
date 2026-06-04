@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ラオパン語
     auto: true
+  - translation_iso: spa
+    name: Laopang
+    auto: true
   - translation_iso: zho
     name: 老潘语
 ---

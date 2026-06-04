@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イ・ワク語
     auto: true
+  - translation_iso: spa
+    name: I-Wak
+    auto: true
   - translation_iso: zho
     name: 伊-瓦克语
     auto: true

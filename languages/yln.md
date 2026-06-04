@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラングニアン・ブヤン語
     auto: true
+  - translation_iso: spa
+    name: Buyang de Langnian
+    auto: true
   - translation_iso: zho
     name: 郎念布央语
 ---

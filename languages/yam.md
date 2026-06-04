@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤンバ語
     auto: true
+  - translation_iso: spa
+    name: Yamba
+    auto: true
   - translation_iso: zho
     name: 扬巴语
     auto: true

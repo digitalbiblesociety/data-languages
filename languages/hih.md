@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パモス語
     auto: true
+  - translation_iso: spa
+    name: Pamosu
+    auto: true
   - translation_iso: zho
     name: 帕莫苏语
     auto: true

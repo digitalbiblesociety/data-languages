@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤゴミ語
     auto: true
+  - translation_iso: spa
+    name: Yagomi
+    auto: true
   - translation_iso: zho
     name: 亚戈米语
     auto: true

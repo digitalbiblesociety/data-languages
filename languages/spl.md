@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セレペット語
     auto: true
+  - translation_iso: spa
+    name: Selepet
+    auto: true
   - translation_iso: zho
     name: 塞莱佩特语
     auto: true

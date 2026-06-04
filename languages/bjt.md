@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バランタ・ガンジャ語
     auto: true
+  - translation_iso: spa
+    name: Balanta-Ganja
+    auto: true
   - translation_iso: zho
     name: 巴兰塔-甘加语
     auto: true

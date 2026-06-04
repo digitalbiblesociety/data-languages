@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トポイヨ語
     auto: true
+  - translation_iso: spa
+    name: Topoiyo
+    auto: true
   - translation_iso: zho
     name: 托波伊约语
     auto: true

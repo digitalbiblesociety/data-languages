@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: ウィル語
     auto: true
+  - translation_iso: spa
+    name: Wiru
+    auto: true
   - translation_iso: zho
     name: 威鲁语
     auto: true

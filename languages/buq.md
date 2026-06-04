@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブレム語
     auto: true
+  - translation_iso: spa
+    name: Brem
+    auto: true
   - translation_iso: zho
     name: 布雷姆语
     auto: true

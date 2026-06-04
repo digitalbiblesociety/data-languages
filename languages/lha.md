@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラハ語
+  - translation_iso: spa
+    name: Laha
+    auto: true
   - translation_iso: zho
     name: 拉哈語
 ---

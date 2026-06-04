@@ -22,6 +22,9 @@ translations:
     name: चेपाङ भाषा
   - translation_iso: jpn
     name: チェパン語
+  - translation_iso: spa
+    name: Chepang
+    auto: true
   - translation_iso: zho
     name: 切彭语
 rolv_dialects:

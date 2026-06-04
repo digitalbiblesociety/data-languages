@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラングカス語
     auto: true
+  - translation_iso: spa
+    name: Rangkas
+    auto: true
   - translation_iso: zho
     name: 让卡斯语
     auto: true

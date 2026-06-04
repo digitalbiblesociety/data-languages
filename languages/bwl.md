@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブウェラ語
     auto: true
+  - translation_iso: spa
+    name: Bwela
+    auto: true
   - translation_iso: zho
     name: 布韦拉语
     auto: true

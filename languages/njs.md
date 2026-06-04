@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニサ語
     auto: true
+  - translation_iso: spa
+    name: Nisa
+    auto: true
   - translation_iso: zho
     name: 尼萨语
     auto: true

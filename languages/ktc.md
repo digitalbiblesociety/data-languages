@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コロク語
     auto: true
+  - translation_iso: spa
+    name: Kholok
+    auto: true
   - translation_iso: zho
     name: 克霍洛克语
     auto: true

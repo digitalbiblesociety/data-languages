@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マリーノ語
     auto: true
+  - translation_iso: spa
+    name: Marino
+    auto: true
   - translation_iso: zho
     name: 玛里诺语
     auto: true

@@ -24,6 +24,9 @@ translations:
     name: 中国手話
   - translation_iso: kor
     name: 중국 수어
+  - translation_iso: spa
+    name: Lengua de Señas China
+    auto: true
   - translation_iso: zho
     name: 中国手语
 rolv_dialects:

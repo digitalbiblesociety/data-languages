@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エスマ語
+  - translation_iso: spa
+    name: Esuma
+    auto: true
   - translation_iso: zho
     name: 埃苏马语
     auto: true

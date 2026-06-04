@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グワムヒ・ウリ語
     auto: true
+  - translation_iso: spa
+    name: Gwamhi-Wuri
+    auto: true
   - translation_iso: zho
     name: 瓜姆希-乌里语
     auto: true

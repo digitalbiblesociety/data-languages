@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ティハルテペク・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Tijaltepec
+    auto: true
   - translation_iso: zho
     name: 蒂亚尔特佩克-米斯特克语
     auto: true

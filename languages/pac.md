@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パコー語
     auto: true
+  - translation_iso: spa
+    name: Pacoh
+    auto: true
   - translation_iso: zho
     name: 帕戈语
 rolv_dialects:

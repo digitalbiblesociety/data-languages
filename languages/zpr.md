@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サンティアゴ・サニカ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Santiago Xánica
+    auto: true
   - translation_iso: zho
     name: 圣地亚哥哈尼卡萨波特克语
     auto: true

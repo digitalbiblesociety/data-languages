@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レンバルンガ語
     auto: true
+  - translation_iso: spa
+    name: Rembarrnga
+    auto: true
   - translation_iso: zho
     name: 仁巴伦加语
     auto: true

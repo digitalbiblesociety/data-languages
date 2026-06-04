@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タセ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Tase
+    auto: true
   - translation_iso: zho
     name: 唐薩語
 rolv_dialects:

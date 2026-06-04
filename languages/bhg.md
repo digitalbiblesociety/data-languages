@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビナンデレ語
     auto: true
+  - translation_iso: spa
+    name: Binandere
+    auto: true
   - translation_iso: zho
     name: 比南德雷语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フィエ語
     auto: true
+  - translation_iso: spa
+    name: Phuie
+    auto: true
   - translation_iso: zho
     name: 普伊语
     auto: true

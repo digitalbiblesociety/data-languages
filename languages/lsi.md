@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラシ語
     auto: true
+  - translation_iso: spa
+    name: Lashi
+    auto: true
   - translation_iso: zho
     name: 勒期语
 rolv_dialects:

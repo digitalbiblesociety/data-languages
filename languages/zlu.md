@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ズル語
     auto: true
+  - translation_iso: spa
+    name: Zul
+    auto: true
   - translation_iso: zho
     name: 祖尔语
     auto: true

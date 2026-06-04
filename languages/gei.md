@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゲベ語
     auto: true
+  - translation_iso: spa
+    name: Gebe
+    auto: true
   - translation_iso: zho
     name: 格贝语
     auto: true

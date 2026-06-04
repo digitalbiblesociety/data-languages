@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンダム語
+  - translation_iso: spa
+    name: Ndam
+    auto: true
   - translation_iso: zho
     name: 恩丹語
 rolv_dialects:

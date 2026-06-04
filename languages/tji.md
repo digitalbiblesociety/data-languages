@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プリ語
+  - translation_iso: spa
+    name: Tujia del Norte
+    auto: true
   - translation_iso: zho
     name: 北部土家语
 rolv_dialects:

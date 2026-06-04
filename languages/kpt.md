@@ -25,6 +25,9 @@ translations:
     name: カラタ語
   - translation_iso: kor
     name: 카라타어
+  - translation_iso: spa
+    name: Karata
+    auto: true
   - translation_iso: zho
     name: 卡拉塔语
     auto: true

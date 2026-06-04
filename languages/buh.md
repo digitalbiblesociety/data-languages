@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ユンノ・ブヌ語
     auto: true
+  - translation_iso: spa
+    name: Bunu Younuo
+    auto: true
   - translation_iso: zho
     name: 優諾語
 ---

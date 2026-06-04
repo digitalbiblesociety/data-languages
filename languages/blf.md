@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブオル語
     auto: true
+  - translation_iso: spa
+    name: Buol
+    auto: true
   - translation_iso: zho
     name: 布奥尔语
     auto: true

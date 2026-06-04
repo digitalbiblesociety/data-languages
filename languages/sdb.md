@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シャバク語
+  - translation_iso: spa
+    name: Shabak
+    auto: true
   - translation_iso: zho
     name: 沙巴基語
 ---

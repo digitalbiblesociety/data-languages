@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シュア語
+  - translation_iso: spa
+    name: Shua
+    auto: true
   - translation_iso: zho
     name: 舒瓦语
     auto: true

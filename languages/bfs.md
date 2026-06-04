@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南バイ語
     auto: true
+  - translation_iso: spa
+    name: Bai del sur
+    auto: true
   - translation_iso: zho
     name: 南白族语
     auto: true

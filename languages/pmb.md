@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パンビア語
     auto: true
+  - translation_iso: spa
+    name: Pambia
+    auto: true
   - translation_iso: zho
     name: 潘比亞語
 ---

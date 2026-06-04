@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アクク語
     auto: true
+  - translation_iso: spa
+    name: Akuku
+    auto: true
   - translation_iso: zho
     name: 阿库库语
     auto: true

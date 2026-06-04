@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラクウェット語
+  - translation_iso: spa
+    name: Markweeta
+    auto: true
   - translation_iso: zho
     name: 马克韦塔语
     auto: true

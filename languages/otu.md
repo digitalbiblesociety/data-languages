@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オトゥケ語
     auto: true
+  - translation_iso: spa
+    name: Otuke
+    auto: true
   - translation_iso: zho
     name: 奥图克语
     auto: true

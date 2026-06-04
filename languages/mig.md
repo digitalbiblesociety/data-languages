@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サン・ミゲル・エル・グランデ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de San Miguel el Grande
+    auto: true
   - translation_iso: zho
     name: 圣米格尔埃尔格兰德混合语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラランツカ・マレー語
     auto: true
+  - translation_iso: spa
+    name: Malayo de Larantuka
+    auto: true
   - translation_iso: zho
     name: Larantuka話
 ---

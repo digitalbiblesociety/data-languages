@@ -21,6 +21,9 @@ translations:
     name: कालामी भाषा
   - translation_iso: jpn
     name: カラーム語
+  - translation_iso: spa
+    name: Kalami
+    auto: true
   - translation_iso: zho
     name: 卡拉米语
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムプムポン語
     auto: true
+  - translation_iso: spa
+    name: Mpumpong
+    auto: true
   - translation_iso: zho
     name: 姆普姆邦语
     auto: true

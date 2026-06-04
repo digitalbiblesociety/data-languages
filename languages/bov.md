@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボウィリ語
+  - translation_iso: spa
+    name: Tuwuli
+    auto: true
   - translation_iso: zho
     name: 图武利语
     auto: true

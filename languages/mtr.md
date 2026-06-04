@@ -23,6 +23,9 @@ translations:
     name: मेवाड़ी भाषा
   - translation_iso: jpn
     name: メワール語
+  - translation_iso: spa
+    name: Mewari
+    auto: true
   - translation_iso: zho
     name: 梅瓦尔语
 rolv_dialects:

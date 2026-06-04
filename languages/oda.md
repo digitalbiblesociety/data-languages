@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: オドゥト語
     auto: true
+  - translation_iso: spa
+    name: Odut
+    auto: true
   - translation_iso: zho
     name: 奥杜特语
     auto: true

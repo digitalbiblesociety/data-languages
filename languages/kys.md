@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バラム・カヤン語
     auto: true
+  - translation_iso: spa
+    name: Kayan del Baram
+    auto: true
   - translation_iso: zho
     name: 巴拉姆卡扬语
     auto: true

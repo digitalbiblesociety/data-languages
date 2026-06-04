@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴンジャ語
+  - translation_iso: spa
+    name: Gonja
+    auto: true
   - translation_iso: zho
     name: 貢加語
 rolv_dialects:

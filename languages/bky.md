@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボキ語
+  - translation_iso: spa
+    name: Bokyi
+    auto: true
   - translation_iso: zho
     name: 博基语
     auto: true

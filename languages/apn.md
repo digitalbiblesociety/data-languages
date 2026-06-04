@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アピナエ語
     auto: true
+  - translation_iso: spa
+    name: Apinayé
+    auto: true
   - translation_iso: zho
     name: 阿皮纳耶语
     auto: true

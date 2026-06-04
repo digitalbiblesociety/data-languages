@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダバ語
     auto: true
+  - translation_iso: spa
+    name: Samo
+    auto: true
   - translation_iso: zho
     name: 萨莫语
     auto: true

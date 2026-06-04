@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南東パシャイ語
     auto: true
+  - translation_iso: spa
+    name: Pashai del sureste
+    auto: true
   - translation_iso: zho
     name: 东南帕沙伊语
 rolv_dialects:

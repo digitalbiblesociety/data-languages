@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガバヤ語
     auto: true
+  - translation_iso: spa
+    name: Gbaya (Sudán)
+    auto: true
   - translation_iso: zho
     name: 布亚语(苏丹)
     auto: true

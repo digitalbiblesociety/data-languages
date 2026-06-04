@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラマトゥカ語
     auto: true
+  - translation_iso: spa
+    name: Lamatuka
+    auto: true
   - translation_iso: zho
     name: 拉玛图卡语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケレウォ語
     auto: true
+  - translation_iso: spa
+    name: Kerewo
+    auto: true
   - translation_iso: zho
     name: 克雷沃语
     auto: true

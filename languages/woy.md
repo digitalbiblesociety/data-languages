@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウェイトー語
+  - translation_iso: spa
+    name: Weyto
+    auto: true
   - translation_iso: zho
     name: 韦托语
     auto: true

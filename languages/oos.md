@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 古オセチア語
     auto: true
+  - translation_iso: spa
+    name: Osético antiguo
+    auto: true
   - translation_iso: zho
     name: 古奥塞梯语
     auto: true

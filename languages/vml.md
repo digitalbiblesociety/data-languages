@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マルガナ語
     auto: true
+  - translation_iso: spa
+    name: Malgana
+    auto: true
   - translation_iso: zho
     name: 马尔加纳语
 ---

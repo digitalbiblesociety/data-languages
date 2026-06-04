@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボグホム語
     auto: true
+  - translation_iso: spa
+    name: Boghom
+    auto: true
   - translation_iso: zho
     name: 博戈姆语
     auto: true

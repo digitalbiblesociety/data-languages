@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: ムベッサ語
     auto: true
+  - translation_iso: spa
+    name: Mbessa
+    auto: true
   - translation_iso: zho
     name: 姆贝萨语
     auto: true

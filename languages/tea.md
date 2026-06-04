@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テミアル語
     auto: true
+  - translation_iso: spa
+    name: Temiar
+    auto: true
   - translation_iso: zho
     name: 特米亚尔语
 rolv_dialects:

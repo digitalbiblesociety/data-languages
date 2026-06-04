@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エデ・イジェ語
     auto: true
+  - translation_iso: spa
+    name: Ede Ije
+    auto: true
   - translation_iso: zho
     name: 埃德伊杰语
     auto: true

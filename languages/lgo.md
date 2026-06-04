@@ -17,6 +17,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ランゴ語
+  - translation_iso: spa
+    name: Lango
+    auto: true
   - translation_iso: zho
     name: 兰戈语
     auto: true

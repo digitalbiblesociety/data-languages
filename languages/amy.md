@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アミ語
     auto: true
+  - translation_iso: spa
+    name: Ami
+    auto: true
   - translation_iso: zho
     name: 阿米语
     auto: true

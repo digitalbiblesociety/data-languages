@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゴアリア語
     auto: true
+  - translation_iso: spa
+    name: Goaria
+    auto: true
   - translation_iso: zho
     name: 戈阿里亚语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テルナテーニョ語
     auto: true
+  - translation_iso: spa
+    name: Ternateño
+    auto: true
   - translation_iso: zho
     name: 特纳特尼奥语
     auto: true

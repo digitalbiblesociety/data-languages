@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ナリナリ語
     auto: true
+  - translation_iso: spa
+    name: Nari Nari
+    auto: true
   - translation_iso: zho
     name: 纳里纳里语
     auto: true

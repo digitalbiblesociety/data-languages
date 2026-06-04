@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バンカン・テイ・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Bankan Tey
+    auto: true
   - translation_iso: zho
     name: 班坎特伊多贡语
     auto: true

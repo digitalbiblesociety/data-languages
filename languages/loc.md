@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イノンハン語
     auto: true
+  - translation_iso: spa
+    name: Inonhan
+    auto: true
   - translation_iso: zho
     name: 伊农汉语
     auto: true

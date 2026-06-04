@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グフ・サマネ語
     auto: true
+  - translation_iso: spa
+    name: Guhu-Samane
+    auto: true
   - translation_iso: zho
     name: 古湖-珊曼语
 rolv_dialects:

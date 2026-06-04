@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シンディ・ビル語
     auto: true
+  - translation_iso: spa
+    name: Bhil sindhi
+    auto: true
   - translation_iso: zho
     name: 辛德希-比尔语
     auto: true

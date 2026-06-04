@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジマカニ語
     auto: true
+  - translation_iso: spa
+    name: Zimakani
+    auto: true
   - translation_iso: zho
     name: 齐马卡尼语
     auto: true

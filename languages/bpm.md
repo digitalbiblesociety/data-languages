@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビヨム語
     auto: true
+  - translation_iso: spa
+    name: Biyom
+    auto: true
   - translation_iso: zho
     name: 比约姆语
     auto: true

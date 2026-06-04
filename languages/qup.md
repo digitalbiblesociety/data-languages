@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南パスタサキチュア語
     auto: true
+  - translation_iso: spa
+    name: Quechua del Pastaza meridional
+    auto: true
   - translation_iso: zho
     name: 南帕斯塔萨基楚亚语
     auto: true

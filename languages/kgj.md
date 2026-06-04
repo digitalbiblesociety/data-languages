@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガマレ・ハム語
     auto: true
+  - translation_iso: spa
+    name: Kham Gamale
+    auto: true
   - translation_iso: zho
     name: 盖马勒卡姆语
     auto: true

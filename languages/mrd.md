@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・マガル語
     auto: true
+  - translation_iso: spa
+    name: Magar Occidental
+    auto: true
   - translation_iso: zho
     name: 西部迈格语
     auto: true

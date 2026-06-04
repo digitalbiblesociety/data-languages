@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トロム語
     auto: true
+  - translation_iso: spa
+    name: Toram
+    auto: true
   - translation_iso: zho
     name: 托兰语
     auto: true

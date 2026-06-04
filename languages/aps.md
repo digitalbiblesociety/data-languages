@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アロップシッサーノ語
     auto: true
+  - translation_iso: spa
+    name: Arop-Sissano
+    auto: true
   - translation_iso: zho
     name: 阿罗普-西萨诺语
     auto: true

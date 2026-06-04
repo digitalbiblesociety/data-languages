@@ -24,6 +24,9 @@ translations:
     name: コダヴァ語
   - translation_iso: kor
     name: 코다바어
+  - translation_iso: spa
+    name: Kodava
+    auto: true
   - translation_iso: zho
     name: 科达瓦语
 ---

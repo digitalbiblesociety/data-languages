@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サンタ・マリア・ラ・アルタ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl de Santa María la Alta
+    auto: true
   - translation_iso: zho
     name: 圣玛丽亚拉阿尔塔纳瓦特尔语
     auto: true

@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンジャク語
+  - translation_iso: spa
+    name: Mandjak
+    auto: true
   - translation_iso: zho
     name: 曼贾克语
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シアルム語
     auto: true
+  - translation_iso: spa
+    name: Sialum
+    auto: true
   - translation_iso: zho
     name: 西亚卢姆语
     auto: true

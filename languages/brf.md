@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベラ語
     auto: true
+  - translation_iso: spa
+    name: Bera
+    auto: true
   - translation_iso: zho
     name: 贝拉语
     auto: true

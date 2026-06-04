@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アボ語
     auto: true
+  - translation_iso: spa
+    name: Ukwuani-Aboh-Ndoni
+    auto: true
   - translation_iso: zho
     name: 乌克瓦尼-阿博-恩多尼语
     auto: true

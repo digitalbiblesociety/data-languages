@@ -18,6 +18,9 @@ translations:
     name: 言語コードのない言語
   - translation_iso: kor
     name: 언어 코드가 없는 언어
+  - translation_iso: spa
+    name: Lenguas no codificadas
+    auto: true
   - translation_iso: zho
     name: 无语言代码的语言
 ---

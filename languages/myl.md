@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: モマ語
     auto: true
+  - translation_iso: spa
+    name: Moma
+    auto: true
   - translation_iso: zho
     name: 莫玛语
     auto: true

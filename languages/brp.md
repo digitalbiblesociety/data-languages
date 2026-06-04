@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バラパシ語
     auto: true
+  - translation_iso: spa
+    name: Barapasi
+    auto: true
   - translation_iso: zho
     name: 巴拉帕西语
     auto: true

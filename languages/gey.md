@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エーニャ語
     auto: true
+  - translation_iso: spa
+    name: Enya
+    auto: true
   - translation_iso: zho
     name: 埃尼亚语
     auto: true

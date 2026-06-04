@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヴェムゴ・マバス語
     auto: true
+  - translation_iso: spa
+    name: Vemgo-Mabas
+    auto: true
   - translation_iso: zho
     name: 韦姆戈-玛巴斯语
     auto: true

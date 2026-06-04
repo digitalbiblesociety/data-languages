@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マランクラヴァン語
     auto: true
+  - translation_iso: spa
+    name: Malankuravan
+    auto: true
   - translation_iso: zho
     name: 玛兰库拉万语
     auto: true

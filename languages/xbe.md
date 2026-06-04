@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビガンバル語
     auto: true
+  - translation_iso: spa
+    name: Bigambal
+    auto: true
   - translation_iso: zho
     name: 比加姆巴尔语
     auto: true

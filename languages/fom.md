@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: フォマ語
     auto: true
+  - translation_iso: spa
+    name: Foma
+    auto: true
   - translation_iso: zho
     name: 福玛语
     auto: true

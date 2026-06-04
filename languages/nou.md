@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エワゲ・ノツ語
     auto: true
+  - translation_iso: spa
+    name: Ewage-Notu
+    auto: true
   - translation_iso: zho
     name: 埃瓦热-诺图语
     auto: true

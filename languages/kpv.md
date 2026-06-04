@@ -25,6 +25,9 @@ translations:
     name: コミ・ジリエーン語
   - translation_iso: kor
     name: 코미지리안어
+  - translation_iso: spa
+    name: Komi-Zyrian
+    auto: true
   - translation_iso: zho
     name: 科米-兹梁语
 rolv_dialects:

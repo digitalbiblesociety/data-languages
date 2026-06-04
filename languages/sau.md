@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サワイ語
     auto: true
+  - translation_iso: spa
+    name: Saleman
+    auto: true
   - translation_iso: zho
     name: 萨莱曼语
     auto: true

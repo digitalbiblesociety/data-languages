@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラムー語
     auto: true
+  - translation_iso: spa
+    name: Lamu
+    auto: true
   - translation_iso: zho
     name: 拉姆语
 ---

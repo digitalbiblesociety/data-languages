@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クテプ語
     auto: true
+  - translation_iso: spa
+    name: Kutep
+    auto: true
   - translation_iso: zho
     name: 库特普语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フィパ語
+  - translation_iso: spa
+    name: Fipa
+    auto: true
   - translation_iso: zho
     name: Fipa語
 rolv_dialects:

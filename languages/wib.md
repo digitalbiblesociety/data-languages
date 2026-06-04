@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南トゥシアン語
     auto: true
+  - translation_iso: spa
+    name: Toussian del Sur
+    auto: true
   - translation_iso: zho
     name: 南图西亚语
     auto: true

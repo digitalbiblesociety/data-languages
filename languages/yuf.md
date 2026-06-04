@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ハヴァスパイ-ワラパイ-ヤヴァパイ語
     auto: true
+  - translation_iso: spa
+    name: Havasupai-Walapai-Yavapai
+    auto: true
   - translation_iso: zho
     name: 哈瓦苏派-瓦拉派-亚瓦派语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カニテ語
+  - translation_iso: spa
+    name: Kanite
+    auto: true
   - translation_iso: zho
     name: 卡尼特语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ススアミ語
     auto: true
+  - translation_iso: spa
+    name: Susuami
+    auto: true
   - translation_iso: zho
     name: 苏苏阿米语
     auto: true

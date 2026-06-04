@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラッカ・クレオール・ポルトガル語
+  - translation_iso: spa
+    name: Criollo portugués de Malaca
+    auto: true
   - translation_iso: zho
     name: 克里斯坦语
 ---

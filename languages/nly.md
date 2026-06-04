@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニャマル語
     auto: true
+  - translation_iso: spa
+    name: Nyamal
+    auto: true
   - translation_iso: zho
     name: 尼亚玛尔语
     auto: true

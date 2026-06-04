@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カスア語
     auto: true
+  - translation_iso: spa
+    name: Kasua
+    auto: true
   - translation_iso: zho
     name: 卡蘇阿語
 ---

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケダ・マレー語
+  - translation_iso: spa
+    name: Malayo de Kedah
+    auto: true
   - translation_iso: zho
     name: 吉打马来语
 rolv_dialects:

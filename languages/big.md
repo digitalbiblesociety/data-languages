@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ビアンガイ語
     auto: true
+  - translation_iso: spa
+    name: Biangai
+    auto: true
   - translation_iso: zho
     name: 比昂盖语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タラオ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Tarao Naga
+    auto: true
   - translation_iso: zho
     name: 塔劳纳加语
     auto: true

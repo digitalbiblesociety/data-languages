@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 西スバノン語
     auto: true
+  - translation_iso: spa
+    name: Subanen occidental
+    auto: true
   - translation_iso: zho
     name: 西苏巴嫩语
     auto: true

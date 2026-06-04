@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 中央カガヤン・アグタ語
     auto: true
+  - translation_iso: spa
+    name: Agta del Cagayán central
+    auto: true
   - translation_iso: zho
     name: 中卡加延艾塔语
     auto: true

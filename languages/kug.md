@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クパ語
     auto: true
+  - translation_iso: spa
+    name: Kupa
+    auto: true
   - translation_iso: zho
     name: 库帕语
     auto: true

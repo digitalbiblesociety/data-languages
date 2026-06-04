@@ -24,6 +24,9 @@ translations:
     name: トファ語
   - translation_iso: kor
     name: 토파어
+  - translation_iso: spa
+    name: Karagas
+    auto: true
   - translation_iso: zho
     name: 图法语
 ---

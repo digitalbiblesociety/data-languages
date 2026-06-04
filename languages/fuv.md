@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナイジェリア・フラニ語
+  - translation_iso: spa
+    name: Fulfulde nigeriano
+    auto: true
   - translation_iso: zho
     name: 尼日利亚富尔富尔德语
     auto: true

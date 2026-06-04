@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: カシュイアナ語
     auto: true
+  - translation_iso: spa
+    name: Sikiana
+    auto: true
   - translation_iso: zho
     name: 西基亚纳语
     auto: true

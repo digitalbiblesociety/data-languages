@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: マニカ語
     auto: true
+  - translation_iso: spa
+    name: Manyika
+    auto: true
   - translation_iso: zho
     name: 马尼卡方言
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: Mt.イラヤ・アグタ語
     auto: true
+  - translation_iso: spa
+    name: Agta del monte Iraya
+    auto: true
   - translation_iso: zho
     name: 伊拉亚阿格塔山语
     auto: true

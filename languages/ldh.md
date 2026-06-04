@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラムジャ・デンサ・トラ語
     auto: true
+  - translation_iso: spa
+    name: Lamja-Dengsa-Tola
+    auto: true
   - translation_iso: zho
     name: 拉姆加-登萨-托拉语
     auto: true

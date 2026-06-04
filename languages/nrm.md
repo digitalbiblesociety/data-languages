@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナロム語
     auto: true
+  - translation_iso: spa
+    name: Narom
+    auto: true
   - translation_iso: zho
     name: 纳洛姆语
 rolv_dialects:

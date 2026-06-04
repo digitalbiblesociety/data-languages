@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: タボ語
     auto: true
+  - translation_iso: spa
+    name: Tabo
+    auto: true
   - translation_iso: zho
     name: 塔博语
     auto: true

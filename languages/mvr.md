@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マラウ語
     auto: true
+  - translation_iso: spa
+    name: Marau
+    auto: true
   - translation_iso: zho
     name: 玛劳语
     auto: true

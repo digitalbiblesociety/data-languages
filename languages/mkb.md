@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マル・パハリア語
     auto: true
+  - translation_iso: spa
+    name: Mal Paharia
+    auto: true
   - translation_iso: zho
     name: 玛尔帕哈里亚语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マルトゥフニラ語
     auto: true
+  - translation_iso: spa
+    name: Martuthunira
+    auto: true
   - translation_iso: zho
     name: 马图苏尼拉语
 ---

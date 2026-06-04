@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ロングメイ・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Rongmei
+    auto: true
   - translation_iso: zho
     name: 容梅伊纳加语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アヌフォ語
     auto: true
+  - translation_iso: spa
+    name: Anufo
+    auto: true
   - translation_iso: zho
     name: 阿努夫语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: テナ低地キチュア語
     auto: true
+  - translation_iso: spa
+    name: Quichua bajo de Tena
+    auto: true
   - translation_iso: zho
     name: 特纳低地基楚亚语
     auto: true

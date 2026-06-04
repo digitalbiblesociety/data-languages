@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨルダン手話
+  - translation_iso: spa
+    name: Lengua de señas jordana
+    auto: true
   - translation_iso: zho
     name: 约旦手语
 ---

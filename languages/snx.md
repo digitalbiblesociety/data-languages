@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソングン語
     auto: true
+  - translation_iso: spa
+    name: Sam
+    auto: true
   - translation_iso: zho
     name: 萨姆语
     auto: true

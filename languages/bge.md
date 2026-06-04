@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バウリア語
     auto: true
+  - translation_iso: spa
+    name: Bauria
+    auto: true
   - translation_iso: zho
     name: 鲍里亚语
     auto: true

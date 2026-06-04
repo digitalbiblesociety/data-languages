@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エヴァント語
     auto: true
+  - translation_iso: spa
+    name: Evant
+    auto: true
   - translation_iso: zho
     name: 埃万特语
     auto: true

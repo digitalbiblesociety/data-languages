@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バクウェリ語
+  - translation_iso: spa
+    name: Mokpwe
+    auto: true
   - translation_iso: zho
     name: 莫克普韦语
     auto: true

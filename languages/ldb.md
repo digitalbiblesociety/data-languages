@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥヤ語
     auto: true
+  - translation_iso: spa
+    name: Dũya
+    auto: true
   - translation_iso: zho
     name: 杜亚语
     auto: true

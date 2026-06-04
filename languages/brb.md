@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラヴェ語
     auto: true
+  - translation_iso: spa
+    name: Lave
+    auto: true
   - translation_iso: zho
     name: 布劳语
 rolv_dialects:

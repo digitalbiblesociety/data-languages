@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ムベレ語
     auto: true
+  - translation_iso: spa
+    name: Mbere
+    auto: true
   - translation_iso: zho
     name: 姆贝雷语
     auto: true

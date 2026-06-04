@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コワキ語
     auto: true
+  - translation_iso: spa
+    name: Kowaki
+    auto: true
   - translation_iso: zho
     name: 科瓦基语
     auto: true

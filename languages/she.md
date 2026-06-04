@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シャック語
     auto: true
+  - translation_iso: spa
+    name: Sheko
+    auto: true
   - translation_iso: zho
     name: 谢科语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤラワタ語
     auto: true
+  - translation_iso: spa
+    name: Yarawata
+    auto: true
   - translation_iso: zho
     name: 亚拉瓦塔语
     auto: true

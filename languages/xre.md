@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クレイエ語
     auto: true
+  - translation_iso: spa
+    name: Kreye
+    auto: true
   - translation_iso: zho
     name: 克雷耶语
     auto: true

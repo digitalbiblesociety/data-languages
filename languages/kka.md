@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カカンダ語
     auto: true
+  - translation_iso: spa
+    name: Kakanda
+    auto: true
   - translation_iso: zho
     name: 卡坎达语
     auto: true

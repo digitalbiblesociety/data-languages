@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クク・ヤウ語
     auto: true
+  - translation_iso: spa
+    name: "Kuuku-Ya'u"
+    auto: true
   - translation_iso: zho
     name: 库库-亚乌语
     auto: true

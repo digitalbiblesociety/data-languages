@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビルバ語
     auto: true
+  - translation_iso: spa
+    name: Bilba
+    auto: true
   - translation_iso: zho
     name: 比尔巴语
     auto: true

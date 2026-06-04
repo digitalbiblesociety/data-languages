@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブナラ語
     auto: true
+  - translation_iso: spa
+    name: Ngardi
+    auto: true
   - translation_iso: zho
     name: 恩加迪语
     auto: true

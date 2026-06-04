@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クル語
     auto: true
+  - translation_iso: spa
+    name: Kur
+    auto: true
   - translation_iso: zho
     name: 库尔语
     auto: true

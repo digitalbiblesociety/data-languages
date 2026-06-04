@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユガンバリック諸語
+  - translation_iso: spa
+    name: Yugambal
+    auto: true
   - translation_iso: zho
     name: 尤加姆巴尔语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ファラム語
+  - translation_iso: spa
+    name: Chin Falam
+    auto: true
   - translation_iso: zho
     name: 法兰钦语
     auto: true

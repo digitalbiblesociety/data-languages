@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アリブワウング語
     auto: true
+  - translation_iso: spa
+    name: Aribwaung
+    auto: true
   - translation_iso: zho
     name: 阿里布瓦翁语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オロウェ語
     auto: true
+  - translation_iso: spa
+    name: Orowe
+    auto: true
   - translation_iso: zho
     name: 奥罗韦语
     auto: true

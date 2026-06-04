@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リクム語
     auto: true
+  - translation_iso: spa
+    name: Likum
+    auto: true
   - translation_iso: zho
     name: 利库姆语
     auto: true

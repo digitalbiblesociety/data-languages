@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドゥスン・マラン語
     auto: true
+  - translation_iso: spa
+    name: Dusun Malang
+    auto: true
   - translation_iso: zho
     name: 杜顺玛朗语
     auto: true

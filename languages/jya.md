@@ -20,6 +20,9 @@ translations:
     name: ギャロン語
   - translation_iso: kor
     name: 걀롱어
+  - translation_iso: spa
+    name: Jiarong
+    auto: true
   - translation_iso: zho
     name: 嘉绒语
 rolv_dialects:

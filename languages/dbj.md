@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イダアン語
+  - translation_iso: spa
+    name: "Ida'an"
+    auto: true
   - translation_iso: zho
     name: 伊达安语
     auto: true

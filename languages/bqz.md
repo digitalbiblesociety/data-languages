@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バカカ語
     auto: true
+  - translation_iso: spa
+    name: Bakaka
+    auto: true
   - translation_iso: zho
     name: 巴卡卡语
     auto: true

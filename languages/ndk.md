@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンダカ語
+  - translation_iso: spa
+    name: Ndaka
+    auto: true
   - translation_iso: zho
     name: 恩达卡语
     auto: true

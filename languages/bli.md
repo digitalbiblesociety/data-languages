@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボリア語
     auto: true
+  - translation_iso: spa
+    name: Bolia
+    auto: true
   - translation_iso: zho
     name: 博利亚语
     auto: true

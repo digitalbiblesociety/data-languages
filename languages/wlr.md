@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワイラパ語
     auto: true
+  - translation_iso: spa
+    name: Wailapa
+    auto: true
   - translation_iso: zho
     name: 瓦伊拉帕语
     auto: true

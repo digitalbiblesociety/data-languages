@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: イヒエブベ語
     auto: true
+  - translation_iso: spa
+    name: Ihievbe
+    auto: true
   - translation_iso: zho
     name: 伊希耶夫贝语
     auto: true

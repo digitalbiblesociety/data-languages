@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギニアビサウ手話
+  - translation_iso: spa
+    name: Lengua de señas de Guinea-Bisáu
+    auto: true
   - translation_iso: zho
     name: 几内亚比绍手语
     auto: true

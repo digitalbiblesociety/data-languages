@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベラウ・マレー語
+  - translation_iso: spa
+    name: Malayo de Berau
+    auto: true
   - translation_iso: zho
     name: 伯勞馬來語
 ---

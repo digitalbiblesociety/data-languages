@@ -16,6 +16,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古典サンスクリット
+  - translation_iso: spa
+    name: Sánscrito clásico
+    auto: true
   - translation_iso: zho
     name: 古典梵语
 ---

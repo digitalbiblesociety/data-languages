@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パングワ語
     auto: true
+  - translation_iso: spa
+    name: Pangwa
+    auto: true
   - translation_iso: zho
     name: 潘瓜语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: セカ語
     auto: true
+  - translation_iso: spa
+    name: Sekar
+    auto: true
   - translation_iso: zho
     name: 塞卡尔语
     auto: true

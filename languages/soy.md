@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソルバ語
     auto: true
+  - translation_iso: spa
+    name: Miyobe
+    auto: true
   - translation_iso: zho
     name: 米约贝语
     auto: true

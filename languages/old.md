@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モチ語
     auto: true
+  - translation_iso: spa
+    name: Mochi
+    auto: true
   - translation_iso: zho
     name: 莫奇语
     auto: true

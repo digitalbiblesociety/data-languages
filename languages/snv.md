@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メラウ語
     auto: true
+  - translation_iso: spa
+    name: "Sa'ban"
+    auto: true
   - translation_iso: zho
     name: 萨班语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フラ語
     auto: true
+  - translation_iso: spa
+    name: Hula
+    auto: true
   - translation_iso: zho
     name: 胡拉语
     auto: true

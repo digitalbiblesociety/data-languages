@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ヤルスン語
     auto: true
+  - translation_iso: spa
+    name: Yarsun
+    auto: true
   - translation_iso: zho
     name: 亚尔松语
     auto: true

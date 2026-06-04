@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナシオイ語
+  - translation_iso: spa
+    name: Naasioi
+    auto: true
   - translation_iso: zho
     name: 纳希奥伊语
 rolv_dialects:

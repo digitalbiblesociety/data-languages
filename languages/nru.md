@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナルア語
     auto: true
+  - translation_iso: spa
+    name: Narua
+    auto: true
   - translation_iso: zho
     name: 东部方言
 ---

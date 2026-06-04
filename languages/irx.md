@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カムベラウ語
     auto: true
+  - translation_iso: spa
+    name: Kamberau
+    auto: true
   - translation_iso: zho
     name: 卡姆贝劳语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングインド語
     auto: true
+  - translation_iso: spa
+    name: Ngindo
+    auto: true
   - translation_iso: zho
     name: 恩因多语
     auto: true

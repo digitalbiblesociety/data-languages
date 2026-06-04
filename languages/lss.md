@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラシ語
     auto: true
+  - translation_iso: spa
+    name: Lasi
+    auto: true
   - translation_iso: zho
     name: 拉西语
     auto: true

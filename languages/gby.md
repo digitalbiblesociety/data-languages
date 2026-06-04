@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グワリ語
+  - translation_iso: spa
+    name: Gbari
+    auto: true
   - translation_iso: zho
     name: 加巴里语
     auto: true

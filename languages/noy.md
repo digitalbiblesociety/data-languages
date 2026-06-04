@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノイ語
+  - translation_iso: spa
+    name: Noy
+    auto: true
   - translation_iso: zho
     name: 诺伊语
     auto: true

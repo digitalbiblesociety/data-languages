@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソタ・カヌム語
     auto: true
+  - translation_iso: spa
+    name: Kanum Sota
+    auto: true
   - translation_iso: zho
     name: 索塔卡努姆语
     auto: true

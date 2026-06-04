@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギニア手話
+  - translation_iso: spa
+    name: Lengua de señas guineana
+    auto: true
   - translation_iso: zho
     name: 几内亚手语
     auto: true

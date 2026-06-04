@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フィラン語
     auto: true
+  - translation_iso: spa
+    name: Firan
+    auto: true
   - translation_iso: zho
     name: 菲兰语
     auto: true

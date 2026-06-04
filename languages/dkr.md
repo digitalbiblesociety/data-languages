@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クイジャウ語
     auto: true
+  - translation_iso: spa
+    name: Kuijau
+    auto: true
   - translation_iso: zho
     name: 库伊尧语
     auto: true

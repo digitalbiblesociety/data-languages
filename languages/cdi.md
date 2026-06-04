@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チョドリ語
     auto: true
+  - translation_iso: spa
+    name: Chodri
+    auto: true
   - translation_iso: zho
     name: 乔德里语
     auto: true

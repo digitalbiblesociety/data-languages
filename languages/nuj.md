@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Nyole語
+  - translation_iso: spa
+    name: Nyole
+    auto: true
   - translation_iso: zho
     name: 尼奥莱语
     auto: true

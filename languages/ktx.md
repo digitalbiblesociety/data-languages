@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カシャラリ語
     auto: true
+  - translation_iso: spa
+    name: Kaxararí
+    auto: true
   - translation_iso: zho
     name: 卡沙拉里语
     auto: true

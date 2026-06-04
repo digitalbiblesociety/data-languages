@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブキット・マレー語
+  - translation_iso: spa
+    name: Malayo Bukit
+    auto: true
   - translation_iso: zho
     name: 布基特马来语
     auto: true

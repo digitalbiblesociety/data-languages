@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウクペットエホム語
     auto: true
+  - translation_iso: spa
+    name: Ukpet-Ehom
+    auto: true
   - translation_iso: zho
     name: 乌克佩特-埃霍姆语
     auto: true

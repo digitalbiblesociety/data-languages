@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 東南イジョ語
     auto: true
+  - translation_iso: spa
+    name: Ijo Suroriental
+    auto: true
   - translation_iso: zho
     name: 东南伊乔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラザジェルディ語
     auto: true
+  - translation_iso: spa
+    name: Razajerdi
+    auto: true
   - translation_iso: zho
     name: 拉扎杰尔迪语
     auto: true

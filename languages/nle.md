@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東ニャラ語
     auto: true
+  - translation_iso: spa
+    name: Nyala oriental
+    auto: true
   - translation_iso: zho
     name: 东尼亚拉语
     auto: true

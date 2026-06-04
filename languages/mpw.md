@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マピディア語
+  - translation_iso: spa
+    name: Mapidian
+    auto: true
   - translation_iso: zho
     name: 玛皮迪安语
     auto: true

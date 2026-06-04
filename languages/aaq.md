@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東アベナキ語
+  - translation_iso: spa
+    name: Abenaki oriental
+    auto: true
   - translation_iso: zho
     name: 东部阿布纳基语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アナカラング語
     auto: true
+  - translation_iso: spa
+    name: Anakalangu
+    auto: true
   - translation_iso: zho
     name: 阿纳卡兰古语
     auto: true

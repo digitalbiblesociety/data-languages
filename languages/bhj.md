@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バヒング語
     auto: true
+  - translation_iso: spa
+    name: Bahing
+    auto: true
   - translation_iso: zho
     name: 巴欣语
     auto: true

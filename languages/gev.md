@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴィヤ語
+  - translation_iso: spa
+    name: Eviya
+    auto: true
   - translation_iso: zho
     name: 埃维亚语
     auto: true

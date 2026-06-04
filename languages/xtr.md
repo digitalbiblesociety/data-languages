@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: 初期トリプリ語
     auto: true
+  - translation_iso: spa
+    name: Tripuri antiguo
+    auto: true
   - translation_iso: zho
     name: 早期特里普里语
     auto: true

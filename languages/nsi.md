@@ -21,6 +21,9 @@ translations:
     name: नाइजीरियाई सांकेतिक भाषा
   - translation_iso: jpn
     name: ナイジェリア手話
+  - translation_iso: spa
+    name: Lengua de Señas de Nigeria
+    auto: true
   - translation_iso: zho
     name: 尼日利亚手语
     auto: true

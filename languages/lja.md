@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ゴルパ語
     auto: true
+  - translation_iso: spa
+    name: Golpa
+    auto: true
   - translation_iso: zho
     name: 戈尔帕语
     auto: true

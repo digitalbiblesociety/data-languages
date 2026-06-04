@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グルントゥム・ムバール語
     auto: true
+  - translation_iso: spa
+    name: Guruntum-Mbaaru
+    auto: true
   - translation_iso: zho
     name: 古伦图姆-姆巴鲁语
     auto: true

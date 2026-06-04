@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チャマオ語
+  - translation_iso: spa
+    name: Jiamao
+    auto: true
   - translation_iso: zho
     name: 加茂語
 rolv_dialects:

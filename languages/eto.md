@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エトン語
+  - translation_iso: spa
+    name: Eton
+    auto: true
   - translation_iso: zho
     name: 伊顿语
     auto: true

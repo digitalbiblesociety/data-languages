@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ソッフォ語
     auto: true
+  - translation_iso: spa
+    name: Thopho
+    auto: true
   - translation_iso: zho
     name: 脱泼语
 ---

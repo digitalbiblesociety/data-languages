@@ -25,6 +25,9 @@ translations:
     name: ゴドベリ語
   - translation_iso: kor
     name: 고도베리어
+  - translation_iso: spa
+    name: Ghodoberi
+    auto: true
   - translation_iso: zho
     name: 戈德贝里语
 rolv_dialects:

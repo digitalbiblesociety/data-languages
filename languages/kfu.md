@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カツカリ語
     auto: true
+  - translation_iso: spa
+    name: Katkari
+    auto: true
   - translation_iso: zho
     name: 卡特卡里语
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: マウンダダン・チェッティ語
     auto: true
+  - translation_iso: spa
+    name: Chetty de Moundadan
+    auto: true
   - translation_iso: zho
     name: 蒙达丹切蒂语
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ルーポB語
     auto: true
+  - translation_iso: spa
+    name: Loup B
+    auto: true
   - translation_iso: zho
     name: 路普B语
     auto: true

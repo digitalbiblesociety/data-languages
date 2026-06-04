@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユーゴスラビア手話
+  - translation_iso: spa
+    name: Lengua de señas yugoslava
+    auto: true
   - translation_iso: zho
     name: 南斯拉夫手语
     auto: true

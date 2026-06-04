@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ギャージ語
     auto: true
+  - translation_iso: spa
+    name: Gyaazi
+    auto: true
   - translation_iso: zho
     name: 吉亚兹语
     auto: true

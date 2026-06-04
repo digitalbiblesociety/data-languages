@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ピムベ語
     auto: true
+  - translation_iso: spa
+    name: Pimbwe
+    auto: true
   - translation_iso: zho
     name: 平布韦语
     auto: true

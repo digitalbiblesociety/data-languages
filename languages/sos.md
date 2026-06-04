@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: センブラ語
     auto: true
+  - translation_iso: spa
+    name: Seeku
+    auto: true
   - translation_iso: zho
     name: 森布拉語
 rolv_dialects:

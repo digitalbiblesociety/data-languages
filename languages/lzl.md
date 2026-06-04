@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リツリッツ語
     auto: true
+  - translation_iso: spa
+    name: Litzlitz
+    auto: true
   - translation_iso: zho
     name: 利茨利茨语
     auto: true

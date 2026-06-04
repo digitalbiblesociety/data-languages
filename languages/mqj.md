@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ママサ語
     auto: true
+  - translation_iso: spa
+    name: Mamasa
+    auto: true
   - translation_iso: zho
     name: 玛玛萨语
     auto: true

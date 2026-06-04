@@ -18,10 +18,13 @@ translations:
     name: الطاعة السفلى
     auto: true
   - translation_iso: hin
-    name: निचली ता'ओइह
+    name: "निचली ता'ओइह"
     auto: true
   - translation_iso: jpn
     name: タオイ語
+    auto: true
+  - translation_iso: spa
+    name: "Ta'oih meridional"
     auto: true
   - translation_iso: zho
     name: 下塔欧伊语

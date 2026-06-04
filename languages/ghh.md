@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・ガレ語
     auto: true
+  - translation_iso: spa
+    name: Ghale septentrional
+    auto: true
   - translation_iso: zho
     name: 北加莱语
     auto: true

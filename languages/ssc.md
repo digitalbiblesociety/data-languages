@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キシンビティ語
     auto: true
+  - translation_iso: spa
+    name: Suba-Simbiti
+    auto: true
   - translation_iso: zho
     name: 苏巴-西姆比提语
     auto: true

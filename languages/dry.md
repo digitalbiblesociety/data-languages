@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ダライ語
     auto: true
+  - translation_iso: spa
+    name: Darai
+    auto: true
   - translation_iso: zho
     name: 达瑞语
     auto: true

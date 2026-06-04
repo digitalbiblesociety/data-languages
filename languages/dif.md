@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディヤリ語
+  - translation_iso: spa
+    name: Dieri
+    auto: true
   - translation_iso: zho
     name: 迪耶里语
     auto: true

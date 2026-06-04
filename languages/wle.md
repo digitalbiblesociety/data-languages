@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウォラネ語
     auto: true
+  - translation_iso: spa
+    name: Wolane
+    auto: true
   - translation_iso: zho
     name: 沃拉内语
     auto: true

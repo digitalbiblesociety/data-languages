@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ルワティ語
     auto: true
+  - translation_iso: spa
+    name: Luwati
+    auto: true
   - translation_iso: zho
     name: 卢瓦蒂语
     auto: true

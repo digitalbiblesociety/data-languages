@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タクア語
     auto: true
+  - translation_iso: spa
+    name: Takua
+    auto: true
   - translation_iso: zho
     name: 谢古语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルワル語
     auto: true
+  - translation_iso: spa
+    name: Lwalu
+    auto: true
   - translation_iso: zho
     name: 卢瓦卢语
     auto: true

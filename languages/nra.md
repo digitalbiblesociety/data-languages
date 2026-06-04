@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ングオム語
     auto: true
+  - translation_iso: spa
+    name: Ngom
+    auto: true
   - translation_iso: zho
     name: 恩贡语
     auto: true

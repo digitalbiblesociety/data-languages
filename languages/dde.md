@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドゥンド語
     auto: true
+  - translation_iso: spa
+    name: Doondo
+    auto: true
   - translation_iso: zho
     name: 多恩多语
     auto: true

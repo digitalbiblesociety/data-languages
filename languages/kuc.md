@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クウィンスゥ語
     auto: true
+  - translation_iso: spa
+    name: Kwinsu
+    auto: true
   - translation_iso: zho
     name: 夸因苏语
     auto: true

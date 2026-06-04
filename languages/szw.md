@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サワイ語
+  - translation_iso: spa
+    name: Sawai
+    auto: true
   - translation_iso: zho
     name: 沙瓦伊語
 rolv_dialects:

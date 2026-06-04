@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東バローチー語
+  - translation_iso: spa
+    name: Baluchi oriental
+    auto: true
   - translation_iso: zho
     name: 东俾路支语
 rolv_dialects:

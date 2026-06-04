@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フモング・シュア語
     auto: true
+  - translation_iso: spa
+    name: Hmong Shua
+    auto: true
   - translation_iso: zho
     name: 汉苗语
 rolv_dialects:

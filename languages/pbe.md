@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: メゾントラ・ポポロカ語
     auto: true
+  - translation_iso: spa
+    name: Popoloca de Mezontla
+    auto: true
   - translation_iso: zho
     name: 梅松特拉波波洛卡语
     auto: true

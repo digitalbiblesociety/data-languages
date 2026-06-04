@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウォゲオ語
     auto: true
+  - translation_iso: spa
+    name: Wogeo
+    auto: true
   - translation_iso: zho
     name: 沃格欧语
     auto: true

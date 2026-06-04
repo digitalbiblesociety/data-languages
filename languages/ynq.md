@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イェンダング語
     auto: true
+  - translation_iso: spa
+    name: Yendang
+    auto: true
   - translation_iso: zho
     name: 延当语
     auto: true

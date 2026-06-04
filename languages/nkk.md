@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ノクク語
     auto: true
+  - translation_iso: spa
+    name: Nokuku
+    auto: true
   - translation_iso: zho
     name: 诺库库语
     auto: true

@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中東部ニジェール・フルフルディ語
+  - translation_iso: spa
+    name: Fulfulde centro-oriental de Níger
+    auto: true
   - translation_iso: zho
     name: 中东尼日富尔富尔德语
     auto: true

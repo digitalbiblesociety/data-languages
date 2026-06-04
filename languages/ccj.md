@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 카상가어
+  - translation_iso: spa
+    name: Kasanga
+    auto: true
   - translation_iso: zho
     name: 卡桑加语
     auto: true

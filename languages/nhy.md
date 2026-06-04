@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北オアハカ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl del Norte de Oaxaca
+    auto: true
   - translation_iso: zho
     name: 北瓦哈卡纳瓦特尔语
     auto: true

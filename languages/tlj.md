@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タリンガ・ブウィシ語
     auto: true
+  - translation_iso: spa
+    name: Talinga-Bwisi
+    auto: true
   - translation_iso: zho
     name: 塔林加-布威西语
     auto: true

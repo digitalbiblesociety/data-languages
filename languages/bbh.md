@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブガン語
     auto: true
+  - translation_iso: spa
+    name: Bugan
+    auto: true
   - translation_iso: zho
     name: 布赓语
 ---

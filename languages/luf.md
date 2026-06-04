@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラウア語
     auto: true
+  - translation_iso: spa
+    name: Laua
+    auto: true
   - translation_iso: zho
     name: 劳亚语
     auto: true

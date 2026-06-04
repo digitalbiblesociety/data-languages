@@ -25,6 +25,9 @@ translations:
     name: アルール語
   - translation_iso: kor
     name: 알루르어
+  - translation_iso: spa
+    name: Alur
+    auto: true
   - translation_iso: zho
     name: 阿卢尔语
 rolv_dialects:

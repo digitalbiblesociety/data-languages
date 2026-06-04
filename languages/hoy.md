@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ホリヤ語
     auto: true
+  - translation_iso: spa
+    name: Holiya
+    auto: true
   - translation_iso: zho
     name: 霍利亚语
     auto: true

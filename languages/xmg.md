@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メンガカ語
     auto: true
+  - translation_iso: spa
+    name: Mengaka
+    auto: true
   - translation_iso: zho
     name: 门加卡语
     auto: true

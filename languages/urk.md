@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 우락라워이어
+  - translation_iso: spa
+    name: "Urak Lawoi'"
+    auto: true
   - translation_iso: zho
     name: 烏拉拉握語
 ---

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マノ語
+  - translation_iso: spa
+    name: Mano
+    auto: true
   - translation_iso: zho
     name: 玛诺语
     auto: true

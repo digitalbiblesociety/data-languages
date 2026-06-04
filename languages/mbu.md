@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムブラ・ブワッザ語
     auto: true
+  - translation_iso: spa
+    name: Mbula-Bwazza
+    auto: true
   - translation_iso: zho
     name: 姆布拉-布瓦扎语
     auto: true

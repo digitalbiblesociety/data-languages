@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ツゥヴァディ語
     auto: true
+  - translation_iso: spa
+    name: Tsuvadi
+    auto: true
   - translation_iso: zho
     name: 楚瓦迪语
     auto: true

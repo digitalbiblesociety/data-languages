@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ツクバ語
     auto: true
+  - translation_iso: spa
+    name: Tsucuba
+    auto: true
   - translation_iso: zho
     name: 茨库巴语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レウォ語
+  - translation_iso: spa
+    name: Lewo
+    auto: true
   - translation_iso: zho
     name: 勒沃语
     auto: true

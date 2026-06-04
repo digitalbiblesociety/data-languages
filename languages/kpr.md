@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コラフェ・イェガ語
     auto: true
+  - translation_iso: spa
+    name: Korafe-Yegha
+    auto: true
   - translation_iso: zho
     name: 科拉费-耶格哈语
     auto: true

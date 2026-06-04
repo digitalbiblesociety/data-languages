@@ -25,6 +25,9 @@ translations:
     name: 北奄美大島方言
   - translation_iso: kor
     name: 아마미오시마 북부 방언
+  - translation_iso: spa
+    name: Amami-Oshima septentrional
+    auto: true
   - translation_iso: zho
     name: 北奄美大島語
 rolv_dialects:

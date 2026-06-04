@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チソリ語
     auto: true
+  - translation_iso: spa
+    name: Soli
+    auto: true
   - translation_iso: zho
     name: 索利语
     auto: true

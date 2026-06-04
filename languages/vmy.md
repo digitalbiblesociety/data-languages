@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アヤウトラ・マサテク語
     auto: true
+  - translation_iso: spa
+    name: Mazateco de Ayautla
+    auto: true
   - translation_iso: zho
     name: 阿亚乌特拉马萨特克语
     auto: true

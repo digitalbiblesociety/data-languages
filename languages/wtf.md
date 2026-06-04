@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワティワ語
     auto: true
+  - translation_iso: spa
+    name: Watiwa
+    auto: true
   - translation_iso: zho
     name: 敦普
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブラアン語
     auto: true
+  - translation_iso: spa
+    name: Blaan
+    auto: true
   - translation_iso: zho
     name: 布兰语
     auto: true

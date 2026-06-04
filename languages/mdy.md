@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マレ語
+  - translation_iso: spa
+    name: Male (Etiopía)
+    auto: true
   - translation_iso: zho
     name: 马勒语
     auto: true

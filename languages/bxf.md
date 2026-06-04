@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビルル語
     auto: true
+  - translation_iso: spa
+    name: Bilur
+    auto: true
   - translation_iso: zho
     name: 比卢尔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テペウシラ・クイカテク語
     auto: true
+  - translation_iso: spa
+    name: Cuicateco de Tepeuxila
+    auto: true
   - translation_iso: zho
     name: 特佩乌克西拉奎卡特克语
     auto: true

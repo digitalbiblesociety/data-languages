@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ネレムワ・ニクスムワク語
     auto: true
+  - translation_iso: spa
+    name: Nêlêmwa-Nixumwak
+    auto: true
   - translation_iso: zho
     name: 内莱姆瓦-尼克苏姆瓦克语
     auto: true

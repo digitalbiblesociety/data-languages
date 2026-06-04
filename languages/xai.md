@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カインベ語
     auto: true
+  - translation_iso: spa
+    name: Kaimbé
+    auto: true
   - translation_iso: zho
     name: 凯姆贝语
     auto: true

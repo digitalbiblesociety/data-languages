@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンバキッチ語
     auto: true
+  - translation_iso: spa
+    name: Ambakich
+    auto: true
   - translation_iso: zho
     name: 安巴基其语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エビラ語
+  - translation_iso: spa
+    name: Ebira
+    auto: true
   - translation_iso: zho
     name: 埃比拉语
     auto: true

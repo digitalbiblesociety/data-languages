@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゾツング・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Zotung
+    auto: true
   - translation_iso: zho
     name: 左通钦语
     auto: true

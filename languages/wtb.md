@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: マタンブウェ語
     auto: true
+  - translation_iso: spa
+    name: Matambwe
+    auto: true
   - translation_iso: zho
     name: 马坦布韦语
     auto: true

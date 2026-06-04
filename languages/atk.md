@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アティ語
+  - translation_iso: spa
+    name: Ati
+    auto: true
   - translation_iso: zho
     name: 阿蒂语
     auto: true

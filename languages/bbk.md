@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ババンキ語
     auto: true
+  - translation_iso: spa
+    name: Babanki
+    auto: true
   - translation_iso: zho
     name: 巴班基语
     auto: true

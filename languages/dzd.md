@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダザ語
     auto: true
+  - translation_iso: spa
+    name: Daza
+    auto: true
   - translation_iso: zho
     name: 达扎语
     auto: true

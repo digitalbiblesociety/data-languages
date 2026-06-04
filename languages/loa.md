@@ -25,6 +25,9 @@ translations:
     name: ロロダ語
   - translation_iso: kor
     name: 롤로다어
+  - translation_iso: spa
+    name: Loloda
+    auto: true
   - translation_iso: zho
     name: 洛洛达语
     auto: true

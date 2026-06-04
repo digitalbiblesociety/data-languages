@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヒオウェ語
     auto: true
+  - translation_iso: spa
+    name: Saniyo-Hiyewe
+    auto: true
   - translation_iso: zho
     name: 萨尼约-希耶韦语
     auto: true

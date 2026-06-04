@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: コン・クー語
     auto: true
+  - translation_iso: spa
+    name: Kon Keu
+    auto: true
   - translation_iso: zho
     name: 昆克乌语
     auto: true

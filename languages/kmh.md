@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラム語
+  - translation_iso: spa
+    name: Kalam
+    auto: true
   - translation_iso: zho
     name: Kalam 語
 rolv_dialects:

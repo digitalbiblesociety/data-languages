@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エニンディリャグワ語
+  - translation_iso: spa
+    name: Anindilyakwa
+    auto: true
   - translation_iso: zho
     name: 阿宁迪利亚夸语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ザナキ語
     auto: true
+  - translation_iso: spa
+    name: Zanaki
+    auto: true
   - translation_iso: zho
     name: 扎纳基语
     auto: true

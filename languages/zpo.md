@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アマトラン・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Amatlán
+    auto: true
   - translation_iso: zho
     name: 阿马特兰萨波特克语
     auto: true

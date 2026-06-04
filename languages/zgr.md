@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マゴリ語
     auto: true
+  - translation_iso: spa
+    name: Magori
+    auto: true
   - translation_iso: zho
     name: 玛戈里语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンデゲレビンハ語
     auto: true
+  - translation_iso: spa
+    name: Andegerebinha
+    auto: true
   - translation_iso: zho
     name: 安德格雷比尼亚语
     auto: true

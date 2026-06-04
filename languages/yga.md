@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: マリャンガパ語
     auto: true
+  - translation_iso: spa
+    name: Malyangapa
+    auto: true
   - translation_iso: zho
     name: 玛莱扬加帕语
     auto: true

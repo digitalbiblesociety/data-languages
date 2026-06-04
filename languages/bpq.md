@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バンダ・マレー語
     auto: true
+  - translation_iso: spa
+    name: Malayo de Banda
+    auto: true
   - translation_iso: zho
     name: 班达马来语
     auto: true

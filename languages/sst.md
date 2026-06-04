@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シナシナ語
     auto: true
+  - translation_iso: spa
+    name: Sinasina
+    auto: true
   - translation_iso: zho
     name: 西纳西纳语
     auto: true

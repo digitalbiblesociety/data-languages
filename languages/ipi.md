@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イピリ語
     auto: true
+  - translation_iso: spa
+    name: Ipili
+    auto: true
   - translation_iso: zho
     name: 伊皮利语
     auto: true

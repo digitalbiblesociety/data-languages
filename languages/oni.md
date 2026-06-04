@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オニン語
     auto: true
+  - translation_iso: spa
+    name: Onin
+    auto: true
   - translation_iso: zho
     name: 奥尼语
     auto: true

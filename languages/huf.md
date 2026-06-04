@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フメネ語
     auto: true
+  - translation_iso: spa
+    name: Humene
+    auto: true
   - translation_iso: zho
     name: 胡梅内语
     auto: true

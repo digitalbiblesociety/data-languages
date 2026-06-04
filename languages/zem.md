@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ジーム語
     auto: true
+  - translation_iso: spa
+    name: Zeem
+    auto: true
   - translation_iso: zho
     name: 泽姆语
     auto: true

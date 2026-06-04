@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アル＝サイード・ベドウィン手話
+  - translation_iso: spa
+    name: Lengua de señas beduina de Al-Sayyid
+    auto: true
   - translation_iso: zho
     name: 賽義德貝都因手語
 ---

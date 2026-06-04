@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カムラ語
     auto: true
+  - translation_iso: spa
+    name: Kamula
+    auto: true
   - translation_iso: zho
     name: 卡穆拉语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムベサ語
     auto: true
+  - translation_iso: spa
+    name: Mbesa
+    auto: true
   - translation_iso: zho
     name: 姆贝萨语
     auto: true

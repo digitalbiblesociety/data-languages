@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイルマ語
+  - translation_iso: spa
+    name: Tairuma
+    auto: true
   - translation_iso: zho
     name: 泰鲁马语
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: キザマニ語
     auto: true
+  - translation_iso: spa
+    name: Kizamani
+    auto: true
   - translation_iso: zho
     name: 基扎玛尼语
     auto: true

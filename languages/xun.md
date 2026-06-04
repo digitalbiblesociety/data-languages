@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ウンガランググ語
     auto: true
+  - translation_iso: spa
+    name: Unggaranggu
+    auto: true
   - translation_iso: zho
     name: 翁加兰古语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダラボン語
     auto: true
+  - translation_iso: spa
+    name: Dalabon
+    auto: true
   - translation_iso: zho
     name: 达拉本语
     auto: true

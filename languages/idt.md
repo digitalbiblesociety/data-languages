@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イダテ語
     auto: true
+  - translation_iso: spa
+    name: Idaté
+    auto: true
   - translation_iso: zho
     name: 伊达特语
     auto: true

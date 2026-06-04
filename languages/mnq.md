@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミンリク語
     auto: true
+  - translation_iso: spa
+    name: Minriq
+    auto: true
   - translation_iso: zho
     name: 明里克语
 ---

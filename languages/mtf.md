@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムリク語
     auto: true
+  - translation_iso: spa
+    name: Murik (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 巴布亚新几内亚穆里克语
     auto: true

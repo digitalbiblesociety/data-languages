@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北シエラミウォク語
     auto: true
+  - translation_iso: spa
+    name: Miwok de la Sierra Norte
+    auto: true
   - translation_iso: zho
     name: 北内华达山米沃克语
     auto: true

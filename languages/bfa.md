@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリ語
+  - translation_iso: spa
+    name: Bari
+    auto: true
   - translation_iso: zho
     name: 巴里語
 rolv_dialects:

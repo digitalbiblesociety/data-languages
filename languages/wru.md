@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワル語
     auto: true
+  - translation_iso: spa
+    name: Waru
+    auto: true
   - translation_iso: zho
     name: 瓦鲁语
     auto: true

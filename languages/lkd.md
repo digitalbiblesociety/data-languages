@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラコンデ語
     auto: true
+  - translation_iso: spa
+    name: Lakondê
+    auto: true
   - translation_iso: zho
     name: 拉孔德语
     auto: true

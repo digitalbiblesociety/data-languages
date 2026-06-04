@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アテンブレ語
     auto: true
+  - translation_iso: spa
+    name: Atemble
+    auto: true
   - translation_iso: zho
     name: 阿坦布雷语
     auto: true

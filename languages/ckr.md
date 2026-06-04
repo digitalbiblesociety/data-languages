@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カイラック語
     auto: true
+  - translation_iso: spa
+    name: Kairak
+    auto: true
   - translation_iso: zho
     name: 凯拉克语
     auto: true

@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: セナリ語
     auto: true
+  - translation_iso: spa
+    name: Senoufo Cebaara
+    auto: true
   - translation_iso: zho
     name: 塞巴阿拉塞努福语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東タランガン語
     auto: true
+  - translation_iso: spa
+    name: Tarangan oriental
+    auto: true
   - translation_iso: zho
     name: 东塔兰甘语
     auto: true

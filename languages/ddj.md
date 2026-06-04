@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャル語
+  - translation_iso: spa
+    name: Jaru
+    auto: true
   - translation_iso: zho
     name: 亚鲁语
     auto: true

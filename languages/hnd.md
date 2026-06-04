@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: サザン・ヒンドコー語
     auto: true
+  - translation_iso: spa
+    name: Hindko meridional
+    auto: true
   - translation_iso: zho
     name: 南印度库语
     auto: true

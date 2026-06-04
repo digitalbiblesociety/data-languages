@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西マセラ語
+  - translation_iso: spa
+    name: Masela Occidental
+    auto: true
   - translation_iso: zho
     name: 西马塞拉语
     auto: true

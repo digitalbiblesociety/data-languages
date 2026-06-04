@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トポサ語
+  - translation_iso: spa
+    name: Toposa
+    auto: true
   - translation_iso: zho
     name: 托波萨语
     auto: true

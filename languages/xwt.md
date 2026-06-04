@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ウォッジョバルク語
     auto: true
+  - translation_iso: spa
+    name: Wotjobaluk
+    auto: true
   - translation_iso: zho
     name: 沃特约巴卢克语
     auto: true

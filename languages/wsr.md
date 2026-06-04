@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オウェニア語
     auto: true
+  - translation_iso: spa
+    name: Owenia
+    auto: true
   - translation_iso: zho
     name: 欧韦尼亚语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピントゥピ・ロリジャ語
+  - translation_iso: spa
+    name: Pintupi-Luritja
+    auto: true
   - translation_iso: zho
     name: 平图比方言
 ---

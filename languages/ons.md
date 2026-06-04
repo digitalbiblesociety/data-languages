@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: オノ語
     auto: true
+  - translation_iso: spa
+    name: Ono
+    auto: true
   - translation_iso: zho
     name: 奥诺语
     auto: true

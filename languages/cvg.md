@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チュグ語
     auto: true
+  - translation_iso: spa
+    name: Chug
+    auto: true
   - translation_iso: zho
     name: 楚格语
 ---

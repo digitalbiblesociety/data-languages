@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウィン語
     auto: true
+  - translation_iso: spa
+    name: Toussian septentrional
+    auto: true
   - translation_iso: zho
     name: 北图西亚语
     auto: true

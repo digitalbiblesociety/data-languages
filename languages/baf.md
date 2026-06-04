@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヌバカ語
     auto: true
+  - translation_iso: spa
+    name: Nubaca
+    auto: true
   - translation_iso: zho
     name: 努巴卡语
     auto: true

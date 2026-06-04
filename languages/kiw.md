@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ノースイースト・キワイ語
     auto: true
+  - translation_iso: spa
+    name: Kiwai del Noreste
+    auto: true
   - translation_iso: zho
     name: 东北基瓦伊语
     auto: true

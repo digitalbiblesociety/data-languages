@@ -22,6 +22,9 @@ translations:
     name: गोरुम भाषा
   - translation_iso: jpn
     name: パレンガ語
+  - translation_iso: spa
+    name: Parenga
+    auto: true
   - translation_iso: zho
     name: 戈鲁姆语
 rolv_dialects:

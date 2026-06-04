@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムジ語
     auto: true
+  - translation_iso: spa
+    name: Muzi
+    auto: true
   - translation_iso: zho
     name: 木支语
 ---

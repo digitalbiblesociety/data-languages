@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: 西ベンガル手話
     auto: true
+  - translation_iso: spa
+    name: Lengua de Señas de Bengala Occidental
+    auto: true
   - translation_iso: zho
     name: 西孟加拉手语
     auto: true

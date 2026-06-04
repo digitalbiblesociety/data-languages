@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドソ語
     auto: true
+  - translation_iso: spa
+    name: Doso
+    auto: true
   - translation_iso: zho
     name: 多索语
     auto: true

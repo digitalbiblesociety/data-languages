@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤオサコル・アスマット語
     auto: true
+  - translation_iso: spa
+    name: Asmat Yaosakor
+    auto: true
   - translation_iso: zho
     name: 亚奥萨科尔阿斯马特语
     auto: true

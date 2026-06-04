@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シムル語
+  - translation_iso: spa
+    name: Simeulue
+    auto: true
   - translation_iso: zho
     name: 锡默卢语
 rolv_dialects:

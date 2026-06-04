@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ルドバリ語
     auto: true
+  - translation_iso: spa
+    name: Rudbari
+    auto: true
   - translation_iso: zho
     name: 鲁德巴里语
     auto: true

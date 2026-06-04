@@ -24,6 +24,9 @@ translations:
     name: 中央カヌリ語
   - translation_iso: kor
     name: 중부 카누리어
+  - translation_iso: spa
+    name: Kanuri central
+    auto: true
   - translation_iso: zho
     name: 中卡努里语
 rolv_dialects:

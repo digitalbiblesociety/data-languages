@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マチンガ語
     auto: true
+  - translation_iso: spa
+    name: Machinga
+    auto: true
   - translation_iso: zho
     name: 马金加语
     auto: true

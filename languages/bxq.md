@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベエレ語
     auto: true
+  - translation_iso: spa
+    name: Beele
+    auto: true
   - translation_iso: zho
     name: 贝埃莱语
     auto: true

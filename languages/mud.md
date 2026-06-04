@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メードヌイ・アレウト語
+  - translation_iso: spa
+    name: Aleutiano de Medny
+    auto: true
   - translation_iso: zho
     name: 梅德尼阿留申語
 ---

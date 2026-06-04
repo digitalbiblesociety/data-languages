@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サザンロロポ語
     auto: true
+  - translation_iso: spa
+    name: Lolopo meridional
+    auto: true
   - translation_iso: zho
     name: 南洛罗波语
     auto: true

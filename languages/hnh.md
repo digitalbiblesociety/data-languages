@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イアニ語
     auto: true
+  - translation_iso: spa
+    name: ǁAni
+    auto: true
   - translation_iso: zho
     name: "!阿尼语"
     auto: true

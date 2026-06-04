@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ファイウォル語
     auto: true
+  - translation_iso: spa
+    name: Faiwol
+    auto: true
   - translation_iso: zho
     name: 范沃語
 rolv_dialects:

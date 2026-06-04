@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レラック語
+  - translation_iso: spa
+    name: Lelak
+    auto: true
   - translation_iso: zho
     name: 勒拉克语
     auto: true

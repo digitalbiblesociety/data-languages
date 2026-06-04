@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シャフラ語
+  - translation_iso: spa
+    name: Shehri
+    auto: true
   - translation_iso: zho
     name: 山地语
 rolv_dialects:

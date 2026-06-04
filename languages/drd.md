@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダルミヤ語
     auto: true
+  - translation_iso: spa
+    name: Darmiya
+    auto: true
   - translation_iso: zho
     name: 达米亚语
     auto: true

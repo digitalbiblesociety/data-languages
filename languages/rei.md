@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: レリ語
     auto: true
+  - translation_iso: spa
+    name: Reli
+    auto: true
   - translation_iso: zho
     name: 雷利语
     auto: true

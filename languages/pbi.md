@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パルクワ語
     auto: true
+  - translation_iso: spa
+    name: Parkwa
+    auto: true
   - translation_iso: zho
     name: 帕克瓦语
     auto: true

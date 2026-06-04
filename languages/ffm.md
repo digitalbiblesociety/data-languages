@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マーシナ・フルフルデ語
     auto: true
+  - translation_iso: spa
+    name: Fulfulde de Maasina
+    auto: true
   - translation_iso: zho
     name: 马阿西纳富尔富尔德语
     auto: true

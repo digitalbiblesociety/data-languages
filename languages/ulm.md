@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アウォ・スマクユ語
     auto: true
+  - translation_iso: spa
+    name: "Ulumanda'"
+    auto: true
   - translation_iso: zho
     name: 乌卢曼达语
     auto: true

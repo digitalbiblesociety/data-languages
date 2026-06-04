@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タワンデ語
     auto: true
+  - translation_iso: spa
+    name: Tawandê
+    auto: true
   - translation_iso: zho
     name: 塔万德语
     auto: true

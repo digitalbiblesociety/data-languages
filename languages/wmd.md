@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ママインデ語
     auto: true
+  - translation_iso: spa
+    name: Mamaindé
+    auto: true
   - translation_iso: zho
     name: 玛玛因德语
     auto: true

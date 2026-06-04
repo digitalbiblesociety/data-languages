@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エンワン語
     auto: true
+  - translation_iso: spa
+    name: Enwan (Estado de Edu)
+    auto: true
   - translation_iso: zho
     name: 恩万语（埃多州）
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チショナ語
     auto: true
+  - translation_iso: spa
+    name: Tawara
+    auto: true
   - translation_iso: zho
     name: 塔瓦拉语
     auto: true

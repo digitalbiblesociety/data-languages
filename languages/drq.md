@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥラ語
+  - translation_iso: spa
+    name: Dura
+    auto: true
   - translation_iso: zho
     name: 杜拉语
     auto: true

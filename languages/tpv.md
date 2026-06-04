@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北カロリニアン語
     auto: true
+  - translation_iso: spa
+    name: Tanapag
+    auto: true
   - translation_iso: zho
     name: 塔纳帕格语
     auto: true

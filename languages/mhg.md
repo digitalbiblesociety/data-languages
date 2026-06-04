@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マルグ語
     auto: true
+  - translation_iso: spa
+    name: Margu
+    auto: true
   - translation_iso: zho
     name: 玛古语
     auto: true

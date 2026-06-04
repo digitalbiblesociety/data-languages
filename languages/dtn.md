@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダーツイン語
     auto: true
+  - translation_iso: spa
+    name: Daatsʼíin
+    auto: true
   - translation_iso: zho
     name: 达茨音语
     auto: true

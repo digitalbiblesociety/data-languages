@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ファイフィ語
     auto: true
+  - translation_iso: spa
+    name: Faifi
+    auto: true
   - translation_iso: zho
     name: 費法語
 ---

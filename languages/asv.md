@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アソア語
     auto: true
+  - translation_iso: spa
+    name: Asoa
+    auto: true
   - translation_iso: zho
     name: 阿索亚语
     auto: true

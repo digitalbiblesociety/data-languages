@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニョレ語
     auto: true
+  - translation_iso: spa
+    name: Nyore
+    auto: true
   - translation_iso: zho
     name: 尼奥雷语
     auto: true

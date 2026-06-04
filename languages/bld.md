@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボランゴ語
+  - translation_iso: spa
+    name: Bolango
+    auto: true
   - translation_iso: zho
     name: 博兰戈语
     auto: true

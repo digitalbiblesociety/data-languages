@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ヤルユアンディ語
     auto: true
+  - translation_iso: spa
+    name: Yarluyandi
+    auto: true
   - translation_iso: zho
     name: 亚卢亚迪语
     auto: true

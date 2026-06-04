@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バトリ語
     auto: true
+  - translation_iso: spa
+    name: Bhatri
+    auto: true
   - translation_iso: zho
     name: 巴特里语
     auto: true

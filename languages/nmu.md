@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マイドゥ語
+  - translation_iso: spa
+    name: Maidu nororiental
+    auto: true
   - translation_iso: zho
     name: 东北美都语
     auto: true

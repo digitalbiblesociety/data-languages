@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タジェ語
     auto: true
+  - translation_iso: spa
+    name: Taje
+    auto: true
   - translation_iso: zho
     name: 塔杰语
     auto: true

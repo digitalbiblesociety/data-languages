@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クワミ語
     auto: true
+  - translation_iso: spa
+    name: Kwami
+    auto: true
   - translation_iso: zho
     name: 克瓦米语
     auto: true

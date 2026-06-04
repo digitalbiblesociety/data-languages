@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥブリ語
     auto: true
+  - translation_iso: spa
+    name: Dubli
+    auto: true
   - translation_iso: zho
     name: 杜布利语
     auto: true

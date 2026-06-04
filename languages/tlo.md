@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タロディ語
     auto: true
+  - translation_iso: spa
+    name: Talodi
+    auto: true
   - translation_iso: zho
     name: 塔洛迪语
     auto: true

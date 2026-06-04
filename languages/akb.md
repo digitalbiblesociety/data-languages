@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バタク・アンコーラ語
+  - translation_iso: spa
+    name: Batak Angkola
+    auto: true
   - translation_iso: zho
     name: 昂科拉语
 ---

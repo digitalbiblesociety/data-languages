@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マティプハイ語
     auto: true
+  - translation_iso: spa
+    name: Matipuhy
+    auto: true
   - translation_iso: zho
     name: 玛蒂普希语
     auto: true

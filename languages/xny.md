@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニイャパーリ語
     auto: true
+  - translation_iso: spa
+    name: Nyiyaparli
+    auto: true
   - translation_iso: zho
     name: 尼伊亚帕里语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アンダマン・クレオール・ヒンディー語
     auto: true
+  - translation_iso: spa
+    name: Hindi criollo andamanés
+    auto: true
   - translation_iso: zho
     name: 安达曼印地克里奥尔语
 ---

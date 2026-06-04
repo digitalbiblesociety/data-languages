@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・ムミンハ語
     auto: true
+  - translation_iso: spa
+    name: Kuku-Uwanh
+    auto: true
   - translation_iso: zho
     name: 库库-乌瓦语
     auto: true

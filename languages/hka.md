@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カヘ語
+  - translation_iso: spa
+    name: Kahe
+    auto: true
   - translation_iso: zho
     name: 卡赫语
     auto: true

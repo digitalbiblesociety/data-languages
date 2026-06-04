@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムルット語
     auto: true
+  - translation_iso: spa
+    name: Murut Selungai
+    auto: true
   - translation_iso: zho
     name: 塞隆盖穆鲁特语
     auto: true

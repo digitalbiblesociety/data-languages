@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テクスメルカン・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Texmelucan
+    auto: true
   - translation_iso: zho
     name: 特克斯梅卢坎萨波特克语
     auto: true

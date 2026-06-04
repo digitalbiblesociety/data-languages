@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: タレン語
     auto: true
+  - translation_iso: spa
+    name: Tareng
+    auto: true
   - translation_iso: zho
     name: 塔伦语
     auto: true

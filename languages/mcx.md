@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムピエモ語
     auto: true
+  - translation_iso: spa
+    name: Mpiemo
+    auto: true
   - translation_iso: zho
     name: 姆皮埃莫语
     auto: true

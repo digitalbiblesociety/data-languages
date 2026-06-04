@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タンガル・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Thangal
+    auto: true
   - translation_iso: zho
     name: 坦加尔纳加语
     auto: true

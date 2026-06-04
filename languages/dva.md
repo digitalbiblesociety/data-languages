@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥアウ語
+  - translation_iso: spa
+    name: Duau
+    auto: true
   - translation_iso: zho
     name: 杜劳语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カシグラニン語
     auto: true
+  - translation_iso: spa
+    name: Kasiguranin
+    auto: true
   - translation_iso: zho
     name: 卡西古拉宁语
     auto: true

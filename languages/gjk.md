@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: カチ・コリ語
     auto: true
+  - translation_iso: spa
+    name: Kachi Koli
+    auto: true
   - translation_iso: zho
     name: 卡奇科利语
     auto: true

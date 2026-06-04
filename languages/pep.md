@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クンジャ語
     auto: true
+  - translation_iso: spa
+    name: Kunja
+    auto: true
   - translation_iso: zho
     name: 昆雅语
     auto: true

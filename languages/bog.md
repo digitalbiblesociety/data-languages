@@ -22,6 +22,9 @@ translations:
     name: बामको सांकेतिक भाषा
   - translation_iso: jpn
     name: バマコ手話
+  - translation_iso: spa
+    name: Lengua de señas de Bamako
+    auto: true
   - translation_iso: zho
     name: 巴马科手语
     auto: true

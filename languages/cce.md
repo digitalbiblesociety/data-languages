@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チョピ語
+  - translation_iso: spa
+    name: Chopi
+    auto: true
   - translation_iso: zho
     name: 丘皮語
 rolv_dialects:

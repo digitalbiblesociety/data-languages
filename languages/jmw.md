@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: モウワセ語
     auto: true
+  - translation_iso: spa
+    name: Mouwase
+    auto: true
   - translation_iso: zho
     name: 莫乌瓦塞语
     auto: true

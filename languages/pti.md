@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ピンディーニ語
     auto: true
+  - translation_iso: spa
+    name: Pindiini
+    auto: true
   - translation_iso: zho
     name: 平迪伊尼语
     auto: true

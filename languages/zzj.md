@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 左江チワン語
+  - translation_iso: spa
+    name: Zhuang de Zuojiang
+    auto: true
   - translation_iso: zho
     name: 左江壯語
 rolv_dialects:

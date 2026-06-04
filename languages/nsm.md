@@ -22,6 +22,9 @@ translations:
     name: सुमी भाषा
   - translation_iso: jpn
     name: スミ語
+  - translation_iso: spa
+    name: Naga Sumi
+    auto: true
   - translation_iso: zho
     name: Sema语
 rolv_dialects:

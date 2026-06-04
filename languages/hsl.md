@@ -22,6 +22,9 @@ translations:
     name: हौसा सांकेतिक भाषा
   - translation_iso: jpn
     name: ハウサ手話
+  - translation_iso: spa
+    name: Lengua de señas hausa
+    auto: true
   - translation_iso: zho
     name: 豪萨手语
     auto: true

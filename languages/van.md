@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルマン語
+  - translation_iso: spa
+    name: Valman
+    auto: true
   - translation_iso: zho
     name: 瓦爾曼語
 ---

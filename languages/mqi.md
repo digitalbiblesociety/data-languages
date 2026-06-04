@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マリリ語
     auto: true
+  - translation_iso: spa
+    name: Mariri
+    auto: true
   - translation_iso: zho
     name: 玛里里语
     auto: true

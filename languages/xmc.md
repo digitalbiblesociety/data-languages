@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マク​​ワ・マレボネ語
     auto: true
+  - translation_iso: spa
+    name: Makhuwa-Marrevone
+    auto: true
   - translation_iso: zho
     name: 马库瓦-马雷沃内语
     auto: true

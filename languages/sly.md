@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スラヤール語
+  - translation_iso: spa
+    name: Selayar
+    auto: true
   - translation_iso: zho
     name: 塞拉亞語
 ---

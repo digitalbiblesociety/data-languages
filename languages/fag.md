@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フィノンガン語
     auto: true
+  - translation_iso: spa
+    name: Finongan
+    auto: true
   - translation_iso: zho
     name: 芬农根语
     auto: true

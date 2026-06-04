@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングアンディ語
     auto: true
+  - translation_iso: spa
+    name: Ngandi
+    auto: true
   - translation_iso: zho
     name: 恩甘迪语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クパラ語
     auto: true
+  - translation_iso: spa
+    name: Kpala
+    auto: true
   - translation_iso: zho
     name: 克帕拉语
     auto: true

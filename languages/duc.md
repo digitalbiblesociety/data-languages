@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: ドゥナ語
     auto: true
+  - translation_iso: spa
+    name: Duna
+    auto: true
   - translation_iso: zho
     name: 杜纳语
     auto: true

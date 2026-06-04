@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤメオ語
     auto: true
+  - translation_iso: spa
+    name: Yameo
+    auto: true
   - translation_iso: zho
     name: 亚梅奥语
     auto: true

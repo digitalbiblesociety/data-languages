@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノツィ語
+  - translation_iso: spa
+    name: Notsi
+    auto: true
   - translation_iso: zho
     name: 诺特西语
     auto: true

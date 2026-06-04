@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: オコリエ語
     auto: true
+  - translation_iso: spa
+    name: Okolie
+    auto: true
   - translation_iso: zho
     name: 奥科利语
     auto: true

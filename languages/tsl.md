@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツン・ラオ語
+  - translation_iso: spa
+    name: "Ts'ün-Lao"
+    auto: true
   - translation_iso: zho
     name: 卜老语
 ---

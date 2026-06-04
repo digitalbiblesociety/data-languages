@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シアル語
+  - translation_iso: spa
+    name: Siar-Lak
+    auto: true
   - translation_iso: zho
     name: 西亚尔-拉克语
     auto: true

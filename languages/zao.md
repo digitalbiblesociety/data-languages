@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オゾロテペック・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Ozolotepec
+    auto: true
   - translation_iso: zho
     name: 奥索洛特佩克-萨波特克语
     auto: true

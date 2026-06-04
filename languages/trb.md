@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テレプ語
     auto: true
+  - translation_iso: spa
+    name: Terebu
+    auto: true
   - translation_iso: zho
     name: 特雷布语
     auto: true

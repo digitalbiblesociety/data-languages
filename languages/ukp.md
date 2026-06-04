@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウクペ・バヨビリ語
     auto: true
+  - translation_iso: spa
+    name: Ukpe-Bayobiri
+    auto: true
   - translation_iso: zho
     name: 乌克佩-贝亚奥比里语
     auto: true

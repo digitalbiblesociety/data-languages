@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アワラ語
     auto: true
+  - translation_iso: spa
+    name: Awara
+    auto: true
   - translation_iso: zho
     name: 阿瓦拉语
     auto: true

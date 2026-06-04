@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: スビ語
     auto: true
+  - translation_iso: spa
+    name: Subi
+    auto: true
   - translation_iso: zho
     name: 苏比语
     auto: true

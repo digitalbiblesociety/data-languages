@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: エザア語
     auto: true
+  - translation_iso: spa
+    name: Ezaa
+    auto: true
   - translation_iso: zho
     name: 埃扎语
     auto: true

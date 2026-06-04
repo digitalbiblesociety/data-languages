@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シボマ語
     auto: true
+  - translation_iso: spa
+    name: Numbami
+    auto: true
   - translation_iso: zho
     name: 努姆巴米语
     auto: true

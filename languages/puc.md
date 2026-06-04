@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: プナンメラップ語
     auto: true
+  - translation_iso: spa
+    name: Punan Merap
+    auto: true
   - translation_iso: zho
     name: 普南梅拉普语
     auto: true

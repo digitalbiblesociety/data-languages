@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミトラトンゴ・ミシテク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Mitlatongo
+    auto: true
   - translation_iso: zho
     name: 米特拉通戈混特克语
     auto: true

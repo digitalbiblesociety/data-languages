@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ギンメ語
     auto: true
+  - translation_iso: spa
+    name: Gimme
+    auto: true
   - translation_iso: zho
     name: 吉梅语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セイマット語
     auto: true
+  - translation_iso: spa
+    name: Seimat
+    auto: true
   - translation_iso: zho
     name: 塞马特语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツォゴ語
+  - translation_iso: spa
+    name: Tsogo
+    auto: true
   - translation_iso: zho
     name: 索戈语
     auto: true

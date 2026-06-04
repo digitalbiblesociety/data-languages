@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バグピ語
     auto: true
+  - translation_iso: spa
+    name: Bagupi
+    auto: true
   - translation_iso: zho
     name: 巴古比语
     auto: true

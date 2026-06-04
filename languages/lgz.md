@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リゲンザ語
     auto: true
+  - translation_iso: spa
+    name: Ligenza
+    auto: true
   - translation_iso: zho
     name: 利根扎语
     auto: true

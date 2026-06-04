@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ロブ語
     auto: true
+  - translation_iso: spa
+    name: Lanas Lobu
+    auto: true
   - translation_iso: zho
     name: 拉纳斯洛布语
     auto: true

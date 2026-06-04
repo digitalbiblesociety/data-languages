@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クウヤ語
     auto: true
+  - translation_iso: spa
+    name: Kouya
+    auto: true
   - translation_iso: zho
     name: 库亚语
     auto: true

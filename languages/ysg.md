@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ソナガ語
     auto: true
+  - translation_iso: spa
+    name: Sonaga
+    auto: true
   - translation_iso: zho
     name: 锁内嘎话
 ---

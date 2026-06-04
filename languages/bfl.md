@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バンダ・ンデレ語
     auto: true
+  - translation_iso: spa
+    name: Banda-Ndélé
+    auto: true
   - translation_iso: zho
     name: 班达-恩德莱语
     auto: true

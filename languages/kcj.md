@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 코비아나어
+  - translation_iso: spa
+    name: Kobiana
+    auto: true
   - translation_iso: zho
     name: 科比亚纳语
     auto: true

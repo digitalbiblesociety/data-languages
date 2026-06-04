@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デラ語
     auto: true
+  - translation_iso: spa
+    name: Dera (Nigeria)
+    auto: true
   - translation_iso: zho
     name: 德拉语
     auto: true

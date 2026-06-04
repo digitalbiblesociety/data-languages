@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チャンタン語
     auto: true
+  - translation_iso: spa
+    name: Changthang
+    auto: true
   - translation_iso: zho
     name: 羌塘语
 ---

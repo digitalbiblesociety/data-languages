@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チョアパン・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Choapan
+    auto: true
   - translation_iso: zho
     name: 乔阿潘萨波特克语
     auto: true

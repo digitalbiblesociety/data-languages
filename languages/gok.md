@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ゴウリ語
     auto: true
+  - translation_iso: spa
+    name: Gowli
+    auto: true
   - translation_iso: zho
     name: 高夫利语
     auto: true

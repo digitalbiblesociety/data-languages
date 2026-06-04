@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クレナク語
     auto: true
+  - translation_iso: spa
+    name: Krenak
+    auto: true
   - translation_iso: zho
     name: 克瑞纳克语
     auto: true

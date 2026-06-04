@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パウリ・バレリ語
     auto: true
+  - translation_iso: spa
+    name: Bareli Pauri
+    auto: true
   - translation_iso: zho
     name: 保里巴雷利语
     auto: true

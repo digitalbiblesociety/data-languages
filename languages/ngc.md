@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゴンベ語
+  - translation_iso: spa
+    name: Ngombe (República Democrática del Congo)
+    auto: true
   - translation_iso: zho
     name: 恩贡贝语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハンガ・フンディ語
     auto: true
+  - translation_iso: spa
+    name: Hanga Hundi
+    auto: true
   - translation_iso: zho
     name: 汉加亨迪语
     auto: true

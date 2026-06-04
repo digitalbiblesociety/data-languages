@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムボ語
     auto: true
+  - translation_iso: spa
+    name: Mbo (Camerún)
+    auto: true
   - translation_iso: zho
     name: 姆博语
     auto: true

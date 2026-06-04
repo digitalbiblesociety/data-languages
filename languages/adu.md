@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: アドゥゲ語
     auto: true
+  - translation_iso: spa
+    name: Aduge
+    auto: true
   - translation_iso: zho
     name: 阿杜格语
     auto: true

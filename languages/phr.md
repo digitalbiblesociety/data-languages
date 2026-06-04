@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パハリ語
+  - translation_iso: spa
+    name: Pahari-Potwari
+    auto: true
   - translation_iso: zho
     name: 帕哈里-波特瓦里语
 rolv_dialects:

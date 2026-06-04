@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キルワル語
     auto: true
+  - translation_iso: spa
+    name: Khirwar
+    auto: true
   - translation_iso: zho
     name: 希尔瓦尔语
     auto: true

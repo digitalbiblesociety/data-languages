@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワンボン語
     auto: true
+  - translation_iso: spa
+    name: Wambon
+    auto: true
   - translation_iso: zho
     name: 萬邦語
 rolv_dialects:

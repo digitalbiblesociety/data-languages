@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クワンジャ語
     auto: true
+  - translation_iso: spa
+    name: Kwanja
+    auto: true
   - translation_iso: zho
     name: 克万贾语
     auto: true

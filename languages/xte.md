@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケテングバン語
     auto: true
+  - translation_iso: spa
+    name: Ketengban
+    auto: true
   - translation_iso: zho
     name: 克腾班语
     auto: true

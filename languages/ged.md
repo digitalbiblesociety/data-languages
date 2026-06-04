@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガデ語
     auto: true
+  - translation_iso: spa
+    name: Gade
+    auto: true
   - translation_iso: zho
     name: 加德语
     auto: true

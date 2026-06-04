@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ミノコク語
     auto: true
+  - translation_iso: spa
+    name: Minokok
+    auto: true
   - translation_iso: zho
     name: 米诺科克语
     auto: true

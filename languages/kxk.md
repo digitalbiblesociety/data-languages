@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ザイイン・カレン語
     auto: true
+  - translation_iso: spa
+    name: Karen Zayein
+    auto: true
   - translation_iso: zho
     name: 扎耶因卡伦语
     auto: true

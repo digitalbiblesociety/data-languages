@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ポワリ語
     auto: true
+  - translation_iso: spa
+    name: Powari
+    auto: true
   - translation_iso: zho
     name: 波瓦里语
     auto: true

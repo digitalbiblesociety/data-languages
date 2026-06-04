@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: マジ語
     auto: true
+  - translation_iso: spa
+    name: Majhi
+    auto: true
   - translation_iso: zho
     name: 摩傑语
 rolv_dialects:

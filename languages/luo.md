@@ -24,6 +24,9 @@ translations:
     name: ルオ語
   - translation_iso: kor
     name: 루오어
+  - translation_iso: spa
+    name: Luo (Kenia y Tanzania)
+    auto: true
   - translation_iso: zho
     name: 盧歐語
 rolv_dialects:

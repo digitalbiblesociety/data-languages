@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マイアニ語
     auto: true
+  - translation_iso: spa
+    name: Maiani
+    auto: true
   - translation_iso: zho
     name: 迈亚尼语
     auto: true

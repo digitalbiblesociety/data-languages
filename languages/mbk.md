@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マロル語
     auto: true
+  - translation_iso: spa
+    name: Malol
+    auto: true
   - translation_iso: zho
     name: 马洛尔语
     auto: true

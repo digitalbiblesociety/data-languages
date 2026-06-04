@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パナワ語
     auto: true
+  - translation_iso: spa
+    name: Panawa
+    auto: true
   - translation_iso: zho
     name: 帕纳瓦语
     auto: true

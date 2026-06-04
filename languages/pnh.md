@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペンリン語
+  - translation_iso: spa
+    name: Penrhyn
+    auto: true
   - translation_iso: zho
     name: 彭里恩语
     auto: true

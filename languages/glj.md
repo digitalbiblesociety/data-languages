@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グラ・イロ語
     auto: true
+  - translation_iso: spa
+    name: Gula Iro
+    auto: true
   - translation_iso: zho
     name: 古拉伊罗语
     auto: true

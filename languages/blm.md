@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベリ語
     auto: true
+  - translation_iso: spa
+    name: Beli (Sudán del Sur)
+    auto: true
   - translation_iso: zho
     name: 贝利语（南苏丹）
     auto: true

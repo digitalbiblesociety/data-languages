@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングブンドゥ語
+  - translation_iso: spa
+    name: Ngbundu
+    auto: true
   - translation_iso: zho
     name: 恩布恩杜语
     auto: true

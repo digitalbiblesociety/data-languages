@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グワハティケ語
     auto: true
+  - translation_iso: spa
+    name: Gwahatike
+    auto: true
   - translation_iso: zho
     name: 瓜哈蒂克语
     auto: true

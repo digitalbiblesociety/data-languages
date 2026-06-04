@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: シェンピレ語
     auto: true
+  - translation_iso: spa
+    name: Senoufo Shempire
+    auto: true
   - translation_iso: zho
     name: 谢姆皮雷塞努福语
     auto: true

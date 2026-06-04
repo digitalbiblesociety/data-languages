@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アマラシ語
     auto: true
+  - translation_iso: spa
+    name: Amarasi
+    auto: true
   - translation_iso: zho
     name: 阿马拉西语
     auto: true

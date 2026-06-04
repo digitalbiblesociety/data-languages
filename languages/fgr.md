@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: フォンゴロ語
     auto: true
+  - translation_iso: spa
+    name: Fongoro
+    auto: true
   - translation_iso: zho
     name: 丰戈罗语
     auto: true

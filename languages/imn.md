@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イモンダ語
     auto: true
+  - translation_iso: spa
+    name: Imonda
+    auto: true
   - translation_iso: zho
     name: 伊蒙达语
     auto: true

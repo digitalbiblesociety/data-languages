@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オイ語
     auto: true
+  - translation_iso: spa
+    name: Oy
+    auto: true
   - translation_iso: zho
     name: 奥依语 (南亚语系)
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤンガティサンゴ語
     auto: true
+  - translation_iso: spa
+    name: Sango ribereño
+    auto: true
   - translation_iso: zho
     name: 河滨桑戈语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トグボ・ヴァラ・バンダ語
     auto: true
+  - translation_iso: spa
+    name: Banda Togbo-Vara
+    auto: true
   - translation_iso: zho
     name: 托格博-瓦拉班达语
     auto: true

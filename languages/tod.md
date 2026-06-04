@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トマ語
     auto: true
+  - translation_iso: spa
+    name: Toma
+    auto: true
   - translation_iso: zho
     name: 托玛语
     auto: true

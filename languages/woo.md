@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マノンバイ語
     auto: true
+  - translation_iso: spa
+    name: Manombai
+    auto: true
   - translation_iso: zho
     name: 马诺姆拜语
     auto: true

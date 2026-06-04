@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バサ・グムナ語
+  - translation_iso: spa
+    name: Basa-Gumna
+    auto: true
   - translation_iso: zho
     name: 巴萨-古姆纳语
     auto: true

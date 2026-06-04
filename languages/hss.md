@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハラシース語
+  - translation_iso: spa
+    name: Harsusi
+    auto: true
   - translation_iso: zho
     name: 哈尔苏西语
 ---

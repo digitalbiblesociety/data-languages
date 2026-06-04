@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ソニア語
     auto: true
+  - translation_iso: spa
+    name: Sonia
+    auto: true
   - translation_iso: zho
     name: 索尼亚语
     auto: true

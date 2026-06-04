@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブルー語
     auto: true
+  - translation_iso: spa
+    name: Sô
+    auto: true
   - translation_iso: zho
     name: 索语
     auto: true

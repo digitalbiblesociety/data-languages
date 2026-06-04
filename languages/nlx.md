@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カルト語
+  - translation_iso: spa
+    name: Nahali
+    auto: true
   - translation_iso: zho
     name: 纳哈利语
     auto: true

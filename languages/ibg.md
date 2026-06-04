@@ -25,6 +25,9 @@ translations:
     name: イバナグ語
   - translation_iso: kor
     name: 이바나그어
+  - translation_iso: spa
+    name: Ibanag
+    auto: true
   - translation_iso: zho
     name: 伊巴納格語
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タグワナ・セヌフォ語
     auto: true
+  - translation_iso: spa
+    name: Tagwana Senoufo
+    auto: true
   - translation_iso: zho
     name: 塔格瓦纳塞努福语
     auto: true

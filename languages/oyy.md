@@ -19,10 +19,13 @@ translations:
     name: اللغة أويا أويا
     auto: true
   - translation_iso: hin
-    name: ओया'ओया
+    name: "ओया'ओया"
     auto: true
   - translation_iso: jpn
     name: オヤ・オヤ語
+    auto: true
+  - translation_iso: spa
+    name: "Oya'oya"
     auto: true
   - translation_iso: zho
     name: 奥亚奥亚语

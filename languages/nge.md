@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンコン語
+  - translation_iso: spa
+    name: Ngemba
+    auto: true
   - translation_iso: zho
     name: 恩格姆巴语
     auto: true

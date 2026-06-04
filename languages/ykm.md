@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カップ語
     auto: true
+  - translation_iso: spa
+    name: Kap
+    auto: true
   - translation_iso: zho
     name: 卡普语
     auto: true

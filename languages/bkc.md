@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バカ語
+  - translation_iso: spa
+    name: Baka (Camerún)
+    auto: true
   - translation_iso: zho
     name: 巴卡语（喀麦隆）
     auto: true

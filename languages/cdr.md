@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チンダ・レギ・ティヤル語
     auto: true
+  - translation_iso: spa
+    name: Cinda-Regi-Tiyal
+    auto: true
   - translation_iso: zho
     name: 辛达-雷吉-蒂亚尔语
     auto: true

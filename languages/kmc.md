@@ -25,6 +25,9 @@ translations:
     name: トン語
   - translation_iso: kor
     name: 동어
+  - translation_iso: spa
+    name: Dong Meridional
+    auto: true
   - translation_iso: zho
     name: 侗语
 rolv_dialects:

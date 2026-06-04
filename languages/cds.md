@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チャド手話
+  - translation_iso: spa
+    name: Lengua de Señas del Chad
+    auto: true
   - translation_iso: zho
     name: 乍得手语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イクル語
     auto: true
+  - translation_iso: spa
+    name: Ikulu
+    auto: true
   - translation_iso: zho
     name: 伊库卢语
     auto: true

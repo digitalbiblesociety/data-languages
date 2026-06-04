@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シラワ語
     auto: true
+  - translation_iso: spa
+    name: Siri
+    auto: true
   - translation_iso: zho
     name: 西里语
     auto: true

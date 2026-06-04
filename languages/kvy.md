@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イインターレ・カレン語
     auto: true
+  - translation_iso: spa
+    name: Karen Yintale
+    auto: true
   - translation_iso: zho
     name: 因塔雷卡伦语
     auto: true

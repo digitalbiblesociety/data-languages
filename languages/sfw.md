@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セフウィ語
+  - translation_iso: spa
+    name: Sehwi
+    auto: true
   - translation_iso: zho
     name: 塞赫维语
     auto: true

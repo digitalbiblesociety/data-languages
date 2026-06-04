@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワンジ語
     auto: true
+  - translation_iso: spa
+    name: Wandji
+    auto: true
   - translation_iso: zho
     name: 万吉语
     auto: true

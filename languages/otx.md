@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: テクスカテペック・オトミ語
     auto: true
+  - translation_iso: spa
+    name: Otomí de Texcatepec
+    auto: true
   - translation_iso: zho
     name: 特克斯卡特佩克奥托米语
     auto: true

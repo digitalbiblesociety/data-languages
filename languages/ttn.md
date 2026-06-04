@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トウェ語
     auto: true
+  - translation_iso: spa
+    name: Towei
+    auto: true
   - translation_iso: zho
     name: 托威语
     auto: true

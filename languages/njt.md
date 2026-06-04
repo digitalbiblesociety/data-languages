@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンディユカ・トリオ・ピジン語
     auto: true
+  - translation_iso: spa
+    name: Pidgin Ndyuka-Trio
+    auto: true
   - translation_iso: zho
     name: 恩迪尤卡-特里奥皮钦语
     auto: true

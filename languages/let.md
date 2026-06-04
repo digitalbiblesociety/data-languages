@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レシン・ゲリミ語
     auto: true
+  - translation_iso: spa
+    name: Lesing-Gelimi
+    auto: true
   - translation_iso: zho
     name: 莱辛-格利米语
     auto: true

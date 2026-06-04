@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ペエゴ語
     auto: true
+  - translation_iso: spa
+    name: Kpeego
+    auto: true
   - translation_iso: zho
     name: 克皮戈语
     auto: true

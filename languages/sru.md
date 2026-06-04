@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パイテル語
     auto: true
+  - translation_iso: spa
+    name: Suruí
+    auto: true
   - translation_iso: zho
     name: 苏鲁伊语
     auto: true

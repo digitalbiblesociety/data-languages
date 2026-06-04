@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スナム語
+  - translation_iso: spa
+    name: Sunam
+    auto: true
   - translation_iso: zho
     name: 苏纳姆语
     auto: true

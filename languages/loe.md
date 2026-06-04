@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サルアン語
     auto: true
+  - translation_iso: spa
+    name: Saluan
+    auto: true
   - translation_iso: zho
     name: 萨鲁安语
     auto: true

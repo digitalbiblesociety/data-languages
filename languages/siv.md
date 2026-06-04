@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラトマ語
     auto: true
+  - translation_iso: spa
+    name: Sumariup
+    auto: true
   - translation_iso: zho
     name: 苏马留普语
     auto: true

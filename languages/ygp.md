@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ゲポ語
     auto: true
+  - translation_iso: spa
+    name: Gepo
+    auto: true
   - translation_iso: zho
     name: 峨颇语
 ---

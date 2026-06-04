@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バンバラン語
     auto: true
+  - translation_iso: spa
+    name: Bambalang
+    auto: true
   - translation_iso: zho
     name: 巴姆巴兰语
     auto: true

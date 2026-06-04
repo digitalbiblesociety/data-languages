@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンガウン・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Ngawn
+    auto: true
   - translation_iso: zho
     name: 恩高恩钦语
     auto: true

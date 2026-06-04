@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北ボリビアンケチュア語
     auto: true
+  - translation_iso: spa
+    name: Quechua boliviano septentrional
+    auto: true
   - translation_iso: zho
     name: 北玻利维亚克丘亚语
     auto: true

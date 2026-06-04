@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミリ語
     auto: true
+  - translation_iso: spa
+    name: Mili
+    auto: true
   - translation_iso: zho
     name: 咪俚语
 ---

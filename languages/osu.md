@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南ワン語
     auto: true
+  - translation_iso: spa
+    name: One meridional
+    auto: true
   - translation_iso: zho
     name: 南翁语
     auto: true

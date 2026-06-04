@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウガンダ手話
+  - translation_iso: spa
+    name: Lengua de señas ugandesa
+    auto: true
   - translation_iso: zho
     name: 乌干达手语
     auto: true

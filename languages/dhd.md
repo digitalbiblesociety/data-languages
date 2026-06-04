@@ -22,6 +22,9 @@ translations:
     name: ढूंढारी
   - translation_iso: jpn
     name: ドゥーンダリ語
+  - translation_iso: spa
+    name: Dhundari
+    auto: true
   - translation_iso: zho
     name: 敦达尔语
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スクォミッシ語
+  - translation_iso: spa
+    name: Squamish
+    auto: true
   - translation_iso: zho
     name: 斯阔米什语
 ---

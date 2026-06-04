@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コミニムング語
     auto: true
+  - translation_iso: spa
+    name: Kominimung
+    auto: true
   - translation_iso: zho
     name: 科米尼蒙语
     auto: true

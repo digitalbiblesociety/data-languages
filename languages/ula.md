@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウラ語
     auto: true
+  - translation_iso: spa
+    name: Fungwa
+    auto: true
   - translation_iso: zho
     name: 芬格瓦语
     auto: true

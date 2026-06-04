@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サアフィサアフィ語
     auto: true
+  - translation_iso: spa
+    name: Saafi-Saafi
+    auto: true
   - translation_iso: zho
     name: 萨菲-萨菲语
     auto: true

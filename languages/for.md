@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フォレ語
+  - translation_iso: spa
+    name: Fore
+    auto: true
   - translation_iso: zho
     name: 福雷语
     auto: true

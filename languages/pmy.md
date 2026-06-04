@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パプア・マレー語
+  - translation_iso: spa
+    name: Malayo papú
+    auto: true
   - translation_iso: zho
     name: 巴布亞馬來語
 rolv_dialects:

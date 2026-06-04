@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パルヤ・バレリ語
     auto: true
+  - translation_iso: spa
+    name: Bareli de Palya
+    auto: true
   - translation_iso: zho
     name: 帕利亚巴雷利语
     auto: true

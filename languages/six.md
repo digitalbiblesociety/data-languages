@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガリア語
+  - translation_iso: spa
+    name: Sumau
+    auto: true
   - translation_iso: zho
     name: 苏毛语
     auto: true

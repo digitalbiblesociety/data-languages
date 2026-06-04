@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セントソンテペク・チャティーノ語
     auto: true
+  - translation_iso: spa
+    name: Chatino de Zenzontepec
+    auto: true
   - translation_iso: zho
     name: 泽松特佩克查蒂诺语
     auto: true

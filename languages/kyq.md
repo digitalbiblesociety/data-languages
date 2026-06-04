@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ケンガ語
     auto: true
+  - translation_iso: spa
+    name: Kenga
+    auto: true
   - translation_iso: zho
     name: 肯加语
     auto: true

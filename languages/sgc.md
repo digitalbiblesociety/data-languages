@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キプシギ語
+  - translation_iso: spa
+    name: Kipsigis
+    auto: true
   - translation_iso: zho
     name: 基普西吉斯语
     auto: true

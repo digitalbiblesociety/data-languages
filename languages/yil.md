@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イーンジラランジ語
     auto: true
+  - translation_iso: spa
+    name: Yindjilandji
+    auto: true
   - translation_iso: zho
     name: 伊因季兰季语
     auto: true

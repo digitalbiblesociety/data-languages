@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アワク語
     auto: true
+  - translation_iso: spa
+    name: Awak
+    auto: true
   - translation_iso: zho
     name: 阿瓦克语
     auto: true

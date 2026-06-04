@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リベリアン・イングリッシュ語
     auto: true
+  - translation_iso: spa
+    name: Inglés liberiano
+    auto: true
   - translation_iso: zho
     name: 利比里亚克里奥尔语
 rolv_dialects:

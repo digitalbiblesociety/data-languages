@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アモン語
     auto: true
+  - translation_iso: spa
+    name: Umon
+    auto: true
   - translation_iso: zho
     name: 乌蒙语
     auto: true

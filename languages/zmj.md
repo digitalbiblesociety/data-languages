@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マリジャビン語
     auto: true
+  - translation_iso: spa
+    name: Maridjabin
+    auto: true
   - translation_iso: zho
     name: 马里甲宾语
     auto: true

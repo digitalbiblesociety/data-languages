@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サウ語
     auto: true
+  - translation_iso: spa
+    name: Samberigi
+    auto: true
   - translation_iso: zho
     name: 桑贝里吉语
     auto: true

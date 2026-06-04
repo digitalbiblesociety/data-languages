@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥワリ・イフガオ語
     auto: true
+  - translation_iso: spa
+    name: Ifugao Tuwali
+    auto: true
   - translation_iso: zho
     name: 图瓦利伊富高语
     auto: true

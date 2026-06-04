@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケテ語
+  - translation_iso: spa
+    name: Kete
+    auto: true
   - translation_iso: zho
     name: 凯特语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コヒン語
     auto: true
+  - translation_iso: spa
+    name: Kohin
+    auto: true
   - translation_iso: zho
     name: 科欣语
     auto: true

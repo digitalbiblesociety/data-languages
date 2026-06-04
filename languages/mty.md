@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナビ語
     auto: true
+  - translation_iso: spa
+    name: Nabi
+    auto: true
   - translation_iso: zho
     name: 纳比语
     auto: true

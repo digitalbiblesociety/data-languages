@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 비아파다어
+  - translation_iso: spa
+    name: Biafada
+    auto: true
   - translation_iso: zho
     name: 比亚法达语
 ---

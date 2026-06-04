@@ -25,6 +25,9 @@ translations:
     name: ウォリオ語
   - translation_iso: kor
     name: 월리오어
+  - translation_iso: spa
+    name: Wolio
+    auto: true
   - translation_iso: zho
     name: 窝里沃语
 ---

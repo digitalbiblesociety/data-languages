@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イカ語
     auto: true
+  - translation_iso: spa
+    name: Ika
+    auto: true
   - translation_iso: zho
     name: 伊卡语
     auto: true

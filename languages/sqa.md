@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥシャマ語
     auto: true
+  - translation_iso: spa
+    name: Shama-Sambuga
+    auto: true
   - translation_iso: zho
     name: 沙马-桑布加语
     auto: true

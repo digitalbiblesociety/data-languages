@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トゥベトゥベ語
     auto: true
+  - translation_iso: spa
+    name: Bwanabwana
+    auto: true
   - translation_iso: zho
     name: 布瓦纳布瓦纳语
     auto: true

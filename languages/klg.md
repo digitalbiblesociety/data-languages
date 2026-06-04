@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タガカウロ語
     auto: true
+  - translation_iso: spa
+    name: Tagakaulo
+    auto: true
   - translation_iso: zho
     name: 他加卡乌洛语
     auto: true

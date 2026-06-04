@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チンタンゲ語
     auto: true
+  - translation_iso: spa
+    name: Chhintange
+    auto: true
   - translation_iso: zho
     name: 钦塔恩格语
     auto: true

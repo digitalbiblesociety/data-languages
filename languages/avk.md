@@ -23,6 +23,9 @@ translations:
     name: コタヴァ
   - translation_iso: kor
     name: 코타바
+  - translation_iso: spa
+    name: Kotava
+    auto: true
   - translation_iso: zho
     name: 科塔瓦语
 ---

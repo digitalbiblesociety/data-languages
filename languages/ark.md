@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アリカプ語
     auto: true
+  - translation_iso: spa
+    name: Arikapú
+    auto: true
   - translation_iso: zho
     name: 阿里卡普语
     auto: true

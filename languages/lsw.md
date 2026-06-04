@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: セイシェル手話
     auto: true
+  - translation_iso: spa
+    name: Lengua de señas de Seychelles
+    auto: true
   - translation_iso: zho
     name: 塞舌尔手语
     auto: true

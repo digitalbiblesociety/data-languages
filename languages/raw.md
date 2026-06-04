@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラワン語
+  - translation_iso: spa
+    name: Rawang
+    auto: true
   - translation_iso: zho
     name: 侬日旺语
 rolv_dialects:

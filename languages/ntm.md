@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナテニ語
     auto: true
+  - translation_iso: spa
+    name: Nateni
+    auto: true
   - translation_iso: zho
     name: 纳特尼语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベイゴ語
+  - translation_iso: spa
+    name: Baygo
+    auto: true
   - translation_iso: zho
     name: 拜戈语
     auto: true

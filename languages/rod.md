@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロゴ語
     auto: true
+  - translation_iso: spa
+    name: Rogo
+    auto: true
   - translation_iso: zho
     name: 罗戈语
     auto: true

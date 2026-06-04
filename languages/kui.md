@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クイクロ・カラパロ語
     auto: true
+  - translation_iso: spa
+    name: Kuikúro-Kalapálo
+    auto: true
   - translation_iso: zho
     name: 库伊库罗-卡拉帕洛语
     auto: true

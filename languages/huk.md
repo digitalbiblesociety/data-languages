@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フルング語
     auto: true
+  - translation_iso: spa
+    name: Hulung
+    auto: true
   - translation_iso: zho
     name: 胡隆语
     auto: true

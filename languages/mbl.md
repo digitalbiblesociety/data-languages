@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マクサカリ語
     auto: true
+  - translation_iso: spa
+    name: Maxakalí
+    auto: true
   - translation_iso: zho
     name: 马克萨卡利语
     auto: true

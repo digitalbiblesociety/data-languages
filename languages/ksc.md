@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サザン・カリンガ語
     auto: true
+  - translation_iso: spa
+    name: Kalinga Meridional
+    auto: true
   - translation_iso: zho
     name: 南卡林加语
     auto: true

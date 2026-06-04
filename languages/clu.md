@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カルヤヌン語
     auto: true
+  - translation_iso: spa
+    name: Caluyanun
+    auto: true
   - translation_iso: zho
     name: 卡卢亚农语
     auto: true

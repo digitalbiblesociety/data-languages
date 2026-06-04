@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バングウィンジ語
     auto: true
+  - translation_iso: spa
+    name: Bangwinji
+    auto: true
   - translation_iso: zho
     name: 邦温吉语
     auto: true

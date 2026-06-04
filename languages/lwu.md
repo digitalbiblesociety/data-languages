@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラウ語
     auto: true
+  - translation_iso: spa
+    name: Lawu
+    auto: true
   - translation_iso: zho
     name: 拉邬语
 ---

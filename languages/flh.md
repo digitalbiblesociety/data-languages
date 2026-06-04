@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フォアウ語
     auto: true
+  - translation_iso: spa
+    name: Foau
+    auto: true
   - translation_iso: zho
     name: 福奥语
     auto: true

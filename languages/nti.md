@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナティオロ語
     auto: true
+  - translation_iso: spa
+    name: Natioro
+    auto: true
   - translation_iso: zho
     name: 纳蒂奥罗语
     auto: true

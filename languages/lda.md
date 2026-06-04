@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: クラ・ダン語
     auto: true
+  - translation_iso: spa
+    name: Kla-Dan
+    auto: true
   - translation_iso: zho
     name: 克拉-丹语
     auto: true

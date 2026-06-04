@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 하류 버드킨 제어
+  - translation_iso: spa
+    name: Lower Burdekin
+    auto: true
   - translation_iso: zho
     name: 下伯德金语
     auto: true

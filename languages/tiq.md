@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティエフォ語
     auto: true
+  - translation_iso: spa
+    name: Tiéfo
+    auto: true
   - translation_iso: zho
     name: 蒂埃福语
     auto: true

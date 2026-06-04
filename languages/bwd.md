@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブァイドカ語
+  - translation_iso: spa
+    name: Bwaidoka
+    auto: true
   - translation_iso: zho
     name: 布瓦伊多卡语
     auto: true

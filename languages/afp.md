@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タペイ語
     auto: true
+  - translation_iso: spa
+    name: Tapei
+    auto: true
   - translation_iso: zho
     name: 塔佩伊语
     auto: true

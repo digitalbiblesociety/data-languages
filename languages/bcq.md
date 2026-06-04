@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベンチ語
+  - translation_iso: spa
+    name: Bench
+    auto: true
   - translation_iso: zho
     name: 本奇语
     auto: true

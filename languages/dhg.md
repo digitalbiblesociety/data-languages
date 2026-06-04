@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダングゥ・ジャングゥ語
     auto: true
+  - translation_iso: spa
+    name: Dhangu-Djangu
+    auto: true
   - translation_iso: zho
     name: 丹古-詹古语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングアラクガン語
     auto: true
+  - translation_iso: spa
+    name: Ngalakgan
+    auto: true
   - translation_iso: zho
     name: 恩加拉克甘语
     auto: true

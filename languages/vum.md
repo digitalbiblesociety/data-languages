@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブンブ語
     auto: true
+  - translation_iso: spa
+    name: Vumbu
+    auto: true
   - translation_iso: zho
     name: 武布语
     auto: true

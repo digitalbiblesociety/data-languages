@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニンバリ語
     auto: true
+  - translation_iso: spa
+    name: Nimbari
+    auto: true
   - translation_iso: zho
     name: 尼姆巴里语
     auto: true

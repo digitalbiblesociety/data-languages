@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イキン・アオホ語
     auto: true
+  - translation_iso: spa
+    name: Ikhin-Aokho
+    auto: true
   - translation_iso: zho
     name: 伊金-奥克霍语
     auto: true

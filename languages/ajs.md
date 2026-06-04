@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: アルジェリア・ユダヤ・サイン・ランゲージ語
     auto: true
+  - translation_iso: spa
+    name: Lengua de señas judía argelina
+    auto: true
   - translation_iso: zho
     name: 阿尔及利亚犹太手语
     auto: true

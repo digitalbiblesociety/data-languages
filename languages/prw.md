@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パラウェン語
     auto: true
+  - translation_iso: spa
+    name: Parawen
+    auto: true
   - translation_iso: zho
     name: 帕拉温语
     auto: true

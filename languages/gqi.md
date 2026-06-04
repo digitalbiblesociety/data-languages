@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グイチョン語
+  - translation_iso: spa
+    name: Guiqiong
+    auto: true
   - translation_iso: zho
     name: 贵琼语
 ---

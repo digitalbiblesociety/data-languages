@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マラッカン・クレオール・マレー語
     auto: true
+  - translation_iso: spa
+    name: Criollo malayo de Malaca
+    auto: true
   - translation_iso: zho
     name: 仄迪話
 ---

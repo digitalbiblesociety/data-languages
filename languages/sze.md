@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: セゼ語
     auto: true
+  - translation_iso: spa
+    name: Seze
+    auto: true
   - translation_iso: zho
     name: 塞泽语
     auto: true

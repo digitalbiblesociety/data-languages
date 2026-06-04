@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モロウアス語
     auto: true
+  - translation_iso: spa
+    name: Morouas
+    auto: true
   - translation_iso: zho
     name: 莫鲁阿斯语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビジャラ語
     auto: true
+  - translation_iso: spa
+    name: Bidjara
+    auto: true
   - translation_iso: zho
     name: 比吉亚拉语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マロ語
     auto: true
+  - translation_iso: spa
+    name: Malo
+    auto: true
   - translation_iso: zho
     name: 它瑪姆波語
 rolv_dialects:

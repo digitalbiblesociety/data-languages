@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カカバイ語
     auto: true
+  - translation_iso: spa
+    name: Kakabai
+    auto: true
   - translation_iso: zho
     name: 卡卡拜语
     auto: true

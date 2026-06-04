@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ワジュク語
     auto: true
+  - translation_iso: spa
+    name: Wajuk
+    auto: true
   - translation_iso: zho
     name: 瓦朱克语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チチェゲ語
     auto: true
+  - translation_iso: spa
+    name: Tchitchege
+    auto: true
   - translation_iso: zho
     name: 奇奇切格语
     auto: true

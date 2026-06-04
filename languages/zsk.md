@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カスキアン語
+  - translation_iso: spa
+    name: Kaskeo
+    auto: true
   - translation_iso: zho
     name: 卡斯克语
     auto: true

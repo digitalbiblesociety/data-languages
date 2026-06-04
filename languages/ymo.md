@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤングム・モン語
     auto: true
+  - translation_iso: spa
+    name: Yangum Mon
+    auto: true
   - translation_iso: zho
     name: 扬古姆-蒙语
     auto: true

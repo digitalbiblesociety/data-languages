@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メヤ語
     auto: true
+  - translation_iso: spa
+    name: Meyah
+    auto: true
   - translation_iso: zho
     name: 梅雅语
     auto: true

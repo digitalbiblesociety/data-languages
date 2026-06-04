@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モロ語
+  - translation_iso: spa
+    name: Moro
+    auto: true
   - translation_iso: zho
     name: 莫罗语
     auto: true

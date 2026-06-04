@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チュアヴェ語
+  - translation_iso: spa
+    name: Chuave
+    auto: true
   - translation_iso: zho
     name: 丘瓦维语
     auto: true

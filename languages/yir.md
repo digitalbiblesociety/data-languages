@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北アウィユ語
     auto: true
+  - translation_iso: spa
+    name: Awyu del norte
+    auto: true
   - translation_iso: zho
     name: 北阿乌语
     auto: true

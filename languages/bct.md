@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベンディ語
     auto: true
+  - translation_iso: spa
+    name: Bendi
+    auto: true
   - translation_iso: zho
     name: 本迪语
     auto: true

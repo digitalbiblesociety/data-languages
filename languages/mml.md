@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マン・メット語
     auto: true
+  - translation_iso: spa
+    name: Man Met
+    auto: true
   - translation_iso: zho
     name: 克蔑语
 ---

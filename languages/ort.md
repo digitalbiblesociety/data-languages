@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: アディバシ・オリヤ語
     auto: true
+  - translation_iso: spa
+    name: Oriya adivasi
+    auto: true
   - translation_iso: zho
     name: 阿迪瓦西奥里亚语
     auto: true

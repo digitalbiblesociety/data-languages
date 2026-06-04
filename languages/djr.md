@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ジャンバルプイング語
     auto: true
+  - translation_iso: spa
+    name: Djambarrpuyngu
+    auto: true
   - translation_iso: zho
     name: 詹巴普因古语
     auto: true

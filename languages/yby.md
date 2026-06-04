@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤウェユハ語
     auto: true
+  - translation_iso: spa
+    name: Yaweyuha
+    auto: true
   - translation_iso: zho
     name: 亚韦尤哈语
     auto: true

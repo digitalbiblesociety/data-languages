@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チキウィトラン・マサテク語
     auto: true
+  - translation_iso: spa
+    name: Mazateco de Chiquihuitlán
+    auto: true
   - translation_iso: zho
     name: 奇基乌伊特兰马萨特克语
     auto: true

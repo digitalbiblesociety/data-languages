@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゴンゴ語
+  - translation_iso: spa
+    name: Ngongo
+    auto: true
   - translation_iso: zho
     name: 恩贡戈语
     auto: true

@@ -25,6 +25,9 @@ translations:
     name: マンガレバ語
   - translation_iso: kor
     name: 망가레바어
+  - translation_iso: spa
+    name: Mangareva
+    auto: true
   - translation_iso: zho
     name: 芒阿雷瓦语
 ---

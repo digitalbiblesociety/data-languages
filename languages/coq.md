@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: コキール語
     auto: true
+  - translation_iso: spa
+    name: Coquille
+    auto: true
   - translation_iso: zho
     name: 科基尔语
     auto: true

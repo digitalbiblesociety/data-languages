@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南ログライ語
     auto: true
+  - translation_iso: spa
+    name: Roglai meridional
+    auto: true
   - translation_iso: zho
     name: 南部罗格莱语
     auto: true

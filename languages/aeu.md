@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アケウ語
     auto: true
+  - translation_iso: spa
+    name: Akeu
+    auto: true
   - translation_iso: zho
     name: 阿克语
 ---

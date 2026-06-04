@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リヒル語
+  - translation_iso: spa
+    name: Lihir
+    auto: true
   - translation_iso: zho
     name: 利希尔语
     auto: true

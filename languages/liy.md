@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バンダ・バンバリ語
     auto: true
+  - translation_iso: spa
+    name: Banda-Bambari
+    auto: true
   - translation_iso: zho
     name: 班达-班巴里语
     auto: true

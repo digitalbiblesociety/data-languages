@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タコニ語
     auto: true
+  - translation_iso: spa
+    name: Tachoni
+    auto: true
   - translation_iso: zho
     name: 塔乔尼语
     auto: true

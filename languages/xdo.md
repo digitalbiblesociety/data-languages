@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: クワンドゥ語
     auto: true
+  - translation_iso: spa
+    name: Kwandu
+    auto: true
   - translation_iso: zho
     name: 克万都语
     auto: true

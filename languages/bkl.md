@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベリク語
     auto: true
+  - translation_iso: spa
+    name: Berik
+    auto: true
   - translation_iso: zho
     name: 貝力克語
 ---

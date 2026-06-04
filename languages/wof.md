@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガンビア・ウォロフ語
     auto: true
+  - translation_iso: spa
+    name: Wolof gambiano
+    auto: true
   - translation_iso: zho
     name: 冈比亚沃洛夫语
     auto: true

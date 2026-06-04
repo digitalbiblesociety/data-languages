@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラコタ・ディダ語
     auto: true
+  - translation_iso: spa
+    name: Dida de Lakota
+    auto: true
   - translation_iso: zho
     name: 拉科塔迪达语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クヤメカルコ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Cuyamecalco
+    auto: true
   - translation_iso: zho
     name: 库亚梅卡尔科-米斯特克语
     auto: true

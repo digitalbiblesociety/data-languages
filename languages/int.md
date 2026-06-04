@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: インサ語
     auto: true
+  - translation_iso: spa
+    name: Intha
+    auto: true
   - translation_iso: zho
     name: 因塔-达努语
 ---

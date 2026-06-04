@@ -22,6 +22,9 @@ translations:
     name: बेल्लारी भाषा
   - translation_iso: jpn
     name: ベラリ語
+  - translation_iso: spa
+    name: Bellari
+    auto: true
   - translation_iso: zho
     name: 贝拉里语
     auto: true

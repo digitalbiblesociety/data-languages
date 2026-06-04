@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シャマング語
     auto: true
+  - translation_iso: spa
+    name: Shamang
+    auto: true
   - translation_iso: zho
     name: 沙芒语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツォツィタール
+  - translation_iso: spa
+    name: Flaaitaal
+    auto: true
   - translation_iso: zho
     name: 伊斯坎索语
 ---

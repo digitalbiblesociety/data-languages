@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カマユラ語
+  - translation_iso: spa
+    name: Kamayurá
+    auto: true
   - translation_iso: zho
     name: 卡玛尤拉语
     auto: true

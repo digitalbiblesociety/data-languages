@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケヘク語
     auto: true
+  - translation_iso: spa
+    name: Khehek
+    auto: true
   - translation_iso: zho
     name: 克赫克语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モリ・バワ語
     auto: true
+  - translation_iso: spa
+    name: Mori Bawah
+    auto: true
   - translation_iso: zho
     name: 莫里下语
     auto: true

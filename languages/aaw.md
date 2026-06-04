@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラウェ語
+  - translation_iso: spa
+    name: Solong
+    auto: true
   - translation_iso: zho
     name: 索隆语
     auto: true

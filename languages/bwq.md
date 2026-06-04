@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南ボボ・マダレ語
     auto: true
+  - translation_iso: spa
+    name: Bobo Madaré Meridional
+    auto: true
   - translation_iso: zho
     name: 南博博马达雷语
     auto: true

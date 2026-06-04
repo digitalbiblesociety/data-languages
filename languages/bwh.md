@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Bishuo語
+  - translation_iso: spa
+    name: Bishuo
+    auto: true
   - translation_iso: zho
     name: 比舒奥语
     auto: true

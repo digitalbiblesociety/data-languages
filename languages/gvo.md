@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガヴィアン・ド・ジパラナ語
     auto: true
+  - translation_iso: spa
+    name: Gavião del Jiparaná
+    auto: true
   - translation_iso: zho
     name: 吉帕拉纳加维奥语
     auto: true

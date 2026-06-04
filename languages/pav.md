@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワリ語
+  - translation_iso: spa
+    name: Pakaásnovos
+    auto: true
   - translation_iso: zho
     name: 瓦里語
 rolv_dialects:

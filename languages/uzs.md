@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 남 우즈베크
+  - translation_iso: spa
+    name: Uzbeko meridional
+    auto: true
   - translation_iso: zho
     name: 南乌兹别克语
 ---

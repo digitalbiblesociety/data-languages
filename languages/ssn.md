@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワアタ語
+  - translation_iso: spa
+    name: Waata
+    auto: true
   - translation_iso: zho
     name: 瓦塔语
     auto: true

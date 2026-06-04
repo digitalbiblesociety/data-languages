@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 타지크 아랍어
+  - translation_iso: spa
+    name: Árabe tayiko
+    auto: true
   - translation_iso: zho
     name: 塔吉克阿拉伯语
 ---

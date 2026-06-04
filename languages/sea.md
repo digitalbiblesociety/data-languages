@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セマイ語
+  - translation_iso: spa
+    name: Semai
+    auto: true
   - translation_iso: zho
     name: 塞迈语
 rolv_dialects:

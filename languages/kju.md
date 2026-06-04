@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カシャヤ語
     auto: true
+  - translation_iso: spa
+    name: Kashaya
+    auto: true
   - translation_iso: zho
     name: 卡沙牙波莫语
 ---

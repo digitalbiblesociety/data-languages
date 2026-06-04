@@ -17,6 +17,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リボン・ビコール語
+  - translation_iso: spa
+    name: Bikol de Libon
+    auto: true
   - translation_iso: zho
     name: 利邦比科尔语
     auto: true

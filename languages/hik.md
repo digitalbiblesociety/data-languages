@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: セイト・カイテツ語
     auto: true
+  - translation_iso: spa
+    name: Seit-Kaitetu
+    auto: true
   - translation_iso: zho
     name: 塞伊特-凯特图语
     auto: true

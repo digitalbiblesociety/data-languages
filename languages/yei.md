@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イェニ語
+  - translation_iso: spa
+    name: Yeni
+    auto: true
   - translation_iso: zho
     name: 耶尼语
     auto: true

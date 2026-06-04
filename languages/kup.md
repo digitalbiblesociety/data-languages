@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クニマイパ語
     auto: true
+  - translation_iso: spa
+    name: Kunimaipa
+    auto: true
   - translation_iso: zho
     name: 库尼迈帕语
     auto: true

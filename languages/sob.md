@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソベイ語
+  - translation_iso: spa
+    name: Sobei
+    auto: true
   - translation_iso: zho
     name: 索贝伊语
     auto: true

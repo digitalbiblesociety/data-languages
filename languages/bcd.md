@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北ババル語
     auto: true
+  - translation_iso: spa
+    name: Babar Septentrional
+    auto: true
   - translation_iso: zho
     name: 北巴巴尔语
     auto: true

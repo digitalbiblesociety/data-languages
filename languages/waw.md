@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワイワイ語
+  - translation_iso: spa
+    name: Waiwai
+    auto: true
   - translation_iso: zho
     name: 瓦伊瓦伊语
     auto: true

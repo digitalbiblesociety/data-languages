@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 東ラワ語
     auto: true
+  - translation_iso: spa
+    name: Lawa oriental
+    auto: true
   - translation_iso: zho
     name: 东拉瓦语
     auto: true

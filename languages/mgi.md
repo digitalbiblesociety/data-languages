@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リジリ語
     auto: true
+  - translation_iso: spa
+    name: Lijili
+    auto: true
   - translation_iso: zho
     name: 利吉利语
     auto: true

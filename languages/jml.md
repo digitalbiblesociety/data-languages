@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジュムリー語
+  - translation_iso: spa
+    name: Jumli
+    auto: true
   - translation_iso: zho
     name: 朱姆利语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オコトラン・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Ocotlán
+    auto: true
   - translation_iso: zho
     name: 奥科特兰-萨波特克语
     auto: true

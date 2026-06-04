@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カロウ語
     auto: true
+  - translation_iso: spa
+    name: Kalou
+    auto: true
   - translation_iso: zho
     name: 卡劳语
     auto: true

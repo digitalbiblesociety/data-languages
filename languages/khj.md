@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クトゥルミ語
     auto: true
+  - translation_iso: spa
+    name: Kuturmi
+    auto: true
   - translation_iso: zho
     name: 库图尔米语
     auto: true

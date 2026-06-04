@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダゴマン語
     auto: true
+  - translation_iso: spa
+    name: Dagoman
+    auto: true
   - translation_iso: zho
     name: 达戈曼语
     auto: true

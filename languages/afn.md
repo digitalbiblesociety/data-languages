@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デファカ語
+  - translation_iso: spa
+    name: Defaka
+    auto: true
   - translation_iso: zho
     name: Defaka語
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レッド・ゲラオ語
     auto: true
+  - translation_iso: spa
+    name: Gelao rojo
+    auto: true
   - translation_iso: zho
     name: 红仡佬语
 ---

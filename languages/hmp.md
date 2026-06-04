@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部麻山フモン語
+  - translation_iso: spa
+    name: Hmong Mashan septentrional
+    auto: true
   - translation_iso: zho
     name: 北部土语
 ---

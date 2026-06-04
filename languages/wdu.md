@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワジグ語
     auto: true
+  - translation_iso: spa
+    name: Wadjigu
+    auto: true
   - translation_iso: zho
     name: 瓦吉古语
     auto: true

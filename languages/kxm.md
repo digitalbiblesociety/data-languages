@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スリン・クメール語
+  - translation_iso: spa
+    name: Jemer del Norte
+    auto: true
   - translation_iso: zho
     name: 北高棉話
 rolv_dialects:

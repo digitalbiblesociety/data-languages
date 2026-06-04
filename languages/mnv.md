@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レンネル語
+  - translation_iso: spa
+    name: Rennell-Bellona
+    auto: true
   - translation_iso: zho
     name: 伦内尔-贝洛纳语
     auto: true

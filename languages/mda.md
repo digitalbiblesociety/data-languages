@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マダ語
     auto: true
+  - translation_iso: spa
+    name: Mada (Nigeria)
+    auto: true
   - translation_iso: zho
     name: 马达语
     auto: true

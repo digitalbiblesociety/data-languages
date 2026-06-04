@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サルマ語
+  - translation_iso: spa
+    name: Enawené-Nawé
+    auto: true
   - translation_iso: zho
     name: 埃纳韦内-纳韦语
     auto: true

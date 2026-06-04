@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オメテペク・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl de Ometepec
+    auto: true
   - translation_iso: zho
     name: 奥梅特佩克纳瓦特尔语
     auto: true

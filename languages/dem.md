@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: デム語
     auto: true
+  - translation_iso: spa
+    name: Dem
+    auto: true
   - translation_iso: zho
     name: 德姆语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クレレ語
     auto: true
+  - translation_iso: spa
+    name: Kulere
+    auto: true
   - translation_iso: zho
     name: 库莱雷语
     auto: true

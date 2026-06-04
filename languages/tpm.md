@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンプルマ
+  - translation_iso: spa
+    name: Tampulma
+    auto: true
   - translation_iso: zho
     name: 坦普尔玛语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャミンジュング語
+  - translation_iso: spa
+    name: Djamindjung
+    auto: true
   - translation_iso: zho
     name: 詹明詹语
     auto: true

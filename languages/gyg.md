@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ギバイ語
     auto: true
+  - translation_iso: spa
+    name: Gbayi
+    auto: true
   - translation_iso: zho
     name: 吉巴伊语
     auto: true

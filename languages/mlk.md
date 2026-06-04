@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イルワナ語
     auto: true
+  - translation_iso: spa
+    name: Ilwana
+    auto: true
   - translation_iso: zho
     name: 伊尔瓦纳语
     auto: true

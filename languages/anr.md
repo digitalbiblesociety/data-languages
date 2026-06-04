@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: アンドゥ語
     auto: true
+  - translation_iso: spa
+    name: Andh
+    auto: true
   - translation_iso: zho
     name: 安德语
     auto: true

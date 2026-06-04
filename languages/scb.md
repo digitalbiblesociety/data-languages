@@ -25,6 +25,9 @@ translations:
     name: チュット語
   - translation_iso: kor
     name: 쯧어
+  - translation_iso: spa
+    name: Chut
+    auto: true
   - translation_iso: zho
     name: 哲語
 rolv_dialects:

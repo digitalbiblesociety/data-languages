@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダイル語
+  - translation_iso: spa
+    name: Dair
+    auto: true
   - translation_iso: zho
     name: 黛尔语
     auto: true

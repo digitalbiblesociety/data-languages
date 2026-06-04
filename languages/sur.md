@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムワガヴル語
     auto: true
+  - translation_iso: spa
+    name: Mwaghavul
+    auto: true
   - translation_iso: zho
     name: 穆瓦盖哈武尔语
     auto: true

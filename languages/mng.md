@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イースタン・ムノング語
     auto: true
+  - translation_iso: spa
+    name: Mnong Oriental
+    auto: true
   - translation_iso: zho
     name: 东蒙翁语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムスグ語
+  - translation_iso: spa
+    name: Musgu
+    auto: true
   - translation_iso: zho
     name: 穆斯古语
     auto: true

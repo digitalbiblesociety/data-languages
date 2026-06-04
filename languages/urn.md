@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ファウル語
     auto: true
+  - translation_iso: spa
+    name: Uruangnirin
+    auto: true
   - translation_iso: zho
     name: 乌鲁昂尼林语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イェルクラ語
     auto: true
+  - translation_iso: spa
+    name: Yerukula
+    auto: true
   - translation_iso: zho
     name: 耶鲁库拉语
     auto: true

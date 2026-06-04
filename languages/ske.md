@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セケ語
+  - translation_iso: spa
+    name: Seke (Vanuatu)
+    auto: true
   - translation_iso: zho
     name: 塞克语（瓦努阿图）
     auto: true

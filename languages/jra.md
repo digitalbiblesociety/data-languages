@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャライ語
+  - translation_iso: spa
+    name: Jarai
+    auto: true
   - translation_iso: zho
     name: 嘉萊語
 rolv_dialects:

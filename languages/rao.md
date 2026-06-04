@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラオ語
+  - translation_iso: spa
+    name: Rao
+    auto: true
   - translation_iso: zho
     name: 饒語
 rolv_dialects:

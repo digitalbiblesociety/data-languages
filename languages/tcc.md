@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダトガ語
+  - translation_iso: spa
+    name: Datooga
+    auto: true
   - translation_iso: zho
     name: 达陶加语
     auto: true

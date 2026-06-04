@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シニカフア・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Sinicahua
+    auto: true
   - translation_iso: zho
     name: 西尼卡瓦-米斯特克语
     auto: true

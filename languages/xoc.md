@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: オチチ語
     auto: true
+  - translation_iso: spa
+    name: "O'chi'chi'"
+    auto: true
   - translation_iso: zho
     name: 欧奇奇语
     auto: true

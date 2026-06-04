@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北ワギ語
     auto: true
+  - translation_iso: spa
+    name: Wahgi del Norte
+    auto: true
   - translation_iso: zho
     name: 北瓦希语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クパン語
     auto: true
+  - translation_iso: spa
+    name: Kpan
+    auto: true
   - translation_iso: zho
     name: 克潘语
     auto: true

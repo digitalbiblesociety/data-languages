@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イェコラ語
     auto: true
+  - translation_iso: spa
+    name: Yekora
+    auto: true
   - translation_iso: zho
     name: 耶科拉语
     auto: true

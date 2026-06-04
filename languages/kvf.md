@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カバライ語
     auto: true
+  - translation_iso: spa
+    name: Kabalai
+    auto: true
   - translation_iso: zho
     name: 卡巴莱语
     auto: true

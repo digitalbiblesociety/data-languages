@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グスィライ語
+  - translation_iso: spa
+    name: Gusilay
+    auto: true
   - translation_iso: zho
     name: 古西莱语
     auto: true

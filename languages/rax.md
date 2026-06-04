@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラン語
     auto: true
+  - translation_iso: spa
+    name: Rang
+    auto: true
   - translation_iso: zho
     name: 让语
     auto: true

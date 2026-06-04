@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ズルゴ・ゲムゼク語
     auto: true
+  - translation_iso: spa
+    name: Zulgo-Gemzek
+    auto: true
   - translation_iso: zho
     name: 祖尔戈-吉姆泽克语
     auto: true

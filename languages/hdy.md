@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハディヤ語
+  - translation_iso: spa
+    name: Hadiyya
+    auto: true
   - translation_iso: zho
     name: 哈迪亚语
     auto: true

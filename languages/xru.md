@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マリアムム語
     auto: true
+  - translation_iso: spa
+    name: Marriammu
+    auto: true
   - translation_iso: zho
     name: 玛里亚姆鲁语
     auto: true

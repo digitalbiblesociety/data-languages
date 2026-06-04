@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: キルメリ語
     auto: true
+  - translation_iso: spa
+    name: Kilmeri
+    auto: true
   - translation_iso: zho
     name: 基尔梅里语
     auto: true

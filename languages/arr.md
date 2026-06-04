@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラマラマ語
+  - translation_iso: spa
+    name: Karo (Brasil)
+    auto: true
   - translation_iso: zho
     name: 卡罗语
     auto: true

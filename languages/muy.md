@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムヤン語
     auto: true
+  - translation_iso: spa
+    name: Muyang
+    auto: true
   - translation_iso: zho
     name: 穆阳语
     auto: true

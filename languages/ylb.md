@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ヤレバ語
     auto: true
+  - translation_iso: spa
+    name: Yaleba
+    auto: true
   - translation_iso: zho
     name: 亚莱巴语
     auto: true

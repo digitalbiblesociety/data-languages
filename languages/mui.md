@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムシ語
+  - translation_iso: spa
+    name: Musi
+    auto: true
   - translation_iso: zho
     name: 穆西語
 rolv_dialects:

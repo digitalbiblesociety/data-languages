@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アカ語
+  - translation_iso: spa
+    name: Yaka
+    auto: true
   - translation_iso: zho
     name: 雅卡语
     auto: true

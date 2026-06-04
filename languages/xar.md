@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: カラミ語
     auto: true
+  - translation_iso: spa
+    name: Karami
+    auto: true
   - translation_iso: zho
     name: 卡拉米语
     auto: true

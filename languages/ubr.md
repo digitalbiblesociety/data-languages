@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウビル語
     auto: true
+  - translation_iso: spa
+    name: Ubir
+    auto: true
   - translation_iso: zho
     name: 乌比尔语
     auto: true

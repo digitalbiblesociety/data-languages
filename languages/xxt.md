@@ -21,6 +21,9 @@ translations:
     name: タンボラ語
   - translation_iso: kor
     name: 탐보라어
+  - translation_iso: spa
+    name: Tambora
+    auto: true
   - translation_iso: zho
     name: 坦博拉语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウルミ語
     auto: true
+  - translation_iso: spa
+    name: Urumi
+    auto: true
   - translation_iso: zho
     name: 乌鲁米语
     auto: true

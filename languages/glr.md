@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グラロ・トワボ語
     auto: true
+  - translation_iso: spa
+    name: Glaro-Twabo
+    auto: true
   - translation_iso: zho
     name: 格拉罗-特瓦博语
     auto: true

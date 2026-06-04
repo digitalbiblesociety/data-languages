@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: キンガ語
     auto: true
+  - translation_iso: spa
+    name: Kinga
+    auto: true
   - translation_iso: zho
     name: 金加语
     auto: true

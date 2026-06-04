@@ -25,6 +25,9 @@ translations:
     name: ハアソンガハンノ語
   - translation_iso: kor
     name: 카손케어
+  - translation_iso: spa
+    name: Xaasongaxango
+    auto: true
   - translation_iso: zho
     name: 哈松凯语
 ---

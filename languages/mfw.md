@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムラハ語
     auto: true
+  - translation_iso: spa
+    name: Mulaha
+    auto: true
   - translation_iso: zho
     name: 穆拉哈语
     auto: true

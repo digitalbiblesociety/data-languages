@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムセル語
     auto: true
+  - translation_iso: spa
+    name: Mser
+    auto: true
   - translation_iso: zho
     name: 姆塞尔语
     auto: true

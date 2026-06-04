@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部パシュトー語
+  - translation_iso: spa
+    name: Pastún meridional
+    auto: true
   - translation_iso: zho
     name: 南普什圖語
 rolv_dialects:

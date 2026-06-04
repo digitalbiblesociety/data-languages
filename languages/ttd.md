@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: タウアタ語
     auto: true
+  - translation_iso: spa
+    name: Tauade
+    auto: true
   - translation_iso: zho
     name: 塔瓦德语
 ---

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビルマ・カヌリ語
+  - translation_iso: spa
+    name: Kanuri de Bilma
+    auto: true
   - translation_iso: zho
     name: 比尔马卡努里语
 rolv_dialects:

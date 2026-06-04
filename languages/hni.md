@@ -25,6 +25,9 @@ translations:
     name: ハニ語
   - translation_iso: kor
     name: 하니어
+  - translation_iso: spa
+    name: Hani
+    auto: true
   - translation_iso: zho
     name: 哈尼语
 rolv_dialects:

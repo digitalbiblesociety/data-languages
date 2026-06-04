@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガヴァク語
     auto: true
+  - translation_iso: spa
+    name: Gavak
+    auto: true
   - translation_iso: zho
     name: 加瓦克语
     auto: true

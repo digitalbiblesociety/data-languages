@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ペーレ語
     auto: true
+  - translation_iso: spa
+    name: Peere
+    auto: true
   - translation_iso: zho
     name: 佩雷语
     auto: true

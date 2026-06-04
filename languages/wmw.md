@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンワニ語
+  - translation_iso: spa
+    name: Mwani
+    auto: true
   - translation_iso: zho
     name: 姆瓦尼語
 rolv_dialects:

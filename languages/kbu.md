@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カブトラ語
     auto: true
+  - translation_iso: spa
+    name: Kabutra
+    auto: true
   - translation_iso: zho
     name: 卡布特拉语
     auto: true

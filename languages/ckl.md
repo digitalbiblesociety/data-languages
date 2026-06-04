@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チボク語
+  - translation_iso: spa
+    name: Cibak
+    auto: true
   - translation_iso: zho
     name: 西巴克语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガミット語
+  - translation_iso: spa
+    name: Gamit
+    auto: true
   - translation_iso: zho
     name: 加米特语
     auto: true

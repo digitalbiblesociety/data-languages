@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Kango語
+  - translation_iso: spa
+    name: Kango (distrito de Bas-Uélé)
+    auto: true
   - translation_iso: zho
     name: 坎戈语(巴斯-韦莱区)
     auto: true

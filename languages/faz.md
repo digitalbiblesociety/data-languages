@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: 北西ファルス語
     auto: true
+  - translation_iso: spa
+    name: Fars del Noroeste
+    auto: true
   - translation_iso: zho
     name: 西北法尔斯语
     auto: true

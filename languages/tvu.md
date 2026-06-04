@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トゥネン語
     auto: true
+  - translation_iso: spa
+    name: Tunen
+    auto: true
   - translation_iso: zho
     name: 图嫩语
     auto: true

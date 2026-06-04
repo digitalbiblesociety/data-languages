@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タグラ語
+  - translation_iso: spa
+    name: Sudest
+    auto: true
   - translation_iso: zho
     name: 苏德斯特语
     auto: true

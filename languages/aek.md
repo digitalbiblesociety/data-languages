@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハエケ語
     auto: true
+  - translation_iso: spa
+    name: Haeke
+    auto: true
   - translation_iso: zho
     name: 哈埃克语
     auto: true

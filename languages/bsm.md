@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブサミ語
     auto: true
+  - translation_iso: spa
+    name: Busami
+    auto: true
   - translation_iso: zho
     name: 布萨米语
     auto: true

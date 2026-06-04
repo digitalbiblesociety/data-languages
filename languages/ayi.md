@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レイイーグハ語
     auto: true
+  - translation_iso: spa
+    name: Leyigha
+    auto: true
   - translation_iso: zho
     name: 莱伊格哈语
     auto: true

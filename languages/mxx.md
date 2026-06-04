@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マホウ語
     auto: true
+  - translation_iso: spa
+    name: Mahou
+    auto: true
   - translation_iso: zho
     name: 玛侯语
     auto: true

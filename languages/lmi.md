@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ロンビ語
     auto: true
+  - translation_iso: spa
+    name: Lombi
+    auto: true
   - translation_iso: zho
     name: 龙比语
     auto: true

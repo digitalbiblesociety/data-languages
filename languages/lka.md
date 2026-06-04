@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラカレイ語
     auto: true
+  - translation_iso: spa
+    name: Lakalei
+    auto: true
   - translation_iso: zho
     name: 拉卡莱语
     auto: true

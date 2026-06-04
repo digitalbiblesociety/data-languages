@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビラースプリ語
     auto: true
+  - translation_iso: spa
+    name: Bilaspuri
+    auto: true
   - translation_iso: zho
     name: 比拉斯普尔语
 ---

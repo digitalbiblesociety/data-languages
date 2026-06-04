@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プーイエ語
     auto: true
+  - translation_iso: spa
+    name: Pouye
+    auto: true
   - translation_iso: zho
     name: 普耶语
     auto: true

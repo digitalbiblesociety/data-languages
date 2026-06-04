@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ビッブルマン語
     auto: true
+  - translation_iso: spa
+    name: Bibbulman
+    auto: true
   - translation_iso: zho
     name: 比布尔曼语
     auto: true

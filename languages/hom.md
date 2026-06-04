@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホマ語
+  - translation_iso: spa
+    name: Homa
+    auto: true
   - translation_iso: zho
     name: 霍玛语
     auto: true

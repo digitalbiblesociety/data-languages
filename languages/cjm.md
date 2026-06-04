@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: チャム語
     auto: true
+  - translation_iso: spa
+    name: Cham Oriental
+    auto: true
   - translation_iso: zho
     name: 东部占语
 ---

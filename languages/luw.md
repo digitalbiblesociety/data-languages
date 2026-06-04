@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルオ語
     auto: true
+  - translation_iso: spa
+    name: Luo (Camerún)
+    auto: true
   - translation_iso: zho
     name: 卢奥语
     auto: true

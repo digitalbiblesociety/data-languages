@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エファイ語
     auto: true
+  - translation_iso: spa
+    name: Efai
+    auto: true
   - translation_iso: zho
     name: 埃法伊语
     auto: true

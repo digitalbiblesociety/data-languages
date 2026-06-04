@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テーン語
     auto: true
+  - translation_iso: spa
+    name: Téén
+    auto: true
   - translation_iso: zho
     name: 特恩语
     auto: true

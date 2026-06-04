@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マルグベ語
     auto: true
+  - translation_iso: spa
+    name: Malgbe
+    auto: true
   - translation_iso: zho
     name: 玛尔格贝语
     auto: true

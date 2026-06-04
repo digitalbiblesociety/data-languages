@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ロウアー・グランド・ヴァレー・ダニ語
     auto: true
+  - translation_iso: spa
+    name: Dani del Bajo Valle Grande
+    auto: true
   - translation_iso: zho
     name: 下大瓦利达尼语
     auto: true

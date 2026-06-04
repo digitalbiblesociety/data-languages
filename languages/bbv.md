@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリム語
+  - translation_iso: spa
+    name: Karnai
+    auto: true
   - translation_iso: zho
     name: 卡尔奈语
     auto: true

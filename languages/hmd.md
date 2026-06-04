@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 大花苗語
+  - translation_iso: spa
+    name: Miao de las grandes flores
+    auto: true
   - translation_iso: zho
     name: 苗语滇东北次方言
 rolv_dialects:

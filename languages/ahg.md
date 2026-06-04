@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キマント語
     auto: true
+  - translation_iso: spa
+    name: Qimant
+    auto: true
   - translation_iso: zho
     name: 齐曼特语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バハウ語
     auto: true
+  - translation_iso: spa
+    name: Bahau
+    auto: true
   - translation_iso: zho
     name: 巴豪语
     auto: true

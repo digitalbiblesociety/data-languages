@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メワティ語
     auto: true
+  - translation_iso: spa
+    name: Mewati
+    auto: true
   - translation_iso: zho
     name: 梅瓦蒂语
     auto: true

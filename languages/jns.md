@@ -22,6 +22,9 @@ translations:
     name: जौनसारी भाषा
   - translation_iso: jpn
     name: ジャウンサーリー語
+  - translation_iso: spa
+    name: Jaunsari
+    auto: true
   - translation_iso: zho
     name: 焦恩萨里语
     auto: true

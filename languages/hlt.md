@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マトゥ・チン語
     auto: true
+  - translation_iso: spa
+    name: Matu Chin
+    auto: true
   - translation_iso: zho
     name: 马图钦语
     auto: true

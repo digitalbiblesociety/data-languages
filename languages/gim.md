@@ -25,6 +25,9 @@ translations:
     name: ギミ語
   - translation_iso: kor
     name: 기미어
+  - translation_iso: spa
+    name: Gimi (Tierras Altas Orientales)
+    auto: true
   - translation_iso: zho
     name: 幾密語
 rolv_dialects:

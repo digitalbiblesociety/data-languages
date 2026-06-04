@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シラカヨアパン・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Silacayoapan
+    auto: true
   - translation_iso: zho
     name: 西拉卡约阿潘混合语
     auto: true

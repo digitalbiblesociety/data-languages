@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナブ語
     auto: true
+  - translation_iso: spa
+    name: Navut
+    auto: true
   - translation_iso: zho
     name: 纳瓦特语
     auto: true

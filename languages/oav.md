@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: 古アバル語
     auto: true
+  - translation_iso: spa
+    name: Avar antiguo
+    auto: true
   - translation_iso: zho
     name: 古阿瓦尔语
     auto: true

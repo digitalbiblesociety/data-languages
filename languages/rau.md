@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラウテ語
     auto: true
+  - translation_iso: spa
+    name: Raute
+    auto: true
   - translation_iso: zho
     name: 劳特语
     auto: true

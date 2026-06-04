@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルタ手話
+  - translation_iso: spa
+    name: Lengua de señas maltesa
+    auto: true
   - translation_iso: zho
     name: 马耳他手语
 ---

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コナイ語
     auto: true
+  - translation_iso: spa
+    name: Konai
+    auto: true
   - translation_iso: zho
     name: 科奈语
     auto: true

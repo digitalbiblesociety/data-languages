@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウダ語
     auto: true
+  - translation_iso: spa
+    name: Uda
+    auto: true
   - translation_iso: zho
     name: 乌达语
     auto: true

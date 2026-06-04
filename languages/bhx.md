@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: バハレイ語
     auto: true
+  - translation_iso: spa
+    name: Bhalay
+    auto: true
   - translation_iso: zho
     name: 巴哈莱语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グルマナ語
     auto: true
+  - translation_iso: spa
+    name: Gurmana
+    auto: true
   - translation_iso: zho
     name: 古尔马纳语
     auto: true

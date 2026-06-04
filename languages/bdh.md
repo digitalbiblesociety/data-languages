@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バカ語
     auto: true
+  - translation_iso: spa
+    name: Baka (Sudán del Sur)
+    auto: true
   - translation_iso: zho
     name: 南苏丹巴卡语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タグダル語
     auto: true
+  - translation_iso: spa
+    name: Tagdal
+    auto: true
   - translation_iso: zho
     name: 塔格达尔语
     auto: true

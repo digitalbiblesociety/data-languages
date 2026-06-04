@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギチョーデ語
+  - translation_iso: spa
+    name: Gikyode
+    auto: true
   - translation_iso: zho
     name: 吉基约德语
     auto: true

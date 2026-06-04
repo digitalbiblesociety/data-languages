@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: プドトル・アッタ語
     auto: true
+  - translation_iso: spa
+    name: Atta de Pudtol
+    auto: true
   - translation_iso: zho
     name: 普德托尔阿塔语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イス語
     auto: true
+  - translation_iso: spa
+    name: Yis
+    auto: true
   - translation_iso: zho
     name: 伊斯语
     auto: true

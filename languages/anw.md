@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アナン語
+  - translation_iso: spa
+    name: Anaang
+    auto: true
   - translation_iso: zho
     name: 阿南语
 rolv_dialects:

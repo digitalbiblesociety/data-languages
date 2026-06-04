@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 알루무테수어
+  - translation_iso: spa
+    name: Alumu-Tesu
+    auto: true
   - translation_iso: zho
     name: 阿卢木-特苏语
     auto: true

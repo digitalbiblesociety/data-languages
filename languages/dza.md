@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥンズ語
     auto: true
+  - translation_iso: spa
+    name: Tunzu
+    auto: true
   - translation_iso: zho
     name: 图恩祖语
     auto: true

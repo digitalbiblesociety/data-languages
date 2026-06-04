@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウェ・ノーザン語
     auto: true
+  - translation_iso: spa
+    name: Wè del Norte
+    auto: true
   - translation_iso: zho
     name: 北韦语
     auto: true

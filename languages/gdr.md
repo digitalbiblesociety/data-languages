@@ -25,6 +25,9 @@ translations:
     name: ウィピ語
   - translation_iso: kor
     name: 위피어
+  - translation_iso: spa
+    name: Wipi
+    auto: true
   - translation_iso: zho
     name: 维皮语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バナール語
+  - translation_iso: spa
+    name: Bahnar
+    auto: true
   - translation_iso: zho
     name: 巴拿语
 rolv_dialects:

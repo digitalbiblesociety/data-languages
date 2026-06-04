@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワパン語
     auto: true
+  - translation_iso: spa
+    name: Wapan
+    auto: true
   - translation_iso: zho
     name: 瓦潘语
     auto: true

@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: ラータ・カレン語
     auto: true
+  - translation_iso: spa
+    name: Karen Lahta
+    auto: true
   - translation_iso: zho
     name: 拉塔卡伦语
     auto: true

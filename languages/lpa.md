@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: レレパ語
     auto: true
+  - translation_iso: spa
+    name: Lelepa
+    auto: true
   - translation_iso: zho
     name: 勒勒帕语
     auto: true

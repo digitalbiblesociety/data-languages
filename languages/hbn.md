@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヘイバン語
     auto: true
+  - translation_iso: spa
+    name: Heibán
+    auto: true
   - translation_iso: zho
     name: 海班语
     auto: true

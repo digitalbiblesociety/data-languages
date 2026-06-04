@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウォームスプリングス語
     auto: true
+  - translation_iso: spa
+    name: Tenino
+    auto: true
   - translation_iso: zho
     name: 特尼诺语
     auto: true

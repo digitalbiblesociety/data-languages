@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エル・アルト・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de El Alto
+    auto: true
   - translation_iso: zho
     name: 埃尔阿尔托萨波特克语
     auto: true

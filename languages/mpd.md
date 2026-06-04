@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マシネレ語
     auto: true
+  - translation_iso: spa
+    name: Machinere
+    auto: true
   - translation_iso: zho
     name: 马奇内雷语
     auto: true

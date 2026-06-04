@@ -25,6 +25,9 @@ translations:
     name: ヌン語 (台語)
   - translation_iso: kor
     name: 눙어
+  - translation_iso: spa
+    name: Nung (Vietnam)
+    auto: true
   - translation_iso: zho
     name: 儂語
 rolv_dialects:

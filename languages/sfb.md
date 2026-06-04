@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワロン手話
+  - translation_iso: spa
+    name: Lengua de Señas de Bélgica Francófona
+    auto: true
   - translation_iso: zho
     name: 比利时法语手语
     auto: true

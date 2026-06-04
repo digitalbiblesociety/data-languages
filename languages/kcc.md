@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルビラ語
     auto: true
+  - translation_iso: spa
+    name: Lubila
+    auto: true
   - translation_iso: zho
     name: 卢比拉语
     auto: true

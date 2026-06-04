@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブルン語
+  - translation_iso: spa
+    name: Burun
+    auto: true
   - translation_iso: zho
     name: 布伦语
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ワハウ・カヤン語
     auto: true
+  - translation_iso: spa
+    name: Wahau Kayan
+    auto: true
   - translation_iso: zho
     name: 瓦豪卡扬语
     auto: true

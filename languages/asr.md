@@ -22,6 +22,9 @@ translations:
     name: असुर भाषा
   - translation_iso: jpn
     name: アスル語
+  - translation_iso: spa
+    name: Asuri
+    auto: true
   - translation_iso: zho
     name: 阿苏尔语
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マラヴェダン語
     auto: true
+  - translation_iso: spa
+    name: Malavedan
+    auto: true
   - translation_iso: zho
     name: 玛拉韦丹语
     auto: true

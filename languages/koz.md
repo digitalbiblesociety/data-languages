@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コラク語
     auto: true
+  - translation_iso: spa
+    name: Korak
+    auto: true
   - translation_iso: zho
     name: 科拉克语
     auto: true

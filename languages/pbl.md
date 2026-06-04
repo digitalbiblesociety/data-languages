@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マク語
     auto: true
+  - translation_iso: spa
+    name: Mak (Nigeria)
+    auto: true
   - translation_iso: zho
     name: 马克语
     auto: true

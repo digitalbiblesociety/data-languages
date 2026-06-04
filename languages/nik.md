@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南ニコバル語
     auto: true
+  - translation_iso: spa
+    name: Nicobaresino meridional
+    auto: true
   - translation_iso: zho
     name: 南尼科巴語
 rolv_dialects:

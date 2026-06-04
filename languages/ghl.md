@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グルファン語
     auto: true
+  - translation_iso: spa
+    name: Ghulfan
+    auto: true
   - translation_iso: zho
     name: 古尔凡语
     auto: true

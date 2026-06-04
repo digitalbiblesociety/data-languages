@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケニア手話
+  - translation_iso: spa
+    name: Lengua de señas keniana
+    auto: true
   - translation_iso: zho
     name: 肯尼亚手语
     auto: true

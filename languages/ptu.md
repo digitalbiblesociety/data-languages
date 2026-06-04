@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バンバム語
     auto: true
+  - translation_iso: spa
+    name: Bambam
+    auto: true
   - translation_iso: zho
     name: 班班姆语
     auto: true

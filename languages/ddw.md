@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダウェラ・ダウェロール語
     auto: true
+  - translation_iso: spa
+    name: Dawera-Daweloor
+    auto: true
   - translation_iso: zho
     name: 达韦拉-达韦洛尔语
 ---

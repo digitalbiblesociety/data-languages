@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ソウ・ナマ語
     auto: true
+  - translation_iso: spa
+    name: Sou Nama
+    auto: true
   - translation_iso: zho
     name: 索乌纳马语
     auto: true

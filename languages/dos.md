@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゴセ語
     auto: true
+  - translation_iso: spa
+    name: Dogosé
+    auto: true
   - translation_iso: zho
     name: 多戈塞语
     auto: true

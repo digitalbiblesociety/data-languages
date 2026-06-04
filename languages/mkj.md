@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モキル語
+  - translation_iso: spa
+    name: Mokilés
+    auto: true
   - translation_iso: zho
     name: 莫基莱塞语
     auto: true

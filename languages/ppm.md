@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パプマ語
     auto: true
+  - translation_iso: spa
+    name: Papuma
+    auto: true
   - translation_iso: zho
     name: 帕普玛语
     auto: true

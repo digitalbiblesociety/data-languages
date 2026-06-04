@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケオル・アヒア語
     auto: true
+  - translation_iso: spa
+    name: Keoru-Ahia
+    auto: true
   - translation_iso: zho
     name: 克欧鲁-阿希亚语
     auto: true

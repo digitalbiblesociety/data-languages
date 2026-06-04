@@ -22,6 +22,9 @@ translations:
     name: मारा भाषा
   - translation_iso: jpn
     name: マラ語
+  - translation_iso: spa
+    name: Mara Chin
+    auto: true
   - translation_iso: zho
     name: 玛拉钦语
     auto: true

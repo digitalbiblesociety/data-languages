@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バンタヤノン語
     auto: true
+  - translation_iso: spa
+    name: Bantayanon
+    auto: true
   - translation_iso: zho
     name: 邦塔亚侬语
     auto: true

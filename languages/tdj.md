@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タジオ語
     auto: true
+  - translation_iso: spa
+    name: Tajio
+    auto: true
   - translation_iso: zho
     name: 塔吉奥语
     auto: true

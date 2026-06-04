@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: フーザ語
     auto: true
+  - translation_iso: spa
+    name: Phuza
+    auto: true
   - translation_iso: zho
     name: 普扎语
     auto: true

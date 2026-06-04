@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロケ語
     auto: true
+  - translation_iso: spa
+    name: Loke
+    auto: true
   - translation_iso: zho
     name: 洛克语
     auto: true

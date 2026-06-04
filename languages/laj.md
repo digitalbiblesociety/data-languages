@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ランゴ語
+  - translation_iso: spa
+    name: Lango (Uganda)
+    auto: true
   - translation_iso: zho
     name: 兰戈语(乌干达)
     auto: true

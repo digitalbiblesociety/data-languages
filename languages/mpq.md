@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マティス語
     auto: true
+  - translation_iso: spa
+    name: Matís
+    auto: true
   - translation_iso: zho
     name: 玛蒂斯语
     auto: true

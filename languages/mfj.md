@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メフェレ語
     auto: true
+  - translation_iso: spa
+    name: Mefele
+    auto: true
   - translation_iso: zho
     name: 梅费莱语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブレリ語
     auto: true
+  - translation_iso: spa
+    name: Breri
+    auto: true
   - translation_iso: zho
     name: 布雷里语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テニス語
+  - translation_iso: spa
+    name: Tenis
+    auto: true
   - translation_iso: zho
     name: 特尼斯语
     auto: true

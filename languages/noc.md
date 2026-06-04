@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヌク語
     auto: true
+  - translation_iso: spa
+    name: Nuk
+    auto: true
   - translation_iso: zho
     name: 努克语
     auto: true

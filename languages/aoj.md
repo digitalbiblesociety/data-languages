@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部アラペシュ語
+  - translation_iso: spa
+    name: Mufian
+    auto: true
   - translation_iso: zho
     name: 姆菲亚语
     auto: true

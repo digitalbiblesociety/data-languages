@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アナムグラ語
     auto: true
+  - translation_iso: spa
+    name: Anamgura
+    auto: true
   - translation_iso: zho
     name: 阿纳姆古拉语
     auto: true

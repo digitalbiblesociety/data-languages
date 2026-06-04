@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チュラヒ語
     auto: true
+  - translation_iso: spa
+    name: Churahi
+    auto: true
   - translation_iso: zho
     name: 丘拉希语
     auto: true

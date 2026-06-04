@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブヤカ語
     auto: true
+  - translation_iso: spa
+    name: Sentani
+    auto: true
   - translation_iso: zho
     name: 塞塔尼语
     auto: true

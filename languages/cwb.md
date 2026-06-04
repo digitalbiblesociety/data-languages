@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マインド語
     auto: true
+  - translation_iso: spa
+    name: Maindo
+    auto: true
   - translation_iso: zho
     name: 迈因多语
     auto: true

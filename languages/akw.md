@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Akwa語
+  - translation_iso: spa
+    name: Akwa
+    auto: true
   - translation_iso: zho
     name: 阿库瓦语
     auto: true

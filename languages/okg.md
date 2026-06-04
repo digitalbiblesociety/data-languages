@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ココ・ババングク語
     auto: true
+  - translation_iso: spa
+    name: Koko Babangk
+    auto: true
   - translation_iso: zho
     name: 科科巴邦克语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トリプラ語
     auto: true
+  - translation_iso: spa
+    name: Tippera
+    auto: true
   - translation_iso: zho
     name: 蒂佩拉语
     auto: true

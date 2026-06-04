@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヒトゥ語
     auto: true
+  - translation_iso: spa
+    name: Hitu
+    auto: true
   - translation_iso: zho
     name: 希图语
     auto: true

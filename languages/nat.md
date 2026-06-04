@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カフングワリャ語
     auto: true
+  - translation_iso: spa
+    name: Ca̱hungwa̱rya̱
+    auto: true
   - translation_iso: zho
     name: 卡洪古瓦里亚语
     auto: true

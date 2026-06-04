@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ダルロング語
     auto: true
+  - translation_iso: spa
+    name: Darlong
+    auto: true
   - translation_iso: zho
     name: 达隆语
     auto: true

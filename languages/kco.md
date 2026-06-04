@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: キナラクナ語
     auto: true
+  - translation_iso: spa
+    name: Kinalakna
+    auto: true
   - translation_iso: zho
     name: 基纳拉克纳语
     auto: true

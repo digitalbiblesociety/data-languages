@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 傣雅語
+  - translation_iso: spa
+    name: Tai Ya
+    auto: true
   - translation_iso: zho
     name: 傣雅
 rolv_dialects:

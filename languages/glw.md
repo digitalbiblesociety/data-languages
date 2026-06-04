@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グラヴダ語
     auto: true
+  - translation_iso: spa
+    name: Glavda
+    auto: true
   - translation_iso: zho
     name: 格拉夫达语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・トラコルラ・バレー・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco del Valle de Tlacolula occidental
+    auto: true
   - translation_iso: zho
     name: 西特拉科卢拉山谷-萨波特克语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オイダ語
     auto: true
+  - translation_iso: spa
+    name: Oyda
+    auto: true
   - translation_iso: zho
     name: 奥伊达语
     auto: true

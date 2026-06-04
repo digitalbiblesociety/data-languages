@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マトゥカル語
     auto: true
+  - translation_iso: spa
+    name: Matukar
+    auto: true
   - translation_iso: zho
     name: 玛图卡尔语
     auto: true

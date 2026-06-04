@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: マイイ・タクルティ語
     auto: true
+  - translation_iso: spa
+    name: Mayi-Thakurti
+    auto: true
   - translation_iso: zho
     name: 麦伊-塔库尔蒂语
     auto: true

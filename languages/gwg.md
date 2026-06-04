@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モー語
     auto: true
+  - translation_iso: spa
+    name: Moo
+    auto: true
   - translation_iso: zho
     name: 莫语
     auto: true

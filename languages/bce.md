@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バメニャム語
     auto: true
+  - translation_iso: spa
+    name: Bamenyam
+    auto: true
   - translation_iso: zho
     name: 巴梅尼亚姆语
     auto: true

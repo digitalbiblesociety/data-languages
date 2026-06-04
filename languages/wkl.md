@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カラナディ語
     auto: true
+  - translation_iso: spa
+    name: Kalanadi
+    auto: true
   - translation_iso: zho
     name: 卡拉纳迪语
     auto: true

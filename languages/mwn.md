@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムワンガ語
+  - translation_iso: spa
+    name: Nyamwanga
+    auto: true
   - translation_iso: zho
     name: 尼亚姆旺加语
     auto: true

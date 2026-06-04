@@ -21,6 +21,9 @@ translations:
     name: नेपाली सांकेतिक भाषा
   - translation_iso: jpn
     name: ネパール手話
+  - translation_iso: spa
+    name: Lengua de Señas de Nepal
+    auto: true
   - translation_iso: zho
     name: 尼泊尔手语
     auto: true

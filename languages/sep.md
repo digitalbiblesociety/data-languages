@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シシレ語
     auto: true
+  - translation_iso: spa
+    name: Senoufo Sìcìté
+    auto: true
   - translation_iso: zho
     name: 西西特塞努福语
     auto: true

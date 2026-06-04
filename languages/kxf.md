@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マヌマナウ・カレン語
     auto: true
+  - translation_iso: spa
+    name: Karen Manumanaw
+    auto: true
   - translation_iso: zho
     name: 玛努玛瑙卡伦语
     auto: true

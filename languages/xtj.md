@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サンファン・テイタ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de San Juan Teita
+    auto: true
   - translation_iso: zho
     name: 圣胡安-特伊塔-米斯特克语
     auto: true

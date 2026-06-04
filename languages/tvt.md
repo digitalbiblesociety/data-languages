@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トトチャ語
     auto: true
+  - translation_iso: spa
+    name: Tutsa Naga
+    auto: true
   - translation_iso: zho
     name: 图萨纳加语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コロポ語
     auto: true
+  - translation_iso: spa
+    name: Koropó
+    auto: true
   - translation_iso: zho
     name: 科罗波语
     auto: true

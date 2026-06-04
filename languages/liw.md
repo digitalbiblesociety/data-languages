@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コル語
     auto: true
+  - translation_iso: spa
+    name: Col
+    auto: true
   - translation_iso: zho
     name: 科尔语
     auto: true

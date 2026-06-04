@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部パシュトー語
+  - translation_iso: spa
+    name: Pastún septentrional
+    auto: true
   - translation_iso: zho
     name: 北普什图语
     auto: true

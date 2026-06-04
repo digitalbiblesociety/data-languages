@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ブ語（バウチ州）
     auto: true
+  - translation_iso: spa
+    name: Bu (Estado de Bauchi)
+    auto: true
   - translation_iso: zho
     name: 布语(包奇州)
     auto: true

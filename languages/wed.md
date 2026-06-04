@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウェダウ語
     auto: true
+  - translation_iso: spa
+    name: Wedau
+    auto: true
   - translation_iso: zho
     name: 韦道语
     auto: true

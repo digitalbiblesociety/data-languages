@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アセンセング語
     auto: true
+  - translation_iso: spa
+    name: Sengseng
+    auto: true
   - translation_iso: zho
     name: 塞恩塞恩语
     auto: true

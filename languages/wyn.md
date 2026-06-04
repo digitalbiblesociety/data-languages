@@ -15,6 +15,9 @@ translations:
   - translation_iso: jpn
     name: ワイアンドット語
     auto: true
+  - translation_iso: spa
+    name: Wyandot
+    auto: true
   - translation_iso: zho
     name: 怀恩多特语
     auto: true

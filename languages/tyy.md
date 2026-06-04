@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カドゥン語
     auto: true
+  - translation_iso: spa
+    name: Kwanka
+    auto: true
   - translation_iso: zho
     name: 夸卡语
     auto: true

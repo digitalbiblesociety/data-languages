@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モコレ語
     auto: true
+  - translation_iso: spa
+    name: Mokole
+    auto: true
   - translation_iso: zho
     name: 莫科莱语
     auto: true

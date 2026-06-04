@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チョラウ語
     auto: true
+  - translation_iso: spa
+    name: Chrau
+    auto: true
   - translation_iso: zho
     name: 遮罗语
 rolv_dialects:

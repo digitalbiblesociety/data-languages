@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブラッラ語
     auto: true
+  - translation_iso: spa
+    name: Burarra
+    auto: true
   - translation_iso: zho
     name: 布拉拉语
 rolv_dialects:

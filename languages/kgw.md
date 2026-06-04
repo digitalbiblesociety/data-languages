@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カロン・ドリ語
     auto: true
+  - translation_iso: spa
+    name: Karon Dori
+    auto: true
   - translation_iso: zho
     name: 卡龙·多里语
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: バドゥイ語
     auto: true
+  - translation_iso: spa
+    name: Badui
+    auto: true
   - translation_iso: zho
     name: 巴堆語
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アッラディアン語
     auto: true
+  - translation_iso: spa
+    name: Alladian
+    auto: true
   - translation_iso: zho
     name: 阿拉迪亚语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タウリル語
+  - translation_iso: spa
+    name: Taulil
+    auto: true
   - translation_iso: zho
     name: 陶利尔语
     auto: true

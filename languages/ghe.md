@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サザン・ガレ語
     auto: true
+  - translation_iso: spa
+    name: Ghale meridional
+    auto: true
   - translation_iso: zho
     name: 南加莱语
     auto: true

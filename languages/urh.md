@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウロボ語
+  - translation_iso: spa
+    name: Urhobo
+    auto: true
   - translation_iso: zho
     name: 烏爾霍博語
 rolv_dialects:

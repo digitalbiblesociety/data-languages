@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イサンゲレ語
     auto: true
+  - translation_iso: spa
+    name: Usaghade
+    auto: true
   - translation_iso: zho
     name: 乌萨加德语
     auto: true

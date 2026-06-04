@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コリ語
     auto: true
+  - translation_iso: spa
+    name: Cori
+    auto: true
   - translation_iso: zho
     name: 科里语
     auto: true

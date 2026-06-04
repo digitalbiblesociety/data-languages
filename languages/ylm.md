@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 留米語
+  - translation_iso: spa
+    name: Limi
+    auto: true
   - translation_iso: zho
     name: 留米语
 ---

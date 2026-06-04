@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボボト語
     auto: true
+  - translation_iso: spa
+    name: Bobot
+    auto: true
   - translation_iso: zho
     name: 博博特语
     auto: true

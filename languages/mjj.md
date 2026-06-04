@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マワク語
     auto: true
+  - translation_iso: spa
+    name: Mawak
+    auto: true
   - translation_iso: zho
     name: 玛瓦克语
     auto: true

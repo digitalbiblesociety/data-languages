@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カルキン語
     auto: true
+  - translation_iso: spa
+    name: Karkin
+    auto: true
   - translation_iso: zho
     name: 卡尔金语
     auto: true

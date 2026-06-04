@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オロカイヴァ語
+  - translation_iso: spa
+    name: Orokaiva
+    auto: true
   - translation_iso: zho
     name: 歐羅開巴語
 rolv_dialects:

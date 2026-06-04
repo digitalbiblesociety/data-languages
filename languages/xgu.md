@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウングミ語
     auto: true
+  - translation_iso: spa
+    name: Unggumi
+    auto: true
   - translation_iso: zho
     name: 翁古米语
     auto: true

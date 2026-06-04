@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウェ語
     auto: true
+  - translation_iso: spa
+    name: Wè Meridional
+    auto: true
   - translation_iso: zho
     name: 韦南方语
     auto: true

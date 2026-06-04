@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボセレワ語
     auto: true
+  - translation_iso: spa
+    name: Boselewa
+    auto: true
   - translation_iso: zho
     name: 博塞莱瓦语
     auto: true

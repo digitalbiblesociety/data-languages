@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南ナゴ語
     auto: true
+  - translation_iso: spa
+    name: Nago del Sur
+    auto: true
   - translation_iso: zho
     name: 南纳戈语
     auto: true

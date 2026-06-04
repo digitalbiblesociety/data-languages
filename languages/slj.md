@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: タレーノイジョミ語
     auto: true
+  - translation_iso: spa
+    name: Salumá
+    auto: true
   - translation_iso: zho
     name: 萨卢马语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シャハルディ語
     auto: true
+  - translation_iso: spa
+    name: Shahrudi
+    auto: true
   - translation_iso: zho
     name: 沙赫鲁迪语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドゥスネル語
     auto: true
+  - translation_iso: spa
+    name: Dusner
+    auto: true
   - translation_iso: zho
     name: 杜斯内尔语
     auto: true

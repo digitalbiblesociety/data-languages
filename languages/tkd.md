@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トコデデ語
+  - translation_iso: spa
+    name: Tukudede
+    auto: true
   - translation_iso: zho
     name: 图库德德语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タディャワン語
     auto: true
+  - translation_iso: spa
+    name: Tadyawan
+    auto: true
   - translation_iso: zho
     name: 塔迪亚万语
     auto: true

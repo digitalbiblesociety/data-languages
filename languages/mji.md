@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムン語
+  - translation_iso: spa
+    name: Kim Mun
+    auto: true
   - translation_iso: zho
     name: 金门方言
 rolv_dialects:

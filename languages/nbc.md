@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チャン・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Chang
+    auto: true
   - translation_iso: zho
     name: 昌纳加语
     auto: true

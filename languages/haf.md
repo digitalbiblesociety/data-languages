@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハイフォン手話
+  - translation_iso: spa
+    name: Lengua de señas de Haiphong
+    auto: true
   - translation_iso: zho
     name: 海防手语
     auto: true

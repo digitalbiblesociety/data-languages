@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ギッチサン語
     auto: true
+  - translation_iso: spa
+    name: Gitxsan
+    auto: true
   - translation_iso: zho
     name: 吉特克桑语
     auto: true

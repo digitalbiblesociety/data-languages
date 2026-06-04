@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東ニス語
     auto: true
+  - translation_iso: spa
+    name: Nisu Oriental
+    auto: true
   - translation_iso: zho
     name: 东尼苏语
     auto: true

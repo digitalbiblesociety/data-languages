@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ピラ語
     auto: true
+  - translation_iso: spa
+    name: Maia
+    auto: true
   - translation_iso: zho
     name: 玛亚语
     auto: true

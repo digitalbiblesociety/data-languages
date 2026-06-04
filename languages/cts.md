@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北カタンドゥアネス・ビコール語
+  - translation_iso: spa
+    name: Bikol del Norte de Catanduanes
+    auto: true
   - translation_iso: zho
     name: 北卡坦杜亚内斯比科尔语
     auto: true

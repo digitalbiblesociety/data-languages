@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ムウィンビ・ムタンビ語
     auto: true
+  - translation_iso: spa
+    name: Mwimbi-Muthambi
+    auto: true
   - translation_iso: zho
     name: 姆温比-穆塔姆比语
     auto: true

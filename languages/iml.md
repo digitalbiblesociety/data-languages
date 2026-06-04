@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミルク語
     auto: true
+  - translation_iso: spa
+    name: Miluk
+    auto: true
   - translation_iso: zho
     name: 米卢克语
     auto: true

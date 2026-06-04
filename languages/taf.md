@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タピラペ語
     auto: true
+  - translation_iso: spa
+    name: Tapirapé
+    auto: true
   - translation_iso: zho
     name: 塔皮拉佩语
     auto: true

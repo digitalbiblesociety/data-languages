@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラジャ・カブンスワン・マノボ語
     auto: true
+  - translation_iso: spa
+    name: Manobo Rajah Kabunsuwan
+    auto: true
   - translation_iso: zho
     name: 拉惹卡布苏万曼诺博语
     auto: true

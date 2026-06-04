@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ロギール語
     auto: true
+  - translation_iso: spa
+    name: Logir
+    auto: true
   - translation_iso: zho
     name: 洛吉尔语
     auto: true

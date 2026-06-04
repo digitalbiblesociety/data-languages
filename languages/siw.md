@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モトゥナ語
+  - translation_iso: spa
+    name: Siwai
+    auto: true
   - translation_iso: zho
     name: 西瓦伊语
     auto: true

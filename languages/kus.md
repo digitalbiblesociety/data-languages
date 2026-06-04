@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クサール語
+  - translation_iso: spa
+    name: Kusaal
+    auto: true
   - translation_iso: zho
     name: 库萨尔语
 rolv_dialects:

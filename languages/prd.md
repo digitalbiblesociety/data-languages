@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: パルシダリ語
     auto: true
+  - translation_iso: spa
+    name: Parsi-Dari
+    auto: true
   - translation_iso: zho
     name: 帕尔西-达里语
     auto: true

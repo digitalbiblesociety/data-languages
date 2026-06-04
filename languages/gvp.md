@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パラ・ガヴィアン語
     auto: true
+  - translation_iso: spa
+    name: Gavião del Pará
+    auto: true
   - translation_iso: zho
     name: 帕拉加维奥语
     auto: true

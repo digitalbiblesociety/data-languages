@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルクパ語
     auto: true
+  - translation_iso: spa
+    name: Lukpa
+    auto: true
   - translation_iso: zho
     name: 卢克帕语
 rolv_dialects:

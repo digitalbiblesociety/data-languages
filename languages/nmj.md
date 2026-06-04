@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ングオンベ語
     auto: true
+  - translation_iso: spa
+    name: Ngombe
+    auto: true
   - translation_iso: zho
     name: 恩贡贝语
     auto: true

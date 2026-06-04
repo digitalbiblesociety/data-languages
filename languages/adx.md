@@ -25,6 +25,9 @@ translations:
     name: アムド・チベット語
   - translation_iso: kor
     name: 암도 티베트어
+  - translation_iso: spa
+    name: Tibetano amdo
+    auto: true
   - translation_iso: zho
     name: 安多方言
 rolv_dialects:

@@ -22,6 +22,9 @@ translations:
     name: तीराही भाषा
   - translation_iso: jpn
     name: ティラーヒー語
+  - translation_iso: spa
+    name: Tirahi
+    auto: true
   - translation_iso: zho
     name: 蒂拉希语
     auto: true

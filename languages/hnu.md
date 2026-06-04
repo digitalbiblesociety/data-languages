@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハング語
     auto: true
+  - translation_iso: spa
+    name: Hung
+    auto: true
   - translation_iso: zho
     name: 洪语
     auto: true

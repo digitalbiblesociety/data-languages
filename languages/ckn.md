@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カーン・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Kaang
+    auto: true
   - translation_iso: zho
     name: 卡昂钦语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南タイロラ語
     auto: true
+  - translation_iso: spa
+    name: Tairora meridional
+    auto: true
   - translation_iso: zho
     name: 南泰伊罗拉语
     auto: true

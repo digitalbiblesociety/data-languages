@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クッチ・スワヒリ語
     auto: true
+  - translation_iso: spa
+    name: Suajili Cutchi
+    auto: true
   - translation_iso: zho
     name: 库奇-斯瓦希里语
     auto: true

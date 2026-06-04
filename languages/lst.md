@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トリニダード・トバゴ手話
+  - translation_iso: spa
+    name: Lengua de señas de Trinidad y Tobago
+    auto: true
   - translation_iso: zho
     name: 特立尼达和多巴哥手语
     auto: true

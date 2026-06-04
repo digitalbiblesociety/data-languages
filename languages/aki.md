@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アイオメ語
     auto: true
+  - translation_iso: spa
+    name: Aiome
+    auto: true
   - translation_iso: zho
     name: 艾欧梅语
     auto: true

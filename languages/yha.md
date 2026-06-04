@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パハ語
+  - translation_iso: spa
+    name: Buyang de Baha
+    auto: true
   - translation_iso: zho
     name: 巴哈语
 rolv_dialects:

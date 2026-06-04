@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドン語
     auto: true
+  - translation_iso: spa
+    name: Dong
+    auto: true
   - translation_iso: zho
     name: 侗语
     auto: true

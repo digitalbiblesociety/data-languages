@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バイケノ語
     auto: true
+  - translation_iso: spa
+    name: Baikeno
+    auto: true
   - translation_iso: zho
     name: 拜克诺语
     auto: true

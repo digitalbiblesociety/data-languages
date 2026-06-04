@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バロムビ語
     auto: true
+  - translation_iso: spa
+    name: Barombi
+    auto: true
   - translation_iso: zho
     name: 巴罗姆比语
     auto: true

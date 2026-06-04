@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラカ語
+  - translation_iso: spa
+    name: Senoufo palaka
+    auto: true
   - translation_iso: zho
     name: 帕拉卡塞努福语
     auto: true

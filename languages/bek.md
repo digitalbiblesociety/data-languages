@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カポレ語
+  - translation_iso: spa
+    name: Bebeli
+    auto: true
   - translation_iso: zho
     name: 贝贝利语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワントアト語
     auto: true
+  - translation_iso: spa
+    name: Wantoat
+    auto: true
   - translation_iso: zho
     name: 万托亚特语
     auto: true

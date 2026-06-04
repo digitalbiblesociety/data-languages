@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムブグ語
     auto: true
+  - translation_iso: spa
+    name: Mbugu
+    auto: true
   - translation_iso: zho
     name: 姆布古语
     auto: true

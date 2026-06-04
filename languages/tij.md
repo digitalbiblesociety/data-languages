@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティルン語
     auto: true
+  - translation_iso: spa
+    name: Tilung
+    auto: true
   - translation_iso: zho
     name: 蒂隆语
     auto: true

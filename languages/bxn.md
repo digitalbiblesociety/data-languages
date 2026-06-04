@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブルドゥナ語
     auto: true
+  - translation_iso: spa
+    name: Burduna
+    auto: true
   - translation_iso: zho
     name: 布尔杜纳语
     auto: true

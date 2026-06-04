@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カナシ語
     auto: true
+  - translation_iso: spa
+    name: Kanashi
+    auto: true
   - translation_iso: zho
     name: 卡納西語
 ---

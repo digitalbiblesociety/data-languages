@@ -22,6 +22,9 @@ translations:
     name: अंगामी भाषा
   - translation_iso: jpn
     name: アンガミ語
+  - translation_iso: spa
+    name: Naga Angami
+    auto: true
   - translation_iso: zho
     name: 安加米语
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マバアレ語
     auto: true
+  - translation_iso: spa
+    name: Mabaale
+    auto: true
   - translation_iso: zho
     name: 玛巴莱语
     auto: true

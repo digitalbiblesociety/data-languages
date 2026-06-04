@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: クルン語
     auto: true
+  - translation_iso: spa
+    name: Krung
+    auto: true
   - translation_iso: zho
     name: 克龙语
     auto: true

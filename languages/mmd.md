@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マオナン語
+  - translation_iso: spa
+    name: Maonan
+    auto: true
   - translation_iso: zho
     name: 毛南语
 ---

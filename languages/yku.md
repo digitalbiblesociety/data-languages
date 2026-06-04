@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クアマシ語
     auto: true
+  - translation_iso: spa
+    name: Kuamasi
+    auto: true
   - translation_iso: zho
     name: 跨玛斯话
 ---

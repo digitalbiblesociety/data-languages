@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニャンガ・リ語
     auto: true
+  - translation_iso: spa
+    name: Nyanga-li
+    auto: true
   - translation_iso: zho
     name: 尼亚加利语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナムイ語
+  - translation_iso: spa
+    name: Namuyi
+    auto: true
   - translation_iso: zho
     name: 納木依語
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エンベラ・タド語
     auto: true
+  - translation_iso: spa
+    name: Emberá-Tadó
+    auto: true
   - translation_iso: zho
     name: 埃姆贝拉-塔多语
     auto: true

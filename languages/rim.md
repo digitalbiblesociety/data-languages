@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニャトゥル語
     auto: true
+  - translation_iso: spa
+    name: Nyaturu
+    auto: true
   - translation_iso: zho
     name: 尼亚图鲁语
     auto: true

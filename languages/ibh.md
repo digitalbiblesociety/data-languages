@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ビ語
     auto: true
+  - translation_iso: spa
+    name: Bih
+    auto: true
   - translation_iso: zho
     name: 比赫语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ペカル語
     auto: true
+  - translation_iso: spa
+    name: Pekal
+    auto: true
   - translation_iso: zho
     name: 佩卡尔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ノートレ語
     auto: true
+  - translation_iso: spa
+    name: Notre
+    auto: true
   - translation_iso: zho
     name: 诺特雷语
     auto: true

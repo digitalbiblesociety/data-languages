@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウェールズ・ロマ語
+  - translation_iso: spa
+    name: Romaní galés
+    auto: true
   - translation_iso: zho
     name: 威尔士罗姆语
     auto: true

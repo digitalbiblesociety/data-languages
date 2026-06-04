@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ポデナ語
     auto: true
+  - translation_iso: spa
+    name: Podena
+    auto: true
   - translation_iso: zho
     name: 波德纳语
     auto: true

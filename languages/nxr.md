@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ニングゲルム語
     auto: true
+  - translation_iso: spa
+    name: Ninggerum
+    auto: true
   - translation_iso: zho
     name: 宁格鲁姆语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サウ語
+  - translation_iso: spa
+    name: Savi
+    auto: true
   - translation_iso: zho
     name: 萨维语
     auto: true

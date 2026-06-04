@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エシンビ語
     auto: true
+  - translation_iso: spa
+    name: Esimbi
+    auto: true
   - translation_iso: zho
     name: 埃辛比语
 rolv_dialects:

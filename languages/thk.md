@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ターラカ語
     auto: true
+  - translation_iso: spa
+    name: Tharaka
+    auto: true
   - translation_iso: zho
     name: 塔拉卡语
     auto: true

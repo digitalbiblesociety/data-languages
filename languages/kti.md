@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北ムユ語
     auto: true
+  - translation_iso: spa
+    name: Muyu Septentrional
+    auto: true
   - translation_iso: zho
     name: 北穆尤语
     auto: true

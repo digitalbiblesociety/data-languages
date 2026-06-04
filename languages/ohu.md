@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 古ハンガリー語
     auto: true
+  - translation_iso: spa
+    name: Húngaro antiguo
+    auto: true
   - translation_iso: zho
     name: 古匈牙利语
     auto: true

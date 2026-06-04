@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シッサーラ語
     auto: true
+  - translation_iso: spa
+    name: Sisaala occidental
+    auto: true
   - translation_iso: zho
     name: 西锡萨拉语
     auto: true

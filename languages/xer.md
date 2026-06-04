@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シェレンテ語
     auto: true
+  - translation_iso: spa
+    name: Xerénte
+    auto: true
   - translation_iso: zho
     name: 塞伦特语
     auto: true

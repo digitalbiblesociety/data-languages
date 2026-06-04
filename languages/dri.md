@@ -19,10 +19,13 @@ translations:
     name: سيليلا
     auto: true
   - translation_iso: hin
-    name: सी'लेला
+    name: "सी'लेला"
     auto: true
   - translation_iso: jpn
     name: クレラ語
+    auto: true
+  - translation_iso: spa
+    name: "C'Lela"
     auto: true
   - translation_iso: zho
     name: 克莱拉语

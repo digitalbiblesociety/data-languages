@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タノシ・マダガスカル語
+  - translation_iso: spa
+    name: Malgache tanosy
+    auto: true
   - translation_iso: zho
     name: 坦诺西马拉加斯语
     auto: true

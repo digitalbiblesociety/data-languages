@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ゴル語
     auto: true
+  - translation_iso: spa
+    name: Gor
+    auto: true
   - translation_iso: zho
     name: 戈尔语
     auto: true

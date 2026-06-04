@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フィレメナ・マタ・コアウイトラン・トトナック語
     auto: true
+  - translation_iso: spa
+    name: Totonaco de Filomena Mata-Coahuitlán
+    auto: true
   - translation_iso: zho
     name: 菲洛梅纳玛塔-科瓦特兰托托纳克语
     auto: true

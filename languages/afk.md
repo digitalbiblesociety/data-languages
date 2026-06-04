@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナヌバエ語
     auto: true
+  - translation_iso: spa
+    name: Nanubae
+    auto: true
   - translation_iso: zho
     name: 纳努拜语
     auto: true

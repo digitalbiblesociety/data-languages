@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: メイ語
     auto: true
+  - translation_iso: spa
+    name: Sherdukpen
+    auto: true
   - translation_iso: zho
     name: 舍朱奔语
 ---

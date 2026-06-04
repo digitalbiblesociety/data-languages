@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングアモ語
     auto: true
+  - translation_iso: spa
+    name: Ngamo
+    auto: true
   - translation_iso: zho
     name: 恩加莫语
     auto: true

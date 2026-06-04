@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワン語
+  - translation_iso: spa
+    name: Wan
+    auto: true
   - translation_iso: zho
     name: 万语
     auto: true

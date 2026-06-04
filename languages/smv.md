@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サマベディ語
     auto: true
+  - translation_iso: spa
+    name: Samvedi
+    auto: true
   - translation_iso: zho
     name: 萨姆维迪语
     auto: true

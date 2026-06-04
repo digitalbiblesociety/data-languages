@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 怒蘇語
+  - translation_iso: spa
+    name: Nusu
+    auto: true
   - translation_iso: zho
     name: 怒苏语
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モンサン語
     auto: true
+  - translation_iso: spa
+    name: Naga Monsang
+    auto: true
   - translation_iso: zho
     name: 蒙桑纳加语
     auto: true

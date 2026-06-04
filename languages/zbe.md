@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イースト・ベラワン語
     auto: true
+  - translation_iso: spa
+    name: Berawan oriental
+    auto: true
   - translation_iso: zho
     name: 东贝拉旺语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティチュロン語
     auto: true
+  - translation_iso: spa
+    name: Tichurong
+    auto: true
   - translation_iso: zho
     name: 提楚龙语
     auto: true

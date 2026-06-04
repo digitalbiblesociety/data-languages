@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クオ語
     auto: true
+  - translation_iso: spa
+    name: Kuo
+    auto: true
   - translation_iso: zho
     name: 库奥语
     auto: true

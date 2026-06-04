@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケリコ語
     auto: true
+  - translation_iso: spa
+    name: Keliko
+    auto: true
   - translation_iso: zho
     name: 凯利科语
     auto: true

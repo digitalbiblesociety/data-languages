@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワーンマン語
     auto: true
+  - translation_iso: spa
+    name: Warnman
+    auto: true
   - translation_iso: zho
     name: 瓦恩曼语
     auto: true

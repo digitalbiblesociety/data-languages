@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ギャルスムド語
     auto: true
+  - translation_iso: spa
+    name: Gyalsumdo
+    auto: true
   - translation_iso: zho
     name: 吉亚尔松多语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クンカリ語
     auto: true
+  - translation_iso: spa
+    name: Kungkari
+    auto: true
   - translation_iso: zho
     name: 孔克里语
     auto: true

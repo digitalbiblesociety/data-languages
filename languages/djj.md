@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジェッバナ語
     auto: true
+  - translation_iso: spa
+    name: Djeebbana
+    auto: true
   - translation_iso: zho
     name: 迪耶巴納語
 ---

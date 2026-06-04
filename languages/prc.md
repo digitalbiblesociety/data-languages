@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パラチ語
     auto: true
+  - translation_iso: spa
+    name: Parachi
+    auto: true
   - translation_iso: zho
     name: 帕拉奇語
 rolv_dialects:

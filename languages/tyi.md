@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ゲツァーイ語
     auto: true
+  - translation_iso: spa
+    name: Teke-Tsaayi
+    auto: true
   - translation_iso: zho
     name: 特克-察伊语
     auto: true

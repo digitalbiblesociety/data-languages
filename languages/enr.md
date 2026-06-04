@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エムム語
     auto: true
+  - translation_iso: spa
+    name: Emumu
+    auto: true
   - translation_iso: zho
     name: 埃姆姆语
     auto: true

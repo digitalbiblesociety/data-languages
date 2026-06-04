@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フォイ語
     auto: true
+  - translation_iso: spa
+    name: Foi
+    auto: true
   - translation_iso: zho
     name: 福伊语
     auto: true

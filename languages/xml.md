@@ -22,6 +22,9 @@ translations:
     name: मलेशियाई सांकेतिक भाषा
   - translation_iso: jpn
     name: マレーシア手話
+  - translation_iso: spa
+    name: Lengua de señas malaya
+    auto: true
   - translation_iso: zho
     name: 马来西亚手语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フアウル語
     auto: true
+  - translation_iso: spa
+    name: Huaulu
+    auto: true
   - translation_iso: zho
     name: 华乌卢语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イノル語
     auto: true
+  - translation_iso: spa
+    name: Inor
+    auto: true
   - translation_iso: zho
     name: 伊诺尔语
     auto: true

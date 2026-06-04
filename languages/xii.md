@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シリ語
     auto: true
+  - translation_iso: spa
+    name: Xiri
+    auto: true
   - translation_iso: zho
     name: 西里语
     auto: true

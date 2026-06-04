@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クルラ語
     auto: true
+  - translation_iso: spa
+    name: Khlula
+    auto: true
   - translation_iso: zho
     name: 科鲁拉语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムンドゥ語
     auto: true
+  - translation_iso: spa
+    name: Mündü
+    auto: true
   - translation_iso: zho
     name: 蒙杜语
     auto: true

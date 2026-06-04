@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: グルグラ語
     auto: true
+  - translation_iso: spa
+    name: Gurgula
+    auto: true
   - translation_iso: zho
     name: 古尔古拉语
     auto: true

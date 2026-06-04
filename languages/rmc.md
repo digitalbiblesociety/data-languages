@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カルパティア・ロマ語
+  - translation_iso: spa
+    name: Romaní carpático
+    auto: true
   - translation_iso: zho
     name: 喀尔巴阡罗姆语
     auto: true

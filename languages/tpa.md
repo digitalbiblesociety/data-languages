@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タウポタ語
+  - translation_iso: spa
+    name: Taupota
+    auto: true
   - translation_iso: zho
     name: 陶波塔语
     auto: true

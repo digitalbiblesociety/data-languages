@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コロンビア語
+  - translation_iso: spa
+    name: Columbia-Wenatchi
+    auto: true
   - translation_iso: zho
     name: 哥伦比亚-韦纳特基语
     auto: true

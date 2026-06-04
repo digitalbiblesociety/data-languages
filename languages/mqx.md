@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マムジュ語
     auto: true
+  - translation_iso: spa
+    name: Mamuju
+    auto: true
   - translation_iso: zho
     name: 玛穆朱语
     auto: true

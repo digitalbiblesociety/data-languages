@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: アイエレレンゲ語
     auto: true
+  - translation_iso: spa
+    name: Ayerrerenge
+    auto: true
   - translation_iso: zho
     name: 艾尔雷伦格语
     auto: true

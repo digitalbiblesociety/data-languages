@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロキチャ・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Loxicha
+    auto: true
   - translation_iso: zho
     name: 洛希查萨波特克语
     auto: true

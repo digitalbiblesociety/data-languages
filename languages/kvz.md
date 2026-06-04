@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ツァクワンボ語
     auto: true
+  - translation_iso: spa
+    name: Tsakwambo
+    auto: true
   - translation_iso: zho
     name: 察夸姆博语
     auto: true

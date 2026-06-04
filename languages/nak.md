@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナカナイ語
+  - translation_iso: spa
+    name: Nakanai
+    auto: true
   - translation_iso: zho
     name: 那卡奈语
     auto: true

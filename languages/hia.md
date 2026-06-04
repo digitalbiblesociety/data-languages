@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラマング語
     auto: true
+  - translation_iso: spa
+    name: Lamang
+    auto: true
   - translation_iso: zho
     name: 拉芒语
     auto: true

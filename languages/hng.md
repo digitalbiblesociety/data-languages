@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フング語
     auto: true
+  - translation_iso: spa
+    name: Hungu
+    auto: true
   - translation_iso: zho
     name: 洪古语
     auto: true

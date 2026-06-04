@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: グンガブラ語
     auto: true
+  - translation_iso: spa
+    name: Gungabula
+    auto: true
   - translation_iso: zho
     name: 甘加布拉语
     auto: true

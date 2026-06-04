@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ニイハ語
     auto: true
+  - translation_iso: spa
+    name: Nyiha (Malaui)
+    auto: true
   - translation_iso: zho
     name: 尼哈语
     auto: true

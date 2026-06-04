@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エメリヨン語
     auto: true
+  - translation_iso: spa
+    name: Emerillón
+    auto: true
   - translation_iso: zho
     name: 埃梅里永语
     auto: true

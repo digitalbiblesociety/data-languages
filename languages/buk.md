@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブガワック語
     auto: true
+  - translation_iso: spa
+    name: Bugawac
+    auto: true
   - translation_iso: zho
     name: 布加瓦克语
     auto: true

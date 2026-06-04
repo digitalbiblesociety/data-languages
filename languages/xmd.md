@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムブドゥム語
     auto: true
+  - translation_iso: spa
+    name: Mbudum
+    auto: true
   - translation_iso: zho
     name: 姆布杜姆语
     auto: true

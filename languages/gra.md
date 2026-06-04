@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラジプット・ガラシア語
     auto: true
+  - translation_iso: spa
+    name: Garasia Rajput
+    auto: true
   - translation_iso: zho
     name: 拉杰普特-加拉西亚语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガヴァル語
     auto: true
+  - translation_iso: spa
+    name: Gavar
+    auto: true
   - translation_iso: zho
     name: 盖瓦尔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティドング語
     auto: true
+  - translation_iso: spa
+    name: Serudung Murut
+    auto: true
   - translation_iso: zho
     name: 塞鲁顿木鲁特语
     auto: true

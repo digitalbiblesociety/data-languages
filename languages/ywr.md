@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤウル語
+  - translation_iso: spa
+    name: Yawuru
+    auto: true
   - translation_iso: zho
     name: 亚乌鲁语
     auto: true

@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャン語
+  - translation_iso: spa
+    name: Kenyang
+    auto: true
   - translation_iso: zho
     name: 肯扬语
     auto: true

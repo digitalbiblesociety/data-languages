@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フリイル語
     auto: true
+  - translation_iso: spa
+    name: Fuliiru
+    auto: true
   - translation_iso: zho
     name: 富利鲁语
     auto: true

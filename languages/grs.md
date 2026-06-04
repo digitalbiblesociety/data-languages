@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グレシ語
     auto: true
+  - translation_iso: spa
+    name: Gresi
+    auto: true
   - translation_iso: zho
     name: 格雷西语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マナングカリ語
     auto: true
+  - translation_iso: spa
+    name: Manangkari
+    auto: true
   - translation_iso: zho
     name: 曼南卡里语
     auto: true

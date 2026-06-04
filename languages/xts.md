@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シンディフイ・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Sindihui
+    auto: true
   - translation_iso: zho
     name: 辛迪胡伊-米斯特克语
     auto: true

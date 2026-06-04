@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北テペワン語
     auto: true
+  - translation_iso: spa
+    name: Tepehuán del Norte
+    auto: true
   - translation_iso: zho
     name: 北特佩瓦语
     auto: true

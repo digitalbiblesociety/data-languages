@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トリニダード・クレオール英語
     auto: true
+  - translation_iso: spa
+    name: Criollo inglés de Trinidad
+    auto: true
   - translation_iso: zho
     name: 特立尼达混合语
 ---

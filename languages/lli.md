@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: テケ・ラアリ語
     auto: true
+  - translation_iso: spa
+    name: Teke-Laali
+    auto: true
   - translation_iso: zho
     name: 特克-拉阿利语
     auto: true

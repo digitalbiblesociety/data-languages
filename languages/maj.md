@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ハラパ・デ・ディアス・マサテク語
     auto: true
+  - translation_iso: spa
+    name: Mazateco de Jalapa de Díaz
+    auto: true
   - translation_iso: zho
     name: 哈拉帕馬薩特克語
 ---

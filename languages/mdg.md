@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マッサラット語
     auto: true
+  - translation_iso: spa
+    name: Massalat
+    auto: true
   - translation_iso: zho
     name: 马萨拉特语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バヨット語
+  - translation_iso: spa
+    name: Bayot
+    auto: true
   - translation_iso: zho
     name: 巴约特语
     auto: true

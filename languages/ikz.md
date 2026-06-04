@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イキズ語
     auto: true
+  - translation_iso: spa
+    name: Ikizu
+    auto: true
   - translation_iso: zho
     name: 伊基祖语
     auto: true

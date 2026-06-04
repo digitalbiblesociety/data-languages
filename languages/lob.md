@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロビ語
+  - translation_iso: spa
+    name: Lobi
+    auto: true
   - translation_iso: zho
     name: 洛比语
     auto: true

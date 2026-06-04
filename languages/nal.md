@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナリク語
+  - translation_iso: spa
+    name: Nalik
+    auto: true
   - translation_iso: zho
     name: 那利克语
     auto: true

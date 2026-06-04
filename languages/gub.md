@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: グアジャジャラ語
     auto: true
+  - translation_iso: spa
+    name: Guajajára
+    auto: true
   - translation_iso: zho
     name: 瓜雅查拉语
     auto: true

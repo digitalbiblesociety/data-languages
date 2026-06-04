@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥアバイタ語
     auto: true
+  - translation_iso: spa
+    name: "To'abaita"
+    auto: true
   - translation_iso: zho
     name: 托阿巴伊塔语
     auto: true

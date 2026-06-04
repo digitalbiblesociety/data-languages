@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シエシップ語
     auto: true
+  - translation_iso: spa
+    name: South West Bay
+    auto: true
   - translation_iso: zho
     name: 西南湾语
     auto: true

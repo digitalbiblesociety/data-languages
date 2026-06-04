@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラースゲルド語
+  - translation_iso: spa
+    name: Lasgerdi
+    auto: true
   - translation_iso: zho
     name: 拉斯格迪语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アクシ・イー語
     auto: true
+  - translation_iso: spa
+    name: Yi Axi
+    auto: true
   - translation_iso: zho
     name: 阿夕-伊语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: デドゥア語
     auto: true
+  - translation_iso: spa
+    name: Dedua
+    auto: true
   - translation_iso: zho
     name: 德杜亚语
     auto: true

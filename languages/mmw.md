@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エマエ語
+  - translation_iso: spa
+    name: Emae
+    auto: true
   - translation_iso: zho
     name: 埃玛埃语
     auto: true

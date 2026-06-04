@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンカ語
+  - translation_iso: spa
+    name: Bangka
+    auto: true
   - translation_iso: zho
     name: 邦加馬來語
 rolv_dialects:

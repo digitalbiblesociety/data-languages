@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブルネイ・ビサヤ語
     auto: true
+  - translation_iso: spa
+    name: Bisaya de Brunéi
+    auto: true
   - translation_iso: zho
     name: 文莱比萨亚语
     auto: true

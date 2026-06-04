@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブクウェン語
     auto: true
+  - translation_iso: spa
+    name: Bukwen
+    auto: true
   - translation_iso: zho
     name: 布克文语
     auto: true

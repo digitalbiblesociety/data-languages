@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: キエン語
     auto: true
+  - translation_iso: spa
+    name: Shendu
+    auto: true
   - translation_iso: zho
     name: 申杜语
     auto: true

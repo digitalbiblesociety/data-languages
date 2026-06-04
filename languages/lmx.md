@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラインビュエ語
     auto: true
+  - translation_iso: spa
+    name: Laimbue
+    auto: true
   - translation_iso: zho
     name: 莱姆布埃语
     auto: true

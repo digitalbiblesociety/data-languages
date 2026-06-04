@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダランジ語
     auto: true
+  - translation_iso: spa
+    name: Dhalandji
+    auto: true
   - translation_iso: zho
     name: 达兰吉语
     auto: true

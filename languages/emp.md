@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: 北エンベラ語
     auto: true
+  - translation_iso: spa
+    name: Emberá del Norte
+    auto: true
   - translation_iso: zho
     name: 北埃姆贝拉语
     auto: true

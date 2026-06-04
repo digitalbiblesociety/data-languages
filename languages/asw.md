@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オーストラリア・アボリジニ手話
+  - translation_iso: spa
+    name: Lengua de señas de los aborígenes australianos
+    auto: true
   - translation_iso: zho
     name: 澳大利亚土著手语
     auto: true

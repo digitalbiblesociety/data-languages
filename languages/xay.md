@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カヤン・マハカム語
     auto: true
+  - translation_iso: spa
+    name: Kayan Mahakam
+    auto: true
   - translation_iso: zho
     name: 卡延马哈卡姆语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マムブ語
+  - translation_iso: spa
+    name: Mamvu
+    auto: true
   - translation_iso: zho
     name: 姆巴姆武语
     auto: true

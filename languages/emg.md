@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東メオハン語
     auto: true
+  - translation_iso: spa
+    name: Meohang Oriental
+    auto: true
   - translation_iso: zho
     name: 东梅欧汉语
     auto: true

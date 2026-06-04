@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ミドル・ワトゥット語
     auto: true
+  - translation_iso: spa
+    name: Watut Medio
+    auto: true
   - translation_iso: zho
     name: 中沃特特语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クムキオ語
     auto: true
+  - translation_iso: spa
+    name: Kumukio
+    auto: true
   - translation_iso: zho
     name: 库穆基奥语
     auto: true

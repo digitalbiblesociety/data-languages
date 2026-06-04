@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トンモ・ソ・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Tommo So
+    auto: true
   - translation_iso: zho
     name: 托莫索多贡语
     auto: true

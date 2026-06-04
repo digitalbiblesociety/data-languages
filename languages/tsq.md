@@ -22,6 +22,9 @@ translations:
     name: थाई सांकेतिक भाषा
   - translation_iso: jpn
     name: タイ手話
+  - translation_iso: spa
+    name: Lengua de señas tailandesa
+    auto: true
   - translation_iso: zho
     name: 泰國手語
 ---

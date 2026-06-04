@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジウワルリ語
     auto: true
+  - translation_iso: spa
+    name: Djiwarli
+    auto: true
   - translation_iso: zho
     name: 詹瓦利语
     auto: true

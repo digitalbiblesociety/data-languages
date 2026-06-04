@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガヤヴィ語
     auto: true
+  - translation_iso: spa
+    name: Ghayavi
+    auto: true
   - translation_iso: zho
     name: 盖亚维语
     auto: true

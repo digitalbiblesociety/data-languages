@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソー語
     auto: true
+  - translation_iso: spa
+    name: So
+    auto: true
   - translation_iso: zho
     name: 索语（刚果民主共和国）
     auto: true

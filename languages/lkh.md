@@ -25,6 +25,9 @@ translations:
     name: ラ語
   - translation_iso: kor
     name: 라카어 (부탄)
+  - translation_iso: spa
+    name: Lakha
+    auto: true
   - translation_iso: zho
     name: 拉卡语
 ---

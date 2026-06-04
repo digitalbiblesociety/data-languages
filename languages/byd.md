@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベニャドゥ語
     auto: true
+  - translation_iso: spa
+    name: "Benyadu'"
+    auto: true
   - translation_iso: zho
     name: 本亚杜语
     auto: true

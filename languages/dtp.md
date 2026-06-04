@@ -26,6 +26,9 @@ translations:
     name: 中央ドゥスン語
   - translation_iso: kor
     name: 카다잔두순어
+  - translation_iso: spa
+    name: Kadazan Dusun
+    auto: true
   - translation_iso: zho
     name: 中部杜顺语
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オブロム語
     auto: true
+  - translation_iso: spa
+    name: Obulom
+    auto: true
   - translation_iso: zho
     name: 奥布洛姆语
     auto: true

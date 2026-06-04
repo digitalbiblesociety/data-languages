@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ツィシンギニ語
     auto: true
+  - translation_iso: spa
+    name: Tsishingini
+    auto: true
   - translation_iso: zho
     name: 茨沙欣基尼语
     auto: true

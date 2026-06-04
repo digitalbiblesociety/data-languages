@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティルライ語
     auto: true
+  - translation_iso: spa
+    name: Tiruray
+    auto: true
   - translation_iso: zho
     name: 蒂鲁雷语
 ---

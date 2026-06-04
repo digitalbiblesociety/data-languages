@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カリブ海ジャワ語
     auto: true
+  - translation_iso: spa
+    name: Javanés caribeño
+    auto: true
   - translation_iso: zho
     name: 加勒比爪哇语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワタム語
     auto: true
+  - translation_iso: spa
+    name: Watam
+    auto: true
   - translation_iso: zho
     name: 瓦塔姆语
     auto: true

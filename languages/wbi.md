@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヴワンジ語
     auto: true
+  - translation_iso: spa
+    name: Vwanji
+    auto: true
   - translation_iso: zho
     name: 夫万吉语
     auto: true

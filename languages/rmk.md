@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロムクン語
     auto: true
+  - translation_iso: spa
+    name: Romkun
+    auto: true
   - translation_iso: zho
     name: 罗姆昆语
     auto: true

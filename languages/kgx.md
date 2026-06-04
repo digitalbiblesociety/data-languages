@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カマル語
     auto: true
+  - translation_iso: spa
+    name: Kamaru
+    auto: true
   - translation_iso: zho
     name: 卡马鲁语
     auto: true

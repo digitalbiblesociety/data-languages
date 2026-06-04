@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クウェル語
     auto: true
+  - translation_iso: spa
+    name: Kwer
+    auto: true
   - translation_iso: zho
     name: 克韦尔语
     auto: true

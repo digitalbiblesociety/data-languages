@@ -25,6 +25,9 @@ translations:
     name: アリン語
   - translation_iso: kor
     name: 아린어
+  - translation_iso: spa
+    name: Arin
+    auto: true
   - translation_iso: zho
     name: 阿林语
     auto: true

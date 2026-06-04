@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゾミ語
     auto: true
+  - translation_iso: spa
+    name: Simte
+    auto: true
   - translation_iso: zho
     name: 西姆特语
     auto: true

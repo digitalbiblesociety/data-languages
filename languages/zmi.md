@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ネゲリ・センビラン・マレー語
     auto: true
+  - translation_iso: spa
+    name: Malayo de Negeri Sembilan
+    auto: true
   - translation_iso: zho
     name: 森美蘭州米南加保語
 ---

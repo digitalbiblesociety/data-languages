@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワンブレ語
     auto: true
+  - translation_iso: spa
+    name: Wambule
+    auto: true
   - translation_iso: zho
     name: 瓦布莱语
     auto: true

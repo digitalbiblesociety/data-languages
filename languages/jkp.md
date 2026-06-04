@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パク・カレン語
     auto: true
+  - translation_iso: spa
+    name: Karen Paku
+    auto: true
   - translation_iso: zho
     name: 帕库卡伦语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロラン語
     auto: true
+  - translation_iso: spa
+    name: Lorang
+    auto: true
   - translation_iso: zho
     name: 洛兰语
     auto: true

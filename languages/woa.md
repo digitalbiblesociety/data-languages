@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クウェマ語
     auto: true
+  - translation_iso: spa
+    name: Kuwema
+    auto: true
   - translation_iso: zho
     name: 库韦马语
     auto: true

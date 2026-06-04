@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: メニャ語
     auto: true
+  - translation_iso: spa
+    name: Menya
+    auto: true
   - translation_iso: zho
     name: 梅尼亚语
     auto: true

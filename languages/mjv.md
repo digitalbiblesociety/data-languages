@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マンナン語
     auto: true
+  - translation_iso: spa
+    name: Mannan
+    auto: true
   - translation_iso: zho
     name: 曼南语
     auto: true

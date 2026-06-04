@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ラムビッチョン語
     auto: true
+  - translation_iso: spa
+    name: Lambichhong
+    auto: true
   - translation_iso: zho
     name: 兰比奇宏语
     auto: true

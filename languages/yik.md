@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドンシャンバ・ラロ語
     auto: true
+  - translation_iso: spa
+    name: Lalo de Dongshanba
+    auto: true
   - translation_iso: zho
     name: 东山坝-拉罗语
     auto: true

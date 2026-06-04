@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パハナン・アグタ語
     auto: true
+  - translation_iso: spa
+    name: Agta de Pahanan
+    auto: true
   - translation_iso: zho
     name: 帕哈南艾塔语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マリ語
+  - translation_iso: spa
+    name: Mari (Provincia de Madang)
+    auto: true
   - translation_iso: zho
     name: 玛丽语(马当省)
     auto: true

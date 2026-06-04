@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: エピ・オルメック語
     auto: true
+  - translation_iso: spa
+    name: Epi-Olmeca
+    auto: true
   - translation_iso: zho
     name: 埃皮-奥尔梅克语
     auto: true

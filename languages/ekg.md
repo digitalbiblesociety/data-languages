@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エカリ語
+  - translation_iso: spa
+    name: Ekari
+    auto: true
   - translation_iso: zho
     name: 伊卡利语
 rolv_dialects:

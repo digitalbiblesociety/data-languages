@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ボルユ語
     auto: true
+  - translation_iso: spa
+    name: Bolyu
+    auto: true
   - translation_iso: zho
     name: 巴琉语
 ---

@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ビルパイ語
     auto: true
+  - translation_iso: spa
+    name: Birrpayi
+    auto: true
   - translation_iso: zho
     name: 比拉派语
     auto: true

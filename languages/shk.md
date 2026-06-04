@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シルク語
+  - translation_iso: spa
+    name: Shilluk
+    auto: true
   - translation_iso: zho
     name: 希卢克语
     auto: true

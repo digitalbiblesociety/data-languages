@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グエベア・デ・フンボルト・サポテク語
     auto: true
+  - translation_iso: spa
+    name: Zapoteco de Guevea de Humboldt
+    auto: true
   - translation_iso: zho
     name: 圭韦亚德温博尔特萨波特克语
     auto: true

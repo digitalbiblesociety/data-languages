@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: スバヌン語
     auto: true
+  - translation_iso: spa
+    name: Subanon Kolibugan
+    auto: true
   - translation_iso: zho
     name: 科利布甘苏巴农语
     auto: true

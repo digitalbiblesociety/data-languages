@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トリングス語
     auto: true
+  - translation_iso: spa
+    name: Bidayuh Tringgus-Sembaan
+    auto: true
   - translation_iso: zho
     name: 三吉斯-森巴安比达尤语
     auto: true

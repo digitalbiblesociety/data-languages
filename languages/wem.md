@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウェメ・ゲベ語
     auto: true
+  - translation_iso: spa
+    name: Weme Gbe
+    auto: true
   - translation_iso: zho
     name: 韦梅-格贝语
     auto: true

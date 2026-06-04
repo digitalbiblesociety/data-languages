@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サンフェリペオトラルテペックポポロカ語
     auto: true
+  - translation_iso: spa
+    name: Popoloca de San Felipe Otlaltepec
+    auto: true
   - translation_iso: zho
     name: 圣费利佩奥特拉特佩克波波卡语
     auto: true

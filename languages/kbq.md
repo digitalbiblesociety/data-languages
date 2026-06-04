@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カマノ語
+  - translation_iso: spa
+    name: Kamano
+    auto: true
   - translation_iso: zho
     name: 卡玛诺语
     auto: true

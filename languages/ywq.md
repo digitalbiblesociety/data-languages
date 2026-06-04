@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウーディング-ルクアン・イー語
     auto: true
+  - translation_iso: spa
+    name: Yi de Wuding-Luquan
+    auto: true
   - translation_iso: zho
     name: 武定-禄劝方言
 rolv_dialects:

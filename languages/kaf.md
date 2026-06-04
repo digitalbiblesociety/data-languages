@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カッソ語
     auto: true
+  - translation_iso: spa
+    name: Katso
+    auto: true
   - translation_iso: zho
     name: 卡卓語
 ---

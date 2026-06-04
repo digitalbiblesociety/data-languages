@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マンゲール語
     auto: true
+  - translation_iso: spa
+    name: Urningangg
+    auto: true
   - translation_iso: zho
     name: 乌尔宁甘格语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クランコ語
     auto: true
+  - translation_iso: spa
+    name: Kuranko
+    auto: true
   - translation_iso: zho
     name: 库兰科语
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ベジョンド語
     auto: true
+  - translation_iso: spa
+    name: Bedjond
+    auto: true
   - translation_iso: zho
     name: 贝德容德语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンダサ語
+  - translation_iso: spa
+    name: Ndasa
+    auto: true
   - translation_iso: zho
     name: 恩达萨语
     auto: true

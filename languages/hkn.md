@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: メル・カオン語
     auto: true
+  - translation_iso: spa
+    name: Mel-Khaonh
+    auto: true
   - translation_iso: zho
     name: 梅勒-卡翁语
 rolv_dialects:

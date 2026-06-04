@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ミリウォング手話
     auto: true
+  - translation_iso: spa
+    name: Lengua de señas miriwoong
+    auto: true
   - translation_iso: zho
     name: 米里乌恩格手语
     auto: true

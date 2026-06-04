@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アイゴン語
     auto: true
+  - translation_iso: spa
+    name: Aighon
+    auto: true
   - translation_iso: zho
     name: 艾戈恩语
     auto: true

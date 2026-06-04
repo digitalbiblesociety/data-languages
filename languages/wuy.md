@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワウヤイ語
     auto: true
+  - translation_iso: spa
+    name: Wauyai
+    auto: true
   - translation_iso: zho
     name: 瓦乌亚伊语
     auto: true

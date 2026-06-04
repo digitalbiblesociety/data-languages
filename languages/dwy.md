@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ドゥワヤ語
     auto: true
+  - translation_iso: spa
+    name: Dhuwaya
+    auto: true
   - translation_iso: zho
     name: 达乌亚语
     auto: true

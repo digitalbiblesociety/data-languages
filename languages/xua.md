@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アル・クルンバ語
     auto: true
+  - translation_iso: spa
+    name: Alu Kurumba
+    auto: true
   - translation_iso: zho
     name: 阿鲁-库鲁姆巴语
     auto: true

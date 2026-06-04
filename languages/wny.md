@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワニイ語
     auto: true
+  - translation_iso: spa
+    name: Wanyi
+    auto: true
   - translation_iso: zho
     name: 万伊语
     auto: true

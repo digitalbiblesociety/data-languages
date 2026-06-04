@@ -22,6 +22,9 @@ translations:
     name: इदु मिश्मी भाषा
   - translation_iso: jpn
     name: 義都語
+  - translation_iso: spa
+    name: Idu-Mishmi
+    auto: true
   - translation_iso: zho
     name: 义都语
 rolv_dialects:

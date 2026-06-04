@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ゴブ語
     auto: true
+  - translation_iso: spa
+    name: Gobu
+    auto: true
   - translation_iso: zho
     name: 戈布语
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ルンバ・ヤッカ語
     auto: true
+  - translation_iso: spa
+    name: Lumba-Yakkha
+    auto: true
   - translation_iso: zho
     name: 龙巴-雅卡语
     auto: true

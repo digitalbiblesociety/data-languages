@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アス語(ナイジェリア)
     auto: true
+  - translation_iso: spa
+    name: Asu (Nigeria)
+    auto: true
   - translation_iso: zho
     name: 阿苏语
     auto: true

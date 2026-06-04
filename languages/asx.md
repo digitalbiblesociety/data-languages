@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムラタヤク語
     auto: true
+  - translation_iso: spa
+    name: Muratayak
+    auto: true
   - translation_iso: zho
     name: 穆拉塔亚克语
     auto: true

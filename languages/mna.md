@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンガップ語
+  - translation_iso: spa
+    name: Mbula
+    auto: true
   - translation_iso: zho
     name: 姆布拉语
     auto: true

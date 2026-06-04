@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ララムリ・ライチャ語
     auto: true
+  - translation_iso: spa
+    name: Tarahumara del suroeste
+    auto: true
   - translation_iso: zho
     name: 西南塔拉乌马拉语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シハン語
     auto: true
+  - translation_iso: spa
+    name: Sihan
+    auto: true
   - translation_iso: zho
     name: 西汉语
     auto: true

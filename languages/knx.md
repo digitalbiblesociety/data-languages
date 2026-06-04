@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケンダヤン語
     auto: true
+  - translation_iso: spa
+    name: Kendayan
+    auto: true
   - translation_iso: zho
     name: 肯达扬语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥト語
     auto: true
+  - translation_iso: spa
+    name: Ndut
+    auto: true
   - translation_iso: zho
     name: 恩杜特语
     auto: true

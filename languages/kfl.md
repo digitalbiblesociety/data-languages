@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クン語
     auto: true
+  - translation_iso: spa
+    name: Kung
+    auto: true
   - translation_iso: zho
     name: 功语
     auto: true

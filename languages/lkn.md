@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラコン語
     auto: true
+  - translation_iso: spa
+    name: Lakon
+    auto: true
   - translation_iso: zho
     name: 拉孔语
     auto: true

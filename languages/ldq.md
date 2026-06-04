@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルフ語
     auto: true
+  - translation_iso: spa
+    name: Lufu
+    auto: true
   - translation_iso: zho
     name: 卢富语
     auto: true

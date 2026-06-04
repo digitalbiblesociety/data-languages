@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レンジェ語
     auto: true
+  - translation_iso: spa
+    name: Lenje
+    auto: true
   - translation_iso: zho
     name: 伦杰语
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナカメ語
     auto: true
+  - translation_iso: spa
+    name: Nakame
+    auto: true
   - translation_iso: zho
     name: 纳卡梅语
     auto: true

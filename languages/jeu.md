@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジョンコル・ブルマタギル語
     auto: true
+  - translation_iso: spa
+    name: Jonkor Bourmataguil
+    auto: true
   - translation_iso: zho
     name: 琼科尔-布尔马塔圭尔语
     auto: true

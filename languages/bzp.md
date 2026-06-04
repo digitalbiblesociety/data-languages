@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケンベラノ語
     auto: true
+  - translation_iso: spa
+    name: Kemberano
+    auto: true
   - translation_iso: zho
     name: 肯贝拉诺语
     auto: true

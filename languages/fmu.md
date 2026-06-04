@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 遠西ムリア語
     auto: true
+  - translation_iso: spa
+    name: Muria del Lejano Oeste
+    auto: true
   - translation_iso: zho
     name: 远西穆里亚语
     auto: true

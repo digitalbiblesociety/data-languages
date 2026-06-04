@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジャンジ語
     auto: true
+  - translation_iso: spa
+    name: Janji
+    auto: true
   - translation_iso: zho
     name: 詹吉语
     auto: true

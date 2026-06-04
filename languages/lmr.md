@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラマレラ語
     auto: true
+  - translation_iso: spa
+    name: Lamalera
+    auto: true
   - translation_iso: zho
     name: 拉瑪萊拉語
 ---

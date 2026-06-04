@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パペル語
     auto: true
+  - translation_iso: spa
+    name: Papel
+    auto: true
   - translation_iso: zho
     name: 帕佩尔语
     auto: true

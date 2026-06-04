@@ -24,6 +24,9 @@ translations:
     name: カリア語
   - translation_iso: kor
     name: 카리야
+  - translation_iso: spa
+    name: Kharia
+    auto: true
   - translation_iso: zho
     name: 卡利亚语
 rolv_dialects:

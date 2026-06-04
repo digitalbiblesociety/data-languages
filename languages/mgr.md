@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンブウェ語
+  - translation_iso: spa
+    name: Mambwe-Lungu
+    auto: true
   - translation_iso: zho
     name: 曼布韋
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニギナ語
+  - translation_iso: spa
+    name: Nyikina
+    auto: true
   - translation_iso: zho
     name: 尼基纳语
     auto: true

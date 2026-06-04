@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北東パシャイ語
     auto: true
+  - translation_iso: spa
+    name: Pashai nororiental
+    auto: true
   - translation_iso: zho
     name: 东北帕沙伊语
 rolv_dialects:

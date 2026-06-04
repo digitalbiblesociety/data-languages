@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アヌキ語
     auto: true
+  - translation_iso: spa
+    name: Anuki
+    auto: true
   - translation_iso: zho
     name: 阿努基语
     auto: true

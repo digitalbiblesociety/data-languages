@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ロゴル語
     auto: true
+  - translation_iso: spa
+    name: Logol
+    auto: true
   - translation_iso: zho
     name: 洛戈尔语
     auto: true

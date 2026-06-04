@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハヤ語
+  - translation_iso: spa
+    name: Haya
+    auto: true
   - translation_iso: zho
     name: 哈亚语
     auto: true

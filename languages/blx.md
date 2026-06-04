@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マグ・インディ・アイタ語
     auto: true
+  - translation_iso: spa
+    name: Ayta Mag-Indi
+    auto: true
   - translation_iso: zho
     name: 麦-因蒂艾亚语
     auto: true

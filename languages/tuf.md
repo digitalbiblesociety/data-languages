@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トゥネボ語
     auto: true
+  - translation_iso: spa
+    name: Tunebo central
+    auto: true
   - translation_iso: zho
     name: 中烏瓦語
 ---

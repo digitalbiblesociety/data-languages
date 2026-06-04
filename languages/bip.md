@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビラ語
+  - translation_iso: spa
+    name: Bila
+    auto: true
   - translation_iso: zho
     name: 比拉语
     auto: true

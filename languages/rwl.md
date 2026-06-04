@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ルウィラ語
     auto: true
+  - translation_iso: spa
+    name: Ruwila
+    auto: true
   - translation_iso: zho
     name: 鲁维拉语
     auto: true

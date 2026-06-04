@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タワイリア語
     auto: true
+  - translation_iso: spa
+    name: Sedoa
+    auto: true
   - translation_iso: zho
     name: 塞多亚语
     auto: true

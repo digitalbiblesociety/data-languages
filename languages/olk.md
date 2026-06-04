@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: オルコル語
     auto: true
+  - translation_iso: spa
+    name: Olkol
+    auto: true
   - translation_iso: zho
     name: 奥尔科尔语
     auto: true

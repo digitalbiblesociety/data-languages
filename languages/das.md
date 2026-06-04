@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダホ・ドゥー語
     auto: true
+  - translation_iso: spa
+    name: Daho-Doo
+    auto: true
   - translation_iso: zho
     name: 达霍-杜语
     auto: true

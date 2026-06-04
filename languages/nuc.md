@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヌクイニ語
     auto: true
+  - translation_iso: spa
+    name: Nukuini
+    auto: true
   - translation_iso: zho
     name: 努库伊尼语
     auto: true

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 미리웅어
+  - translation_iso: spa
+    name: Miriwoong
+    auto: true
   - translation_iso: zho
     name: 米里乌翁语
     auto: true

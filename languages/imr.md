@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イムロイング語
     auto: true
+  - translation_iso: spa
+    name: Imroing
+    auto: true
   - translation_iso: zho
     name: 伊姆罗因语
     auto: true

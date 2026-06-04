@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンジャム語
     auto: true
+  - translation_iso: spa
+    name: Anjam
+    auto: true
   - translation_iso: zho
     name: 安姆语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ユーレ・ジヌオ語
     auto: true
+  - translation_iso: spa
+    name: Jinuo Youle
+    auto: true
   - translation_iso: zho
     name: 优乐基诺语
     auto: true

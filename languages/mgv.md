@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マテンゴ語
+  - translation_iso: spa
+    name: Matengo
+    auto: true
   - translation_iso: zho
     name: 玛腾戈语
     auto: true

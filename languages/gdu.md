@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 구두어
+  - translation_iso: spa
+    name: Gudu
+    auto: true
   - translation_iso: zho
     name: 古杜语
     auto: true

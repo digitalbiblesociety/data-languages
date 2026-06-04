@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムルキム語
     auto: true
+  - translation_iso: spa
+    name: Murkim
+    auto: true
   - translation_iso: zho
     name: 默尔基姆语
     auto: true

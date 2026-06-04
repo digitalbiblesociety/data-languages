@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルグバラ語
+  - translation_iso: spa
+    name: Lugbara
+    auto: true
   - translation_iso: zho
     name: 卢格巴拉语
     auto: true

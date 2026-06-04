@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ネデバン語
     auto: true
+  - translation_iso: spa
+    name: Nedebang
+    auto: true
   - translation_iso: zho
     name: 内德邦语
     auto: true

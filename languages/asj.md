@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Saari語
+  - translation_iso: spa
+    name: Sari
+    auto: true
   - translation_iso: zho
     name: 萨里语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤノマミ語
     auto: true
+  - translation_iso: spa
+    name: Yanomami
+    auto: true
   - translation_iso: zho
     name: 亚诺玛米语
     auto: true

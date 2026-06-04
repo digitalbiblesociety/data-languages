@@ -22,6 +22,9 @@ translations:
     name: भटियाली
   - translation_iso: jpn
     name: バッティヤリ語
+  - translation_iso: spa
+    name: Bhattiyali
+    auto: true
   - translation_iso: zho
     name: 巴蒂亚利语
     auto: true

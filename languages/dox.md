@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブッサ語
     auto: true
+  - translation_iso: spa
+    name: Bussa
+    auto: true
   - translation_iso: zho
     name: 畢沙語
 ---

@@ -22,6 +22,9 @@ translations:
     name: तांगखुल भाषा
   - translation_iso: jpn
     name: タンクル語
+  - translation_iso: spa
+    name: Naga Tangkhul
+    auto: true
   - translation_iso: zho
     name: 唐窟語
 rolv_dialects:

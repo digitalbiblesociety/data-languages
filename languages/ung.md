@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 東ウォロラン語
     auto: true
+  - translation_iso: spa
+    name: Ngarinyin
+    auto: true
   - translation_iso: zho
     name: 恩加里尼因语
     auto: true

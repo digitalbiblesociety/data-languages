@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イクヴェレ語
+  - translation_iso: spa
+    name: Ikwere
+    auto: true
   - translation_iso: zho
     name: 伊克韦雷语
     auto: true

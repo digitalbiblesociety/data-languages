@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マイル語
     auto: true
+  - translation_iso: spa
+    name: Mailu
+    auto: true
   - translation_iso: zho
     name: 邁魯
 rolv_dialects:

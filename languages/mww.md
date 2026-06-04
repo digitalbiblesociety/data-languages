@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 白苗語
+  - translation_iso: spa
+    name: Hmong Daw
+    auto: true
   - translation_iso: zho
     name: 白苗语
 rolv_dialects:

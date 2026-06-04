@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウヴォル語
+  - translation_iso: spa
+    name: Lote
+    auto: true
   - translation_iso: zho
     name: 洛特语
     auto: true

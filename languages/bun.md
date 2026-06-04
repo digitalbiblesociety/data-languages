@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シェルブロ語
     auto: true
+  - translation_iso: spa
+    name: Sherbro
+    auto: true
   - translation_iso: zho
     name: 舍尔布罗语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラノ語
     auto: true
+  - translation_iso: spa
+    name: Lanoh
+    auto: true
   - translation_iso: zho
     name: 拉诺语
 ---

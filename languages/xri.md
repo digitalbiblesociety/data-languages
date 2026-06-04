@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: クリカティ・ティムビラ語
     auto: true
+  - translation_iso: spa
+    name: Krikati-Timbira
+    auto: true
   - translation_iso: zho
     name: 克里卡蒂-廷比拉语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Jawi語
+  - translation_iso: spa
+    name: Djawi
+    auto: true
   - translation_iso: zho
     name: 詹威语
     auto: true

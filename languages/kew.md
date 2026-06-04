@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウェスト・ケワ語
     auto: true
+  - translation_iso: spa
+    name: Kewa Occidental
+    auto: true
   - translation_iso: zho
     name: 西克瓦语
     auto: true

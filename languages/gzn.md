@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギマン語
+  - translation_iso: spa
+    name: Gane
+    auto: true
   - translation_iso: zho
     name: 加内语
     auto: true

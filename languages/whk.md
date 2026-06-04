@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワハウ・ケニャー語
     auto: true
+  - translation_iso: spa
+    name: Wahau Kenyah
+    auto: true
   - translation_iso: zho
     name: 瓦豪肯雅语
     auto: true

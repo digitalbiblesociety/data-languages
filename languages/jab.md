@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヒャム語
+  - translation_iso: spa
+    name: Hyam
+    auto: true
   - translation_iso: zho
     name: 海亚姆语
     auto: true

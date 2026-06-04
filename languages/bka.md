@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キャク語
     auto: true
+  - translation_iso: spa
+    name: Kyak
+    auto: true
   - translation_iso: zho
     name: 基亚克语
     auto: true

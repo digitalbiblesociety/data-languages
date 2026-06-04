@@ -22,6 +22,9 @@ translations:
     name: फिनलैंड-स्वेडिश सांकेतिक भाषा
   - translation_iso: jpn
     name: フィンランド＝スウェーデン手話
+  - translation_iso: spa
+    name: Lengua de señas finlandesa-sueca
+    auto: true
   - translation_iso: zho
     name: 芬兰瑞典语手语
 ---

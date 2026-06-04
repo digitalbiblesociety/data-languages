@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥルン語
+  - translation_iso: spa
+    name: Turung
+    auto: true
   - translation_iso: zho
     name: 土隆語
 ---

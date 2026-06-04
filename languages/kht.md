@@ -23,6 +23,9 @@ translations:
     name: खाम्प्टी भाषा
   - translation_iso: jpn
     name: カムティ語
+  - translation_iso: spa
+    name: Khamti
+    auto: true
   - translation_iso: zho
     name: 坎底語
 rolv_dialects:

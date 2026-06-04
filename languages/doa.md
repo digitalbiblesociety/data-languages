@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドム語
     auto: true
+  - translation_iso: spa
+    name: Dom
+    auto: true
   - translation_iso: zho
     name: 多姆语
     auto: true

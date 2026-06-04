@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンスス語
     auto: true
+  - translation_iso: spa
+    name: Ansus
+    auto: true
   - translation_iso: zho
     name: 安苏斯语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハジ語
     auto: true
+  - translation_iso: spa
+    name: Haji
+    auto: true
   - translation_iso: zho
     name: 哈吉语
 ---

@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: アンパナン語
     auto: true
+  - translation_iso: spa
+    name: Ampanang
+    auto: true
   - translation_iso: zho
     name: 安帕南语
     auto: true

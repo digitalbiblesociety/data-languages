@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤバーナ語
+  - translation_iso: spa
+    name: Yabaâna
+    auto: true
   - translation_iso: zho
     name: 亚巴阿纳语
     auto: true

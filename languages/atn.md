@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アシュティヤーン語
+  - translation_iso: spa
+    name: Ashtiani
+    auto: true
   - translation_iso: zho
     name: 阿什蒂亚尼语
     auto: true

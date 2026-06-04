@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: イェラカイ語
     auto: true
+  - translation_iso: spa
+    name: Yerakai
+    auto: true
   - translation_iso: zho
     name: 耶拉开语
     auto: true

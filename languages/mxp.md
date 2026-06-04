@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トラウィトルテペック・ミクセ語
     auto: true
+  - translation_iso: spa
+    name: Mixe de Tlahuitoltepec
+    auto: true
   - translation_iso: zho
     name: 特拉维托尔特佩克米克斯语
     auto: true

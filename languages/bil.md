@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビレ語
     auto: true
+  - translation_iso: spa
+    name: Bile
+    auto: true
   - translation_iso: zho
     name: 比莱语
     auto: true

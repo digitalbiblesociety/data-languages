@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブン語
     auto: true
+  - translation_iso: spa
+    name: Bun
+    auto: true
   - translation_iso: zho
     name: 邦语
     auto: true

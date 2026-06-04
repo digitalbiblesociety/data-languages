@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クラマ語
     auto: true
+  - translation_iso: spa
+    name: Kurama
+    auto: true
   - translation_iso: zho
     name: 库拉玛语
     auto: true

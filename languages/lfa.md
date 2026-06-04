@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レファ語
     auto: true
+  - translation_iso: spa
+    name: Lefa
+    auto: true
   - translation_iso: zho
     name: 勒法语
 rolv_dialects:

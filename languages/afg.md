@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アフガン手話
+  - translation_iso: spa
+    name: Lengua de señas afgana
+    auto: true
   - translation_iso: zho
     name: 阿富汗手语
 ---

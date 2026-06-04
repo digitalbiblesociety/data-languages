@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リグビ語
     auto: true
+  - translation_iso: spa
+    name: Ligbi
+    auto: true
   - translation_iso: zho
     name: 利格比语
     auto: true

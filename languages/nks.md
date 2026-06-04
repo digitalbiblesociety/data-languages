@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北アスマット語
     auto: true
+  - translation_iso: spa
+    name: Asmat septentrional
+    auto: true
   - translation_iso: zho
     name: 北阿斯马特语
     auto: true

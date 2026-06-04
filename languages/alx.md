@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アモル語
     auto: true
+  - translation_iso: spa
+    name: Amol
+    auto: true
   - translation_iso: zho
     name: 阿莫尔语
     auto: true

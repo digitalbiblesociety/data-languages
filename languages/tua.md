@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マンディ語
     auto: true
+  - translation_iso: spa
+    name: Wiarumus
+    auto: true
   - translation_iso: zho
     name: 威亚鲁木斯语
     auto: true

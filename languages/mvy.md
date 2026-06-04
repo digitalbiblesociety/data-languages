@@ -23,6 +23,9 @@ translations:
     name: कोहिस्तानी भाषा
   - translation_iso: jpn
     name: インダス・コーヒスターン語
+  - translation_iso: spa
+    name: Kohistani del Indo
+    auto: true
   - translation_iso: zho
     name: 印度科希斯坦语
 rolv_dialects:

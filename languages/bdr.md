@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サマ・バジャウ諸語
+  - translation_iso: spa
+    name: Bajau de la Costa Occidental
+    auto: true
   - translation_iso: zho
     name: 西海岸巴瑶语
 rolv_dialects:

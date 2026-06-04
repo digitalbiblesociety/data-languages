@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チヌーク語
     auto: true
+  - translation_iso: spa
+    name: Chinook
+    auto: true
   - translation_iso: zho
     name: 奇努克语
     auto: true

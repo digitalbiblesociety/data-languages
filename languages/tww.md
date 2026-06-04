@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥワリ語
     auto: true
+  - translation_iso: spa
+    name: Tuwari
+    auto: true
   - translation_iso: zho
     name: 图瓦里语
     auto: true

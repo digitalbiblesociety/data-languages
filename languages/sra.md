@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サルガ語
     auto: true
+  - translation_iso: spa
+    name: Saruga
+    auto: true
   - translation_iso: zho
     name: 萨鲁加语
     auto: true

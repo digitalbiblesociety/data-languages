@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブリ語
+  - translation_iso: spa
+    name: Buli (Ghana)
+    auto: true
   - translation_iso: zho
     name: 布利语
     auto: true

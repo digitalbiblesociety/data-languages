@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 南西タンナ語
     auto: true
+  - translation_iso: spa
+    name: Tanna del Suroeste
+    auto: true
   - translation_iso: zho
     name: 西南塔納島語
 rolv_dialects:

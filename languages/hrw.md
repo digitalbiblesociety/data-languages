@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ウォーウォー・フェニ語
     auto: true
+  - translation_iso: spa
+    name: Warwar Feni
+    auto: true
   - translation_iso: zho
     name: 沃沃尔费尼语
     auto: true

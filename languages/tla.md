@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南西テペフアン語
     auto: true
+  - translation_iso: spa
+    name: Tepehuano Suroccidental
+    auto: true
   - translation_iso: zho
     name: 西南特佩瓦语
     auto: true

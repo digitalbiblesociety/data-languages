@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ダウィック・クイ語
     auto: true
+  - translation_iso: spa
+    name: Dawik Kui
+    auto: true
   - translation_iso: zho
     name: 达威库依语
     auto: true

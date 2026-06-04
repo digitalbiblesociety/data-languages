@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: モル語
     auto: true
+  - translation_iso: spa
+    name: Moru
+    auto: true
   - translation_iso: zho
     name: 莫鲁语
     auto: true

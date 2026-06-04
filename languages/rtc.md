@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ルングトゥチン語
     auto: true
+  - translation_iso: spa
+    name: Chin rungtu
+    auto: true
   - translation_iso: zho
     name: 荣图钦语
     auto: true

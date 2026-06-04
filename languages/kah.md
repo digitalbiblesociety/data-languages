@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カラ語
     auto: true
+  - translation_iso: spa
+    name: Kara (República Centroafricana)
+    auto: true
   - translation_iso: zho
     name: 卡拉语（中非共和国）
     auto: true

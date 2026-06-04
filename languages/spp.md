@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スピリエセヌーフォ語
     auto: true
+  - translation_iso: spa
+    name: Supyire Senoufo
+    auto: true
   - translation_iso: zho
     name: 蘇皮雷語
 rolv_dialects:

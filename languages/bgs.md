@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タガバワ語
     auto: true
+  - translation_iso: spa
+    name: Tagabawa
+    auto: true
   - translation_iso: zho
     name: 塔加巴瓦语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バルガ語
     auto: true
+  - translation_iso: spa
+    name: Baruga
+    auto: true
   - translation_iso: zho
     name: 巴鲁加语
     auto: true

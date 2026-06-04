@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヨロキソチトル・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Yoloxochitl
+    auto: true
   - translation_iso: zho
     name: 约洛克索奇特尔-米斯特克语
     auto: true

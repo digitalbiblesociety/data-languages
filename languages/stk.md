@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アランバ語
     auto: true
+  - translation_iso: spa
+    name: Arammba
+    auto: true
   - translation_iso: zho
     name: 阿拉姆巴语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: スメルキー・カヌム語
     auto: true
+  - translation_iso: spa
+    name: Kanum Smärky
+    auto: true
   - translation_iso: zho
     name: 斯玛基卡努姆语
     auto: true

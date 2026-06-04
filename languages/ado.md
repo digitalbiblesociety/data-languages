@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アブ語
     auto: true
+  - translation_iso: spa
+    name: Abu
+    auto: true
   - translation_iso: zho
     name: 阿布语
     auto: true

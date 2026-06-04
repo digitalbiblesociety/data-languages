@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ヤングム・デイ語
     auto: true
+  - translation_iso: spa
+    name: Yangum Dey
+    auto: true
   - translation_iso: zho
     name: 扬古姆-德伊语
     auto: true

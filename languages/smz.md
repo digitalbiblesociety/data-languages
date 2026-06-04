@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: シメク語
     auto: true
+  - translation_iso: spa
+    name: Simeku
+    auto: true
   - translation_iso: zho
     name: 西梅库语
     auto: true

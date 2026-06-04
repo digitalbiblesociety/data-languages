@@ -24,6 +24,9 @@ translations:
     name: 南アゼルバイジャン語
   - translation_iso: kor
     name: 남아제르바이잔어
+  - translation_iso: spa
+    name: Azerbaiyano Meridional
+    auto: true
   - translation_iso: zho
     name: 南阿塞拜疆语
 rolv_dialects:

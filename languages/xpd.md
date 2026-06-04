@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: オイスターベイ・タスマニア語
     auto: true
+  - translation_iso: spa
+    name: Tasmanio de la bahía de las Ostras
+    auto: true
   - translation_iso: zho
     name: 牡蛎湾塔斯马尼亚语
     auto: true

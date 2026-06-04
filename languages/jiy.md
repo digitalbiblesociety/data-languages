@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブユアン・ジヌオ語
     auto: true
+  - translation_iso: spa
+    name: Jinuo Buyuan
+    auto: true
   - translation_iso: zho
     name: 布远基诺语
     auto: true

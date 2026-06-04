@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チャウダングシ語
     auto: true
+  - translation_iso: spa
+    name: Chaudangsi
+    auto: true
   - translation_iso: zho
     name: 乔当西语
     auto: true

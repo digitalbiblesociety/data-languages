@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アイチャム語
     auto: true
+  - translation_iso: spa
+    name: Ai-Cham
+    auto: true
   - translation_iso: zho
     name: 錦語
 rolv_dialects:

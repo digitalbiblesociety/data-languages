@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エトクワン語
     auto: true
+  - translation_iso: spa
+    name: Etkywan
+    auto: true
   - translation_iso: zho
     name: 埃特基万语
     auto: true

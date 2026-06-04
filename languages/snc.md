@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シナゴロ語
+  - translation_iso: spa
+    name: Sinaugoro
+    auto: true
   - translation_iso: zho
     name: 西瑙高罗语
 rolv_dialects:

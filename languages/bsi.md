@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バソッシ語
     auto: true
+  - translation_iso: spa
+    name: Bassossi
+    auto: true
   - translation_iso: zho
     name: 巴索西语
     auto: true

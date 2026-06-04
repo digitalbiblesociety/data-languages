@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レモンタード・ドゥマガト語
     auto: true
+  - translation_iso: spa
+    name: Remontado Dumagat
+    auto: true
   - translation_iso: zho
     name: 雷蒙塔多杜马加特语
     auto: true

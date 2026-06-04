@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ソリハレンガン語
     auto: true
+  - translation_iso: spa
+    name: Sori-Harengan
+    auto: true
   - translation_iso: zho
     name: 索里-哈伦甘语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: オミエ語
     auto: true
+  - translation_iso: spa
+    name: Ömie
+    auto: true
   - translation_iso: zho
     name: 欧米亚语
     auto: true

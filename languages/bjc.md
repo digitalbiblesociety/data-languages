@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バリジ語
     auto: true
+  - translation_iso: spa
+    name: Bariji
+    auto: true
   - translation_iso: zho
     name: 巴里吉语
     auto: true

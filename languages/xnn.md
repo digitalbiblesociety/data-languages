@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北部カンカナイ語
     auto: true
+  - translation_iso: spa
+    name: Kankanay septentrional
+    auto: true
   - translation_iso: zho
     name: 北坎卡纳语
     auto: true

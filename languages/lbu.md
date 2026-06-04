@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラブ語
     auto: true
+  - translation_iso: spa
+    name: Labu
+    auto: true
   - translation_iso: zho
     name: 拉布语
     auto: true

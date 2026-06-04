@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブナプ語
     auto: true
+  - translation_iso: spa
+    name: Vunapu
+    auto: true
   - translation_iso: zho
     name: 武纳普语
     auto: true

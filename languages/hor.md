@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホロ語
+  - translation_iso: spa
+    name: Horo
+    auto: true
   - translation_iso: zho
     name: 霍罗语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エフェ語
+  - translation_iso: spa
+    name: Lese
+    auto: true
   - translation_iso: zho
     name: 莱塞语
     auto: true

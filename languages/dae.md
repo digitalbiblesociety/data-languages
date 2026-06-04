@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ドゥーパ語
     auto: true
+  - translation_iso: spa
+    name: Duupa
+    auto: true
   - translation_iso: zho
     name: 杜乌帕语
     auto: true

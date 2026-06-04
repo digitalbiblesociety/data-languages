@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガーグジュ語
+  - translation_iso: spa
+    name: Gagadu
+    auto: true
   - translation_iso: zho
     name: 加加杜语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カバ語
     auto: true
+  - translation_iso: spa
+    name: Kaba
+    auto: true
   - translation_iso: zho
     name: 卡巴语
     auto: true

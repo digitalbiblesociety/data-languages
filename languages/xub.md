@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベッタ・クルンバ語
     auto: true
+  - translation_iso: spa
+    name: Betta Kurumba
+    auto: true
   - translation_iso: zho
     name: 贝塔-库鲁姆巴语
     auto: true

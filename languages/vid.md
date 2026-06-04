@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヴィドゥンダ語
     auto: true
+  - translation_iso: spa
+    name: Vidunda
+    auto: true
   - translation_iso: zho
     name: 维都达语
     auto: true

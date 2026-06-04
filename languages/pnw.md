@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バンジマ語
     auto: true
+  - translation_iso: spa
+    name: Banyjima
+    auto: true
   - translation_iso: zho
     name: 班吉玛语
     auto: true

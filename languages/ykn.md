@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クア・ンシ語
     auto: true
+  - translation_iso: spa
+    name: Kua-nsi
+    auto: true
   - translation_iso: zho
     name: 跨恩斯话
 ---

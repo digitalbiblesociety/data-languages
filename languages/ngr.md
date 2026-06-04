@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナング語
+  - translation_iso: spa
+    name: Engdewu
+    auto: true
   - translation_iso: zho
     name: 恩格德瓦语
     auto: true

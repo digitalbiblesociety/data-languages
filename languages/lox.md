@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロウン語
     auto: true
+  - translation_iso: spa
+    name: Loun
+    auto: true
   - translation_iso: zho
     name: 路恩语
     auto: true

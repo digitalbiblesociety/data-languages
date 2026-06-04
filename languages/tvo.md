@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティドレ語
+  - translation_iso: spa
+    name: Tidore
+    auto: true
   - translation_iso: zho
     name: 蒂多雷语
 ---

@@ -23,6 +23,9 @@ translations:
     name: बंजारा भाषा
   - translation_iso: jpn
     name: ランバディ語
+  - translation_iso: spa
+    name: Lambadi
+    auto: true
   - translation_iso: zho
     name: 兰巴迪语
 rolv_dialects:

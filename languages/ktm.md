@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クルティ語
     auto: true
+  - translation_iso: spa
+    name: Kurti
+    auto: true
   - translation_iso: zho
     name: 库尔蒂语
     auto: true

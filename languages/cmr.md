@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムロ・キミ・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Mro-Khimi
+    auto: true
   - translation_iso: zho
     name: 姆罗-希米钦语
     auto: true

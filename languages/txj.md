@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: タルフモ語
     auto: true
+  - translation_iso: spa
+    name: Tarjumo
+    auto: true
   - translation_iso: zho
     name: 塔尔朱莫语
     auto: true

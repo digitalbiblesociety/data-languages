@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンベラ
+  - translation_iso: spa
+    name: Kambera
+    auto: true
   - translation_iso: zho
     name: 坎贝拉语
     auto: true

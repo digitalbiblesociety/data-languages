@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カコリ語
     auto: true
+  - translation_iso: spa
+    name: Umbu-Ungu
+    auto: true
   - translation_iso: zho
     name: 翁布-翁古语
     auto: true

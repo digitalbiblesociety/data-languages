@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アチョマウィ語
+  - translation_iso: spa
+    name: Achumawi
+    auto: true
   - translation_iso: zho
     name: 阿楚马维语
     auto: true

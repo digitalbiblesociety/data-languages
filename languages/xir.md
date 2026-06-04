@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シリアナ語 (アラワク)
+  - translation_iso: spa
+    name: Xiriâna
+    auto: true
   - translation_iso: zho
     name: 西里亚纳语
     auto: true

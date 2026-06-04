@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 中央メラナウ語
     auto: true
+  - translation_iso: spa
+    name: Melanau Central
+    auto: true
   - translation_iso: zho
     name: 中部美拉瑙语
     auto: true

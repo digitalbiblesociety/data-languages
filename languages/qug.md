@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チンボラソ高地ケチュア語
+  - translation_iso: spa
+    name: Quichua serrano de Chimborazo
+    auto: true
   - translation_iso: zho
     name: 钦博拉索高地基楚亚语
     auto: true

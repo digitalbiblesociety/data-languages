@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノーン語
+  - translation_iso: spa
+    name: Noon
+    auto: true
   - translation_iso: zho
     name: 诺恩语
 rolv_dialects:

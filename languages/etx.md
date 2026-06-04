@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エテン語
     auto: true
+  - translation_iso: spa
+    name: Eten
+    auto: true
   - translation_iso: zho
     name: 埃腾语
     auto: true

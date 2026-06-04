@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ミツク語
     auto: true
+  - translation_iso: spa
+    name: Mituku
+    auto: true
   - translation_iso: zho
     name: 米图库语
     auto: true

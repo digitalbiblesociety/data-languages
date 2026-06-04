@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マダガスカル手話
+  - translation_iso: spa
+    name: Lengua de señas de Madagascar
+    auto: true
   - translation_iso: zho
     name: 马达加斯加手语
     auto: true

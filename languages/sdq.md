@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: バハサ・クアラン・セマンダン語
     auto: true
+  - translation_iso: spa
+    name: Semandang
+    auto: true
   - translation_iso: zho
     name: 塞曼当语
     auto: true

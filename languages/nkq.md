@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ンカミ語
     auto: true
+  - translation_iso: spa
+    name: Nkami
+    auto: true
   - translation_iso: zho
     name: 恩卡米语
     auto: true

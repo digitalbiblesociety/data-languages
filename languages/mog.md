@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モンゴンドウ語
+  - translation_iso: spa
+    name: Mongondow
+    auto: true
   - translation_iso: zho
     name: 蒙贡多语
 rolv_dialects:

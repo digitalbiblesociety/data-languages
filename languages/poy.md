@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ポゴロ語
     auto: true
+  - translation_iso: spa
+    name: Pogolo
+    auto: true
   - translation_iso: zho
     name: 波戈洛语
     auto: true

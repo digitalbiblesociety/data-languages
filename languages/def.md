@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: デズフリ語
     auto: true
+  - translation_iso: spa
+    name: Dezfuli
+    auto: true
   - translation_iso: zho
     name: 德茲富勒方言
 rolv_dialects:

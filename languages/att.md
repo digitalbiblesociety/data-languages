@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パンプロナ・アッタ語
     auto: true
+  - translation_iso: spa
+    name: Atta de Pamplona
+    auto: true
   - translation_iso: zho
     name: 潘普洛纳阿塔语
     auto: true

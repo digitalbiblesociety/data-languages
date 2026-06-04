@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: セナリ語
     auto: true
+  - translation_iso: spa
+    name: Senoufo Syenara
+    auto: true
   - translation_iso: zho
     name: 西埃纳拉塞努福语
     auto: true

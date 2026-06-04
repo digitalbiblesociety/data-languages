@@ -18,6 +18,9 @@ translations:
     name: ब्रिब्री सांकेतिक भाषा
   - translation_iso: jpn
     name: ブリブリ手話
+  - translation_iso: spa
+    name: Lengua de señas bribri
+    auto: true
   - translation_iso: zho
     name: 布里布里手语
     auto: true

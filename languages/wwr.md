@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワラワ語
+  - translation_iso: spa
+    name: Warrwa
+    auto: true
   - translation_iso: zho
     name: 瓦罗瓦语
     auto: true

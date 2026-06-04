@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タマゾラ・ミシテク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de Tamazola
+    auto: true
   - translation_iso: zho
     name: 塔玛佐拉混特克语
     auto: true

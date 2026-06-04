@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 赤タイ語
+  - translation_iso: spa
+    name: Tai Daeng
+    auto: true
   - translation_iso: zho
     name: 泰丹語
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ウォロッラ語
     auto: true
+  - translation_iso: spa
+    name: Worrorra
+    auto: true
   - translation_iso: zho
     name: 沃罗拉语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フィリピン手話
+  - translation_iso: spa
+    name: Lengua de señas filipina
+    auto: true
   - translation_iso: zho
     name: 菲律宾手语
     auto: true

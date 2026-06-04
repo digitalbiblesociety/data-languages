@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ンドンデ・ハンバ語
     auto: true
+  - translation_iso: spa
+    name: Ndonde Hamba
+    auto: true
   - translation_iso: zho
     name: 恩东德汉巴语
     auto: true

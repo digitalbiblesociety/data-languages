@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サガラ語
     auto: true
+  - translation_iso: spa
+    name: Sagala
+    auto: true
   - translation_iso: zho
     name: 萨加拉语
     auto: true

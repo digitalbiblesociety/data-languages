@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペントラッチ語
+  - translation_iso: spa
+    name: Pentlatch
+    auto: true
   - translation_iso: zho
     name: 彭特拉奇语
     auto: true

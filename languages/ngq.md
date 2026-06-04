@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングリミ語
     auto: true
+  - translation_iso: spa
+    name: Ngurimi
+    auto: true
   - translation_iso: zho
     name: 恩古里米语
     auto: true

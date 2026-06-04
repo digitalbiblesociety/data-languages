@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アウ語
     auto: true
+  - translation_iso: spa
+    name: "A'ou"
+    auto: true
   - translation_iso: zho
     name: 阿欧方言
 ---

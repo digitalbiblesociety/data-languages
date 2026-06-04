@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エデラ・アウユ語
     auto: true
+  - translation_iso: spa
+    name: Awyu Edera
+    auto: true
   - translation_iso: zho
     name: 埃德拉阿维尤语
     auto: true

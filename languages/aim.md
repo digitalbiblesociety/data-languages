@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アイモル語
     auto: true
+  - translation_iso: spa
+    name: Aimol
+    auto: true
   - translation_iso: zho
     name: 艾莫尔语
     auto: true

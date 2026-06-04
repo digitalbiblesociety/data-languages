@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バクウェ語
+  - translation_iso: spa
+    name: Bakwé
+    auto: true
   - translation_iso: zho
     name: 巴克韦语
     auto: true

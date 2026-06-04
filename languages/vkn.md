@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コロ・イハ語
     auto: true
+  - translation_iso: spa
+    name: Koro Nulu
+    auto: true
   - translation_iso: zho
     name: 科罗-努鲁语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カムリン語
     auto: true
+  - translation_iso: spa
+    name: Camling
+    auto: true
   - translation_iso: zho
     name: 卡姆林语
     auto: true

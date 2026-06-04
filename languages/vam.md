@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥソ語
     auto: true
+  - translation_iso: spa
+    name: Vanimo
+    auto: true
   - translation_iso: zho
     name: 瓦尼莫语
     auto: true

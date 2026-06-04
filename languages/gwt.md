@@ -22,6 +22,9 @@ translations:
     name: ग्वार-बती भाषा
   - translation_iso: jpn
     name: ガワール・バティ語
+  - translation_iso: spa
+    name: Gawar-Bati
+    auto: true
   - translation_iso: zho
     name: 加瓦尔-巴蒂语
 rolv_dialects:

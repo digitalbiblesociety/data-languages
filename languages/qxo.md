@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南コンチュコスアンカシュケチュア語
     auto: true
+  - translation_iso: spa
+    name: "Quechua de los Conchucos del sur, Áncash"
+    auto: true
   - translation_iso: zho
     name: 南孔丘斯安卡什克丘亚语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カロ語
+  - translation_iso: spa
+    name: Karo (Etiopía)
+    auto: true
   - translation_iso: zho
     name: 卡罗语(埃塞俄比亚)
     auto: true

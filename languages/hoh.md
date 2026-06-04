@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホビョト語
+  - translation_iso: spa
+    name: Hobyót
+    auto: true
   - translation_iso: zho
     name: 霍卜约特语
 ---

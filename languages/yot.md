@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ヨッティ語
     auto: true
+  - translation_iso: spa
+    name: Yotti
+    auto: true
   - translation_iso: zho
     name: 约蒂语
     auto: true

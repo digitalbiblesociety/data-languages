@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カミ語
+  - translation_iso: spa
+    name: Kami (Tanzania)
+    auto: true
   - translation_iso: zho
     name: 卡米语
     auto: true

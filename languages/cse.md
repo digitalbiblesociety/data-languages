@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チェコ手話
+  - translation_iso: spa
+    name: Lengua de Señas Checa
+    auto: true
   - translation_iso: zho
     name: 捷克手语
 ---

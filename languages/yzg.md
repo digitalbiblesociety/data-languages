@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エマ・ブヤン語
     auto: true
+  - translation_iso: spa
+    name: "Buyang E'ma"
+    auto: true
   - translation_iso: zho
     name: 峨马布央语
 ---

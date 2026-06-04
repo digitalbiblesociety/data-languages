@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ナポ低地ケチュア語
     auto: true
+  - translation_iso: spa
+    name: Quechua bajo del Napo
+    auto: true
   - translation_iso: zho
     name: 纳波低地克丘亚语
     auto: true

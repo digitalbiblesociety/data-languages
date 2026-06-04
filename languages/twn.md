@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カンバプ語
     auto: true
+  - translation_iso: spa
+    name: Twendi
+    auto: true
   - translation_iso: zho
     name: 特温迪语
     auto: true

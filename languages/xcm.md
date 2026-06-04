@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: コメクルド語
     auto: true
+  - translation_iso: spa
+    name: Comecrudo
+    auto: true
   - translation_iso: zho
     name: 科梅克鲁多语
     auto: true

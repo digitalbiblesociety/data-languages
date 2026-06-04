@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タニビリ語
+  - translation_iso: spa
+    name: Tanimbili
+    auto: true
   - translation_iso: zho
     name: 塔尼姆比利语
     auto: true

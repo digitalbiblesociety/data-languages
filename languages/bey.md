@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベリ語
     auto: true
+  - translation_iso: spa
+    name: Beli (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 巴布亚新几内亚贝利语
     auto: true

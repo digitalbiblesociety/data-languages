@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナタンズ語
+  - translation_iso: spa
+    name: Natanzi
+    auto: true
   - translation_iso: zho
     name: 纳坦兹语
     auto: true

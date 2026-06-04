@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エロクワナス語
     auto: true
+  - translation_iso: spa
+    name: Erokwanas
+    auto: true
   - translation_iso: zho
     name: 埃罗克瓦纳斯语
     auto: true

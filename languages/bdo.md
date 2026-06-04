@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: モロム語
     auto: true
+  - translation_iso: spa
+    name: Morom
+    auto: true
   - translation_iso: zho
     name: 莫罗姆语
     auto: true

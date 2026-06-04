@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オーラジ語
     auto: true
+  - translation_iso: spa
+    name: Urali
+    auto: true
   - translation_iso: zho
     name: 乌拉利语
     auto: true

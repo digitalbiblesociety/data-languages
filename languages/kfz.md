@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クルンフェ語
+  - translation_iso: spa
+    name: Koromfé
+    auto: true
   - translation_iso: zho
     name: 科罗姆费语
 rolv_dialects:

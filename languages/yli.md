@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アングルク・ヤリ語
     auto: true
+  - translation_iso: spa
+    name: Yali de Angguruk
+    auto: true
   - translation_iso: zho
     name: 昂古鲁克-亚里语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンクツ語
     auto: true
+  - translation_iso: spa
+    name: Nkutu
+    auto: true
   - translation_iso: zho
     name: 恩库图语
     auto: true

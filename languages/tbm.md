@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タグブ語
     auto: true
+  - translation_iso: spa
+    name: Tagbu
+    auto: true
   - translation_iso: zho
     name: 塔格布语
     auto: true

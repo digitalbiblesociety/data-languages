@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クイニ語
     auto: true
+  - translation_iso: spa
+    name: Kwini
+    auto: true
   - translation_iso: zho
     name: 奎尼语
     auto: true

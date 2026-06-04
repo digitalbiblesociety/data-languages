@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ンゲンデレンゴ語
     auto: true
+  - translation_iso: spa
+    name: Ngendelengo
+    auto: true
   - translation_iso: zho
     name: 恩根德伦戈语
     auto: true

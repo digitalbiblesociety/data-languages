@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タポ語
     auto: true
+  - translation_iso: spa
+    name: "T'apo"
+    auto: true
   - translation_iso: zho
     name: 塔波语
     auto: true

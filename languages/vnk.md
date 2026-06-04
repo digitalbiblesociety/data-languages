@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロヴォノ語
+  - translation_iso: spa
+    name: Vano
+    auto: true
   - translation_iso: zho
     name: 瓦诺语
     auto: true

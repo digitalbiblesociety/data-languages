@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブング語
+  - translation_iso: spa
+    name: Bung
+    auto: true
   - translation_iso: zho
     name: 邦语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フォラク語
     auto: true
+  - translation_iso: spa
+    name: Forak
+    auto: true
   - translation_iso: zho
     name: 福拉克语
     auto: true

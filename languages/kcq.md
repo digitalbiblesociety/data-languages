@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カモ語
     auto: true
+  - translation_iso: spa
+    name: Kamo
+    auto: true
   - translation_iso: zho
     name: 卡莫语
     auto: true

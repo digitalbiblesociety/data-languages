@@ -22,6 +22,9 @@ translations:
     name: महासु पहाड़ी
   - translation_iso: jpn
     name: マハス・パハリー語
+  - translation_iso: spa
+    name: Pahari de Mahasu
+    auto: true
   - translation_iso: zho
     name: 马哈苏帕哈里语
 rolv_dialects:

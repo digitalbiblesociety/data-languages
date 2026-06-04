@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イノケ・ヤテ語
     auto: true
+  - translation_iso: spa
+    name: Inoke-Yate
+    auto: true
   - translation_iso: zho
     name: 伊诺克-亚特语
     auto: true

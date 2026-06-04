@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゴディエ語
     auto: true
+  - translation_iso: spa
+    name: Godié
+    auto: true
   - translation_iso: zho
     name: 戈迪语
     auto: true

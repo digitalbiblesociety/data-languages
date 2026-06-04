@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フル語
     auto: true
+  - translation_iso: spa
+    name: Furu
+    auto: true
   - translation_iso: zho
     name: 富鲁语
     auto: true

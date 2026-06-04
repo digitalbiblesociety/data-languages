@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シシプ語
     auto: true
+  - translation_iso: spa
+    name: Cicipu
+    auto: true
   - translation_iso: zho
     name: 奇普語
 rolv_dialects:

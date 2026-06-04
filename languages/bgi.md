@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ギアンガン語
     auto: true
+  - translation_iso: spa
+    name: Giangan
+    auto: true
   - translation_iso: zho
     name: 吉安根语
     auto: true

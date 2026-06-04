@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンドラフス語
     auto: true
+  - translation_iso: spa
+    name: Andra-Hus
+    auto: true
   - translation_iso: zho
     name: 安德拉-胡斯语
     auto: true

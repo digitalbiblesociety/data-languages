@@ -22,6 +22,9 @@ translations:
     name: サヴォサヴォ語
   - translation_iso: kor
     name: 사보사보어
+  - translation_iso: spa
+    name: Savosavo
+    auto: true
   - translation_iso: zho
     name: 萨沃萨沃语
     auto: true

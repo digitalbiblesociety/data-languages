@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カワチャ語
     auto: true
+  - translation_iso: spa
+    name: Kawacha
+    auto: true
   - translation_iso: zho
     name: 卡瓦恰语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケチャン語
+  - translation_iso: spa
+    name: Quechan
+    auto: true
   - translation_iso: zho
     name: 克查语
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: マエカ語
     auto: true
+  - translation_iso: spa
+    name: Mayeka
+    auto: true
   - translation_iso: zho
     name: 玛耶卡语
     auto: true

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 앙고람어
+  - translation_iso: spa
+    name: Angoram
+    auto: true
   - translation_iso: zho
     name: 安戈拉姆语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: テメ語
     auto: true
+  - translation_iso: spa
+    name: Teme
+    auto: true
   - translation_iso: zho
     name: 特梅语
     auto: true

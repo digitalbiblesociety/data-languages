@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サクシェ・ゲベ語
     auto: true
+  - translation_iso: spa
+    name: Saxwe Gbe
+    auto: true
   - translation_iso: zho
     name: 萨克韦格贝语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブラガル語
     auto: true
+  - translation_iso: spa
+    name: Blagar
+    auto: true
   - translation_iso: zho
     name: 布拉加尔语
     auto: true

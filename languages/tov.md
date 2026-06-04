@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 上部タロミ語
     auto: true
+  - translation_iso: spa
+    name: Taromi Superior
+    auto: true
   - translation_iso: zho
     name: 上塔罗米语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マリンバ語
     auto: true
+  - translation_iso: spa
+    name: Malimba
+    auto: true
   - translation_iso: zho
     name: 玛林巴语
     auto: true

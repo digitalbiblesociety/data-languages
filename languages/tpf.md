@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 타르피아어
+  - translation_iso: spa
+    name: Tarpia
+    auto: true
   - translation_iso: zho
     name: 塔尔皮亚语
     auto: true

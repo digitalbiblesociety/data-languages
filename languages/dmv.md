@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダンパス語
     auto: true
+  - translation_iso: spa
+    name: Dumpas
+    auto: true
   - translation_iso: zho
     name: 邓帕斯语
     auto: true

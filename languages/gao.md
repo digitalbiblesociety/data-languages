@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガンツ語
     auto: true
+  - translation_iso: spa
+    name: Gants
+    auto: true
   - translation_iso: zho
     name: 甘茨语
     auto: true

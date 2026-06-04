@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: モフ・グドゥル語
     auto: true
+  - translation_iso: spa
+    name: Mofu-Gudur
+    auto: true
   - translation_iso: zho
     name: 莫夫-古都尔语
     auto: true

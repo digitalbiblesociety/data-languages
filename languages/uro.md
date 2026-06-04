@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アウラモット語
     auto: true
+  - translation_iso: spa
+    name: Ura (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 乌拉语（巴布亚新几内亚）
     auto: true

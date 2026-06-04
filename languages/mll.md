@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マルア・ベイ語
     auto: true
+  - translation_iso: spa
+    name: Malua Bay
+    auto: true
   - translation_iso: zho
     name: 玛卢亚湾语
     auto: true

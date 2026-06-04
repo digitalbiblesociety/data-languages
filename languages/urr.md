@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダイバース・ベイ語
     auto: true
+  - translation_iso: spa
+    name: Lehalurup
+    auto: true
   - translation_iso: zho
     name: 勒哈卢鲁普语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エラップ語
     auto: true
+  - translation_iso: spa
+    name: Uri
+    auto: true
   - translation_iso: zho
     name: 乌里语
     auto: true

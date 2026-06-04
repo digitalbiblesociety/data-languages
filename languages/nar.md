@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イグタ語
     auto: true
+  - translation_iso: spa
+    name: Iguta
+    auto: true
   - translation_iso: zho
     name: 伊古塔语
     auto: true

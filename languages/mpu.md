@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マクラップ語
     auto: true
+  - translation_iso: spa
+    name: Makuráp
+    auto: true
   - translation_iso: zho
     name: 玛库拉普语
     auto: true

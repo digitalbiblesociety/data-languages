@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: レガ・ムウェンガ語
     auto: true
+  - translation_iso: spa
+    name: Lega-Mwenga
+    auto: true
   - translation_iso: zho
     name: 勒加-姆韦恩加语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: モロネネ語
     auto: true
+  - translation_iso: spa
+    name: Moronene
+    auto: true
   - translation_iso: zho
     name: 莫罗内内语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイサカ・マダガスカル語
+  - translation_iso: spa
+    name: Malgache Tesaka
+    auto: true
   - translation_iso: zho
     name: 特萨卡马拉加斯语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨルング手話
+  - translation_iso: spa
+    name: Lengua de señas Yolŋu
+    auto: true
   - translation_iso: zho
     name: 约尔纽-手语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クワイオ語
     auto: true
+  - translation_iso: spa
+    name: Kwaio
+    auto: true
   - translation_iso: zho
     name: 夸伊奥语
     auto: true

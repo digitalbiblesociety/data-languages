@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボコト語
+  - translation_iso: spa
+    name: Bokoto
+    auto: true
   - translation_iso: zho
     name: 博科托语
     auto: true

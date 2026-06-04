@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メルパ語
+  - translation_iso: spa
+    name: Melpa
+    auto: true
   - translation_iso: zho
     name: 美尔帕语
 rolv_dialects:

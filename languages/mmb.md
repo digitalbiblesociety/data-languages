@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: モミナ語
     auto: true
+  - translation_iso: spa
+    name: Momina
+    auto: true
   - translation_iso: zho
     name: 莫米纳语
     auto: true

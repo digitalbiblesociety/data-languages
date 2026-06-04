@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エトゥロ語
     auto: true
+  - translation_iso: spa
+    name: Etulo
+    auto: true
   - translation_iso: zho
     name: 埃图罗语
     auto: true

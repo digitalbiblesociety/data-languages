@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゲレ語
     auto: true
+  - translation_iso: spa
+    name: Kele (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 克莱语（巴布亚新几内亚）
     auto: true

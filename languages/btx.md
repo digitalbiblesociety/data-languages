@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カロ語
+  - translation_iso: spa
+    name: Batak Karo
+    auto: true
   - translation_iso: zho
     name: 卡羅語
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コルプン・セラ語
     auto: true
+  - translation_iso: spa
+    name: Korupun-Sela
+    auto: true
   - translation_iso: zho
     name: 科鲁普恩-塞拉语
     auto: true

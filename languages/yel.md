@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イェラ語
     auto: true
+  - translation_iso: spa
+    name: Yela
+    auto: true
   - translation_iso: zho
     name: 耶拉语
     auto: true

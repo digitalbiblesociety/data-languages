@@ -20,6 +20,9 @@ translations:
     name: मियाकूबो सांकेतिक भाषा
   - translation_iso: jpn
     name: 宮窪手話
+  - translation_iso: spa
+    name: Lengua de señas de Miyakubo
+    auto: true
   - translation_iso: zho
     name: 宫窪手语
     auto: true

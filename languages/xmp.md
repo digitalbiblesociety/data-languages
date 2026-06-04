@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クク・ムイン語
     auto: true
+  - translation_iso: spa
+    name: "Kuku-Mu'inh"
+    auto: true
   - translation_iso: zho
     name: 库库-穆伊尼语
     auto: true

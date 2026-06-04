@@ -21,6 +21,9 @@ translations:
     name: बान खोर सांकेतिक भाषा
   - translation_iso: jpn
     name: バンコール手話
+  - translation_iso: spa
+    name: Lengua de señas de Ban Khor
+    auto: true
   - translation_iso: zho
     name: 班柯手语
     auto: true

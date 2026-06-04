@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フモング・ド語
     auto: true
+  - translation_iso: spa
+    name: Hmong Dô
+    auto: true
   - translation_iso: zho
     name: 东苗语
     auto: true

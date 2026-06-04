@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フェフェ語
+  - translation_iso: spa
+    name: "Fe'fe'"
+    auto: true
   - translation_iso: zho
     name: 费费语
     auto: true

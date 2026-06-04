@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムポトヴォロ語
     auto: true
+  - translation_iso: spa
+    name: Mpotovoro
+    auto: true
   - translation_iso: zho
     name: 姆波托沃罗语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バタド・イフガオ語
     auto: true
+  - translation_iso: spa
+    name: Ifugao de Batad
+    auto: true
   - translation_iso: zho
     name: 巴塔德伊富高语
     auto: true

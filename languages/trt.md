@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タルンガレ語
     auto: true
+  - translation_iso: spa
+    name: Tunggare
+    auto: true
   - translation_iso: zho
     name: 通噶雷语
     auto: true

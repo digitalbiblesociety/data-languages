@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トロモナ語
+  - translation_iso: spa
+    name: Toromono
+    auto: true
   - translation_iso: zho
     name: 托罗莫诺语
     auto: true

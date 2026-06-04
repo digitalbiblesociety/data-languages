@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マトゥムビ語
     auto: true
+  - translation_iso: spa
+    name: Matumbi
+    auto: true
   - translation_iso: zho
     name: 玛图姆比语
     auto: true

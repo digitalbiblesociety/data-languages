@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アムンダバ語
     auto: true
+  - translation_iso: spa
+    name: Amundava
+    auto: true
   - translation_iso: zho
     name: 阿蒙达瓦语
     auto: true

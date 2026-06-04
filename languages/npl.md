@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南東プエブラ・ナワトル語
     auto: true
+  - translation_iso: spa
+    name: Náhuatl del Sureste de Puebla
+    auto: true
   - translation_iso: zho
     name: 东南普埃布拉纳瓦特尔语
     auto: true

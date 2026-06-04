@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ビルワ語
     auto: true
+  - translation_iso: spa
+    name: Birwa
+    auto: true
   - translation_iso: zho
     name: 比尔瓦语
     auto: true

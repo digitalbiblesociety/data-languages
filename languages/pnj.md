@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ピンジャルップ語
     auto: true
+  - translation_iso: spa
+    name: Pinjarup
+    auto: true
   - translation_iso: zho
     name: 平贾鲁普语
     auto: true

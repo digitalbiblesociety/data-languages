@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チンボン・チン語
     auto: true
+  - translation_iso: spa
+    name: Chin Chinbon
+    auto: true
   - translation_iso: zho
     name: 钦邦钦语
     auto: true

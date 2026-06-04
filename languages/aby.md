@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アネメウェイク語
     auto: true
+  - translation_iso: spa
+    name: Aneme Wake
+    auto: true
   - translation_iso: zho
     name: 安姆韦克语
     auto: true

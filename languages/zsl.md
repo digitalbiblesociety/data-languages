@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ザンビア手話
+  - translation_iso: spa
+    name: Lengua de señas de Zambia
+    auto: true
   - translation_iso: zho
     name: 赞比亚手语
     auto: true

@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: クラホ語
     auto: true
+  - translation_iso: spa
+    name: Krahô
+    auto: true
   - translation_iso: zho
     name: 克拉霍语
     auto: true

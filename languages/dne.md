@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンデンドゥレ語
     auto: true
+  - translation_iso: spa
+    name: Ndendeule
+    auto: true
   - translation_iso: zho
     name: 恩德德乌莱语
     auto: true

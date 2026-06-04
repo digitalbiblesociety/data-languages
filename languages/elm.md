@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エレメ語
     auto: true
+  - translation_iso: spa
+    name: Eleme
+    auto: true
   - translation_iso: zho
     name: 埃莱梅语
     auto: true

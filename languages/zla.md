@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ズラ語
     auto: true
+  - translation_iso: spa
+    name: Zula
+    auto: true
   - translation_iso: zho
     name: 祖拉语
     auto: true

@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ラウラ語
     auto: true
+  - translation_iso: spa
+    name: Laura
+    auto: true
   - translation_iso: zho
     name: 劳拉语
     auto: true

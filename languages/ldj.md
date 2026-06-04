@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レモロ語
     auto: true
+  - translation_iso: spa
+    name: Lemoro
+    auto: true
   - translation_iso: zho
     name: 莱莫罗语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 南部ティドゥング語
     auto: true
+  - translation_iso: spa
+    name: Tidung Meridional
+    auto: true
   - translation_iso: zho
     name: 南蒂冬语
     auto: true

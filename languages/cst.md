@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・オーロン語
     auto: true
+  - translation_iso: spa
+    name: Ohlone Septentrional
+    auto: true
   - translation_iso: zho
     name: 北奥赫龙语
     auto: true

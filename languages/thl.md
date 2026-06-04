@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ダンガウラ・タル語
     auto: true
+  - translation_iso: spa
+    name: Tharu Dangaura
+    auto: true
   - translation_iso: zho
     name: 当加乌拉塔鲁语
     auto: true

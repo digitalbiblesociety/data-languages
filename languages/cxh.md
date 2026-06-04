@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: チャアリ語
     auto: true
+  - translation_iso: spa
+    name: "Cha'ari"
+    auto: true
   - translation_iso: zho
     name: 查阿里语
     auto: true

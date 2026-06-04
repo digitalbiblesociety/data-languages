@@ -23,6 +23,9 @@ translations:
     name: 西パンジャーブ語
   - translation_iso: kor
     name: 서펀자브어
+  - translation_iso: spa
+    name: Panyabí occidental
+    auto: true
   - translation_iso: zho
     name: 西旁遮普语
 rolv_dialects:

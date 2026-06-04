@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アレム語
     auto: true
+  - translation_iso: spa
+    name: Arem
+    auto: true
   - translation_iso: zho
     name: 阿雷姆语
 rolv_dialects:

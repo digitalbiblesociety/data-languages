@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガタ語
     auto: true
+  - translation_iso: spa
+    name: "Gata'"
+    auto: true
   - translation_iso: zho
     name: 格塔语
 rolv_dialects:

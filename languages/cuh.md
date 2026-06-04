@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チュカ語
     auto: true
+  - translation_iso: spa
+    name: Chuka
+    auto: true
   - translation_iso: zho
     name: 朱卡语
     auto: true

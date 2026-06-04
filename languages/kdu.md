@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カダル語
     auto: true
+  - translation_iso: spa
+    name: Kadaru
+    auto: true
   - translation_iso: zho
     name: 卡达鲁语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: トロ・ソ・ドゴン語
     auto: true
+  - translation_iso: spa
+    name: Dogon Toro So
+    auto: true
   - translation_iso: zho
     name: 托罗索多贡语
     auto: true

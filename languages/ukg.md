@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウクリグマ語
     auto: true
+  - translation_iso: spa
+    name: Ukuriguma
+    auto: true
   - translation_iso: zho
     name: 乌库里古马语
     auto: true

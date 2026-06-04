@@ -15,6 +15,9 @@ translations:
     name: कुई भाषा
   - translation_iso: jpn
     name: クーイ語
+  - translation_iso: spa
+    name: Kui (India)
+    auto: true
   - translation_iso: zho
     name: 奎语
 rolv_dialects:

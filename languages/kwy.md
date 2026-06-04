@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンサルバドル・コンゴ語
+  - translation_iso: spa
+    name: Kongo de San Salvador
+    auto: true
   - translation_iso: zho
     name: 圣萨尔瓦多刚果语
     auto: true

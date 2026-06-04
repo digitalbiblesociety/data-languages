@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワクデ語
     auto: true
+  - translation_iso: spa
+    name: Wakde
+    auto: true
   - translation_iso: zho
     name: 瓦克德语
     auto: true

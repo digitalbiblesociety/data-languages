@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クウェラ・ゲベ語
     auto: true
+  - translation_iso: spa
+    name: Xwela Gbe
+    auto: true
   - translation_iso: zho
     name: 克韦拉-格贝语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フオン語
     auto: true
+  - translation_iso: spa
+    name: Phuong
+    auto: true
   - translation_iso: zho
     name: 方语
 ---

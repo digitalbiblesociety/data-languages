@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤングカム語
     auto: true
+  - translation_iso: spa
+    name: Yangkam
+    auto: true
   - translation_iso: zho
     name: 扬卡姆语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キマラガン語
     auto: true
+  - translation_iso: spa
+    name: Kimaragang
+    auto: true
   - translation_iso: zho
     name: 基马拉甘语
     auto: true

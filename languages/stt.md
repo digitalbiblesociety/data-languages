@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ローワー・スティエン語
     auto: true
+  - translation_iso: spa
+    name: Stieng Budeh
+    auto: true
   - translation_iso: zho
     name: 布德斯蒂恩格语
     auto: true

@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サウジアラビア手話
+  - translation_iso: spa
+    name: Lengua de señas saudí
+    auto: true
   - translation_iso: zho
     name: 沙特阿拉伯手语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マンドボ・アタス語
     auto: true
+  - translation_iso: spa
+    name: Mandobo Atas
+    auto: true
   - translation_iso: zho
     name: 曼多博阿塔斯语
     auto: true

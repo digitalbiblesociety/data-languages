@@ -17,6 +17,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チャ方言
+  - translation_iso: spa
+    name: Chakaviano
+    auto: true
   - translation_iso: zho
     name: 查方言
 ---

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マダク語
+  - translation_iso: spa
+    name: Madak
+    auto: true
   - translation_iso: zho
     name: 玛达克语
     auto: true

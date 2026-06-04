@@ -23,6 +23,9 @@ translations:
     name: アルジェリア手話
   - translation_iso: kor
     name: 알제리 수어
+  - translation_iso: spa
+    name: Lengua de señas argelina
+    auto: true
   - translation_iso: zho
     name: 阿尔及利亚手语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アニメレ語
     auto: true
+  - translation_iso: spa
+    name: Animere
+    auto: true
   - translation_iso: zho
     name: 阿尼梅雷语
     auto: true

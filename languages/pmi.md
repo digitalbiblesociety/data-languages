@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 北プミ語
     auto: true
+  - translation_iso: spa
+    name: Pumi septentrional
+    auto: true
   - translation_iso: zho
     name: 北部普米语
 rolv_dialects:

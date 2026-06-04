@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タンジジリ語
     auto: true
+  - translation_iso: spa
+    name: Tanjijili
+    auto: true
   - translation_iso: zho
     name: 坦吉吉利语
     auto: true

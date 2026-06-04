@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コルワワ語
     auto: true
+  - translation_iso: spa
+    name: Koluwawa
+    auto: true
   - translation_iso: zho
     name: 科卢瓦瓦语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゴロヴ語
     auto: true
+  - translation_iso: spa
+    name: Gorovu
+    auto: true
   - translation_iso: zho
     name: 戈罗武语
     auto: true

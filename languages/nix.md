@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘマ語
+  - translation_iso: spa
+    name: Hema
+    auto: true
   - translation_iso: zho
     name: 赫马语
     auto: true

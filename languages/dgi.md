@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・ダガラ語
     auto: true
+  - translation_iso: spa
+    name: Dagara del Norte
+    auto: true
   - translation_iso: zho
     name: 北达加拉语
     auto: true

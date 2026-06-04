@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イェロング語
     auto: true
+  - translation_iso: spa
+    name: Yerong
+    auto: true
   - translation_iso: zho
     name: 雅郎布央语
 ---

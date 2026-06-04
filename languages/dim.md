@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディメ語
     auto: true
+  - translation_iso: spa
+    name: Dime
+    auto: true
   - translation_iso: zho
     name: 迪梅语
     auto: true

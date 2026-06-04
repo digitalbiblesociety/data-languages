@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テケ・フーム語
     auto: true
+  - translation_iso: spa
+    name: Teke-Fuumu
+    auto: true
   - translation_iso: zho
     name: 特克-富乌姆语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 徳靖チワン語
+  - translation_iso: spa
+    name: Zhuang Yang
+    auto: true
   - translation_iso: zho
     name: 德靖壯語
 rolv_dialects:

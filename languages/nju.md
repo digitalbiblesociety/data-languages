@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングアジュンマヤ語
     auto: true
+  - translation_iso: spa
+    name: Ngadjunmaya
+    auto: true
   - translation_iso: zho
     name: 恩加德朱姆亚语
     auto: true

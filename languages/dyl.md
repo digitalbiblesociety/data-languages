@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ブータン手話
     auto: true
+  - translation_iso: spa
+    name: Lengua de señas de Bután
+    auto: true
   - translation_iso: zho
     name: 不丹手语
     auto: true

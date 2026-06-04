@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クリアス・リバー・カダザン語
     auto: true
+  - translation_iso: spa
+    name: Kadazan del Río Klias
+    auto: true
   - translation_iso: zho
     name: 克利亚河卡达赞语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サバネ語
     auto: true
+  - translation_iso: spa
+    name: Sabanê
+    auto: true
   - translation_iso: zho
     name: 萨班埃语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オソソ語
     auto: true
+  - translation_iso: spa
+    name: Ososo
+    auto: true
   - translation_iso: zho
     name: 奥索索语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガンギテメリ語
+  - translation_iso: spa
+    name: "Ngan'gityemerri"
+    auto: true
   - translation_iso: zho
     name: 恩冈吉蒂耶梅里语
     auto: true

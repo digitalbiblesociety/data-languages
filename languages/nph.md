@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フォム・ナガ語
     auto: true
+  - translation_iso: spa
+    name: Naga Phom
+    auto: true
   - translation_iso: zho
     name: 普姆纳加语
     auto: true

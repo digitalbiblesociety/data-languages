@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナロゴ語
     auto: true
+  - translation_iso: spa
+    name: Nalögo
+    auto: true
   - translation_iso: zho
     name: 纳洛戈语
     auto: true

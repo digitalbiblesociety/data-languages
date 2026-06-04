@@ -23,6 +23,9 @@ translations:
     name: निमाड़ी
   - translation_iso: jpn
     name: ニマディ語
+  - translation_iso: spa
+    name: Nimadi
+    auto: true
   - translation_iso: zho
     name: 尼玛迪语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジャクン語
     auto: true
+  - translation_iso: spa
+    name: Jakun
+    auto: true
   - translation_iso: zho
     name: 杰肯语
     auto: true

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 硯広チワン語
+  - translation_iso: spa
+    name: Zhuang Nong
+    auto: true
   - translation_iso: zho
     name: 砚广壮语
 ---

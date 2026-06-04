@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テネドゥン語
     auto: true
+  - translation_iso: spa
+    name: "Ten'edn"
+    auto: true
   - translation_iso: zho
     name: 湯加語 (南亞語系)
 rolv_dialects:

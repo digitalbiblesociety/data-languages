@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケダン語
     auto: true
+  - translation_iso: spa
+    name: Kedang
+    auto: true
   - translation_iso: zho
     name: 克当语
     auto: true

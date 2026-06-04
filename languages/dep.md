@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: デラウェア・ピジン語
     auto: true
+  - translation_iso: spa
+    name: Delaware pidgin
+    auto: true
   - translation_iso: zho
     name: 皮钦特拉华语
     auto: true

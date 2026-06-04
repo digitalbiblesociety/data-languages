@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シュビ語
     auto: true
+  - translation_iso: spa
+    name: Shubi
+    auto: true
   - translation_iso: zho
     name: 舒比语
 ---

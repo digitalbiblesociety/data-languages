@@ -24,6 +24,9 @@ translations:
     name: サドリ語
   - translation_iso: kor
     name: 사드리어
+  - translation_iso: spa
+    name: Sadri
+    auto: true
   - translation_iso: zho
     name: 萨德里语
 rolv_dialects:

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クワクゥム語
     auto: true
+  - translation_iso: spa
+    name: Kwakum
+    auto: true
   - translation_iso: zho
     name: 克瓦库姆语
     auto: true

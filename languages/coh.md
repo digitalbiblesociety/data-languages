@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チョニイ語
     auto: true
+  - translation_iso: spa
+    name: Chonyi-Dzihana-Kauma
+    auto: true
   - translation_iso: zho
     name: 琼伊-兹伊哈纳-考马语
     auto: true

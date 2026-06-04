@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダカカ語
+  - translation_iso: spa
+    name: Daakaka
+    auto: true
   - translation_iso: zho
     name: 达卡卡语
     auto: true

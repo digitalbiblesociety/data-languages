@@ -22,6 +22,9 @@ translations:
     name: राजबोंग्शी भाषा
   - translation_iso: jpn
     name: ランプリ語
+  - translation_iso: spa
+    name: Rangpuri
+    auto: true
   - translation_iso: zho
     name: 朗普尔语
 ---

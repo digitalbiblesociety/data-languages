@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プアン語
+  - translation_iso: spa
+    name: Phuan
+    auto: true
   - translation_iso: zho
     name: 潘语
 rolv_dialects:

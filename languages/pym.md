@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フヤム語
     auto: true
+  - translation_iso: spa
+    name: Fyam
+    auto: true
   - translation_iso: zho
     name: 菲亚姆语
     auto: true

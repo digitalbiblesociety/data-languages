@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: エンガーノ語
     auto: true
+  - translation_iso: spa
+    name: Enggano
+    auto: true
   - translation_iso: zho
     name: 恩加诺语
     auto: true

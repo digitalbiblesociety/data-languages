@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レニマ語
     auto: true
+  - translation_iso: spa
+    name: Lenyima
+    auto: true
   - translation_iso: zho
     name: 伦伊玛语
     auto: true

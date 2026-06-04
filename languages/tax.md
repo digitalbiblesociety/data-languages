@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タムキ語
     auto: true
+  - translation_iso: spa
+    name: Tamki
+    auto: true
   - translation_iso: zho
     name: 塔姆基语
     auto: true

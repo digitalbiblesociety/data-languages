@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テンボ語
     auto: true
+  - translation_iso: spa
+    name: Tembo (Kitembo)
+    auto: true
   - translation_iso: zho
     name: 特博语
     auto: true

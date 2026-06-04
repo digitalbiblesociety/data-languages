@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マホングウェ語
+  - translation_iso: spa
+    name: Mahongwe
+    auto: true
   - translation_iso: zho
     name: 馬洪圭語
 ---

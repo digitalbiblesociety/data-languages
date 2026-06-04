@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴエマイ語
+  - translation_iso: spa
+    name: Goemai
+    auto: true
   - translation_iso: zho
     name: 格埃迈语
     auto: true

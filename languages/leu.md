@@ -25,6 +25,9 @@ translations:
     name: カラ語
   - translation_iso: kor
     name: 카라어
+  - translation_iso: spa
+    name: Kara (Papúa Nueva Guinea)
+    auto: true
   - translation_iso: zho
     name: 卡拉语(巴布亚新几内亚)
     auto: true

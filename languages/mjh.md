@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムウェラ語
     auto: true
+  - translation_iso: spa
+    name: Mwera (Nyasa)
+    auto: true
   - translation_iso: zho
     name: 姆韦拉语（尼亚萨）
     auto: true

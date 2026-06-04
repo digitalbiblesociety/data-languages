@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビセニ語
     auto: true
+  - translation_iso: spa
+    name: Biseni
+    auto: true
   - translation_iso: zho
     name: 比塞尼语
     auto: true

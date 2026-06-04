@@ -25,6 +25,9 @@ translations:
     name: ハルハ・モンゴル語
   - translation_iso: kor
     name: 할하 몽골어
+  - translation_iso: spa
+    name: Mongol Halh
+    auto: true
   - translation_iso: zho
     name: 喀尔喀蒙古语
 rolv_dialects:

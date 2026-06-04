@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クピア語
     auto: true
+  - translation_iso: spa
+    name: Kupia
+    auto: true
   - translation_iso: zho
     name: 库皮亚语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エンレカン語
     auto: true
+  - translation_iso: spa
+    name: Enrekang
+    auto: true
   - translation_iso: zho
     name: 恩雷康语
     auto: true

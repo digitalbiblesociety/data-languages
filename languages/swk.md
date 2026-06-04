@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マラウイ・セナ語
     auto: true
+  - translation_iso: spa
+    name: Sena de Malawi
+    auto: true
   - translation_iso: zho
     name: 马拉维塞纳语
     auto: true

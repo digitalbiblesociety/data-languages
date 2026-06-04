@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キタ・マリンカカン語
+  - translation_iso: spa
+    name: Maninkakan de Kita
+    auto: true
   - translation_iso: zho
     name: 基塔曼林卡语
     auto: true

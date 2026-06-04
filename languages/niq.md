@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナンディ語
+  - translation_iso: spa
+    name: Nandi
+    auto: true
   - translation_iso: zho
     name: 南迪语
     auto: true

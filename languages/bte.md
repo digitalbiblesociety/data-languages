@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガモ・ニンギ語
+  - translation_iso: spa
+    name: Gamo-Ningi
+    auto: true
   - translation_iso: zho
     name: 加莫-宁吉语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラタウィ語
     auto: true
+  - translation_iso: spa
+    name: Rathawi
+    auto: true
   - translation_iso: zho
     name: 拉塔威语
     auto: true

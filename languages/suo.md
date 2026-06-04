@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ボウニ語
     auto: true
+  - translation_iso: spa
+    name: Bouni
+    auto: true
   - translation_iso: zho
     name: 博乌尼语
     auto: true

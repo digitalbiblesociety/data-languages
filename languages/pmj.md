@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南プミ語
     auto: true
+  - translation_iso: spa
+    name: Pumi meridional
+    auto: true
   - translation_iso: zho
     name: 南部普米语
     auto: true

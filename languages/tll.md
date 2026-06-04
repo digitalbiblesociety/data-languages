@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テテラ語
+  - translation_iso: spa
+    name: Tetela
+    auto: true
   - translation_iso: zho
     name: 特泰拉语
     auto: true

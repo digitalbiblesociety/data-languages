@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ディマ語
     auto: true
+  - translation_iso: spa
+    name: Dima
+    auto: true
   - translation_iso: zho
     name: 迪玛语
     auto: true

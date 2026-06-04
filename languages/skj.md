@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セケ語
     auto: true
+  - translation_iso: spa
+    name: Seke (Nepal)
+    auto: true
   - translation_iso: zho
     name: 塞克语（尼泊尔）
     auto: true

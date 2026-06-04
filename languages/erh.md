@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エルワ語
     auto: true
+  - translation_iso: spa
+    name: Eruwa
+    auto: true
   - translation_iso: zho
     name: 埃鲁瓦语
     auto: true

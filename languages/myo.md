@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンフィッロ語
     auto: true
+  - translation_iso: spa
+    name: Anfillo
+    auto: true
   - translation_iso: zho
     name: 安菲洛语
     auto: true

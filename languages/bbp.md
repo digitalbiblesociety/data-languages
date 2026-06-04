@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中西部バンダ語
+  - translation_iso: spa
+    name: Banda Centro-Occidental
+    auto: true
   - translation_iso: zho
     name: 西中部班达语
     auto: true

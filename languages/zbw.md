@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウェスト・ベラワン語
     auto: true
+  - translation_iso: spa
+    name: Berawan occidental
+    auto: true
   - translation_iso: zho
     name: 西贝拉旺语
     auto: true

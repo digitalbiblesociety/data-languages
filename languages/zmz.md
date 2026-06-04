@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンバンジャ語
+  - translation_iso: spa
+    name: Mbandja
+    auto: true
   - translation_iso: zho
     name: 姆班贾语
     auto: true

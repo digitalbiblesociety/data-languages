@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワトゥベラ語
     auto: true
+  - translation_iso: spa
+    name: Watubela
+    auto: true
   - translation_iso: zho
     name: 瓦图贝拉语
     auto: true

@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カランガ語
+  - translation_iso: spa
+    name: Kalanga
+    auto: true
   - translation_iso: zho
     name: 卡蘭加語
 rolv_dialects:

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 南ングバンディ語
     auto: true
+  - translation_iso: spa
+    name: Ngbandi meridional
+    auto: true
   - translation_iso: zho
     name: 南恩班迪语
 rolv_dialects:

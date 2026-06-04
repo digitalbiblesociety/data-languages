@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムディリ・ガダバ語
     auto: true
+  - translation_iso: spa
+    name: Gadaba mudhili
+    auto: true
   - translation_iso: zho
     name: 穆德利加达巴语
     auto: true

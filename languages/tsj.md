@@ -23,6 +23,9 @@ translations:
     name: सांगला भाषा
   - translation_iso: jpn
     name: ツァンラ語
+  - translation_iso: spa
+    name: Tshangla
+    auto: true
   - translation_iso: zho
     name: 仓洛语
 rolv_dialects:

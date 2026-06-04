@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: チトワニア・タル語
     auto: true
+  - translation_iso: spa
+    name: Tharu Chitwania
+    auto: true
   - translation_iso: zho
     name: 奇特瓦尼亚塔鲁语
     auto: true

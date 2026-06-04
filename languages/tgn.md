@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: タンダガノン語
     auto: true
+  - translation_iso: spa
+    name: Tandaganon
+    auto: true
   - translation_iso: zho
     name: 坦达甘农语
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビルマ手話
+  - translation_iso: spa
+    name: Lengua de señas de Myanmar
+    auto: true
   - translation_iso: zho
     name: 缅甸手语
     auto: true

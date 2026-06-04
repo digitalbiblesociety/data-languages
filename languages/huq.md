@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 回輝語
+  - translation_iso: spa
+    name: Tsat
+    auto: true
   - translation_iso: zho
     name: 回輝話
 ---

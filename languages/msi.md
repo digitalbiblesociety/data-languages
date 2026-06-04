@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サバ・マレー語
+  - translation_iso: spa
+    name: Malayo de Sabah
+    auto: true
   - translation_iso: zho
     name: 沙巴马来语
     auto: true

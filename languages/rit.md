@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リサルングー語
     auto: true
+  - translation_iso: spa
+    name: Ritharrngu
+    auto: true
   - translation_iso: zho
     name: 里塔尔尼古语
     auto: true

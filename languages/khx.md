@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カヌ語
     auto: true
+  - translation_iso: spa
+    name: Kanu
+    auto: true
   - translation_iso: zho
     name: 卡努语
     auto: true

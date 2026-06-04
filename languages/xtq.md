@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トゥムシュケーゼ語
     auto: true
+  - translation_iso: spa
+    name: Tumshuqués
+    auto: true
   - translation_iso: zho
     name: 图姆舒克语
     auto: true

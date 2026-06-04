@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カリャーラ語
     auto: true
+  - translation_iso: spa
+    name: Kariyarra
+    auto: true
   - translation_iso: zho
     name: 卡里亚拉语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: マンダ語（オーストラリア）
     auto: true
+  - translation_iso: spa
+    name: Manda (Australia)
+    auto: true
   - translation_iso: zho
     name: 曼达语(澳大利亚)
     auto: true

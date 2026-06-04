@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナッカラ
+  - translation_iso: spa
+    name: Na-kara
+    auto: true
   - translation_iso: zho
     name: 纳卡拉语
     auto: true

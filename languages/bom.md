@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビロム語
+  - translation_iso: spa
+    name: Berom
+    auto: true
   - translation_iso: zho
     name: 比罗姆语
 rolv_dialects:

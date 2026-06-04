@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ガングル語
     auto: true
+  - translation_iso: spa
+    name: Gangulu
+    auto: true
   - translation_iso: zho
     name: 冈古卢语
     auto: true

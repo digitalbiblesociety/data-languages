@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: クアンファ語
     auto: true
+  - translation_iso: spa
+    name: Kuanhua
+    auto: true
   - translation_iso: zho
     name: 宽话
 ---

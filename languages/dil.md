@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ディリング語
     auto: true
+  - translation_iso: spa
+    name: Dilling
+    auto: true
   - translation_iso: zho
     name: 迪林语
     auto: true

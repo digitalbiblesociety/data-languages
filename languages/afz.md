@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オボクイタイ語
+  - translation_iso: spa
+    name: Obokuitai
+    auto: true
   - translation_iso: zho
     name: 奥博库伊泰语
     auto: true

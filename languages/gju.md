@@ -22,6 +22,9 @@ translations:
     name: गोजरी भाषा
   - translation_iso: jpn
     name: グジャール語
+  - translation_iso: spa
+    name: Gujari
+    auto: true
   - translation_iso: zho
     name: 古贾里语
 rolv_dialects:

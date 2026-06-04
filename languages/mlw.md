@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モロコ語
     auto: true
+  - translation_iso: spa
+    name: Moloko
+    auto: true
   - translation_iso: zho
     name: 莫洛科语
     auto: true

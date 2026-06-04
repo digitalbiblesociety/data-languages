@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パパセナ語
     auto: true
+  - translation_iso: spa
+    name: Papasena
+    auto: true
   - translation_iso: zho
     name: 帕帕塞纳语
     auto: true

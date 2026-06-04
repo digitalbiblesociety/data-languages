@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: グパ・アバワ語
     auto: true
+  - translation_iso: spa
+    name: Gupa-Abawa
+    auto: true
   - translation_iso: zho
     name: 古帕-阿巴瓦语
     auto: true

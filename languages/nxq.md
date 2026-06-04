@@ -25,6 +25,9 @@ translations:
     name: ナシ語
   - translation_iso: kor
     name: 나시어
+  - translation_iso: spa
+    name: Naxi
+    auto: true
   - translation_iso: zho
     name: 纳西语
 rolv_dialects:

@@ -16,6 +16,9 @@ translations:
   - translation_iso: jpn
     name: ヤタイ語
     auto: true
+  - translation_iso: spa
+    name: Yatay
+    auto: true
   - translation_iso: zho
     name: 亚塔伊语
     auto: true

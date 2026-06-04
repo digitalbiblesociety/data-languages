@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムリンパタ語
+  - translation_iso: spa
+    name: Murrinh-Patha
+    auto: true
   - translation_iso: zho
     name: 穆林帕塔语
 rolv_dialects:

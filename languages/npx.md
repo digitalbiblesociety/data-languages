@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: ノイプックス語
     auto: true
+  - translation_iso: spa
+    name: Noipx
+    auto: true
   - translation_iso: zho
     name: 诺伊普克斯语
     auto: true

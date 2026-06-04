@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サア語
+  - translation_iso: spa
+    name: "Sa'a"
+    auto: true
   - translation_iso: zho
     name: 萨亚语
     auto: true

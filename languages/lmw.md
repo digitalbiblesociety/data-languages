@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レイク・ミウォク語
     auto: true
+  - translation_iso: spa
+    name: Miwok del lago
+    auto: true
   - translation_iso: zho
     name: 湖米沃克语
     auto: true

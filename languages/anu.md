@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヌアク語
+  - translation_iso: spa
+    name: Anuak
+    auto: true
   - translation_iso: zho
     name: 阿努阿克語
 rolv_dialects:

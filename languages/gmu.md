@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: グマル語
     auto: true
+  - translation_iso: spa
+    name: Gumalu
+    auto: true
   - translation_iso: zho
     name: 古马卢语
     auto: true

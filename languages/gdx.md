@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴドワリ語
+  - translation_iso: spa
+    name: Godwari
+    auto: true
   - translation_iso: zho
     name: 戈德瓦利语
     auto: true

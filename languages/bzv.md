@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナアミ語
     auto: true
+  - translation_iso: spa
+    name: Naami
+    auto: true
   - translation_iso: zho
     name: 纳阿米语
     auto: true

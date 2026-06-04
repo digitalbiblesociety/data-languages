@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: アディワシ・ガラシア語
     auto: true
+  - translation_iso: spa
+    name: Garasia adivasi
+    auto: true
   - translation_iso: zho
     name: 阿迪瓦西加拉西亚语
     auto: true

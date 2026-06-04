@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スアウ語
+  - translation_iso: spa
+    name: Suau
+    auto: true
   - translation_iso: zho
     name: 苏奥语
     auto: true

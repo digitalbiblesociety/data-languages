@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヴァットブラ・ラムソン語
+  - translation_iso: spa
+    name: Lavatbura-Lamusong
+    auto: true
   - translation_iso: zho
     name: 拉瓦特布拉-拉穆松语
     auto: true

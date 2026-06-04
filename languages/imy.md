@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミリヤ語
+  - translation_iso: spa
+    name: Milya
+    auto: true
   - translation_iso: zho
     name: 弥吕亚语
 ---

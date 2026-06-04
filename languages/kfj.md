@@ -18,6 +18,9 @@ translations:
   - translation_iso: jpn
     name: ケミエフア語
     auto: true
+  - translation_iso: spa
+    name: Kemiehua
+    auto: true
   - translation_iso: zho
     name: 克米埃华语
     auto: true

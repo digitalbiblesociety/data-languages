@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワリヤンガ語
     auto: true
+  - translation_iso: spa
+    name: Wariyangga
+    auto: true
   - translation_iso: zho
     name: 瓦里扬加语
     auto: true

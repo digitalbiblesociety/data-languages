@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マリンド語
     auto: true
+  - translation_iso: spa
+    name: Marind
+    auto: true
   - translation_iso: zho
     name: 玛琳德语
     auto: true

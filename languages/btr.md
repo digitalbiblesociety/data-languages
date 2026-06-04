@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: バエトラ語
     auto: true
+  - translation_iso: spa
+    name: Baetora
+    auto: true
   - translation_iso: zho
     name: 巴特劳拉语
     auto: true

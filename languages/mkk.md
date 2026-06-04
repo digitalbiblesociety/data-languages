@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ビエプ語
     auto: true
+  - translation_iso: spa
+    name: Byep
+    auto: true
   - translation_iso: zho
     name: 拜普语
     auto: true

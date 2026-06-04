@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ワガワガ語
     auto: true
+  - translation_iso: spa
+    name: Wagawaga
+    auto: true
   - translation_iso: zho
     name: 瓦加瓦加语
     auto: true

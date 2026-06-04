@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メラ・サクテン語
+  - translation_iso: spa
+    name: Brokpake
+    auto: true
   - translation_iso: zho
     name: 布罗克帕语
 ---

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ナフリ語
     auto: true
+  - translation_iso: spa
+    name: Nafri
+    auto: true
   - translation_iso: zho
     name: 纳夫里语
     auto: true

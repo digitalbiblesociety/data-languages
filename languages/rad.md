@@ -25,6 +25,9 @@ translations:
     name: ラデー語
   - translation_iso: kor
     name: 라데어
+  - translation_iso: spa
+    name: Rade
+    auto: true
   - translation_iso: zho
     name: 埃地语
 rolv_dialects:

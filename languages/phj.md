@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: パハリ語
     auto: true
+  - translation_iso: spa
+    name: Pahari
+    auto: true
   - translation_iso: zho
     name: 帕哈里语
     auto: true

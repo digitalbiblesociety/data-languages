@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マンダリ語
     auto: true
+  - translation_iso: spa
+    name: Mandari
+    auto: true
   - translation_iso: zho
     name: 曼达里语
     auto: true

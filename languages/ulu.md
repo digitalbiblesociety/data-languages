@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: オマ・ロング語
     auto: true
+  - translation_iso: spa
+    name: "Uma' Lung"
+    auto: true
   - translation_iso: zho
     name: 乌玛-隆语
     auto: true

@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 완초어
+  - translation_iso: spa
+    name: Naga Wancho
+    auto: true
   - translation_iso: zho
     name: 旺乔纳加语
     auto: true

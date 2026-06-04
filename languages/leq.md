@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レンベナ語
     auto: true
+  - translation_iso: spa
+    name: Lembena
+    auto: true
   - translation_iso: zho
     name: 伦贝纳语
     auto: true

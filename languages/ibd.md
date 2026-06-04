@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イワイジャ語
     auto: true
+  - translation_iso: spa
+    name: Iwaidja
+    auto: true
   - translation_iso: zho
     name: 伊瓦加語
 ---

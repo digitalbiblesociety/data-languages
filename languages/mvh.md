@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムルギ語
     auto: true
+  - translation_iso: spa
+    name: Mulgi
+    auto: true
   - translation_iso: zho
     name: 穆尔吉语
     auto: true

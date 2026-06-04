@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 東ムリア語
     auto: true
+  - translation_iso: spa
+    name: Muria Oriental
+    auto: true
   - translation_iso: zho
     name: 东穆里亚语
     auto: true

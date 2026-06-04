@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤプンダ語
     auto: true
+  - translation_iso: spa
+    name: Yapunda
+    auto: true
   - translation_iso: zho
     name: 亚普达语
     auto: true

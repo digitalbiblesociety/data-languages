@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 中央アウユ語
     auto: true
+  - translation_iso: spa
+    name: Awyu Central
+    auto: true
   - translation_iso: zho
     name: 中部阿维尤语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 北カラプヤ語
     auto: true
+  - translation_iso: spa
+    name: Kalapuya Septentrional
+    auto: true
   - translation_iso: zho
     name: 北卡拉普亚语
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サンフアン・コロラド・ミステク語
     auto: true
+  - translation_iso: spa
+    name: Mixteco de San Juan Colorado
+    auto: true
   - translation_iso: zho
     name: 圣胡安科罗拉多混合语
     auto: true

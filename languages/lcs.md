@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リサバタ・ヌニアリ語
     auto: true
+  - translation_iso: spa
+    name: Lisabata-Nuniali
+    auto: true
   - translation_iso: zho
     name: 利萨巴塔-努尼亚利语
     auto: true

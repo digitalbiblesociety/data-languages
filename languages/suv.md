@@ -22,6 +22,9 @@ translations:
     name: पुरोइक भाषा
   - translation_iso: jpn
     name: プロイク語
+  - translation_iso: spa
+    name: Puroik
+    auto: true
   - translation_iso: zho
     name: 苏龙语
 ---

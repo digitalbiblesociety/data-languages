@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミシマ語
+  - translation_iso: spa
+    name: Misima-Panaeati
+    auto: true
   - translation_iso: zho
     name: 米西玛-帕那埃阿蒂语
     auto: true

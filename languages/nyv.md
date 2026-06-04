@@ -25,6 +25,9 @@ translations:
     name: ニュルニュル語
   - translation_iso: kor
     name: 뉼뉼어
+  - translation_iso: spa
+    name: Nyulnyul
+    auto: true
   - translation_iso: zho
     name: 尼乌尔尼乌尔语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カラバカン語
     auto: true
+  - translation_iso: spa
+    name: Kalabakan
+    auto: true
   - translation_iso: zho
     name: 卡拉巴坎语
     auto: true

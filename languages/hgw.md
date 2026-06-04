@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ハイグワイ語
     auto: true
+  - translation_iso: spa
+    name: Haigwai
+    auto: true
   - translation_iso: zho
     name: 海格瓦伊语
     auto: true

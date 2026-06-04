@@ -24,6 +24,9 @@ translations:
     name: グニヤンディ語
   - translation_iso: kor
     name: 구니얀디어
+  - translation_iso: spa
+    name: Gooniyandi
+    auto: true
   - translation_iso: zho
     name: 古尼亚迪语
     auto: true

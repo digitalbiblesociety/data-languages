@@ -19,6 +19,9 @@ translations:
   - translation_iso: jpn
     name: ジャングル・インガ語
     auto: true
+  - translation_iso: spa
+    name: Inga de la Selva
+    auto: true
   - translation_iso: zho
     name: 丛林因加语
     auto: true

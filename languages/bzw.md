@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バサ語
     auto: true
+  - translation_iso: spa
+    name: Basa (Nigeria)
+    auto: true
   - translation_iso: zho
     name: 巴萨语
     auto: true

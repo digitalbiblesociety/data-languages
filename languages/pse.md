@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 中央マレー語
     auto: true
+  - translation_iso: spa
+    name: Malayo central
+    auto: true
   - translation_iso: zho
     name: 中马来语
 rolv_dialects:

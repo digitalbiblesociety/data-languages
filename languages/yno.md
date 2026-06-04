@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨン語
+  - translation_iso: spa
+    name: Yong
+    auto: true
   - translation_iso: zho
     name: 傣允语
 ---

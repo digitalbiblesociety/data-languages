@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: エレピ語
     auto: true
+  - translation_iso: spa
+    name: Elepi
+    auto: true
   - translation_iso: zho
     name: 埃莱皮语
     auto: true

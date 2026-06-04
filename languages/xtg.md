@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トランスアルパイン・ゴール語
+  - translation_iso: spa
+    name: Galo transalpino
+    auto: true
   - translation_iso: zho
     name: 山外高卢语
 ---

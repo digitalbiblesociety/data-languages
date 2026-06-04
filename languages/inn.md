@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イシナイ語
+  - translation_iso: spa
+    name: Isinai
+    auto: true
   - translation_iso: zho
     name: 伊西奈语
     auto: true

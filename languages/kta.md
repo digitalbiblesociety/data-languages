@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カトゥア語
     auto: true
+  - translation_iso: spa
+    name: Katua
+    auto: true
   - translation_iso: zho
     name: 歌须语
 ---

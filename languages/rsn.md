@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルワンダ手話
+  - translation_iso: spa
+    name: Lengua de señas ruandesa
+    auto: true
   - translation_iso: zho
     name: 卢旺达手语
     auto: true

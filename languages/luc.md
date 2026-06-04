@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アリンガ語
     auto: true
+  - translation_iso: spa
+    name: Aringa
+    auto: true
   - translation_iso: zho
     name: 阿林加语
     auto: true

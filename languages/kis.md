@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: キス語
     auto: true
+  - translation_iso: spa
+    name: Kis
+    auto: true
   - translation_iso: zho
     name: 基斯语
     auto: true

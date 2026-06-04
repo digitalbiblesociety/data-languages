@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴリン語
+  - translation_iso: spa
+    name: Golin
+    auto: true
   - translation_iso: zho
     name: 戈林语
     auto: true

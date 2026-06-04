@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カジャクセ語
     auto: true
+  - translation_iso: spa
+    name: Kajakse
+    auto: true
   - translation_iso: zho
     name: 卡贾克语
     auto: true

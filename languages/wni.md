@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンジワニ・コモロ語
     auto: true
+  - translation_iso: spa
+    name: Comorense de Ndzwani
+    auto: true
   - translation_iso: zho
     name: 恩津瓦尼科摩里语
     auto: true

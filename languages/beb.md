@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ベベレ語
     auto: true
+  - translation_iso: spa
+    name: Bebele
+    auto: true
   - translation_iso: zho
     name: 贝贝勒语
     auto: true

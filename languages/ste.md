@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: リアナセティ語
     auto: true
+  - translation_iso: spa
+    name: Liana-Seti
+    auto: true
   - translation_iso: zho
     name: 利亚纳-塞蒂语
     auto: true

@@ -22,6 +22,9 @@ translations:
     name: संगतम भाषा
   - translation_iso: jpn
     name: サンタム・ナガ語
+  - translation_iso: spa
+    name: Naga Sangtam
+    auto: true
   - translation_iso: zho
     name: 桑格塔姆纳加语
     auto: true

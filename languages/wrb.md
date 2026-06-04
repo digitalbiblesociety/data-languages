@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ワルワッラ語
     auto: true
+  - translation_iso: spa
+    name: Waluwarra
+    auto: true
   - translation_iso: zho
     name: 瓦卢瓦拉语
     auto: true

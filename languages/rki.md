@@ -21,6 +21,9 @@ translations:
     name: रख़ाइन भाषा
   - translation_iso: jpn
     name: ラカイン語
+  - translation_iso: spa
+    name: Rakhine
+    auto: true
   - translation_iso: zho
     name: 若开语
 rolv_dialects:

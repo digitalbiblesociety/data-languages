@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: クク語
     auto: true
+  - translation_iso: spa
+    name: Kuku
+    auto: true
   - translation_iso: zho
     name: 库库语
     auto: true

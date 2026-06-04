@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コウィアイ語
     auto: true
+  - translation_iso: spa
+    name: Kowiai
+    auto: true
   - translation_iso: zho
     name: 科瓦伊语
     auto: true

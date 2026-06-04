@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ンジャルグルグレ語
     auto: true
+  - translation_iso: spa
+    name: Njalgulgule
+    auto: true
   - translation_iso: zho
     name: 恩贾尔古古勒语
     auto: true

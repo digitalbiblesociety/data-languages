@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ノボノブ語
     auto: true
+  - translation_iso: spa
+    name: Nobonob
+    auto: true
   - translation_iso: zho
     name: 诺博诺布语
     auto: true

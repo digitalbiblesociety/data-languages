@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: シグ語
     auto: true
+  - translation_iso: spa
+    name: Sighu
+    auto: true
   - translation_iso: zho
     name: 西古语
     auto: true

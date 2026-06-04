@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アトン語(カメルーン)
     auto: true
+  - translation_iso: spa
+    name: Atong (Camerún)
+    auto: true
   - translation_iso: zho
     name: 阿通语
     auto: true

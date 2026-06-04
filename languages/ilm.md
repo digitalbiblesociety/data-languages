@@ -15,6 +15,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イラヌン語
+  - translation_iso: spa
+    name: Iranun (Malasia)
+    auto: true
   - translation_iso: zho
     name: 伊兰农语（马来西亚）
     auto: true

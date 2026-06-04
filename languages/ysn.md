@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 撒尼語
+  - translation_iso: spa
+    name: Sani
+    auto: true
   - translation_iso: zho
     name: 撒尼语
 rolv_dialects:

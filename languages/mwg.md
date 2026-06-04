@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メーヴェハーフェン語
+  - translation_iso: spa
+    name: Aiklep
+    auto: true
   - translation_iso: zho
     name: 艾克莱普语
     auto: true

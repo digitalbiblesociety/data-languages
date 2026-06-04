@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キサル語
     auto: true
+  - translation_iso: spa
+    name: Kisar
+    auto: true
   - translation_iso: zho
     name: 基萨尔语
 rolv_dialects:

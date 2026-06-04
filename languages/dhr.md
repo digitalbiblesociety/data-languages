@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダルガリ語
     auto: true
+  - translation_iso: spa
+    name: Dhargari
+    auto: true
   - translation_iso: zho
     name: 达尔加里语
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ガムコノラ語
     auto: true
+  - translation_iso: spa
+    name: Gamkonora
+    auto: true
   - translation_iso: zho
     name: 甘科莫拉语
     auto: true

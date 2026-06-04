@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: タゴイ語
     auto: true
+  - translation_iso: spa
+    name: Tagoi
+    auto: true
   - translation_iso: zho
     name: 塔戈伊语
     auto: true

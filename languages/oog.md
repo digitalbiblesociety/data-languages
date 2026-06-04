@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: オング語
     auto: true
+  - translation_iso: spa
+    name: Ong
+    auto: true
   - translation_iso: zho
     name: 翁语
     auto: true

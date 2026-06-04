@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イェレトゥアル語
     auto: true
+  - translation_iso: spa
+    name: Yeretuar
+    auto: true
   - translation_iso: zho
     name: 耶雷图阿尔语
     auto: true

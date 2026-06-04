@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジンバブエ手話
+  - translation_iso: spa
+    name: Lengua de señas de Zimbabue
+    auto: true
   - translation_iso: zho
     name: 津巴布韦手语
     auto: true

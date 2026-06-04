@@ -17,6 +17,9 @@ translations:
   - translation_iso: jpn
     name: クンバラン語
     auto: true
+  - translation_iso: spa
+    name: Kumbaran
+    auto: true
   - translation_iso: zho
     name: 库姆巴兰语
     auto: true

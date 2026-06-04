@@ -21,6 +21,9 @@ translations:
     name: भदरवाही
   - translation_iso: jpn
     name: バドラワーヒー語
+  - translation_iso: spa
+    name: Bhadrawahi
+    auto: true
   - translation_iso: zho
     name: 巴德拉瓦希语
     auto: true
