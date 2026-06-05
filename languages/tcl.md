@@ -1,6 +1,6 @@
 ---
 iso: tcl
-name: Taman (Myanmar)
+name: Taman
 autonym: null
 alt_names: [Taman]
 population: 2015

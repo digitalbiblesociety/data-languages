@@ -1,6 +1,6 @@
 ---
 iso: mte
-name: Mono (Solomon Islands)
+name: Mono
 autonym: "Mono-Alu"
 alt_names: [Alu, Mono, Mono Alu]
 population: 2266

@@ -1,6 +1,6 @@
 ---
 iso: mha
-name: Manda (India)
+name: Manda
 autonym: null
 alt_names: [Manda, Manḍa]
 population: 4040

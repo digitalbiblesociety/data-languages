@@ -1,6 +1,6 @@
 ---
 iso: asa
-name: Asu (Tanzania)
+name: Asu
 autonym: Kipare
 alt_names: [Asas, Asu, Asu/ Pare, Athu, Casu, Chasu, Chiasu, Kow, Pare, Zigula]
 population: 530000

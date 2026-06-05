@@ -1,6 +1,6 @@
 ---
 iso: uur
-name: Ura (Vanuatu)
+name: Ura
 autonym: null
 alt_names: [Arau, Aryau, Erromango, Ura]
 population: null

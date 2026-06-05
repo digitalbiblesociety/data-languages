@@ -1,6 +1,6 @@
 ---
 iso: peo
-name: "Old Persian (ca. 600-400 B.C.)"
+name: Old Persian
 autonym: 𐎠𐎼𐎹
 alt_names: [Altpersisch, Altpersische Sprache, Bahasa Persia Kuno, Fornpersiska, Gammelpersisk, Język staroperski, Lingua Persica antiqua, Lingua persiana antica, Língua persa antiga, Muinaispersia, Old Persian, Old Persian language, Oldpersisk, "Persian, Old (ca. 600-400 B.C.)", "Persian, Old (ca.600-400 B.C.)", Senpersu valoda, Vieux-perse, altperische, "perse, vieux (ca. 600-400 av. J.-C.)", Αρχαία περσική γλώσσα, Древнеперсидский язык, Староперсийски език, زبان پارسی باستان, زمانی فارسیی کۆن, ภาษาเปอร์เซียโบราณ, 古波斯語]
 population: null
@@ -35,4 +35,4 @@ translations:
   - translation_iso: zho
     name: 古波斯語
 ---
-Old Persian is one of two directly attested Old Iranian languages and is the ancestor of Middle Persian. Like other Old Iranian languages, it was known to its native speakers as ariya (Iranian). Old Persian is close to both Avestan and Vedic Sanskrit, and all three languages are highly inflected.
+Old Persian is one of two directly attested Old Iranian languages and is the ancestor of Middle Persian. Like other Old Iranian languages, it was known to its native speakers as ariya (Iranian). Old Persian is close to both Avestan and Vedic Sanskrit, and all three languages are highly inflected. Old Persian is conventionally dated from ca. 600 to 400 B.C.

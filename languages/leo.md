@@ -1,6 +1,6 @@
 ---
 iso: leo
-name: Leti (Cameroon)
+name: Leti
 autonym: null
 alt_names: [Cameroon, Leti]
 population: null

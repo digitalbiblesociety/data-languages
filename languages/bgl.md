@@ -1,6 +1,6 @@
 ---
 iso: bgl
-name: Bo (Laos)
+name: Bo
 autonym: Pakatan
 population: 2950
 country_id: LA

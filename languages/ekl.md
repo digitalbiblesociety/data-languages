@@ -1,6 +1,6 @@
 ---
 iso: ekl
-name: Kol (Bangladesh)
+name: Kol
 autonym: Hor
 alt_names: [Kol]
 population: 1660

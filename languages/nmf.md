@@ -1,6 +1,6 @@
 ---
 iso: nmf
-name: Tangkhul Naga (India)
+name: Tangkhul Naga
 autonym: Luhupa
 alt_names: [Central Luhupa, Champhung, Kupome, Luhuppa, Luppa, Naga, Naga (Tangkhul), "Naga, Tangkhul", "Naga, Tangkhul (India)", "Naga,Tangkhul", Northern Luhupa, Somra, Tagkhul, Tangkhul, Tangkhul Group, Tangkhul Naga, Tangkul, Thangkhulm, Tśamphung]
 population: 187000

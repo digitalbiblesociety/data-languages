@@ -1,6 +1,6 @@
 ---
 iso: luw
-name: Luo (Cameroon)
+name: Luo
 autonym: null
 alt_names: [Cameroon, Luo]
 population: null

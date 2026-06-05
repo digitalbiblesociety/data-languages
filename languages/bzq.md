@@ -1,6 +1,6 @@
 ---
 iso: bzq
-name: Buli (Indonesia)
+name: Buli
 autonym: null
 alt_names: [Buli]
 population: 2520

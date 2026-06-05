@@ -1,6 +1,6 @@
 ---
 iso: ten
-name: Tama (Colombia)
+name: Tama
 autonym: null
 alt_names: [Tama]
 population: null

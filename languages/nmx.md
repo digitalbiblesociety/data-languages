@@ -1,6 +1,6 @@
 ---
 iso: nmx
-name: Nama (Papua New Guinea)
+name: Nama
 autonym: null
 alt_names: [Nama]
 population: 1200

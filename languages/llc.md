@@ -1,6 +1,6 @@
 ---
 iso: llc
-name: Lele (Guinea)
+name: Lele
 autonym: null
 alt_names: [Guinea, Lele]
 population: 11000

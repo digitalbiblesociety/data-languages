@@ -1,6 +1,6 @@
 ---
 iso: ilp
-name: Iranun (Philippines)
+name: Iranun
 autonym: null
 population: null
 country_id: PH

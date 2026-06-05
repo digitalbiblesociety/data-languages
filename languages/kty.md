@@ -1,6 +1,6 @@
 ---
 iso: kty
-name: "Kango (Bas-Uélé District)"
+name: Kango
 autonym: Likango
 alt_names: [Kango]
 population: 5900

@@ -1,6 +1,6 @@
 ---
 iso: qwm
-name: Kuman (Russia)
+name: Kuman
 autonym: Tatar til
 population: null
 country_id: RU

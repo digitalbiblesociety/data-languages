@@ -1,6 +1,6 @@
 ---
 iso: lel
-name: Lele (Democratic Republic of Congo)
+name: Lele
 autonym: Bashilele
 alt_names: [Lele, Lemio, Usilele]
 population: 26000

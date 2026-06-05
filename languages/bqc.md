@@ -1,6 +1,6 @@
 ---
 iso: bqc
-name: Boko (Benin)
+name: Boko
 autonym: Bokonya
 alt_names: [Bokko, Boko, Boo, Busa, Busa-Boko]
 population: 150000

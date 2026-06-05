@@ -1,6 +1,6 @@
 ---
 iso: mcw
-name: Mawa (Chad)
+name: Mawa
 autonym: Mahoua
 alt_names: [Mahoura, Mahwa, Mawa, Mawa language]
 population: 6560

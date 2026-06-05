@@ -1,6 +1,6 @@
 ---
 iso: aum
-name: Asu (Nigeria)
+name: Asu
 autonym: Abewa
 alt_names: [Asu, Ebe]
 population: 5000

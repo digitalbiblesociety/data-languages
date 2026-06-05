@@ -1,6 +1,6 @@
 ---
 iso: swh
-name: Swahili (Coastal)
+name: Coastal Swahili
 autonym: Kiswahili
 alt_names: [Arab-Swahili, Bravanese dialect, Kisuaheli, Kisuahili, Kiswaheli, Suahili, Swahili]
 population: 16335000

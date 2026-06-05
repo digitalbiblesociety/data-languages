@@ -1,6 +1,6 @@
 ---
 iso: kmf
-name: Kare (Papua New Guinea)
+name: Kare
 autonym: null
 alt_names: [Kare]
 population: 380

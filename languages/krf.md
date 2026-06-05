@@ -1,6 +1,6 @@
 ---
 iso: krf
-name: Koro (Vanuatu)
+name: Koro
 autonym: null
 alt_names: [Banks-Inseln, Koro]
 population: 160

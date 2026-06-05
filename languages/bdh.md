@@ -1,6 +1,6 @@
 ---
 iso: bdh
-name: Baka (South Sudan)
+name: Baka
 autonym: Tara Baka
 alt_names: [Baka, Baka (Sudan), Baka (in Sudan), Tara Baaka]
 population: 62300

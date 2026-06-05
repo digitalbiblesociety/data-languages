@@ -1,6 +1,6 @@
 ---
 iso: bdj
-name: Bai (South Sudan)
+name: Bai
 autonym: Bari
 alt_names: [Bai]
 population: 2500

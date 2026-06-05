@@ -1,6 +1,6 @@
 ---
 iso: bpw
-name: Bo (Papua New Guinea)
+name: Bo
 autonym: Sorimi
 alt_names: [Bo, Po]
 population: 85

@@ -1,6 +1,6 @@
 ---
 iso: eot
-name: "Beti (Côte d'Ivoire)"
+name: Beti
 autonym: Beti
 alt_names: [Eotile, Metyibo, Éotilé]
 population: 200

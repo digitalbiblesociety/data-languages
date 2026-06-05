@@ -1,6 +1,6 @@
 ---
 iso: zmw
-name: Mbo (Democratic Republic of Congo)
+name: Mbo
 autonym: Imbo
 alt_names: [Kimbo, Mbo]
 population: 11000

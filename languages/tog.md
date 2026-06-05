@@ -1,6 +1,6 @@
 ---
 iso: tog
-name: Tonga (Nyasa)
+name: Nyasa Tonga
 autonym: Malawi Tonga
 alt_names: [Chitonga, Kitonga, Siska, Sisya, Tonga, Western Nyasa]
 population: 382000

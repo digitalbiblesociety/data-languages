@@ -1,6 +1,6 @@
 ---
 iso: bcn
-name: Bali (Nigeria)
+name: Bali
 autonym: Ị̀báalí
 alt_names: [Abaali, Bali, Bali language, Bibaali, Ibaali, Maya]
 population: 2000

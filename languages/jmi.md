@@ -1,6 +1,6 @@
 ---
 iso: jmi
-name: Jimi (Nigeria)
+name: Jimi
 autonym: "Bi-Gimu"
 alt_names: [Jimi, Jimi language]
 population: 1000

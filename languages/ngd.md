@@ -1,6 +1,6 @@
 ---
 iso: ngd
-name: Ngando (Central African Republic)
+name: Ngando
 autonym: Bagandou
 alt_names: [Bangandou, Bodzanga, Dingando, Ngando, Ngando-Kota]
 population: 5000

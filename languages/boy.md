@@ -1,6 +1,6 @@
 ---
 iso: boy
-name: Bodo (Central African Republic)
+name: Bodo
 autonym: null
 alt_names: [Bodo]
 population: 15

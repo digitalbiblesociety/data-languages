@@ -1,6 +1,6 @@
 ---
 iso: moq
-name: Mor (Bomberai Peninsula)
+name: Mor
 autonym: Mor2
 alt_names: [Mor]
 population: 30

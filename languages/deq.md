@@ -1,6 +1,6 @@
 ---
 iso: deq
-name: Dendi (Central African Republic)
+name: Dendi
 autonym: null
 alt_names: [Dendi]
 population: 10000

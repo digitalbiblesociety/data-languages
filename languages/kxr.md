@@ -1,6 +1,6 @@
 ---
 iso: kxr
-name: Koro (Papua New Guinea)
+name: Koro
 autonym: Koro
 population: 400
 country_id: PG

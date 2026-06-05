@@ -1,6 +1,6 @@
 ---
 iso: kmi
-name: Kami (Nigeria)
+name: Kami
 autonym: null
 alt_names: [Kami, Nigeria]
 population: 5000

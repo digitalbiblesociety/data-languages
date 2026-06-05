@@ -1,6 +1,6 @@
 ---
 iso: pro
-name: Old Provençal (to 1500)
+name: Old Provençal
 autonym: Proensals
 alt_names: [Ancien occitan, Antico occitano, Occitan ancian, "Occitan, Old (to 1500)", Old Occitan, Old Occitan (to 1500), Old Occitanian, Old Provençal, "Provençal, Old (to 1500)", "provençal ancien (jusqu'à 1500)"]
 population: null
@@ -35,4 +35,4 @@ translations:
   - translation_iso: zho
     name: 古奥克语
 ---
-Old Occitan, also called Old Provençal, was the earliest form of the Occitano-Romance languages, as attested in writings dating from the 8th to the 14th centuries. Old Occitan generally includes Early and Old Occitan. Middle Occitan is sometimes included in Old Occitan, sometimes in Modern Occitan. As the term occitanus appeared around the year 1300, Old Occitan is referred to as "Romance" or "Provençal" in medieval texts.
+Old Occitan, also called Old Provençal, was the earliest form of the Occitano-Romance languages, as attested in writings dating from the 8th to the 14th centuries. Old Occitan generally includes Early and Old Occitan. Middle Occitan is sometimes included in Old Occitan, sometimes in Modern Occitan. As the term occitanus appeared around the year 1300, Old Occitan is referred to as "Romance" or "Provençal" in medieval texts. Old Provençal is conventionally dated up to 1500.

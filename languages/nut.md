@@ -1,6 +1,6 @@
 ---
 iso: nut
-name: Nung (Viet Nam)
+name: Nung
 autonym: "Bu-Nong"
 alt_names: [Highland Nung, Lungchow, Nong, Nung, Nung (in Vietnam), Nung Fan Slihng, Tai Nung, Tay, Tày Nùng, Zhuang (Southern)]
 population: 969000

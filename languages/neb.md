@@ -1,6 +1,6 @@
 ---
 iso: neb
-name: "Toura (Côte d'Ivoire)"
+name: Toura
 autonym: Ween
 alt_names: [Toura, "Toura (Cote d'Ivoire)", Tura]
 population: 67000

@@ -1,6 +1,6 @@
 ---
 iso: twe
-name: Tewa (Indonesia)
+name: Tewa
 autonym: Tewa
 alt_names: [Indonesia, Teiwa]
 population: 5000

@@ -1,6 +1,6 @@
 ---
 iso: gim
-name: Gimi (Eastern Highlands)
+name: Gimi
 autonym: Labogai
 alt_names: [Gimi, Jimi]
 population: 23180

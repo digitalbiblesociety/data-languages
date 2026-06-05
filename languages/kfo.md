@@ -1,6 +1,6 @@
 ---
 iso: kfo
-name: "Koro (Côte d'Ivoire)"
+name: Koro
 autonym: Malinke
 alt_names: [Koro, "Koro (Cote d'Ivoire)", Koro Jula]
 population: 58000

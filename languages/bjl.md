@@ -1,6 +1,6 @@
 ---
 iso: bjl
-name: Bulu (Papua New Guinea)
+name: Bulu
 autonym: null
 alt_names: [Bulu]
 population: 910

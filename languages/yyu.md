@@ -1,6 +1,6 @@
 ---
 iso: yyu
-name: Yau (Sandaun Province)
+name: Yau
 autonym: null
 alt_names: [Yau]
 population: 140

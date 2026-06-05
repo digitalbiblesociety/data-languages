@@ -1,6 +1,6 @@
 ---
 iso: ilm
-name: Iranun (Malaysia)
+name: Iranun
 autonym: null
 population: null
 country_id: MY

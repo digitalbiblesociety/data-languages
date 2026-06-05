@@ -1,6 +1,6 @@
 ---
 iso: ina
-name: Interlingua (International Auxiliary Language Association)
+name: Interlingua
 autonym: Interlingua
 alt_names: [Antërlenga, Gjuha interlingua, Interlingua de Iala, Interlingva, Interlingva nyelv, Interlingvao, Interlíngua, Sí-Nterlingua, Ιντερλίνγκουα, Інтерлінгва, Интерлингва, אינטרלינגואה, إنترلنغوا, انترلينجوه, زبان اینترلینگوا, ภาษาอินเทอร์ลิงกวา, ინტერლინგუა, インターリングア, 国际语, 인테르링구아]
 population: 1500

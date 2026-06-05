@@ -1,6 +1,6 @@
 ---
 iso: msj
-name: Ma (Democratic Republic of Congo)
+name: Ma
 autonym: Amadi
 alt_names: [Ma, Madi, Madyo]
 population: 4700

@@ -1,6 +1,6 @@
 ---
 iso: gip
-name: Gimi (West New Britain)
+name: Gimi
 autonym: Loko
 alt_names: [Gimi]
 population: 3700

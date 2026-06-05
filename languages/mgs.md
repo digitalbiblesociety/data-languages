@@ -1,6 +1,6 @@
 ---
 iso: mgs
-name: Manda (Tanzania)
+name: Manda
 autonym: Kimanda
 alt_names: [Kinyasa, Manda, Nyasa]
 population: 22000

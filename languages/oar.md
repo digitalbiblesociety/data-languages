@@ -1,6 +1,6 @@
 ---
 iso: oar
-name: Old Aramaic (up to 700 BCE)
+name: Old Aramaic
 autonym: Ancient Aramaic
 alt_names: ["Aramaic, Ancient (up to 700 BCE)", "Aramaic, Old (up to 700 BCE)", Old Aramaic, Old Aramaic language, Standard Syrian Aramaic]
 population: null
@@ -35,4 +35,4 @@ translations:
   - translation_iso: zho
     name: 古亞拉姆語
 ---
-Old Aramaic refers to the earliest stage of the Aramaic language, known from early Aramaic inscriptions and dated to the 10th century BC through the 8th century BC.
+Old Aramaic refers to the earliest stage of the Aramaic language, known from early Aramaic inscriptions and dated to the 10th century BC through the 8th century BC. Old Aramaic is conventionally dated up to 700 BCE.

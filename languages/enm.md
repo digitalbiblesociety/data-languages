@@ -1,6 +1,6 @@
 ---
 iso: enm
-name: Middle English (1100-1500)
+name: Middle English
 autonym: Middle English
 alt_names: [Bahasa Inggris Pertengahan, Engleza mediă, "English, Middle (1100-1500)", Inglés medio, Inglês médio, Język średnioangielski, Keskienglanti, Medelengelska, Medio inglese, Mellomengelsk, Meza angla lingvo, Meán-Bhéarla, Middelengels, Middelengelsk, Middle Inglis leid, Mittelenglische Sprache, Miðenska, Moyen anglais, Stredná angličtina, Střední angličtina, anglais moyen (1100-1500), Средноанглийски език, إنجليزية وسطى, انگلیسی میانه, საშუალო ინგლისური ენა, 中古英语, 中英語]
 population: null
@@ -35,4 +35,4 @@ translations:
   - translation_iso: zho
     name: 中古英语
 ---
-Middle English is the forms of the English language that were spoken in England after the Norman Conquest of 1066, until the late 15th century, roughly coinciding with the High and Late Middle Ages. The Middle English dialects displaced the Old English dialects under the influence of Anglo-Norman French and Old Norse, and were in turn replaced in England by Early Modern English.
+Middle English is the forms of the English language that were spoken in England after the Norman Conquest of 1066, until the late 15th century, roughly coinciding with the High and Late Middle Ages. The Middle English dialects displaced the Old English dialects under the influence of Anglo-Norman French and Old Norse, and were in turn replaced in England by Early Modern English. Middle English is conventionally dated from 1100 to 1500.

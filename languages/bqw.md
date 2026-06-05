@@ -1,6 +1,6 @@
 ---
 iso: bqw
-name: Buru (Nigeria)
+name: Buru
 autonym: null
 alt_names: [Buru]
 population: 1000

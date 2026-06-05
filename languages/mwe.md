@@ -1,6 +1,6 @@
 ---
 iso: mwe
-name: Mwera (Chimwera)
+name: Chimwera Mwera
 autonym: Cimwera
 alt_names: [Chimwera, Mwela, Mwera]
 population: 385000

@@ -1,6 +1,6 @@
 ---
 iso: reg
-name: Kara (Tanzania)
+name: Kara
 autonym: Regi
 alt_names: [Kara]
 population: 115000

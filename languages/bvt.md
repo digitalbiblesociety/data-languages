@@ -1,6 +1,6 @@
 ---
 iso: bvt
-name: Bati (Indonesia)
+name: Bati
 autonym: Gah
 alt_names: [Bati]
 population: 3500

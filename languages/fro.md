@@ -1,6 +1,6 @@
 ---
 iso: fro
-name: "Old French (842-ca. 1400)"
+name: Old French
 autonym: "Franceis, François, Romanz"
 alt_names: [Aajdfrans, Altfranzösische Sprache, Ancien français, Antico francese, Fornfranska, Francês antigo, "French, Old (842-ca. 1400)", "French, Old (842-ca.1400)", Gammelfransk, Język starofrancuski, Lingua Francogallica antiqua, Malnovfranca lingvo, Old French, Ooltfranzöösch, Oudfrans, Starofrancouzština, français ancien (842-ca.1400), Старофранцузский язык, Старофранцуски јазик, 古フランス語, 古法語]
 population: null
@@ -35,4 +35,4 @@ translations:
   - translation_iso: zho
     name: 古法語
 ---
-Old French was the language spoken in most of the northern half of France approximately between the late 8th and mid-14th centuries. Rather than a unified language, Old French was a group of Romance dialects, mutually intelligible yet diverse. These dialects came to be collectively known as the langues d'oïl, contrasting with the langues d'oc, the emerging Occitano-Romance languages of Occitania, now Southern France.
+Old French was the language spoken in most of the northern half of France approximately between the late 8th and mid-14th centuries. Rather than a unified language, Old French was a group of Romance dialects, mutually intelligible yet diverse. These dialects came to be collectively known as the langues d'oïl, contrasting with the langues d'oc, the emerging Occitano-Romance languages of Occitania, now Southern France. Old French is conventionally dated from 842 to ca. 1400.

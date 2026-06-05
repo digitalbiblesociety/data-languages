@@ -1,6 +1,6 @@
 ---
 iso: mtf
-name: Murik (Papua New Guinea)
+name: Murik
 autonym: Nor
 alt_names: [Murik, "Murik, Nor", Múrico, Nor-Murik Lakes]
 population: 1000

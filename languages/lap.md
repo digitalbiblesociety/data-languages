@@ -1,6 +1,6 @@
 ---
 iso: lap
-name: Laka (Chad)
+name: Laka
 autonym: Kabba Laka
 alt_names: [Laka]
 population: 57150

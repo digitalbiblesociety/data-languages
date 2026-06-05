@@ -1,6 +1,6 @@
 ---
 iso: mpk
-name: Mbara (Chad)
+name: Mbara
 autonym: G’kelendeg
 alt_names: ["G'kelendeg", "G'kelendeng", Guelengdeng, Massa de Guelengdeng, Mbara]
 population: 1000

@@ -1,6 +1,6 @@
 ---
 iso: bem
-name: Bemba (Zambia)
+name: Bemba
 autonym: Chibemba
 alt_names: [Bahasa Bemba, Bemba, Bemba jezik, Bemba language, Bemba simi, Chiwemba, Ichibemba, Idioma bemba, Język bemba, Lenga Bemba, Lingua bemba, Língua bemba, Wemba, Бемба, ベンバ語]
 population: 4110000

@@ -1,6 +1,6 @@
 ---
 iso: tma
-name: Tama (Chad)
+name: Tama
 autonym: Damut
 alt_names: [Jabaal, Miisiirii, Mileere, Tama, Tamok, Tamongobo, Tamot]
 population: 62900

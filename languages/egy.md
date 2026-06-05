@@ -1,6 +1,6 @@
 ---
 iso: egy
-name: Egyptian (Ancient)
+name: Ancient Egyptian
 autonym: r n km.t
 alt_names: [Altägyptisch, Ancient Egyptian, Egyptian, Middle Egyptian, égyptien]
 population: null

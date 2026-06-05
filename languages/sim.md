@@ -1,6 +1,6 @@
 ---
 iso: sim
-name: Mende (Papua New Guinea)
+name: Mende
 autonym: Mende
 alt_names: [Nihamber, Sambu, Seim]
 population: 5700

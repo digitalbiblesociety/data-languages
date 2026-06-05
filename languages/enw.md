@@ -1,6 +1,6 @@
 ---
 iso: enw
-name: Enwan (Akwa Ibom State)
+name: Enwan
 autonym: Oron
 alt_names: ["\"Oron\"", Enwan, Enwang]
 population: 15000

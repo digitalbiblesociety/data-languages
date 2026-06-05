@@ -1,6 +1,6 @@
 ---
 iso: oke
-name: Okpe (Southwestern Edo)
+name: Southwestern Edo Okpe
 autonym: null
 alt_names: [Nigeria, Okpe]
 population: 25400

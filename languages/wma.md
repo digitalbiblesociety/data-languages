@@ -1,6 +1,6 @@
 ---
 iso: wma
-name: Mawa (Nigeria)
+name: Mawa
 autonym: null
 alt_names: [Mawa, Nigeria]
 population: null

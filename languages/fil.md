@@ -1,6 +1,6 @@
 ---
 iso: fil
-name: Filipino (see Tagalog TGL)
+name: Filipino
 autonym: Wikang Filipino
 alt_names: [Filipijns, Filipin, Filipina lingvo, Filipince, Filipineg, Filipino, Filipino language, Filippinsk, Filipínčina, Idioma filipino, Lingua Philippinica, Lingua filippina, Língua filipina, Pagsasao a Filipino, Pilipino, Филипински език, Филипински јазик, Филипински језик, פיליפינית, زبان فیلیپینی, فىلىپىنچە, फ़िलिपीनो भाषा, ফিলিপিনো ভাষা, ಫಿಲಿಪ್ಪಿನೊ ಭಾಷೆ, ภาษาฟิลิปิโน, フィリピン語, 菲律賓語, 필리핀어]
 population: 90000000

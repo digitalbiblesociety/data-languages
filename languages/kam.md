@@ -1,6 +1,6 @@
 ---
 iso: kam
-name: Kamba (Kenya)
+name: Kamba
 autonym: Kikamba
 alt_names: [Język kikamba, Kamba, Kamba language, Kambaa lingvo, Kekamba, Língua kikamba]
 population: 4660000

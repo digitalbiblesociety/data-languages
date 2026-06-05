@@ -1,6 +1,6 @@
 ---
 iso: lgo
-name: Lango (South Sudan)
+name: Lango
 autonym: Lango–Logire–Logir
 population: 38000
 country_id: SS

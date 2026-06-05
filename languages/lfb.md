@@ -1,6 +1,6 @@
 ---
 iso: lfb
-name: Buu (Cameroon)
+name: Buu
 country_id: CM
 country_name: Cameroon
 latitude: 6.54

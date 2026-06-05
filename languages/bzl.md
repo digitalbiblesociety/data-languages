@@ -1,6 +1,6 @@
 ---
 iso: bzl
-name: Boano (Sulawesi)
+name: Boano
 autonym: Bolano
 alt_names: [Boano, Djidja]
 population: 2700

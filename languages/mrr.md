@@ -1,6 +1,6 @@
 ---
 iso: mrr
-name: Maria (India)
+name: Maria
 autonym: Madiya
 alt_names: [Abujmaria, Gondi (Muria), Gonḍi, Gōṇḍī, Hill Maria, Lingua abujmaria, Madi, Madia, Maria, Maria language, Modh, Modi]
 population: 165000

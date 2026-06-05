@@ -1,6 +1,6 @@
 ---
 iso: uki
-name: Kui (India)
+name: Kui
 autonym: କୁଈ
 population: 645000
 country_id: IN

@@ -1,6 +1,6 @@
 ---
 iso: nmj
-name: Ngombe (Central African Republic)
+name: Ngombe
 autonym: Ngombe
 population: 1450
 country_id: CF

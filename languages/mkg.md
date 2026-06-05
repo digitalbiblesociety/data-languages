@@ -1,6 +1,6 @@
 ---
 iso: mkg
-name: Mak (China)
+name: Mak
 autonym: ʼai3 ma꞉k8
 alt_names: [Ching, Mak, Mo, Mo-Hua, Mochiahua, Mohua, Mojiahua, 吳家話, 莫話, 莫語, 錦話]
 population: 10000

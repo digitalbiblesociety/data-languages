@@ -1,6 +1,6 @@
 ---
 iso: wmm
-name: Maiwa (Indonesia)
+name: Maiwa
 autonym: Masenrempulu
 alt_names: [Maiwa, Nordost-Celebes]
 population: 50000

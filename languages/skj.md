@@ -1,6 +1,6 @@
 ---
 iso: skj
-name: Seke (Nepal)
+name: Seke
 autonym: null
 alt_names: [Seke]
 population: 700

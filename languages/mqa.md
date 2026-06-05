@@ -1,6 +1,6 @@
 ---
 iso: mqa
-name: Maba (Indonesia)
+name: Maba
 autonym: Bicoli
 alt_names: [Bitjoli, Ingli, Maba]
 population: 6620

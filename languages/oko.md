@@ -1,6 +1,6 @@
 ---
 iso: oko
-name: "Old Korean (3rd-9th cent.)"
+name: Old Korean
 autonym: 고대 조선어
 alt_names: ["Korean, Old (3rd-9th cent.)"]
 population: null
@@ -30,4 +30,4 @@ translations:
   - translation_iso: zho
     name: 古朝鲜语
 ---
-Old Korean is the first historically documented stage of the Korean language, typified by the language of the Unified Silla period (668–935).
+Old Korean is the first historically documented stage of the Korean language, typified by the language of the Unified Silla period (668–935). Old Korean is conventionally dated from 3rd to 9th cent.

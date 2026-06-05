@@ -1,6 +1,6 @@
 ---
 iso: toi
-name: Tonga (Zambia)
+name: Tonga
 autonym: Zambezi
 alt_names: [Chitonga, Plateau Tonga, Tonga, Tonga (in Zambia)]
 population: 1530000

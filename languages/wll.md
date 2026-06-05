@@ -1,6 +1,6 @@
 ---
 iso: wll
-name: Wali (Sudan)
+name: Wali
 autonym: Walari
 alt_names: [Ajang, Nubian (Hill), Walarishe, Wali]
 population: 9000

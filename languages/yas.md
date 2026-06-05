@@ -1,6 +1,6 @@
 ---
 iso: yas
-name: Nugunu (Cameroon)
+name: Nugunu
 autonym: Nugunu
 alt_names: [Behie, Beke, Gounou, Gunu, Nu Gunu, Ombessa, Yambasa, Yambassa]
 population: 35000

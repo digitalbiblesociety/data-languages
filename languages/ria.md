@@ -1,6 +1,6 @@
 ---
 iso: ria
-name: Riang (India)
+name: Riang
 autonym: Tripuri
 alt_names: [Kau Bru, Reang, Riang, Tipra]
 population: 59000

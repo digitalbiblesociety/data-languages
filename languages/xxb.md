@@ -1,6 +1,6 @@
 ---
 iso: xxb
-name: Boro (Ghana)
+name: Boro
 autonym: null
 population: null
 country_id: GH

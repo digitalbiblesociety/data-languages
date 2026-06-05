@@ -1,6 +1,6 @@
 ---
 iso: mjh
-name: Mwera (Nyasa)
+name: Nyasa Mwera
 autonym: Nyasa
 alt_names: [Kinyasa, Mwera, Nyanza]
 population: 6000

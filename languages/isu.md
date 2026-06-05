@@ -1,6 +1,6 @@
 ---
 iso: isu
-name: Isu (Menchum Division)
+name: Isu
 autonym: "Idzəŋi Isu, Idzəŋi Usu"
 alt_names: [Cameroon, Isu, "Isu (Northwest Region, Cameroon)"]
 population: 10400

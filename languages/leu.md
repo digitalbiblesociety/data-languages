@@ -1,6 +1,6 @@
 ---
 iso: leu
-name: Kara (Papua New Guinea)
+name: Kara
 autonym: Kara
 alt_names: [Lemakot, Lemusmus, Neu-Mecklenburg]
 population: 5000

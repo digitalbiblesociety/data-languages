@@ -1,6 +1,6 @@
 ---
 iso: tmr
-name: "Jewish Babylonian Aramaic (ca. 200-1200 CE)"
+name: Jewish Babylonian Aramaic
 autonym: Jewish Babylonian Aramaic
 alt_names: [Aramaeg talmoudek Babilonia, "Aramaic, Jewish Babylonian (ca. 200-1200 CE)", Babylonian Talmudic Aramaic, Judéo-araméen babylonien, Talmudski aramejski jezik, ארמית בבלית, ภาษาอราเมอิกยิวบาบิโลเนีย]
 population: null
@@ -36,4 +36,4 @@ translations:
   - translation_iso: zho
     name: 犹太巴比伦阿拉米语
 ---
-Jewish Babylonian Aramaic was the form of Middle Aramaic employed by writers in Lower Mesopotamia between the fourth and eleventh centuries. It is most commonly identified with the language of the Babylonian Talmud, the Targum Onqelos, and of post-Talmudic (Gaonic) literature, which are the most important cultural products of Babylonian Jews. The most important epigraphic sources for the dialect are the hundreds of inscriptions on incantation bowls.
+Jewish Babylonian Aramaic was the form of Middle Aramaic employed by writers in Lower Mesopotamia between the fourth and eleventh centuries. It is most commonly identified with the language of the Babylonian Talmud, the Targum Onqelos, and of post-Talmudic (Gaonic) literature, which are the most important cultural products of Babylonian Jews. The most important epigraphic sources for the dialect are the hundreds of inscriptions on incantation bowls. Jewish Babylonian Aramaic is conventionally dated from ca. 200 to 1200 CE.

@@ -1,6 +1,6 @@
 ---
 iso: gqn
-name: Guana (Brazil)
+name: Guana
 autonym: Chana
 population: null
 country_id: BR

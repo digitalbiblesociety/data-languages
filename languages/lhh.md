@@ -1,6 +1,6 @@
 ---
 iso: lhh
-name: Laha (Indonesia)
+name: Laha
 autonym: Central Ambon
 alt_names: [Laha]
 population: 3890

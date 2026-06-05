@@ -1,6 +1,6 @@
 ---
 iso: krs
-name: Gbaya (Sudan)
+name: Gbaya
 autonym: "Kresh-Aja"
 alt_names: [Gbaya, Kpala, Kpara, Kparla, Kredj, Kreich, Kreish, Kresh]
 population: 16000

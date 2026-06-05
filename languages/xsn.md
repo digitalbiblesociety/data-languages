@@ -1,6 +1,6 @@
 ---
 iso: xsn
-name: Sanga (Nigeria)
+name: Sanga
 autonym: Isanga
 alt_names: [Asanga, Sanga]
 population: 20100

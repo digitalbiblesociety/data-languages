@@ -1,6 +1,6 @@
 ---
 iso: sbc
-name: Kele (Papua New Guinea)
+name: Kele
 autonym: "Gele'"
 alt_names: [Admiralitäts-inseln, Ere-Lele-Gele-Kuruti, Gele, Kele, Kele language]
 population: 600

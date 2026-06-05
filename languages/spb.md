@@ -1,6 +1,6 @@
 ---
 iso: spb
-name: Sepa (Indonesia)
+name: Sepa
 autonym: Tamilouw
 alt_names: [Indonesia, Sepa]
 population: 2600

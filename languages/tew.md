@@ -1,6 +1,6 @@
 ---
 iso: tew
-name: Tewa (USA)
+name: Tewa
 autonym: Tewa
 alt_names: [Arizona Tewa, Hano, Hopi Tewa, Hopi-Tewa, Rio Grande Tewa, Tano, Tano (First Mesa)]
 population: 1300

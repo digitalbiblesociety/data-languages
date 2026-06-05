@@ -1,6 +1,6 @@
 ---
 iso: mjn
-name: Ma (Papua New Guinea)
+name: Ma
 autonym: Mebu
 alt_names: [Ma, Mawam]
 population: 570

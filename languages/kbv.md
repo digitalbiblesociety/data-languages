@@ -1,6 +1,6 @@
 ---
 iso: kbv
-name: Dera (Indonesia)
+name: Dera
 autonym: Dra
 alt_names: [Dera, Dla, Duka-Ekor, Kamberataro, Kamberatoro, Komberatoro, Mangguar, Menggwa Dla]
 population: 1000

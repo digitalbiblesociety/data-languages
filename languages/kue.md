@@ -1,6 +1,6 @@
 ---
 iso: kue
-name: Kuman (Papua New Guinea)
+name: Kuman
 autonym: Kuman
 alt_names: [Chimbu, Simbu]
 population: 115000

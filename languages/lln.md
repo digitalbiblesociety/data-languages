@@ -1,6 +1,6 @@
 ---
 iso: lln
-name: Lele (Chad)
+name: Lele
 autonym: null
 alt_names: [Chad, Lele]
 population: 26000

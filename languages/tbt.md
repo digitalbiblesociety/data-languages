@@ -1,6 +1,6 @@
 ---
 iso: tbt
-name: Tembo (Kitembo)
+name: Kitembo Tembo
 autonym: Kitembo
 alt_names: [Chitembo, Nyabungu, Tembo]
 population: 150000

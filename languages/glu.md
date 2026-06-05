@@ -1,6 +1,6 @@
 ---
 iso: glu
-name: Gula (Chad)
+name: Gula
 autonym: Sara Gula
 alt_names: [Goula, Gula, Gula (Gele), Gula (in Central African Republic), Sara Goula]
 population: 10300

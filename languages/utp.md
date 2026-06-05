@@ -1,6 +1,6 @@
 ---
 iso: utp
-name: Amba (Solomon Islands)
+name: Amba
 autonym: Aba
 alt_names: [Amba, Nembao, Utupua]
 population: 590

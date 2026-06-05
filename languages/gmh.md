@@ -1,6 +1,6 @@
 ---
 iso: gmh
-name: "Middle High German (ca. 1050-1500)"
+name: Middle High German
 autonym: diutsch / tiutsch
 alt_names: ["German, Middle High (ca. 1050-1500)"]
 population: null
@@ -35,4 +35,4 @@ translations:
   - translation_iso: zho
     name: 中古高地德语
 ---
-Middle High German is the term for the form of High German spoken in the High Middle Ages. It is conventionally dated between 1050 and 1350, developing from Old High German (OHG) into Early New High German (ENHG). High German is defined as those varieties of German which were affected by the Second Sound Shift; the Middle Low German (MLG) and Middle Dutch languages spoken to the North and North West, which did not participate in this sound change, are not part of MHG.
+Middle High German is the term for the form of High German spoken in the High Middle Ages. It is conventionally dated between 1050 and 1350, developing from Old High German (OHG) into Early New High German (ENHG). High German is defined as those varieties of German which were affected by the Second Sound Shift; the Middle Low German (MLG) and Middle Dutch languages spoken to the North and North West, which did not participate in this sound change, are not part of MHG. Middle High German is conventionally dated from ca. 1050 to 1500.

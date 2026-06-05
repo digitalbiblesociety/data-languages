@@ -1,6 +1,6 @@
 ---
 iso: ell
-name: "Modern Greek (1453-)"
+name: Modern Greek
 autonym: Νέα Ελληνικά
 alt_names: [Ellinika, Graecae, Grec, Grec de Marioupol, Grec modern, Grec moderne, Greco, Greek, Greek (Cypriot), Greek (Modern), "Greek, Modern (1453-)", Grego moderno, Griego moderno, Griko (Calabre), Griko (Salento), Jaungrieķu valoda, Język nowogrecki, Lingua Neograeca, Lingua greca moderna, Mauropoliano, Modern Greek, Modern Grieks, Neegreeksche Spraak, Neo-Hellenic, Neu-Griechisch, Neugriechische Sprache, Novogréčtina, Novogrčki jezik, Nygrekiska, Nygresk, Nygræsk, Romaic, Tayunanit, grec moderne (après 1453), Новогрецька мова, יוונית מודרנית, आधुनिक यूनानी भाषा]
 population: 13500000
@@ -81,4 +81,4 @@ rolv_dialects:
     country_id: GR
     location: Greece
 ---
-Modern Greek, generally referred to by speakers simply as Greek, refers collectively to the dialects of the Greek language spoken in the modern era, including the official standardized form of the language sometimes referred to as Standard Modern Greek. The end of the Medieval Greek period and the beginning of Modern Greek is often symbolically assigned to the fall of the Byzantine Empire in 1453, even though that date marks no clear linguistic boundary and many characteristic features of the modern language arose centuries earlier, having begun around the fourth century AD.
+Modern Greek, generally referred to by speakers simply as Greek, refers collectively to the dialects of the Greek language spoken in the modern era, including the official standardized form of the language sometimes referred to as Standard Modern Greek. The end of the Medieval Greek period and the beginning of Modern Greek is often symbolically assigned to the fall of the Byzantine Empire in 1453, even though that date marks no clear linguistic boundary and many characteristic features of the modern language arose centuries earlier, having begun around the fourth century AD. Modern Greek is conventionally dated from 1453 onward.

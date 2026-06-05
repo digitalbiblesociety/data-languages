@@ -1,6 +1,6 @@
 ---
 iso: bum
-name: Bulu (Cameroon)
+name: Bulu
 autonym: "Bulu-Bene"
 alt_names: [Boulou, Bulu, Bulu (in Cameroon)]
 population: 858000

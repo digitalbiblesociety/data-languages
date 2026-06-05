@@ -1,6 +1,6 @@
 ---
 iso: kol
-name: Kol (Papua New Guinea)
+name: Kol
 autonym: Kola
 alt_names: [Język kol, Kol, Kol language, Kole]
 population: 1300

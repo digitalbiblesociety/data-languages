@@ -1,6 +1,6 @@
 ---
 iso: ayq
-name: Ayi (Papua New Guinea)
+name: Ayi
 autonym: null
 alt_names: [Ayi, Ayi language]
 population: 430

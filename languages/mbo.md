@@ -1,6 +1,6 @@
 ---
 iso: mbo
-name: Mbo (Cameroon)
+name: Mbo
 autonym: Ngoe
 alt_names: [Mbo, Mboo, Sambo]
 population: 45000

@@ -1,6 +1,6 @@
 ---
 iso: rwr
-name: Marwari (India)
+name: Marwari
 autonym: मारवाड़ी/مارواڑی‎
 alt_names: [Marwari, Rajasthani]
 population: 7855400

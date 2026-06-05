@@ -1,6 +1,6 @@
 ---
 iso: mde
-name: Maba (Chad)
+name: Maba
 autonym: Borgu
 alt_names: [Bura Mabang, Bura-Mabang, Kana Mabang, Maba, Mabaa, Mabak, Mabang, Ouaddai, Ouaddaien, Wadai, Waddayen]
 population: 567000

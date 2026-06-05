@@ -1,6 +1,6 @@
 ---
 iso: kcu
-name: Kami (Tanzania)
+name: Kami
 autonym: Kikami
 alt_names: [Kami, Wakami]
 population: 16400

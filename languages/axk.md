@@ -1,6 +1,6 @@
 ---
 iso: axk
-name: Yaka (Central African Republic)
+name: Yaka
 autonym: Yaka
 alt_names: ["\"Babinga\"", "\"Bambenga\"", Aka, Babinga, Bambenga, Beka, Beká, Binga, Mòáka, Nyoyaka, Pygmée de Mongoumba, Pygmée de la Lobaye, Pygmées de la Sanghas]
 population: 15000

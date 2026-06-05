@@ -1,6 +1,6 @@
 ---
 iso: sqx
-name: Kufr Qassem Sign Language (KQSL)
+name: Kufr Qassem Sign Language
 population: 50
 country_id: IL
 country_name: Israel

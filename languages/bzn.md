@@ -1,6 +1,6 @@
 ---
 iso: bzn
-name: Boano (Maluku)
+name: Boano
 autonym: Buano
 alt_names: [Boano]
 population: 3240

@@ -1,6 +1,6 @@
 ---
 iso: ddn
-name: Dendi (Benin)
+name: Dendi
 autonym: Dandawa
 alt_names: [Dendi]
 population: 270050

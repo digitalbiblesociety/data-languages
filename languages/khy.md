@@ -1,6 +1,6 @@
 ---
 iso: khy
-name: Kele (Democratic Republic of Congo)
+name: Kele
 autonym: Lokele
 alt_names: [Ekele, Kele, Kili, Likelo, Yakusu]
 population: 160000

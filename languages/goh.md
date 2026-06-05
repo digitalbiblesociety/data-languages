@@ -1,6 +1,6 @@
 ---
 iso: goh
-name: "Old High German (ca. 750-1050)"
+name: Old High German
 autonym: Althochdeutsch
 alt_names: [Aldheechdútsk, Alt alemany antic, Alto alemão antigo, Alto tedesco antico, Antiguo alto alemán, Bahasa Jerman Hulu Kuna, Eald Hēah Þēodisc, Eski Yüksek Almanca, Gammelhøytysk, "German, Old High (ca. 750-1050)", "German, Old High (ca.750-1050)", High German, Język staro-wysoko-niemiecki, Malnovaltgermana lingvo, Old High German, Oldhøjtysk, Oudhoogduits, Vieux haut-allemand, "allemand, vieux haut (ca. 750-1050)", Древневерхненемецкий язык, Стар високогермански јазик, 古高ドイツ語, 古高地德語]
 population: null
@@ -35,4 +35,4 @@ translations:
   - translation_iso: zho
     name: 古高地德语
 ---
-Old High German is the earliest stage of the German language, conventionally identified as the period from around 500/750 to 1050. Rather than representing a single supra-regional form of German, Old High German encompasses the numerous West Germanic dialects that had undergone the set of consonantal changes called the Second Sound Shift.
+Old High German is the earliest stage of the German language, conventionally identified as the period from around 500/750 to 1050. Rather than representing a single supra-regional form of German, Old High German encompasses the numerous West Germanic dialects that had undergone the set of consonantal changes called the Second Sound Shift. Old High German is conventionally dated from ca. 750 to 1050.

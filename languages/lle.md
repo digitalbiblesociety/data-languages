@@ -1,6 +1,6 @@
 ---
 iso: lle
-name: Lele (Papua New Guinea)
+name: Lele
 autonym: "Elu-Kara"
 alt_names: [Admiralitäts-inseln, Hai, Lele, Lele Hai, Manus, Moanus, Usiai]
 population: 1300

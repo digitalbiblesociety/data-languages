@@ -1,6 +1,6 @@
 ---
 iso: den
-name: Slave (Athapascan)
+name: Athapascan Slave
 autonym: "North:"
 alt_names: [Slavey]
 population: 1720

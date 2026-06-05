@@ -1,6 +1,6 @@
 ---
 iso: mxr
-name: Murik (Malaysia)
+name: Murik
 autonym: null
 alt_names: ["Kayan, Murik", Malaysia, Murik]
 population: 1120

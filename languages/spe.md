@@ -1,6 +1,6 @@
 ---
 iso: spe
-name: Sepa (Papua New Guinea)
+name: Sepa
 autonym: null
 alt_names: [Sepa]
 population: 700

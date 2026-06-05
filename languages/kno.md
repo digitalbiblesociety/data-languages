@@ -1,6 +1,6 @@
 ---
 iso: kno
-name: Kono (Sierra Leone)
+name: Kono
 autonym: Kono
 alt_names: [Konnoh, Коно]
 population: 272000

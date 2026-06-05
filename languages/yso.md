@@ -1,6 +1,6 @@
 ---
 iso: yso
-name: Nisi (China)
+name: Nisi
 autonym: mã˥˧ tsi˥˧
 alt_names: [Lolo, Nisi, Yi, "Yi, Southeastern Lolo"]
 population: 36000
