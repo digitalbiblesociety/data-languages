@@ -2,7 +2,7 @@
 iso: myy
 name: Macuna
 autonym: "Macuna-Erulia"
-alt_names: [Baigana, Buhagana, Buhágana, Emoa, Erulia, Ide, Jepa-Matsi, Macuna (Brésil), Macuna (Colombia), Macuna (Colombie), Makuna, Makuna-Erulia, Paneroa, Roea, Suroa, Tabotiro Jejea, Umua, Wahana, Wuhána, Yeba, Yebamasã, Yehpá Majsá, Yepá Maxsã, Yepá-Mahsá]
+alt_names: [Baigana, Buhagana, Buhágana, Emoa, Erulia, Ide, Jepa-Matsi, Makuna, Makuna-Erulia, Paneroa, Roea, Suroa, Tabotiro Jejea, Umua, Wahana, Wuhána, Yeba, Yebamasã, Yehpá Majsá, Yepá Maxsã, Yepá-Mahsá]
 population: 1032
 country_id: CO
 country_name: Colombia

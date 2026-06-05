@@ -2,7 +2,7 @@
 iso: van
 name: Valman
 autonym: Koroko
-alt_names: [Koruon, Valman (Koroko), Walman]
+alt_names: [Koruon, Walman]
 population: 1740
 country_id: PG
 country_name: Papua New Guinea

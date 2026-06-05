@@ -2,7 +2,7 @@
 iso: swh
 name: Swahili (Coastal)
 autonym: Kiswahili
-alt_names: [Arab-Swahili, Bravanese dialect, Kisuaheli, Kisuahili, Kiswaheli, Suahili, Swahili, Swahili (individual language)]
+alt_names: [Arab-Swahili, Bravanese dialect, Kisuaheli, Kisuahili, Kiswaheli, Suahili, Swahili]
 population: 16335000
 country_id: TZ
 country_name: Tanzania

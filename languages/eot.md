@@ -2,7 +2,7 @@
 iso: eot
 name: "Beti (Côte d'Ivoire)"
 autonym: Beti
-alt_names: ["Beti (Cote d'Ivoire)", Eotile, Metyibo, Éotilé]
+alt_names: [Eotile, Metyibo, Éotilé]
 population: 200
 country_id: CI
 country_name: "Côte d'Ivoire"

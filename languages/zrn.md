@@ -2,7 +2,6 @@
 iso: zrn
 name: Zerenkel
 autonym: Zirenkel
-alt_names: [Zirenkel language]
 population: 2240
 country_id: TD
 country_name: Chad

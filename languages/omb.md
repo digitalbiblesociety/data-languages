@@ -2,7 +2,7 @@
 iso: omb
 name: East Ambae
 autonym: Aoba
-alt_names: [(Lolovoli Northeast), Ambae, Ambae (Lolovoli Northeast), Ambae (Lolovoli), "Ambae, East", Aoban (Northeast), North-East Ambae (Lolovoli), Northeast Ambae, Northeast Aoba, Oba, Omba, Walurigi]
+alt_names: [(Lolovoli Northeast), Ambae, "Ambae, East", Lolovoli, Lolovoli Northeast, North-East Ambae (Lolovoli), Northeast Ambae, Northeast Aoba, Oba, Omba, Walurigi]
 population: 5000
 country_id: VU
 country_name: Vanuatu

@@ -2,7 +2,7 @@
 iso: arb
 name: Arabic
 autonym: عربي فصيح
-alt_names: [Al Arabiya, Al Fus-Ha, Al-Arabiyya, Al-FusHa, Arabe standard moderne, Arabeg unvan, Arabic (Modern Literary), Arabic (Modern Standard), "Arabic, Standard", Classical Arabic, "Fus'ha", Fusha, High Arabic, Koranic Arabic, Modern Literary Arabic, Modern Standard Arabic, "Qur'anic Arabic", Quranic Arabic, Standard, Standard Arabic, Standardni arapski, al-Fusḥa, Árabe estándar moderno, Árabe moderno padrão, Арабский литературный язык, Пишан арапски јазик, عربى قياسى حديث, لغة عربية فصحى, フスハー]
+alt_names: [Al Arabiya, Al Fus-Ha, Al-Arabiyya, Al-FusHa, Arabe standard moderne, Arabeg unvan, "Arabic, Standard", Classical Arabic, "Fus'ha", Fusha, High Arabic, Koranic Arabic, Modern Literary Arabic, Modern Standard Arabic, "Qur'anic Arabic", Quranic Arabic, Standard, Standard Arabic, Standardni arapski, al-Fusḥa, Árabe estándar moderno, Árabe moderno padrão, Арабский литературный язык, Пишан арапски јазик, عربى قياسى حديث, لغة عربية فصحى, フスハー]
 population: 350000000
 country_id: SA
 country_name: Saudi Arabia

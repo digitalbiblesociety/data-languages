@@ -2,7 +2,6 @@
 iso: ory
 name: Odia
 autonym: ଓଡ଼ିଆ
-alt_names: [Oriya (individual language)]
 population: 34500000
 country_id: IN
 country_name: India

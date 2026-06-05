@@ -2,7 +2,7 @@
 iso: mda
 name: Mada (Nigeria)
 autonym: Madda
-alt_names: [Mada, Mada (in Nigeria), Yidda]
+alt_names: [Mada, Yidda]
 population: 100000
 country_id: NG
 country_name: Nigeria

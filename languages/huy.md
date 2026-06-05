@@ -2,7 +2,7 @@
 iso: huy
 name: Hulaulá
 autonym: "יהודיותא Hûla'ûlā"
-alt_names: ["'Aramit", Galiglu, Hula Hula, Hulaula, Hulaula (Israël), "Hulaula (République islamique d'Iran)", Hulaulá (Israel), Hulaulá jezik, Jabali, Judeo-Aramaic, Kurdit, Lishana Axni, Lishana Noshan, Nochaneg, ภาษาฮูลัวลา]
+alt_names: ["'Aramit", Galiglu, Hula Hula, Hulaula, Hulaulá jezik, Jabali, Judeo-Aramaic, Kurdit, Lishana Axni, Lishana Noshan, Nochaneg, ภาษาฮูลัวลา]
 population: 350
 country_id: IL
 country_name: Israel

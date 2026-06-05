@@ -2,7 +2,7 @@
 iso: kju
 name: Kashaya
 autonym: "Kʼahšá:ya"
-alt_names: [Kashaya (Southwestern Pomo), Kashaya Pomo, Kashayn, Kashia, Pomo (Kashaya), Pomo (Southwestern), Southwest Pomo, Southwestern Pomo]
+alt_names: [Kashaya Pomo, Kashayn, Kashia, Pomo (Kashaya), Pomo (Southwestern), Southwest Pomo, Southwestern Pomo]
 population: 45
 country_id: US
 country_name: United States

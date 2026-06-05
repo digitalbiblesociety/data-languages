@@ -2,7 +2,7 @@
 iso: tnd
 name: Angosturas Tunebo
 autonym: Tunebo
-alt_names: [Cobaría, Pedraza, Pedrazá, Sínsiga, Tame, Tegría, Tunebo (Central), "Tunebo, Angosturas", "U'w Cuwa", "U'w Kuwa", "U'wa", Uw Cuwa, Uwa]
+alt_names: [Cobaría, Pedraza, Pedrazá, Sínsiga, Tame, Tegría, "Tunebo, Angosturas", "U'w Cuwa", "U'w Kuwa", "U'wa", Uw Cuwa, Uwa]
 population: null
 country_id: CO
 country_name: Colombia

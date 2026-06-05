@@ -2,7 +2,7 @@
 iso: fuh
 name: Western Niger Fulfulde
 autonym: " Fulah"
-alt_names: [Ful (Liptako), Ful(ani), Fula, Fula (Burkina Faso), Fulah-Idiome, Fulani, Fulbe, Fulfulde, Fulfulde (Burkina Faso), Fulfulde (Northeastern Burkina Faso), "Fulfulde, Western Niger", Gorgal, Liptaako-Dori Fula, Liptako Ful, Northeastern Burkina Faso Fulfulde, Peul, Peulh]
+alt_names: [Fula, Fulah-Idiome, Fulani, Fulbe, Fulfulde, Fulfulde (Burkina Faso), Fulfulde (Northeastern Burkina Faso), "Fulfulde, Western Niger", Gorgal, Liptaako-Dori Fula, Liptako, Liptako Ful, Northeastern Burkina Faso Fulfulde, Peul, Peulh]
 population: 2320000
 country_id: NE
 country_name: Niger

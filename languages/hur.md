@@ -2,7 +2,7 @@
 iso: hur
 name: Halkomelem
 autonym: Halq̓eméylem / Hul̓q̓umín̓um̓
-alt_names: [Halkomelem (Upriver), Halkomelén, "Halq'eméylem", Holkomelem, "Hul'q'umi'num'", Hulʻqʻumiʻnumʻ (Halkomelem), Hul’q’umin’um’, Upriver Halkomelem, hən̓q̓əmin̓əm, Халкомелем]
+alt_names: [Halkomelén, "Halq'eméylem", Holkomelem, "Hul'q'umi'num'", Hulʻqʻumiʻnumʻ (Halkomelem), Hul’q’umin’um’, Upriver Halkomelem, hən̓q̓əmin̓əm, Халкомелем]
 population: 200
 country_id: CA
 country_name: Canada

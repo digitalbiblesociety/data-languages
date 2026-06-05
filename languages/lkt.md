@@ -2,7 +2,7 @@
 iso: lkt
 name: Lakota
 autonym: Lakȟótiyapi
-alt_names: [Dakota, Język lakota, "Lak'ota simi", Lakhota, Lakhota (Teton), Lakota (Teton), Lakota lingvo, Lakotština, Lingua lakota, Língua lakota, Teton]
+alt_names: [Dakota, Język lakota, "Lak'ota simi", Lakhota, Lakota lingvo, Lakotština, Lingua lakota, Língua lakota, Teton]
 population: 2100
 country_id: US
 country_name: United States

@@ -2,7 +2,7 @@
 iso: lhs
 name: Mlahsö
 autonym: ܡܠܚܬܝܐ
-alt_names: [Melasó (Turquía), Mlahso, Mlahso (République arabe syrienne), Mlahso (Turquie), Mlahsô language, Mlahsö jezik, Mlahsöspråket, Mlaḥso, Mlaḥso, Mlaḥsô, Suryoyo, Млахсо јазик, ภาษามลาโซ]
+alt_names: [Melasó (Turquía), Mlahso, Mlahsô language, Mlahsö jezik, Mlahsöspråket, Mlaḥso, Mlaḥso, Mlaḥsô, Suryoyo, Млахсо јазик, ภาษามลาโซ]
 population: null
 country_id: SY
 country_name: Syria

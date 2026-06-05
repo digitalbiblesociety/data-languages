@@ -2,7 +2,7 @@
 iso: khm
 name: Khmer
 autonym: Cambodian
-alt_names: ["Cambodian, Khmer", Central Khmer, Cu Tho, Cur Cul, Kambojanisch, Khmaer, Khmer (Central), "Khmer, Central", Khmɛr, Kho Me, Khome, Krom, Modern Khmer, Standard Khmer, Viet Go Mien, khmer central]
+alt_names: ["Cambodian, Khmer", Central Khmer, Cu Tho, Cur Cul, Kambojanisch, Khmaer, "Khmer, Central", Khmɛr, Kho Me, Khome, Krom, Modern Khmer, Standard Khmer, Viet Go Mien, khmer central]
 population: 16600000
 country_id: KH
 country_name: Cambodia

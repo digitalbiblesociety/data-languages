@@ -2,7 +2,7 @@
 iso: pbb
 name: Páez
 autonym: "Nasa Yuwe "
-alt_names: [Idioma páez, Nasa simi, Nasaeg, Paes, Paez, Paez (cons need fixing), Paez (cons need fixing) is Maddieson name, Paisa, Pez, Páes]
+alt_names: [Idioma páez, Nasa simi, Nasaeg, Paes, Paez, Paez (cons need fixing) is Maddieson name, Paisa, Pez, Páes]
 population: 243000
 country_id: CO
 country_name: Colombia

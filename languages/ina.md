@@ -2,7 +2,7 @@
 iso: ina
 name: Interlingua (International Auxiliary Language Association)
 autonym: Interlingua
-alt_names: [Antërlenga, Gjuha interlingua, Interlingua (IALA), Interlingua de Iala, Interlingva, Interlingva nyelv, Interlingvao, Interlíngua, Sí-Nterlingua, interlingua (langue auxiliaire internationale), Ιντερλίνγκουα, Інтерлінгва, Интерлингва, אינטרלינגואה, إنترلنغوا, انترلينجوه, زبان اینترلینگوا, ภาษาอินเทอร์ลิงกวา, ინტერლინგუა, インターリングア, 国际语, 인테르링구아]
+alt_names: [Antërlenga, Gjuha interlingua, Interlingua de Iala, Interlingva, Interlingva nyelv, Interlingvao, Interlíngua, Sí-Nterlingua, Ιντερλίνγκουα, Інтерлінгва, Интерлингва, אינטרלינגואה, إنترلنغوا, انترلينجوه, زبان اینترلینگوا, ภาษาอินเทอร์ลิงกวา, ინტერლინგუა, インターリングア, 国际语, 인테르링구아]
 population: 1500
 country_id: ZZ
 country_name: Unknown or Invalid Territory

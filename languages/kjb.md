@@ -2,7 +2,7 @@
 iso: kjb
 name: "Q'anjob'al"
 autonym: Kanjobal
-alt_names: [Conob, Eastern, Eastern Kanjobal, "Idioma q'anjob'al", Kanhobal, Kanjobal (Eastern), "Kanjobal, Eastern", Língua canjobal, "Q'anjob'al simi", Qanjobal, Santa Eulalia Kanjobal, Канхобалски јазик]
+alt_names: [Conob, Eastern, Eastern Kanjobal, "Idioma q'anjob'al", Kanhobal, "Kanjobal, Eastern", Língua canjobal, "Q'anjob'al simi", Qanjobal, Santa Eulalia Kanjobal, Канхобалски јазик]
 population: 174420
 country_id: GT
 country_name: Guatemala

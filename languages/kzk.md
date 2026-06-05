@@ -2,7 +2,6 @@
 iso: kzk
 name: Kazukuru
 autonym: null
-alt_names: [Kazukuru language]
 population: null
 country_id: SB
 country_name: Solomon Islands

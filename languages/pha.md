@@ -2,7 +2,7 @@
 iso: pha
 name: "Pa-Hng"
 autonym: Pateng
-alt_names: [Baheng, Baheng (Chine), Baheng (Viet Nam), Baheng (Vietnam), Bahengmai, Man Pa Seng, Meo Lai, Pa Hng, Pa Ngng, Pa Then, Pa-heng, Pa-wu, Paheng, Pà Hung, Pà Then, Tóng]
+alt_names: [Baheng, Bahengmai, Man Pa Seng, Meo Lai, Pa Hng, Pa Ngng, Pa Then, Pa-heng, Pa-wu, Paheng, Pà Hung, Pà Then, Tóng]
 population: 10000
 country_id: CN
 country_name: China

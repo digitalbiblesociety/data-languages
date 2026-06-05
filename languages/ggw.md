@@ -2,7 +2,6 @@
 iso: ggw
 name: Gogodala
 autonym: Gogodara
-alt_names: [Gogodala language]
 population: 26000
 country_id: PG
 country_name: Papua New Guinea

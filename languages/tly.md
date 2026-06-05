@@ -2,7 +2,7 @@
 iso: tly
 name: Talysh
 autonym: Talışi Толыши تالشه زَوُن
-alt_names: [Talesh, Taleshi, Talicheg, Talisch, Talish, Talishi, Talisí, Talişki, Talişler, Talysh (Azerbaijan), Talysh (Southern), Talyshi, Talyšin kieli, Talış dili, Tolışi, Талишки език, Талыш чĕлхи, Талышаг æвзаг, Талышский язык, Толыши, تالشی, تالشی زَوُن, زبان تالشی, ภาษาตาลิซ]
+alt_names: [Talesh, Taleshi, Talicheg, Talisch, Talish, Talishi, Talisí, Talişki, Talişler, Talyshi, Talyšin kieli, Talış dili, Tolışi, Талишки език, Талыш чĕлхи, Талышаг æвзаг, Талышский язык, Толыши, تالشی, تالشی زَوُن, زبان تالشی, ภาษาตาลิซ]
 population: 226100
 country_id: AZ
 country_name: Azerbaijan

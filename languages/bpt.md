@@ -2,7 +2,6 @@
 iso: bpt
 name: Barrow Point
 autonym: Mutumui
-alt_names: [Barrow Point language]
 population: null
 country_id: AU
 country_name: Australia

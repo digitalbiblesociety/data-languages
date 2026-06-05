@@ -2,7 +2,7 @@
 iso: oca
 name: Ocaina
 autonym: "Xáfahxajoh'"
-alt_names: [Ocaina (Colombie), Ocaina (Perú), Ocaina (Pérou), Okaina, Okaineg, 𐍉𐌺𐌰𐌹𐌽𐌰𐍂𐌰𐌶𐌳𐌰]
+alt_names: [Okaina, Okaineg, 𐍉𐌺𐌰𐌹𐌽𐌰𐍂𐌰𐌶𐌳𐌰]
 population: 190
 country_id: PE
 country_name: Peru

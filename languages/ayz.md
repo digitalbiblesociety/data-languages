@@ -2,7 +2,7 @@
 iso: ayz
 name: Mai Brat
 autonym: Ajamaru
-alt_names: [Aitinjo, Aitinyo, Ajamaroe, Asman, Atinjo, Ayamaru, Brat, Kaboro, Maibrat, Maite, Majbrat, Maybrat, Maybrat (Ayawasi), Maybrat-Karon, Mayhapeh dialect of Ayawasi village, Mey Brat, Meybrat, Mogetemin]
+alt_names: [Aitinjo, Aitinyo, Ajamaroe, Asman, Atinjo, Ayamaru, Ayawasi, Brat, Kaboro, Maibrat, Maite, Majbrat, Maybrat, Maybrat-Karon, Mayhapeh dialect of Ayawasi village, Mey Brat, Meybrat, Mogetemin]
 population: 20000
 country_id: ID
 country_name: Indonesia

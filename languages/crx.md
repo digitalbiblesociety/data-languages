@@ -2,7 +2,7 @@
 iso: crx
 name: Carrier
 autonym: Dakeł (ᑕᗸᒡ)
-alt_names: [Carrier (Central), Central, Central Carrier, Dakelh, "Dakelh (Nak'albun/Dzinghubun)", Nagailer, Taculli, Upper Carrier]
+alt_names: [Central, Central Carrier, Dakelh, "Dakelh (Nak'albun/Dzinghubun)", Nagailer, Taculli, Upper Carrier]
 population: 9350
 country_id: CA
 country_name: Canada

@@ -2,7 +2,7 @@
 iso: mtq
 name: Muong
 autonym: Thiểng Mường
-alt_names: [Muong (plus diacritics), Muòng, Viet Nam]
+alt_names: [Muòng, Viet Nam]
 population: 1270000
 country_id: VN
 country_name: Vietnam

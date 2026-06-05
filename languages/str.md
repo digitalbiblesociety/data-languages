@@ -2,7 +2,7 @@
 iso: str
 name: Straits Salish
 autonym: Northern Straits Salish
-alt_names: [Lekwungen, Lkungen, Lummi, Malchosen, North Straits Salish languages, Northern Straits, Northern Straits Salish (Samish), SENĆOŦEN/Malchosen/Lekwungen/Semiahmoo/T’Sou-ke, Saanich, Salish (Samish Straits), Salish (Straits), Salish straits, "Salish, Straits", Samish, Semiahmoo, Songish, Sooke, Straits, Straits (Northern), "T'Sou-ke"]
+alt_names: [Lekwungen, Lkungen, Lummi, Malchosen, North Straits Salish languages, Northern Straits, SENĆOŦEN/Malchosen/Lekwungen/Semiahmoo/T’Sou-ke, Saanich, Salish (Samish Straits), Salish (Straits), Salish straits, "Salish, Straits", Samish, Semiahmoo, Songish, Sooke, Straits, Straits (Northern), "T'Sou-ke"]
 population: 3020
 country_id: CA
 country_name: Canada

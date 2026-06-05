@@ -2,7 +2,7 @@
 iso: cku
 name: Koasati
 autonym: "Kowassá:ti"
-alt_names: [Coushatta, Koasati (Louisiane), Koasati (Texas), Koasatieg, Koasáti]
+alt_names: [Coushatta, Koasatieg, Koasáti]
 population: 200
 country_id: US
 country_name: United States

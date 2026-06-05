@@ -2,7 +2,7 @@
 iso: tbd
 name: Kaki Ae
 autonym: Tate
-alt_names: [Lorabada, Lou, Raepa Tati, Raepa-Tati, Takia language, Tate (Raepa-Tati), Tati]
+alt_names: [Lorabada, Lou, Raepa Tati, Raepa-Tati, Takia language, Tati]
 population: 1275
 country_id: PG
 country_name: Papua New Guinea

@@ -2,7 +2,7 @@
 iso: ciw
 name: Chippewa
 autonym: Ojibwa
-alt_names: [Anishinabe, Chipewa, Chipeway, Chippewa (Red Lake and Pillager), Chippeway, Minnesota Ojibwe, Ojibwa (South-western), Ojibwa (Southwestern), Ojibway, Ojibwe, Ojibwe (Minnesota), Ojibwe (Southwestern), Oyibua, Southwestern Ojibwa]
+alt_names: [Anishinabe, Chipewa, Chipeway, Chippeway, Minnesota Ojibwe, Ojibway, Ojibwe, Oyibua, Southwestern Ojibwa]
 population: 104000
 country_id: US
 country_name: United States

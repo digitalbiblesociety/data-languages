@@ -2,7 +2,6 @@
 iso: gwn
 name: Gwandara
 autonym: Kwandara
-alt_names: [Gwandara language]
 population: 27300
 country_id: NG
 country_name: Nigeria

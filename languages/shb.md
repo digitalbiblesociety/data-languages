@@ -2,7 +2,7 @@
 iso: shb
 name: Ninam
 autonym: Ninam
-alt_names: [Casapare, Crichana, Jawaperi, Jawari, Kasrapai, Nimam, Ninam (Brésil), Ninam (République bolivarienne du Venezuela), Ninam (Venezuela), Samatari, Shiriana, Shiriana Casapare, Shirianá, Xirianá, Xiriâna, Yanam, Yanam-Ninam]
+alt_names: [Casapare, Crichana, Jawaperi, Jawari, Kasrapai, Nimam, Samatari, Shiriana, Shiriana Casapare, Shirianá, Xirianá, Xiriâna, Yanam, Yanam-Ninam]
 population: 1030
 country_id: BR
 country_name: Brazil

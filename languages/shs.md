@@ -2,7 +2,7 @@
 iso: shs
 name: Shuswap
 autonym: Secwepemctsín
-alt_names: [At-nah, Chusvapo, Secwepemc, Secwepemctsin (Shuswap), Secwepemctsía, Shooswap, səxwəxcín]
+alt_names: [At-nah, Chusvapo, Secwepemc, Secwepemctsía, Shooswap, səxwəxcín]
 population: 1255
 country_id: CA
 country_name: Canada

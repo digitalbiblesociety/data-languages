@@ -2,7 +2,6 @@
 iso: chl
 name: Cahuilla
 autonym: Ivilyuat
-alt_names: [Cahuilla language]
 population: 6
 country_id: US
 country_name: United States

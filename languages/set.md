@@ -2,7 +2,6 @@
 iso: set
 name: Sentani
 autonym: Buyaka
-alt_names: [Sentani language]
 population: 30000
 country_id: ID
 country_name: Indonesia

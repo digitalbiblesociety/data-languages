@@ -2,7 +2,7 @@
 iso: arh
 name: Arhuaco
 autonym: Ikʉ
-alt_names: [Aruaco, Arwako, Arwaku simi, Bintucua, Bintuk, Bintuka, Bintukwa, Busitana, Bíntucua, Ica, Icu, Idioma arhuaco, Ijca, Ijka, Ika, Ika (Colombia), Ike, Ixca]
+alt_names: [Aruaco, Arwako, Arwaku simi, Bintucua, Bintuk, Bintuka, Bintukwa, Busitana, Bíntucua, Ica, Icu, Idioma arhuaco, Ijca, Ijka, Ika, Ike, Ixca]
 population: 14301
 country_id: CO
 country_name: Colombia

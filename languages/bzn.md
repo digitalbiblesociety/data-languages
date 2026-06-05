@@ -2,7 +2,7 @@
 iso: bzn
 name: Boano (Maluku)
 autonym: Buano
-alt_names: [Boano, "Boano (Maluku, Indonesia)"]
+alt_names: [Boano]
 population: 3240
 country_id: ID
 country_name: Indonesia

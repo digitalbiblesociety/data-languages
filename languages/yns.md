@@ -2,7 +2,7 @@
 iso: yns
 name: Yansi
 autonym: Eyansi
-alt_names: [Eyanzi, Kiyanzi, Yans, Yans(i), Yanzi]
+alt_names: [Eyanzi, Kiyanzi, Yans, Yanzi]
 population: 100000
 country_id: CD
 country_name: DR Congo

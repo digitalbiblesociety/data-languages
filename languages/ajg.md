@@ -2,7 +2,7 @@
 iso: ajg
 name: Aja
 autonym: Adja
-alt_names: [Adjaeg, Aja (Benin), "Aja, níxero-congolesa", Aja-gbe, Ajagbe, Hwè, "Lenga Aja, Benin"]
+alt_names: [Adjaeg, "Aja, níxero-congolesa", Aja-gbe, Ajagbe, Hwè, "Lenga Aja, Benin"]
 population: 1131000
 country_id: BJ
 country_name: Benin

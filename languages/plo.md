@@ -2,7 +2,7 @@
 iso: plo
 name: Oluta Popoluca
 autonym: Olutec
-alt_names: [Oluta, Oluta Mijean, Oluta Mixean, Oluta Popoluc, Oluteco (Popoluca de Oluta), Oluteko, Otula Popoluca, Popoluca, Popoluca (Oluta), Popoluca de Oluta, "Popoluca, Oluta"]
+alt_names: [Oluta, Oluta Mijean, Oluta Mixean, Oluta Popoluc, Oluteko, Otula Popoluca, Popoluca, Popoluca (Oluta), Popoluca de Oluta, "Popoluca, Oluta"]
 population: 10000
 country_id: MX
 country_name: Mexico

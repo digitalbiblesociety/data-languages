@@ -2,7 +2,7 @@
 iso: beq
 name: Beembe
 autonym: Kibeembe
-alt_names: [Beembe (H.11), Bembe, Bembe (CK if same Bembe), Bembe (Congo)]
+alt_names: [Bembe]
 population: 100000
 country_id: CG
 country_name: Congo

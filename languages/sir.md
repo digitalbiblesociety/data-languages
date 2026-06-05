@@ -2,7 +2,6 @@
 iso: sir
 name: Siri
 autonym: Sirawa
-alt_names: [Siri language]
 population: 3800
 country_id: NG
 country_name: Nigeria

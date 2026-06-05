@@ -2,7 +2,7 @@
 iso: coc
 name: Cocopa
 autonym: Kwikapa
-alt_names: [Cocapa, Cocopa (Arizona), Cocopa (México), Cocopah, Cocopah language, Cocopá, Cucapa, Cucapá, Cucapá (Mexique), Cucupá, Delta River Yuman, Idioma cucapá, Kikima, Kikimá, Kwikapá, Yuman (Delta River)]
+alt_names: [Cocapa, Cocopah, Cocopah language, Cocopá, Cucapa, Cucapá, Cucapá (Mexique), Cucupá, Delta River Yuman, Idioma cucapá, Kikima, Kikimá, Kwikapá, Yuman (Delta River)]
 population: 200
 country_id: MX
 country_name: Mexico

@@ -2,7 +2,7 @@
 iso: shh
 name: Shoshoni
 autonym: " Neme ta̲i̲kwappeh"
-alt_names: [Big Smokey Valley Shoshoni, Chochoneg, Shonshoni, Shoshone, Shoshone (Idaho), Shoshone (Nevada), Shoshone (Northern), Shoshone (Wind River), Shoshone (Wyoming), Shoshone language, Shoshoni-Goshiute, Wind River, Wind River Shoshone]
+alt_names: [Big Smokey Valley Shoshoni, Chochoneg, Shonshoni, Shoshone, Shoshone language, Shoshoni-Goshiute, Wind River, Wind River Shoshone]
 population: 2910
 country_id: US
 country_name: United States

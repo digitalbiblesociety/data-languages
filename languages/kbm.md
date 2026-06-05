@@ -2,7 +2,6 @@
 iso: kbm
 name: Iwal
 autonym: Kaiwa
-alt_names: [Iwal language]
 population: 1500
 country_id: PG
 country_name: Papua New Guinea

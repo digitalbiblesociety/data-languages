@@ -2,7 +2,7 @@
 iso: ddo
 name: Dido
 autonym: цезйас мец (cezyas mec)
-alt_names: [Cez, Ceza lingvo, Cezišćina, Dido (Tsez), Didoera, Didoi, Didon kieli, Idioma tsez, Língua tsez, Tsesische Sprache, Tsez, Tsez dili, Tsez language, Tsezeg, Tsezy, Tsuntin, cez mec, cezyas mec, Цезички јазик, Цезки език, Цезька мова, цез мец, цезйас мец, цезский язык, დიდოური ენა]
+alt_names: [Cez, Ceza lingvo, Cezišćina, Didoera, Didoi, Didon kieli, Idioma tsez, Língua tsez, Tsesische Sprache, Tsez, Tsez dili, Tsez language, Tsezeg, Tsezy, Tsuntin, cez mec, cezyas mec, Цезички јазик, Цезки език, Цезька мова, цез мец, цезйас мец, цезский язык, დიდოური ენა]
 population: 20000
 country_id: RU
 country_name: Russia

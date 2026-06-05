@@ -2,7 +2,6 @@
 iso: ddw
 name: "Dawera-Daweloor"
 autonym: Davelor
-alt_names: [Dawera-Daweloor language]
 population: 1270
 country_id: ID
 country_name: Indonesia

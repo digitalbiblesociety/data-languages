@@ -2,7 +2,6 @@
 iso: ogc
 name: Ogbah
 autonym: Ogba
-alt_names: [Ogba language]
 population: 317000
 country_id: NG
 country_name: Nigeria

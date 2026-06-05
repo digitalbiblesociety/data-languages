@@ -2,7 +2,7 @@
 iso: poc
 name: Poqomam
 autonym: Pocomán
-alt_names: [Central Pocomam, Pocomam, Pocomam Oriental, Pocomám, Pokomam, Pokomam (Eastern), "Pokomam, Central"]
+alt_names: [Central Pocomam, Pocomam, Pocomam Oriental, Pocomám, Pokomam, "Pokomam, Central"]
 population: 8600
 country_id: GT
 country_name: Guatemala

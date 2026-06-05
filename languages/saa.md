@@ -2,7 +2,6 @@
 iso: saa
 name: Saba
 autonym: Jelkung
-alt_names: [Saba language]
 population: 1340
 country_id: TD
 country_name: Chad

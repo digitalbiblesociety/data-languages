@@ -2,7 +2,7 @@
 iso: ash
 name: Abishira
 autonym: Aiwa
-alt_names: [Abigira, Abiquira, Agouisiri, Auishiri, Auishiri (tekiraka), Aushiri, Avirxiri, Avishiri, Avixiri, Ixignor, Tekiraka, Tequiraca, Tequraca, Vacacocha]
+alt_names: [Abigira, Abiquira, Agouisiri, Auishiri, Aushiri, Avirxiri, Avishiri, Avixiri, Ixignor, Tekiraka, Tequiraca, Tequraca, Vacacocha]
 population: 2010
 country_id: PE
 country_name: Peru

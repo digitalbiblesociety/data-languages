@@ -2,7 +2,7 @@
 iso: cbn
 name: Nyahkur
 autonym: Chaobon
-alt_names: ["\"Chaobon\"", "\"Chaodon\"", Chaodon, Lawa, Niakuol, Niakuoll, Nyah Kur, Nyah Kur (Tha Pong), Nyakur, Tha Pong dialect, Ñahkur]
+alt_names: ["\"Chaobon\"", "\"Chaodon\"", Chaodon, Lawa, Niakuol, Niakuoll, Nyah Kur, Nyakur, Tha Pong, Tha Pong dialect, Ñahkur]
 population: 1500
 country_id: TH
 country_name: Thailand

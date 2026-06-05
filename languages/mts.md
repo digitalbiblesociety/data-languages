@@ -2,7 +2,6 @@
 iso: mts
 name: Yora
 autonym: Yaminahua
-alt_names: [Yora language]
 population: 380
 country_id: PE
 country_name: Peru

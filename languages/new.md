@@ -2,7 +2,7 @@
 iso: new
 name: Newari
 autonym: Nepal Bhasa
-alt_names: ["\"Newari\"", Bahasa Nepal, Bahasa Nepal Bhasa, Basa Nepal, "Bhasa, Nepal", Dolakha Newari, Gjuha nepaleze, Kathmandu Newari, Kathmandu dialect, Lingua Nepal Bhasa, Lingua Newari, Língua bhasa, Nepal Taal, Nepalbhasa, Nepâlbhâshâ, Nevara lingvo, Nevarí, Nevarų kalba, Newar, Newari (Dolakha), Newari (Kathmandu), Newarish, Niwari simi, Nēwāri, Pahri, Νεβάρι, Неварский язык, Неварська мова, נפאל בהאסה, नेपाल भाषा, नेपालभाषा, नेपाली भाषा, नेपाळ भाषा, নেপাল ভাশা, নেপাল ভাষা, નેપાલ ભાષા, ନେପାଲ ଭାଷା, நேபால் பாசா, ภาษาเนวารี, ኔፓል ባሳ, ネパール・バサ語, 尼瓦尔语, 네와르어]
+alt_names: ["\"Newari\"", Bahasa Nepal, Bahasa Nepal Bhasa, Basa Nepal, "Bhasa, Nepal", Dolakha, Dolakha Newari, Gjuha nepaleze, Kathmandu Newari, Kathmandu dialect, Lingua Nepal Bhasa, Lingua Newari, Língua bhasa, Nepal Taal, Nepalbhasa, Nepâlbhâshâ, Nevara lingvo, Nevarí, Nevarų kalba, Newar, Newarish, Niwari simi, Nēwāri, Pahri, Νεβάρι, Неварский язык, Неварська мова, נפאל בהאסה, नेपाल भाषा, नेपालभाषा, नेपाली भाषा, नेपाळ भाषा, নেপাল ভাশা, নেপাল ভাষা, નેપાલ ભાષા, ନେପାଲ ଭାଷା, நேபால் பாசா, ภาษาเนวารี, ኔፓል ባሳ, ネパール・バサ語, 尼瓦尔语, 네와르어]
 population: 861000
 country_id: NP
 country_name: Nepal

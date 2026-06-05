@@ -2,7 +2,6 @@
 iso: bmn
 name: Bina
 autonym: null
-alt_names: [Bina (Papua New Guinea)]
 population: null
 country_id: PG
 country_name: Papua New Guinea

@@ -2,7 +2,7 @@
 iso: ckh
 name: Chak
 autonym: Cak
-alt_names: [Sak, Sak (Bangladesh), Sak (Myanmar)]
+alt_names: [Sak]
 population: 20000
 country_id: BD
 country_name: Bangladesh

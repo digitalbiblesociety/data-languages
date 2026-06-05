@@ -2,7 +2,7 @@
 iso: tuo
 name: Tucano
 autonym: Dahseyé
-alt_names: [Dasea, Daxsea, Pisamira, Takuna, Tucano (Brésil), Tucano (Colombia), Tucano (Colombie), Tukana, Tukano, Tukána, "Ye'pâ-masa"]
+alt_names: [Dasea, Daxsea, Pisamira, Takuna, Tukana, Tukano, Tukána, "Ye'pâ-masa"]
 population: 11620
 country_id: BR
 country_name: Brazil

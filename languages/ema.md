@@ -2,7 +2,7 @@
 iso: ema
 name: "Emai-Iuleha-Ora"
 autonym: Aoma
-alt_names: [Emai, Ivbiosakon, Kunibum, Ora (in Nigeria)]
+alt_names: [Emai, Ivbiosakon, Kunibum]
 population: 220000
 country_id: NG
 country_name: Nigeria

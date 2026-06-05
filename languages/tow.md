@@ -2,7 +2,7 @@
 iso: tow
 name: Jemez
 autonym: Towa
-alt_names: [Jemez (Towa), Jemez Towa, Towa (Jemez)]
+alt_names: [Jemez Towa]
 population: 1300
 country_id: US
 country_name: United States

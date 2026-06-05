@@ -2,7 +2,7 @@
 iso: squ
 name: Squamish
 autonym: Sḵwx̱wú7mesh sníchim
-alt_names: [Esquihuamés, SKwXwu7mesh snichim, Skwxwu7mesh, Sk̲wx̲wú7mesh, Squamish (Sqxwu7mish), Squawmisht, Sqwxwumish, Sḵwx̱wú7mesh sníchim (Squamish), sqʷxʷúʔməš]
+alt_names: [Esquihuamés, SKwXwu7mesh snichim, Skwxwu7mesh, Sk̲wx̲wú7mesh, Squawmisht, Sqwxwumish, Sqxwu7mish, sqʷxʷúʔməš]
 population: 2300
 country_id: CA
 country_name: Canada

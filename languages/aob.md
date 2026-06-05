@@ -2,7 +2,6 @@
 iso: aob
 name: Abom
 autonym: null
-alt_names: [Abom language]
 population: null
 country_id: PG
 country_name: Papua New Guinea

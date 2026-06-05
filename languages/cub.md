@@ -2,7 +2,7 @@
 iso: cub
 name: Cubeo
 autonym: pãmié
-alt_names: [Cubeo (Brésil), Cubeo (Colombia), Cubeo (Colombie), Cubeu, Cuveo, Hahänana, Hehenawa, Kobeua, Kobewa, Kobéwa, Kubeo, Kubewa, Kubwa, Pamiwa, Pamié]
+alt_names: [Cubeu, Cuveo, Hahänana, Hehenawa, Kobeua, Kobewa, Kobéwa, Kubeo, Kubewa, Kubwa, Pamiwa, Pamié]
 population: 6260
 country_id: CO
 country_name: Colombia

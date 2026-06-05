@@ -2,7 +2,7 @@
 iso: sri
 name: Siriano
 autonym: Sʉraya
-alt_names: [Chiranga, Cirnga, Desana-Siriana, Desano (Brésil), Desano (Colombia), Desano (Colombie), Desano-Siriano, Sarirá, Si-Ra, Siria-Masã, Siriana, Siriane, Siriano (Brésil), Siriano (Colombia), Siriano (Colombie), Sirianó, Sura Masa, Surianá, Surirá, Suryana]
+alt_names: [Chiranga, Cirnga, Desana-Siriana, Desano (Brésil), Desano (Colombia), Desano (Colombie), Desano-Siriano, Sarirá, Si-Ra, Siria-Masã, Siriana, Siriane, Sirianó, Sura Masa, Surianá, Surirá, Suryana]
 population: 217
 country_id: CO
 country_name: Colombia

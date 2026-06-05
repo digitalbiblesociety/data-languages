@@ -2,7 +2,7 @@
 iso: mnk
 name: Mandinka
 autonym: Mandingo
-alt_names: [Bahasa Mandinka, Gambian Mandinka, Gjuha mandinka, Język mandinka, Língua mandinga, Mande, Manding, Mandinga, Mandinga jezik, Mandingue, Mandinka (Gambian), Mandinka lingvo, Mandinka-språket, Mandinkan kieli, Mandinkeg, Mandinko-kan, Mandinkų kalba, Mandinque, Mandé, Socé, Мандинка, زبان ماندایی, لغة مندنكا, মানডিঙ্কা ভাষা, マンディンカ語, 曼丁哥语]
+alt_names: [Bahasa Mandinka, Gambian Mandinka, Gjuha mandinka, Język mandinka, Língua mandinga, Mande, Manding, Mandinga, Mandinga jezik, Mandingue, Mandinka lingvo, Mandinka-språket, Mandinkan kieli, Mandinkeg, Mandinko-kan, Mandinkų kalba, Mandinque, Mandé, Socé, Мандинка, زبان ماندایی, لغة مندنكا, মানডিঙ্কা ভাষা, マンディンカ語, 曼丁哥语]
 population: 1300000
 country_id: SN
 country_name: Senegal

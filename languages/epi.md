@@ -2,7 +2,6 @@
 iso: epi
 name: Epie
 autonym: "Epie-Atissa"
-alt_names: [Epie language]
 population: 12000
 country_id: NG
 country_name: Nigeria

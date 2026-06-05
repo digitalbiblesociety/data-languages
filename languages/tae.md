@@ -2,7 +2,7 @@
 iso: tae
 name: Tariana
 autonym: Taliáseri
-alt_names: [Tariana (Brésil), Tariana (Colombie), Tariano, Tariano (Colombia), Tariâna, Tarîna]
+alt_names: [Tariano, Tariâna, Tarîna]
 population: 1500
 country_id: BR
 country_name: Brazil

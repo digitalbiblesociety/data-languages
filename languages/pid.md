@@ -2,7 +2,7 @@
 iso: pid
 name: Piaroa
 autonym: "De'aruwa"
-alt_names: [Adole, Ature, Dearwa, Deruwa, Guagua, Kuakua, Piaroa (Colombie), Piaroa (République bolivarienne du Venezuela), Piaroa (Venezuela), Piaroa-Maco, Piaroa-Mako, Quaqua, Uhothha, Uwotjüja, "Wo'tiheh", Wothüha]
+alt_names: [Adole, Ature, Dearwa, Deruwa, Guagua, Kuakua, Piaroa-Maco, Piaroa-Mako, Quaqua, Uhothha, Uwotjüja, "Wo'tiheh", Wothüha]
 population: 13770
 country_id: VE
 country_name: Venezuela

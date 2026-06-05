@@ -2,7 +2,7 @@
 iso: aer
 name: Eastern Arrernte
 autonym: Arrernte
-alt_names: ["A'randa", Aldolanga, Aldolinga, Alitera, Aranda, Aranda (Eastern), Aranta, Arinta, Arranda, Arrernte (Eastern), Arrernte (Mparntwe), "Arrernte, Eastern", Arrinda, Arrundta, Arrunta, Arunda, Arunta, Arunta Ulpma, Burrin-gah, E Aranda, E. Arrernte, Eastern, Eastern Aranda, Eastern and Central Arrernte, Herrinda, Ilpma, Jairunda, Lower Aranda, Mparntwe Arrernte, Oiljpma, Paroola, Pitjapitja, Pitjima, Ulpma, Ur-rundie, Urrundie, Waitjinga, Wonggaranda, Wongkatjeri, Wychinga]
+alt_names: ["A'randa", Aldolanga, Aldolinga, Alitera, Aranda, Aranda (Eastern), Aranta, Arinta, Arranda, "Arrernte, Eastern", Arrinda, Arrundta, Arrunta, Arunda, Arunta, Arunta Ulpma, Burrin-gah, E Aranda, E. Arrernte, Eastern, Eastern Aranda, Eastern and Central Arrernte, Herrinda, Ilpma, Jairunda, Lower Aranda, Mparntwe, Mparntwe Arrernte, Oiljpma, Paroola, Pitjapitja, Pitjima, Ulpma, Ur-rundie, Urrundie, Waitjinga, Wonggaranda, Wongkatjeri, Wychinga]
 population: 1910
 country_id: AU
 country_name: Australia

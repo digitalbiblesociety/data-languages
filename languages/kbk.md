@@ -2,7 +2,7 @@
 iso: kbk
 name: Grass Koiari
 autonym: Koiari
-alt_names: [Coyarí, Grass, Koiari (Grass), "Koiari, Grass"]
+alt_names: [Coyarí, Grass, "Koiari, Grass"]
 population: 1700
 country_id: PG
 country_name: Papua New Guinea

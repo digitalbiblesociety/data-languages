@@ -2,7 +2,7 @@
 iso: cbc
 name: Carapana
 autonym: Mõxtã
-alt_names: [Andokero, Andoquero, Carapana (Brésil), Carapana (Colombia), Carapana (Colombie), Carapana-Tapuya, Carapano, Carapanã, Karapana, Karapano, Karapaná, Mextã, Mi tea, Miranya Carapana Tapuya, Mochda, Moxdoa, Muxtea, Tatuyo]
+alt_names: [Andokero, Andoquero, Carapana-Tapuya, Carapano, Carapanã, Karapana, Karapano, Karapaná, Mextã, Mi tea, Miranya Carapana Tapuya, Mochda, Moxdoa, Muxtea, Tatuyo]
 population: 600
 country_id: CO
 country_name: Colombia

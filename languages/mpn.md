@@ -2,7 +2,6 @@
 iso: mpn
 name: Mindiri
 autonym: null
-alt_names: [Mindiri language]
 population: 80
 country_id: PG
 country_name: Papua New Guinea

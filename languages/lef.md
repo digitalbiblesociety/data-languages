@@ -2,7 +2,7 @@
 iso: lef
 name: Lelemi
 autonym: Lefana
-alt_names: [Buem, Lafana, Lelemi (Bwem)]
+alt_names: [Buem, Bwem, Lafana]
 population: 72000
 country_id: GH
 country_name: Ghana

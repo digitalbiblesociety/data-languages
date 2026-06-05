@@ -2,7 +2,7 @@
 iso: yum
 name: Quechan
 autonym: Yuma
-alt_names: [Cuchan, Kechan, Kwtsaan, Kwtsan, Quecl, Yuma (Yuman), Yuma Proper]
+alt_names: [Cuchan, Kechan, Kwtsaan, Kwtsan, Quecl, Yuma Proper]
 population: 150
 country_id: US
 country_name: United States

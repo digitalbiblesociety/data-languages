@@ -2,7 +2,7 @@
 iso: wyy
 name: Western Fijian
 autonym: Fiji
-alt_names: [Fidji-Inseln, Fijian, Fijian (Wayan), "Fijian, Western", Magodro, Nadroga, Nadronga, Nakoroboya, Namosi-Naitasiri-Serua, Noikoro, Viti, Waya]
+alt_names: [Fidji-Inseln, Fijian, "Fijian, Western", Magodro, Nadroga, Nadronga, Nakoroboya, Namosi-Naitasiri-Serua, Noikoro, Viti, Waya, Wayan]
 population: 18500
 country_id: FJ
 country_name: Fiji

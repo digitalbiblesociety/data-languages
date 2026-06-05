@@ -2,7 +2,7 @@
 iso: tri
 name: Trió
 autonym: tarëno ijomi
-alt_names: [Pianakoto, Tiriyo, Tiriyoeg, Tiriyó, Tiriyó language, Tirió, Tiríyo, Trio, Trio (Brésil), Trio (Suriname), Trió (Surinam), Tíríjó]
+alt_names: [Pianakoto, Tiriyo, Tiriyoeg, Tiriyó, Tiriyó language, Tirió, Tiríyo, Trio, Tíríjó]
 population: 2460
 country_id: SR
 country_name: Suriname

@@ -2,7 +2,6 @@
 iso: nmi
 name: Nyam
 autonym: Nyambolo
-alt_names: [Nyam language]
 population: 100
 country_id: NG
 country_name: Nigeria

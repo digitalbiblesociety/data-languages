@@ -2,7 +2,7 @@
 iso: vai
 name: Vai
 autonym: ꕙꔤ
-alt_names: [Gallinas, Gallines, Vai (Mande), Vei, Vy, vaï]
+alt_names: [Gallinas, Gallines, Vei, Vy, vaï]
 population: 208800
 country_id: LR
 country_name: Liberia

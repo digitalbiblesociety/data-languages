@@ -2,7 +2,6 @@
 iso: jvd
 name: Javindo
 autonym: Krontjong
-alt_names: [Javindo language]
 population: 10
 country_id: ID
 country_name: Indonesia

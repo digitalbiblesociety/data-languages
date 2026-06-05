@@ -2,7 +2,7 @@
 iso: bdl
 name: Indonesian Bajau
 autonym: Bajo
-alt_names: [Badjaw, Badjo, Bajao, Bajau, Bajau (Indonesian), "Bajau, Indonesian", Bayo, Gaj, Luaan, Lutaos, Lutayaos, Orang Laut, Sama, Sama Bajau, "Turije'ne'"]
+alt_names: [Badjaw, Badjo, Bajao, Bajau, "Bajau, Indonesian", Bayo, Gaj, Luaan, Lutaos, Lutayaos, Orang Laut, Sama, Sama Bajau, "Turije'ne'"]
 population: 10000
 country_id: ID
 country_name: Indonesia

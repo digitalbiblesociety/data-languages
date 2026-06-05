@@ -2,7 +2,7 @@
 iso: pwg
 name: Gapapaiwa
 autonym: null
-alt_names: [Gapa, "Gapapaiwa (Paiwa, Manape)", Manape, Paiwa]
+alt_names: [Gapa, Manape, Paiwa]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea

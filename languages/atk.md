@@ -2,7 +2,7 @@
 iso: atk
 name: Ati
 autonym: Inati
-alt_names: ["A'i", Ari, Ati (Philippines), Bisaya]
+alt_names: ["A'i", Ari, Bisaya]
 population: 1500
 country_id: PH
 country_name: Philippines

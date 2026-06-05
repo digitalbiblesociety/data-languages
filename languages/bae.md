@@ -2,7 +2,7 @@
 iso: bae
 name: Baré
 autonym: Baré
-alt_names: [Arihini, Bale, Balé, Barauana, Barauna, Barawana, Bare, Baré (Brésil), Baré (République bolivarienne du Venezuela), Baré (Venezuela), Cunipusana, Ibini, Ihini, Maldavaca, Mitua, Yavita]
+alt_names: [Arihini, Bale, Balé, Barauana, Barauna, Barawana, Bare, Cunipusana, Ibini, Ihini, Maldavaca, Mitua, Yavita]
 population: 240
 country_id: VE
 country_name: Venezuela

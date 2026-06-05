@@ -2,7 +2,6 @@
 iso: cry
 name: Cori
 autonym: Chori
-alt_names: [Cori language]
 population: 1000
 country_id: NG
 country_name: Nigeria

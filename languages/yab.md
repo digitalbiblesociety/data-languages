@@ -2,7 +2,7 @@
 iso: yab
 name: Yuhup
 autonym: Hupdë
-alt_names: ["\"Maku\"", Kariana, Macu, Macú, Maku, Makú-Yahup, Sapé, Yahup, Yahup Makú, Yuhud, Yuhup (Brésil), Yuhup (Colombie), Yuhupo (Colombia), Yëhup, “Maku”]
+alt_names: ["\"Maku\"", Kariana, Macu, Macú, Maku, Makú-Yahup, Sapé, Yahup, Yahup Makú, Yuhud, Yëhup, “Maku”]
 population: 360
 country_id: BR
 country_name: Brazil

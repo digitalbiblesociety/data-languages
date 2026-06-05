@@ -2,7 +2,7 @@
 iso: tbw
 name: Tagbanwa
 autonym: Aborlan Tagbanwa
-alt_names: [Aborlan-Tagbanwa, Apurawnon, Tagbanua, Tagbanwa (Aborlan)]
+alt_names: [Aborlan, Aborlan-Tagbanwa, Apurawnon, Tagbanua]
 population: 17200
 country_id: PH
 country_name: Philippines

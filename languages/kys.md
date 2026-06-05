@@ -2,7 +2,7 @@
 iso: kys
 name: Baram Kayan
 autonym: Kajan
-alt_names: [Baram Kajan, Kayan (Baram), "Kayan, Baram"]
+alt_names: [Baram, Baram Kajan, "Kayan, Baram"]
 population: 4150
 country_id: MY
 country_name: Malaysia

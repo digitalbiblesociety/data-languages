@@ -2,7 +2,7 @@
 iso: one
 name: Oneida
 autonym: Onʌyotaʔa꞉ka
-alt_names: [Oneida (Canada), Oneida (New York), Oneida (Wisconsin), Oneida nyelv, 오네이다어]
+alt_names: [Oneida nyelv, 오네이다어]
 population: 1500
 country_id: CA
 country_name: Canada

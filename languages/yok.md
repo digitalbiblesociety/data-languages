@@ -2,7 +2,7 @@
 iso: yok
 name: Yokuts
 autonym: Mariposa
-alt_names: [Wikchamni, Wikchamni (Yokuts), Yaudanchi, Yaudanchi Yokuts, Yawelmani, Yawelmani Yokuts, Yokuts (Valley), Yokuts (Wikchamni), Yokuts (Yaudanchi), Yokuts (Yawelmani), Yokutsan]
+alt_names: [Wikchamni, Wikchamni (Yokuts), Yaudanchi, Yaudanchi Yokuts, Yawelmani, Yawelmani Yokuts, Yokutsan]
 population: 2500
 country_id: US
 country_name: United States

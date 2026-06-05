@@ -2,7 +2,7 @@
 iso: sot
 name: Southern Sotho
 autonym: Sesotho
-alt_names: [Bahasa Sesotho, Eteläsothon kieli, Gjuha sesote, IsiSotho, IsiSuthu, Język sotho, Lengua sesotho, Lingua sesotho, S Sotho, SeSotho do sul, Sesotho simi, Sesoto kalba, Sisutho, Sota lingvo, Sotho, Sotho (South), Sotho (Southern), Sotho du Sud, Sotho language, "Sotho, Southern", Sothoeg, Soto, Southern, Souto, Suid-Sotho, Suthu, Suto, Sutum, Süd-Sotho, Zuid-Sotho, Сесото, سېسوتوچە, सिसोथो भाषा, ソト語, 塞索托语, 소토어]
+alt_names: [Bahasa Sesotho, Eteläsothon kieli, Gjuha sesote, IsiSotho, IsiSuthu, Język sotho, Lengua sesotho, Lingua sesotho, S Sotho, SeSotho do sul, Sesotho simi, Sesoto kalba, Sisutho, Sota lingvo, Sotho, Sotho du Sud, Sotho language, "Sotho, Southern", Sothoeg, Soto, Southern, Souto, Suid-Sotho, Suthu, Suto, Sutum, Süd-Sotho, Zuid-Sotho, Сесото, سېسوتوچە, सिसोथो भाषा, ソト語, 塞索托语, 소토어]
 population: 5624700
 country_id: LS
 country_name: Lesotho

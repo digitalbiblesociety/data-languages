@@ -2,7 +2,6 @@
 iso: mou
 name: Mogum
 autonym: Mogoum
-alt_names: [Mogum language]
 population: 7000
 country_id: TD
 country_name: Chad

@@ -2,7 +2,7 @@
 iso: pot
 name: Potawatomi
 autonym: Neshnabémwen
-alt_names: [Bodewadmi, Bodéwadmi, Potahuatomí (Wisconsin), Potawatomi (Canada), Potawatomi (Kansas), Potawatomi (Michigan), Potawatomi (Oklahoma), Potawatomi (Wisconsin), Potawotami, Pottawotomi, Потаватоми]
+alt_names: [Bodewadmi, Bodéwadmi, Potahuatomí (Wisconsin), Potawotami, Pottawotomi, Потаватоми]
 population: 1300
 country_id: US
 country_name: United States

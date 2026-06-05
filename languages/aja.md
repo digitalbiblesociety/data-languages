@@ -2,7 +2,7 @@
 iso: aja
 name: Aja
 autonym: Adja
-alt_names: [Adjeg, Aja (South Sudan), Aja (Sudan), "Aja, nilo-sahariana", Ajja]
+alt_names: [Adjeg, "Aja, nilo-sahariana", Ajja]
 population: 200
 country_id: SS
 country_name: South Sudan

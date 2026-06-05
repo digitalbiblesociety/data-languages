@@ -2,7 +2,7 @@
 iso: waw
 name: Waiwai
 autonym: Ouayeone
-alt_names: [Katawiana, Parukota, Parukotó, Tunayana, Tunayana (Guyane), Uai Uai, Uaieue, Uaiuai, Wabui, Wai Wai, Waiwai (Brésil), Waiwai (Surinam), Waiwai (Suriname)]
+alt_names: [Katawiana, Parukota, Parukotó, Tunayana, Tunayana (Guyane), Uai Uai, Uaieue, Uaiuai, Wabui, Wai Wai]
 population: 2910
 country_id: BR
 country_name: Brazil

@@ -2,7 +2,7 @@
 iso: lam
 name: Lamba
 autonym: Ichilamba
-alt_names: [Chilamba, Lamba (in Zambia)]
+alt_names: [Chilamba]
 population: 201000
 country_id: ZM
 country_name: Zambia

@@ -2,7 +2,7 @@
 iso: klq
 name: Rumu
 autonym: Kairi
-alt_names: [Dumu, Kai-Iri, Kairi (Dumu), Kibiri, Miyak, Rumuwa, Tumu]
+alt_names: [Dumu, Kai-Iri, Kibiri, Miyak, Rumuwa, Tumu]
 population: 3870
 country_id: PG
 country_name: Papua New Guinea

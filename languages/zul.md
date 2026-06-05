@@ -2,7 +2,7 @@
 iso: zul
 name: Zulu
 autonym: isiZulu
-alt_names: [Bahasa Zulu, Gjuha zulu, Idioma zulú, Język zulu, Kingoni, Kizulu, Lala, Limba zulu, Lingua zulu, Lingua zulú, Língua zulu, Ngoni, Språket zulu, Swlw, SíZulu, Súlúis, Sûloe, Zoeloe, Zoulou, Zulu (Northern), Zulu (Southern), Zulu jezik, Zulu simi, Zulua lingvo, Zuluera, Zulum, Zulun kieli, Zulų kalba, Zunda, Ζουλού γλώσσα, Зулу, Зулу јазик, Зулуски език, زۇلۇچە, لغة زولو, জুলু ভাষা, சுலு மொழி, ズールー語, 祖鲁语, 줄루어]
+alt_names: [Bahasa Zulu, Gjuha zulu, Idioma zulú, Język zulu, Kingoni, Kizulu, Lala, Limba zulu, Lingua zulu, Lingua zulú, Língua zulu, Ngoni, Språket zulu, Swlw, SíZulu, Súlúis, Sûloe, Zoeloe, Zoulou, Zulu jezik, Zulu simi, Zulua lingvo, Zuluera, Zulum, Zulun kieli, Zulų kalba, Zunda, Ζουλού γλώσσα, Зулу, Зулу јазик, Зулуски език, زۇلۇچە, لغة زولو, জুলু ভাষা, சுலு மொழி, ズールー語, 祖鲁语, 줄루어]
 population: 12100000
 country_id: ZA
 country_name: South Africa

@@ -2,7 +2,7 @@
 iso: slz
 name: "Ma'ya"
 autonym: Sailolof
-alt_names: [Maya, Maya (South Halmahera), Salawati, Salawati dialect, Samate]
+alt_names: [Maya, Salawati, Salawati dialect, Samate]
 population: 4000
 country_id: ID
 country_name: Indonesia

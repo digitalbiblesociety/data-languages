@@ -2,7 +2,7 @@
 iso: cho
 name: Choctaw
 autonym: Chahta
-alt_names: [Bahasa Choctaw, Chahta simi, "Chahta'", Chocta (Oklahoma), Choctaw (Louisiane), Choctaw (Mississippi), Choctaw (Oklahoma), Idioma choctaw, Język czoktaw, Língua choctaw, Tchoktaweg, Ĉakta lingvo, Чоктавский язык, Чоктаўская мова, சொக்டோ மொழி, ჩოქტაუ]
+alt_names: [Bahasa Choctaw, Chahta simi, "Chahta'", Idioma choctaw, Język czoktaw, Língua choctaw, Tchoktaweg, Ĉakta lingvo, Чоктавский язык, Чоктаўская мова, சொக்டோ மொழி, ჩოქტაუ]
 population: 9640
 country_id: US
 country_name: United States

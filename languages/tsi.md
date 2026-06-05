@@ -2,7 +2,7 @@
 iso: tsi
 name: Tsimshian
 autonym: "Sm'algyax"
-alt_names: [Chimmezyan, Coast, Coast Tsimshian, Hartley Bay dialect, Lower Tsimshianic, Maritime, Sm̓algya̱x ( Coast Tsimshian), "Ts'emsia'n", Tsimpshean, Tsimshean, Tsimshian (Coast), Tsimshian de la côte, Zimshian]
+alt_names: [Chimmezyan, Coast, Coast Tsimshian, Hartley Bay dialect, Lower Tsimshianic, Maritime, "Ts'emsia'n", Tsimpshean, Tsimshean, Tsimshian de la côte, Zimshian]
 population: 150
 country_id: CA
 country_name: Canada

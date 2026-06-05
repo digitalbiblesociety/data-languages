@@ -2,7 +2,7 @@
 iso: mam
 name: Mam
 autonym: Qyool Mam
-alt_names: [Huehuetenango Mam, Idioma mam, Língua mam, Mam (Southern), Mam simi, "Mam, Northern", "Qyo:l", Мамски јазик]
+alt_names: [Huehuetenango Mam, Idioma mam, Língua mam, Mam simi, "Mam, Northern", "Qyo:l", Мамски јазик]
 population: 602400
 country_id: GT
 country_name: Guatemala

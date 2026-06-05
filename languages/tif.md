@@ -2,7 +2,6 @@
 iso: tif
 name: Tifal
 autonym: Tifalmin
-alt_names: [Tifal language]
 population: 3600
 country_id: PG
 country_name: Papua New Guinea

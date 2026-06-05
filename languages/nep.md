@@ -2,7 +2,6 @@
 iso: nep
 name: Nepali
 autonym: नेपाली
-alt_names: [Nepali (macrolanguage)]
 population: 15800000
 country_id: NP
 country_name: Nepal

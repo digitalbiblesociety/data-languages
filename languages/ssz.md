@@ -2,7 +2,6 @@
 iso: ssz
 name: Sengseng
 autonym: Asengseng
-alt_names: [Sengseng language]
 population: 1750
 country_id: PG
 country_name: Papua New Guinea

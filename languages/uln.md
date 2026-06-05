@@ -2,7 +2,6 @@
 iso: uln
 name: Unserdeutsch
 autonym: Rabaul Creole German
-alt_names: [Unserdeutsch language]
 population: 100
 country_id: PG
 country_name: Papua New Guinea

@@ -2,7 +2,6 @@
 iso: bll
 name: Biloxi
 autonym: Tanêksąyaa ade
-alt_names: [Biloxi language]
 population: null
 country_id: US
 country_name: United States

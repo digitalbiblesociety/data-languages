@@ -2,7 +2,7 @@
 iso: knn
 name: Konkani
 autonym: महाराष्ट्रीय कोंकणी महाराष्ट्रीय कोकणी
-alt_names: [Bankoti, Central Konkan, Concorinum, Cugani, Konkan Standard, Konkanese, Konkani (individual language), Kunabi, Maharashtrian Konkani, North Konkan]
+alt_names: [Bankoti, Central Konkan, Concorinum, Cugani, Konkan Standard, Konkanese, Kunabi, Maharashtrian Konkani, North Konkan]
 population: 2190000
 country_id: IN
 country_name: India

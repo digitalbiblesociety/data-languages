@@ -2,7 +2,7 @@
 iso: scq
 name: "Sa'och"
 autonym: Chung
-alt_names: [Angrak, Anskrak, Ansrak, Chu-ng, Chung (Cambodge), Chung (Thaïlande), Khamen Phadong, Sa-och, Sa-och (Tailandia), Sa-ong, Saoch, Saotch, Sauch, Tchiong]
+alt_names: [Angrak, Anskrak, Ansrak, Chu-ng, Khamen Phadong, Sa-och, Sa-ong, Saoch, Saotch, Sauch, Tchiong]
 population: 180
 country_id: KH
 country_name: Cambodia

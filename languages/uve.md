@@ -2,7 +2,7 @@
 iso: uve
 name: West Uvean
 autonym: Fagauvea
-alt_names: [Faga-Uvea, Fagauvea (nord), Fagauvea (sud), "Uvean, West", Uveano (meridional)]
+alt_names: [Faga-Uvea, "Uvean, West", Uveano (meridional)]
 population: 1110
 country_id: NC
 country_name: New Caledonia

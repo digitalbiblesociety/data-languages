@@ -2,7 +2,7 @@
 iso: mbn
 name: Macaguán
 autonym: Hitnü
-alt_names: [Agualinda Guahibo, Jitnu, Jitnu (macaguán), Macaguan, Macaguane]
+alt_names: [Agualinda Guahibo, Jitnu, Macaguan, Macaguane]
 population: 1010
 country_id: CO
 country_name: Colombia

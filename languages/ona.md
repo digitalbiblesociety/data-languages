@@ -2,7 +2,7 @@
 iso: ona
 name: Ona
 autonym: "Selk'nam"
-alt_names: [Aona, Central, Central dialect, Chon, "Idioma selk'nam", Island Chon language area, Island Chonan, Jazyk Ona, Ona-Selknam, Selknam, Selknam (Central), Selk’nam, Shelknam]
+alt_names: [Aona, Central, Central dialect, Chon, "Idioma selk'nam", Island Chon language area, Island Chonan, Jazyk Ona, Ona-Selknam, Selknam, Selk’nam, Shelknam]
 population: 2014
 country_id: AR
 country_name: Argentina

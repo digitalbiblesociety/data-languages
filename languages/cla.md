@@ -2,7 +2,7 @@
 iso: cla
 name: Ron
 autonym: Chala
-alt_names: ["\"Chala\"", "\"Challa\"", Baron, Bokkos, Challa, Daffo, Ron (Chadic)]
+alt_names: ["\"Chala\"", "\"Challa\"", Baron, Bokkos, Challa, Daffo]
 population: 216000
 country_id: NG
 country_name: Nigeria

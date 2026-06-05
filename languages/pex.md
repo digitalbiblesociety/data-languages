@@ -2,7 +2,6 @@
 iso: pex
 name: Petats
 autonym: Majugan
-alt_names: [Petats language]
 population: 6340
 country_id: PG
 country_name: Papua New Guinea

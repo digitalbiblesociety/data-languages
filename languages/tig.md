@@ -2,7 +2,7 @@
 iso: tig
 name: Tigre
 autonym: ትግረ  ኻሳ
-alt_names: [Idioma tigré, Język tigre, Khasa, Língua tigré, Tigre hizkuntza, Tigreeg, Tigrejščina, Tigren kieli, Tigré, Tigré (Beni Amer), Tigré jezik, Xasa, Тигре, Тигре јазик, 提格雷语]
+alt_names: [Beni Amer, Idioma tigré, Język tigre, Khasa, Língua tigré, Tigre hizkuntza, Tigreeg, Tigrejščina, Tigren kieli, Tigré, Tigré jezik, Xasa, Тигре, Тигре јазик, 提格雷语]
 population: 1359000
 country_id: ER
 country_name: Eritrea

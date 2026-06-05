@@ -2,7 +2,6 @@
 iso: bvo
 name: Bolgo
 autonym: Bólɡònî
-alt_names: [Bolgo language]
 population: 1800
 country_id: TD
 country_name: Chad

@@ -2,7 +2,6 @@
 iso: vmg
 name: Lungalunga
 autonym: Minigir
-alt_names: [Minigir language]
 population: 1500
 country_id: PG
 country_name: Papua New Guinea

@@ -2,7 +2,7 @@
 iso: bzd
 name: Bribri
 autonym: Talamanca
-alt_names: [Bribri (Costa Rica), Bribri (Katsi), Bribri (Panama), Duit, Talamanca (Panamá), Viceita, Viceyta, Viceíta]
+alt_names: [Duit, Katsi, Viceita, Viceyta, Viceíta]
 population: 12800
 country_id: CR
 country_name: Costa Rica

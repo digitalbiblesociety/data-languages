@@ -2,7 +2,7 @@
 iso: hmt
 name: Hamtai
 autonym: Hamday
-alt_names: ["\"Kukukuku\"", Hamtai (=Kapau), Hamtai (Kapau), Kamea, Kapau, Kukukuku, Watut]
+alt_names: ["\"Kukukuku\"", Kamea, Kapau, Kukukuku, Watut]
 population: 66000
 country_id: PG
 country_name: Papua New Guinea

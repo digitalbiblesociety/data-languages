@@ -2,7 +2,7 @@
 iso: ypa
 name: Phala
 autonym: Pula
-alt_names: [Black Phula, Bola, Hei Phula, Khapho, Phula, Phula (Chine), Phula (Viet Nam), Phulepho, Pula (Vietnam)]
+alt_names: [Black Phula, Bola, Hei Phula, Khapho, Phula, Phulepho]
 population: 12000
 country_id: CN
 country_name: China

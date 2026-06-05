@@ -2,7 +2,7 @@
 iso: tue
 name: Tuyuca
 autonym: Docapúaraye
-alt_names: [Barasana (Brésil), Barasana (Colombia), Barasana (Colombie), Barasano, Bará (Brésil), Bará (Colombia), Bará (Colombie), Bará-Tuyuka, Borá-Tuyuka, Dochkafuara, Tejuca, Tuiúcas, Tuyaca (Brésil), Tuyuca (Colombia), Tuyuca (Colombie), Tuyuka, Tuyúka]
+alt_names: [Barasana (Brésil), Barasana (Colombia), Barasana (Colombie), Barasano, Bará (Brésil), Bará (Colombia), Bará (Colombie), Bará-Tuyuka, Borá-Tuyuka, Dochkafuara, Tejuca, Tuiúcas, Tuyuka, Tuyúka]
 population: 1440
 country_id: CO
 country_name: Colombia
