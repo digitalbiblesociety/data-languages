@@ -2,7 +2,7 @@
 iso: abm
 name: Abanyom
 autonym: Bakor
-alt_names: [Abanjom, Abanjommál, Abanyom jezik, Abanyum, Befun, Bofon, Lenga Abanyom, Lingua abanyom, Mbofon, அபன்யோம் மொழி]
+alt_names: [Abanjom, Abanjommál, Abanyum, Befun, Bofon, Mbofon]
 population: 12500
 country_id: NG
 country_name: Nigeria

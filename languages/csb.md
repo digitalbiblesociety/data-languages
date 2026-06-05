@@ -2,7 +2,7 @@
 iso: csb
 name: Kashubian
 autonym: kaszëbsczi
-alt_names: [Bahasa Kasubia, Cachubu, Caixubi, Cashob, Cashubian, Cassubian, Eslovincio, Idioma caixubio, Idioma casubio, Język kaszubski, Kachoube, Kachoubeg, Kaschubische Sprache, Kaschubiske Sproake, Kaschuubsch, Kashubiera, Kasjoebies, Kasjoebisch, Kasjubisk, Kasjubiska, Kassúbíska, Kasub nyelv, Kaszubski, Kaszubsko godka, Kaszëbsczi jãzëk, Kaŝuba lingvo, Kaşub tili, Kašobu kalba, Kašubi, Kašubska rěc, Kašubčina, Kašubština, Kašubšćina, Kašubščina, Kašubų kalba, Kašupski jezik, Kašuubi keel, Lengua casciuba, Limba caşubiană, Lingua Cassubica, Lingua casciuba, Lingua caxubia, Lingua kashubya, Língua cassúbia, Slovince, Slovincian, Tiếng Kashubian, Κασουμπιανή γλώσσα, Кашоу́бьскъ ѩꙁꙑ́къ, Кашуб йылме, Кашуб чĕлхи, Кашубская мова, Кашубски език, Кашубский язык, Кашубська мова, Кашупски јазик, Кашупски језик, კაშუბური ენა, ካሹብኛ, カシューブ語, 卡舒比语, 카슈브어]
+alt_names: [Cachubu, Caixubi, Cashob, Cashubian, Cassubian, Eslovincio, Kachoube, Kachoubeg, Kaschubiske Sproake, Kaschuubsch, Kashubiera, Kasjoebies, Kasjoebisch, Kasjubisk, Kasjubiska, Kassúbíska, Kaszubski, Kaszubsko godka, Kaszëbsczi jãzëk, Kaşub tili, Kašubi, Kašubska rěc, Slovince, Slovincian, Кашоу́бьскъ ѩꙁꙑ́къ, Кашуб йылме]
 population: 107000
 country_id: PL
 country_name: Poland

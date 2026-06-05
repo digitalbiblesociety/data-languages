@@ -2,7 +2,7 @@
 iso: nyh
 name: Nyikina
 autonym: Njigina
-alt_names: ["Dja:ba", Lenga nyigina, Negena, Nigena, Niggene, Njigana, Njigena, Njikena, Njikin, Njikini, Nyegena, Nygina, Nyi gini, Nyi-gini, Nyigina, Nyigina language, Nyigini, Tjaba, Wanji, Yeeda]
+alt_names: ["Dja:ba", Negena, Nigena, Niggene, Njigana, Njigena, Njikena, Njikin, Njikini, Nyegena, Nygina, Nyi gini, Nyi-gini, Nyigina, Nyigina language, Nyigini, Tjaba, Wanji, Yeeda]
 population: 61
 country_id: AU
 country_name: Australia

@@ -2,7 +2,7 @@
 iso: min
 name: Minangkabau
 autonym: باسو مينڠكابا
-alt_names: [Bahasa Minangkabau, Basa Minangkabau, Lenga Minangkabau, Lengua minangkabau, Minang, Minangkabauera, Minangkabaun kieli, Minangkabaus, Minankabaŭa lingvo, Padang, Tiếng Minangkabau, Минангкабау, মিনাংকাবাউ ভাষা, ภาษามินังกาเบา, ミナンカバウ語]
+alt_names: [Minang, Minangkabauera, Minangkabaus, Padang, Минангкабау]
 population: 4240000
 country_id: ID
 country_name: Indonesia

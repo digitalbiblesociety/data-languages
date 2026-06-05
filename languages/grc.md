@@ -2,7 +2,7 @@
 iso: grc
 name: Ancient Greek
 autonym: ἙλληνικήHellēnikḗ
-alt_names: [Aajdgrieks, Alt-Griechisch, Altgriechische Sprache, Antikva greka lingvo, Bahasa Yunani Kuno, Classical Greek, Forngríska, Gammelgresk, Grec ancien, Grec antic, Grech Antich, Greek, "Greek, Ancient", "Greek, Ancient (to 1453)", Grego antigo, Greqishtja e lashtë, Griego antiguo, Gū Hĭ-lé-nà̤-ngṳ̄, "Henc'hresianeg", Język grecki klasyczny, Klassisk grekiska, Koiné, Lengua græca antiga, Limba greacă veche, Lingua Graeca Antiqua, Lingua grec ancian, Lingua greca antica, Língua grega antiga, Muinaiskreikka, Oldgræsk, Ooltgreeksche Spraak, Oudgrieks, Senovės graikų kalba, Starogréčtina, Starogrčki jezik, Starořečtina, Vanakreeka keel, "grec ancien (jusqu'à 1453)", Ógörög nyelv, Αρχαία ελληνική γλώσσα, Давньогрецька мова, Древнегреческий язык, Старогрчки јазик, Старогрчки језик, Старогръцки език, لغة إغريقية, प्राचीन यूनानी भाषा, ძველი ბერძნული ენა, 古代ギリシア語, 古希臘語, 고대 그리스어]
+alt_names: [Aajdgrieks, Alt-Griechisch, Classical Greek, Forngríska, Gammelgresk, Grec ancien, Grec antic, Grech Antich, Greek, "Greek, Ancient", "Greek, Ancient (to 1453)", Grego antigo, Greqishtja e lashtë, Griego antiguo, Gū Hĭ-lé-nà̤-ngṳ̄, "Henc'hresianeg", Klassisk grekiska, Koiné, Muinaiskreikka, Oldgræsk, Ooltgreeksche Spraak, Oudgrieks, Starogréčtina, Starořečtina, "grec ancien (jusqu'à 1453)"]
 population: null
 country_id: GR
 country_name: Greece

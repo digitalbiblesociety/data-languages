@@ -2,7 +2,7 @@
 iso: tca
 name: Ticuna
 autonym: Duüxügu
-alt_names: [Língua ticuna, Magüta, Tikouneg, Tikuna, Tikuna simi, Tucuna, Tukuna, Tukúna, Тыкуна]
+alt_names: [Magüta, Tikouneg, Tikuna, Tikuna simi, Tucuna, Tukuna, Tukúna, Тыкуна]
 population: 48580
 country_id: BR
 country_name: Brazil

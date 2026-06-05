@@ -2,7 +2,7 @@
 iso: abk
 name: Abkhazian
 autonym: Abkhazian
-alt_names: ["Abc'hazeg", Abchaseg, Abchasische Sprache, Abchazisch, Abchaziska, Abchazų kalba, Abcházština, Abhaasin kieli, Abhaski jezik, Abhaz dili, Abhazca, Abhaški jezik, Abház nyelv, Abhāzu valoda, Abjaso, Abkasíska, Abkhasisk, Abkhasisk språk, Abkhaz, Abkhaz language, Abkhaze, Abkhazera, Abxaz, Abxazo, Abĥaza lingvo, An Abcáisis, Bahasa Abkhaz, Idioma abhasio, Idioma abjasio, Język abchaski, Limba abhază, Lingua abcasa, Lingua abkhaza, Língua abecásia, Pinulongang Abhaso, Èdè Abkhaz, Абхаз кыв, Абхаз чĕлхи, Абхазаг æвзаг, Абхазки език, Абхазская мова, Абхазский язык, Абхазька мова, Абхаская мова, Абхаски јазик, Аҧсуа бызшәа, אבחזית, زبان آبخازی, আবখাজ ভাষা, აფხაზური ენა, アブハズ語, 阿布哈兹语, 압하스어]
+alt_names: ["Abc'hazeg", Abchaseg, Abchazisch, Abchaziska, Abhazca, Abjaso, Abkasíska, Abkhasisk, Abkhaz, Abkhaz language, Abkhaze, Abkhazera, Abxaz, Abxazo, An Abcáisis, אבחזית]
 population: 194710
 country_id: GE
 country_name: Georgia

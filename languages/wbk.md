@@ -2,7 +2,7 @@
 iso: wbk
 name: Waigali
 autonym: "Kalaṣa-alâ"
-alt_names: [Język kalasza-ala, Kalasa-alā, Kalasha-ala, Vaigalí, Wai-alā, Waigalī, Waigeli, Waygalī, Вайгали, ภาษากาลาซาอลา]
+alt_names: [Kalasa-alā, Kalasha-ala, Vaigalí, Wai-alā, Waigalī, Waigeli, Waygalī, Вайгали]
 population: 1500
 country_id: AF
 country_name: Afghanistan

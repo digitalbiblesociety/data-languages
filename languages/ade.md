@@ -2,7 +2,7 @@
 iso: ade
 name: Adele
 autonym: Gidire
-alt_names: [Adelen kieli, Adelska, Bedere, Bidire, Gadre, Idioma adele, Lenga Adele, Lingau adele, Língua adele]
+alt_names: [Adelska, Bedere, Bidire, Gadre, Lingau adele]
 population: 37400
 country_id: TG
 country_name: Togo

@@ -2,7 +2,7 @@
 iso: blt
 name: Tai Dam
 autonym: Black Tai
-alt_names: [Black Thai, Dam, Tai Do, Tai Noir, Taidameg, Thái Den, Táy-Dam, ภาษาไทดำ, 傣擔語]
+alt_names: [Black Thai, Dam, Tai Do, Tai Noir, Taidameg, Thái Den, Táy-Dam]
 population: 777700
 country_id: VN
 country_name: Vietnam

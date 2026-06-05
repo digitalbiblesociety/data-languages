@@ -2,7 +2,7 @@
 iso: sun
 name: Sundanese
 autonym: ᮘᮞ ᮞᮥᮔ᮪ᮓ
-alt_names: [Bahasa Sunda, Basa Sunda, Basa Sundha, Idioma sondanés, Idioma sundanés, Język sundajski, Lengua sundaneixe, Lingua sondanese, Luenga sondanesa, Língua sundanesa, Priangan, Soendanees, Sunda, Sunda lingvo, Sunda simi, Sundaisch, Sundan kieli, Sundanais, Sundanesische Sprache, Sundanesisk, Sundanesiska, Sundic, Sundski jezik, Sundu valoda, Sundčina, Sundų kalba, Swndaneg, Tiếng Sunda, soundanais, Сунданский язык, سۇندا تىلى, सुन्दा भाषा, ภาษาซุนดา, სუნდური ენა, スンダ語, 巽他語, 순다어]
+alt_names: [Luenga sondanesa, Priangan, Soendanees, Sunda, Sunda simi, Sundaisch, Sundanais, Sundanesisk, Sundanesiska, Sundic, Swndaneg, soundanais, سۇندا تىلى]
 population: 32400000
 country_id: ID
 country_name: Indonesia

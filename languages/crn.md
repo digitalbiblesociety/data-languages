@@ -2,7 +2,7 @@
 iso: crn
 name: El Nayar Cora
 autonym: naáyarite
-alt_names: [Cora, Cora de el Nayar, Cora language, "Cora, El Nayar", Idioma cora, Kora, Náayeri, Pinome]
+alt_names: [Cora, Cora de el Nayar, Cora language, "Cora, El Nayar", Kora, Náayeri, Pinome]
 population: 5370
 country_id: MX
 country_name: Mexico

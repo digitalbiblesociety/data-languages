@@ -2,7 +2,6 @@
 iso: std
 name: Sentinel
 autonym: Sentinelese
-alt_names: [Idioma centinelés, Język sentinel, Sentinel jezik]
 population: 100
 country_id: IN
 country_name: India

@@ -2,7 +2,7 @@
 iso: qvy
 name: Queyu
 autonym: " Choyu"
-alt_names: [Choyi, Choyo, Zhaba, 却域語, 卻隅話]
+alt_names: [Choyi, Choyo, Zhaba, 卻隅話]
 population: 7000
 country_id: CN
 country_name: China

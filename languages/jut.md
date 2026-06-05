@@ -2,7 +2,7 @@
 iso: jut
 name: Jutish
 autonym: jysk
-alt_names: [Jute méridional, Jutlandic, Jutlandish, Jutlands, Juto, Juto meridional, Jylländska, Jütisch, Lenga jutish, Western Danish, 日德兰语]
+alt_names: [Jute méridional, Jutlandic, Jutlandish, Jutlands, Juto, Juto meridional, Jylländska, Jütisch, Western Danish]
 population: null
 country_id: DK
 country_name: Denmark

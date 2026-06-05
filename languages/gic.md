@@ -2,7 +2,7 @@
 iso: gic
 name: Gail
 autonym: Gail
-alt_names: [Gail jezik, Gaileg, Gayle language, Língua gail, South Africa]
+alt_names: [Gaileg, Gayle language, South Africa]
 population: null
 country_id: ZA
 country_name: South Africa

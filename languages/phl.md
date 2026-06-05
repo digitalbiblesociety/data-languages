@@ -2,7 +2,7 @@
 iso: phl
 name: Phalura
 autonym: پالولہ
-alt_names: [Biyori, Dangarik, Dangarīk, Dardu, Palola, Paloureg, Palula, Palula language, Palūla, Phalulo, ภาษาปาลูลา]
+alt_names: [Biyori, Dangarik, Dangarīk, Dardu, Palola, Paloureg, Palula, Palula language, Palūla, Phalulo]
 population: 10000
 country_id: PK
 country_name: Pakistan

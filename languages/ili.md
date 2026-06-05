@@ -2,7 +2,7 @@
 iso: ili
 name: Ili Turki
 autonym: İlı turkeşi
-alt_names: [Ilieg, "T'urk", Tuerke, İli Türk tili, Или турки јазик, Или-тюркский язык, 伊犁土尔克语, 伊犁土爾克語, 伊犁突厥語]
+alt_names: [Ilieg, "T'urk", Tuerke, İli Türk tili]
 population: 120
 country_id: CN
 country_name: China

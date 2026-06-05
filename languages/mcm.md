@@ -2,7 +2,7 @@
 iso: mcm
 name: Malaccan Creole Portuguese
 autonym: Malaccan Creole Portuguese
-alt_names: [Bahasa Geragau, Bahasa Serani, "Creole Portuguese, Malaccan", Kristang, Kristang language, Língua cristã, Malacca Creole, Malaccan, Malaqueiro, Malaquenho, Malaquense, Malaquês, Malayo-Portuguese, Malaysian Creole Portuguese, Moluccas Pidgin, Papia Kristang, Portuguese Patois, Português de Malaca, Serani, Малайско-португальский креольский язык]
+alt_names: ["Creole Portuguese, Malaccan", Kristang, Kristang language, Malacca Creole, Malaccan, Malaqueiro, Malaquenho, Malaquense, Malaquês, Malayo-Portuguese, Malaysian Creole Portuguese, Moluccas Pidgin, Papia Kristang, Portuguese Patois, Português de Malaca, Serani]
 population: 1000
 country_id: MY
 country_name: Malaysia

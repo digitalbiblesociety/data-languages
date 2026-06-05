@@ -2,7 +2,7 @@
 iso: abq
 name: Abaza
 autonym: абаза бызшва
-alt_names: [Abasiini keel, Abasinische Sprache, Abasínska, Abaza lingvo, Abaza nyelv, Abazaca, Abazan kieli, Abazeg, Abazijns, Abazin, Abazinska, Abazinski jezik, Abazintsy, Abazinų kalba, Abazí, Ahuwa, Ashuwa, Idioma abaza, Język abazyński, Limba abazină, Lingua abaza, Lingua abazina, Língua abaza, Tapanta, Абаза јазик, Абазински език, Абазинский язык, Абазинська мова, абаза бызшва‎, Աբազերեն, ภาษาอบาซา, 아바자어]
+alt_names: [Abasínska, Abazaca, Abazeg, Abazijns, Abazin, Abazinska, Abazintsy, Abazí, Ahuwa, Ashuwa, Tapanta, абаза бызшва‎, Աբազերեն]
 population: 51000
 country_id: RU
 country_name: Russia

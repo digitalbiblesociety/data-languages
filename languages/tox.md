@@ -2,7 +2,7 @@
 iso: tox
 name: Tobian
 autonym: Ramarih Hatohobei
-alt_names: [Hatohobei, Hatohobeian, Idioma tobiano, Ramari Hatohobei, Tobi, Tobiaans, Tobiano, Tobien, Tobin kieli]
+alt_names: [Hatohobei, Hatohobeian, Ramari Hatohobei, Tobi, Tobiaans, Tobiano, Tobien]
 population: 150
 country_id: PW
 country_name: Palau

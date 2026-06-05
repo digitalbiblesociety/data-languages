@@ -2,7 +2,7 @@
 iso: wtf
 name: Watiwa
 autonym: Dumpu
-alt_names: [Język dumpu, Lenga Dumpu, Watifa]
+alt_names: [Watifa]
 population: 510
 country_id: PG
 country_name: Papua New Guinea

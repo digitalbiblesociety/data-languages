@@ -2,7 +2,7 @@
 iso: ecy
 name: Eteocypriot
 autonym: null
-alt_names: [Eteo-Cypriot, Eteocypriotisch, Eteokiprenezeg, Eteokyprische Sprache, Język eteocypryjski, Этеокипрский язык]
+alt_names: [Eteo-Cypriot, Eteocypriotisch, Eteokiprenezeg]
 population: null
 country_id: CY
 country_name: Cyprus

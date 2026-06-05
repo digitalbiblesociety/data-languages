@@ -2,7 +2,7 @@
 iso: bia
 name: Badimaya
 autonym: "Parti-Maya"
-alt_names: [Baadeemaia, Badimaia, Badimala, Badimara, Badimay, Badimia, Bardimaia, Bardimaya, Bardimaya Baadeemaia Badimaia Badimala Badimara Bardimaia Barimaia Bidungu Padimaia Padinaia Parimaia Patimara Patimay Waadal Wardal Badi-maia Wallawe Yamadgee Yamaji, Barimaia, Bidungu, Lenga badimaya, Nanakari, Padimaia, Padinaia, Parimaia, Parti maya, Patimara, Patimay, Patimaya, Waadal, Wallawe, Wardal, WardalBadi maia, Widimaya, Yamadgee, Yamadyis, Yamaji, Yamatji]
+alt_names: [Baadeemaia, Badimaia, Badimala, Badimara, Badimay, Badimia, Bardimaia, Bardimaya, Bardimaya Baadeemaia Badimaia Badimala Badimara Bardimaia Barimaia Bidungu Padimaia Padinaia Parimaia Patimara Patimay Waadal Wardal Badi-maia Wallawe Yamadgee Yamaji, Barimaia, Bidungu, Nanakari, Padimaia, Padinaia, Parimaia, Parti maya, Patimara, Patimay, Patimaya, Waadal, Wallawe, Wardal, WardalBadi maia, Widimaya, Yamadgee, Yamadyis, Yamaji, Yamatji]
 population: 20
 country_id: AU
 country_name: Australia

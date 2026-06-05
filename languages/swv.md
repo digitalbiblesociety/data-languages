@@ -2,7 +2,7 @@
 iso: swv
 name: Shekhawati
 autonym: शेखावाटी
-alt_names: [Marwari, Rajasthani, Shekhawati-Marwari, ภาษาเสขวาตี]
+alt_names: [Marwari, Rajasthani, Shekhawati-Marwari]
 population: 3000000
 country_id: IN
 country_name: India

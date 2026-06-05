@@ -2,7 +2,7 @@
 iso: hal
 name: Halang
 autonym: Koyong
-alt_names: [Alang, Halangeg, Haleng, Halong, Kolong, Salang, Selong, ภาษาฮาลัง]
+alt_names: [Alang, Halangeg, Haleng, Halong, Kolong, Salang, Selong]
 population: 13500
 country_id: VN
 country_name: Vietnam

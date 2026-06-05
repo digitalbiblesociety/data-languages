@@ -2,7 +2,7 @@
 iso: yub
 name: Yugambal
 autonym: Yugumbil
-alt_names: [Boggangar, Jugambal, Jugumbir, Jukamba, Jukambal, Jukambil, Kwaimbal, Kwiambal, Lenga yugambal, Manaldjali, Marbul, Minjanbal, Minjangbal, Minyowa, Minyung, Narbul, Ngarabal, Ngarabul, Ngarrabul, Ngarrbal, Ngarrubul, Pregalgh, Ucumble, Ukumbil, Yacambal, Yirimbil, Yoocomble, Yoocumbill, Yookambul, Yookumbil, Yookumbill, Yookumble, Yookumbul, Yucomble, Yugabeh, Yugambal jezik, "Yugambal: Ngarrabul", Yugambeh, Yugambeh language, Yugarabul, Yugumbal, Yukambal, Yukambil, Yukumba, Yukumbil, Yukumbul, Yurimbil]
+alt_names: [Boggangar, Jugambal, Jugumbir, Jukamba, Jukambal, Jukambil, Kwaimbal, Kwiambal, Manaldjali, Marbul, Minjanbal, Minjangbal, Minyowa, Minyung, Narbul, Ngarabal, Ngarabul, Ngarrabul, Ngarrbal, Ngarrubul, Pregalgh, Ucumble, Ukumbil, Yacambal, Yirimbil, Yoocomble, Yoocumbill, Yookambul, Yookumbil, Yookumbill, Yookumble, Yookumbul, Yucomble, Yugabeh, "Yugambal: Ngarrabul", Yugambeh, Yugambeh language, Yugarabul, Yugumbal, Yukambal, Yukambil, Yukumba, Yukumbil, Yukumbul, Yurimbil]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,7 +2,7 @@
 iso: lzz
 name: Laz
 autonym: " ლაზური"
-alt_names: [Bahasa Laz, Idioma laz, Język lazyjski, Lasische Sprache, Lazca, Laze, Lazeg, Lazisch, Lazisk språk, Lazki, Lingua laz, Láz nyelv, Língua laz, Лазский язык, Ласки јазик, לאזית, ლაზური ენა, ラズ語]
+alt_names: [Lazca, Laze, Lazeg, Lazisch, Lazki, לאזית]
 population: 22000
 country_id: TR
 country_name: Turkey

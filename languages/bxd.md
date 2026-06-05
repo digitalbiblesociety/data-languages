@@ -2,7 +2,7 @@
 iso: bxd
 name: Pela
 autonym: Bola
-alt_names: [Bela, Pala, Pola, Polo, 波拉話, 波拉語]
+alt_names: [Bela, Pala, Pola, Polo, 波拉話]
 population: 1000
 country_id: CN
 country_name: China

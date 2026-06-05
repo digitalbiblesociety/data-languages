@@ -2,7 +2,7 @@
 iso: mqm
 name: South Marquesan
 autonym: ʻEo ʻenana / ʻEo ʻenata
-alt_names: [Marquesan, "Marquesan, South", Marquesas, Marquesas-Inseln Sprache, South]
+alt_names: [Marquesan, "Marquesan, South", Marquesas, South]
 population: 2100
 country_id: PF
 country_name: French Polynesia

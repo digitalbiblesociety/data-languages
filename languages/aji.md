@@ -2,7 +2,7 @@
 iso: aji
 name: Ajië
 autonym: "A'jie"
-alt_names: [Ajie, Anjie, Baladea, Houailou, Lingua ajië, Neukaledonien, Wai, Wailu]
+alt_names: [Ajie, Anjie, Baladea, Houailou, Neukaledonien, Wai, Wailu]
 population: 4040
 country_id: NC
 country_name: New Caledonia

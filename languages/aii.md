@@ -2,7 +2,7 @@
 iso: aii
 name: "Assyrian Neo-Aramaic"
 autonym: Sūreṯ
-alt_names: [Aisorski, Ashirat Neo-Aramaic, Asirat Northeastern Neo-Aramaic, Asirski novoaramejski, Assyrian, Assyrianci, Assyrisch-Neuaramäische Sprache, Assyrisk Neo-Arameiska, Assyriski, Assyríska, Aturayeg, Aširat Northeastern Neo-Aramaic, Lishana Aturaya, NENA, Neo-Aramaic (Assyrian), "Neo-Aramaic, Assyrian", Neo-Syriac, Neo-arameo oriental, Neoarameo asirio, Sooreth, Soureth, Suret, Sureth, Suryaya Swadaya, Асириски неоарамејски јазик, ܣܘܪܬ, ภาษาอราเมอิกใหม่อัสซีเรีย]
+alt_names: [Aisorski, Ashirat Neo-Aramaic, Asirat Northeastern Neo-Aramaic, Asirski novoaramejski, Assyrian, Assyrianci, Assyrisk Neo-Arameiska, Assyriski, Assyríska, Aturayeg, Aširat Northeastern Neo-Aramaic, Lishana Aturaya, NENA, Neo-Aramaic (Assyrian), "Neo-Aramaic, Assyrian", Neo-Syriac, Neo-arameo oriental, Neoarameo asirio, Sooreth, Soureth, Suret, Sureth, Suryaya Swadaya, ܣܘܪܬ]
 population: 626000
 country_id: IQ
 country_name: Iraq

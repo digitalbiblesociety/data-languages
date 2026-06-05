@@ -2,7 +2,7 @@
 iso: lin
 name: Lingala
 autonym: Ngala
-alt_names: [Bahasa Lingala, Dingala, Idioma lingala, Język lingala, Lingala lingvo, Lingala simi, Lingalum, Lingua lingala, Lingála, Losengo, Língua lingala, Лингала, لىنگالاچە, ሊንጋላ, リンガラ語, 林加拉语, 링갈라어]
+alt_names: [Dingala, Lingala simi, Lingalum, Lingála, Losengo, Лингала, لىنگالاچە, ሊንጋላ]
 population: 2292520
 country_id: CD
 country_name: DR Congo

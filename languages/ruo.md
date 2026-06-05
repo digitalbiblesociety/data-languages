@@ -2,7 +2,7 @@
 iso: ruo
 name: Istro Romanian
 autonym: vlășește
-alt_names: [Idioma istrorrumano, Istriorrumanu, Istro, Istro-Roemeens, Istro-Romanian, Istro-Romanian language, Istro-Rumanian, Istro-romaniera, Istro-roumain, Istro-rumano, Istrorumunjski jezik, Istrorumunšćina, Istrorumänische Sprache, Istrorumänska, Istrorumäänsche Spraak, Isztroromán nyelv, Język istrorumuński, Limba istroromână, Lingua Istroromanica, Lingua istrio-romanesa, Lingua istro-romanian, Lingua istrorumena, Língua istro-romena, Other Roumanian Lects, Romanian, "Romanian, Istro", Истро-романски језик, Истроромански јазик, Истрорумынский язык, 伊斯特罗-罗马尼亚语]
+alt_names: [Istriorrumanu, Istro, Istro-Roemeens, Istro-Romanian, Istro-Romanian language, Istro-Rumanian, Istro-romaniera, Istro-roumain, Istro-rumano, Istrorumänska, Istrorumäänsche Spraak, Other Roumanian Lects, Romanian, "Romanian, Istro"]
 population: 560
 country_id: HR
 country_name: Croatia

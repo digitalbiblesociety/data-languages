@@ -2,7 +2,7 @@
 iso: gan
 name: Gan Chinese
 autonym: Gann
-alt_names: [Bahasa Gan, "Chinese, Gan", "Chinese,Gan", Chino gan, Chinu gang, Chinês gan, Gan, Gan Dialect Family, Gan kineski, Gan language, Gan-Hakka, Gan-kiina, Ganeg, Ganish, Gàn, Gàn, Język gan, Kan, Kàm-gí, Kàm-ngî, Lingua gan, Tiếng Cám, Гань, Ґань, كن, ภาษาจีนกั้น, カン語, 江西話, 贛語, 赣语, 간어]
+alt_names: ["Chinese, Gan", "Chinese,Gan", Chino gan, Chinu gang, Chinês gan, Gan, Gan Dialect Family, Gan kineski, Gan language, Gan-Hakka, Gan-kiina, Ganeg, Ganish, Gàn, Gàn, Kan, Kàm-gí, Kàm-ngî, Гань, Ґань, كن, 江西話]
 population: 22100000
 country_id: CN
 country_name: China

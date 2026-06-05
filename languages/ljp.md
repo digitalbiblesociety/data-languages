@@ -2,7 +2,7 @@
 iso: ljp
 name: Lampung Api
 autonym: cawa Lampung
-alt_names: [Api, Bahasa Lampung, Lampong, Lampung, Lampung language, Lampung pesisir, Lampungin kieli, Lenga Lampung]
+alt_names: [Api, Lampong, Lampung, Lampung language, Lampung pesisir]
 population: 827000
 country_id: ID
 country_name: Indonesia

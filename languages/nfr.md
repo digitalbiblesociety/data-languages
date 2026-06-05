@@ -2,7 +2,7 @@
 iso: nfr
 name: Nafaanra
 autonym: Banda
-alt_names: [Dzama, Gambo, Nafaara, Nafana, Nafanreg, Pantera-Fantera, 納凡拉語]
+alt_names: [Dzama, Gambo, Nafaara, Nafana, Nafanreg, Pantera-Fantera]
 population: 89000
 country_id: GH
 country_name: Ghana

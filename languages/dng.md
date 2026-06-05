@@ -2,7 +2,7 @@
 iso: dng
 name: Dungan
 autonym: " 回族語言"
-alt_names: [Doungane, Dounganeg, Dungaanin kieli, Dungana lingvo, Dunganische Sprache, Dunganish, Dungano, Dzhunyan, Huizu, Język dungański, Kwuizwu, Tungan, "Zwn'jan", Дунганский язык, Дунганська мова, דונגאן, تۇڭگان تىلى, ภาษาดันกัน, ドンガン語, 回回话, 東干語, 둥간어]
+alt_names: [Doungane, Dounganeg, Dunganish, Dungano, Dzhunyan, Huizu, Kwuizwu, Tungan, "Zwn'jan", דונגאן, تۇڭگان تىلى, 回回话]
 population: 108400
 country_id: KG
 country_name: Kyrgyzstan

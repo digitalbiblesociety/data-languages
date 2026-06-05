@@ -2,7 +2,7 @@
 iso: ynk
 name: Naukan Yupik
 autonym: Naukan
-alt_names: [Chaplino-Naukan, Chaplino-Naukanski (East Cape), East Cape, East Cape Yupik, Idioma naucano, Naukaninjupik, Naukanski, Naukanski Yupik, "Yup'ik (Naukan)", Yupik, Yupik (Naukan), Yupik du Cap Est, "Yupik, Naukan", Yupí naukán, Науканский язык, нывуӄаӷмит, ნაუკანური ენა, ナウカン語]
+alt_names: [Chaplino-Naukan, Chaplino-Naukanski (East Cape), East Cape, East Cape Yupik, Naukaninjupik, Naukanski, Naukanski Yupik, "Yup'ik (Naukan)", Yupik, Yupik (Naukan), Yupik du Cap Est, "Yupik, Naukan", Yupí naukán, нывуӄаӷмит]
 population: 350
 country_id: RU
 country_name: Russia

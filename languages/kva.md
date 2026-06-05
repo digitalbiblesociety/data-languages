@@ -2,7 +2,7 @@
 iso: kva
 name: Bagvalal
 autonym: Bagulal
-alt_names: [Bagval, Bagvalaleg, Bagvalin, Bagvalin kieli, Bagwalal, Barbalin, Język bagulalski, Kvanada, Kvanadin, Багвалинська мова, багвалинский язык, багулальский язык, кванадинский язык, ბაგვალალური ენა]
+alt_names: [Bagval, Bagvalaleg, Bagvalin, Bagwalal, Barbalin, Kvanada, Kvanadin]
 population: 6500
 country_id: RU
 country_name: Russia

@@ -2,7 +2,7 @@
 iso: jct
 name: Krymchak
 autonym: кърымчах тыльы
-alt_names: ["'Kypchak dialects of Uzbek'", Judeo-Crimean Tatar, Judeo-Crimean Turkish, Język krymczacki, Kipchak, Krimchak, Krimtchakeg, Krimĉaka lingvo, Krymtšakin kieli, Kypchak, Kırımçakça, Lingua krymchak, Qırımçaq dili, Qırımçaq tili, Кримчакски јазик, кримчацька мова, крымчакский язык, кырымчак тележ Judeo-Crimean Turkish, ภาษาเครียมชาก]
+alt_names: ["'Kypchak dialects of Uzbek'", Judeo-Crimean Tatar, Judeo-Crimean Turkish, Kipchak, Krimchak, Krimtchakeg, Kypchak, Kırımçakça, Qırımçaq tili, кырымчак тележ Judeo-Crimean Turkish]
 population: 785
 country_id: UA
 country_name: Ukraine

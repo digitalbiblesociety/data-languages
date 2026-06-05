@@ -2,7 +2,7 @@
 iso: acl
 name: "Akar-Bale"
 autonym: "Akar-Bale"
-alt_names: [Bahasa Akar-Bale, Bale, Balwa, Great Andamanese, Język akar-bale, Lèngua Akar-Bale]
+alt_names: [Bale, Balwa, Great Andamanese, Lèngua Akar-Bale]
 population: null
 country_id: IN
 country_name: India

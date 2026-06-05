@@ -2,7 +2,7 @@
 iso: xcr
 name: Carian
 autonym: null
-alt_names: [Carien, Język karyjski, Karijščina, Karische Sprache, Karisk, Kariska, Lingua Carica, Lingua caria, Карийский язык, Кариски јазик, Карійська мова, زبان کاریایی, ภาษาคาเรีย, 카리아어]
+alt_names: [Carien, Karisk, Kariska]
 population: null
 country_id: TR
 country_name: Turkey

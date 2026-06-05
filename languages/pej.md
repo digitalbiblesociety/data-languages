@@ -2,7 +2,7 @@
 iso: pej
 name: Northern Pomo
 autonym: null
-alt_names: [Lenga pomo setentrional, N Pomo, N. Pomo, North Pomo, Pomo (Northern), Pomo du Nord, Pomo septentrional, "Pomo, Northern", Pomoan, Redwood Cañon]
+alt_names: [N Pomo, N. Pomo, North Pomo, Pomo (Northern), Pomo du Nord, Pomo septentrional, "Pomo, Northern", Pomoan, Redwood Cañon]
 population: 1
 country_id: US
 country_name: United States

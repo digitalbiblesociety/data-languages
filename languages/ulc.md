@@ -2,7 +2,7 @@
 iso: ulc
 name: Ulch
 autonym: "Нāн'и хэсэни"
-alt_names: [Hoche, Hol-Chih, Olch, Olcha, Olchis, Olča, Oultche, Oultcheg, "Ul'cha", Ulcha, Ulchi, Ultsjisk, Ultšan kieli, Ulych, Нани, Улченски език, Улчски јазик, Ульцька мова, ульчский язык, ภาษาอุลช์, 울치어]
+alt_names: [Hoche, Hol-Chih, Olch, Olcha, Olchis, Olča, Oultche, Oultcheg, "Ul'cha", Ulcha, Ulchi, Ultsjisk, Ulych, Нани]
 population: 730
 country_id: RU
 country_name: Russia

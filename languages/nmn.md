@@ -2,7 +2,7 @@
 iso: nmn
 name: ǃXóõ
 autonym: ǃXóõ
-alt_names: ["!Ko", "!Xuun", "!Xóõ", /Namani, /Nu//een, =/Hua, Casi, N/amani, "Ng|amani", Qgoon, Taa, Tsasi, Tshasi, Tâa, ǂHõã language, ǂhua jezik]
+alt_names: ["!Ko", "!Xuun", "!Xóõ", /Namani, /Nu//een, =/Hua, Casi, N/amani, "Ng|amani", Qgoon, Taa, Tsasi, Tshasi, Tâa, ǂHõã language]
 population: 4000
 country_id: BW
 country_name: Botswana

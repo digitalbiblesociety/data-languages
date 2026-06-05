@@ -2,7 +2,7 @@
 iso: swx
 name: Suruahá
 autonym: Suruahá
-alt_names: [Indios do Coxodoá, Mndios do Coxodoá, Sorowahá, Suruaha, Suruuarrás, Suruwahá, Zuruahá, Zuruahá language, Zuruahã, Зуруахаски јазик]
+alt_names: [Indios do Coxodoá, Mndios do Coxodoá, Sorowahá, Suruaha, Suruuarrás, Suruwahá, Zuruahá, Zuruahá language, Zuruahã]
 population: 130
 country_id: BR
 country_name: Brazil

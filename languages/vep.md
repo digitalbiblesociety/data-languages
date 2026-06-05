@@ -2,7 +2,7 @@
 iso: vep
 name: Veps
 autonym: vepsän kelʹ
-alt_names: [Chudy, Chuhari, Chukhari, Idioma vepsio, Język wepski, Lingua vepsa, Vepsa keel, Vepsa lingvo, Vepseg, Vepsian, Vepsio, Vepsisch, Vepsisk, Vepsisk språk, Vepsiska, Vepsze nyelv, Vepsä, Vepsä kiil, Vepsägiella, Vepsän kieli, Vepsų kalba, Vepština, Wepsies, Wepsisch, Wepsische Sprache, chudj, lüd, lüüd, "l΄üd'ikel΄", vepse, vepsskij jazyk, vepsy, vepsän kel’, vesj, Вепс кыв, Вепс мотт, Вепс чĕлхи, Вепски език, Вепссэнь кель, Вепська мова, вепсский язык, ヴェプス語, 벱스어]
+alt_names: [Chudy, Chuhari, Chukhari, Vepseg, Vepsian, Vepsio, Vepsisch, Vepsisk, Vepsiska, Vepsä, Vepsä kiil, Vepsägiella, Wepsies, Wepsisch, chudj, lüd, lüüd, "l΄üd'ikel΄", vepse, vepsy, vepsän kel’, vesj, Вепс мотт, Вепссэнь кель]
 population: 5750
 country_id: RU
 country_name: Russia

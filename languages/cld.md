@@ -2,7 +2,7 @@
 iso: cld
 name: "Chaldean Neo-Aramaic"
 autonym: Sūreṯ
-alt_names: [Aramaic, Aramaic (Amadia), Aramaic (Amadiya), Chaldean, Chaldean (Modern), Fallani, Fellihi, Kaldaya, Kaldeisk nyarameiska, Kaldejski neoaramejski, Kildani, Lishana Kaldaya, Modern Chaldean, Neo-Aramaic (Amadiya), "Neo-Aramaic, Chaldean", Neo-Chaldean, Soorath, Soorith, Suras, Sureth, Syriac, Калдеанско неоарамејски јазик, ภาษาอราเมอิกใหม่คัลเดีย]
+alt_names: [Aramaic, Aramaic (Amadia), Aramaic (Amadiya), Chaldean, Chaldean (Modern), Fallani, Fellihi, Kaldaya, Kaldeisk nyarameiska, Kaldejski neoaramejski, Kildani, Lishana Kaldaya, Modern Chaldean, Neo-Aramaic (Amadiya), "Neo-Aramaic, Chaldean", Neo-Chaldean, Soorath, Soorith, Suras, Sureth, Syriac]
 population: 232910
 country_id: IQ
 country_name: Iraq

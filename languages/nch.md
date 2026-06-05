@@ -2,7 +2,7 @@
 iso: nch
 name: Central Huasteca Nahuatl
 autonym: "Náhuatl, Huasteca Central"
-alt_names: [Central Nawa, Lingua nahuatl huaxteca centrale, Mexicano, Nahua central, Nahuatl, "Nahuatl, Central Huasteca", Náhuatl central]
+alt_names: [Central Nawa, Mexicano, Nahua central, Nahuatl, "Nahuatl, Central Huasteca", Náhuatl central]
 population: 196000
 country_id: MX
 country_name: Mexico

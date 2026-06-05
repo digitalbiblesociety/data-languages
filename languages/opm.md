@@ -2,7 +2,7 @@
 iso: opm
 name: Oksapmin
 autonym: Oksap
-alt_names: [Nalu, 오크사프민어]
+alt_names: [Nalu]
 population: 8000
 country_id: PG
 country_name: Papua New Guinea

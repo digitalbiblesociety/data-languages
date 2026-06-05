@@ -2,7 +2,7 @@
 iso: kpv
 name: "Komi-Zyrian"
 autonym: Коми кыв
-alt_names: [Komi, Komi Zyryan, Komi-Syrjänisch, Komi-Zyryan, Syrjänisch, Syränisch, Yazva, Ziryene, Ziryene proper, Zyrian, Zyryan, komi-syrjänischer Dialekt, komi-zyrjanskij jazyk, zyriène]
+alt_names: [Komi, Komi Zyryan, Komi-Syrjänisch, Komi-Zyryan, Syrjänisch, Syränisch, Yazva, Ziryene, Ziryene proper, Zyrian, Zyryan, komi-syrjänischer Dialekt, zyriène]
 population: 228000
 country_id: RU
 country_name: Russia

@@ -2,7 +2,7 @@
 iso: cag
 name: Nivaclé
 autonym: Niwaklé
-alt_names: [Ajlujlay, Ashlushlay, Ashluslay, Axluslay, Axluxlay, Chulup, Chulupe, Chulupi, Chulupie, Chulupí, Chunupi, Churupi, Churupí, Nivacle, Nivaklé, Nivaklų kalba, Niwaqli simi]
+alt_names: [Ajlujlay, Ashlushlay, Ashluslay, Axluslay, Axluxlay, Chulup, Chulupe, Chulupi, Chulupie, Chulupí, Chunupi, Churupi, Churupí, Nivacle, Nivaklé, Niwaqli simi]
 population: 12200
 country_id: PY
 country_name: Paraguay

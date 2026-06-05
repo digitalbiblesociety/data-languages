@@ -2,7 +2,7 @@
 iso: mns
 name: Mansi
 autonym: ма̄ньси ла̄тыӈ
-alt_names: [Idioma mansi, Język mansyjski, Lingua vogula, Mansa lingvo, Mansi du Nord, Mansi du Sud, Mansi occidental, Mansi oriental, Mansice, Mansieg, Mansin kieli, Mansis, Mansische Sprache, Mansisk språk, Mansiska, Mansiy, Mansių kalba, Mantschi, Manysi nyelv, Mańsi, "Northern Man'si", Northern Mansi, Northern Vogul, "Sos'va", Vogul, Vogulian, Vogulich, Vogulisch, Voguly, Wogluwitzi, Wogoels, Wogulisch, jugra, manshi, mansijskij jazyk, man΄si latyng, mãnśi, vogoule, Вӧгул кыв, Манси кыл, Мансийски език, Мансийский язык, Мансинь кель, Мансиски јазик, вогульский, маньси, моаньсь, северно-мансийский язык, マンシ語]
+alt_names: [Mansi du Nord, Mansi du Sud, Mansi occidental, Mansi oriental, Mansice, Mansieg, Mansis, Mansiska, Mansiy, Mantschi, Mańsi, "Northern Man'si", Northern Mansi, Northern Vogul, "Sos'va", Vogul, Vogulian, Vogulich, Vogulisch, Voguly, Wogluwitzi, Wogoels, Wogulisch, jugra, manshi, man΄si latyng, mãnśi, vogoule, Манси кыл, Мансинь кель, вогульский, маньси, моаньсь]
 population: 12300
 country_id: RU
 country_name: Russia

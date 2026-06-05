@@ -2,7 +2,7 @@
 iso: gsm
 name: Guatemalan Sign Language
 autonym: Lenguaje de señas guatemalteco
-alt_names: [Lensegua, Língua Gestual da Guatemala]
+alt_names: [Lensegua]
 population: 50000
 country_id: GT
 country_name: Guatemala

@@ -2,7 +2,7 @@
 iso: ton
 name: Tonga
 autonym: "lea faka-Tonga"
-alt_names: [ChiTonga, Język tonga, Língua tonga, Tonga, Tonga (Zambia), Tonga language, Tongan, Tongčina, Tongština, tongan (Îles Tonga)]
+alt_names: [ChiTonga, Tonga, Tonga (Zambia), Tonga language, Tongan, tongan (Îles Tonga)]
 population: 189740
 country_id: TO
 country_name: Tonga

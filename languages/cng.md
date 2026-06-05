@@ -2,7 +2,7 @@
 iso: cng
 name: Northern Qiang
 autonym: Rrmearr
-alt_names: ["Ch'iang", Northern, Qiang, "Qiang, Northern", "Qiang,Northern", Southern, Tchiangeg an norzh, ภาษาเกวียงเหนือ, 羌語北部方言, 羌语]
+alt_names: ["Ch'iang", Northern, Qiang, "Qiang, Northern", "Qiang,Northern", Southern, Tchiangeg an norzh]
 population: 11000
 country_id: CN
 country_name: China

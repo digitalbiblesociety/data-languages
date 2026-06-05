@@ -2,7 +2,6 @@
 iso: tbu
 name: Tubar
 autonym: Tubare
-alt_names: [Idioma tubar]
 population: null
 country_id: MX
 country_name: Mexico

@@ -2,7 +2,7 @@
 iso: prg
 name: Prussian
 autonym: Prūsiskai
-alt_names: [Altpreussisch, Altpreußische Sprache, Bahasa Prusia Kuno, Gammalprøyssisk språk, Gammelprøyssisk, Idioma prusiano antiguo, Idioma prusián antigo, Język pruski, Lenga prussian-a, Limba prusacă veche, Lingua Borussica, Lingua prusiana antiga, Lingua prussiana, Muinaispreussin kieli, Old Prussian, Oudpruisisch, Preussigiella, Prusisch, Prusiska, Prusko godka, Prussiano antigo, Prussià, Pruština, Prušćina, Prūsu kalba, Prūsų kalba, Prūšu valoda, Stará pruština, Vieux-prussien, preussisch litauische, Пруски език, Пруски јазик, Прусский язык, Пруська мова, لغة بروسية قديمة, プロシア語, 고대 프로이센어]
+alt_names: [Altpreussisch, Gammelprøyssisk, Old Prussian, Oudpruisisch, Preussigiella, Prusisch, Prusiska, Prusko godka, Prussiano antigo, Prussià, Vieux-prussien, preussisch litauische]
 population: 50
 country_id: PL
 country_name: Poland

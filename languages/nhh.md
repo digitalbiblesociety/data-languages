@@ -2,7 +2,6 @@
 iso: nhh
 name: Nahari
 autonym: Nahali
-alt_names: [ภาษานาฮารี]
 population: 20400
 country_id: IN
 country_name: India

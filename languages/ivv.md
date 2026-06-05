@@ -2,7 +2,7 @@
 iso: ivv
 name: Ivatan
 autonym: Ibatan
-alt_names: [Ivatanen, Philippines, Southern, Wikang Ibatan, ภาษาอีวาตัน]
+alt_names: [Ivatanen, Philippines, Southern]
 population: 35000
 country_id: PH
 country_name: Philippines

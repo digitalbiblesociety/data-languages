@@ -2,7 +2,7 @@
 iso: bhn
 name: "Bohtan Neo-Aramaic"
 autonym: ܣܘܪܬ Sôreth
-alt_names: [Georgian Subgroup, Hertevince, Hértevin, "Neo-Aramaic, Bohtan", Neo-arameo de Bohtan, Néo-araméen du Bhotan, Sôreth, севернобохтанский язык]
+alt_names: [Georgian Subgroup, Hertevince, Hértevin, "Neo-Aramaic, Bohtan", Neo-arameo de Bohtan, Néo-araméen du Bhotan, Sôreth]
 population: 1000
 country_id: GE
 country_name: Georgia

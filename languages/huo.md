@@ -2,7 +2,7 @@
 iso: huo
 name: Hu
 autonym: Kon Keu
-alt_names: [Angku, Āng-kú, 戶語]
+alt_names: [Angku, Āng-kú]
 population: 1000
 country_id: CN
 country_name: China

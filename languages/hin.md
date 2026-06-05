@@ -2,7 +2,7 @@
 iso: hin
 name: Hindi
 autonym: "हिंदी "
-alt_names: [An Hiondúis, Bahasa Hindi, Fiteny hindi, High Hindi, Hind dili, Hindeg, Hindi keel, Hindi linguo, Hindi nyelv, Hindi simi, Hindi-gí, Hindia lingvo, Hindigiella, Hindijščina, Hindišćina, Hindjan, Hindski jezik, Hindustani, Hindí, Hindčina, Hindština, Hinndi, Hintçe, Indi, Język hindi, Khadi Boli, Khari Boli, Kihindi, Lengua hindi, Limba hindi, Lingua Hindi, Lingua indiana, Literary Hindi, Língua hindi, Nagari Hindi, Pinulongang Indi, Standard Hindi, Tiếng Hindi, Wikang Hindī, Zimanê hindî, Χίντι γλώσσα, Гіндзі, Гінді, Забони ҳиндӣ, Хинди, Хіндзі, הינדי, زبان هندی, لغة هندية, ھىندى تىلى, ہندی, ހިންދީ, हिंदी भाषा, हिन्दी, हिन्दी भाषा, हिन्दीकानी छीब, হিন্দি ভাষা, হিন্দী ঠার, ਹਿੰਦੀ ਭਾਸ਼ਾ, હિંદી ભાષા, இந்தி, హిందీ భాష, ಹಿಂದಿ, ഹിന്ദി, ภาษาฮินดี, རྒྱ་གར་སྐད།, ჰინდი ენა, ᐦᐃᓐᑏ/hintii, ヒンディー語, 印地語, 印地语, 힌디어]
+alt_names: [An Hiondúis, Fiteny hindi, High Hindi, Hindeg, Hindi linguo, Hindi simi, Hindi-gí, Hindigiella, Hindjan, Hindustani, Hindí, Hinndi, Hintçe, Indi, Khadi Boli, Khari Boli, Kihindi, Literary Hindi, Nagari Hindi, Standard Hindi, Гіндзі, Гінді, Забони ҳиндӣ, Хинди, Хіндзі, הינדי, ھىندى تىلى, ہندی, ހިންދީ, हिन्दी, हिन्दीकानी छीब, হিন্দী ঠার, இந்தி, ಹಿಂದಿ, ഹിന്ദി, རྒྱ་གར་སྐད།, ᐦᐃᓐᑏ/hintii]
 population: 341000000
 country_id: IN
 country_name: India

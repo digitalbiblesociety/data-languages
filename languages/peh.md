@@ -2,7 +2,7 @@
 iso: peh
 name: Bonan
 autonym: "Bao'an"
-alt_names: ["Bao'an Tu", Bao-an, Baoan, Baonan, Baongan, Boan, Buddhist Bonan, Dordo, Gansu Bonan, Islamic Bonan, Moslem Bonan, Pao-an, Paoan, Paongan, Qinghai Bonan, "mistakenly also: Tu, Monguour", Баоаньский язык, Бонански јазик, 保安语, 甘肅保安語, 積石山保安語, 青海保安語]
+alt_names: ["Bao'an Tu", Bao-an, Baoan, Baonan, Baongan, Boan, Buddhist Bonan, Dordo, Gansu Bonan, Islamic Bonan, Moslem Bonan, Pao-an, Paoan, Paongan, Qinghai Bonan, "mistakenly also: Tu, Monguour"]
 population: 16500
 country_id: CN
 country_name: China

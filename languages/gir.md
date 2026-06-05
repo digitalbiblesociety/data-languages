@@ -2,7 +2,7 @@
 iso: gir
 name: Red Gelao
 autonym: Kláo
-alt_names: [A-ou, A-uo, Cờ Lao, Gelao rojo (Vietnam), Gelao rouge (Chine), Gelao rouge (Viet Nam), "Gelao, Red", Vandu Gelao, Voa Dê, 仡佬語阿歐方言, 紅仡佬]
+alt_names: [A-ou, A-uo, Cờ Lao, Gelao rojo (Vietnam), Gelao rouge (Chine), Gelao rouge (Viet Nam), "Gelao, Red", Vandu Gelao, Voa Dê, 紅仡佬]
 population: 50
 country_id: VN
 country_name: Vietnam

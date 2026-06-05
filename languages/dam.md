@@ -2,7 +2,7 @@
 iso: dam
 name: Damakawa
 autonym: null
-alt_names: [Damakawa jezik, "Tidama'un"]
+alt_names: ["Tidama'un"]
 population: null
 country_id: NG
 country_name: Nigeria

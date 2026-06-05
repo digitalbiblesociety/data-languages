@@ -2,7 +2,7 @@
 iso: xsb
 name: Sambal
 autonym: Sambali
-alt_names: ["Sambal, Tinà", Tina, Tina Sambal, Tina language, Tinà Sambal, ภาษาตีนา]
+alt_names: ["Sambal, Tinà", Tina, Tina Sambal, Tina language, Tinà Sambal]
 population: 70000
 country_id: PH
 country_name: Philippines

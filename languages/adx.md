@@ -2,7 +2,7 @@
 iso: adx
 name: Amdo Tibetan
 autonym: ཨ་མདོ་སྐད་
-alt_names: [Amdo, Amdoeg, Anduo, Język amdo, Ngambo, Tibetan (Amdo), "Tibetan, Amdo", "Tibetan,Amdo", hBrogpa, 安多方言]
+alt_names: [Amdo, Amdoeg, Anduo, Ngambo, Tibetan (Amdo), "Tibetan, Amdo", "Tibetan,Amdo", hBrogpa, 安多方言]
 population: 1800000
 country_id: CN
 country_name: China

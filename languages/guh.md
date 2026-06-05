@@ -2,7 +2,7 @@
 iso: guh
 name: Guahibo
 autonym: Jiwi
-alt_names: [Goahibo, Goahiva, Guaigua, Guajibo, Guayba, Guaybo, Gvahiba lingvo, Hiwi, Sicuane, Sicuani, Sicuari, Sikuani, Wahibo, Wahibo simi, Wahivo]
+alt_names: [Goahibo, Goahiva, Guaigua, Guajibo, Guayba, Guaybo, Hiwi, Sicuane, Sicuani, Sicuari, Sikuani, Wahibo, Wahibo simi, Wahivo]
 population: 35000
 country_id: CO
 country_name: Colombia

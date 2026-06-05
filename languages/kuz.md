@@ -2,7 +2,7 @@
 iso: kuz
 name: Kunza
 autonym: Atacameño
-alt_names: [Acatameño, Atacama, Atacamenan, Atakama, Cunza, Idioma kunza, Kunsa, Likanantaí, Lipe, Ulipe, Кунса]
+alt_names: [Acatameño, Atacama, Atacamenan, Atakama, Cunza, Kunsa, Likanantaí, Lipe, Ulipe, Кунса]
 population: null
 country_id: CL
 country_name: Chile

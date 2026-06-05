@@ -2,7 +2,7 @@
 iso: sth
 name: Shelta
 autonym: The Seldru
-alt_names: [Cant, Gammon, Irish Traveler Cant, Język shelta, Língua shelta, Seulra, Sheldru, The Cant, שלטה, 雪爾塔語]
+alt_names: [Cant, Gammon, Irish Traveler Cant, Seulra, Sheldru, The Cant, שלטה]
 population: 6000
 country_id: IE
 country_name: Ireland

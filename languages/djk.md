@@ -2,7 +2,7 @@
 iso: djk
 name: Eastern Maroon Creole
 autonym: Aukan
-alt_names: ["\"Djoeka\"", "\"Djuka\"", Aukaans, Businenge Tongo, Djoe-Tongo, Djuka, Dyuka, Ndjuka, Ndjuká, Ndyuka, Nenge, Njuká, Okanisi, Ндюка, 은쥬카어]
+alt_names: ["\"Djoeka\"", "\"Djuka\"", Aukaans, Businenge Tongo, Djoe-Tongo, Djuka, Dyuka, Ndjuka, Ndjuká, Ndyuka, Nenge, Njuká, Okanisi, Ндюка]
 population: 67300
 country_id: SR
 country_name: Suriname

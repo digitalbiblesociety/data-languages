@@ -2,7 +2,7 @@
 iso: huq
 name: Tsat
 autonym: Hainan Cham
-alt_names: [Hui, Huihui, Utsat, Utset, Цатский язык, ภาษาทซัต, 占語, 回輝話]
+alt_names: [Hui, Huihui, Utsat, Utset, 回輝話]
 population: 3800
 country_id: CN
 country_name: China

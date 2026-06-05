@@ -2,7 +2,7 @@
 iso: ssp
 name: Spanish Sign Language
 autonym: Lengua de Signos Española
-alt_names: [Langue des signes espagnole, Lengua de Señas Española, Mímica]
+alt_names: [Mímica]
 population: 100000
 country_id: ES
 country_name: Spain

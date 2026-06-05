@@ -2,7 +2,7 @@
 iso: kvx
 name: Parkari Koli
 autonym: Parkari
-alt_names: ["Koli, Parkari", Lenga koli parkari, باركري كولي]
+alt_names: ["Koli, Parkari", باركري كولي]
 population: 358000
 country_id: PK
 country_name: Pakistan

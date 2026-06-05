@@ -2,7 +2,7 @@
 iso: snk
 name: Soninke
 autonym: Sooninkanxanne
-alt_names: [Aswanik, Bahasa Soninke, Diawara, Gadyaga, Idioma soninké, Język soninke, Língua soninquê, Maraka, Marka, Sarahole, Sarahuli, Sarakole, Sarakule, Sarawule, Serahuli, Silabe, Soninka lingvo, Soninkeg, Soninké, Toubakai, Wakore, Walpre, Сонинке, لغة سوننكية]
+alt_names: [Aswanik, Diawara, Gadyaga, Maraka, Marka, Sarahole, Sarahuli, Sarakole, Sarakule, Sarawule, Serahuli, Silabe, Soninkeg, Soninké, Toubakai, Wakore, Walpre, Сонинке]
 population: 2189250
 country_id: ML
 country_name: Mali

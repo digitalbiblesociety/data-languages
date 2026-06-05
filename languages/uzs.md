@@ -2,7 +2,7 @@
 iso: uzs
 name: Southern Uzbek
 autonym: اوزبیکچه
-alt_names: [Usbeki, Uzbak, Uzbek, "Uzbek, Southern", Uzbeki, Özbekisch, 南乌兹别克语]
+alt_names: [Usbeki, Uzbak, Uzbek, "Uzbek, Southern", Uzbeki, Özbekisch]
 population: 4756100
 country_id: AF
 country_name: Afghanistan

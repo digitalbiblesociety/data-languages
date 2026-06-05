@@ -2,7 +2,7 @@
 iso: auj
 name: Awjilah
 autonym: Aoudjila
-alt_names: [Augila, Aujila, Auyila, Awdjila, Awdjilaeg, Awgila, Awjila, Awjilah jezik, Awjilah-Foqaha, Idioma auchila, Ауджила, لغة أوجلية]
+alt_names: [Augila, Aujila, Auyila, Awdjila, Awdjilaeg, Awgila, Awjila, Awjilah-Foqaha, Ауджила]
 population: 3000
 country_id: LY
 country_name: Libya

@@ -2,7 +2,7 @@
 iso: skb
 name: Saek
 autonym: Sek
-alt_names: [Saekeg, Set, Tai Sek, ภาษาแสก, 石語]
+alt_names: [Saekeg, Set, Tai Sek]
 population: 14000
 country_id: LA
 country_name: Laos

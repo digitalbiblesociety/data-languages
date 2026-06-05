@@ -2,7 +2,7 @@
 iso: dal
 name: Dahalo
 autonym: numma guhooni
-alt_names: [Dahaloeg, Guo Garimani, Język dahalo, Sanye]
+alt_names: [Dahaloeg, Guo Garimani, Sanye]
 population: 400
 country_id: KE
 country_name: Kenya

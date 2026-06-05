@@ -2,7 +2,7 @@
 iso: xsi
 name: Sio
 autonym: null
-alt_names: [Sigawa, Sio jezik]
+alt_names: [Sigawa]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea

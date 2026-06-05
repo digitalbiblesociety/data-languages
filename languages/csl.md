@@ -2,7 +2,6 @@
 iso: csl
 name: Chinese Sign Language
 autonym: 中国手语
-alt_names: [Língua de Sinais Chinesa]
 population: 20040000
 country_id: CN
 country_name: China

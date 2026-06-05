@@ -2,7 +2,7 @@
 iso: chx
 name: Chantyal
 autonym: Chantel
-alt_names: [Chantyalish, Chentel, Chhantel, ภาษาชันเตียล]
+alt_names: [Chantyalish, Chentel, Chhantel]
 population: 2000
 country_id: NP
 country_name: Nepal

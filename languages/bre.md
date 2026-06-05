@@ -2,7 +2,7 @@
 iso: bre
 name: Breton
 autonym: brezhoneg
-alt_names: [An Bhriotáinis, Bahasa Breton, Breatannais, Bretainiera, Bretoens, Breton dili, Breton leid, Breton nyelv, Bretona lingvo, Bretonagiella, Bretonca, Bretonek, Bretoni, Bretonisch, Bretonische Sprache, Bretonisk, Bretons, Bretonsk, Bretonsk språk, Bretonska, Bretonski jezik, Bretonština, Bretonšćina, Bretonščina, Bretonų kalba, Bretoņu valoda, Brettonish, Bretun, Bretó, Bretón, Bretónska, Bretónčina, Britaanish, Britun simi, Burton, Gjuha bretoneze, Idioma bretón, Język bretoński, Lenga breton-a, Lenghe bretone, Lengua bretone, Limba bretonă, Lingua Armoricana, Lingua bretoa, Lingua bretona, Lingua bretone, Lingua brètuni, Llydaweg, Luenga bretona, Língua bretã, Łéngoa brètona, Бретонски език, Бретонски јазик, Бретонски језик, Бретонский язык, Бретонська мова, Бретонь чĕлхи, ברטונית, برېتون تىلى, ภาษาเบรอตง, ბრეტონული ენა, ブルトン語, 布列塔尼语, 브르타뉴어]
+alt_names: [An Bhriotáinis, Breatannais, Bretainiera, Bretoens, Breton leid, Bretonagiella, Bretonca, Bretonek, Bretoni, Bretonisch, Bretonisk, Bretons, Bretonsk, Bretonska, Brettonish, Bretun, Bretó, Bretón, Bretónska, Britaanish, Britun simi, Burton, Lenghe bretone, Llydaweg, Luenga bretona, Łéngoa brètona, ברטונית, برېتون تىلى]
 population: 206000
 country_id: FR
 country_name: France

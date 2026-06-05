@@ -2,7 +2,7 @@
 iso: nod
 name: Northern Thai
 autonym: " Kam Mueangคำเมือง"
-alt_names: ["\"Youanne\"", "\"Youon\"", "\"Yuan\"", Idioma tailandés septentrional, Język kam muang, "Kam Mu'ang", Kammyang, Kammüang, Khon Mung, Khon Myang, La Nya, Lan Na, Lanatai, Lanna, "Mu'ang", Muang, Myang, Noordelijk Thai, Payap, Phayap, Phyap, Tai Nya, Thai Yuan, "Thai, Northern", Western Laotian, Yon, Yuan, Yuon, คำเมือง, ຄຳເມືອງ, 北タイ語]
+alt_names: ["\"Youanne\"", "\"Youon\"", "\"Yuan\"", "Kam Mu'ang", Kammyang, Kammüang, Khon Mung, Khon Myang, La Nya, Lan Na, Lanatai, Lanna, "Mu'ang", Muang, Myang, Noordelijk Thai, Payap, Phayap, Phyap, Tai Nya, Thai Yuan, "Thai, Northern", Western Laotian, Yon, Yuan, Yuon, คำเมือง, ຄຳເມືອງ]
 population: 6000000
 country_id: TH
 country_name: Thailand

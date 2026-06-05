@@ -2,7 +2,7 @@
 iso: agr
 name: Aguaruna
 autonym: Awajún
-alt_names: [Aents, Aguajun, Agvarunų kalba, Ahuajun, Awahun, Awahun simi, Awajun, Awaruna, Idioma aguaruna, Lingua aguaruna]
+alt_names: [Aents, Aguajun, Ahuajun, Awahun, Awahun simi, Awajun, Awaruna]
 population: 53400
 country_id: PE
 country_name: Peru

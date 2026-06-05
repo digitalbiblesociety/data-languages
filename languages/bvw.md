@@ -2,7 +2,7 @@
 iso: bvw
 name: Boga
 autonym: Boka
-alt_names: [Boga jezik, Bogaeg]
+alt_names: [Bogaeg]
 population: 10000
 country_id: NG
 country_name: Nigeria

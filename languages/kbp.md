@@ -2,7 +2,7 @@
 iso: kbp
 name: Kabiyè
 autonym: Kabɩyɛ
-alt_names: [Cabrai, Cabrais, Kab, Kabire, Kabiye, Kabiyeg, Kabiyé, Kabiyé language, Kabiyɛ, Kabre, Kabrè, Kabure, Kabye, Kaure, Língua kabiyé]
+alt_names: [Cabrai, Cabrais, Kab, Kabire, Kabiye, Kabiyeg, Kabiyé, Kabiyé language, Kabiyɛ, Kabre, Kabrè, Kabure, Kabye, Kaure]
 population: 990600
 country_id: TG
 country_name: Togo

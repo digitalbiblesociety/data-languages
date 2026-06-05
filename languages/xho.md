@@ -2,7 +2,7 @@
 iso: xho
 name: Xhosa
 autonym: isiXhosa
-alt_names: ["\"Caffre\"", "\"Cafre\"", "\"Cauzuh\"", "\"Kaffer\"", "\"Kaffir\"", Bahasa Xhosa, Fiteny Xhosa, Gjuha xhosa, Idioma xhosa, Język xhosa, Koosa, Kosa lingvo, Kosum, Kosų kalba, Lingua xhosa, Língua xhosa, Xhosa simi, Xhosaeg, Xhosan kieli, Xosa, Xosa-linguo, Коса, Коса чĕлхи, Ксоза, Кхоса, زبان خوسا, コサ語, 科萨语, 코사어]
+alt_names: ["\"Caffre\"", "\"Cafre\"", "\"Cauzuh\"", "\"Kaffer\"", "\"Kaffir\"", Fiteny Xhosa, Koosa, Kosum, Xhosa simi, Xhosaeg, Xosa, Xosa-linguo, Коса, Ксоза, Кхоса]
 population: 8183300
 country_id: ZA
 country_name: South Africa

@@ -2,7 +2,7 @@
 iso: tuv
 name: Turkana
 autonym: "Ng'aturk(w)ana"
-alt_names: [Buma, Bume, Tourkaneg, Turkwana, Туркански јазик]
+alt_names: [Buma, Bume, Tourkaneg, Turkwana]
 population: 1020000
 country_id: KE
 country_name: Kenya

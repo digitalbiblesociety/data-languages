@@ -2,7 +2,7 @@
 iso: ttc
 name: Tektiteko
 autonym: Bʼaʼaj
-alt_names: ["\"Teko\"", Idioma tectiteco, Língua tectiteca, Maya-Tekiteko, Teco, Tectitec, Tectiteco, Tectiteeks, Tectitán Mam, Teko, Tektitek language, Tektitekisk, Tektitèque, Тектитечки јазик]
+alt_names: ["\"Teko\"", Maya-Tekiteko, Teco, Tectitec, Tectiteco, Tectiteeks, Tectitán Mam, Teko, Tektitek language, Tektitekisk, Tektitèque]
 population: 4900
 country_id: GT
 country_name: Guatemala

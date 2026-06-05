@@ -2,7 +2,7 @@
 iso: fit
 name: Tornedalen Finnish
 autonym: meänkieli
-alt_names: ["Finnish, Tornedalen", Língua meänkieli, Meankieleg, Meä keel, Meä kiil, Meän Suomi, Meängbe, Meänkieli nyelv, North Finnish, Torne Valley Finnish, Tornedalen, Tornedalsfinsk, Tornedalsfinska, Tornionlaakson Suomi, Tornival-finna lingvo, Меанкиели, Меенкьели, Меянкиели, Мејанкиели јазик]
+alt_names: ["Finnish, Tornedalen", Meankieleg, Meä kiil, Meän Suomi, Meängbe, North Finnish, Torne Valley Finnish, Tornedalen, Tornedalsfinsk, Tornedalsfinska, Tornionlaakson Suomi, Меанкиели, Меенкьели, Меянкиели]
 population: 60000
 country_id: SE
 country_name: Sweden

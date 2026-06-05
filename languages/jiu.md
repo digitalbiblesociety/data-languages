@@ -2,7 +2,7 @@
 iso: jiu
 name: Youle Jinuo
 autonym: " 基諾語補遠方言"
-alt_names: [Jino, Jinuo, "Jinuo, Youle", "Jinuo,Youle", Youle, 攸樂基諾語]
+alt_names: [Jino, Jinuo, "Jinuo, Youle", "Jinuo,Youle", Youle]
 population: 10000
 country_id: CN
 country_name: China

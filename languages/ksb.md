@@ -2,7 +2,7 @@
 iso: ksb
 name: Shambala
 autonym: kishambaa
-alt_names: [Język sambala, Kisambaa, Kishambala, Sambaa, Sambala, Sambara, Schambala, Shamba(l)a, Shambaa]
+alt_names: [Kisambaa, Kishambala, Sambaa, Sambala, Sambara, Schambala, Shamba(l)a, Shambaa]
 population: 565000
 country_id: TZ
 country_name: Tanzania

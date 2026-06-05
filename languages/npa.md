@@ -2,7 +2,7 @@
 iso: npa
 name: Nar Phu
 autonym: "Nar-Phu"
-alt_names: [Nar-Phuish, NarPhu, Narpa, Narpú, ภาษานัรพู]
+alt_names: [Nar-Phuish, NarPhu, Narpa, Narpú]
 population: 800
 country_id: NP
 country_name: Nepal

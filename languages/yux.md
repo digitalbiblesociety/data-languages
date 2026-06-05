@@ -2,7 +2,7 @@
 iso: yux
 name: Southern Yukaghir
 autonym: Одул
-alt_names: [Forest Yukaghir, Forest Yukagir, Jukagir, Jukagirisch, Južnojukagirski jezik, Kolym, Kolyma, Kolyma Yukaghir, Odul, Southern Yukagir, Sydjukagiriska, "Youkagireg ar c'hreisteiz", Youkaguire des forêts, Yucaguiro de los bosques, Yukaghir, Yukaghir (Kolyma), Yukaghir (Southern), "Yukaghir, Southern", Yukagir, Одун ажуу, южноюкагирский язык]
+alt_names: [Forest Yukaghir, Forest Yukagir, Jukagir, Jukagirisch, Kolym, Kolyma, Kolyma Yukaghir, Odul, Southern Yukagir, Sydjukagiriska, "Youkagireg ar c'hreisteiz", Youkaguire des forêts, Yucaguiro de los bosques, Yukaghir, Yukaghir (Kolyma), Yukaghir (Southern), "Yukaghir, Southern", Yukagir, Одун ажуу]
 population: 130
 country_id: RU
 country_name: Russia

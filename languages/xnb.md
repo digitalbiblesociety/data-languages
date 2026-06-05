@@ -2,7 +2,7 @@
 iso: xnb
 name: Kanakanabu
 autonym: Kanabu
-alt_names: [Kanakanavu, Sprache von Formosa, 卡那卡那富語]
+alt_names: [Kanakanavu]
 population: 250
 country_id: TW
 country_name: Taiwan

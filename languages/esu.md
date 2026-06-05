@@ -2,7 +2,7 @@
 iso: esu
 name: Central Yupik
 autonym: Yupʼik
-alt_names: [Alaskanjupik, Alaskayupik, Aliaskos jupikų kalba, "Central Alaskan Yup'ik", "Central Alaskan Yup'ik language", Central Alaskan Yupik, Chevak, Hooper Bay - Chevak Yupik, Hooper Bay-Chevak, Język yupik środkowy, Kuskokwim Eskimo, Norton Sound, Norton Sound and Seward Peninsula Inuit, Unaligmiut, Unaliq, Yugcestun, Yugtun, "Yup'ik", Yupik, "Yupik d'Alaska Centrale (2)", "Yupik d'Alaska Centrale (île Nunivak)", "Yupik, Central", "Yupik, General Central", Yupí alasquiano central (isla de Nunivak), Центрально-юпикский язык, ცენტრალურ ალასკური იუპიკური ენა, 中央アラスカ・ユピック語]
+alt_names: [Alaskanjupik, Alaskayupik, "Central Alaskan Yup'ik", "Central Alaskan Yup'ik language", Central Alaskan Yupik, Chevak, Hooper Bay - Chevak Yupik, Hooper Bay-Chevak, Kuskokwim Eskimo, Norton Sound, Norton Sound and Seward Peninsula Inuit, Unaligmiut, Unaliq, Yugcestun, Yugtun, "Yup'ik", Yupik, "Yupik d'Alaska Centrale (2)", "Yupik d'Alaska Centrale (île Nunivak)", "Yupik, Central", "Yupik, General Central", Yupí alasquiano central (isla de Nunivak)]
 population: 10000
 country_id: US
 country_name: United States

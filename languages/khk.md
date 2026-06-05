@@ -2,7 +2,7 @@
 iso: khk
 name: Halh Mongolian
 autonym: монгол хэлᠮᠣᠩᠭᠣᠯ ᠬᠡᠯᠡ
-alt_names: [Central Mongolian, Halh, Khalkha, Khalkha Mongolian, Khalkha-Mongolisch, Mongol, Mongolian, Mongolian (Halh), "Mongolian, Halh", Sprache der Äußeren Mongolei, Xalxa]
+alt_names: [Central Mongolian, Halh, Khalkha, Khalkha Mongolian, Khalkha-Mongolisch, Mongol, Mongolian, Mongolian (Halh), "Mongolian, Halh", Xalxa]
 population: 2704000
 country_id: MN
 country_name: Mongolia

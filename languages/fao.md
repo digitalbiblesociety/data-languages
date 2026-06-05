@@ -2,7 +2,7 @@
 iso: fao
 name: Faroese
 autonym: føroyskt mál
-alt_names: [Bahasa Faroe, Faaroish, Faerana linguo, Faeroeg, Faeroese, Faeroyès, Faeröars, Faeröers, Faeröersk, Faerčina, Faerština, Farer tili, Farerų kalba, Faroece, Faroeera, Faroese Islands, Faroisc sprǣc, Faroyek, Faroés, Faroëes, Farski jezik, Farėru kalba, Fearagiella, Feroa lingvo, Feroès, Feroés, Feröeri nyelv, Ferščina, Färöische Sprache, Färöische Språch, Färöiska, Färöšćina, Fääri keel, Fäärin kieli, Færeyska, Færøsk, Færøysk, Færøysk språk, Féroïen, Føroyskt, Fēriešu valoda, Idioma feroés, Język farerski, Lenga faroèisa, Limba feroeză, Lingua Faroensis, Lingua faroesa, Lingua faroese, Lingua faruisa, Lingua feroesa, Lèngoa farœnse, Língua feroesa, Zimanê feroeyî, Łéngua faroexe, Алифбои фароесӣ, Фарер йылме, Фарераг æвзаг, Фарерский язык, Фарерська мова, Фарски јазик, Фарэрская мова, Ферьорски език, زبان فاروئی, فائېروس تىل, فاروئى, لغة فاروية, फ़रोइस भाषा, ফারোয়েজীয় ভাষা, ภาษาแฟโร, ფარერული ენა, ፋሮኛ, フェロー語, 法罗语, 페로어]
+alt_names: [Faaroish, Faerana linguo, Faeroeg, Faeroese, Faeroyès, Faeröars, Faeröers, Faeröersk, Farer tili, Faroece, Faroeera, Faroese Islands, Faroisc sprǣc, Faroyek, Faroés, Faroëes, Fearagiella, Feroès, Feroés, Färöische Språch, Färöiska, Færeyska, Færøsk, Færøysk, Féroïen, Føroyskt, Lèngoa farœnse, Łéngua faroexe, Алифбои фароесӣ, Фарер йылме, فائېروس تىل, فاروئى]
 population: 69000
 country_id: FO
 country_name: Faroe Islands

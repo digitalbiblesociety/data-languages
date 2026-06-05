@@ -2,7 +2,7 @@
 iso: bns
 name: Bundeli
 autonym: बुन्देली
-alt_names: [Bondili, Boundeleg, Bundel Khandi, Bundela lingvo, Bundelkhandi, புந்தேலி மொழி]
+alt_names: [Bondili, Boundeleg, Bundel Khandi, Bundelkhandi]
 population: 5630000
 country_id: IN
 country_name: India

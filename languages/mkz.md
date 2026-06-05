@@ -2,7 +2,7 @@
 iso: mkz
 name: Makasae
 autonym: "Ma'asae"
-alt_names: [Idioma makasae, Macassai, Makasai, Makassai, ภาษามากาแซ, 마카사이어]
+alt_names: [Macassai, Makasai, Makassai]
 population: 145000
 country_id: TL
 country_name: "Timor-Leste"

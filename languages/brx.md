@@ -2,7 +2,7 @@
 iso: brx
 name: Bodo
 autonym: Boro language
-alt_names: [Bara, Bodi, Bodo, Bodo jezik, Bodo language, Bodoa lingvo, Bodoeg, Bodon kieli, Boro, Boroni, Idioma bodo, Język bodo, Kachari, Lingua Bodo, Língua bodo, Mech, Meche, Mechi, Meci, Бодо, Бодо језик, बोडो भाषा, বড়ো ভাষা, বোড়ো ভাষা, બોડો ભાષા, போடோ மொழி, ബോഡോ, ภาษาโบโด, ボド語, 博多语, 보도어]
+alt_names: [Bara, Bodi, Bodo, Bodo language, Bodoeg, Boro, Boroni, Kachari, Mech, Meche, Mechi, Meci, Бодо, ബോഡോ]
 population: 1474380
 country_id: IN
 country_name: India

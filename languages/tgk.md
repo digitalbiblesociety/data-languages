@@ -2,7 +2,7 @@
 iso: tgk
 name: Tajik
 autonym: Тоҷикӣ (Tojikī)
-alt_names: [Afghan Farsi, An Táidsícis, Bahasa Tajik, Dari, Farsi (Eastern), Galcha, Herati, Idioma tayiko, Język tadżycki, Kaboli, Kabuli, Khorasani, Kitajiki, Limba tadjică, Lingua Tadzikistanica, Lingua tagica, Lingua taxica, Língua tadjique, Tacik dili, Tacik tili, Taciki, Tacikçe, Tadjik, Tadjikeg, Tadschikische Sprache, Tadschiksche Spraak, Tadsjikisk, Tadsjikisk språk, Tadzhik, Tadzik, Tadzjieks, Tadzjikiska, Tadžiki keel, Tadžikin kieli, Tadžiku valoda, Tadžikų kalba, Tadžički jezik, Tajiki, Tajiki Persian, Tayik simi, Taĝika lingvo, Tádzsik nyelv, Tádžičtina, Забони тоҷикӣ, Таджик чĕлхи, Таджикаг æвзаг, Таджикски език, Таджикский язык, Таджицька мова, Таџички јазик, تاجىك تىلى, طاجيكى, فارسی تاجیکی, لغة طاجيكية, তাজিকিস্তানের ভাষা, தாஜிக் மொழி, ภาษาทาจิก, ტაჯიკური ენა, タジク語, 塔吉克语, 타지크어]
+alt_names: [Afghan Farsi, An Táidsícis, Dari, Farsi (Eastern), Galcha, Herati, Kaboli, Kabuli, Khorasani, Kitajiki, Tacik tili, Taciki, Tacikçe, Tadjik, Tadjikeg, Tadschiksche Spraak, Tadsjikisk, Tadzhik, Tadzik, Tadzjieks, Tadzjikiska, Tajiki, Tajiki Persian, Tayik simi, Tádžičtina, Забони тоҷикӣ, تاجىك تىلى, طاجيكى, فارسی تاجیکی]
 population: 8132320
 country_id: TJ
 country_name: Tajikistan

@@ -2,7 +2,7 @@
 iso: rut
 name: Rutul
 autonym: мыхӀабишды чӀел myxʼabišdy č̣el
-alt_names: [Chal, Język rutulski, Língua rutul, Mukhad, Mykhanidy, Routoul, Rutal, Rutulin kieli, Rutulische Sprache, Rutultsy, Rutuly, myxʼabišdy čʼel, Рутулски јазик, Рутульська мова, мыхӀабишды чӀел, рутульский язык, მუხუდური ენა, რუთულური ენა]
+alt_names: [Chal, Mukhad, Mykhanidy, Routoul, Rutal, Rutultsy, Rutuly, myxʼabišdy čʼel, мыхӀабишды чӀел]
 population: 36400
 country_id: RU
 country_name: Russia

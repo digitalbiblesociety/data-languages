@@ -2,7 +2,7 @@
 iso: nll
 name: Nihali
 autonym: Nihal
-alt_names: [Kalteg, Kalto, Lenga nahali, Lingua Nihali, Nahali, Нихали, カルト語]
+alt_names: [Kalteg, Kalto, Nahali, Нихали]
 population: 2000
 country_id: IN
 country_name: India

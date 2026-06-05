@@ -2,7 +2,7 @@
 iso: brh
 name: Brahui
 autonym: براهوئی
-alt_names: [Bahasa Brahui, Birahui, Birahuí, Brahoui, Brahudi, Brahui jezik, Brahuidi, Brahuigi, Brahuiki, Brahuin kieli, Brahweg, Brahúí, Braŭia lingvo, Język brahui, Kur Galli, Lenga Brahui, Lingua Brahui, Брауи, براہوی, زبان براهویی, لغة برهوية, ব্রাহুই ভাষা, பிராகுயி மொழி, బ్రహుయి, ബ്രഹൂയി ഭാഷ, ภาษาบราฮุย, ブラーフーイー語, 브라후이어]
+alt_names: [Birahui, Birahuí, Brahoui, Brahudi, Brahuidi, Brahuigi, Brahuiki, Brahweg, Brahúí, Kur Galli, Брауи, براہوی, బ్రహుయి]
 population: 2864800
 country_id: PK
 country_name: Pakistan

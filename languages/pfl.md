@@ -2,7 +2,7 @@
 iso: pfl
 name: Pfaelzisch
 autonym: Pälzisch
-alt_names: [Dialekt palatynacki, Falački jezik, Francique rhénan, Franconio renano, Lenga pfaelzisch, Palatinate, Palatinate German, Paltsersk, Paltsisch, Pfälzisch, Pfälzische, Pfälzische Dialekte, Pällzisch, Tedesco palatino, プファルツ語]
+alt_names: [Dialekt palatynacki, Francique rhénan, Franconio renano, Palatinate, Palatinate German, Paltsersk, Paltsisch, Pfälzisch, Pfälzische, Pfälzische Dialekte, Pällzisch, Tedesco palatino]
 population: 1000000
 country_id: DE
 country_name: Germany

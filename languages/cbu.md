@@ -2,7 +2,7 @@
 iso: cbu
 name: "Candoshi-Shapra"
 autonym: "Kandozi-Chapra"
-alt_names: [Candoshi, Candoxi, Candoši, Chapara, Chapra, Idioma candoshi, Kandocheg, Kandoshi, Kandoshi simi, Maina, Murato, Roamaina, Shapra]
+alt_names: [Candoshi, Candoxi, Candoši, Chapara, Chapra, Kandocheg, Kandoshi, Kandoshi simi, Maina, Murato, Roamaina, Shapra]
 population: 3260
 country_id: PE
 country_name: Peru

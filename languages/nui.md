@@ -2,7 +2,7 @@
 iso: nui
 name: Ngumbi
 autonym: Ngumbi
-alt_names: [Combe, Kombe, Kombe language, Llengua Combe]
+alt_names: [Combe, Kombe, Kombe language]
 population: 4000
 country_id: GQ
 country_name: Equatorial Guinea

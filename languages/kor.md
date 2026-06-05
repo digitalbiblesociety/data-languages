@@ -2,7 +2,7 @@
 iso: kor
 name: Korean
 autonym: 한국어
-alt_names: [An Chóiréis, Bahasa Korea, Basa Koréa, Chaoxian, Chosen·, Corean, Coreanu, Coreà, Coréen, Corëeg, Gjuha koreane, Hanguk Mal, Hanguohua, Hankul, Idioma coreano, Idioma corián, IsiKoriya, Język koreański, Korea keel, Korea lingvo, Koreaans, Koreai nyelv, Korean kieli, Koreana linguo, Koreaneg, Koreanisch, Koreanische Sprache, Koreano, Koreansk, Koreansk språk, Koreanska, Korece, Koreek, Koreera, Korejiešu valoda, Korejski jezik, Korejština, Koreya dili, Koreý dili, Korêyî, Korėjiečių kalba, Kuriya simi, Kòrejańsczi jãzëk, Kórejčina, Kóreska, Lengua coreana, Limba coreeană, Lingua Coreana, Língua coreana, Reo Kōrea, Tiếng Triều Tiên, Tsêu-siên-ngî, Urkoreanisch, Wikang Koreano, Забони кореягӣ, Карэйская мова, Корейски език, Корейский язык, Корейська мова, Корејски јазик, Корејски језик, Кэриэй тыла, Солонгос хэл, Կորեերեն, קוריאנית, زبان کره‌ای, كورىيەچە, لغة كورية, ކޮރެޔާ ބަސް, कोरियन भाषा, कोरियायी भाषा और साहित्य, কোরীয় ভাষা, கொரிய மொழி, ಕೊರಿಯಾದ ಭಾಷೆ, ภาษาเกาหลี, ພາສາເກົາຫຼີ, კორეული ენა, ኮሪይኛ, ᎪᎵᎥ, ᑯᕆᐊᑎᑐᑦ/kuriatituq, ភាសាកូរ៉េ, 朝鮮話, 朝鮮語, 朝鲜语, 韓文, 韓語]
+alt_names: [An Chóiréis, Chaoxian, Chosen·, Corean, Coreanu, Coreà, Coréen, Corëeg, Hanguk Mal, Hanguohua, Hankul, IsiKoriya, Koreaans, Koreana linguo, Koreaneg, Koreanisch, Koreano, Koreansk, Koreanska, Korece, Koreek, Koreera, Korêyî, Kuriya simi, Kòrejańsczi jãzëk, Kóreska, Tsêu-siên-ngî, Urkoreanisch, Забони кореягӣ, Кэриэй тыла, Կորեերեն, קוריאנית, كورىيەچە, ކޮރެޔާ ބަސް, ᎪᎵᎥ, ᑯᕆᐊᑎᑐᑦ/kuriatituq, 朝鮮話, 韓文]
 population: 77300000
 country_id: KR
 country_name: South Korea

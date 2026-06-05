@@ -2,7 +2,7 @@
 iso: cym
 name: Welsh
 autonym: Cymraeg
-alt_names: [An Bhreatnais, Bahasa Wales, Bretnish, Cuimris, Cymru-gí, Galce, Galesera, Gallois, Galouès, Gal·lès, Galés, Idioma galés, Język walijski, Kamri simi, Kembraeg, Kembrek, Kimra lingvo, Kiwelisi, Kymri, Kymrisch, Kymriska, Kõmri keel, Lenga galèisa, Lengua galleise, Limba galeză, Limba gallesa, Lingua Cambrica, Lingua galesa, Lingua gallese, Lingua gallisa, Lingua valisica, Língua galesa, Valižanščina, Valų kalba, Velsiešu valoda, Velska, Velški jezik, Velština, Walesi nyelv, Waleština, Walijsko godka, Walisesch, Walisisch, Walisische Sprache, Walisisk, Walisisk språk, Walisiskt mál, Walizišćina, Wallies, Walsana linguo, Walès, Welsh leid, Welsk, Wikang Gales, y Gymraeg, Ƿielisc sprǣc, Ουαλική γλώσσα, Валли чĕлхи, Валлийаг æвзаг, Валлийский язык, Валлійська мова, Велшки јазик, Велшки језик, Уелски език, ולשית, زبان ولزی, لغة ويلزية, ويلزى, ۋېلش تىلى, ওয়েল্‌শ্‌ ভাষা, ウェールズ語, 威尔士语, 웨일스어]
+alt_names: [An Bhreatnais, Bretnish, Cuimris, Cymru-gí, Galce, Galesera, Gallois, Galouès, Gal·lès, Galés, Kamri simi, Kembraeg, Kembrek, Kiwelisi, Kymri, Kymrisch, Kymriska, Velska, Walijsko godka, Walisesch, Walisisch, Walisisk, Wallies, Walsana linguo, Walès, Welsh leid, Welsk, y Gymraeg, Ƿielisc sprǣc, ולשית, ويلزى, ۋېلش تىلى]
 population: 573050
 country_id: GB
 country_name: United Kingdom

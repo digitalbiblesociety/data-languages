@@ -2,7 +2,7 @@
 iso: sdc
 name: Sassarese Sardinian
 autonym: " turritanu"
-alt_names: [Idioma sassarés, Język sassarski, Lingua sassarese, Northwestern Sardinian, Sardinian, "Sardinian, Sassarese", Sasareseg, Sasarés, Sassarais, Sassarese, Sassarese language, Sassaresu, Sassarien, Sassariera, Sassarigiella, Sassarish, Sasserès, Сасарески јазик, סאסארזה]
+alt_names: [Northwestern Sardinian, Sardinian, "Sardinian, Sassarese", Sasareseg, Sasarés, Sassarais, Sassarese, Sassarese language, Sassaresu, Sassarien, Sassariera, Sassarigiella, Sassarish, Sasserès, סאסארזה]
 population: 100000
 country_id: IT
 country_name: Italy

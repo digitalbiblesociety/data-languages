@@ -2,7 +2,7 @@
 iso: eus
 name: Basque
 autonym: Euskara
-alt_names: [An Bhascais, Bahasa Basque, Basc, Bascais, Bascish, Basgeg, Baskek, Baski keel, Baskiana linguo, Baskies, Baskijski jezik, Baskijsko godka, Baskin kieli, Baskisch, Baskische Sprache, Baskisk, Baskisk språk, Baskiska, Baskičtina, Baskneska, Basko, Baskovščina, Basku valoda, Baskysk, Baskça, Baskų kalba, Baszk nyelv, Bidasoa Valley, Euskareg, Euskera, Eŭska lingvo, Gernica, Gjuha baske, Hondarribia, Idioma vasco, Język baskijski, Lekeitio, Lenghe basche, Lengua basca, Limba basca, Limba bască, Lingua Vasconica, Lingua basca, Lingua éuscara, Luenga vasca, Língua basca, Northern High Navarrese, Oñati, Pinulongang Basko, Roncalese, Sakana, Tiếng Basque, Vascu, Vascuense, Vaskisk, Yuskara simi, Zeberio, Zimanê baskî, central, Łéngua basca, Βασκική γλώσσα, Баски език, Баскиски јазик, Баскијски језик, Баскский язык, Баскська мова, Բասկերեն, באסקיש, בסקית, باسكى, باسكى تىلى, باسک زبانیں, زبان باسکی, لغة باسكية, பாஸ்க் மொழி, ภาษาบาสก์, ბასკური ენა, バスク語, 巴斯克語, 巴斯克语, 바스크어]
+alt_names: [An Bhascais, Basc, Bascais, Bascish, Basgeg, Baskek, Baskiana linguo, Baskies, Baskijsko godka, Baskisch, Baskisk, Baskiska, Baskičtina, Baskneska, Basko, Baskysk, Baskça, Bidasoa Valley, Euskareg, Euskera, Gernica, Hondarribia, Lekeitio, Lenghe basche, Luenga vasca, Northern High Navarrese, Oñati, Roncalese, Sakana, Vascu, Vascuense, Vaskisk, Yuskara simi, Zeberio, central, Łéngua basca, Բասկերեն, באסקיש, בסקית, باسكى, باسكى تىلى]
 population: 537860
 country_id: ES
 country_name: Spain

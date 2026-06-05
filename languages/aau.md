@@ -2,7 +2,7 @@
 iso: aau
 name: Abau
 autonym: null
-alt_names: [Abaoeg, Abau jezik, Djarok, Green River, Język abau, Limba abau, Lingua abau]
+alt_names: [Abaoeg, Djarok, Green River]
 population: 7500
 country_id: PG
 country_name: Papua New Guinea

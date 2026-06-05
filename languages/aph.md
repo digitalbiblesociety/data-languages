@@ -2,7 +2,7 @@
 iso: aph
 name: Athpariya
 autonym: Arthare
-alt_names: [Arthare-Khesang, Ath Paharia Rai, Athapre, Athpahariya, Athpare, Athpare language, Athpariya jezik, Athpariyish, Athpre, Atpariya, Jamindar Rai, Jindā, Rai]
+alt_names: [Arthare-Khesang, Ath Paharia Rai, Athapre, Athpahariya, Athpare, Athpare language, Athpariyish, Athpre, Atpariya, Jamindar Rai, Jindā, Rai]
 population: 5530
 country_id: NP
 country_name: Nepal

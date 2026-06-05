@@ -2,7 +2,7 @@
 iso: btx
 name: Batak Karo
 autonym: Cakap Karo
-alt_names: [Bahasa Batak Karo, Batak (Karo), Karo Batak, Karo-Batak, バタク・カロ語]
+alt_names: [Batak (Karo), Karo Batak, Karo-Batak]
 population: 600000
 country_id: ID
 country_name: Indonesia

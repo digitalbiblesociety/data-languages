@@ -2,7 +2,7 @@
 iso: hos
 name: Ho Chi Minh City Sign Language
 autonym: Saigon Sign
-alt_names: [HCMCSL, NNKHTPHCM, Southern Vietnamese Sign Language, Vietnamese Sign Language, ngôn ngữ ký hiệu thành phố Hồ Chí Minh]
+alt_names: [HCMCSL, NNKHTPHCM, Southern Vietnamese Sign Language, Vietnamese Sign Language]
 population: 45000
 country_id: VN
 country_name: Vietnam

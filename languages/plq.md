@@ -2,7 +2,7 @@
 iso: plq
 name: Palaic
 autonym: null
-alt_names: [Język palajski, Lingua palaica, Lingua palaíta, Palaische Sprache, Palaisk, Palaiska, Palajščina, Palaïsch, Palaïte, Παλαϊκή γλώσσα, Палайский язык, Палайська мова, Палајски јазик, زبان پالائی, ภาษาปาลา, 팔라어]
+alt_names: [Palaisk, Palaiska, Palaïsch, Palaïte]
 population: null
 country_id: TR
 country_name: Turkey

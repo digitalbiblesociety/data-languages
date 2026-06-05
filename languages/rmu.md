@@ -2,7 +2,7 @@
 iso: rmu
 name: Tavringer Romani
 autonym: Tater Language
-alt_names: ["\"Tattare\"", Romani rakripa, "Romani, Tavringer", Rommani, Scandinavisch Romani, Scandoromani language, Skandinavisches Romani, Skando-romski jezik, Svensk Rommani, Svensk romani, Traveller Swedish]
+alt_names: ["\"Tattare\"", Romani rakripa, "Romani, Tavringer", Rommani, Scandinavisch Romani, Scandoromani language, Skandinavisches Romani, Svensk Rommani, Svensk romani, Traveller Swedish]
 population: 25000
 country_id: SE
 country_name: Sweden

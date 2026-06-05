@@ -2,7 +2,6 @@
 iso: sas
 name: Sasak
 autonym: Lombok
-alt_names: [Bahasa Sasak, Basa Sasak, Idioma Sasak, ササク語]
 population: 3170000
 country_id: ID
 country_name: Indonesia

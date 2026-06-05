@@ -2,7 +2,7 @@
 iso: khr
 name: Kharia
 autonym: Haria
-alt_names: [Jariá, Khadia, Khariya, Kharvi, Khatria, Khaɽia, Kheria, Lenga kharia, Lingua Kharia]
+alt_names: [Jariá, Khadia, Khariya, Kharvi, Khatria, Khaɽia, Kheria]
 population: 298240
 country_id: IN
 country_name: India

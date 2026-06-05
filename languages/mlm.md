@@ -2,7 +2,7 @@
 iso: mlm
 name: Mulam
 autonym: Abo
-alt_names: [Ayo, Molao, Mulamo, Mulao, Mulao Miao, Muliao, Mulou, 仫佬語]
+alt_names: [Ayo, Molao, Mulamo, Mulao, Mulao Miao, Muliao, Mulou]
 population: 10000
 country_id: CN
 country_name: China

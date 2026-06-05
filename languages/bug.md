@@ -2,7 +2,7 @@
 iso: bug
 name: Buginese
 autonym: ᨅᨔ ᨕᨘᨁᨗ
-alt_names: [Bahasa Bugis, Basa Bugis, Boegineesche, Boeginezen, Bougieg, Bugin kieli, Buginees, Buginesische Sprache, Buginesisk, Buginesiska, Bugis, Bugui, "De'", Idioma buginés, Język bugijski, Makassar-Bugis, Rappang Buginese, Ugi, bugi, Бугийский язык, बुगिनी भाषा, ภาษาบูกิส, ᨅᨗᨌᨑ ᨕᨘᨁᨗ, ブギス語]
+alt_names: [Boegineesche, Boeginezen, Bougieg, Buginees, Buginesisk, Buginesiska, Bugis, Bugui, "De'", Makassar-Bugis, Rappang Buginese, Ugi, bugi, ᨅᨗᨌᨑ ᨕᨘᨁᨗ]
 population: 3898800
 country_id: ID
 country_name: Indonesia

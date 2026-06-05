@@ -2,7 +2,7 @@
 iso: bhm
 name: Bathari
 autonym: Batahari
-alt_names: [Batarí, Bathara, Bathari hizkuntza, Batharí, Baṭḥari, Bautahari, Baṭḥari, Botahari, Boṭaḥārī, Idioma bataharí, South Arabian]
+alt_names: [Batarí, Bathara, Bathari hizkuntza, Batharí, Baṭḥari, Bautahari, Baṭḥari, Botahari, Boṭaḥārī, South Arabian]
 population: 200
 country_id: OM
 country_name: Oman

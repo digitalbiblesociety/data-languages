@@ -2,7 +2,6 @@
 iso: bnq
 name: Bantik
 autonym: bahasa Bantik
-alt_names: [ภาษาบันติก]
 population: 11000
 country_id: ID
 country_name: Indonesia

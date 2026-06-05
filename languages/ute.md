@@ -2,7 +2,7 @@
 iso: ute
 name: "Ute-Southern Paiute"
 autonym: Southern Paiute
-alt_names: ["\"ute (Colorado, Ute des montagnes)\"", "\"ute (Colorado, Ute méridional)\"", Chemehuevi, Colorado River Numic language, Idioma paiute meridional, Outeg, Pai Ute, Paiute, Paiute (Southern), Paiute du sud, Paviotso, S. Paiute, South Paiute, Southern, Ute, Ute (Utah), Ute-Chemehuevi, Uté (Utah)]
+alt_names: ["\"ute (Colorado, Ute des montagnes)\"", "\"ute (Colorado, Ute méridional)\"", Chemehuevi, Colorado River Numic language, Outeg, Pai Ute, Paiute, Paiute (Southern), Paiute du sud, Paviotso, S. Paiute, South Paiute, Southern, Ute, Ute (Utah), Ute-Chemehuevi, Uté (Utah)]
 population: 1900
 country_id: US
 country_name: United States

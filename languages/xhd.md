@@ -2,7 +2,7 @@
 iso: xhd
 name: Hadrami
 autonym: Hadrami
-alt_names: [Epigraphic South Arabian, Hadramauti nyelv, Hadramautic language, Hadramawtic, Ḥaḍrami, Ḥaḍramitic]
+alt_names: [Epigraphic South Arabian, Hadramautic language, Hadramawtic, Ḥaḍrami, Ḥaḍramitic]
 population: null
 country_id: YE
 country_name: Yemen

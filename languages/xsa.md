@@ -2,7 +2,7 @@
 iso: xsa
 name: Sabaean
 autonym: Sabaean
-alt_names: [Epigraphic South Arabian, Himyaritic, Llengua sabea, Sabaic, Sabejščina, Szabái nyelv, שבאית, لغة السبئية, ภาษาซาบาเอียน]
+alt_names: [Epigraphic South Arabian, Himyaritic, Sabaic, שבאית]
 population: null
 country_id: YE
 country_name: Yemen

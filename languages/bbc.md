@@ -2,7 +2,7 @@
 iso: bbc
 name: Batak Toba
 autonym: Hata Batak Toba
-alt_names: [Batak (Toba), Batak Toba jezik, Batta, Toba Batak language, Toba batak, バタク・トバ語]
+alt_names: [Batak (Toba), Batta, Toba Batak language, Toba batak]
 population: 2000000
 country_id: ID
 country_name: Indonesia

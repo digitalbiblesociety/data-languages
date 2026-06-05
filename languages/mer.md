@@ -2,7 +2,7 @@
 iso: mer
 name: Meru
 autonym: Kimîîru
-alt_names: [Język meru, Kimeru]
+alt_names: [Kimeru]
 population: 1980000
 country_id: KE
 country_name: Kenya

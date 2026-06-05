@@ -2,7 +2,7 @@
 iso: kff
 name: Koya
 autonym: Kavor
-alt_names: [Gond (Dorla), Gondi (Dorla), Kaya, Koa, Koi, Koi Gondi, Koitar, Koja lingvo, Koyato, Koyi, Raj Koya]
+alt_names: [Gond (Dorla), Gondi (Dorla), Kaya, Koa, Koi, Koi Gondi, Koitar, Koyato, Koyi, Raj Koya]
 population: 455000
 country_id: IN
 country_name: India

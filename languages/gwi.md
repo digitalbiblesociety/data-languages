@@ -2,7 +2,7 @@
 iso: gwi
 name: Gwichʼin
 autonym: Dinjii Zhuʼ Ginjik
-alt_names: [Dagoo, "Dinjii Zhuh K'yaa", Gviĉina lingvo, "Gwich'in", Gwich’in, Gwich’in language, Güichín (Estados Unidos), "Idioma gwich'in", Kuchin, Kutchin, Loucheux, Língua gwich’in, Takudh, Tukudh, Гвичин, 哥威迅语]
+alt_names: [Dagoo, "Dinjii Zhuh K'yaa", "Gwich'in", Gwich’in, Gwich’in language, Güichín (Estados Unidos), Kuchin, Kutchin, Loucheux, Takudh, Tukudh, Гвичин]
 population: 560
 country_id: CA
 country_name: Canada

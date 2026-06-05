@@ -2,7 +2,7 @@
 iso: smr
 name: Simeulue
 autonym: Long Bano
-alt_names: [Bahasa Devayan, Simalur, Simeuloë, Simulul]
+alt_names: [Simalur, Simeuloë, Simulul]
 population: 30000
 country_id: ID
 country_name: Indonesia

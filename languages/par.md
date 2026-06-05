@@ -2,7 +2,7 @@
 iso: par
 name: Panamint
 autonym: Panamint
-alt_names: [Coso, Death Valley, Idioma timbisha, Koso, Koso Shoshone, Panamint Shoshone, Shoshone, Shoshone (Tumpisa), Timbicheg, Timbisha, Timbisha language, Tumpisa Shoshone, Tümpisa, Tümpisa Panamint Shoshone, Tümpisa Shoshone, Tümpisa Shoshoni]
+alt_names: [Coso, Death Valley, Koso, Koso Shoshone, Panamint Shoshone, Shoshone, Shoshone (Tumpisa), Timbicheg, Timbisha, Timbisha language, Tumpisa Shoshone, Tümpisa, Tümpisa Panamint Shoshone, Tümpisa Shoshone, Tümpisa Shoshoni]
 population: 100
 country_id: US
 country_name: United States

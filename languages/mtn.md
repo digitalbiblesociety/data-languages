@@ -2,7 +2,7 @@
 iso: mtn
 name: Matagalpa
 autonym: Pantasmas
-alt_names: [Idioma matagalpa, Matagalpa language area, Pantasma]
+alt_names: [Matagalpa language area, Pantasma]
 population: null
 country_id: NI
 country_name: Nicaragua

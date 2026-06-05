@@ -2,7 +2,7 @@
 iso: jra
 name: Jarai
 autonym: Chor
-alt_names: [Cho-Rai, Chrai, Djarai, Gia-Rai, Gio-Rai, Jaraï, Jorai, Mthur, Tiếng Gia Rai, ภาษาจาราย]
+alt_names: [Cho-Rai, Chrai, Djarai, Gia-Rai, Gio-Rai, Jaraï, Jorai, Mthur]
 population: 262800
 country_id: VN
 country_name: Vietnam

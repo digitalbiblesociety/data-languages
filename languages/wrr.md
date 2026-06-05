@@ -2,7 +2,7 @@
 iso: wrr
 name: Wardaman
 autonym: Yangmanic
-alt_names: [Lenga wardaman, Wadaman, Wadderman, Waderman, Waduman, "Warda'man", Wardeman, Wardman, Warduman, Wartaman, Wordaman]
+alt_names: [Wadaman, Wadderman, Waderman, Waduman, "Warda'man", Wardeman, Wardman, Warduman, Wartaman, Wordaman]
 population: 50
 country_id: AU
 country_name: Australia

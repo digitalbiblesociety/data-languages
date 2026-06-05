@@ -2,7 +2,7 @@
 iso: luc
 name: Aringa
 autonym: Low Lugbara
-alt_names: [Aringeg, Арингаски јазик]
+alt_names: [Aringeg]
 population: 495000
 country_id: UG
 country_name: Uganda

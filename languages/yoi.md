@@ -2,7 +2,7 @@
 iso: yoi
 name: Yonaguni
 autonym: 与那国物言/ドゥナンムヌイ Dunan Munui
-alt_names: [Dunan (Yonaguni Ryukyuan), Dunan-Munui, Idioma yonaguni, Jonagunio kalba, Lingua yonaguni, Ryukyuan, Saskishima, Saskisima, Southern Ryukyuan, Yonagouneg, ภาษาโยนากูนิ, どぅなんむぬい, 与那国方言, 与那国語, 與那國語, 요나구니어]
+alt_names: [Dunan (Yonaguni Ryukyuan), Dunan-Munui, Ryukyuan, Saskishima, Saskisima, Southern Ryukyuan, Yonagouneg, どぅなんむぬい, 与那国方言]
 population: 800
 country_id: JP
 country_name: Japan

@@ -2,7 +2,7 @@
 iso: ban
 name: Balinese
 autonym: ᬪᬵᬱᬩᬮᬶ
-alt_names: [Bahasa Bali, Bali, Balia lingvo, Balijski jezik, Balin kieli, Balinais, Balinees, Balinesisch, Balinesische Sprache, Balinesisk, Balinesiska, Balinès, Basa Bali, Język balijski, "Lenga Malay, Balinese", Lingua balinese, Língua balinesa, Madura-Bali, Балийский язык, बहासा बाली, ภาษาบาหลี, バリ語]
+alt_names: [Bali, Balinais, Balinees, Balinesisch, Balinesisk, Balinesiska, Balinès, Madura-Bali, बहासा बाली]
 population: 3950000
 country_id: ID
 country_name: Indonesia

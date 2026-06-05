@@ -2,7 +2,7 @@
 iso: guj
 name: Gujarati
 autonym: ગુજરાતી
-alt_names: [Bahasa Gujarat, Bahasa Gujarati, Fiteny Gojaratia, Goudjarateg, Gucharatí, Gudscharati, Gudžarati, Gudžarati keel, Gudžarátština, Gujaratagiella, Gujarati bhasa, Gujarati jezik, Gujarati simi, Gujarâtî, Gujerathi, Gujerati, Gujrathi, Guĝarata lingvo, Idioma guyaratí, Język gudźarati, Kigujarati, Lengua gujarati, Lingua Gujaratensis, Lingua gujarati, Língua guzerate, goudjrati, Гуджарати, Гуджаратски език, Гуджараті, Гуџарати језик, Забони гуҷаратӣ, "גוג'ראטית", زبان گجراتی, گجراتی زبان, گۇجارات تىل, गुजराती, गुजराती भाषा, গুজরাটি ঠার, গুজরাটি ভাষা, ગુજરાતી ભાષા, குஜராத்தி, గుజరాతి భాష, ഗുജറാത്തി ഭാഷ, ภาษาคุชราต, გუჯარათული ენა, ጉጃራቲ, グジャラート語, 古吉拉特语, 구자라트어]
+alt_names: [Fiteny Gojaratia, Goudjarateg, Gucharatí, Gudscharati, Gudžarati, Gujaratagiella, Gujarati bhasa, Gujarati simi, Gujarâtî, Gujerathi, Gujerati, Gujrathi, Kigujarati, goudjrati, Гуджарати, Гуджараті, Забони гуҷаратӣ, "גוג'ראטית", گۇجارات تىل, गुजराती, গুজরাটি ঠার, குஜராத்தி, ጉጃራቲ]
 population: 56400000
 country_id: IN
 country_name: India

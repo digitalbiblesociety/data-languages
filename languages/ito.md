@@ -2,7 +2,7 @@
 iso: ito
 name: Itonama
 autonym: Machoto
-alt_names: [Idioma itonama, Itonameg, Saramo, Итонама]
+alt_names: [Itonameg, Saramo, Итонама]
 population: 5090
 country_id: BO
 country_name: Bolivia

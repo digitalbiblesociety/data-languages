@@ -2,7 +2,7 @@
 iso: nzs
 name: New Zealand Sign Language
 autonym: NZSL
-alt_names: [Bahasa Isyarat New Zealand, Langue des signes néo-zélandaise, Lingua dei segni neozelandese, Língua de Sinais da Nova Zelândia, Neuseeländische Gebärdensprache, Nyzealandsk tegnspråk, Uus-Meremaa viipekeel, Uusiseelantilainen viittomakieli]
+alt_names: [Neuseeländische Gebärdensprache, Nyzealandsk tegnspråk, Uus-Meremaa viipekeel, Uusiseelantilainen viittomakieli]
 population: 3250
 country_id: NZ
 country_name: New Zealand

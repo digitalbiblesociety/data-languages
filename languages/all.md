@@ -2,7 +2,7 @@
 iso: all
 name: Allar
 autonym: "അള്ളാർ,ചാത്തൻ"
-alt_names: [Alan, Alanmar, Alar, Allan, Bahasa Allar, Chatans]
+alt_names: [Alan, Alanmar, Alar, Allan, Chatans]
 population: 350
 country_id: IN
 country_name: India

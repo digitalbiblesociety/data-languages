@@ -2,7 +2,7 @@
 iso: wrb
 name: Waluwarra
 autonym: Kapula
-alt_names: [Didjadidja, Elookera, Lenga warluwara, Maula, Maule, Mauula, Mawula, Pangara, Panggara, Paringgara, Parnkarra, Walgra, Wallawarra, Waloo kera, Waloo-kera, Walookera, Walugara, Walugera, Walukara, Waluwara, Warluwara, Warluwara language, Warluwarra, Warluwarra Bularnu, Wlookera, Wolga, Wollegara, Wollegarra, Yannalinka, Yunnalinka]
+alt_names: [Didjadidja, Elookera, Maula, Maule, Mauula, Mawula, Pangara, Panggara, Paringgara, Parnkarra, Walgra, Wallawarra, Waloo kera, Waloo-kera, Walookera, Walugara, Walugera, Walukara, Waluwara, Warluwara, Warluwara language, Warluwarra, Warluwarra Bularnu, Wlookera, Wolga, Wollegara, Wollegarra, Yannalinka, Yunnalinka]
 population: null
 country_id: AU
 country_name: Australia

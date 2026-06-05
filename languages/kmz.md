@@ -2,7 +2,7 @@
 iso: kmz
 name: Khorasani Turkish
 autonym: خراسان تركچىسى
-alt_names: [Chorasan-türkische Sprache, East/Central Xorasan Turkic, Horasanca, Idioma turco de Jorasán, Khorasan Turkic, Khorasani Turkic language, Khorasaninturkin kieli, Northwest Quchani, Quchani, Turc du Khorassan, Turco jorasaní, Turk du Khorassan, Turkic (East-Central Xorasan), Turkic (East/Central Xorasan), Turkic (West Xorasan), West Khorasani Turkic, West Quchani, West Xorasan Turkic, Xorasan, Xorasan Turkic, Xorasan Türkcəsi, Хорасански турски јазик, Хорасанско-тюркский язык, ภาษาเติร์กโคราซานี]
+alt_names: [East/Central Xorasan Turkic, Horasanca, Khorasan Turkic, Khorasani Turkic language, Northwest Quchani, Quchani, Turc du Khorassan, Turco jorasaní, Turk du Khorassan, Turkic (East-Central Xorasan), Turkic (East/Central Xorasan), Turkic (West Xorasan), West Khorasani Turkic, West Quchani, West Xorasan Turkic, Xorasan, Xorasan Turkic, Xorasan Türkcəsi]
 population: 936000
 country_id: IR
 country_name: Iran

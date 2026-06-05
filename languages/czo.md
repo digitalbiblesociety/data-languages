@@ -2,7 +2,7 @@
 iso: czo
 name: Min Zhong Chinese
 autonym: 闽中语
-alt_names: [Central Min, "Chinese, Min Zhong", "Chinese,MinZhong", Min, Min Dialect Family, Min Zhong, "Mineg ar c'hreiz", Minish Veanagh, Minzhong, Tiếng Mân Trung, ビン中語, 민중어]
+alt_names: [Central Min, "Chinese, Min Zhong", "Chinese,MinZhong", Min, Min Dialect Family, Min Zhong, "Mineg ar c'hreiz", Minish Veanagh, Minzhong]
 population: 3620000
 country_id: CN
 country_name: China

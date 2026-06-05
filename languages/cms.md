@@ -2,7 +2,7 @@
 iso: cms
 name: Messapic
 autonym: Messapian
-alt_names: [Idioma mesapico, Język mesapijski, Lingua messapica, Mesapishtja, Mesapščina, Messapien, Messapisch, Messapiska, Messapské písmo, Месапски јазик, Мессапский язык]
+alt_names: [Mesapishtja, Messapien, Messapisch, Messapiska, Messapské písmo]
 population: null
 country_id: IT
 country_name: Italy

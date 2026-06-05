@@ -2,7 +2,7 @@
 iso: vec
 name: Venetian
 autonym: " vèneto"
-alt_names: [Benátština, Idioma veneciano, Idioma venecián, Język wenecki, Lenga véneta, Lengoa Veneta, Lengua veneta, Limba venetă, Lingua Veneta, Lingua venetian, Lingua vènita, Lingua véneta, Luenga veneciana, Língua vêneta, Other Italian Lects, Velencei nyelv, Venecia lingvo, Veneciano, Venecijanski jezik, Venedikçe, Veneeshish, Venesiaans, Venet, Veneteg, Venetiaans, Venetiansk, Venetianska, Venetische Sprache, Veneto, Venetsian kieli, Venetų kalba, Veneziera, Venèt, Vènet, Vénitien, Vî-nî-sṳ̂-ngî, Łéngua vèneta, Современный венетский язык, ונטית, ۋېنىسىيە تىلى, ヴェネツィア語, 威尼斯語, 베네토어]
+alt_names: [Lengoa Veneta, Luenga veneciana, Other Italian Lects, Veneciano, Venedikçe, Veneeshish, Venesiaans, Venet, Veneteg, Venetiaans, Venetiansk, Venetianska, Veneto, Veneziera, Venèt, Vènet, Vénitien, Vî-nî-sṳ̂-ngî, Łéngua vèneta, ונטית, ۋېنىسىيە تىلى]
 population: 7852500
 country_id: IT
 country_name: Italy

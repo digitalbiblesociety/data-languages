@@ -2,7 +2,7 @@
 iso: kgg
 name: Kusunda
 autonym: Ban Raja
-alt_names: [Idioma kusunda, Kusanda, Kusundaish, Kusundu, Kusūndu, Lingua Kusunda, 쿠순다어]
+alt_names: [Kusanda, Kusundaish, Kusundu, Kusūndu]
 population: 164
 country_id: NP
 country_name: Nepal

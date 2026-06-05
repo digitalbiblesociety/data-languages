@@ -2,7 +2,7 @@
 iso: ami
 name: Amis
 autonym: Pangcah
-alt_names: [Ami, Amia, Amisisch, Bakurut, Lam-Si-Hoan, Maran, Pagcah, Pangtsah, Sabari, Sprache von Formosa, Tanah, Â-mî-ngî, Амисский язык, アミ語, 阿美語, 아미어]
+alt_names: [Ami, Amia, Amisisch, Bakurut, Lam-Si-Hoan, Maran, Pagcah, Pangtsah, Sabari, Tanah, Â-mî-ngî]
 population: 214000
 country_id: TW
 country_name: Taiwan

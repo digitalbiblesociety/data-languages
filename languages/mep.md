@@ -2,7 +2,7 @@
 iso: mep
 name: Miriwoong
 autonym: Merong
-alt_names: [Lenga miriwung, Mariu, Mariyung, Mireau, Miriung, Miriwong, Miriwoong / Miriuwung, Miriwu, Miriwun, Miriwung, Mirong, Mirriwong, Mirung, Moreng]
+alt_names: [Mariu, Mariyung, Mireau, Miriung, Miriwong, Miriwoong / Miriuwung, Miriwu, Miriwun, Miriwung, Mirong, Mirriwong, Mirung, Moreng]
 population: 110
 country_id: AU
 country_name: Australia

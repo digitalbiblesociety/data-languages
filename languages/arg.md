@@ -2,7 +2,7 @@
 iso: arg
 name: Aragonese
 autonym: aragonés
-alt_names: [Altoaragonés, An Aragóinis, Aragoiera, Aragoieraz, Aragona lingvo, Aragonais, Aragonca, Aragonees, Aragoneg, Aragonek, Aragonesische Sprache, Aragonesisk, Aragoniagiella, Aragonian kieli, Aragoniešu valoda, Aragonish, Aragonisk, Aragonska, Aragonski jezik, Aragonès, Aragonês, Aragonština, Aragoonsche Spraak, Aragóniai nyelv, Aragónska, Bahasa Aragon, Bahasa Aragones, Fabla Aragonesa, High Aragonese, Idioma aragonés, Język aragoński, Lenga aragonèisa, Lengua aragoneise, Lia-aragonés, Limba aragoneză, Lingua Aragonensis, Lingua aragonesa, Lingua aragonese, Lingua aragunesa, Luenga aragonesa, Língua aragonesa, Patués, Reo Aragon, Zimanê aragonî, Â-lâ-kung-ngî, Арагон чĕлхи, Арагонски език, Арагонски јазик, Арагонски језик, Арагонский язык, Арагонська мова, ئاراگون تىلى, لغة أراغونية, ภาษาอารากอน, アラゴン語, 阿拉贡语, 아라곤어]
+alt_names: [Altoaragonés, An Aragóinis, Aragoiera, Aragoieraz, Aragonais, Aragonca, Aragonees, Aragoneg, Aragonek, Aragonesisk, Aragoniagiella, Aragonish, Aragonisk, Aragonska, Aragonès, Aragonês, Aragoonsche Spraak, Aragónska, Fabla Aragonesa, High Aragonese, Lia-aragonés, Luenga aragonesa, Patués, Â-lâ-kung-ngî, ئاراگون تىلى]
 population: 11000
 country_id: ES
 country_name: Spain

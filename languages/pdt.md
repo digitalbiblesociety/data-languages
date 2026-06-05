@@ -2,7 +2,7 @@
 iso: pdt
 name: Plautdietsch
 autonym: Plautdietsch
-alt_names: [Alamaneg ar Venonited, Bajo alemán, Blattdeitsch, Geldersch, Low German, Mennonite German, Mennoniten Platt, Minnistedútsk, Neuniederdeutsch, Немецко-платский диалект, 門諾低地德語]
+alt_names: [Alamaneg ar Venonited, Bajo alemán, Blattdeitsch, Geldersch, Low German, Mennonite German, Mennoniten Platt, Minnistedútsk, Neuniederdeutsch, Немецко-платский диалект]
 population: 386360
 country_id: CA
 country_name: Canada

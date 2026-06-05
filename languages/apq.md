@@ -2,7 +2,7 @@
 iso: apq
 name: "A-Pucikwar"
 autonym: "A-Pucikwar"
-alt_names: [Aka-Bojígíab, Andamanese, Andamanese (Great Andaman), Andamanese (Great), Bahasa A-Pucikwar, Bogijiab, Godka a-pucikwar, Great Andaman dialect, Great Andamanese, Idioma pucikwar, Język a-pucikwar, Lingua a-pucikwar, Puchikwar, Pucikwar]
+alt_names: [Aka-Bojígíab, Andamanese, Andamanese (Great Andaman), Andamanese (Great), Bogijiab, Godka a-pucikwar, Great Andaman dialect, Great Andamanese, Puchikwar, Pucikwar]
 population: null
 country_id: IN
 country_name: India

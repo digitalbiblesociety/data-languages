@@ -2,7 +2,7 @@
 iso: rap
 name: Rapanui
 autonym: Vānanga Rapa Nui
-alt_names: [Bahasa Rapa Nui, Easter Island, Idioma rapanui, Język rapanui, Lhéngua rapa nui, Lingua Rapa Nui/campidanesu, Língua rapanui, Oster-Insel Sprache, Pascuense, Rapa Nui, Rapa Nui language, Rapanui-Sprache, Rapanuin kieli, Rapanujiešu valoda, Rapanuy simi, Tavas Rapa Nui, Öster-Insel Sprache, Рапануйский язык, Рапануйська мова, ラパ・ヌイ語, 라파누이어]
+alt_names: [Easter Island, Lhéngua rapa nui, Pascuense, Rapa Nui, Rapa Nui language, Rapanui-Sprache, Rapanuy simi, Tavas Rapa Nui]
 population: 2200
 country_id: CL
 country_name: Chile

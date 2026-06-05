@@ -2,7 +2,7 @@
 iso: ojp
 name: Old Japanese
 autonym: 上代日本語
-alt_names: [Ancien japonais, Bahasa Jepang Klasik, Bahasa Jepun Kuno Akhir, Early Middle Japanese, Gjuha klasike japoneze, "Japanese, Old", Japoniera klasiko, Klasická japončina, Klasická japonština, Klasika japana lingvo, Klasikinė japonų kalba, Klasična japonščina, Klasični japanski jezik, Klassikaline jaapani keel, Klassinen japani, Klassischjapanische Sprache, Klassisk japansk, Klassisk japanska, Klasszikus japán nyelv, Klassísk japanska, Klasyczny język japoński, Late Old Japanese, Limba japoneză clasică, Lingua giapponese tardoantica, Língua japonesa antiga tardia, Seingamaljapansk, Tiong-kó͘ Ji̍t-gí, Tiếng Nhật Trung cổ, Ulahing Karaang Hinapon, Xaponés clásico, Yapänapük klatädik, Класически японски език, Класична японська мова, Классический японский язык, زبان ژاپنی باستان متأخر, لغة يابانية قديمة متأخرة, उत्तरार्ध प्राचीन जापानी भाषा, ภาษาญี่ปุ่นโบราณ, კლასიკური იაპონური ენა, 中古日本語, 中古日語, 중고 일본어]
+alt_names: [Ancien japonais, Early Middle Japanese, "Japanese, Old", Japoniera klasiko, Klassinen japani, Klassisk japansk, Klassisk japanska, Klassísk japanska, Late Old Japanese, Seingamaljapansk, Tiong-kó͘ Ji̍t-gí, Ulahing Karaang Hinapon, Xaponés clásico, Yapänapük klatädik]
 population: null
 country_id: JP
 country_name: Japan

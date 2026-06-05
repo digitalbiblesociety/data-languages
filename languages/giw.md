@@ -2,7 +2,7 @@
 iso: giw
 name: White Gelao
 autonym: Kláo
-alt_names: [Gelao, Gelao blanc (China), Gelao blanc (Viet Nam), Gelao blanco (Vietnam), "Gelao, White", Southwestern Gelao, Telue, Tú Du, White, 仡佬語多羅方言, 白仡佬]
+alt_names: [Gelao, Gelao blanc (China), Gelao blanc (Viet Nam), Gelao blanco (Vietnam), "Gelao, White", Southwestern Gelao, Telue, Tú Du, White, 白仡佬]
 population: 1220
 country_id: CN
 country_name: China

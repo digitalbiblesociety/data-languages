@@ -2,7 +2,7 @@
 iso: irn
 name: Irántxe
 autonym: "Irántxe-Münkü"
-alt_names: [Iranche, Iranshe, Irantxe, Irantxe language, Irantxe-mynky, Iranxe, Irntxe, Lenga irantxe, Manoki, Menki, Myky, Mynky, Münkü]
+alt_names: [Iranche, Iranshe, Irantxe, Irantxe language, Irantxe-mynky, Iranxe, Irntxe, Manoki, Menki, Myky, Mynky, Münkü]
 population: 190
 country_id: BR
 country_name: Brazil

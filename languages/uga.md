@@ -2,7 +2,7 @@
 iso: uga
 name: Ugaritic
 autonym: null
-alt_names: [Język ugarycki, Lingua ugaritica, Lingua ugarítica, Luenga ugaritica, Língua ugarítica, Ougaritique, Ugaritiko, Ugaritin kieli, Ugaritisch, Ugaritische Sprache, Ugarittisk, Ugaritština, Ugaritščina, Ugarític, Ugarítico, Úgarít, Ουγκαριτική γλώσσα, Угарит тілі, Угаритски јазик, Угаритский язык, אוגריתית, زبان اوگاریتی, لغة أوغاريتية, یوگریٹک, യുഗാരിതീയ ഭാഷ, ภาษายูการิติก, ウガリット語]
+alt_names: [Luenga ugaritica, Ougaritique, Ugaritiko, Ugaritisch, Ugarittisk, Ugarític, Ugarítico, Úgarít, אוגריתית, یوگریٹک]
 population: null
 country_id: SY
 country_name: Syria

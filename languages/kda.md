@@ -2,7 +2,7 @@
 iso: kda
 name: Worimi
 autonym: Gadhang
-alt_names: [Bahree, Birbay, Biribi, Birippi, Birpai, Birrapee, Birripai, Birrpayi, Bripi, Carapath, Cottong, Gadang, Gadjang, Gingai, Gooreenggai, Gringai, Gutthan, Karrapath, Kattang, Kutthack, Kutthung, Lenga worimi, Molo, Port Stephens tribe, Pt. Stevens tribe, Wannungine, Warimi, Warramie, Warrangine, Warrimay, Warrimay tribe, Warrimee, Warrimi, Watthungk, Wattung]
+alt_names: [Bahree, Birbay, Biribi, Birippi, Birpai, Birrapee, Birripai, Birrpayi, Bripi, Carapath, Cottong, Gadang, Gadjang, Gingai, Gooreenggai, Gringai, Gutthan, Karrapath, Kattang, Kutthack, Kutthung, Molo, Port Stephens tribe, Pt. Stevens tribe, Wannungine, Warimi, Warramie, Warrangine, Warrimay, Warrimay tribe, Warrimee, Warrimi, Watthungk, Wattung]
 population: null
 country_id: AU
 country_name: Australia

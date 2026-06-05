@@ -2,7 +2,7 @@
 iso: yia
 name: Yinggarda
 autonym: Ingara
-alt_names: [Angaardi, Angaardie, Angardie, Ingada, Ingadi, Ingarda, Ingarra, Ingarrah, Inggadi, Inggarda, Ingra, Inparra, Jaburu, Jaburua, Jinggarda, Kakarakala, Kurudandi, Lenga yinggarda, Mandi, Manthi, Tedei, Thirrily, YinggardaAngardie, Yingkarta]
+alt_names: [Angaardi, Angaardie, Angardie, Ingada, Ingadi, Ingarda, Ingarra, Ingarrah, Inggadi, Inggarda, Ingra, Inparra, Jaburu, Jaburua, Jinggarda, Kakarakala, Kurudandi, Mandi, Manthi, Tedei, Thirrily, YinggardaAngardie, Yingkarta]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,7 +2,7 @@
 iso: teo
 name: Teso
 autonym: Ateso
-alt_names: [Bakedi, Bakidi, Elgumi, Etossio, Ikumama, Lugha ya Kiteso, Língua ateso, Tesoeg, Wamia]
+alt_names: [Bakedi, Bakidi, Elgumi, Etossio, Ikumama, Tesoeg, Wamia]
 population: 2778000
 country_id: UG
 country_name: Uganda

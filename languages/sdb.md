@@ -2,7 +2,7 @@
 iso: sdb
 name: Shabak
 autonym: شەبەکی
-alt_names: ["Iraq, Iran", Língua shabaki, Shabaki language]
+alt_names: ["Iraq, Iran", Shabaki language]
 population: 250000
 country_id: IQ
 country_name: Iraq

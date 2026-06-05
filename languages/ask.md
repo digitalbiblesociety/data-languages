@@ -2,7 +2,7 @@
 iso: ask
 name: Ashkun
 autonym: "Saňu-vīri"
-alt_names: [Ashkun jezik, Ashkund, Ashkuni, Askun, Askunu, Askunu language, Askún, Askúnska, Język aszkun, Lingua ascunu, Wamai, Wamayi, Ашкун, ภาษาอัสกุนุ]
+alt_names: [Ashkund, Ashkuni, Askun, Askunu, Askunu language, Askún, Askúnska, Wamai, Wamayi, Ашкун]
 population: 1200
 country_id: AF
 country_name: Afghanistan

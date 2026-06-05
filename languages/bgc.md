@@ -2,7 +2,7 @@
 iso: bgc
 name: Haryanvi
 autonym: हरयाणवी
-alt_names: [Bangaru, Banger, Bangri, Bangru, Chamarwa, Desari, Deswali, Hariani, Harianvi, Hariyani, Haryani, Jati, Jatu, "Хар'янві", ภาษาหริยนวี, ハリヤーンウィー語]
+alt_names: [Bangaru, Banger, Bangri, Bangru, Chamarwa, Desari, Deswali, Hariani, Harianvi, Hariyani, Haryani, Jati, Jatu, "Хар'янві"]
 population: 9811000
 country_id: IN
 country_name: India

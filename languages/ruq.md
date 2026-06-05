@@ -2,7 +2,7 @@
 iso: ruq
 name: Megleno Romanian
 autonym: vlăheshte
-alt_names: [Idioma meglenorrumano, Język meglenorumuński, Limba meglenoromână, Lingua Meglenoromanica, Lingua megleno-romanesa, Lingua meglenorumena, Meglenera, Meglenite, Meglenitic, Megleno, Megleno-Roemeens, Megleno-Romanian, Megleno-Romanian language, Megleno-Rumanian, Megleno-Rumence, Megleno-rumanu, Meglenoromán nyelv, Meglenorumensk, Meglenorumunjski jezik, Meglenorumänische Sprache, Meglenorumäänsch, Mégléno-roumain, Other Roumanian Lects, Romanian, "Romanian, Megleno", Romeno meglesita, Rumano meglenita, Βλάχικη (Μογλενίτικη) γλώσσα, Меглено-романски јазик, Мегленорумынский язык, Мъгленорумънски език]
+alt_names: [Meglenera, Meglenite, Meglenitic, Megleno, Megleno-Roemeens, Megleno-Romanian, Megleno-Romanian language, Megleno-Rumanian, Megleno-Rumence, Megleno-rumanu, Meglenorumensk, Meglenorumäänsch, Mégléno-roumain, Other Roumanian Lects, Romanian, "Romanian, Megleno", Romeno meglesita, Rumano meglenita]
 population: 3000
 country_id: GR
 country_name: Greece

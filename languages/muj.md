@@ -2,7 +2,7 @@
 iso: muj
 name: Mabire
 autonym: null
-alt_names: [Lenga Mabire, Mabiri]
+alt_names: [Mabiri]
 population: null
 country_id: TD
 country_name: Chad

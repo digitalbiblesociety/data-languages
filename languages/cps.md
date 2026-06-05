@@ -2,7 +2,7 @@
 iso: cps
 name: Capiznon
 autonym: Capiceño
-alt_names: [Bisaya, Capisano, Capiseño, ภาษากาปิซนอน]
+alt_names: [Bisaya, Capisano, Capiseño]
 population: 710000
 country_id: PH
 country_name: Philippines

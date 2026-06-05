@@ -2,7 +2,7 @@
 iso: enx
 name: Enxet
 autonym: Énxet nempeywa
-alt_names: [Chánepyeyam, Enhlit, Enlhit, Enlhit Nipiyam, Enxet Sur, Lengua, Lengua Sur, Southern Lengua]
+alt_names: [Chánepyeyam, Enhlit, Enlhit, Enlhit Nipiyam, Enxet Sur, Lengua]
 population: 3840
 country_id: PY
 country_name: Paraguay

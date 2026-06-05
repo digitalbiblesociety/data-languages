@@ -2,7 +2,7 @@
 iso: njm
 name: Angami Naga
 autonym: Angamis
-alt_names: [Angameg, Angami, Angami language, Chokri, Gnamei, Monr, Naga, "Naga, Angami", "Naga,Angami", Ngami, Tendydie, Tsanglo, Tsoghami, Tsugumi, Ангами, ภาษาองามี]
+alt_names: [Angameg, Angami, Angami language, Chokri, Gnamei, Monr, Naga, "Naga, Angami", "Naga,Angami", Ngami, Tendydie, Tsanglo, Tsoghami, Tsugumi, Ангами]
 population: 153000
 country_id: IN
 country_name: India

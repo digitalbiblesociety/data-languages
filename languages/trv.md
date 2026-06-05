@@ -2,7 +2,7 @@
 iso: trv
 name: Taroko
 autonym: Taroko
-alt_names: [Bu-Hwan, Che-Hwan, Daiya-Ataiyal, Hogo, Iboho, Lingua Seediq, Paran, Saediq, Sazek, Sedek, Sedeq, Sediakk, Sedik, Sediq, Seedek, Seedeq, Seedik, Seediq, Seediq language, Sejiq, Shedekka, Sprache von Formosa, Taruku, Tgdaya, Toda, Toroko, Truku, 太魯閣語, 賽德克語, 都達方言]
+alt_names: [Bu-Hwan, Che-Hwan, Daiya-Ataiyal, Hogo, Iboho, Paran, Saediq, Sazek, Sedek, Sedeq, Sediakk, Sedik, Sediq, Seedek, Seedeq, Seedik, Seediq, Seediq language, Sejiq, Shedekka, Taruku, Tgdaya, Toda, Toroko, Truku, 都達方言]
 population: 20000
 country_id: TW
 country_name: Taiwan

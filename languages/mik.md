@@ -2,7 +2,7 @@
 iso: mik
 name: Mikasuki
 autonym: "Hitchiti-Mikasuki"
-alt_names: [Hitchiti, Hitchiti-Mikasuki-Sprache, Miccosukee, Mikasoukieg, Mikasuki Cluster, Mikasuki Seminole, Mikasuki simi, Mikasukin kieli, Микасуки]
+alt_names: [Hitchiti, Hitchiti-Mikasuki-Sprache, Miccosukee, Mikasoukieg, Mikasuki Cluster, Mikasuki Seminole, Mikasuki simi, Микасуки]
 population: 290
 country_id: US
 country_name: United States

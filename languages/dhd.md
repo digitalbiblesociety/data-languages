@@ -2,7 +2,7 @@
 iso: dhd
 name: Dhundari
 autonym: ढूंढाड़ी
-alt_names: [Dhundari-Marwari, Jaipuri, Lenga dundari, Lingua Dhundhari]
+alt_names: [Dhundari-Marwari, Jaipuri]
 population: 1480000
 country_id: IN
 country_name: India

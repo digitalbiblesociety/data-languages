@@ -2,7 +2,7 @@
 iso: pmj
 name: Southern Pumi
 autonym: Prinmi
-alt_names: [Northern, "P'rome", "P'umi", "P'ömi", Pimi, Primi, Primmi, Pruumi, Pumi, "Pumi, Southern", "Pumi,Southern", Southern, Southern Prinmi, 南普米語]
+alt_names: [Northern, "P'rome", "P'umi", "P'ömi", Pimi, Primi, Primmi, Pruumi, Pumi, "Pumi, Southern", "Pumi,Southern", Southern, Southern Prinmi]
 population: 19000
 country_id: CN
 country_name: China

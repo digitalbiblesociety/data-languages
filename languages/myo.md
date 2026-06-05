@@ -2,7 +2,7 @@
 iso: myo
 name: Anfillo
 autonym: Mao
-alt_names: [Anfilo, Anfiloeg, Bahasa Anfillo, South Mao, Southern Mao]
+alt_names: [Anfilo, Anfiloeg, South Mao, Southern Mao]
 population: 1000
 country_id: ET
 country_name: Ethiopia

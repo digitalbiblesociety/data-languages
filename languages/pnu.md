@@ -2,7 +2,7 @@
 iso: pnu
 name: Jiongnai Bunu
 autonym: Jiongnai
-alt_names: [Bunu, Bunu jiongnai, "Bunu, Jiongnai", Bunú jiongnai, Chiung-nai, Hualan Yao, Jiongnaihua, Kiong Nai, Punu, Qiungnai, 炯奈語, 花籃瑤]
+alt_names: [Bunu, Bunu jiongnai, "Bunu, Jiongnai", Bunú jiongnai, Chiung-nai, Hualan Yao, Jiongnaihua, Kiong Nai, Punu, Qiungnai, 花籃瑤]
 population: 1080
 country_id: CN
 country_name: China

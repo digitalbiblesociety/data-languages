@@ -2,7 +2,7 @@
 iso: apd
 name: Sudanese Arabic
 autonym: لهجة سودانية
-alt_names: [Arabeg Soudan, Arabic, "Arabic, Sudanese", "Arabic, Sudanese Spoken", Khartoum Arabic, Sudanese, Sudanesisch-Arabisch, Sudanski arapski, Судански арапски јазик]
+alt_names: [Arabeg Soudan, Arabic, "Arabic, Sudanese", "Arabic, Sudanese Spoken", Khartoum Arabic, Sudanese, Sudanesisch-Arabisch, Sudanski arapski]
 population: 31900000
 country_id: SD
 country_name: Sudan

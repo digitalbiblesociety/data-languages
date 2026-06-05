@@ -2,7 +2,7 @@
 iso: sin
 name: Sinhala
 autonym: Sinhalese
-alt_names: [Bahasa Sinhala, Cingalais, Cingalese, Cingalés, Fiteny singalesa, Idioma cingalés, Język syngaleski, Lengua singaleise, Lingua Singhalensis, Lingua singalese, Língua sinhala, Seylanca, Singalees, Singalesisk, Singalesiska, Singalščina, Singhalese, Singhalesische Sprache, Sinhala lingvo, Sinhala simi, Sinhaleg, Sinhali, Sinhálština, singhalais, Сингальский язык, Синхалски език, زبان سینهالی, سىنگال تىلى, لغة سنهالية, सिंहला भाषा, सिंहली भाषा, সিংহলি ভাষা, சிங்களம், සිංහල භාෂාව, ภาษาสิงหล, シンハラ語, 僧伽罗语, 싱할라어]
+alt_names: [Cingalais, Cingalese, Cingalés, Fiteny singalesa, Seylanca, Singalees, Singalesisk, Singalesiska, Singhalese, Sinhala simi, Sinhaleg, Sinhali, singhalais, سىنگال تىلى, சிங்களம்]
 population: 15300000
 country_id: LK
 country_name: Sri Lanka

@@ -2,7 +2,7 @@
 iso: urd
 name: Urdu
 autonym: اُردُو
-alt_names: [An Urdais, Bahasa Urdu, Fiteny urdu, Hindustani, Islami, Język urdu, Lengua urdu, Limba urdu, Lingua Urdu, Lingua urdú, Língua urdu, Oerdoe, Ordo, Ourdou, Ourdoueg, Pinulongang Urdu, Tiếng Urdu, Undri, Urdu dili, Urdu jezik, Urdu nyelv, Urdu simi, Urdu-gí, Urduca, Urdugiella, Urduo, Urdušćina, Urdú, Urdština, Urudu, Wrdw, Забони урду, Урду, Урду јазик, אורדו, أردو, ئوردو تىلى, اردو, زبان اردو, ܠܫܢܐ ܕܐܘܪܕܘ, އުރުދޫ, उर्दू, उर्दू भाषा, উর্দু ঠার, উর্দু ভাষা, ઉર્દુ ભાષા, உருது, ఉర్దూ భాష, ಉರ್ದೂ, ഉർദു, ภาษาอูรดู, ურდუ ენა, ウルドゥー語, 乌尔都语, 우르두어]
+alt_names: [An Urdais, Fiteny urdu, Hindustani, Islami, Oerdoe, Ordo, Ourdou, Ourdoueg, Undri, Urdu simi, Urdu-gí, Urduca, Urdugiella, Urduo, Urdú, Urudu, Wrdw, Забони урду, Урду, אורדו, أردو, ئوردو تىلى, اردو, ܠܫܢܐ ܕܐܘܪܕܘ, އުރުދޫ, उर्दू, উর্দু ঠার, உருது, ಉರ್ದೂ, ഉർദു]
 population: 68600000
 country_id: PK
 country_name: Pakistan

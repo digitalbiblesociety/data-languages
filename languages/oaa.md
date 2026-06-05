@@ -2,7 +2,7 @@
 iso: oaa
 name: Orok
 autonym: Uilta
-alt_names: [Oroka lingvo, Orokisk, Sprache der Oroken, Ujlta, Ulta, Орок чĕлхи, орокский язык, уйльта, ульта, ウィルタ語, 윌타어]
+alt_names: [Orokisk, Ujlta, Ulta, уйльта, ульта]
 population: 346
 country_id: RU
 country_name: Russia

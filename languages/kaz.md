@@ -2,7 +2,7 @@
 iso: kaz
 name: Kazakh
 autonym: Kazak
-alt_names: [An Chasaicis, Bahasa Kazak, Cazac, Gazaqi, Gjuha kazake, Hazake, Idioma cazaco, Idioma kazajo, Język kazachski, Kaisak, Kasachische Sprache, Kasahhi keel, Kasakhisk, Kasakska, Kazachs, Kazachsko godka, Kazachų kalba, Kazahu valoda, Kazakeg, Kazakhi, Kazakin kieli, Kazakiska, Kazakça, Kazax, Kazaĥa lingvo, Kazaština, Kazaščina, Kikazakhi, Kosach, Limba kazahă, Lingua Casachica, Lingua casaca, Lingua kazaka, Língua cazaque, Qasaq simi, Qazah tili, Qazaq, Qazaq tele, Qazaq tili, Qazaqi, Qazax dili, Qozoq tili, Èdè Kàsákhì, Забони қазоқӣ, Казак тили, Казак хэл, Казаская мова, Казах тыла, Казах чĕлхи, Казахская мова, Казахски език, Казахский язык, Казахська мова, Казашки јазик, Хасаг хэлэн, Қазақ тілі, Ҡазаҡ теле, קזחית, زبان قزاقی, قازاق تىلى, لغة كازاخية, कजाक भाषा, কাজাখ ভাষা, ภาษาคาซัค, ყაზახური ენა, カザフ語, 哈萨克语, 카자흐어]
+alt_names: [An Chasaicis, Cazac, Gazaqi, Hazake, Kaisak, Kasakhisk, Kasakska, Kazachs, Kazachsko godka, Kazakeg, Kazakhi, Kazakiska, Kazakça, Kazax, Kikazakhi, Kosach, Qasaq simi, Qazah tili, Qazaq, Qazaq tele, Qazaq tili, Qazaqi, Qozoq tili, Забони қазоқӣ, Казах тыла, Ҡазаҡ теле, קזחית, قازاق تىلى]
 population: 12900000
 country_id: KZ
 country_name: Kazakhstan

@@ -2,7 +2,7 @@
 iso: pwn
 name: Paiwan
 autonym: Vinuculjan
-alt_names: [Butanglu, Idioma paiwan, Kadas, Kale-Whan, Kapiangan, Katausan, Kulalao dialect, Li-Li-Sha, Lingua Paiwan, Paiuan, Paiwaans, Paiwaneg, Payowan, Phài-vàn-ngî, Samobi, Samohai, Saprek, Sprache von Formosa, Stimul, Tamari, Wikang Paiwan, ภาษาไปวัน, 排湾语]
+alt_names: [Butanglu, Kadas, Kale-Whan, Kapiangan, Katausan, Kulalao dialect, Li-Li-Sha, Paiuan, Paiwaans, Paiwaneg, Payowan, Phài-vàn-ngî, Samobi, Samohai, Saprek, Stimul, Tamari]
 population: 103000
 country_id: TW
 country_name: Taiwan

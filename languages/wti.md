@@ -2,7 +2,7 @@
 iso: wti
 name: Berta
 autonym: Gebeto
-alt_names: [Barta, Beni Shangul, Berta jezik, Bertha, Burta, Idioma berta, Jebelawi, Język berta, Wetawit, Yezhoù bertek, Берта]
+alt_names: [Barta, Beni Shangul, Bertha, Burta, Jebelawi, Wetawit, Yezhoù bertek, Берта]
 population: 377000
 country_id: ET
 country_name: Ethiopia

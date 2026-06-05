@@ -2,7 +2,7 @@
 iso: eng
 name: English
 autonym: English
-alt_names: [Anglais moderne, Englisch, Inglese moderno, Inglês moderno, Modern English, Moderna angla lingvo, Moderne engelsk, Modernes Englisch, Nyengelska, anglais, თანამედროვე ინგლისური პერიოდი, 現代英語, 近代英語]
+alt_names: [Anglais moderne, Englisch, Inglese moderno, Inglês moderno, Modern English, Moderne engelsk, Modernes Englisch, Nyengelska, anglais, თანამედროვე ინგლისური პერიოდი]
 population: 379000000
 country_id: GB
 country_name: United Kingdom

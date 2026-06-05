@@ -2,7 +2,7 @@
 iso: nrc
 name: Noric
 autonym: null
-alt_names: [Idioma nórico, Lingua nórica, Língua nórica, Norisch, Norische Sprache, Норикский язык, Норички јазик]
+alt_names: [Norisch]
 population: null
 country_id: AT
 country_name: Austria

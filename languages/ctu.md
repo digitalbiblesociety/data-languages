@@ -2,7 +2,7 @@
 iso: ctu
 name: Chol
 autonym: "Chol, Tumbalá"
-alt_names: ["Ch'ol", "Ch'ol de Sabanilla", "Ch'ol language", Chols, Idioma chol, "Lingua Ch'ol", Língua chol, Tumbalá, Čoli, Чолски јазик, 喬爾語, 촐어]
+alt_names: ["Ch'ol", "Ch'ol de Sabanilla", "Ch'ol language", Chols, Tumbalá, Čoli]
 population: 252000
 country_id: MX
 country_name: Mexico

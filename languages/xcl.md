@@ -2,7 +2,7 @@
 iso: xcl
 name: Classical Armenian
 autonym: գրաբար
-alt_names: [Altarmenische Sprache, "Armenian, Classical", Arménien ancien, Gammelarmensk, Grabar, Krabar, Old Armenian, Oud-Armeens, Грабар, Рагсомихаг æвзаг, ძველი სომხური ენა, 古典アルメニア語]
+alt_names: ["Armenian, Classical", Arménien ancien, Gammelarmensk, Grabar, Krabar, Old Armenian, Oud-Armeens, Грабар]
 population: null
 country_id: AM
 country_name: Armenia

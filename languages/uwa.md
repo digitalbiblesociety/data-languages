@@ -2,7 +2,7 @@
 iso: uwa
 name: "Kuku-Uwanh"
 autonym: "Wik-Muminh"
-alt_names: [Kugu Nganhcara, Kugu-Uwanh, Kugu-Uwanh language, Kuku Nganhcara, Lenga kuku-uwanh]
+alt_names: [Kugu Nganhcara, Kugu-Uwanh, Kugu-Uwanh language, Kuku Nganhcara]
 population: null
 country_id: AU
 country_name: Australia

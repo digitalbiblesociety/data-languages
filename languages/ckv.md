@@ -2,7 +2,7 @@
 iso: ckv
 name: Kavalan
 autonym: kbaran
-alt_names: [Cabaran, Kabalan, Kabaran, Kamalan, Kavalano, Kavanan, Kavarauan, Kbalan, Kibalan, Kiwaraw, Kiwarawa, Kuvalan, Kuvarawan, Kuwarawan, Kvalan, Lingua Kavalan, Shekwan, Sprache von Formosa, ภาษากาวาลัน, クバラン語, 噶瑪蘭語]
+alt_names: [Cabaran, Kabalan, Kabaran, Kamalan, Kavalano, Kavanan, Kavarauan, Kbalan, Kibalan, Kiwaraw, Kiwarawa, Kuvalan, Kuvarawan, Kuwarawan, Kvalan, Shekwan]
 population: 200
 country_id: TW
 country_name: Taiwan

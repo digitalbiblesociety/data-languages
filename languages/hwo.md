@@ -2,7 +2,7 @@
 iso: hwo
 name: Hwana
 autonym: Fiterya
-alt_names: ["C'hwaneg", Hona, Hwana jezik, Hwona, Língua hwana, Tuftera]
+alt_names: ["C'hwaneg", Hona, Hwona, Tuftera]
 population: 32000
 country_id: NG
 country_name: Nigeria

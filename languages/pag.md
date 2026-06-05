@@ -2,7 +2,7 @@
 iso: pag
 name: Pangasinan
 autonym: Pangasinense
-alt_names: [Idioma pangasinense, Język pangasinan, Pagsasao a Pangasinan, Pangasinana lingvo, Pangasinense nga yinaknan, Philippines, Salitan Pangasinan, Wikang Panggasinan, Пангасинанский язык, ภาษาปางาซินัน, ፓንጋሲናንኛ, パンガシナン語]
+alt_names: [Pagsasao a Pangasinan, Pangasinense nga yinaknan, Philippines, Salitan Pangasinan]
 population: 1243660
 country_id: PH
 country_name: Philippines

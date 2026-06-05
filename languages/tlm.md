@@ -2,7 +2,7 @@
 iso: tlm
 name: Tolomako
 autonym: Bigbay
-alt_names: [Big Bay, Idioma tolomako, Marina, Tolomako-Jereviu]
+alt_names: [Big Bay, Marina, Tolomako-Jereviu]
 population: 900
 country_id: VU
 country_name: Vanuatu

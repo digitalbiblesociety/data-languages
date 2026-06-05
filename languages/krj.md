@@ -2,7 +2,7 @@
 iso: krj
 name: "Kinaray-A"
 autonym: "Kinaray-a"
-alt_names: [Antiqueño, Ati, Bisaya, Hamtiknon, Hinaray-A, Karay-A, Kinaray-a-ngî, Kiniray-A, Panayano, Sulud, Кинарайский язык, ภาษากินารายอา]
+alt_names: [Antiqueño, Ati, Bisaya, Hamtiknon, Hinaray-A, Karay-A, Kinaray-a-ngî, Kiniray-A, Panayano, Sulud]
 population: 601000
 country_id: PH
 country_name: Philippines

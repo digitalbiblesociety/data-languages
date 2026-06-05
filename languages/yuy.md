@@ -2,7 +2,7 @@
 iso: yuy
 name: East Yugur
 autonym: Eastern Yogor
-alt_names: [Eastern Yugur language, Enger, Język szera-jögurski, Mongolic Yellow Uighur, Shera Yogur, Shira Yughur, Shira Yugur, Shira yougur, Yellow Uighur, Yogor, Yougoureg ar reter, Yugar, Yugu, Yugur oriental, Yugur sira, "Yugur, East", Yögur, Šera-Yögur, Источен југурски јазик, Шира-югурский язык, 东部裕固语, 東部裕固語]
+alt_names: [Eastern Yugur language, Enger, Mongolic Yellow Uighur, Shera Yogur, Shira Yughur, Shira Yugur, Shira yougur, Yellow Uighur, Yogor, Yougoureg ar reter, Yugar, Yugu, Yugur oriental, Yugur sira, "Yugur, East", Yögur, Šera-Yögur]
 population: 3000
 country_id: CN
 country_name: China

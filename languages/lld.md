@@ -2,7 +2,7 @@
 iso: lld
 name: Ladin
 autonym: lingaz ladin
-alt_names: [Bahasa Ladin, Dolomiana Latina lingua, Dolomite, Idioma ladino, Idioma ladín, Język ladyński, Ladin nyelv, Ladina lingvo, Ladineg, Ladinera, Ladinies, Ladinisch, Ladinische Sprache, Ladinish, Ladinisk, Ladino, Ladinsk, Ladinska, Ladinčina, Ladinština, Ladinų kalba, Ladí, Lenga ladin-a, Lenghe ladine, Lengua ladina, Limba ladină, Lingua ladina, Língua ladino-dolomítica, Raeto-Romance, Rhaetian, Rhaetian Latin, Rhaeto-Romance, Rhaeto-Romanic, Rheto-Romance, Łéngoa ładina, Језик ладин, Ладин йылме, Ладинский язык, ラディン語, 拉登語]
+alt_names: [Dolomite, Ladineg, Ladinera, Ladinies, Ladinisch, Ladinish, Ladinisk, Ladino, Ladinsk, Ladinska, Ladí, Lenghe ladine, Raeto-Romance, Rhaetian, Rhaetian Latin, Rhaeto-Romance, Rhaeto-Romanic, Rheto-Romance, Łéngoa ładina, Ладин йылме]
 population: 31000
 country_id: IT
 country_name: Italy

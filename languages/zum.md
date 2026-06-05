@@ -2,7 +2,7 @@
 iso: zum
 name: Kumzari
 autonym: Kumzai
-alt_names: [Idioma kumzari, Kamzáree, Komzari, Komzāri, Koumzareg, Kumzarų kalba, Kumzāri, Kûmzarî, Luenga kumzari, زبان کمزاری, شاريَْکُ, شاریَْکُ, كمزارى, ภาษากุมซารี]
+alt_names: [Kamzáree, Komzari, Komzāri, Koumzareg, Kumzāri, Kûmzarî, Luenga kumzari, شاريَْکُ, شاریَْکُ, كمزارى]
 population: 1700
 country_id: OM
 country_name: Oman

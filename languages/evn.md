@@ -2,7 +2,7 @@
 iso: evn
 name: Evenki
 autonym: Эвэды̄ турэ̄нᠢ
-alt_names: [Avanki, Avankil, Chapogir, Evenka lingvo, Evenki nyelv, Evenkieg, Evenkin kieli, Evenkisk, Evenkisk språk, Evenkovčina, Evenkų kalba, Ewenke, Ewenki, Ewenkische, Ewenkische Sprache, Idioma evenki, Język ewenkijski, Língua evenki, Manegir, Northwestern, Owenke, Siberian Ewenki, Solon, Sprache der Hiesigen, Suolun, Tungus, ewen-ki, Евенки јазик, Евенкски език, Евенкійська мова, Эбэҥки тыла, Эвенкийский язык, тунгусский язык, эвенкский язык, эвэды̄ турэ̄н, אבנקית, ภาษาเอเวนค์, 埃文基語, 鄂温克语, 鄂溫克語, 陳巴爾虎莫日格勒河方言, 雅庫特鄂溫克語, 예벤키어]
+alt_names: [Avanki, Avankil, Chapogir, Evenkieg, Evenkisk, Ewenke, Ewenki, Ewenkische, Manegir, Northwestern, Owenke, Siberian Ewenki, Solon, Suolun, Tungus, ewen-ki, Эбэҥки тыла, эвэды̄ турэ̄н, אבנקית, 陳巴爾虎莫日格勒河方言]
 population: 1600
 country_id: CN
 country_name: China

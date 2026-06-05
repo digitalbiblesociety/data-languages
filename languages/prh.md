@@ -2,7 +2,7 @@
 iso: prh
 name: Porohanon
 autonym: Camotes
-alt_names: [Bisaya, ภาษาโปโรฮานอน]
+alt_names: [Bisaya]
 population: 23000
 country_id: PH
 country_name: Philippines

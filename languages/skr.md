@@ -2,7 +2,7 @@
 iso: skr
 name: Saraiki
 autonym: سرائیکی
-alt_names: [Bahasa Siraiki, Bahawalpuri, Lahnda, Lenga seraiki, Lingua Saraiki, Multani, Mutani, Reasati, Riasiti, Seraiki, Siraiki, Southern Panjabi, لغة سرائيكية, ภาษาสิไรกิ]
+alt_names: [Bahawalpuri, Lahnda, Multani, Mutani, Reasati, Riasiti, Seraiki, Siraiki, Southern Panjabi]
 population: 26009000
 country_id: PK
 country_name: Pakistan

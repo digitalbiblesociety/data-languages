@@ -2,7 +2,7 @@
 iso: gnk
 name: ǁGana
 autonym: Dxana
-alt_names: [//Gana, //Ganakhwe, /Khessakoe, "?gana", G//ana, G//anakhwe, Gana, Ganakue, Gxana, Gxanna, "G||ana", "G||ana-Khwe", Gǁana language, Kanakhoe, Kanakoe, "||Gana", ǁGana jezik, Лъгана-цъгви]
+alt_names: [//Gana, //Ganakhwe, /Khessakoe, "?gana", G//ana, G//anakhwe, Gana, Ganakue, Gxana, Gxanna, "G||ana", "G||ana-Khwe", Gǁana language, Kanakhoe, Kanakoe, "||Gana", Лъгана-цъгви]
 population: 2000
 country_id: BW
 country_name: Botswana

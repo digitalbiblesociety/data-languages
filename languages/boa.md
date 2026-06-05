@@ -2,7 +2,7 @@
 iso: boa
 name: Bora
 autonym: Meamuyna
-alt_names: [Bora Miranya, Bora simi, Bora-Miranya, Boraeg, Boro, Idioma bora, Imihita, Miranha, Miranya, Miraña (Brésil), Miraña (Colombia), Miraña (Colombie), Miriña, 𐌱𐍉𐍂𐍉𐍂𐌰𐌶𐌳𐌰]
+alt_names: [Bora Miranya, Bora simi, Bora-Miranya, Boraeg, Boro, Imihita, Miranha, Miranya, Miraña (Brésil), Miraña (Colombia), Miraña (Colombie), Miriña, 𐌱𐍉𐍂𐍉𐍂𐌰𐌶𐌳𐌰]
 population: 1350
 country_id: PE
 country_name: Peru

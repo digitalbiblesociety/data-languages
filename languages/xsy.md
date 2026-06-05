@@ -2,7 +2,7 @@
 iso: xsy
 name: Saisiyat
 autonym: SaiSiyat
-alt_names: [Amutoura, Bouiok, Lingua Saisiyat, Saiset, Saisett, Saisiat, Saisiett, Saisirat, Saisiyat-ngî, Saisyet, Saisyett, Seisirat, Sprache von Formosa, ภาษาไซซิยัต, 賽夏語]
+alt_names: [Amutoura, Bouiok, Saiset, Saisett, Saisiat, Saisiett, Saisirat, Saisiyat-ngî, Saisyet, Saisyett, Seisirat]
 population: 4750
 country_id: TW
 country_name: Taiwan

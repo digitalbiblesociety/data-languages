@@ -2,7 +2,7 @@
 iso: laj
 name: Lango
 autonym: Lwo
-alt_names: [Langi, Lango, Lango language, Leb-Lano, Lengua Lango, Lwoo, Língua langu, Ланго]
+alt_names: [Langi, Lango, Lango language, Leb-Lano, Lwoo, Ланго]
 population: 2130000
 country_id: UG
 country_name: Uganda

@@ -2,7 +2,7 @@
 iso: mbr
 name: Nukak Makú
 autonym: Guaviare
-alt_names: [Idioma nukak, Macusa, Maczsa, Makusa, Nukak, Nukak Maku, Nukak language, Nukak-makú, Waviare]
+alt_names: [Macusa, Maczsa, Makusa, Nukak, Nukak Maku, Nukak language, Nukak-makú, Waviare]
 population: 400
 country_id: CO
 country_name: Colombia

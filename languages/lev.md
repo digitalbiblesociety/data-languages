@@ -2,7 +2,7 @@
 iso: lev
 name: Lamma
 autonym: bahasa Lamma
-alt_names: ["Lamma'", Lemma, Mauta, Pantar Barat, Tubbe, Western Pantar, Western Pantar language, ภาษาปันตาร์ตะวันตก]
+alt_names: ["Lamma'", Lemma, Mauta, Pantar Barat, Tubbe, Western Pantar, Western Pantar language]
 population: 10000
 country_id: ID
 country_name: Indonesia

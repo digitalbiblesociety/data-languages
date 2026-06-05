@@ -2,7 +2,7 @@
 iso: bdn
 name: Baldemu
 autonym: Mbazlam
-alt_names: [Balda, Baldamou, Baldamu, Baldare, Baldemu jezik, Mbazla]
+alt_names: [Balda, Baldamou, Baldamu, Baldare, Mbazla]
 population: 4
 country_id: CM
 country_name: Cameroon

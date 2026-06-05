@@ -2,7 +2,7 @@
 iso: esq
 name: Esselen
 autonym: Huelel
-alt_names: [Esselenian, Idioma esselen, USA, Эсселенский язык]
+alt_names: [Esselenian, USA]
 population: null
 country_id: US
 country_name: United States

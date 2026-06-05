@@ -2,7 +2,7 @@
 iso: roo
 name: Rotokas
 autonym: null
-alt_names: [Język rotokas, Kunua-Keriaka-Rotokas-Eivo, Língua rotokas, Rotokasa lingvo, Rotokaseg, Rotokasz nyelv, Ротокас, 羅托卡特語, 로토카스어]
+alt_names: [Kunua-Keriaka-Rotokas-Eivo, Rotokaseg, Ротокас]
 population: 4320
 country_id: PG
 country_name: Papua New Guinea

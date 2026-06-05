@@ -2,7 +2,7 @@
 iso: ker
 name: Kera
 autonym: Tuburi
-alt_names: [East Chadic A.3, Kera Group, Kera jezik, Keraeg, Kere]
+alt_names: [East Chadic A.3, Kera Group, Keraeg, Kere]
 population: 50500
 country_id: TD
 country_name: Chad

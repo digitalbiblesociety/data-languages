@@ -2,7 +2,7 @@
 iso: arz
 name: Egyptian Arabic
 autonym: اللهجه المصريه
-alt_names: [Araba egipteană, Arabe echipcio, Arabe égyptien, Arabeg Egipt, Arabic, Arabic (Cairene Egyptian Colloquial), Arabic (Cairene), Arabic (Colloquial Egyptian), Arabic (Eastern), Arabic (Egyptian), "Arabic, Egyptian", "Arabic, Egyptian Spoken", Bahasa Arab Mesir, Basa Arab Mesir, Dialekt egipski języka arabskiego, Egipatski arapski, Egipto arabų kalba, Egyptian, Egyptian Colloquial Arabic, Egyptian Spoken, Egyptisk arabiska, Lower Egypt Arabic, Massry, Normal Egyptian Arabic, Árabe egipcio, Árabe egípcio, Ägyptisch-Arabisch, Египетски арабски език, Египетски арапски јазик, ערבית מצרית, اللغه المصريه الحديثه, لهجة مصرية, アラビア語エジプト方言, 이집트 구어체 아랍어]
+alt_names: [Araba egipteană, Arabe echipcio, Arabe égyptien, Arabeg Egipt, Arabic, Arabic (Cairene Egyptian Colloquial), Arabic (Cairene), Arabic (Colloquial Egyptian), Arabic (Eastern), Arabic (Egyptian), "Arabic, Egyptian", "Arabic, Egyptian Spoken", Dialekt egipski języka arabskiego, Egipatski arapski, Egyptian, Egyptian Colloquial Arabic, Egyptian Spoken, Egyptisk arabiska, Lower Egypt Arabic, Massry, Normal Egyptian Arabic, Árabe egipcio, Árabe egípcio, Ägyptisch-Arabisch, ערבית מצרית, اللغه المصريه الحديثه, لهجة مصرية]
 population: 68000000
 country_id: EG
 country_name: Egypt

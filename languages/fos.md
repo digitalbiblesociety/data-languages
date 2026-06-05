@@ -2,7 +2,7 @@
 iso: fos
 name: Siraya
 autonym: Baksa
-alt_names: [Formosan, Formosanisch, Lingua Siraya, Pepo-Hwan, Pepohoan, Sideia, Sideis, Sideisch, Siraia, Siraiya, Sprache von Formosa, 西拉雅語]
+alt_names: [Formosan, Formosanisch, Pepo-Hwan, Pepohoan, Sideia, Sideis, Sideisch, Siraia, Siraiya]
 population: null
 country_id: TW
 country_name: Taiwan

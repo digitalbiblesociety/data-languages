@@ -2,7 +2,7 @@
 iso: xeg
 name: ǁXegwi
 autonym: "||Xegwe"
-alt_names: [//Xegwi, //Xekwi, "?xegwi", Abathwa, Amabusmana, Amankgqwigqwi, Batwa, Boroa, Bush-C, "Gi|kxigwi", "Ki||kxigwi", Kloukle, Lxloukxle, Nkqeshe, Tloue, Tloutle, Xegwi, "||Xegwi", "||Xekwi", ǁXegwi jezik]
+alt_names: [//Xegwi, //Xekwi, "?xegwi", Abathwa, Amabusmana, Amankgqwigqwi, Batwa, Boroa, Bush-C, "Gi|kxigwi", "Ki||kxigwi", Kloukle, Lxloukxle, Nkqeshe, Tloue, Tloutle, Xegwi, "||Xegwi", "||Xekwi"]
 population: null
 country_id: ZA
 country_name: South Africa

@@ -2,7 +2,7 @@
 iso: tdh
 name: Thulung
 autonym: Tholong Lo
-alt_names: [Rai, Thulu Luwa, Thululoa, Thulung Jemu, Thulung La, Thulunge Rai, Thulungish, Thulungo, Toaku Lwa, Touloungeg, Тхулунґ, ภาษาทูลุง]
+alt_names: [Rai, Thulu Luwa, Thululoa, Thulung Jemu, Thulung La, Thulunge Rai, Thulungish, Thulungo, Toaku Lwa, Touloungeg, Тхулунґ]
 population: 20700
 country_id: NP
 country_name: Nepal

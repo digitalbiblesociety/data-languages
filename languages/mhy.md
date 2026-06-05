@@ -2,7 +2,7 @@
 iso: mhy
 name: "Ma'anyan"
 autonym: "Ma'anjan"
-alt_names: [Bahasa Maanyan, Dayak, "Lenga Ma'anyan", "Ma'anyančina", Maanyak Dayak, Maanyan, "South East (Ma'anyan)"]
+alt_names: [Dayak, Maanyak Dayak, Maanyan, "South East (Ma'anyan)"]
 population: 150000
 country_id: ID
 country_name: Indonesia

@@ -2,7 +2,7 @@
 iso: nnv
 name: Nugunu
 autonym: Doora
-alt_names: [Barutadura, Eura, Lenga nugunu, Njuguna, Nokunna, Noocoona, Nookoona, Nu guna, Nu-guna, Nuguna, Nugunu, Nukana, Nukuna, Nukunna, Nukunnu, Nukunu, Nukunu language, Other Australian Indigenous Languages, Pukunna, Tjura, Tura, Tyra, Tyura, Wallaroo, Warra, Wongaidja, Wongaidya]
+alt_names: [Barutadura, Eura, Njuguna, Nokunna, Noocoona, Nookoona, Nu guna, Nu-guna, Nuguna, Nugunu, Nukana, Nukuna, Nukunna, Nukunnu, Nukunu, Nukunu language, Other Australian Indigenous Languages, Pukunna, Tjura, Tura, Tyra, Tyura, Wallaroo, Warra, Wongaidja, Wongaidya]
 population: null
 country_id: AU
 country_name: Australia

@@ -2,7 +2,7 @@
 iso: lep
 name: Lepcha
 autonym: ᰛᰩᰵᰛᰧᰵᰶ
-alt_names: [Język lepcza, Lapcha, Lapche, Lepchaish, Lepoha, Leptśa, Lingua Lepcha, Nümpa, Nünpa, Rong, Rongke, Rongpa, Róng, Лепча, ภาษาเลปชา, レプチャ語]
+alt_names: [Lapcha, Lapche, Lepchaish, Lepoha, Leptśa, Nümpa, Nünpa, Rong, Rongke, Rongpa, Róng, Лепча]
 population: 57700
 country_id: IN
 country_name: India

@@ -2,7 +2,7 @@
 iso: kgi
 name: Selangor Sign Language
 autonym: Lenguaje de Señas Bolivianas LSB
-alt_names: [KLSL, Kuala Lumpur Sign Language, Língua de Sinais de Selangor]
+alt_names: [KLSL, Kuala Lumpur Sign Language]
 population: 500
 country_id: MY
 country_name: Malaysia

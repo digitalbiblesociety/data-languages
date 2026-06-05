@@ -2,7 +2,7 @@
 iso: yor
 name: Yoruba
 autonym: Èdè Yorùbá
-alt_names: [Bahasa Yoruba, Ede-Yoruba, Idioma yoruba, Ioruba, Joruba, Joruba lingvo, Joruban kieli, Jorubų kalba, Język joruba, Lenga Yoruba, Lingua yoruba, Língua iorubá, Yariba, Yooba, Yorouba, Yoroubeg, Yoruba simi, Јоруба, Йоруба, لغة يوربا, يورۇباچە, ইয়োরুবা ভাষা, யொரூபா மொழி, იორუბა, ヨルバ語, 约鲁巴语]
+alt_names: [Ede-Yoruba, Ioruba, Joruba, Yariba, Yooba, Yorouba, Yoroubeg, Yoruba simi, Јоруба, Йоруба, يورۇباچە, იორუბა]
 population: 37800000
 country_id: NG
 country_name: Nigeria

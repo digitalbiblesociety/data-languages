@@ -2,7 +2,7 @@
 iso: pmt
 name: Tuamotuan
 autonym: Reo Paumotu
-alt_names: [Język tuamotu, "Pa'umotu", Paumotu, Tuamotuano, Tuamotun kieli, Туамоту]
+alt_names: ["Pa'umotu", Paumotu, Tuamotuano, Туамоту]
 population: 14400
 country_id: PF
 country_name: French Polynesia

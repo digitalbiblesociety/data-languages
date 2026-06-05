@@ -2,7 +2,7 @@
 iso: tdt
 name: Tetun Dili
 autonym: Tetun Prasa
-alt_names: [Dili Tetum, Tetum, Tetum Dili, Tetum Prasa, Tetum Praça, Tetun]
+alt_names: [Tetum, Tetum Prasa, Tetum Praça, Tetun]
 population: 50000
 country_id: TL
 country_name: "Timor-Leste"

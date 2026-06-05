@@ -2,7 +2,7 @@
 iso: tks
 name: Takestani
 autonym: Tâti تاتی زبون
-alt_names: [Dialectes tats, S. Tati, Southern, Southern Tati, Takistani, Tati, Tati (Southern), Тати, تاتی تبار زوونون, زبان‌های تاتی‌تبار]
+alt_names: [Dialectes tats, S. Tati, Southern, Southern Tati, Takistani, Tati, Tati (Southern), Тати, تاتی تبار زوونون]
 population: 395000
 country_id: IR
 country_name: Iran

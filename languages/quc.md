@@ -2,7 +2,7 @@
 iso: quc
 name: "K'iche'"
 autonym: Quiché
-alt_names: [Cachabel, Central, Central Quiché, Chiquel, Idioma quiché, Język kicze, "K'iche', Central", "K'iché simi", Kiché, Língua quiché, Quiche, Quiché-Sprache, Tiếng Quiche, Киче, Кически јазик, キチェ語, 基切語]
+alt_names: [Cachabel, Central, Central Quiché, Chiquel, "K'iche', Central", "K'iché simi", Kiché, Quiche, Quiché-Sprache, Киче]
 population: 1680000
 country_id: GT
 country_name: Guatemala

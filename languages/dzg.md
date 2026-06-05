@@ -2,7 +2,7 @@
 iso: dzg
 name: Dazaga
 autonym: Dazaga
-alt_names: [Dasa, Daza, Dazageg, Dazza, Tebu, Tibbu, Toubou, Tubu, Дазагаски јазик, لغة الدزازا]
+alt_names: [Dasa, Daza, Dazageg, Dazza, Tebu, Tibbu, Toubou, Tubu]
 population: 692400
 country_id: TD
 country_name: Chad

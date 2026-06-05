@@ -2,7 +2,7 @@
 iso: ndo
 name: Ndonga
 autonym: ndonga
-alt_names: [Ambo, Bahasa Ndonga, Idioma ndonga, Język ndonga, Lingua ndonga, Língua ndonga, Ndonga lingvo, Ochindonga, Oshidonga, Oshindonga, Oshinonga, Oshiwambo, Osindonga, Otjiwambo, Owambo, Ндонга, ンドンガ語]
+alt_names: [Ambo, Ochindonga, Oshidonga, Oshindonga, Oshinonga, Oshiwambo, Osindonga, Otjiwambo, Owambo, Ндонга]
 population: 279000
 country_id: NA
 country_name: Namibia

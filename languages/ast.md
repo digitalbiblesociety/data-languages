@@ -2,7 +2,7 @@
 iso: ast
 name: Asturian
 autonym: asturianu
-alt_names: [Astur-Leonese, Astur-leonés, Asturan, Astureg, Asturia lingvo, Asturiaans, Asturiagiella, Asturian kieli, Asturian-Leonese, Asturiano, Asturiansk, Asturien, Asturien-léonais, Asturiera, Asturies, Asturisch, Asturische Sprache, Asturiska, Asturleonese, Asturlleonès, Asturyasça, Asturyek, Asturština, Astuursche Spraak, Astwrieg, Astúríska, Astúrčina, Astūriešu valoda, Asztúriai nyelv, Bable, Bahasa Asturia, Idioma asturiano, Język asturyjski, Lenga asturian-a, Lengoa asturiann-a, Leonese, Leonés, Lhéngua asturiana, Limba asturiană, Lingua Asturiana, Luenga asturiana, Língua asturiana, Spanish, asturoléonais, léonais, Â-sṳ̂-thù-lî-â-sṳ̂-ngî, Łéngoa asturiana, Αστουριανή γλώσσα, Астурийский язык, Астуријски језик, Աստուրիերեն, אסטורית, ئاستۇرىيە تىلى, لغة أستورية, ภาษาอัสตูเรียส, アストゥリア語, 阿斯图里亚斯语, 아스투리아스어]
+alt_names: [Astur-Leonese, Astur-leonés, Asturan, Astureg, Asturiaans, Asturiagiella, Asturian-Leonese, Asturiano, Asturiansk, Asturien, Asturien-léonais, Asturiera, Asturies, Asturisch, Asturiska, Asturleonese, Asturlleonès, Asturyasça, Asturyek, Astuursche Spraak, Astwrieg, Astúríska, Bable, Lengoa asturiann-a, Leonese, Leonés, Lhéngua asturiana, Luenga asturiana, Spanish, asturoléonais, léonais, Â-sṳ̂-thù-lî-â-sṳ̂-ngî, Łéngoa asturiana, Աստուրիերեն, אסטורית, ئاستۇرىيە تىلى]
 population: 110000
 country_id: ES
 country_name: Spain

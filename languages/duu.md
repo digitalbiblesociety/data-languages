@@ -2,7 +2,7 @@
 iso: duu
 name: Drung
 autonym: Dulong
-alt_names: [Derung language, Droungeg, Kiao, Kiu, Kiupa, Kiutze, Melam, Metu, Nu-tzŭ, Nung, Qiu, Qiuzi, Qui, Rawang, "T'rung", Tamalu, Taron, Trung, Tukiumu, Tulung, 独龙语, 獨龍語]
+alt_names: [Derung language, Droungeg, Kiao, Kiu, Kiupa, Kiutze, Melam, Metu, Nu-tzŭ, Nung, Qiu, Qiuzi, Qui, Rawang, "T'rung", Tamalu, Taron, Trung, Tukiumu, Tulung]
 population: 14000
 country_id: CN
 country_name: China

@@ -2,7 +2,7 @@
 iso: scb
 name: Chut
 autonym: "Ruc-Sach"
-alt_names: [Kha, May, Ruc, Sach, Salang, ภาษาชุต]
+alt_names: [Kha, May, Ruc, Sach, Salang]
 population: 3830
 country_id: VN
 country_name: Vietnam

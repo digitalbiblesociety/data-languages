@@ -2,7 +2,7 @@
 iso: kaw
 name: Kawi
 autonym: null
-alt_names: [Bahasa Kawi, Old Javanese, Кави, कवी भाषा, कावी]
+alt_names: [Old Javanese, Кави, कावी]
 population: null
 country_id: IN
 country_name: India

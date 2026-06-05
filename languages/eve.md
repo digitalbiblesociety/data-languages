@@ -2,7 +2,7 @@
 iso: eve
 name: Even
 autonym: эвэды торэн (evedy toren)
-alt_names: [Bahasa Even, Eben, Eveens, Even nyelv, Evena lingvo, Eveneg, Evenin kieli, Evensk, Evensk språk, Evenčina, Evenų kalba, Ewen, Ewenische, Ewenische Sprache, Ilqan, Język eweński, Lamut, Lamuti, Lamutische, Lingua evena, Língua even, Northeastern Tungus, Orich, Tungusisabatschi, "eved'i toren", lama-dī, Évène, Евенски език, Евенски јазик, Эбээн тыла, ламутский язык, эвенский язык, эвэды торэн]
+alt_names: [Eben, Eveens, Eveneg, Evensk, Ewen, Ewenische, Ilqan, Lamut, Lamuti, Lamutische, Northeastern Tungus, Orich, Tungusisabatschi, "eved'i toren", lama-dī, Évène, Эбээн тыла, эвэды торэн]
 population: 21800
 country_id: RU
 country_name: Russia

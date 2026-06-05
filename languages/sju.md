@@ -2,7 +2,7 @@
 iso: sju
 name: Ume Sami
 autonym: ubmejesámiengiälla
-alt_names: ["\"Lapp\"", "\"Ume Lapp\"", Lapp, Lappic, Lappisch, Lappish, Lappish-Swedish, Lingua sami di Ume, Língua sami de Ume, Saami, Saami ume, "Saami, Ume", Saamí de Ume, "Sami, Ume", Samieg Ume, Schwedisch-Lappisch, Southern, Southern Lappish, Southern Saami, Süd-Lappisch (im weiteren Sinne), Ubmejensámien giella, Ubmisámegiella, Ume, Ume Lapp, Ume Lappish, Ume Saami, Ume-Lappisch, Ume-samea lingvo, Umelappisch, Umesamisk, Umesamisk språk, Umesamiska, Umesámiskt, Umėjo samių kalba, Uumajansaame, Westlappisch, lapin kieli, lapon, lappisk, lopary, saamen kieli, saamskij jazyk, sabme, same-, schwedisch-lappische Dialektgruppe, south dialect, sāme-giellâ, westlappischer Dialekt, Уме самиски јазик, уме-саамский язык]
+alt_names: ["\"Lapp\"", "\"Ume Lapp\"", Lapp, Lappic, Lappisch, Lappish, Lappish-Swedish, Saami, Saami ume, "Saami, Ume", Saamí de Ume, "Sami, Ume", Samieg Ume, Schwedisch-Lappisch, Southern, Southern Lappish, Southern Saami, Süd-Lappisch (im weiteren Sinne), Ubmejensámien giella, Ubmisámegiella, Ume, Ume Lapp, Ume Lappish, Ume Saami, Ume-Lappisch, Umelappisch, Umesamisk, Umesamiska, Umesámiskt, Uumajansaame, Westlappisch, lapon, lappisk, lopary, sabme, same-, schwedisch-lappische Dialektgruppe, south dialect, sāme-giellâ, westlappischer Dialekt]
 population: 1000
 country_id: SE
 country_name: Sweden

@@ -2,7 +2,7 @@
 iso: lif
 name: Limbu
 autonym: ᤕᤠᤰᤌᤢᤱ ᤐᤠᤴ
-alt_names: [Chang, Idioma limbu, Język limbu, Limbo, Limboueg, Lingua Limbu, Lumbu, Monpa, Subah, Suffah. Yakthūngbā, Tsong, Yakthung Pan, Yakthungish, Лимбу, Лімбу, लिंबू भाषा, ภาษาลิมบู, 林布语]
+alt_names: [Chang, Limbo, Limboueg, Lumbu, Monpa, Subah, Suffah. Yakthūngbā, Tsong, Yakthung Pan, Yakthungish, Лимбу, Лімбу]
 population: 384800
 country_id: NP
 country_name: Nepal

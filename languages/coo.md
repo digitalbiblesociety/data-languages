@@ -2,7 +2,7 @@
 iso: coo
 name: Comox
 autonym: ʔayajuθəm
-alt_names: [Comox Cluster, Comox-Sliammon, Comox/sliammon, Comux, Cómox, Komoksa lingvo, Mainland Comox, Sliammon, Çatlotq, Éy7á7juuthem (Comox)]
+alt_names: [Comox Cluster, Comox-Sliammon, Comox/sliammon, Comux, Cómox, Mainland Comox, Sliammon, Çatlotq, Éy7á7juuthem (Comox)]
 population: 400
 country_id: CA
 country_name: Canada

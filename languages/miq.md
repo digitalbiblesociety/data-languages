@@ -2,7 +2,7 @@
 iso: miq
 name: Mískito
 autonym: Mískitu
-alt_names: [Idioma mísquito, Marquito, Miskito, Miskito language, Miskitu, Miskitu simi, Misquito, Mosco, Mosquito, Mísquito]
+alt_names: [Marquito, Miskito, Miskito language, Miskitu, Miskitu simi, Misquito, Mosco, Mosquito, Mísquito]
 population: 143000
 country_id: NI
 country_name: Nicaragua

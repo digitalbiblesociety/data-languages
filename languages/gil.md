@@ -2,7 +2,7 @@
 iso: gil
 name: Gilbertese
 autonym: Kiribati
-alt_names: [Bahasa Kiribati, Fidji-Inseln, Gilbert-Inseln, Gilbertesische Sprache, Gilbertin, Gilbertski jezik, Gilbertès, Gilbertês, I-Kiribati, Idioma gilbertés, Ikiribati, Język kiribati, Kiribateg, Kiribatese, Kiribati simi, Kiribatiešu valoda, Kiribatin kieli, Kiribatisch, Kiribatisk, Kiribatiska, Lengua gilberteise, Lingua gilbertina, Кирибати, Кирибатски език, गिल्बर्टीज भाषा, キリバス語, 키리바시어]
+alt_names: [Fidji-Inseln, Gilbert-Inseln, Gilbertin, Gilbertès, Gilbertês, I-Kiribati, Ikiribati, Kiribateg, Kiribatese, Kiribati simi, Kiribatisch, Kiribatisk, Kiribatiska, Кирибати]
 population: 118620
 country_id: KI
 country_name: Kiribati

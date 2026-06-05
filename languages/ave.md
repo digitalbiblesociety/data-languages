@@ -2,7 +2,7 @@
 iso: ave
 name: Avestan
 autonym: Avesta
-alt_names: [An Aivéistis, Avesta jezik, Avesteg, Avesties, Avestique, Avestisch, Avestische Sprache, Avestisk, Avestiska, Avestos kalba, Avestánština, Avèstic, Avéstico, Awesta dili, Bahasa Avesta, Ewıstki, Idioma abestico, Idioma avéstico, Język awestyjski, Lingua Avestana, Lingua avestica, Pazend, Pinulongang Abestiko, Zend, Zimanê avestayî, Αβεστική γλώσσα, Авестански језик, Авести чĕлхи, Авестийский язык, Авестійська мова, Забони авестоӣ, زبان اوستایی, অবেস্তা ভাষা, அவெஸ்தான் மொழி, ಅವೇಶ್ಟಿ, ภาษาอเวสตะ, アヴェスター語, 阿維斯陀語]
+alt_names: [An Aivéistis, Avesteg, Avesties, Avestique, Avestisch, Avestisk, Avestiska, Avèstic, Avéstico, Ewıstki, Pazend, Zend, Забони авестоӣ, ಅವೇಶ್ಟಿ]
 population: null
 country_id: IR
 country_name: Iran

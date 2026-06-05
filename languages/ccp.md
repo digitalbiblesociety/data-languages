@@ -2,7 +2,7 @@
 iso: ccp
 name: Chakma
 autonym: " Daingnet"
-alt_names: [Chakama, Changma kodha, Takam, Tsakma, চাকমা ভাষা]
+alt_names: [Chakama, Changma kodha, Takam, Tsakma]
 population: 378000
 country_id: BD
 country_name: Bangladesh

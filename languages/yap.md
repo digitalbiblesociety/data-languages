@@ -2,7 +2,7 @@
 iso: yap
 name: Yapese
 autonym: Waab
-alt_names: [Japo kalba, Japski jezik, Lingua yapese, Língua yap, Yap, Yapees, Yapesische Sprache, Yapesisk, Yapin kieli, yapois]
+alt_names: [Yap, Yapees, Yapesisk, yapois]
 population: 5130
 country_id: FM
 country_name: Micronesia

@@ -2,7 +2,7 @@
 iso: bwn
 name: Wunai Bunu
 autonym: Wunai
-alt_names: [Bunu, Bunu wunai, "Bunu, Wunai", Bunú wunai, Hm Nai, Ngnai, Punu, Wu-nai, 布努語唔奈方言]
+alt_names: [Bunu, Bunu wunai, "Bunu, Wunai", Bunú wunai, Hm Nai, Ngnai, Punu, Wu-nai]
 population: 18400
 country_id: CN
 country_name: China

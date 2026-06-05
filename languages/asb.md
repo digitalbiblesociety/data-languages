@@ -2,7 +2,7 @@
 iso: asb
 name: Assiniboine
 autonym: " Nakota"
-alt_names: [Asiniboineg, Asinibóin (Estados Unidos), Assinaboin, Assiniboin, Estoni, Hohe, Język assiniboine, Nakoda Assiniboine, Nakon, Stoney]
+alt_names: [Asiniboineg, Asinibóin (Estados Unidos), Assinaboin, Assiniboin, Estoni, Hohe, Nakoda Assiniboine, Nakon, Stoney]
 population: 250
 country_id: CA
 country_name: Canada

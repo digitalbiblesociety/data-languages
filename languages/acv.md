@@ -2,7 +2,7 @@
 iso: acv
 name: Achumawi
 autonym: Achomawi
-alt_names: ["Achoma'wi", Achoumawieg, Achowawi, Lingua achumawi, Pitt River]
+alt_names: ["Achoma'wi", Achoumawieg, Achowawi, Pitt River]
 population: 1000
 country_id: US
 country_name: United States

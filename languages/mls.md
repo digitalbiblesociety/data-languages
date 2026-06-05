@@ -2,7 +2,7 @@
 iso: mls
 name: Masalit
 autonym: kana masalaka/masaraka
-alt_names: [Jwisince, Kaana Masala, Língua masalit, Masale, Masaliteg, Masara, Massalit, Massolit, Mesalit, Масалитски јазик]
+alt_names: [Jwisince, Kaana Masala, Masale, Masaliteg, Masara, Massalit, Massolit, Mesalit]
 population: null
 country_id: SD
 country_name: Sudan

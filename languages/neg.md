@@ -2,7 +2,7 @@
 iso: neg
 name: Negidal
 autonym: "El'kan Beye"
-alt_names: [Elkembei, Ilkan Beye, Neghidal, Negidaalin kieli, Negidala lingvo, Negidale, Negidaleg, Negidalsk, Negidalsk språk, Negidaly, Negidalų kalba, Nigidal, Негидалски јазик, Неғида, негидальский язык]
+alt_names: [Elkembei, Ilkan Beye, Neghidal, Negidale, Negidaleg, Negidalsk, Negidaly, Nigidal, Неғида]
 population: 150
 country_id: RU
 country_name: Russia

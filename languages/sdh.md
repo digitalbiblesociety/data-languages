@@ -2,7 +2,7 @@
 iso: sdh
 name: Southern Kurdish
 autonym: "Kurdish: کوردیی باشووری "
-alt_names: [Kelhuri, Kermanshahi, Kurdisch, "Kurdish, Southern", Kurdí Xwar, Quelúri, Südkurdische Sprache, Южнокурдский язык]
+alt_names: [Kelhuri, Kermanshahi, Kurdisch, "Kurdish, Southern", Kurdí Xwar, Quelúri]
 population: 3730000
 country_id: IR
 country_name: Iran

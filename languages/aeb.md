@@ -2,7 +2,7 @@
 iso: aeb
 name: Tunisian Arabic
 autonym: "تونسي "
-alt_names: [Arabe tunisiano, Arabe tunisien, Arabeg Tunizia, Arabic, Arabic (Tunis), Arabic (Tunisian), Arabic (Western), "Arabic, Tunisian", "Arabic, Tunisian Spoken", Tunesisch-Arabisch, Tunisian, Tunisian Darija, Tunisian Spoken, Tunisisk arabiska, Tuniski arapski, Árabe tunecino, Тунизиски арапски јазик, Туніська арабська, لهجة تونسية, アラビア語チュニジア方言]
+alt_names: [Arabe tunisiano, Arabe tunisien, Arabeg Tunizia, Arabic, Arabic (Tunis), Arabic (Tunisian), Arabic (Western), "Arabic, Tunisian", "Arabic, Tunisian Spoken", Tunesisch-Arabisch, Tunisian, Tunisian Darija, Tunisian Spoken, Tunisisk arabiska, Tuniski arapski, Árabe tunecino, Туніська арабська, لهجة تونسية]
 population: 11600000
 country_id: TN
 country_name: Tunisia

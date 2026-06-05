@@ -2,7 +2,7 @@
 iso: pli
 name: Pali
 autonym: 𑀧𑀸𑀴𑀺
-alt_names: [An Pháilis, Bahasa Pali, Basa Pali, Język pali, Limba pali, Lingua Palica, Lingua pali, Lingua pāli, Paalin kieli, Palia lingvo, Páli, Pálí, Pâli, Pāli, "Sri Lanka, India, Myanmar", Tiếng Pali, Пали, Палі, פאלי, पली, पालि भाषा, পালি, পালি ভাষা, ਪਾਲੀ, பாளி, పాళీ భాష, പാലി, පාලි, ภาษาบาลี, パーリ語, 巴利语, 팔리어]
+alt_names: [An Pháilis, Páli, Pálí, Pâli, Pāli, "Sri Lanka, India, Myanmar", Пали, Палі, פאלי, पली, পালি, ਪਾਲੀ, பாளி, പാലി, පාලි]
 population: null
 country_id: IN
 country_name: India

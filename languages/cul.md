@@ -2,7 +2,7 @@
 iso: cul
 name: Culina
 autonym: Corina
-alt_names: [Culinha, Culino, Culiña, Cuniba, Curina, Idioma culina, Kollina, Korina, Koulineg, Kulina, Kulino, Kulyna, Kulína, Kurina, Madiha, Madihá, Madija, Кулина, Кулинаски јазик]
+alt_names: [Culinha, Culino, Culiña, Cuniba, Curina, Kollina, Korina, Koulineg, Kulina, Kulino, Kulyna, Kulína, Kurina, Madiha, Madihá, Madija, Кулина]
 population: 3420
 country_id: BR
 country_name: Brazil

@@ -2,7 +2,7 @@
 iso: run
 name: Rundi
 autonym: Ikirundi
-alt_names: [Bahasa Kirundi, Burunda lingvo, Idioma kirundi, Język rundi, Kirundi, Lingua kirundi, Língua kirundi, Rundi jezik, Rundi simi, Rundum, Urundi, Кирунди, Рунди, קירונדי, கிருண்டி மொழி, ルンディ語, 基隆迪语]
+alt_names: [Kirundi, Rundi simi, Rundum, Urundi, Кирунди, Рунди, קירונדי]
 population: 10800000
 country_id: BI
 country_name: Burundi

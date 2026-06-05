@@ -2,7 +2,7 @@
 iso: cbk
 name: Chavacano
 autonym: Chabacano
-alt_names: [Chabacano nyelv, Chabakan, Chavacano-ngî, Idioma chabacano, Język chavacano, Lingua chavacan, Lingua zamboangueña, Língua chavacana, Pinulongang Tsabakano, Tataramon na Zamboangueño, Wikang Zamboangueño, Zamboangueño, Чабакано, ภาษาชาวากาโน, チャバカノ語, 차바카노어]
+alt_names: [Chabakan, Chavacano-ngî, Tataramon na Zamboangueño, Zamboangueño, Чабакано]
 population: 427000
 country_id: PH
 country_name: Philippines

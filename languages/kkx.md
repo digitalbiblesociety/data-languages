@@ -2,7 +2,6 @@
 iso: kkx
 name: Kohin
 autonym: Seruyan
-alt_names: [Bahasa Seruyan]
 population: 8000
 country_id: ID
 country_name: Indonesia

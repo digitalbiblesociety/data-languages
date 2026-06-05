@@ -2,7 +2,7 @@
 iso: nap
 name: Neapolitan
 autonym: napulitano
-alt_names: [Bahasa Napolitan, Idioma napolitano, Idioma napolitán, Italian, Italian (Napolitanian), Italien du sud, Język neapolitański, Lengua napoletann-a, Lengua napulitana, Lingua Neapolitana, Lingua napoletana, Lingua napolitana, Lingua napulitana, Luenga napolitana, Língua napolitana, Naaplish, Napola lingvo, Napoletano-Calabrese, Napolice, Napoliera, Napolitaans, Napolitain, Napolitano-calabrés, Napolitansk, Napolitansk-kalabresisk språk, Napolitansko-kalabrijski jezik, Napolità, Neapoliečių kalba, Neapolitan tili, Neapolitan-Calabrese, Neapolitanisch, Neapolitanska, Neapolčina-kalábrijčina, Neapolština, Nápolyi nyelv, Наполитански језик, Неаполитанаг æвзаг, Неаполитански език, Неаполитанский язык, Нэапалітанская мова, נפוליטנית, نېئاپول تىلى, ნეაპოლური ენა, ナポリ語, 那不勒斯语, 나폴리어]
+alt_names: [Italian, Italian (Napolitanian), Italien du sud, Luenga napolitana, Naaplish, Napoletano-Calabrese, Napolice, Napoliera, Napolitaans, Napolitain, Napolitano-calabrés, Napolitansk, Napolità, Neapolitan tili, Neapolitan-Calabrese, Neapolitanisch, Neapolitanska, נפוליטנית, نېئاپول تىلى]
 population: 5700000
 country_id: IT
 country_name: Italy

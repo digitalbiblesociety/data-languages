@@ -2,7 +2,7 @@
 iso: dmk
 name: Domaaki
 autonym: Doma
-alt_names: ["\"Doma\"", Dardu, Dawudi, Domakí, Dumaki, Dumākī, Shina, ภาษาโดมาอากี]
+alt_names: ["\"Doma\"", Dardu, Dawudi, Domakí, Dumaki, Dumākī, Shina]
 population: 500
 country_id: PK
 country_name: Pakistan

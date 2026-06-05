@@ -2,7 +2,7 @@
 iso: shp
 name: "Shipibo-Conibo"
 autonym: Shipibo
-alt_names: [Idioma shipibo, Shipibo-Konibo, Shipipu simi, Tschama, Шипибо-конибо]
+alt_names: [Shipibo-Konibo, Shipipu simi, Tschama, Шипибо-конибо]
 population: 22500
 country_id: PE
 country_name: Peru

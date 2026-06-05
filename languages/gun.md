@@ -2,7 +2,7 @@
 iso: gun
 name: Mbyá Guaraní
 autonym: " nhandeayvu"
-alt_names: ["\"mbyá guarani (Argentine, Uruguay)\"", Apytare, Bugre, Caingua, Chiripá, Chiripá-Nyandeva, Dialeto mbiá, Guarani, Guaraní, Guaraní language area, Guaraní mbyá (Paraguay), "Guaraní, Mbyá", Gvaranių mbijų kalba, Kaiwá/Kayová, Mbiá, Mbiá/Mbya/Mbua, Mbua, Mbya Guarani, Mbyá, "Mbü'a", "Mbü'a Guaraní", Nhandeva, Tsiripá, Txiripá, Ñandeva]
+alt_names: ["\"mbyá guarani (Argentine, Uruguay)\"", Apytare, Bugre, Caingua, Chiripá, Chiripá-Nyandeva, Dialeto mbiá, Guarani, Guaraní, Guaraní language area, Guaraní mbyá (Paraguay), "Guaraní, Mbyá", Kaiwá/Kayová, Mbiá, Mbiá/Mbya/Mbua, Mbua, Mbya Guarani, Mbyá, "Mbü'a", "Mbü'a Guaraní", Nhandeva, Tsiripá, Txiripá, Ñandeva]
 population: 19960
 country_id: BR
 country_name: Brazil

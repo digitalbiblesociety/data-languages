@@ -2,7 +2,7 @@
 iso: hps
 name: "Hawai'i Sign Language"
 autonym: Hoailona ʻŌlelo o Hawaiʻi
-alt_names: ["Hawai'i Pidgin Sign Language", "Hawai'i Sign Language", Hawaii Pidgin Sign Language, Hawaii Sign Language, Língua de Sinais Havaiana, Pidgin Sign Language]
+alt_names: ["Hawai'i Pidgin Sign Language", "Hawai'i Sign Language", Hawaii Pidgin Sign Language, Hawaii Sign Language, Pidgin Sign Language]
 population: 6000
 country_id: US
 country_name: United States

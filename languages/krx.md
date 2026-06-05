@@ -2,7 +2,7 @@
 iso: krx
 name: Karon
 autonym: "Jola-Karone"
-alt_names: [Karone, Karoneg, Lenga Karon]
+alt_names: [Karone, Karoneg]
 population: 22400
 country_id: SN
 country_name: Senegal

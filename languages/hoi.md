@@ -2,7 +2,7 @@
 iso: hoi
 name: Holikachuk
 autonym: Doogh Qinag
-alt_names: [Innoko, Língua holikachuk, Upper Innoko]
+alt_names: [Innoko, Upper Innoko]
 population: 200
 country_id: US
 country_name: United States

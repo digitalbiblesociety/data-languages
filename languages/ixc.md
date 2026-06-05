@@ -2,7 +2,7 @@
 iso: ixc
 name: Ixcatec
 autonym: "Xwja "
-alt_names: [Idioma ixcateco, Iskateko, Ixatèque, Ixcateco, Ixcatèque]
+alt_names: [Iskateko, Ixatèque, Ixcateco, Ixcatèque]
 population: 120
 country_id: MX
 country_name: Mexico

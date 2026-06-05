@@ -2,7 +2,7 @@
 iso: aln
 name: Gheg Albanian
 autonym: gegnisht
-alt_names: [Albanesisch, Albanian, "Albanian, Gheg", Albanés guego, Arber, Arbresh, Arnaut, Dialectul Gheg, Geg, Gegijski jezik, Gegisch, Gegiska, Gegë, Gheg, Guegue, Guègue, Shgip, Shqipēri, Shquipni, Škip, Γκεγκική διάλεκτος, Геги, Гегский диалект албанского языка, ゲグ方言]
+alt_names: [Albanesisch, Albanian, "Albanian, Gheg", Albanés guego, Arber, Arbresh, Arnaut, Dialectul Gheg, Geg, Gegisch, Gegiska, Gegë, Gheg, Guegue, Guègue, Shgip, Shqipēri, Shquipni, Škip, Γκεγκική διάλεκτος, Геги, Гегский диалект албанского языка, ゲグ方言]
 population: 3901900
 country_id: AL
 country_name: Albania

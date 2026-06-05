@@ -2,7 +2,7 @@
 iso: mai
 name: Maithili
 autonym: मैथिली / মৈথিনী
-alt_names: [Apabhramsa, Bahasa Maithili, Bihari, Język maithili, Lingua Maithili, Maithili jezik, Maitila lingvo, Maitileg, Maitili, Maitli, Maïthili, Methli, Tirahutia, Tirhuti, Tirhutia, Маитхили језик, Майтхили, Майтхілі, मैथिली, मैथिली भाषा, মৈথিলী ভাষা, મૈથિલી ભાષા, மைதிலி மொழி, ಮೈಥಿಲಿ, മൈഥിലി, ภาษาไมถิลี, მაიტილი, マイティリー語, 迈蒂利语, 마이틸리어]
+alt_names: [Apabhramsa, Bihari, Maitileg, Maitili, Maitli, Maïthili, Methli, Tirahutia, Tirhuti, Tirhutia, Майтхили, Майтхілі, मैथिली, ಮೈಥಿಲಿ, മൈഥിലി, მაიტილი]
 population: 31900000
 country_id: IN
 country_name: India

@@ -2,7 +2,7 @@
 iso: trt
 name: Tunggare
 autonym: Tarunggare
-alt_names: [Język turunggare, Turunggare]
+alt_names: [Turunggare]
 population: 500
 country_id: ID
 country_name: Indonesia

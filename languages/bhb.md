@@ -2,7 +2,7 @@
 iso: bhb
 name: Bhili
 autonym: भीली
-alt_names: [Bhagoria, Bhil, Bhilbari, Bhilboli, Bhilla, Bhilodi, Bileg, Idioma bhili, Język bhili, Lenga bhili, Lengotia, Lingua Bhili, Vil, Бхили, भील भाषा, ভিলি ভাষা, ภาษาภิล, ビリー語]
+alt_names: [Bhagoria, Bhil, Bhilbari, Bhilboli, Bhilla, Bhilodi, Bileg, Lengotia, Vil, Бхили]
 population: 10400000
 country_id: IN
 country_name: India

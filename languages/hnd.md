@@ -2,7 +2,7 @@
 iso: hnd
 name: Southern Hindko
 autonym: ہندکو
-alt_names: [Bahasa Hindko, Hindko, Hindko language, "Hindko, Southern", Lahnda, Lingua Hindko, Northeastern Lahnda, ヒンドコ語]
+alt_names: [Hindko, Hindko language, "Hindko, Southern", Lahnda, Northeastern Lahnda]
 population: 1170000
 country_id: PK
 country_name: Pakistan

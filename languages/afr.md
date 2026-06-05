@@ -2,7 +2,7 @@
 iso: afr
 name: Afrikaans
 autonym: Afrikaans
-alt_names: [Afrikaanca, Afrikaani keel, Afrikaans leid, Afrikaans mál, Afrikaans nyelv, Afrikaansk, Afrikandu valoda, Afrikaneg, Afrikans simi, Afrikansa lingvo, Afrikansum, Afrikanščina, Afrikanų kalba, Afrikoansk, Afrikáans, Afrikánsagiella, Afrikánčina, Afrikánština, Afríkanska, Afrėkanu kalba, An Afracáinis, Bahasa Afrikaans, Gjuha afrikane, Godka afrikaans, IsiBhulu, IsiBhunu, Język afrikaans, Kiafrikaans, Limba afrikaans, Lingua Africana, Lingua africáner, Lingua afrikaans, Lèngoa afrikaans, Língua africâner, Èdè Áfríkáánù, Αφρικάανς γλώσσα, Африкаанс, Африканс, Афрыкаанс, Աֆրիկանս, אפריקאנס, ئاڧرىقانچە, زبان آفریکانس, لغة أفريقانية, لغه افريكانس, আফ্রিকান্স ভাষা, ஆபிரிக்கான மொழி, ภาษาแอฟริคานส์, აფრიკაანსი, アフリカーンス語, 南非語, 아프리칸스어]
+alt_names: [Afrikaanca, Afrikaans leid, Afrikaansk, Afrikaneg, Afrikans simi, Afrikansum, Afrikoansk, Afrikáans, Afrikánsagiella, Afríkanska, An Afracáinis, Godka afrikaans, IsiBhulu, IsiBhunu, Kiafrikaans, Lèngoa afrikaans, Африкаанс, Африканс, Афрыкаанс, Աֆրիկանս, אפריקאנס, ئاڧرىقانچە, لغه افريكانس, აფრიკაანსი]
 population: 7331800
 country_id: ZA
 country_name: South Africa

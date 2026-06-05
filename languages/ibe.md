@@ -2,7 +2,7 @@
 iso: ibe
 name: Akpes
 autonym: Abesabesi
-alt_names: [Akpes jezici, Akpeseg, Ibaram-Efifa, Lenga Akpes, Lingua akpes]
+alt_names: [Akpes jezici, Akpeseg, Ibaram-Efifa]
 population: 10000
 country_id: NG
 country_name: Nigeria

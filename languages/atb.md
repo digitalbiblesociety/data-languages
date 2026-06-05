@@ -2,7 +2,7 @@
 iso: atb
 name: Zaiwa
 autonym: အဇီး Atsi
-alt_names: [Aci, Aji, Atshi, Atsi, Atsi-Maru, Atzi, Atši, Azi, Maru, Szi, Tsaiwa, Xiaoshanhua, Zaiwa dili, Zi]
+alt_names: [Aci, Aji, Atshi, Atsi, Atsi-Maru, Atzi, Atši, Azi, Maru, Szi, Tsaiwa, Xiaoshanhua, Zi]
 population: 110000
 country_id: CN
 country_name: China

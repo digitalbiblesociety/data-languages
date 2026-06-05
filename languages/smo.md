@@ -2,7 +2,7 @@
 iso: smo
 name: Samoan
 autonym: Gagana faʻa Sāmoa
-alt_names: [Bahasa Samoa, "Gagana fa'a Sāmoa", Idioma samoano, Język samoański, Lea fakahaʻamoa, Lengua samoann-a, Lingua Samoana, Língua samoana, Samoa, Samoa kalba, Samoa lingvo, Samoaans, Samoaeg, Samoan kieli, Samoansk, Samoanska, Samoanski jezik, Samoische Sprache, Samojčina, Samoà, Samoāņu valoda, Samwa simi, Samöeg, Σαμόα, Самоански език, Самоанский язык, ‘Ōlelo Sāmoa, サモア語, 萨摩亚语]
+alt_names: [Lea fakahaʻamoa, Samoa, Samoaans, Samoaeg, Samoansk, Samoanska, Samoà, Samwa simi, Samöeg, Σαμόα, ‘Ōlelo Sāmoa]
 population: 421570
 country_id: WS
 country_name: Samoa

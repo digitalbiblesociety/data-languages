@@ -2,7 +2,7 @@
 iso: gru
 name: Kistane
 autonym: Kəstane
-alt_names: [Aymallal, Aymellel, Gogot, Gurage, Kestane, Kistane jezik, North Gurage, Soddo, Soddo Gurage, Soddo language, Sodoeg]
+alt_names: [Aymallal, Aymellel, Gogot, Gurage, Kestane, North Gurage, Soddo, Soddo Gurage, Soddo language, Sodoeg]
 population: 255000
 country_id: ET
 country_name: Ethiopia

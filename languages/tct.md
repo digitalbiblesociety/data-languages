@@ -2,7 +2,7 @@
 iso: tct
 name: "T'en"
 autonym: Rao
-alt_names: [Rau, Then, Yang Huang, Yanghuang, 佯僙語]
+alt_names: [Rau, Then, Yang Huang, Yanghuang]
 population: 15000
 country_id: CN
 country_name: China

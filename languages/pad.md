@@ -2,7 +2,7 @@
 iso: pad
 name: Paumarí
 autonym: Pamoari
-alt_names: [Curucuru, Idioma paumarí, Kurukuru, Palmarí, Pamari, Pamarí, Pammari, Pammarí, Paumari, Paumarieg, Purupuru, Purupurú, Паумариски јазик]
+alt_names: [Curucuru, Kurukuru, Palmarí, Pamari, Pamarí, Pammari, Pammarí, Paumari, Paumarieg, Purupuru, Purupurú]
 population: 290
 country_id: BR
 country_name: Brazil

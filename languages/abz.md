@@ -2,7 +2,7 @@
 iso: abz
 name: Abui
 autonym: Abui tanga
-alt_names: ["\"Barawahing\"", Barue, Lingua abui, Namatalaki]
+alt_names: ["\"Barawahing\"", Barue, Namatalaki]
 population: 16000
 country_id: ID
 country_name: Indonesia

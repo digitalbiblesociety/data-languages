@@ -2,7 +2,7 @@
 iso: sgb
 name: "Mag-antsi Ayta"
 autonym: "Mag-antsi"
-alt_names: ["Ayta, Mag-Anchi", "Ayta, Mag-antsi", Mag-Anchi Sambal, ภาษามักอันซี]
+alt_names: ["Ayta, Mag-Anchi", "Ayta, Mag-antsi", Mag-Anchi Sambal]
 population: 8200
 country_id: PH
 country_name: Philippines

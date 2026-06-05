@@ -2,7 +2,7 @@
 iso: ssr
 name: "Swiss-French Sign Language"
 autonym: Langue des Signes Française
-alt_names: [LSF-SR, Langage Gestuelle, Langue des Signes Suisse romande]
+alt_names: [LSF-SR]
 population: 1000
 country_id: CH
 country_name: Switzerland

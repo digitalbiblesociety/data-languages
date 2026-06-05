@@ -2,7 +2,7 @@
 iso: huh
 name: Huilliche
 autonym: chesungun
-alt_names: ["\"Beliche\"", Beliche, Chedungun, Chesumun, Huilche, Huiliche, Idioma huilliche, Mapuche, Tsesumun, Tsesungun, Veliche, Velitcheg, Veliĉea lingvo, Veličų kalba, Williche]
+alt_names: ["\"Beliche\"", Beliche, Chedungun, Chesumun, Huilche, Huiliche, Mapuche, Tsesumun, Tsesungun, Veliche, Velitcheg, Williche]
 population: 2000
 country_id: CL
 country_name: Chile

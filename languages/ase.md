@@ -2,7 +2,7 @@
 iso: ase
 name: American Sign Language
 autonym: Langue des signes américaine
-alt_names: [ASL, Amerikaanse Gebarentaal, Amerikansk tegnspråk, Amerikkalainen viittomakieli, Američki znakovni jezik, Ameslan, Lengua de signos americana, Língua de Sinais Americana, Usona signolingvo, Амслен, アメリカ手話, 美國手語, 미국 수화]
+alt_names: [ASL, Amerikaanse Gebarentaal, Amerikansk tegnspråk, Amerikkalainen viittomakieli, Ameslan, Usona signolingvo, Амслен, アメリカ手話, 미국 수화]
 population: 729605
 country_id: US
 country_name: United States

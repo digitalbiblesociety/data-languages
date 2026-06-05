@@ -2,7 +2,7 @@
 iso: gdo
 name: Ghodoberi
 autonym: ГъибдилIи мицци Ɣibdiƛi micci
-alt_names: [Godobereg, Godoberi, Godoberi language, Godoberin, Godoberin kieli, Godoberí, Język godoberyjski, Ɣibdiƛi micci, Годоберинська мова, Годоберски јазик, годоберийский язык, годоберинский язык, гъибдилIи мицци, ღოდობერიული ენა]
+alt_names: [Godobereg, Godoberi, Godoberi language, Godoberin, Godoberí, Ɣibdiƛi micci, гъибдилIи мицци]
 population: 2500
 country_id: RU
 country_name: Russia

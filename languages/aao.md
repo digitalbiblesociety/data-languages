@@ -2,7 +2,7 @@
 iso: aao
 name: Algerian Saharan Arabic
 autonym: Saharan Arabic
-alt_names: [Arabe saharien, Arabic, "Arabic, Algerian Saharan", "Arabic, Algerian Saharan Spoken", Bedouin Saharan Dialects, Saharski arapski, Tamanghasset Arabic, Tamanrasset Arabic, Árabe sahariano, Сахарски арапски јазик]
+alt_names: [Arabe saharien, Arabic, "Arabic, Algerian Saharan", "Arabic, Algerian Saharan Spoken", Bedouin Saharan Dialects, Saharski arapski, Tamanghasset Arabic, Tamanrasset Arabic, Árabe sahariano]
 population: 243000
 country_id: DZ
 country_name: Algeria

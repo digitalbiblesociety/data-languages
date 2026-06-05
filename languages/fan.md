@@ -2,7 +2,7 @@
 iso: fan
 name: Fang
 autonym: Pangwe
-alt_names: [Bahasa Fang, Fang, Fang language, Fanga lingvo, Fangų kalba, Ffangiaid, Idioma fang, Język fang, Llengua fang, Língua fang, Pahouin, Pahoun, Pamue, Фанґ]
+alt_names: [Fang, Fang language, Ffangiaid, Pahouin, Pahoun, Pamue, Фанґ]
 population: 1061800
 country_id: GQ
 country_name: Equatorial Guinea

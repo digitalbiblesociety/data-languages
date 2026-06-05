@@ -2,7 +2,7 @@
 iso: kin
 name: Kinyarwanda
 autonym: Ikinyarwanda
-alt_names: [Bahasa Kinyarwanda, Język ruanda-rundi, Kiņaruandas valoda, Lingua kinyarwanda, Língua kinyarwanda, Orunyarwanda, Ruanda, Ruanda lingvo, Ruandan kieli, Runyarwanda, Rwanda, Rwanda jezik, Rwanda language, Rwanda simi, Rwandum, Urunyaruanda, Киняруанда, Руанда, কিনিয়ারোয়ান্ডা ভাষা, கின்யருவாண்டா மொழி, ルワンダ語, 卢旺达语, 키냐르완다어]
+alt_names: [Orunyarwanda, Ruanda, Runyarwanda, Rwanda, Rwanda language, Rwanda simi, Rwandum, Urunyaruanda, Киняруанда, Руанда]
 population: 12100000
 country_id: RW
 country_name: Rwanda

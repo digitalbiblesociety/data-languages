@@ -2,7 +2,7 @@
 iso: syl
 name: Sylheti
 autonym: ꠍꠤꠟꠐꠤসিলেটি
-alt_names: [Bengali of Cachar, Idioma sylheti, Lenga sylheti, Lingua Silati, Sileti, Siloti, Siloti keel, Srihattia, Sylheti Bengali, Sylhetti, Sylhetti Bangla, Syloti, Syloty, সিলেটি ভাষা, ภาษาสิเลฏี]
+alt_names: [Bengali of Cachar, Sileti, Siloti, Srihattia, Sylheti Bengali, Sylhetti, Sylhetti Bangla, Syloti, Syloty]
 population: 10300000
 country_id: BD
 country_name: Bangladesh

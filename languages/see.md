@@ -2,7 +2,7 @@
 iso: see
 name: Seneca
 autonym: Onödowáʼga꞉ʼ
-alt_names: [Taroko, Tsonnontouan, Сенека, 세네카어]
+alt_names: [Taroko, Tsonnontouan, Сенека]
 population: 6240
 country_id: US
 country_name: United States

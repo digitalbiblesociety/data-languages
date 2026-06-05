@@ -2,7 +2,7 @@
 iso: abc
 name: Ambala Ayta
 autonym: Ambala Ayta
-alt_names: [Ambala Agta, Ambala Sambal, Ambala language, "Ayta, Ambala", ภาษาอัมบาลา]
+alt_names: [Ambala Agta, Ambala Sambal, Ambala language, "Ayta, Ambala"]
 population: null
 country_id: PH
 country_name: Philippines

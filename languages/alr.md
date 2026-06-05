@@ -2,7 +2,7 @@
 iso: alr
 name: Alutor
 autonym: nəməlʔu
-alt_names: ["Al'utor", Aliotuoriu kalba, Alioutor, Aliutor, Aliutorių kalba, Aljoetoors, Aloutoreg, Alutorin kieli, Alyutor, Alyutor language, Język alutorski, Lingua alutor, Língua alutor, Olyutor, Алюторский язык, 알루토르어]
+alt_names: ["Al'utor", Alioutor, Aliutor, Aljoetoors, Aloutoreg, Alyutor, Alyutor language, Olyutor]
 population: 100
 country_id: RU
 country_name: Russia

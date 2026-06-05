@@ -2,7 +2,7 @@
 iso: nig
 name: Ngalakgan
 autonym: Ngalakgan
-alt_names: [Bidungo, Engalakán, Gunwinyguan, Hongalla, Hongalla), Hongalla/Hongalla, Lenga ngalakan, Nala nalagen, Nala-nalagen, Nalagen, Nalakan, Nallakum, Ngalagan, Ngalagkan, Ngalakan, Ngalakan language, Ngalakant, Ngalangan, Ngalar kan, Ngalar-kan, Ngalarkan, Ngalbon, Ngulkpun, Nullakum, Nullakun, Nullikan, Nullikin]
+alt_names: [Bidungo, Engalakán, Gunwinyguan, Hongalla, Hongalla), Hongalla/Hongalla, Nala nalagen, Nala-nalagen, Nalagen, Nalakan, Nallakum, Ngalagan, Ngalagkan, Ngalakan, Ngalakan language, Ngalakant, Ngalangan, Ngalar kan, Ngalar-kan, Ngalarkan, Ngalbon, Ngulkpun, Nullakum, Nullakun, Nullikan, Nullikin]
 population: null
 country_id: AU
 country_name: Australia

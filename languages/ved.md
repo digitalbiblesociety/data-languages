@@ -2,7 +2,7 @@
 iso: ved
 name: Veddah
 autonym: Beda
-alt_names: [Bedda, Lenga veddah, Lingua Vedda, Veda, Vedda, Vedda language, Veddha, Weda, Wedda, Weddo]
+alt_names: [Bedda, Veda, Vedda, Vedda language, Veddha, Weda, Wedda, Weddo]
 population: 2500
 country_id: LK
 country_name: Sri Lanka

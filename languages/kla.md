@@ -2,7 +2,7 @@
 iso: kla
 name: "Klamath-Modoc"
 autonym: " Lutuamian"
-alt_names: [E-ukshikni, Klamath, Klamathin kieli, Lutuami, Lutuamí-modoco, Modoc, Кламат-модокский язык]
+alt_names: [E-ukshikni, Klamath, Lutuami, Lutuamí-modoco, Modoc]
 population: null
 country_id: US
 country_name: United States

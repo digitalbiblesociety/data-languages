@@ -2,7 +2,7 @@
 iso: jii
 name: Jiiddu
 autonym: "Af-Jiiddu"
-alt_names: [Jiddu, Jiiddu hizkuntza, Lenga Jiiddu]
+alt_names: [Jiddu, Jiiddu hizkuntza]
 population: 23000
 country_id: SO
 country_name: Somalia

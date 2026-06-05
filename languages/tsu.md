@@ -2,7 +2,7 @@
 iso: tsu
 name: Tsou
 autonym: Tsou
-alt_names: [Cou, Namakaban, Niitaka, Sprache von Formosa, Tibola, Tibolah, Tibolak, Tibolal, Tso, Tsoo, Tsou-ngî, Tsu-U, Tsu-Wo, Tsuou, Tzo, ツォウ語, 鄒語]
+alt_names: [Cou, Namakaban, Niitaka, Tibola, Tibolah, Tibolak, Tibolal, Tso, Tsoo, Tsou-ngî, Tsu-U, Tsu-Wo, Tsuou, Tzo]
 population: 2127
 country_id: TW
 country_name: Taiwan

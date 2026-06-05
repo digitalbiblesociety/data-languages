@@ -2,7 +2,7 @@
 iso: ktz
 name: Juǀʼhoan
 autonym: South(eastern) ǃXun/Ju
-alt_names: ["!Xo", "!Xu", "!Xu (Ju/'hoan)", Agau, Dobe Kung, "Dzu'oasi", "Ju'hoan", "Ju'oasi", "Ju/'hoan", "Ju/'hoansi", "Ju|'hoan", Juǀʼhoansi, "Język jul'hoan", Kung, Kung-Tsumkwe, Qxû, Tsumkwe, Xaixai, Xu, Xun, "Zhu'oasi", Zhu-/Hoa (Si), "Žhu|hõasi"]
+alt_names: ["!Xo", "!Xu", "!Xu (Ju/'hoan)", Agau, Dobe Kung, "Dzu'oasi", "Ju'hoan", "Ju'oasi", "Ju/'hoan", "Ju/'hoansi", "Ju|'hoan", Juǀʼhoansi, Kung, Kung-Tsumkwe, Qxû, Tsumkwe, Xaixai, Xu, Xun, "Zhu'oasi", Zhu-/Hoa (Si), "Žhu|hõasi"]
 population: 45500
 country_id: NA
 country_name: Namibia

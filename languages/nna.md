@@ -2,7 +2,7 @@
 iso: nna
 name: Nyangumarta
 autonym: Nyangumarda
-alt_names: ["I:baruga", Ibarga, Ibarga/Ibarrga/Ibargo, Ibargo, Ibarrga, Iparuka, Kularupulu, Kundal, Lenga nyangumarta, Marrngu, Nangam urda, Nangam-urda, Nangamada, Nangamurda, Nangumada, Nangumarda, Nangumurdu, Ngapakarna, Ngapakoreilitja, Ngardungardu, Ngolibardu, Ngulipartu, Ngurlipartu, Njadamarda, Njangamada, Njangamarda, Njangomada, Njangumada, Njangumarda, Njangumarta, Njanja marta, Njanja-marta, Njanjamarta, "Nungoo'murdoo", NungooMurdoo, "Nya'umada", Nyangahyatjarra, Nyangamada, Nyangumada, Nyangumata, Nyangumurtu, Nyaumada, Pijikala, Tjilakurukuru, Waljuli Njangamarda, Walyirli, Wanyarli, Warmala, Ñangumarta]
+alt_names: ["I:baruga", Ibarga, Ibarga/Ibarrga/Ibargo, Ibargo, Ibarrga, Iparuka, Kularupulu, Kundal, Marrngu, Nangam urda, Nangam-urda, Nangamada, Nangamurda, Nangumada, Nangumarda, Nangumurdu, Ngapakarna, Ngapakoreilitja, Ngardungardu, Ngolibardu, Ngulipartu, Ngurlipartu, Njadamarda, Njangamada, Njangamarda, Njangomada, Njangumada, Njangumarda, Njangumarta, Njanja marta, Njanja-marta, Njanjamarta, "Nungoo'murdoo", NungooMurdoo, "Nya'umada", Nyangahyatjarra, Nyangamada, Nyangumada, Nyangumata, Nyangumurtu, Nyaumada, Pijikala, Tjilakurukuru, Waljuli Njangamarda, Walyirli, Wanyarli, Warmala, Ñangumarta]
 population: 210
 country_id: AU
 country_name: Australia

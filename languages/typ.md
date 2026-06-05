@@ -2,7 +2,7 @@
 iso: typ
 name: Thaypan
 autonym: Awu Alaya
-alt_names: [AghuLaia, AkuLaia, Ambaram, Angandjan, Arlga, Awu Laya, Awu-Alaya, Awu-Laya, Awurangung, Bariman Cudhinma, BarimanCutinma, Barimangudinma, Barinangndinma, Barinman Guthinma, Cocobathan, Coo coo warra, Coo-coo-warra, Daiban, Dhayban, Gugu Dhayban, Jadeneni, Jeteneru, Jetieneru, Koko Laia, Kokowara, Koogabatha, Kookoobathy, Kuku Taipan, Kuku Thaypan, Kuku-Thaypan, Kuku-Thaypan language, Laia, Laya, Lenga thaypan, Ompindamo, Owynggan, Parimankutinma, Parinman Gutinma, Purangunuma, Taipan, Taypan, Wu Laya, Wu-Laya, Wurangung, Yadaneru, Yananeru]
+alt_names: [AghuLaia, AkuLaia, Ambaram, Angandjan, Arlga, Awu Laya, Awu-Alaya, Awu-Laya, Awurangung, Bariman Cudhinma, BarimanCutinma, Barimangudinma, Barinangndinma, Barinman Guthinma, Cocobathan, Coo coo warra, Coo-coo-warra, Daiban, Dhayban, Gugu Dhayban, Jadeneni, Jeteneru, Jetieneru, Koko Laia, Kokowara, Koogabatha, Kookoobathy, Kuku Taipan, Kuku Thaypan, Kuku-Thaypan, Kuku-Thaypan language, Laia, Laya, Ompindamo, Owynggan, Parimankutinma, Parinman Gutinma, Purangunuma, Taipan, Taypan, Wu Laya, Wu-Laya, Wurangung, Yadaneru, Yananeru]
 population: null
 country_id: AU
 country_name: Australia

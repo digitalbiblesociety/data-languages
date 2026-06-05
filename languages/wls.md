@@ -2,7 +2,7 @@
 iso: wls
 name: Wallisian
 autonym: Faka
-alt_names: ["'Uvea", E Uvea, E. Uvea, East Uvea, East Uvean, "Faka 'Uvea", Idioma walisiano, Lingua wallisiana, Língua wallisiana, Uvea, Uvea (East), Uvean, Valiski jezik, Wallisianische Sprache, Wallisien, Wallisià, Уоллисский язык]
+alt_names: ["'Uvea", E Uvea, E. Uvea, East Uvea, East Uvean, "Faka 'Uvea", Uvea, Uvea (East), Uvean, Wallisien, Wallisià]
 population: 25040
 country_id: WF
 country_name: "Wallis & Futuna"

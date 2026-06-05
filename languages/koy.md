@@ -2,7 +2,7 @@
 iso: koy
 name: Koyukon
 autonym: " Denaakkʼe"
-alt_names: [Alaska, "Denaakk'e", Koyuko, Koyukukhotana, Kuyukon, Língua koyukon, "Ten'a", Tena]
+alt_names: [Alaska, "Denaakk'e", Koyuko, Koyukukhotana, Kuyukon, "Ten'a", Tena]
 population: 65
 country_id: US
 country_name: United States

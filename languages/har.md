@@ -2,7 +2,7 @@
 iso: har
 name: Harari
 autonym: Adare
-alt_names: [Adarinnya, Adere, Aderinya, Gey Sinan, Harari jezik, Hararieg, Hararri, Hararščina, Język harari, Llengua harari]
+alt_names: [Adarinnya, Adere, Aderinya, Gey Sinan, Hararieg, Hararri]
 population: 2351
 country_id: ET
 country_name: Ethiopia

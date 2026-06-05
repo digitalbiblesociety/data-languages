@@ -2,7 +2,7 @@
 iso: xeb
 name: Eblan
 autonym: null
-alt_names: [Eblai nyelv, Eblaic, Eblaite, Eblaite language, Eblaitische Sprache, Eblaittisk, Eblan kieli, Eblaïta, Eblaïtisch, Ebliešu valoda, Język eblaicki, Lingua eblaíta, Língua eblaíta, Éblaïte, אבלאית, لغة إبلاوية, ภาษาเอ็บลาไอต์]
+alt_names: [Eblaic, Eblaite, Eblaite language, Eblaittisk, Eblaïta, Eblaïtisch, Éblaïte, אבלאית]
 population: null
 country_id: SY
 country_name: Syria

@@ -2,7 +2,7 @@
 iso: psd
 name: Plains Indian Sign Language
 autonym: Plains Nation Sign Language
-alt_names: [Indiana gestlingvo, Indianernas teckenspråk, Mowa znaków, Plains Sign Language, Plains-Indians Sign Language, Znakovni jezik prerijskih Indijanaca, የሜዳ ቀይ ሕንዳውያን እጅ ምልክት ቋንቋ]
+alt_names: [Indiana gestlingvo, Indianernas teckenspråk, Mowa znaków, Plains Sign Language, Plains-Indians Sign Language, የሜዳ ቀይ ሕንዳውያን እጅ ምልክት ቋንቋ]
 population: 75
 country_id: US
 country_name: United States

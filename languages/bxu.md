@@ -2,7 +2,7 @@
 iso: bxu
 name: China Buriat
 autonym: Buriat
-alt_names: [Bargu, Bargu Buriat, "Buriat, China", Buriat-Mongolian, Burjatisch, Buryat, Menggu, New Barghut, New Bargut, Northeastern Mongolian, Northern Mongolian, Xin Baerhu, 新巴爾虎土語]
+alt_names: [Bargu, Bargu Buriat, "Buriat, China", Buriat-Mongolian, Burjatisch, Buryat, Menggu, New Barghut, New Bargut, Northeastern Mongolian, Northern Mongolian, Xin Baerhu]
 population: 14000
 country_id: CN
 country_name: China

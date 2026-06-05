@@ -2,7 +2,7 @@
 iso: haa
 name: Han
 autonym: Häł gołan
-alt_names: [Dawson, Han-Kutchin, Hana lingvo, Hän, Hän language, Língua hän, Moosehide]
+alt_names: [Dawson, Han-Kutchin, Hän, Hän language, Moosehide]
 population: 19
 country_id: US
 country_name: United States

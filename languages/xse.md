@@ -2,7 +2,6 @@
 iso: xse
 name: Sempan
 autonym: Nararapi
-alt_names: [Sempan jezik]
 population: 1000
 country_id: ID
 country_name: Indonesia

@@ -2,7 +2,7 @@
 iso: sgk
 name: Sangkong
 autonym: Buxia
-alt_names: [布下土語, 布夏語, 桑孔話]
+alt_names: [桑孔話]
 population: 1500
 country_id: CN
 country_name: China

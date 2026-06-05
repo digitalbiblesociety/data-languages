@@ -2,7 +2,7 @@
 iso: dgh
 name: Dghwede
 autonym: Azaghvana
-alt_names: [Dehoxde, Dghwede jezik, Dgwede, Dgwedeg, Hude, Johode, Tghuade, Toghwede, Traude, Truade, "Wa'a", Zaghvana]
+alt_names: [Dehoxde, Dgwede, Dgwedeg, Hude, Johode, Tghuade, Toghwede, Traude, Truade, "Wa'a", Zaghvana]
 population: 30000
 country_id: NG
 country_name: Nigeria

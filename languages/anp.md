@@ -2,7 +2,7 @@
 iso: anp
 name: Angika
 autonym: अंगिका
-alt_names: [Anga, Angikar, Angičtina, Chhika-Chhiki, ภาษาอังคิกา]
+alt_names: [Anga, Angikar, Angičtina, Chhika-Chhiki]
 population: 743600
 country_id: IN
 country_name: India

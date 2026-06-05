@@ -2,7 +2,7 @@
 iso: cjy
 name: Jinyu Chinese
 autonym: 晋语 / 晉語
-alt_names: ["Chinese, Jinyu", "Chinese,Jinyu", Chino jin, Djineg, Jin, Jin Chinese, Jinish, Jinyu, Język jin, Ĵina lingvo, 晉語, 晋語, 晋语, 진어]
+alt_names: ["Chinese, Jinyu", "Chinese,Jinyu", Chino jin, Djineg, Jin, Jin Chinese, Jinish, Jinyu]
 population: 63050000
 country_id: CN
 country_name: China

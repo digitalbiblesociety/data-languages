@@ -2,7 +2,7 @@
 iso: hld
 name: Halang Doan
 autonym: Halang Doan
-alt_names: [Alang, Doan, Duan, Halang, Halang Duan, Haleng, Selong, ภาษาฮลัง ดวน]
+alt_names: [Alang, Doan, Duan, Halang, Halang Duan, Haleng, Selong]
 population: 2000
 country_id: VN
 country_name: Vietnam

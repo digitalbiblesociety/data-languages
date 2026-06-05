@@ -2,7 +2,7 @@
 iso: acn
 name: Achang
 autonym: အာချန်
-alt_names: [Acang, "Ach'ang", Achung, Ahchan, Anchan, Atchangeg, Atsang, Atśang, Bahasa Achang, Chintaw, Chung, Maingtha, MÃ¶nghsa, "Ngac'ang", "Ngac'ang language", Ngacang, Ngachang, Ngatsang, Ngatśang, Ngo Chang, Ngochang, "Tai Sa'", Tiếng A Xương, Xiandao, Xiandaohua, Xiantao, 仙島話, 阿昌语]
+alt_names: [Acang, "Ach'ang", Achung, Ahchan, Anchan, Atchangeg, Atsang, Atśang, Chintaw, Chung, Maingtha, MÃ¶nghsa, "Ngac'ang", "Ngac'ang language", Ngacang, Ngachang, Ngatsang, Ngatśang, Ngo Chang, Ngochang, "Tai Sa'", Xiandao, Xiandaohua, Xiantao, 仙島話]
 population: 62700
 country_id: CN
 country_name: China

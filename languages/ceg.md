@@ -2,7 +2,7 @@
 iso: ceg
 name: Chamacoco
 autonym: Ishír
-alt_names: [Bahía Negra, Chamakoko, Ebidoso, Ishiro, Jeywo, Tchamakokoeg, Tumarahá, Tumerehã, Tumraha, Yshyro, Čamakokų kalba]
+alt_names: [Bahía Negra, Chamakoko, Ebidoso, Ishiro, Jeywo, Tchamakokoeg, Tumarahá, Tumerehã, Tumraha, Yshyro]
 population: 2000
 country_id: PY
 country_name: Paraguay

@@ -2,7 +2,7 @@
 iso: zmi
 name: Negeri Sembilan Malay
 autonym: Malaysian Minangkabau
-alt_names: [Lenga Negeri Sembilan Malay, Malay (Ulu Muar), Minangkabau, Orang Negeri, Ulu Muar Malay]
+alt_names: [Malay (Ulu Muar), Minangkabau, Orang Negeri, Ulu Muar Malay]
 population: 508000
 country_id: MY
 country_name: Malaysia

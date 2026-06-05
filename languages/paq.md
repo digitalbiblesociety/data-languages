@@ -2,7 +2,7 @@
 iso: paq
 name: Parya
 autonym: Парья
-alt_names: [Afghana-Yi Nasfurush, Afghana-Yi Siyarui, Asiatic Romany, Laghmani, Lenga parya, Lingua Parya, Pbharya]
+alt_names: [Afghana-Yi Nasfurush, Afghana-Yi Siyarui, Asiatic Romany, Laghmani, Pbharya]
 population: 3000
 country_id: TJ
 country_name: Tajikistan

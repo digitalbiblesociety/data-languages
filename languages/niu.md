@@ -2,7 +2,7 @@
 iso: niu
 name: Niuean
 autonym: ko e vagahau Niuē
-alt_names: ["\"Niuefekai\"", Idioma niuano, Język niue, Lingua niueana, Niue, Niue jezik, Niueanische Sprache, Niuen kieli, Niuéen, niué, Ниуэ, 纽埃语]
+alt_names: ["\"Niuefekai\"", Niue, Niuéen, niué, Ниуэ]
 population: 2030
 country_id: NU
 country_name: Niue

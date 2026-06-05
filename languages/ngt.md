@@ -2,7 +2,7 @@
 iso: ngt
 name: Kriang
 autonym: Ta Oi
-alt_names: [Dutch Sign Language, Língua de Sinais Holandesa, Nederlanda signolingvo, Nederlandse Gebarentaal, Ngae, "Nge'", Ngeh, Ngeq, Nkriang]
+alt_names: [Dutch Sign Language, Nederlanda signolingvo, Nederlandse Gebarentaal, Ngae, "Nge'", Ngeh, Ngeq, Nkriang]
 population: 12200
 country_id: LA
 country_name: Laos

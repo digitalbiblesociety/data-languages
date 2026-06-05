@@ -2,7 +2,7 @@
 iso: saq
 name: Samburu
 autonym: " ɔl Maa"
-alt_names: [Burkeneji, E Lokop, Lokop, Nkutuk, Sambouroueg, Sambur, Samburun kieli, Sampur]
+alt_names: [Burkeneji, E Lokop, Lokop, Nkutuk, Sambouroueg, Sambur, Sampur]
 population: 366000
 country_id: KE
 country_name: Kenya

@@ -2,7 +2,7 @@
 iso: cpx
 name: "Pu-Xian Chinese"
 autonym: 莆仙語/莆仙話/興化話
-alt_names: [Bahasa Puxian, "Chinese, Pu-Xian", "Chinese,Pu-Xian", Hingeg, Język puxian, Minish Phuxian, Phû-sien-fa, Puxian, Puxian Min, ホ仙語, 莆仙話]
+alt_names: ["Chinese, Pu-Xian", "Chinese,Pu-Xian", Hingeg, Minish Phuxian, Phû-sien-fa, Puxian, Puxian Min, 莆仙話]
 population: 3191700
 country_id: CN
 country_name: China

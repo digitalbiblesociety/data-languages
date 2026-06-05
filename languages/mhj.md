@@ -2,7 +2,7 @@
 iso: mhj
 name: Mogholi
 autonym: Moghol
-alt_names: [Język mogolski, Mogol, "Mogol'", Mogolieg, Mogul, Mongolen, Mongul, Моголски јазик, Могольский язык, ภาษาโมโคล]
+alt_names: [Mogol, "Mogol'", Mogolieg, Mogul, Mongolen, Mongul]
 population: 200
 country_id: AF
 country_name: Afghanistan

@@ -2,7 +2,7 @@
 iso: uuu
 name: U
 autonym: Pouma
-alt_names: [Angku, "P'uman", Puman, Āng-kú, 烏語]
+alt_names: [Angku, "P'uman", Puman, Āng-kú]
 population: 30000
 country_id: CN
 country_name: China

@@ -2,7 +2,7 @@
 iso: nnt
 name: Nanticoke
 autonym: null
-alt_names: [Língua nanticoke, Nanticoke-Conoy, Nanticoke-Piscataway]
+alt_names: [Nanticoke-Conoy, Nanticoke-Piscataway]
 population: null
 country_id: US
 country_name: United States

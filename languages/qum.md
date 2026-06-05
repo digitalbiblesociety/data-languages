@@ -2,7 +2,7 @@
 iso: qum
 name: Sipacapense
 autonym: Sipacapeño
-alt_names: [Idioma sipacapense, Língua sipacapense, Sipacapa, Sipacapa Quiché, Sipacapansk, Sipacapeno, Sipacaperse, Sipakapa, Sipakapense, Sipakapense language, Sipakapenyo, Сипакапенсе јазик]
+alt_names: [Sipacapa, Sipacapa Quiché, Sipacapansk, Sipacapeno, Sipacaperse, Sipakapa, Sipakapense, Sipakapense language, Sipakapenyo]
 population: 12000
 country_id: GT
 country_name: Guatemala

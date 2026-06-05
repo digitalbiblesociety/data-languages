@@ -2,7 +2,7 @@
 iso: eso
 name: Estonian Sign Language
 autonym: Eesti viipekeel (EVK)
-alt_names: [Língua de Sinais da Estónia, Viipekeel]
+alt_names: [Viipekeel]
 population: 6300
 country_id: EE
 country_name: Estonia

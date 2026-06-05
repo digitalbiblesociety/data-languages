@@ -2,7 +2,7 @@
 iso: lav
 name: Latvian
 autonym: latviešu
-alt_names: [An Laitvis, Bahasa Latvi, Bahasa Latvia, Gjuha letoneze, Idioma letón, Język łotewski, Latva lingvo, Latvian kieli, Latviana linguo, Latviek, Latviešu valoda, Latvijski jezik, Latvijščina, Latvish, Latvisk, Latvisk språk, Latviu kalba, Latvių kalba, Latwyan, Latış dili, Lenga leton-a, Lengua lettone, Letišćina, Letonca, Letoniera, Letonski jezik, Lets, Letsk, Lett nyelv, Lettisc sprǣc, Lettische Sprache, Lettisk, Lettiska, Lettiskt, Lettneska, Letton, Lettsch, Letó, Limba letonă, Lingua Lettonica, Lingua letoa, Lingua lettone, Litunya simi, Lotyština, Látviagiella, Läti keel, Língua letã, Pinulongang Leton, Uotewsko godka, Zimanê letonî, Λεττονική γλώσσα, Латвийски език, Латвиянь кяль, Латиська мова, Латыская мова, Латыш йылме, Латышская мова, Латышский язык, Летонски јазик, Летонски језик, לטבית, زبان لاتویایی, لاتفى, لاتۋىيە تىلى, لغة لاتفية, लातवियाई भाषा, लात्व्हियन भाषा, ภาษาลัตเวีย, ლატვიური ენა, ラトビア語, 拉脱维亚语, 라트비아어]
+alt_names: [An Laitvis, Latviana linguo, Latviek, Latvish, Latvisk, Latwyan, Letonca, Letoniera, Lets, Letsk, Lettisc sprǣc, Lettisk, Lettiska, Lettiskt, Lettneska, Letton, Lettsch, Letó, Litunya simi, Látviagiella, Uotewsko godka, Латвиянь кяль, Латыш йылме, לטבית, لاتفى, لاتۋىيە تىلى]
 population: 1728760
 country_id: LV
 country_name: Latvia

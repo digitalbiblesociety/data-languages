@@ -2,7 +2,7 @@
 iso: ayt
 name: Magbukun Ayta
 autonym: Bataan Ayta
-alt_names: [Ayta, Ayta de Bataan, Ayta du Bataan, "Ayta, Bataan", "Ayta, Magbukun", Bataan, Bataan Sambal, Idioma mariveleño, Mariveles Ayta, Mariveleño language, ภาษามารีเวเลโญ]
+alt_names: [Ayta, Ayta de Bataan, Ayta du Bataan, "Ayta, Bataan", "Ayta, Magbukun", Bataan, Bataan Sambal, Mariveles Ayta, Mariveleño language]
 population: 1000
 country_id: PH
 country_name: Philippines

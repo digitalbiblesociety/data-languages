@@ -1,7 +1,7 @@
 ---
 iso: ykh
 name: Khamnigan Mongol
-alt_names: [Hamunikan, Kamnigan, Khamnigan, Xamnigan, хамниганский язык, 哈姆尼堪, 汗尼幹蒙古語]
+alt_names: [Hamunikan, Kamnigan, Khamnigan, Xamnigan, 哈姆尼堪]
 population: 2000
 country_id: CN
 country_name: China

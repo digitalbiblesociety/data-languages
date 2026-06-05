@@ -2,7 +2,7 @@
 iso: ahh
 name: Aghu
 autonym: Central Awyu
-alt_names: [Aghu jezik, Auju, Awju, Djair, Dyair, Język aghu, ภาษาอาคู]
+alt_names: [Auju, Awju, Djair, Dyair]
 population: 3000
 country_id: ID
 country_name: Indonesia

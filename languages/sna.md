@@ -2,7 +2,7 @@
 iso: sna
 name: Shona
 autonym: chiShona
-alt_names: ["\"Swina\"", Bahasa Shona, Central Karanga, Choneg, Idioma shona, Język shona, Karanga, Karanga (Central), Kishona, Lingua shona, Língua chona, Shona simi, Shonum, Ŝona lingvo, Šona, Шона, شونا تىلى, শোনা ভাষা, சோனா மொழி, ショナ語]
+alt_names: ["\"Swina\"", Central Karanga, Choneg, Karanga, Karanga (Central), Kishona, Shona simi, Shonum, Šona, Шона, شونا تىلى]
 population: 7237290
 country_id: ZW
 country_name: Zimbabwe

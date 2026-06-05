@@ -2,7 +2,7 @@
 iso: kry
 name: Kryts
 autonym: кърыцIаь мез ġrəċä mez
-alt_names: [Dzek, Dzhek, Dzheki, Język kryzyjski, Katsy, Kjruaj mez, Kriz, Kryc, Krysische Sprache, Krytsin kieli, Kryz, Kryzy, Qrız dili, c’eka mez, qryc’ä mez, Кризька мова, джекский язык, крызский язык, кърыцIаь мез, цIека meз]
+alt_names: [Dzek, Dzhek, Dzheki, Katsy, Kjruaj mez, Kriz, Kryc, Kryz, Kryzy, c’eka mez, qryc’ä mez, кърыцIаь мез, цIека meз]
 population: 6000
 country_id: AZ
 country_name: Azerbaijan

@@ -2,7 +2,7 @@
 iso: ibb
 name: Ibibio
 autonym: (Ibibio proper)
-alt_names: [Atabaskamál, Bahasa Efik, Język ibibio, Lenga Ibibio, Língua ibibio, Nigeria, Ибибио, イビビオ語]
+alt_names: [Atabaskamál, Nigeria, Ибибио]
 population: 5939000
 country_id: NG
 country_name: Nigeria

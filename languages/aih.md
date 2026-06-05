@@ -2,7 +2,7 @@
 iso: aih
 name: "Ai-Cham"
 autonym: Atsam
-alt_names: [Ai-tsam, Bahasa Ai-Cham, Jiamuhua, Jinhua, Lingua Ai-cham]
+alt_names: [Ai-tsam, Jiamuhua, Jinhua]
 population: 2700
 country_id: CN
 country_name: China

@@ -2,7 +2,7 @@
 iso: juc
 name: Jurchen
 autonym: Nuchen
-alt_names: [Djourtcheneg, Dzsürcsi nyelv, Džurtšenin kieli, Hezhen, Џурченски јазик, Чжурчжэньский язык, ภาษาจูร์เชน, 女真語, 여진어]
+alt_names: [Djourtcheneg, Hezhen]
 population: null
 country_id: CN
 country_name: China

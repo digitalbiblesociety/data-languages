@@ -2,7 +2,7 @@
 iso: bvh
 name: Bure
 autonym: Bubure
-alt_names: [Bubbure, Bubburè, Bure jezik]
+alt_names: [Bubbure, Bubburè]
 population: 500
 country_id: NG
 country_name: Nigeria

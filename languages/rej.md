@@ -2,7 +2,7 @@
 iso: rej
 name: Rejang
 autonym: Baso Jang  Baso Hejang
-alt_names: [Bahasa Rejang, Djang, Djang Bele Tebo, Jang, Redjang, Rejang-Lebong]
+alt_names: [Djang, Djang Bele Tebo, Jang, Redjang, Rejang-Lebong]
 population: 350000
 country_id: ID
 country_name: Indonesia

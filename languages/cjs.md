@@ -2,7 +2,7 @@
 iso: cjs
 name: Shor
 autonym: Шор тили
-alt_names: [Aba, Chor, Choreg, Kondoma Tatar, Kuznets Tatar, Minusinsk-Tataren, Mras Tatar, Mras-Su Tatar, Schoren, Schorische Sprache, Shortsy, Sorio, Tm, Tom-Kuznets Tatar, tadar tili, Ŝora lingvo, Şor Türkçesi, Şorca, Šoorin kieli, šor tili, Тадар тили, Шор чĕлхи, Шорски език, Шорски јазик, шорский язык, ショル語, 쇼르어]
+alt_names: [Aba, Chor, Choreg, Kondoma Tatar, Kuznets Tatar, Minusinsk-Tataren, Mras Tatar, Mras-Su Tatar, Schoren, Shortsy, Sorio, Tm, Tom-Kuznets Tatar, tadar tili, Şor Türkçesi, Şorca, šor tili]
 population: 6210
 country_id: RU
 country_name: Russia

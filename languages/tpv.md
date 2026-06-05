@@ -2,7 +2,7 @@
 iso: tpv
 name: Tanapag
 autonym: Northern Carolinian
-alt_names: [Sprache der Marianen, Tallabwog]
+alt_names: [Tallabwog]
 population: 4400
 country_id: MP
 country_name: Northern Mariana Islands

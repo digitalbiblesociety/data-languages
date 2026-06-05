@@ -2,7 +2,7 @@
 iso: ell
 name: Modern Greek
 autonym: Νέα Ελληνικά
-alt_names: [Ellinika, Graecae, Grec, Grec de Marioupol, Grec modern, Grec moderne, Greco, Greek, Greek (Cypriot), Greek (Modern), "Greek, Modern (1453-)", Grego moderno, Griego moderno, Griko (Calabre), Griko (Salento), Jaungrieķu valoda, Język nowogrecki, Lingua Neograeca, Lingua greca moderna, Mauropoliano, Modern Greek, Modern Grieks, Neegreeksche Spraak, Neo-Hellenic, Neu-Griechisch, Neugriechische Sprache, Novogréčtina, Novogrčki jezik, Nygrekiska, Nygresk, Nygræsk, Romaic, Tayunanit, grec moderne (après 1453), Новогрецька мова, יוונית מודרנית, आधुनिक यूनानी भाषा]
+alt_names: [Ellinika, Graecae, Grec, Grec de Marioupol, Grec modern, Grec moderne, Greco, Greek, Greek (Cypriot), Greek (Modern), "Greek, Modern (1453-)", Grego moderno, Griego moderno, Griko (Calabre), Griko (Salento), Mauropoliano, Modern Greek, Modern Grieks, Neegreeksche Spraak, Neo-Hellenic, Neu-Griechisch, Novogréčtina, Nygrekiska, Nygresk, Nygræsk, Romaic, Tayunanit, grec moderne (après 1453), יוונית מודרנית]
 population: 13500000
 country_id: GR
 country_name: Greece

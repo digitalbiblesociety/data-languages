@@ -2,7 +2,7 @@
 iso: agj
 name: Argobba
 autonym: ዓርጎባ (Argoba)
-alt_names: [Argoba, Argobba jezik, Argobeg, Język argobba, لغة أرغوبية]
+alt_names: [Argoba, Argobeg]
 population: 43700
 country_id: ET
 country_name: Ethiopia

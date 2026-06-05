@@ -2,7 +2,7 @@
 iso: nlx
 name: Nahali
 autonym: Nahali
-alt_names: [Kalteg, Kalto, Kalto language, Lenga nahali, Nahal, Nahale, Nahalí, Nihali, Нихали, カルト語]
+alt_names: [Kalteg, Kalto, Kalto language, Nahal, Nahale, Nahalí, Nihali, Нихали]
 population: 15000
 country_id: IN
 country_name: India

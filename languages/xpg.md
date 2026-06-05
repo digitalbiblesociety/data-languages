@@ -2,7 +2,7 @@
 iso: xpg
 name: Phrygian
 autonym: null
-alt_names: [Friga lingvo, Frigijščina, Frixu, Frygisch, Frygisk, Fryygian kieli, Frýgičtina, Idioma frichio, Idioma frigio, Język frygijski, Lingua frigia, Lingua frixia, Língua frígia, Neo-Phrygian, Old Phrygian, Paleo-Phrygian, Phrygische Sprache, Phrygsche Spraak, Фригиаг æвзаг, Фригийски език, Фригийский язык, Фригиски јазик, פריגית, ภาษาฟรีเจีย, フリュギア語]
+alt_names: [Frixu, Frygisch, Frygisk, Frýgičtina, Neo-Phrygian, Old Phrygian, Paleo-Phrygian, Phrygsche Spraak, פריגית]
 population: null
 country_id: TR
 country_name: Turkey

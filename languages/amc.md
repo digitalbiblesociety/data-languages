@@ -2,7 +2,7 @@
 iso: amc
 name: Amahuaca
 autonym: Amaguaco
-alt_names: [Amawaka, Amawaka language area, Ameuhaque, Idioma amahuaca, Ipitineri, Sayaco]
+alt_names: [Amawaka, Amawaka language area, Ameuhaque, Ipitineri, Sayaco]
 population: 110
 country_id: PE
 country_name: Peru

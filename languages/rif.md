@@ -2,7 +2,7 @@
 iso: rif
 name: Tarifit
 autonym: Tmaziɣt
-alt_names: [Berber (Rif), Fifia, Idioma rifenco, Idioma rifeño, Lingua tarifit, Luenga rifeña, Northern Shilha, Rif, Rifain, Rifenc, Riff, Rifi, Rifia, Ruafa, Shilha, Tamazight (Ait Rouadi), Tamazight (Arzew), Tamazight (Beni Iznassen), Tamazight (Tunisie), Tamazight (Túnez), Tarifit jezik, Tarifiteg, Tirifie, لهجة تاريفيت]
+alt_names: [Berber (Rif), Fifia, Luenga rifeña, Northern Shilha, Rif, Rifain, Rifenc, Riff, Rifi, Rifia, Ruafa, Shilha, Tamazight (Ait Rouadi), Tamazight (Arzew), Tamazight (Beni Iznassen), Tamazight (Tunisie), Tamazight (Túnez), Tarifiteg, Tirifie, لهجة تاريفيت]
 population: 4399000
 country_id: MA
 country_name: Morocco

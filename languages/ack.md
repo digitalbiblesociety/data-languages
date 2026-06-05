@@ -2,7 +2,7 @@
 iso: ack
 name: "Aka-Kora"
 autonym: "Aka-Kora"
-alt_names: [Aka-Cora, Aka-Khora, Bahasa Aka-Kora, Great Andamanese, Idioma kora, Khora, Kora, Koran kieli, Lèngua Aka-Kora]
+alt_names: [Aka-Cora, Aka-Khora, Great Andamanese, Khora, Kora, Lèngua Aka-Kora]
 population: null
 country_id: IN
 country_name: India

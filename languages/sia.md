@@ -2,7 +2,7 @@
 iso: sia
 name: Akkala Sami
 autonym: ču´kksuâlis
-alt_names: [Ahkkil, Akalos samių kalba, Akkala Saami, Akkala számi nyelv, Akkala-Lappisch, Akkalansaame, Akkalasamische Sprache, Akkalasamisk, Akkalasamisk språk, Akkalasamiska, Babino, Babino Saami, Babinsk, Eastern, Eastern Saami, Lapp, Lappic, Lappisch, Lappish, Lingua sami di Akkala, Língua sami de Akkala, Ostlappisch, Russisch-Lappisch, Saami, Saami akkala, "Saami, Akkala", Saamí de Akkala, "Same d'Akkala", "Sami, Akkala", Samieg Akkala, east dialect, lapin kieli, lapon, lappisk, lapón de Akkala, lopary, ostlappischer Dialekt, saamen kieli, saamskij jazyk, sabme, same-, sāme-giellâ, Áhkkilsámegiella, Акала самиски јазик, Акала-саамски език, Аккала, Аккала саами, бабинский саамский язык]
+alt_names: [Ahkkil, Akkala Saami, Akkala-Lappisch, Akkalansaame, Akkalasamisk, Akkalasamiska, Babino, Babino Saami, Babinsk, Eastern, Eastern Saami, Lapp, Lappic, Lappisch, Lappish, Ostlappisch, Russisch-Lappisch, Saami, Saami akkala, "Saami, Akkala", Saamí de Akkala, "Same d'Akkala", "Sami, Akkala", Samieg Akkala, east dialect, lapon, lappisk, lapón de Akkala, lopary, ostlappischer Dialekt, sabme, same-, sāme-giellâ, Áhkkilsámegiella, Аккала, Аккала саами]
 population: 2018
 country_id: RU
 country_name: Russia

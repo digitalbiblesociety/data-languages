@@ -2,7 +2,7 @@
 iso: sgr
 name: Sangisari
 autonym: Mahdi Shahri
-alt_names: [Mehdishahri, Sangesari, Sangsari, Sangsari language, Sengiseri, Sengsari, Sengıserki, Sängesäri, Sängsari, Sängsäri, زبان سنگسری, ภาษาซังกิซารี]
+alt_names: [Mehdishahri, Sangesari, Sangsari, Sangsari language, Sengiseri, Sengsari, Sengıserki, Sängesäri, Sängsari, Sängsäri]
 population: 42300
 country_id: IR
 country_name: Iran

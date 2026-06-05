@@ -2,7 +2,7 @@
 iso: kpt
 name: Karata
 autonym: Karatai
-alt_names: [Karatay, Karatin, Kirdi, КIкIирлIи мацIцIи, каратинский язык, კარატაული ენა]
+alt_names: [Karatay, Karatin, Kirdi, КIкIирлIи мацIцIи]
 population: 5000
 country_id: RU
 country_name: Russia

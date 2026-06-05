@@ -2,7 +2,7 @@
 iso: cod
 name: "Cocama-Cocamilla"
 autonym: Kokáma
-alt_names: [Cocama, Cocama Cocamilla, Cocama language, Cocamas, Huallaga, Idioma cocama, Kokama, Kokama-Kokamilya, Kokoma lingvo, Kokomeg, Kokáma-Omágwa, Kukama Kukamiria, Kukama simi, Kukama-Kukamiria, Pampadeque, Pandequebo, Ucayali, Xibitaoan, Xibitaona, Xibitoana, Кокама]
+alt_names: [Cocama, Cocama Cocamilla, Cocama language, Cocamas, Huallaga, Kokama, Kokama-Kokamilya, Kokomeg, Kokáma-Omágwa, Kukama Kukamiria, Kukama simi, Kukama-Kukamiria, Pampadeque, Pandequebo, Ucayali, Xibitaoan, Xibitaona, Xibitoana, Кокама]
 population: 15000
 country_id: PE
 country_name: Peru

@@ -2,7 +2,7 @@
 iso: yuj
 name: "Karkar-Yuri"
 autonym: Yuri
-alt_names: [Idioma Yuri, Karkar, Karkar-Yuri jezik]
+alt_names: [Karkar]
 population: 1140
 country_id: PG
 country_name: Papua New Guinea

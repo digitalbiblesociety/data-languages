@@ -2,7 +2,7 @@
 iso: ett
 name: Etruscan
 autonym: 𐌓𐌀𐌔𐌍𐌀
-alt_names: [Etrurski jezik, Etrusc, Etruska lingvo, Etruskeg, Etruskek, Etruskin kieli, Etruskisch, Etruskische Sprache, Etruskisk, Etruskisk språk, Etruskiska, Etruskų kalba, Etruszk nyelv, Etruština, Etrušćina, Etruščanski jezik, Etrúska, Idioma etrusco, Język etruski, Lingua Etrusca, Lingua etrusc, Llingua etrusca, Língua etrusca, Tyrrhenian, Tyrsenian, Étrusque, Ετρουσκική γλώσσα, Етруски език, Етруська мова, Этрусский язык, ეტრუსკული ენა, エトルリア語, 伊特拉斯坎語, 에트루리아어]
+alt_names: [Etrusc, Etruskeg, Etruskek, Etruskisch, Etruskisk, Etruskiska, Etrúska, Llingua etrusca, Tyrrhenian, Tyrsenian, Étrusque]
 population: null
 country_id: IT
 country_name: Italy

@@ -2,7 +2,6 @@
 iso: psg
 name: Penang Sign Language
 autonym: Bahasa Isyarat Pulau Pinang
-alt_names: [Língua de Sinais de Penang]
 population: 1000
 country_id: MY
 country_name: Malaysia

@@ -2,7 +2,6 @@
 iso: xml
 name: Malaysian Sign Language
 autonym: BIM
-alt_names: [Bahasa Isyarat Malaysia, Língua de Sinais Malasiana]
 population: 58700
 country_id: MY
 country_name: Malaysia

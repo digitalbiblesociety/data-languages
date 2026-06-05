@@ -2,7 +2,7 @@
 iso: bla
 name: Blackfoot
 autonym: ᓱᖽᐧᖿ
-alt_names: [Blackfeet, Blackfoot-Sprache, Blackfoot-språket, Język siksika, Mustajalka, Nigrapieda lingvo, "Niitsi'powahsin", Niitsipowahsin, Pied-noir, Pied-noir (Canada), "Pied-noir (États-Unis d'Amérique)", Pies negros (Estados Unidos), Piikani, Pikanieg, Pikanii, Pikuni, Siksika, Siksika Cluster, Блэкфут, อักษรแบล็กฟุต, ブラックフット語, 블랙풋어]
+alt_names: [Blackfeet, Blackfoot-Sprache, Blackfoot-språket, Mustajalka, "Niitsi'powahsin", Niitsipowahsin, Pied-noir, Pied-noir (Canada), "Pied-noir (États-Unis d'Amérique)", Pies negros (Estados Unidos), Piikani, Pikanieg, Pikanii, Pikuni, Siksika, Siksika Cluster, Блэкфут, อักษรแบล็กฟุต]
 population: 2920
 country_id: CA
 country_name: Canada

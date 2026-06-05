@@ -2,7 +2,7 @@
 iso: tqw
 name: Tonkawa
 autonym: null
-alt_names: [Idioma tonkawa, Lingua tonkawa, Tonkawa hizkuntza, Tonkawan, USA, Тонкава]
+alt_names: [Tonkawa hizkuntza, Tonkawan, USA, Тонкава]
 population: null
 country_id: US
 country_name: United States

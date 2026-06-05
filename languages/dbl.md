@@ -2,7 +2,7 @@
 iso: dbl
 name: Dyirbal
 autonym: Djirubal
-alt_names: [Chirbal, Chirpa, Chirpalji, Choolngai, Djalnguy, Djirbal, Djirbaldji, Djiribal, Dyalnguy, Dyarbal, Dyirbaldyi, Dyirbalngan, Jirrbal, Język dyirbal, Lenga dyirbal, Lingua dyirbal, Ngiloongo-I, Njirma, Tjirbal, Tyirbal, Дирбал]
+alt_names: [Chirbal, Chirpa, Chirpalji, Choolngai, Djalnguy, Djirbal, Djirbaldji, Djiribal, Dyalnguy, Dyarbal, Dyirbaldyi, Dyirbalngan, Jirrbal, Ngiloongo-I, Njirma, Tjirbal, Tyirbal, Дирбал]
 population: 8
 country_id: AU
 country_name: Australia

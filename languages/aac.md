@@ -2,7 +2,6 @@
 iso: aac
 name: Ari
 autonym: null
-alt_names: [Ari jezik, Lenga Ari]
 population: 50
 country_id: PG
 country_name: Papua New Guinea

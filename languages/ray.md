@@ -2,7 +2,7 @@
 iso: ray
 name: Rapa
 autonym: Reo Rapa; Reo Oparo
-alt_names: [Old Rapa, Rapan, Rapan kieli, Rapan language, Rapano]
+alt_names: [Old Rapa, Rapan, Rapan language, Rapano]
 population: 520
 country_id: PF
 country_name: French Polynesia

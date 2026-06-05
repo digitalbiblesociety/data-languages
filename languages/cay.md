@@ -2,7 +2,7 @@
 iso: cay
 name: Cayuga
 autonym: Gayogo̱hó꞉nǫʼ
-alt_names: [Кайюга, 카유가어]
+alt_names: [Кайюга]
 population: 3000
 country_id: CA
 country_name: Canada

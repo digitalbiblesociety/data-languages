@@ -2,7 +2,7 @@
 iso: mni
 name: Manipuri
 autonym: " Meitheilon"
-alt_names: [Bahasa Manipuri, Bishnupriya, Idioma meitei, Język manipuri, Kathe, Kathi, Kaṯhe, Lingua Meitei, Mailhai, Manipura lingvo, Manipuri jezik, Meitei, Meitei language, Meiteieg, Meiteilon, Meiteiron, Meithe, Meithei, Meithlei, Menipuri, Mitei, Mithe, Mēkhalī, Mēklē, Ponna, Pōṇṇā, Манипури, Манипури језик, मणिपुरी भाषा, মেইতেই ঠার, মৈতৈ ভাষা, મણિપુરી ભાષા, മണിപ്പൂരി ഭാഷ, ภาษามณีปุรี, マニプリ語, 曼尼普尔语, 마니푸르어]
+alt_names: [Bishnupriya, Kathe, Kathi, Kaṯhe, Mailhai, Meitei, Meitei language, Meiteieg, Meiteilon, Meiteiron, Meithe, Meithei, Meithlei, Menipuri, Mitei, Mithe, Mēkhalī, Mēklē, Ponna, Pōṇṇā, Манипури, মেইতেই ঠার]
 population: 1775000
 country_id: IN
 country_name: India

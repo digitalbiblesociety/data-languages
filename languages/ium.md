@@ -2,7 +2,7 @@
 iso: ium
 name: Iu Mien
 autonym: Iu Mienh
-alt_names: ["\"Dong\"", "\"Mán\"", "\"Trai\"", "\"Xá\"", Ban Yao, Dao Do, Dao Thanh Phan, Dìu, Highland Yao, Język mien, Kim Mien, Lenga iu mien, Man, Mian, Mien, "Mien, Iu", Mjen, Myen, Pan Yao, Red Dao, Red Dao    Pan, Yao, Yao Kimmien, Yao Ogang, Yiu Mien, Youmian, Yu Mien, Яо, ヤオ語, 优勉土语]
+alt_names: ["\"Dong\"", "\"Mán\"", "\"Trai\"", "\"Xá\"", Ban Yao, Dao Do, Dao Thanh Phan, Dìu, Highland Yao, Kim Mien, Man, Mian, Mien, "Mien, Iu", Mjen, Myen, Pan Yao, Red Dao, Red Dao    Pan, Yao, Yao Kimmien, Yao Ogang, Yiu Mien, Youmian, Yu Mien, Яо]
 population: 383000
 country_id: CN
 country_name: China

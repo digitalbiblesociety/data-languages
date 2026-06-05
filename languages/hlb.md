@@ -2,7 +2,7 @@
 iso: hlb
 name: Halbi
 autonym: ହଲବୀ
-alt_names: [Bastari, Halabi, Halba, Halvas, Halvi, Lenga halbi, Lingua Halbi, Mahari, Mehari, ภาษาฮัลบี]
+alt_names: [Bastari, Halabi, Halba, Halvas, Halvi, Mahari, Mehari]
 population: 766000
 country_id: IN
 country_name: India

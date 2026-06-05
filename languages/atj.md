@@ -2,7 +2,7 @@
 iso: atj
 name: Atikamekw
 autonym: atikamekw nehiromowin
-alt_names: [Atihkamekw, Atikamek, Atikamekweg, Attikamek, Attikamekw, Attimewk, Cree, Lingua Atikamekw, Nehirowimowin, Tête de Boule, Атикамек]
+alt_names: [Atihkamekw, Atikamek, Atikamekweg, Attikamek, Attikamekw, Attimewk, Cree, Nehirowimowin, Tête de Boule, Атикамек]
 population: 5000
 country_id: CA
 country_name: Canada

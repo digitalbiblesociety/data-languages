@@ -2,7 +2,7 @@
 iso: chv
 name: Chuvash
 autonym: CăvašlaÇovaşla
-alt_names: [An tSuvaisis, Bahasa Chuvash, Bulgar, Chuvacho, Chuwash simi, Csuvas nyelv, Czuvasch, Idioma chuvasio, Język czuwaski, Limba ciuvaşă, Lingua ciuvascia, Língua tchuvache, Tchouvache, Tchouvacheg, Tjuvasjiska, Tschuwaschisch, Tschuwaschische Sprache, Tschuwasch’sche Spraak, Tschuwassisch, Tsjoevasjisch, Tsjuvasjisk, Tsjuvasjisk språk, Txuvaix, Tšuvassin kieli, Tšuvaši keel, Çuaş tele, Çuvaş dili, Çuvaş tili, Çuvaşça, Çuwaş dili, Ĉuvaŝa lingvo, Čiuvašų kalba, Čuvaški jezik, Čuvaština, Čuvašu valoda, Ветькень кель, Сыуаш теле, Чăваш чĕлхи, Чуваская мова, Чуваська мова, Чуваш тили, Чуваш тыла, Чувашки език, Чувашки јазик, Чувашки језик, Чувашский язык, Чьва́шьскъ ѩꙁꙑ́къ, Шуаш тілі, "צ'ובשית", زبان چوواشی, چۇۋاش تىلى, चुवाश भाषा, ภาษาชูวัช, ჩუვაშური ენა, チュヴァシ語, 楚瓦什語, 추바시어]
+alt_names: [An tSuvaisis, Bulgar, Chuvacho, Chuwash simi, Czuvasch, Tchouvache, Tchouvacheg, Tjuvasjiska, Tschuwaschisch, Tschuwasch’sche Spraak, Tschuwassisch, Tsjoevasjisch, Tsjuvasjisk, Txuvaix, Çuaş tele, Çuvaş tili, Çuvaşça, Ветькень кель, Сыуаш теле, Чуваш тыла, Чьва́шьскъ ѩꙁꙑ́къ, "צ'ובשית", چۇۋاش تىلى]
 population: 1079650
 country_id: RU
 country_name: Russia

@@ -2,7 +2,6 @@
 iso: xki
 name: Kenyan Sign Language
 autonym: KSL
-alt_names: [Língua Gestual Queniana]
 population: 600000
 country_id: KE
 country_name: Kenya

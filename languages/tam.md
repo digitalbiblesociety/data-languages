@@ -2,7 +2,7 @@
 iso: tam
 name: Tamil
 autonym: தமிழ்
-alt_names: [Bahasa Tamil, Basa Tamil, Damulian, Gjuha tamile, Idioma tamil, Język tamilski, Kitamil, Lengua tamil, Limba tamilă, Lingua Tamulica, Lingua tamil, Língua tâmil, Tamal, Tamalsan, Tambul, Tamil bhasa, Tamil nyelv, Tamil simi, Tamil-gí, Tamila lingvo, Tamilce, Tamileg, Tamilek, Tamilera, Tamili, Tamili keel, Tamilikani chhib, Tamilsk, Tamilski jezik, Tamilu valoda, Tamilština, Tamilų kalba, Tamoul, Tamílska, Tamėlu kalba, Tinamil, Tiếng Tamil, Tàmil, Zimanê tamîlî, Èdè Tàmil, Тамилски език, Тамилски јазик, Тамилски језик, Тамильский язык, Тамільская мова, Тамільська мова, טמילית, تامل, تامىل تىلى, زبان تامیل, لغة تاميلية, तमिल भाषा, तमिळ भाषा, तमिळ्‌, তামিল ভাষা, తమిళ భాష, ತಮಿಳು, തമിഴ്, ภาษาทมิฬ, ტამილური ენა, タミル語, 泰米尔语, 타밀어]
+alt_names: [Damulian, Kitamil, Tamal, Tamalsan, Tambul, Tamil bhasa, Tamil simi, Tamil-gí, Tamilce, Tamileg, Tamilek, Tamilera, Tamili, Tamilikani chhib, Tamilsk, Tamoul, Tamílska, Tinamil, Tàmil, טמילית, تامل, تامىل تىلى, तमिळ्‌, ತಮಿಳು, തമിഴ്]
 population: 75000000
 country_id: IN
 country_name: India

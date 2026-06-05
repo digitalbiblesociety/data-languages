@@ -2,7 +2,7 @@
 iso: veo
 name: Ventureño
 autonym: "Mitsqanaqa'n"
-alt_names: [Alliklik, Chumash ventureño, Chumasha Proper, Idioma ventureño, Santa Rosa, Ventouregneg, Ventureno]
+alt_names: [Alliklik, Chumash ventureño, Chumasha Proper, Santa Rosa, Ventouregneg, Ventureno]
 population: null
 country_id: US
 country_name: United States

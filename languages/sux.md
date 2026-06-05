@@ -2,7 +2,7 @@
 iso: sux
 name: Sumerian
 autonym: 𒅴𒂠
-alt_names: [Bahasa Sumeria, Idioma sumerio, Język sumeryjski, Limba sumeriană, Lingua Sumerica, Lingua sumera, Lingua sumeria, Língua suméria, Soemerisch, Sumearysk, Sumer nyelv, Sumera lingvo, Sumereg, Sumeri, Sumeri keel, Sumerisch, Sumerische Sprache, Sumerisk, Sumerisk språk, Sumeriska, Sumerski jezik, Sumerčina, Sumerština, Sumérien, Sümerce, Šumerų kalba, Σουμεριακή γλώσσα, Шумер, Шумер тілі, Шумер чĕлхи, Шумерский язык, زبان سومری, சுமேரிய மொழி, ภาษาสุเมเรีย, შუმერული ენა, シュメール語, 苏美尔语, 수메르어]
+alt_names: [Soemerisch, Sumearysk, Sumereg, Sumeri, Sumerisch, Sumerisk, Sumeriska, Sumérien, Sümerce, Шумер]
 population: null
 country_id: IQ
 country_name: Iraq

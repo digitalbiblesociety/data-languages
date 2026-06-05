@@ -2,7 +2,7 @@
 iso: bnn
 name: Bunun
 autonym: Bubukun
-alt_names: [Bounouneg, Bunan, Bunti, Bunum, Bunún, Sprache von Formosa, Vonun, Vunum, Vunun, Vunung, ภาษาบูนัน, ブヌン語, 布農語]
+alt_names: [Bounouneg, Bunan, Bunti, Bunum, Bunún, Vonun, Vunum, Vunun, Vunung]
 population: 38000
 country_id: TW
 country_name: Taiwan

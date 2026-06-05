@@ -2,7 +2,7 @@
 iso: men
 name: Mende
 autonym: "Mɛnde yia "
-alt_names: [Boumpe, Hulo, Idioma mende, Kossa, Kosso, Língua mende, Mande, Mende, Mende language, Mende-Bandi, Mendé, Менде]
+alt_names: [Boumpe, Hulo, Kossa, Kosso, Mande, Mende, Mende language, Mende-Bandi, Mendé, Менде]
 population: 2111600
 country_id: SL
 country_name: Sierra Leone

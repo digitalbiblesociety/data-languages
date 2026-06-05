@@ -2,7 +2,7 @@
 iso: acr
 name: Achi
 autonym: Achiʼ
-alt_names: ["Achi'", "Achi', Rabinal", Achí, Idioma achí, Língua achi, "Rabinal K'iche'", Ачиски јазик]
+alt_names: ["Achi'", "Achi', Rabinal", Achí, "Rabinal K'iche'"]
 population: 124000
 country_id: GT
 country_name: Guatemala

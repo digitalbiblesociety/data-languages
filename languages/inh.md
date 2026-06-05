@@ -2,7 +2,7 @@
 iso: inh
 name: Ingush
 autonym: гӀалгӀай мотт (ghalghaj mott)
-alt_names: [Ghalghay, Idioma ingusetio, Ingoesjetisch, Ingouche, Ingoucheg, Ingus, Inguschische Sprache, Ingusjisk, Inguso, Inguušin kieli, Inguŝa lingvo, Inguški jezik, Ingúix, Język inguski, Lingua inguscia, Língua inguche, İnguşça, Інгуська мова, ГIалгIайн мотт, Ингушки език, Ингушки јазик, Ингушки језик, Ингушский язык, Мæхъхъæлон æвзаг, אינגושית, ภาษาอินกุช, イングーシ語, 印古什語, 인구시어]
+alt_names: [Ghalghay, Ingoesjetisch, Ingouche, Ingoucheg, Ingus, Ingusjisk, Inguso, Ingúix, İnguşça, ГIалгIайн мотт, אינגושית]
 population: 326000
 country_id: RU
 country_name: Russia

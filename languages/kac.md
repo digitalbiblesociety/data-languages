@@ -2,7 +2,7 @@
 iso: kac
 name: Kachin
 autonym: Kachin
-alt_names: [Chinghpaw, "Chingp'o", Chingpaw, Dashanhua, Hka-Hku, Hkauri, Jili, Jinghpaw, Jinghpo, Jingphaw, Jingpho, Jingpho language, Jingpo, Jingpo kalba, Jinpoeg, Język jingpo, Katchin, Khang, Marip, Singhpo, Theinbaw, Ye Jein, Ye Yeh, ภาษาจิ่งพัว, 景颇语]
+alt_names: [Chinghpaw, "Chingp'o", Chingpaw, Dashanhua, Hka-Hku, Hkauri, Jili, Jinghpaw, Jinghpo, Jingphaw, Jingpho, Jingpho language, Jingpo, Jinpoeg, Katchin, Khang, Marip, Singhpo, Theinbaw, Ye Jein, Ye Yeh]
 population: 940000
 country_id: MM
 country_name: Myanmar

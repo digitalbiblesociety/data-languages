@@ -2,7 +2,7 @@
 iso: nhd
 name: Chiripá
 autonym: Ava
-alt_names: [Apytare, Ava Guaraní, Chiriguano-Ava, Chiripa, Chiripá Guaraní, Guarani-ñandeva, Guaraní language area, Guaraní ñandeva, "Guaraní, Ava", Gvaranių čiripų kalba, Nhandeva, Nhandéva, Tsiripá, Txiripá, Ñandeva]
+alt_names: [Apytare, Ava Guaraní, Chiriguano-Ava, Chiripa, Chiripá Guaraní, Guarani-ñandeva, Guaraní language area, Guaraní ñandeva, "Guaraní, Ava", Nhandeva, Nhandéva, Tsiripá, Txiripá, Ñandeva]
 population: 16350
 country_id: PY
 country_name: Paraguay

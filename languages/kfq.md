@@ -2,7 +2,7 @@
 iso: kfq
 name: Korku
 autonym: Bondeya
-alt_names: [Bopchi, Koraku, Korki, Kuri, Kurku, Kurku-Ruma, Muasi, Muwasi, Ramekhera, West-Untergruppe, Корку, கொற்கு மொழி]
+alt_names: [Bopchi, Koraku, Korki, Kuri, Kurku, Kurku-Ruma, Muasi, Muwasi, Ramekhera, West-Untergruppe, Корку]
 population: 727000
 country_id: IN
 country_name: India

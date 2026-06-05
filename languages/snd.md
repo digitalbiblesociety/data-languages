@@ -2,7 +2,7 @@
 iso: snd
 name: Sindhi
 autonym: سنڌي
-alt_names: [Bahasa Sindh, Bahasa Sindhi, Idioma sindhi, Lingua Sindhi, Lingua Sindhuica, Língua sindi, Sinda lingvo, Sindeg, Sindera, Sindhi bhasa, Sindhî, Sindhština, Sindi simi, Èdè Sindhi, Синдхи, Сіндхі, סינדהי, سندھی, سندھی زبان, سنڌي ٻولي, سىندى تىلى, سيندى, لغة سندية, सिंधी भाषा, সিন্ধি ভাষা, சிந்தி மொழி, സിന്ധി ഭാഷ, ภาษาสินธี, სინდჰური ენა, シンド語, 信德语, 신디어]
+alt_names: [Sindeg, Sindera, Sindhi bhasa, Sindhî, Sindi simi, Синдхи, Сіндхі, סינדהי, سندھی, سنڌي ٻولي, سىندى تىلى, سيندى]
 population: 24600000
 country_id: PK
 country_name: Pakistan

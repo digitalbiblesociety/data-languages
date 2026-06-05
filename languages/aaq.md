@@ -2,7 +2,7 @@
 iso: aaq
 name: Eastern Abnaki
 autonym: Wôbanakiôdwawôgan
-alt_names: [Abenaki, Abenakí oriental, Abnaki, "Abnaki, Eastern", Abénaqui oriental, Eastern Abenaki, Istočnoabnački jezik]
+alt_names: [Abenaki, Abenakí oriental, Abnaki, "Abnaki, Eastern", Abénaqui oriental, Eastern Abenaki]
 population: null
 country_id: US
 country_name: United States

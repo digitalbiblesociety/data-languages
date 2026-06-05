@@ -2,7 +2,7 @@
 iso: kfa
 name: Kodava
 autonym: ಕೊಡವ
-alt_names: [Codagú, Coorge, Kadagi, Khurgi, Kodagu, Kodagu/Coorg, Kodava Takk, Kodava Thak, Kodaveg, Kotagu, Koḍagu, Koḍagu-Kuṟumba, Kurja, Kurug, Lenga Kodagu, Lingua Kodava, Кодагу, குடகு மொழி, ภาษาโกทวะ]
+alt_names: [Codagú, Coorge, Kadagi, Khurgi, Kodagu, Kodagu/Coorg, Kodava Takk, Kodava Thak, Kodaveg, Kotagu, Koḍagu, Koḍagu-Kuṟumba, Kurja, Kurug, Кодагу]
 population: 114000
 country_id: IN
 country_name: India

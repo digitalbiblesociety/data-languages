@@ -2,7 +2,7 @@
 iso: nav
 name: Navajo
 autonym: Diné bizaad
-alt_names: [Bahasa Navajo, Basa Navajo, Diné, Diné simi, Idioma navajo, Język nawaho, Lingua navajo, Língua navaja, "Navac'hoeg", Navachóis, Navaha lingvo, Navaho, Navahų kalba, Navajóíska, Навахо, נאוואחו, நாவஹோ மொழி, ナバホ語, 나바호어]
+alt_names: [Diné, Diné simi, "Navac'hoeg", Navachóis, Navaho, Navajóíska, Навахо, נאוואחו]
 population: 300000
 country_id: US
 country_name: United States

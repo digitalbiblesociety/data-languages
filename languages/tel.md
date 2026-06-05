@@ -2,7 +2,7 @@
 iso: tel
 name: Telugu
 autonym: తెలుగు
-alt_names: [Andhra, Bahasa Telugu, Gentoo, Idioma telugú, Język telugu, Kui, Kuvi, Lingua Telingana, Lingua telugu, Lingua telugúa, Língua telugu, Tailangi, Telangire, Telegu, Telgi, Telougoueg, Telugu jezik, Telugu simi, Telugua lingvo, Telugština, Telugų kalba, Telúgú, Tengu, Terangi, Tolangan, Télougou, Τελούγκου, Телугу, Телугу језик, تېلۇگۇ تىلى, تېلۇگۇچە, لغة تيلوغو, ތެލުގޫ, तेलुगु, तेलुगू भाषा, তেলুগু ঠার, তেলুগু ভাষা, તેલુગુ ભાષા, தெலுங்கு, ತೆಲುಗು, തെലുഗു, ภาษาเตลูกู, ტელუგუ, テルグ語, 泰卢固语, 텔루구어]
+alt_names: [Andhra, Gentoo, Kui, Kuvi, Tailangi, Telangire, Telegu, Telgi, Telougoueg, Telugu simi, Telúgú, Tengu, Terangi, Tolangan, Télougou, Τελούγκου, Телугу, تېلۇگۇ تىلى, تېلۇگۇچە, ތެލުގޫ, तेलुगु, তেলুগু ঠার, தெலுங்கு, ತೆಲುಗು, തെലുഗു, ტელუგუ]
 population: 82000000
 country_id: IN
 country_name: India

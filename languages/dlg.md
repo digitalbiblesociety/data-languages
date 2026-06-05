@@ -2,7 +2,7 @@
 iso: dlg
 name: Dolgan
 autonym: Дулҕан
-alt_names: [Bahasa Dolgan, Dolgaanin kieli, Dolganca, Dolgane, Dolganeg, Dolganische Sprache, Dolgansk, Dolganu valoda, Dolganų kalba, Dolgán, Dulğan, Haka, Долгански език, Долгански јазик, Долганська мова, Долған тілі, долган тыла, долганский язык, Һака, һака тыла, 돌간어]
+alt_names: [Dolganca, Dolgane, Dolganeg, Dolgansk, Dolgán, Dulğan, Haka, долган тыла, Һака, һака тыла]
 population: 4870
 country_id: RU
 country_name: Russia

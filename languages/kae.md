@@ -2,7 +2,7 @@
 iso: kae
 name: Ketangalan
 autonym: Ketagalan
-alt_names: [Ketangalano, Sprache von Formosa, Tangalan]
+alt_names: [Ketangalano, Tangalan]
 population: null
 country_id: TW
 country_name: Taiwan

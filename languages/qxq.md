@@ -2,7 +2,7 @@
 iso: qxq
 name: "Qashqa'i"
 autonym: " Kashkai"
-alt_names: [Azarbaydjanian, Azerbaijani, Język kaszkajski, Kachkaeg, Kachkaï, Kaschgaische Sprache, Kashkay, Kaŝgaja lingvo, Kaşkayca, Kaškain kieli, "Qashqa'ī", Qashqai, Qashqai language, Qashqay, Qaşqay dili, Qašqay, Кашкайски език, Кашкайское наречие, Кашкајски јазик, Қашқай тілі, ภาษาควาซไคว, 카슈카이어]
+alt_names: [Azarbaydjanian, Azerbaijani, Kachkaeg, Kachkaï, Kashkay, Kaşkayca, "Qashqa'ī", Qashqai, Qashqai language, Qashqay, Qašqay, Кашкайское наречие]
 population: 1147600
 country_id: IR
 country_name: Iran

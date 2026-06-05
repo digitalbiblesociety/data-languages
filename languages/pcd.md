@@ -2,7 +2,7 @@
 iso: pcd
 name: Picard
 autonym: picard
-alt_names: [Chtimi, Idioma picardo, Język pikardyjski, Lingua picarda, Lingua piccarda, Língua picarda, Pecârd, Picardisch, Picardische Sprache, Picardish, Picardo, Picardsch, Picård, Pikarda franca dialekto, Pikardeg, Pikardesch, Pikardiera, Pikardies, Pikardijski jezik, Pikardische Sprache, Pikardisk, Pikardiska, Rouchi, Пикардски език, Пикардский язык, Пікардійська мова, ピカルディ語]
+alt_names: [Chtimi, Pecârd, Picardisch, Picardish, Picardo, Picardsch, Picård, Pikarda franca dialekto, Pikardeg, Pikardesch, Pikardiera, Pikardies, Pikardisk, Pikardiska, Rouchi]
 population: 700000
 country_id: FR
 country_name: France

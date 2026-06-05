@@ -2,7 +2,7 @@
 iso: chg
 name: Chagatai
 autonym: چغتای
-alt_names: [Chaghatai, Chaghatay, Jagatai, Język czagatajski, Limba ciagatai, Tchagataieg, Tchaghataï, Teke, Tekke, Tjagataiska, Tschagataisch, Tschagataische Sprache, Tšagatain kieli, djaghataï, Çağatay tele, Çağatay tili, Çağatayca, Čagatajština, Чагатай чĕлхи, Чагатайски език, Чагатайский язык, Чагатайська мова, Чагатајски јазик, Шағатай тілі, لغة جغتاي, چاغاتاي ئۇيغۇر يېزىقى, চাগাতাই ভাষা, ภาษาชะกะไต, チャガタイ語, 察合台語, 차가타이어]
+alt_names: [Chaghatai, Chaghatay, Jagatai, Tchagataieg, Tchaghataï, Teke, Tekke, Tjagataiska, Tschagataisch, djaghataï, Çağatay tele, Çağatay tili, Çağatayca, چاغاتاي ئۇيغۇر يېزىقى]
 population: null
 country_id: TM
 country_name: Turkmenistan

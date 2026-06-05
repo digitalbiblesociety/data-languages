@@ -2,7 +2,7 @@
 iso: dua
 name: Duala
 autonym: Douala
-alt_names: [Bahasa Duala, Diwala, Dualla, Dwala, Dwela, Język duala, Língua duala]
+alt_names: [Diwala, Dualla, Dwala, Dwela]
 population: 87700
 country_id: CM
 country_name: Cameroon

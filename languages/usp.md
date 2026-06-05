@@ -2,7 +2,7 @@
 iso: usp
 name: Uspanteco
 autonym: Uspanteco
-alt_names: [Idioma uspanteco, Língua uspanteca, Uspantec, Uspanteeks, Uspantek language, Uspantekisk, Uspanteko, Uspantèque, Успантечки јазик]
+alt_names: [Uspantec, Uspanteeks, Uspantek language, Uspantekisk, Uspanteko, Uspantèque]
 population: 5130
 country_id: GT
 country_name: Guatemala

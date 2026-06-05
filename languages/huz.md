@@ -2,7 +2,7 @@
 iso: huz
 name: Hunzib
 autonym: гьонкьос мыц / honƛʼos mɨc
-alt_names: [Enzeb, Gunzib, Hounzibeg, Hunzibin kieli, Język chunzybski, Khunzal, Khunzaly, Língua hunzib, Xunzal, honƛʼos mɨc, Гунзибська мова, Хунзибски јазик, гунзибский язык, гьонкьос мыц, нахадинский язык, ჰუნზიბური ენა]
+alt_names: [Enzeb, Gunzib, Hounzibeg, Khunzal, Khunzaly, Xunzal, honƛʼos mɨc, гьонкьос мыц]
 population: 1840
 country_id: RU
 country_name: Russia

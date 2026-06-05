@@ -2,7 +2,7 @@
 iso: ben
 name: Bengali
 autonym: বাংলা
-alt_names: [Bahasa Bengali, Banga-Bhasa, Bangala, Bangla, Banglaeg, Banla simi, Begali, Bengaals, Bengala lingvo, Bengalce, Bengaleg, Bengalek, Bengalera, Bengalgiella, Bengali bhasa, Bengali keel, Bengali leid, Bengali linguo, Bengali-Assamese, Bengalin, Bengalin kieli, Bengalisc sprǣc, Bengalische Sprache, Bengalska, Bengalski jezik, Bengalskt mál, Bengalu kalba, Bengalí, Bengalî, Bengalšćina, Bengalščina, Bengalų kalba, Bengáli nyelv, Bengálčina, Bengálština, Bengāļu valoda, Binengali, Fiteny bengali, Gjuha bengali, Idioma bengalí, Język bengalski, Kibengali, Lengua bengali, Limba bengaleză, Lingua Bengalica, Lingua bengalese, Lingua bengalí, Língua bengali, Tiếng Bengal, Μπενγκάλι γλώσσα, Бенгайлаг æвзаг, Бенгалмудин келн, Бенгалски език, Бенгалски јазик, Бенгалски језик, Бенгальская мова, Бенгальский язык, Бенгальська мова, Бэнгальская мова, Забони банголӣ, בנגלית, بنگالی, بنگلہ, بينجالى, بېنگال تىلى, زبان بنگالی, لغة بنغالية, ބެންގާލީ, बंगाली भाषा, बांग्ला भाषा, बाङगला, বাংলা ঠার, বাংলা ভাষা, બંગાળી ભાષા, ବାଂଲା ଭାଷା, வங்காள மொழி, బంగ్లా భాష, ಬಂಗಾಳಿ, ബംഗാളി, ภาษาเบงกาลี, ბენგალური ენა, ベンガル語, 孟加拉語, 孟加拉语, 벵골어]
+alt_names: [Banga-Bhasa, Bangala, Bangla, Banglaeg, Banla simi, Begali, Bengaals, Bengalce, Bengaleg, Bengalek, Bengalera, Bengalgiella, Bengali bhasa, Bengali leid, Bengali linguo, Bengali-Assamese, Bengalin, Bengalisc sprǣc, Bengalska, Bengalí, Bengalî, Binengali, Fiteny bengali, Kibengali, Бенгалмудин келн, Забони банголӣ, בנגלית, بنگالی, بنگلہ, بينجالى, بېنگال تىلى, ބެންގާލީ, बाङगला, বাংলা ঠার, ବାଂଲା ଭାଷା, ಬಂಗಾಳಿ, ബംഗാളി]
 population: 228000000
 country_id: BD
 country_name: Bangladesh

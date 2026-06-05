@@ -2,7 +2,7 @@
 iso: rcf
 name: Réunion Creole French
 autonym: kreol
-alt_names: ["Creole French, Réunion", Creolo della Riunione, Créole réunionnais, Indian Ocean Creole French, Reunion Creole French, Réunion Creole, Réunion-Kreolisch, レユニオン・クレオール語]
+alt_names: ["Creole French, Réunion", Creolo della Riunione, Créole réunionnais, Indian Ocean Creole French, Reunion Creole French, Réunion Creole, Réunion-Kreolisch]
 population: 595000
 country_id: RE
 country_name: Réunion

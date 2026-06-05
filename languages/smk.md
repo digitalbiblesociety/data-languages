@@ -2,7 +2,7 @@
 iso: smk
 name: Bolinao
 autonym: "Binu-Bolinao"
-alt_names: [Binobolinao, Bolinao Sambal, Bolinao Zambal, Wikang Bolinao, ภาษาโบลิเนา, ボリナオ語]
+alt_names: [Binobolinao, Bolinao Sambal, Bolinao Zambal]
 population: 51200
 country_id: PH
 country_name: Philippines

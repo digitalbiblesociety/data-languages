@@ -2,7 +2,7 @@
 iso: xam
 name: ǀXam
 autonym: "|Kamka!e"
-alt_names: ["!Kham", /Xam, "Língua !Xam", ǀXam jezik]
+alt_names: ["!Kham", /Xam]
 population: null
 country_id: ZA
 country_name: South Africa

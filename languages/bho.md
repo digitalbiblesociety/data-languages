@@ -2,7 +2,7 @@
 iso: bho
 name: Bhojpuri
 autonym: भोजपुरी
-alt_names: [Bahasa Bhojpur, Bahasa Bhojpuri, Bajpuri, Bhodjpouri, Bhodjpuri, Bhodžpuri keel, Bhojapuri, Bhojpuriya, Bhojpurština, Bhozpuri, Bihari, Bodjpoureg, Deswali, Hindusthani, Idioma bopurí, Język bhodźpuri, Khotla, Lingua Bhojpuri, Língua bhojpuri, Piscimas, Бходжпури, Бходжпурі, بوجبوري, भोजपुरी भाषा, ભોજપુરી ભાષા, போச்புரி, ಭೋಜಪುರಿ, ภาษาโภชปุรี, ბოჯპური, ボージュプリー語, 博杰普尔语]
+alt_names: [Bajpuri, Bhodjpouri, Bhodjpuri, Bhojapuri, Bhojpuriya, Bhozpuri, Bihari, Bodjpoureg, Deswali, Hindusthani, Khotla, Piscimas, Бходжпури, Бходжпурі, بوجبوري, போச்புரி, ಭೋಜಪುರಿ, ბოჯპური]
 population: 52200000
 country_id: IN
 country_name: India

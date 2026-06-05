@@ -2,7 +2,7 @@
 iso: mfl
 name: Putai
 autonym: Marghi West
-alt_names: [Poutaieg, Putai jezik, West Marg]
+alt_names: [Poutaieg, West Marg]
 population: 50
 country_id: NG
 country_name: Nigeria

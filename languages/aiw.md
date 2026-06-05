@@ -2,7 +2,7 @@
 iso: aiw
 name: Aari
 autonym: Aarai
-alt_names: [Aari jezik, Aarin kieli, Ara, Ari, Ari-Galila, Aro, Bako, Boko, Idioma arí, Lingua aari, Luenga aari, لغة آري]
+alt_names: [Ara, Ari, Ari-Galila, Aro, Bako, Boko, Luenga aari]
 population: 285000
 country_id: ET
 country_name: Ethiopia

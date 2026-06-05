@@ -2,7 +2,7 @@
 iso: siy
 name: Sivandi
 autonym: زووآن ئ سیوندی
-alt_names: [Siwendî, زبان سیوندی]
+alt_names: [Siwendî]
 population: 7030
 country_id: IR
 country_name: Iran

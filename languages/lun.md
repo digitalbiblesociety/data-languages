@@ -2,7 +2,7 @@
 iso: lun
 name: Lunda
 autonym: Chilunda
-alt_names: [Język lunda, Lunda-Ndembu, Língua lunda, Ruund]
+alt_names: [Lunda-Ndembu, Ruund]
 population: 403000
 country_id: ZM
 country_name: Zambia

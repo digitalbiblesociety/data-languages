@@ -2,7 +2,7 @@
 iso: nuy
 name: Nunggubuyu
 autonym: Wubuy
-alt_names: [Lingua nunggubuyu, Nangabuya, Ningburia, Nuggaboju, Nugubuyu, Nun-guboiyu, Nungabuya, Nungabuyu, Nungbuju, Nunggabuyu, Nunggebuyu, Nungguboiju, Nungguboiyu, "Nunggubu'ju", Nunggubuju, Nunggubuju̇, Nungkubuyu, Nungubuju, Nungubuyu, Yingkwira]
+alt_names: [Nangabuya, Ningburia, Nuggaboju, Nugubuyu, Nun-guboiyu, Nungabuya, Nungabuyu, Nungbuju, Nunggabuyu, Nunggebuyu, Nungguboiju, Nungguboiyu, "Nunggubu'ju", Nunggubuju, Nunggubuju̇, Nungkubuyu, Nungubuju, Nungubuyu, Yingkwira]
 population: 280
 country_id: AU
 country_name: Australia

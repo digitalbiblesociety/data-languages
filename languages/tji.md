@@ -2,7 +2,7 @@
 iso: tji
 name: Northern Tujia
 autonym: Tuchia
-alt_names: [Biji, Bizhi, Bizhika, Northern, Tudja, Tujia, Tujia du nord, Tujia septentrional, "Tujia, Northern", "Tujia,Northern", 北部土家語, 土家語]
+alt_names: [Biji, Bizhi, Bizhika, Northern, Tudja, Tujia, Tujia du nord, Tujia septentrional, "Tujia, Northern", "Tujia,Northern"]
 population: 100
 country_id: CN
 country_name: China

@@ -2,7 +2,7 @@
 iso: itk
 name: "Judeo-Italian"
 autonym: "ג'יודו-איטאליאנו giudeo-italiano"
-alt_names: [Giudeo-italiano, Italkian, Italkieg, Język judeo-włoski, Lenguas judeo-italianas, Luengas chodigoitalianas, Еврейско-романские языки, איטלקית יהודית, ユダヤ・イタリア語群]
+alt_names: [Giudeo-italiano, Italkian, Italkieg, Lenguas judeo-italianas, Luengas chodigoitalianas, Еврейско-романские языки, איטלקית יהודית]
 population: 200
 country_id: IT
 country_name: Italy

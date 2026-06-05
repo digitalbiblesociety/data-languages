@@ -2,7 +2,7 @@
 iso: wtm
 name: Mewati
 autonym: मेवाती
-alt_names: [Język mewati, Lenga mewati, Lingua Mevati, Mewathi]
+alt_names: [Mewathi]
 population: 857000
 country_id: IN
 country_name: India

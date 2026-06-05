@@ -2,7 +2,7 @@
 iso: dag
 name: Dagbani
 autonym: Dagbanli
-alt_names: [Dagbamba, Dagbane, Dagbaneg, Dagomba, Língua dagbani, தாக்பானி மொழி]
+alt_names: [Dagbamba, Dagbane, Dagbaneg, Dagomba]
 population: 1160000
 country_id: GH
 country_name: Ghana

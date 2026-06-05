@@ -2,7 +2,7 @@
 iso: nau
 name: Nauru
 autonym: Nauru
-alt_names: [Bahasa Nauru, Dorerin Naoero, Idioma nauruano, Język nauruański, Lengua naureise, Lingua nauruaisa, Lingua nauruana, Língua nauruana, Naoeroeg, Naura lingvo, Naurisk, Nauriska, Nauru keel, Nauruaans, Nauruan, Nauruan language, Nauruano, Nauruca, Nauruiečių kalba, Nauruiešu valoda, Nauruische Sprache, Naurun kieli, Nauruština, Ναουρού, Науруански език, Науруанский язык, נאורית, لغة ناورونية, ภาษานาอูรู, ናውሩኛ, ナウル語, 瑙鲁语, 나우루어]
+alt_names: [Dorerin Naoero, Naoeroeg, Naurisk, Nauriska, Nauruaans, Nauruan, Nauruan language, Nauruano, Nauruca, Ναουρού, נאורית]
 population: 9300
 country_id: NR
 country_name: Nauru

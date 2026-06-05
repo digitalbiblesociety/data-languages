@@ -2,7 +2,7 @@
 iso: kca
 name: Khanty
 autonym: ханты ясаӈ hantĭ jasaŋ
-alt_names: ["C'hantieg", Chantische Sprache, Chantiska, Chantyjština, Chantų kalba, Chonti, Ghondi, Hanti, Hanti nyelv, Hantice, Hantigiella, Hantijščina, Hantin kieli, Hantski jezik, Hanty, Idioma janti, Jantí meridional, Język chantyjski, Khanti, Khantisk språk, Khanty méridional, Khanty oriental, Khanty septentrional, Lingua chanty, Obdorsk, Ostiac, Ostiaki, Ostjaaks, Ostjak, Ostjakisch, Ostyak, Ostyak (Northern), Xantisch, Xanty, ostiak, xanti, Ĥanta lingvo, Хантă чĕлхи, Хантийски език, Хантиски јазик, Хантонь кель, Ханты кыв, Ханты кыл, Хантыйский язык, ハンティ語]
+alt_names: ["C'hantieg", Chantiska, Chonti, Ghondi, Hanti, Hantice, Hantigiella, Hanty, Jantí meridional, Khanti, Khanty méridional, Khanty oriental, Khanty septentrional, Obdorsk, Ostiac, Ostiaki, Ostjaaks, Ostjak, Ostjakisch, Ostyak, Ostyak (Northern), Xantisch, Xanty, ostiak, xanti, Хантонь кель, Ханты кыл]
 population: 9580
 country_id: RU
 country_name: Russia

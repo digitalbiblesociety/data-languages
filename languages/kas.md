@@ -2,7 +2,7 @@
 iso: kas
 name: Kashmiri
 autonym: " كٲشُر"
-alt_names: [Bahasa Kashmiri, Caixmirí, Cashmeeree, Cashmiri, Dardu, Idioma cachemir, Język kaszmirski, Kachmireg, Kacmiri, Kaschemiri, Kaschmiri, Kashmiirėsch, Kashmirisk, Kasjmiri, Kaŝmira lingvo, Kašmiri jezik, Kašmirin kieli, Kašmírčina, Kašmírština, Kašmīrī, Keshur, Keshuri, Kēšur, Lingua Casmirica, Lingua kashmiri, Língua caxemira, Кашмири, Кашмири језик, زبان کشمیری, كأشُر, كشميرى, لغة كشميرية, کشمیری, कश्मीरी, कश्मीरी भाषा, काश्मिरी भाषा, কাশ্মীরি ভাষা, કાશ્મીરી ભાષા, காஷ்மீரி மொழி, ಕಾಶ್ಮೀರಿ, കശ്മീരി ഭാഷ, ภาษาแคชเมียร์, ካሽሚርኛ, カシミール語, 克什米爾語, 카슈미르어]
+alt_names: [Caixmirí, Cashmeeree, Cashmiri, Dardu, Kachmireg, Kacmiri, Kaschemiri, Kaschmiri, Kashmiirėsch, Kashmirisk, Kasjmiri, Kašmīrī, Keshur, Keshuri, Kēšur, Кашмири, كأشُر, كشميرى, کشمیری, कश्मीरी, ಕಾಶ್ಮೀರಿ]
 population: 7132800
 country_id: IN
 country_name: India

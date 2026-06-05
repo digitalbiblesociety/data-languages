@@ -2,7 +2,7 @@
 iso: ydg
 name: Yidgha
 autonym: یدغہ
-alt_names: [Jitka keel, Lutkuhwar, Munyaní, Yidga, Yidgeg, Yudga, Yudgha, Йъдгайски език, ภาษายิดคา]
+alt_names: [Lutkuhwar, Munyaní, Yidga, Yidgeg, Yudga, Yudgha]
 population: 6150
 country_id: PK
 country_name: Pakistan

@@ -2,7 +2,7 @@
 iso: lgg
 name: Lugbara
 autonym: null
-alt_names: [High Lugbara, Logbara, Língua lugbara, Western, Лугбара јазик]
+alt_names: [High Lugbara, Logbara, Western]
 population: 1940000
 country_id: UG
 country_name: Uganda

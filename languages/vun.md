@@ -2,7 +2,7 @@
 iso: vun
 name: Vunjo
 autonym: Central Chaga
-alt_names: [Kivunjo, Kiwunjo, Língua kivunjo, Wunjo, Wunjo language]
+alt_names: [Kivunjo, Kiwunjo, Wunjo, Wunjo language]
 population: 14200
 country_id: TZ
 country_name: Tanzania

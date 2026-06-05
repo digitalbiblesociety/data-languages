@@ -2,7 +2,7 @@
 iso: khv
 name: Khvarshi
 autonym: "Atl'ilqo"
-alt_names: ["C'hvarcheg", Hvaršin kieli, Inkhokvari, Javarsí, Język chwarszyjski, Kedaes hikwa, Khvarsh, Khvarshin, Khwarshi, Khwarshi language, Xvarshi, Xvarshik, Хваршинська мова, Хваршиски јазик, хваршинский язык, ხვარშიული ენა]
+alt_names: ["C'hvarcheg", Inkhokvari, Javarsí, Kedaes hikwa, Khvarsh, Khvarshin, Khwarshi, Khwarshi language, Xvarshi, Xvarshik]
 population: 1870
 country_id: RU
 country_name: Russia

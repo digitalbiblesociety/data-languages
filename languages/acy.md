@@ -2,7 +2,7 @@
 iso: acy
 name: Cypriot Arabic
 autonym: Sanna
-alt_names: [Arabe chypriote, Arabeg Kiprenez, Arabic, Arabic (Eastern), Arabic (Kormakiti), "Arabic, Cypriot", "Arabic, Cypriot Spoken", Cipriotski arapski, Cypriot Arabic Kormakiti, "Cypriot Arabic: Kormakiti", Cypriot Maronite Arabic, Cypriot Spoken, Cypriot Spoken Arabic, Kormakiti, Maronite, Zyprisches Arabisch, Árabe chipriota, Кипрско-арабский язык, لهجة عربية قبرصية, ภาษาอาหรับมาโรไนต์, 키프로스 마론파 아랍어]
+alt_names: [Arabe chypriote, Arabeg Kiprenez, Arabic, Arabic (Eastern), Arabic (Kormakiti), "Arabic, Cypriot", "Arabic, Cypriot Spoken", Cipriotski arapski, Cypriot Arabic Kormakiti, "Cypriot Arabic: Kormakiti", Cypriot Maronite Arabic, Cypriot Spoken, Cypriot Spoken Arabic, Kormakiti, Maronite, Zyprisches Arabisch, Árabe chipriota, لهجة عربية قبرصية]
 population: 1300
 country_id: CY
 country_name: Cyprus

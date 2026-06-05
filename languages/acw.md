@@ -2,7 +2,7 @@
 iso: acw
 name: Hijazi Arabic
 autonym: "حجازي "
-alt_names: [Arabeg hijaziek, Arabic, Arabic (Eastern), Arabic (Hijazi), "Arabic, Hijazi", "Arabic, Hijazi Spoken", Bedouin-Hijazi, Hejazi Arabic, Hijazi, Hijazi Spoken, Hijazi arapski, Saudi Arabic, West Arabian Colloquial Arabic, Хијазиски арапски јазик, لهجة حجازية, ޙިޖާޒީ ޢަރަބި, Ḥijāzī]
+alt_names: [Arabeg hijaziek, Arabic, Arabic (Eastern), Arabic (Hijazi), "Arabic, Hijazi", "Arabic, Hijazi Spoken", Bedouin-Hijazi, Hejazi Arabic, Hijazi, Hijazi Spoken, Hijazi arapski, Saudi Arabic, West Arabian Colloquial Arabic, لهجة حجازية, ޙިޖާޒީ ޢަރަބި, Ḥijāzī]
 population: 14500000
 country_id: SA
 country_name: Saudi Arabia

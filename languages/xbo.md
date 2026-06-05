@@ -2,7 +2,7 @@
 iso: xbo
 name: Bolgarian
 autonym: null
-alt_names: [Bolgaarin kieli, Bolgara lingvo, Bolgarische Sprache, Bolgarski jezik, Bulgar language, Język protobułgarski, Limba proto-bulgară, Old Bulgarian, Volga-Bolgarian, bulgarisch-tuschuwassische Sprache, Булгар тили, Булгарский язык, Булгарська мова, Пăлхар чĕлхи, Прабугарски јазик, Прабългарски език, ブルガール語, 불가르어]
+alt_names: [Bulgar language, Old Bulgarian, Volga-Bolgarian]
 population: null
 country_id: BG
 country_name: Bulgaria

@@ -2,7 +2,7 @@
 iso: qxs
 name: Southern Qiang
 autonym: "Ch'iang"
-alt_names: [Northern, Qiang, "Qiang, Southern", "Qiang,Southern", Southern, Tchiangeg ar su, ภาษาเกวียงใต้, 羌語南部方言]
+alt_names: [Northern, Qiang, "Qiang, Southern", "Qiang,Southern", Southern, Tchiangeg ar su]
 population: 81300
 country_id: CN
 country_name: China

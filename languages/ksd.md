@@ -2,7 +2,7 @@
 iso: ksd
 name: Kuanua
 autonym: Kuanua
-alt_names: [Blanche Bay, Gunantuna, Neu-Pommern, New Britain Language, Ober-Mengen, Tinata Tuna, Tolai, Tuna, Куануа, クアヌア語]
+alt_names: [Blanche Bay, Gunantuna, Neu-Pommern, New Britain Language, Ober-Mengen, Tinata Tuna, Tolai, Tuna, Куануа]
 population: 120000
 country_id: PG
 country_name: Papua New Guinea

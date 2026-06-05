@@ -2,7 +2,7 @@
 iso: udi
 name: Udi
 autonym: удин муз
-alt_names: [Język udyjski, Língua udi, Oudi, Oudieg, Udi dili, Udin, Udin kieli, Udinsk, Udische Sprache, Uti, udin muz, Удиски јазик, Удінська мова, удинский язык, زبان اودی, ภาษาอูดี, უდიური ენა]
+alt_names: [Oudi, Oudieg, Udin, Udinsk, Uti, udin muz]
 population: 4200
 country_id: AZ
 country_name: Azerbaijan

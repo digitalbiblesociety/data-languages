@@ -2,7 +2,7 @@
 iso: mgp
 name: Eastern Magar
 autonym: " मगर भाषा"
-alt_names: [E Magar, E. Magar, Magar, Magar (Eastern), Magar (Tanahu), Magar language, "Magar, Eastern", "Magar,Eastern", Magari, Magarkura, Magarí, Magarī, Mangari, Manggar, Mãgari, Маґар, ภาษามาคัร, 马嘉尔语]
+alt_names: [E Magar, E. Magar, Magar, Magar (Eastern), Magar (Tanahu), Magar language, "Magar, Eastern", "Magar,Eastern", Magari, Magarkura, Magarí, Magarī, Mangari, Manggar, Mãgari, Маґар]
 population: 533700
 country_id: NP
 country_name: Nepal

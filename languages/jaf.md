@@ -2,7 +2,7 @@
 iso: jaf
 name: Jara
 autonym: Jera
-alt_names: [Djaraeg, Jara jezik]
+alt_names: [Djaraeg]
 population: 46300
 country_id: NG
 country_name: Nigeria

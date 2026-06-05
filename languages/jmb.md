@@ -2,7 +2,7 @@
 iso: jmb
 name: Zumbun
 autonym: Jimbin
-alt_names: [Jimbinawa, Zoumbouneg, Zumbun jezik]
+alt_names: [Jimbinawa, Zoumbouneg]
 population: 2000
 country_id: NG
 country_name: Nigeria

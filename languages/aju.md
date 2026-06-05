@@ -2,7 +2,7 @@
 iso: aju
 name: "Judeo-Moroccan Arabic"
 autonym: لهجة عربية يهودية مغربية
-alt_names: [Arabeg yuzev-morokek, "Arabic, Judeo-Moroccan", Judeo-Moroccan, Judeomarokanski arapski, Jødemarokkansk arabisk, Yahudi Fas Arapçası, Јудео-марокански арапски јазик, Еврейско-арабские диалекты, מרוקאית יהודית]
+alt_names: [Arabeg yuzev-morokek, "Arabic, Judeo-Moroccan", Judeo-Moroccan, Judeomarokanski arapski, Jødemarokkansk arabisk, Yahudi Fas Arapçası, Еврейско-арабские диалекты, מרוקאית יהודית]
 population: 61930
 country_id: IL
 country_name: Israel

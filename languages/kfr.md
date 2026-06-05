@@ -2,7 +2,7 @@
 iso: kfr
 name: Kachhi
 autonym: કચ્છી
-alt_names: [Cuchi, Cutch, Cutchi, Kacchi, Kachchhi, Kachchi, Kachi, Katch, Katchi, Kautchy, Koutcheg, Kutchchi, Kutchi, Kutchi language, Kutchie, Lenga kachchi, Lingua Kacchi, کچھی, કચ્છી ભાષા, ภาษากัจฉิ]
+alt_names: [Cuchi, Cutch, Cutchi, Kacchi, Kachchhi, Kachchi, Kachi, Katch, Katchi, Kautchy, Koutcheg, Kutchchi, Kutchi, Kutchi language, Kutchie, کچھی]
 population: 1093000
 country_id: IN
 country_name: India

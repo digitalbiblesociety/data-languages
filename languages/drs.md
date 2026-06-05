@@ -2,7 +2,7 @@
 iso: drs
 name: Gedeo
 autonym: Darasa
-alt_names: [Darassa, Derasa, Derasanya, Deresa, Geddeo, Gedeo hizkuntza, Lenga Gedeo]
+alt_names: [Darassa, Derasa, Derasanya, Deresa, Geddeo, Gedeo hizkuntza]
 population: 1410000
 country_id: ET
 country_name: Ethiopia

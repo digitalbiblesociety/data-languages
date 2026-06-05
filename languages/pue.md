@@ -2,7 +2,7 @@
 iso: pue
 name: Puelche
 autonym: Gennaken
-alt_names: [Cuyo, Guenaken, Gününa Küne, Gününa Yajich, Gününa-Küne, Idioma puelche, Northern Tehuelche, Pampa, Pehuelche, Pehuenche, Ranquelche]
+alt_names: [Cuyo, Guenaken, Gününa Küne, Gününa Yajich, Gününa-Küne, Northern Tehuelche, Pampa, Pehuelche, Pehuenche, Ranquelche]
 population: null
 country_id: AR
 country_name: Argentina

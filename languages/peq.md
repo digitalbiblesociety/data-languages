@@ -2,7 +2,7 @@
 iso: peq
 name: Southern Pomo
 autonym: Gallinoméro
-alt_names: [Lenga pomo meridional, Pomo, Pomo du Sud, Pomo meridional, "Pomo, Southern", Russian River, South Pomo, Southern]
+alt_names: [Pomo, Pomo du Sud, Pomo meridional, "Pomo, Southern", Russian River, South Pomo, Southern]
 population: null
 country_id: US
 country_name: United States

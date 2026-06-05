@@ -2,7 +2,7 @@
 iso: koq
 name: Kota
 autonym: iKota
-alt_names: [Ikuta, Język kota, Kota, Kotu]
+alt_names: [Ikuta, Kota, Kotu]
 population: 41500
 country_id: GA
 country_name: Gabon

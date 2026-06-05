@@ -2,7 +2,7 @@
 iso: bfq
 name: Badaga
 autonym: படுக
-alt_names: [Badag, Badageg, Badagu, Baduga, Badugu, Bahasa Badaga, Lenga Badaga, Lingua Badaga, Vadagu, படக, படகு மொழி, ಬಡಗ, ബഡഗ]
+alt_names: [Badag, Badageg, Badagu, Baduga, Badugu, Vadagu, படக, ಬಡಗ, ബഡഗ]
 population: 134000
 country_id: IN
 country_name: India

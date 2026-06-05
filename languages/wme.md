@@ -2,7 +2,7 @@
 iso: wme
 name: Wambule
 autonym: Chourase
-alt_names: [Ambule, Chaurasia, Chaurasya, Chaurāsya, "Chouras'ya'", Chourasia, Ombule, Tsaurasya, Tśaurasya, Umbule, Wambouleg, Wambulish, ภาษาวัมบูเล]
+alt_names: [Ambule, Chaurasia, Chaurasya, Chaurāsya, "Chouras'ya'", Chourasia, Ombule, Tsaurasya, Tśaurasya, Umbule, Wambouleg, Wambulish]
 population: 1000
 country_id: NP
 country_name: Nepal

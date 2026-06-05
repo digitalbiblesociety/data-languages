@@ -2,7 +2,7 @@
 iso: mic
 name: "Mi'kmaq"
 autonym: "Mi'kmawi'simk"
-alt_names: [Język mikmak, "Mi'gmaq", "Mi'gmaw", "Mi'kmag", "Mi'kmaw", Micmac, Micmac (Canada), Micmac (Massachusetts), Micmac (Massachussets), Miigmao, Mikmaka lingvo, Mikmakeg, Mikmaq simi, Míkmaq language, Restigouche, Микмак, ミクマク語]
+alt_names: ["Mi'gmaq", "Mi'gmaw", "Mi'kmag", "Mi'kmaw", Micmac, Micmac (Canada), Micmac (Massachusetts), Micmac (Massachussets), Miigmao, Mikmakeg, Mikmaq simi, Míkmaq language, Restigouche, Микмак]
 population: 1500
 country_id: CA
 country_name: Canada

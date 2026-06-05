@@ -2,7 +2,7 @@
 iso: hab
 name: Hanoi Sign Language
 autonym: null
-alt_names: [HNSL, Ha Noi Sign Language, NNKHHN, Northern Vietnamese Sign Language, Vietnamese Sign Language, ngôn ngữ ký hiệu Hà Nội]
+alt_names: [HNSL, Ha Noi Sign Language, NNKHHN, Northern Vietnamese Sign Language, Vietnamese Sign Language]
 population: 39000
 country_id: VN
 country_name: Vietnam

@@ -2,7 +2,7 @@
 iso: zng
 name: Mang
 autonym: "Ba'e"
-alt_names: [Chaman, Manbu, Mang U, Nieng Ó, Xamang, Xá Lá Vàng, Xá Mang, Xá Ó, tiếng Mảng, 莽語]
+alt_names: [Chaman, Manbu, Mang U, Nieng Ó, Xamang, Xá Lá Vàng, Xá Mang, Xá Ó]
 population: 2660
 country_id: VN
 country_name: Vietnam

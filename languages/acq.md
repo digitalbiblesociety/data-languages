@@ -2,7 +2,7 @@
 iso: acq
 name: "Ta'izzi-Adeni Arabic"
 autonym: Southern Yemeni Spoken Arabic
-alt_names: [Arabic, "Arabic, Ta'izzi-Adeni", "Arabic, Ta'izzi-Adeni Spoken", Djibouti Arabic, Yemeni Arabic, Јеменски арапски јазик, لهجة يمنية]
+alt_names: [Arabic, "Arabic, Ta'izzi-Adeni", "Arabic, Ta'izzi-Adeni Spoken", Djibouti Arabic, Yemeni Arabic, لهجة يمنية]
 population: 10500000
 country_id: YE
 country_name: Yemen

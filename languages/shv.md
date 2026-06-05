@@ -2,7 +2,7 @@
 iso: shv
 name: Shehri
 autonym: Jibbali
-alt_names: [Ehkili, Geblet, Gəblɛ̄t, Jibali, Jibbālī, Qarawi, Sehri, Shahari, Shehri hizkuntza, Sheret, South Arabian, Śḥərɛ̄t, Šhaḥri, Yibalí, Śḥeri, Śḥeri, لغة شحرية]
+alt_names: [Ehkili, Geblet, Gəblɛ̄t, Jibali, Jibbālī, Qarawi, Sehri, Shahari, Shehri hizkuntza, Sheret, South Arabian, Śḥərɛ̄t, Šhaḥri, Yibalí, Śḥeri, Śḥeri]
 population: 25000
 country_id: OM
 country_name: Oman

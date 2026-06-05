@@ -2,7 +2,7 @@
 iso: mkn
 name: Kupang Malay
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
-alt_names: [Basa Kupang, Kupang, "Malay, Kupang"]
+alt_names: [Kupang, "Malay, Kupang"]
 population: 200000
 country_id: ID
 country_name: Indonesia

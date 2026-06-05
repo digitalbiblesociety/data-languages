@@ -2,7 +2,7 @@
 iso: xsr
 name: Sherpa
 autonym: शेर्वी तम्ङ
-alt_names: [Bhōṭiā of northwestern Nepal, Serwa, Sharpa, Sharpa Bhotia, Sharpā, Sharwa, Xiaerba, Шерпа, Шерпский язык, ภาษาเชอร์ปา, ཤར་པའི་སྐད།]
+alt_names: [Bhōṭiā of northwestern Nepal, Serwa, Sharpa, Sharpa Bhotia, Sharpā, Sharwa, Xiaerba, Шерпа, ཤར་པའི་སྐད།]
 population: 162000
 country_id: NP
 country_name: Nepal

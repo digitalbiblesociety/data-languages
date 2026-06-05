@@ -2,7 +2,7 @@
 iso: hdy
 name: Hadiyya
 autonym: Adea
-alt_names: [Adiya, Adiye, Hadia, Hadiya, Hadiyya hizkuntza, Hadya, Język hadija, Lingua hadiya, Língua hadia]
+alt_names: [Adiya, Adiye, Hadia, Hadiya, Hadiyya hizkuntza, Hadya]
 population: 1840000
 country_id: ET
 country_name: Ethiopia

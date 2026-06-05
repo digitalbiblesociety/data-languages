@@ -2,7 +2,7 @@
 iso: yrl
 name: Nhengatu
 autonym: Modern Tupi
-alt_names: [Coastal Tupian, Coastal Tupí, Geral, Jeral, Língua Geral, Língua Geral Amazônica, Língua Jeral, Modern Tupí, Nengatoueg, Nheengatu, Nheengatú, Nyengato, Nyengatú, Tapïhïya, Tupi moderno, Waengatu, Yeral, Yeral (République bolivarienne du Venezuela), yeral (Brésil), "Ñe'engatu", Ñeegatú, Ñeengatú, Ñengatu]
+alt_names: [Coastal Tupian, Coastal Tupí, Geral, Jeral, Língua Geral, Língua Geral Amazônica, Modern Tupí, Nengatoueg, Nheengatu, Nheengatú, Nyengato, Nyengatú, Tapïhïya, Tupi moderno, Waengatu, Yeral, Yeral (République bolivarienne du Venezuela), yeral (Brésil), "Ñe'engatu", Ñeegatú, Ñeengatú, Ñengatu]
 population: 3000
 country_id: BR
 country_name: Brazil

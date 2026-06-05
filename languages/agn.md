@@ -2,7 +2,7 @@
 iso: agn
 name: Agutaynen
 autonym: null
-alt_names: [Agutaynen jezik, Agutayno, Agutaynon, Lingua agutaynen]
+alt_names: [Agutayno, Agutaynon]
 population: 15000
 country_id: PH
 country_name: Philippines

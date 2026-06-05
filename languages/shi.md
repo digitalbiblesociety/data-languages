@@ -2,7 +2,7 @@
 iso: shi
 name: Tachelhit
 autonym: Tashelhiyt
-alt_names: [Chleuh, Idioma tashelhit, Shandu, Shendu, Shilha, Shilha/Tashlhiyt, Southern Shilha, Susiua, Tacelḥit, Tachelhait, Tacheliteg, Tachilhit, Taschelhit, Tashelhait, Tashelhayt, Tashelheyt, Tashelhit, Tashelhit Berber, Tashelit, Tashilheet, Tashlhiyt, Tasoussit, Taxelhit, Śandu, لهجة تاشلحيت]
+alt_names: [Chleuh, Shandu, Shendu, Shilha, Shilha/Tashlhiyt, Southern Shilha, Susiua, Tacelḥit, Tachelhait, Tacheliteg, Tachilhit, Taschelhit, Tashelhait, Tashelhayt, Tashelheyt, Tashelhit, Tashelhit Berber, Tashelit, Tashilheet, Tashlhiyt, Tasoussit, Taxelhit, Śandu, لهجة تاشلحيت]
 population: 5118000
 country_id: MA
 country_name: Morocco

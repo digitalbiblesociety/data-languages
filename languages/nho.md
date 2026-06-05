@@ -2,7 +2,7 @@
 iso: nho
 name: Takuu
 autonym: null
-alt_names: [Gagana Takuu, Mortlock, Taku, Tau, Tauu]
+alt_names: [Mortlock, Taku, Tau, Tauu]
 population: 1750
 country_id: PG
 country_name: Papua New Guinea

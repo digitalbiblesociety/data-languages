@@ -2,7 +2,7 @@
 iso: tgl
 name: Tagalog
 autonym: ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔
-alt_names: [Bahasa Tagalog, Filipino, Fiteny Tagalog, Idioma tagalo, Język tagalog, Lengua tagalog, Lingua tagalog, Língua tagalo, Pagsasao a Tagalog, Tagal, Tagala, Tagala Gruppe, Tagalog nyelv, Tagaloga lingvo, Tagalogeg, Tagaloški jezik, Tagalu, Tagalu simi, Tagalòg, Tagalų kalba, Takalotça, Tataramon na Tagalog, Tinag-alog, Tinagalog, Tiếng Tagalog, Wikang Tagalog, Zimanê tagalogî, Тагалог, Тагаль чĕлхи, Тагальский язык, Тагальська мова, تاگالوگ تىلى, تغالوغ, زبان تاگالوگ, टागालोग भाषा, তাগালোগ ভাষা, டகாலொக் மொழி, ടാഗലോഗ്, ภาษาตากาล็อก, ფილიპინური ენა, タガログ語, 他加祿語, 타갈로그어]
+alt_names: [Filipino, Fiteny Tagalog, Pagsasao a Tagalog, Tagal, Tagala, Tagala Gruppe, Tagalogeg, Tagalu, Tagalu simi, Tagalòg, Takalotça, Tataramon na Tagalog, Tinag-alog, Tinagalog, Тагалог, تاگالوگ تىلى, تغالوغ, ടാഗലോഗ്]
 population: 23600000
 country_id: PH
 country_name: Philippines

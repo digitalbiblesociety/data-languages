@@ -2,7 +2,7 @@
 iso: gut
 name: Maléku Jaíka
 autonym: Maléku Jaíka
-alt_names: [Guatuso, Guetar, Güetar, Idioma guatuso, Maleku, Maleku Jaika, Maléku language, Watuso, Watuso-Wétar]
+alt_names: [Guatuso, Guetar, Güetar, Maleku, Maleku Jaika, Maléku language, Watuso, Watuso-Wétar]
 population: 1074
 country_id: CR
 country_name: Costa Rica

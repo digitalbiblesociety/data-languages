@@ -2,7 +2,7 @@
 iso: kea
 name: Kabuverdianu
 autonym: Kriolu
-alt_names: [Caboverdiano, Cape Verdean Creole, Creolo capoverdiano, Criollo caboverdiano, Crioulo, Crioulo cabo-verdiano, Crioulo caboverdiano, Créole du Cap-Vert, Język kreolski Wysp Zielonego Przylądka, Kap Verde-kreol, Kapverdisches Kreol, Kapverdská kreolština, Кабовердиански език, Кабувердьяну, カーボベルデ・クレオール語]
+alt_names: [Caboverdiano, Cape Verdean Creole, Creolo capoverdiano, Criollo caboverdiano, Crioulo, Crioulo cabo-verdiano, Crioulo caboverdiano, Créole du Cap-Vert, Kap Verde-kreol, Kapverdisches Kreol, Кабувердьяну]
 population: 478000
 country_id: CV
 country_name: Cabo Verde

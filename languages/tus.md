@@ -2,7 +2,7 @@
 iso: tus
 name: Tuscarora
 autonym: Ska꞉rù꞉ręʼ
-alt_names: [Skarohreh, Тускарора јазик, 투스카로라어]
+alt_names: [Skarohreh]
 population: null
 country_id: CA
 country_name: Canada

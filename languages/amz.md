@@ -2,7 +2,6 @@
 iso: amz
 name: Atampaya
 autonym: Injinoo
-alt_names: [Atampaya jezik, Lenga atampaya]
 population: null
 country_id: AU
 country_name: Australia

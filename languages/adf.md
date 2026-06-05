@@ -2,7 +2,7 @@
 iso: adf
 name: Dhofari Arabic
 autonym: Dhofari
-alt_names: [Arabic, "Arabic, Dhofari", "Arabic, Dhofari Spoken", Dhofari arapski, Zofari, Дофариски арапски јазик, ภาษาอาหรับโดฟารี]
+alt_names: [Arabic, "Arabic, Dhofari", "Arabic, Dhofari Spoken", Dhofari arapski, Zofari]
 population: 125000
 country_id: OM
 country_name: Oman

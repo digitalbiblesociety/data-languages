@@ -2,7 +2,7 @@
 iso: spc
 name: Sapé
 autonym: Kaliana
-alt_names: [Caliana, Calianá, Cariana, Chirichano, Idioma sapé, Kariana, Sape, Sape-kaliana, Sapea lingvo, Сапески јазик]
+alt_names: [Caliana, Calianá, Cariana, Chirichano, Kariana, Sape, Sape-kaliana]
 population: 2019
 country_id: VE
 country_name: Venezuela

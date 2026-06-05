@@ -2,7 +2,7 @@
 iso: lgl
 name: Wala
 autonym: Langalanga
-alt_names: [Lengua Wala, Südliche Salomons-Inseln]
+alt_names: [Südliche Salomons-Inseln]
 population: 6980
 country_id: SB
 country_name: Solomon Islands

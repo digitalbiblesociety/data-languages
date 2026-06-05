@@ -2,7 +2,7 @@
 iso: tfn
 name: Tanaina
 autonym: Denaʼina Qenaga
-alt_names: ["Dena'ina", Denaina lingvo, Dena’ina, Dena’ina language, "K'naia-khotana", Kinayskiy, Língua dena’ina]
+alt_names: ["Dena'ina", Dena’ina, Dena’ina language, "K'naia-khotana", Kinayskiy]
 population: 900
 country_id: US
 country_name: United States

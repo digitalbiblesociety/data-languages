@@ -2,7 +2,7 @@
 iso: xbc
 name: Bactrian
 autonym: Αριαο
-alt_names: [Bactrien, Baktriai nyelv, Baktrian kieli, Baktrische Sprache, Idioma bactriano, Limba bactriană, Lingua Bactriana, Lingua battriana, Língua bactriana, Бактрийски език, Бактрийский язык, Бактријски језик, زبان باختری, ภาษาแบกเตรีย, バクトリア語]
+alt_names: [Bactrien]
 population: null
 country_id: IR
 country_name: Iran

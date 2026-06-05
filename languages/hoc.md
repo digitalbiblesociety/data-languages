@@ -2,7 +2,7 @@
 iso: hoc
 name: Ho
 autonym: " हो जगर"
-alt_names: [Bihar Ho, Hoeg, Kol von Singbhum, Lanka Kol, Lankakol, Laɽka Kol, Lingua Ho, Língua ho, Mundari, Mundari-Ho, Tiếng Ho, hōō jagara, Хо, हो भाषा, হো ভাষা, ହୋ ଜଗର, ภาษาโฮ, 호어]
+alt_names: [Bihar Ho, Hoeg, Kol von Singbhum, Lanka Kol, Lankakol, Laɽka Kol, Mundari, Mundari-Ho, hōō jagara, Хо, ହୋ ଜଗର]
 population: 1420000
 country_id: IN
 country_name: India

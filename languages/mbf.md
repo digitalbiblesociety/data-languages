@@ -2,7 +2,7 @@
 iso: mbf
 name: Baba Malay
 autonym: "Bahasa-Bahasa Melayu Dagang dan Kreol"
-alt_names: [Baba, Bahasa Peranakan, Chinese Malay, Malay, "Malay, Baba", Straits Malay]
+alt_names: [Baba, Chinese Malay, Malay, "Malay, Baba", Straits Malay]
 population: 12000
 country_id: SG
 country_name: Singapore

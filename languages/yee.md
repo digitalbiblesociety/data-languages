@@ -2,7 +2,7 @@
 iso: yee
 name: Yimas
 autonym: null
-alt_names: [Idioma Yimas, Język yimas, Yimaseg, Yimaso]
+alt_names: [Yimaseg, Yimaso]
 population: 300
 country_id: PG
 country_name: Papua New Guinea

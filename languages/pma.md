@@ -2,7 +2,7 @@
 iso: pma
 name: Paama
 autonym: Paama
-alt_names: [Paama-Lopevi, Paaman kieli, Paamese, Paamese of Vanuatu, Pauma]
+alt_names: [Paama-Lopevi, Paamese, Paamese of Vanuatu, Pauma]
 population: 6000
 country_id: VU
 country_name: Vanuatu

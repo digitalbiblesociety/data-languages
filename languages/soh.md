@@ -2,7 +2,7 @@
 iso: soh
 name: Aka
 autonym: Aka
-alt_names: [Fa-C-Aka, Jebel Silak, Jebels Sillok, Sillok, Акаски јазик]
+alt_names: [Fa-C-Aka, Jebel Silak, Jebels Sillok, Sillok]
 population: 300
 country_id: SD
 country_name: Sudan

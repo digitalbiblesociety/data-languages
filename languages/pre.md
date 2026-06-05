@@ -2,7 +2,7 @@
 iso: pre
 name: Principense
 autonym: lunguyê
-alt_names: ["\"Moncó\"", Idioma principense, "Lun'gwiye", Principenski jezik, Príncipense]
+alt_names: ["\"Moncó\"", "Lun'gwiye", Príncipense]
 population: 1558
 country_id: ST
 country_name: "Sao Tome & Principe"

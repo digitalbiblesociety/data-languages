@@ -2,7 +2,7 @@
 iso: njh
 name: Lotha Naga
 autonym: Chizima
-alt_names: [Choimi, Hlota, Kantsii, Kyon, Kyong, Kyontsü, Kyõ, Lhota, Lota, Lotaeg, Lotha, Lotha language, Lutha, Miklai, Naga, Naga (Lotha), "Naga, Lotha", "Naga,Lotha", Tsindir, Tsontsii, Tsōntsü, ภาษาโลทา]
+alt_names: [Choimi, Hlota, Kantsii, Kyon, Kyong, Kyontsü, Kyõ, Lhota, Lota, Lotaeg, Lotha, Lotha language, Lutha, Miklai, Naga, Naga (Lotha), "Naga, Lotha", "Naga,Lotha", Tsindir, Tsontsii, Tsōntsü]
 population: 179000
 country_id: IN
 country_name: India

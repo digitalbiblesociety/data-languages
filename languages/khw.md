@@ -2,7 +2,7 @@
 iso: khw
 name: Khowar
 autonym: کهووار
-alt_names: [Arniya, Arniyā, Arnyiā, Chitrali, Chitrari, Citrali, Citālī, Dardu, Jovaro, Język khowar, Kashkari, Khawar, Khowār, Kowareg, Patu, Qashqari, Qāšqarī, Čitarī, كهوار, کھوار, کھووار, கோவார் மொழி, ภาษาโควาร์]
+alt_names: [Arniya, Arniyā, Arnyiā, Chitrali, Chitrari, Citrali, Citālī, Dardu, Jovaro, Kashkari, Khawar, Khowār, Kowareg, Patu, Qashqari, Qāšqarī, Čitarī, كهوار, کھوار, کھووار]
 population: 379100
 country_id: PK
 country_name: Pakistan

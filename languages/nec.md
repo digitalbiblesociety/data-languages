@@ -2,7 +2,7 @@
 iso: nec
 name: Nedebang
 autonym: Klamu
-alt_names: [Balungada, ภาษาเนเดบัง]
+alt_names: [Balungada]
 population: 1380
 country_id: ID
 country_name: Indonesia

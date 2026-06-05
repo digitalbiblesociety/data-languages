@@ -2,7 +2,7 @@
 iso: mym
 name: "Me'en"
 autonym: Mɛʼɛn
-alt_names: [Meen, Mekan, Men, Meqan, "Mie'en", Mieken, Менски јазик]
+alt_names: [Meen, Mekan, Men, Meqan, "Mie'en", Mieken]
 population: 151000
 country_id: ET
 country_name: Ethiopia

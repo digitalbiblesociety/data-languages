@@ -2,7 +2,7 @@
 iso: zag
 name: Zaghawa
 autonym: Beria (Beriaa)
-alt_names: [Beri, Beri-Aa, Beria, Berri, Język zaghawa, Kebadi, Kuyuk, Merida, Soghaua, Zagaoua, Zagawa, Zauge, Zeggaoua, Zeghawa, Zorhaua, Загава, Загаваски јазик]
+alt_names: [Beri, Beri-Aa, Beria, Berri, Kebadi, Kuyuk, Merida, Soghaua, Zagaoua, Zagawa, Zauge, Zeggaoua, Zeghawa, Zorhaua, Загава]
 population: 347900
 country_id: SD
 country_name: Sudan

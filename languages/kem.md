@@ -2,7 +2,6 @@
 iso: kem
 name: Kemak
 autonym: Ema
-alt_names: [ภาษาเกมัก]
 population: 90000
 country_id: TL
 country_name: "Timor-Leste"

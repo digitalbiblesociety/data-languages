@@ -2,7 +2,7 @@
 iso: pzh
 name: Pazeh
 autonym: Pazeh
-alt_names: [Kahabu, Kaxabu, Kulon, Kulon-Pazeh, Kulon-Pazih, Kulun, Lingua Pazeh, Pazeh-Kaxabu, Pazehe, Pazih, Pazzehe, Sprache von Formosa, パゼッヘ語, 噶哈巫語, 巴宰語]
+alt_names: [Kahabu, Kaxabu, Kulon, Kulon-Pazeh, Kulon-Pazih, Kulun, Pazeh-Kaxabu, Pazehe, Pazih, Pazzehe]
 population: 12
 country_id: CN
 country_name: China

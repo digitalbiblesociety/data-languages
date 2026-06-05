@@ -2,7 +2,7 @@
 iso: sua
 name: Sulka
 autonym: null
-alt_names: [Język sulka, Neu-Pommern]
+alt_names: [Neu-Pommern]
 population: 3500
 country_id: PG
 country_name: Papua New Guinea

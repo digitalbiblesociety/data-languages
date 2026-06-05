@@ -2,7 +2,7 @@
 iso: mvi
 name: Miyako
 autonym: 宮古口/ミャークフツ Myākufutsu
-alt_names: [Idioma miyako, Ikimatsu, Miyako-Sprache, Miyakoeg, Ryukyuan, Saskishima, Saskisima, Southern Ryukyuan, ภาษามิยาโกะ, ミャークフツ, 宮古方言, 宮古語]
+alt_names: [Ikimatsu, Miyako-Sprache, Miyakoeg, Ryukyuan, Saskishima, Saskisima, Southern Ryukyuan, ミャークフツ, 宮古方言]
 population: 67000
 country_id: JP
 country_name: Japan

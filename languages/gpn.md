@@ -2,7 +2,7 @@
 iso: gpn
 name: Taiap
 autonym: Tayap mer
-alt_names: [Chana, Chuala, East Parana, Gapun, Guana, Taiap jezik, Taiapeg]
+alt_names: [Chana, Chuala, East Parana, Gapun, Guana, Taiapeg]
 population: 50
 country_id: PG
 country_name: Papua New Guinea

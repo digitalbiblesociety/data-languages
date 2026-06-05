@@ -2,7 +2,7 @@
 iso: bbh
 name: Bugan
 autonym: Pakan
-alt_names: [Bahasa Bugan, Bengan, Bogan, Bugán, Hualo, Huazu, Pukan, 布甘語, 布賡語, 本甘語]
+alt_names: [Bengan, Bogan, Bugán, Hualo, Huazu, Pukan]
 population: 2700
 country_id: CN
 country_name: China

@@ -2,7 +2,7 @@
 iso: mmd
 name: Maonan
 autonym: Ai Nan
-alt_names: [毛南話, 毛難語]
+alt_names: [毛南話]
 population: 101000
 country_id: CN
 country_name: China

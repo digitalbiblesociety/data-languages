@@ -2,7 +2,7 @@
 iso: wao
 name: Wappo
 autonym: Micewal
-alt_names: [Ashochimi, Napa, Wapoeg, Ваппо, 瓦波語]
+alt_names: [Ashochimi, Napa, Wapoeg, Ваппо]
 population: 1994
 country_id: US
 country_name: United States

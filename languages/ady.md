@@ -2,7 +2,7 @@
 iso: ady
 name: Adyghe
 autonym: West Circassian
-alt_names: [Abydh, Abzakh, Abzax, Adiga, Adigea lingvo, Adigece, Adigeg, Adigejski jezik, Adigué, Adygei, Adygeische Sprache, Adygeiska, Adygejština, Adygen kieli, Adygey, Adygeyska, Adygh, Adyguéen, Adygų kalba, An Adyghe, Cherkes, Circassian, Circassian (West), Język adygejski, Kiakh, Kjax, Lower Circassian, Língua adigue, Shapsugh, Temirgoy, Zimanê adigeyî, adyghé, Адигейська мова, Адигејски јазик, Адыг хэлэн, Адыгейский язык, Адыгъейаг æвзаг, אדיגית, لغة أديغية, আদিগে ভাষা, ภาษาอะดืยเก, アディゲ語, 阿迪格語, 아디게어]
+alt_names: [Abydh, Abzakh, Abzax, Adiga, Adigece, Adigeg, Adigué, Adygei, Adygeiska, Adygey, Adygeyska, Adygh, Adyguéen, An Adyghe, Cherkes, Circassian, Circassian (West), Kiakh, Kjax, Lower Circassian, Shapsugh, Temirgoy, adyghé, אדיגית]
 population: 607500
 country_id: RU
 country_name: Russia

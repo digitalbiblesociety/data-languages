@@ -2,7 +2,7 @@
 iso: swb
 name: Maore Comorian
 autonym: shikomori/شِكُمُرِ
-alt_names: [Comores Swahili, Comorian, "Comorian, Maore", Comoro, Komoro, Mahorais, Maora lingvo, Shimaore, Shimaore dialect]
+alt_names: [Comores Swahili, Comorian, "Comorian, Maore", Comoro, Komoro, Mahorais, Shimaore, Shimaore dialect]
 population: 185500
 country_id: YT
 country_name: Mayotte

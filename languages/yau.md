@@ -2,7 +2,7 @@
 iso: yau
 name: Yuwana
 autonym: Yuwana
-alt_names: [Chicano, Chikano, Hodi, Hodï, Hodï language, Hoti, Hotí, Idioma hoti, Jodi, Joti, Jotí, Waruwaru, Waruwaru Waruwádu, Yoana, Yuana]
+alt_names: [Chicano, Chikano, Hodi, Hodï, Hodï language, Hoti, Hotí, Jodi, Joti, Jotí, Waruwaru, Waruwaru Waruwádu, Yoana, Yuana]
 population: 300
 country_id: VE
 country_name: Venezuela

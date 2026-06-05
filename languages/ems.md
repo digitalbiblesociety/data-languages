@@ -2,7 +2,7 @@
 iso: ems
 name: Pacific Gulf Yupik
 autonym: Pacific Gulf Yupik
-alt_names: ["\"Aleut\"", "\"Eskimo\"", Aleut, Alutiiq, Alutiiq language, "Chugach \"Eskimo\"", Idioma alutiiq, Koniag-Chugach, Koniaq, Língua alutiiq, Pacific Yupik, "South Alaska \"Eskimo\"", Sugcestun, Sugpiak, "Sugpiak \"Eskimo\"", Sugpiaq, "Sugpiaq \"Eskimo\"", Suk, "Yup'ik (Pacific Gulf)", Yupik (Pacific Gulf ), Yupik du golfe du Pacifique, "Yupik, Pacific Gulf", Yupí del Pacífico, šuk/suk Sugpiaq, Алютикский язык, ალუტიიკური ენა, アリュティーク語]
+alt_names: ["\"Aleut\"", "\"Eskimo\"", Aleut, Alutiiq, Alutiiq language, "Chugach \"Eskimo\"", Koniag-Chugach, Koniaq, Pacific Yupik, "South Alaska \"Eskimo\"", Sugcestun, Sugpiak, "Sugpiak \"Eskimo\"", Sugpiaq, "Sugpiaq \"Eskimo\"", Suk, "Yup'ik (Pacific Gulf)", Yupik (Pacific Gulf ), Yupik du golfe du Pacifique, "Yupik, Pacific Gulf", Yupí del Pacífico, šuk/suk Sugpiaq]
 population: 3000
 country_id: US
 country_name: United States

@@ -2,7 +2,7 @@
 iso: mia
 name: Miami
 autonym: Myaamia
-alt_names: [Illinois, Illinois (Wea), Língua Miami-Illinois, Miami Cluster, Miami-Illinois, Miami-Illinois language, Miami-Myaamia, Miamieg, Peoria, Piankishaw, Wea]
+alt_names: [Illinois, Illinois (Wea), Miami Cluster, Miami-Illinois, Miami-Illinois language, Miami-Myaamia, Miamieg, Peoria, Piankishaw, Wea]
 population: 2000
 country_id: US
 country_name: United States

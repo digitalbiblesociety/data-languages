@@ -2,7 +2,7 @@
 iso: xco
 name: Chorasmian
 autonym: زڨاک ای خوارزم
-alt_names: [Chorasmien, Choresmian, Choresmische Sprache, Horezmin kieli, Khwarezmian, Khwarezmian language, Khwarizmian, Lingua corasmia, Língua corásmia, Tchorasmeg, Хорезмийский язык, زبان خوارزمی, ภาษาคาวาเรสเมียร์]
+alt_names: [Chorasmien, Choresmian, Khwarezmian, Khwarezmian language, Khwarizmian, Tchorasmeg]
 population: null
 country_id: TR
 country_name: Turkey

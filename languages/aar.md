@@ -2,7 +2,7 @@
 iso: aar
 name: Afar
 autonym: Qafar af
-alt_names: ["\"Danakil\"", "\"Denkel\"", Adal, Afara lingvo, Afaraf, Afareg, Afariko, Afarin kieli, Afarski jezik, Afarčina, Afarština, Afaršćina, Afarų kalba, Afāru valoda, Bahasa Afar, Danakäli, Gjuha afare, Idioma afar, Język afar, Lingua afar, Llengua àfar, Língua afar, Qafar, Qafár af, "`Afar Af", Афарски език, Афарский язык, अफ़ार भाषा, አፋርኛ, アファル語]
+alt_names: ["\"Danakil\"", "\"Denkel\"", Adal, Afaraf, Afareg, Afariko, Danakäli, Qafar, Qafár af, "`Afar Af"]
 population: 2541000
 country_id: ET
 country_name: Ethiopia

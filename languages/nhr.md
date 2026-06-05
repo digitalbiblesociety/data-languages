@@ -2,7 +2,7 @@
 iso: nhr
 name: Naro
 autonym: Nharo
-alt_names: [/Ai San, Gaa, Língua naro, Naron, Nharon, Nhauru, Nhaurun, Qoo, "Ts'ao", "|Aikwe", "||Aikwe", "||Aisan", "||Ai||e", "||Ai||en"]
+alt_names: [/Ai San, Gaa, Naron, Nharon, Nhauru, Nhaurun, Qoo, "Ts'ao", "|Aikwe", "||Aikwe", "||Aisan", "||Ai||e", "||Ai||en"]
 population: 10000
 country_id: BW
 country_name: Botswana

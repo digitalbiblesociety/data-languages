@@ -2,7 +2,7 @@
 iso: mzn
 name: Mazanderani
 autonym: "Mazandarani مازندرانی  Tabari طبری "
-alt_names: [Idioma mazandaraní, Język mazanderański, Masanderanische Sprache, Mazandarani, Mazandarani language, Mazanderaneg, Mazenderani, Mazenderanki, Mazenisk, Mázandaráni nyelv, Sari, Tabri, Zimanê mazenderanî, Μαζανταρανί, Мазандерански език, Мазендеранский язык, زبان مازندرانی, لغة طبرية, مازرونی زیوون, ภาษามาซันดารานี, マーザンダラーン語, 塔巴里语]
+alt_names: [Mazandarani, Mazandarani language, Mazanderaneg, Mazenderani, Mazenderanki, Mazenisk, Sari, Tabri, Μαζανταρανί, مازرونی زیوون]
 population: 2320000
 country_id: IR
 country_name: Iran

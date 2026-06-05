@@ -2,7 +2,7 @@
 iso: tdd
 name: Tai Nüa
 autonym: ᥖᥭᥰᥖᥬᥳᥑᥨᥒᥰ
-alt_names: [Chinese Shan, Chinese Tai, Dai Kong, Dai Na, Dai Nuea, Dehong, Dehong Dai, Paiyi, Tai Dehong, Tai Le, Tai Man, Tai Mao, Tai Neua, Tai Nua, Tai Nue, Tai Nuea, Tai Nü, Tai-Kong, Tai-Le, Tainuá, Tay Nüa, Tayok, Thai Chè, Thai Khè, Twelve Districts Shan, Yunannese Shan, "Yunnan Shant'ou", ภาษาไทไต้คง, 德宏傣语]
+alt_names: [Chinese Shan, Chinese Tai, Dai Kong, Dai Na, Dai Nuea, Dehong, Dehong Dai, Paiyi, Tai Dehong, Tai Le, Tai Man, Tai Mao, Tai Neua, Tai Nua, Tai Nue, Tai Nuea, Tai Nü, Tai-Kong, Tai-Le, Tainuá, Tay Nüa, Tayok, Thai Chè, Thai Khè, Twelve Districts Shan, Yunannese Shan, "Yunnan Shant'ou"]
 population: 726100
 country_id: CN
 country_name: China

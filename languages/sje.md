@@ -2,7 +2,7 @@
 iso: sje
 name: Pite Sami
 autonym: bidumsámegiella
-alt_names: ["\"Lapp\"", "\"Pite Lapp\"", Arjeplog Saami, Arjeploginsaame, Biddumsámi, Biđonsámegiella, Central, Lapp, Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Lingua sami di Pite, Língua sami de Pite, Northern, Piitimensaame, Pite, Pite Lapp, Pite Lappish, Pite Saami, Pite-Lappisch, Pite-samea lingvo, Pitei számi nyelv, Pitelappisch, Pitesamisk, Pitesamisk språk, Pitesamiska, Piteå saami keel, Pitėjo samių kalba, Saami, "Saami, Pite", Saamí de Pite, "Sami, Pite", Samieg Pite, Schwedisch-Lappisch, Western, Westlappisch, lapin kieli, lapon, lappisk, lopary, lpPite, saamen kieli, saamskij jazyk, sabme, same-, schwedisch-lappische Dialektgruppe, sāme-giellâ, westlappischer Dialekt, Пите самиски јазик, Пите-саамски език, Пите-саамский язык]
+alt_names: ["\"Lapp\"", "\"Pite Lapp\"", Arjeplog Saami, Arjeploginsaame, Biddumsámi, Biđonsámegiella, Central, Lapp, Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Northern, Piitimensaame, Pite, Pite Lapp, Pite Lappish, Pite Saami, Pite-Lappisch, Pitelappisch, Pitesamisk, Pitesamiska, Saami, "Saami, Pite", Saamí de Pite, "Sami, Pite", Samieg Pite, Schwedisch-Lappisch, Western, Westlappisch, lapon, lappisk, lopary, lpPite, sabme, same-, schwedisch-lappische Dialektgruppe, sāme-giellâ, westlappischer Dialekt]
 population: 2000
 country_id: SE
 country_name: Sweden

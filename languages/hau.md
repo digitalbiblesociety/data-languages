@@ -2,7 +2,7 @@
 iso: hau
 name: Hausa
 autonym: " هَرْشَن هَوْسَ"
-alt_names: [Abakwariga, Bahasa Hausa, Habe, Haousaeg, Haoussa, Hausa Group, Hausa jezik, Hausa linguo, Hausan kieli, Hausawa, Haussa, Hausų kalba, Hauština, Hawsa, Hawsa simi, Haúsa, Haŭsa lingvo, Idioma hausa, Język hausa, Kado, Lenga Hausa, Lingua hausa, Língua haúça, Mgbakpa, Èdè Haúsá, Забони хауса, Хауса, האוסה, هوس, ھاوسا, हौसा भाषा, হাউসা ভাষা, ஹவுசா மொழி, ჰაუსა, ハウサ語, 豪萨语]
+alt_names: [Abakwariga, Habe, Haousaeg, Haoussa, Hausa Group, Hausa linguo, Hausawa, Haussa, Hawsa, Hawsa simi, Haúsa, Kado, Mgbakpa, Забони хауса, Хауса, האוסה, هوس, ھاوسا, ჰაუსა]
 population: 60000000
 country_id: NG
 country_name: Nigeria

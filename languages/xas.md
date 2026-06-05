@@ -2,7 +2,7 @@
 iso: xas
 name: Kamas
 autonym: калмажи шəкə
-alt_names: [Język kamasyjski, Kamaseg, Kamasinų kalba, Kamass, Kamassagiella, Kamasse, Kamassian, Kamassian language, Kamassin, Kamassinic, Kamassinisch, Kamassisch, Kamassische Sprache, Kamassish, Kamassisk språk, Kamassiska, Kamassz nyelv, Koibal, Lingua kamassina, Sayan, Sayan Samoyed, Sayan Samoyedic, Sayan-Samoyedic, kamassin kieli, ʒaǯ̕ kall, Камасински јазик, камасинский язык, カマス語]
+alt_names: [Kamaseg, Kamass, Kamassagiella, Kamasse, Kamassian, Kamassian language, Kamassin, Kamassinic, Kamassinisch, Kamassisch, Kamassish, Kamassiska, Koibal, Sayan, Sayan Samoyed, Sayan Samoyedic, Sayan-Samoyedic, ʒaǯ̕ kall]
 population: null
 country_id: RU
 country_name: Russia

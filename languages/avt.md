@@ -2,7 +2,6 @@
 iso: avt
 name: Au
 autonym: null
-alt_names: [Język au]
 population: 8000
 country_id: PG
 country_name: Papua New Guinea

@@ -2,7 +2,7 @@
 iso: ppl
 name: Pipil
 autonym: Nāwat
-alt_names: [Idioma pipil, Nahuat, Nahuate, Nawat, Nicarao, Náhuat, Náwat, 피필어]
+alt_names: [Nahuat, Nahuate, Nawat, Nicarao, Náhuat, Náwat]
 population: 11100
 country_id: SV
 country_name: El Salvador

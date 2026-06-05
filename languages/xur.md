@@ -2,7 +2,7 @@
 iso: xur
 name: Urartian
 autonym: "Urartean, Vannic"
-alt_names: [Lingua urartea, Urarta lingvo, Urarteiska, Urartisk, Urartski jezik, Urartäische Sprache, Vannic, Урартский язык, Урарту чĕлхи, ภาษายูราร์เทีย, ウラルトゥ語, 우라르투어]
+alt_names: [Urarteiska, Urartisk, Vannic]
 population: null
 country_id: TR
 country_name: Turkey

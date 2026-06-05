@@ -2,7 +2,7 @@
 iso: hus
 name: Huastec
 autonym: Huasteco
-alt_names: ["Huastec, Veracruz", Huasteci, Huasteco de Tantoyuca, Huastecos, Huastecs, Huasteekit, Huaxtechi, Huaxteeks, Idioma huasteco, "Te:nek", Teenek, Tenek, Veracruz, Wastek, Wastek language, Wasteko, Вастек јазик, 瓦斯蒂克族]
+alt_names: ["Huastec, Veracruz", Huasteci, Huasteco de Tantoyuca, Huastecos, Huastecs, Huasteekit, Huaxtechi, Huaxteeks, "Te:nek", Teenek, Tenek, Veracruz, Wastek, Wastek language, Wasteko, 瓦斯蒂克族]
 population: 174000
 country_id: MX
 country_name: Mexico

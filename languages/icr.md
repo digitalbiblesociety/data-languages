@@ -2,7 +2,7 @@
 iso: icr
 name: Islander Creole English
 autonym: Islander Creole English
-alt_names: [Bende, "Creole English, Islander", Criollo sanandresano, Créole de San Andrés, San Andrés Creole, San Andrés-Providencia Creole, Райсальский креольский язык]
+alt_names: [Bende, "Creole English, Islander", Criollo sanandresano, Créole de San Andrés, San Andrés Creole, San Andrés-Providencia Creole]
 population: 12000
 country_id: CO
 country_name: Colombia

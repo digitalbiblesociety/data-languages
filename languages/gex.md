@@ -2,7 +2,7 @@
 iso: gex
 name: Garre
 autonym: "Af-Garre"
-alt_names: [Garre hizkuntza, Lenga Garre]
+alt_names: [Garre hizkuntza]
 population: 685600
 country_id: SO
 country_name: Somalia

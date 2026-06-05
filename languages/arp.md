@@ -2,7 +2,7 @@
 iso: arp
 name: Arapaho
 autonym: Hinónoʼeitíít
-alt_names: [Arapaho-Atsina, Arapahoan, Arapahoan Isolate, Arapahoeg, Arapažština, Arrapahoe, Northern Arapaho]
+alt_names: [Arapaho-Atsina, Arapahoan, Arapahoan Isolate, Arapahoeg, Arrapahoe, Northern Arapaho]
 population: 1070
 country_id: US
 country_name: United States

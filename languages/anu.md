@@ -2,7 +2,7 @@
 iso: anu
 name: Anuak
 autonym: Anyuak
-alt_names: [Anuak jezik, Anyua, Anywa, Anywak, Bar, Burjin, Dho Anywaa, Jambo, Miroy, Moojanga, Nuro, Yambo, Yembo]
+alt_names: [Anyua, Anywa, Anywak, Bar, Burjin, Dho Anywaa, Jambo, Miroy, Moojanga, Nuro, Yambo, Yembo]
 population: 221600
 country_id: SS
 country_name: South Sudan

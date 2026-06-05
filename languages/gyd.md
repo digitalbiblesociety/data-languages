@@ -2,7 +2,7 @@
 iso: gyd
 name: Kayardild
 autonym: Gajadilt
-alt_names: [Bandingkawanda Kangk, Bentinck Islanders, Bentinck Language, Gaiardilt, Gaja, Gaja dilt, Gajadild, Gajardild, Gajardilt, Gaya, Gaya dilt, Gayadilt, Gayardil, Gayardild, Gayardilt, Guyadilt, Kaiadil, Kaiadild, Kaiadilt, Kaiadilt Madunun, Kayardilt, Lenga kayardild, Madunun, Maldanunda, Malununda, Malununde, Mardunung, Marlanunda, Ngarrkuwa Kangk, Rarumbanda Kangk, South Wellesley, Southern Tangkic, Yangkaal-Kayardild, dilt]
+alt_names: [Bandingkawanda Kangk, Bentinck Islanders, Bentinck Language, Gaiardilt, Gaja, Gaja dilt, Gajadild, Gajardild, Gajardilt, Gaya, Gaya dilt, Gayadilt, Gayardil, Gayardild, Gayardilt, Guyadilt, Kaiadil, Kaiadild, Kaiadilt, Kaiadilt Madunun, Kayardilt, Madunun, Maldanunda, Malununda, Malununde, Mardunung, Marlanunda, Ngarrkuwa Kangk, Rarumbanda Kangk, South Wellesley, Southern Tangkic, Yangkaal-Kayardild, dilt]
 population: 150
 country_id: AU
 country_name: Australia

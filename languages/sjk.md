@@ -2,7 +2,7 @@
 iso: sjk
 name: Kemi Sami
 autonym: null
-alt_names: ["\"Lapp\"", Eastern, Eastern Saami, Lapp, Lappic, Lappisch, Lappish, Saami, "Saami, Kemi", Sami, "Sami, Kemi", Sámi, east dialect, lapin kieli, lapon, lappisk, lopary, saamen kieli, saamskij jazyk, sabme, same-, sāme-giellâ]
+alt_names: ["\"Lapp\"", Eastern, Eastern Saami, Lapp, Lappic, Lappisch, Lappish, Saami, "Saami, Kemi", Sami, "Sami, Kemi", Sámi, east dialect, lapon, lappisk, lopary, sabme, same-, sāme-giellâ]
 population: null
 country_id: FI
 country_name: Finland

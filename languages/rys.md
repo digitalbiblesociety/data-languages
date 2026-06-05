@@ -2,7 +2,7 @@
 iso: rys
 name: Yaeyama
 autonym: 八重山物言/ヤイマムニ Yaimamuni
-alt_names: [Idioma yaeyama, Ryukyuan, Saskishima, Saskisima, Southern Ryukyuan, Yaeyameg, Yayeyama, ภาษายาเอยามะ, 八重山方言, 八重山語, 야에야마어]
+alt_names: [Ryukyuan, Saskishima, Saskisima, Southern Ryukyuan, Yaeyameg, Yayeyama, 八重山方言]
 population: 47000
 country_id: JP
 country_name: Japan

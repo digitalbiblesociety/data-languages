@@ -2,7 +2,7 @@
 iso: cie
 name: Cineni
 autonym: null
-alt_names: [Cineni jezik, Sinenieg]
+alt_names: [Sinenieg]
 population: 3000
 country_id: NG
 country_name: Nigeria

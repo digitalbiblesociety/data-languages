@@ -2,7 +2,7 @@
 iso: gdm
 name: Laal
 autonym: yəw láàl
-alt_names: [Gori, Język laal, Laaleg, لغة لال]
+alt_names: [Gori, Laaleg]
 population: 750
 country_id: TD
 country_name: Chad

@@ -2,7 +2,7 @@
 iso: amp
 name: Alamblak
 autonym: null
-alt_names: [Alamblakeg, Arambak, Język alamblak, Lenga Alamblak, Lingua alamblak]
+alt_names: [Alamblakeg, Arambak]
 population: 1530
 country_id: PG
 country_name: Papua New Guinea

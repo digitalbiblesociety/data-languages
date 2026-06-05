@@ -2,7 +2,7 @@
 iso: ssy
 name: Saho
 autonym: Sao
-alt_names: [Lenga Saho, Língua saho, Saho hizkuntza, Sahoeg, Shaho, Shiho, Shoho, Šoho]
+alt_names: [Saho hizkuntza, Sahoeg, Shaho, Shiho, Shoho, Šoho]
 population: 275800
 country_id: ER
 country_name: Eritrea

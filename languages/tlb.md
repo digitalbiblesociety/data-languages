@@ -2,7 +2,7 @@
 iso: tlb
 name: Tobelo
 autonym: bahasa Tobelo
-alt_names: [Indonesia, ภาษาโตเบโล, 토벨로어]
+alt_names: [Indonesia]
 population: 27700
 country_id: ID
 country_name: Indonesia

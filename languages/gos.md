@@ -2,7 +2,7 @@
 iso: gos
 name: Gronings
 autonym: Grunnegs
-alt_names: [Frisian, Greuniengs, Grinslânsk, Gronengesch, Groningen, Groningois, Groningsk, Groninguès, Grunnings, Grôniengs, Idioma groningués, Jronėngsch, Język groningski, Neuniederdeutsch, フローニン語]
+alt_names: [Frisian, Greuniengs, Grinslânsk, Gronengesch, Groningen, Groningois, Groningsk, Groninguès, Grunnings, Grôniengs, Jronėngsch, Neuniederdeutsch]
 population: 262000
 country_id: NL
 country_name: Netherlands

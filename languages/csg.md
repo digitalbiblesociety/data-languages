@@ -2,7 +2,7 @@
 iso: csg
 name: Chilean Sign Language
 autonym: Lengua de Señas Chilena
-alt_names: [LENSE, LSCh, Lenguaje Chileno de Signos, Lenguaje de Señas, Lenguaje de Señas Chileno, Língua Gestual Chilena]
+alt_names: [LENSE, LSCh, Lenguaje Chileno de Signos, Lenguaje de Señas, Lenguaje de Señas Chileno]
 population: 21000
 country_id: CL
 country_name: Chile

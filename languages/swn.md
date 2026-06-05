@@ -2,7 +2,7 @@
 iso: swn
 name: Sawknah
 autonym: Tasuknit
-alt_names: [Sawkna, Sawknah jezik, Sokna, Сокна]
+alt_names: [Sawkna, Sokna, Сокна]
 population: 5600
 country_id: LY
 country_name: Libya

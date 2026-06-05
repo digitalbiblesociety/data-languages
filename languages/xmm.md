@@ -2,7 +2,7 @@
 iso: xmm
 name: Manado Malay
 autonym: Bahasa Manado
-alt_names: [Bahasa Melayu Manado, Malais de Manado, Malay, Malay (Eastern), Malay (Manadonese), "Malay, Manado", Manadonese, Manadonese Malay, Minahasan Malay, 므나도 말레이어]
+alt_names: [Malais de Manado, Malay, Malay (Eastern), Malay (Manadonese), "Malay, Manado", Manadonese, Manadonese Malay, Minahasan Malay]
 population: 1820000
 country_id: ID
 country_name: Indonesia

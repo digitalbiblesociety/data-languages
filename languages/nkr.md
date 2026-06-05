@@ -2,7 +2,7 @@
 iso: nkr
 name: Nukuoro
 autonym: Nukuoro
-alt_names: [Lingua Nukuoro, Nuguor, Nukoro, Nukuoro kalba, Nukuoron kieli, Nukuoru]
+alt_names: [Nuguor, Nukoro, Nukuoru]
 population: 125
 country_id: FM
 country_name: Micronesia

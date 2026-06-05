@@ -2,7 +2,7 @@
 iso: rtm
 name: Rotuman
 autonym: Fäeag Rotuma
-alt_names: [Fidji-Inseln, Język rotumański, Rotuman bhasa, Rotuman kieli, Rotuman-Fijian, Rotumanische Sprache, Rotumano, Rotuna, Rutuman, Ротуманский язык]
+alt_names: [Fidji-Inseln, Rotuman bhasa, Rotuman-Fijian, Rotumano, Rotuna, Rutuman]
 population: 2500
 country_id: FJ
 country_name: Fiji

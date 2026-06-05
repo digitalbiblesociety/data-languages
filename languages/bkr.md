@@ -2,7 +2,7 @@
 iso: bkr
 name: Bakumpai
 autonym: Bakambai
-alt_names: [Bahasa Bakumpai, Bara-Jida]
+alt_names: [Bara-Jida]
 population: 100000
 country_id: ID
 country_name: Indonesia

@@ -2,7 +2,7 @@
 iso: ywt
 name: Xishanba Lalo
 autonym: Western Yi
-alt_names: [Central Lalo, Dongshan Lalu Yi, Lalo, "Lalo, Central", "Lalo, Xishanba", "Lalo,Xishanba", Lalopa, Laluo, Lolo, Misaba, Misapa, Yi, Yi (Western), "Yi, Western", 中臘羅語]
+alt_names: [Central Lalo, Dongshan Lalu Yi, Lalo, "Lalo, Central", "Lalo, Xishanba", "Lalo,Xishanba", Lalopa, Laluo, Lolo, Misaba, Misapa, Yi, Yi (Western), "Yi, Western"]
 population: 213000
 country_id: CN
 country_name: China

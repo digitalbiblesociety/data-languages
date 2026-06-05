@@ -2,7 +2,7 @@
 iso: nya
 name: Nyanja
 autonym: Nyanja
-alt_names: [Bahasa Chichewa, Cewa, Chewa, Chewa language, Chichewa, Chichewa simi, Chilankhulo cha Chichewa, Chinyanja, Język cziczewa, Lingua chichewa, Língua nianja, Njandžan kieli, Njanĝa lingvo, Tchitcheweg, Čeva, Ниянджа, Ньянджа, চিচেওয়া ভাষা, チェワ語, 齐切瓦语, 치체와어]
+alt_names: [Cewa, Chewa, Chewa language, Chichewa, Chichewa simi, Chilankhulo cha Chichewa, Chinyanja, Tchitcheweg, Čeva, Ниянджа, Ньянджа]
 population: 14381000
 country_id: MW
 country_name: Malawi

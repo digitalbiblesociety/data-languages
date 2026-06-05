@@ -2,7 +2,7 @@
 iso: nij
 name: Ngaju
 autonym: Biadju
-alt_names: [Bahasa Ngaju, Dayak, Dayak (Ngaju), Dayak Ngaju, Kahayan Kapuas, Kapuas, Ngadju, Ngaja, Ngaju dayak, Oloh Mangtangai, Pulopetak, Southwest Barito]
+alt_names: [Dayak, Dayak (Ngaju), Dayak Ngaju, Kahayan Kapuas, Kapuas, Ngadju, Ngaja, Ngaju dayak, Oloh Mangtangai, Pulopetak, Southwest Barito]
 population: 890000
 country_id: ID
 country_name: Indonesia

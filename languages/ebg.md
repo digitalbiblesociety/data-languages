@@ -2,7 +2,6 @@
 iso: ebg
 name: Ebughu
 autonym: Oron
-alt_names: [Ebughu jezik]
 population: 5000
 country_id: NG
 country_name: Nigeria

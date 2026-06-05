@@ -2,7 +2,7 @@
 iso: bbn
 name: Uneapa
 autonym: Bali
-alt_names: [Bali-Vitu, Uneapa jezik]
+alt_names: [Bali-Vitu]
 population: 10000
 country_id: PG
 country_name: Papua New Guinea

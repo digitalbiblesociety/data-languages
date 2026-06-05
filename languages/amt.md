@@ -2,7 +2,7 @@
 iso: amt
 name: Amto
 autonym: Ki
-alt_names: [Amteg, Amto jezik, Idioma amto, Siafli, Siawi, Siwai]
+alt_names: [Amteg, Siafli, Siawi, Siwai]
 population: 300
 country_id: PG
 country_name: Papua New Guinea

@@ -2,7 +2,7 @@
 iso: nsr
 name: Maritime Sign Language
 autonym: Langue des Signes Maritime
-alt_names: [Língua Gestual das Províncias Marítimas, Nova Scotian Sign Language]
+alt_names: [Nova Scotian Sign Language]
 population: 90
 country_id: CA
 country_name: Canada

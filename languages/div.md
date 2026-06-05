@@ -2,7 +2,7 @@
 iso: div
 name: Dhivehi
 autonym: Maldivian
-alt_names: [Bahasa Divehi, Diveheg, Divehi, Divehin kieli, Idioma dhivehi, Język malediwski, Lingua Dhivehi, Lingua maldiviana, Língua divehi, Mahl, Mahla lingvo, Maldivčina, Maldív nyelv, Maldīviešu valoda, maldivien, Ντιβέχι, Дхивехи, Мальдивский язык, ديفهي, زبان دیوهی, ދިވެހި, महल भाषा, महल्, திவெயி மொழி, ภาษาดิเวฮิ, ディベヒ語, 迪维希语, 디베히어]
+alt_names: [Diveheg, Divehi, Mahl, maldivien, Ντιβέχι, Дхивехи, ديفهي, ދިވެހި, महल्]
 population: 340500
 country_id: MV
 country_name: Maldives

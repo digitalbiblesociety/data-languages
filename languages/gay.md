@@ -2,7 +2,7 @@
 iso: gay
 name: Gayo
 autonym: Basa Gayo
-alt_names: [Bahasa Gayo, Gaja lingvo, Gajo, Gayo jezik, Lenga Gayo, ภาษากาโย]
+alt_names: [Gajo]
 population: 337000
 country_id: ID
 country_name: Indonesia

@@ -2,7 +2,7 @@
 iso: ads
 name: Adamorobe Sign Language
 autonym: Mumu kasa
-alt_names: [Adamorobe, Adamorobe-Gebärdensprache, Adomoróbe-táknmál, Lengua de señas adamorobe, Língua Gestual de Adamorobe, アダモロベ手話]
+alt_names: [Adamorobe, Adamorobe-Gebärdensprache, Adomoróbe-táknmál, アダモロベ手話]
 population: 3400
 country_id: GH
 country_name: Ghana

@@ -2,7 +2,7 @@
 iso: mrq
 name: North Marquesan
 autonym: ʻEo ʻenana / ʻEo ʻenata
-alt_names: [Marquesan, "Marquesan, North", Marquesas, Marquesas-Inseln Sprache]
+alt_names: [Marquesan, "Marquesan, North", Marquesas]
 population: 3400
 country_id: PF
 country_name: French Polynesia

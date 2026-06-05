@@ -2,7 +2,7 @@
 iso: akz
 name: Alabama
 autonym: Albaamo innaaɬiilka
-alt_names: [Alabama-koasati, Alabamaeg, Alibamu, Lingua alabama, Алабамский язык]
+alt_names: [Alabama-koasati, Alabamaeg, Alibamu]
 population: 100
 country_id: US
 country_name: United States

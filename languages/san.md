@@ -2,7 +2,7 @@
 iso: san
 name: Sanskrit
 autonym: संस्कृतम्
-alt_names: [Bahasa Sanskerta, Basa Sangsakerta, Basa Sangskreta, Classical Sanskrit, Fan-vun, Kisanskrit, Lengua sànscrïa, Limba sanscrită, Lingua Sanscrita, Lingua sánscrita, Pinulongang Sanskrito, Sanscrait, Sanscrit, Sanscrito, Sansgrit, Sanskriet, Sanskrit simi, Sanskrita kalba, Sanskrita linguo, Sanskritas, Sanskriti keel, Sanskrito, Sanskrits, Sanskrity, Sanskritçe, Sanskrt, Sanskryt, Sanskrytek, Sanskrít, Sañskriteg, Sinanskrit, Szanszkrit nyelv, Sànscrit, Sánscrito, Sánscritu, Sânscrito, Tiếng Phạn, Wikang Sanskrito, Σανσκριτική γλώσσα, Санскрит, Санскрыт, Эндкгин келн, סנסקריט, زبان سانسکریت, سانسكريتى, سنسکرت, لغة سنسكريتية, ސަންސްކްރިއްތް, संस्कृत, संस्कृत भाषा, संस्कृतीकानी छीब, संस्‍कृत भाषा, সংস্কৃত, সংস্কৃত ভাষা, સંસ્કૃત ભાષા, சமசுகிருதம், సంస్కృతము, ಸಂಸ್ಕೃತ, സംസ്കൃതം, ภาษาสันสกฤต, ལེགས་སྦྱར་སྐད།, სანსკრიტი, ሳንስክሪት, サンスクリット, 梵文, 梵語, 梵语, 산스크리트어]
+alt_names: [Classical Sanskrit, Fan-vun, Kisanskrit, Sanscrait, Sanscrit, Sanscrito, Sansgrit, Sanskriet, Sanskrit simi, Sanskrita linguo, Sanskritas, Sanskrito, Sanskrits, Sanskrity, Sanskritçe, Sanskrt, Sanskryt, Sanskrytek, Sanskrít, Sañskriteg, Sinanskrit, Sànscrit, Sánscrito, Sánscritu, Sânscrito, Санскрит, Санскрыт, Эндкгин келн, סנסקריט, سانسكريتى, سنسکرت, ސަންސްކްރިއްތް, संस्कृत, संस्कृतीकानी छीब, সংস্কৃত, சமசுகிருதம், సంస్కృతము, ಸಂಸ್ಕೃತ, സംസ്കൃതം, ལེགས་སྦྱར་སྐད།, სანსკრიტი, ሳንስክሪት, サンスクリット, 梵文]
 population: 24800
 country_id: IN
 country_name: India

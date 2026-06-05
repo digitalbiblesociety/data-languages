@@ -2,7 +2,7 @@
 iso: jeh
 name: Jeh
 autonym: Gie
-alt_names: [Die, Yaeh, Yeh, ภาษาเจะห์]
+alt_names: [Die, Yaeh, Yeh]
 population: 26700
 country_id: VN
 country_name: Vietnam

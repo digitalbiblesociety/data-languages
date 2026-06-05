@@ -2,7 +2,7 @@
 iso: tru
 name: Turoyo
 autonym: Sūrayṯ
-alt_names: [Surayt, Suryoyo, Syryoyo, Süryani, Touroyo, Touroyoeg, Turani, Turoyo jezik, Туройо, Туројо јазик, ภาษาตูโรโย, Ṭurōyō, 圖羅尤語]
+alt_names: [Surayt, Suryoyo, Syryoyo, Süryani, Touroyo, Touroyoeg, Turani, Туройо, Ṭurōyō]
 population: 104900
 country_id: TR
 country_name: Turkey

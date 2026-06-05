@@ -2,7 +2,7 @@
 iso: ket
 name: Ket
 autonym: "Остыганна ӄа' "
-alt_names: [Idioma ket, Imbak, Imbatski-Ket, Język ketyjski, "Ket, Yenisey Ostyak", Keta lingvo, Kete, Keteg, Ketin kieli, Ketisk, Ketisk språk, Keto, Ketština, Lingua ket, Yenisei Ostyak, Yenisey Ostiak, Yenisey Ostyak, Кет чĕлхи, Остыганна ӄа’, кетский язык, கெட் மொழி, ケット語, 愒語, 케트어]
+alt_names: [Imbak, Imbatski-Ket, "Ket, Yenisey Ostyak", Kete, Keteg, Ketisk, Keto, Yenisei Ostyak, Yenisey Ostiak, Yenisey Ostyak, Остыганна ӄа’]
 population: 1494
 country_id: RU
 country_name: Russia

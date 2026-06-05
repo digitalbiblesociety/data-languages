@@ -2,7 +2,7 @@
 iso: yag
 name: Yámana
 autonym: Yámana
-alt_names: [Háusi Kúta, Idioma yagán, Jagan, Língua Yagan, Tequenica, Yagan, Yaghan, Yaghan language, Yagán, Yahgan, Yamana, Yamaneg, Yamaná, Yapoo]
+alt_names: [Háusi Kúta, Jagan, Tequenica, Yagan, Yaghan, Yaghan language, Yagán, Yahgan, Yamana, Yamaneg, Yamaná, Yapoo]
 population: 70
 country_id: CL
 country_name: Chile

@@ -2,7 +2,7 @@
 iso: awn
 name: Awngi
 autonym: Agau
-alt_names: [Agaw, Agew, Agow, Angwi Agaw, Aongieg, Awawar, Awi, Awiya, Awngi hizkuntza, Awngi jezik, Damot, Hawiya, Kwollanyoch]
+alt_names: [Agaw, Agew, Agow, Angwi Agaw, Aongieg, Awawar, Awi, Awiya, Awngi hizkuntza, Damot, Hawiya, Kwollanyoch]
 population: 489000
 country_id: ET
 country_name: Ethiopia

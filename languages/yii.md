@@ -2,7 +2,7 @@
 iso: yii
 name: Yidiny
 autonym: Boolboora
-alt_names: [Bolambi, Charroogin, Deba, Djumbandji, Eneby, Gerrah, Gijow, Gillah, Guwamal, "Idi:", Idin, Idin Idindji, Idin-Wudjar, Idindji, Idinji, Ilba, Indindji, Itti, Jidindji, Jumbandjie, Kitba, Lenga yidiny, Maiara, Maimbi, Maimbie, Mulgrave River dialect, Mungera, Mungera Ohalo, Mungerra, Myarah, Pegullo-Bura, Pegullobura, Peulloburra, Warra-Warra, Warryboora, Woggil, Wudjar, Yellingie, Yetinji, Yettingie, Yiddinji, Yidin, Yidindji, Yidindyi, Yidini, Yidinj, Yiti-ntyi, Yitintyi, Yukkaburra]
+alt_names: [Bolambi, Charroogin, Deba, Djumbandji, Eneby, Gerrah, Gijow, Gillah, Guwamal, "Idi:", Idin, Idin Idindji, Idin-Wudjar, Idindji, Idinji, Ilba, Indindji, Itti, Jidindji, Jumbandjie, Kitba, Maiara, Maimbi, Maimbie, Mulgrave River dialect, Mungera, Mungera Ohalo, Mungerra, Myarah, Pegullo-Bura, Pegullobura, Peulloburra, Warra-Warra, Warryboora, Woggil, Wudjar, Yellingie, Yetinji, Yettingie, Yiddinji, Yidin, Yidindji, Yidindyi, Yidini, Yidinj, Yiti-ntyi, Yitintyi, Yukkaburra]
 population: 52
 country_id: AU
 country_name: Australia

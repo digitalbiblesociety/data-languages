@@ -2,7 +2,7 @@
 iso: bno
 name: Bantoanon
 autonym: Asi
-alt_names: [Asiq, Asímál, Bisaya, ภาษาอาซี]
+alt_names: [Asiq, Asímál, Bisaya]
 population: 75000
 country_id: PH
 country_name: Philippines

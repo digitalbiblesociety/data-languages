@@ -2,7 +2,7 @@
 iso: bve
 name: Berau Malay
 autonym: Basa Barrau/Banua
-alt_names: [Bahasa Berau, Berau, Berau language, "Malay, Berau", Merau Malay]
+alt_names: [Berau, Berau language, "Malay, Berau", Merau Malay]
 population: 11200
 country_id: ID
 country_name: Indonesia

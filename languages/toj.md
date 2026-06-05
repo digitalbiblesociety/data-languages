@@ -2,7 +2,7 @@
 iso: toj
 name: Tojolabal
 autonym: Tojolꞌabꞌal
-alt_names: [Idioma tojolabal, Língua tojolabal, Mexico, Tocholabalština, "Tojolab'al language", "tojolab'al", Тохолабалски јазик]
+alt_names: [Mexico, "Tojolab'al language", "tojolab'al"]
 population: 55400
 country_id: MX
 country_name: Mexico

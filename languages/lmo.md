@@ -2,7 +2,7 @@
 iso: lmo
 name: Lombard
 autonym: Lumbaart
-alt_names: [Bahasa Lombard, Gallo-sicilien, Idioma lombardo, Język lombardzki, Langobardus sermo, Lenga lombarda, Lengua Lumbarda, Lengua lombarda, Lingua lombarda, Llombard, Lombard nyelv, Lombard tili, Lombard-gí, Lombardisch, Lombardische Sprache, Lombardish, Lombardisk, Lombardisk språk, Lombardiska, Lombardo, Lombardski jezik, Lombardça, Lombardština, Lombardų kalba, Lombârd, Lonbardiera, Língua lombarda, Lùn-pâ-tí-ngî, Milanese, Ломбардский язык, ภาษาลอมบาร์ด, ロンバルド語, 倫巴底語]
+alt_names: [Gallo-sicilien, Langobardus sermo, Llombard, Lombard tili, Lombard-gí, Lombardisch, Lombardish, Lombardisk, Lombardiska, Lombardo, Lombardça, Lombârd, Lonbardiera, Lùn-pâ-tí-ngî, Milanese]
 population: 3600000
 country_id: IT
 country_name: Italy

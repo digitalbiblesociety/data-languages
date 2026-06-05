@@ -2,7 +2,7 @@
 iso: yuk
 name: Yuki
 autonym: "Ukomno'm"
-alt_names: [Youkieg, 尤基語]
+alt_names: [Youkieg]
 population: null
 country_id: US
 country_name: United States

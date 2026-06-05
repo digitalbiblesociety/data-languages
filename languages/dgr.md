@@ -2,7 +2,7 @@
 iso: dgr
 name: Dogrib
 autonym: Tlicho
-alt_names: [Dogrí, Flanc-de-chien, Língua dogrib, Thlingchadine, Tłı̨chǫ, Догриб]
+alt_names: [Dogrí, Flanc-de-chien, Thlingchadine, Tłı̨chǫ, Догриб]
 population: 1650
 country_id: CA
 country_name: Canada

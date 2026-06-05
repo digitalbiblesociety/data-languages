@@ -2,7 +2,7 @@
 iso: lic
 name: Hlai
 autonym: Li
-alt_names: ["B'lai", "B'li", Bli, Dai, Day, Dli, Hiai, Hlaï, Język hlai, "K'lai", Klai, La, Lai, Le, Loi, "S'lai", Slai, リー語, 黎语]
+alt_names: ["B'lai", "B'li", Bli, Dai, Day, Dli, Hiai, Hlaï, "K'lai", Klai, La, Lai, Le, Loi, "S'lai", Slai]
 population: 667000
 country_id: CN
 country_name: China

@@ -2,7 +2,7 @@
 iso: dyy
 name: Djabugay
 autonym: "Bulum-Bulum"
-alt_names: [Barron River dialect, Binggu, Check-Cull, Chewlie, Djabugai, Dyaabugay, Dyabugai, Dyabugandyi, Dyabugay, Hileman, Kikonjunkulu, Kodgotto, Koko-Tjumbundji, Koko-tjumbun, Kokonjunkulu, Kokonyungalo, Kokoyungalo, Lenga dyaabugay, Ngarlkajie, Njakali, Nyakali, Orlow, Tajbogaijanji, Tjabakai-Thandji, Tjabogaijanji, Tjabogaitjandji, Tjankir, Tjankun, Tjapukai, Tjapukandji, Tjapukanja, Tjapunkandji, Tjunbundji]
+alt_names: [Barron River dialect, Binggu, Check-Cull, Chewlie, Djabugai, Dyaabugay, Dyabugai, Dyabugandyi, Dyabugay, Hileman, Kikonjunkulu, Kodgotto, Koko-Tjumbundji, Koko-tjumbun, Kokonjunkulu, Kokonyungalo, Kokoyungalo, Ngarlkajie, Njakali, Nyakali, Orlow, Tajbogaijanji, Tjabakai-Thandji, Tjabogaijanji, Tjabogaitjandji, Tjankir, Tjankun, Tjapukai, Tjapukandji, Tjapukanja, Tjapunkandji, Tjunbundji]
 population: 81
 country_id: AU
 country_name: Australia

@@ -2,7 +2,7 @@
 iso: mag
 name: Magahi
 autonym: Magadhi
-alt_names: [Bihari, Język magahi, Lenga magahi, Lingua Magahi, Lingua magadhi, Magadeg, Magahijština, Magahî, Magaya, Maghai, Maghaya, Maghori, Magi, Magodhi, Megahi, Магахи, Маґадхі, मगही, मागधी भाषा, মাগধী ভাষা, મગહી ભાષા, ภาษามคธี, マガヒー語, 摩揭陀語]
+alt_names: [Bihari, Magadeg, Magahî, Magaya, Maghai, Maghaya, Maghori, Magi, Magodhi, Megahi, Магахи, Маґадхі, मगही]
 population: 20700000
 country_id: IN
 country_name: India

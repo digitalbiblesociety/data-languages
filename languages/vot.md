@@ -2,7 +2,7 @@
 iso: vot
 name: Votic
 autonym: Vod
-alt_names: [Język wotycki, Lingua votica, "Vad'a kiil", Vadja keel, Vatja, Vatjagiella, Vodian, Vodų kalba, Vot, Vota lingvo, Vote, Voteg, Votian, Votiano, Votic Proper, Votisch, Votish, Votisk, Votisk språk, Votiska, Votu valoda, Vòtic, Vót nyelv, Woties, Wotisch, Wotische Sprache, maa tšeeli, maaceeli, "vad'd'alaize-", "vad'd'alaizet", vadja, vadjan keel, vadjdjaa, vatjan kieli, vaďďaa tšeeli, vađđa, "vod'", vodskij jazyk, čudy, Водська мова, Водь кель, Водь кыв, Вотикийн мотт, Вотски език, водский язык, וודית, 바트어]
+alt_names: ["Vad'a kiil", Vatja, Vatjagiella, Vodian, Vot, Vote, Voteg, Votian, Votiano, Votic Proper, Votisch, Votish, Votisk, Votiska, Vòtic, Woties, Wotisch, maa tšeeli, maaceeli, "vad'd'alaize-", "vad'd'alaizet", vadja, vadjdjaa, vaďďaa tšeeli, vađđa, "vod'", čudy, Водь кель, Вотикийн мотт, וודית]
 population: 62
 country_id: RU
 country_name: Russia

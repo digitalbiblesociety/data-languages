@@ -2,7 +2,7 @@
 iso: poh
 name: "Poqomchi'"
 autonym: "Poqomchi, Occidental"
-alt_names: [Eastern Pokomchí, Idioma poqomchi, Língua pocomchi, Pocomchí, Poconchí, Pokomchi, Pokomchí, Pokonchí, Poqomchi, "Poqomchi', Eastern", Poqomchí, Tactic Pokomchí, Покомчиски јазик]
+alt_names: [Eastern Pokomchí, Pocomchí, Poconchí, Pokomchi, Pokomchí, Pokonchí, Poqomchi, "Poqomchi', Eastern", Poqomchí, Tactic Pokomchí]
 population: 177000
 country_id: GT
 country_name: Guatemala

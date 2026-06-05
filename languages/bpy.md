@@ -2,7 +2,7 @@
 iso: bpy
 name: Bishnupriya
 autonym: বিষ্ণুপ্রিয়া মণিপুরী
-alt_names: [Bahasa Bishnupur Manipur, Bishnupria Manipuri, Bishnupriya Manipuri, Bishnupriya Manipuri language, Bishnupuriya, Bisna Puriya, Biŝnuprija lingvo, Bišnuprija manipuri kalba, Bišnupríja manipurí, Créole bishnupriya manipuri, Język bisznuprija-manipuri, Lingua Bisnupriya, Manipurí, Бишнуприя-манипури, बिष्णुप्रिया मणिपुरी, मणिपुरी भाषा, বিষ্ণুপ্রিয়া মণিপুরী ভাষা, பிஷ்ணுப்பிரியா மணிப்புரி மொழி, ภาษาพิศนุปริยะ มณีปุรี, ビシュヌプリヤ・マニプリ語, 比什奴普萊利亞-曼尼浦爾語]
+alt_names: [Bishnupria Manipuri, Bishnupriya Manipuri, Bishnupriya Manipuri language, Bishnupuriya, Bisna Puriya, Bišnupríja manipurí, Créole bishnupriya manipuri, Manipurí, Бишнуприя-манипури, बिष्णुप्रिया मणिपुरी]
 population: 119600
 country_id: IN
 country_name: India

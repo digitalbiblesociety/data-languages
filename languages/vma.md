@@ -2,7 +2,7 @@
 iso: vma
 name: Martuyhunira
 autonym: Martuthunira
-alt_names: [Jawunmala, Lingua martuthunira, Maratunia, Mardadhunira, Mardadhuniya, Mardathon, Mardathoni, Mardathoonera, Mardathunera, Mardathunira, Mardatuna, Mardatunera, Mardayunira, Mardidhoonera, Mardudhoonera, Mardudhunera, Mardudhunira, Mardudjungara, Marduduna, Mardudunera, Marduthunira, Mardutunera, Mardutunira, Marduyhunira, Martuthuniya, Martuyunira, Other Australian Indigenous Languages, Padupadu]
+alt_names: [Jawunmala, Maratunia, Mardadhunira, Mardadhuniya, Mardathon, Mardathoni, Mardathoonera, Mardathunera, Mardathunira, Mardatuna, Mardatunera, Mardayunira, Mardidhoonera, Mardudhoonera, Mardudhunera, Mardudhunira, Mardudjungara, Marduduna, Mardudunera, Marduthunira, Mardutunera, Mardutunira, Marduyhunira, Martuthuniya, Martuyunira, Other Australian Indigenous Languages, Padupadu]
 population: null
 country_id: AU
 country_name: Australia

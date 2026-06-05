@@ -2,7 +2,7 @@
 iso: myv
 name: Erzya
 autonym: erzänj kelj
-alt_names: [Bahasa Erzya, Ersa keel, Ersagiella, Ersjamordvinsk språk, Ersjanische Sprache, Ersjanisk, Ersä kiil, Ersä-Mundart, Ersän kieli, Erza, Erza-Mordvin, Erza-Mordvinisch, Erza-Mordwinisch, Erzia, Erzių kalba, Erzja, Erzja lingvo, Erzya Mordvin, Erzya-Mordva, Erzyeg, Erzá, Idioma erzya, Język erzja, Lingua ersiana, Mordovo erzya, Mordua, Morduini, Mordva, Mordvin, Mordvin (Erza), Mordvin (Erzja), Mordvin (Erzya), Mordvin-Erzya, Mordvinian, Mordvinisch, Mordwin, Mordwinisch, ersämordva, erzjanskij jazyk, erzjan΄ kel΄, erźa, eŕźań keĺ, moksha, mokša, mordve, northern dialect, Є́рꙁꙗн҄ьскъ ѩꙁꙑ́къ, Ерзянски език, Ерзянська мова, Ерзјански јазик, Ирçе чĕлхи, Эрзя кыв, Эрзянь кяль, Эрзә теле, Эрҙә теле, эрзянский язык, эрзянь кель, ภาษาเอิร์สยา, エルジャ語, 厄尔兹亚语, 에르자어]
+alt_names: [Ersagiella, Ersjanisk, Ersä kiil, Ersä-Mundart, Erza, Erza-Mordvin, Erza-Mordvinisch, Erza-Mordwinisch, Erzia, Erzja, Erzya Mordvin, Erzya-Mordva, Erzyeg, Erzá, Mordovo erzya, Mordua, Morduini, Mordva, Mordvin, Mordvin (Erza), Mordvin (Erzja), Mordvin (Erzya), Mordvin-Erzya, Mordvinian, Mordvinisch, Mordwin, Mordwinisch, ersämordva, erzjan΄ kel΄, erźa, eŕźań keĺ, moksha, mokša, mordve, northern dialect, Є́рꙁꙗн҄ьскъ ѩꙁꙑ́къ, Эрзянь кяль, Эрзә теле, Эрҙә теле, эрзянь кель]
 population: 356980
 country_id: RU
 country_name: Russia

@@ -2,7 +2,7 @@
 iso: sco
 name: Scots
 autonym: Lowland Scots
-alt_names: ["A' Bheurla Ghallda", Albainis, Baarle Albinagh, Englisc sprǣc, Escocés, Idioma anglico escozés, Ingles de la Scossia, Język scots, Lenga scòts, Lengua scosseise, Limba scots, Lingua Scotica, Lingua escocesa, Lingua inglese di Scozia, Låglandsskotsk språk, Lågskotska, Schots, Scots English, Scots leid, Scots nyelv, Scotsera, Sgoteg, Sjots, Skoska, Skota lingvo, Skotin kieli, Skots, Skotsk, Skotskt, Skotu valoda, Skotština, écossais, Škotski jezik, Škotų kalba, Šoti keel, Σκωτική γλώσσα, Шкотски германски јазик, Шотландский (англо-шотландский) язык, Шотландська (германська) мова, סקוטית, ስኮትኛ, スコットランド語, 低地蘇格蘭語, 스코트어]
+alt_names: ["A' Bheurla Ghallda", Albainis, Baarle Albinagh, Englisc sprǣc, Escocés, Ingles de la Scossia, Lågskotska, Schots, Scots English, Scots leid, Scotsera, Sgoteg, Sjots, Skoska, Skots, Skotsk, Skotskt, écossais, סקוטית]
 population: 99200
 country_id: GB
 country_name: United Kingdom

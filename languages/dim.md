@@ -2,7 +2,7 @@
 iso: dim
 name: Dime
 autonym: Dima
-alt_names: [Dime jezik, Dimme, Dimé, Lenga Dime]
+alt_names: [Dimme, Dimé]
 population: 4785
 country_id: ET
 country_name: Ethiopia

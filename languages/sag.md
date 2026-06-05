@@ -2,7 +2,7 @@
 iso: sag
 name: Sango
 autonym: yângâ tî sängö
-alt_names: [Bahasa Sango, Idioma sango, Język sango, Lengua sango, Língua sango, Sangho, Sangoa lingvo, Sangoeg, Sangų kalba, Sängö, Санго, Санго мотт, サンゴ語, 상고어]
+alt_names: [Sangho, Sangoeg, Sängö, Санго, Санго мотт]
 population: 617000
 country_id: CF
 country_name: Central African Republic

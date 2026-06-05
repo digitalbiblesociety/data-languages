@@ -2,7 +2,7 @@
 iso: cbs
 name: Cashinahua
 autonym: Kashinawa of the Ibuaçu River
-alt_names: [Cashinahuá, Caxinawa, Caxinawá, Hãtxa Kuĩ (Huni Kuin), Kashinawa, Kashinawa Kaxinawá, Kaxinaua, Kaxinauá, Kaxinawa, Kaxinawá, Kaxynawa, Língua Caxinauá, Tuxinawa]
+alt_names: [Cashinahuá, Caxinawa, Caxinawá, Hãtxa Kuĩ (Huni Kuin), Kashinawa, Kashinawa Kaxinawá, Kaxinaua, Kaxinauá, Kaxinawa, Kaxinawá, Kaxynawa, Tuxinawa]
 population: 7420
 country_id: PE
 country_name: Peru

@@ -2,7 +2,7 @@
 iso: sxn
 name: Sangir
 autonym: Siau
-alt_names: [Bahasa Sangihe, Sangi, Sangih, Sangihé, Sangirese]
+alt_names: [Sangi, Sangih, Sangihé, Sangirese]
 population: 165000
 country_id: ID
 country_name: Indonesia

@@ -2,7 +2,7 @@
 iso: bfj
 name: Bafanji
 autonym: Bafanji
-alt_names: [Bafangi, Bafanji jezik, Bafanyi, Chuufi, Nchufie]
+alt_names: [Bafangi, Bafanyi, Chuufi, Nchufie]
 population: 17000
 country_id: CM
 country_name: Cameroon

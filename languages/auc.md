@@ -2,7 +2,7 @@
 iso: auc
 name: Waorani
 autonym: Huaorani
-alt_names: ["\"Auca\"", Auca, Auishiri, Auixiri, Huao, Huao terero, Huaoranin kieli, Huaotededo, Huarani, Sabela, Sabelan, Tuey, Wao, Wao Tededö, Waodani, Warani, सबेला]
+alt_names: ["\"Auca\"", Auca, Auishiri, Auixiri, Huao, Huao terero, Huaotededo, Huarani, Sabela, Sabelan, Tuey, Wao, Wao Tededö, Waodani, Warani, सबेला]
 population: 2420
 country_id: EC
 country_name: Ecuador

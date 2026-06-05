@@ -2,7 +2,7 @@
 iso: brg
 name: Baure
 autonym: Baure
-alt_names: [Bauré, Chiquimiti, Idioma bauré]
+alt_names: [Bauré, Chiquimiti]
 population: 631
 country_id: BO
 country_name: Bolivia

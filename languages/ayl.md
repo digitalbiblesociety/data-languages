@@ -2,7 +2,7 @@
 iso: ayl
 name: Libyan Arabic
 autonym: ليبي
-alt_names: [Arabeg Libia, Arabic, Arabic (Cyrenaican Libyan), Arabic (East Libyan), Arabic (Eastern Libyan), Arabic (Western), "Arabic, Libyan", "Arabic, Libyan Spoken", Bedawi, Libijski arapski, Libyan Spoken Arabic, Libyan Vernacular Arabic, Maghrebi Arabic, Maghrebine, Sulaimitian, Sulaimitian Arabic, Árabe libio, Árabe líbio, Либиски арапски јазик, لهجة ليبية]
+alt_names: [Arabeg Libia, Arabic, Arabic (Cyrenaican Libyan), Arabic (East Libyan), Arabic (Eastern Libyan), Arabic (Western), "Arabic, Libyan", "Arabic, Libyan Spoken", Bedawi, Libijski arapski, Libyan Spoken Arabic, Libyan Vernacular Arabic, Maghrebi Arabic, Maghrebine, Sulaimitian, Sulaimitian Arabic, Árabe libio, Árabe líbio, لهجة ليبية]
 population: 5036000
 country_id: LY
 country_name: Libya

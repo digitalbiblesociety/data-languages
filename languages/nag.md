@@ -2,7 +2,7 @@
 iso: nag
 name: Naga Pidgin
 autonym: Naga Pidgin
-alt_names: [Bodo, Kachari Bengali, Lenga naga pidgin, Lingua Nagamensis, Naga Creole Assamese, Naga-Assamese, Nagamese]
+alt_names: [Bodo, Kachari Bengali, Naga Creole Assamese, Naga-Assamese, Nagamese]
 population: 30000
 country_id: IN
 country_name: India

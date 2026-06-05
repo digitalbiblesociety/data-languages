@@ -2,7 +2,7 @@
 iso: ybe
 name: West Yugur
 autonym: yoɣïr lar
-alt_names: [Batı Yugurca, Sari Yogur, Sari yougour, Sarig, Sary-Uighur, Saryg Yughur, Saryg-Uygur, Saryg-jugurin kieli, Sarygh Uygur, Sprache der gelben Uiguren, Turkic Yellow Uighur, Uygur (Saryg), West, West-Yugurisch, Western Yugur language, Ya Lu, Yellow Uighur, Yellow Uyghur, "Yougoureg ar c'hornôg", Yughur (Saryg), Yugu, Yugur, Yugur occidental, Yugur sarig, "Yugur, West", Yuku, šira-jögur, Западен југурски јазик, Сарыг-югурский язык, غەربىي يۇغۇر تىلى, 西部裕固語, 西部裕固语]
+alt_names: [Batı Yugurca, Sari Yogur, Sari yougour, Sarig, Sary-Uighur, Saryg Yughur, Saryg-Uygur, Sarygh Uygur, Turkic Yellow Uighur, Uygur (Saryg), West, West-Yugurisch, Western Yugur language, Ya Lu, Yellow Uighur, Yellow Uyghur, "Yougoureg ar c'hornôg", Yughur (Saryg), Yugu, Yugur, Yugur occidental, Yugur sarig, "Yugur, West", Yuku, šira-jögur, غەربىي يۇغۇر تىلى]
 population: 2600
 country_id: CN
 country_name: China

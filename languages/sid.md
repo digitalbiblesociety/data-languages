@@ -2,7 +2,7 @@
 iso: sid
 name: Sidamo
 autonym: Sidaama
-alt_names: [Język sidamo, Lenga Sidamo, Siclamo, Sidama, Sidaminya, Sidamo hizkuntza, Sidamoeg, "Sidámo 'Afó"]
+alt_names: [Siclamo, Sidama, Sidaminya, Sidamo hizkuntza, Sidamoeg, "Sidámo 'Afó"]
 population: 4343000
 country_id: ET
 country_name: Ethiopia

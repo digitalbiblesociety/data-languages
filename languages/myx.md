@@ -2,7 +2,7 @@
 iso: myx
 name: Masaaba
 autonym: Lumasaba
-alt_names: [Gisu, Język masaba, Lugisu, Língua masaba, Masaba, Masaba language]
+alt_names: [Gisu, Lugisu, Masaba, Masaba language]
 population: 1650000
 country_id: UG
 country_name: Uganda

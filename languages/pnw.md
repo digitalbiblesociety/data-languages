@@ -2,7 +2,7 @@
 iso: pnw
 name: Banyjima
 autonym: Bandjima
-alt_names: [Bailko-Pandjima, Banjima, Banydyima, Lenga panytyima, Mandanjongo, Mandara, Paanjima, Panchima, "Pand'ima", Pandima, Pandjima, Panjima, Panjtjima, Panyima, Panyjima, Panyjima language, Panytyima, Papupadu]
+alt_names: [Bailko-Pandjima, Banjima, Banydyima, Mandanjongo, Mandara, Paanjima, Panchima, "Pand'ima", Pandima, Pandjima, Panjima, Panjtjima, Panyima, Panyjima, Panyjima language, Panytyima, Papupadu]
 population: null
 country_id: AU
 country_name: Australia

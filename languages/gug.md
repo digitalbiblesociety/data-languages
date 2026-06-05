@@ -2,7 +2,7 @@
 iso: gug
 name: Paraguayan Guaraní
 autonym: Paraguayan Guarani
-alt_names: [Aché, "Avanye'e", "Avañe'e", "Avañe'ẽ", Avañee, Axe, Gjuha guarani, Guaiaqui, Guajaki, Guarani, Guarani (Paraguayan), Guarani linguo, Guarani paraguaio, Guaraniera, Guaranin kieli, Guaranišćina, Guaranì, Guaraní, Guaraní language area, "Guaraní, Paraguayan", Guaranían, Guaraníjčina, Guaráinis, Guayaki-Ache, Guayakí, Guoyagui, Gvarania lingvo, Gvaraniu kalba, Gvaranių kalba, Gvaranščina, Gwarani, Gwaranieg, Idioma guaraní, Język guarani, Lingua Guaranica, Lingua guaraní, Língua guarani, Modern Guaraní, Waraniyi simi, Гварани, Гуарани, Гуарански език, Гуарані, גוארני, گۇئارانچە, गुआरानी भाषा, গুয়ারানি ভাষা, グアラニー語, 瓜拉尼語, 과라니어]
+alt_names: [Aché, "Avanye'e", "Avañe'e", "Avañe'ẽ", Avañee, Axe, Guaiaqui, Guajaki, Guarani, Guarani (Paraguayan), Guarani linguo, Guarani paraguaio, Guaraniera, Guaranì, Guaraní, Guaraní language area, "Guaraní, Paraguayan", Guaranían, Guaráinis, Guayaki-Ache, Guayakí, Guoyagui, Gwarani, Gwaranieg, Modern Guaraní, Waraniyi simi, Гварани, Гуарани, Гуарані, גוארני, گۇئارانچە]
 population: 6540000
 country_id: PY
 country_name: Paraguay

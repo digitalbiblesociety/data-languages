@@ -2,7 +2,7 @@
 iso: zen
 name: Zenaga
 autonym: Tuḍḍungiyya
-alt_names: [Berber (Mauritania), Berber (Mauritanian), Group Four, Lingua zenaga, Western, Zenaga jezik, Zenagaeg, Зенага]
+alt_names: [Berber (Mauritania), Berber (Mauritanian), Group Four, Western, Zenagaeg, Зенага]
 population: 200
 country_id: MR
 country_name: Mauritania

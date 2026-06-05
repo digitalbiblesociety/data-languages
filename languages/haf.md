@@ -2,7 +2,7 @@
 iso: haf
 name: Haiphong Sign Language
 autonym: null
-alt_names: [HPSL, Hai Phong Sign Language, NNKHHP, Vietnamese Sign Language, ngôn ngữ ký hiệu Hải Phòng]
+alt_names: [HPSL, Hai Phong Sign Language, NNKHHP, Vietnamese Sign Language]
 population: 1800
 country_id: VN
 country_name: Vietnam

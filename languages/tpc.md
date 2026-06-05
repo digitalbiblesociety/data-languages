@@ -2,7 +2,7 @@
 iso: tpc
 name: "Azoyú Me'phaa"
 autonym: Me̱ꞌpha̱a̱
-alt_names: ["Azoyu Me'phaa", Azoyú, Azoyú Tlapanec, Azoyú Tlapaneko, Guerrero, Idioma tlapaneco, Malinaltepec Tlapanec, "Me'pa", "Me'phaa", "Me'phaa, Azoyú", Tlapanec, Tlapanec language, "Tlapanec, Azoyú", Tlapaneco, Tlapaneco de Azoyú, Tlapaneco-Sutiaba, Tlapaneeks, Tlapaneko, Tlapanika simi, Tlappanec, Tsíndíí]
+alt_names: ["Azoyu Me'phaa", Azoyú, Azoyú Tlapanec, Azoyú Tlapaneko, Guerrero, Malinaltepec Tlapanec, "Me'pa", "Me'phaa", "Me'phaa, Azoyú", Tlapanec, Tlapanec language, "Tlapanec, Azoyú", Tlapaneco, Tlapaneco de Azoyú, Tlapaneco-Sutiaba, Tlapaneeks, Tlapaneko, Tlapanika simi, Tlappanec, Tsíndíí]
 population: 17000
 country_id: MX
 country_name: Mexico

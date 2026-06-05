@@ -2,7 +2,7 @@
 iso: kld
 name: Gamilaraay
 autonym: Darling tributaries
-alt_names: [Cam ell eri, Camel Duahi, Camileroi, Camleroy, Cammealroy, Comleroy, Cum milroy, Cumilri, Cummeroy, Euahlayi, Euhahlayi, Gamilaraay / Gamilaroi / Kamilaroi, Gamilaroi, Gamilray, Gamilroi, Ghummilarai, Gomeroi, Gumilori, Gumilray, Gumilroi, Guminilroi, Gummilray, Gummilroi, Gunilroi, Gunnilaroi, Guyinbaray, Juwalarai, Kaameelarrai, Kahmilaharoy, Kahmilari, Kahml Duhai, Kakmilari, Kamalarai, Kamil, Kamilaori, Kamilarai, Kamilari, Kamilaroi, Kamilary, Kamileroi, Kamilrai, Kamilroi, Kamu, Kamularoi, Karmil, Kimilari, Komleroy, Koomilroi, Lenga gamilaraay, Northern Gamilaraay, Peel River language, Tjake, Tyake, Ualarai, Walarai, Weraerai, Wirajarai, Yauan, Yuwaalaraay, laroi]
+alt_names: [Cam ell eri, Camel Duahi, Camileroi, Camleroy, Cammealroy, Comleroy, Cum milroy, Cumilri, Cummeroy, Euahlayi, Euhahlayi, Gamilaraay / Gamilaroi / Kamilaroi, Gamilaroi, Gamilray, Gamilroi, Ghummilarai, Gomeroi, Gumilori, Gumilray, Gumilroi, Guminilroi, Gummilray, Gummilroi, Gunilroi, Gunnilaroi, Guyinbaray, Juwalarai, Kaameelarrai, Kahmilaharoy, Kahmilari, Kahml Duhai, Kakmilari, Kamalarai, Kamil, Kamilaori, Kamilarai, Kamilari, Kamilaroi, Kamilary, Kamileroi, Kamilrai, Kamilroi, Kamu, Kamularoi, Karmil, Kimilari, Komleroy, Koomilroi, Northern Gamilaraay, Peel River language, Tjake, Tyake, Ualarai, Walarai, Weraerai, Wirajarai, Yauan, Yuwaalaraay, laroi]
 population: 1065
 country_id: AU
 country_name: Australia

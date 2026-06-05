@@ -2,7 +2,7 @@
 iso: hnu
 name: Hung
 autonym: Hung (hnu)Thổ (tou)
-alt_names: [Cuói, "K'katiam-Pong-Houk", "P'eng", Pheng, Phong, Pong, Theng, ภาษาฮุง]
+alt_names: [Cuói, "K'katiam-Pong-Houk", "P'eng", Pheng, Phong, Pong, Theng]
 population: 2000
 country_id: LA
 country_name: Laos

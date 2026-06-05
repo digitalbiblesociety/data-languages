@@ -2,7 +2,7 @@
 iso: kls
 name: Kalasha
 autonym: Kalashamondr
-alt_names: [Calasa, Chitrali, Dardu, Kalacheg, Kalasa, Kalash, Kalash language, Kalashamon, Kalaština, Калашский язык, கலஷா மொழி]
+alt_names: [Calasa, Chitrali, Dardu, Kalacheg, Kalasa, Kalash, Kalash language, Kalashamon]
 population: 5030
 country_id: PK
 country_name: Pakistan

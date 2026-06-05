@@ -2,7 +2,7 @@
 iso: kvj
 name: Psikye
 autonym: Kamsiki
-alt_names: [Kapsiki, Psikye jezik, Psikyeg, Ptsake]
+alt_names: [Kapsiki, Psikyeg, Ptsake]
 population: 525000
 country_id: CM
 country_name: Cameroon

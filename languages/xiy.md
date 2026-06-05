@@ -2,7 +2,7 @@
 iso: xiy
 name: Xipaya
 autonym: Shipaja
-alt_names: [Achipaie, Chipaia, Chipaya, Língua xipaia, Shipaya, Xipaia, Xipáya, Šipajų kalba, Šipaya]
+alt_names: [Achipaie, Chipaia, Chipaya, Shipaya, Xipaia, Xipáya, Šipaya]
 population: 595
 country_id: BR
 country_name: Brazil

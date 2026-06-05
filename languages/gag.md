@@ -2,7 +2,7 @@
 iso: gag
 name: Gagauz
 autonym: " Gagauzça"
-alt_names: [Gagaoezisch, Gagaouze, Gagaouzeg, Gagausische Sprache, Gagauski jezik, Gagausko godka, Gagauz nyelv, Gagauza lingvo, Gagauzi, Gagauzin kieli, Gagauzisk, Gagauziska, Gagauški jezik, Gagavuzca, Gagawšćina, Gagaús, Gaugausen, Idioma gagauzo, Język gagauski, Limba găgăuză, Lingua gagauza, Qaqauz dili, Ğağauz tili, Гагауз тили, Гагауз чĕлхи, Гагаузки език, Гагаузский язык, Гагаузька мова, Гагауски јазик, Ғағауҙ теле, גגאוזית, ภาษากากาอุซ, ガガウズ語, 가가우스어]
+alt_names: [Gagaoezisch, Gagaouze, Gagaouzeg, Gagausko godka, Gagauzi, Gagauzisk, Gagauziska, Gagavuzca, Gagaús, Gaugausen, Ğağauz tili, Ғағауҙ теле, גגאוזית]
 population: 148720
 country_id: MD
 country_name: Moldova

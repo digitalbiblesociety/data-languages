@@ -2,7 +2,7 @@
 iso: xsu
 name: Sanumá
 autonym: Kohoroxitari
-alt_names: [Chirichano, Guaika, Idioma Sanemá, Samatali, Samatari, Samatli, Sanema, Sanemá, Sanima, Sanma, Sanum, Sanuma, Sanɨma, Shiriana, Tsanuma, Xamatari]
+alt_names: [Chirichano, Guaika, Samatali, Samatari, Samatli, Sanema, Sanemá, Sanima, Sanma, Sanum, Sanuma, Sanɨma, Shiriana, Tsanuma, Xamatari]
 population: 3500
 country_id: VE
 country_name: Venezuela

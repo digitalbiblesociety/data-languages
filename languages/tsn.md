@@ -2,7 +2,7 @@
 iso: tsn
 name: Tswana
 autonym: Setswana
-alt_names: [Bahasa Setswana, Bahasa Tswana, Beetjuans, Chuana, Chwana, Coana, Cuana, Cvana lingvo, Gjuha tsvana, Język tswana, Lingua tswana, Língua tsuana, Rolon, Sechuana, Sestwana, Setsuana, Tiếng Tswana, Tshwana, Tsiwaha, Tsuana, Tsvana keel, Tsvanų kalba, Tswana dili, Tswana simi, Tswanan kieli, Tswaneg, Tswanum, Èdè Tswana, Тсвана, ツワナ語, 茨瓦纳语, 츠와나어]
+alt_names: [Beetjuans, Chuana, Chwana, Coana, Cuana, Rolon, Sechuana, Sestwana, Setsuana, Tshwana, Tsiwaha, Tsuana, Tswana simi, Tswaneg, Tswanum, Тсвана]
 population: 5815730
 country_id: BW
 country_name: Botswana

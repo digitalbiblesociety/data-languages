@@ -2,7 +2,7 @@
 iso: cni
 name: Asháninka
 autonym: Campa
-alt_names: ["\"Campa\"", Ashaninca, Ashaninka, Ashaninka simi, Asheninca, Ashninca, Asháninca, Asháninga, Asáninga, Atiri, Axininca, Axininca Campa, Ašaninkų kalba, Campa Ashaninca, Idioma asháninca, Kampa, Pre-Andine, Pre-Andine Arawakan Subfamily]
+alt_names: ["\"Campa\"", Ashaninca, Ashaninka, Ashaninka simi, Asheninca, Ashninca, Asháninca, Asháninga, Asáninga, Atiri, Axininca, Axininca Campa, Campa Ashaninca, Kampa, Pre-Andine, Pre-Andine Arawakan Subfamily]
 population: 35200
 country_id: PE
 country_name: Peru

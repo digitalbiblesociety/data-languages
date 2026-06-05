@@ -2,7 +2,7 @@
 iso: alw
 name: "Alaba-K’abeena"
 autonym: Wanbasana
-alt_names: [Alaba, Alaba hizkuntza, "Alaba-K'abeena language", Alaba-K’abeena jezik, Alabeg, Allaaba, Halaba, Lingua alaba]
+alt_names: [Alaba, Alaba hizkuntza, "Alaba-K'abeena language", Alabeg, Allaaba, Halaba]
 population: 278000
 country_id: ET
 country_name: Ethiopia

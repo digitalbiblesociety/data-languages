@@ -2,7 +2,7 @@
 iso: jbn
 name: Nafusi
 autonym: Ažbali Mazoɣ
-alt_names: [Berber, Djerbi, Jabal Nafusi, Jabal Nafūsa, Jabal nafusah, Jbel Nafusi, Jebel Nefusi, Lenga Nafusi, Lingua nefusi, Nafouseg, Nafusi jezik, Nefousi, Nefusi, Shilha, Tamazight, Taujjut, Tunisian Berber]
+alt_names: [Berber, Djerbi, Jabal Nafusi, Jabal Nafūsa, Jabal nafusah, Jbel Nafusi, Jebel Nefusi, Nafouseg, Nefousi, Nefusi, Shilha, Tamazight, Taujjut, Tunisian Berber]
 population: 283000
 country_id: LY
 country_name: Libya

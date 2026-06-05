@@ -2,7 +2,7 @@
 iso: sln
 name: Salinan
 autonym: null
-alt_names: [Idioma salinero, USA, Салинский язык]
+alt_names: [USA]
 population: null
 country_id: US
 country_name: United States

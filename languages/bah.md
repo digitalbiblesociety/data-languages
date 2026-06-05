@@ -2,7 +2,7 @@
 iso: bah
 name: Bahamas Creole English
 autonym: Bahamian Creole English
-alt_names: [Bahamian Creole, Bahamian Dialect, Bahamski kreolski engleski, Bahamų kreolų kalba, "Creole English, Bahamas", Багамский креольский язык, バハマ・クレオール語]
+alt_names: [Bahamian Creole, Bahamian Dialect, Bahamski kreolski engleski, "Creole English, Bahamas"]
 population: 328000
 country_id: BS
 country_name: Bahamas

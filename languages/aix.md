@@ -2,7 +2,7 @@
 iso: aix
 name: Aighon
 autonym: Psohoh
-alt_names: [Aighon jezik, Aigon, Aigon language, Apsokok, Bao]
+alt_names: [Aigon, Aigon language, Apsokok, Bao]
 population: 2000
 country_id: PG
 country_name: Papua New Guinea

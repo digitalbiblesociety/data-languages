@@ -2,7 +2,7 @@
 iso: kfy
 name: Kumaoni
 autonym: कुमाँऊनी
-alt_names: [Askoti, Bhabari of Rampur, Chaugarkhiya, Cumauní, Danpuriya, Gangola, Johari, Język kumauni, Kamaoni, Khasparjiya, Kumaiya Pachhai, Kumaon, Kumau, Kumaun, Kumauni, Kumawani, Kumgoni, Kumman, Kunayaoni, Lingua Kumauni, Pashchimi, Phaldakotiya, Rau-Chaubhaisi, Sirali, Soriyali, Кумаоні, कुमाँऊनी भाषा, クマーオニー語]
+alt_names: [Askoti, Bhabari of Rampur, Chaugarkhiya, Cumauní, Danpuriya, Gangola, Johari, Kamaoni, Khasparjiya, Kumaiya Pachhai, Kumaon, Kumau, Kumaun, Kumauni, Kumawani, Kumgoni, Kumman, Kunayaoni, Pashchimi, Phaldakotiya, Rau-Chaubhaisi, Sirali, Soriyali, Кумаоні]
 population: 2080000
 country_id: IN
 country_name: India

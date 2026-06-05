@@ -2,7 +2,7 @@
 iso: mkw
 name: Kituba
 autonym: Monokutuba
-alt_names: [Kikongo/Kituba, Kikoongo, Kituba, Kituba language, Kituba lingvo, Língua kituba, Munukutuba, Китуба, 吉土巴语]
+alt_names: [Kikongo/Kituba, Kikoongo, Kituba, Kituba language, Munukutuba, Китуба]
 population: 1750000
 country_id: CG
 country_name: Congo

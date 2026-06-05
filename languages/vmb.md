@@ -2,7 +2,7 @@
 iso: vmb
 name: Barbaram
 autonym: Barbaram
-alt_names: [Balbarum, Bar-barum, Barbarem, Barbarum, Boobu-ram, Booburam, Gugu-Mbabaram, Illagona, Koko-Beberam, Kumbulmara, Kwearriburra, Lenga mbabaram, Mbabaram, Mbabaram language, Mbara, Mitjamba, Mogmbabarum, Mogmnanarim, Morruburra, Oombarbarum, Oombarrmbarum, Queeariburra, Umbarbaram, Umbarbarem, Warrialgona, Woombarbarram, Woombarrmbar, Woombarrmbarra, Wumbabaram]
+alt_names: [Balbarum, Bar-barum, Barbarem, Barbarum, Boobu-ram, Booburam, Gugu-Mbabaram, Illagona, Koko-Beberam, Kumbulmara, Kwearriburra, Mbabaram, Mbabaram language, Mbara, Mitjamba, Mogmbabarum, Mogmnanarim, Morruburra, Oombarbarum, Oombarrmbarum, Queeariburra, Umbarbaram, Umbarbarem, Warrialgona, Woombarbarram, Woombarrmbar, Woombarrmbarra, Wumbabaram]
 population: null
 country_id: AU
 country_name: Australia

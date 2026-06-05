@@ -2,7 +2,7 @@
 iso: wuu
 name: Wu Chinese
 autonym: 吳語/吴语
-alt_names: [Bahasa Wu, Changzhou, Chinese, "Chinese, Wu", "Chinese,Wu", Chino wu, Chinu vu, Język wu, Lingua wu, Língua wu, Ngô͘-gí, Ngù-ngṳ̄, Tiếng Ngô, Woueg, Wu, Wu (Changzhou), Wu Dialect Family, Wu-kiina, Wu-kínverska, Wuish, Wú, У, وو, ۋۇ تىلى, ภาษาจีนอู๋, ዉ ቻይንኛ, 吳語, 吴语, 呉語, 우어]
+alt_names: [Changzhou, Chinese, "Chinese, Wu", "Chinese,Wu", Chino wu, Chinu vu, Ngô͘-gí, Ngù-ngṳ̄, Woueg, Wu, Wu (Changzhou), Wu Dialect Family, Wu-kiina, Wu-kínverska, Wuish, Wú, У, وو, ۋۇ تىلى]
 population: 81400000
 country_id: CN
 country_name: China

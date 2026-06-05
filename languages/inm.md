@@ -2,7 +2,7 @@
 iso: inm
 name: Minaean
 autonym: null
-alt_names: [Epigraphic South Arabian, Madhabic, Minaic, Máini nyelv, لغة معينية]
+alt_names: [Epigraphic South Arabian, Madhabic, Minaic]
 population: null
 country_id: YE
 country_name: Yemen

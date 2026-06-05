@@ -2,7 +2,7 @@
 iso: air
 name: Airoran
 autonym: Adora
-alt_names: [Aeroran, Iriemkena, Język airoran, Lenga Airoran, Lingua airoran]
+alt_names: [Aeroran, Iriemkena]
 population: 1000
 country_id: ID
 country_name: Indonesia

@@ -2,7 +2,7 @@
 iso: ctg
 name: Chittagonian
 autonym: চিটাইঙ্গা
-alt_names: [Chatgaiyan Buli, Chatgaya, Chittagonian Bengali, Chittagonien, சிட்டகோனிய மொழி, ภาษาจิตตะกอง]
+alt_names: [Chatgaiyan Buli, Chatgaya, Chittagonian Bengali, Chittagonien]
 population: 13000000
 country_id: BD
 country_name: Bangladesh

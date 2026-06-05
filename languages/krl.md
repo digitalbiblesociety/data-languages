@@ -2,7 +2,7 @@
 iso: krl
 name: Karelian
 autonym: karjal kariela  karjala
-alt_names: [An Chairéilis, Bahasa Karelia, Carelià, Gárjilgiella, Idioma carelio, Język karelski, "Kar'ala kiil", "Karel'skiy Jazyk", Karela lingvo, Karelian Proper, Karelieg, Karelies, Karelisch, Karelische Sprache, Karelsk, Karelsk språk, Karelska, Karely, Karelčina, Karelština, Karelų kalba, Karjala keel, Karjalai nyelv, Karēļu valoda, Lenga Karelian, Lingua careliana, Língua carélia, Olonetzisch-Lüdisch, Russisch-Karelisch, "Severno-Karel'skij", "Sobstvenno-Karel'skij-Jazyk", carélien, karel΄skij jazyk, karjala, karjalan kieli, venäjänkarjalaisten kieli, Карел кыв, Карелийн мотт, Карелски език, Карельська мова, Карелэнь кель, карельский язык, קרלית, カレリア語, 卡累利阿語, 카리알라어]
+alt_names: [An Chairéilis, Carelià, Gárjilgiella, "Kar'ala kiil", Karelian Proper, Karelieg, Karelies, Karelisch, Karelsk, Karelska, Karely, Olonetzisch-Lüdisch, Russisch-Karelisch, "Severno-Karel'skij", "Sobstvenno-Karel'skij-Jazyk", carélien, karjala, Карелийн мотт, Карелэнь кель, קרלית]
 population: 30600
 country_id: RU
 country_name: Russia

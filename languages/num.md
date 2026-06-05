@@ -2,7 +2,7 @@
 iso: num
 name: "Niuafo'ou"
 autonym: Niuafo’ou
-alt_names: ["Niuafo'ouanische Sprache", "Niuafo'oun kieli", Tonga, Ниуафооу]
+alt_names: [Tonga, Ниуафооу]
 population: 690
 country_id: TO
 country_name: Tonga

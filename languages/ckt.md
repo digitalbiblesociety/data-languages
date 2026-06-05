@@ -2,7 +2,7 @@
 iso: ckt
 name: Chukot
 autonym: Ԓыгъоравэтԓьэн йиԓыйиԓ
-alt_names: [Bahasa Chukchi, Chuchee, Chukcha, Chukchee, Chukchi, Chukchi language, Chukoto, Idioma chucoto, Język czukocki, Lingua chukchi, Lingua čukči, Luoravetlan, Luoravetlansk, "Lyg'oravetl'en jilyjil", Língua chukoto, Sprache der Tschuktschen, Tjuktjisk språk, Tschuktsche Spraak, Tschuktschische Sprache, Tsjoektsjisch, Txuktxi, tchouktche, tšuktšin kieli, Ĉukĉa lingvo, Čiokčiu kalba, Čiukčių kalba, Čukotščina, Чукотська мова, Чукчи, луораветланский язык, чукотский язык, チュクチ語, 楚科奇语, 축치어]
+alt_names: [Chuchee, Chukcha, Chukchee, Chukchi, Chukchi language, Chukoto, Luoravetlan, Luoravetlansk, "Lyg'oravetl'en jilyjil", Tschuktsche Spraak, Tsjoektsjisch, Txuktxi, tchouktche, Чукчи]
 population: 15900
 country_id: RU
 country_name: Russia

@@ -2,7 +2,7 @@
 iso: tkp
 name: Tikopia
 autonym: null
-alt_names: [Solomon Islands, Tikopian kieli, Tikopianische Sprache]
+alt_names: [Solomon Islands]
 population: 3320
 country_id: SB
 country_name: Solomon Islands

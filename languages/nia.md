@@ -2,7 +2,7 @@
 iso: nia
 name: Nias
 autonym: Li Niha
-alt_names: [Bahasa Nias, Batu, Nias Selatan, Niha, Ниасский язык]
+alt_names: [Batu, Nias Selatan, Niha]
 population: 1042000
 country_id: ID
 country_name: Indonesia

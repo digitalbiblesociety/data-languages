@@ -2,7 +2,7 @@
 iso: tha
 name: Thai
 autonym: Siamese
-alt_names: [An Téalainnis, Bahasa Thai, Central Tai, Central Thai, Idioma tailandés, Język tajski, Kithai, Limba thailandeză, Lingua Thai, Lingua tai, Lingua thailandese, Língua tailandesa, Standard, Standard Thai, Tai keel, Tai linguo, Tailandès, Taja lingvo, Tajlandski jezik, Tajų kalba, Tayca, Taílenska, Thai nyelv, Thaiklang, Thailändische Sprache, Thain kieli, Thaish, Thajčina, Thajština, Thay simi, Thaï, Thài-gí, Tiếng Thái, Vahdai, Забони таиландӣ, Тайски език, Тайский язык, Тайська мова, Тајландски језик, تايلاندچە, زبان تایلندی, سيامى, لغة تايلندية, थाई भाषा, থাই ঠার, থাই ভাষা, ภาษาไทย, ພາສາໄທ, ტაი ენა, ភាសាថៃ, タイ語, 泰文, 泰语, 타이어]
+alt_names: [An Téalainnis, Central Tai, Central Thai, Kithai, Standard, Standard Thai, Tai linguo, Tailandès, Tayca, Taílenska, Thaiklang, Thaish, Thay simi, Thaï, Thài-gí, Vahdai, Забони таиландӣ, تايلاندچە, سيامى, থাই ঠার, 泰文]
 population: 20700000
 country_id: TH
 country_name: Thailand

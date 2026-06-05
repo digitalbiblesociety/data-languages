@@ -2,7 +2,7 @@
 iso: abv
 name: Baharna Arabic
 autonym: العربية البحرانية
-alt_names: [Arabeg Bahrein, Arabic, Arabic (Bahrain), Arabic (Eastern), "Arabic, Baharna", "Arabic, Baharna Spoken", Baharna, Baharna Spoken, Baharna arapski, Baharnah, "Bahraini Shi'ite Arabic", Bahrani Arabic, Bahrayn, Бахарна арапски јазик, لهجة بحرانية, ภาษาอาหรับบาห์เรน, 바레인 구어체 아랍어]
+alt_names: [Arabeg Bahrein, Arabic, Arabic (Bahrain), Arabic (Eastern), "Arabic, Baharna", "Arabic, Baharna Spoken", Baharna, Baharna Spoken, Baharna arapski, Baharnah, "Bahraini Shi'ite Arabic", Bahrani Arabic, Bahrayn, لهجة بحرانية]
 population: null
 country_id: BH
 country_name: Bahrain

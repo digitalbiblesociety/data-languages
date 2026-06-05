@@ -2,7 +2,7 @@
 iso: trp
 name: Kok Borok
 autonym: Tripuri
-alt_names: [Język kokborok, Kakbarak, Kokbarak, Kokborok, Kokborok language, Lenga Kok Borok, Lingua Kokborok, Tipura, Tripura, Usipi, Usipi Mrung, ককবরক ভাষা, ภาษากอกบอรอก]
+alt_names: [Kakbarak, Kokbarak, Kokborok, Kokborok language, Tipura, Tripura, Usipi, Usipi Mrung]
 population: 958000
 country_id: IN
 country_name: India

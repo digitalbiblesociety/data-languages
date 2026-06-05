@@ -2,7 +2,7 @@
 iso: aal
 name: Afade
 autonym: Afaɗə
-alt_names: [Afada, Afade jezik, Afadeg, Afadeh, Affade, Kotoko, Mandage, Mandagué, Mogari, Ngala]
+alt_names: [Afada, Afadeg, Afadeh, Affade, Kotoko, Mandage, Mandagué, Mogari, Ngala]
 population: 5000
 country_id: CM
 country_name: Cameroon

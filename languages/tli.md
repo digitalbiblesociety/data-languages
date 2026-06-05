@@ -2,7 +2,7 @@
 iso: tli
 name: Tlingit
 autonym: Lingít
-alt_names: [Coluchano (Estados Unidos), Idioma tlingit, Inland Tlingit, Język tlingit, Kolosch, Kolosh, Koluschan, Lingit, Língua Tlingit, Thlinget, Tlingitan Isolate, Tlingiteg, Tlinkit, Tlinkitų kalba, Тлингитский язык, 特林吉特語, 辛基得语]
+alt_names: [Coluchano (Estados Unidos), Inland Tlingit, Kolosch, Kolosh, Koluschan, Lingit, Thlinget, Tlingitan Isolate, Tlingiteg, Tlinkit]
 population: 1242
 country_id: US
 country_name: United States

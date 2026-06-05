@@ -2,7 +2,7 @@
 iso: pjt
 name: Pitjantjatjara
 autonym: Pitjantjara
-alt_names: [Bidjandja, Bidjandjadjara, Bidjandjadjara/Njangadadjara, Bidjandjara, Bidjuwongga, Bidyandyadyara, Bindjandjadjara, Gunggawara, Ituarre, Jabu, Kalgonei, Mamoo, Mamu, Mangawara, Mulatara, Nangatadjara, Njangadjadjara, Nyangatjatjara, Partutu, Peechintarra, Pichanchachara, Pid jandjara, Pid-jandjara, Pidjandja, Pidjandjara, Pidzandza, Pijandarra, Pintularapi, Pitchentara, Pitdjandjara, Pitindjatjara, Pitjandara, Pitjandjadjara, Pitjandjara, Pitjangjadjara, Pitjanjarra, Pitjantjatjarra, Pitjanzazara, Pitjendadjara, Pitjentara, Pitjindjatjara, Pitjindjiara, Pitjinjara, Pitjinjiara, Pitjintara, Pitjintjitjira, Pitkindjara, Pituari, Tjitiadjara, Tjurti, Wankawinan, Wanudjara, Widanda, Widjandja, Wirtjapakandja, Woga pitja, Wongapitcha, Wongapitja, Wongapitjira, Woŋga-pitja, 피짠짜짜라어]
+alt_names: [Bidjandja, Bidjandjadjara, Bidjandjadjara/Njangadadjara, Bidjandjara, Bidjuwongga, Bidyandyadyara, Bindjandjadjara, Gunggawara, Ituarre, Jabu, Kalgonei, Mamoo, Mamu, Mangawara, Mulatara, Nangatadjara, Njangadjadjara, Nyangatjatjara, Partutu, Peechintarra, Pichanchachara, Pid jandjara, Pid-jandjara, Pidjandja, Pidjandjara, Pidzandza, Pijandarra, Pintularapi, Pitchentara, Pitdjandjara, Pitindjatjara, Pitjandara, Pitjandjadjara, Pitjandjara, Pitjangjadjara, Pitjanjarra, Pitjantjatjarra, Pitjanzazara, Pitjendadjara, Pitjentara, Pitjindjatjara, Pitjindjiara, Pitjinjara, Pitjinjiara, Pitjintara, Pitjintjitjira, Pitkindjara, Pituari, Tjitiadjara, Tjurti, Wankawinan, Wanudjara, Widanda, Widjandja, Wirtjapakandja, Woga pitja, Wongapitcha, Wongapitja, Wongapitjira, Woŋga-pitja]
 population: 3550
 country_id: AU
 country_name: Australia

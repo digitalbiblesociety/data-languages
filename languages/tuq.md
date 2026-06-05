@@ -2,7 +2,7 @@
 iso: tuq
 name: Tedaga
 autonym: Tedaga
-alt_names: [Tebou, Tebu, Teda, Tib-bo, Tibbu, Toda, Todaga, Todga, Toubou, Tubu, Tuda, Tudaga, Tū-bu, Тедагаски јазик, لغة التيدا]
+alt_names: [Tebou, Tebu, Teda, Tib-bo, Tibbu, Toda, Todaga, Todga, Toubou, Tubu, Tuda, Tudaga, Tū-bu]
 population: 57500
 country_id: TD
 country_name: Chad

@@ -2,7 +2,7 @@
 iso: ora
 name: Oroha
 autonym: "Mara Ma-Siki"
-alt_names: [Lenga Oroha, Oraha, Oroha jezik, Südliche Salomons-Inseln]
+alt_names: [Oraha, Südliche Salomons-Inseln]
 population: 38
 country_id: SB
 country_name: Solomon Islands

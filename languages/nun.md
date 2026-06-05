@@ -2,7 +2,7 @@
 iso: nun
 name: Anong
 autonym: Anong
-alt_names: [Anoong, Anu, Anung, Anung language, Añú, "Fuch'ye", Khanung, Khupang, Kiutze, Kuhpang, Kwingsang, "Kwinp'ang", Lu, Lutze, Lutzu, Nu, Nu-tzŭ, Nung, ရဝမ်, 阿侬语, 阿儂語]
+alt_names: [Anoong, Anu, Anung, Anung language, Añú, "Fuch'ye", Khanung, Khupang, Kiutze, Kuhpang, Kwingsang, "Kwinp'ang", Lu, Lutze, Lutzu, Nu, Nu-tzŭ, Nung, ရဝမ်]
 population: 400
 country_id: MM
 country_name: Myanmar

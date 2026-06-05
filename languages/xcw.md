@@ -2,7 +2,7 @@
 iso: xcw
 name: Coahuilteco
 autonym: Pajalate
-alt_names: [Coahuiltec, Coahuiltec Indijanci, Coahuiltecan, Coahuiltecan Family, Coahuilteeks, Coahuiltekisch, Idioma coahuilteco, Коавильтекский язык]
+alt_names: [Coahuiltec, Coahuiltec Indijanci, Coahuiltecan, Coahuiltecan Family, Coahuilteeks, Coahuiltekisch]
 population: null
 country_id: MX
 country_name: Mexico

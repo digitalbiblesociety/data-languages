@@ -2,7 +2,6 @@
 iso: isg
 name: Irish Sign Language
 autonym: Teanga Chomharthaíochta na hÉireann
-alt_names: [Langue des signes irlandaise]
 population: 6550
 country_id: IE
 country_name: Ireland

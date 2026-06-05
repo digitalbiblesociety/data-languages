@@ -2,7 +2,7 @@
 iso: kio
 name: Kiowa
 autonym: "Cáuijògà/Cáuijò:gyà"
-alt_names: [Kajovština, Kiowan, Kiowan Isolate, Kioweg, Quiova]
+alt_names: [Kiowan, Kiowan Isolate, Kioweg, Quiova]
 population: 20
 country_id: US
 country_name: United States

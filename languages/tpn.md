@@ -2,7 +2,7 @@
 iso: tpn
 name: Tupinambá
 autonym: "Old Tupi, Ancient Tupi, Classical Tupi, Tupinambá"
-alt_names: [Brasiliano, Brasilica, Classical Tupí, Colonial Tupí, Colonial/Classical Tupí, Língua brasílica, Old Tupí, Tupi Antigo, Tupinamba, Tupí, Tupí Antigo, Tupí language area]
+alt_names: [Brasiliano, Brasilica, Classical Tupí, Colonial Tupí, Colonial/Classical Tupí, Old Tupí, Tupi Antigo, Tupinamba, Tupí, Tupí Antigo, Tupí language area]
 population: null
 country_id: BR
 country_name: Brazil

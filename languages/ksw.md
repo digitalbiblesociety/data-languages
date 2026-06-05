@@ -2,7 +2,7 @@
 iso: ksw
 name: "S'gaw Karen"
 autonym: ကညီကျိာ်
-alt_names: [Burmese Karen, Kanyaw, Karen, Karen (Sgaw), "Karen, S'gaw", "Karen,S’gaw", Kayin, Kyetho, Paganyaw, Pchcknya, "Pgha K'nyan", Pwakanyaw, "S'gau", "S'gaw", "S'gaw Kayin", Sgaw, Sgaw Karen, Sgaweg, White Karen, Yang Khao, 斯高克伦语]
+alt_names: [Burmese Karen, Kanyaw, Karen, Karen (Sgaw), "Karen, S'gaw", "Karen,S’gaw", Kayin, Kyetho, Paganyaw, Pchcknya, "Pgha K'nyan", Pwakanyaw, "S'gau", "S'gaw", "S'gaw Kayin", Sgaw, Sgaw Karen, Sgaweg, White Karen, Yang Khao]
 population: 2170000
 country_id: MM
 country_name: Myanmar

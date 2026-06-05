@@ -2,7 +2,7 @@
 iso: sts
 name: Shumashti
 autonym: Shumasht
-alt_names: [Chumashtí, Dardu, Šumāštī, ภาษาสุมัสติ]
+alt_names: [Chumashtí, Dardu, Šumāštī]
 population: 1000
 country_id: AF
 country_name: Afghanistan

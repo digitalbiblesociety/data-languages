@@ -2,7 +2,7 @@
 iso: mjg
 name: Tu
 autonym: Dēd Mongol
-alt_names: [Halchighol, Hu-tsu, Huzhu, Mongghul, Narin-guor, Naringhol, 互助土家語]
+alt_names: [Halchighol, Hu-tsu, Huzhu, Mongghul, Narin-guor, Naringhol]
 population: 290000
 country_id: CN
 country_name: China

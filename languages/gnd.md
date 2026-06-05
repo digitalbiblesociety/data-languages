@@ -2,7 +2,7 @@
 iso: gnd
 name: "Zulgo-Gemzek"
 autonym: Zulgo
-alt_names: [Gemjek, Guemshek, Zoulgwaeg, Zulgo-Gemzek jezik]
+alt_names: [Gemjek, Guemshek, Zoulgwaeg]
 population: 26000
 country_id: CM
 country_name: Cameroon

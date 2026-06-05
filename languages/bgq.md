@@ -2,7 +2,7 @@
 iso: bgq
 name: Bagri
 autonym: बागड़ी
-alt_names: [Bagari, Bagria, Bagris, Bahgri, Baorias, Rajasthani, பாக்ரி மொழி, ภาษาพาครี]
+alt_names: [Bagari, Bagria, Bagris, Bahgri, Baorias, Rajasthani]
 population: 2196000
 country_id: IN
 country_name: India

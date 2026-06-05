@@ -2,7 +2,7 @@
 iso: hni
 name: Hani
 autonym: Haqniqdoq
-alt_names: [Hanhi, Hani Proper, Haw, Hànhì, U Ní, Uni, Xauni, Xá U Ní, ภาษาฮานี, 哈尼语]
+alt_names: [Hanhi, Hani Proper, Haw, Hànhì, U Ní, Uni, Xauni, Xá U Ní]
 population: 751740
 country_id: CN
 country_name: China

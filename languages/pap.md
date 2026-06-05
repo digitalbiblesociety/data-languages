@@ -2,7 +2,7 @@
 iso: pap
 name: Papiamento
 autonym: Papiamentu
-alt_names: [An Phaipeamaintis, Bahasa Papiamento, Curassese, Curaçoleño, Język papiamento, Lingua papiamento, Papago, Papiam, Papiamen, Papiamento keel, Papiamentoe, Papiaments, Papiamintsk, "Пап'яменто", Папьяменто, パピアメント語, 帕皮阿门托语, 파피아멘토어]
+alt_names: [An Phaipeamaintis, Curassese, Curaçoleño, Papago, Papiam, Papiamen, Papiamentoe, Papiaments, Papiamintsk, "Пап'яменто", Папьяменто]
 population: 323100
 country_id: CW
 country_name: Curaçao

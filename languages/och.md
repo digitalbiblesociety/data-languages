@@ -2,7 +2,7 @@
 iso: och
 name: Old Chinese
 autonym: Archaic Chinese
-alt_names: [Altchinesische Sprache, Ancient Chinese, Antico cinese, Bahasa Cina Lama, Bahasa Tionghoa Kuno, "Chinese, Old", Chinois archaïque, Chinês antigo, Fornkinesiska, Język starochiński, Древнекитайский язык, Старокинески језик, 上古汉语, 上古音]
+alt_names: [Ancient Chinese, Antico cinese, "Chinese, Old", Chinois archaïque, Chinês antigo, Fornkinesiska, 上古音]
 population: null
 country_id: CN
 country_name: China

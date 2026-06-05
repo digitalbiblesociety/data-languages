@@ -2,7 +2,7 @@
 iso: haj
 name: Hajong
 autonym: হাজং ভাষা Hajong Bhasa
-alt_names: [Haijong, Hazong, হাজং ভাষা, ภาษาฮาชอง]
+alt_names: [Haijong, Hazong]
 population: 79800
 country_id: IN
 country_name: India

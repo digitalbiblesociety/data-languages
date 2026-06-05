@@ -2,7 +2,7 @@
 iso: gia
 name: Kija
 autonym: Kija
-alt_names: [Djarak, "Gi:dj", Gidja, Gija, Guidj, Guwidji, Gwidji, Keha, Kidja, Kisah, Kisha, Kitja, Kityu, "Ku:tji", Kuitj, Kuitji, Kutnalawaru, Kwitj, Langgu, Lenga kitja, Liej, Longga, Loonga, Lunga, Lungga, Lungu, Miwa, Paljarri, Tjarak, Walki, War-ingari, Warrangari]
+alt_names: [Djarak, "Gi:dj", Gidja, Gija, Guidj, Guwidji, Gwidji, Keha, Kidja, Kisah, Kisha, Kitja, Kityu, "Ku:tji", Kuitj, Kuitji, Kutnalawaru, Kwitj, Langgu, Liej, Longga, Loonga, Lunga, Lungga, Lungu, Miwa, Paljarri, Tjarak, Walki, War-ingari, Warrangari]
 population: 170
 country_id: AU
 country_name: Australia

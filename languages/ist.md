@@ -2,7 +2,7 @@
 iso: ist
 name: Istriot
 autonym: bumbaro
-alt_names: [Idioma istriano, Istriano, Istriera, Istriote, Istriotisch, Istriotische Sprache, Istriotiska, Istriotski jezik, Język istriocki, Lingua istriota, Wikang Istriyano, İstriotça, Истриотски јазик, Истриотски језик, Истророманский язык]
+alt_names: [Istriano, Istriera, Istriote, Istriotisch, Istriotiska, İstriotça]
 population: 1000
 country_id: HR
 country_name: Croatia

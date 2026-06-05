@@ -2,7 +2,7 @@
 iso: gdq
 name: Mehri
 autonym: Mahri
-alt_names: [Bahasa Mehri, Idioma mehrí, Mahri hizkuntza, Mehreg, Mehrī, Meḥri, Meḥri, Méhri, South Arabian, Sydarabiska språk, لغة مهرية, ภาษาเมห์รี]
+alt_names: [Mahri hizkuntza, Mehreg, Mehrī, Meḥri, Meḥri, Méhri, South Arabian]
 population: 225900
 country_id: YE
 country_name: Yemen

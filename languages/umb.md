@@ -2,7 +2,7 @@
 iso: umb
 name: Umbundu
 autonym: South Mbundu
-alt_names: [Idioma umbundu, Język umbundu, Língua umbundo, "M'bundo", Mbali, Mbari, Mbundu, Mbundu Benguella, Nano, Oumboundou, Ovimbundu, Quimbundo, Umbundo, Южный мбунду, ムブンドゥ語]
+alt_names: ["M'bundo", Mbali, Mbari, Mbundu, Mbundu Benguella, Nano, Oumboundou, Ovimbundu, Quimbundo, Umbundo, Южный мбунду]
 population: 6980000
 country_id: AO
 country_name: Angola

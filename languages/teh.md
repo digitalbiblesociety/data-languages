@@ -2,7 +2,7 @@
 iso: teh
 name: Tehuelche
 autonym: Patagón
-alt_names: ["Aonek'enk", Aonek’enk, Aoniken, Chon, Gununa-Kena, Gününa Küna, Idioma tehuelche, Inaquean, Inaquen, Tehuelbhe, Tewelche, Tsoneka, 떼우엘체어]
+alt_names: ["Aonek'enk", Aonek’enk, Aoniken, Chon, Gununa-Kena, Gününa Küna, Inaquean, Inaquen, Tehuelbhe, Tewelche, Tsoneka]
 population: 200
 country_id: AR
 country_name: Argentina

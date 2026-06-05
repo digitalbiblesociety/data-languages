@@ -2,7 +2,7 @@
 iso: trm
 name: Tregami
 autonym: Katar Gambir
-alt_names: [Gambiri, Gambirí, Gambīrī, Język tregami, Lingua tregamí, Tregāmī, Trigami, Трегами, ภาษาเตรกามี]
+alt_names: [Gambiri, Gambirí, Gambīrī, Tregāmī, Trigami, Трегами]
 population: 1000
 country_id: AF
 country_name: Afghanistan

@@ -2,7 +2,7 @@
 iso: bzi
 name: Bisu
 autonym: 毕苏语
-alt_names: [Bisú, Laopin, Lawa, Lua, Mbi, Mbisu, Mibisu, Misu, Pin, 畢蘇語, 米畢蘇語, 米蘇語]
+alt_names: [Bisú, Laopin, Lawa, Lua, Mbi, Mbisu, Mibisu, Misu, Pin]
 population: 700
 country_id: TH
 country_name: Thailand

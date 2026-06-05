@@ -2,7 +2,7 @@
 iso: loc
 name: Inonhan
 autonym: Loocnon
-alt_names: ["\"Unhan\"", Bisaya, Looknon, Onhan language, ภาษาออนฮัน]
+alt_names: ["\"Unhan\"", Bisaya, Looknon, Onhan language]
 population: 85800
 country_id: PH
 country_name: Philippines

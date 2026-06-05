@@ -2,7 +2,7 @@
 iso: yha
 name: Baha Buyang
 autonym: "Boux-yaeŋz"
-alt_names: [Baha, Buyang, Buyang Zhuang, "Buyang, Baha", Guangnan Buyang, Paha Buyang, Western Buyang, 巴哈布央語]
+alt_names: [Baha, Buyang, Buyang Zhuang, "Buyang, Baha", Guangnan Buyang, Paha Buyang, Western Buyang]
 population: 600
 country_id: CN
 country_name: China

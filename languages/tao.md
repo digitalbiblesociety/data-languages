@@ -2,7 +2,7 @@
 iso: tao
 name: Yami
 autonym: ciciring no Tao
-alt_names: [Botel Tabago, Botel Tobago, Lanyu, Lengua yami, Sprache von Formosa, Tao, Tawu, Wikang Tao, ภาษาเตา, 達悟, 雅美]
+alt_names: [Botel Tabago, Botel Tobago, Lanyu, Tao, Tawu, 達悟, 雅美]
 population: 3380
 country_id: TW
 country_name: Taiwan

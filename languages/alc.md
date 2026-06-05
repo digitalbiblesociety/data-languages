@@ -2,7 +2,7 @@
 iso: alc
 name: Qawasqar
 autonym: Alacaluf
-alt_names: [Aksánas, Alacalufe, Alakaluf, Central Alacaluf, Halakwalip, Halakwalup, Halakwulup, Hekaine, Idioma kawésqar, Kahuéskar, Kawashkar, Kawaskar, Kawaskareg, Kaweskar, Kaweskar language area, Kawesqar, Kawéskar, Kawésqar, Kawésqar language, Lenga qawasqar, Língua kawésqar, Northern Alacaluf, Pecheré, Qawashqar, Qawasqar jezik, Southern Alacaluf]
+alt_names: [Aksánas, Alacalufe, Alakaluf, Central Alacaluf, Halakwalip, Halakwalup, Halakwulup, Hekaine, Kahuéskar, Kawashkar, Kawaskar, Kawaskareg, Kaweskar, Kaweskar language area, Kawesqar, Kawéskar, Kawésqar, Kawésqar language, Northern Alacaluf, Pecheré, Qawashqar, Southern Alacaluf]
 population: 2622
 country_id: CL
 country_name: Chile

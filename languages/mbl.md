@@ -2,7 +2,7 @@
 iso: mbl
 name: Maxakalí
 autonym: "(Tikmũ'ũn) Yĩy'ax"
-alt_names: [Caposho, Capoxo, Cumanasho, Kapoxó, Kumanasho, Língua maxakalí, Machacali, Macuni, Makoní, Mashakali, Mashakalí, Maxacalí, Maxacari, Maxakali, Maŝakalia lingvo, Menacho, Momaxo, Monachobm, Monaxo, Monocho, Monosho, Monoxó]
+alt_names: [Caposho, Capoxo, Cumanasho, Kapoxó, Kumanasho, Machacali, Macuni, Makoní, Mashakali, Mashakalí, Maxacalí, Maxacari, Maxakali, Menacho, Momaxo, Monachobm, Monaxo, Monocho, Monosho, Monoxó]
 population: 1270
 country_id: BR
 country_name: Brazil

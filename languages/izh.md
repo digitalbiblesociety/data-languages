@@ -2,7 +2,7 @@
 iso: izh
 name: Ingrian
 autonym: ižoran keel
-alt_names: [Idioma ingrio, Ijoreg, Ingriano, Ingries, Ingrisch, Ingrish, Ingrisk, Ingriska, Inkeroisgiella, Ischorische Sprache, Isurisch, Izhora, Izhorian, Iĵora lingvo, Ižorisch, Ižoru valoda, Ižorų kalba, Język ingryjski, ingrien, inkerin kieli, inkerioinen, inkeroisen kieli, isuri keel, izhor, ižoran keeli, ižorskij jazyk, karjala, karjalan keeli, maakeeli, užory, Іжорська мова, Ижора кыв, Ижоронь кель, Ижорски език, Ингрийн мотт, ижорский язык]
+alt_names: [Ijoreg, Ingriano, Ingries, Ingrisch, Ingrish, Ingrisk, Ingriska, Inkeroisgiella, Isurisch, Izhora, Izhorian, Ižorisch, ingrien, inkerioinen, izhor, ižoran keeli, karjala, karjalan keeli, maakeeli, užory, Ижоронь кель, Ингрийн мотт]
 population: 360
 country_id: RU
 country_name: Russia

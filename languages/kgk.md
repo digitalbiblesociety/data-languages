@@ -2,7 +2,7 @@
 iso: kgk
 name: Kaiwá
 autonym: Kayova
-alt_names: [Apytare, Caiguá, Caingua, Caiová, Caiua, Caiwa, Cayua, Chiripá, Guarani-kaiowá, Guaraní kaiowá, Kaingwa, Kaingwá, Kaiova, Kaiowa, Kaiowá, Kaivų kalba, Kaiwa, Kaiwá/Kayová, Kayowá, Mbiá/Mbya/Mbua, Nhandeva, Pãi, Pãi-Tavyterã, Tsiripá, Txiripá, Ñandeva]
+alt_names: [Apytare, Caiguá, Caingua, Caiová, Caiua, Caiwa, Cayua, Chiripá, Guarani-kaiowá, Guaraní kaiowá, Kaingwa, Kaingwá, Kaiova, Kaiowa, Kaiowá, Kaiwa, Kaiwá/Kayová, Kayowá, Mbiá/Mbya/Mbua, Nhandeva, Pãi, Pãi-Tavyterã, Tsiripá, Txiripá, Ñandeva]
 population: 18000
 country_id: BR
 country_name: Brazil

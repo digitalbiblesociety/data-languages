@@ -2,7 +2,7 @@
 iso: mas
 name: Masai
 autonym: ɔl Maa
-alt_names: [Język masajski, Kimaasai, Lumbwa, Língua massai, Maa, Maan kieli, Maasai, Maasai language, Masaieg, Oigob, Sprachen der Wakuafi und Masai, massaï, Масаи јазик, Масайский язык]
+alt_names: [Kimaasai, Lumbwa, Maa, Maasai, Maasai language, Masaieg, Oigob, Sprachen der Wakuafi und Masai, massaï]
 population: 1872000
 country_id: KE
 country_name: Kenya

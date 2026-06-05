@@ -2,7 +2,7 @@
 iso: asq
 name: Austrian Sign Language
 autonym: Österreichische Gebärdensprache (ÖGS)
-alt_names: [Austrijski znakovni jezik, Austro-Hungarian Sign Language, Língua de Sinais Austríaca, Österreichische Gebärdensprache, Østerriksk tegnspråk]
+alt_names: [Austro-Hungarian Sign Language, Österreichische Gebärdensprache, Østerriksk tegnspråk]
 population: 8000
 country_id: AT
 country_name: Austria

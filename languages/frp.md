@@ -2,7 +2,7 @@
 iso: frp
 name: Arpitan
 autonym: Arpitan
-alt_names: [Arpitaani, Arpitana lingvo, Arpitanca, Arpitaneg, Arpitanek, Arpitanish, Arpitanska, Arpitanu, Arpitàn, Bahasa Arpitan, Faetar, Franco-Provençal, Franco-Provençal language, Francoprovenzal, Francoprovençaals, Francoprovençal, Francoprovinçå, Franko-Provensalio dialektas, Frankoprovansalski jezik, Frankoprovanszál nyelv, Frankoprovensaals, Frankoprovensalska, Frankoprovenzalische Sprache, Frankoprovenzera, Frankoprovençalsk, Idioma franco-provenzal, Idioma francoprovenzal, Język franko-prowansalski, Lenga franch-provensal, Lengua franco-provensâ, Lingua Arpitanica, Lingua francoprovenzal, Lingua francoprovenzale, Língua franco-provençal, Patois, Romand, Франкопровансальский язык, አርፒታንኛ, アルピタン語, 法兰克-普罗旺斯语]
+alt_names: [Arpitaani, Arpitanca, Arpitaneg, Arpitanek, Arpitanish, Arpitanska, Arpitanu, Arpitàn, Faetar, Franco-Provençal, Franco-Provençal language, Francoprovenzal, Francoprovençaals, Francoprovençal, Francoprovinçå, Franko-Provensalio dialektas, Frankoprovensaals, Frankoprovensalska, Frankoprovenzera, Frankoprovençalsk, Patois, Romand]
 population: 227000
 country_id: FR
 country_name: France

@@ -2,7 +2,7 @@
 iso: uzn
 name: Northern Uzbek
 autonym: اۉزبېکچه
-alt_names: [City Özbek, Krymchak, Ouzbek, Ozbek, Tashkent dialect, Usbaki, Usbeki, Uzbec, Uzbek, Uzbek (Northern), "Uzbek, Northern", Özbek, Özbekisch, 北乌兹别克语]
+alt_names: [City Özbek, Krymchak, Ouzbek, Ozbek, Tashkent dialect, Usbaki, Usbeki, Uzbec, Uzbek, Uzbek (Northern), "Uzbek, Northern", Özbek, Özbekisch]
 population: 25100000
 country_id: UZ
 country_name: Uzbekistan

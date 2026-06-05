@@ -2,7 +2,7 @@
 iso: xrn
 name: Arin
 autonym: "Ar, Ara"
-alt_names: [Arine, Arineg, Arinin kieli, Arinsk, Arintzi, Аринский язык]
+alt_names: [Arine, Arineg, Arinsk, Arintzi]
 population: null
 country_id: RU
 country_name: Russia

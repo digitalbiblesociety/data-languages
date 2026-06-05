@@ -2,7 +2,7 @@
 iso: lac
 name: Lacandon
 autonym: "Jach-tʼaan "
-alt_names: [Idioma lacandón, Lacandon Maya, Lacandonsk, Lacandón, Lakandonština, Lakantún, Língua lacandona, "Ma:ya", Лакандонски јазик]
+alt_names: [Lacandon Maya, Lacandonsk, Lacandón, Lakantún, "Ma:ya"]
 population: 600
 country_id: MX
 country_name: Mexico

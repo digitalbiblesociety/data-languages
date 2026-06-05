@@ -2,7 +2,7 @@
 iso: nlg
 name: Gela
 autonym: Nggela
-alt_names: [Florida Islands, Lengua gela, Südliche Salomons-Inseln]
+alt_names: [Florida Islands, Südliche Salomons-Inseln]
 population: 11900
 country_id: SB
 country_name: Solomon Islands

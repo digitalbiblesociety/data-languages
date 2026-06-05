@@ -2,7 +2,6 @@
 iso: ali
 name: Amaimon
 autonym: Mabulap
-alt_names: [Język amaimon, Lenga Amaimon, Lingua amaimon]
 population: 1780
 country_id: PG
 country_name: Papua New Guinea

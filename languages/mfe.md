@@ -2,7 +2,7 @@
 iso: mfe
 name: Morisyen
 autonym: kreol morisien
-alt_names: [Creole (Mauritian), Creolo mauriziano, Criollo mauriciano, Crioulo de Maurício, Créole mauricien, Indian Ocean Creole French, Język kreolski Mauritiusa, Kreol, Kreol (Mauritian), Kreole, Kreoleg Maoris, Mauricijski kreolski jezik, Mauritian, Mauritian Creole, Mauritian French Creole, Mauritius Creole French, Maurysen, Маврицийски език, Маурицијски креолски]
+alt_names: [Creole (Mauritian), Creolo mauriziano, Criollo mauriciano, Crioulo de Maurício, Créole mauricien, Indian Ocean Creole French, Kreol, Kreol (Mauritian), Kreole, Kreoleg Maoris, Mauritian, Mauritian Creole, Mauritian French Creole, Mauritius Creole French, Maurysen, Маурицијски креолски]
 population: 1027000
 country_id: MU
 country_name: Mauritius

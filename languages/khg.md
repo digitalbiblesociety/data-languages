@@ -2,7 +2,7 @@
 iso: khg
 name: Khams Tibetan
 autonym: "Kham-Hor"
-alt_names: [Bhōṭiā of Khams, Język kham, Kam, Kamseg, Kang, Kham, Khamba, Khampa, Khams, Khams Bhotia, Khams-Yal, "Tibetan, Khams", "Tibetan,Khams", カム・チベット語, 康方言]
+alt_names: [Bhōṭiā of Khams, Kam, Kamseg, Kang, Kham, Khamba, Khampa, Khams, Khams Bhotia, Khams-Yal, "Tibetan, Khams", "Tibetan,Khams", 康方言]
 population: 1380300
 country_id: CN
 country_name: China

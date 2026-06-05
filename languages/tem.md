@@ -2,7 +2,7 @@
 iso: tem
 name: Timne
 autonym: KʌThemnɛ
-alt_names: [Baga, Idioma temné, Landoma, Língua temne, Temen, Temne, Temne language, Temneg, Temnische Sprache, Themne, Timene, Timmannee, தெம்னே மொழி]
+alt_names: [Baga, Landoma, Temen, Temne, Temne language, Temneg, Themne, Timene, Timmannee]
 population: 1630000
 country_id: SL
 country_name: Sierra Leone

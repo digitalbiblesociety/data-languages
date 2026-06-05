@@ -2,7 +2,7 @@
 iso: kdq
 name: Koch
 autonym: Koc
-alt_names: [Kocch, Koce, Kochboli, Konch, কোচ ভাষা]
+alt_names: [Kocch, Koce, Kochboli, Konch]
 population: 42400
 country_id: IN
 country_name: India

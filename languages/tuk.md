@@ -2,7 +2,7 @@
 iso: tuk
 name: Turkmen
 autonym: "تۆرکمن ديلی "
-alt_names: [An Tuircméinis, Bahasa Turkmen, Idioma turcomano, Język turkmeński, Limba turkmenă, Lingua Turcomannica, Lingua turkmena, Língua turcomena, Torkomani, Truchmenisch, Trukhmen, Trukhmeny, Trukmen, Turcman, Turcomanu, Turkman, Turkmani, Turkmanian, Turkmeenin kieli, Turkmeens, Turkmena lingvo, Turkmeneg, Turkmenian, Turkmenische Sprache, Turkmeniska, Turkmenler, Turkmensk, Turkmenski jezik, Turkmenština, Turkmin simi, Turkmène, Turkménčina, Turkmėnų kalba, Turkoman, Turkomans, Türkmen, Türkmen dili, Türkmence, Türkmenisch, Türkmən dili, Èdè Turkmẹ́nì, Забони туркменӣ, Туркмен чĕлхи, Туркменская мова, Туркменски език, Туркменски јазик, Туркменски језик, Туркменский язык, Туркменська мова, Туркмэнская мова, Түрікмен тілі, تۈركمەن تىلى, زبان ترکمنی, तुर्कमेन भाषा, তুর্কমেনীয় ভাষা, ತುರ್ಕ್‌ಮೇನಿಸ್ತಾನ್‌ನ ಭಾಷೆ, ภาษาเติร์กเมน, თურქმენული ენა, ቱርክመንኛ, トルクメン語, 土库曼语, 투르크멘어]
+alt_names: [An Tuircméinis, Torkomani, Truchmenisch, Trukhmen, Trukhmeny, Trukmen, Turcman, Turcomanu, Turkman, Turkmani, Turkmanian, Turkmeens, Turkmeneg, Turkmenian, Turkmeniska, Turkmenler, Turkmensk, Turkmin simi, Turkmène, Turkoman, Turkomans, Türkmen, Türkmence, Türkmenisch, Забони туркменӣ, تۈركمەن تىلى]
 population: 7061000
 country_id: TM
 country_name: Turkmenistan

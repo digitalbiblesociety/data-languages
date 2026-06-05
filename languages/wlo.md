@@ -2,7 +2,6 @@
 iso: wlo
 name: Wolio
 autonym: Baubau
-alt_names: [Bahasa Wolio, 窩里沃語, 월리오어]
 population: 65000
 country_id: ID
 country_name: Indonesia

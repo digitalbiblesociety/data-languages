@@ -2,7 +2,7 @@
 iso: kcy
 name: Korandje
 autonym: Kwarandzyey
-alt_names: [Belbali, Korandje jezik, Korandjeg, Korandjé, Tabelbala, lbəlbaliyya, البلبالية‎‎]
+alt_names: [Belbali, Korandjeg, Korandjé, Tabelbala, lbəlbaliyya, البلبالية‎‎]
 population: 3000
 country_id: DZ
 country_name: Algeria

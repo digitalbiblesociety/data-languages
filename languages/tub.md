@@ -2,7 +2,7 @@
 iso: tub
 name: Tübatulabal
 autonym: Pakaːnil
-alt_names: [Idioma tübatulabal, Kern, Kern River, Tubatulabal]
+alt_names: [Kern, Kern River, Tubatulabal]
 population: null
 country_id: US
 country_name: United States

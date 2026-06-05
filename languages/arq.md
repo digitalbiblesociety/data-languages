@@ -2,7 +2,7 @@
 iso: arq
 name: Algerian Arabic
 autonym: دارجة
-alt_names: [Algerian, Algerian Colloquial, Algerisk arabiska, Alžirski arapski, Arabe algérien, Arabeg Aljeria, Arabic, "Arabic, Algerian", "Arabic, Algerian Spoken", Árabe argelino, Алжирски арапски јазик, Алжирский диалект арабского языка, لهجة جزائرية]
+alt_names: [Algerian, Algerian Colloquial, Algerisk arabiska, Alžirski arapski, Arabe algérien, Arabeg Aljeria, Arabic, "Arabic, Algerian", "Arabic, Algerian Spoken", Árabe argelino, Алжирский диалект арабского языка, لهجة جزائرية]
 population: 29400000
 country_id: DZ
 country_name: Algeria

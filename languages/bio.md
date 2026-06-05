@@ -2,7 +2,7 @@
 iso: bio
 name: Nai
 autonym: Biaka
-alt_names: [Amini, Lenga nai, Nai jezik, Nai-Biaka]
+alt_names: [Amini, Nai-Biaka]
 population: 600
 country_id: PG
 country_name: Papua New Guinea

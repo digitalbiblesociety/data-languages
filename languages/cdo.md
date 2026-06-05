@@ -2,7 +2,7 @@
 iso: cdo
 name: Min Dong Chinese
 autonym: Min Dong (閩東語)Fuchowian (福州話)
-alt_names: [Chinese, "Chinese, Min Dong", "Chinese,MinDong", Dialecto fuzhou, Dialek Fuzhou, Eastern Min, Foochow, Fuchow, Fuzhou, Fuzhou dialect, Fuzhou-Dialekt, Hok-chiu-oē, Hók-ciŭ-uâ, Min, Min (Eastern) dialect (Mindong), Min Dialect Family, 福州話, 福州語]
+alt_names: [Chinese, "Chinese, Min Dong", "Chinese,MinDong", Dialecto fuzhou, Dialek Fuzhou, Eastern Min, Foochow, Fuchow, Fuzhou, Fuzhou dialect, Fuzhou-Dialekt, Hok-chiu-oē, Hók-ciŭ-uâ, Min, Min (Eastern) dialect (Mindong), Min Dialect Family, 福州話]
 population: 10300000
 country_id: CN
 country_name: China

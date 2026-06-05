@@ -2,7 +2,7 @@
 iso: ysr
 name: Sirenik Yupik
 autonym: Сиӷы́ных
-alt_names: [Eskimo (Sirenik), Idioma sirenik, Old Sirenik, Old Sirinek, Sirenik, Sirenik Eskimo, Sirenik antiguo, Sirenikeg, Sirenikgbe, Sireniki Eskimo language, Sirenikin kieli, Sirenikski, Szirenyiki eszkimó nyelv, Vieux sirenik, Vuteen, "Yup'ik (Sirenik)", Yupik (Sirenik), "Yupik, Sirenik", Сиреникский язык]
+alt_names: [Eskimo (Sirenik), Old Sirenik, Old Sirinek, Sirenik, Sirenik Eskimo, Sirenik antiguo, Sirenikeg, Sirenikgbe, Sireniki Eskimo language, Sirenikski, Vieux sirenik, Vuteen, "Yup'ik (Sirenik)", Yupik (Sirenik), "Yupik, Sirenik"]
 population: 2010
 country_id: RU
 country_name: Russia

@@ -2,7 +2,7 @@
 iso: mdx
 name: Dizin
 autonym: Dizi
-alt_names: [Dizi jezik, Dizi-Maji, Dizu, Maji, Sizi, Twoyu]
+alt_names: [Dizi-Maji, Dizu, Maji, Sizi, Twoyu]
 population: 33900
 country_id: ET
 country_name: Ethiopia

@@ -2,7 +2,7 @@
 iso: kum
 name: Kumyk
 autonym: къумукъ тил/qumuq til
-alt_names: [Idioma cumuco, Koemuks, Koumyk, Kumika lingvo, Kumuk, Kumuklar, Kumukça, Kumyki, Kumykin kieli, Kumykische Sprache, Kumyko, Kumyčtina, Língua kumyk, Кумиски јазик, Кумыкский язык, Хъуымыхъхъаг æвзаг]
+alt_names: [Koemuks, Koumyk, Kumuk, Kumuklar, Kumukça, Kumyki, Kumyko, Kumyčtina]
 population: 503000
 country_id: RU
 country_name: Russia

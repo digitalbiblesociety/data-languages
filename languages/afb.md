@@ -2,7 +2,7 @@
 iso: afb
 name: Gulf Arabic
 autonym: خليجي
-alt_names: [Arabe du Golfe, Arabeg ar Pleg-mor, Arabic, Arabic (Eastern), Arabic (Gulf), "Arabic, Gulf", "Arabic, Gulf Spoken", Bedawi, Eastern Arabian, Gulf Spoken, Język arabski rejonu Zatoki Perskiej, Khaliji, Omani Bedawi Arabic, Qatari, Zaljevski arapski, Заливски арапски јазик, لهجة خليجية, வளைகுடா அரபு மொழி, ภาษาอาหรับอ่าว]
+alt_names: [Arabe du Golfe, Arabeg ar Pleg-mor, Arabic, Arabic (Eastern), Arabic (Gulf), "Arabic, Gulf", "Arabic, Gulf Spoken", Bedawi, Eastern Arabian, Gulf Spoken, Khaliji, Omani Bedawi Arabic, Qatari, Zaljevski arapski, لهجة خليجية]
 population: 10515000
 country_id: KW
 country_name: Kuwait

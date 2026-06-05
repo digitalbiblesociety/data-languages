@@ -2,7 +2,7 @@
 iso: zea
 name: Zeeuws
 autonym: Zeêuws
-alt_names: [Dialekt zelandzki, Dialetto zelandese, Dutch, Dutch (Zeeuws), Flemish (Zeeuws), Netherlandic, Seeländisch, Sî-làn-ngî, Zais, Zeaws, Zeelandic, Zeeländska, Zelanda lingvo, Zelandeg, Zelandès, Zelandés, Ziews, Zélandais, Zêeuws, Зеландский диалект, ゼーランド語]
+alt_names: [Dialekt zelandzki, Dialetto zelandese, Dutch, Dutch (Zeeuws), Flemish (Zeeuws), Netherlandic, Seeländisch, Sî-làn-ngî, Zais, Zeaws, Zeelandic, Zeeländska, Zelandeg, Zelandès, Zelandés, Ziews, Zélandais, Zêeuws, Зеландский диалект]
 population: 220000
 country_id: NL
 country_name: Netherlands

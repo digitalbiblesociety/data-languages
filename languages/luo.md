@@ -2,7 +2,7 @@
 iso: luo
 name: Luo
 autonym: Dholuo
-alt_names: [Dolouoeg, Język luo, Kavirondo, Kavirondo Luo, Kiluo, Lengua Luo, Luo, Luo-Kavirondo, Língua luo, Nilotic Kavirondo, luo (Kenya et Tanzanie), Долуо, लुओ भाषा]
+alt_names: [Dolouoeg, Kavirondo, Kavirondo Luo, Kiluo, Luo, Luo-Kavirondo, Nilotic Kavirondo, luo (Kenya et Tanzanie), Долуо]
 population: 5255000
 country_id: KE
 country_name: Kenya

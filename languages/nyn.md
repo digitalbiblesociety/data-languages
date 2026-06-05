@@ -2,7 +2,7 @@
 iso: nyn
 name: Nyankole
 autonym: Runyankore
-alt_names: [Język nyankole, Língua runyankole, Nkole, Nkore, Nyankore, Nyankore language, Runyankole, Ulunyankole, Ulunyankore, nyankolé]
+alt_names: [Nkole, Nkore, Nyankore, Nyankore language, Runyankole, Ulunyankole, Ulunyankore, nyankolé]
 population: 3433000
 country_id: UG
 country_name: Uganda

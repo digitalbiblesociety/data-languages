@@ -2,7 +2,7 @@
 iso: okj
 name: "Oko-Juwoi"
 autonym: "Oko-Juwoi"
-alt_names: [Great Andamanese, Junoi, Juwoi, Lèngua Oko-Juwoi, Oko-Juwoi jezik, Oku-Juwoi]
+alt_names: [Great Andamanese, Junoi, Juwoi, Lèngua Oko-Juwoi, Oku-Juwoi]
 population: null
 country_id: IN
 country_name: India

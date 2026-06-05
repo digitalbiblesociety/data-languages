@@ -2,7 +2,7 @@
 iso: ngk
 name: Dalabon
 autonym: Ngalkbun
-alt_names: [Bouin, Boun, "Bu:wan", Buan, Buin, Buwan, "Dalabon ?Gundangbon", Dangbon, Dangbon/Dalabon, Dangbun, Gundalabon, Gundangbon, Hongalla), Lenga ngalkbun, Nalabon, Ngalabon, Ngalagan, Ngalakan, Ngalbon, Ngalgbon, Ngalgbun, Ngalkbon, "Ngalkbon consist of the word for 'mouth? in the relevant language plus an element bon", Njalkpon, Nullakun, Nullikan, Nullikin]
+alt_names: [Bouin, Boun, "Bu:wan", Buan, Buin, Buwan, "Dalabon ?Gundangbon", Dangbon, Dangbon/Dalabon, Dangbun, Gundalabon, Gundangbon, Hongalla), Nalabon, Ngalabon, Ngalagan, Ngalakan, Ngalbon, Ngalgbon, Ngalgbun, Ngalkbon, "Ngalkbon consist of the word for 'mouth? in the relevant language plus an element bon", Njalkpon, Nullakun, Nullikan, Nullikin]
 population: null
 country_id: AU
 country_name: Australia

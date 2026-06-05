@@ -2,7 +2,7 @@
 iso: hoh
 name: Hobyót
 autonym: Hewbyót
-alt_names: [Habyot, Hobi, Hobioto, Hobyot, Hobyót hizkuntza, Lenga Hobyót]
+alt_names: [Habyot, Hobi, Hobioto, Hobyot, Hobyót hizkuntza]
 population: 100
 country_id: OM
 country_name: Oman

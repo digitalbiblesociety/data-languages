@@ -2,7 +2,7 @@
 iso: tjs
 name: Southern Tujia
 autonym: Tuchia
-alt_names: [Mozi, Southern, Tujia, Tujia du sud, Tujia meridional, "Tujia, Southern", "Tujia,Southern", 南部土家語, 土家語]
+alt_names: [Mozi, Southern, Tujia, Tujia du sud, Tujia meridional, "Tujia, Southern", "Tujia,Southern"]
 population: 1500
 country_id: CN
 country_name: China

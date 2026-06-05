@@ -2,7 +2,7 @@
 iso: zhb
 name: Zhaba
 autonym: "[dʐa˧˥ ʂka˥]"
-alt_names: [Bazi, Bozi, Chaba, Draba, Zaba, Zha, nDrapa, 扎巴語]
+alt_names: [Bazi, Bozi, Chaba, Draba, Zaba, Zha, nDrapa]
 population: 7700
 country_id: CN
 country_name: China

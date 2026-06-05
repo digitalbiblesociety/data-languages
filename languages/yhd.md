@@ -2,7 +2,7 @@
 iso: yhd
 name: "Judeo-Iraqi Arabic"
 autonym: Arabi
-alt_names: ["Arabic, Judeo-Iraqi", Judeo-Baghdadi, Judeoirački arapski, Јудео-ирачки арапски јазик, يهودية عراقية, ภาษาอาหรับยิวอิรัก]
+alt_names: ["Arabic, Judeo-Iraqi", Judeo-Baghdadi, Judeoirački arapski, يهودية عراقية]
 population: 94120
 country_id: IL
 country_name: Israel

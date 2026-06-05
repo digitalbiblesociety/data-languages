@@ -2,7 +2,7 @@
 iso: iwm
 name: Iwam
 autonym: May River
-alt_names: [Język iwam, May River Iwam]
+alt_names: [May River Iwam]
 population: 3000
 country_id: PG
 country_name: Papua New Guinea

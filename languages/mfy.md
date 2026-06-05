@@ -2,7 +2,7 @@
 iso: mfy
 name: Mayo
 autonym: Yorem Noki
-alt_names: [Cahita, Idioma mayo, Kahita, Yaqui-Mayo, Yorem simi]
+alt_names: [Cahita, Kahita, Yaqui-Mayo, Yorem simi]
 population: 100000
 country_id: MX
 country_name: Mexico

@@ -2,7 +2,7 @@
 iso: dyd
 name: Dyugun
 autonym: Jukun
-alt_names: [Djugan, Djugkan, Djugun, Djukan, Djukun, Djurgun, Dyugans, Joogan, Jugun, Jukan, Jukannganga, Kularrabulu, Lenga dyugun, Tjugan, Tjugun, Tjukun, Tjunung]
+alt_names: [Djugan, Djugkan, Djugun, Djukan, Djukun, Djurgun, Dyugans, Joogan, Jugun, Jukan, Jukannganga, Kularrabulu, Tjugan, Tjugun, Tjukun, Tjunung]
 population: null
 country_id: AU
 country_name: Australia

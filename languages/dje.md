@@ -2,7 +2,7 @@
 iso: dje
 name: Zarma
 autonym: zarma ciine
-alt_names: [Adzerma, Djerma, Dyabarma, Dyarma, Dyerma, Język dżerma, Zabarma, Zarbarma, Zarmaci, Zarmeg, Zerma, لغة زرمة]
+alt_names: [Adzerma, Djerma, Dyabarma, Dyarma, Dyerma, Zabarma, Zarbarma, Zarmaci, Zarmeg, Zerma]
 population: 4330100
 country_id: NE
 country_name: Niger

@@ -2,7 +2,7 @@
 iso: bra
 name: Braj
 autonym: Brij Bhasha
-alt_names: [Antarbedi, Antarvedi, Bijbhasha, Bradjbhakha, Braj Bhakha, Braj Bhasa, Braj Bhasha, Braj-Bhakha, Bri, Briju, Bruj, Język bradź, Lenga braj bhasha, ब्रजभाषा, பிராஜ் பாஷா, ภาษาพรัช]
+alt_names: [Antarbedi, Antarvedi, Bijbhasha, Bradjbhakha, Braj Bhakha, Braj Bhasa, Braj Bhasha, Braj-Bhakha, Bri, Briju, Bruj, பிராஜ் பாஷா]
 population: 1560000
 country_id: IN
 country_name: India

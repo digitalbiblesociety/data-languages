@@ -2,7 +2,7 @@
 iso: wbp
 name: Warlpiri
 autonym: Elpira
-alt_names: [Albura, Alpira, Alpiri, Boonara, Bunara, Buruwatung, Idioma warlpiri, Ilpara, Ilpira, Ilpirra, Ipara, Jalpiri, Kolo, Kukuruba, Lander Warlpiri, Lingua warlpiri, Manggai, Munga, Nam bulatji, Nam-bulatji, Nambuda, Nambulatji, Nambutj, Nambutju, Nanbuda, Ngadi, Ngali, Ngalia, Ngaliya, Ngallea, Ngallia, Ngardi, Ngardilpa, Ngardilypa, Ngari, Ngarilia, Ngarliya, Njalia, Njambalatji, Ooldean, Panara, Puruwantung, Ulperra, Valpiri, Waiangadi, Waiangara, Waibri, Waibry, Wailbri, Waingara, Wakirti Warlpiri, Wal bri, Wal-bri, Walbiri, Walbrai, Walbri, Waljbiri, Waljpiri, Walmala, Walmalla, Walmama, Walmanba, Walpari, Walpiri, Wanaeka, Wanajaga, Wanajaga., Wanajaka, Wanajeka, Wanayaga, Waneiga, Warangari, Waringari, Warlmala, Warnayaka, Warniaka, Warrabri, Warramulla, Warrmarla, Wawilja, Wolperi, Wolpirra, Wommana, Woneiga, Yarlpiri, Вальбири]
+alt_names: [Albura, Alpira, Alpiri, Boonara, Bunara, Buruwatung, Ilpara, Ilpira, Ilpirra, Ipara, Jalpiri, Kolo, Kukuruba, Lander Warlpiri, Manggai, Munga, Nam bulatji, Nam-bulatji, Nambuda, Nambulatji, Nambutj, Nambutju, Nanbuda, Ngadi, Ngali, Ngalia, Ngaliya, Ngallea, Ngallia, Ngardi, Ngardilpa, Ngardilypa, Ngari, Ngarilia, Ngarliya, Njalia, Njambalatji, Ooldean, Panara, Puruwantung, Ulperra, Valpiri, Waiangadi, Waiangara, Waibri, Waibry, Wailbri, Waingara, Wakirti Warlpiri, Wal bri, Wal-bri, Walbiri, Walbrai, Walbri, Waljbiri, Waljpiri, Walmala, Walmalla, Walmama, Walmanba, Walpari, Walpiri, Wanaeka, Wanajaga, Wanajaga., Wanajaka, Wanajeka, Wanayaga, Waneiga, Warangari, Waringari, Warlmala, Warnayaka, Warniaka, Warrabri, Warramulla, Warrmarla, Wawilja, Wolperi, Wolpirra, Wommana, Woneiga, Yarlpiri, Вальбири]
 population: 2300
 country_id: AU
 country_name: Australia

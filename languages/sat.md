@@ -2,7 +2,7 @@
 iso: sat
 name: Santali
 autonym: ᱥᱟᱱᱛᱟᱲᱤ
-alt_names: [Har, Hor, Idioma santalí, Język santali, Lenga santali, Lingua Santali, Língua santali, Sainti, Samtali, Sandal, Sangtal, Santala lingvo, Santaleg, Santali jezik, Santalin kieli, Santhal, Santhali, Santhiali, Santâlî, "Sat?r", Satar, Sentali, Sonthal, santal, Сантали, Сантали језик, संथाली, संथाळी भाषा, সাঁওতালি ভাষা, સંથાલી ભાષા, சந்த்தாளி மொழி, സന്താലി, ภาษาสันตาลี, サンタル語, 桑塔利语]
+alt_names: [Har, Hor, Sainti, Samtali, Sandal, Sangtal, Santaleg, Santhal, Santhali, Santhiali, Santâlî, "Sat?r", Satar, Sentali, Sonthal, santal, Сантали, संथाली, സന്താലി]
 population: 7620000
 country_id: IN
 country_name: India

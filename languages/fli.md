@@ -2,7 +2,7 @@
 iso: fli
 name: Fali
 autonym: Fali of Mubi
-alt_names: [Fali jezik, Fali of Muchella, Falieg, Group 11, Vimtim, Yimtim]
+alt_names: [Fali of Muchella, Falieg, Group 11, Vimtim, Yimtim]
 population: 25000
 country_id: NG
 country_name: Nigeria

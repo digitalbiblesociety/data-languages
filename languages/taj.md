@@ -2,7 +2,7 @@
 iso: taj
 name: Eastern Tamang
 autonym: तामाङ
-alt_names: [Murmi, Tamang, Tamang language, "Tamang, Eastern", "Tamang,Eastern", Таманґ, तामाङ भाषा, ภาษาตามัง, 达芒语]
+alt_names: [Murmi, Tamang, Tamang language, "Tamang, Eastern", "Tamang,Eastern", Таманґ]
 population: 1180000
 country_id: NP
 country_name: Nepal

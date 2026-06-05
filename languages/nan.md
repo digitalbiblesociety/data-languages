@@ -2,7 +2,7 @@
 iso: nan
 name: Min Nan Chinese
 autonym: Minnan
-alt_names: [Bahasa Hokkien, Bân-lâm-gú, Chaozhou, Chaozhou Chinese, Chinese, Chinese (Chaozhou), Chinese (Hokkien), "Chinese, Min Nan", "Chinese,MinNan", Ho-ló-fa, Hokkien, Hokkien Chinese, Język minnański, Min, Min (Southern), Min (Southern) dialect (Minnan), Min Dialect Family, Min Nan, Min-Nan, Mineg ar su, Minish Yiass, Mìng-nàng-ngṳ̄, Southern Min, Taiwanese, Tiếng Mân Nam, Xiamen, Zuidelijk Min, Южноминьский язык, مين نان, ภาษาหมิ่นหนาน, ደቡብ ሚንኛ, ビン南語, 閩南話, 閩南語, 闽南语, 민난어]
+alt_names: [Bân-lâm-gú, Chaozhou, Chaozhou Chinese, Chinese, Chinese (Chaozhou), Chinese (Hokkien), "Chinese, Min Nan", "Chinese,MinNan", Ho-ló-fa, Hokkien, Hokkien Chinese, Min, Min (Southern), Min (Southern) dialect (Minnan), Min Dialect Family, Min Nan, Min-Nan, Mineg ar su, Minish Yiass, Mìng-nàng-ngṳ̄, Southern Min, Taiwanese, Xiamen, Zuidelijk Min, مين نان, 閩南話]
 population: 50100000
 country_id: CN
 country_name: China

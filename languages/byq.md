@@ -2,7 +2,7 @@
 iso: byq
 name: Basay
 autonym: Basai
-alt_names: [Basayeg, Kawanuwan, Lingua Basay, Sprache von Formosa, ภาษาบาซาย]
+alt_names: [Basayeg, Kawanuwan]
 population: null
 country_id: TW
 country_name: Taiwan

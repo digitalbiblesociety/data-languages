@@ -2,7 +2,7 @@
 iso: mdr
 name: Mandar
 autonym: Andian
-alt_names: [Bahasa Mandar, Mandharsche, Manjar, Nordost-Celebes]
+alt_names: [Mandharsche, Manjar, Nordost-Celebes]
 population: 499000
 country_id: ID
 country_name: Indonesia

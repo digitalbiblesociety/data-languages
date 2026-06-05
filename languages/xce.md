@@ -2,7 +2,7 @@
 iso: xce
 name: Celtiberian
 autonym: "http://www.wikidata.org/.well-known/genid/de0e54d2f59c82f60f836e2d9fdcf81e"
-alt_names: [Celtiberico, Celtibère, Celtibèric, Hispano-Celtic, Idioma celtíbero, Język celtyberyjski, Keltiberies, Keltiberisch, Keltiberische Sprache, Keltiberisk, Keltiberščina, Keltibér nyelv, Línguas celtibéricas, Келтоиберски јазик, Кельтиберский язык, Кельтіберська мова, 凱爾特伊比利亞語]
+alt_names: [Celtiberico, Celtibère, Celtibèric, Hispano-Celtic, Keltiberies, Keltiberisch, Keltiberisk, Línguas celtibéricas]
 population: null
 country_id: ES
 country_name: Spain

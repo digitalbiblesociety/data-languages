@@ -2,7 +2,7 @@
 iso: trg
 name: Lishán Didán
 autonym: לשן דידן;
-alt_names: [Aramaic, Didaneg, Galihalu, Jewish Azerbaijani Neo-Aramaic, Lakhlokhi, Lishan Didan, Lishanid Nash Didán, Lishanán, Lishanán (Israel), Lishán didán jezik, Lişan Didan, Lišān Didān, Lišānān, Neo-Aramaic (Persian Azerbaijan), Persian Azerbaijan Jewish Aramaic, Soviet Azerbaijanian Subgroup, לשן דידן, לשנן, لشان ددان]
+alt_names: [Aramaic, Didaneg, Galihalu, Jewish Azerbaijani Neo-Aramaic, Lakhlokhi, Lishan Didan, Lishanid Nash Didán, Lishanán, Lishanán (Israel), Lişan Didan, Lišān Didān, Lišānān, Neo-Aramaic (Persian Azerbaijan), Persian Azerbaijan Jewish Aramaic, Soviet Azerbaijanian Subgroup, לשן דידן, לשנן, لشان ددان]
 population: 4230
 country_id: IL
 country_name: Israel

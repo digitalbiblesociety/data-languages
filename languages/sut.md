@@ -2,7 +2,7 @@
 iso: sut
 name: Subtiaba
 autonym: null
-alt_names: [Idioma subtiaba, Sutiaba, Tlapanec, Tlapaneco, Tlapaneco-Sutiaba, Tlapaneko]
+alt_names: [Sutiaba, Tlapanec, Tlapaneco, Tlapaneco-Sutiaba, Tlapaneko]
 population: null
 country_id: NI
 country_name: Nicaragua

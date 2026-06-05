@@ -2,7 +2,7 @@
 iso: hke
 name: Hunde
 autonym: Kihunde
-alt_names: [Język hunde, Kobi, Rukobi]
+alt_names: [Kobi, Rukobi]
 population: 200000
 country_id: CD
 country_name: DR Congo

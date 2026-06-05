@@ -2,7 +2,7 @@
 iso: cop
 name: Coptic
 autonym: ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ ~ ⲧⲙⲛ̄ⲧⲣⲙ̄ⲛ̄ⲕⲏⲙⲉ
-alt_names: [An Choptais, Basa Koptik, Copte, Copteg, Copto, Idioma copto, Język koptyjski, Kopt dili, Kopt nyelv, Kopta, Kopties, Koptiko, Koptin kieli, Koptisch, Koptische Sprache, Koptisk, Koptisk språk, Koptiska, Koptitongo, Koptski jezik, Koptíska, Koptština, Koptų kalba, Lingua Coptica, Lingua copta, Língua copta, Neo-Egyptian, Sahidic, Sahidic Coptic, Κοπτική γλώσσα, Коптски език, Коптский язык, Коптська мова, קופטית, لغة قبطية, لغه قبطى, კოპტური ენა, コプト・エジプト語, 科普特语, 콥트어]
+alt_names: [An Choptais, Copte, Copteg, Copto, Kopta, Kopties, Koptiko, Koptisch, Koptisk, Koptiska, Koptitongo, Koptíska, Neo-Egyptian, Sahidic, Sahidic Coptic, קופטית, لغه قبطى]
 population: null
 country_id: EG
 country_name: Egypt

@@ -2,7 +2,7 @@
 iso: khb
 name: Lü
 autonym: ᦅᧄᦺᦑ
-alt_names: [Dai, Dai Le, Duon, Lu, Lue, "Lue, Ly", Ly, Người Lự, "Pai'i'", Pai-I, Shui-Pai-I, Sipsongpanna Dai, Tai Lu, Tai Lü, Tai Lü language, Xishuangbanna Dai, ภาษาไทลื้อ, ພາສາໄທລື້, 傣仂語]
+alt_names: [Dai, Dai Le, Duon, Lu, Lue, "Lue, Ly", Ly, Người Lự, "Pai'i'", Pai-I, Shui-Pai-I, Sipsongpanna Dai, Tai Lu, Tai Lü, Tai Lü language, Xishuangbanna Dai]
 population: 554600
 country_id: CN
 country_name: China

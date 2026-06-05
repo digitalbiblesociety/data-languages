@@ -2,7 +2,7 @@
 iso: omi
 name: Omi
 autonym: "Kaliko-Omi"
-alt_names: [Omieg, Омиски јазик]
+alt_names: [Omieg]
 population: 91000
 country_id: CD
 country_name: DR Congo

@@ -2,7 +2,7 @@
 iso: aqp
 name: Atakapa
 autonym: Yukhiti
-alt_names: [Atakapa hizkuntza, Atakapan, Atakapeg, Attacapa, Attacapan, Eastern Atakapa, Idioma atakapa, Western Atakapa, Атакапа]
+alt_names: [Atakapa hizkuntza, Atakapan, Atakapeg, Attacapa, Attacapan, Eastern Atakapa, Western Atakapa, Атакапа]
 population: null
 country_id: US
 country_name: United States

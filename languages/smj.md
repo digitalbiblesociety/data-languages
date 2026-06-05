@@ -2,7 +2,7 @@
 iso: smj
 name: Lule Sami
 autonym: julevsámegiella
-alt_names: ["\"Lapp\"", "\"Lule Lapp\"", Central, Lapp, Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Lingua sami di Lule, Lule, Lule Lapp, Lule Lappish, Lule Saami, Lule saami keel, Lule-Lappisch, Lule-Lappish, Lule-Samisch, Lule-samea lingvo, Lulei számi nyelv, Lulelappisch, Lulesamisk, Lulesamisk språk, Lulesamiska, Luleská saamčina, Lulėjo samių kalba, Língua sami de Lule, Northern, Saame, Saami, "Saami, Lule", Saamish Lule, Saamí de Lule, Same de Lule, Sami lule, Samieg Lule, Schwedisch-Lappisch, Western, Westlappisch, lapin kieli, lapon, lappisk, lopary, lpLule, luulajansaame, saamen kieli, saamskij jazyk, sabme, same-, sami de Lule, schwedisch-lappische Dialektgruppe, sāme-giellâ, westlappischer Dialekt, Луле самиски јазик, Луле-саамски език, луле-саамский язык]
+alt_names: ["\"Lapp\"", "\"Lule Lapp\"", Central, Lapp, Lappic, Lappisch, Lappish, Lappish-Norwegian, Lappish-Swedish, Lule, Lule Lapp, Lule Lappish, Lule Saami, Lule-Lappisch, Lule-Lappish, Lule-Samisch, Lulelappisch, Lulesamisk, Lulesamiska, Northern, Saame, Saami, "Saami, Lule", Saamish Lule, Saamí de Lule, Same de Lule, Sami lule, Samieg Lule, Schwedisch-Lappisch, Western, Westlappisch, lapon, lappisk, lopary, lpLule, luulajansaame, sabme, same-, sami de Lule, schwedisch-lappische Dialektgruppe, sāme-giellâ, westlappischer Dialekt]
 population: 1500
 country_id: SE
 country_name: Sweden

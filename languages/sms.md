@@ -2,7 +2,7 @@
 iso: sms
 name: Skolt Sami
 autonym: nuõrttsääʹmǩiõll
-alt_names: ["\"Lapp\"", Eastern, Eastern Saami, Kola, Kola Saami, Kolta, Kolta számi nyelv, Koltansaame, Koltta, Lappic, Lappisch, Lappish, Lingua sami skolt, Lopar, Língua sami de Skolt, Nuortalašgiella, Ostlappisch, Russian Lapp, Russisch-Lappisch, Saam, Saame, Saami skolt, "Saami, Skolt", Saamí de Skolt, Same, Sami skolt, "Sami, Skolt", Samieg Skolt, Skolt, Skolt Lapp, Skolt Lappish, Skolt Saami, Skolt dialect, Skolt-Lappisch, Skolt-Samisch, Skolt-samea lingvo, Skoltesamisk, Skoltesamisk språk, Skoltesamiska, Skoltlappisch, Skolto samių kalba, Skoltsamische Sprache, Skoltsamiska, east dialect, lapin kieli, lapon, lappisk, lopary, lpSkolt, ostlappischer Dialekt, russisch-lappische Gruppe, saamen kieli, saamskij jazyk, sabme, same-, sääʹmǩiõll, sāme-giellâ, Сколт-саамски език, Сколтски самиски јазик, колтта-саамский язык]
+alt_names: ["\"Lapp\"", Eastern, Eastern Saami, Kola, Kola Saami, Kolta, Koltansaame, Koltta, Lappic, Lappisch, Lappish, Lopar, Nuortalašgiella, Ostlappisch, Russian Lapp, Russisch-Lappisch, Saam, Saame, Saami skolt, "Saami, Skolt", Saamí de Skolt, Same, Sami skolt, "Sami, Skolt", Samieg Skolt, Skolt, Skolt Lapp, Skolt Lappish, Skolt Saami, Skolt dialect, Skolt-Lappisch, Skolt-Samisch, Skoltesamisk, Skoltesamiska, Skoltlappisch, Skoltsamiska, east dialect, lapon, lappisk, lopary, lpSkolt, ostlappischer Dialekt, russisch-lappische Gruppe, sabme, same-, sääʹmǩiõll, sāme-giellâ]
 population: 320
 country_id: FI
 country_name: Finland

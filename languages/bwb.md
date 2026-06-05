@@ -2,7 +2,7 @@
 iso: bwb
 name: "Namosi-Naitasiri-Serua"
 autonym: "Namosi-Naitaasiri-Seerua"
-alt_names: [Fidji-Inseln, Lenga Namosi-Naitasiri-Serua, Namosi]
+alt_names: [Fidji-Inseln, Namosi]
 population: 1630
 country_id: FJ
 country_name: Fiji

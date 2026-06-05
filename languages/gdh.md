@@ -2,7 +2,7 @@
 iso: gdh
 name: Gadjerawang
 autonym: Gadjerong
-alt_names: [Gadjarawang, Gadyerong, Gadyerrong, Gajirrabeng, Gajirrabeng language, Gajirrawoong, Garjirrabeng, Ginmu, Kadjarong, Kadjerawang, Kadjeroen, Kadjerong, Kajirrawung, Kujera, Lenga gadjerawang]
+alt_names: [Gadjarawang, Gadyerong, Gadyerrong, Gajirrabeng, Gajirrabeng language, Gajirrawoong, Garjirrabeng, Ginmu, Kadjarong, Kadjerawang, Kadjeroen, Kadjerong, Kajirrawung, Kujera]
 population: 10
 country_id: AU
 country_name: Australia
