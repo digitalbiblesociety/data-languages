@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アバディ語
     auto: true
+  - translation_iso: por
+    name: Abadi
+    auto: true
   - translation_iso: spa
     name: Abadi
     auto: true

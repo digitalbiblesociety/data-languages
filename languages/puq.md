@@ -26,6 +26,8 @@ translations:
     name: Puquina語
   - translation_iso: kor
     name: 푸키나어
+  - translation_iso: por
+    name: Língua puquina
   - translation_iso: spa
     name: puquina
   - translation_iso: zho

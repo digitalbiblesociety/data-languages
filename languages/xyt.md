@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: マイイ・タクルティ語
     auto: true
+  - translation_iso: por
+    name: mayi-thakurti
+    auto: true
   - translation_iso: spa
     name: Mayi-Thakurti
     auto: true

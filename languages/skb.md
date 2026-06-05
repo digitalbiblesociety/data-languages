@@ -29,6 +29,9 @@ translations:
     name: 石語
   - translation_iso: kor
     name: 색어
+  - translation_iso: por
+    name: Saek
+    auto: true
   - translation_iso: spa
     name: Idioma saek
   - translation_iso: zho

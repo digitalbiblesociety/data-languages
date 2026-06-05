@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バントアノン語
     auto: true
+  - translation_iso: por
+    name: bantoanon
   - translation_iso: spa
     name: bantonés
   - translation_iso: zho

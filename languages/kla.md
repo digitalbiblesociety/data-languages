@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: クラマス・モドック語
     auto: true
+  - translation_iso: por
+    name: Klamath-Modoc
+    auto: true
   - translation_iso: spa
     name: idioma klamath-modoc
   - translation_iso: zho

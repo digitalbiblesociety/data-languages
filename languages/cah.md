@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カワラノ語
+  - translation_iso: por
+    name: Cahuarano
+    auto: true
   - translation_iso: spa
     name: cahuarano
   - translation_iso: zho

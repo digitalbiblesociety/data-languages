@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤグウォイア語
+  - translation_iso: por
+    name: yagwoia
+    auto: true
   - translation_iso: spa
     name: Yagwoia
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ララナ・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Chinanteco de Lalana
+    auto: true
   - translation_iso: spa
     name: chinanteca de Lalana
   - translation_iso: zho

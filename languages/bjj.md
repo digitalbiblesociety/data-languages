@@ -28,6 +28,8 @@ translations:
     name: कन्नौजी
   - translation_iso: jpn
     name: カナウジ語
+  - translation_iso: por
+    name: Língua kannauji
   - translation_iso: spa
     name: Kanauji
     auto: true

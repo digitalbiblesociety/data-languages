@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: サアフィサアフィ語
     auto: true
+  - translation_iso: por
+    name: Língua safene
   - translation_iso: spa
     name: Saafi-Saafi
     auto: true

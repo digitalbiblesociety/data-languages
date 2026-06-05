@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 南部アルタ語
     auto: true
+  - translation_iso: por
+    name: Alta do Sul
+    auto: true
   - translation_iso: spa
     name: Alta meridional
     auto: true

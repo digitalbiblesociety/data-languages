@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムワンガ語
+  - translation_iso: por
+    name: Língua nhamuanga
   - translation_iso: spa
     name: Nyamwanga
     auto: true

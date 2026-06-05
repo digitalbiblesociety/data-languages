@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カルムパン語
     auto: true
+  - translation_iso: por
+    name: Kalumpang
+    auto: true
   - translation_iso: spa
     name: Kalumpang
     auto: true

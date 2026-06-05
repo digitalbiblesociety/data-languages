@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ポートソレル・タスマニア語
     auto: true
+  - translation_iso: por
+    name: Tasmaniano de Port Sorell
+    auto: true
   - translation_iso: spa
     name: Tasmanio de Port Sorell
     auto: true

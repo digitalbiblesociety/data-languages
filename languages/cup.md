@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クペニョ語
     auto: true
+  - translation_iso: por
+    name: Cupeño
+    auto: true
   - translation_iso: spa
     name: idioma cupeño
   - translation_iso: zho

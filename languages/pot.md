@@ -29,6 +29,8 @@ translations:
     name: ポタワトミ語
   - translation_iso: kor
     name: 포타와토미어
+  - translation_iso: por
+    name: Potawatomi
   - translation_iso: spa
     name: potawatomi
   - translation_iso: zho

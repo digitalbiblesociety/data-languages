@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アプリニャ語
+  - translation_iso: por
+    name: apurinã
   - translation_iso: spa
     name: apurinã
   - translation_iso: zho

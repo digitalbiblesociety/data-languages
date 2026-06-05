@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: アカセレム語
     auto: true
+  - translation_iso: por
+    name: Língua akaselem
   - translation_iso: spa
     name: Akaselem
     auto: true

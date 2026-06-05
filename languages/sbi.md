@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セティ語
     auto: true
+  - translation_iso: por
+    name: Seti
+    auto: true
   - translation_iso: spa
     name: hidrogeno
   - translation_iso: zho

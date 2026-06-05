@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ングングウェル語
     auto: true
+  - translation_iso: por
+    name: Ngungwel
+    auto: true
   - translation_iso: spa
     name: Ngungwel
     auto: true

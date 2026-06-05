@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ロパ語
     auto: true
+  - translation_iso: por
+    name: Lopa
+    auto: true
   - translation_iso: spa
     name: Lopa
     auto: true

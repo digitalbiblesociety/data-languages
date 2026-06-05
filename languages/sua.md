@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スルカ語
+  - translation_iso: por
+    name: Língua sulka
   - translation_iso: spa
     name: Idioma sulka
   - translation_iso: zho

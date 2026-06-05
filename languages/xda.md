@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダルキニユング語
     auto: true
+  - translation_iso: por
+    name: Darkinyung
+    auto: true
   - translation_iso: spa
     name: Idioma darkinjung
   - translation_iso: zho

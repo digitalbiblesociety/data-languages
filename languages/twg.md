@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テレウェング語
     auto: true
+  - translation_iso: por
+    name: Tereweng
+    auto: true
   - translation_iso: spa
     name: Tereweng
     auto: true

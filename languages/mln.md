@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マランゴ語
     auto: true
+  - translation_iso: por
+    name: Malango
+    auto: true
   - translation_iso: spa
     name: Malango
     auto: true

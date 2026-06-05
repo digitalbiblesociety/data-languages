@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ケンベラノ語
     auto: true
+  - translation_iso: por
+    name: Kemberano
+    auto: true
   - translation_iso: spa
     name: Kemberano
     auto: true

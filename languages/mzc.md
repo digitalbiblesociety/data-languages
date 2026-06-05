@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マダガスカル手話
+  - translation_iso: por
+    name: Língua de Sinais de Madagáscar
   - translation_iso: spa
     name: Lengua de señas de Madagascar
     auto: true

@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: オルコル語
     auto: true
+  - translation_iso: por
+    name: Olkol
+    auto: true
   - translation_iso: spa
     name: Olkol
     auto: true

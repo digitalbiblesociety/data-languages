@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マルーボ語
     auto: true
+  - translation_iso: por
+    name: Língua marubo
   - translation_iso: spa
     name: idioma Marubo
   - translation_iso: zho

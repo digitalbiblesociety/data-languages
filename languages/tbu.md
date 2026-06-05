@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トゥバル語
     auto: true
+  - translation_iso: por
+    name: Tubar
+    auto: true
   - translation_iso: spa
     name: tubar
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヌマナ語
     auto: true
+  - translation_iso: por
+    name: Numana
+    auto: true
   - translation_iso: spa
     name: Numana
     auto: true

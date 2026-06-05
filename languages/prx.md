@@ -27,6 +27,9 @@ translations:
     name: पुरगी भाषा
   - translation_iso: jpn
     name: ブリグ
+  - translation_iso: por
+    name: Purik
+    auto: true
   - translation_iso: spa
     name: idioma purik
   - translation_iso: zho

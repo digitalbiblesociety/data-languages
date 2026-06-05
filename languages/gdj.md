@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グルッジャル語
     auto: true
+  - translation_iso: por
+    name: Gurdjar
+    auto: true
   - translation_iso: spa
     name: Idioma gurdjar
   - translation_iso: zho

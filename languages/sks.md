@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ピラ語
     auto: true
+  - translation_iso: por
+    name: Maia
+    auto: true
   - translation_iso: spa
     name: Maia
     auto: true

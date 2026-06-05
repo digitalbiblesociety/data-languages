@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロディ語
     auto: true
+  - translation_iso: por
+    name: Lodhi
+    auto: true
   - translation_iso: spa
     name: Lodhi
     auto: true

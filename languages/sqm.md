@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ソウマ語
     auto: true
+  - translation_iso: por
+    name: Suma
+    auto: true
   - translation_iso: spa
     name: Suma
     auto: true

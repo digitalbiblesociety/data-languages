@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ナリナリ語
     auto: true
+  - translation_iso: por
+    name: Nari Nari
+    auto: true
   - translation_iso: spa
     name: Nari Nari
     auto: true

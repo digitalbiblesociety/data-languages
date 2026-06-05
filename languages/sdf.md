@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゴーラーニー語
     auto: true
+  - translation_iso: por
+    name: Sarli
+    auto: true
   - translation_iso: spa
     name: Sarli
     auto: true

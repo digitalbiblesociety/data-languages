@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: リマッサ語
     auto: true
+  - translation_iso: por
+    name: Limassa
+    auto: true
   - translation_iso: spa
     name: Limassa
     auto: true

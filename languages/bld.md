@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボランゴ語
+  - translation_iso: por
+    name: Bolango
+    auto: true
   - translation_iso: spa
     name: Bolango
     auto: true

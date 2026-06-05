@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オルムル語
+  - translation_iso: por
+    name: Língua ormuri
   - translation_iso: spa
     name: Ormuri
   - translation_iso: zho

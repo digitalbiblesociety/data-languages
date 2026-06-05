@@ -28,6 +28,8 @@ translations:
     name: コスラエ語
   - translation_iso: kor
     name: 코스라에어
+  - translation_iso: por
+    name: Língua kosreana
   - translation_iso: spa
     name: kosraeano
   - translation_iso: zho

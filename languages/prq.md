@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アシェニンカペレネ語
     auto: true
+  - translation_iso: por
+    name: Ashéninka Perené
+    auto: true
   - translation_iso: spa
     name: Ashéninka Perené
     auto: true

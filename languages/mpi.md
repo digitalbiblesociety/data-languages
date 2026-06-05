@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ムパデ語
     auto: true
+  - translation_iso: por
+    name: Mpade
+    auto: true
   - translation_iso: spa
     name: Mpade
     auto: true

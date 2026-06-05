@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヨケ語
     auto: true
+  - translation_iso: por
+    name: yoke
+    auto: true
   - translation_iso: spa
     name: Yoke
     auto: true

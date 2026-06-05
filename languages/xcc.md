@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カムニック語
+  - translation_iso: por
+    name: Camúnico
+    auto: true
   - translation_iso: spa
     name: Idioma camúnico
   - translation_iso: zho

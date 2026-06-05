@@ -29,6 +29,8 @@ translations:
     name: 湘語
   - translation_iso: kor
     name: 샹어
+  - translation_iso: por
+    name: xiang
   - translation_iso: spa
     name: xiang
   - translation_iso: zho

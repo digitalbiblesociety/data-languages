@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンジャル語
+  - translation_iso: por
+    name: Língua bandial
   - translation_iso: spa
     name: Bandial
     auto: true

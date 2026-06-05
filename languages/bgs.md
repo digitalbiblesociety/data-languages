@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: タガバワ語
     auto: true
+  - translation_iso: por
+    name: Língua tagabawa
   - translation_iso: spa
     name: Tagabawa
     auto: true

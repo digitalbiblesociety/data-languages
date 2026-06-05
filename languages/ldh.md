@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラムジャ・デンサ・トラ語
     auto: true
+  - translation_iso: por
+    name: Lamja-Dengsa-Tola
+    auto: true
   - translation_iso: spa
     name: Lamja-Dengsa-Tola
     auto: true

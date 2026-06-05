@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ニャンクパ語
     auto: true
+  - translation_iso: por
+    name: nyankpa
+    auto: true
   - translation_iso: spa
     name: Nyankpa
     auto: true

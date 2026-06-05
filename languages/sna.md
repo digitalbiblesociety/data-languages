@@ -28,6 +28,8 @@ translations:
     name: ショナ語
   - translation_iso: kor
     name: 쇼나어
+  - translation_iso: por
+    name: Língua chona
   - translation_iso: spa
     name: shona
   - translation_iso: zho

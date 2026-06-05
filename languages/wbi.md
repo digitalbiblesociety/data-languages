@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヴワンジ語
     auto: true
+  - translation_iso: por
+    name: Vwanji
+    auto: true
   - translation_iso: spa
     name: Vwanji
     auto: true

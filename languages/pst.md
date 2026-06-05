@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中部パシュトー語
+  - translation_iso: por
+    name: Pashto Central
+    auto: true
   - translation_iso: spa
     name: Pastún central
     auto: true

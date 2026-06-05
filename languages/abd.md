@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マニデ語
     auto: true
+  - translation_iso: por
+    name: Língua manide
   - translation_iso: spa
     name: agta de Camarines Norte
   - translation_iso: zho

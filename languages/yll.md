@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 일어
+  - translation_iso: por
+    name: yil
+    auto: true
   - translation_iso: spa
     name: Yil
     auto: true

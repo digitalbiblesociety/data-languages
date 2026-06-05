@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ミナング語
     auto: true
+  - translation_iso: por
+    name: Minang
+    auto: true
   - translation_iso: spa
     name: Minang
     auto: true

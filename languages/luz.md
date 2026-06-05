@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南ロル語
+  - translation_iso: por
+    name: Luri do Sul
+    auto: true
   - translation_iso: spa
     name: Luri meridional
     auto: true

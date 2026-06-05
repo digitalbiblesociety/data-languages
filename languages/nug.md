@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヌンガリ語
     auto: true
+  - translation_iso: por
+    name: Nungali
+    auto: true
   - translation_iso: spa
     name: Nungali
     auto: true

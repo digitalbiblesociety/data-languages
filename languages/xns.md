@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カナシ語
     auto: true
+  - translation_iso: por
+    name: Kanashi
+    auto: true
   - translation_iso: spa
     name: Kanashi
     auto: true

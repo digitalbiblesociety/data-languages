@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベアミ語
     auto: true
+  - translation_iso: por
+    name: Beami
+    auto: true
   - translation_iso: spa
     name: Beami
     auto: true

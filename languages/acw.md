@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラビア語ヒジャーズ方言
+  - translation_iso: por
+    name: Árabe hejazi
   - translation_iso: spa
     name: Árabe hiyazí
   - translation_iso: zho

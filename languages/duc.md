@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ドゥナ語
     auto: true
+  - translation_iso: por
+    name: Duna
+    auto: true
   - translation_iso: spa
     name: Duna
     auto: true

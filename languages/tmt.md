@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タスマテ語
     auto: true
+  - translation_iso: por
+    name: Tasmate
+    auto: true
   - translation_iso: spa
     name: Tasmate
     auto: true

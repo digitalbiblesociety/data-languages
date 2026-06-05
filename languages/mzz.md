@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マイアドム語
     auto: true
+  - translation_iso: por
+    name: Maiadomu
+    auto: true
   - translation_iso: spa
     name: Maiadomu
     auto: true

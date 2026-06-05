@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イェルメク語
+  - translation_iso: por
+    name: Yelmek
+    auto: true
   - translation_iso: spa
     name: Yelmek
     auto: true

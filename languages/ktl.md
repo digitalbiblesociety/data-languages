@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コロシ語
     auto: true
+  - translation_iso: por
+    name: Koroshi
+    auto: true
   - translation_iso: spa
     name: Koroshi
     auto: true

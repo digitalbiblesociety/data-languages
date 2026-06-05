@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ホイーニ語
     auto: true
+  - translation_iso: por
+    name: "Kho'ini"
+    auto: true
   - translation_iso: spa
     name: "Kho'ini"
     auto: true

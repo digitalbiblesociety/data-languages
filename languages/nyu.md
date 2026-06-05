@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニュングウェ語
+  - translation_iso: por
+    name: Língua cinyungwe
   - translation_iso: spa
     name: Nyungwe
     auto: true

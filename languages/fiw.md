@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フィワガ語
     auto: true
+  - translation_iso: por
+    name: Fiwaga
+    auto: true
   - translation_iso: spa
     name: Fiwaga
     auto: true

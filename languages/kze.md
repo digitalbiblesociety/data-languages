@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: コセナ語
     auto: true
+  - translation_iso: por
+    name: Kosena
+    auto: true
   - translation_iso: spa
     name: Kosena
     auto: true

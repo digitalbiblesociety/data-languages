@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マシ語
     auto: true
+  - translation_iso: por
+    name: Mashi (Zâmbia)
+    auto: true
   - translation_iso: spa
     name: Idioma mashi
   - translation_iso: zho

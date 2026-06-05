@@ -29,6 +29,8 @@ translations:
     name: コマンチェ語
   - translation_iso: kor
     name: 코만치어
+  - translation_iso: por
+    name: Língua comanche
   - translation_iso: spa
     name: Idioma comanche
   - translation_iso: zho

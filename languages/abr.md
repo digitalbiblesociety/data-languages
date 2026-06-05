@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アブロン語
+  - translation_iso: por
+    name: Língua abron
   - translation_iso: spa
     name: Abron
     auto: true

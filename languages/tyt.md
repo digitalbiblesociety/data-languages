@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイー・タック語
+  - translation_iso: por
+    name: Tày Tac
+    auto: true
   - translation_iso: spa
     name: Tày Tac
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ディメ語
     auto: true
+  - translation_iso: por
+    name: Dime
+    auto: true
   - translation_iso: spa
     name: Dime
     auto: true

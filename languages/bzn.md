@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボアノ・マルク語
     auto: true
+  - translation_iso: por
+    name: Boano (Molucas)
+    auto: true
   - translation_iso: spa
     name: Boano (Maluku)
     auto: true

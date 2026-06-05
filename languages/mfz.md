@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: マバアン語
     auto: true
+  - translation_iso: por
+    name: Mabaan
+    auto: true
   - translation_iso: spa
     name: Mabaan
     auto: true

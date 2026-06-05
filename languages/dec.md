@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ダギク語
     auto: true
+  - translation_iso: por
+    name: Língua dengebu
   - translation_iso: spa
     name: Dagik
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブラ・パビール語
     auto: true
+  - translation_iso: por
+    name: Bura-Pabir
+    auto: true
   - translation_iso: spa
     name: Bura-Pabir
     auto: true

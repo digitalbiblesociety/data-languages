@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ダットン・ワールド・スピードワーズ語
     auto: true
+  - translation_iso: por
+    name: Dutton World Speedwords
+    auto: true
   - translation_iso: spa
     name: Dutton World Speedwords
     auto: true

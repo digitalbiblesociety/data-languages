@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ニョン語
     auto: true
+  - translation_iso: por
+    name: Nyong
+    auto: true
   - translation_iso: spa
     name: Nyong
     auto: true

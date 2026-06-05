@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クワンガ語
     auto: true
+  - translation_iso: por
+    name: Kwanga
+    auto: true
   - translation_iso: spa
     name: Kwanga
     auto: true

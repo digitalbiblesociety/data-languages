@@ -29,6 +29,8 @@ translations:
     name: バツ語
   - translation_iso: kor
     name: 바츠어
+  - translation_iso: por
+    name: língua bats
   - translation_iso: spa
     name: Bats
     auto: true

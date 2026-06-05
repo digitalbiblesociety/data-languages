@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キアビクザス・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Quiavicuzas
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Quiavicuzas
     auto: true

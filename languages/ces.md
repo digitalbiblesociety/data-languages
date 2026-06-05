@@ -28,6 +28,8 @@ translations:
     name: チェコ語
   - translation_iso: kor
     name: 체코어
+  - translation_iso: por
+    name: checo
   - translation_iso: spa
     name: checo
   - translation_iso: zho

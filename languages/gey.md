@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エーニャ語
     auto: true
+  - translation_iso: por
+    name: Enya
+    auto: true
   - translation_iso: spa
     name: Enya
     auto: true

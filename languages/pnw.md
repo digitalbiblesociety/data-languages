@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バンジマ語
     auto: true
+  - translation_iso: por
+    name: Banyjima
+    auto: true
   - translation_iso: spa
     name: Banyjima
     auto: true

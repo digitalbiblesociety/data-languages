@@ -21,6 +21,8 @@ translations:
     name: グレボ語
   - translation_iso: kor
     name: 그레보어
+  - translation_iso: por
+    name: grebo
   - translation_iso: spa
     name: grebo
   - translation_iso: zho

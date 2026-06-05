@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: バライ語
     auto: true
+  - translation_iso: por
+    name: Língua barai
   - translation_iso: spa
     name: Barai
     auto: true

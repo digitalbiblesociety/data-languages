@@ -25,6 +25,8 @@ translations:
     name: काटा कोलोक
   - translation_iso: jpn
     name: カタ・コロック
+  - translation_iso: por
+    name: Língua de Sinais Kata Kolok
   - translation_iso: spa
     name: Desa Kolok
   - translation_iso: zho

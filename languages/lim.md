@@ -28,6 +28,8 @@ translations:
     name: リンブルフ語
   - translation_iso: kor
     name: 림뷔르흐어
+  - translation_iso: por
+    name: língua limburguesa
   - translation_iso: spa
     name: limburgués
   - translation_iso: zho

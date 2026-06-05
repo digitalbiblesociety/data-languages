@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モンボ・ドゴン語
     auto: true
+  - translation_iso: por
+    name: Dogon Mombo
+    auto: true
   - translation_iso: spa
     name: Dogon Mombo
     auto: true

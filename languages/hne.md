@@ -28,6 +28,8 @@ translations:
     name: チャッティースガリー語
   - translation_iso: kor
     name: 차티스가르어
+  - translation_iso: por
+    name: Língua chhattisgarhi
   - translation_iso: spa
     name: chatisgarí
   - translation_iso: zho

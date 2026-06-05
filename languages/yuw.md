@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤウ語（モロベ州）
     auto: true
+  - translation_iso: por
+    name: yau (Província de Morobe)
+    auto: true
   - translation_iso: spa
     name: Yau (Provincia de Morobe)
     auto: true

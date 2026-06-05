@@ -29,6 +29,8 @@ translations:
     name: セネカ語
   - translation_iso: kor
     name: 세네카어
+  - translation_iso: por
+    name: Língua seneca
   - translation_iso: spa
     name: Seneca
   - translation_iso: zho

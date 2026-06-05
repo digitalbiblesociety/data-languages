@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ペタパ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Petapa
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Petapa
     auto: true

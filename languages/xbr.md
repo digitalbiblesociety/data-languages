@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンベラ
+  - translation_iso: por
+    name: Língua kambera
   - translation_iso: spa
     name: Kambera
     auto: true

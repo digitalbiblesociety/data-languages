@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ラフル・ロハル語
     auto: true
+  - translation_iso: por
+    name: Lahul Lohar
+    auto: true
   - translation_iso: spa
     name: Lahul lohar
     auto: true

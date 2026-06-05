@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サルグジャ語
+  - translation_iso: por
+    name: Surgujia
+    auto: true
   - translation_iso: spa
     name: Surgujia
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンコヤ語
     auto: true
+  - translation_iso: por
+    name: Nkoya
+    auto: true
   - translation_iso: spa
     name: Nkoya
     auto: true

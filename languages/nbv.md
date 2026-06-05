@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ングアマンボ語
     auto: true
+  - translation_iso: por
+    name: Ngamambo
+    auto: true
   - translation_iso: spa
     name: Ngamambo
     auto: true

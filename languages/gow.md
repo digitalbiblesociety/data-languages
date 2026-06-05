@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴロア語
+  - translation_iso: por
+    name: Gorowa
+    auto: true
   - translation_iso: spa
     name: Gorowa
     auto: true

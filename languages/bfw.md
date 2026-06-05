@@ -27,6 +27,9 @@ translations:
     name: रेमो भाषा
   - translation_iso: jpn
     name: ボンド語
+  - translation_iso: por
+    name: Bondo
+    auto: true
   - translation_iso: spa
     name: Bondo
     auto: true

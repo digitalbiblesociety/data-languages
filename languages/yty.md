@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ヤタイ語
     auto: true
+  - translation_iso: por
+    name: yatay
+    auto: true
   - translation_iso: spa
     name: Yatay
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: フリュギア語
   - translation_iso: kor
     name: 프리기아어
+  - translation_iso: por
+    name: Língua frígia
   - translation_iso: spa
     name: frigio
   - translation_iso: zho

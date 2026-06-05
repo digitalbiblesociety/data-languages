@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウィサイ語
     auto: true
+  - translation_iso: por
+    name: Uisai
+    auto: true
   - translation_iso: spa
     name: Uisai
     auto: true

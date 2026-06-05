@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナスカピ語
+  - translation_iso: por
+    name: Naskapi
+    auto: true
   - translation_iso: spa
     name: idioma naskapi
   - translation_iso: zho

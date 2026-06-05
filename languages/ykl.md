@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クルラ語
     auto: true
+  - translation_iso: por
+    name: khlula
+    auto: true
   - translation_iso: spa
     name: Khlula
     auto: true

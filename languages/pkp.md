@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プカプカ語
+  - translation_iso: por
+    name: língua pakapuka
   - translation_iso: spa
     name: idioma pukapukano
   - translation_iso: zho

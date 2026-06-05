@@ -28,6 +28,8 @@ translations:
     name: कुलुई
   - translation_iso: jpn
     name: クッルー・パハリー語
+  - translation_iso: por
+    name: Língua kullui
   - translation_iso: spa
     name: Pahari de Kullu
     auto: true

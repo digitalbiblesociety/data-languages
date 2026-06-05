@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メードヌイ・アレウト語
+  - translation_iso: por
+    name: aleúte de Mednyj
+    auto: true
   - translation_iso: spa
     name: Aleutiano de Medny
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コカタ語
     auto: true
+  - translation_iso: por
+    name: Kokata
+    auto: true
   - translation_iso: spa
     name: Kokata
     auto: true

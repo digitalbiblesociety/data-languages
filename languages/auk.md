@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヘヨ語
     auto: true
+  - translation_iso: por
+    name: Heyo
+    auto: true
   - translation_iso: spa
     name: Heyo
     auto: true

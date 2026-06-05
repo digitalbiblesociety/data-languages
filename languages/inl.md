@@ -26,6 +26,8 @@ translations:
     name: इंडोनेशियाई सांकेतिक भाषा
   - translation_iso: jpn
     name: インドネシア手話
+  - translation_iso: por
+    name: língua de sinais indonésia
   - translation_iso: spa
     name: Lengua de señas indonesia
     auto: true

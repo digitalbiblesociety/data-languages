@@ -28,6 +28,9 @@ translations:
     name: 宜蘭クレオール
   - translation_iso: kor
     name: 이란 크리올 일본어
+  - translation_iso: por
+    name: crioulo de Yilan
+    auto: true
   - translation_iso: spa
     name: Criollo de Yilan
   - translation_iso: zho

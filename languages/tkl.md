@@ -28,6 +28,8 @@ translations:
     name: トケラウ語
   - translation_iso: kor
     name: 토켈라우어
+  - translation_iso: por
+    name: língua toquelauana
   - translation_iso: spa
     name: tokelauano
   - translation_iso: zho

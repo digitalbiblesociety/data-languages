@@ -27,6 +27,9 @@ translations:
     name: सूरजापुरी भाषा
   - translation_iso: jpn
     name: スルジャプリ語
+  - translation_iso: por
+    name: Surjapuri
+    auto: true
   - translation_iso: spa
     name: Surjapuri
     auto: true

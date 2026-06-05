@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チュアヴェ語
+  - translation_iso: por
+    name: Chuave
+    auto: true
   - translation_iso: spa
     name: Chuave
     auto: true

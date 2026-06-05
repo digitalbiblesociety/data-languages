@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウィニェ語
     auto: true
+  - translation_iso: por
+    name: Winyé
+    auto: true
   - translation_iso: spa
     name: Winyé
     auto: true

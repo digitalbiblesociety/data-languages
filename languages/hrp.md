@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ニリッピ語
     auto: true
+  - translation_iso: por
+    name: Nhirrpi
+    auto: true
   - translation_iso: spa
     name: Nhirrpi
     auto: true

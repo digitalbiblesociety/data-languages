@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北ヌアウル語
     auto: true
+  - translation_iso: por
+    name: Nuaulu do Norte
+    auto: true
   - translation_iso: spa
     name: Nuaulu septentrional
     auto: true

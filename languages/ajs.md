@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アルジェリア・ユダヤ・サイン・ランゲージ語
     auto: true
+  - translation_iso: por
+    name: Língua de Sinais Judaica Argelina
+    auto: true
   - translation_iso: spa
     name: Lengua de señas judía argelina
     auto: true

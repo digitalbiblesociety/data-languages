@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ネハン語
     auto: true
+  - translation_iso: por
+    name: Nehan
+    auto: true
   - translation_iso: spa
     name: Idioma nehan
   - translation_iso: zho

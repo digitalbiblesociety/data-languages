@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チシンギニ語
     auto: true
+  - translation_iso: por
+    name: Cishingini
+    auto: true
   - translation_iso: spa
     name: Cishingini
     auto: true

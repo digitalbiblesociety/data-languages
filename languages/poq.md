@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テキステペックポプロッカ語
     auto: true
+  - translation_iso: por
+    name: Popoluca de Texistepec
+    auto: true
   - translation_iso: spa
     name: Idioma popoluca (Texistepec)
   - translation_iso: zho

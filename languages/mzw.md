@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: デグ語
     auto: true
+  - translation_iso: por
+    name: Deg
+    auto: true
   - translation_iso: spa
     name: Deg
     auto: true

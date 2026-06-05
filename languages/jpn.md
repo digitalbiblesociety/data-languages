@@ -28,6 +28,8 @@ translations:
     name: 日本語
   - translation_iso: kor
     name: 일본어
+  - translation_iso: por
+    name: japonês
   - translation_iso: spa
     name: japonés
   - translation_iso: zho

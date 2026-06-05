@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ントンバ語
     auto: true
+  - translation_iso: por
+    name: Ntomba
+    auto: true
   - translation_iso: spa
     name: ntomba
   - translation_iso: zho

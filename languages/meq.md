@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: メレイ語
     auto: true
+  - translation_iso: por
+    name: Merey
+    auto: true
   - translation_iso: spa
     name: Merey
     auto: true

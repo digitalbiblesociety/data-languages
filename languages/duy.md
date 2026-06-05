@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ディカマイ・アグタ語
     auto: true
+  - translation_iso: por
+    name: Agta de Dicamay
+    auto: true
   - translation_iso: spa
     name: Agta Dicamay
     auto: true

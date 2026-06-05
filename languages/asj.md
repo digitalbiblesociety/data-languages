@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Saari語
+  - translation_iso: por
+    name: Sari
+    auto: true
   - translation_iso: spa
     name: Sari
     auto: true

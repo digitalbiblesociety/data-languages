@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミニカ・ウイトト語
     auto: true
+  - translation_iso: por
+    name: Huitoto Minica
+    auto: true
   - translation_iso: spa
     name: meneca
   - translation_iso: zho

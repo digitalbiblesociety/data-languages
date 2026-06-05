@@ -28,6 +28,8 @@ translations:
     name: ネパール・バサ語
   - translation_iso: kor
     name: 네와르어
+  - translation_iso: por
+    name: Língua bhasa
   - translation_iso: spa
     name: Newari
   - translation_iso: zho

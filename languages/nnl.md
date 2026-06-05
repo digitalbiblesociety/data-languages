@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北レングマ・ナガ語
+  - translation_iso: por
+    name: Naga Rengma do Norte
+    auto: true
   - translation_iso: spa
     name: Ntenyi
   - translation_iso: zho

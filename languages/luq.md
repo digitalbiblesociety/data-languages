@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ルクミ語
     auto: true
+  - translation_iso: por
+    name: Língua lucumi
   - translation_iso: spa
     name: Idioma lucumí
   - translation_iso: zho

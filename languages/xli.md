@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リブルニア語
+  - translation_iso: por
+    name: Liburnico
+    auto: true
   - translation_iso: spa
     name: Liburnio
     auto: true

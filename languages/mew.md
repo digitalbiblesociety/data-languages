@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マアカ語
     auto: true
+  - translation_iso: por
+    name: Maaka
+    auto: true
   - translation_iso: spa
     name: Maaka
     auto: true

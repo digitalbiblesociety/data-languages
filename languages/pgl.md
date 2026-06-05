@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 原アイルランド語
+  - translation_iso: por
+    name: Irlandês arcaico
   - translation_iso: spa
     name: paleoirlandés
   - translation_iso: zho

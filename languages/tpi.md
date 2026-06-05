@@ -27,6 +27,8 @@ translations:
     name: トク・ピシン
   - translation_iso: kor
     name: 톡 피신
+  - translation_iso: por
+    name: Tok Pisin
   - translation_iso: spa
     name: tok pisin
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バキ語
     auto: true
+  - translation_iso: por
+    name: Baki
+    auto: true
   - translation_iso: spa
     name: Baki
     auto: true

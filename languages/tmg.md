@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: テルナテーニョ語
     auto: true
+  - translation_iso: por
+    name: Portugis
   - translation_iso: spa
     name: Ternateño
     auto: true

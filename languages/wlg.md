@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クンバルラン語
     auto: true
+  - translation_iso: por
+    name: Kunbarlang
+    auto: true
   - translation_iso: spa
     name: Kunbarlang
     auto: true

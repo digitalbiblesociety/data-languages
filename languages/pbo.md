@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: パペル語
     auto: true
+  - translation_iso: por
+    name: Papel
+    auto: true
   - translation_iso: spa
     name: Papel
     auto: true

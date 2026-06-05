@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カチャ・カドゥグリ・ミリ語
     auto: true
+  - translation_iso: por
+    name: Língua kadugli
   - translation_iso: spa
     name: Katcha-Kadugli-Miri
     auto: true

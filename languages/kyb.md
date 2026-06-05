@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ブットブット・カリンガ語
     auto: true
+  - translation_iso: por
+    name: Kalinga de Butbut
+    auto: true
   - translation_iso: spa
     name: Kalinga Butbut
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バタク・シマルングン語
+  - translation_iso: por
+    name: Batak Simalungun
+    auto: true
   - translation_iso: spa
     name: Idioma Batak Simalungun
   - translation_iso: zho

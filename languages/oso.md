@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オソソ語
     auto: true
+  - translation_iso: por
+    name: Ososo
+    auto: true
   - translation_iso: spa
     name: Ososo
     auto: true

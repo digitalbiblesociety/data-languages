@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムワテブ語
     auto: true
+  - translation_iso: por
+    name: Mwatebu
+    auto: true
   - translation_iso: spa
     name: mwatebu
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: パウマリ語
     auto: true
+  - translation_iso: por
+    name: Língua paumari
   - translation_iso: spa
     name: paumarí
   - translation_iso: zho

@@ -30,6 +30,8 @@ translations:
     name: ラガ語
   - translation_iso: kor
     name: 라가어
+  - translation_iso: por
+    name: Língua raga
   - translation_iso: spa
     name: Hano
     auto: true

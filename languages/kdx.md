@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニングォム語
+  - translation_iso: por
+    name: Kam
+    auto: true
   - translation_iso: spa
     name: Kam
     auto: true

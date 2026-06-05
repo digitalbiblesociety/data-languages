@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マニャ語
     auto: true
+  - translation_iso: por
+    name: Manya
+    auto: true
   - translation_iso: spa
     name: Manya
     auto: true

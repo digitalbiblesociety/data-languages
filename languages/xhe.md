@@ -27,6 +27,9 @@ translations:
     name: खेतरानी
   - translation_iso: jpn
     name: ケートラーニー語
+  - translation_iso: por
+    name: Khetrani
+    auto: true
   - translation_iso: spa
     name: Khetrani
     auto: true

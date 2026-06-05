@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トリニダード・トバゴ手話
+  - translation_iso: por
+    name: Língua de Sinais de Trinidad e Tobago
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Trinidad y Tobago
     auto: true

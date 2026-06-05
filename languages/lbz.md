@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラルディル語
+  - translation_iso: por
+    name: Lardil
+    auto: true
   - translation_iso: spa
     name: Lardil
     auto: true

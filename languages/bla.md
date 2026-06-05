@@ -28,6 +28,8 @@ translations:
     name: ブラックフット語
   - translation_iso: kor
     name: 블랙풋어
+  - translation_iso: por
+    name: Língua Siksiká
   - translation_iso: spa
     name: Idioma siksiká
   - translation_iso: zho

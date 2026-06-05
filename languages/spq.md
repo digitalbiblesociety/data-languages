@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ロレート・ウカヤリスペイン語
     auto: true
+  - translation_iso: por
+    name: Espanhol Amazônico
   - translation_iso: spa
     name: español amazónico
   - translation_iso: zho

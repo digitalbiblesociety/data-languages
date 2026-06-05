@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シムル語
+  - translation_iso: por
+    name: Simeulue
+    auto: true
   - translation_iso: spa
     name: Simeulue
     auto: true

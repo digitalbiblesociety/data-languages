@@ -29,6 +29,8 @@ translations:
     name: トベロ語
   - translation_iso: kor
     name: 토벨로어
+  - translation_iso: por
+    name: Tobelo
   - translation_iso: spa
     name: Tobelo
   - translation_iso: zho

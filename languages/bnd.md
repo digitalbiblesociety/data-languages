@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バンダ・マルク語
     auto: true
+  - translation_iso: por
+    name: Banda
   - translation_iso: spa
     name: Banda
   - translation_iso: zho

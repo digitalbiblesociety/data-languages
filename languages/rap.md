@@ -28,6 +28,8 @@ translations:
     name: ラパ・ヌイ語
   - translation_iso: kor
     name: 라파누이어
+  - translation_iso: por
+    name: Língua rapanui
   - translation_iso: spa
     name: Rapa Nui
   - translation_iso: zho

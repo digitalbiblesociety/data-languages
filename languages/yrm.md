@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: イリク-メル語
     auto: true
+  - translation_iso: por
+    name: yirrk-mel
+    auto: true
   - translation_iso: spa
     name: Dialecto yirrk-thangalkl
   - translation_iso: zho

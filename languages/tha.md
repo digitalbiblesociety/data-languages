@@ -28,6 +28,8 @@ translations:
     name: タイ語
   - translation_iso: kor
     name: 태국어
+  - translation_iso: por
+    name: tailandês
   - translation_iso: spa
     name: tailandés
   - translation_iso: zho

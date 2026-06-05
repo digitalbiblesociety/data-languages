@@ -28,6 +28,8 @@ translations:
     name: シッキム語
   - translation_iso: kor
     name: 시킴어
+  - translation_iso: por
+    name: Língua siquimesa
   - translation_iso: spa
     name: Idioma bhutia
   - translation_iso: zho

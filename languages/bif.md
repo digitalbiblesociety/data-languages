@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 비아파다어
+  - translation_iso: por
+    name: Biafada
+    auto: true
   - translation_iso: spa
     name: Biafada
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モレサダ語
     auto: true
+  - translation_iso: por
+    name: Moresada
+    auto: true
   - translation_iso: spa
     name: Moresada
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ダバニ語
   - translation_iso: kor
     name: 다그바니어
+  - translation_iso: por
+    name: dagani
   - translation_iso: spa
     name: dagbanli
   - translation_iso: zho

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソロモン諸島手話
+  - translation_iso: por
+    name: Língua de Sinais das Ilhas Salomão
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de las Islas Salomón
     auto: true

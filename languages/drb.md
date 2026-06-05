@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダイル語
+  - translation_iso: por
+    name: Dair
+    auto: true
   - translation_iso: spa
     name: Dair
     auto: true

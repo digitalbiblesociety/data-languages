@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナハリ語
     auto: true
+  - translation_iso: por
+    name: Nahari
+    auto: true
   - translation_iso: spa
     name: Nahari
     auto: true

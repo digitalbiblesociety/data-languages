@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マリアムム語
     auto: true
+  - translation_iso: por
+    name: Marriammu
+    auto: true
   - translation_iso: spa
     name: Marriammu
     auto: true

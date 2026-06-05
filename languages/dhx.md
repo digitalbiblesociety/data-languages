@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ドゥンガル語
     auto: true
+  - translation_iso: por
+    name: Dhungaloo
+    auto: true
   - translation_iso: spa
     name: Dhungaloo
     auto: true

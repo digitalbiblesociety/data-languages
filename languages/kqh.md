@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キサンカサ語
     auto: true
+  - translation_iso: por
+    name: Kisankasa
+    auto: true
   - translation_iso: spa
     name: Kisankasa
     auto: true

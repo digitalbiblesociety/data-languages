@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: トボリ語
     auto: true
+  - translation_iso: por
+    name: Língua tboli
   - translation_iso: spa
     name: idioma tboli
   - translation_iso: zho

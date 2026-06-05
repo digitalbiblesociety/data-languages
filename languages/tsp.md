@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウィン語
     auto: true
+  - translation_iso: por
+    name: Toussian do Norte
+    auto: true
   - translation_iso: spa
     name: Toussian septentrional
     auto: true

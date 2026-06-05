@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ブラガル語
     auto: true
+  - translation_iso: por
+    name: Língua blagar
   - translation_iso: spa
     name: Blagar
     auto: true

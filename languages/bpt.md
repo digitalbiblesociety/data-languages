@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バロウ・ポイント語
     auto: true
+  - translation_iso: por
+    name: Barrow Point
+    auto: true
   - translation_iso: spa
     name: idioma Barrow Point
   - translation_iso: zho

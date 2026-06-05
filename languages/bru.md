@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 東ブル語
     auto: true
+  - translation_iso: por
+    name: Bru oriental
+    auto: true
   - translation_iso: spa
     name: Bru oriental
     auto: true

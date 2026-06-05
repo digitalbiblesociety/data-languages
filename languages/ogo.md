@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カナ語
     auto: true
+  - translation_iso: por
+    name: Khana
+    auto: true
   - translation_iso: spa
     name: Khana
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワシ・ゲベ語
     auto: true
+  - translation_iso: por
+    name: Waci Gbe
+    auto: true
   - translation_iso: spa
     name: Waci Gbe
     auto: true

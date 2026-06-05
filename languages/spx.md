@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南ピケネ語
+  - translation_iso: por
+    name: piceno meridional
   - translation_iso: spa
     name: idioma piceno meridional
   - translation_iso: zho

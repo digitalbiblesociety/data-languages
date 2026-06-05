@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 現代マンダ語
+  - translation_iso: por
+    name: língua neomandeia
   - translation_iso: spa
     name: neomandeo
   - translation_iso: zho

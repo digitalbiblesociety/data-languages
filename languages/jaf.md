@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ジャラ語
     auto: true
+  - translation_iso: por
+    name: Jara
+    auto: true
   - translation_iso: spa
     name: Jara
     auto: true

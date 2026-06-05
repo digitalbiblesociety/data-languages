@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ココ・ババングク語
     auto: true
+  - translation_iso: por
+    name: Koko Babangk
+    auto: true
   - translation_iso: spa
     name: Koko Babangk
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カルカル-ユリ語
     auto: true
+  - translation_iso: por
+    name: karkar-yuri
+    auto: true
   - translation_iso: spa
     name: Idioma yuri
   - translation_iso: zho

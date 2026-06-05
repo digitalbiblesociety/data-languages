@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: デラオエナレ語
     auto: true
+  - translation_iso: por
+    name: Língua dela-oenele
   - translation_iso: spa
     name: Dela-Oenale
     auto: true

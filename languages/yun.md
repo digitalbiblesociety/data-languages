@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ベナ語（ナイジェリア）
     auto: true
+  - translation_iso: por
+    name: bena (Nigéria)
+    auto: true
   - translation_iso: spa
     name: Bena (Nigeria)
     auto: true

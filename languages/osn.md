@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古スンダ語
+  - translation_iso: por
+    name: sundanês antigo
+    auto: true
   - translation_iso: spa
     name: Sundanés antiguo
     auto: true

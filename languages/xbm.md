@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: 中ブルトン語
     auto: true
+  - translation_iso: por
+    name: Bretão Médio
+    auto: true
   - translation_iso: spa
     name: bretón medio
   - translation_iso: zho

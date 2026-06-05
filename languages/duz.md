@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥリ語
+  - translation_iso: por
+    name: Duli-Gey
+    auto: true
   - translation_iso: spa
     name: Duli-Gey
     auto: true

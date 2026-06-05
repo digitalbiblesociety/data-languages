@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウクペットエホム語
     auto: true
+  - translation_iso: por
+    name: Ukpet-Ehom
+    auto: true
   - translation_iso: spa
     name: Ukpet-Ehom
     auto: true

@@ -31,6 +31,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 야뉴와어
+  - translation_iso: por
+    name: Língua yaniuwa
   - translation_iso: spa
     name: yanyuwa
   - translation_iso: zho

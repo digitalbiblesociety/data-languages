@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 左江チワン語
+  - translation_iso: por
+    name: zhuang de Zuojiang
+    auto: true
   - translation_iso: spa
     name: Zhuang de Zuojiang
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イクポソ語
     auto: true
+  - translation_iso: por
+    name: Ikposo
+    auto: true
   - translation_iso: spa
     name: Ikposo
     auto: true

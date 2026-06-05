@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サザン・カリンガ語
     auto: true
+  - translation_iso: por
+    name: Kalinga meridional
+    auto: true
   - translation_iso: spa
     name: Kalinga Meridional
     auto: true

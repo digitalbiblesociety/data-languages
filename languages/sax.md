@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サ語
+  - translation_iso: por
+    name: Sa
+    auto: true
   - translation_iso: spa
     name: Saa
   - translation_iso: zho

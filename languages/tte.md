@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トゥベトゥベ語
     auto: true
+  - translation_iso: por
+    name: Bwanabwana
+    auto: true
   - translation_iso: spa
     name: Bwanabwana
     auto: true

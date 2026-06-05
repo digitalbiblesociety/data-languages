@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トトチャ語
     auto: true
+  - translation_iso: por
+    name: Tutsa Naga
+    auto: true
   - translation_iso: spa
     name: Tutsa Naga
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ングアルマ語
     auto: true
+  - translation_iso: por
+    name: Ngarluma
+    auto: true
   - translation_iso: spa
     name: Ngarluma
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タシリキ語
     auto: true
+  - translation_iso: por
+    name: Akei
+    auto: true
   - translation_iso: spa
     name: Akei
     auto: true

@@ -27,6 +27,9 @@ translations:
     name: चिकसॉ
   - translation_iso: jpn
     name: チカソー語
+  - translation_iso: por
+    name: Chickasaw
+    auto: true
   - translation_iso: spa
     name: chickasaw
   - translation_iso: zho

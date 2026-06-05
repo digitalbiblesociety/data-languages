@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボアノ語
     auto: true
+  - translation_iso: por
+    name: Boano (Sulawesi)
+    auto: true
   - translation_iso: spa
     name: Boano (Sulawesi)
     auto: true

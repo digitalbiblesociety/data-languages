@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ルチャジ語
     auto: true
+  - translation_iso: por
+    name: Língua luchazi
   - translation_iso: spa
     name: Idioma luchazi
   - translation_iso: zho

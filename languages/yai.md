@@ -29,6 +29,8 @@ translations:
     name: ヤグノビ語
   - translation_iso: kor
     name: 야그노비어
+  - translation_iso: por
+    name: Língua yaghnobi
   - translation_iso: spa
     name: yagnobi
   - translation_iso: zho

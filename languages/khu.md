@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ンクンビ語
     auto: true
+  - translation_iso: por
+    name: Nkhumbi
+    auto: true
   - translation_iso: spa
     name: Nkhumbi
     auto: true

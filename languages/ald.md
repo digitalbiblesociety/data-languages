@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アッラディアン語
     auto: true
+  - translation_iso: por
+    name: Alladian
+    auto: true
   - translation_iso: spa
     name: Alladian
     auto: true

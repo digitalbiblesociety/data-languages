@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ノリック語
     auto: true
+  - translation_iso: por
+    name: nórico
   - translation_iso: spa
     name: nórico
   - translation_iso: zho

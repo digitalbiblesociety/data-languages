@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラバリ語
+  - translation_iso: por
+    name: Kalabari
+    auto: true
   - translation_iso: spa
     name: Kalabari
     auto: true

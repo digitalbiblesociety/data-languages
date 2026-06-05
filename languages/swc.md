@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コンゴ・スワヒリ語
+  - translation_iso: por
+    name: Suaíli congolês
   - translation_iso: spa
     name: Suajili congoleño
   - translation_iso: zho

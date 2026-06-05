@@ -21,6 +21,8 @@ translations:
     name: ロンゴバルド語
   - translation_iso: kor
     name: 룀바르드어
+  - translation_iso: por
+    name: longobardo
   - translation_iso: spa
     name: lombardo
   - translation_iso: zho

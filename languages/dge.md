@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: デゲナン語
     auto: true
+  - translation_iso: por
+    name: Degenan
+    auto: true
   - translation_iso: spa
     name: Degenan
     auto: true

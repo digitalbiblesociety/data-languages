@@ -28,6 +28,8 @@ translations:
     name: カシューブ語
   - translation_iso: kor
     name: 카슈브어
+  - translation_iso: por
+    name: cassúbio
   - translation_iso: spa
     name: casubio
   - translation_iso: zho

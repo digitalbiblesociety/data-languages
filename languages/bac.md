@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: バドゥイ語
     auto: true
+  - translation_iso: por
+    name: Badui
+    auto: true
   - translation_iso: spa
     name: Badui
     auto: true

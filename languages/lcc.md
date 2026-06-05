@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: レゲニェム語
     auto: true
+  - translation_iso: por
+    name: Legenyem
+    auto: true
   - translation_iso: spa
     name: Legenyem
     auto: true

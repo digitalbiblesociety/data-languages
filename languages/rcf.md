@@ -29,6 +29,8 @@ translations:
     name: レユニオン・クレオール語
   - translation_iso: kor
     name: 레위니옹 크리올
+  - translation_iso: por
+    name: crioulo de Reunião
   - translation_iso: spa
     name: criollo de Reunión
   - translation_iso: zho

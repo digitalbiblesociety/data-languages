@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シェシ・ハム語
     auto: true
+  - translation_iso: por
+    name: Kham Sheshi
+    auto: true
   - translation_iso: spa
     name: Kham Sheshi
     auto: true

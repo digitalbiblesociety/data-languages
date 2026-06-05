@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パリヤン語
     auto: true
+  - translation_iso: por
+    name: Paliyan
+    auto: true
   - translation_iso: spa
     name: Paliyan
     auto: true

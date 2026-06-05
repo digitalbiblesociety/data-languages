@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥガ語
     auto: true
+  - translation_iso: por
+    name: Nduga
+    auto: true
   - translation_iso: spa
     name: Nduga
     auto: true

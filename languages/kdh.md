@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テム語
+  - translation_iso: por
+    name: Língua tem
   - translation_iso: spa
     name: Idioma tem
   - translation_iso: zho

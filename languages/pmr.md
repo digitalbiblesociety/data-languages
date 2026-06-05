@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パイナマル語
     auto: true
+  - translation_iso: por
+    name: Paynamar
+    auto: true
   - translation_iso: spa
     name: Paynamar
     auto: true

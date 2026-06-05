@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロヴィアナ語
+  - translation_iso: por
+    name: Língua roviana
   - translation_iso: spa
     name: Roviana
   - translation_iso: zho

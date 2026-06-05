@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ドゥグリ語
     auto: true
+  - translation_iso: por
+    name: Duguri
+    auto: true
   - translation_iso: spa
     name: Duguri
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウドゥ語
     auto: true
+  - translation_iso: por
+    name: Wudu
+    auto: true
   - translation_iso: spa
     name: Wudu
     auto: true

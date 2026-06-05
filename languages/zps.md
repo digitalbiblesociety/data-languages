@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コアトラン・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Coatlán
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Coatlán
     auto: true

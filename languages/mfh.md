@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マタル語
     auto: true
+  - translation_iso: por
+    name: Matal
+    auto: true
   - translation_iso: spa
     name: Matal
     auto: true

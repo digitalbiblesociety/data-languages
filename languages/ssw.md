@@ -28,6 +28,8 @@ translations:
     name: スワジ語
   - translation_iso: kor
     name: 스와티어
+  - translation_iso: por
+    name: língua suázi
   - translation_iso: spa
     name: suazi
   - translation_iso: zho

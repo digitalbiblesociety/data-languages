@@ -28,6 +28,8 @@ translations:
     name: アミ語
   - translation_iso: kor
     name: 아미어
+  - translation_iso: por
+    name: amis
   - translation_iso: spa
     name: idioma amis
   - translation_iso: zho

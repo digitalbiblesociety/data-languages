@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: レンガオ語
     auto: true
+  - translation_iso: por
+    name: Rengao
+    auto: true
   - translation_iso: spa
     name: Rengao
     auto: true

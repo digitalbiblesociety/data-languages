@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キウヌム語
     auto: true
+  - translation_iso: por
+    name: Kiunum
+    auto: true
   - translation_iso: spa
     name: Kiunum
     auto: true

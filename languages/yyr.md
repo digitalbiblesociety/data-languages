@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: イル・ヨロント語
     auto: true
+  - translation_iso: por
+    name: yir yoront
+    auto: true
   - translation_iso: spa
     name: Yir Yoront
     auto: true

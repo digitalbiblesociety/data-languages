@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケリアカ語
+  - translation_iso: por
+    name: Ramopa
+    auto: true
   - translation_iso: spa
     name: ramopa
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メンゲン語
+  - translation_iso: por
+    name: Mengen
+    auto: true
   - translation_iso: spa
     name: Mengen
     auto: true

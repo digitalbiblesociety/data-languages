@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クトゥルミ語
     auto: true
+  - translation_iso: por
+    name: Kuturmi
+    auto: true
   - translation_iso: spa
     name: Kuturmi
     auto: true

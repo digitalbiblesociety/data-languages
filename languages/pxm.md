@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ケツァルテペックミクステ語
     auto: true
+  - translation_iso: por
+    name: Mixe de Quetzaltepec
+    auto: true
   - translation_iso: spa
     name: Mixe de Quetzaltepec
     auto: true

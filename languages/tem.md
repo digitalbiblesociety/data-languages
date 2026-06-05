@@ -28,6 +28,8 @@ translations:
     name: テムネ語
   - translation_iso: kor
     name: 팀니어
+  - translation_iso: por
+    name: Língua temne
   - translation_iso: spa
     name: Idioma temné
   - translation_iso: zho

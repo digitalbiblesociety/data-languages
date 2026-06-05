@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セマイ語
+  - translation_iso: por
+    name: Língua semai
   - translation_iso: spa
     name: Semai
     auto: true

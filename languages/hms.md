@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部黔東苗語
+  - translation_iso: por
+    name: Miao Qiandong do Sul
+    auto: true
   - translation_iso: spa
     name: Miao Qiandong meridional
     auto: true

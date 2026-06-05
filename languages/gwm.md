@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: アウングティム語
     auto: true
+  - translation_iso: por
+    name: Awngthim
+    auto: true
   - translation_iso: spa
     name: Idioma awngthim
   - translation_iso: zho

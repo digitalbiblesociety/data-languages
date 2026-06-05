@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラングロン語
     auto: true
+  - translation_iso: por
+    name: Ranglong
+    auto: true
   - translation_iso: spa
     name: Ranglong
     auto: true

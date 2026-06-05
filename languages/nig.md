@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ングアラクガン語
     auto: true
+  - translation_iso: por
+    name: Ngalakgan
+    auto: true
   - translation_iso: spa
     name: Ngalakgan
     auto: true

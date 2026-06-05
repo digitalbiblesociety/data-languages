@@ -29,6 +29,8 @@ translations:
     name: アラビア語ハッサニア方言
   - translation_iso: kor
     name: 하사니아 아랍어
+  - translation_iso: por
+    name: Árabe hassani
   - translation_iso: spa
     name: hassanía
   - translation_iso: zho

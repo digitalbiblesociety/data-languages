@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オヤ・オヤ語
     auto: true
+  - translation_iso: por
+    name: "Oya'oya"
+    auto: true
   - translation_iso: spa
     name: "Oya'oya"
     auto: true

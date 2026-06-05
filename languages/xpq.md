@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モヘガン・ペクォート語
+  - translation_iso: por
+    name: Língua mohegan-pequot
   - translation_iso: spa
     name: Mohegan-Pequot
   - translation_iso: zho

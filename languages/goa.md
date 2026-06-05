@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グロ語
+  - translation_iso: por
+    name: Guro
+    auto: true
   - translation_iso: spa
     name: Idioma guro
   - translation_iso: zho

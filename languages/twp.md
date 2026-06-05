@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナネ語
     auto: true
+  - translation_iso: por
+    name: Ere
+    auto: true
   - translation_iso: spa
     name: Ere
     auto: true

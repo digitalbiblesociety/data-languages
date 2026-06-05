@@ -28,6 +28,8 @@ translations:
     name: チュリム語
   - translation_iso: kor
     name: 출림어
+  - translation_iso: por
+    name: Língua chulym
   - translation_iso: spa
     name: Idioma chulym
   - translation_iso: zho

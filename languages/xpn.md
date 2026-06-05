@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カピナワ語
     auto: true
+  - translation_iso: por
+    name: Kapinawá
+    auto: true
   - translation_iso: spa
     name: Kapinawá
     auto: true

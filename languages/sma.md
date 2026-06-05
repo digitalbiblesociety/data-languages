@@ -28,6 +28,8 @@ translations:
     name: 南部サーミ語
   - translation_iso: kor
     name: 남부 사미어
+  - translation_iso: por
+    name: língua sami meridional
   - translation_iso: spa
     name: sami meridional
   - translation_iso: zho

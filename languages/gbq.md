@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グバヤ＝ボズム語
+  - translation_iso: por
+    name: Gbaya-Bozoum
+    auto: true
   - translation_iso: spa
     name: Gbaya-Bozoum
     auto: true

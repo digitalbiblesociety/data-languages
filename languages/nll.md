@@ -24,6 +24,8 @@ translations:
     name: ニハリ語
   - translation_iso: kor
     name: 니할리어
+  - translation_iso: por
+    name: Língua nihali
   - translation_iso: spa
     name: nihali
   - translation_iso: zho

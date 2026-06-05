@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イゾラ語
     auto: true
+  - translation_iso: por
+    name: Izora
+    auto: true
   - translation_iso: spa
     name: Izora
     auto: true

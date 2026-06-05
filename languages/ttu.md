@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トラウ語
+  - translation_iso: por
+    name: Torau
+    auto: true
   - translation_iso: spa
     name: Idioma torau
   - translation_iso: zho

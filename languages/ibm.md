@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アゴイ語
     auto: true
+  - translation_iso: por
+    name: Agoi
+    auto: true
   - translation_iso: spa
     name: Agoi
     auto: true

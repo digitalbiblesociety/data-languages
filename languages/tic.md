@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ティラ語
     auto: true
+  - translation_iso: por
+    name: Tira
+    auto: true
   - translation_iso: spa
     name: Tira
     auto: true

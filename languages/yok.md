@@ -29,6 +29,9 @@ translations:
     name: ヨクツ語族
   - translation_iso: kor
     name: 요쿠츠어
+  - translation_iso: por
+    name: yokuts
+    auto: true
   - translation_iso: spa
     name: lenguas yokuts
   - translation_iso: zho

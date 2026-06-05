@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ドヤヨ語
     auto: true
+  - translation_iso: por
+    name: Doyayo
+    auto: true
   - translation_iso: spa
     name: Doyayo
     auto: true

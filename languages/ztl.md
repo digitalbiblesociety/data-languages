@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラパグア-グイビニ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Lapaguía-Guivini
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Lapaguía-Guivini
     auto: true

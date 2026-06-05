@@ -28,6 +28,8 @@ translations:
     name: オスク語
   - translation_iso: kor
     name: 오스크어
+  - translation_iso: por
+    name: osco
   - translation_iso: spa
     name: idioma osco
   - translation_iso: zho

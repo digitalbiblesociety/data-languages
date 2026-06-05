@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モヴィマ語
+  - translation_iso: por
+    name: Língua movima
   - translation_iso: spa
     name: idioma movima
   - translation_iso: zho

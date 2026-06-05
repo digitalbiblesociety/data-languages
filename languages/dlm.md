@@ -27,6 +27,8 @@ translations:
     name: ダルマチア語
   - translation_iso: kor
     name: 달마티아어
+  - translation_iso: por
+    name: dálmata
   - translation_iso: spa
     name: dalmático
   - translation_iso: zho

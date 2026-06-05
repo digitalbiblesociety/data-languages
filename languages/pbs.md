@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・パメ語
     auto: true
+  - translation_iso: por
+    name: Pame Central
+    auto: true
   - translation_iso: spa
     name: Pame central
     auto: true

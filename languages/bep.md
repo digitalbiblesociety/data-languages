@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベソア語
     auto: true
+  - translation_iso: por
+    name: Besoa
+    auto: true
   - translation_iso: spa
     name: Besoa
     auto: true

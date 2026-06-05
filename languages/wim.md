@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィク・ムンカン語
+  - translation_iso: por
+    name: Wik-Mungkan
+    auto: true
   - translation_iso: spa
     name: idioma wik-mungkan
   - translation_iso: zho

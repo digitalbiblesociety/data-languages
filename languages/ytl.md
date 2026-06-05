@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タングラング語
     auto: true
+  - translation_iso: por
+    name: tanglang
+    auto: true
   - translation_iso: spa
     name: Tanglang
     auto: true

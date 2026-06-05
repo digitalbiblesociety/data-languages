@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マンダンダニ語
     auto: true
+  - translation_iso: por
+    name: Mandandanyi
+    auto: true
   - translation_iso: spa
     name: Mandandanyi
     auto: true

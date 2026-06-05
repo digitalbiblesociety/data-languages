@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ユキ語
     auto: true
+  - translation_iso: por
+    name: Língua yuqui
   - translation_iso: spa
     name: Yuqui (idioma)
   - translation_iso: zho

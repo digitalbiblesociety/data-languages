@@ -29,6 +29,8 @@ translations:
     name: イツァ語
   - translation_iso: kor
     name: 이차어
+  - translation_iso: por
+    name: Língua itzá
   - translation_iso: spa
     name: itzá
   - translation_iso: zho

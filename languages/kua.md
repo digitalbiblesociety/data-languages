@@ -28,6 +28,8 @@ translations:
     name: クワニャマ語
   - translation_iso: kor
     name: 콰냐마어
+  - translation_iso: por
+    name: cuanhama
   - translation_iso: spa
     name: idioma kuanyama
   - translation_iso: zho

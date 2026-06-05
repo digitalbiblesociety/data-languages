@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブユアン・ジヌオ語
     auto: true
+  - translation_iso: por
+    name: Jinuo Buyuan
+    auto: true
   - translation_iso: spa
     name: Jinuo Buyuan
     auto: true

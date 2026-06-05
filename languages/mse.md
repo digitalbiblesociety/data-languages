@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ムセイ語
     auto: true
+  - translation_iso: por
+    name: Língua musey
   - translation_iso: spa
     name: musey
   - translation_iso: zho

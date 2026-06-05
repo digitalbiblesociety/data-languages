@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カイ方言
+  - translation_iso: por
+    name: língua literária caicaviana
+    auto: true
   - translation_iso: spa
     name: caicavo
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タヴラ語
     auto: true
+  - translation_iso: por
+    name: Vaghua
+    auto: true
   - translation_iso: spa
     name: Vaghua
   - translation_iso: zho

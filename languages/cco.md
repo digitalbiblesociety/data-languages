@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コマルテペック・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Chinanteco de Comaltepec
+    auto: true
   - translation_iso: spa
     name: chinanteca de Comaltepec
   - translation_iso: zho

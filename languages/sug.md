@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: スガンガ語
     auto: true
+  - translation_iso: por
+    name: Suganga
+    auto: true
   - translation_iso: spa
     name: Suganga
     auto: true

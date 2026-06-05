@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナンビャ語
+  - translation_iso: por
+    name: Nambya
+    auto: true
   - translation_iso: spa
     name: Nambya
     auto: true

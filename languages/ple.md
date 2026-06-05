@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: パルエ語
     auto: true
+  - translation_iso: por
+    name: Palue
   - translation_iso: spa
     name: Palue
   - translation_iso: zho

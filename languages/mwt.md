@@ -30,6 +30,9 @@ translations:
     name: モーケン語
   - translation_iso: kor
     name: 모켄어
+  - translation_iso: por
+    name: Moken
+    auto: true
   - translation_iso: spa
     name: Moken
     auto: true

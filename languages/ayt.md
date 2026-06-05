@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マグブクン・アイタ語
     auto: true
+  - translation_iso: por
+    name: Ayta Magbukun
+    auto: true
   - translation_iso: spa
     name: Idioma mariveleño
   - translation_iso: zho

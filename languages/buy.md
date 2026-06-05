@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブロム・ソ語
     auto: true
+  - translation_iso: por
+    name: Bullom So
+    auto: true
   - translation_iso: spa
     name: Bullom So
     auto: true

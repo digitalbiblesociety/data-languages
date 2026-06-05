@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カシグラン・ドゥマガット・アグタ語
     auto: true
+  - translation_iso: por
+    name: Língua dumagat agta
   - translation_iso: spa
     name: Agta de Casiguran Dumagat
     auto: true

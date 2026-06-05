@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アパライ語
+  - translation_iso: por
+    name: Língua aparaí
   - translation_iso: spa
     name: Apalaí
   - translation_iso: zho

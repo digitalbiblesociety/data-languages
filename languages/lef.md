@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レレミ語
+  - translation_iso: por
+    name: Lelemi
+    auto: true
   - translation_iso: spa
     name: lelemi
   - translation_iso: zho

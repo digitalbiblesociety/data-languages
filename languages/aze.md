@@ -21,6 +21,8 @@ translations:
     name: アゼルバイジャン語
   - translation_iso: kor
     name: 아제르바이잔어
+  - translation_iso: por
+    name: Língua azeri
   - translation_iso: spa
     name: azerí
   - translation_iso: zho

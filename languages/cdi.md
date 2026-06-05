@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: チョドリ語
     auto: true
+  - translation_iso: por
+    name: Chodri
+    auto: true
   - translation_iso: spa
     name: Chodri
     auto: true

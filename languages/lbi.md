@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラビ語
     auto: true
+  - translation_iso: por
+    name: "La'bi"
+    auto: true
   - translation_iso: spa
     name: "La'bi"
     auto: true

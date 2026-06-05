@@ -30,6 +30,8 @@ translations:
     name: ラデー語
   - translation_iso: kor
     name: 라데어
+  - translation_iso: por
+    name: Língua rade
   - translation_iso: spa
     name: Rade
     auto: true

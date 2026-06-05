@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コイ・サンジャク・スラト語
+  - translation_iso: por
+    name: Surat de Koy Sanjaq
+    auto: true
   - translation_iso: spa
     name: Surat de Koy Sanjaq
     auto: true

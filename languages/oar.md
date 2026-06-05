@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古代アラム語
+  - translation_iso: por
+    name: aramaico antigo (até 700 a.C.)
+    auto: true
   - translation_iso: spa
     name: arameo antiguo
   - translation_iso: zho

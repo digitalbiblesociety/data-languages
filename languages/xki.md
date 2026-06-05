@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケニア手話
+  - translation_iso: por
+    name: Língua Gestual Queniana
   - translation_iso: spa
     name: Lengua de señas keniana
     auto: true

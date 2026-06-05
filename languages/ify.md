@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ケレイ・イ・カッラハン語
     auto: true
+  - translation_iso: por
+    name: Kallahan Keley-I
+    auto: true
   - translation_iso: spa
     name: Kallahan Keley-I
     auto: true

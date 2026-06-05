@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: アリケム語
     auto: true
+  - translation_iso: por
+    name: Língua ariquém
   - translation_iso: spa
     name: Arikem
     auto: true

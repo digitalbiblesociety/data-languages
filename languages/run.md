@@ -28,6 +28,8 @@ translations:
     name: ルンディ語
   - translation_iso: kor
     name: 키룬디어
+  - translation_iso: por
+    name: Língua kirundi
   - translation_iso: spa
     name: kirundi
   - translation_iso: zho

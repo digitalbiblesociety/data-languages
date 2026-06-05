@@ -27,6 +27,8 @@ translations:
     name: पंगवाड़ी
   - translation_iso: jpn
     name: パングワーリー語
+  - translation_iso: por
+    name: Língua pangwali
   - translation_iso: spa
     name: Pangwali
     auto: true

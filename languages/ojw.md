@@ -28,6 +28,8 @@ translations:
     name: 西部オジブワ語
   - translation_iso: kor
     name: 서부 오지브와어
+  - translation_iso: por
+    name: ojibwa ocidental
   - translation_iso: spa
     name: ojibwa occidental
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: リゾンカ語
     auto: true
+  - translation_iso: por
+    name: Lidzonka
+    auto: true
   - translation_iso: spa
     name: dzodinka
   - translation_iso: zho

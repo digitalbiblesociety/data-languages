@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ピラガ語
     auto: true
+  - translation_iso: por
+    name: Língua pilagá
   - translation_iso: spa
     name: idioma pilagá
   - translation_iso: zho

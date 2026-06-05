@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モロバラマ語
     auto: true
+  - translation_iso: por
+    name: Morrobalama
+    auto: true
   - translation_iso: spa
     name: Idioma umbuygamu
   - translation_iso: zho

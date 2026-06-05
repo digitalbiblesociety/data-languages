@@ -28,6 +28,8 @@ translations:
     name: ヴェンダ語
   - translation_iso: kor
     name: 벤다어
+  - translation_iso: por
+    name: língua venda
   - translation_iso: spa
     name: venda
   - translation_iso: zho

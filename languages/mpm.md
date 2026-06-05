@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヨソンドゥア・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Yosondúa
+    auto: true
   - translation_iso: spa
     name: Mixteco yosonduense
   - translation_iso: zho

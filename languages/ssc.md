@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: キシンビティ語
     auto: true
+  - translation_iso: por
+    name: Língua simbiti
   - translation_iso: spa
     name: Suba-Simbiti
     auto: true

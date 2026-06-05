@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: 西スバノン語
     auto: true
+  - translation_iso: por
+    name: Língua subanon ocidental
   - translation_iso: spa
     name: Subanen occidental
     auto: true

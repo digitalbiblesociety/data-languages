@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ノートレ語
     auto: true
+  - translation_iso: por
+    name: Notre
+    auto: true
   - translation_iso: spa
     name: Notre
     auto: true

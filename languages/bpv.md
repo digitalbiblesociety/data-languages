@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビアン・マリンド語
     auto: true
+  - translation_iso: por
+    name: Marind bian
+    auto: true
   - translation_iso: spa
     name: Marind de Bian
     auto: true

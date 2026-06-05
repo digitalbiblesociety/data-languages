@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 古マラティ語
     auto: true
+  - translation_iso: por
+    name: marata antigo
+    auto: true
   - translation_iso: spa
     name: Maratí antiguo
     auto: true

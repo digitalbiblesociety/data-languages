@@ -28,6 +28,8 @@ translations:
     name: カーングリー語
   - translation_iso: kor
     name: 캉그리어
+  - translation_iso: por
+    name: Língua kangri
   - translation_iso: spa
     name: kangri
   - translation_iso: zho

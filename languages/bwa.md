@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブワトゥー語
     auto: true
+  - translation_iso: por
+    name: Bwatoo
+    auto: true
   - translation_iso: spa
     name: Idioma bwatoo
   - translation_iso: zho

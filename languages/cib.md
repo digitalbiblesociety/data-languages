@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: スィ・ギベ語
     auto: true
+  - translation_iso: por
+    name: Ci Gbe
+    auto: true
   - translation_iso: spa
     name: Ci Gbe
     auto: true

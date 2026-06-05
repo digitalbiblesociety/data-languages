@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ポチュテク語
     auto: true
+  - translation_iso: por
+    name: Língua pochuteca
   - translation_iso: spa
     name: idioma pochuteco
   - translation_iso: zho

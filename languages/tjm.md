@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティムクア語
+  - translation_iso: por
+    name: Língua timucua
   - translation_iso: spa
     name: idioma timucua
   - translation_iso: zho

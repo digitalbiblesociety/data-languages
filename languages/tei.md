@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トリセリ語
     auto: true
+  - translation_iso: por
+    name: Torricelli
+    auto: true
   - translation_iso: spa
     name: Idioma Torricelli
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部モンゴル語群
+  - translation_iso: por
+    name: mongol periférico
+    auto: true
   - translation_iso: spa
     name: Mongol Periférico
     auto: true

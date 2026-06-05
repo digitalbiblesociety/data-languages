@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヨバ語
     auto: true
+  - translation_iso: por
+    name: yoba
+    auto: true
   - translation_iso: spa
     name: Yoba
     auto: true

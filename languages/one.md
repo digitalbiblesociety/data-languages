@@ -28,6 +28,8 @@ translations:
     name: オナイダ語
   - translation_iso: kor
     name: 오네이다어
+  - translation_iso: por
+    name: Língua oneida
   - translation_iso: spa
     name: Oneida
   - translation_iso: zho

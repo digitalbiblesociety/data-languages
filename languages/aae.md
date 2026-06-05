@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルベレシュ方言
+  - translation_iso: por
+    name: língua arberesca
   - translation_iso: spa
     name: Dialecto arbëreshë
   - translation_iso: zho

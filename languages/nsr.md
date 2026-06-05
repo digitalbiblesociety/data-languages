@@ -26,6 +26,8 @@ translations:
     name: समुद्री सांकेतिक भाषा
   - translation_iso: jpn
     name: 沿海州手話
+  - translation_iso: por
+    name: Língua Gestual das Províncias Marítimas
   - translation_iso: spa
     name: Lengua de Señas Marítima
     auto: true

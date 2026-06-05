@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カラバカン語
     auto: true
+  - translation_iso: por
+    name: Kalabakan
+    auto: true
   - translation_iso: spa
     name: Kalabakan
     auto: true

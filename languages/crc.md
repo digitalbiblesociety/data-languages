@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロンウォルウォル語
+  - translation_iso: por
+    name: Lonwolwol
+    auto: true
   - translation_iso: spa
     name: Lonwolwol
     auto: true

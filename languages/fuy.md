@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フユグ語
     auto: true
+  - translation_iso: por
+    name: Fuyug
+    auto: true
   - translation_iso: spa
     name: Fuyug
     auto: true

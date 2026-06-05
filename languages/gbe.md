@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニクセク語
     auto: true
+  - translation_iso: por
+    name: Niksek
+    auto: true
   - translation_iso: spa
     name: Niksek
     auto: true

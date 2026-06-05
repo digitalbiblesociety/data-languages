@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: モル語
     auto: true
+  - translation_iso: por
+    name: Mor (Península de Bomberai)
+    auto: true
   - translation_iso: spa
     name: Idioma mor
   - translation_iso: zho

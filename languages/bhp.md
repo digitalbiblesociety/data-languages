@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビマ語
+  - translation_iso: por
+    name: Língua bima
   - translation_iso: spa
     name: Bima
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リヒル語
+  - translation_iso: por
+    name: Língua lihir
   - translation_iso: spa
     name: Lihir
     auto: true

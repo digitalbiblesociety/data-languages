@@ -30,6 +30,9 @@ translations:
     name: ウィピ語
   - translation_iso: kor
     name: 위피어
+  - translation_iso: por
+    name: Wipi
+    auto: true
   - translation_iso: spa
     name: Wipi
     auto: true

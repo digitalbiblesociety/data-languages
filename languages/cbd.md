@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カリホナ語
     auto: true
+  - translation_iso: por
+    name: Língua karihona
   - translation_iso: spa
     name: Idioma carijona
   - translation_iso: zho

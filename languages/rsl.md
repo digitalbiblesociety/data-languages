@@ -26,6 +26,8 @@ translations:
     name: रूसी सांकेतिक भाषा
   - translation_iso: jpn
     name: ロシア手話
+  - translation_iso: por
+    name: Língua gestual russa
   - translation_iso: spa
     name: lengua de señas de Rusia
   - translation_iso: zho

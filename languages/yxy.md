@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤブラ・ヤブラ語
     auto: true
+  - translation_iso: por
+    name: yabula yabula
+    auto: true
   - translation_iso: spa
     name: Idioma yabula-yabula
   - translation_iso: zho

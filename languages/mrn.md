@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チェケ・ホロ語
     auto: true
+  - translation_iso: por
+    name: Cheke Holo
+    auto: true
   - translation_iso: spa
     name: Cheke holo
   - translation_iso: zho

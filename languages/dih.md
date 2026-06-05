@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クミアイ語
     auto: true
+  - translation_iso: por
+    name: Kumiai
+    auto: true
   - translation_iso: spa
     name: diegueño
   - translation_iso: zho

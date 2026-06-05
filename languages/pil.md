@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヨム語
     auto: true
+  - translation_iso: por
+    name: Yom
+    auto: true
   - translation_iso: spa
     name: Yom
     auto: true

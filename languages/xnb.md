@@ -30,6 +30,8 @@ translations:
     name: カナカナブ語
   - translation_iso: kor
     name: 카나카나부어
+  - translation_iso: por
+    name: língua kanakanavu
   - translation_iso: spa
     name: idioma kanakanabu
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラメヌ語
     auto: true
+  - translation_iso: por
+    name: Lamenu
+    auto: true
   - translation_iso: spa
     name: Lamenu
     auto: true

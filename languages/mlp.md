@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バルガム語
     auto: true
+  - translation_iso: por
+    name: Bargam
+    auto: true
   - translation_iso: spa
     name: Bargam
     auto: true

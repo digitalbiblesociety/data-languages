@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シエ語
+  - translation_iso: por
+    name: Sie
+    auto: true
   - translation_iso: spa
     name: Sie
     auto: true

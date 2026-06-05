@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ディビヤソ語
     auto: true
+  - translation_iso: por
+    name: Dibiyaso
+    auto: true
   - translation_iso: spa
     name: Dibiyaso
     auto: true

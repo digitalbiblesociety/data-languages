@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワウラ語
+  - translation_iso: por
+    name: uaurá
   - translation_iso: spa
     name: waurá
   - translation_iso: zho

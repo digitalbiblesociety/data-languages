@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: パンデ語
     auto: true
+  - translation_iso: por
+    name: Pande
+    auto: true
   - translation_iso: spa
     name: Pande
     auto: true

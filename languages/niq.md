@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナンディ語
+  - translation_iso: por
+    name: Nandi
+    auto: true
   - translation_iso: spa
     name: Nandi
     auto: true

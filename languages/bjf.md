@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バルザーニ・ユダヤ・ネオ・アラム語
     auto: true
+  - translation_iso: por
+    name: Língua neo-aramaica barzani judaica
   - translation_iso: spa
     name: Neoarameo judío de Barzani
     auto: true

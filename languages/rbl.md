@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミラヤ・ビコール語
+  - translation_iso: por
+    name: Bikol de Miraya
+    auto: true
   - translation_iso: spa
     name: Bikol Miraya
     auto: true

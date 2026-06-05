@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨン語
+  - translation_iso: por
+    name: yong
+    auto: true
   - translation_iso: spa
     name: Yong
     auto: true

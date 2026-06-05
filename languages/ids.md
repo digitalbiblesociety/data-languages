@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イデサ語
     auto: true
+  - translation_iso: por
+    name: Idesa
+    auto: true
   - translation_iso: spa
     name: Idesa
     auto: true

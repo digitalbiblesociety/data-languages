@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ティラパ・オトミ語
     auto: true
+  - translation_iso: por
+    name: otomi de Tilapa
+    auto: true
   - translation_iso: spa
     name: otomí de Tilapa
   - translation_iso: zho

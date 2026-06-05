@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ショー語
+  - translation_iso: por
+    name: Chin Asho
+    auto: true
   - translation_iso: spa
     name: Chin Asho
     auto: true

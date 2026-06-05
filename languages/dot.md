@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダス語
     auto: true
+  - translation_iso: por
+    name: Dass
+    auto: true
   - translation_iso: spa
     name: Dass
     auto: true

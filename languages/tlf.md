@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テレフォル語
+  - translation_iso: por
+    name: Telefol
+    auto: true
   - translation_iso: spa
     name: Telefol
     auto: true

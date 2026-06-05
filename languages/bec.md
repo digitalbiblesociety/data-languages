@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イセヴェ・マシ語
     auto: true
+  - translation_iso: por
+    name: Iceve-Maci
+    auto: true
   - translation_iso: spa
     name: Iceve-Maci
     auto: true

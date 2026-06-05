@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カヘ語
+  - translation_iso: por
+    name: Kahe
+    auto: true
   - translation_iso: spa
     name: Kahe
     auto: true

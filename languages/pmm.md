@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ポモ語
     auto: true
+  - translation_iso: por
+    name: Pomo
+    auto: true
   - translation_iso: spa
     name: pol
   - translation_iso: zho

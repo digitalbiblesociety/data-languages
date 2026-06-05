@@ -25,6 +25,9 @@ translations:
     name: कोनिया सांकेतिक भाषा
   - translation_iso: jpn
     name: 奄美大島手話
+  - translation_iso: por
+    name: Língua de Sinais de Amami Koniya
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Amami Koniya
     auto: true

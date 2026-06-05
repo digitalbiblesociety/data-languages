@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トゥリシ語
     auto: true
+  - translation_iso: por
+    name: Tulishi
+    auto: true
   - translation_iso: spa
     name: Tulishi
     auto: true

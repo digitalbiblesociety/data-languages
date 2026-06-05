@@ -28,6 +28,8 @@ translations:
     name: フォックス語
   - translation_iso: kor
     name: 폭스어
+  - translation_iso: por
+    name: Língua fox
   - translation_iso: spa
     name: Meskwaki
   - translation_iso: zho

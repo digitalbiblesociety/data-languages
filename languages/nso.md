@@ -28,6 +28,8 @@ translations:
     name: 北ソト語
   - translation_iso: kor
     name: 북소토어
+  - translation_iso: por
+    name: língua soto do norte
   - translation_iso: spa
     name: Idioma sotho septentrional
   - translation_iso: zho

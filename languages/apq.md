@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 오푸치콰르어
+  - translation_iso: por
+    name: Língua a-pucikwar
   - translation_iso: spa
     name: pucikwar
   - translation_iso: zho

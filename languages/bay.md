@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バトゥレイ語
     auto: true
+  - translation_iso: por
+    name: Batuley
+    auto: true
   - translation_iso: spa
     name: Batuley
     auto: true

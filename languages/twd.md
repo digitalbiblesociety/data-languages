@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: トゥウェンテ語
     auto: true
+  - translation_iso: por
+    name: Twents
+    auto: true
   - translation_iso: spa
     name: Twents
     auto: true

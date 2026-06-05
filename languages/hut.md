@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フムラ語
     auto: true
+  - translation_iso: por
+    name: Humla
+    auto: true
   - translation_iso: spa
     name: Humla
     auto: true

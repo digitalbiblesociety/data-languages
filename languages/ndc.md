@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンダウ語
+  - translation_iso: por
+    name: Língua ndau
   - translation_iso: spa
     name: Ndau
   - translation_iso: zho

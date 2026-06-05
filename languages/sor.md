@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: シビネ語
     auto: true
+  - translation_iso: por
+    name: Língua somrai
   - translation_iso: spa
     name: Somrai
     auto: true

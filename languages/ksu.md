@@ -27,6 +27,9 @@ translations:
     name: खमयांग भाषा
   - translation_iso: jpn
     name: カムヤン語
+  - translation_iso: por
+    name: Khamyang
+    auto: true
   - translation_iso: spa
     name: Khamyang
     auto: true

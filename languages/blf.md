@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブオル語
     auto: true
+  - translation_iso: por
+    name: Buol
+    auto: true
   - translation_iso: spa
     name: Buol
     auto: true

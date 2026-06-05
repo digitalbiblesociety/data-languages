@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エピエ語
     auto: true
+  - translation_iso: por
+    name: Epie
+    auto: true
   - translation_iso: spa
     name: epie
   - translation_iso: zho

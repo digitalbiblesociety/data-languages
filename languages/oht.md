@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: 古ヒッタイト語
     auto: true
+  - translation_iso: por
+    name: hitita antigo
+    auto: true
   - translation_iso: spa
     name: hitita antiguo
   - translation_iso: zho

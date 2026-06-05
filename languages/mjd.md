@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ノースウェスト・マイドゥ語
     auto: true
+  - translation_iso: por
+    name: Língua maidu noroeste
   - translation_iso: spa
     name: Maidu del Noroeste
     auto: true

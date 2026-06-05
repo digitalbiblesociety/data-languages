@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワタウルング語
     auto: true
+  - translation_iso: por
+    name: Wathawurrung
+    auto: true
   - translation_iso: spa
     name: idioma wathaurong
   - translation_iso: zho

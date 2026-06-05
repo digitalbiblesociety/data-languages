@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ベクワッラ語
     auto: true
+  - translation_iso: por
+    name: Língua bekwarra
   - translation_iso: spa
     name: bekwarra
   - translation_iso: zho

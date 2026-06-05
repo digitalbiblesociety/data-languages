@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ハッキピッキ語
     auto: true
+  - translation_iso: por
+    name: Vaagri Booli
+    auto: true
   - translation_iso: spa
     name: Vaagri Booli
     auto: true

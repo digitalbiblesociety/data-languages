@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モイ語
     auto: true
+  - translation_iso: por
+    name: Moi (Indonésia)
+    auto: true
   - translation_iso: spa
     name: Moi (Indonesia)
     auto: true

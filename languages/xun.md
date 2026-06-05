@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ウンガランググ語
     auto: true
+  - translation_iso: por
+    name: unggaranggu
+    auto: true
   - translation_iso: spa
     name: Unggaranggu
     auto: true

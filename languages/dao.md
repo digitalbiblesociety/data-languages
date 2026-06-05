@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ダアイ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Daai
+    auto: true
   - translation_iso: spa
     name: Chin Daai
     auto: true

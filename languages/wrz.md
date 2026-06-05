@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワレイ語（オーストラリア）
     auto: true
+  - translation_iso: por
+    name: Waray (Austrália)
+    auto: true
   - translation_iso: spa
     name: Waray (Australia)
     auto: true

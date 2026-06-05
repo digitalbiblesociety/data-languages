@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アウィング語
     auto: true
+  - translation_iso: por
+    name: Língua awing
   - translation_iso: spa
     name: awing
   - translation_iso: zho

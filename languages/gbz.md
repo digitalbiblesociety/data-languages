@@ -30,6 +30,9 @@ translations:
     name: ダリー語
   - translation_iso: kor
     name: 조로아스터교 다리어
+  - translation_iso: por
+    name: dari zoroastriano
+    auto: true
   - translation_iso: spa
     name: Dari zoroastriano
     auto: true

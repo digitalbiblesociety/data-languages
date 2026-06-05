@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブユ語
     auto: true
+  - translation_iso: por
+    name: Buyu
+    auto: true
   - translation_iso: spa
     name: Buyu
     auto: true

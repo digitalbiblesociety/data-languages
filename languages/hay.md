@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハヤ語
+  - translation_iso: por
+    name: Língua haya
   - translation_iso: spa
     name: Haya
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キンガ語
     auto: true
+  - translation_iso: por
+    name: kinga
+    auto: true
   - translation_iso: spa
     name: Kinga
     auto: true

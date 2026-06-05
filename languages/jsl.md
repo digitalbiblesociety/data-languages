@@ -27,6 +27,8 @@ translations:
     name: 日本手話
   - translation_iso: kor
     name: 일본 수화
+  - translation_iso: por
+    name: Língua de Sinais Japonesa
   - translation_iso: spa
     name: lengua de señas japonesa
   - translation_iso: zho

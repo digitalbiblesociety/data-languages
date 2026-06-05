@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コルボ語
     auto: true
+  - translation_iso: por
+    name: Korubo
+    auto: true
   - translation_iso: spa
     name: idioma korubo
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アガトゥ語
     auto: true
+  - translation_iso: por
+    name: Agatu
+    auto: true
   - translation_iso: spa
     name: agatu
   - translation_iso: zho

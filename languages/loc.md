@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イノンハン語
     auto: true
+  - translation_iso: por
+    name: Inonhan
+    auto: true
   - translation_iso: spa
     name: Inonhan
     auto: true

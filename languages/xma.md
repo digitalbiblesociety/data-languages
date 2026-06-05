@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ムシュング語
     auto: true
+  - translation_iso: por
+    name: Mushungulu
+    auto: true
   - translation_iso: spa
     name: Mushungulu
     auto: true

@@ -22,6 +22,8 @@ translations:
     name: フン語
   - translation_iso: kor
     name: 훈어
+  - translation_iso: por
+    name: Língua huna
   - translation_iso: spa
     name: Idioma huno
   - translation_iso: zho

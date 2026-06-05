@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カシナワ語
+  - translation_iso: por
+    name: Língua caxinauá
   - translation_iso: spa
     name: Kashinawa
   - translation_iso: zho

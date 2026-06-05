@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: クヨノン語
     auto: true
+  - translation_iso: por
+    name: Língua cuyonon
   - translation_iso: spa
     name: idioma cuyano
   - translation_iso: zho

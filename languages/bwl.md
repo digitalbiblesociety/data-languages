@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ブウェラ語
     auto: true
+  - translation_iso: por
+    name: Bwela
+    auto: true
   - translation_iso: spa
     name: Bwela
     auto: true

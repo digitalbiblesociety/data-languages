@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サフェヨカ語
     auto: true
+  - translation_iso: por
+    name: Safeyoka
+    auto: true
   - translation_iso: spa
     name: Safeyoka
     auto: true

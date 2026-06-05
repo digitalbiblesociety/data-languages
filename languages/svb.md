@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウラウ・スアイン語
     auto: true
+  - translation_iso: por
+    name: Ulau-Suain
+    auto: true
   - translation_iso: spa
     name: Ulau-Suain
     auto: true

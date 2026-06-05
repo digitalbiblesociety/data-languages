@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ゴウリ語
     auto: true
+  - translation_iso: por
+    name: Gowli
+    auto: true
   - translation_iso: spa
     name: Gowli
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ソゥ・ウパア語
     auto: true
+  - translation_iso: por
+    name: Sou Upaa
+    auto: true
   - translation_iso: spa
     name: Sou Upaa
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピティ語
+  - translation_iso: por
+    name: Piti
+    auto: true
   - translation_iso: spa
     name: Piti
     auto: true

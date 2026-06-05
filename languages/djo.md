@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジャンカング語
     auto: true
+  - translation_iso: por
+    name: Jangkang
+    auto: true
   - translation_iso: spa
     name: Jangkang
     auto: true

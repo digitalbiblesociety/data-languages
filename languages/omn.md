@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミノア語
+  - translation_iso: por
+    name: minoico
+    auto: true
   - translation_iso: spa
     name: minoico
   - translation_iso: zho

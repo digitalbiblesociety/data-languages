@@ -28,6 +28,8 @@ translations:
     name: アラビア語イラク方言
   - translation_iso: kor
     name: 이라크 아랍어
+  - translation_iso: por
+    name: Árabe iraquiano
   - translation_iso: spa
     name: árabe mesopotámico
   - translation_iso: zho

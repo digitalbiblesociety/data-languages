@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィネベゴ語
+  - translation_iso: por
+    name: Língua winnebago
   - translation_iso: spa
     name: Winnebago
   - translation_iso: zho

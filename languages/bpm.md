@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビヨム語
     auto: true
+  - translation_iso: por
+    name: Biyom
+    auto: true
   - translation_iso: spa
     name: Biyom
     auto: true

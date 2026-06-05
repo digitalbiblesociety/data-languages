@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バグピ語
     auto: true
+  - translation_iso: por
+    name: Bagupi
+    auto: true
   - translation_iso: spa
     name: Bagupi
     auto: true

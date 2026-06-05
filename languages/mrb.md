@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マリーノ語
     auto: true
+  - translation_iso: por
+    name: Marino
+    auto: true
   - translation_iso: spa
     name: Marino
     auto: true

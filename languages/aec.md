@@ -28,6 +28,8 @@ translations:
     name: アラビア語サイード方言
   - translation_iso: kor
     name: 사이드 아랍어
+  - translation_iso: por
+    name: Árabe saidi
   - translation_iso: spa
     name: árabe saidí
   - translation_iso: zho

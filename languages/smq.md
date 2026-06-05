@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ダバ語
     auto: true
+  - translation_iso: por
+    name: Samo
+    auto: true
   - translation_iso: spa
     name: Samo
     auto: true

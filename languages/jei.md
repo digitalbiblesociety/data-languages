@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イェイ語
     auto: true
+  - translation_iso: por
+    name: Yei
+    auto: true
   - translation_iso: spa
     name: Yei
     auto: true

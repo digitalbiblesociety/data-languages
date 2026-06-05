@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北パメ語
     auto: true
+  - translation_iso: por
+    name: Pame Setentrional
+    auto: true
   - translation_iso: spa
     name: Pame norteño
   - translation_iso: zho

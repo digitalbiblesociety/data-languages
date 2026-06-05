@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニャンガ語
     auto: true
+  - translation_iso: por
+    name: Nyangga
+    auto: true
   - translation_iso: spa
     name: Nyangga
     auto: true

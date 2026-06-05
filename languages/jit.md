@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ジタ語
     auto: true
+  - translation_iso: por
+    name: Língua jita
   - translation_iso: spa
     name: Jita
     auto: true

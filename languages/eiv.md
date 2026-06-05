@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アスコパン語
     auto: true
+  - translation_iso: por
+    name: Askopan
+    auto: true
   - translation_iso: spa
     name: askopan
   - translation_iso: zho

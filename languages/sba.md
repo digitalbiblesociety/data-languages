@@ -27,6 +27,8 @@ translations:
     name: ンガムバイ語
   - translation_iso: kor
     name: 느감바이어
+  - translation_iso: por
+    name: ngambay
   - translation_iso: spa
     name: Idioma ngambay
   - translation_iso: zho

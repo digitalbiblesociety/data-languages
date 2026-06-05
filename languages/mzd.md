@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マリンバ語
     auto: true
+  - translation_iso: por
+    name: Malimba
+    auto: true
   - translation_iso: spa
     name: Malimba
     auto: true

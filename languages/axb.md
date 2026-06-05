@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アビポン語
     auto: true
+  - translation_iso: por
+    name: Abipon
+    auto: true
   - translation_iso: spa
     name: idioma abipón
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥマ語
+  - translation_iso: por
+    name: Duma
+    auto: true
   - translation_iso: spa
     name: Duma
     auto: true

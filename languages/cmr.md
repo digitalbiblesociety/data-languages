@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ムロ・キミ・チン語
     auto: true
+  - translation_iso: por
+    name: Língua mro
   - translation_iso: spa
     name: Chin Mro-Khimi
     auto: true

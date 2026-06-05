@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ジョルト語
     auto: true
+  - translation_iso: por
+    name: Jorto
+    auto: true
   - translation_iso: spa
     name: yorto
   - translation_iso: zho

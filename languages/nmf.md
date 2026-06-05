@@ -27,6 +27,8 @@ translations:
     name: तांगखुल भाषा
   - translation_iso: jpn
     name: タンクル語
+  - translation_iso: por
+    name: Língua tangkhul
   - translation_iso: spa
     name: Naga Tangkhul
     auto: true

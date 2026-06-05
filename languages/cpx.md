@@ -29,6 +29,8 @@ translations:
     name: 莆仙語
   - translation_iso: kor
     name: 보선어
+  - translation_iso: por
+    name: Língua putian
   - translation_iso: spa
     name: Pu-Xian
   - translation_iso: zho

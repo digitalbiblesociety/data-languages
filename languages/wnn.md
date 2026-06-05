@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ウヌムラ語
     auto: true
+  - translation_iso: por
+    name: Wunumara
+    auto: true
   - translation_iso: spa
     name: Wunumara
     auto: true

@@ -26,6 +26,8 @@ translations:
     name: ションペン語
   - translation_iso: kor
     name: 숌펜어
+  - translation_iso: por
+    name: Língua shompen
   - translation_iso: spa
     name: Shom Peng
     auto: true

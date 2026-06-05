@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガレラ語
+  - translation_iso: por
+    name: Galela
   - translation_iso: spa
     name: Galela
   - translation_iso: zho

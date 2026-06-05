@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: リシワ語
     auto: true
+  - translation_iso: por
+    name: Rishiwa
+    auto: true
   - translation_iso: spa
     name: Rishiwa
     auto: true

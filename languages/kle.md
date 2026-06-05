@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クルン語
     auto: true
+  - translation_iso: por
+    name: Kulung (Nepal)
+    auto: true
   - translation_iso: spa
     name: Kulung (Nepal)
     auto: true

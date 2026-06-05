@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピンゲラップ語
+  - translation_iso: por
+    name: Língua pingelapesa
   - translation_iso: spa
     name: Pingelapés
     auto: true

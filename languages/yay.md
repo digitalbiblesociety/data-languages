@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アグワグウネ語
     auto: true
+  - translation_iso: por
+    name: agwagwune
+    auto: true
   - translation_iso: spa
     name: Agwagwune
     auto: true

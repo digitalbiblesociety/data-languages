@@ -26,6 +26,9 @@ translations:
     name: कोरो भाषा
   - translation_iso: jpn
     name: コロ語
+  - translation_iso: por
+    name: Koro (Índia)
+    auto: true
   - translation_iso: spa
     name: idioma koro
   - translation_iso: zho

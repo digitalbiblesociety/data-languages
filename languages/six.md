@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガリア語
+  - translation_iso: por
+    name: Sumau
+    auto: true
   - translation_iso: spa
     name: Sumau
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エロテペック・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Elotepec
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Elotepec
     auto: true

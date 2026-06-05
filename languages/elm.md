@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エレメ語
     auto: true
+  - translation_iso: por
+    name: Eleme
+    auto: true
   - translation_iso: spa
     name: Eleme
     auto: true

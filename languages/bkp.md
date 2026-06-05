@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボコ
+  - translation_iso: por
+    name: Boko (República Democrática do Congo)
+    auto: true
   - translation_iso: spa
     name: Boko (República Democrática del Congo)
     auto: true

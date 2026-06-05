@@ -21,6 +21,8 @@ translations:
   - translation_iso: jpn
     name: トゥピナンバ語
     auto: true
+  - translation_iso: por
+    name: Língua tupiniquim
   - translation_iso: spa
     name: tupiniquim
   - translation_iso: zho

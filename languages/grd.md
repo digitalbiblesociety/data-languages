@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グルントゥム・ムバール語
     auto: true
+  - translation_iso: por
+    name: Guruntum-Mbaaru
+    auto: true
   - translation_iso: spa
     name: Guruntum-Mbaaru
     auto: true

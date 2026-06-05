@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤイギル語
     auto: true
+  - translation_iso: por
+    name: yaygir
+    auto: true
   - translation_iso: spa
     name: idioma yaygir
   - translation_iso: zho

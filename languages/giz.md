@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サウス・ギジガ語
     auto: true
+  - translation_iso: por
+    name: giziga do sul
+    auto: true
   - translation_iso: spa
     name: Giziga meridional
     auto: true

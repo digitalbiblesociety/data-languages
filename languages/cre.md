@@ -21,6 +21,8 @@ translations:
     name: クリー語
   - translation_iso: kor
     name: 크리어
+  - translation_iso: por
+    name: língua cree
   - translation_iso: spa
     name: idioma cree
   - translation_iso: zho

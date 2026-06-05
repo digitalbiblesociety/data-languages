@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ファム語
     auto: true
+  - translation_iso: por
+    name: Fam
+    auto: true
   - translation_iso: spa
     name: fam
   - translation_iso: zho

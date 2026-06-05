@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ガバンジリ語
     auto: true
+  - translation_iso: por
+    name: Gbanziri
+    auto: true
   - translation_iso: spa
     name: Idioma Gbanzili
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メグレノ・ルーマニア語
+  - translation_iso: por
+    name: língua romena meglesita
   - translation_iso: spa
     name: meglenorrumano
   - translation_iso: zho

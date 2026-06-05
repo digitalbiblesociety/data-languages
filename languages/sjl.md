@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミジ諸語
+  - translation_iso: por
+    name: Sajalong
+    auto: true
   - translation_iso: spa
     name: idioma miji
   - translation_iso: zho

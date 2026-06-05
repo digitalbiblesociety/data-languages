@@ -28,6 +28,8 @@ translations:
     name: ウォライタ語
   - translation_iso: kor
     name: 월라이타어
+  - translation_iso: por
+    name: Língua wolaytta
   - translation_iso: spa
     name: Idioma wolayta
   - translation_iso: zho

@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: キサン語
     auto: true
+  - translation_iso: por
+    name: Kisan
+    auto: true
   - translation_iso: spa
     name: Kisan
     auto: true

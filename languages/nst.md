@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タセ・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Tase
+    auto: true
   - translation_iso: spa
     name: Naga Tase
     auto: true

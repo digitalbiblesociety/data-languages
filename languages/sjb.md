@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サジャウ・ラッティ語
     auto: true
+  - translation_iso: por
+    name: Sajau Basap
+    auto: true
   - translation_iso: spa
     name: Sajau Basap
     auto: true

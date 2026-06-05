@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サブティアバ語
     auto: true
+  - translation_iso: por
+    name: Subtiaba
+    auto: true
   - translation_iso: spa
     name: sutiaba
   - translation_iso: zho

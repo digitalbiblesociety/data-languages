@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 柳黔チワン語
+  - translation_iso: por
+    name: zhuang de Liuqian
+    auto: true
   - translation_iso: spa
     name: Zhuang de Liuqian
     auto: true

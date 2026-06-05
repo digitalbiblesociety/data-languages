@@ -28,6 +28,8 @@ translations:
     name: グリーンランド語
   - translation_iso: kor
     name: 그린란드어
+  - translation_iso: por
+    name: gronelandês
   - translation_iso: spa
     name: groenlandés
   - translation_iso: zho

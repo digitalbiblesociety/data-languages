@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴマラ語
+  - translation_iso: por
+    name: Língua gomara
   - translation_iso: spa
     name: bereber ghomari
   - translation_iso: zho

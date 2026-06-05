@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イヨウフワ・チョロテ語
     auto: true
+  - translation_iso: por
+    name: Língua chorote
   - translation_iso: spa
     name: "Idioma chorote iyo'wujwa"
   - translation_iso: zho

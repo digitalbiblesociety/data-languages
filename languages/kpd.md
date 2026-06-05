@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コバ語
+  - translation_iso: por
+    name: Koba
+    auto: true
   - translation_iso: spa
     name: Koba
     auto: true

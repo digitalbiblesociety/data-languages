@@ -28,6 +28,8 @@ translations:
     name: ザルマ語
   - translation_iso: kor
     name: 자르마어
+  - translation_iso: por
+    name: Língua zarma
   - translation_iso: spa
     name: Idioma zarma
   - translation_iso: zho

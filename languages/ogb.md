@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オグビア語
     auto: true
+  - translation_iso: por
+    name: Ogbia
+    auto: true
   - translation_iso: spa
     name: Ogbia
     auto: true

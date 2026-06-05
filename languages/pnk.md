@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パウナ語
+  - translation_iso: por
+    name: Língua paunaka
   - translation_iso: spa
     name: idioma paunaka
   - translation_iso: zho

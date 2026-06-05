@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: リグウェ語
     auto: true
+  - translation_iso: por
+    name: Rigwe
+    auto: true
   - translation_iso: spa
     name: Rigwe
     auto: true

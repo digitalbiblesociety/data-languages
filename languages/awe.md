@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アウェティ語
     auto: true
+  - translation_iso: por
+    name: Língua aueti
   - translation_iso: spa
     name: Idioma awetí
   - translation_iso: zho

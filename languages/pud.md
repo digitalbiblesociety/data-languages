@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: プナンアプット語
     auto: true
+  - translation_iso: por
+    name: Punan Aput
+    auto: true
   - translation_iso: spa
     name: Punan Aput
     auto: true

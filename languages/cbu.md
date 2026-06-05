@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: カンドシ・シャプラ語
     auto: true
+  - translation_iso: por
+    name: Língua candoshi
   - translation_iso: spa
     name: candoshi
   - translation_iso: zho

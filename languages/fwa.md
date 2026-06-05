@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: フワイ語
     auto: true
+  - translation_iso: por
+    name: Fwâi
+    auto: true
   - translation_iso: spa
     name: idioma fwâi
   - translation_iso: zho

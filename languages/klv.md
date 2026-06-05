@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マスケリネス語
     auto: true
+  - translation_iso: por
+    name: Língua maskelynes
   - translation_iso: spa
     name: Maskelynes
     auto: true

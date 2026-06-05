@@ -28,6 +28,8 @@ translations:
     name: マンダル語
   - translation_iso: kor
     name: 만다르어
+  - translation_iso: por
+    name: Língua mandar
   - translation_iso: spa
     name: mandar
   - translation_iso: zho

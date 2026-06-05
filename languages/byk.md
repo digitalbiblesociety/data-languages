@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 標語
+  - translation_iso: por
+    name: Biao
+    auto: true
   - translation_iso: spa
     name: Biao
     auto: true

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クサール語
+  - translation_iso: por
+    name: Língua kusaal
   - translation_iso: spa
     name: Kusaal
     auto: true

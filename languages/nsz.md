@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ニセナン語
     auto: true
+  - translation_iso: por
+    name: Nisenan
+    auto: true
   - translation_iso: spa
     name: Nisenan
     auto: true

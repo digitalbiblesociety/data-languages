@@ -29,6 +29,8 @@ translations:
     name: キリピ
   - translation_iso: kor
     name: 퀴리피어
+  - translation_iso: por
+    name: Língua quiripi
   - translation_iso: spa
     name: Quiripi
   - translation_iso: zho

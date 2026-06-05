@@ -28,6 +28,8 @@ translations:
     name: サンブル語
   - translation_iso: kor
     name: 삼부루어
+  - translation_iso: por
+    name: samburu
   - translation_iso: spa
     name: samburu
   - translation_iso: zho

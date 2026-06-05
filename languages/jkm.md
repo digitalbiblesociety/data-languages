@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: モブワ・カレン語
     auto: true
+  - translation_iso: por
+    name: Karen Mobwa
+    auto: true
   - translation_iso: spa
     name: Karen Mobwa
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: アチョリ語
   - translation_iso: kor
     name: 아촐리어
+  - translation_iso: por
+    name: Língua acholi
   - translation_iso: spa
     name: idioma acholi
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イディ語
     auto: true
+  - translation_iso: por
+    name: Idi
+    auto: true
   - translation_iso: spa
     name: Idioma idi
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ルフ語
     auto: true
+  - translation_iso: por
+    name: Lufu
+    auto: true
   - translation_iso: spa
     name: Lufu
     auto: true

@@ -30,6 +30,9 @@ translations:
     name: 徳之島方言
   - translation_iso: kor
     name: 도쿠노시마 방언
+  - translation_iso: por
+    name: Toku-No-Shima
+    auto: true
   - translation_iso: spa
     name: Toku-No-Shima
     auto: true

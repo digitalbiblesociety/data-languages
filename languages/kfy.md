@@ -28,6 +28,8 @@ translations:
     name: कुमाऊँनी
   - translation_iso: jpn
     name: クマーオニー語
+  - translation_iso: por
+    name: Língua Kumaoni
   - translation_iso: spa
     name: Kumaoni
     auto: true

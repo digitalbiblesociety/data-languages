@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: エ語
     auto: true
+  - translation_iso: por
+    name: E
+    auto: true
   - translation_iso: spa
     name: e
   - translation_iso: zho

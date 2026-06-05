@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポーニー語
+  - translation_iso: por
+    name: Língua pawnee
   - translation_iso: spa
     name: Pawnee
   - translation_iso: zho

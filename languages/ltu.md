@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラトゥ語
+  - translation_iso: por
+    name: Latu
+    auto: true
   - translation_iso: spa
     name: Latu
     auto: true

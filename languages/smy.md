@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セムナーン語
+  - translation_iso: por
+    name: Semnani
+    auto: true
   - translation_iso: spa
     name: Semnani
     auto: true

@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイ語
+  - translation_iso: por
+    name: Língua cofán
   - translation_iso: spa
     name: Idioma cofán
   - translation_iso: zho

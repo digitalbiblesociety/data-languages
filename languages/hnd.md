@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サザン・ヒンドコー語
     auto: true
+  - translation_iso: por
+    name: Hindko do Sul
+    auto: true
   - translation_iso: spa
     name: Hindko meridional
     auto: true

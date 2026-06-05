@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブヒッド語
+  - translation_iso: por
+    name: Língua buhid
   - translation_iso: spa
     name: Buhid
     auto: true

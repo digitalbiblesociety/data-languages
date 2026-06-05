@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビルマ手話
+  - translation_iso: por
+    name: língua de sinais de Mianmar
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Myanmar
     auto: true

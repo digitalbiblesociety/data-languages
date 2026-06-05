@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウリピブ語
+  - translation_iso: por
+    name: Uripiv-Wala-Rano-Atchin
+    auto: true
   - translation_iso: spa
     name: Idioma uripiv
   - translation_iso: zho

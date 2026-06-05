@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブクサ語
     auto: true
+  - translation_iso: por
+    name: Buksa
+    auto: true
   - translation_iso: spa
     name: Buksa
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ・イラク・アラビア語
+  - translation_iso: por
+    name: árabe judeu-iraquiano
+    auto: true
   - translation_iso: spa
     name: árabe judeo-iraquí
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     name: सौराष्ट्र भाषा
   - translation_iso: jpn
     name: サウラーシュトラ語
+  - translation_iso: por
+    name: Língua saurashtra
   - translation_iso: spa
     name: saurashtra
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンギティ語
+  - translation_iso: por
+    name: Ngiti
+    auto: true
   - translation_iso: spa
     name: Ngiti
   - translation_iso: zho

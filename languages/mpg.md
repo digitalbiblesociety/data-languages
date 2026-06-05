@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マルバ語
     auto: true
+  - translation_iso: por
+    name: Língua marba
   - translation_iso: spa
     name: Marba
     auto: true

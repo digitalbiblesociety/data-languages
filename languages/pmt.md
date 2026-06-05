@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥアモトゥ語
+  - translation_iso: por
+    name: Tuamotuano
+    auto: true
   - translation_iso: spa
     name: Idioma tuamotu
   - translation_iso: zho

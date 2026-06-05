@@ -28,6 +28,8 @@ translations:
     name: アカン語
   - translation_iso: kor
     name: 아칸어
+  - translation_iso: por
+    name: língua akan
   - translation_iso: spa
     name: lenguas akánicas
   - translation_iso: zho

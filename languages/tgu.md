@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タング語
+  - translation_iso: por
+    name: Tanggu
+    auto: true
   - translation_iso: spa
     name: Tanggu
     auto: true

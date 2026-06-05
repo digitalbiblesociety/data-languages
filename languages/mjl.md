@@ -28,6 +28,8 @@ translations:
     name: मंडयाली
   - translation_iso: jpn
     name: マンデアーリー語
+  - translation_iso: por
+    name: Língua mandeali
   - translation_iso: spa
     name: Mandeali
     auto: true

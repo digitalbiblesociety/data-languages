@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: グアトー語
     auto: true
+  - translation_iso: por
+    name: Língua guató
   - translation_iso: spa
     name: idioma guató
   - translation_iso: zho

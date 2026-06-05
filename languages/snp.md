@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シアネ語
+  - translation_iso: por
+    name: Siane
+    auto: true
   - translation_iso: spa
     name: Siane
     auto: true

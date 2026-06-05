@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: パンク語
     auto: true
+  - translation_iso: por
+    name: Língua Pangkhua
   - translation_iso: spa
     name: Lengua pangkhu
   - translation_iso: zho

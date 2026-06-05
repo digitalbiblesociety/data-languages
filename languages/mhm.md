@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マクワ・モニガ語
     auto: true
+  - translation_iso: por
+    name: Makhuwa-Moniga
+    auto: true
   - translation_iso: spa
     name: Makhuwa-Moniga
     auto: true

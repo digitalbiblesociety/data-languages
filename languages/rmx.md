@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ロマム語
     auto: true
+  - translation_iso: por
+    name: Romam
+    auto: true
   - translation_iso: spa
     name: Romam
     auto: true

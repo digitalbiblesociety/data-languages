@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: イブ語
     auto: true
+  - translation_iso: por
+    name: Ibu
+    auto: true
   - translation_iso: spa
     name: Ibu
     auto: true

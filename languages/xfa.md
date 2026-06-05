@@ -28,6 +28,8 @@ translations:
     name: ファリスク語
   - translation_iso: kor
     name: 팔리스크어
+  - translation_iso: por
+    name: falisco
   - translation_iso: spa
     name: idioma falisco
   - translation_iso: zho

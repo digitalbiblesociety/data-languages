@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 南ビリフォル語
     auto: true
+  - translation_iso: por
+    name: Birifor meridional
+    auto: true
   - translation_iso: spa
     name: Birifor del sur
     auto: true

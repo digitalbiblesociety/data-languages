@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サマ語
+  - translation_iso: por
+    name: Samay
+    auto: true
   - translation_iso: spa
     name: Samay
     auto: true

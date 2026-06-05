@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ココダ語
     auto: true
+  - translation_iso: por
+    name: Kokoda
+    auto: true
   - translation_iso: spa
     name: Kokoda
     auto: true

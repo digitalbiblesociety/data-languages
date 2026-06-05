@@ -30,6 +30,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 하카루어
+  - translation_iso: por
+    name: Língua jaqaru
   - translation_iso: spa
     name: jacaru
   - translation_iso: zho

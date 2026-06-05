@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ザングスカリ語
     auto: true
+  - translation_iso: por
+    name: zangskari
+    auto: true
   - translation_iso: spa
     name: Zangskari
     auto: true

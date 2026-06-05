@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・パルバテ・ハム語
     auto: true
+  - translation_iso: por
+    name: Kham Parbate Ocidental
+    auto: true
   - translation_iso: spa
     name: Kham Parbate Occidental
     auto: true

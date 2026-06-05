@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レムン語
     auto: true
+  - translation_iso: por
+    name: Remun
+    auto: true
   - translation_iso: spa
     name: Remun
     auto: true

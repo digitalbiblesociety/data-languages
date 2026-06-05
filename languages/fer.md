@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: フェロゲ語
     auto: true
+  - translation_iso: por
+    name: Feroge
+    auto: true
   - translation_iso: spa
     name: Idioma Kaligi
   - translation_iso: zho

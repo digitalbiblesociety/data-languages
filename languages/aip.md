@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブルマコク語
     auto: true
+  - translation_iso: por
+    name: Burumakok
+    auto: true
   - translation_iso: spa
     name: Burumakok
     auto: true

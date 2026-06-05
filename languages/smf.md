@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シモッグ語
     auto: true
+  - translation_iso: por
+    name: Auwe
+    auto: true
   - translation_iso: spa
     name: Auwe
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: グアラユ語
     auto: true
+  - translation_iso: por
+    name: Língua guarayo
   - translation_iso: spa
     name: idioma guarayo
   - translation_iso: zho

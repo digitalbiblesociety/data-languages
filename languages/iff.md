@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イフォ語
+  - translation_iso: por
+    name: Ifo
+    auto: true
   - translation_iso: spa
     name: Ifo
     auto: true

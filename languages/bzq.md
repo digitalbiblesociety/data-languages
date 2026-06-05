@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブリ語 (インドネシアの言語)
+  - translation_iso: por
+    name: Buli (Indonésia)
+    auto: true
   - translation_iso: spa
     name: Buli (Indonesia)
     auto: true

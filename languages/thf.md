@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: タングミ語
     auto: true
+  - translation_iso: por
+    name: Língua thangmi
   - translation_iso: spa
     name: thangmi
   - translation_iso: zho

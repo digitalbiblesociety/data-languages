@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ベドアナス語
     auto: true
+  - translation_iso: por
+    name: Bedoanas
+    auto: true
   - translation_iso: spa
     name: Bedoanas
     auto: true

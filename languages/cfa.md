@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディカカ語
+  - translation_iso: por
+    name: Dijim-Bwilim
+    auto: true
   - translation_iso: spa
     name: Dijim-Bwilim
     auto: true

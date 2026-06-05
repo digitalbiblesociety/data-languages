@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テウティラ・クイカテク語
     auto: true
+  - translation_iso: por
+    name: Cuicateco de Teutila
+    auto: true
   - translation_iso: spa
     name: Cuicateco de Teutila
     auto: true

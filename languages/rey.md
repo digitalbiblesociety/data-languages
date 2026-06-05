@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レイェサノ語
+  - translation_iso: por
+    name: Reyesano
+    auto: true
   - translation_iso: spa
     name: idioma maropa
   - translation_iso: zho

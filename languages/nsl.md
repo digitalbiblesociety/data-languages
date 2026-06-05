@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノルウェー手話
+  - translation_iso: por
+    name: Língua de Sinais Norueguesa
+    auto: true
   - translation_iso: spa
     name: Lengua de señas noruega
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ケレンガッソ・ボゾ語
     auto: true
+  - translation_iso: por
+    name: Bozo Kɛlɛngaxo
+    auto: true
   - translation_iso: spa
     name: Bozo Kɛlɛngaxo
     auto: true

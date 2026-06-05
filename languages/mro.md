@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムル語
+  - translation_iso: por
+    name: Mru
+    auto: true
   - translation_iso: spa
     name: Mru
     auto: true

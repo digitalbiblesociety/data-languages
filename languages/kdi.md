@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クマム語
+  - translation_iso: por
+    name: Kumam
+    auto: true
   - translation_iso: spa
     name: Kumam
     auto: true

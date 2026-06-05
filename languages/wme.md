@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ワンブレ語
     auto: true
+  - translation_iso: por
+    name: Língua wambule
   - translation_iso: spa
     name: Wambule
     auto: true

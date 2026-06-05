@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ンゲンデレンゴ語
     auto: true
+  - translation_iso: por
+    name: Ngendelengo
+    auto: true
   - translation_iso: spa
     name: Ngendelengo
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウロボ語
+  - translation_iso: por
+    name: Língua urrobo
   - translation_iso: spa
     name: Urhobo
     auto: true

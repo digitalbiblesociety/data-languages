@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アルホ語
     auto: true
+  - translation_iso: por
+    name: Arhö
+    auto: true
   - translation_iso: spa
     name: Arhö
     auto: true

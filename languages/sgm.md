@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シンガ語
+  - translation_iso: por
+    name: Singa
+    auto: true
   - translation_iso: spa
     name: Singa
     auto: true

@@ -26,6 +26,9 @@ translations:
     name: घंड्रुक सांकेतिक भाषा
   - translation_iso: jpn
     name: ガンドルック手話
+  - translation_iso: por
+    name: Língua de Sinais de Ghandruk
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Ghandruk
     auto: true

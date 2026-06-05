@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウラ語
     auto: true
+  - translation_iso: por
+    name: Fungwa
+    auto: true
   - translation_iso: spa
     name: Fungwa
     auto: true

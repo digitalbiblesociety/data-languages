@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラロ語
     auto: true
+  - translation_iso: por
+    name: Laro
+    auto: true
   - translation_iso: spa
     name: Laro
     auto: true

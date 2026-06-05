@@ -28,6 +28,8 @@ translations:
     name: 韓国手話
   - translation_iso: kor
     name: 한국 수어
+  - translation_iso: por
+    name: língua de sinais coreana
   - translation_iso: spa
     name: lengua de señas coreana
   - translation_iso: zho

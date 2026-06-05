@@ -28,6 +28,8 @@ translations:
     name: ドイツ手話
   - translation_iso: kor
     name: 독일 수화
+  - translation_iso: por
+    name: língua gestual alemã
   - translation_iso: spa
     name: lengua de señas alemana
   - translation_iso: zho

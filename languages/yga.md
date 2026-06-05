@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: マリャンガパ語
     auto: true
+  - translation_iso: por
+    name: malyangapa
+    auto: true
   - translation_iso: spa
     name: Malyangapa
     auto: true

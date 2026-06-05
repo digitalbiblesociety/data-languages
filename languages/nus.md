@@ -28,6 +28,8 @@ translations:
     name: ヌエル語
   - translation_iso: kor
     name: 누에르어
+  - translation_iso: por
+    name: Língua nuer
   - translation_iso: spa
     name: Idioma nuer
   - translation_iso: zho

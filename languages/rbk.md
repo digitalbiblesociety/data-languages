@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北ボントク語
+  - translation_iso: por
+    name: Bontok Setentrional
+    auto: true
   - translation_iso: spa
     name: Bontok septentrional
     auto: true

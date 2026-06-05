@@ -28,6 +28,8 @@ translations:
     name: パイワン語
   - translation_iso: kor
     name: 파이완어
+  - translation_iso: por
+    name: Língua paiwan
   - translation_iso: spa
     name: Idioma paiwan
   - translation_iso: zho

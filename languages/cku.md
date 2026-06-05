@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コウシャッタ語
+  - translation_iso: por
+    name: Língua koasati
   - translation_iso: spa
     name: Koasati
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: 森林エネツ語
     auto: true
+  - translation_iso: por
+    name: Língua enets da floresta
   - translation_iso: spa
     name: Énets del bosque
     auto: true

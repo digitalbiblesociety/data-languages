@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ポヤナワ語
     auto: true
+  - translation_iso: por
+    name: Língua poianaua
   - translation_iso: spa
     name: Poyanáwa
     auto: true

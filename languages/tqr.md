@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トロナ語
+  - translation_iso: por
+    name: Torona
+    auto: true
   - translation_iso: spa
     name: Torona
     auto: true

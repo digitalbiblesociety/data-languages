@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シャバンテ語
+  - translation_iso: por
+    name: Língua aquém
   - translation_iso: spa
     name: Idioma xavante
   - translation_iso: zho

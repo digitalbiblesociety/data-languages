@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ルウィラ語
     auto: true
+  - translation_iso: por
+    name: Ruwila
+    auto: true
   - translation_iso: spa
     name: Ruwila
     auto: true

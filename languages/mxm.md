@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メラメラ語
+  - translation_iso: por
+    name: Meramera
+    auto: true
   - translation_iso: spa
     name: Meramera
     auto: true

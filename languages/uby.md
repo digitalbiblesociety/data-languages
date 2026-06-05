@@ -28,6 +28,8 @@ translations:
     name: ウビフ語
   - translation_iso: kor
     name: 우비흐어
+  - translation_iso: por
+    name: ubykh
   - translation_iso: spa
     name: ubijé
   - translation_iso: zho

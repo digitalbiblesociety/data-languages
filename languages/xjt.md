@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ジャイトマタン語
     auto: true
+  - translation_iso: por
+    name: Jaitmatang
+    auto: true
   - translation_iso: spa
     name: Jaitmatang
     auto: true

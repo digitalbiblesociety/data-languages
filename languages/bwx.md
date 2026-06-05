@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プヌ語
+  - translation_iso: por
+    name: Bunu Bu-Nao
+    auto: true
   - translation_iso: spa
     name: Bunu Bu-Nao
     auto: true

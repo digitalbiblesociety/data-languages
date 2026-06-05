@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: フォム・ナガ語
     auto: true
+  - translation_iso: por
+    name: Língua phon
   - translation_iso: spa
     name: Naga Phom
     auto: true

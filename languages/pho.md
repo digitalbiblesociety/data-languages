@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プーノーイ語
+  - translation_iso: por
+    name: Phunoi
+    auto: true
   - translation_iso: spa
     name: Phunoi
     auto: true

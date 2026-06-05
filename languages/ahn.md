@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アハン語
     auto: true
+  - translation_iso: por
+    name: Àhàn
+    auto: true
   - translation_iso: spa
     name: Àhàn
     auto: true

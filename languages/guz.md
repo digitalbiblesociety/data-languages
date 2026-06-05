@@ -28,6 +28,8 @@ translations:
     name: グシイ語
   - translation_iso: kor
     name: 구시어
+  - translation_iso: por
+    name: Língua gusii
   - translation_iso: spa
     name: gusii
   - translation_iso: zho

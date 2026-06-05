@@ -29,6 +29,8 @@ translations:
     name: カルビ語
   - translation_iso: kor
     name: 카르비어
+  - translation_iso: por
+    name: Língua karbi
   - translation_iso: spa
     name: karbi
   - translation_iso: zho

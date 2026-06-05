@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シアウィ語
     auto: true
+  - translation_iso: por
+    name: Siawi
+    auto: true
   - translation_iso: spa
     name: Siawi
     auto: true

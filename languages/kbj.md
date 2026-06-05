@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カリ語
     auto: true
+  - translation_iso: por
+    name: Kari
+    auto: true
   - translation_iso: spa
     name: Kari
     auto: true

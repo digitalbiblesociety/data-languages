@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アンバイ語
     auto: true
+  - translation_iso: por
+    name: Ambai
   - translation_iso: spa
     name: Ambai
   - translation_iso: zho

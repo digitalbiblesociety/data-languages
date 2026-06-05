@@ -28,6 +28,8 @@ translations:
     name: 呉語
   - translation_iso: kor
     name: 우어
+  - translation_iso: por
+    name: Língua wu
   - translation_iso: spa
     name: Chino wu
   - translation_iso: zho

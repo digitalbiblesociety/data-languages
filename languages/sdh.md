@@ -28,6 +28,8 @@ translations:
     name: 南部クルド語
   - translation_iso: kor
     name: 팔레와니어
+  - translation_iso: por
+    name: Curdo meridional
   - translation_iso: spa
     name: kurdo meridional
   - translation_iso: zho

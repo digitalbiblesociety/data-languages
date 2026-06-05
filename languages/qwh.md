@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワイラスアンカシュケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Huaylas Ancash
+    auto: true
   - translation_iso: spa
     name: quechua de Huailas
   - translation_iso: zho

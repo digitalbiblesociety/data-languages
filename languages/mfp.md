@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マカッサル・マレー語
     auto: true
+  - translation_iso: por
+    name: Malaio de Makassar
+    auto: true
   - translation_iso: spa
     name: Malayo de Makassar
     auto: true

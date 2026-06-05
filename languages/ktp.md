@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カドゥオ語
     auto: true
+  - translation_iso: por
+    name: Kaduo
+    auto: true
   - translation_iso: spa
     name: Kaduo
     auto: true

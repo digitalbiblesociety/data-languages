@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タグブ語
     auto: true
+  - translation_iso: por
+    name: Tagbu
+    auto: true
   - translation_iso: spa
     name: Tagbu
     auto: true

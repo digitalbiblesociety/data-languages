@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: キンナウリ語
     auto: true
+  - translation_iso: por
+    name: Língua kinnauri
   - translation_iso: spa
     name: Kinnauri
     auto: true

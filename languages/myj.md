@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マンガヤット語
     auto: true
+  - translation_iso: por
+    name: Mangayat
+    auto: true
   - translation_iso: spa
     name: Mangayat
     auto: true

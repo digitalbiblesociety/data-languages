@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モンゴル手話
+  - translation_iso: por
+    name: Língua de Sinais da Mongólia
   - translation_iso: spa
     name: lengua de signos mongola
   - translation_iso: zho

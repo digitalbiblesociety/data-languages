@@ -28,6 +28,8 @@ translations:
     name: ジーディ
   - translation_iso: kor
     name: 유대 페르시아어
+  - translation_iso: por
+    name: Língua dzhidi
   - translation_iso: spa
     name: judeopersa
   - translation_iso: zho

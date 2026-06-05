@@ -28,6 +28,8 @@ translations:
     name: セブアノ語
   - translation_iso: kor
     name: 세부아노어
+  - translation_iso: por
+    name: cebuano
   - translation_iso: spa
     name: cebuano
   - translation_iso: zho

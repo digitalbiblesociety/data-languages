@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハイランド・トトナック語
     auto: true
+  - translation_iso: por
+    name: Totonaco das Terras Altas
+    auto: true
   - translation_iso: spa
     name: Totonaco de la Sierra
     auto: true

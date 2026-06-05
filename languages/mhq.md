@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: マンダン語
     auto: true
+  - translation_iso: por
+    name: Língua mandan
   - translation_iso: spa
     name: Mandan
     auto: true

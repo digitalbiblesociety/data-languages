@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: "Ma'ya語"
+  - translation_iso: por
+    name: "Ma'ya"
+    auto: true
   - translation_iso: spa
     name: "Ma'ya"
     auto: true

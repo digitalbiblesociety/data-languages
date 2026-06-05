@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ダイソ語
     auto: true
+  - translation_iso: por
+    name: Dhaiso
+    auto: true
   - translation_iso: spa
     name: Dhaiso
     auto: true

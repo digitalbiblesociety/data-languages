@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西部マリンカカン語
+  - translation_iso: por
+    name: maninkakan ocidental
+    auto: true
   - translation_iso: spa
     name: Maninkakan Occidental
     auto: true

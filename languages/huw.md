@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フクミナ語
+  - translation_iso: por
+    name: Hukumina
   - translation_iso: spa
     name: Hukumina
   - translation_iso: zho

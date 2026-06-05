@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カン語
     auto: true
+  - translation_iso: por
+    name: Kang
+    auto: true
   - translation_iso: spa
     name: Kang
     auto: true

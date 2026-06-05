@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゲン語
+  - translation_iso: por
+    name: Língua gen
   - translation_iso: spa
     name: Idioma gen
   - translation_iso: zho

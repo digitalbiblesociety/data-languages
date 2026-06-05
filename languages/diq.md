@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディムリ語
+  - translation_iso: por
+    name: Dimli
+    auto: true
   - translation_iso: spa
     name: Dimli
     auto: true

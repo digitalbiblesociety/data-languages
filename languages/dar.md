@@ -28,6 +28,8 @@ translations:
     name: ダルギン語
   - translation_iso: kor
     name: 다르긴어
+  - translation_iso: por
+    name: Língua dargínica
   - translation_iso: spa
     name: Idioma darguin
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アムリ語
+  - translation_iso: por
+    name: Karbi Amri
+    auto: true
   - translation_iso: spa
     name: idioma amri
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イースト・ケワ語
     auto: true
+  - translation_iso: por
+    name: Kewa Oriental
+    auto: true
   - translation_iso: spa
     name: Kewa Oriental
     auto: true

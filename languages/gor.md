@@ -28,6 +28,8 @@ translations:
     name: ゴロンタロ語
   - translation_iso: kor
     name: 고론탈로어
+  - translation_iso: por
+    name: Gorontalo
   - translation_iso: spa
     name: Idioma gorontalo
   - translation_iso: zho

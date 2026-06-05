@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西マキアン語
+  - translation_iso: por
+    name: macuíno ocidental
+    auto: true
   - translation_iso: spa
     name: Makian Occidental
     auto: true

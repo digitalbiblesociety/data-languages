@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パコー語
     auto: true
+  - translation_iso: por
+    name: Pacoh
+    auto: true
   - translation_iso: spa
     name: Pacoh
     auto: true

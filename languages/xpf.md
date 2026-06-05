@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 南東タスマニア語
     auto: true
+  - translation_iso: por
+    name: Tasmaniano Sudeste
+    auto: true
   - translation_iso: spa
     name: Tasmanio suroriental
     auto: true

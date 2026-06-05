@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아리어
+  - translation_iso: por
+    name: Ari
+    auto: true
   - translation_iso: spa
     name: Ari
     auto: true

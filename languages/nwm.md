@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ニャムサ・モロ語
     auto: true
+  - translation_iso: por
+    name: Nyamusa-Molo
+    auto: true
   - translation_iso: spa
     name: Nyamusa-Molo
     auto: true

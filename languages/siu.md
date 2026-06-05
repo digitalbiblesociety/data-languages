@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガル語
     auto: true
+  - translation_iso: por
+    name: Sinagen
+    auto: true
   - translation_iso: spa
     name: Sinagen
     auto: true

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポム語
+  - translation_iso: por
+    name: Pom
+    auto: true
   - translation_iso: spa
     name: Pom
     auto: true

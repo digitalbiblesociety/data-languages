@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ロラン語
     auto: true
+  - translation_iso: por
+    name: Lorang
+    auto: true
   - translation_iso: spa
     name: Lorang
     auto: true

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: アンカムティ語
     auto: true
+  - translation_iso: por
+    name: Angkamuthi
+    auto: true
   - translation_iso: spa
     name: Angkamuthi
     auto: true

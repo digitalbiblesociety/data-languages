@@ -28,6 +28,8 @@ translations:
     name: ヒッタイト語
   - translation_iso: kor
     name: 히타이트어
+  - translation_iso: por
+    name: Língua hitita
   - translation_iso: spa
     name: hitita
   - translation_iso: zho

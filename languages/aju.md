@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ・モロッコ・アラビア語
+  - translation_iso: por
+    name: Árabe Judeu-Marroquino
+    auto: true
   - translation_iso: spa
     name: judeo-marroquí
   - translation_iso: zho

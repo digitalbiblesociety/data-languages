@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヴィイド語
     auto: true
+  - translation_iso: por
+    name: Senggi
+    auto: true
   - translation_iso: spa
     name: Senggi
     auto: true

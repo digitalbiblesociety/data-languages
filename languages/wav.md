@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ワカ語
     auto: true
+  - translation_iso: por
+    name: Waka
+    auto: true
   - translation_iso: spa
     name: Waka
     auto: true

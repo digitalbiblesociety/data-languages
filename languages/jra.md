@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャライ語
+  - translation_iso: por
+    name: Língua jarai
   - translation_iso: spa
     name: Jarai
     auto: true

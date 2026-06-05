@@ -29,6 +29,8 @@ translations:
     name: ザンデ語
   - translation_iso: kor
     name: 잔데어
+  - translation_iso: por
+    name: Língua zande
   - translation_iso: spa
     name: Zande
     auto: true

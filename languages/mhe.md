@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベシシ語
     auto: true
+  - translation_iso: por
+    name: Besisi
+    auto: true
   - translation_iso: spa
     name: Besisi
     auto: true

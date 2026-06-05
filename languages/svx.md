@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スカロヴィア語
+  - translation_iso: por
+    name: Skalviano
+    auto: true
   - translation_iso: spa
     name: escálvico
   - translation_iso: zho

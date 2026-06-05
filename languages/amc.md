@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アマワカ語
     auto: true
+  - translation_iso: por
+    name: Língua amahuaca
   - translation_iso: spa
     name: idioma amahuaca
   - translation_iso: zho

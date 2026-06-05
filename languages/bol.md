@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボレ語
+  - translation_iso: por
+    name: Bole
+    auto: true
   - translation_iso: spa
     name: Bole
     auto: true

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボータン現代アラム語
+  - translation_iso: por
+    name: Neoaramaico de Bohtan
+    auto: true
   - translation_iso: spa
     name: neoarameo de Botan
   - translation_iso: zho

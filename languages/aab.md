@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 알루무테수어
+  - translation_iso: por
+    name: Alumu-Tesu
+    auto: true
   - translation_iso: spa
     name: Alumu-Tesu
     auto: true

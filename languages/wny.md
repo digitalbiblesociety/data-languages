@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワニイ語
     auto: true
+  - translation_iso: por
+    name: Wanyi
+    auto: true
   - translation_iso: spa
     name: Wanyi
     auto: true

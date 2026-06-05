@@ -28,6 +28,8 @@ translations:
     name: インターリングア
   - translation_iso: kor
     name: 인테르링구아
+  - translation_iso: por
+    name: Interlíngua
   - translation_iso: spa
     name: interlingua
   - translation_iso: zho

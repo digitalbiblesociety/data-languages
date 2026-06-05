@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボロー・グレボ語
     auto: true
+  - translation_iso: por
+    name: grebo de Gboloo
+    auto: true
   - translation_iso: spa
     name: Grebo gboloo
     auto: true

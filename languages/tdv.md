@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トロ語
     auto: true
+  - translation_iso: por
+    name: Toro
+    auto: true
   - translation_iso: spa
     name: Toro
     auto: true

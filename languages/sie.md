@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シマー語
     auto: true
+  - translation_iso: por
+    name: Simaa
+    auto: true
   - translation_iso: spa
     name: Idioma simaa
   - translation_iso: zho

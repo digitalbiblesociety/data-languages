@@ -27,6 +27,8 @@ translations:
     name: परजी भाषा
   - translation_iso: jpn
     name: ドゥルワー語
+  - translation_iso: por
+    name: Língua dhurwa
   - translation_iso: spa
     name: Duruwa
     auto: true

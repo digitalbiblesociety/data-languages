@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミカスキ語
+  - translation_iso: por
+    name: Língua mikazuki
   - translation_iso: spa
     name: idioma hitchiti-mikasuki
   - translation_iso: zho

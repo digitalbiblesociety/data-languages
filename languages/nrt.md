@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 北カラプヤ語
     auto: true
+  - translation_iso: por
+    name: Kalapuya Setentrional
+    auto: true
   - translation_iso: spa
     name: Kalapuya Septentrional
     auto: true

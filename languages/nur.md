@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌクリア語
+  - translation_iso: por
+    name: Língua nuguria
   - translation_iso: spa
     name: Nukuria
     auto: true

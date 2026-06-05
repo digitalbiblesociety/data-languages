@@ -28,6 +28,8 @@ translations:
     name: チェワ語
   - translation_iso: kor
     name: 치체와어
+  - translation_iso: por
+    name: língua nianja
   - translation_iso: spa
     name: chichewa
   - translation_iso: zho

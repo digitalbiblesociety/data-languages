@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カラワリ語
     auto: true
+  - translation_iso: por
+    name: Tabriak
+    auto: true
   - translation_iso: spa
     name: Tabriak
     auto: true

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナミビア手話
+  - translation_iso: por
+    name: Língua de Sinais da Namíbia
   - translation_iso: spa
     name: Lengua de señas de Namibia
     auto: true

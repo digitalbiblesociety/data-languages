@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ・イエメン・アラビア語
+  - translation_iso: por
+    name: árabe judaico-iemenita
+    auto: true
   - translation_iso: spa
     name: árabe judeo-yemení
   - translation_iso: zho

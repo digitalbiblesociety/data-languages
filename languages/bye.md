@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プーイエ語
     auto: true
+  - translation_iso: por
+    name: Pouye
+    auto: true
   - translation_iso: spa
     name: Pouye
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キヴィンザ語
     auto: true
+  - translation_iso: por
+    name: Vinza
+    auto: true
   - translation_iso: spa
     name: Vinza
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: キナミギング・マノボ語
     auto: true
+  - translation_iso: por
+    name: manobo de Kinamiging
+    auto: true
   - translation_iso: spa
     name: Manobo Kinamiging
     auto: true

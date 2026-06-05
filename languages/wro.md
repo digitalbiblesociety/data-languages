@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ウォロッラ語
     auto: true
+  - translation_iso: por
+    name: Língua worrorra
   - translation_iso: spa
     name: Worrorra
     auto: true

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツォツィタール
+  - translation_iso: por
+    name: Língua isotsitaal
   - translation_iso: spa
     name: Flaaitaal
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タングラプウイ語
     auto: true
+  - translation_iso: por
+    name: Kula
+    auto: true
   - translation_iso: spa
     name: Kula
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ドゥスン・デヤ語
     auto: true
+  - translation_iso: por
+    name: Dusun Deyah
+    auto: true
   - translation_iso: spa
     name: Dusun Deyah
     auto: true

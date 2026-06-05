@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヴァメ語
     auto: true
+  - translation_iso: por
+    name: Vame
+    auto: true
   - translation_iso: spa
     name: Vame
     auto: true

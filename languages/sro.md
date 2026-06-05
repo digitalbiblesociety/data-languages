@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンピダーノ・サルデーニャ語
+  - translation_iso: por
+    name: Sardo Campidanês
+    auto: true
   - translation_iso: spa
     name: Sardo campidanés
     auto: true

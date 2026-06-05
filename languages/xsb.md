@@ -32,6 +32,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 삼발어
+  - translation_iso: por
+    name: Língua sambal
   - translation_iso: spa
     name: idioma zambal
   - translation_iso: zho

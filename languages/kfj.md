@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ケミエフア語
     auto: true
+  - translation_iso: por
+    name: Kemiehua
+    auto: true
   - translation_iso: spa
     name: Kemiehua
     auto: true

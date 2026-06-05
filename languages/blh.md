@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クワア語
     auto: true
+  - translation_iso: por
+    name: Kuwaa
+    auto: true
   - translation_iso: spa
     name: Kuwaa
     auto: true

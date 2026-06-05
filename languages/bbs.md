@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バクピンカ語
     auto: true
+  - translation_iso: por
+    name: Bakpinka
+    auto: true
   - translation_iso: spa
     name: Bakpinka
     auto: true

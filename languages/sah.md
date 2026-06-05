@@ -28,6 +28,8 @@ translations:
     name: サハ語
   - translation_iso: kor
     name: 야쿠트어
+  - translation_iso: por
+    name: Língua iacuta
   - translation_iso: spa
     name: Idioma yakuto
   - translation_iso: zho

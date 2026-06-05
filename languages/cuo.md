@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クマナゴト語
+  - translation_iso: por
+    name: Cumanagoto
+    auto: true
   - translation_iso: spa
     name: cumanagoto
   - translation_iso: zho

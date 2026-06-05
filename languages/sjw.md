@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ショーニー語
+  - translation_iso: por
+    name: Shawnee
+    auto: true
   - translation_iso: spa
     name: Shawnee
   - translation_iso: zho

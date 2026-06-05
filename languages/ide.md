@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イデレ語
     auto: true
+  - translation_iso: por
+    name: Idere
+    auto: true
   - translation_iso: spa
     name: Idere
     auto: true

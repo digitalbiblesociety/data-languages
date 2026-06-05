@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨルング手話
+  - translation_iso: por
+    name: língua de sinais yolŋu
+    auto: true
   - translation_iso: spa
     name: Lengua de señas Yolŋu
     auto: true

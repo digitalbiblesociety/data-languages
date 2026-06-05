@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 저지 노소브어
+  - translation_iso: por
+    name: Nossob Inferior
+    auto: true
   - translation_iso: spa
     name: Nossob Inferior
     auto: true

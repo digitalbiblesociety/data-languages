@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セットラ語
     auto: true
+  - translation_iso: por
+    name: Settla
+    auto: true
   - translation_iso: spa
     name: Settla
     auto: true

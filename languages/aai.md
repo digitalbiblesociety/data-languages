@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アリファマミニアフィア語
     auto: true
+  - translation_iso: por
+    name: Arifama-Miniafia
+    auto: true
   - translation_iso: spa
     name: Arifama-Miniafia
     auto: true

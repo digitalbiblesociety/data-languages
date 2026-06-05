@@ -26,6 +26,9 @@ translations:
     name: अविकम भाषा
   - translation_iso: jpn
     name: アヴィカム語
+  - translation_iso: por
+    name: Avikam
+    auto: true
   - translation_iso: spa
     name: Avikam
     auto: true

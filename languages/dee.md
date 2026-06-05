@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: デウォイン語
     auto: true
+  - translation_iso: por
+    name: Dewoin
+    auto: true
   - translation_iso: spa
     name: Dewoin
     auto: true

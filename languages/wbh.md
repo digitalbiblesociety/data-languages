@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ワンダ語
     auto: true
+  - translation_iso: por
+    name: Língua wanda
   - translation_iso: spa
     name: Wanda
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イモトング語
     auto: true
+  - translation_iso: por
+    name: Imotong
+    auto: true
   - translation_iso: spa
     name: Imotong
     auto: true

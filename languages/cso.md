@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソチアパム・チナンテク語
+  - translation_iso: por
+    name: Chinanteco de Sochiapam
+    auto: true
   - translation_iso: spa
     name: chinanteca de Sochiapan
   - translation_iso: zho

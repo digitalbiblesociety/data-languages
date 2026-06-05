@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムビ語
     auto: true
+  - translation_iso: por
+    name: Mubi
+    auto: true
   - translation_iso: spa
     name: Mubi
     auto: true

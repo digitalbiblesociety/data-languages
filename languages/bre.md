@@ -28,6 +28,8 @@ translations:
     name: ブルトン語
   - translation_iso: kor
     name: 브르타뉴어
+  - translation_iso: por
+    name: bretão
   - translation_iso: spa
     name: bretón
   - translation_iso: zho

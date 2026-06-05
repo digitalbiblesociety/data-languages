@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハタム語
     auto: true
+  - translation_iso: por
+    name: Hatam
+    auto: true
   - translation_iso: spa
     name: Hatam
     auto: true

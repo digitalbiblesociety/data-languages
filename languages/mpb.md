@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マラク・マラク語
     auto: true
+  - translation_iso: por
+    name: Malak Malak
+    auto: true
   - translation_iso: spa
     name: Malak Malak
     auto: true

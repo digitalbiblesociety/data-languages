@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラバマ語
+  - translation_iso: por
+    name: Língua alabama
   - translation_iso: spa
     name: idioma alabama
   - translation_iso: zho

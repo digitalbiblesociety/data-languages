@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クワ語
     auto: true
+  - translation_iso: por
+    name: Kwa
+    auto: true
   - translation_iso: spa
     name: Kwa
     auto: true

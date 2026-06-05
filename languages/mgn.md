@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ムバンギ語
     auto: true
+  - translation_iso: por
+    name: Mbangi
+    auto: true
   - translation_iso: spa
     name: Mbangi
     auto: true

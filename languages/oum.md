@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウマ語
     auto: true
+  - translation_iso: por
+    name: Ouma
+    auto: true
   - translation_iso: spa
     name: Ouma
     auto: true

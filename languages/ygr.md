@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤガリア語
+  - translation_iso: por
+    name: yagaria
+    auto: true
   - translation_iso: spa
     name: Yagaria
     auto: true

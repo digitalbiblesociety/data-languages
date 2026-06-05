@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケテ語
+  - translation_iso: por
+    name: Kete
+    auto: true
   - translation_iso: spa
     name: Kete
     auto: true

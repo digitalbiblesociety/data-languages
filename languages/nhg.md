@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テテルシンゴ・ナワトル語
     auto: true
+  - translation_iso: por
+    name: Nahuatl de Tetelcingo
+    auto: true
   - translation_iso: spa
     name: náhuatl tetelcinteco
   - translation_iso: zho

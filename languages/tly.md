@@ -29,6 +29,8 @@ translations:
     name: タリシュ語
   - translation_iso: kor
     name: 탈리시어
+  - translation_iso: por
+    name: Língua talish
   - translation_iso: spa
     name: talishi
   - translation_iso: zho

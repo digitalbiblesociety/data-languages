@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 바디아라어
+  - translation_iso: por
+    name: Badyara
   - translation_iso: spa
     name: Badyara
   - translation_iso: zho

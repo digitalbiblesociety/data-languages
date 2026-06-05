@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヌサ・ラウト語
     auto: true
+  - translation_iso: por
+    name: Nusa Laut
+    auto: true
   - translation_iso: spa
     name: Nusa Laut
     auto: true

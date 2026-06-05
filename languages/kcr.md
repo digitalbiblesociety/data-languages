@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カトラ語
+  - translation_iso: por
+    name: Katla
+    auto: true
   - translation_iso: spa
     name: Idioma kaalak
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムザブ語
+  - translation_iso: por
+    name: Tumzabt
+    auto: true
   - translation_iso: spa
     name: Idioma mozabita
   - translation_iso: zho

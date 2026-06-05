@@ -29,6 +29,8 @@ translations:
     name: ベジタ語
   - translation_iso: kor
     name: 베즈타어
+  - translation_iso: por
+    name: Língua bezhta
   - translation_iso: spa
     name: Idioma bezhta
   - translation_iso: zho

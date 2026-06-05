@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ドゥヤ語
     auto: true
+  - translation_iso: por
+    name: Dũya
+    auto: true
   - translation_iso: spa
     name: Dũya
     auto: true

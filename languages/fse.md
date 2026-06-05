@@ -26,6 +26,8 @@ translations:
     name: फिनिश साइन लैंग्वेज
   - translation_iso: jpn
     name: フィンランド手話
+  - translation_iso: por
+    name: língua de sinais finlandesa
   - translation_iso: spa
     name: Lengua de señas finlandesa
     auto: true

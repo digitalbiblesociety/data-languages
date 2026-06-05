@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アチョマウィ語
+  - translation_iso: por
+    name: Língua achumawi
   - translation_iso: spa
     name: Achumawi
     auto: true

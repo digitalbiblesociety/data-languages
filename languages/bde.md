@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バデ語
+  - translation_iso: por
+    name: Língua bade
   - translation_iso: spa
     name: Bade
     auto: true

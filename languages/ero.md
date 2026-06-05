@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホルパ語
+  - translation_iso: por
+    name: Horpa
+    auto: true
   - translation_iso: spa
     name: horpa
   - translation_iso: zho

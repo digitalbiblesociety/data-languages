@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ルムン語
     auto: true
+  - translation_iso: por
+    name: Língua lumum
   - translation_iso: spa
     name: Lumun
     auto: true

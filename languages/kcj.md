@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 코비아나어
+  - translation_iso: por
+    name: Kobiana
+    auto: true
   - translation_iso: spa
     name: Kobiana
     auto: true

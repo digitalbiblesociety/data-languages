@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 文馬チワン語
+  - translation_iso: por
+    name: zhuang dai
+    auto: true
   - translation_iso: spa
     name: Zhuang Dai
     auto: true

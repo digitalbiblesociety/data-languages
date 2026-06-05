@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ハラミ語
     auto: true
+  - translation_iso: por
+    name: Harami
+    auto: true
   - translation_iso: spa
     name: harami
   - translation_iso: zho

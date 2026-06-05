@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティガク語
+  - translation_iso: por
+    name: Língua tigak
   - translation_iso: spa
     name: Tigak
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マングベツ語
+  - translation_iso: por
+    name: Língua mangbetu
   - translation_iso: spa
     name: mangbetu
   - translation_iso: zho

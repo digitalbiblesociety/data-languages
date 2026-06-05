@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コル・ダレーン語
+  - translation_iso: por
+    name: Língua coeur d’alene
   - translation_iso: spa
     name: "Idioma coeur d'alene"
   - translation_iso: zho

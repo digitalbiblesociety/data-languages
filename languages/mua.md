@@ -28,6 +28,8 @@ translations:
     name: ムンダン語
   - translation_iso: kor
     name: 문당어
+  - translation_iso: por
+    name: Língua mundang
   - translation_iso: spa
     name: mundang
   - translation_iso: zho

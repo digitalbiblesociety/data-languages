@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラージバンシ語
+  - translation_iso: por
+    name: Língua rajbanshi
   - translation_iso: spa
     name: Rajbanshi
     auto: true

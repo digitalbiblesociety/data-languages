@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トトマチャパン・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Totomachapan
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Totomachapan
     auto: true

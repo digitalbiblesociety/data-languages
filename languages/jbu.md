@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 非Jukunoid語
+  - translation_iso: por
+    name: Língua jukun takum
   - translation_iso: spa
     name: Jukun Takum
     auto: true

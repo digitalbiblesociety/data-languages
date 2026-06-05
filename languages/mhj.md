@@ -28,6 +28,8 @@ translations:
     name: モゴール語
   - translation_iso: kor
     name: 모골어
+  - translation_iso: por
+    name: Língua mogholi
   - translation_iso: spa
     name: moghol
   - translation_iso: zho

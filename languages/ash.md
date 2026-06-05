@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: アビシラ語
     auto: true
+  - translation_iso: por
+    name: Língua aiwa
   - translation_iso: spa
     name: tekiraka
   - translation_iso: zho

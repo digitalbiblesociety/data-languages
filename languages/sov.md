@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソンソロール語
+  - translation_iso: por
+    name: Línguas sonsorolesa
   - translation_iso: spa
     name: sonsorol
   - translation_iso: zho

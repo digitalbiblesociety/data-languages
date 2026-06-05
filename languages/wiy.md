@@ -29,6 +29,9 @@ translations:
     name: ウィヨット語
   - translation_iso: kor
     name: 위요트어
+  - translation_iso: por
+    name: Wiyot
+    auto: true
   - translation_iso: spa
     name: Idioma wiyot
   - translation_iso: zho

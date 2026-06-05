@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルグル語
+  - translation_iso: por
+    name: Luguru
+    auto: true
   - translation_iso: spa
     name: Luguru
     auto: true

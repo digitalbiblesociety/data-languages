@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディヤリ語
+  - translation_iso: por
+    name: Língua diyari
   - translation_iso: spa
     name: Dieri
     auto: true

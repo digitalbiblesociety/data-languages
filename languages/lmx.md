@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラインビュエ語
     auto: true
+  - translation_iso: por
+    name: Laimbue
+    auto: true
   - translation_iso: spa
     name: Laimbue
     auto: true

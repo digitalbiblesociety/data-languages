@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シボマ語
     auto: true
+  - translation_iso: por
+    name: Numbami
+    auto: true
   - translation_iso: spa
     name: Numbami
     auto: true

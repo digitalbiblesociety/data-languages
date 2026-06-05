@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヴォンガイ語
+  - translation_iso: por
+    name: Tungag
+    auto: true
   - translation_iso: spa
     name: Tungag
     auto: true

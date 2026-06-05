@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カチ・コリ語
     auto: true
+  - translation_iso: por
+    name: koli de Kachi
+    auto: true
   - translation_iso: spa
     name: Kachi Koli
     auto: true

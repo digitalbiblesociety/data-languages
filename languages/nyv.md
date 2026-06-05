@@ -30,6 +30,9 @@ translations:
     name: ニュルニュル語
   - translation_iso: kor
     name: 뉼뉼어
+  - translation_iso: por
+    name: Nyulnyul
+    auto: true
   - translation_iso: spa
     name: Nyulnyul
     auto: true

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムユウ語
+  - translation_iso: por
+    name: Muyuw
+    auto: true
   - translation_iso: spa
     name: Muyuw
     auto: true

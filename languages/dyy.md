@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジャブガイ語
     auto: true
+  - translation_iso: por
+    name: Djabugay
+    auto: true
   - translation_iso: spa
     name: idioma djabugay
   - translation_iso: zho

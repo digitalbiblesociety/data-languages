@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ンガダ語
     auto: true
+  - translation_iso: por
+    name: Ngada
   - translation_iso: spa
     name: Ngada
   - translation_iso: zho

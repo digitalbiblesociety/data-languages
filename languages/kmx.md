@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワボダ語
     auto: true
+  - translation_iso: por
+    name: Waboda
+    auto: true
   - translation_iso: spa
     name: Waboda
     auto: true

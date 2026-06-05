@@ -21,6 +21,8 @@ translations:
     name: バヤ語
   - translation_iso: kor
     name: 그바야어
+  - translation_iso: por
+    name: gbaia
   - translation_iso: spa
     name: Lenguas gbaya
   - translation_iso: zho

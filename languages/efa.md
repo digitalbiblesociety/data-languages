@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エファイ語
     auto: true
+  - translation_iso: por
+    name: Efai
+    auto: true
   - translation_iso: spa
     name: Efai
     auto: true

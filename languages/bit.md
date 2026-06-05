@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベリノモ語
     auto: true
+  - translation_iso: por
+    name: Berinomo
+    auto: true
   - translation_iso: spa
     name: berinomo
   - translation_iso: zho

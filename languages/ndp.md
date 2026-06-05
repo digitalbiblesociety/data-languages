@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ンド語
     auto: true
+  - translation_iso: por
+    name: Ndo
+    auto: true
   - translation_iso: spa
     name: Ndo
     auto: true

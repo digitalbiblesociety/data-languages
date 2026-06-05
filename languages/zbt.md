@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バトゥイ語
     auto: true
+  - translation_iso: por
+    name: batui
+    auto: true
   - translation_iso: spa
     name: Batui
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シラック語
     auto: true
+  - translation_iso: por
+    name: Nafi
+    auto: true
   - translation_iso: spa
     name: Nafi
     auto: true

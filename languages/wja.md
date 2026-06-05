@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ワジャ語
     auto: true
+  - translation_iso: por
+    name: Língua waja
   - translation_iso: spa
     name: Waja
     auto: true

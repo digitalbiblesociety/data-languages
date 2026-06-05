@@ -28,6 +28,8 @@ translations:
     name: ジンポー語
   - translation_iso: kor
     name: 징포어
+  - translation_iso: por
+    name: Língua jingpho
   - translation_iso: spa
     name: idioma jingpo
   - translation_iso: zho

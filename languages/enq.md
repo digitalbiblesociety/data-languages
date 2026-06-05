@@ -29,6 +29,9 @@ translations:
     name: エンガ語
   - translation_iso: kor
     name: 엥가어
+  - translation_iso: por
+    name: Enga
+    auto: true
   - translation_iso: spa
     name: Enga
     auto: true

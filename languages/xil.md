@@ -26,6 +26,8 @@ translations:
     name: イリュリア語
   - translation_iso: kor
     name: 일리리아어
+  - translation_iso: por
+    name: Línguas ilírias
   - translation_iso: spa
     name: Lenguas ilirias
   - translation_iso: zho

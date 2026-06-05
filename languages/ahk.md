@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アカ語
+  - translation_iso: por
+    name: Língua akha
   - translation_iso: spa
     name: Akha
     auto: true

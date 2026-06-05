@@ -28,6 +28,8 @@ translations:
     name: カピンガマランギ語
   - translation_iso: kor
     name: 카핑아마랑이어
+  - translation_iso: por
+    name: Língua kapingamarangi
   - translation_iso: spa
     name: idioma kapingamarangi
   - translation_iso: zho

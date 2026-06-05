@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: モクセラ語
     auto: true
+  - translation_iso: por
+    name: Moksela
   - translation_iso: spa
     name: Moksela
   - translation_iso: zho

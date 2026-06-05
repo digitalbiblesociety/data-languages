@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ダウィック・クイ語
     auto: true
+  - translation_iso: por
+    name: Kui Dawik
+    auto: true
   - translation_iso: spa
     name: Dawik Kui
     auto: true

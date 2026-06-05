@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ウェスト・テケ語
     auto: true
+  - translation_iso: por
+    name: Teke-Tyee
+    auto: true
   - translation_iso: spa
     name: Teke-Tyee
     auto: true

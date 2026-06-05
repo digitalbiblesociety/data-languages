@@ -29,6 +29,8 @@ translations:
     name: ソーラ語
   - translation_iso: kor
     name: 소라
+  - translation_iso: por
+    name: Língua Sora
   - translation_iso: spa
     name: sora
   - translation_iso: zho

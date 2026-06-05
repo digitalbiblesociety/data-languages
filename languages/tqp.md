@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥムイプ語
+  - translation_iso: por
+    name: Tomoip
+    auto: true
   - translation_iso: spa
     name: Tomoip
     auto: true

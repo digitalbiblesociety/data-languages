@@ -27,6 +27,8 @@ translations:
     name: マチャメ語
   - translation_iso: kor
     name: 마차메어
+  - translation_iso: por
+    name: machame
   - translation_iso: spa
     name: machame
   - translation_iso: zho

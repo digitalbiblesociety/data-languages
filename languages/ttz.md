@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ツムケ語
     auto: true
+  - translation_iso: por
+    name: Tsum
+    auto: true
   - translation_iso: spa
     name: tsum
   - translation_iso: zho

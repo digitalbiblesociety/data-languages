@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハンバ語
     auto: true
+  - translation_iso: por
+    name: Khamba
+    auto: true
   - translation_iso: spa
     name: Khamba
     auto: true

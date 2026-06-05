@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンボジア手話
+  - translation_iso: por
+    name: Língua de Sinais Cambojana
+    auto: true
   - translation_iso: spa
     name: Lenguaje de signos camboyano
   - translation_iso: zho

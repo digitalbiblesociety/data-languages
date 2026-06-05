@@ -30,6 +30,8 @@ translations:
     name: ツォウ語
   - translation_iso: kor
     name: 초우어
+  - translation_iso: por
+    name: Língua tsou
   - translation_iso: spa
     name: Idioma tsou
   - translation_iso: zho

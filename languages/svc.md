@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ビンセント・クレオール英語
     auto: true
+  - translation_iso: por
+    name: Crioulo de São Vicente e Granadinas
   - translation_iso: spa
     name: Criollo inglés de San Vicente
     auto: true

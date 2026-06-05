@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Pa-Hng語
+  - translation_iso: por
+    name: Pa-Hng
+    auto: true
   - translation_iso: spa
     name: Idioma pa-hng
   - translation_iso: zho

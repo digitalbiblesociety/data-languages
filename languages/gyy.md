@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: グニャ語
     auto: true
+  - translation_iso: por
+    name: Gunya
+    auto: true
   - translation_iso: spa
     name: Gunya
     auto: true

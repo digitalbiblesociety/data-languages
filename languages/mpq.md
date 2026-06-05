@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マティス語
     auto: true
+  - translation_iso: por
+    name: Língua matis
   - translation_iso: spa
     name: Matís
     auto: true

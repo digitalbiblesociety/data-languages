@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サラカバ語
     auto: true
+  - translation_iso: por
+    name: Sara Kaba
+    auto: true
   - translation_iso: spa
     name: Sara Kaba
     auto: true

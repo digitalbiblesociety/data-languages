@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: グングー語
     auto: true
+  - translation_iso: por
+    name: Gungu
+    auto: true
   - translation_iso: spa
     name: Gungu
     auto: true

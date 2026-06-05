@@ -21,6 +21,8 @@ translations:
     name: トゥアレグ語
   - translation_iso: kor
     name: 투아레그어군
+  - translation_iso: por
+    name: Línguas tuaregues
   - translation_iso: spa
     name: lenguas tuareg
   - translation_iso: zho

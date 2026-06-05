@@ -29,6 +29,8 @@ translations:
     name: ユダヤ・タート語
   - translation_iso: kor
     name: 유대 타트어
+  - translation_iso: por
+    name: tat-judeu
   - translation_iso: spa
     name: juhuri
   - translation_iso: zho

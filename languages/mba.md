@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヒガオノン語
     auto: true
+  - translation_iso: por
+    name: Higaonon
+    auto: true
   - translation_iso: spa
     name: Higaonon
     auto: true

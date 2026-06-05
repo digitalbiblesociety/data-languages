@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナサリアン語
     auto: true
+  - translation_iso: por
+    name: Nasarian
+    auto: true
   - translation_iso: spa
     name: Nasarian
     auto: true

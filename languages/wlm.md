@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中期ウェールズ語
+  - translation_iso: por
+    name: galês médio
   - translation_iso: spa
     name: galés medio
   - translation_iso: zho

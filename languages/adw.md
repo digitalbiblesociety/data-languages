@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: アムンダバ語
     auto: true
+  - translation_iso: por
+    name: Dialeto amondaua
   - translation_iso: spa
     name: Amundava
     auto: true

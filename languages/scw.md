@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シャ語
     auto: true
+  - translation_iso: por
+    name: Sha
+    auto: true
   - translation_iso: spa
     name: Sha
     auto: true

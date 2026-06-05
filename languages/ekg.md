@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エカリ語
+  - translation_iso: por
+    name: Língua ekari
   - translation_iso: spa
     name: Ekari
     auto: true

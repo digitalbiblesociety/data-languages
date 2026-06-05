@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グワリ語
+  - translation_iso: por
+    name: Língua gwari
   - translation_iso: spa
     name: Gbari
     auto: true

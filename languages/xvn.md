@@ -22,6 +22,8 @@ translations:
     name: ヴァンダル語
   - translation_iso: kor
     name: 반달어
+  - translation_iso: por
+    name: vândalo
   - translation_iso: spa
     name: vándalo
   - translation_iso: zho

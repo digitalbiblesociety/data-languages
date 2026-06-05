@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モンブム語
     auto: true
+  - translation_iso: por
+    name: Mombum
+    auto: true
   - translation_iso: spa
     name: Mombum
     auto: true

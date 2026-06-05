@@ -28,6 +28,8 @@ translations:
     name: スペイン語
   - translation_iso: kor
     name: 스페인어
+  - translation_iso: por
+    name: espanhol
   - translation_iso: spa
     name: español
   - translation_iso: zho

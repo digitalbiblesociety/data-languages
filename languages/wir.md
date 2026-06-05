@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウィラフェド語
     auto: true
+  - translation_iso: por
+    name: Wiraféd
+    auto: true
   - translation_iso: spa
     name: Wiraféd
     auto: true

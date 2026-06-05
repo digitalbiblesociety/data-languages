@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バリ語
     auto: true
+  - translation_iso: por
+    name: Bali (Nigéria)
+    auto: true
   - translation_iso: spa
     name: Bali (Nigeria)
     auto: true

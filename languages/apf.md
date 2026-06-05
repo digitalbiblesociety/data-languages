@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パハナン・アグタ語
     auto: true
+  - translation_iso: por
+    name: Agta de Pahanan
+    auto: true
   - translation_iso: spa
     name: Agta de Pahanan
     auto: true

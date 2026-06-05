@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ミナヴェハ語
     auto: true
+  - translation_iso: por
+    name: Minaveha
+    auto: true
   - translation_iso: spa
     name: Minaveha
     auto: true

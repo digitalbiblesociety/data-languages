@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: レジャンカヤン語
     auto: true
+  - translation_iso: por
+    name: Kayan Rejang
+    auto: true
   - translation_iso: spa
     name: Kayan Rejang
     auto: true

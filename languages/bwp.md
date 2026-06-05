@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マンドボ・バワ語
     auto: true
+  - translation_iso: por
+    name: Mandobo Bawah
+    auto: true
   - translation_iso: spa
     name: Mandobo Bawah
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ビエテ語
     auto: true
+  - translation_iso: por
+    name: Língua biate
   - translation_iso: spa
     name: idioma biete
   - translation_iso: zho

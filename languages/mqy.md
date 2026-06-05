@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンガライ語
+  - translation_iso: por
+    name: Manggarai
   - translation_iso: spa
     name: Manggarai
   - translation_iso: zho

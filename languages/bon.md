@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バイン語
     auto: true
+  - translation_iso: por
+    name: Bine
+    auto: true
   - translation_iso: spa
     name: Bine
     auto: true

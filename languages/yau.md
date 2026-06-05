@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: ユワナ語
     auto: true
+  - translation_iso: por
+    name: Língua hodi
   - translation_iso: spa
     name: hoti
   - translation_iso: zho

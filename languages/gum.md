@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: グアンビアーノ語
     auto: true
+  - translation_iso: por
+    name: Língua guambiana
   - translation_iso: spa
     name: idioma guambiano
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤセ語
     auto: true
+  - translation_iso: por
+    name: Yace
+    auto: true
   - translation_iso: spa
     name: Yace
     auto: true

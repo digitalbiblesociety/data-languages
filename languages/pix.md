@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ピウ語
     auto: true
+  - translation_iso: por
+    name: Piu
+    auto: true
   - translation_iso: spa
     name: piu
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: ジュラ語
   - translation_iso: kor
     name: 줄라어
+  - translation_iso: por
+    name: Língua dioula
   - translation_iso: spa
     name: diula
   - translation_iso: zho

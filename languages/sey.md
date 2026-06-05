@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: パイコカ語
     auto: true
+  - translation_iso: por
+    name: Língua sekoya
   - translation_iso: spa
     name: Secoya
     auto: true

@@ -30,6 +30,9 @@ translations:
     name: ケイ語
   - translation_iso: kor
     name: 케이어
+  - translation_iso: por
+    name: Kei
+    auto: true
   - translation_iso: spa
     name: Kei
     auto: true

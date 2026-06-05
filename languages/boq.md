@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ボガヤ語
     auto: true
+  - translation_iso: por
+    name: Bogaya
+    auto: true
   - translation_iso: spa
     name: Bogaya
     auto: true

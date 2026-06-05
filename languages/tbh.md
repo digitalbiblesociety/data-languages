@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダラワル語
     auto: true
+  - translation_iso: por
+    name: Dharawal
+    auto: true
   - translation_iso: spa
     name: Idioma tharawal
   - translation_iso: zho

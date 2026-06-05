@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ケンスウェイ・ンセイ語
     auto: true
+  - translation_iso: por
+    name: Kenswei Nsei
+    auto: true
   - translation_iso: spa
     name: Kenswei Nsei
     auto: true

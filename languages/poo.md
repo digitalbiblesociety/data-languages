@@ -27,6 +27,8 @@ translations:
     name: मध्य पोमो भाषा
   - translation_iso: jpn
     name: 中央ポモ語
+  - translation_iso: por
+    name: Língua pomo central
   - translation_iso: spa
     name: Central Pomo
   - translation_iso: zho

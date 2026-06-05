@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: シラワ語
     auto: true
+  - translation_iso: por
+    name: Siri
+    auto: true
   - translation_iso: spa
     name: Siri
     auto: true

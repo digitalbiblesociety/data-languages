@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナマト語
     auto: true
+  - translation_iso: por
+    name: Namat
+    auto: true
   - translation_iso: spa
     name: Namat
     auto: true

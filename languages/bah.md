@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バハマ・クレオール語
+  - translation_iso: por
+    name: Crioulo das Bahamas
   - translation_iso: spa
     name: inglés criollo bahameño
   - translation_iso: zho

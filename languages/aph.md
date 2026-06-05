@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アスパリヤ語
     auto: true
+  - translation_iso: por
+    name: Língua athpare
   - translation_iso: spa
     name: Athpariya
     auto: true

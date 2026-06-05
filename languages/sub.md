@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スク語
+  - translation_iso: por
+    name: Suku
+    auto: true
   - translation_iso: spa
     name: Idioma suku
   - translation_iso: zho

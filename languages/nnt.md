@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナンチコーク語
+  - translation_iso: por
+    name: Língua nanticoke
   - translation_iso: spa
     name: Nanticoke
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バメニャム語
     auto: true
+  - translation_iso: por
+    name: Bamenyam
+    auto: true
   - translation_iso: spa
     name: Bamenyam
     auto: true

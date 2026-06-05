@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・メラナウ語
     auto: true
+  - translation_iso: por
+    name: Melanau Sibu
+    auto: true
   - translation_iso: spa
     name: Melanau de Sibu
     auto: true

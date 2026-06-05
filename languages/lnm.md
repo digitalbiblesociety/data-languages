@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ランガム語
     auto: true
+  - translation_iso: por
+    name: Langam
+    auto: true
   - translation_iso: spa
     name: Langam
     auto: true

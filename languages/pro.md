@@ -28,6 +28,8 @@ translations:
     name: 古プロヴァンス語
   - translation_iso: kor
     name: 고대 프로방스어
+  - translation_iso: por
+    name: provençal arcaico
   - translation_iso: spa
     name: occitano antiguo
   - translation_iso: zho

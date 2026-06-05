@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エルワ語
     auto: true
+  - translation_iso: por
+    name: Eruwa
+    auto: true
   - translation_iso: spa
     name: Eruwa
     auto: true

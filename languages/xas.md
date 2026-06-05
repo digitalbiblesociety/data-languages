@@ -29,6 +29,9 @@ translations:
     name: カマス語
   - translation_iso: kor
     name: 카마스어
+  - translation_iso: por
+    name: Kamas
+    auto: true
   - translation_iso: spa
     name: kamasiano
   - translation_iso: zho

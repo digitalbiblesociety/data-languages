@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バヨット語
+  - translation_iso: por
+    name: Bayot
+    auto: true
   - translation_iso: spa
     name: Bayot
     auto: true

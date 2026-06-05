@@ -28,6 +28,8 @@ translations:
     name: コダヴァ語
   - translation_iso: kor
     name: 코다바어
+  - translation_iso: por
+    name: Língua kodava
   - translation_iso: spa
     name: Kodava
     auto: true

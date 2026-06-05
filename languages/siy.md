@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シーバンド語
+  - translation_iso: por
+    name: Sivandi
+    auto: true
   - translation_iso: spa
     name: sivandi
   - translation_iso: zho

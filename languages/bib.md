@@ -30,6 +30,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 비사어
+  - translation_iso: por
+    name: Língua bissa
   - translation_iso: spa
     name: bissa
   - translation_iso: zho

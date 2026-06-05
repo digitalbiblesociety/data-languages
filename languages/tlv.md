@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タリアブ語
     auto: true
+  - translation_iso: por
+    name: Taliabu
+    auto: true
   - translation_iso: spa
     name: Taliabu
     auto: true

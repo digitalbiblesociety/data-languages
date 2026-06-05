@@ -30,6 +30,8 @@ translations:
     name: Bardi語
   - translation_iso: kor
     name: 바르디어
+  - translation_iso: por
+    name: Língua bardi
   - translation_iso: spa
     name: Bardi
     auto: true

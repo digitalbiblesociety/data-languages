@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: スクバトム語
     auto: true
+  - translation_iso: por
+    name: Kimki
+    auto: true
   - translation_iso: spa
     name: Kimki
     auto: true

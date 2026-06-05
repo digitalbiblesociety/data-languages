@@ -27,6 +27,9 @@ translations:
     name: कोटा भाषा
   - translation_iso: jpn
     name: コータ語
+  - translation_iso: por
+    name: Kota (Índia)
+    auto: true
   - translation_iso: spa
     name: kota
   - translation_iso: zho

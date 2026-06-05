@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワラワ語
+  - translation_iso: por
+    name: Warrwa
+    auto: true
   - translation_iso: spa
     name: Warrwa
     auto: true

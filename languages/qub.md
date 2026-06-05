@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ワラガウアヌコケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua do Huallaga
   - translation_iso: spa
     name: quechua huanuqueño
   - translation_iso: zho

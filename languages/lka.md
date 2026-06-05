@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラカレイ語
     auto: true
+  - translation_iso: por
+    name: Lakalei
+    auto: true
   - translation_iso: spa
     name: Lakalei
     auto: true

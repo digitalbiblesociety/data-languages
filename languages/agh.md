@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ンゲリマ語
     auto: true
+  - translation_iso: por
+    name: Ngelima
+    auto: true
   - translation_iso: spa
     name: Ngelima
     auto: true

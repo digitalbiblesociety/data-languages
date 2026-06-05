@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツンニ方言
+  - translation_iso: por
+    name: Língua tunni
   - translation_iso: spa
     name: Tunni
     auto: true

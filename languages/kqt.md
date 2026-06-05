@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: クリアス・リバー・カダザン語
     auto: true
+  - translation_iso: por
+    name: Kadazan do Rio Klias
+    auto: true
   - translation_iso: spa
     name: Kadazan del Río Klias
     auto: true

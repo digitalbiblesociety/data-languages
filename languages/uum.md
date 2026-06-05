@@ -29,6 +29,8 @@ translations:
     name: ウルム語
   - translation_iso: kor
     name: 우룸어
+  - translation_iso: por
+    name: Língua urum
   - translation_iso: spa
     name: urrumano
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エガ語
+  - translation_iso: por
+    name: Ega
+    auto: true
   - translation_iso: spa
     name: Ega
     auto: true

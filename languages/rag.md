@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロゴーリ語
+  - translation_iso: por
+    name: Logooli
+    auto: true
   - translation_iso: spa
     name: Logooli
     auto: true

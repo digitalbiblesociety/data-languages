@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バヤリ語
     auto: true
+  - translation_iso: por
+    name: Bayali
+    auto: true
   - translation_iso: spa
     name: Idioma bayali
   - translation_iso: zho

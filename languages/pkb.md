@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポコモ語
+  - translation_iso: por
+    name: Pokomo
+    auto: true
   - translation_iso: spa
     name: Pokomo
     auto: true

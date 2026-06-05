@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ヤングム・デイ語
     auto: true
+  - translation_iso: por
+    name: yangum dey
+    auto: true
   - translation_iso: spa
     name: Yangum Dey
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヤハディアン語
     auto: true
+  - translation_iso: por
+    name: Yahadian
+    auto: true
   - translation_iso: spa
     name: Yahadian
     auto: true

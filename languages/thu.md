@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥリ語
+  - translation_iso: por
+    name: Thuri
+    auto: true
   - translation_iso: spa
     name: Thuri
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ウクライナ語
   - translation_iso: kor
     name: 우크라이나어
+  - translation_iso: por
+    name: ucraniano
   - translation_iso: spa
     name: ucraniano
   - translation_iso: zho

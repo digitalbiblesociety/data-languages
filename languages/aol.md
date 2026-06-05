@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アロール語
+  - translation_iso: por
+    name: Alor
   - translation_iso: spa
     name: Alor
   - translation_iso: zho

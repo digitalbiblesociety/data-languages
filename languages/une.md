@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウネメ・ネクア語
     auto: true
+  - translation_iso: por
+    name: Uneme
+    auto: true
   - translation_iso: spa
     name: Uneme
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カンカナエ語
     auto: true
+  - translation_iso: por
+    name: Língua kankanaey
   - translation_iso: spa
     name: Kankanaey
     auto: true

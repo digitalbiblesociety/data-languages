@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ラリア語
     auto: true
+  - translation_iso: por
+    name: Lalia
+    auto: true
   - translation_iso: spa
     name: Lalia
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チョクウェ語
+  - translation_iso: por
+    name: chócue
   - translation_iso: spa
     name: Idioma chokwe
   - translation_iso: zho

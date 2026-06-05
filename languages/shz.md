@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: セナリ語
     auto: true
+  - translation_iso: por
+    name: Senufo Syenara
+    auto: true
   - translation_iso: spa
     name: Senoufo Syenara
     auto: true

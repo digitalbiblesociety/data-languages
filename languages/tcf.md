@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マリナルテペク・メファ語
     auto: true
+  - translation_iso: por
+    name: "Me'phaa de Malinaltepec"
+    auto: true
   - translation_iso: spa
     name: tlapaneco oriental
   - translation_iso: zho

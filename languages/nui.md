@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コンベ語
+  - translation_iso: por
+    name: Ngumbi
+    auto: true
   - translation_iso: spa
     name: kombe
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Koenoem語
+  - translation_iso: por
+    name: Koenoem
+    auto: true
   - translation_iso: spa
     name: Koenoem
     auto: true

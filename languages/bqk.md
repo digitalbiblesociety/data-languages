@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バンダ・ムブレス語
     auto: true
+  - translation_iso: por
+    name: Banda-Mbrès
+    auto: true
   - translation_iso: spa
     name: Banda-Mbrès
     auto: true

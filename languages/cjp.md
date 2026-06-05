@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: カベカル語
     auto: true
+  - translation_iso: por
+    name: Língua cabécar
   - translation_iso: spa
     name: idioma cabécar
   - translation_iso: zho

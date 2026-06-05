@@ -30,6 +30,9 @@ translations:
     name: マッラ語
   - translation_iso: kor
     name: 마라어
+  - translation_iso: por
+    name: Marra
+    auto: true
   - translation_iso: spa
     name: Marra
     auto: true

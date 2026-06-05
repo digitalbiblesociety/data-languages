@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ティエフォ語
     auto: true
+  - translation_iso: por
+    name: Língua tiefo
   - translation_iso: spa
     name: Tiéfo
     auto: true

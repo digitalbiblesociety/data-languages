@@ -29,6 +29,9 @@ translations:
     name: ダルク語
   - translation_iso: kor
     name: 다룩어
+  - translation_iso: por
+    name: Dharuk
+    auto: true
   - translation_iso: spa
     name: Dharug
   - translation_iso: zho

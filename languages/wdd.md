@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワンジ語
     auto: true
+  - translation_iso: por
+    name: Wandji
+    auto: true
   - translation_iso: spa
     name: Wandji
     auto: true

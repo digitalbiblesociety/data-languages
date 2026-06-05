@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イパラパ・アムズゴ語
     auto: true
+  - translation_iso: por
+    name: Amuzgo de Ipalapa
+    auto: true
   - translation_iso: spa
     name: Amuzgo de Ipalapa
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤビテーロ語
+  - translation_iso: por
+    name: Língua yavitero
   - translation_iso: spa
     name: Idioma yavitero
   - translation_iso: zho

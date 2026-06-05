@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヨイディク語
     auto: true
+  - translation_iso: por
+    name: yoidik
+    auto: true
   - translation_iso: spa
     name: Yoidik
     auto: true

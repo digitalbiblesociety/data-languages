@@ -27,6 +27,8 @@ translations:
     name: ダザガ語
   - translation_iso: kor
     name: 다장가어
+  - translation_iso: por
+    name: Língua daza
   - translation_iso: spa
     name: dazaga
   - translation_iso: zho

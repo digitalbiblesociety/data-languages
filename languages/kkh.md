@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キュン語
+  - translation_iso: por
+    name: Khün
   - translation_iso: spa
     name: Khün
   - translation_iso: zho

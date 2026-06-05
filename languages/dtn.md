@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ダーツイン語
     auto: true
+  - translation_iso: por
+    name: Daatsʼíin
+    auto: true
   - translation_iso: spa
     name: Daatsʼíin
     auto: true

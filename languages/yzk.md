@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゾクフォ語
     auto: true
+  - translation_iso: por
+    name: zokhuo
+    auto: true
   - translation_iso: spa
     name: Zokhuo
     auto: true

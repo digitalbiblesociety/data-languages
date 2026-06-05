@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: クブ語
     auto: true
+  - translation_iso: por
+    name: Kubu
   - translation_iso: spa
     name: Kubu
   - translation_iso: zho

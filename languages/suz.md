@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スヌワール語
+  - translation_iso: por
+    name: Língua sunwar
   - translation_iso: spa
     name: Sunwar
     auto: true

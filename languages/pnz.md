@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パナ語
+  - translation_iso: por
+    name: Pana (República Centro-Africana)
+    auto: true
   - translation_iso: spa
     name: pana
   - translation_iso: zho

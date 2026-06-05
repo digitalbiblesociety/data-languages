@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シアルム語
     auto: true
+  - translation_iso: por
+    name: Sialum
+    auto: true
   - translation_iso: spa
     name: Sialum
     auto: true

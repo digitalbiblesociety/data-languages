@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハルアイ語
     auto: true
+  - translation_iso: por
+    name: Haruai
+    auto: true
   - translation_iso: spa
     name: Haruai
     auto: true

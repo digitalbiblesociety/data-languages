@@ -27,6 +27,8 @@ translations:
     name: गयानी क्रेओल
   - translation_iso: jpn
     name: ガイアナ・クレオール語
+  - translation_iso: por
+    name: Crioulo da Guiana
   - translation_iso: spa
     name: Criollo guyanés
   - translation_iso: zho

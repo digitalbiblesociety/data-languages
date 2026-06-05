@@ -22,6 +22,8 @@ translations:
     name: 中世フランス語
   - translation_iso: kor
     name: 중세 프랑스어
+  - translation_iso: por
+    name: Francês médio
   - translation_iso: spa
     name: francés medio
   - translation_iso: zho

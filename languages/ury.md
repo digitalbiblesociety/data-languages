@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: オリア語
     auto: true
+  - translation_iso: por
+    name: Orya
   - translation_iso: spa
     name: Orya
   - translation_iso: zho

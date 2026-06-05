@@ -28,6 +28,8 @@ translations:
     name: ナマ語
   - translation_iso: kor
     name: 나마어
+  - translation_iso: por
+    name: Língua nama
   - translation_iso: spa
     name: khoekhoe
   - translation_iso: zho

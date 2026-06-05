@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ラムビッチョン語
     auto: true
+  - translation_iso: por
+    name: Lambichhong
+    auto: true
   - translation_iso: spa
     name: Lambichhong
     auto: true

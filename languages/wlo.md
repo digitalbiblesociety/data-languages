@@ -29,6 +29,8 @@ translations:
     name: ウォリオ語
   - translation_iso: kor
     name: 월리오어
+  - translation_iso: por
+    name: Língua wolio
   - translation_iso: spa
     name: Wolio
     auto: true

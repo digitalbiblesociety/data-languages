@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セナヤ語
+  - translation_iso: por
+    name: Senaya
+    auto: true
   - translation_iso: spa
     name: Senaya
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メールワーリー語
+  - translation_iso: por
+    name: Merwari
+    auto: true
   - translation_iso: spa
     name: Merwari
     auto: true

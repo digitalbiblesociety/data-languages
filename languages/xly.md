@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: エリミアン語
     auto: true
+  - translation_iso: por
+    name: Elímio
+    auto: true
   - translation_iso: spa
     name: Elimio
     auto: true

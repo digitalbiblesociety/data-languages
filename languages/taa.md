@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タナナ語
+  - translation_iso: por
+    name: Língua tanana inferior
   - translation_iso: spa
     name: bajo tanana
   - translation_iso: zho

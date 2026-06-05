@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・エパ語
     auto: true
+  - translation_iso: por
+    name: Wik-Epa
+    auto: true
   - translation_iso: spa
     name: Wik-Epa
     auto: true

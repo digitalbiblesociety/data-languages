@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ザバナ語
     auto: true
+  - translation_iso: por
+    name: Zabana
+    auto: true
   - translation_iso: spa
     name: Zabana
   - translation_iso: zho

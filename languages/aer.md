@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 東部アレレント語
     auto: true
+  - translation_iso: por
+    name: Arrernte Oriental
+    auto: true
   - translation_iso: spa
     name: Arrernte oriental
     auto: true

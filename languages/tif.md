@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ティファル語
     auto: true
+  - translation_iso: por
+    name: Tifal
+    auto: true
   - translation_iso: spa
     name: Tifal
     auto: true

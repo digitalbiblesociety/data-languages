@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カアン語
     auto: true
+  - translation_iso: por
+    name: Kaan
+    auto: true
   - translation_iso: spa
     name: Kaan
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ラブラ語
     auto: true
+  - translation_iso: por
+    name: Língua ravula
   - translation_iso: spa
     name: Ravula
     auto: true

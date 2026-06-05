@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: パナワ語
     auto: true
+  - translation_iso: por
+    name: Panawa
+    auto: true
   - translation_iso: spa
     name: Panawa
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タムキ語
     auto: true
+  - translation_iso: por
+    name: Tamki
+    auto: true
   - translation_iso: spa
     name: Tamki
     auto: true

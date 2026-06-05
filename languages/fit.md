@@ -29,6 +29,8 @@ translations:
     name: メアンキエリ
   - translation_iso: kor
     name: 메앤키엘리
+  - translation_iso: por
+    name: Língua meänkieli
   - translation_iso: spa
     name: meänkieli
   - translation_iso: zho

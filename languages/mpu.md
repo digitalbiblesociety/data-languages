@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マクラップ語
     auto: true
+  - translation_iso: por
+    name: Língua makurap
   - translation_iso: spa
     name: Makuráp
     auto: true

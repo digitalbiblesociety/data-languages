@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: Mt.イリガ・アグタ語
     auto: true
+  - translation_iso: por
+    name: Agta do Monte Iriga
+    auto: true
   - translation_iso: spa
     name: Agta del monte Iriga
     auto: true

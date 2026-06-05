@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブキタン語
     auto: true
+  - translation_iso: por
+    name: Bukitan
+    auto: true
   - translation_iso: spa
     name: Bukitan
     auto: true

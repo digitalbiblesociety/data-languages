@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トゥグティル語
     auto: true
+  - translation_iso: por
+    name: Tugutil
+    auto: true
   - translation_iso: spa
     name: Tugutil
     auto: true

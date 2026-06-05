@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バムウェ語
     auto: true
+  - translation_iso: por
+    name: Bamwe
+    auto: true
   - translation_iso: spa
     name: Bamwe
     auto: true

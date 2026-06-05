@@ -20,6 +20,8 @@ translations:
     name: 言語不明
   - translation_iso: kor
     name: 알 수 없는 언어
+  - translation_iso: por
+    name: idioma indeterminado
   - translation_iso: spa
     name: lengua indeterminada
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メセム語
+  - translation_iso: por
+    name: Mese
+    auto: true
   - translation_iso: spa
     name: Mese
     auto: true

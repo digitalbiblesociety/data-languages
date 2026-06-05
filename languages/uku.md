@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: エクペンメン語
     auto: true
+  - translation_iso: por
+    name: Ukue
+    auto: true
   - translation_iso: spa
     name: Ukue
     auto: true

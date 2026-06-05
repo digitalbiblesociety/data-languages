@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘマ語
+  - translation_iso: por
+    name: Hema
+    auto: true
   - translation_iso: spa
     name: Hema
     auto: true

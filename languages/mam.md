@@ -29,6 +29,8 @@ translations:
     name: マム語
   - translation_iso: kor
     name: 맘어
+  - translation_iso: por
+    name: Língua mam
   - translation_iso: spa
     name: mam
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ババンキ語
     auto: true
+  - translation_iso: por
+    name: Babanki
+    auto: true
   - translation_iso: spa
     name: Babanki
     auto: true

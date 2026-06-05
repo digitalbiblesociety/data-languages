@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モインギ語
     auto: true
+  - translation_iso: por
+    name: Moingi
+    auto: true
   - translation_iso: spa
     name: Moingi
     auto: true

@@ -29,6 +29,8 @@ translations:
     name: アンティグア・バーブーダ・クレオール語
   - translation_iso: kor
     name: 앤티가 바부다 크리올어
+  - translation_iso: por
+    name: crioulo inglês caribenho de Sotavento
   - translation_iso: spa
     name: idioma criollo antiguano
   - translation_iso: zho

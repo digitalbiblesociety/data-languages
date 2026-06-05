@@ -27,6 +27,9 @@ translations:
     name: कोरवा भाषा
   - translation_iso: jpn
     name: コルワ語
+  - translation_iso: por
+    name: Korwa
+    auto: true
   - translation_iso: spa
     name: Korwa
     auto: true

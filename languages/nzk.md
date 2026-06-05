@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ンザカラ語
     auto: true
+  - translation_iso: por
+    name: Nzakara
+    auto: true
   - translation_iso: spa
     name: Nzakara
     auto: true

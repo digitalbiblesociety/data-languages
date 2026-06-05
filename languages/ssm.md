@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: スムナーム語
     auto: true
+  - translation_iso: por
+    name: Semnam
+    auto: true
   - translation_iso: spa
     name: Semnam
     auto: true

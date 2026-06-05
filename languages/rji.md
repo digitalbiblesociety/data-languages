@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラジ語
     auto: true
+  - translation_iso: por
+    name: Raji
+    auto: true
   - translation_iso: spa
     name: Raji
     auto: true

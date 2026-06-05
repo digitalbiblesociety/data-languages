@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イクスタユトラ・ミシテク語
     auto: true
+  - translation_iso: por
+    name: Mixteco de Ixtayutla
+    auto: true
   - translation_iso: spa
     name: Mixteco de Ixtayutla
     auto: true

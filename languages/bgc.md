@@ -28,6 +28,8 @@ translations:
     name: ハリヤーンウィー語
   - translation_iso: kor
     name: 하리아나어
+  - translation_iso: por
+    name: Hariani
   - translation_iso: spa
     name: Idioma haryanvi
   - translation_iso: zho

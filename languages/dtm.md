@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トモ・カン・ドゴン語
     auto: true
+  - translation_iso: por
+    name: Dogon Tomo Kan
+    auto: true
   - translation_iso: spa
     name: Dogon Tomo Kan
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジミ語
     auto: true
+  - translation_iso: por
+    name: Jimi (Camarões)
+    auto: true
   - translation_iso: spa
     name: Jimi (Camerún)
     auto: true

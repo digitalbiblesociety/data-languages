@@ -25,6 +25,8 @@ translations:
     name: ンコ語
   - translation_iso: kor
     name: 응코어
+  - translation_iso: por
+    name: n’ko
   - translation_iso: spa
     name: n’ko
   - translation_iso: zho

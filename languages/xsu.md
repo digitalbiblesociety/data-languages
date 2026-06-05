@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: サヌマ語
     auto: true
+  - translation_iso: por
+    name: Língua sanumá
   - translation_iso: spa
     name: idioma sanemá
   - translation_iso: zho

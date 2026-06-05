@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トロマコ語
     auto: true
+  - translation_iso: por
+    name: Tolomako
+    auto: true
   - translation_iso: spa
     name: Idioma tolomako
   - translation_iso: zho

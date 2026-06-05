@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムゴム語
     auto: true
+  - translation_iso: por
+    name: Mugom
+    auto: true
   - translation_iso: spa
     name: Mugom
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ルンダイエ語
     auto: true
+  - translation_iso: por
+    name: Língua lun bawang
   - translation_iso: spa
     name: Lundayeh
     auto: true

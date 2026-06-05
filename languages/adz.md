@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アゼラ語
+  - translation_iso: por
+    name: Língua adzera
   - translation_iso: spa
     name: Adzera
     auto: true

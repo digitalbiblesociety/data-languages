@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プアン語
+  - translation_iso: por
+    name: Phuan
+    auto: true
   - translation_iso: spa
     name: Phuan
     auto: true

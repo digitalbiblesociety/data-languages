@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホビョト語
+  - translation_iso: por
+    name: Hobyót
+    auto: true
   - translation_iso: spa
     name: Hobyót
     auto: true

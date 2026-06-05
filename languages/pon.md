@@ -28,6 +28,8 @@ translations:
     name: ポンペイ語
   - translation_iso: kor
     name: 폰페이어
+  - translation_iso: por
+    name: Língua pohnpeiana
   - translation_iso: spa
     name: ponapeño
   - translation_iso: zho

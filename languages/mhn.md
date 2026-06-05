@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モケーニ語
+  - translation_iso: por
+    name: língua mochena
   - translation_iso: spa
     name: idioma mócheno
   - translation_iso: zho

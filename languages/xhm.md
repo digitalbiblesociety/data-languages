@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: 中クメール語
     auto: true
+  - translation_iso: por
+    name: Khmer Médio (1400 a 1850 d.C.)
+    auto: true
   - translation_iso: spa
     name: Jemer medio
   - translation_iso: zho

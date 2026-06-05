@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンパリドゴン語
     auto: true
+  - translation_iso: por
+    name: Dogon Ampari
+    auto: true
   - translation_iso: spa
     name: Dogon Ampari
     auto: true

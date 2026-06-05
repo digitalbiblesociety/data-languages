@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンバ語
+  - translation_iso: por
+    name: Amba (Ilhas Salomão)
+    auto: true
   - translation_iso: spa
     name: Amba
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カイテチェ語
+  - translation_iso: por
+    name: Kaytetye
+    auto: true
   - translation_iso: spa
     name: Idioma kaytetye
   - translation_iso: zho

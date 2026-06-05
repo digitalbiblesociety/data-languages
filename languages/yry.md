@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ヤルユアンディ語
     auto: true
+  - translation_iso: por
+    name: yarluyandi
+    auto: true
   - translation_iso: spa
     name: Yarluyandi
     auto: true

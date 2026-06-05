@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ラー・ラー・ブワム語
     auto: true
+  - translation_iso: por
+    name: Língua láá láá bwam
   - translation_iso: spa
     name: Láá Láá Bwamu
     auto: true

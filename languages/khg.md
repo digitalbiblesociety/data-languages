@@ -29,6 +29,8 @@ translations:
     name: カム・チベット語
   - translation_iso: kor
     name: 캄 티베트어
+  - translation_iso: por
+    name: Tibetano khams
   - translation_iso: spa
     name: Tibetano de Khams
     auto: true

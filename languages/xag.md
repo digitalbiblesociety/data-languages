@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ウディ語
+  - translation_iso: por
+    name: Língua cáucaso-albanesa
   - translation_iso: spa
     name: albanés caucásico
   - translation_iso: zho

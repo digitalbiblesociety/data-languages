@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アラウェテ語
     auto: true
+  - translation_iso: por
+    name: Língua araueté
   - translation_iso: spa
     name: Araweté
     auto: true

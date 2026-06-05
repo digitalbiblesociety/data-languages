@@ -20,6 +20,9 @@ translations:
     name: कुई भाषा
   - translation_iso: jpn
     name: クーイ語
+  - translation_iso: por
+    name: Kui (Índia)
+    auto: true
   - translation_iso: spa
     name: Kui (India)
     auto: true

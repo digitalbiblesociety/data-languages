@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: リーラウ語
     auto: true
+  - translation_iso: por
+    name: Leelau
+    auto: true
   - translation_iso: spa
     name: Leelau
     auto: true

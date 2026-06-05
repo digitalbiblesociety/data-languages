@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: パハリ語
     auto: true
+  - translation_iso: por
+    name: Pahari
+    auto: true
   - translation_iso: spa
     name: Pahari
     auto: true

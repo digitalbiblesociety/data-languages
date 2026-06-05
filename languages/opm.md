@@ -30,6 +30,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 오크사프민어
+  - translation_iso: por
+    name: Língua oksapmin
   - translation_iso: spa
     name: Idioma oksapmin
   - translation_iso: zho

@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ビルパイ語
     auto: true
+  - translation_iso: por
+    name: Birrpayi
+    auto: true
   - translation_iso: spa
     name: Birrpayi
     auto: true

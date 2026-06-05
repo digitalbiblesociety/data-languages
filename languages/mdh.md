@@ -31,6 +31,8 @@ translations:
     name: マギンダナオ語
   - translation_iso: kor
     name: 마긴다나오어
+  - translation_iso: por
+    name: Língua maguindanao
   - translation_iso: spa
     name: idioma maguindánao
   - translation_iso: zho

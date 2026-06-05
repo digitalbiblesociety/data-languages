@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペンリン語
+  - translation_iso: por
+    name: Língua penrhyn
   - translation_iso: spa
     name: Penrhyn
     auto: true

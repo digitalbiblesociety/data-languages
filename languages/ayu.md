@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: アユ語
     auto: true
+  - translation_iso: por
+    name: Ayu
+    auto: true
   - translation_iso: spa
     name: Ayu
     auto: true

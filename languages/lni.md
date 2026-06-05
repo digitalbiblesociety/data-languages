@@ -19,7 +19,7 @@ translations:
     name: لغة اانتاناي
     auto: true
   - translation_iso: deu
-    name: "Daantanai'"
+    name: Daantanai
     auto: true
   - translation_iso: fra
     name: Daantanai
@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダアンタナイ語
+    auto: true
+  - translation_iso: por
+    name: "Daantanai'"
     auto: true
   - translation_iso: spa
     name: Daantanai

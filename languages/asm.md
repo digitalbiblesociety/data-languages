@@ -28,6 +28,8 @@ translations:
     name: アッサム語
   - translation_iso: kor
     name: 아삼어
+  - translation_iso: por
+    name: língua assamesa
   - translation_iso: spa
     name: idioma asamés
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マリリ語
     auto: true
+  - translation_iso: por
+    name: Mariri
+    auto: true
   - translation_iso: spa
     name: Mariri
     auto: true

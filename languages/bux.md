@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ボグホム語
     auto: true
+  - translation_iso: por
+    name: Boghom
+    auto: true
   - translation_iso: spa
     name: Boghom
     auto: true

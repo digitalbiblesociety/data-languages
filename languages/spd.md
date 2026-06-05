@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サエップ語
     auto: true
+  - translation_iso: por
+    name: Saep
+    auto: true
   - translation_iso: spa
     name: Saep
     auto: true

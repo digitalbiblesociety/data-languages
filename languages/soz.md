@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: テミ語
     auto: true
+  - translation_iso: por
+    name: Temi
+    auto: true
   - translation_iso: spa
     name: sonjo
   - translation_iso: zho

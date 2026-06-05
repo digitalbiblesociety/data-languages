@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キムレ語
     auto: true
+  - translation_iso: por
+    name: Kimré
+    auto: true
   - translation_iso: spa
     name: Kimré
     auto: true

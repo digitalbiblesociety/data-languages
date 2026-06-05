@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラワン語
+  - translation_iso: por
+    name: Rawang
+    auto: true
   - translation_iso: spa
     name: Rawang
     auto: true

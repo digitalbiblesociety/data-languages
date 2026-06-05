@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: タイ・ライン語
     auto: true
+  - translation_iso: por
+    name: Língua tai lai
   - translation_iso: spa
     name: Tai Laing
     auto: true

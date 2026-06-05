@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エドピ語
     auto: true
+  - translation_iso: por
+    name: Edopi
+    auto: true
   - translation_iso: spa
     name: Edopi
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボバンギ語
+  - translation_iso: por
+    name: Bangi
+    auto: true
   - translation_iso: spa
     name: Bangi
     auto: true

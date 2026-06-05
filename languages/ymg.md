@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤモンゲリ語
     auto: true
+  - translation_iso: por
+    name: yamongeri
+    auto: true
   - translation_iso: spa
     name: Yamongeri
     auto: true

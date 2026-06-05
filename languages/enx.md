@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エンシェット語
     auto: true
+  - translation_iso: por
+    name: Enxet
+    auto: true
   - translation_iso: spa
     name: Idioma enxet
   - translation_iso: zho

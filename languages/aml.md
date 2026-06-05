@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワルジャインティア語
     auto: true
+  - translation_iso: por
+    name: War-Jaintia
+    auto: true
   - translation_iso: spa
     name: war
   - translation_iso: zho

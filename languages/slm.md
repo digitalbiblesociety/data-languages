@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シヤマ語
     auto: true
+  - translation_iso: por
+    name: Sama Pangutaran
+    auto: true
   - translation_iso: spa
     name: Sama de Pangutaran
     auto: true

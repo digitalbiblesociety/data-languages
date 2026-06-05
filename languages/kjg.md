@@ -30,6 +30,8 @@ translations:
     name: クム語
   - translation_iso: kor
     name: 크무어
+  - translation_iso: por
+    name: Língua Khmu
   - translation_iso: spa
     name: Idioma khmu
   - translation_iso: zho

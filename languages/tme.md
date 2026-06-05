@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: トレメンベ語
     auto: true
+  - translation_iso: por
+    name: Língua poromonguetá
   - translation_iso: spa
     name: Idioma tremembé
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ハラパ・デ・ディアス・マサテク語
     auto: true
+  - translation_iso: por
+    name: Língua jalapa mazatec
   - translation_iso: spa
     name: Mazateco de Jalapa de Díaz
     auto: true

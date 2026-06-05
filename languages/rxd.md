@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ブナラ語
     auto: true
+  - translation_iso: por
+    name: Língua ngardi
   - translation_iso: spa
     name: Ngardi
     auto: true

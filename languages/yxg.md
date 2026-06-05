@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ヤガラ語
     auto: true
+  - translation_iso: por
+    name: yagara
+    auto: true
   - translation_iso: spa
     name: Idioma turrubul
   - translation_iso: zho

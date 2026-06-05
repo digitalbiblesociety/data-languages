@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニンギル語
     auto: true
+  - translation_iso: por
+    name: Ningil
+    auto: true
   - translation_iso: spa
     name: Ningil
     auto: true

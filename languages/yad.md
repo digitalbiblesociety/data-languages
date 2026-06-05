@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ヤグア語
     auto: true
+  - translation_iso: por
+    name: Língua yagua
   - translation_iso: spa
     name: idioma yagua
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ベラア語
     auto: true
+  - translation_iso: por
+    name: "Língua vera'a"
   - translation_iso: spa
     name: "Vera'a"
     auto: true

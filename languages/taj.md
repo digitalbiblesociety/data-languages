@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: 東部タマン語
     auto: true
+  - translation_iso: por
+    name: Tamang Oriental
+    auto: true
   - translation_iso: spa
     name: Tamang oriental
     auto: true

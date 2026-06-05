@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部ゴーンディー語
+  - translation_iso: por
+    name: gondi do norte
+    auto: true
   - translation_iso: spa
     name: Gondi del Norte
     auto: true

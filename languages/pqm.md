@@ -28,6 +28,8 @@ translations:
     name: マリシート＝パサマコディ語
   - translation_iso: kor
     name: 말리시트-파사마쿼디어
+  - translation_iso: por
+    name: Língua malecite–passamaquoddy
   - translation_iso: spa
     name: Malecite-Passamaquoddy
   - translation_iso: zho

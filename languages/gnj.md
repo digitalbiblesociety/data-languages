@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ンゲン語
     auto: true
+  - translation_iso: por
+    name: Ngen
+    auto: true
   - translation_iso: spa
     name: Ngen
     auto: true

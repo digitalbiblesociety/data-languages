@@ -28,6 +28,8 @@ translations:
     name: カシ語
   - translation_iso: kor
     name: 카시어
+  - translation_iso: por
+    name: Língua khasi
   - translation_iso: spa
     name: idioma khasi
   - translation_iso: zho

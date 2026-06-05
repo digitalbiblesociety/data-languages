@@ -29,6 +29,8 @@ translations:
     name: ニウアフォオウ語
   - translation_iso: kor
     name: 니우아포오우어
+  - translation_iso: por
+    name: "Língua niuafo'ou"
   - translation_iso: spa
     name: "niuafo'ou"
   - translation_iso: zho

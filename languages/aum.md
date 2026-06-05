@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アス語(ナイジェリア)
     auto: true
+  - translation_iso: por
+    name: Asu (Nigéria)
+    auto: true
   - translation_iso: spa
     name: Asu (Nigeria)
     auto: true

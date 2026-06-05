@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コンバ語
     auto: true
+  - translation_iso: por
+    name: Komba
+    auto: true
   - translation_iso: spa
     name: Komba
     auto: true

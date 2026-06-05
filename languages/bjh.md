@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: バヒネモ語
     auto: true
+  - translation_iso: por
+    name: Bahinemo
+    auto: true
   - translation_iso: spa
     name: Bahinemo
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナアバ語
     auto: true
+  - translation_iso: por
+    name: Naaba
+    auto: true
   - translation_iso: spa
     name: Naaba
     auto: true

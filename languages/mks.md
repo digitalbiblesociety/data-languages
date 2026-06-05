@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シラカヨアパン・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Silacayoapan
+    auto: true
   - translation_iso: spa
     name: Mixteco de Silacayoapan
     auto: true

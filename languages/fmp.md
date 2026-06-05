@@ -19,7 +19,7 @@ translations:
     name: فيفي
     auto: true
   - translation_iso: deu
-    name: "Fe'fe'"
+    name: "Fe'fe"
   - translation_iso: fra
     name: nufi
   - translation_iso: hin
@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フェフェ語
+  - translation_iso: por
+    name: "Fe'fe'"
+    auto: true
   - translation_iso: spa
     name: "Fe'fe"
     auto: true

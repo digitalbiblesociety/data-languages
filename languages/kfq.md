@@ -29,6 +29,8 @@ translations:
     name: コルク語
   - translation_iso: kor
     name: 코르쿠어
+  - translation_iso: por
+    name: Língua korku
   - translation_iso: spa
     name: Korku
     auto: true

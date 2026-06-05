@@ -28,6 +28,8 @@ translations:
     name: アダングメ語
   - translation_iso: kor
     name: 당메어
+  - translation_iso: por
+    name: Língua dangbe
   - translation_iso: spa
     name: Lengua Adangme
   - translation_iso: zho

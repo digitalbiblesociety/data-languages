@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブトマス・トゥル語
     auto: true
+  - translation_iso: por
+    name: Butmas-Tur
+    auto: true
   - translation_iso: spa
     name: Butmas-Tur
     auto: true

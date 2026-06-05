@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: アエクイアン語
     auto: true
+  - translation_iso: por
+    name: Équio
+    auto: true
   - translation_iso: spa
     name: Idioma ecuo
   - translation_iso: zho

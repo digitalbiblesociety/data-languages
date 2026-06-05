@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: センゴ語
     auto: true
+  - translation_iso: por
+    name: Sengo
+    auto: true
   - translation_iso: spa
     name: Sengo
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンティック語
+  - translation_iso: por
+    name: Bantik
   - translation_iso: spa
     name: Bantik
   - translation_iso: zho

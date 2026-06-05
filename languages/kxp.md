@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ワディヤラ・コリ語
     auto: true
+  - translation_iso: por
+    name: Koli de Wadiyara
+    auto: true
   - translation_iso: spa
     name: Koli Wadiyara
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラモ語
     auto: true
+  - translation_iso: por
+    name: Uni
+    auto: true
   - translation_iso: spa
     name: Uni
     auto: true

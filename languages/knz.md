@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カラムセ語
     auto: true
+  - translation_iso: por
+    name: Kalamsé
+    auto: true
   - translation_iso: spa
     name: Kalamsé
     auto: true

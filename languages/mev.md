@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マノ語
+  - translation_iso: por
+    name: Língua mano
   - translation_iso: spa
     name: Mano
     auto: true

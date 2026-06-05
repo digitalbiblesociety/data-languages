@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ポナム語
     auto: true
+  - translation_iso: por
+    name: Ponam
+    auto: true
   - translation_iso: spa
     name: Ponam
     auto: true

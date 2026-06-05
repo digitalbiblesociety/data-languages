@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クヌア語
+  - translation_iso: por
+    name: Rapoisi
+    auto: true
   - translation_iso: spa
     name: Rapoisi
     auto: true

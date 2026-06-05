@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アネワン語
+  - translation_iso: por
+    name: Nganyaywana
+    auto: true
   - translation_iso: spa
     name: Idioma anewan
   - translation_iso: zho

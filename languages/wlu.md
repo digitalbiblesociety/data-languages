@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウーリウーリ語
     auto: true
+  - translation_iso: por
+    name: Wuliwuli
+    auto: true
   - translation_iso: spa
     name: idioma wuliwuli
   - translation_iso: zho

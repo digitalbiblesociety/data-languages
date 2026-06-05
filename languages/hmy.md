@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部貴陽フモン語
+  - translation_iso: por
+    name: Hmong Guiyang do Sul
+    auto: true
   - translation_iso: spa
     name: Hmong Guiyang meridional
     auto: true

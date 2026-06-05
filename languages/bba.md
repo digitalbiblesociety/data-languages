@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バアトゥヌム語
     auto: true
+  - translation_iso: por
+    name: Língua bariba
   - translation_iso: spa
     name: Idioma bariba
   - translation_iso: zho

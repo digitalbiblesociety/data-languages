@@ -28,6 +28,9 @@ translations:
     name: 晋語
   - translation_iso: kor
     name: 진어
+  - translation_iso: por
+    name: Chinês jin
+    auto: true
   - translation_iso: spa
     name: chino jin
   - translation_iso: zho

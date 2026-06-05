@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジュムリー語
+  - translation_iso: por
+    name: Jumli
+    auto: true
   - translation_iso: spa
     name: Jumli
     auto: true

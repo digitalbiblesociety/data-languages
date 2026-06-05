@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: カカバイ語
     auto: true
+  - translation_iso: por
+    name: Língua kakabai
   - translation_iso: spa
     name: Kakabai
     auto: true

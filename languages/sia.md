@@ -29,6 +29,8 @@ translations:
     name: アッカラ・サーミ語
   - translation_iso: kor
     name: 아칼라 사미어
+  - translation_iso: por
+    name: sami de Akkala
   - translation_iso: spa
     name: sami de Akkala
   - translation_iso: zho

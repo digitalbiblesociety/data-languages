@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムル・パノ語
     auto: true
+  - translation_iso: por
+    name: Mur Pano
+    auto: true
   - translation_iso: spa
     name: Mur Pano
     auto: true

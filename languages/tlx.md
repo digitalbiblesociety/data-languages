@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ケヘク語
     auto: true
+  - translation_iso: por
+    name: Khehek
+    auto: true
   - translation_iso: spa
     name: Khehek
     auto: true

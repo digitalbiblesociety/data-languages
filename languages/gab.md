@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ガブリ語
     auto: true
+  - translation_iso: por
+    name: Gabri
+    auto: true
   - translation_iso: spa
     name: Gabri
     auto: true

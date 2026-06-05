@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グイ語
+  - translation_iso: por
+    name: língua gǀui
   - translation_iso: spa
     name: ǀGwi
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: シンド語
   - translation_iso: kor
     name: 신디어
+  - translation_iso: por
+    name: língua sindi
   - translation_iso: spa
     name: sindhi
   - translation_iso: zho

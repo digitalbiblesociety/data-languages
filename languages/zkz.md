@@ -21,6 +21,8 @@ translations:
     name: ハザール語
   - translation_iso: kor
     name: 하자르어
+  - translation_iso: por
+    name: língua cázara
   - translation_iso: spa
     name: idioma jázaro
   - translation_iso: zho

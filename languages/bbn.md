@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウネアパ語
     auto: true
+  - translation_iso: por
+    name: Uneapa
+    auto: true
   - translation_iso: spa
     name: Idioma uneapa
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モートロック語
+  - translation_iso: por
+    name: Língua mortlockesa
   - translation_iso: spa
     name: Mortlockés
     auto: true

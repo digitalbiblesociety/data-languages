@@ -29,6 +29,8 @@ translations:
     name: シェルパ語
   - translation_iso: kor
     name: 셰르파어
+  - translation_iso: por
+    name: Língua xerpa
   - translation_iso: spa
     name: sherpa
   - translation_iso: zho

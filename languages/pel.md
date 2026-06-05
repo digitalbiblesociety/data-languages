@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ペカル語
     auto: true
+  - translation_iso: por
+    name: Pekal
+    auto: true
   - translation_iso: spa
     name: Pekal
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラウラ語
     auto: true
+  - translation_iso: por
+    name: Laura
+    auto: true
   - translation_iso: spa
     name: Laura
     auto: true

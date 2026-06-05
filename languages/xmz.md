@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: モリ・バワ語
     auto: true
+  - translation_iso: por
+    name: Língua mori bawah
   - translation_iso: spa
     name: Mori Bawah
     auto: true

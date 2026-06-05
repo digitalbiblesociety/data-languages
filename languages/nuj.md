@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Nyole語
+  - translation_iso: por
+    name: Língua nyole
   - translation_iso: spa
     name: Nyole
     auto: true

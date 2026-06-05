@@ -27,6 +27,9 @@ translations:
     name: वर्हाडी बोली
   - translation_iso: jpn
     name: ヴァルハディ＝ナーグプリ語
+  - translation_iso: por
+    name: Varhadi-Nagpuri
+    auto: true
   - translation_iso: spa
     name: varhadi-nagpuri
   - translation_iso: zho

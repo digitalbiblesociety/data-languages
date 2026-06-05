@@ -28,6 +28,8 @@ translations:
     name: ノガイ語
   - translation_iso: kor
     name: 노가이어
+  - translation_iso: por
+    name: Língua nogai
   - translation_iso: spa
     name: Nogai
   - translation_iso: zho

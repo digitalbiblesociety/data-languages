@@ -29,6 +29,8 @@ translations:
     name: アラビア語スーダン方言
   - translation_iso: kor
     name: 수단 아랍어
+  - translation_iso: por
+    name: Árabe sudanês
   - translation_iso: spa
     name: árabe sudanés
   - translation_iso: zho

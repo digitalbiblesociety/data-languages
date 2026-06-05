@@ -29,6 +29,8 @@ translations:
     name: バルカン・ガガウズ・トルコ語
   - translation_iso: kor
     name: 발칸 가가우즈 터키어
+  - translation_iso: por
+    name: Língua gagauz turco-balcânico
   - translation_iso: spa
     name: Turco gagauzo de los Balcanes
     auto: true

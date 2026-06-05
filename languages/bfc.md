@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: パニ・バイ語
     auto: true
+  - translation_iso: por
+    name: Bai panyi
+    auto: true
   - translation_iso: spa
     name: Bai Panyi
     auto: true

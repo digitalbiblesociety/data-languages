@@ -30,6 +30,8 @@ translations:
     name: マファ語
   - translation_iso: kor
     name: 마파어
+  - translation_iso: por
+    name: Língua mafa
   - translation_iso: spa
     name: mafa
   - translation_iso: zho

@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バティアラ語
+  - translation_iso: por
+    name: Batjala
+    auto: true
   - translation_iso: spa
     name: Batjala
     auto: true

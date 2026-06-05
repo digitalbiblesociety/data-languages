@@ -29,6 +29,8 @@ translations:
     name: プユマ語
   - translation_iso: kor
     name: 푸유마어
+  - translation_iso: por
+    name: Língua puyuma
   - translation_iso: spa
     name: Idioma puyuma
   - translation_iso: zho

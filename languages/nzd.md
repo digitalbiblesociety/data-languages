@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンザディ語
     auto: true
+  - translation_iso: por
+    name: Nzadi
+    auto: true
   - translation_iso: spa
     name: Nzadi
     auto: true

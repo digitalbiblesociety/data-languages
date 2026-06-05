@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トゥネボ語
     auto: true
+  - translation_iso: por
+    name: Tunebo Central
+    auto: true
   - translation_iso: spa
     name: Tunebo central
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゲンデ語
     auto: true
+  - translation_iso: por
+    name: Gende
+    auto: true
   - translation_iso: spa
     name: Gende
     auto: true

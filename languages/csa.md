@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チルテペク・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Chinanteco de Chiltepec
+    auto: true
   - translation_iso: spa
     name: chinanteca de Chiltepec
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: チュル語
     auto: true
+  - translation_iso: por
+    name: Língua chru
   - translation_iso: spa
     name: Chru
     auto: true

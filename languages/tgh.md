@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トバゴ・クレオール語
+  - translation_iso: por
+    name: Crioulo inglês de Tobago
   - translation_iso: spa
     name: Criollo inglés de Tobago
     auto: true

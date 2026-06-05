@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: メクメク語
     auto: true
+  - translation_iso: por
+    name: Mekmek
+    auto: true
   - translation_iso: spa
     name: Mekmek
     auto: true

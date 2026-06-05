@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トリングス語
     auto: true
+  - translation_iso: por
+    name: Bidayuh Tringgus-Sembaan
+    auto: true
   - translation_iso: spa
     name: Bidayuh Tringgus-Sembaan
     auto: true

@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スワワ語
+  - translation_iso: por
+    name: Língua suwawa
   - translation_iso: spa
     name: Suwawa
     auto: true

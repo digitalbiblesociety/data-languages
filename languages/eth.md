@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エチオピア手話
+  - translation_iso: por
+    name: Língua de Sinais da Etiópia
   - translation_iso: spa
     name: Lengua de señas etíope
     auto: true

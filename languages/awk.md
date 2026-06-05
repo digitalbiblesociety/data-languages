@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アワバカル語
     auto: true
+  - translation_iso: por
+    name: Awabakal
+    auto: true
   - translation_iso: spa
     name: idioma awabakal
   - translation_iso: zho

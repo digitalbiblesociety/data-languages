@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バカ語
+  - translation_iso: por
+    name: Baka (Camarões)
+    auto: true
   - translation_iso: spa
     name: Baka (Camerún)
     auto: true

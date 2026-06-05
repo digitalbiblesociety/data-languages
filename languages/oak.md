@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ノアカリ語
     auto: true
+  - translation_iso: por
+    name: Noakhali
+    auto: true
   - translation_iso: spa
     name: Noakhali
     auto: true

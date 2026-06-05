@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムサウ・エミラ語
+  - translation_iso: por
+    name: Mussau-Emira
+    auto: true
   - translation_iso: spa
     name: Mussau-Emira
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ピマバホ語
     auto: true
+  - translation_iso: por
+    name: Pima Baixo
+    auto: true
   - translation_iso: spa
     name: névome
   - translation_iso: zho

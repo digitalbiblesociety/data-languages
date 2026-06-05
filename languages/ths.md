@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: タカリ語
     auto: true
+  - translation_iso: por
+    name: Língua thakali
   - translation_iso: spa
     name: thakali
   - translation_iso: zho

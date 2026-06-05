@@ -28,6 +28,8 @@ translations:
     name: チペワイアン語
   - translation_iso: kor
     name: 치퍼와이언어
+  - translation_iso: por
+    name: língua chipewyan
   - translation_iso: spa
     name: idioma dene suliné
   - translation_iso: zho

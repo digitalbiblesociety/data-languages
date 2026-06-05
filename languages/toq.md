@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トポサ語
+  - translation_iso: por
+    name: Língua toposa
   - translation_iso: spa
     name: Toposa
     auto: true

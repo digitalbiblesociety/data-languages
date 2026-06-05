@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: コキ・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Koki
+    auto: true
   - translation_iso: spa
     name: Naga Koki
     auto: true

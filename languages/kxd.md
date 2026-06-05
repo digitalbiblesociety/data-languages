@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブルネイ・マレー語
+  - translation_iso: por
+    name: Malaio de Brunei
   - translation_iso: spa
     name: Bruneano
     auto: true

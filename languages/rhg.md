@@ -28,6 +28,8 @@ translations:
     name: ロヒンギャ語
   - translation_iso: kor
     name: 로힝야어
+  - translation_iso: por
+    name: Língua rohingya
   - translation_iso: spa
     name: Rohinyá
   - translation_iso: zho

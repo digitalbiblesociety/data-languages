@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラウア語
     auto: true
+  - translation_iso: por
+    name: Laua
+    auto: true
   - translation_iso: spa
     name: Laua
     auto: true

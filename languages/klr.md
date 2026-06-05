@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ハリン語
     auto: true
+  - translation_iso: por
+    name: Língua khaling
   - translation_iso: spa
     name: Khaling
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コラク語
     auto: true
+  - translation_iso: por
+    name: Korak
+    auto: true
   - translation_iso: spa
     name: Korak
     auto: true

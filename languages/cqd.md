@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 川黔滇苗語
+  - translation_iso: por
+    name: Miao do conjunto Chuanqiandian
+    auto: true
   - translation_iso: spa
     name: Miao del Grupo Chuanqiandian
     auto: true

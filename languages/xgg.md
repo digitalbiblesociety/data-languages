@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ゴレン語
     auto: true
+  - translation_iso: por
+    name: Goreng
+    auto: true
   - translation_iso: spa
     name: Goreng
     auto: true

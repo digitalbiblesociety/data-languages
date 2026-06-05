@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブサミ語
     auto: true
+  - translation_iso: por
+    name: Busami
+    auto: true
   - translation_iso: spa
     name: Busami
     auto: true

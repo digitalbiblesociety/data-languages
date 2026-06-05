@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラウェ語
+  - translation_iso: por
+    name: Solong
+    auto: true
   - translation_iso: spa
     name: Solong
     auto: true

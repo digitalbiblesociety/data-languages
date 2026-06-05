@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウクリグマ語
     auto: true
+  - translation_iso: por
+    name: Ukuriguma
+    auto: true
   - translation_iso: spa
     name: Ukuriguma
     auto: true

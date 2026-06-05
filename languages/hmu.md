@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ハマップ語
     auto: true
+  - translation_iso: por
+    name: Hamap
+    auto: true
   - translation_iso: spa
     name: Hamap
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: バンバラ語
   - translation_iso: kor
     name: 밤바라어
+  - translation_iso: por
+    name: Língua bambara
   - translation_iso: spa
     name: bambara
   - translation_iso: zho

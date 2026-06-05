@@ -28,6 +28,8 @@ translations:
     name: マバ語
   - translation_iso: kor
     name: 마바어
+  - translation_iso: por
+    name: maba
   - translation_iso: spa
     name: maba
   - translation_iso: zho

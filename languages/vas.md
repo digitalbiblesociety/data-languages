@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴァサヴィ語
+  - translation_iso: por
+    name: Vasavi
+    auto: true
   - translation_iso: spa
     name: Vasavi
     auto: true

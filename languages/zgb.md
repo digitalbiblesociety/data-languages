@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 桂北チワン語
+  - translation_iso: por
+    name: zhuang de Guibei
+    auto: true
   - translation_iso: spa
     name: Zhuang Guibei
   - translation_iso: zho

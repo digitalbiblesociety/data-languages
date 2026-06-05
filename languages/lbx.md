@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラワンガン語
     auto: true
+  - translation_iso: por
+    name: Lawangan
+    auto: true
   - translation_iso: spa
     name: Lawangan
     auto: true

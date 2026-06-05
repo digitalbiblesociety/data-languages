@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ウビル語
     auto: true
+  - translation_iso: por
+    name: Língua ubir
   - translation_iso: spa
     name: Ubir
     auto: true

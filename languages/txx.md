@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タタナ語
+  - translation_iso: por
+    name: Tatana
+    auto: true
   - translation_iso: spa
     name: Tatana
     auto: true

@@ -22,6 +22,9 @@ translations:
     name: 古テュルク語
   - translation_iso: kor
     name: 돌궐어
+  - translation_iso: por
+    name: turco antigo
+    auto: true
   - translation_iso: spa
     name: turco antiguo
   - translation_iso: zho

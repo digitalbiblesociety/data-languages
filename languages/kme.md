@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: バコレ語
     auto: true
+  - translation_iso: por
+    name: Bakole
+    auto: true
   - translation_iso: spa
     name: Bakole
     auto: true

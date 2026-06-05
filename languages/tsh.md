@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マツヴァン語
     auto: true
+  - translation_iso: por
+    name: Tsuvan
+    auto: true
   - translation_iso: spa
     name: Idioma tsuvano
   - translation_iso: zho

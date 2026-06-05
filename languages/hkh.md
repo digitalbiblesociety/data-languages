@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: カー語
     auto: true
+  - translation_iso: por
+    name: Khah
+    auto: true
   - translation_iso: spa
     name: Khah
     auto: true

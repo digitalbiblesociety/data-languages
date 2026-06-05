@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カンバータ語
     auto: true
+  - translation_iso: por
+    name: Kambaata
+    auto: true
   - translation_iso: spa
     name: Kambaata
     auto: true

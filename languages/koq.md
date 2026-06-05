@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コタ語
+  - translation_iso: por
+    name: Kota (Gabão)
+    auto: true
   - translation_iso: spa
     name: Kota (Gabón)
     auto: true

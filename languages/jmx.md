@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 西部フフストラウアカ・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Juxtlahuaca Ocidental
+    auto: true
   - translation_iso: spa
     name: Mixteco del oeste de Juxtlahuaca
     auto: true

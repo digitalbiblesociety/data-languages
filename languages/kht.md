@@ -28,6 +28,8 @@ translations:
     name: खाम्प्टी भाषा
   - translation_iso: jpn
     name: カムティ語
+  - translation_iso: por
+    name: Língua khamti
   - translation_iso: spa
     name: Khamti
     auto: true

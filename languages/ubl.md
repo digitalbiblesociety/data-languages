@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブヒノン・ビコール語
+  - translation_iso: por
+    name: "Bikol Buhi'non"
+    auto: true
   - translation_iso: spa
     name: "Bikol Buhi'non"
     auto: true

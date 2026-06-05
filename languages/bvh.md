@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブレ語
     auto: true
+  - translation_iso: por
+    name: Bure
+    auto: true
   - translation_iso: spa
     name: Bure
     auto: true

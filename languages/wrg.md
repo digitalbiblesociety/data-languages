@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルング語
+  - translation_iso: por
+    name: Warungu
+    auto: true
   - translation_iso: spa
     name: idioma warrungu
   - translation_iso: zho

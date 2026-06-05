@@ -23,6 +23,9 @@ translations:
     name: 夫余語
   - translation_iso: kor
     name: 부여어
+  - translation_iso: por
+    name: Puyo
+    auto: true
   - translation_iso: spa
     name: Idioma buyeo
   - translation_iso: zho

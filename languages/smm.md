@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムサハル語
     auto: true
+  - translation_iso: por
+    name: Musasa
+    auto: true
   - translation_iso: spa
     name: Musasa
     auto: true

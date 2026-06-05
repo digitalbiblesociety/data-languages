@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ヤロアメ語
     auto: true
+  - translation_iso: por
+    name: Língua yaroame
   - translation_iso: spa
     name: Yaroamë
     auto: true

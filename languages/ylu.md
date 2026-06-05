@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アリブワウング語
     auto: true
+  - translation_iso: por
+    name: aribwaung
+    auto: true
   - translation_iso: spa
     name: Aribwaung
     auto: true

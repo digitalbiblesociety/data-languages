@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウトゥ語
     auto: true
+  - translation_iso: por
+    name: Utu
+    auto: true
   - translation_iso: spa
     name: Utu
     auto: true

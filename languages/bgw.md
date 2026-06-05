@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バトリ語
     auto: true
+  - translation_iso: por
+    name: Língua bhatri
   - translation_iso: spa
     name: Bhatri
     auto: true

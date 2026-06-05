@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 紅金タイ語
+  - translation_iso: por
+    name: Tai Hongjin
+    auto: true
   - translation_iso: spa
     name: Tai Hongjin
     auto: true

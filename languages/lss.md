@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラシ語
     auto: true
+  - translation_iso: por
+    name: Lasi
+    auto: true
   - translation_iso: spa
     name: Lasi
     auto: true

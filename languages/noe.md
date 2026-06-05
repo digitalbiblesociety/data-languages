@@ -29,6 +29,8 @@ translations:
     name: निमाड़ी
   - translation_iso: jpn
     name: ニマディ語
+  - translation_iso: por
+    name: Língua nimadi
   - translation_iso: spa
     name: Nimadi
     auto: true

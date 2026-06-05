@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ケトゥム語
     auto: true
+  - translation_iso: por
+    name: Ketum
+    auto: true
   - translation_iso: spa
     name: Ketum
     auto: true

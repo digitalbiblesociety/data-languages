@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レレップ語
     auto: true
+  - translation_iso: por
+    name: Rerep
+    auto: true
   - translation_iso: spa
     name: Rerep
     auto: true

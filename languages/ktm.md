@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: クルティ語
     auto: true
+  - translation_iso: por
+    name: Língua kurti
   - translation_iso: spa
     name: Kurti
     auto: true

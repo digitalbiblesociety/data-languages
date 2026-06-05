@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナウオ語
     auto: true
+  - translation_iso: por
+    name: Nauo
+    auto: true
   - translation_iso: spa
     name: Idioma nauo
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウルミ語
     auto: true
+  - translation_iso: por
+    name: Urumi
+    auto: true
   - translation_iso: spa
     name: Urumi
     auto: true

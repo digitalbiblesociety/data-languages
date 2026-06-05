@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 푸마어
+  - translation_iso: por
+    name: Puma
+    auto: true
   - translation_iso: spa
     name: Puma
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バソッシ語
     auto: true
+  - translation_iso: por
+    name: Bassossi
+    auto: true
   - translation_iso: spa
     name: Bassossi
     auto: true

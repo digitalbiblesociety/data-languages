@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東部カナダ・イヌクティトゥット語
+  - translation_iso: por
+    name: Inuktitut do Canadá Oriental
+    auto: true
   - translation_iso: spa
     name: Inuktitut canadiense oriental
     auto: true

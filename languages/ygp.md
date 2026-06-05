@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゲポ語
     auto: true
+  - translation_iso: por
+    name: gepo
+    auto: true
   - translation_iso: spa
     name: Gepo
     auto: true

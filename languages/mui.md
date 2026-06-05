@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムシ語
+  - translation_iso: por
+    name: Musi
   - translation_iso: spa
     name: Musi
     auto: true

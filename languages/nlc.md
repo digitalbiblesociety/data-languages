@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナルカ語
     auto: true
+  - translation_iso: por
+    name: Nalca
+    auto: true
   - translation_iso: spa
     name: Nalca
     auto: true

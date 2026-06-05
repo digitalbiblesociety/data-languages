@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウマラサン語
     auto: true
+  - translation_iso: por
+    name: "Uma' Lasan"
+    auto: true
   - translation_iso: spa
     name: "Uma' Lasan"
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ポロノンバウク語
     auto: true
+  - translation_iso: por
+    name: Polonombauk
+    auto: true
   - translation_iso: spa
     name: Polonombauk
     auto: true

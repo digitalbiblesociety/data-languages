@@ -21,6 +21,8 @@ translations:
     name: コンゴ語
   - translation_iso: kor
     name: 콩고어
+  - translation_iso: por
+    name: congo
   - translation_iso: spa
     name: kikongo
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: ナイジェリア・ピジン
   - translation_iso: kor
     name: 나이지리아 피진
+  - translation_iso: por
+    name: Língua naijá
   - translation_iso: spa
     name: Pidgin nigeriano
   - translation_iso: zho

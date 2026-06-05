@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ネレ語
     auto: true
+  - translation_iso: por
+    name: Zire
+    auto: true
   - translation_iso: spa
     name: idioma zire
   - translation_iso: zho

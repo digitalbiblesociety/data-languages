@@ -28,6 +28,8 @@ translations:
     name: クルマンジー
   - translation_iso: kor
     name: 쿠르만지어
+  - translation_iso: por
+    name: curmânji
   - translation_iso: spa
     name: kurmanji
   - translation_iso: zho

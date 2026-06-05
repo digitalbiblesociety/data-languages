@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アルワコ語
     auto: true
+  - translation_iso: por
+    name: Língua arhuaca
   - translation_iso: spa
     name: idioma arhuaco
   - translation_iso: zho

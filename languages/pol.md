@@ -28,6 +28,8 @@ translations:
     name: ポーランド語
   - translation_iso: kor
     name: 폴란드어
+  - translation_iso: por
+    name: polaco
   - translation_iso: spa
     name: polaco
   - translation_iso: zho

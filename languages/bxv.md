@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ベラク語
     auto: true
+  - translation_iso: por
+    name: Berakou
+    auto: true
   - translation_iso: spa
     name: Berakou
     auto: true

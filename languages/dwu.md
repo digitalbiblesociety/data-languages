@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ドゥワル語
     auto: true
+  - translation_iso: por
+    name: Dhuwal
+    auto: true
   - translation_iso: spa
     name: Dhuwal
     auto: true

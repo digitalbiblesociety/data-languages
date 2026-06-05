@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: 南西トラシアコ・ミステク語
     auto: true
+  - translation_iso: por
+    name: Mixteco de Tlaxiaco sudoeste
+    auto: true
   - translation_iso: spa
     name: Mixteco del Suroeste de Tlaxiaco
     auto: true

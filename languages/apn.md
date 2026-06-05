@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アピナエ語
     auto: true
+  - translation_iso: por
+    name: Língua apinajé
   - translation_iso: spa
     name: Apinayé
     auto: true

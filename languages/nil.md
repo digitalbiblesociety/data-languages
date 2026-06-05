@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ニラ語
     auto: true
+  - translation_iso: por
+    name: Nila
   - translation_iso: spa
     name: Nila
   - translation_iso: zho

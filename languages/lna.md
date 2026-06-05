@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ランガバシェ語
     auto: true
+  - translation_iso: por
+    name: Langbashe
+    auto: true
   - translation_iso: spa
     name: Langbashe
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウビ語
     auto: true
+  - translation_iso: por
+    name: Ubi
+    auto: true
   - translation_iso: spa
     name: ubi
   - translation_iso: zho

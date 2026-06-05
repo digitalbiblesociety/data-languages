@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マフラ語
+  - translation_iso: por
+    name: Língua mehri
   - translation_iso: spa
     name: mehri
   - translation_iso: zho

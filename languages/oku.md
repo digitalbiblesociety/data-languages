@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オク語
     auto: true
+  - translation_iso: por
+    name: Oku
+    auto: true
   - translation_iso: spa
     name: Oku
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 東部アシパ語
     auto: true
+  - translation_iso: por
+    name: Acipa Oriental
+    auto: true
   - translation_iso: spa
     name: acipa oriental
   - translation_iso: zho

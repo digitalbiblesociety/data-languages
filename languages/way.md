@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワヤナ語
+  - translation_iso: por
+    name: Língua uaiana
   - translation_iso: spa
     name: Idioma wayana
   - translation_iso: zho

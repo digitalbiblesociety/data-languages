@@ -26,6 +26,9 @@ translations:
     name: कुङमालि भाखि
   - translation_iso: jpn
     name: クドマリ語
+  - translation_iso: por
+    name: Kudmali
+    auto: true
   - translation_iso: spa
     name: kudmali
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バフティヤーリー語
+  - translation_iso: por
+    name: Bakhtiari
+    auto: true
   - translation_iso: spa
     name: Bakhtiari
     auto: true

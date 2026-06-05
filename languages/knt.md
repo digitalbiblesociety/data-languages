@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: パノアン・カトゥキナ語
     auto: true
+  - translation_iso: por
+    name: Língua katukina-pano
   - translation_iso: spa
     name: Katukína panoana
     auto: true

@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユユ語
+  - translation_iso: por
+    name: Idioma yuyu
   - translation_iso: spa
     name: idioma yuyu
   - translation_iso: zho

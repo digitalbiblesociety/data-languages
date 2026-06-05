@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: テンボ語
     auto: true
+  - translation_iso: por
+    name: Tembo (Motembo)
+    auto: true
   - translation_iso: spa
     name: Tembo (Motembo)
     auto: true

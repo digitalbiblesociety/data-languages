@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マデン語
     auto: true
+  - translation_iso: por
+    name: Maden
+    auto: true
   - translation_iso: spa
     name: Maden
     auto: true

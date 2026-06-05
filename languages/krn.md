@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サポ語
     auto: true
+  - translation_iso: por
+    name: Sapo
+    auto: true
   - translation_iso: spa
     name: Sapo
   - translation_iso: zho

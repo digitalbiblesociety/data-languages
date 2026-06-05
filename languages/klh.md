@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウェリキ語
     auto: true
+  - translation_iso: por
+    name: Weliki
+    auto: true
   - translation_iso: spa
     name: Weliki
     auto: true

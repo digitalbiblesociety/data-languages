@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: タレーノ・イヨミ語
     auto: true
+  - translation_iso: por
+    name: Língua tirió
   - translation_iso: spa
     name: Tiriyó
     auto: true

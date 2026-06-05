@@ -26,6 +26,8 @@ translations:
     name: パエス語
   - translation_iso: kor
     name: 파에스어
+  - translation_iso: por
+    name: Língua páez
   - translation_iso: spa
     name: Idioma paez
   - translation_iso: zho

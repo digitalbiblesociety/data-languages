@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ジュレイ語
     auto: true
+  - translation_iso: por
+    name: Juray
+    auto: true
   - translation_iso: spa
     name: Juray
     auto: true

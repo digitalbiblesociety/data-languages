@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古典サンスクリット
+  - translation_iso: por
+    name: Sânscrito clássico
+    auto: true
   - translation_iso: spa
     name: Sánscrito clásico
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ベジョンド語
     auto: true
+  - translation_iso: por
+    name: Bedjond
+    auto: true
   - translation_iso: spa
     name: Bedjond
     auto: true

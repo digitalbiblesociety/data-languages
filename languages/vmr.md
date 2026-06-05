@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マレンジェ語
     auto: true
+  - translation_iso: por
+    name: Marenje
+    auto: true
   - translation_iso: spa
     name: Marenje
     auto: true

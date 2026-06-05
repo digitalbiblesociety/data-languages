@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リエレ語
+  - translation_iso: por
+    name: Lyélé
+    auto: true
   - translation_iso: spa
     name: Lyélé
     auto: true

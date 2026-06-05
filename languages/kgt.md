@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ソミエフ語
     auto: true
+  - translation_iso: por
+    name: Somyev
+    auto: true
   - translation_iso: spa
     name: Somyev
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ジャンダイ語
     auto: true
+  - translation_iso: por
+    name: Jandai
+    auto: true
   - translation_iso: spa
     name: Idioma jandai
   - translation_iso: zho

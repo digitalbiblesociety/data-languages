@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: バクムパイ語
     auto: true
+  - translation_iso: por
+    name: Bakumpai
+    auto: true
   - translation_iso: spa
     name: Bakumpai
     auto: true

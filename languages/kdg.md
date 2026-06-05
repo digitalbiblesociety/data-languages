@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: セバ語
     auto: true
+  - translation_iso: por
+    name: Seba
   - translation_iso: spa
     name: Seba
   - translation_iso: zho

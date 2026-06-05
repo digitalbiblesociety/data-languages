@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ディボレ語
     auto: true
+  - translation_iso: por
+    name: Dibole
+    auto: true
   - translation_iso: spa
     name: Dibole
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ツワナ語
   - translation_iso: kor
     name: 츠와나어
+  - translation_iso: por
+    name: língua tswana
   - translation_iso: spa
     name: setsuana
   - translation_iso: zho

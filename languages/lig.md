@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: リグビ語
     auto: true
+  - translation_iso: por
+    name: Ligbi
+    auto: true
   - translation_iso: spa
     name: Ligbi
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラル語
     auto: true
+  - translation_iso: por
+    name: Laru
+    auto: true
   - translation_iso: spa
     name: Laru
     auto: true

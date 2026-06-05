@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デニ語
+  - translation_iso: por
+    name: Lishán Didán
+    auto: true
   - translation_iso: spa
     name: Lishán Didán
   - translation_iso: zho

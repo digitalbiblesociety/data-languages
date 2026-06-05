@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: エセ語
     auto: true
+  - translation_iso: por
+    name: Ese
+    auto: true
   - translation_iso: spa
     name: Ese
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ファユ語
     auto: true
+  - translation_iso: por
+    name: Fayu
+    auto: true
   - translation_iso: spa
     name: Fayu
     auto: true

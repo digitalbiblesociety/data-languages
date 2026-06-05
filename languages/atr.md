@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ワイミリアトロアリ語
     auto: true
+  - translation_iso: por
+    name: Língua uaimiri-atroari
   - translation_iso: spa
     name: Waimiri-Atroari
     auto: true

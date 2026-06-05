@@ -29,6 +29,8 @@ translations:
     name: アルゴンキン語
   - translation_iso: kor
     name: 알곤킨어
+  - translation_iso: por
+    name: Língua algonquina
   - translation_iso: spa
     name: Algonquin
   - translation_iso: zho

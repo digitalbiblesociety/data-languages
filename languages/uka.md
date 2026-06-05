@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アウェ・マウェヨ語
     auto: true
+  - translation_iso: por
+    name: Kaburi
+    auto: true
   - translation_iso: spa
     name: Kaburi
     auto: true

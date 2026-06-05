@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バウ語
     auto: true
+  - translation_iso: por
+    name: Bidayuh Bau
+    auto: true
   - translation_iso: spa
     name: Bau Bidayuh
     auto: true

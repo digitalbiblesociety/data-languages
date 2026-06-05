@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プハ語
     auto: true
+  - translation_iso: por
+    name: Phukha
+    auto: true
   - translation_iso: spa
     name: Phukha
     auto: true

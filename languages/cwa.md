@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カプワ語
     auto: true
+  - translation_iso: por
+    name: Kabwa
+    auto: true
   - translation_iso: spa
     name: Kabwa
     auto: true

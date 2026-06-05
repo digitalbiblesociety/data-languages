@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トレス海峡クレオール
+  - translation_iso: por
+    name: Língua crioula do Estreito de Torres
   - translation_iso: spa
     name: Criollo del Estrecho de Torres
   - translation_iso: zho

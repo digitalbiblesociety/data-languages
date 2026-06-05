@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワンガ語
+  - translation_iso: por
+    name: Wanga
+    auto: true
   - translation_iso: spa
     name: Wanga
     auto: true

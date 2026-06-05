@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オタワ語
+  - translation_iso: por
+    name: Língua ottawa
   - translation_iso: spa
     name: ottawa
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シヒン語
+  - translation_iso: por
+    name: Shuhi
+    auto: true
   - translation_iso: spa
     name: Idioma shixing
   - translation_iso: zho

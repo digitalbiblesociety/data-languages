@@ -28,6 +28,8 @@ translations:
     name: सिरमौरी
   - translation_iso: jpn
     name: スルマウリ語
+  - translation_iso: por
+    name: Língua sirmauri
   - translation_iso: spa
     name: Sirmauri
     auto: true

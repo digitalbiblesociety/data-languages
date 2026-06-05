@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カセム語
+  - translation_iso: por
+    name: Língua kasen
   - translation_iso: spa
     name: Kasem
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イコマ・ナタ・イセンイェ語
     auto: true
+  - translation_iso: por
+    name: Ikoma-Nata-Isenye
+    auto: true
   - translation_iso: spa
     name: Ikoma-Nata-Isenye
     auto: true

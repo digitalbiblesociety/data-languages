@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バンガイ語
     auto: true
+  - translation_iso: por
+    name: Banggai
+    auto: true
   - translation_iso: spa
     name: Banggai
     auto: true

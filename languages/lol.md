@@ -28,6 +28,8 @@ translations:
     name: モンゴ語
   - translation_iso: kor
     name: 몽고어
+  - translation_iso: por
+    name: mongo
   - translation_iso: spa
     name: mongo
   - translation_iso: zho

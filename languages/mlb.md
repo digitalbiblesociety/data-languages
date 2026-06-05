@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムブレ語
     auto: true
+  - translation_iso: por
+    name: Mbule
+    auto: true
   - translation_iso: spa
     name: Mbule
     auto: true

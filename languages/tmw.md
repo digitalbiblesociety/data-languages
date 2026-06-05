@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テムアン語
     auto: true
+  - translation_iso: por
+    name: Temuan
+    auto: true
   - translation_iso: spa
     name: Temuan
     auto: true

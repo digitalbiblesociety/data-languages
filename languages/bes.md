@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ベスメ語
     auto: true
+  - translation_iso: por
+    name: Língua besme
   - translation_iso: spa
     name: Besme
     auto: true

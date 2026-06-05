@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: タミ語
     auto: true
+  - translation_iso: por
+    name: Língua tami
   - translation_iso: spa
     name: Tami
     auto: true

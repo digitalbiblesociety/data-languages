@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビアリ語
     auto: true
+  - translation_iso: por
+    name: Biali
+    auto: true
   - translation_iso: spa
     name: Idioma Berba
   - translation_iso: zho

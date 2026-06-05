@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ダンガウラ・タル語
     auto: true
+  - translation_iso: por
+    name: Tharu de Dangaura
+    auto: true
   - translation_iso: spa
     name: Tharu Dangaura
     auto: true

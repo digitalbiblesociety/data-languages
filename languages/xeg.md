@@ -31,6 +31,9 @@ translations:
     name: ケグウィ語
   - translation_iso: kor
     name: ǁ제그위어
+  - translation_iso: por
+    name: ǁXegwi
+    auto: true
   - translation_iso: spa
     name: ǁXegwi
     auto: true

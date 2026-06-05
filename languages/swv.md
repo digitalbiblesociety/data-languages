@@ -29,6 +29,9 @@ translations:
     name: शेखावाटी भाषा
   - translation_iso: jpn
     name: シェカワティ語
+  - translation_iso: por
+    name: Shekhawati
+    auto: true
   - translation_iso: spa
     name: Shekhawati
     auto: true

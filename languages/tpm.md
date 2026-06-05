@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンプルマ
+  - translation_iso: por
+    name: Tampulma
+    auto: true
   - translation_iso: spa
     name: Tampulma
     auto: true

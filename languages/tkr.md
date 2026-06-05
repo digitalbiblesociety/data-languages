@@ -29,6 +29,8 @@ translations:
     name: ツァフル語
   - translation_iso: kor
     name: 차후르어
+  - translation_iso: por
+    name: Língua tsakhur
   - translation_iso: spa
     name: Idioma tsajur
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ハイグワイ語
     auto: true
+  - translation_iso: por
+    name: Haigwai
+    auto: true
   - translation_iso: spa
     name: Haigwai
     auto: true

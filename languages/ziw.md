@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジグア語
+  - translation_iso: por
+    name: Língua zigula
   - translation_iso: spa
     name: Zigula
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マワ語
     auto: true
+  - translation_iso: por
+    name: Mawa (Chade)
+    auto: true
   - translation_iso: spa
     name: Mawa (Chad)
     auto: true

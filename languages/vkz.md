@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: コロ・ズバ語
     auto: true
+  - translation_iso: por
+    name: Koro Zuba
+    auto: true
   - translation_iso: spa
     name: Koro Zuba
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ヴァリヒオ語
     auto: true
+  - translation_iso: por
+    name: Língua guarijio
   - translation_iso: spa
     name: idioma guarijío
   - translation_iso: zho

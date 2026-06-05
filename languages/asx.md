@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムラタヤク語
     auto: true
+  - translation_iso: por
+    name: Muratayak
+    auto: true
   - translation_iso: spa
     name: Muratayak
     auto: true

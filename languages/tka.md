@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トゥルカ語
     auto: true
+  - translation_iso: por
+    name: Truká
+    auto: true
   - translation_iso: spa
     name: Idioma truká
   - translation_iso: zho

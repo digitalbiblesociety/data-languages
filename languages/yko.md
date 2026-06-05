@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤサ語
     auto: true
+  - translation_iso: por
+    name: yasa
+    auto: true
   - translation_iso: spa
     name: yasa
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワンガリ語
+  - translation_iso: por
+    name: Kwangali
   - translation_iso: spa
     name: Idioma RuKwangali
   - translation_iso: zho

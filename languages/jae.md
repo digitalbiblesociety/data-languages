@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤベム語
+  - translation_iso: por
+    name: Língua yabem
   - translation_iso: spa
     name: Yabem
     auto: true

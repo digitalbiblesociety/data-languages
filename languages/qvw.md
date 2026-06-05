@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワイラワンカケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua Huaylla Wanca
+    auto: true
   - translation_iso: spa
     name: huailla huanca
   - translation_iso: zho

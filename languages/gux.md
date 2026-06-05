@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グルマンチェマ語
+  - translation_iso: por
+    name: Língua gourmanchema
   - translation_iso: spa
     name: gurma
   - translation_iso: zho

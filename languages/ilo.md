@@ -28,6 +28,8 @@ translations:
     name: イロカノ語
   - translation_iso: kor
     name: 일로카노어
+  - translation_iso: por
+    name: Ilocano
   - translation_iso: spa
     name: ilocano
   - translation_iso: zho

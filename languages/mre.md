@@ -25,6 +25,8 @@ translations:
     name: मार्था की वाइनयार्ड साइन भाषा
   - translation_iso: jpn
     name: マーサズ・ヴィンヤード手話
+  - translation_iso: por
+    name: "Língua de Sinais de Martha's Vineyard"
   - translation_iso: spa
     name: "Lengua de señas de Martha's Vineyard"
     auto: true

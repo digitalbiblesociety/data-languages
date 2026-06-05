@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ノボノブ語
     auto: true
+  - translation_iso: por
+    name: Língua nobonob
   - translation_iso: spa
     name: Nobonob
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウォイ語
     auto: true
+  - translation_iso: por
+    name: Woi
+    auto: true
   - translation_iso: spa
     name: Woi
     auto: true

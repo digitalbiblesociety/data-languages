@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エテビ語
     auto: true
+  - translation_iso: por
+    name: Etebi
+    auto: true
   - translation_iso: spa
     name: Etebi
     auto: true

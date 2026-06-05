@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラー・アララ語
+  - translation_iso: por
+    name: Arára do Pará
+    auto: true
   - translation_iso: spa
     name: arára de Pará
   - translation_iso: zho

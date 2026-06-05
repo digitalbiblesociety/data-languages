@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ミヤ語
     auto: true
+  - translation_iso: por
+    name: Língua miya
   - translation_iso: spa
     name: Miya
     auto: true

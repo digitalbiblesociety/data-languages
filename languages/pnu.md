@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 炯奈語
+  - translation_iso: por
+    name: Bunu Jiongnai
+    auto: true
   - translation_iso: spa
     name: kiong nai
   - translation_iso: zho

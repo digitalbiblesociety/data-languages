@@ -28,6 +28,8 @@ translations:
     name: マーザンダラーン語
   - translation_iso: kor
     name: 마잔다란어
+  - translation_iso: por
+    name: mazandarani
   - translation_iso: spa
     name: mazandaraní
   - translation_iso: zho

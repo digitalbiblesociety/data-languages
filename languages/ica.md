@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: エデ・イカ語
     auto: true
+  - translation_iso: por
+    name: Ede Ica
+    auto: true
   - translation_iso: spa
     name: Ede Ica
     auto: true

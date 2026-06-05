@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アレゲ語
     auto: true
+  - translation_iso: por
+    name: Alege
+    auto: true
   - translation_iso: spa
     name: alege
   - translation_iso: zho

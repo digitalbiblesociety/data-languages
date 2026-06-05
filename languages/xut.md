@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クタント語
     auto: true
+  - translation_iso: por
+    name: kuthant
+    auto: true
   - translation_iso: spa
     name: Idioma kuthant
   - translation_iso: zho

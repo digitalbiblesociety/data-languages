@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゲラ語
     auto: true
+  - translation_iso: por
+    name: Gera
+    auto: true
   - translation_iso: spa
     name: Gera
     auto: true

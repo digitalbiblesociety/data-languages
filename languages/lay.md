@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ラマ・バイ語
     auto: true
+  - translation_iso: por
+    name: Bai de Lama
+    auto: true
   - translation_iso: spa
     name: Lama Bai
     auto: true

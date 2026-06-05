@@ -27,6 +27,8 @@ translations:
     name: スラナン語
   - translation_iso: kor
     name: 스라난 통고
+  - translation_iso: por
+    name: Sranan
   - translation_iso: spa
     name: Sranan tongo
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ミガバック語
     auto: true
+  - translation_iso: por
+    name: Migabac
+    auto: true
   - translation_iso: spa
     name: Migabac
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: タア語
   - translation_iso: kor
     name: 꽁옹어
+  - translation_iso: por
+    name: Língua ǃxóõ
   - translation_iso: spa
     name: taa
   - translation_iso: zho

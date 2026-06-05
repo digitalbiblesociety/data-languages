@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アッシニボイン語
     auto: true
+  - translation_iso: por
+    name: Língua assiniboine
   - translation_iso: spa
     name: Assiniboine
     auto: true

@@ -30,6 +30,8 @@ translations:
     name: ウデゲ語
   - translation_iso: kor
     name: 우데게이어
+  - translation_iso: por
+    name: Língua udihe
   - translation_iso: spa
     name: udege
   - translation_iso: zho

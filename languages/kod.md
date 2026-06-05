@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コディ語
     auto: true
+  - translation_iso: por
+    name: Kodi
+    auto: true
   - translation_iso: spa
     name: Kodi
     auto: true

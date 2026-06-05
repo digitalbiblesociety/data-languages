@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンダワカ語
+  - translation_iso: por
+    name: Língua mandawaka
   - translation_iso: spa
     name: mandahuaca
   - translation_iso: zho

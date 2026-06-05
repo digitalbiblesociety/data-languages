@@ -28,6 +28,8 @@ translations:
     name: タジク語
   - translation_iso: kor
     name: 타지크어
+  - translation_iso: por
+    name: tadjique
   - translation_iso: spa
     name: tayiko
   - translation_iso: zho

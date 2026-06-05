@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ナバク語
     auto: true
+  - translation_iso: por
+    name: Nabak
+    auto: true
   - translation_iso: spa
     name: Nabak
     auto: true

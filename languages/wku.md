@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クンドゥバディ語
     auto: true
+  - translation_iso: por
+    name: Kunduvadi
+    auto: true
   - translation_iso: spa
     name: Kunduvadi
     auto: true

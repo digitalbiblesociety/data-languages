@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コボル語
     auto: true
+  - translation_iso: por
+    name: Kobol
+    auto: true
   - translation_iso: spa
     name: Kobol
     auto: true

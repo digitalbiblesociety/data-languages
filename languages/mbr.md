@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ヌクアク・マク語
     auto: true
+  - translation_iso: por
+    name: Língua nukak
   - translation_iso: spa
     name: Idioma nukak
   - translation_iso: zho

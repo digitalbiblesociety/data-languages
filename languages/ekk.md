@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: エストニア語
     auto: true
+  - translation_iso: por
+    name: Estoniano Padrão
+    auto: true
   - translation_iso: spa
     name: Estonio estándar
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ガリシア語
   - translation_iso: kor
     name: 갈리시아어
+  - translation_iso: por
+    name: galego
   - translation_iso: spa
     name: gallego
   - translation_iso: zho

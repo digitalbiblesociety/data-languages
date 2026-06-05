@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北西アラスカ・イヌピアツン語
+  - translation_iso: por
+    name: inupiatum do noroeste do Alasca
+    auto: true
   - translation_iso: spa
     name: inuit de la Península Seward
   - translation_iso: zho

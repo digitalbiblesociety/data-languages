@@ -27,6 +27,9 @@ translations:
     name: कोच भाषा
   - translation_iso: jpn
     name: コーチ語
+  - translation_iso: por
+    name: Koch
+    auto: true
   - translation_iso: spa
     name: idioma koch
   - translation_iso: zho

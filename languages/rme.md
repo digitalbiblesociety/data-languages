@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アングロ・ロマニー語
+  - translation_iso: por
+    name: Anglo-Romani
+    auto: true
   - translation_iso: spa
     name: Anglorromaní
   - translation_iso: zho

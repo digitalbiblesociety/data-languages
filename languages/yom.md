@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヨンベ語
     auto: true
+  - translation_iso: por
+    name: iombe
+    auto: true
   - translation_iso: spa
     name: Yombe
     auto: true

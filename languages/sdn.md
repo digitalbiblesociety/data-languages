@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガッルーラ語
+  - translation_iso: por
+    name: galurês
   - translation_iso: spa
     name: gallurés
   - translation_iso: zho

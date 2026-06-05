@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マンゲール語
     auto: true
+  - translation_iso: por
+    name: Urningangg
+    auto: true
   - translation_iso: spa
     name: Urningangg
     auto: true

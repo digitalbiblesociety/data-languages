@@ -29,6 +29,8 @@ translations:
     name: レプチャ語
   - translation_iso: kor
     name: 렙차어
+  - translation_iso: por
+    name: Língua lepcha
   - translation_iso: spa
     name: idioma lepcha
   - translation_iso: zho

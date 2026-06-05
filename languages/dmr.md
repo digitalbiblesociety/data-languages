@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: イースト・ダマル語
     auto: true
+  - translation_iso: por
+    name: Damar Timur
   - translation_iso: spa
     name: Damar Timur
   - translation_iso: zho

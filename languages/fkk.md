@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キルヤ・コンツェル語
     auto: true
+  - translation_iso: por
+    name: Kirya-Konzəl
+    auto: true
   - translation_iso: spa
     name: Kirya-Konzəl
     auto: true

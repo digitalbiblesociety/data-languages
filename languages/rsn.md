@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルワンダ手話
+  - translation_iso: por
+    name: Língua de Sinais Ruandesa
+    auto: true
   - translation_iso: spa
     name: Lengua de señas ruandesa
     auto: true

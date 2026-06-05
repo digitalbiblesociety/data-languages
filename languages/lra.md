@@ -19,7 +19,7 @@ translations:
     name: لغة ارا اكاتي
     auto: true
   - translation_iso: deu
-    name: "Rara Bakati'"
+    name: Rara Bakati
     auto: true
   - translation_iso: fra
     name: bakati’ rara
@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ララ・バカティ語
+    auto: true
+  - translation_iso: por
+    name: "Rara Bakati'"
     auto: true
   - translation_iso: spa
     name: Rara Bakati

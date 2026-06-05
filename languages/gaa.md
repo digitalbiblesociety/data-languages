@@ -28,6 +28,8 @@ translations:
     name: ガ語
   - translation_iso: kor
     name: 가어
+  - translation_iso: por
+    name: ga
   - translation_iso: spa
     name: Idioma ga
   - translation_iso: zho

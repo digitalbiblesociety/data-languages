@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タオ語
     auto: true
+  - translation_iso: por
+    name: Mubami
+    auto: true
   - translation_iso: spa
     name: Mubami
     auto: true

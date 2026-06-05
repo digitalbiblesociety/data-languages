@@ -29,6 +29,8 @@ translations:
     name: トムブル語
   - translation_iso: kor
     name: 톰불루어
+  - translation_iso: por
+    name: Língua tombulu
   - translation_iso: spa
     name: Tombulu
     auto: true

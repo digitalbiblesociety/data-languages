@@ -29,6 +29,8 @@ translations:
     name: 台湾手話
   - translation_iso: kor
     name: 대만 수화
+  - translation_iso: por
+    name: língua de sinais de Taiwan
   - translation_iso: spa
     name: lengua de señas taiwanesa
   - translation_iso: zho

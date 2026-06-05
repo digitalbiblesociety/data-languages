@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヴカルヴェ語
+  - translation_iso: por
+    name: lavukaleve
   - translation_iso: spa
     name: lavukaleve
   - translation_iso: zho

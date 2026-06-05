@@ -30,6 +30,8 @@ translations:
     name: チコムセルテック語
   - translation_iso: kor
     name: 치코무셀텍어
+  - translation_iso: por
+    name: chicomucelteco
   - translation_iso: spa
     name: chicomuselteco
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: ムースクリー語
   - translation_iso: kor
     name: 무스크리어
+  - translation_iso: por
+    name: Dialeto cree moose
   - translation_iso: spa
     name: cree moose
   - translation_iso: zho

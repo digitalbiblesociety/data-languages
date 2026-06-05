@@ -24,6 +24,8 @@ translations:
     name: シュメール語
   - translation_iso: kor
     name: 수메르어
+  - translation_iso: por
+    name: língua suméria
   - translation_iso: spa
     name: sumerio
   - translation_iso: zho

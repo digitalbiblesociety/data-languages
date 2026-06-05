@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コスタリカ手話
+  - translation_iso: por
+    name: Língua de Sinais da Costa Rica
   - translation_iso: spa
     name: lengua de señas costarricense
   - translation_iso: zho

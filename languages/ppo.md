@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フォロパ語
+  - translation_iso: por
+    name: Folopa
+    auto: true
   - translation_iso: spa
     name: Folopa
     auto: true

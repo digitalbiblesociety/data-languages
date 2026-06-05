@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウォリミ語
     auto: true
+  - translation_iso: por
+    name: Worimi
+    auto: true
   - translation_iso: spa
     name: Idioma worimi
   - translation_iso: zho

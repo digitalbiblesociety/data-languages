@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バンディ語
     auto: true
+  - translation_iso: por
+    name: Bandi
+    auto: true
   - translation_iso: spa
     name: Bandi
   - translation_iso: zho

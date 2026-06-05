@@ -29,6 +29,8 @@ translations:
     name: ミスキート語
   - translation_iso: kor
     name: 미스키토어
+  - translation_iso: por
+    name: Língua misquita
   - translation_iso: spa
     name: idioma misquito
   - translation_iso: zho

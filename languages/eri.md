@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オゲア語
     auto: true
+  - translation_iso: por
+    name: Ogea
+    auto: true
   - translation_iso: spa
     name: Ogea
     auto: true

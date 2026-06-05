@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナフリ語
     auto: true
+  - translation_iso: por
+    name: Nafri
+    auto: true
   - translation_iso: spa
     name: Nafri
     auto: true

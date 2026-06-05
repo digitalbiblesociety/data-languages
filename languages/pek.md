@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ペンチャル語
     auto: true
+  - translation_iso: por
+    name: Penchal
+    auto: true
   - translation_iso: spa
     name: Penchal
     auto: true

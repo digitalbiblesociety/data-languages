@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴリン語
+  - translation_iso: por
+    name: Golin
+    auto: true
   - translation_iso: spa
     name: Golin
     auto: true

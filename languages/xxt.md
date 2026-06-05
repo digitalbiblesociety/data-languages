@@ -25,6 +25,8 @@ translations:
     name: タンボラ語
   - translation_iso: kor
     name: 탐보라어
+  - translation_iso: por
+    name: Língua tambora
   - translation_iso: spa
     name: Tambora
     auto: true

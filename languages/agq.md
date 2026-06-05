@@ -28,6 +28,8 @@ translations:
     name: アゲム語
   - translation_iso: kor
     name: 아그햄어
+  - translation_iso: por
+    name: aghem
   - translation_iso: spa
     name: aghem
   - translation_iso: zho

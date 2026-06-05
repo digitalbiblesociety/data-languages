@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: タガル・ムルット語
     auto: true
+  - translation_iso: por
+    name: Tagal Murut
   - translation_iso: spa
     name: Idioma Tagol
   - translation_iso: zho

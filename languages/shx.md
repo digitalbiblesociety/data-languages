@@ -30,6 +30,8 @@ translations:
     name: シェ語
   - translation_iso: kor
     name: 서어
+  - translation_iso: por
+    name: Língua she
   - translation_iso: spa
     name: She
     auto: true

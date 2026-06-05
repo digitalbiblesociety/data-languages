@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヴァオ語
     auto: true
+  - translation_iso: por
+    name: Vao
+    auto: true
   - translation_iso: spa
     name: Idioma vao
   - translation_iso: zho

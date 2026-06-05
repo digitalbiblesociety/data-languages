@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南バローチー語
+  - translation_iso: por
+    name: Balúchi meridional
+    auto: true
   - translation_iso: spa
     name: Baluchi Meridional
     auto: true

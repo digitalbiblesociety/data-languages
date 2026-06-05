@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オカイナ語
+  - translation_iso: por
+    name: Ocaina
+    auto: true
   - translation_iso: spa
     name: Ocaina
   - translation_iso: zho

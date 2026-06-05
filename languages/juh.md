@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ホーネ語
     auto: true
+  - translation_iso: por
+    name: Hõne
+    auto: true
   - translation_iso: spa
     name: Hõne
     auto: true

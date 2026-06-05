@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アニメレ語
     auto: true
+  - translation_iso: por
+    name: Animere
+    auto: true
   - translation_iso: spa
     name: Animere
     auto: true

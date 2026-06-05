@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アデレ語
+  - translation_iso: por
+    name: língua adele
   - translation_iso: spa
     name: idioma adele
   - translation_iso: zho

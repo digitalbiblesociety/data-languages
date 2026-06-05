@@ -27,6 +27,9 @@ translations:
     name: तीराही भाषा
   - translation_iso: jpn
     name: ティラーヒー語
+  - translation_iso: por
+    name: Tirahi
+    auto: true
   - translation_iso: spa
     name: Tirahi
     auto: true

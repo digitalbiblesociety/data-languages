@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: スメルキー・カヌム語
     auto: true
+  - translation_iso: por
+    name: Kanum Smärky
+    auto: true
   - translation_iso: spa
     name: Kanum Smärky
     auto: true

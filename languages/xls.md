@@ -29,6 +29,8 @@ translations:
     name: ルシタニア語
   - translation_iso: kor
     name: 루시타니아어
+  - translation_iso: por
+    name: Língua lusitana
   - translation_iso: spa
     name: Idioma lusitano
   - translation_iso: zho

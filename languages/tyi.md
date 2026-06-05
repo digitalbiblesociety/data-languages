@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ゲツァーイ語
     auto: true
+  - translation_iso: por
+    name: Teke-Tsaayi
+    auto: true
   - translation_iso: spa
     name: Teke-Tsaayi
     auto: true

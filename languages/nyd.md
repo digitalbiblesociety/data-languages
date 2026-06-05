@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ニョレ語
     auto: true
+  - translation_iso: por
+    name: Língua Nyole
   - translation_iso: spa
     name: Nyore
     auto: true

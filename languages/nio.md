@@ -28,6 +28,8 @@ translations:
     name: ガナサン語
   - translation_iso: kor
     name: 응가나산어
+  - translation_iso: por
+    name: Língua nganasan
   - translation_iso: spa
     name: enganasano
   - translation_iso: zho

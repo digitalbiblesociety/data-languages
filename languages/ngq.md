@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ングリミ語
     auto: true
+  - translation_iso: por
+    name: Ngurimi
+    auto: true
   - translation_iso: spa
     name: Ngurimi
     auto: true

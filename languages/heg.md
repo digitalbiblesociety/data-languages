@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ヘロング語
     auto: true
+  - translation_iso: por
+    name: Língua helong
   - translation_iso: spa
     name: Helong
     auto: true

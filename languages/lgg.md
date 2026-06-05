@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルグバラ語
+  - translation_iso: por
+    name: Língua lugbara
   - translation_iso: spa
     name: Lugbara
     auto: true

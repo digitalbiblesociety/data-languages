@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワウトラ・マサテク語
     auto: true
+  - translation_iso: por
+    name: Mazateco de Huautla
+    auto: true
   - translation_iso: spa
     name: Mazateco de Huautla
     auto: true

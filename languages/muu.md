@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤアク語
     auto: true
+  - translation_iso: por
+    name: Yaaku
+    auto: true
   - translation_iso: spa
     name: Yaaku
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グンディ語
+  - translation_iso: por
+    name: Gundi
+    auto: true
   - translation_iso: spa
     name: Gundi
     auto: true

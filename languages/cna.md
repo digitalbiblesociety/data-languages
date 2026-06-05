@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チャンタン語
     auto: true
+  - translation_iso: por
+    name: Changthang
+    auto: true
   - translation_iso: spa
     name: Changthang
     auto: true

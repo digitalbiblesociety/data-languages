@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オレ語
+  - translation_iso: por
+    name: Olekha
+    auto: true
   - translation_iso: spa
     name: idioma olekha
   - translation_iso: zho

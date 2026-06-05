@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロマノギリシャ語
     auto: true
+  - translation_iso: por
+    name: Romano-Grego
+    auto: true
   - translation_iso: spa
     name: Romaní griego
     auto: true

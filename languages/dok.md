@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ドンド語
     auto: true
+  - translation_iso: por
+    name: Dondo
+    auto: true
   - translation_iso: spa
     name: Dondo
     auto: true

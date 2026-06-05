@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビアタ・ビダユ語
     auto: true
+  - translation_iso: por
+    name: Bidayuh Biatah
+    auto: true
   - translation_iso: spa
     name: Bidayuh Biatah
     auto: true

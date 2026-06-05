@@ -28,6 +28,8 @@ translations:
     name: チェチェン語
   - translation_iso: kor
     name: 체첸어
+  - translation_iso: por
+    name: checheno
   - translation_iso: spa
     name: checheno
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: パラウク語
     auto: true
+  - translation_iso: por
+    name: Parauk
+    auto: true
   - translation_iso: spa
     name: Parauk
     auto: true

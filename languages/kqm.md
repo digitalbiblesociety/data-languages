@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キサ語
     auto: true
+  - translation_iso: por
+    name: Khisa
+    auto: true
   - translation_iso: spa
     name: Khisa
     auto: true

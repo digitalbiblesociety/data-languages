@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: エンデ語
     auto: true
+  - translation_iso: por
+    name: Ende
   - translation_iso: spa
     name: Ende
   - translation_iso: zho

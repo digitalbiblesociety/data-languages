@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブルゲビ語
     auto: true
+  - translation_iso: por
+    name: Bulgebi
+    auto: true
   - translation_iso: spa
     name: Bulgebi
     auto: true

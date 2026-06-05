@@ -31,6 +31,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 다우어
+  - translation_iso: por
+    name: Língua dâw
   - translation_iso: spa
     name: idioma dâw
   - translation_iso: zho

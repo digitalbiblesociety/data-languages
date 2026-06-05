@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムン語
+  - translation_iso: por
+    name: Língua kim mun
   - translation_iso: spa
     name: Kim Mun
     auto: true

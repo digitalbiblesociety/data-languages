@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: マニ教中期ペルシア語
     auto: true
+  - translation_iso: por
+    name: Persa Médio Maniqueu
+    auto: true
   - translation_iso: spa
     name: Persa medio maniqueo
     auto: true

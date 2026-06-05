@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナイジェリア・フラニ語
+  - translation_iso: por
+    name: fulfulde nigeriano
+    auto: true
   - translation_iso: spa
     name: Fulfulde nigeriano
     auto: true

@@ -29,6 +29,8 @@ translations:
     name: 閩北語
   - translation_iso: kor
     name: 민북어
+  - translation_iso: por
+    name: Min Bei
   - translation_iso: spa
     name: chino min bei
   - translation_iso: zho

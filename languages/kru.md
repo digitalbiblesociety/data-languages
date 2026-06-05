@@ -28,6 +28,8 @@ translations:
     name: クルク語
   - translation_iso: kor
     name: 쿠루흐어
+  - translation_iso: por
+    name: Língua kurux
   - translation_iso: spa
     name: kurukh
   - translation_iso: zho

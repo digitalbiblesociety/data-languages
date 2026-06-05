@@ -28,6 +28,9 @@ translations:
     name: 古タミル語
   - translation_iso: kor
     name: 고대 타밀어
+  - translation_iso: por
+    name: tâmil antigo
+    auto: true
   - translation_iso: spa
     name: tamil antiguo
   - translation_iso: zho

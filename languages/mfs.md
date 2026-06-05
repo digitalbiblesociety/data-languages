@@ -25,6 +25,8 @@ translations:
     name: मैक्सिकन सांकेतिक भाषा
   - translation_iso: jpn
     name: メキシコ手話
+  - translation_iso: por
+    name: língua de sinais mexicana
   - translation_iso: spa
     name: lengua de señas mexicana
   - translation_iso: zho

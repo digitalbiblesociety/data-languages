@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マンディ語
     auto: true
+  - translation_iso: por
+    name: Wiarumus
+    auto: true
   - translation_iso: spa
     name: Wiarumus
     auto: true

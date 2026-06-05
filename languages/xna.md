@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古代北部アラビア語
+  - translation_iso: por
+    name: Árabe Setentrional Antigo
+    auto: true
   - translation_iso: spa
     name: Árabe antiguo septentrional
   - translation_iso: zho

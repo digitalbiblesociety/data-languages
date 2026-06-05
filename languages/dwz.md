@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: デワス・ライ語
     auto: true
+  - translation_iso: por
+    name: Rai Dewas
+    auto: true
   - translation_iso: spa
     name: Dewas Rai
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウゴン語
+  - translation_iso: por
+    name: Ugong
+    auto: true
   - translation_iso: spa
     name: Ugong
     auto: true

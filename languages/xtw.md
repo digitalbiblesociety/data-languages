@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: タワンデ語
     auto: true
+  - translation_iso: por
+    name: Língua tawandê
   - translation_iso: spa
     name: Tawandê
     auto: true

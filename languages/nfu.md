@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ムフムテ語
     auto: true
+  - translation_iso: por
+    name: Língua mfumte
   - translation_iso: spa
     name: Mfumte
     auto: true

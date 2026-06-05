@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウゼクウェ語
     auto: true
+  - translation_iso: por
+    name: Uzekwe
+    auto: true
   - translation_iso: spa
     name: Uzekwe
     auto: true

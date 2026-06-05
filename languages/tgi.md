@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラウヌイア語
     auto: true
+  - translation_iso: por
+    name: Lawunuia
+    auto: true
   - translation_iso: spa
     name: Lawunuia
   - translation_iso: zho

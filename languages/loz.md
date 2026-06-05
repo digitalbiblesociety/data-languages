@@ -28,6 +28,8 @@ translations:
     name: ロジ語
   - translation_iso: kor
     name: 로지어
+  - translation_iso: por
+    name: Língua lozi
   - translation_iso: spa
     name: Idioma lozi
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アウシリ語
     auto: true
+  - translation_iso: por
+    name: Aushiri
+    auto: true
   - translation_iso: spa
     name: aushiri
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カレ語
     auto: true
+  - translation_iso: por
+    name: Kare (Papua-Nova Guiné)
+    auto: true
   - translation_iso: spa
     name: Kare (Papúa Nueva Guinea)
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ニザー語
     auto: true
+  - translation_iso: por
+    name: Suga
+    auto: true
   - translation_iso: spa
     name: Suga
     auto: true

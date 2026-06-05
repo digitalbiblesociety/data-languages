@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クプラン語
     auto: true
+  - translation_iso: por
+    name: Kplang
+    auto: true
   - translation_iso: spa
     name: kplang
   - translation_iso: zho

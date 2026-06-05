@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 東クミ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Khumi oriental
+    auto: true
   - translation_iso: spa
     name: Chin Khumi Oriental
     auto: true

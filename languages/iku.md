@@ -21,6 +21,8 @@ translations:
     name: イヌクティトゥット語
   - translation_iso: kor
     name: 이누크티투트어
+  - translation_iso: por
+    name: Língua inuktitut
   - translation_iso: spa
     name: inuktitut
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タロク語
     auto: true
+  - translation_iso: por
+    name: tarok
+    auto: true
   - translation_iso: spa
     name: Tarok
   - translation_iso: zho

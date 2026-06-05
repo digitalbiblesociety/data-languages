@@ -29,6 +29,8 @@ translations:
     name: 牧地マリ語
   - translation_iso: kor
     name: 초원 마리어
+  - translation_iso: por
+    name: Língua mari das campinas
   - translation_iso: spa
     name: mari de las praderas
   - translation_iso: zho

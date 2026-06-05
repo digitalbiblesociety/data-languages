@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: クース語
     auto: true
+  - translation_iso: por
+    name: Hanis
   - translation_iso: spa
     name: Hanis
   - translation_iso: zho

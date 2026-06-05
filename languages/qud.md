@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カルデロンハイランドキチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua das Terras Altas de Calderón
+    auto: true
   - translation_iso: spa
     name: Quichua serrano de Calderón
     auto: true

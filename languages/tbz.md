@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ディタマリ語
     auto: true
+  - translation_iso: por
+    name: Língua tammari
   - translation_iso: spa
     name: Ditammari
     auto: true

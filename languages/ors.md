@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オラン・スレタル語
     auto: true
+  - translation_iso: por
+    name: Orang Seletar
+    auto: true
   - translation_iso: spa
     name: Orang Seletar
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グデ語
     auto: true
+  - translation_iso: por
+    name: Gude
+    auto: true
   - translation_iso: spa
     name: Idioma gude
   - translation_iso: zho

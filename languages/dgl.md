@@ -23,6 +23,8 @@ translations:
     name: ドンゴラウィ語
   - translation_iso: kor
     name: 동골라위어
+  - translation_iso: por
+    name: Língua dongolawi
   - translation_iso: spa
     name: Andaandi
     auto: true

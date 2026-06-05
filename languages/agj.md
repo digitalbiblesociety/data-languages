@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルゴッバ語
+  - translation_iso: por
+    name: Língua argobba
   - translation_iso: spa
     name: argobba
   - translation_iso: zho

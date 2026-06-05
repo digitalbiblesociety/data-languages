@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アワ語
+  - translation_iso: por
+    name: Awa (China)
+    auto: true
   - translation_iso: spa
     name: Awa
     auto: true

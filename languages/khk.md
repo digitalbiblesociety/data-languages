@@ -29,6 +29,8 @@ translations:
     name: ハルハ・モンゴル語
   - translation_iso: kor
     name: 할하 몽골어
+  - translation_iso: por
+    name: khalkha-mongol
   - translation_iso: spa
     name: Mongol Halh
     auto: true

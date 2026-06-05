@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: バンゴラン語
     auto: true
+  - translation_iso: por
+    name: Bangolan
+    auto: true
   - translation_iso: spa
     name: bagolan
   - translation_iso: zho

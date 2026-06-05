@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エサン語
     auto: true
+  - translation_iso: por
+    name: Esan
+    auto: true
   - translation_iso: spa
     name: Esan
     auto: true

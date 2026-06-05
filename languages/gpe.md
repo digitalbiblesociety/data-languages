@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガーナピジン英語
+  - translation_iso: por
+    name: pidgin ganês
   - translation_iso: spa
     name: pidgin inglés de Ghana
   - translation_iso: zho

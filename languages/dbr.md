@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダバレ語
     auto: true
+  - translation_iso: por
+    name: Dabarre
+    auto: true
   - translation_iso: spa
     name: Dabarre
     auto: true

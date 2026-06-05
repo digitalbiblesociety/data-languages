@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アゴブ語
     auto: true
+  - translation_iso: por
+    name: Agob
+    auto: true
   - translation_iso: spa
     name: Agob
     auto: true

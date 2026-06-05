@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Wumbvu語
+  - translation_iso: por
+    name: Wumbvu
+    auto: true
   - translation_iso: spa
     name: Wumbvu
     auto: true

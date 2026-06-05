@@ -30,6 +30,8 @@ translations:
     name: ケレク語
   - translation_iso: kor
     name: 케레크어
+  - translation_iso: por
+    name: Língua kereque
   - translation_iso: spa
     name: Idioma kerek
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: シンディフイ・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Sindihui
+    auto: true
   - translation_iso: spa
     name: Mixteco de Sindihui
     auto: true

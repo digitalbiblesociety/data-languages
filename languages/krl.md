@@ -28,6 +28,8 @@ translations:
     name: カレリア語
   - translation_iso: kor
     name: 카렐리야어
+  - translation_iso: por
+    name: Língua carélia
   - translation_iso: spa
     name: carelio
   - translation_iso: zho

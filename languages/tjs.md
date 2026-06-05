@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南部トゥジア語
     auto: true
+  - translation_iso: por
+    name: Tujia do Sul
+    auto: true
   - translation_iso: spa
     name: Tujia del Sur
     auto: true

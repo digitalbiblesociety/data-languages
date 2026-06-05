@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グアジャ語
+  - translation_iso: por
+    name: Língua guajá
   - translation_iso: spa
     name: Guajá
     auto: true

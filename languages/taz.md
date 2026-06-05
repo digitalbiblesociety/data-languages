@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: トチョ語
     auto: true
+  - translation_iso: por
+    name: Língua tocho
   - translation_iso: spa
     name: Tocho
     auto: true

@@ -21,6 +21,8 @@ translations:
     name: サポテク語
   - translation_iso: kor
     name: 사포텍어
+  - translation_iso: por
+    name: línguas zapotecas
   - translation_iso: spa
     name: zapoteca
   - translation_iso: zho

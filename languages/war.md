@@ -28,6 +28,8 @@ translations:
     name: ワライ語
   - translation_iso: kor
     name: 와라이어
+  - translation_iso: por
+    name: língua waray-waray
   - translation_iso: spa
     name: samareño
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニャワイギ語
     auto: true
+  - translation_iso: por
+    name: Nyawaygi
+    auto: true
   - translation_iso: spa
     name: Idioma nyawaygi
   - translation_iso: zho

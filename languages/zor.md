@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラヨン・ゾケ語
     auto: true
+  - translation_iso: por
+    name: zoque de Rayón
+    auto: true
   - translation_iso: spa
     name: Zoque de Rayón
     auto: true

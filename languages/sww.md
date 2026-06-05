@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ソワ語
     auto: true
+  - translation_iso: por
+    name: Sowa
+    auto: true
   - translation_iso: spa
     name: Sowa
     auto: true

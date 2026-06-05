@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マゴリ語
     auto: true
+  - translation_iso: por
+    name: magori
+    auto: true
   - translation_iso: spa
     name: Magori
     auto: true

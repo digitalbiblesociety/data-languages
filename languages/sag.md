@@ -28,6 +28,8 @@ translations:
     name: サンゴ語
   - translation_iso: kor
     name: 상고어
+  - translation_iso: por
+    name: Língua sango
   - translation_iso: spa
     name: idioma sango
   - translation_iso: zho

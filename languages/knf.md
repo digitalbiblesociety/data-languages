@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンカニャ語
+  - translation_iso: por
+    name: Língua mankania
   - translation_iso: spa
     name: Mankanya
     auto: true

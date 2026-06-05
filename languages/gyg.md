@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ギバイ語
     auto: true
+  - translation_iso: por
+    name: Gbayi
+    auto: true
   - translation_iso: spa
     name: Gbayi
     auto: true

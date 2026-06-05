@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハラウラ語
+  - translation_iso: por
+    name: Hulaulá
+    auto: true
   - translation_iso: spa
     name: hulaulá
   - translation_iso: zho

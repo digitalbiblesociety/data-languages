@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハヴ語
     auto: true
+  - translation_iso: por
+    name: Havu
+    auto: true
   - translation_iso: spa
     name: Havu
     auto: true

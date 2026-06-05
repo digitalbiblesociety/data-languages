@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マラス語
     auto: true
+  - translation_iso: por
+    name: Malas
+    auto: true
   - translation_iso: spa
     name: Malas
     auto: true

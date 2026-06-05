@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ファイタ語
     auto: true
+  - translation_iso: por
+    name: Faita
+    auto: true
   - translation_iso: spa
     name: Faita
     auto: true

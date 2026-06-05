@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナラ語
+  - translation_iso: por
+    name: Língua nara
   - translation_iso: spa
     name: nara
   - translation_iso: zho

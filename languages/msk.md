@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マンサカ語
     auto: true
+  - translation_iso: por
+    name: Mansaka
+    auto: true
   - translation_iso: spa
     name: Mansaka
     auto: true

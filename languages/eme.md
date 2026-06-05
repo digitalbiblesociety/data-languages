@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: エメリヨン語
     auto: true
+  - translation_iso: por
+    name: Língua emerillon
   - translation_iso: spa
     name: Emerillón
     auto: true

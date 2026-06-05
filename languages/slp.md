@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラマホロット語
+  - translation_iso: por
+    name: Língua lamahólot
   - translation_iso: spa
     name: Lamaholot
   - translation_iso: zho

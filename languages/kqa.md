@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムム語
     auto: true
+  - translation_iso: por
+    name: Mum
+    auto: true
   - translation_iso: spa
     name: Mum
     auto: true

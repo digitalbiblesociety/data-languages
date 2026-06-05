@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: シャムタンガ語
     auto: true
+  - translation_iso: por
+    name: Língua xamtanga
   - translation_iso: spa
     name: Xamtanga
     auto: true

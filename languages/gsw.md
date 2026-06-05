@@ -28,6 +28,8 @@ translations:
     name: アレマン語
   - translation_iso: kor
     name: 알레만어
+  - translation_iso: por
+    name: Alemânico
   - translation_iso: spa
     name: alemánico
   - translation_iso: zho

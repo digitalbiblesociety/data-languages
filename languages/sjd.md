@@ -29,6 +29,8 @@ translations:
     name: キルディン・サーミ語
   - translation_iso: kor
     name: 킬딘 사미어
+  - translation_iso: por
+    name: Língua sami de Kildin
   - translation_iso: spa
     name: sami kildin
   - translation_iso: zho

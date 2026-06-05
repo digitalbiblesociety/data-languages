@@ -30,6 +30,8 @@ translations:
     name: ムオン語
   - translation_iso: kor
     name: 므엉어
+  - translation_iso: por
+    name: Língua muong
   - translation_iso: spa
     name: Idioma muong
   - translation_iso: zho

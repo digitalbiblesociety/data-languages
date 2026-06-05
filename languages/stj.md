@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サネ語
     auto: true
+  - translation_iso: por
+    name: Samo Matya
+    auto: true
   - translation_iso: spa
     name: Samo Matya
     auto: true

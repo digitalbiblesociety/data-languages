@@ -28,6 +28,8 @@ translations:
     name: アラパホー語
   - translation_iso: kor
     name: 아라파호어
+  - translation_iso: por
+    name: Arapaho
   - translation_iso: spa
     name: arapaho
   - translation_iso: zho

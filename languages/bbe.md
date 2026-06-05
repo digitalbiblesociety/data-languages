@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: バングバ語
     auto: true
+  - translation_iso: por
+    name: Bangba
+    auto: true
   - translation_iso: spa
     name: Bangba
     auto: true

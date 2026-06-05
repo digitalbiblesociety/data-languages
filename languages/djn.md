@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジャウィン語
     auto: true
+  - translation_iso: por
+    name: Jawoyn
+    auto: true
   - translation_iso: spa
     name: Jawoyn
     auto: true

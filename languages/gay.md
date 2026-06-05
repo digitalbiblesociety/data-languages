@@ -28,6 +28,8 @@ translations:
     name: ガヨ語
   - translation_iso: kor
     name: 가요어
+  - translation_iso: por
+    name: Língua gayo
   - translation_iso: spa
     name: gayo
   - translation_iso: zho

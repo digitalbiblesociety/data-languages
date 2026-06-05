@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カミラロイ語
+  - translation_iso: por
+    name: Língua gamilaraay
   - translation_iso: spa
     name: idioma gamilaraay
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: 中英語
   - translation_iso: kor
     name: 중세 영어
+  - translation_iso: por
+    name: inglês médio
   - translation_iso: spa
     name: inglés medio
   - translation_iso: zho

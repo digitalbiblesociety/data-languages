@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ザニザ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Zaniza
+    auto: true
   - translation_iso: spa
     name: Papabuco
   - translation_iso: zho

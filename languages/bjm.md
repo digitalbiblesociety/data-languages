@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バジェラニ語
     auto: true
+  - translation_iso: por
+    name: Bajelani
+    auto: true
   - translation_iso: spa
     name: Bajelani
     auto: true

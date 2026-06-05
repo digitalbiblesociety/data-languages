@@ -29,6 +29,8 @@ translations:
     name: トゥロヨ語
   - translation_iso: kor
     name: 투로요어
+  - translation_iso: por
+    name: turoyo
   - translation_iso: spa
     name: turoyo
   - translation_iso: zho

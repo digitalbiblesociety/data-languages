@@ -29,6 +29,8 @@ translations:
     name: カクチケル語
   - translation_iso: kor
     name: 칵치켈어
+  - translation_iso: por
+    name: Língua caqchiquel
   - translation_iso: spa
     name: Kaqchikel
   - translation_iso: zho

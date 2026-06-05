@@ -28,6 +28,8 @@ translations:
     name: モーリシャス・クレオール語
   - translation_iso: kor
     name: 모리셔스 크리올
+  - translation_iso: por
+    name: crioulo de Maurício
   - translation_iso: spa
     name: criollo mauriciano
   - translation_iso: zho

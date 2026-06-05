@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: イェトファ語
     auto: true
+  - translation_iso: por
+    name: yetfa
+    auto: true
   - translation_iso: spa
     name: Yetfa
     auto: true

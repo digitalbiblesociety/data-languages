@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カシグラニン語
     auto: true
+  - translation_iso: por
+    name: Kasiguranin
+    auto: true
   - translation_iso: spa
     name: Kasiguranin
     auto: true

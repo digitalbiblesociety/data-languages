@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ベクウェル語
     auto: true
+  - translation_iso: por
+    name: Bekwel
+    auto: true
   - translation_iso: spa
     name: Bekwel
     auto: true

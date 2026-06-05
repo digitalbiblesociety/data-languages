@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: セリリ語
     auto: true
+  - translation_iso: por
+    name: Serili
   - translation_iso: spa
     name: Serili
   - translation_iso: zho

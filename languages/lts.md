@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タコニ語
     auto: true
+  - translation_iso: por
+    name: Tachoni
+    auto: true
   - translation_iso: spa
     name: Tachoni
     auto: true

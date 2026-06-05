@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マキリタリ語
     auto: true
+  - translation_iso: por
+    name: "Língua ye'kwana"
   - translation_iso: spa
     name: idioma yekuana
   - translation_iso: zho

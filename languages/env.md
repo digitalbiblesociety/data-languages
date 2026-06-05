@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エンワン語
     auto: true
+  - translation_iso: por
+    name: Enwan (Estado de Edu)
+    auto: true
   - translation_iso: spa
     name: Enwan (Estado de Edu)
     auto: true

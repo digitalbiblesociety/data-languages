@@ -29,6 +29,8 @@ translations:
     name: 古ザクセン語
   - translation_iso: kor
     name: 고대 작센어
+  - translation_iso: por
+    name: Saxão antigo
   - translation_iso: spa
     name: sajón antiguo
   - translation_iso: zho

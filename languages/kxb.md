@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: クロブ語
     auto: true
+  - translation_iso: por
+    name: Krobu
+    auto: true
   - translation_iso: spa
     name: krobu
   - translation_iso: zho

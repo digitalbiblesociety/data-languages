@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オリザバ・ナワトル語
     auto: true
+  - translation_iso: por
+    name: Nahuatl de Orizaba
+    auto: true
   - translation_iso: spa
     name: Náhuatl veracruzano
   - translation_iso: zho

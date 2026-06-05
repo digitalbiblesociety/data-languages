@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ワジャバンガイ語
     auto: true
+  - translation_iso: por
+    name: Wadjabangayi
+    auto: true
   - translation_iso: spa
     name: Wadjabangayi
     auto: true

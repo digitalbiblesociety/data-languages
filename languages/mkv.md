@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マヴェア語
+  - translation_iso: por
+    name: Língua mavea
   - translation_iso: spa
     name: Mafea
     auto: true

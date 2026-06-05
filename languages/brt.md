@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビタレ語
     auto: true
+  - translation_iso: por
+    name: Bitare
+    auto: true
   - translation_iso: spa
     name: bitare
   - translation_iso: zho

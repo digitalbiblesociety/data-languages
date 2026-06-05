@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ディティダフト語
     auto: true
+  - translation_iso: por
+    name: Língua ditidaht
   - translation_iso: spa
     name: Ditidaht
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フォンクニアン語
     auto: true
+  - translation_iso: por
+    name: Phong-Kniang
+    auto: true
   - translation_iso: spa
     name: Phong-Kniang
     auto: true

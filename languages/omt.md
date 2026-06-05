@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オモティク語
+  - translation_iso: por
+    name: Omotik
+    auto: true
   - translation_iso: spa
     name: Omotik
     auto: true

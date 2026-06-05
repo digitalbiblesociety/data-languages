@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルディン手話
+  - translation_iso: por
+    name: Língua de sinais albanesa
   - translation_iso: spa
     name: lengua de signos albanesa
   - translation_iso: zho

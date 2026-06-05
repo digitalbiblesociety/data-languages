@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウメダ語
     auto: true
+  - translation_iso: por
+    name: Umeda
+    auto: true
   - translation_iso: spa
     name: Umeda
     auto: true

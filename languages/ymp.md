@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤマップ語
     auto: true
+  - translation_iso: por
+    name: yamap
+    auto: true
   - translation_iso: spa
     name: Yamap
   - translation_iso: zho

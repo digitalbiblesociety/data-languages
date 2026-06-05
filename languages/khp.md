@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: カポリ語
     auto: true
+  - translation_iso: por
+    name: Kapori
+    auto: true
   - translation_iso: spa
     name: Kapori
     auto: true

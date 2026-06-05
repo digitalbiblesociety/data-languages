@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ルンドウェ語
     auto: true
+  - translation_iso: por
+    name: Sala
+    auto: true
   - translation_iso: spa
     name: sala
   - translation_iso: zho

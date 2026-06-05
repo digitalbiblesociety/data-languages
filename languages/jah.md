@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジャ・ハット語
     auto: true
+  - translation_iso: por
+    name: Jah Hut
+    auto: true
   - translation_iso: spa
     name: Jah Hut
     auto: true

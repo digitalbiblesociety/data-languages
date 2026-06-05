@@ -28,6 +28,8 @@ translations:
     name: タサワク語
   - translation_iso: kor
     name: 타사와크어
+  - translation_iso: por
+    name: tasawaq
   - translation_iso: spa
     name: Idioma tasawaq
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: ティヴ語
   - translation_iso: kor
     name: 티브어
+  - translation_iso: por
+    name: Língua tiv
   - translation_iso: spa
     name: idioma tiv
   - translation_iso: zho

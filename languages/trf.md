@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: トリニダード・クレオール英語
     auto: true
+  - translation_iso: por
+    name: Crioulo inglês de Trinidad
   - translation_iso: spa
     name: Criollo inglés de Trinidad
     auto: true

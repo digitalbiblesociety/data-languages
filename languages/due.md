@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ウミレイ・ドゥマゲット・アグタ語
     auto: true
+  - translation_iso: por
+    name: Língua umiray dumaget agta
   - translation_iso: spa
     name: Agta Umiray Dumaget
     auto: true

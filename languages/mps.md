@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダリビ語
+  - translation_iso: por
+    name: Língua dadibi
   - translation_iso: spa
     name: Dadibi
     auto: true

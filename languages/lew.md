@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: レド・カイリ語
     auto: true
+  - translation_iso: por
+    name: Língua ledo-kaili
   - translation_iso: spa
     name: Kaili Ledo
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: リトアニア語
   - translation_iso: kor
     name: 리투아니아어
+  - translation_iso: por
+    name: língua lituana
   - translation_iso: spa
     name: lituano
   - translation_iso: zho

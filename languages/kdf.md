@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マムシ語
+  - translation_iso: por
+    name: Mamusi
+    auto: true
   - translation_iso: spa
     name: Mamusi
     auto: true

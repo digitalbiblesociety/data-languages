@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イキズ語
     auto: true
+  - translation_iso: por
+    name: Língua ikizu
   - translation_iso: spa
     name: Ikizu
     auto: true

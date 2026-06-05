@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 발레이벨렌
+  - translation_iso: por
+    name: balaibalan
+    auto: true
   - translation_iso: spa
     name: Balaibalan
     auto: true

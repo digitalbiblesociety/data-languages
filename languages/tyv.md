@@ -28,6 +28,8 @@ translations:
     name: トゥヴァ語
   - translation_iso: kor
     name: 투바어
+  - translation_iso: por
+    name: Língua tuviniana
   - translation_iso: spa
     name: idioma tuvano
   - translation_iso: zho

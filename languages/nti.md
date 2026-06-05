@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナティオロ語
     auto: true
+  - translation_iso: por
+    name: Natioro
+    auto: true
   - translation_iso: spa
     name: Natioro
     auto: true

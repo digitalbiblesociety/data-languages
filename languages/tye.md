@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テイエンガ語
     auto: true
+  - translation_iso: por
+    name: Kyanga
+    auto: true
   - translation_iso: spa
     name: Kyanga
     auto: true

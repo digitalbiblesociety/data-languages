@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルーマニア手話
+  - translation_iso: por
+    name: Língua de Sinais Romena
+    auto: true
   - translation_iso: spa
     name: Lengua de señas rumana
     auto: true

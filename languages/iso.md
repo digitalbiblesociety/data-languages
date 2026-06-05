@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イソコ語
+  - translation_iso: por
+    name: Língua isoco
   - translation_iso: spa
     name: Isoko
     auto: true

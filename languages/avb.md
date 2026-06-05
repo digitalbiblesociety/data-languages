@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アバウ語
     auto: true
+  - translation_iso: por
+    name: Avau
+    auto: true
   - translation_iso: spa
     name: Avau
     auto: true

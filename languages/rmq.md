@@ -28,6 +28,8 @@ translations:
     name: カロー語
   - translation_iso: kor
     name: 칼로어
+  - translation_iso: por
+    name: Caló
   - translation_iso: spa
     name: caló
   - translation_iso: zho

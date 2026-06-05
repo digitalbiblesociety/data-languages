@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アガリア語
+  - translation_iso: por
+    name: Agariya
+    auto: true
   - translation_iso: spa
     name: Agariya
     auto: true

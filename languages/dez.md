@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: デンゲセ語
     auto: true
+  - translation_iso: por
+    name: Dengese
+    auto: true
   - translation_iso: spa
     name: Dengese
     auto: true

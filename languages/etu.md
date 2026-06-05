@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エコイ語
+  - translation_iso: por
+    name: Ejagham
+    auto: true
   - translation_iso: spa
     name: Idioma Ekoi
   - translation_iso: zho

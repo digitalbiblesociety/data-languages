@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イリアネン語
+  - translation_iso: por
+    name: Manobo ilianen
+    auto: true
   - translation_iso: spa
     name: Manobo Ilianen
     auto: true

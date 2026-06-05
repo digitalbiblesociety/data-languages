@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トラキ語
+  - translation_iso: por
+    name: Língua tolaki
   - translation_iso: spa
     name: Tolaki
     auto: true

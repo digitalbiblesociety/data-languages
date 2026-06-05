@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケラ語
+  - translation_iso: por
+    name: Língua kera
   - translation_iso: spa
     name: kera
   - translation_iso: zho

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クルド手話言語
     auto: true
+  - translation_iso: por
+    name: língua de sinais curda
+    auto: true
   - translation_iso: spa
     name: Lengua de señas kurda
     auto: true

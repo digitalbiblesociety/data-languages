@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エテン語
     auto: true
+  - translation_iso: por
+    name: Eten
+    auto: true
   - translation_iso: spa
     name: Eten
     auto: true

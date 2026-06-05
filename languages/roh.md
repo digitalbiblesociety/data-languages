@@ -28,6 +28,8 @@ translations:
     name: ロマンシュ語
   - translation_iso: kor
     name: 로만슈어
+  - translation_iso: por
+    name: romanche
   - translation_iso: spa
     name: romanche
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボロキ語
     auto: true
+  - translation_iso: por
+    name: Boloki
+    auto: true
   - translation_iso: spa
     name: Boloki
     auto: true

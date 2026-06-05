@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イディニ語
     auto: true
+  - translation_iso: por
+    name: yidiny
+    auto: true
   - translation_iso: spa
     name: idioma yidiny
   - translation_iso: zho

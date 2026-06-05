@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラチ語
+  - translation_iso: por
+    name: Lachi
+    auto: true
   - translation_iso: spa
     name: Lachi
     auto: true

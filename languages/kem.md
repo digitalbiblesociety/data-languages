@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケマク語
+  - translation_iso: por
+    name: Língua quémaque
   - translation_iso: spa
     name: Kemak
     auto: true

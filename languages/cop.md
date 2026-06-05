@@ -28,6 +28,8 @@ translations:
     name: コプト・エジプト語
   - translation_iso: kor
     name: 콥트어
+  - translation_iso: por
+    name: copto
   - translation_iso: spa
     name: copto
   - translation_iso: zho

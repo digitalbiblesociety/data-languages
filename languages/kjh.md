@@ -28,6 +28,8 @@ translations:
     name: ハカス語
   - translation_iso: kor
     name: 하카스어
+  - translation_iso: por
+    name: Língua khakas
   - translation_iso: spa
     name: Idioma jakasio
   - translation_iso: zho

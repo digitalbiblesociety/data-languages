@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ンドラングイット語
     auto: true
+  - translation_iso: por
+    name: "Ndra'ngith"
+    auto: true
   - translation_iso: spa
     name: Idioma mangarla
   - translation_iso: zho

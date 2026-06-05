@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タワ語
     auto: true
+  - translation_iso: por
+    name: thawa
+    auto: true
   - translation_iso: spa
     name: idioma thawa
   - translation_iso: zho

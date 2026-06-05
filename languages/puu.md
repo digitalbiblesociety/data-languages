@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プヌ語
+  - translation_iso: por
+    name: punu
   - translation_iso: spa
     name: punu
   - translation_iso: zho

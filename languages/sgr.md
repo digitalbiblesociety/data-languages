@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンギセリー語
+  - translation_iso: por
+    name: Sangisari
+    auto: true
   - translation_iso: spa
     name: Sangisari
     auto: true

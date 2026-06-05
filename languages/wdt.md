@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ウェンダット語
     auto: true
+  - translation_iso: por
+    name: Wendat
+    auto: true
   - translation_iso: spa
     name: Wendat
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベン・テイ・ドゴン語
     auto: true
+  - translation_iso: por
+    name: Dogon Ben Tey
+    auto: true
   - translation_iso: spa
     name: Dogon Ben Tey
     auto: true

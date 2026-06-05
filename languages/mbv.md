@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムブルンギシュ語
     auto: true
+  - translation_iso: por
+    name: Mbulungish
+    auto: true
   - translation_iso: spa
     name: mbulungish
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イェログ語
     auto: true
+  - translation_iso: por
+    name: yelogu
+    auto: true
   - translation_iso: spa
     name: Yelogu
     auto: true

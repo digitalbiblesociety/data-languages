@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アウシ語
     auto: true
+  - translation_iso: por
+    name: Aushi
+    auto: true
   - translation_iso: spa
     name: Aushi
     auto: true

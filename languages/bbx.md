@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ブビア語
     auto: true
+  - translation_iso: por
+    name: Bubia
+    auto: true
   - translation_iso: spa
     name: Bubia
     auto: true

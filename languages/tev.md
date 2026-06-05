@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: テオル語
     auto: true
+  - translation_iso: por
+    name: Teor
+    auto: true
   - translation_iso: spa
     name: Teor
     auto: true

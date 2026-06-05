@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イテリ語
     auto: true
+  - translation_iso: por
+    name: Iteri
+    auto: true
   - translation_iso: spa
     name: Iteri
     auto: true

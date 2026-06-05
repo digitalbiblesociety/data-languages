@@ -30,6 +30,8 @@ translations:
     name: キナライア語
   - translation_iso: kor
     name: 키나라이아 어
+  - translation_iso: por
+    name: língua haraia
   - translation_iso: spa
     name: harayo
   - translation_iso: zho

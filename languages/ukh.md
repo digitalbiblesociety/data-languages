@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ベンコンホ語
     auto: true
+  - translation_iso: por
+    name: Ukhwejo
+    auto: true
   - translation_iso: spa
     name: Ukhwejo
     auto: true

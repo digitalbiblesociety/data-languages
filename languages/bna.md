@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボネラート語
     auto: true
+  - translation_iso: por
+    name: Bonerate
+    auto: true
   - translation_iso: spa
     name: Bonerate
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ジカリラ・アパッチ語
     auto: true
+  - translation_iso: por
+    name: Língua Jicarilla
   - translation_iso: spa
     name: jicarilla
   - translation_iso: zho

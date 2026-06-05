@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: ヌクヌル語
     auto: true
+  - translation_iso: por
+    name: Língua nunukul
   - translation_iso: spa
     name: Idioma nunukul
   - translation_iso: zho

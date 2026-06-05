@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カスキアン語
+  - translation_iso: por
+    name: Kaskean
+    auto: true
   - translation_iso: spa
     name: Kaskeo
     auto: true

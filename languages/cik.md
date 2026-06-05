@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チットクリ・キンナウリ語
     auto: true
+  - translation_iso: por
+    name: Kinnauri de Chitkuli
+    auto: true
   - translation_iso: spa
     name: Chitkuli Kinnauri
     auto: true

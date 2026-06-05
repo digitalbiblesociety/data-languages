@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ディンボング語
     auto: true
+  - translation_iso: por
+    name: Dimbong
+    auto: true
   - translation_iso: spa
     name: Dimbong
     auto: true

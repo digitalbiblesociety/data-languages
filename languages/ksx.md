@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ケダン語
     auto: true
+  - translation_iso: por
+    name: Kedang
+    auto: true
   - translation_iso: spa
     name: Kedang
     auto: true

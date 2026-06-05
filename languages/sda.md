@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トラジャ＝サダン語
+  - translation_iso: por
+    name: "Língua toraja sa'dan"
   - translation_iso: spa
     name: "Toraja-Sa'dan"
     auto: true

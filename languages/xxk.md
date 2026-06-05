@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: ケオ語
     auto: true
+  - translation_iso: por
+    name: "Ke'o"
   - translation_iso: spa
     name: "Ke'o"
   - translation_iso: zho

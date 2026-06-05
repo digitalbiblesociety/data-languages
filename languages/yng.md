@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ヤンゴ語
     auto: true
+  - translation_iso: por
+    name: yango
+    auto: true
   - translation_iso: spa
     name: Yango
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ヤッシック語
     auto: true
+  - translation_iso: por
+    name: iássico
+    auto: true
   - translation_iso: spa
     name: Yásico
     auto: true

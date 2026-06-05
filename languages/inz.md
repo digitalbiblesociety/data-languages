@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イネセーニョ語
     auto: true
+  - translation_iso: por
+    name: Ineseño
+    auto: true
   - translation_iso: spa
     name: ineseño
   - translation_iso: zho

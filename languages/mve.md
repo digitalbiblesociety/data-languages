@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マールワーリー語
+  - translation_iso: por
+    name: marwari (Paquistão)
+    auto: true
   - translation_iso: spa
     name: Marwari (Pakistán)
     auto: true

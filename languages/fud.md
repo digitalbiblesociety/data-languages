@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フトゥナ語
+  - translation_iso: por
+    name: Língua futunana
   - translation_iso: spa
     name: Futunés del Este
     auto: true

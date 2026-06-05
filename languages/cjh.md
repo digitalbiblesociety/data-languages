@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 上チヘリス語
+  - translation_iso: por
+    name: Chehalis superior
+    auto: true
   - translation_iso: spa
     name: Chehalis Alto
     auto: true

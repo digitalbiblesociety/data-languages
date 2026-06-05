@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 桂辺チワン語
+  - translation_iso: por
+    name: zhuang de Guibian
+    auto: true
   - translation_iso: spa
     name: Zhuang de Guibian
     auto: true

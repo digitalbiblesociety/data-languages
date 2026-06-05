@@ -29,6 +29,8 @@ translations:
     name: アバザ語
   - translation_iso: kor
     name: 아바자어
+  - translation_iso: por
+    name: Língua abaza
   - translation_iso: spa
     name: abaza
   - translation_iso: zho

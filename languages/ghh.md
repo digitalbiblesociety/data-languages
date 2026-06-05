@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・ガレ語
     auto: true
+  - translation_iso: por
+    name: ghale do norte
+    auto: true
   - translation_iso: spa
     name: Ghale septentrional
     auto: true

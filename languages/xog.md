@@ -28,6 +28,8 @@ translations:
     name: ソガ語
   - translation_iso: kor
     name: 소가어
+  - translation_iso: por
+    name: Língua lusoga
   - translation_iso: spa
     name: soga
   - translation_iso: zho

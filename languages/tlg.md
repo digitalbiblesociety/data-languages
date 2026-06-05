@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トファンマ語
     auto: true
+  - translation_iso: por
+    name: Tofanma
+    auto: true
   - translation_iso: spa
     name: Idioma tofamna
   - translation_iso: zho

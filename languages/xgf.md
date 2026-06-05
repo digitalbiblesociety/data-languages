@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガブリエリーノ語
+  - translation_iso: por
+    name: Língua tongva
   - translation_iso: spa
     name: Tongva
   - translation_iso: zho

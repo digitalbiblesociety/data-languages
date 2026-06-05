@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アシェニンカ語
+  - translation_iso: por
+    name: asháninka
   - translation_iso: spa
     name: asháninca
   - translation_iso: zho

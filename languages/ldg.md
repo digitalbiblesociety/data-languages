@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レニマ語
     auto: true
+  - translation_iso: por
+    name: Lenyima
+    auto: true
   - translation_iso: spa
     name: Lenyima
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベティ語
     auto: true
+  - translation_iso: por
+    name: Beti (Costa do Marfim)
+    auto: true
   - translation_iso: spa
     name: Beti (Costa de Marfil)
     auto: true

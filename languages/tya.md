@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: フォウポ語
     auto: true
+  - translation_iso: por
+    name: Tauya
+    auto: true
   - translation_iso: spa
     name: Tauya
   - translation_iso: zho

@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: クンガルドゥティイ語
     auto: true
+  - translation_iso: por
+    name: Kungardutyi
+    auto: true
   - translation_iso: spa
     name: Kungardutyi
     auto: true

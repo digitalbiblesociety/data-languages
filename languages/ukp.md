@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウクペ・バヨビリ語
     auto: true
+  - translation_iso: por
+    name: Ukpe-Bayobiri
+    auto: true
   - translation_iso: spa
     name: Ukpe-Bayobiri
     auto: true

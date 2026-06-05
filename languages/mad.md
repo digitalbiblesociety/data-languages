@@ -28,6 +28,8 @@ translations:
     name: マドゥラ語
   - translation_iso: kor
     name: 마두라어
+  - translation_iso: por
+    name: Língua maduresa
   - translation_iso: spa
     name: madurés
   - translation_iso: zho

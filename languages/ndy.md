@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ルトス語
     auto: true
+  - translation_iso: por
+    name: Lutos
+    auto: true
   - translation_iso: spa
     name: Idioma lutos
   - translation_iso: zho

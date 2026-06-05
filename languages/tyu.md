@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クア語
     auto: true
+  - translation_iso: por
+    name: Kua
+    auto: true
   - translation_iso: spa
     name: Kua
   - translation_iso: zho

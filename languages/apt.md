@@ -26,6 +26,8 @@ translations:
     name: अपतानी भाषा
   - translation_iso: jpn
     name: アパタニ語
+  - translation_iso: por
+    name: Língua apatani
   - translation_iso: spa
     name: idioma apatani
   - translation_iso: zho

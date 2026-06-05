@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウレ語
+  - translation_iso: por
+    name: Língua baure
   - translation_iso: spa
     name: baure
   - translation_iso: zho

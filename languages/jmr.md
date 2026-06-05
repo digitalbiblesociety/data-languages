@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カマラ語
     auto: true
+  - translation_iso: por
+    name: Kamara
+    auto: true
   - translation_iso: spa
     name: Kamara
     auto: true

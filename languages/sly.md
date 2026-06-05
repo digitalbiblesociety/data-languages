@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スラヤール語
+  - translation_iso: por
+    name: Selayar
+    auto: true
   - translation_iso: spa
     name: Selayar
     auto: true

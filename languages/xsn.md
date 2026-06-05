@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンガ語
+  - translation_iso: por
+    name: Sanga (Nigéria)
+    auto: true
   - translation_iso: spa
     name: Sanga (Nigeria)
     auto: true

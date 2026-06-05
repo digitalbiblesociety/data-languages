@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ピルラタパ語
     auto: true
+  - translation_iso: por
+    name: Pirlatapa
+    auto: true
   - translation_iso: spa
     name: Pirlatapa
     auto: true

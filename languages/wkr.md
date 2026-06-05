@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: キーレイ・ウーロング語
     auto: true
+  - translation_iso: por
+    name: Keerray-Woorroong
+    auto: true
   - translation_iso: spa
     name: Keerray-Woorroong
     auto: true

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウガンダ手話
+  - translation_iso: por
+    name: Língua de Sinais do Uganda
   - translation_iso: spa
     name: Lengua de señas ugandesa
     auto: true

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティンセルト語
+  - translation_iso: por
+    name: Tetserret
+    auto: true
   - translation_iso: spa
     name: tetserret
   - translation_iso: zho

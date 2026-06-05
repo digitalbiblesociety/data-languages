@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カイムブラワ語
     auto: true
+  - translation_iso: por
+    name: kaimbulawa
+    auto: true
   - translation_iso: spa
     name: Kaimbulawa
     auto: true

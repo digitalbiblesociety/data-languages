@@ -29,6 +29,8 @@ translations:
     name: バオアン語
   - translation_iso: kor
     name: 바오안어
+  - translation_iso: por
+    name: Língua bonã
   - translation_iso: spa
     name: Idioma bonán
   - translation_iso: zho

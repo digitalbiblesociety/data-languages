@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サウジアラビア手話
+  - translation_iso: por
+    name: Língua de Sinais da Arábia Saudita
+    auto: true
   - translation_iso: spa
     name: Lengua de señas saudí
     auto: true

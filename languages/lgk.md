@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リンガラク語
+  - translation_iso: por
+    name: Lingarak
+    auto: true
   - translation_iso: spa
     name: Lingarak
     auto: true

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: イト語
     auto: true
+  - translation_iso: por
+    name: Ito
+    auto: true
   - translation_iso: spa
     name: Ito
     auto: true

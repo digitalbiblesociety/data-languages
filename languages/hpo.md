@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フポン語
     auto: true
+  - translation_iso: por
+    name: Hpon
+    auto: true
   - translation_iso: spa
     name: Hpon
     auto: true

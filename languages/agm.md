@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンガアタハ語
     auto: true
+  - translation_iso: por
+    name: Angaataha
+    auto: true
   - translation_iso: spa
     name: Angaataha
     auto: true

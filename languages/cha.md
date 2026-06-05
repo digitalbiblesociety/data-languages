@@ -28,6 +28,8 @@ translations:
     name: チャモロ語
   - translation_iso: kor
     name: 차모로어
+  - translation_iso: por
+    name: Língua chamorro
   - translation_iso: spa
     name: idioma chamorro
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: サラル語
     auto: true
+  - translation_iso: por
+    name: Selaru
   - translation_iso: spa
     name: Selaru
   - translation_iso: zho

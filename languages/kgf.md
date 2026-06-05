@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クベ語
     auto: true
+  - translation_iso: por
+    name: Kube
+    auto: true
   - translation_iso: spa
     name: Kube
     auto: true

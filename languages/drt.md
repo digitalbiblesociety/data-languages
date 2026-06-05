@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ドレント語
     auto: true
+  - translation_iso: por
+    name: Drents
+    auto: true
   - translation_iso: spa
     name: Drents
     auto: true

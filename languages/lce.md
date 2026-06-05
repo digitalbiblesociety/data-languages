@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セカ族
+  - translation_iso: por
+    name: Loncong
+    auto: true
   - translation_iso: spa
     name: Loncong
     auto: true

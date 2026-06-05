@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナムイ語
+  - translation_iso: por
+    name: Língua namuyi
   - translation_iso: spa
     name: Namuyi
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 카마르어
+  - translation_iso: por
+    name: Kamar
+    auto: true
   - translation_iso: spa
     name: Kamar
     auto: true

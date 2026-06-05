@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ムボイ語
     auto: true
+  - translation_iso: por
+    name: Mboi
+    auto: true
   - translation_iso: spa
     name: Mboi
     auto: true

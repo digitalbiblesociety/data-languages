@@ -29,6 +29,9 @@ translations:
     name: エッゴン語
   - translation_iso: kor
     name: 에곤 어
+  - translation_iso: por
+    name: Eggon
+    auto: true
   - translation_iso: spa
     name: eggon
   - translation_iso: zho

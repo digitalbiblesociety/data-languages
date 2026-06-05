@@ -28,6 +28,8 @@ translations:
     name: 北ンデベレ語
   - translation_iso: kor
     name: 북은데벨레어
+  - translation_iso: por
+    name: língua ndebele do norte
   - translation_iso: spa
     name: ndebele del norte
   - translation_iso: zho

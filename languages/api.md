@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アピアカ語
     auto: true
+  - translation_iso: por
+    name: Língua apiacá
   - translation_iso: spa
     name: Apiaká
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴェストファーレン語
+  - translation_iso: por
+    name: Westfaliano
   - translation_iso: spa
     name: Westfaliano
   - translation_iso: zho

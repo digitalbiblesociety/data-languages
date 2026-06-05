@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バテック語
     auto: true
+  - translation_iso: por
+    name: Batek
+    auto: true
   - translation_iso: spa
     name: Batek
     auto: true

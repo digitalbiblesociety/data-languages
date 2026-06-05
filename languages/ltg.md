@@ -22,6 +22,8 @@ translations:
     name: ラトガリア語
   - translation_iso: kor
     name: 라트갈레어
+  - translation_iso: por
+    name: Língua latgália
   - translation_iso: spa
     name: Idioma latgaliano
   - translation_iso: zho

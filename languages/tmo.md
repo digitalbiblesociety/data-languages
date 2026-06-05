@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テモク語
     auto: true
+  - translation_iso: por
+    name: Temoq
+    auto: true
   - translation_iso: spa
     name: Temoq
     auto: true

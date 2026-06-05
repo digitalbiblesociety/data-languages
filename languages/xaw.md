@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カワイイス語
     auto: true
+  - translation_iso: por
+    name: Língua kawaiisu
   - translation_iso: spa
     name: Kawaiisu
   - translation_iso: zho

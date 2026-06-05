@@ -27,6 +27,8 @@ translations:
     name: मिजु भाषा
   - translation_iso: jpn
     name: ミジュ語
+  - translation_iso: por
+    name: Língua kaman
   - translation_iso: spa
     name: idioma miju
   - translation_iso: zho

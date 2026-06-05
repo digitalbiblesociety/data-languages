@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バイ語
     auto: true
+  - translation_iso: por
+    name: Bai (Sudão do Sul)
+    auto: true
   - translation_iso: spa
     name: Bai (Sudán del Sur)
     auto: true

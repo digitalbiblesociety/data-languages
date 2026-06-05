@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: クンジャ語
     auto: true
+  - translation_iso: por
+    name: Kunja
+    auto: true
   - translation_iso: spa
     name: Kunja
     auto: true

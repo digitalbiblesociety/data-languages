@@ -28,6 +28,8 @@ translations:
     name: 中国手話
   - translation_iso: kor
     name: 중국 수어
+  - translation_iso: por
+    name: língua de sinais chinesa
   - translation_iso: spa
     name: Lengua de Señas China
     auto: true

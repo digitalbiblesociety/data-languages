@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アル＝サイード・ベドウィン手話
+  - translation_iso: por
+    name: Língua de Sinais Beduína de Al-Sayyid
+    auto: true
   - translation_iso: spa
     name: Lengua de señas beduina de Al-Sayyid
     auto: true

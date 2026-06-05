@@ -28,6 +28,8 @@ translations:
     name: サンタル語
   - translation_iso: kor
     name: 산탈어
+  - translation_iso: por
+    name: língua santali
   - translation_iso: spa
     name: idioma santalí
   - translation_iso: zho

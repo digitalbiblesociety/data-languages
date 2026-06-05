@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤンクニチャチャラ語
+  - translation_iso: por
+    name: Yankunytjatjara
   - translation_iso: spa
     name: Yankunytjatjara
   - translation_iso: zho

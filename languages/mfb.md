@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンカ語
+  - translation_iso: por
+    name: Bangka
+    auto: true
   - translation_iso: spa
     name: Bangka
     auto: true

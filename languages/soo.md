@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エヤンシ語
     auto: true
+  - translation_iso: por
+    name: Songo
+    auto: true
   - translation_iso: spa
     name: Songo
     auto: true

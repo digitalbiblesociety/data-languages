@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: ムブンガ語
     auto: true
+  - translation_iso: por
+    name: Mbunga
+    auto: true
   - translation_iso: spa
     name: Mbunga
     auto: true

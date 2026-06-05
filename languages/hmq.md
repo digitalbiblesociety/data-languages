@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東部黔東苗語
+  - translation_iso: por
+    name: Miao Qiandong Oriental
+    auto: true
   - translation_iso: spa
     name: Miao Qiandong oriental
     auto: true

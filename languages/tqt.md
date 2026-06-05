@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 西トトナク語
     auto: true
+  - translation_iso: por
+    name: Totonaco Ocidental
+    auto: true
   - translation_iso: spa
     name: Totonaco occidental
     auto: true

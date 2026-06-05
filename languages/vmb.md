@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バルバラム語
     auto: true
+  - translation_iso: por
+    name: Barbaram
+    auto: true
   - translation_iso: spa
     name: idioma mbabaram
   - translation_iso: zho

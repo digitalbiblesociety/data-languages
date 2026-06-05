@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミドブ語
+  - translation_iso: por
+    name: Midob
+    auto: true
   - translation_iso: spa
     name: midob
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガリグ・イルガル語
     auto: true
+  - translation_iso: por
+    name: Garig-Ilgar
+    auto: true
   - translation_iso: spa
     name: Garig-Ilgar
     auto: true

@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: モロリ語
     auto: true
+  - translation_iso: por
+    name: Morori
+    auto: true
   - translation_iso: spa
     name: Idioma morori
   - translation_iso: zho

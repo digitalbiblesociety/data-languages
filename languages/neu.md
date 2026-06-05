@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ネオ
+  - translation_iso: por
+    name: Língua neo
   - translation_iso: spa
     name: Idioma neo
   - translation_iso: zho

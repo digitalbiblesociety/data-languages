@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ・ギリシア語
+  - translation_iso: por
+    name: yevanic
   - translation_iso: spa
     name: judeogriego
   - translation_iso: zho

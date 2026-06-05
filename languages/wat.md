@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カニヌワ語
     auto: true
+  - translation_iso: por
+    name: Kaninuwa
   - translation_iso: spa
     name: Kaninuwa
     auto: true

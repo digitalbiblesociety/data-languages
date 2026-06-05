@@ -28,6 +28,8 @@ translations:
     name: トルクメン語
   - translation_iso: kor
     name: 투르크멘어
+  - translation_iso: por
+    name: Língua turcomena
   - translation_iso: spa
     name: turcomano
   - translation_iso: zho

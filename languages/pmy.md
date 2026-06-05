@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パプア・マレー語
+  - translation_iso: por
+    name: Malaio Papua
+    auto: true
   - translation_iso: spa
     name: Malayo papú
     auto: true

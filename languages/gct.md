@@ -29,6 +29,8 @@ translations:
     name: コロニア・トバール方言
   - translation_iso: kor
     name: 알레만 콜로네이로어
+  - translation_iso: por
+    name: Alemão colonieiro
   - translation_iso: spa
     name: Alemán coloniero
   - translation_iso: zho

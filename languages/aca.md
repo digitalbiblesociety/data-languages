@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アチャワ語
+  - translation_iso: por
+    name: Língua achagua
   - translation_iso: spa
     name: achagua
   - translation_iso: zho

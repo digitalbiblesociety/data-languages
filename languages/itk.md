@@ -30,6 +30,9 @@ translations:
     name: ユダヤ・イタリア語群
   - translation_iso: kor
     name: 유대 이탈리아어
+  - translation_iso: por
+    name: Judeu-Italiano
+    auto: true
   - translation_iso: spa
     name: lenguas judeo-italianas
   - translation_iso: zho

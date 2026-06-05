@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: マワヤナ語
     auto: true
+  - translation_iso: por
+    name: Língua mawayana
   - translation_iso: spa
     name: mahuayana
   - translation_iso: zho

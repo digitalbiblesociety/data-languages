@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ダホ・ドゥー語
     auto: true
+  - translation_iso: por
+    name: Daho-Doo
+    auto: true
   - translation_iso: spa
     name: Daho-Doo
     auto: true

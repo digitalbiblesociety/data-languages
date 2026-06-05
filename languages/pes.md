@@ -28,6 +28,9 @@ translations:
     name: 西ペルシア語
   - translation_iso: kor
     name: 이란 페르시아어
+  - translation_iso: por
+    name: persa iraniano
+    auto: true
   - translation_iso: spa
     name: Persa iraní
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: フィエ語
     auto: true
+  - translation_iso: por
+    name: Phuie
+    auto: true
   - translation_iso: spa
     name: Phuie
     auto: true

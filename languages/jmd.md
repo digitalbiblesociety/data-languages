@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤムデナ語
+  - translation_iso: por
+    name: Yamdena
   - translation_iso: spa
     name: Yamdena
   - translation_iso: zho

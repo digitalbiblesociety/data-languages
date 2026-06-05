@@ -29,6 +29,8 @@ translations:
     name: 古典チベット語
   - translation_iso: kor
     name: 고전 티베트어
+  - translation_iso: por
+    name: tibetano clássico
   - translation_iso: spa
     name: tibetano clásico
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥルカナ語
+  - translation_iso: por
+    name: Língua turkana
   - translation_iso: spa
     name: turkana
   - translation_iso: zho

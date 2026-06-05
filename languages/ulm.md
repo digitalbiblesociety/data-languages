@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アウォ・スマクユ語
     auto: true
+  - translation_iso: por
+    name: "Ulumanda'"
+    auto: true
   - translation_iso: spa
     name: Ulumanda
     auto: true

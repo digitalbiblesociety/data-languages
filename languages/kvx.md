@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: パルカリ・コリ語
     auto: true
+  - translation_iso: por
+    name: Língua parkari koli
   - translation_iso: spa
     name: Koli Parkari
     auto: true

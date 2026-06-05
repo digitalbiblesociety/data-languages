@@ -20,6 +20,8 @@ translations:
     name: ノルン語
   - translation_iso: kor
     name: 노른어
+  - translation_iso: por
+    name: Norn
   - translation_iso: spa
     name: norn
   - translation_iso: zho

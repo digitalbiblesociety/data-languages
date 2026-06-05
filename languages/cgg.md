@@ -28,6 +28,8 @@ translations:
     name: キガ語
   - translation_iso: kor
     name: 치가어
+  - translation_iso: por
+    name: Língua rukiga
   - translation_iso: spa
     name: kiga
   - translation_iso: zho

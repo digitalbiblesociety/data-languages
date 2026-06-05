@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 国際手話
+  - translation_iso: por
+    name: Gestuno
   - translation_iso: spa
     name: lengua internacional de signos
   - translation_iso: zho

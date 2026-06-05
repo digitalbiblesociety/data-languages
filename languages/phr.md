@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パハリ語
+  - translation_iso: por
+    name: Pahari-Potwari
+    auto: true
   - translation_iso: spa
     name: Pahari-Potwari
     auto: true

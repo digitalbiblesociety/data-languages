@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アバウ語
+  - translation_iso: por
+    name: Abau
+    auto: true
   - translation_iso: spa
     name: Idioma abau
   - translation_iso: zho

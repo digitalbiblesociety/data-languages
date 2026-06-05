@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サダニ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Xadani
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Xadani
     auto: true

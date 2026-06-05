@@ -29,6 +29,9 @@ translations:
     name: グナ語
   - translation_iso: kor
     name: 북에파테어
+  - translation_iso: por
+    name: Efate do Norte
+    auto: true
   - translation_iso: spa
     name: Efate del norte
     auto: true

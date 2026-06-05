@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: チカウアストラ・トリケ語
     auto: true
+  - translation_iso: por
+    name: Língua triqui de chicacahuaxtia
   - translation_iso: spa
     name: triqui de Chicahuaxtla
   - translation_iso: zho

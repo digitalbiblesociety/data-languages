@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: オグバ語
     auto: true
+  - translation_iso: por
+    name: Ogba
   - translation_iso: spa
     name: Ogbah
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: 中高ドイツ語
   - translation_iso: kor
     name: 중세 고지 독일어
+  - translation_iso: por
+    name: Alto-alemão médio
   - translation_iso: spa
     name: alto alemán medio
   - translation_iso: zho

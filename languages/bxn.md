@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブルドゥナ語
     auto: true
+  - translation_iso: por
+    name: Burduna
+    auto: true
   - translation_iso: spa
     name: Burduna
     auto: true

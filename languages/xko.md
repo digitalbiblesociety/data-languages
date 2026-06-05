@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: キオール語
     auto: true
+  - translation_iso: por
+    name: Kiorr
+    auto: true
   - translation_iso: spa
     name: Kiorr
     auto: true

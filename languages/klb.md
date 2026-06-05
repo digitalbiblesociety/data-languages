@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キリワ語
+  - translation_iso: por
+    name: Língua kiliwa
   - translation_iso: spa
     name: idioma kiliwa
   - translation_iso: zho

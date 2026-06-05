@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パウリ・バレリ語
     auto: true
+  - translation_iso: por
+    name: Pauri Bareli
+    auto: true
   - translation_iso: spa
     name: Bareli Pauri
     auto: true

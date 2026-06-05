@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テー語
     auto: true
+  - translation_iso: por
+    name: Tee
+    auto: true
   - translation_iso: spa
     name: Tee
     auto: true

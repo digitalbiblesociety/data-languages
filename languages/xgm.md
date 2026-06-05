@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダルムバル語
     auto: true
+  - translation_iso: por
+    name: Dharumbal
+    auto: true
   - translation_iso: spa
     name: Idioma darumbal
   - translation_iso: zho

@@ -30,6 +30,8 @@ translations:
     name: ナナイ語
   - translation_iso: kor
     name: 나나이어
+  - translation_iso: por
+    name: Língua nanai
   - translation_iso: spa
     name: nanai
   - translation_iso: zho

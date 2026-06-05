@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペアール語
+  - translation_iso: por
+    name: Pear
+    auto: true
   - translation_iso: spa
     name: Pear
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ムリレ語
     auto: true
+  - translation_iso: por
+    name: Língua buglere
   - translation_iso: spa
     name: bocotas
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: ボド語
   - translation_iso: kor
     name: 보도어
+  - translation_iso: por
+    name: Língua bodo
   - translation_iso: spa
     name: idioma bodo
   - translation_iso: zho

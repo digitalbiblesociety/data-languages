@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オリガナウ語
     auto: true
+  - translation_iso: por
+    name: Urigina
+    auto: true
   - translation_iso: spa
     name: Urigina
     auto: true

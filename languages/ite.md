@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イテネ語
     auto: true
+  - translation_iso: por
+    name: Itene
+    auto: true
   - translation_iso: spa
     name: idioma itene
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ホリカチャク語
     auto: true
+  - translation_iso: por
+    name: Língua holikachuk
   - translation_iso: spa
     name: holikachuk
   - translation_iso: zho

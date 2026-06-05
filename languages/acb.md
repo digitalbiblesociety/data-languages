@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アンカ語
     auto: true
+  - translation_iso: por
+    name: Áncá
+    auto: true
   - translation_iso: spa
     name: Áncá
     auto: true

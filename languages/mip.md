@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アパスコ・アポアラ・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Apasco-Apoala
+    auto: true
   - translation_iso: spa
     name: Mixteco de Apasco-Apoala
     auto: true

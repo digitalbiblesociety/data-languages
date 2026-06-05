@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウルルグ語
     auto: true
+  - translation_iso: por
+    name: Wurrugu
+    auto: true
   - translation_iso: spa
     name: Wurrugu
     auto: true

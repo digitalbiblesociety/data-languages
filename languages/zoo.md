@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アスンシオン・ミステペック・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Asunción Mixtepec
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Asunción Mixtepec
     auto: true

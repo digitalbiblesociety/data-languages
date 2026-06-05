@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノヌヤ語
+  - translation_iso: por
+    name: Nonuya
+    auto: true
   - translation_iso: spa
     name: nonuya
   - translation_iso: zho

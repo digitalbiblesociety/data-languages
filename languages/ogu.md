@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オグブロヌアグム語
     auto: true
+  - translation_iso: por
+    name: Ogbronuagum
+    auto: true
   - translation_iso: spa
     name: Ogbronuagum
     auto: true

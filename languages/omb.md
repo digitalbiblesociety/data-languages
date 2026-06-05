@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 東アンバエ語
     auto: true
+  - translation_iso: por
+    name: Ambae Oriental
+    auto: true
   - translation_iso: spa
     name: Ambae oriental
     auto: true

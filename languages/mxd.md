@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: モダン語
     auto: true
+  - translation_iso: por
+    name: Modang
+    auto: true
   - translation_iso: spa
     name: Modang
     auto: true

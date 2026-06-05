@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メンタワイ語
+  - translation_iso: por
+    name: Mentawai
   - translation_iso: spa
     name: mentawai
   - translation_iso: zho

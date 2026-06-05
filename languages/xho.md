@@ -28,6 +28,8 @@ translations:
     name: コサ語
   - translation_iso: kor
     name: 코사어
+  - translation_iso: por
+    name: língua xhosa
   - translation_iso: spa
     name: xhosa
   - translation_iso: zho

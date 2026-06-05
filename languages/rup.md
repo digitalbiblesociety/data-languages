@@ -28,6 +28,8 @@ translations:
     name: アルーマニア語
   - translation_iso: kor
     name: 아로마니아어
+  - translation_iso: por
+    name: língua arromena
   - translation_iso: spa
     name: arrumano
   - translation_iso: zho

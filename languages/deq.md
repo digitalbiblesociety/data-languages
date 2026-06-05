@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: デンディ語
     auto: true
+  - translation_iso: por
+    name: Dendi (República Centro-Africana)
+    auto: true
   - translation_iso: spa
     name: lengua dendi
   - translation_iso: zho

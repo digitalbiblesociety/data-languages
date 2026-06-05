@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダランジ語
     auto: true
+  - translation_iso: por
+    name: Dhalandji
+    auto: true
   - translation_iso: spa
     name: Dhalandji
     auto: true

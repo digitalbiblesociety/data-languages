@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: フーザ語
     auto: true
+  - translation_iso: por
+    name: phuza
+    auto: true
   - translation_iso: spa
     name: Phuza
     auto: true

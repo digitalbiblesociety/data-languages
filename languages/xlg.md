@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古代リグリア語
+  - translation_iso: por
+    name: Língua lígure antiga
   - translation_iso: spa
     name: Antiguo idioma ligur
   - translation_iso: zho

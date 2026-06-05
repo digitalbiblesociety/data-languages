@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 留米語
+  - translation_iso: por
+    name: limi
+    auto: true
   - translation_iso: spa
     name: Limi
     auto: true

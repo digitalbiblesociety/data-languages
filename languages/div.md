@@ -28,6 +28,8 @@ translations:
     name: ディベヒ語
   - translation_iso: kor
     name: 디베히어
+  - translation_iso: por
+    name: Língua divehi
   - translation_iso: spa
     name: maldivo
   - translation_iso: zho

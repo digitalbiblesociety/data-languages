@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヴィゲ語
     auto: true
+  - translation_iso: por
+    name: Viemo
+    auto: true
   - translation_iso: spa
     name: Viemo
     auto: true

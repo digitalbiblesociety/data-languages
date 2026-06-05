@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 東メオハン語
     auto: true
+  - translation_iso: por
+    name: meohang oriental
+    auto: true
   - translation_iso: spa
     name: Meohang Oriental
     auto: true

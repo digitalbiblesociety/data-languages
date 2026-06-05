@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: コアツォスパン・ミステク語
     auto: true
+  - translation_iso: por
+    name: Língua coatzospan mixtec
   - translation_iso: spa
     name: Mixteco de Coatzospan
     auto: true

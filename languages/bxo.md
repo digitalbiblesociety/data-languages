@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バリカンチ語
     auto: true
+  - translation_iso: por
+    name: Barikanchi
+    auto: true
   - translation_iso: spa
     name: Barikanchi
     auto: true

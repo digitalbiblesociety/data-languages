@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タルンガレ語
     auto: true
+  - translation_iso: por
+    name: Tunggare
+    auto: true
   - translation_iso: spa
     name: Tunggare
     auto: true

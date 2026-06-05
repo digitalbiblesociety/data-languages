@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オイ語
     auto: true
+  - translation_iso: por
+    name: Oy
+    auto: true
   - translation_iso: spa
     name: Oy
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ウラルトゥ語
   - translation_iso: kor
     name: 우라르투어
+  - translation_iso: por
+    name: Língua urartita
   - translation_iso: spa
     name: idioma urartiano
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: エンベラ・バウド語
     auto: true
+  - translation_iso: por
+    name: Emberá-Baudó
+    auto: true
   - translation_iso: spa
     name: Emberá-Baudó
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: タヒチ語
   - translation_iso: kor
     name: 타히티어
+  - translation_iso: por
+    name: taitiano
   - translation_iso: spa
     name: tahitiano
   - translation_iso: zho

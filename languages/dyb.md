@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャビルジャビル語
+  - translation_iso: por
+    name: Dyaberdyaber
+    auto: true
   - translation_iso: spa
     name: Dyaberdyaber
     auto: true

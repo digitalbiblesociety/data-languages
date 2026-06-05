@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: フォロ語
     auto: true
+  - translation_iso: por
+    name: pholo
+    auto: true
   - translation_iso: spa
     name: Pholo
     auto: true

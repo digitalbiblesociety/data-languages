@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アラグワ語
     auto: true
+  - translation_iso: por
+    name: Alagwa
+    auto: true
   - translation_iso: spa
     name: Alagwa
     auto: true

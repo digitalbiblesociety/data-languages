@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: メキシコ州オトミ語
     auto: true
+  - translation_iso: por
+    name: otomi do Estado do México
+    auto: true
   - translation_iso: spa
     name: otomí del Estado de México
   - translation_iso: zho

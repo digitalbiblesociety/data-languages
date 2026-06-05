@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アアサックス語
     auto: true
+  - translation_iso: por
+    name: Aasáx
+    auto: true
   - translation_iso: spa
     name: Aasax
   - translation_iso: zho

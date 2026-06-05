@@ -28,6 +28,8 @@ translations:
     name: タミル語
   - translation_iso: kor
     name: 타밀어
+  - translation_iso: por
+    name: Língua tâmil
   - translation_iso: spa
     name: tamil
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 고투오어
+  - translation_iso: por
+    name: Ghotuo
+    auto: true
   - translation_iso: spa
     name: ghotou
   - translation_iso: zho

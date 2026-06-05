@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: グロマ語
     auto: true
+  - translation_iso: por
+    name: Groma
+    auto: true
   - translation_iso: spa
     name: Groma
     auto: true

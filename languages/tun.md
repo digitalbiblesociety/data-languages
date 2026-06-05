@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥニカ語
+  - translation_iso: por
+    name: Língua tunica
   - translation_iso: spa
     name: Tunica
   - translation_iso: zho

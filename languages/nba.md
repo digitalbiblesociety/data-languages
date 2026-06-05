@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニエンバ語
     auto: true
+  - translation_iso: por
+    name: Nyemba
+    auto: true
   - translation_iso: spa
     name: Idioma nyemba
   - translation_iso: zho

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリ語
+  - translation_iso: por
+    name: Língua bari
   - translation_iso: spa
     name: Bari
     auto: true

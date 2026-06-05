@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プラスーン語
+  - translation_iso: por
+    name: Prasuni
+    auto: true
   - translation_iso: spa
     name: Idioma prasun
   - translation_iso: zho

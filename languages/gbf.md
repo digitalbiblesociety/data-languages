@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガイクンディ語
     auto: true
+  - translation_iso: por
+    name: Gaikundi
+    auto: true
   - translation_iso: spa
     name: Gaikundi
     auto: true

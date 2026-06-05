@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エムム語
     auto: true
+  - translation_iso: por
+    name: Emumu
+    auto: true
   - translation_iso: spa
     name: Emumu
     auto: true

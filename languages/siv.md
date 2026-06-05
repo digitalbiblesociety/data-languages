@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラトマ語
     auto: true
+  - translation_iso: por
+    name: Sumariup
+    auto: true
   - translation_iso: spa
     name: Sumariup
     auto: true

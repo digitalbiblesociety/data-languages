@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リクバクチァ語
+  - translation_iso: por
+    name: Língua rikbaktsa
   - translation_iso: spa
     name: idioma rikbaktsá
   - translation_iso: zho

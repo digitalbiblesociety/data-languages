@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウルアヴァ語
     auto: true
+  - translation_iso: por
+    name: Uruava
+    auto: true
   - translation_iso: spa
     name: Idioma uruava
   - translation_iso: zho

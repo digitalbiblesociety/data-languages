@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タイオフ語
     auto: true
+  - translation_iso: por
+    name: Saposa
+    auto: true
   - translation_iso: spa
     name: saposa
   - translation_iso: zho

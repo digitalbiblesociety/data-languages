@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヒダッサ語
+  - translation_iso: por
+    name: Língua hidatsa
   - translation_iso: spa
     name: Hidatsa
   - translation_iso: zho

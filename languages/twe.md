@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: テワ語
     auto: true
+  - translation_iso: por
+    name: Língua teiwa
   - translation_iso: spa
     name: Tewa (Indonesia)
     auto: true

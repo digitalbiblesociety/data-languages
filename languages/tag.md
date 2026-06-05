@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タゴイ語
     auto: true
+  - translation_iso: por
+    name: Tagoi
+    auto: true
   - translation_iso: spa
     name: Tagoi
     auto: true

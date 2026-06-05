@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムンドゥ語
     auto: true
+  - translation_iso: por
+    name: Mündü
+    auto: true
   - translation_iso: spa
     name: Mündü
     auto: true

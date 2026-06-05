@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ターラカ語
     auto: true
+  - translation_iso: por
+    name: Tharaka
+    auto: true
   - translation_iso: spa
     name: Tharaka
     auto: true

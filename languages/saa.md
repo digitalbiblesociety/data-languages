@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジェルクング語
     auto: true
+  - translation_iso: por
+    name: Saba
+    auto: true
   - translation_iso: spa
     name: Saba
     auto: true

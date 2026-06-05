@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イバロイ語
     auto: true
+  - translation_iso: por
+    name: Língua ibaloi
   - translation_iso: spa
     name: ivadoy
   - translation_iso: zho

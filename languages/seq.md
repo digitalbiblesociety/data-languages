@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シェナラ・セヌフォ語
+  - translation_iso: por
+    name: Senufo Senara
+    auto: true
   - translation_iso: spa
     name: Senoufo Senara
     auto: true

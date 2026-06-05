@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: インク語
+  - translation_iso: por
+    name: Jakati
+    auto: true
   - translation_iso: spa
     name: Jakati
     auto: true

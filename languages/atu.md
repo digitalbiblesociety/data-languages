@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Reel語
+  - translation_iso: por
+    name: Reel
+    auto: true
   - translation_iso: spa
     name: Reel
     auto: true

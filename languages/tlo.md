@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タロディ語
     auto: true
+  - translation_iso: por
+    name: Talodi
+    auto: true
   - translation_iso: spa
     name: Talodi
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ムブム語
     auto: true
+  - translation_iso: por
+    name: Língua mbum
   - translation_iso: spa
     name: Mbum
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イヨフワハ・チョロテ語
     auto: true
+  - translation_iso: por
+    name: "Chorote Iyojwa'ja"
+    auto: true
   - translation_iso: spa
     name: "Chorote iyojwa'ja"
   - translation_iso: zho

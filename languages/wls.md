@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウォリス語
+  - translation_iso: por
+    name: Língua wallisiana
   - translation_iso: spa
     name: walisiano
   - translation_iso: zho

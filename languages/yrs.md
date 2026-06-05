@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ヤルスン語
     auto: true
+  - translation_iso: por
+    name: yarsun
+    auto: true
   - translation_iso: spa
     name: Yarsun
     auto: true

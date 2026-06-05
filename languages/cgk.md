@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チョチャガチャ語
+  - translation_iso: por
+    name: Chocangacakha
+    auto: true
   - translation_iso: spa
     name: Chocangacakha
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サルバドル手話
+  - translation_iso: por
+    name: Língua de Sinais Salvadorenha
+    auto: true
   - translation_iso: spa
     name: lengua de señas salvadoreñas
   - translation_iso: zho

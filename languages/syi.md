@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セケ語
+  - translation_iso: por
+    name: Seki
+    auto: true
   - translation_iso: spa
     name: seki
   - translation_iso: zho

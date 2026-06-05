@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ギヌマン語
     auto: true
+  - translation_iso: por
+    name: Ginuman
+    auto: true
   - translation_iso: spa
     name: Ginuman
     auto: true

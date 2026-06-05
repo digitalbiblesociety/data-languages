@@ -28,6 +28,8 @@ translations:
     name: ナバホ語
   - translation_iso: kor
     name: 나바호어
+  - translation_iso: por
+    name: Língua navaja
   - translation_iso: spa
     name: navajo
   - translation_iso: zho

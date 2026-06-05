@@ -30,6 +30,8 @@ translations:
     name: セダン語
   - translation_iso: kor
     name: 세당어
+  - translation_iso: por
+    name: Língua sedang
   - translation_iso: spa
     name: Sedang
     auto: true

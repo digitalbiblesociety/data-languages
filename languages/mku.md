@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コニャンカ・マニンカ語
     auto: true
+  - translation_iso: por
+    name: maninca de Konyanka
+    auto: true
   - translation_iso: spa
     name: Maninka Konyanka
     auto: true

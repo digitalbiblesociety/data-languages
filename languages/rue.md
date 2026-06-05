@@ -29,6 +29,8 @@ translations:
     name: ルシン語
   - translation_iso: kor
     name: 루신어
+  - translation_iso: por
+    name: Língua rusyn
   - translation_iso: spa
     name: rusino
   - translation_iso: zho

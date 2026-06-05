@@ -21,6 +21,8 @@ translations:
     name: マールワーリー語
   - translation_iso: kor
     name: 마르와리어
+  - translation_iso: por
+    name: língua marwari
   - translation_iso: spa
     name: marwari
   - translation_iso: zho

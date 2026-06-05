@@ -25,6 +25,8 @@ translations:
     name: नाइजीरियाई सांकेतिक भाषा
   - translation_iso: jpn
     name: ナイジェリア手話
+  - translation_iso: por
+    name: Língua de Sinais Nigeriana
   - translation_iso: spa
     name: Lengua de Señas de Nigeria
     auto: true

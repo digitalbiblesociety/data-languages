@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アフワイ語
     auto: true
+  - translation_iso: por
+    name: Ahwai
+    auto: true
   - translation_iso: spa
     name: Ahwai
     auto: true

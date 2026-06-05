@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モゴフィン語
     auto: true
+  - translation_iso: por
+    name: Mogofin
+    auto: true
   - translation_iso: spa
     name: Mogofin
     auto: true

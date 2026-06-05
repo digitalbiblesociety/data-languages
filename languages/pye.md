@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: パイクルーメン語
     auto: true
+  - translation_iso: por
+    name: Krumen Pye
+    auto: true
   - translation_iso: spa
     name: Krumen Pye
     auto: true

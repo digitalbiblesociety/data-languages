@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンカ語
+  - translation_iso: por
+    name: Bankagooma
+    auto: true
   - translation_iso: spa
     name: Bankagooma
     auto: true

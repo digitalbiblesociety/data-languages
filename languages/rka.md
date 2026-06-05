@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クラオル語
     auto: true
+  - translation_iso: por
+    name: Kraol
+    auto: true
   - translation_iso: spa
     name: Kraol
     auto: true

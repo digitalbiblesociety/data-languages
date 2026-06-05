@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サワイ語
+  - translation_iso: por
+    name: Sawai
+    auto: true
   - translation_iso: spa
     name: Sawai
     auto: true

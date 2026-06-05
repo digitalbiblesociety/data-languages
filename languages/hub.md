@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: フアンビサ語
     auto: true
+  - translation_iso: por
+    name: Língua huambisa
   - translation_iso: spa
     name: huambisa
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イネ語
+  - translation_iso: por
+    name: Língua yine
   - translation_iso: spa
     name: yine
   - translation_iso: zho

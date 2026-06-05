@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サマタオ語
     auto: true
+  - translation_iso: por
+    name: samatao
+    auto: true
   - translation_iso: spa
     name: Samatao
     auto: true

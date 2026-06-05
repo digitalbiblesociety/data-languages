@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東ポー語
+  - translation_iso: por
+    name: Língua pwo leste
   - translation_iso: spa
     name: Karen Pwo Oriental
     auto: true

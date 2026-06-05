@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カラナディ語
     auto: true
+  - translation_iso: por
+    name: Kalanadi
+    auto: true
   - translation_iso: spa
     name: Kalanadi
     auto: true

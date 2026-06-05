@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ソンハ語
     auto: true
+  - translation_iso: por
+    name: Sonha
+    auto: true
   - translation_iso: spa
     name: Sonha
     auto: true

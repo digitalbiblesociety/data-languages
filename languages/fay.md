@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 南西ファルス語
     auto: true
+  - translation_iso: por
+    name: fars do sudoeste
+    auto: true
   - translation_iso: spa
     name: Fars del Suroeste
     auto: true

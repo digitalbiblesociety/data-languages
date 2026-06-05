@@ -29,6 +29,8 @@ translations:
     name: チアチア語
   - translation_iso: kor
     name: 찌아찌아어
+  - translation_iso: por
+    name: Língua cia-cia
   - translation_iso: spa
     name: Idioma cia-cia
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西アベナキ語
+  - translation_iso: por
+    name: Abnaki Ocidental
+    auto: true
   - translation_iso: spa
     name: Abenaki occidental
     auto: true

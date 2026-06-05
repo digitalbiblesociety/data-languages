@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アラナダン語
     auto: true
+  - translation_iso: por
+    name: Aranadan
+    auto: true
   - translation_iso: spa
     name: Aranadan
     auto: true

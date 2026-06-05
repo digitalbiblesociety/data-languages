@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ココパ語
+  - translation_iso: por
+    name: cocopah
   - translation_iso: spa
     name: cucapá
   - translation_iso: zho

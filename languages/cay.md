@@ -28,6 +28,8 @@ translations:
     name: カユーガ語
   - translation_iso: kor
     name: 카유가어
+  - translation_iso: por
+    name: cayuga
   - translation_iso: spa
     name: Cayuga
   - translation_iso: zho

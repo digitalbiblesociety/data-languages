@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ググベラ語
     auto: true
+  - translation_iso: por
+    name: Gugubera
+    auto: true
   - translation_iso: spa
     name: Idioma koko-bera
   - translation_iso: zho

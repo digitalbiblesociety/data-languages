@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マルファクサル語
     auto: true
+  - translation_iso: por
+    name: Malfaxal
+    auto: true
   - translation_iso: spa
     name: Malfaxal
     auto: true

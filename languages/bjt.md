@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バランタ・ガンジャ語
     auto: true
+  - translation_iso: por
+    name: Balanta-Ganja
+    auto: true
   - translation_iso: spa
     name: Balanta-Ganja
     auto: true

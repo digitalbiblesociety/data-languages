@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムリク語
     auto: true
+  - translation_iso: por
+    name: Murik (Malásia)
+    auto: true
   - translation_iso: spa
     name: Murik (Malasia)
     auto: true

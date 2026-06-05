@@ -27,6 +27,8 @@ translations:
     name: बंजारा भाषा
   - translation_iso: jpn
     name: ランバディ語
+  - translation_iso: por
+    name: Língua lambadi
   - translation_iso: spa
     name: Lambadi
     auto: true

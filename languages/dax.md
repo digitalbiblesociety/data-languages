@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ダイ語
     auto: true
+  - translation_iso: por
+    name: Dayi
+    auto: true
   - translation_iso: spa
     name: Dayi
     auto: true

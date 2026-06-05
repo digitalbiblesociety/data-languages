@@ -25,6 +25,8 @@ translations:
     name: भारतीय सांकेतिक भाषा
   - translation_iso: jpn
     name: インド手話
+  - translation_iso: por
+    name: língua de sinais indiana
   - translation_iso: spa
     name: lengua de señas india
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヌクナ語
     auto: true
+  - translation_iso: por
+    name: Nukna
+    auto: true
   - translation_iso: spa
     name: Nukna
     auto: true

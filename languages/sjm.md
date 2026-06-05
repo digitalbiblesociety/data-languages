@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バホ語
     auto: true
+  - translation_iso: por
+    name: Mapun
+    auto: true
   - translation_iso: spa
     name: Mapun
     auto: true

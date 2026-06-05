@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アマトラン・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Amatlán
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Amatlán
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シビア手話
     auto: true
+  - translation_iso: por
+    name: Língua de Sinais de Sivia
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Sivia
     auto: true

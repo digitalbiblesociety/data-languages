@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タンガル・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Thangal
+    auto: true
   - translation_iso: spa
     name: Naga Thangal
     auto: true

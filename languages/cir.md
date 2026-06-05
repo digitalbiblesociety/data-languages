@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティンリン語
+  - translation_iso: por
+    name: Tiri
+    auto: true
   - translation_iso: spa
     name: Tiri
     auto: true

@@ -27,6 +27,8 @@ translations:
     name: タールタン語
   - translation_iso: kor
     name: 탈탄어
+  - translation_iso: por
+    name: Língua tahltan
   - translation_iso: spa
     name: tahltan
   - translation_iso: zho

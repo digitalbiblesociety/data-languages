@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: デューク語
     auto: true
+  - translation_iso: por
+    name: Duke
+    auto: true
   - translation_iso: spa
     name: Nduke
   - translation_iso: zho

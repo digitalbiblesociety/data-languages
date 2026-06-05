@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リベリア・クペレ語
+  - translation_iso: por
+    name: Kpelle da Libéria
+    auto: true
   - translation_iso: spa
     name: Kpelle de Liberia
     auto: true

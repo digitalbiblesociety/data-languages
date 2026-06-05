@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボンギリ語
+  - translation_iso: por
+    name: Bongili
+    auto: true
   - translation_iso: spa
     name: Bongili
     auto: true

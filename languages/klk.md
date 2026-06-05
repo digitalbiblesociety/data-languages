@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コノ語
     auto: true
+  - translation_iso: por
+    name: Kono (Nigéria)
+    auto: true
   - translation_iso: spa
     name: Kono (Nigeria)
     auto: true

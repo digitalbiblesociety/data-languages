@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リビア手話
+  - translation_iso: por
+    name: Língua de Sinais Líbia
+    auto: true
   - translation_iso: spa
     name: Lengua de señas libia
     auto: true

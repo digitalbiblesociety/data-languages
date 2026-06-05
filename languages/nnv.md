@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヌグヌ語
     auto: true
+  - translation_iso: por
+    name: Nugunu (Austrália)
+    auto: true
   - translation_iso: spa
     name: Idioma nukunu
   - translation_iso: zho

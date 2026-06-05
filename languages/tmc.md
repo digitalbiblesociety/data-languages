@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: トゥマク語
     auto: true
+  - translation_iso: por
+    name: Língua tumak
   - translation_iso: spa
     name: Tumak
     auto: true

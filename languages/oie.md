@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オコリエ語
     auto: true
+  - translation_iso: por
+    name: Okolie
+    auto: true
   - translation_iso: spa
     name: Okolie
     auto: true

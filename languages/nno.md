@@ -21,6 +21,8 @@ translations:
     name: ニーノシュク
   - translation_iso: kor
     name: 노르웨이어 뉘노르스크
+  - translation_iso: por
+    name: novo norueguês
   - translation_iso: spa
     name: nynorsk
   - translation_iso: zho

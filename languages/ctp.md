@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・ハイランド・チャティーノ語
     auto: true
+  - translation_iso: por
+    name: Chatino das Terras Altas Ocidentais
+    auto: true
   - translation_iso: spa
     name: Chatino central
   - translation_iso: zho

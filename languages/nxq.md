@@ -30,6 +30,8 @@ translations:
     name: ナシ語
   - translation_iso: kor
     name: 나시어
+  - translation_iso: por
+    name: Língua naxi
   - translation_iso: spa
     name: Naxi
     auto: true

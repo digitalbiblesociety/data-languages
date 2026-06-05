@@ -29,6 +29,8 @@ translations:
     name: ドマリ語
   - translation_iso: kor
     name: 도마리어
+  - translation_iso: por
+    name: Língua domari
   - translation_iso: spa
     name: domarí
   - translation_iso: zho

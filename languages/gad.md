@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ガッダン語
     auto: true
+  - translation_iso: por
+    name: Língua gaddang
   - translation_iso: spa
     name: gaddang
   - translation_iso: zho

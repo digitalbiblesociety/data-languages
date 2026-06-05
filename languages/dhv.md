@@ -30,6 +30,9 @@ translations:
     name: ドレウ語
   - translation_iso: kor
     name: 데후어
+  - translation_iso: por
+    name: Dehu
+    auto: true
   - translation_iso: spa
     name: Idioma drehu
   - translation_iso: zho

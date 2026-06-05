@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クングガリ語
     auto: true
+  - translation_iso: por
+    name: Kunggari
+    auto: true
   - translation_iso: spa
     name: Kunggari
     auto: true

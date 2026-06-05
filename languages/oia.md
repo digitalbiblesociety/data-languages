@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: オイラタ語
     auto: true
+  - translation_iso: por
+    name: Oirata
   - translation_iso: spa
     name: Idioma oirata
   - translation_iso: zho

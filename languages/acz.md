@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: アケロン語
     auto: true
+  - translation_iso: por
+    name: Língua acheron
   - translation_iso: spa
     name: acheron
   - translation_iso: zho

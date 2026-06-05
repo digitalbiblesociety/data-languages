@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボルグ・フルフルディ語
+  - translation_iso: por
+    name: fulfulde de Borgu
+    auto: true
   - translation_iso: spa
     name: Fulfulde de Borgu
     auto: true

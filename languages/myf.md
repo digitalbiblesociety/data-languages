@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: バンバッシ語
     auto: true
+  - translation_iso: por
+    name: Língua bambassu
   - translation_iso: spa
     name: Bambassi
     auto: true

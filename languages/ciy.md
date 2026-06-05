@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チャイマ語
     auto: true
+  - translation_iso: por
+    name: Chaima
+    auto: true
   - translation_iso: spa
     name: Chaima
   - translation_iso: zho

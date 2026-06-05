@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: シリ語
     auto: true
+  - translation_iso: por
+    name: Língua xiri
   - translation_iso: spa
     name: Xiri
     auto: true

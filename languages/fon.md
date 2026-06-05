@@ -28,6 +28,8 @@ translations:
     name: フォン語
   - translation_iso: kor
     name: 폰어
+  - translation_iso: por
+    name: Língua fon
   - translation_iso: spa
     name: idioma fon
   - translation_iso: zho

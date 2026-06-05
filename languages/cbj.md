@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: エデ・カベ語
     auto: true
+  - translation_iso: por
+    name: Ede Cabe
+    auto: true
   - translation_iso: spa
     name: Ede Cabe
     auto: true

@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イラヌン語
+  - translation_iso: por
+    name: Iranun (Filipinas)
+    auto: true
   - translation_iso: spa
     name: Iranun (Filipinas)
     auto: true

@@ -30,6 +30,8 @@ translations:
     name: 山地マリ語
   - translation_iso: kor
     name: 산지 마리어
+  - translation_iso: por
+    name: mari ocidental
   - translation_iso: spa
     name: mari de las colinas
   - translation_iso: zho

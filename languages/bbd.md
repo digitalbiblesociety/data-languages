@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バウ語
     auto: true
+  - translation_iso: por
+    name: Bau
+    auto: true
   - translation_iso: spa
     name: Bau
     auto: true

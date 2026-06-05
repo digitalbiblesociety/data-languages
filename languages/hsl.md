@@ -26,6 +26,8 @@ translations:
     name: हौसा सांकेतिक भाषा
   - translation_iso: jpn
     name: ハウサ手話
+  - translation_iso: por
+    name: Língua Gestual Hausa
   - translation_iso: spa
     name: Lengua de señas hausa
     auto: true

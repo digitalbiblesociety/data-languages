@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クロアチア手話
+  - translation_iso: por
+    name: Língua de sinais croata
   - translation_iso: spa
     name: Lengua de Señas de Croacia
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミアン語
     auto: true
+  - translation_iso: por
+    name: Mian
+    auto: true
   - translation_iso: spa
     name: Mian
     auto: true

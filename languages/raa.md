@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダンマリ語
     auto: true
+  - translation_iso: por
+    name: Dungmali
+    auto: true
   - translation_iso: spa
     name: Dungmali
     auto: true

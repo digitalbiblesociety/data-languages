@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティアン語
+  - translation_iso: por
+    name: Tiang
+    auto: true
   - translation_iso: spa
     name: Tiang
     auto: true

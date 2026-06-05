@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウェネティ語
+  - translation_iso: por
+    name: Língua venética
   - translation_iso: spa
     name: venético
   - translation_iso: zho

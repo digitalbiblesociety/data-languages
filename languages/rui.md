@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルフィジ語
     auto: true
+  - translation_iso: por
+    name: Rufiji
+    auto: true
   - translation_iso: spa
     name: Rufiji
     auto: true

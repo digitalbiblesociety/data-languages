@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: スヤ語
     auto: true
+  - translation_iso: por
+    name: Língua suiá
   - translation_iso: spa
     name: Suyá
     auto: true

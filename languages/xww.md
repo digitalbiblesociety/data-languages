@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: ウェンバ・ウェンバ語
     auto: true
+  - translation_iso: por
+    name: Língua wemba wemba
   - translation_iso: spa
     name: Idioma wemba-wemba
   - translation_iso: zho

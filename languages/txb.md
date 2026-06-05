@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クチャ語
+  - translation_iso: por
+    name: Tocário B
+    auto: true
   - translation_iso: spa
     name: Tocario B
     auto: true

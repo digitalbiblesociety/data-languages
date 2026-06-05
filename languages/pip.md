@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ペロ語
     auto: true
+  - translation_iso: por
+    name: Pero
+    auto: true
   - translation_iso: spa
     name: Pero
     auto: true

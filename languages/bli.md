@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボリア語
     auto: true
+  - translation_iso: por
+    name: Bolia
+    auto: true
   - translation_iso: spa
     name: Bolia
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラハ語
     auto: true
+  - translation_iso: por
+    name: Laha (Indonésia)
+    auto: true
   - translation_iso: spa
     name: Laha
     auto: true

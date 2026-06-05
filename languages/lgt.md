@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パヒ語
     auto: true
+  - translation_iso: por
+    name: Pahi
+    auto: true
   - translation_iso: spa
     name: Pahi
     auto: true

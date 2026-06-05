@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウナンバル語
     auto: true
+  - translation_iso: por
+    name: Wunambal
+    auto: true
   - translation_iso: spa
     name: wunambal
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブドン・ブドン語
     auto: true
+  - translation_iso: por
+    name: Budong-Budong
+    auto: true
   - translation_iso: spa
     name: Budong-Budong
     auto: true

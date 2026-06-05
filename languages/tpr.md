@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: トゥパリ語
     auto: true
+  - translation_iso: por
+    name: Língua tupari
   - translation_iso: spa
     name: Tuparí
     auto: true

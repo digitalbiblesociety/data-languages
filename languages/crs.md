@@ -28,6 +28,8 @@ translations:
     name: セーシェル・クレオール語
   - translation_iso: kor
     name: 세이셸 크리올
+  - translation_iso: por
+    name: Crioulo de Seychelles
   - translation_iso: spa
     name: criollo seychelense
   - translation_iso: zho

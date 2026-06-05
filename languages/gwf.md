@@ -27,6 +27,9 @@ translations:
     name: गोवरो भाषा
   - translation_iso: jpn
     name: ゴウロ語
+  - translation_iso: por
+    name: Gowro
+    auto: true
   - translation_iso: spa
     name: Gowro
     auto: true

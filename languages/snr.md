@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シハン語
     auto: true
+  - translation_iso: por
+    name: Sihan
+    auto: true
   - translation_iso: spa
     name: Sihan
     auto: true

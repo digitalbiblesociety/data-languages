@@ -30,6 +30,8 @@ translations:
     name: 北タイ語
   - translation_iso: kor
     name: 북부 태국어
+  - translation_iso: por
+    name: Língua tai norte
   - translation_iso: spa
     name: idioma tailandés septentrional
   - translation_iso: zho

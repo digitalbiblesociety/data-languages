@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カメルーン・ピジン
+  - translation_iso: por
+    name: Pidgin dos Camarões
+    auto: true
   - translation_iso: spa
     name: Camerunés criollo
   - translation_iso: zho

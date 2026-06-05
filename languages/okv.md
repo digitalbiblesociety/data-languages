@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オロカイヴァ語
+  - translation_iso: por
+    name: Orokaiva
+    auto: true
   - translation_iso: spa
     name: Orokaiva
     auto: true

@@ -27,6 +27,8 @@ translations:
     name: 北西部オジブワ語
   - translation_iso: kor
     name: 북서부 오지브와어
+  - translation_iso: por
+    name: ojibwa do noroeste
   - translation_iso: spa
     name: ojibwa noroccidental
   - translation_iso: zho

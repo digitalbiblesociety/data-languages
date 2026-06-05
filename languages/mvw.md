@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マチンガ語
     auto: true
+  - translation_iso: por
+    name: Machinga
+    auto: true
   - translation_iso: spa
     name: Machinga
     auto: true

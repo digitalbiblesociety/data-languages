@@ -27,6 +27,9 @@ translations:
     name: バンギメ語
   - translation_iso: kor
     name: 방기메어
+  - translation_iso: por
+    name: Bangime
+    auto: true
   - translation_iso: spa
     name: Idioma bangime
   - translation_iso: zho

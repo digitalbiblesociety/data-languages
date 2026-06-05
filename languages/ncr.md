@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンカネ語
     auto: true
+  - translation_iso: por
+    name: Ncane
+    auto: true
   - translation_iso: spa
     name: Ncane
     auto: true

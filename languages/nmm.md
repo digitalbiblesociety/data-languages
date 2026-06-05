@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マナン語
+  - translation_iso: por
+    name: Manangba
+    auto: true
   - translation_iso: spa
     name: Manangba
     auto: true

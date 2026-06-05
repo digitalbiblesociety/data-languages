@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アグ語
     auto: true
+  - translation_iso: por
+    name: Aghu
   - translation_iso: spa
     name: Aghu
   - translation_iso: zho

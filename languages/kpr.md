@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コラフェ・イェガ語
     auto: true
+  - translation_iso: por
+    name: Korafe-Yegha
+    auto: true
   - translation_iso: spa
     name: Korafe-Yegha
     auto: true

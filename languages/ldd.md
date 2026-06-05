@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ルリ語
     auto: true
+  - translation_iso: por
+    name: Luri
+    auto: true
   - translation_iso: spa
     name: Luri
     auto: true

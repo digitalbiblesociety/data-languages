@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: メニャ語
     auto: true
+  - translation_iso: por
+    name: Língua menya
   - translation_iso: spa
     name: Menya
     auto: true

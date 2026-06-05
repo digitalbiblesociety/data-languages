@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: スピティ語
     auto: true
+  - translation_iso: por
+    name: Spiti Bhoti
+    auto: true
   - translation_iso: spa
     name: Spiti Bhoti
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カマン語
+  - translation_iso: por
+    name: Kamang
+    auto: true
   - translation_iso: spa
     name: Kamang
     auto: true

@@ -22,6 +22,9 @@ translations:
     name: セミガリア語
   - translation_iso: kor
     name: 세미갈리아어
+  - translation_iso: por
+    name: zemgálio
+    auto: true
   - translation_iso: spa
     name: semigalio
   - translation_iso: zho

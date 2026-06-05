@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イナンワタン語
+  - translation_iso: por
+    name: Suabo
+    auto: true
   - translation_iso: spa
     name: Suabo
     auto: true

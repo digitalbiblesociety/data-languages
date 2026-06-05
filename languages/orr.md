@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オルマ語
     auto: true
+  - translation_iso: por
+    name: Oruma
+    auto: true
   - translation_iso: spa
     name: oruma
   - translation_iso: zho

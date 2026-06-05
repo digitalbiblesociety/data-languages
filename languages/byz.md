@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バナロ語
     auto: true
+  - translation_iso: por
+    name: Banaro
+    auto: true
   - translation_iso: spa
     name: Banaro
     auto: true

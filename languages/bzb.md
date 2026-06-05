@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アンディオ語
     auto: true
+  - translation_iso: por
+    name: Andio
   - translation_iso: spa
     name: andio
   - translation_iso: zho

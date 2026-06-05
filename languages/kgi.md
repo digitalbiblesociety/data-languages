@@ -26,6 +26,8 @@ translations:
     name: सेलांगोर साइन लैंग्वेज
   - translation_iso: jpn
     name: セランゴール手話
+  - translation_iso: por
+    name: Língua de sinais de Selangor
   - translation_iso: spa
     name: Lengua de Señas de Selangor
     auto: true

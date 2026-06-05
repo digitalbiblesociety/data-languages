@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ミアニ語
     auto: true
+  - translation_iso: por
+    name: Miani
+    auto: true
   - translation_iso: spa
     name: Miani
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ングゲム語
     auto: true
+  - translation_iso: por
+    name: Nggem
+    auto: true
   - translation_iso: spa
     name: Nggem
     auto: true

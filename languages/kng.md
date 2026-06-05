@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コオンゴ語
+  - translation_iso: por
+    name: quicongo
+    auto: true
   - translation_iso: spa
     name: Koongo
     auto: true

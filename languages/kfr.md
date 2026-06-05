@@ -27,6 +27,8 @@ translations:
     name: कच्छी भाषा
   - translation_iso: jpn
     name: カッチ語
+  - translation_iso: por
+    name: Língua kutchi
   - translation_iso: spa
     name: Kachhi
     auto: true

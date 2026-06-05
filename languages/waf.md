@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ワコナ語
     auto: true
+  - translation_iso: por
+    name: Wakoná
+    auto: true
   - translation_iso: spa
     name: Wakoná
     auto: true

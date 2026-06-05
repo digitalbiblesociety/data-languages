@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コノサロラ語
     auto: true
+  - translation_iso: por
+    name: Vagla
+    auto: true
   - translation_iso: spa
     name: Vagla
     auto: true

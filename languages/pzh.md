@@ -28,6 +28,8 @@ translations:
     name: パゼッヘ語
   - translation_iso: kor
     name: 파제어
+  - translation_iso: por
+    name: Língua pazeh
   - translation_iso: spa
     name: Idioma pazeh
   - translation_iso: zho

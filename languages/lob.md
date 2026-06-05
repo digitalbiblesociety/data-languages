@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロビ語
+  - translation_iso: por
+    name: Lobi
+    auto: true
   - translation_iso: spa
     name: Lobi
     auto: true

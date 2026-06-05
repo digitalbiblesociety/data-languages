@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キオコ語
     auto: true
+  - translation_iso: por
+    name: Kioko
+    auto: true
   - translation_iso: spa
     name: Kioko
     auto: true

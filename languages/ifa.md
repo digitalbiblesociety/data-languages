@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アムガナド・イフガオ語
     auto: true
+  - translation_iso: por
+    name: Ifugao Amganad
+    auto: true
   - translation_iso: spa
     name: Ifugao de Amganad
     auto: true

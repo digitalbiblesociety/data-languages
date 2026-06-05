@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シャルワ語
     auto: true
+  - translation_iso: por
+    name: Sharwa
+    auto: true
   - translation_iso: spa
     name: Idioma sharwa
   - translation_iso: zho

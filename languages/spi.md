@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バハササポニ語
     auto: true
+  - translation_iso: por
+    name: Saponi
+    auto: true
   - translation_iso: spa
     name: Idioma saponi
   - translation_iso: zho

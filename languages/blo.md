@@ -28,6 +28,8 @@ translations:
     name: アニ語 (ベナン)
   - translation_iso: kor
     name: 아니이어
+  - translation_iso: por
+    name: Língua anii
   - translation_iso: spa
     name: anii
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ササル語
     auto: true
+  - translation_iso: por
+    name: Sasaru
+    auto: true
   - translation_iso: spa
     name: Sasaru
     auto: true

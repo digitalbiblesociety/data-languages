@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ドウタイ語
     auto: true
+  - translation_iso: por
+    name: Doutai
+    auto: true
   - translation_iso: spa
     name: Doutai
     auto: true

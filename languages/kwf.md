@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワラアエ語
+  - translation_iso: por
+    name: "Língua kwara'ae"
   - translation_iso: spa
     name: "Kwara'ae"
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: エカジュク語
   - translation_iso: kor
     name: 이카죽어
+  - translation_iso: por
+    name: ekajuk
   - translation_iso: spa
     name: ekajuk
   - translation_iso: zho

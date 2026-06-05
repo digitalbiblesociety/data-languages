@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シリプット語
     auto: true
+  - translation_iso: por
+    name: Siliput
+    auto: true
   - translation_iso: spa
     name: Siliput
     auto: true

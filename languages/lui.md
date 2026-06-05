@@ -28,6 +28,8 @@ translations:
     name: ルイセーニョ語
   - translation_iso: kor
     name: 루이세노어
+  - translation_iso: por
+    name: Língua luiseña
   - translation_iso: spa
     name: luiseño
   - translation_iso: zho

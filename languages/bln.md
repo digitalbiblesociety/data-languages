@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部カタンドゥアネス州ビトール語
+  - translation_iso: por
+    name: Bicol de Catanduanes do Sul
+    auto: true
   - translation_iso: spa
     name: Bikol del sur de Catanduanes
     auto: true

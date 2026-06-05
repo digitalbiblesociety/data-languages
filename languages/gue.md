@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グリンジ語
+  - translation_iso: por
+    name: Gurindji
+    auto: true
   - translation_iso: spa
     name: Gurindji
     auto: true

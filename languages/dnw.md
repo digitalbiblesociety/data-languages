@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西ダニ語
+  - translation_iso: por
+    name: Dani Ocidental
+    auto: true
   - translation_iso: spa
     name: Dani Occidental
     auto: true

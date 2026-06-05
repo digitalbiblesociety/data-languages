@@ -28,6 +28,9 @@ translations:
     name: ゴラニ語
   - translation_iso: kor
     name: 고라니어
+  - translation_iso: por
+    name: Gurani
+    auto: true
   - translation_iso: spa
     name: Gurani
     auto: true

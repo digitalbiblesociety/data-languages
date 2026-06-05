@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: カハマルカケチュア語
     auto: true
+  - translation_iso: por
+    name: Língua quíchua cajamarca
   - translation_iso: spa
     name: quechua cajamarquino
   - translation_iso: zho

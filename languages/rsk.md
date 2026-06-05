@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パンノニア・ルシン語
+  - translation_iso: por
+    name: língua russina da Panônia
   - translation_iso: spa
     name: Ruteno
     auto: true

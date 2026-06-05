@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イダアン語
+  - translation_iso: por
+    name: "Língua ida'an"
   - translation_iso: spa
     name: "Ida'an"
     auto: true

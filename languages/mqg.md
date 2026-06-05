@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コタ・バングン・クタイ・マレー語
+  - translation_iso: por
+    name: malaio kutai de Kota Bangun
+    auto: true
   - translation_iso: spa
     name: Malayo Kutai de Kota Bangun
     auto: true

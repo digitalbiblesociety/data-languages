@@ -29,6 +29,8 @@ translations:
     name: ラフ語
   - translation_iso: kor
     name: 라후어
+  - translation_iso: por
+    name: Língua lahu
   - translation_iso: spa
     name: Lahu
     auto: true

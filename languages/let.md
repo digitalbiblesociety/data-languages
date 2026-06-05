@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レシン・ゲリミ語
     auto: true
+  - translation_iso: por
+    name: Lesing-Gelimi
+    auto: true
   - translation_iso: spa
     name: Lesing-Gelimi
     auto: true

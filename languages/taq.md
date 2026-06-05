@@ -28,6 +28,9 @@ translations:
     name: タマシェク語
   - translation_iso: kor
     name: 타마셰크어
+  - translation_iso: por
+    name: Tamasheq
+    auto: true
   - translation_iso: spa
     name: Idioma tamashek
   - translation_iso: zho

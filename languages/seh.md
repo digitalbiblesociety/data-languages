@@ -28,6 +28,8 @@ translations:
     name: セナ語
   - translation_iso: kor
     name: 세나어
+  - translation_iso: por
+    name: XiSena
   - translation_iso: spa
     name: sena
   - translation_iso: zho

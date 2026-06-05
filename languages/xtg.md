@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トランスアルパイン・ゴール語
+  - translation_iso: por
+    name: Gaulês Transalpino
+    auto: true
   - translation_iso: spa
     name: Galo transalpino
     auto: true

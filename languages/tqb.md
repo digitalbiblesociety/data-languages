@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: グアジャジャラ語
     auto: true
+  - translation_iso: por
+    name: Língua tembé
   - translation_iso: spa
     name: tembé
   - translation_iso: zho

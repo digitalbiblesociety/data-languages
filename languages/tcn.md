@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ティチュロン語
     auto: true
+  - translation_iso: por
+    name: Tichurong
+    auto: true
   - translation_iso: spa
     name: Tichurong
     auto: true

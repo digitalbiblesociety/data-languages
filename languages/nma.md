@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マラム・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Maram
+    auto: true
   - translation_iso: spa
     name: maram
   - translation_iso: zho

@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クオット語
+  - translation_iso: por
+    name: Língua kuot
   - translation_iso: spa
     name: Idioma kuot
   - translation_iso: zho

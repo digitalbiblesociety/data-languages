@@ -29,6 +29,8 @@ translations:
     name: オーストラリア・クレオール言語
   - translation_iso: kor
     name: 오스트레일리아 크리올
+  - translation_iso: por
+    name: Crioulo australiano
   - translation_iso: spa
     name: Kriol australiano
   - translation_iso: zho

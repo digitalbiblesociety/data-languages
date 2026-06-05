@@ -29,6 +29,8 @@ translations:
     name: タヨ語
   - translation_iso: kor
     name: 타요
+  - translation_iso: por
+    name: Tayo
   - translation_iso: spa
     name: idioma tayo
   - translation_iso: zho

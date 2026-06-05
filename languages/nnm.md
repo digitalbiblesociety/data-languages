@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナミア語
+  - translation_iso: por
+    name: Namia
+    auto: true
   - translation_iso: spa
     name: Namia
     auto: true

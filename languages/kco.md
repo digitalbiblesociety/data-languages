@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キナラクナ語
     auto: true
+  - translation_iso: por
+    name: Kinalakna
+    auto: true
   - translation_iso: spa
     name: Kinalakna
     auto: true

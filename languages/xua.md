@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アル・クルンバ語
     auto: true
+  - translation_iso: por
+    name: alu kurumba
+    auto: true
   - translation_iso: spa
     name: Alu Kurumba
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イバタン語
+  - translation_iso: por
+    name: Ibatan
+    auto: true
   - translation_iso: spa
     name: Ibatan
     auto: true

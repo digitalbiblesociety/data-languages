@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ソリガ語
     auto: true
+  - translation_iso: por
+    name: Sholaga
+    auto: true
   - translation_iso: spa
     name: Sholaga
     auto: true

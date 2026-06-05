@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウイチョル語
+  - translation_iso: por
+    name: Língua huichol
   - translation_iso: spa
     name: Idioma huichol
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Noni語
+  - translation_iso: por
+    name: Noone
+    auto: true
   - translation_iso: spa
     name: Noone
     auto: true

@@ -27,6 +27,8 @@ translations:
     name: オリヤー語
   - translation_iso: kor
     name: 오리야어
+  - translation_iso: por
+    name: oriá
   - translation_iso: spa
     name: oriya
   - translation_iso: zho

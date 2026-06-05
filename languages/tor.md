@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トグボ・ヴァラ・バンダ語
     auto: true
+  - translation_iso: por
+    name: Banda Togbo-Vara
+    auto: true
   - translation_iso: spa
     name: Banda Togbo-Vara
     auto: true

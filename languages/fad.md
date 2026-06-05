@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワギ語
     auto: true
+  - translation_iso: por
+    name: Wagi
+    auto: true
   - translation_iso: spa
     name: Wagi
     auto: true

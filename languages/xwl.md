@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 西シューラ・ゲベ語
     auto: true
+  - translation_iso: por
+    name: xwla gbe ocidental
+    auto: true
   - translation_iso: spa
     name: Xwla Gbe occidental
     auto: true

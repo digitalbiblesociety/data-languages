@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タブラ語
     auto: true
+  - translation_iso: por
+    name: Tabla
+    auto: true
   - translation_iso: spa
     name: tabla
   - translation_iso: zho

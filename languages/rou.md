@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ルンガ語
     auto: true
+  - translation_iso: por
+    name: Runga
+    auto: true
   - translation_iso: spa
     name: Runga
     auto: true

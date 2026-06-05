@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ジャミルテペック・ミステク語
     auto: true
+  - translation_iso: por
+    name: Mixteco de Jamiltepec
+    auto: true
   - translation_iso: spa
     name: idioma mixteco en California
   - translation_iso: zho

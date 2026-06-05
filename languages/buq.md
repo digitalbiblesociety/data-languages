@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ブレム語
     auto: true
+  - translation_iso: por
+    name: Brem
+    auto: true
   - translation_iso: spa
     name: Brem
     auto: true

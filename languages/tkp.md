@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティコピア語
+  - translation_iso: por
+    name: Língua tikopia
   - translation_iso: spa
     name: Tikopia
     auto: true

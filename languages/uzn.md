@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北ウズベク語
     auto: true
+  - translation_iso: por
+    name: Usbeque Setentrional
+    auto: true
   - translation_iso: spa
     name: Uzbeko septentrional
     auto: true

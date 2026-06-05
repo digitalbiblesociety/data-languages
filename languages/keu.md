@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケブ語
+  - translation_iso: por
+    name: Akebu
+    auto: true
   - translation_iso: spa
     name: Akebu
     auto: true

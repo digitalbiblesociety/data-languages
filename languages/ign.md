@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イニャシアーノ語
     auto: true
+  - translation_iso: por
+    name: Ignaciano
+    auto: true
   - translation_iso: spa
     name: idioma ignaciano
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
     name: 上古中国語
   - translation_iso: kor
     name: 상고한어
+  - translation_iso: por
+    name: Chinês antigo
   - translation_iso: spa
     name: chino antiguo
   - translation_iso: zho

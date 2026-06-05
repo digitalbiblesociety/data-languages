@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아카발레어
+  - translation_iso: por
+    name: Akar-Bale
+    auto: true
   - translation_iso: spa
     name: Idioma bale
   - translation_iso: zho

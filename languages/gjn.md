@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴンジャ語
+  - translation_iso: por
+    name: Língua gonja
   - translation_iso: spa
     name: Gonja
     auto: true

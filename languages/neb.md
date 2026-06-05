@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トゥーラ語
     auto: true
+  - translation_iso: por
+    name: Toura (Costa do Marfim)
+    auto: true
   - translation_iso: spa
     name: Toura
     auto: true

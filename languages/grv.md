@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・グレボ語
     auto: true
+  - translation_iso: por
+    name: Grebo Central
+    auto: true
   - translation_iso: spa
     name: Grebo Central
     auto: true

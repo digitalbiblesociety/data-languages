@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガル語
     auto: true
+  - translation_iso: por
+    name: Gal
+    auto: true
   - translation_iso: spa
     name: Gal
     auto: true

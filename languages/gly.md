@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グレ語
+  - translation_iso: por
+    name: Língua gule
   - translation_iso: spa
     name: Gule
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キス語
     auto: true
+  - translation_iso: por
+    name: Kis
+    auto: true
   - translation_iso: spa
     name: Kis
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムドブラ語
     auto: true
+  - translation_iso: por
+    name: Mudburra
+    auto: true
   - translation_iso: spa
     name: Mudburra
     auto: true

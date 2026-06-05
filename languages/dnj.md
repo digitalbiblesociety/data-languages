@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダン語
+  - translation_iso: por
+    name: Língua dan
   - translation_iso: spa
     name: idioma Dan
   - translation_iso: zho

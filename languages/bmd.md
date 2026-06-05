@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バガ・マンドゥリ語
     auto: true
+  - translation_iso: por
+    name: Baga Manduri
+    auto: true
   - translation_iso: spa
     name: Baga Manduri
     auto: true

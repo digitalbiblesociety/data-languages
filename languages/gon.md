@@ -21,6 +21,8 @@ translations:
     name: ゴーンディー語
   - translation_iso: kor
     name: 곤드어
+  - translation_iso: por
+    name: Língua gondi
   - translation_iso: spa
     name: gondi
   - translation_iso: zho

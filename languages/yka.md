@@ -30,6 +30,8 @@ translations:
     name: ヤカン語
   - translation_iso: kor
     name: 야칸어
+  - translation_iso: por
+    name: língua yakan
   - translation_iso: spa
     name: yacán
   - translation_iso: zho

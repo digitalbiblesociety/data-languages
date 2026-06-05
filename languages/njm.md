@@ -27,6 +27,8 @@ translations:
     name: अंगामी भाषा
   - translation_iso: jpn
     name: アンガミ語
+  - translation_iso: por
+    name: Língua angami
   - translation_iso: spa
     name: Naga Angami
     auto: true

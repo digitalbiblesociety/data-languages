@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: サビーネ語
     auto: true
+  - translation_iso: por
+    name: Sabino
+    auto: true
   - translation_iso: spa
     name: Idioma sabino
   - translation_iso: zho

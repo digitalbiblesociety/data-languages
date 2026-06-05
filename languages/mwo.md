@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・マエウォ語
     auto: true
+  - translation_iso: por
+    name: maewo central
+    auto: true
   - translation_iso: spa
     name: Maewo Central
     auto: true

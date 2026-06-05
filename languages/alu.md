@@ -29,6 +29,9 @@ translations:
     name: アレアレ語
   - translation_iso: kor
     name: 아레아레어
+  - translation_iso: por
+    name: "'Are'are"
+    auto: true
   - translation_iso: spa
     name: "Are'are"
   - translation_iso: zho

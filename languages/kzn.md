@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ココラ語
     auto: true
+  - translation_iso: por
+    name: Kokola
+    auto: true
   - translation_iso: spa
     name: Kokola
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オロ・ウィン語
+  - translation_iso: por
+    name: Oro Win
+    auto: true
   - translation_iso: spa
     name: Oro Win
     auto: true

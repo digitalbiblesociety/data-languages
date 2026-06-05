@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아말어
+  - translation_iso: por
+    name: Amal
+    auto: true
   - translation_iso: spa
     name: Idioma amal
   - translation_iso: zho

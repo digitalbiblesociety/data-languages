@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イスナグ語
     auto: true
+  - translation_iso: por
+    name: Língua isnag
   - translation_iso: spa
     name: Isnag
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビントゥル語
     auto: true
+  - translation_iso: por
+    name: Bintulu
+    auto: true
   - translation_iso: spa
     name: Bintulu
     auto: true

@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イリガ・ビコール語
+  - translation_iso: por
+    name: Língua rinconada bikol
   - translation_iso: spa
     name: Bikol Rinconada
     auto: true

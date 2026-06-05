@@ -27,6 +27,8 @@ translations:
     name: タヤプ語
   - translation_iso: kor
     name: 타얍어
+  - translation_iso: por
+    name: Língua taiap
   - translation_iso: spa
     name: Idioma gapun
   - translation_iso: zho

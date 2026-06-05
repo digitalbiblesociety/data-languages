@@ -28,6 +28,8 @@ translations:
     name: ラーオ語
   - translation_iso: kor
     name: 라오어
+  - translation_iso: por
+    name: Língua laociana
   - translation_iso: spa
     name: lao
   - translation_iso: zho

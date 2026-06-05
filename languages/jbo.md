@@ -25,6 +25,8 @@ translations:
     name: ロジバン
   - translation_iso: kor
     name: 로지반
+  - translation_iso: por
+    name: Lojban
   - translation_iso: spa
     name: Lojban
   - translation_iso: zho

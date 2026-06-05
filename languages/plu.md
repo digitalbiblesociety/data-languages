@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パリクール語
+  - translation_iso: por
+    name: Língua palicur
   - translation_iso: spa
     name: palikur
   - translation_iso: zho

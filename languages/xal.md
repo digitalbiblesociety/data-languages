@@ -28,6 +28,8 @@ translations:
     name: カルムイク語
   - translation_iso: kor
     name: 칼미크어
+  - translation_iso: por
+    name: calmuco
   - translation_iso: spa
     name: kalmuko
   - translation_iso: zho

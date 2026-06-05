@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: シニャル語
     auto: true
+  - translation_iso: por
+    name: Sinyar
+    auto: true
   - translation_iso: spa
     name: Sinyar
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クランコ語
     auto: true
+  - translation_iso: por
+    name: Kuranko
+    auto: true
   - translation_iso: spa
     name: Kuranko
     auto: true

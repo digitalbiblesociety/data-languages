@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 撒尼語
+  - translation_iso: por
+    name: sani
+    auto: true
   - translation_iso: spa
     name: Sani
     auto: true

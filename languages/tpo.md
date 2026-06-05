@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・パオ語
+  - translation_iso: por
+    name: Tai Pao
+    auto: true
   - translation_iso: spa
     name: Tai Pao
     auto: true

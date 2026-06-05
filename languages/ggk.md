@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: クンガラカニ語
     auto: true
+  - translation_iso: por
+    name: Kungarakany
+    auto: true
   - translation_iso: spa
     name: Kungarakany
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミシップ語
+  - translation_iso: por
+    name: Miship
+    auto: true
   - translation_iso: spa
     name: Miship
     auto: true

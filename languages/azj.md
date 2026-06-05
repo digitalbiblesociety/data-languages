@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北アゼルバイジャン語
+  - translation_iso: por
+    name: Azerbaijano do Norte
+    auto: true
   - translation_iso: spa
     name: Azerbaiyano Septentrional
     auto: true

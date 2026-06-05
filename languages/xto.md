@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トカラ語A
+  - translation_iso: por
+    name: tocário A
+    auto: true
   - translation_iso: spa
     name: Tocario A
     auto: true

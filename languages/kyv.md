@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カヨルット語
     auto: true
+  - translation_iso: por
+    name: Kayort
+    auto: true
   - translation_iso: spa
     name: Kayort
     auto: true

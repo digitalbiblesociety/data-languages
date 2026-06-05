@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ユル語
     auto: true
+  - translation_iso: por
+    name: Yuru
+    auto: true
   - translation_iso: spa
     name: Yuru
     auto: true

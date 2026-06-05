@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 고대 몬어
+  - translation_iso: por
+    name: mon antigo
+    auto: true
   - translation_iso: spa
     name: Mon antiguo
     auto: true

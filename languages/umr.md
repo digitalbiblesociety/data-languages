@@ -24,6 +24,9 @@ translations:
     name: उमबुगरला भाषा
   - translation_iso: jpn
     name: ウンブガルラ語
+  - translation_iso: por
+    name: Umbugarla
+    auto: true
   - translation_iso: spa
     name: Umbugarla
     auto: true

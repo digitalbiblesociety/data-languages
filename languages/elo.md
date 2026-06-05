@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エル・モロ語
     auto: true
+  - translation_iso: por
+    name: El Molo
+    auto: true
   - translation_iso: spa
     name: Idioma El Molo
   - translation_iso: zho

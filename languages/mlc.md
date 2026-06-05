@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カオラン語
+  - translation_iso: por
+    name: Cao Lan
+    auto: true
   - translation_iso: spa
     name: Cao Lan
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツァミ語
+  - translation_iso: por
+    name: Língua tsamai
   - translation_iso: spa
     name: Tsamai
     auto: true

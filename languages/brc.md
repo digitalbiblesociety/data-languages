@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バルビス・クレオール・オランダ語
     auto: true
+  - translation_iso: por
+    name: Crioulo neerlandês de Berbice
+    auto: true
   - translation_iso: spa
     name: Criollo barbiezos
   - translation_iso: zho

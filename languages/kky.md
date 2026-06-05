@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グーグ・イミディル語
+  - translation_iso: por
+    name: Guguyimidjir
   - translation_iso: spa
     name: Idioma guugu yimithirr
   - translation_iso: zho

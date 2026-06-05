@@ -28,6 +28,9 @@ translations:
     name: बघेली
   - translation_iso: jpn
     name: バゲーリー語
+  - translation_iso: por
+    name: Bagheli
+    auto: true
   - translation_iso: spa
     name: Bagheli
     auto: true

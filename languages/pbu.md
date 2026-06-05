@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部パシュトー語
+  - translation_iso: por
+    name: pachto setentrional
+    auto: true
   - translation_iso: spa
     name: Pastún septentrional
     auto: true

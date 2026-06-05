@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゲベ語
     auto: true
+  - translation_iso: por
+    name: Gebe
+    auto: true
   - translation_iso: spa
     name: Gebe
     auto: true

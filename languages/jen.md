@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ジェン語
     auto: true
+  - translation_iso: por
+    name: Língua jen
   - translation_iso: spa
     name: Dza
     auto: true

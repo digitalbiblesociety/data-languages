@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ダハオ語
     auto: true
+  - translation_iso: por
+    name: Língua dhao
   - translation_iso: spa
     name: Dhao
     auto: true

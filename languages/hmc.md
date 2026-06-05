@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中部恵水フモン語
+  - translation_iso: por
+    name: Hmong Huishui Central
+    auto: true
   - translation_iso: spa
     name: Hmong Huishui central
     auto: true

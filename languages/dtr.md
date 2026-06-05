@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロトゥッド語
     auto: true
+  - translation_iso: por
+    name: Lotud
+    auto: true
   - translation_iso: spa
     name: Lotud
     auto: true

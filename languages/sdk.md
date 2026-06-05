@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アグバーネ語
     auto: true
+  - translation_iso: por
+    name: Sos Kundi
+    auto: true
   - translation_iso: spa
     name: Sos Kundi
     auto: true

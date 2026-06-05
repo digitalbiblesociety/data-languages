@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウゲレ語
     auto: true
+  - translation_iso: por
+    name: Ughele
+    auto: true
   - translation_iso: spa
     name: Ughele
   - translation_iso: zho

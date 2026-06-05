@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ヤノマモ語
     auto: true
+  - translation_iso: por
+    name: língua yanonami
   - translation_iso: spa
     name: Yanomamö
   - translation_iso: zho

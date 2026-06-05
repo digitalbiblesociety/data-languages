@@ -28,6 +28,8 @@ translations:
     name: イナリ・サーミ語
   - translation_iso: kor
     name: 이나리 사미어
+  - translation_iso: por
+    name: lapônico de Inari
   - translation_iso: spa
     name: sami inari
   - translation_iso: zho

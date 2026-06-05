@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オブロ語
     auto: true
+  - translation_iso: por
+    name: Oblo
+    auto: true
   - translation_iso: spa
     name: oblo
   - translation_iso: zho

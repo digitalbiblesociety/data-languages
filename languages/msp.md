@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: マリツァウア語
     auto: true
+  - translation_iso: por
+    name: Língua manitsauá
   - translation_iso: spa
     name: Maritsauá
     auto: true

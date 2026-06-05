@@ -23,6 +23,8 @@ translations:
     name: ボスニア語
   - translation_iso: kor
     name: 보스니아어
+  - translation_iso: por
+    name: Língua bósnia
   - translation_iso: spa
     name: bosnio
   - translation_iso: zho

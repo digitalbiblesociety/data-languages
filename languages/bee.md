@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビャンシ語
     auto: true
+  - translation_iso: por
+    name: Byangsi
+    auto: true
   - translation_iso: spa
     name: byangsi
   - translation_iso: zho

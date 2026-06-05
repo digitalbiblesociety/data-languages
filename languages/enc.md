@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エン語
+  - translation_iso: por
+    name: En
+    auto: true
   - translation_iso: spa
     name: Idioma en
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     name: 官話
   - translation_iso: kor
     name: 중국 관화
+  - translation_iso: por
+    name: mandarim
   - translation_iso: spa
     name: chino mandarín
   - translation_iso: zho

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャングボ語
+  - translation_iso: por
+    name: Nyangbo
+    auto: true
   - translation_iso: spa
     name: Nyangbo
   - translation_iso: zho

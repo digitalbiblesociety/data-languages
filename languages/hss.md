@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハラシース語
+  - translation_iso: por
+    name: Harsusi
+    auto: true
   - translation_iso: spa
     name: Harsusi
     auto: true

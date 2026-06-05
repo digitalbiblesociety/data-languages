@@ -27,6 +27,8 @@ translations:
     name: コロ・ジュラ語
   - translation_iso: kor
     name: 코로어
+  - translation_iso: por
+    name: koro
   - translation_iso: spa
     name: koro
   - translation_iso: zho

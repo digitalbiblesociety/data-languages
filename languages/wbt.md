@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワーンマン語
     auto: true
+  - translation_iso: por
+    name: Warnman
+    auto: true
   - translation_iso: spa
     name: Warnman
     auto: true

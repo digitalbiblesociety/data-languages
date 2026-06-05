@@ -28,6 +28,8 @@ translations:
     name: ルバ語
   - translation_iso: kor
     name: 루바어
+  - translation_iso: por
+    name: Língua tshiluba
   - translation_iso: spa
     name: chiluba
   - translation_iso: zho

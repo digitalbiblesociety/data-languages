@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: ソア語
     auto: true
+  - translation_iso: por
+    name: "So'a"
   - translation_iso: spa
     name: "So'a"
   - translation_iso: zho

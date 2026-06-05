@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カミ語
+  - translation_iso: por
+    name: Kami (Nigéria)
+    auto: true
   - translation_iso: spa
     name: Kami (Nigeria)
     auto: true

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タワラ語
+  - translation_iso: por
+    name: Tawala
+    auto: true
   - translation_iso: spa
     name: Tawala
     auto: true

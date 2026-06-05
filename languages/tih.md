@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティムゴン語
+  - translation_iso: por
+    name: Murut Timugon
+    auto: true
   - translation_iso: spa
     name: Murut Timugon
     auto: true

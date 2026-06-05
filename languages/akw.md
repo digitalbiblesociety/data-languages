@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Akwa語
+  - translation_iso: por
+    name: Akwa
+    auto: true
   - translation_iso: spa
     name: Akwa
     auto: true

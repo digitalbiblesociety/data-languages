@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バタク・アンコーラ語
+  - translation_iso: por
+    name: língua angkola
   - translation_iso: spa
     name: Batak Angkola
     auto: true

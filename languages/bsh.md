@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カム・カタヴァリ語
+  - translation_iso: por
+    name: Língua Kamkata-vari
   - translation_iso: spa
     name: Idioma kamkata-viri
   - translation_iso: zho

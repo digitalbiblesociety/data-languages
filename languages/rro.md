@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワイマ語
     auto: true
+  - translation_iso: por
+    name: Waima
+    auto: true
   - translation_iso: spa
     name: waima
   - translation_iso: zho

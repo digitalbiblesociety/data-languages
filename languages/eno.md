@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: エンガーノ語
     auto: true
+  - translation_iso: por
+    name: Enggano
+    auto: true
   - translation_iso: spa
     name: Enggano
     auto: true

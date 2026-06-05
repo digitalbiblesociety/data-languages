@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アブ・アラペシュ語
     auto: true
+  - translation_iso: por
+    name: "Abu' Arapesh"
+    auto: true
   - translation_iso: spa
     name: "Abu' Arapesh"
     auto: true

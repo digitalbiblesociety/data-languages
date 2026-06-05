@@ -28,6 +28,8 @@ translations:
     name: ハワイ語
   - translation_iso: kor
     name: 하와이어
+  - translation_iso: por
+    name: havaiano
   - translation_iso: spa
     name: hawaiano
   - translation_iso: zho

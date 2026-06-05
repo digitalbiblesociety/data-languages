@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 標準ラトビア語
     auto: true
+  - translation_iso: por
+    name: Letão padrão
+    auto: true
   - translation_iso: spa
     name: Letón estándar
     auto: true

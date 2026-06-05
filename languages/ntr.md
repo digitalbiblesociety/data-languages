@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デロ語
+  - translation_iso: por
+    name: Delo
+    auto: true
   - translation_iso: spa
     name: Delo
     auto: true

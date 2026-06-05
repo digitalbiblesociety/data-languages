@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ケイン語
     auto: true
+  - translation_iso: por
+    name: Kein
+    auto: true
   - translation_iso: spa
     name: Kein
     auto: true

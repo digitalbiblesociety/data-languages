@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ケデル語
     auto: true
+  - translation_iso: por
+    name: Keder
+    auto: true
   - translation_iso: spa
     name: keder
   - translation_iso: zho

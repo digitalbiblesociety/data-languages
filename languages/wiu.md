@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ウィル語
     auto: true
+  - translation_iso: por
+    name: Wiru
+    auto: true
   - translation_iso: spa
     name: Wiru
     auto: true

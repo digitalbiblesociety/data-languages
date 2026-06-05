@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ブサム語
     auto: true
+  - translation_iso: por
+    name: Busam
+    auto: true
   - translation_iso: spa
     name: Busam
   - translation_iso: zho

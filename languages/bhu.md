@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブンジア語
     auto: true
+  - translation_iso: por
+    name: Bhunjia
+    auto: true
   - translation_iso: spa
     name: Bhunjia
     auto: true

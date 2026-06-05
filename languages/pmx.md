@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ポウメイナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Poumei
+    auto: true
   - translation_iso: spa
     name: Naga poumei
     auto: true

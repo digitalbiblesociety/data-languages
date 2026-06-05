@@ -28,6 +28,8 @@ translations:
     name: ヨルバ語
   - translation_iso: kor
     name: 요루바어
+  - translation_iso: por
+    name: Língua iorubá
   - translation_iso: spa
     name: yoruba
   - translation_iso: zho

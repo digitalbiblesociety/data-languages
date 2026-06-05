@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マル語
+  - translation_iso: por
+    name: Mal
+    auto: true
   - translation_iso: spa
     name: Mal
     auto: true

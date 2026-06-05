@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラカハンガ・マニヒキ語
+  - translation_iso: por
+    name: Língua rakahanga
   - translation_iso: spa
     name: Rakahanga-Manihiki
     auto: true

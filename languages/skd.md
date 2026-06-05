@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヨセミテ語
     auto: true
+  - translation_iso: por
+    name: Miwok da Sierra Meridional
+    auto: true
   - translation_iso: spa
     name: Miwok de la Sierra Meridional
     auto: true

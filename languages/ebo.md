@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中央テケ語
+  - translation_iso: por
+    name: teke-ebo
   - translation_iso: spa
     name: teke-ebo
   - translation_iso: zho

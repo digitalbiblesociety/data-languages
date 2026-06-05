@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブドゥマ語
+  - translation_iso: por
+    name: Língua buduma
   - translation_iso: spa
     name: Buduma
     auto: true

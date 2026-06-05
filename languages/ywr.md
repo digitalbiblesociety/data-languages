@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤウル語
+  - translation_iso: por
+    name: Língua yawuru
   - translation_iso: spa
     name: Yawuru
     auto: true

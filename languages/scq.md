@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チュン語
     auto: true
+  - translation_iso: por
+    name: "Sa'och"
+    auto: true
   - translation_iso: spa
     name: "Sa'och"
     auto: true

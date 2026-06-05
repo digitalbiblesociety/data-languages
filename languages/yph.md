@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: フーファ語
     auto: true
+  - translation_iso: por
+    name: phupha
+    auto: true
   - translation_iso: spa
     name: Phupha
     auto: true

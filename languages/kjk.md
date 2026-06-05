@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハイランド・コンジョ語
     auto: true
+  - translation_iso: por
+    name: Konjo das Terras Altas
+    auto: true
   - translation_iso: spa
     name: Konjo de las Tierras Altas
     auto: true

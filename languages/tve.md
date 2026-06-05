@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: テウン語
     auto: true
+  - translation_iso: por
+    name: "Te'un"
   - translation_iso: spa
     name: "Te'un"
   - translation_iso: zho

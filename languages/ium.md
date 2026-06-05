@@ -30,6 +30,8 @@ translations:
     name: ヤオ語
   - translation_iso: kor
     name: 유몐어
+  - translation_iso: por
+    name: Língua iu mien
   - translation_iso: spa
     name: Idioma iu mien
   - translation_iso: zho

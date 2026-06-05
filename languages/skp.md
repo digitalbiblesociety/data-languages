@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セケパン語
     auto: true
+  - translation_iso: por
+    name: Sekapan
+    auto: true
   - translation_iso: spa
     name: Sekapan
     auto: true

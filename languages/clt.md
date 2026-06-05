@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ラウツ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Lautu
+    auto: true
   - translation_iso: spa
     name: Chin Lautu
     auto: true

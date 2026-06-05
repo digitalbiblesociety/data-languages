@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ドゥーパ語
     auto: true
+  - translation_iso: por
+    name: Duupa
+    auto: true
   - translation_iso: spa
     name: Duupa
     auto: true

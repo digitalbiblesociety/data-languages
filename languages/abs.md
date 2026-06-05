@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンボン・マライ語
+  - translation_iso: por
+    name: Malaio ambonês
   - translation_iso: spa
     name: Malayo ambonés
     auto: true

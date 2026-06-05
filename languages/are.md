@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 西部アレント語
     auto: true
+  - translation_iso: por
+    name: Arrarnta Ocidental
+    auto: true
   - translation_iso: spa
     name: Arrarnta occidental
     auto: true

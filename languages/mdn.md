@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Mbati語
+  - translation_iso: por
+    name: Mbati
+    auto: true
   - translation_iso: spa
     name: Mbati
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: フレフォ・ファウ語
     auto: true
+  - translation_iso: por
+    name: hlepho phowa
+    auto: true
   - translation_iso: spa
     name: Hlepho Phowa
     auto: true

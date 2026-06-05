@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ビルワ語
     auto: true
+  - translation_iso: por
+    name: Língua birwa
   - translation_iso: spa
     name: Birwa
     auto: true

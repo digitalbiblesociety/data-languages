@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ベプール語
     auto: true
+  - translation_iso: por
+    name: Bepour
+    auto: true
   - translation_iso: spa
     name: Bepour
     auto: true

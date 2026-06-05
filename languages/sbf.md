@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シャボ語
+  - translation_iso: por
+    name: Chabu
+    auto: true
   - translation_iso: spa
     name: Chabu
     auto: true

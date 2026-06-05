@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツツバ語
+  - translation_iso: por
+    name: Tutuba
+    auto: true
   - translation_iso: spa
     name: Tutuba
     auto: true

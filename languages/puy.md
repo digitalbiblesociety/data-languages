@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プリシメーニョ語
     auto: true
+  - translation_iso: por
+    name: Purisimeño
+    auto: true
   - translation_iso: spa
     name: Purisimeño
     auto: true

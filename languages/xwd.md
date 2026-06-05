@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: ワディ・ワディ語
     auto: true
+  - translation_iso: por
+    name: Língua wadi-wadi
   - translation_iso: spa
     name: idioma wadi-wadi
   - translation_iso: zho

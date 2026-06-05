@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ホワイト・ラチ語
     auto: true
+  - translation_iso: por
+    name: Lachi branco
+    auto: true
   - translation_iso: spa
     name: Lachi blanco
     auto: true

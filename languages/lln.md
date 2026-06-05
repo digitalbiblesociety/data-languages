@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: レレ語
     auto: true
+  - translation_iso: por
+    name: Língua lele
   - translation_iso: spa
     name: Lele (Chad)
     auto: true

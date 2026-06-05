@@ -26,6 +26,9 @@ translations:
     name: पनामियन सांकेतिक भाषा
   - translation_iso: jpn
     name: パナマ手話
+  - translation_iso: por
+    name: Língua de Sinais Panamenha
+    auto: true
   - translation_iso: spa
     name: lengua de señas panameñas
   - translation_iso: zho

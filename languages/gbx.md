@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 東スウラ・ベ語
     auto: true
+  - translation_iso: por
+    name: gbe xwla oriental
+    auto: true
   - translation_iso: spa
     name: Xwla Gbe oriental
     auto: true

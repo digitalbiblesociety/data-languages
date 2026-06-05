@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラナン
+  - translation_iso: por
+    name: Paranan
+    auto: true
   - translation_iso: spa
     name: Paranan
     auto: true

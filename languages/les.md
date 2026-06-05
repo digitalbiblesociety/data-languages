@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エフェ語
+  - translation_iso: por
+    name: Lese
+    auto: true
   - translation_iso: spa
     name: Lese
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 시앙어
+  - translation_iso: por
+    name: Siang
+    auto: true
   - translation_iso: spa
     name: Siang
     auto: true

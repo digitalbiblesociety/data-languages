@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダロア・ベテ語
     auto: true
+  - translation_iso: por
+    name: Daloa Bété
+    auto: true
   - translation_iso: spa
     name: Bété de Daloa
     auto: true

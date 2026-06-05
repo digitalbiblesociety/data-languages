@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: アルグニ語
     auto: true
+  - translation_iso: por
+    name: Arguni
   - translation_iso: spa
     name: Arguni
   - translation_iso: zho

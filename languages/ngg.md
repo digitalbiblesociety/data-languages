@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ングバカ・マンザ語
     auto: true
+  - translation_iso: por
+    name: Ngbaka Manza
+    auto: true
   - translation_iso: spa
     name: Ngbaka Manza
     auto: true

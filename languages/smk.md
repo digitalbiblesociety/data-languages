@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボリナオ語
+  - translation_iso: por
+    name: Língua bolinao
   - translation_iso: spa
     name: idioma bolínao
   - translation_iso: zho

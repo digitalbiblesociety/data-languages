@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヌポデ・ウイトト語
     auto: true
+  - translation_iso: por
+    name: Huitoto Nüpode
+    auto: true
   - translation_iso: spa
     name: nipode
   - translation_iso: zho

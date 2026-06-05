@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タニムカ・レトゥアラ語
     auto: true
+  - translation_iso: por
+    name: Tanimuca-Retuarã
+    auto: true
   - translation_iso: spa
     name: Tanimuca
   - translation_iso: zho

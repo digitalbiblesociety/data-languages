@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エルケイ語
     auto: true
+  - translation_iso: por
+    name: Elkei
+    auto: true
   - translation_iso: spa
     name: Elkei
     auto: true

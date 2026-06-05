@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゴンゴ語
+  - translation_iso: por
+    name: Ngongo
+    auto: true
   - translation_iso: spa
     name: Ngongo
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イワル語
     auto: true
+  - translation_iso: por
+    name: Iwal
+    auto: true
   - translation_iso: spa
     name: Iwal
   - translation_iso: zho

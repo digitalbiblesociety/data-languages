@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: キプット語
     auto: true
+  - translation_iso: por
+    name: Língua kiput
   - translation_iso: spa
     name: Kiput
     auto: true

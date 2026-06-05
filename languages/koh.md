@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Koyo語
+  - translation_iso: por
+    name: Koyo
+    auto: true
   - translation_iso: spa
     name: koyo
   - translation_iso: zho

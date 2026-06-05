@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ナンセレ語
     auto: true
+  - translation_iso: por
+    name: Língua nancere
   - translation_iso: spa
     name: Nancere
     auto: true

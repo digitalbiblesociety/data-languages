@@ -19,7 +19,7 @@ translations:
     name: بيكاتي
     auto: true
   - translation_iso: deu
-    name: "Bekati'"
+    name: Bekati
     auto: true
   - translation_iso: fra
     name: bekati’
@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ベカティ語
     auto: true
+  - translation_iso: por
+    name: Língua bekati
   - translation_iso: spa
     name: Bekati
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: アクラノン語
   - translation_iso: kor
     name: 아클라논어
+  - translation_iso: por
+    name: língua aklan
   - translation_iso: spa
     name: aclano
   - translation_iso: zho

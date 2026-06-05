@@ -27,6 +27,8 @@ translations:
     name: アルジェリア手話
   - translation_iso: kor
     name: 알제리 수어
+  - translation_iso: por
+    name: Língua de Sinais Algeriana
   - translation_iso: spa
     name: Lengua de señas argelina
     auto: true

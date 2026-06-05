@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ホヴォンガン語
     auto: true
+  - translation_iso: por
+    name: Hovongan
+    auto: true
   - translation_iso: spa
     name: Hovongan
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ケレタロ・オトミ語
     auto: true
+  - translation_iso: por
+    name: otomi de Querétaro
+    auto: true
   - translation_iso: spa
     name: Otomí queretano
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニランバ語
     auto: true
+  - translation_iso: por
+    name: Nilamba
+    auto: true
   - translation_iso: spa
     name: Nilamba
     auto: true

@@ -27,6 +27,8 @@ translations:
     name: モサラベ語
   - translation_iso: kor
     name: 모사라베어
+  - translation_iso: por
+    name: língua moçárabe
   - translation_iso: spa
     name: mozárabe
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ズルゴ・ゲムゼク語
     auto: true
+  - translation_iso: por
+    name: Língua zulgo
   - translation_iso: spa
     name: Zulgo-Gemzek
     auto: true

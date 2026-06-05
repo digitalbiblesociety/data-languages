@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: パカラオスケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Pacaraos
+    auto: true
   - translation_iso: spa
     name: quechua de Pacaraos
   - translation_iso: zho

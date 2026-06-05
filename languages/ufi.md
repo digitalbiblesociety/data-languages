@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウフィム語
     auto: true
+  - translation_iso: por
+    name: Ufim
+    auto: true
   - translation_iso: spa
     name: Ufim
     auto: true

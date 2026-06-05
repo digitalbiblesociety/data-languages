@@ -29,6 +29,8 @@ translations:
     name: イングリア語
   - translation_iso: kor
     name: 잉그리아어
+  - translation_iso: por
+    name: ingriano
   - translation_iso: spa
     name: ingrio
   - translation_iso: zho

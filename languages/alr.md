@@ -29,6 +29,8 @@ translations:
     name: アリュートル語
   - translation_iso: kor
     name: 알루토르어
+  - translation_iso: por
+    name: alutor
   - translation_iso: spa
     name: alutor
   - translation_iso: zho

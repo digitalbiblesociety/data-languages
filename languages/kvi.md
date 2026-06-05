@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クワン語
     auto: true
+  - translation_iso: por
+    name: Kwang
+    auto: true
   - translation_iso: spa
     name: Kwang
     auto: true

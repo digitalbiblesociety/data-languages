@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バジェ・ナシオナル・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Chinanteco de Valle Nacional
+    auto: true
   - translation_iso: spa
     name: chinanteca de Valle Nacional
   - translation_iso: zho

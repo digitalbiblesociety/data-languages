@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カロ語
+  - translation_iso: por
+    name: Batak Karo
+    auto: true
   - translation_iso: spa
     name: Batak Karo
     auto: true

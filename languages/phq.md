@@ -19,7 +19,7 @@ translations:
     name: اللغة فانا
     auto: true
   - translation_iso: deu
-    name: "Phana'"
+    name: Phana
     auto: true
   - translation_iso: fra
     name: phana’
@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 파나어 (로로어군)
+  - translation_iso: por
+    name: "Phana'"
+    auto: true
   - translation_iso: spa
     name: Phana
     auto: true

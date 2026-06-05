@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北部ニス語
     auto: true
+  - translation_iso: por
+    name: nisu do norte
+    auto: true
   - translation_iso: spa
     name: Nisu septentrional
     auto: true

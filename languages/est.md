@@ -23,6 +23,8 @@ translations:
     name: エストニア語
   - translation_iso: kor
     name: 에스토니아어
+  - translation_iso: por
+    name: estónio
   - translation_iso: spa
     name: estonio
   - translation_iso: zho

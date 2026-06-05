@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: グー語
     auto: true
+  - translation_iso: por
+    name: Goo
+    auto: true
   - translation_iso: spa
     name: goo
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: チヌーク・ジャーゴン
   - translation_iso: kor
     name: 치누크 자곤
+  - translation_iso: por
+    name: Jargão chinook
   - translation_iso: spa
     name: jerga chinuk
   - translation_iso: zho

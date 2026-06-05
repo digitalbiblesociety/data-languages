@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウシン語
+  - translation_iso: por
+    name: Osing
   - translation_iso: spa
     name: Osing
   - translation_iso: zho

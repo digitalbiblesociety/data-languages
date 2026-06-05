@@ -28,6 +28,9 @@ translations:
     name: 古ウイグル語
   - translation_iso: kor
     name: 고대 위구르어
+  - translation_iso: por
+    name: uigur antigo
+    auto: true
   - translation_iso: spa
     name: uigur antiguo
   - translation_iso: zho

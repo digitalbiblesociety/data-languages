@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ゴラコル語
     auto: true
+  - translation_iso: por
+    name: Gorakor
+    auto: true
   - translation_iso: spa
     name: Gorakor
     auto: true

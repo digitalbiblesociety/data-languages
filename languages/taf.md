@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: タピラペ語
     auto: true
+  - translation_iso: por
+    name: Língua tapirapé
   - translation_iso: spa
     name: Tapirapé
     auto: true

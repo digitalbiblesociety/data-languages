@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Lengola語
+  - translation_iso: por
+    name: Língua lengola
   - translation_iso: spa
     name: Lengola
     auto: true

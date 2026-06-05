@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ングアンド語
     auto: true
+  - translation_iso: por
+    name: Ngando (República Centro-Africana)
+    auto: true
   - translation_iso: spa
     name: Ngando (República Centroafricana)
     auto: true

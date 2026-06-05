@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ングアルラ語
     auto: true
+  - translation_iso: por
+    name: Ngarla
+    auto: true
   - translation_iso: spa
     name: Ngarla
     auto: true

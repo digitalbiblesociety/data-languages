@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビルギット語
     auto: true
+  - translation_iso: por
+    name: Birgit
+    auto: true
   - translation_iso: spa
     name: birgit
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クニ語
     auto: true
+  - translation_iso: por
+    name: Kuni
+    auto: true
   - translation_iso: spa
     name: Kuni
     auto: true

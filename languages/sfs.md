@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南アフリカ手話
+  - translation_iso: por
+    name: língua gestual sul-africana
   - translation_iso: spa
     name: Lenguaje de Signos Sudafricano
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: ウルドゥー語
   - translation_iso: kor
     name: 우르두어
+  - translation_iso: por
+    name: Língua urdu
   - translation_iso: spa
     name: urdu
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラベル語
     auto: true
+  - translation_iso: por
+    name: Label
+    auto: true
   - translation_iso: spa
     name: Label
     auto: true

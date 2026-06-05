@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムポトヴォロ語
     auto: true
+  - translation_iso: por
+    name: Mpotovoro
+    auto: true
   - translation_iso: spa
     name: Mpotovoro
     auto: true

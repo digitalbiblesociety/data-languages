@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: メンダラム・カヤン語
     auto: true
+  - translation_iso: por
+    name: Kayan Mendalam
+    auto: true
   - translation_iso: spa
     name: Kayan Mendalam
     auto: true

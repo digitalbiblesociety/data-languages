@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラタハン
+  - translation_iso: por
+    name: Ratahan
   - translation_iso: spa
     name: Ratahan
   - translation_iso: zho

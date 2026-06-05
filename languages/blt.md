@@ -31,6 +31,9 @@ translations:
     name: タイ・ダム語
   - translation_iso: kor
     name: 따이담어
+  - translation_iso: por
+    name: Tai dam
+    auto: true
   - translation_iso: spa
     name: Tai Dam
     auto: true

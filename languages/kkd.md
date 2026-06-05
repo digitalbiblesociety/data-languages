@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: キヌク語
     auto: true
+  - translation_iso: por
+    name: Kinuku
+    auto: true
   - translation_iso: spa
     name: Kinuku
     auto: true

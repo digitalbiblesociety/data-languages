@@ -30,6 +30,9 @@ translations:
     name: シエラポポルカ語
   - translation_iso: kor
     name: 시에라 포폴루카어
+  - translation_iso: por
+    name: Popoluca das Terras Altas
+    auto: true
   - translation_iso: spa
     name: popoluca de la Sierra
   - translation_iso: zho

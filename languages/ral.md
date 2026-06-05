@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラルテー語
+  - translation_iso: por
+    name: Ralte
+    auto: true
   - translation_iso: spa
     name: Ralte
     auto: true

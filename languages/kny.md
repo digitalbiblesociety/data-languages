@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カニョク語
     auto: true
+  - translation_iso: por
+    name: Língua kaniok
   - translation_iso: spa
     name: Kanyok
     auto: true

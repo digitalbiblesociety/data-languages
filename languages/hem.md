@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヘンバ語
     auto: true
+  - translation_iso: por
+    name: Hemba
+    auto: true
   - translation_iso: spa
     name: Hemba
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クエン語
     auto: true
+  - translation_iso: por
+    name: Khuen
+    auto: true
   - translation_iso: spa
     name: Khuen
     auto: true

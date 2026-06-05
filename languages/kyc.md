@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: キャカ語
     auto: true
+  - translation_iso: por
+    name: Kyaka
+    auto: true
   - translation_iso: spa
     name: Kyaka
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アイエレ語
     auto: true
+  - translation_iso: por
+    name: Ayere
+    auto: true
   - translation_iso: spa
     name: Ayere
     auto: true

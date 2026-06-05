@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リュード語
+  - translation_iso: por
+    name: Língua ludic
   - translation_iso: spa
     name: Idioma lúdico
   - translation_iso: zho

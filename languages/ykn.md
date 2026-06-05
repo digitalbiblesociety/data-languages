@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クア・ンシ語
     auto: true
+  - translation_iso: por
+    name: kua-nsi
+    auto: true
   - translation_iso: spa
     name: Kua-nsi
     auto: true

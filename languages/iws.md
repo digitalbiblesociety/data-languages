@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セピク・イワム語
     auto: true
+  - translation_iso: por
+    name: Iwam do Sepik
+    auto: true
   - translation_iso: spa
     name: Iwam del Sepik
     auto: true

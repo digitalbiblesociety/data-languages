@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ゴル語
     auto: true
+  - translation_iso: por
+    name: Gor
+    auto: true
   - translation_iso: spa
     name: Gor
     auto: true

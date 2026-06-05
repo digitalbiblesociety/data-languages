@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラオナ語
+  - translation_iso: por
+    name: Araona
+    auto: true
   - translation_iso: spa
     name: idioma araona
   - translation_iso: zho

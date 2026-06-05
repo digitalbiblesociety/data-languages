@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カネラ語
+  - translation_iso: por
+    name: Língua Canela
   - translation_iso: spa
     name: Canela
     auto: true

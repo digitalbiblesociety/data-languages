@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥーグラ語
+  - translation_iso: por
+    name: Tamazight de Temacine
+    auto: true
   - translation_iso: spa
     name: Idioma tugurt
   - translation_iso: zho

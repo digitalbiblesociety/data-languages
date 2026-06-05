@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チャラ語
     auto: true
+  - translation_iso: por
+    name: Chara
+    auto: true
   - translation_iso: spa
     name: Chara
     auto: true

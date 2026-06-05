@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: プトー語
     auto: true
+  - translation_iso: por
+    name: Putoh
+    auto: true
   - translation_iso: spa
     name: Putoh
     auto: true

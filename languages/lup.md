@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルンブ語
+  - translation_iso: por
+    name: Lumbu
+    auto: true
   - translation_iso: spa
     name: lumbu
   - translation_iso: zho

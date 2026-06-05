@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ラブク・キナバタンガン・カダザン語
     auto: true
+  - translation_iso: por
+    name: Kadazan de Labuk-Kinabatangan
+    auto: true
   - translation_iso: spa
     name: Kadazan Labuk-Kinabatangan
     auto: true

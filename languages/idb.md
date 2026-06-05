@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: インド・ポルトガル語
     auto: true
+  - translation_iso: por
+    name: Crioulos indo-portugueses
   - translation_iso: spa
     name: Criollo indo-portugués
   - translation_iso: zho

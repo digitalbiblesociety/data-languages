@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンタンカラナ・マダガスカル語
+  - translation_iso: por
+    name: Malgaxe Antankarana
+    auto: true
   - translation_iso: spa
     name: Malgache antankarana
     auto: true

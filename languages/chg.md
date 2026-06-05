@@ -27,6 +27,8 @@ translations:
     name: チャガタイ語
   - translation_iso: kor
     name: 차가타이어
+  - translation_iso: por
+    name: Língua chagatai
   - translation_iso: spa
     name: chagatai
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングルンブル語
+  - translation_iso: por
+    name: Ngurmbur
+    auto: true
   - translation_iso: spa
     name: Ngurmbur
     auto: true

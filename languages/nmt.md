@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナモヌイト語
+  - translation_iso: por
+    name: Língua namonuito
   - translation_iso: spa
     name: Namonuito
     auto: true

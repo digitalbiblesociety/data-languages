@@ -28,6 +28,8 @@ translations:
     name: ルクセンブルク語
   - translation_iso: kor
     name: 룩셈부르크어
+  - translation_iso: por
+    name: língua luxemburguesa
   - translation_iso: spa
     name: luxemburgués
   - translation_iso: zho

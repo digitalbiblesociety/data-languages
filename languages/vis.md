@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マランクディ語
     auto: true
+  - translation_iso: por
+    name: Vishavan
+    auto: true
   - translation_iso: spa
     name: Vishavan
     auto: true

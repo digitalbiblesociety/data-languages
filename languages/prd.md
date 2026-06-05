@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: パルシダリ語
     auto: true
+  - translation_iso: por
+    name: Parsi-Dari
+    auto: true
   - translation_iso: spa
     name: Parsi-Dari
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サマベディ語
     auto: true
+  - translation_iso: por
+    name: Samvedi
+    auto: true
   - translation_iso: spa
     name: Samvedi
     auto: true

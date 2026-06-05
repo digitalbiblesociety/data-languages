@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タウセ語
     auto: true
+  - translation_iso: por
+    name: Tause
+    auto: true
   - translation_iso: spa
     name: Idioma tause
   - translation_iso: zho

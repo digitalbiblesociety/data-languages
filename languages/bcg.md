@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プクル語
+  - translation_iso: por
+    name: Baga Pokur
+    auto: true
   - translation_iso: spa
     name: Baga Pokur
     auto: true

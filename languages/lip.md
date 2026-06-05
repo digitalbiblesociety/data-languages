@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: セクペレ語
     auto: true
+  - translation_iso: por
+    name: Sekpele
+    auto: true
   - translation_iso: spa
     name: Sekpele
     auto: true

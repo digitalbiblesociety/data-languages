@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Dullay諸語
+  - translation_iso: por
+    name: Língua gawwada
   - translation_iso: spa
     name: Gawwada
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: プウォ北カレン語
     auto: true
+  - translation_iso: por
+    name: Língua pwo meridional
   - translation_iso: spa
     name: Karen Pwo septentrional
     auto: true

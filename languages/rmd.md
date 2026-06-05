@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トラベラーデンマーク語
     auto: true
+  - translation_iso: por
+    name: Dinamarquês dos Viajantes
+    auto: true
   - translation_iso: spa
     name: Viajero danés
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カマユラ語
+  - translation_iso: por
+    name: Língua camaiurá
   - translation_iso: spa
     name: Kamayurá
     auto: true

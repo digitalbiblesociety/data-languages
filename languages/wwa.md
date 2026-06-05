@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ワマ語
     auto: true
+  - translation_iso: por
+    name: Língua waama
   - translation_iso: spa
     name: Waama
     auto: true

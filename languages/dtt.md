@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: トロ・テグ・ドゴン語
     auto: true
+  - translation_iso: por
+    name: Língua dogon toro-tegu
   - translation_iso: spa
     name: Dogon Toro Tegu
     auto: true

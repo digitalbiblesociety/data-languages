@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デンディ語
+  - translation_iso: por
+    name: Língua dendi
   - translation_iso: spa
     name: Idioma dendi
   - translation_iso: zho

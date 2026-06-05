@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カブワリ語
     auto: true
+  - translation_iso: por
+    name: Kabwari
+    auto: true
   - translation_iso: spa
     name: Kabwari
     auto: true

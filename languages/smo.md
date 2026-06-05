@@ -28,6 +28,8 @@ translations:
     name: サモア語
   - translation_iso: kor
     name: 사모아어
+  - translation_iso: por
+    name: Língua samoana
   - translation_iso: spa
     name: samoano
   - translation_iso: zho

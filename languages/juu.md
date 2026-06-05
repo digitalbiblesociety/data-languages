@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ユ語
     auto: true
+  - translation_iso: por
+    name: Ju
+    auto: true
   - translation_iso: spa
     name: Ju
     auto: true

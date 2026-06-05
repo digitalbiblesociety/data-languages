@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ビャオ・モン語
     auto: true
+  - translation_iso: por
+    name: Mon biao
+    auto: true
   - translation_iso: spa
     name: Biao Mon
     auto: true

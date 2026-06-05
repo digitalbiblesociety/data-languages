@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サンタ・ルシア・モンテベルデ・ミステク語
     auto: true
+  - translation_iso: por
+    name: Mixteco de Santa Lucía Monteverde
+    auto: true
   - translation_iso: spa
     name: Mixteco de Santa Lucía Monteverde
     auto: true

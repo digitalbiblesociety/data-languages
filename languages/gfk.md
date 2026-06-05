@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パトパタル語
+  - translation_iso: por
+    name: Patpatar
+    auto: true
   - translation_iso: spa
     name: Patpatar
     auto: true

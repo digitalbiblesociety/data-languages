@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イチャテコ族
+  - translation_iso: por
+    name: Ixcateco
+    auto: true
   - translation_iso: spa
     name: ixcateco
   - translation_iso: zho

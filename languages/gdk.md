@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガダン語
     auto: true
+  - translation_iso: por
+    name: Gadang
+    auto: true
   - translation_iso: spa
     name: gadang
   - translation_iso: zho

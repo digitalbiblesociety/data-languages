@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラハ語
+  - translation_iso: por
+    name: Laha (Vietnã)
+    auto: true
   - translation_iso: spa
     name: Laha
     auto: true

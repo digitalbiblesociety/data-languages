@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イシナイ語
+  - translation_iso: por
+    name: Isinai
+    auto: true
   - translation_iso: spa
     name: Isinai
     auto: true

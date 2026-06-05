@@ -27,6 +27,8 @@ translations:
     name: गुटोब भाषा
   - translation_iso: jpn
     name: ガダバ語
+  - translation_iso: por
+    name: Língua gadaba
   - translation_iso: spa
     name: idioma gutob
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マリマニンディ語
     auto: true
+  - translation_iso: por
+    name: Marimanindji
+    auto: true
   - translation_iso: spa
     name: Marimanindji
     auto: true

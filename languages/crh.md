@@ -28,6 +28,8 @@ translations:
     name: クリミア・タタール語
   - translation_iso: kor
     name: 크림 타타르어
+  - translation_iso: por
+    name: tártaro da Crimeia
   - translation_iso: spa
     name: tártaro de Crimea
   - translation_iso: zho

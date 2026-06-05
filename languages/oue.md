@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウネ語
     auto: true
+  - translation_iso: por
+    name: Oune
+    auto: true
   - translation_iso: spa
     name: Oune
     auto: true

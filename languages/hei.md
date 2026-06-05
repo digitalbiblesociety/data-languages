@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヘイルツク語
+  - translation_iso: por
+    name: Heiltsuk
+    auto: true
   - translation_iso: spa
     name: heilchuco
   - translation_iso: zho

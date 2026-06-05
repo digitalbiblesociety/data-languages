@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パモナ語
     auto: true
+  - translation_iso: por
+    name: Pamona
+    auto: true
   - translation_iso: spa
     name: Pamona
     auto: true

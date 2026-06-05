@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミンガン・ドソ語
     auto: true
+  - translation_iso: por
+    name: Mingang Doso
+    auto: true
   - translation_iso: spa
     name: Mingang Doso
     auto: true

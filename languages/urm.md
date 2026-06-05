@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ティファルミン語
     auto: true
+  - translation_iso: por
+    name: Urapmin
+    auto: true
   - translation_iso: spa
     name: Urapmin
     auto: true

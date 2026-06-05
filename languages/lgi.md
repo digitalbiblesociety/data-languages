@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: レンギル語
     auto: true
+  - translation_iso: por
+    name: Lengilu
+    auto: true
   - translation_iso: spa
     name: Lengilu
     auto: true

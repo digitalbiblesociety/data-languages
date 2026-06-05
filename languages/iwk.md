@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イ・ワク語
     auto: true
+  - translation_iso: por
+    name: I-Wak
+    auto: true
   - translation_iso: spa
     name: I-Wak
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: コーニッシュ語
     auto: true
+  - translation_iso: por
+    name: Córnico médio
+    auto: true
   - translation_iso: spa
     name: córnico medio
   - translation_iso: zho

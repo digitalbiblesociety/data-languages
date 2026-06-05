@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブシ語
+  - translation_iso: por
+    name: Língua bushi
   - translation_iso: spa
     name: bushi
   - translation_iso: zho

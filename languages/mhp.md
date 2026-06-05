@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: バリ・マレー語
     auto: true
+  - translation_iso: por
+    name: malaio balinês
+    auto: true
   - translation_iso: spa
     name: Malayo de Bali
     auto: true

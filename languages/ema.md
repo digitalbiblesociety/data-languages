@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エマイ・イウレハ・オラ語
     auto: true
+  - translation_iso: por
+    name: Emai-Iuleha-Ora
+    auto: true
   - translation_iso: spa
     name: Emai-Iuleha-Ora
     auto: true

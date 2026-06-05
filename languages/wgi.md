@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワギ語
+  - translation_iso: por
+    name: Wahgi
+    auto: true
   - translation_iso: spa
     name: Wahgi
     auto: true

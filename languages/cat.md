@@ -28,6 +28,8 @@ translations:
     name: カタルーニャ語
   - translation_iso: kor
     name: 카탈루냐어
+  - translation_iso: por
+    name: língua catalã
   - translation_iso: spa
     name: catalán
   - translation_iso: zho

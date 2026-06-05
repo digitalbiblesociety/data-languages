@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コンバイ語
+  - translation_iso: por
+    name: Kombai
+    auto: true
   - translation_iso: spa
     name: Kombai
     auto: true

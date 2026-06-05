@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カクア語
     auto: true
+  - translation_iso: por
+    name: Língua cacua
   - translation_iso: spa
     name: Idioma kãkwã
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シ語
+  - translation_iso: por
+    name: Língua shi
   - translation_iso: spa
     name: Shi
     auto: true

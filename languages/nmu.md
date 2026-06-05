@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マイドゥ語
+  - translation_iso: por
+    name: Maidu do Nordeste
+    auto: true
   - translation_iso: spa
     name: Maidu nororiental
     auto: true

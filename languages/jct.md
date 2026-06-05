@@ -29,6 +29,8 @@ translations:
     name: クリムチャク語
   - translation_iso: kor
     name: 크림차크어
+  - translation_iso: por
+    name: krimchaque
   - translation_iso: spa
     name: crimchaco
   - translation_iso: zho

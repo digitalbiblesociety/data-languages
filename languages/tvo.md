@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティドレ語
+  - translation_iso: por
+    name: Tidore
+    auto: true
   - translation_iso: spa
     name: Tidore
     auto: true

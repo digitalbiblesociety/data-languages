@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラフォファ諸語
+  - translation_iso: por
+    name: Lafofa
+    auto: true
   - translation_iso: spa
     name: Lenguas lalofa
   - translation_iso: zho

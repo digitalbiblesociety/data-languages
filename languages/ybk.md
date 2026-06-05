@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ボカ語
     auto: true
+  - translation_iso: por
+    name: bokha
+    auto: true
   - translation_iso: spa
     name: Bokha
     auto: true

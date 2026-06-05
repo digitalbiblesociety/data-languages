@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シルムバ語
     auto: true
+  - translation_iso: por
+    name: Shwai
+    auto: true
   - translation_iso: spa
     name: Shwai
     auto: true

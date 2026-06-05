@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: タンダガノン語
     auto: true
+  - translation_iso: por
+    name: Tandaganon
+    auto: true
   - translation_iso: spa
     name: Tandaganon
     auto: true

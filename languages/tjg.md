@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トゥンジュン語
     auto: true
+  - translation_iso: por
+    name: Tunjung
+    auto: true
   - translation_iso: spa
     name: Tunjung
     auto: true

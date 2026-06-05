@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: メサカ語
     auto: true
+  - translation_iso: por
+    name: Mesaka
+    auto: true
   - translation_iso: spa
     name: Mesaka
     auto: true

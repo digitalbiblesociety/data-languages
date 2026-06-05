@@ -29,6 +29,8 @@ translations:
     name: ガリフナ語
   - translation_iso: kor
     name: 가리푸나어
+  - translation_iso: por
+    name: Língua garífuna
   - translation_iso: spa
     name: Idioma garífuna
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: グンド語
     auto: true
+  - translation_iso: por
+    name: Língua goundo
   - translation_iso: spa
     name: Goundo
     auto: true

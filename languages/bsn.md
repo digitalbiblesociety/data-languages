@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: バラサナ・エドゥリア語
     auto: true
+  - translation_iso: por
+    name: Língua barasana-eduria
   - translation_iso: spa
     name: Barasana-Eduria
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムワリ・コモロ語
     auto: true
+  - translation_iso: por
+    name: Comoriano Mwali
+    auto: true
   - translation_iso: spa
     name: Comoriano de Mwali
     auto: true

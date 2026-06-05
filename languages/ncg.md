@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ニスガ語
     auto: true
+  - translation_iso: por
+    name: "Língua nisga'a"
   - translation_iso: spa
     name: "Nisga'a"
     auto: true

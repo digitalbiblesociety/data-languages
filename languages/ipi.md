@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イピリ語
     auto: true
+  - translation_iso: por
+    name: Ipili
+    auto: true
   - translation_iso: spa
     name: Ipili
     auto: true

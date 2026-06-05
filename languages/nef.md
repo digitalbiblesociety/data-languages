@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ネファメセ語
     auto: true
+  - translation_iso: por
+    name: Nefamese
+    auto: true
   - translation_iso: spa
     name: Nefamese
     auto: true

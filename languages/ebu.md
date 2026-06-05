@@ -27,6 +27,8 @@ translations:
     name: エンブ語
   - translation_iso: kor
     name: 엠부어
+  - translation_iso: por
+    name: embu
   - translation_iso: spa
     name: embu
   - translation_iso: zho

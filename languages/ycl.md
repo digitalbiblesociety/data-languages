@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リポ語
+  - translation_iso: por
+    name: lolopo
+    auto: true
   - translation_iso: spa
     name: Lolopo
     auto: true

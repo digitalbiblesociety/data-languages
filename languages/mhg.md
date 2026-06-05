@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マルグ語
     auto: true
+  - translation_iso: por
+    name: Marrgu
   - translation_iso: spa
     name: Margu
     auto: true

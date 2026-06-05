@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 東ポモ語
     auto: true
+  - translation_iso: por
+    name: Pomo Oriental
+    auto: true
   - translation_iso: spa
     name: Pomo oriental
     auto: true

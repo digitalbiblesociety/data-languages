@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムイナネ語
+  - translation_iso: por
+    name: Muinane
+    auto: true
   - translation_iso: spa
     name: muinane
   - translation_iso: zho

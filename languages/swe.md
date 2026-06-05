@@ -28,6 +28,8 @@ translations:
     name: スウェーデン語
   - translation_iso: kor
     name: 스웨덴어
+  - translation_iso: por
+    name: língua sueca
   - translation_iso: spa
     name: sueco
   - translation_iso: zho

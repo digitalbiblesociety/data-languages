@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ティドング語
     auto: true
+  - translation_iso: por
+    name: Murut Serudung
+    auto: true
   - translation_iso: spa
     name: Serudung Murut
     auto: true

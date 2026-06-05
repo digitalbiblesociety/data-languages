@@ -28,6 +28,8 @@ translations:
     name: ニャンコレ語
   - translation_iso: kor
     name: 니안콜어
+  - translation_iso: por
+    name: Língua runyankole
   - translation_iso: spa
     name: runyankole
   - translation_iso: zho

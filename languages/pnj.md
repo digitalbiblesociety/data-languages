@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ピンジャルップ語
     auto: true
+  - translation_iso: por
+    name: Pinjarup
+    auto: true
   - translation_iso: spa
     name: Pinjarup
     auto: true

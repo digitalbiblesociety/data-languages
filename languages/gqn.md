@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: グアナ語
     auto: true
+  - translation_iso: por
+    name: Guana (Brasil)
+    auto: true
   - translation_iso: spa
     name: kinikinao
   - translation_iso: zho

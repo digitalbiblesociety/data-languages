@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: ンジェレプ語
     auto: true
+  - translation_iso: por
+    name: Língua njerep
   - translation_iso: spa
     name: Njerep
     auto: true

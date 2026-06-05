@@ -28,6 +28,8 @@ translations:
     name: キリバス語
   - translation_iso: kor
     name: 키리바시어
+  - translation_iso: por
+    name: Gilbertês
   - translation_iso: spa
     name: gilbertino
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タイカット語
     auto: true
+  - translation_iso: por
+    name: Taikat
+    auto: true
   - translation_iso: spa
     name: Taikat
     auto: true

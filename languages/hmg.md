@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南西部貴陽フモン語
+  - translation_iso: por
+    name: Hmong Guiyang do Sudoeste
+    auto: true
   - translation_iso: spa
     name: Hmong Guiyang suroccidental
     auto: true

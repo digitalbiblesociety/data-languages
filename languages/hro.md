@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ハロイ語
     auto: true
+  - translation_iso: por
+    name: Língua haroi
   - translation_iso: spa
     name: Haroi
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ククヤ語
+  - translation_iso: por
+    name: Teke-Kukuya
+    auto: true
   - translation_iso: spa
     name: Idioma kukuya
   - translation_iso: zho

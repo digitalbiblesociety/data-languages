@@ -29,6 +29,9 @@ translations:
     name: テルナタ語
   - translation_iso: kor
     name: 트르나테어
+  - translation_iso: por
+    name: Ternate
+    auto: true
   - translation_iso: spa
     name: Idioma ternate
   - translation_iso: zho

@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: オルボ語
     auto: true
+  - translation_iso: por
+    name: "Língua olu'bo"
   - translation_iso: spa
     name: "Olu'bo"
     auto: true

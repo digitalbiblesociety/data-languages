@@ -28,6 +28,8 @@ translations:
     name: ルガンダ語
   - translation_iso: kor
     name: 루간다어
+  - translation_iso: por
+    name: Língua luganda
   - translation_iso: spa
     name: luganda
   - translation_iso: zho

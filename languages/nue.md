@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ングンドゥ語
     auto: true
+  - translation_iso: por
+    name: Ngundu
+    auto: true
   - translation_iso: spa
     name: Ngundu
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウィテペック・ミステク語
     auto: true
+  - translation_iso: por
+    name: Mixteco de Huitepec
+    auto: true
   - translation_iso: spa
     name: Mixteco de Huitepec
     auto: true

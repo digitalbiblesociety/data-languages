@@ -28,6 +28,8 @@ translations:
     name: ゼナガ語
   - translation_iso: kor
     name: 제나가어
+  - translation_iso: por
+    name: Língua zenaga
   - translation_iso: spa
     name: Idioma zenaga
   - translation_iso: zho

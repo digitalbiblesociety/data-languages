@@ -28,6 +28,8 @@ translations:
     name: セデック語
   - translation_iso: kor
     name: 세디크어
+  - translation_iso: por
+    name: Língua seediq
   - translation_iso: spa
     name: Idioma seediq
   - translation_iso: zho

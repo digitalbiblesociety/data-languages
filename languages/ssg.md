@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セイマット語
     auto: true
+  - translation_iso: por
+    name: Seimat
+    auto: true
   - translation_iso: spa
     name: Seimat
     auto: true

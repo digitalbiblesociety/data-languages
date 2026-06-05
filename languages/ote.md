@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: メスキタル・オトミ語
     auto: true
+  - translation_iso: por
+    name: otomi de Mezquital
+    auto: true
   - translation_iso: spa
     name: Otomí del Valle del Mezquital
   - translation_iso: zho

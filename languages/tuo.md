@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥカノ語
+  - translation_iso: por
+    name: Língua tucana
   - translation_iso: spa
     name: Idioma tucano
   - translation_iso: zho

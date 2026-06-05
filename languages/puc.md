@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: プナンメラップ語
     auto: true
+  - translation_iso: por
+    name: Punan Merap
+    auto: true
   - translation_iso: spa
     name: Punan Merap
     auto: true

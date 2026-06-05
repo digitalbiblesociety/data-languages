@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ビルバ語
     auto: true
+  - translation_iso: por
+    name: Bilba
+    auto: true
   - translation_iso: spa
     name: Bilba
     auto: true

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キューバ手話
+  - translation_iso: por
+    name: Língua de Sinais Cubana
   - translation_iso: spa
     name: lengua de señas cubana
   - translation_iso: zho

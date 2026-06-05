@@ -31,6 +31,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 가라와어
+  - translation_iso: por
+    name: Língua garawa
   - translation_iso: spa
     name: Garrwa
     auto: true

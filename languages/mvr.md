@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マラウ語
     auto: true
+  - translation_iso: por
+    name: Marau
+    auto: true
   - translation_iso: spa
     name: Marau
     auto: true

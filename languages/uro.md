@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アウラモット語
     auto: true
+  - translation_iso: por
+    name: Ura (Papua-Nova Guiné)
+    auto: true
   - translation_iso: spa
     name: Ura (Papúa Nueva Guinea)
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヨプノ語
     auto: true
+  - translation_iso: por
+    name: yopno
+    auto: true
   - translation_iso: spa
     name: yopno
   - translation_iso: zho

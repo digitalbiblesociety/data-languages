@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中国ブリヤート語
+  - translation_iso: por
+    name: Buriato da China
+    auto: true
   - translation_iso: spa
     name: Buriato de China
     auto: true

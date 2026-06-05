@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラエコ・リブアット語
     auto: true
+  - translation_iso: por
+    name: Laeko-Libuat
+    auto: true
   - translation_iso: spa
     name: Laeko-Libuat
     auto: true

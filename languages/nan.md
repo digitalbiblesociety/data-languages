@@ -28,6 +28,8 @@ translations:
     name: 閩南語
   - translation_iso: kor
     name: 민난어
+  - translation_iso: por
+    name: Min Nan
   - translation_iso: spa
     name: chino min nan
   - translation_iso: zho

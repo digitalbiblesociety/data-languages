@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウェワウ語
     auto: true
+  - translation_iso: por
+    name: Wewaw
+    auto: true
   - translation_iso: spa
     name: Wewaw
     auto: true

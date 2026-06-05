@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: インジノー語
     auto: true
+  - translation_iso: por
+    name: Uradhi
+    auto: true
   - translation_iso: spa
     name: Idioma uradhi
   - translation_iso: zho

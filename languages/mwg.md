@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メーヴェハーフェン語
+  - translation_iso: por
+    name: Aiklep
+    auto: true
   - translation_iso: spa
     name: Aiklep
     auto: true

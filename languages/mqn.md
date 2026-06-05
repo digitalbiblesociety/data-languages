@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: モロネネ語
     auto: true
+  - translation_iso: por
+    name: Língua moronene
   - translation_iso: spa
     name: Moronene
     auto: true

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 마남부어
+  - translation_iso: por
+    name: Manambu
+    auto: true
   - translation_iso: spa
     name: Idioma manambu
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: パピアメント語
   - translation_iso: kor
     name: 파피아멘토어
+  - translation_iso: por
+    name: Papiamento
   - translation_iso: spa
     name: papiamento
   - translation_iso: zho

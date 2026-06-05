@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヴォットー語
     auto: true
+  - translation_iso: por
+    name: Viti
+    auto: true
   - translation_iso: spa
     name: Viti
     auto: true

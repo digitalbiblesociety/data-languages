@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シアモウ語
+  - translation_iso: por
+    name: Siamou
+    auto: true
   - translation_iso: spa
     name: Idioma siamou
   - translation_iso: zho

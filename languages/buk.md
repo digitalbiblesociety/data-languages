@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ブガワック語
     auto: true
+  - translation_iso: por
+    name: Língua bukawa
   - translation_iso: spa
     name: Bugawac
     auto: true

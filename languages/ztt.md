@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テハラパン・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Tejalapan
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Tejalapan
     auto: true

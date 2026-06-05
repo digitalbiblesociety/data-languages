@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マサバ語
+  - translation_iso: por
+    name: Língua masaba
   - translation_iso: spa
     name: Masaaba
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クパティリ語
     auto: true
+  - translation_iso: por
+    name: Kpatili
+    auto: true
   - translation_iso: spa
     name: Kpatili
     auto: true

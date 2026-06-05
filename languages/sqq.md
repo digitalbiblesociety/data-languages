@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 수어
+  - translation_iso: por
+    name: Sou
+    auto: true
   - translation_iso: spa
     name: Sou
     auto: true

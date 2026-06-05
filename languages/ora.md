@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オロハ語
     auto: true
+  - translation_iso: por
+    name: Oroha
+    auto: true
   - translation_iso: spa
     name: oroha
   - translation_iso: zho

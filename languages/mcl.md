@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マカグアエ語
     auto: true
+  - translation_iso: por
+    name: Macaguaje
+    auto: true
   - translation_iso: spa
     name: Macaguaje
     auto: true

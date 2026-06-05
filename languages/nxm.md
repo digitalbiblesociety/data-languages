@@ -26,6 +26,8 @@ translations:
     name: ヌミディア語
   - translation_iso: kor
     name: 누미디아어
+  - translation_iso: por
+    name: Líbico
   - translation_iso: spa
     name: Idioma numidio
   - translation_iso: zho

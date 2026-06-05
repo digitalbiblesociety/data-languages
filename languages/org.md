@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オリング語
     auto: true
+  - translation_iso: por
+    name: Oring
+    auto: true
   - translation_iso: spa
     name: Oring
     auto: true

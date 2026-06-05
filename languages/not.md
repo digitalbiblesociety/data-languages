@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノマツィゲンガ語
+  - translation_iso: por
+    name: nomatsiguenga
   - translation_iso: spa
     name: nomatsiguenga
   - translation_iso: zho

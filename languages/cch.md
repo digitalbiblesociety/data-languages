@@ -28,6 +28,8 @@ translations:
     name: チャワイ語
   - translation_iso: kor
     name: 앗삼어
+  - translation_iso: por
+    name: atsam
   - translation_iso: spa
     name: atsam
   - translation_iso: zho

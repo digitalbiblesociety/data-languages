@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: ンドゥト語
     auto: true
+  - translation_iso: por
+    name: Língua ndut
   - translation_iso: spa
     name: Ndut
     auto: true

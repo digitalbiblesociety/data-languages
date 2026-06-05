@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クンイ語
     auto: true
+  - translation_iso: por
+    name: Kunyi
+    auto: true
   - translation_iso: spa
     name: Kunyi
     auto: true

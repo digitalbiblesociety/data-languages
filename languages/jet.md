@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マネム語
     auto: true
+  - translation_iso: por
+    name: Manem
+    auto: true
   - translation_iso: spa
     name: Manem
     auto: true

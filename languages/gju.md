@@ -27,6 +27,9 @@ translations:
     name: गोजरी भाषा
   - translation_iso: jpn
     name: グジャール語
+  - translation_iso: por
+    name: Gujari
+    auto: true
   - translation_iso: spa
     name: Gujari
     auto: true

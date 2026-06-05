@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナカイ語
     auto: true
+  - translation_iso: por
+    name: Nakai
+    auto: true
   - translation_iso: spa
     name: Nakai
     auto: true

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イリ・チュルク語
+  - translation_iso: por
+    name: Língua ili turki
   - translation_iso: spa
     name: Ili Turki
     auto: true

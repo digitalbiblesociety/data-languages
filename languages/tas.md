@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タイ・ボイ語
     auto: true
+  - translation_iso: por
+    name: Tay Boi
+    auto: true
   - translation_iso: spa
     name: Tay Boi
     auto: true

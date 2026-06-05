@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウォンゴ語
     auto: true
+  - translation_iso: por
+    name: Wongo
+    auto: true
   - translation_iso: spa
     name: Wongo
     auto: true

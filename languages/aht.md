@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アトナ語
+  - translation_iso: por
+    name: Língua ahtna
   - translation_iso: spa
     name: idioma ahtna
   - translation_iso: zho

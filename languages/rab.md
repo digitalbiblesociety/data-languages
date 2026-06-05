@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カムリン語
     auto: true
+  - translation_iso: por
+    name: Língua chamling
   - translation_iso: spa
     name: Camling
     auto: true

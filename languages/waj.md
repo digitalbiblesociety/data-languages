@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワッファ語
     auto: true
+  - translation_iso: por
+    name: Waffa
+    auto: true
   - translation_iso: spa
     name: Waffa
     auto: true

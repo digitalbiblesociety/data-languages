@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ヤードリアワラ語
     auto: true
+  - translation_iso: por
+    name: yardliyawarra
+    auto: true
   - translation_iso: spa
     name: Yardliyawarra
     auto: true

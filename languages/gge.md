@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガル・ゴニ語
     auto: true
+  - translation_iso: por
+    name: Gurr-goni
+    auto: true
   - translation_iso: spa
     name: Gurr-goni
     auto: true

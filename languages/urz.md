@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カワヒブ語
     auto: true
+  - translation_iso: por
+    name: Dialeto uru-eu-uau-uau
   - translation_iso: spa
     name: uru-eu-uau-uau
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ディリク語
     auto: true
+  - translation_iso: por
+    name: Língua dciriku
   - translation_iso: spa
     name: Idioma gciriku
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: 北ポモ語
     auto: true
+  - translation_iso: por
+    name: Língua pomo setentrional
   - translation_iso: spa
     name: Northern Pomo
   - translation_iso: zho

@@ -23,6 +23,9 @@ translations:
     name: アルダマーガディー
   - translation_iso: kor
     name: 아르다마가다어
+  - translation_iso: por
+    name: Prácrito ardhamagadi
+    auto: true
   - translation_iso: spa
     name: Ardhamagadhi
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セメライ語
     auto: true
+  - translation_iso: por
+    name: Semelai
+    auto: true
   - translation_iso: spa
     name: Semelai
     auto: true

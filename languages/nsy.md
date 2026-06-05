@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: ナサル語
     auto: true
+  - translation_iso: por
+    name: Nasal
   - translation_iso: spa
     name: Nasal
   - translation_iso: zho

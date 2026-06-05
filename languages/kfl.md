@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クン語
     auto: true
+  - translation_iso: por
+    name: Kung
+    auto: true
   - translation_iso: spa
     name: Kung
     auto: true

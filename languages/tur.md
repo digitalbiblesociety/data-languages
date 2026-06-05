@@ -28,6 +28,8 @@ translations:
     name: トルコ語
   - translation_iso: kor
     name: 튀르키예어
+  - translation_iso: por
+    name: língua turca
   - translation_iso: spa
     name: turco
   - translation_iso: zho

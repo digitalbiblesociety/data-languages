@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: バランガオ語
     auto: true
+  - translation_iso: por
+    name: Língua balangao
   - translation_iso: spa
     name: Balangao
     auto: true

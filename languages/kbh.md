@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: カムサ語
     auto: true
+  - translation_iso: por
+    name: Língua camsá
   - translation_iso: spa
     name: idioma camsá
   - translation_iso: zho

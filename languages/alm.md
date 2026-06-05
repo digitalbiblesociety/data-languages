@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンブロン語
     auto: true
+  - translation_iso: por
+    name: Amblong
+    auto: true
   - translation_iso: spa
     name: Amblong
     auto: true

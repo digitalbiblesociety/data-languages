@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ランバイェケケチュア語
     auto: true
+  - translation_iso: por
+    name: quéchua de Lambayeque
   - translation_iso: spa
     name: Quechua Incahuasi-Cañaris
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カラ語
     auto: true
+  - translation_iso: por
+    name: Cara
+    auto: true
   - translation_iso: spa
     name: cara
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バランタク語
     auto: true
+  - translation_iso: por
+    name: Balantak
   - translation_iso: spa
     name: Balantak
   - translation_iso: zho

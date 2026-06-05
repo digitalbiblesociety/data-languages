@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パカワラ語
     auto: true
+  - translation_iso: por
+    name: Pacahuara
+    auto: true
   - translation_iso: spa
     name: idioma pacahuara
   - translation_iso: zho

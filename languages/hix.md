@@ -29,6 +29,8 @@ translations:
     name: ヒシュカリヤナ語
   - translation_iso: kor
     name: 히슈카랴나어
+  - translation_iso: por
+    name: Hixkaryana
   - translation_iso: spa
     name: Idioma hixkaryána
   - translation_iso: zho

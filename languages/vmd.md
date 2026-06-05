@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コラッグ語
     auto: true
+  - translation_iso: por
+    name: Mudu Koraga
+    auto: true
   - translation_iso: spa
     name: Mudu Koraga
     auto: true

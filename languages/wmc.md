@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワマス語
     auto: true
+  - translation_iso: por
+    name: Wamas
+    auto: true
   - translation_iso: spa
     name: Wamas
     auto: true

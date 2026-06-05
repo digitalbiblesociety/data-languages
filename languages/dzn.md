@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ジャンド語
     auto: true
+  - translation_iso: por
+    name: Dzando
+    auto: true
   - translation_iso: spa
     name: Dzando
     auto: true

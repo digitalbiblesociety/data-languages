@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ベランダ・ビリ語
     auto: true
+  - translation_iso: por
+    name: Belanda Viri
+    auto: true
   - translation_iso: spa
     name: Belanda Viri
     auto: true

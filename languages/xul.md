@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ングナワル語
     auto: true
+  - translation_iso: por
+    name: ngunawal
+    auto: true
   - translation_iso: spa
     name: Idioma ngunnawal
   - translation_iso: zho

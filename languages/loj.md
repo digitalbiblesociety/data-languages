@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロウ語
     auto: true
+  - translation_iso: por
+    name: Lou
+    auto: true
   - translation_iso: spa
     name: Lou
     auto: true

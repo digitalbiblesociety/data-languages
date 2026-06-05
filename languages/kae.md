@@ -30,6 +30,9 @@ translations:
     name: ケタガラン語
   - translation_iso: kor
     name: 케타가란어
+  - translation_iso: por
+    name: Ketangalan
+    auto: true
   - translation_iso: spa
     name: Luilang
   - translation_iso: zho

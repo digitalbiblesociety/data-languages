@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヴァルペイ語
     auto: true
+  - translation_iso: por
+    name: Valpei
+    auto: true
   - translation_iso: spa
     name: Valpei
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: コロワイ語
     auto: true
+  - translation_iso: por
+    name: Língua korowai
   - translation_iso: spa
     name: Korowai
     auto: true

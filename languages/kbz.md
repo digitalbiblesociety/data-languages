@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ドゥフワ語
     auto: true
+  - translation_iso: por
+    name: Duhwa
+    auto: true
   - translation_iso: spa
     name: Duhwa
     auto: true

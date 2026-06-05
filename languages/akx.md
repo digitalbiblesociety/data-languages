@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아카케데어
+  - translation_iso: por
+    name: Aka-Kede
+    auto: true
   - translation_iso: spa
     name: Idioma kede
   - translation_iso: zho

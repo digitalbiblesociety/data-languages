@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オマハ語
+  - translation_iso: por
+    name: Língua omaha
   - translation_iso: spa
     name: idioma omaha
   - translation_iso: zho

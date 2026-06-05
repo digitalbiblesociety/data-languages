@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: メインストリーム・ケニャ語
     auto: true
+  - translation_iso: por
+    name: Kenyah Convencional
+    auto: true
   - translation_iso: spa
     name: Kenyah estándar
     auto: true

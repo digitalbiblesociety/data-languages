@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古チベット語
+  - translation_iso: por
+    name: tibetano antigo
+    auto: true
   - translation_iso: spa
     name: tibetano antiguo
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: レモラン語
     auto: true
+  - translation_iso: por
+    name: Lemolang
+    auto: true
   - translation_iso: spa
     name: Lemolang
     auto: true

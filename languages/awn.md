@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アウンギ語
     auto: true
+  - translation_iso: por
+    name: Língua awngi
   - translation_iso: spa
     name: Awngi
     auto: true

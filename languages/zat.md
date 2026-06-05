@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タバア・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Tabaa
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Tabaá
   - translation_iso: zho

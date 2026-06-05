@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タリエン語
     auto: true
+  - translation_iso: por
+    name: Talieng
+    auto: true
   - translation_iso: spa
     name: Talieng
     auto: true

@@ -27,6 +27,9 @@ translations:
     name: पेंगो भाषा
   - translation_iso: jpn
     name: ペンゴ語
+  - translation_iso: por
+    name: Pengo
+    auto: true
   - translation_iso: spa
     name: Pengo
     auto: true

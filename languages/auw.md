@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アウィ語
     auto: true
+  - translation_iso: por
+    name: Awyi
   - translation_iso: spa
     name: Awyi
   - translation_iso: zho

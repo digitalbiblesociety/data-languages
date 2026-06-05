@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南ボリビアンケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua da Bolívia do Sul
+    auto: true
   - translation_iso: spa
     name: quechua sudboliviano
   - translation_iso: zho

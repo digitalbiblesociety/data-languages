@@ -28,6 +28,8 @@ translations:
     name: ソト語
   - translation_iso: kor
     name: 소토어
+  - translation_iso: por
+    name: língua soto do sul
   - translation_iso: spa
     name: sesotho
   - translation_iso: zho

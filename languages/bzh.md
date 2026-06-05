@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マポス・ブアング語
     auto: true
+  - translation_iso: por
+    name: Buang Mapos
+    auto: true
   - translation_iso: spa
     name: Mapos buang
   - translation_iso: zho

@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ヤン・ナハン手話
     auto: true
+  - translation_iso: por
+    name: língua de sinais yan-nhaŋu
+    auto: true
   - translation_iso: spa
     name: Lengua de señas Yan-nhaŋu
     auto: true

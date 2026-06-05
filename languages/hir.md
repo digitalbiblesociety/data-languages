@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヒマリマ語
     auto: true
+  - translation_iso: por
+    name: Himarimã
+    auto: true
   - translation_iso: spa
     name: Himarimã
   - translation_iso: zho

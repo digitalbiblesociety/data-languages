@@ -30,6 +30,9 @@ translations:
     name: ヤンカール語
   - translation_iso: kor
     name: 카야르딜드어
+  - translation_iso: por
+    name: Kayardild
+    auto: true
   - translation_iso: spa
     name: Kayardild
     auto: true

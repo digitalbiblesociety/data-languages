@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コファ語
     auto: true
+  - translation_iso: por
+    name: Kofa
+    auto: true
   - translation_iso: spa
     name: Kofa
     auto: true

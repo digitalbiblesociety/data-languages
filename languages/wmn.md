@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワムワン語
     auto: true
+  - translation_iso: por
+    name: Waamwang
+    auto: true
   - translation_iso: spa
     name: Waamwang
     auto: true

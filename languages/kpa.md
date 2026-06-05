@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クット語
     auto: true
+  - translation_iso: por
+    name: Kutto
+    auto: true
   - translation_iso: spa
     name: Kutto
     auto: true

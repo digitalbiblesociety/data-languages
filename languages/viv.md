@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヴィヴィガニ語
     auto: true
+  - translation_iso: por
+    name: Iduna
+    auto: true
   - translation_iso: spa
     name: Iduna
     auto: true

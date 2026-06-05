@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムトゥ語
+  - translation_iso: por
+    name: Mutu
+    auto: true
   - translation_iso: spa
     name: Mutu
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: エウォンド語
   - translation_iso: kor
     name: 이원도어
+  - translation_iso: por
+    name: Língua ewondo
   - translation_iso: spa
     name: ewondo
   - translation_iso: zho

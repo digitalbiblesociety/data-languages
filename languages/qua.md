@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: クアパー語
     auto: true
+  - translation_iso: por
+    name: Língua quapaw
   - translation_iso: spa
     name: Quapaw
     auto: true

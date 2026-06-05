@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: キホロ語
     auto: true
+  - translation_iso: por
+    name: Samba
+    auto: true
   - translation_iso: spa
     name: Samba
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アノボネセ語
+  - translation_iso: por
+    name: "Fá d'Ambô"
   - translation_iso: spa
     name: criollo annobonense
   - translation_iso: zho

@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ガンダンガラ語
     auto: true
+  - translation_iso: por
+    name: Gundungurra
+    auto: true
   - translation_iso: spa
     name: Gundungurra
     auto: true

@@ -27,6 +27,8 @@ translations:
     name: शुस्वाप भाषा
   - translation_iso: jpn
     name: シュスワプ語
+  - translation_iso: por
+    name: Língua shuswap
   - translation_iso: spa
     name: Shuswap
   - translation_iso: zho

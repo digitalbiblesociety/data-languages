@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ケレウェ語
     auto: true
+  - translation_iso: por
+    name: Kerewe
+    auto: true
   - translation_iso: spa
     name: Kerewe
     auto: true

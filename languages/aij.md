@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノシャン語
+  - translation_iso: por
+    name: Lishanid Noshan
+    auto: true
   - translation_iso: spa
     name: Lishanid Noshan
   - translation_iso: zho

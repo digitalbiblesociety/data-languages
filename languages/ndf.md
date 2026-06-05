@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナドルヴィア語
+  - translation_iso: por
+    name: Nadruviano
+    auto: true
   - translation_iso: spa
     name: nadruviano
   - translation_iso: zho

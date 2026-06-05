@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ドンベ語
     auto: true
+  - translation_iso: por
+    name: Dombe
+    auto: true
   - translation_iso: spa
     name: Dombe
     auto: true

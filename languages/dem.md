@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: デム語
     auto: true
+  - translation_iso: por
+    name: Dem
+    auto: true
   - translation_iso: spa
     name: Dem
     auto: true

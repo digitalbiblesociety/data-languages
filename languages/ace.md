@@ -28,6 +28,8 @@ translations:
     name: アチェ語
   - translation_iso: kor
     name: 아체어
+  - translation_iso: por
+    name: língua achém
   - translation_iso: spa
     name: idioma achenés
   - translation_iso: zho

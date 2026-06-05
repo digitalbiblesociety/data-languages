@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クウェラ・ゲベ語
     auto: true
+  - translation_iso: por
+    name: xwela gbe
+    auto: true
   - translation_iso: spa
     name: Xwela Gbe
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 邕南チワン語
+  - translation_iso: por
+    name: zhuang de Yongnan
+    auto: true
   - translation_iso: spa
     name: Zhuang de Yongnan
     auto: true

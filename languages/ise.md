@@ -29,6 +29,9 @@ translations:
     name: イタリア手話
   - translation_iso: kor
     name: 이탈리아 수화
+  - translation_iso: por
+    name: Língua de Sinais Italiana
+    auto: true
   - translation_iso: spa
     name: lengua de signos italiana
   - translation_iso: zho

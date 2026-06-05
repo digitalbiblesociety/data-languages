@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Songoora語
+  - translation_iso: por
+    name: Língua songola
   - translation_iso: spa
     name: Songoora
     auto: true

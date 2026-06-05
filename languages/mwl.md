@@ -28,6 +28,8 @@ translations:
     name: ミランダ語
   - translation_iso: kor
     name: 미란다어
+  - translation_iso: por
+    name: mirandês
   - translation_iso: spa
     name: mirandés
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: リブン語
     auto: true
+  - translation_iso: por
+    name: Ribun
+    auto: true
   - translation_iso: spa
     name: Ribun
     auto: true

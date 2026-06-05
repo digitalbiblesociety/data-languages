@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セイシェル手話
     auto: true
+  - translation_iso: por
+    name: Língua de Sinais das Seicheles
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Seychelles
     auto: true

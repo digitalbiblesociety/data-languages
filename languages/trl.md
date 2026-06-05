@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トラベラー・スコットランド語
     auto: true
+  - translation_iso: por
+    name: Escocês dos Viajantes
+    auto: true
   - translation_iso: spa
     name: Cant escocés
     auto: true

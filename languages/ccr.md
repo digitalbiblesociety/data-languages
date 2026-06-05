@@ -31,6 +31,9 @@ translations:
   - translation_iso: jpn
     name: カカオペラ語
     auto: true
+  - translation_iso: por
+    name: Cacaopera
+    auto: true
   - translation_iso: spa
     name: Cacaopera
   - translation_iso: zho

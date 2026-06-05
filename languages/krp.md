@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コロプ語
     auto: true
+  - translation_iso: por
+    name: Korop
+    auto: true
   - translation_iso: spa
     name: Korop
     auto: true

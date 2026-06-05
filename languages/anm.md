@@ -25,6 +25,8 @@ translations:
     name: अनाल भाषा
   - translation_iso: jpn
     name: アナル語
+  - translation_iso: por
+    name: Idioma Anāl
   - translation_iso: spa
     name: Idioma anal
   - translation_iso: zho

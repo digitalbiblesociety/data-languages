@@ -27,6 +27,9 @@ translations:
     name: ベオスック語
   - translation_iso: kor
     name: 베오투크어
+  - translation_iso: por
+    name: Beothuk
+    auto: true
   - translation_iso: spa
     name: beothuk
   - translation_iso: zho

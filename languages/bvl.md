@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボリビア手話
+  - translation_iso: por
+    name: Língua gestual boliviana
   - translation_iso: spa
     name: lengua de señas bolivianas
   - translation_iso: zho

@@ -30,6 +30,8 @@ translations:
     name: 与論島方言
   - translation_iso: kor
     name: 요론 방언
+  - translation_iso: por
+    name: Língua yoron
   - translation_iso: spa
     name: idioma Yoron
   - translation_iso: zho

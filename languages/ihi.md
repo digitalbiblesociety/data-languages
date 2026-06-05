@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: イヒエブベ語
     auto: true
+  - translation_iso: por
+    name: Ihievbe
+    auto: true
   - translation_iso: spa
     name: Ihievbe
     auto: true

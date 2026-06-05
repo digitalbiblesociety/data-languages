@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マクワ・シリマ語
     auto: true
+  - translation_iso: por
+    name: Makhuwa-Shirima
+    auto: true
   - translation_iso: spa
     name: Makhuwa-Shirima
     auto: true

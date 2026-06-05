@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハドラマウト語
+  - translation_iso: por
+    name: Hadrami
+    auto: true
   - translation_iso: spa
     name: Idioma hadramita
   - translation_iso: zho

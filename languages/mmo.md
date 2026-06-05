@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マンガ・ブアン語
     auto: true
+  - translation_iso: por
+    name: Mangga Buang
+    auto: true
   - translation_iso: spa
     name: Mangga Buang
   - translation_iso: zho

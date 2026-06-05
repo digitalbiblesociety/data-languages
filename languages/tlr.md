@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タリセ語
     auto: true
+  - translation_iso: por
+    name: Talise
+    auto: true
   - translation_iso: spa
     name: Talise
     auto: true

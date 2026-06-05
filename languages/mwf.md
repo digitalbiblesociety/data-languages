@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムリンパタ語
+  - translation_iso: por
+    name: Murrinh-Patha
+    auto: true
   - translation_iso: spa
     name: Murrinh-Patha
     auto: true

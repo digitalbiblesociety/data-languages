@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ガフリ語
     auto: true
+  - translation_iso: por
+    name: Gahri
+    auto: true
   - translation_iso: spa
     name: Gahri
     auto: true

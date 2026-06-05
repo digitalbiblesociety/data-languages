@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: グリンジ・クリオル語
     auto: true
+  - translation_iso: por
+    name: crioulo gurindji
+    auto: true
   - translation_iso: spa
     name: Gurindji Kriol
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロンガ語
+  - translation_iso: por
+    name: Amara
+    auto: true
   - translation_iso: spa
     name: Amara
     auto: true

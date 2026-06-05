@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤウル語
     auto: true
+  - translation_iso: por
+    name: yaul
+    auto: true
   - translation_iso: spa
     name: Yaul
     auto: true

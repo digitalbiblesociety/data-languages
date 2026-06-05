@@ -27,6 +27,8 @@ translations:
     name: コクバラ語
   - translation_iso: kor
     name: 콕보록어
+  - translation_iso: por
+    name: Língua kokborok
   - translation_iso: spa
     name: idioma kokborok
   - translation_iso: zho

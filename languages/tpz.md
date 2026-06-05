@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヴァスイ語
     auto: true
+  - translation_iso: por
+    name: Tinputz
+    auto: true
   - translation_iso: spa
     name: Tinputz
   - translation_iso: zho

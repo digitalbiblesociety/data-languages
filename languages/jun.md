@@ -28,6 +28,8 @@ translations:
     name: ジュアング語
   - translation_iso: kor
     name: 주앙
+  - translation_iso: por
+    name: Língua juang
   - translation_iso: spa
     name: Juang
     auto: true

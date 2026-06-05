@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムソム語
     auto: true
+  - translation_iso: por
+    name: Musom
+    auto: true
   - translation_iso: spa
     name: Musom
     auto: true

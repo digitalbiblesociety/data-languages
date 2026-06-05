@@ -29,6 +29,8 @@ translations:
     name: グニヤンディ語
   - translation_iso: kor
     name: 구니얀디어
+  - translation_iso: por
+    name: Língua guniyandi
   - translation_iso: spa
     name: Gooniyandi
     auto: true

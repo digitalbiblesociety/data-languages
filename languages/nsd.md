@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南ニス語
     auto: true
+  - translation_iso: por
+    name: Nisu Meridional
+    auto: true
   - translation_iso: spa
     name: Nisu Meridional
     auto: true

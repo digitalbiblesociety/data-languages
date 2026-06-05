@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 베르타어
+  - translation_iso: por
+    name: Berta
+    auto: true
   - translation_iso: spa
     name: Idioma berta
   - translation_iso: zho

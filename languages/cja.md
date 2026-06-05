@@ -29,6 +29,8 @@ translations:
     name: チャム語
   - translation_iso: kor
     name: 참어
+  - translation_iso: por
+    name: Língua cham
   - translation_iso: spa
     name: idioma cham
   - translation_iso: zho

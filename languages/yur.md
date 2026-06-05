@@ -28,6 +28,8 @@ translations:
     name: ユロック語
   - translation_iso: kor
     name: 유로크어
+  - translation_iso: por
+    name: Língua yurok
   - translation_iso: spa
     name: yurok
   - translation_iso: zho

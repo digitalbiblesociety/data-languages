@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: セウセ語
     auto: true
+  - translation_iso: por
+    name: Sause
+    auto: true
   - translation_iso: spa
     name: Sause
     auto: true

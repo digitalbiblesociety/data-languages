@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポウハタン語
+  - translation_iso: por
+    name: Língua powhatan
   - translation_iso: spa
     name: Powhatan
   - translation_iso: zho

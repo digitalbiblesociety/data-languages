@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: サザン・リンコン・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Rincon do Sul
+    auto: true
   - translation_iso: spa
     name: Zapoteco del Rincón Sur
     auto: true

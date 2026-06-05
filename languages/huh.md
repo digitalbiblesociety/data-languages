@@ -29,6 +29,8 @@ translations:
     name: ウィリチェ語
   - translation_iso: kor
     name: 윌리체어
+  - translation_iso: por
+    name: Idioma huilliche
   - translation_iso: spa
     name: Chesungun
   - translation_iso: zho

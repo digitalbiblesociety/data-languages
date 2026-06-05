@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ワディカリ語
     auto: true
+  - translation_iso: por
+    name: Wadikali
+    auto: true
   - translation_iso: spa
     name: Wadikali
     auto: true

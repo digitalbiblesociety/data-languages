@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワイワイ語
+  - translation_iso: por
+    name: Língua uaiuai
   - translation_iso: spa
     name: Waiwai
     auto: true

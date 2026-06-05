@@ -28,6 +28,8 @@ translations:
     name: ソマリ語
   - translation_iso: kor
     name: 소말리어
+  - translation_iso: por
+    name: Língua somali
   - translation_iso: spa
     name: somalí
   - translation_iso: zho

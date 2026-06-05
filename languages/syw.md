@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カゲート語
     auto: true
+  - translation_iso: por
+    name: Kagate
+    auto: true
   - translation_iso: spa
     name: Kagate
     auto: true

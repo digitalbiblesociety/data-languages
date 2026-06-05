@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ディア語
     auto: true
+  - translation_iso: por
+    name: Dia
+    auto: true
   - translation_iso: spa
     name: Dia
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オズマシン・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Chinanteco de Ozumacín
+    auto: true
   - translation_iso: spa
     name: chinanteca de Ozumacín
   - translation_iso: zho

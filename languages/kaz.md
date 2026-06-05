@@ -28,6 +28,8 @@ translations:
     name: カザフ語
   - translation_iso: kor
     name: 카자흐어
+  - translation_iso: por
+    name: língua cazaque
   - translation_iso: spa
     name: kazajo
   - translation_iso: zho

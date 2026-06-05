@@ -28,6 +28,8 @@ translations:
     name: リグリア語
   - translation_iso: kor
     name: 리구리아어
+  - translation_iso: por
+    name: Língua lígure
   - translation_iso: spa
     name: idioma ligur
   - translation_iso: zho

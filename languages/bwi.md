@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バニワ語
+  - translation_iso: por
+    name: baniua
   - translation_iso: spa
     name: baniwa
   - translation_iso: zho

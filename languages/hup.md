@@ -28,6 +28,8 @@ translations:
     name: フーパ語
   - translation_iso: kor
     name: 후파어
+  - translation_iso: por
+    name: Língua hupa
   - translation_iso: spa
     name: Hupa
   - translation_iso: zho

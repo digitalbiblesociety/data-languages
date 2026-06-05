@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: シシレ語
     auto: true
+  - translation_iso: por
+    name: Senufo Sìcìté
+    auto: true
   - translation_iso: spa
     name: Senoufo Sìcìté
     auto: true

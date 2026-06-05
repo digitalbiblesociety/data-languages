@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ノムラキ語
     auto: true
+  - translation_iso: por
+    name: Nomlaki
+    auto: true
   - translation_iso: spa
     name: Nomlaki
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パイパイ語
+  - translation_iso: por
+    name: Língua paipai
   - translation_iso: spa
     name: paipai
   - translation_iso: zho

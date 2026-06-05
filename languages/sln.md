@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サリナ語
+  - translation_iso: por
+    name: Salinan
+    auto: true
   - translation_iso: spa
     name: Salinero
   - translation_iso: zho

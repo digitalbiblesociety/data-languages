@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: ジアロ語
     auto: true
+  - translation_iso: por
+    name: Língua zialo
   - translation_iso: spa
     name: Zialo
     auto: true

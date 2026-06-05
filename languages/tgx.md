@@ -27,6 +27,8 @@ translations:
     name: タギシュ語
   - translation_iso: kor
     name: 타기시어
+  - translation_iso: por
+    name: Língua tagish
   - translation_iso: spa
     name: tagish
   - translation_iso: zho

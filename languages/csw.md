@@ -28,6 +28,8 @@ translations:
     name: 湿原クリー語
   - translation_iso: kor
     name: 습지 크리어
+  - translation_iso: por
+    name: Língua swampy cree leste
   - translation_iso: spa
     name: cree de los pantanos
   - translation_iso: zho

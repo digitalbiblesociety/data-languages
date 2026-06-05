@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: プエルチェ語
     auto: true
+  - translation_iso: por
+    name: Língua puelche
   - translation_iso: spa
     name: gününa këna
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヌブリ語
     auto: true
+  - translation_iso: por
+    name: Nubri
+    auto: true
   - translation_iso: spa
     name: Nubri
   - translation_iso: zho

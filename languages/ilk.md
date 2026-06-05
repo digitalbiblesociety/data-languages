@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イロンゴット語
+  - translation_iso: por
+    name: Língua bugkalot
   - translation_iso: spa
     name: Ilongot
     auto: true

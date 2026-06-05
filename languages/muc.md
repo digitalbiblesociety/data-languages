@@ -19,7 +19,7 @@ translations:
     name: لغة أجومبو
     auto: true
   - translation_iso: deu
-    name: "Mbu'"
+    name: Mbu
   - translation_iso: fra
     name: ajumbu
   - translation_iso: hin
@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アジュムブ語
+    auto: true
+  - translation_iso: por
+    name: Ajumbu
     auto: true
   - translation_iso: spa
     name: Ajumbu

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マンゲル語
     auto: true
+  - translation_iso: por
+    name: mangerr
+    auto: true
   - translation_iso: spa
     name: Mangerr
     auto: true

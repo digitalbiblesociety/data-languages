@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アイチャム語
     auto: true
+  - translation_iso: por
+    name: Ai-Cham
+    auto: true
   - translation_iso: spa
     name: Ai-Cham
     auto: true

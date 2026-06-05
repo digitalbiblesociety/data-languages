@@ -29,6 +29,8 @@ translations:
     name: ハンティ語
   - translation_iso: kor
     name: 한티어
+  - translation_iso: por
+    name: ostíaco
   - translation_iso: spa
     name: janti
   - translation_iso: zho

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エクアドル手話
+  - translation_iso: por
+    name: Língua de Sinais do Equador
   - translation_iso: spa
     name: Lengua de señas de Ecuador
   - translation_iso: zho

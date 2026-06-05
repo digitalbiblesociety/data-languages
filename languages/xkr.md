@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シャクリアバ語
     auto: true
+  - translation_iso: por
+    name: Xakriabá
+    auto: true
   - translation_iso: spa
     name: Xakriabá
     auto: true

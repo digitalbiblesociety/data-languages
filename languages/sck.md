@@ -29,6 +29,8 @@ translations:
     name: サドリ語
   - translation_iso: kor
     name: 사드리어
+  - translation_iso: por
+    name: Língua sadri
   - translation_iso: spa
     name: Sadri
     auto: true

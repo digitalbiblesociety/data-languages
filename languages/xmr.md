@@ -22,6 +22,8 @@ translations:
     name: मेरोइटिक भाषा
   - translation_iso: jpn
     name: メロエ語
+  - translation_iso: por
+    name: meróitico
   - translation_iso: spa
     name: meroítico
   - translation_iso: zho

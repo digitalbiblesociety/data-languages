@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンガ・カヌリ語
+  - translation_iso: por
+    name: Kanuri Manga
+    auto: true
   - translation_iso: spa
     name: Kanuri Manga
     auto: true

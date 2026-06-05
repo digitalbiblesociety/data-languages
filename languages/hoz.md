@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ホゾ語
     auto: true
+  - translation_iso: por
+    name: Hozo
+    auto: true
   - translation_iso: spa
     name: Hozo
     auto: true

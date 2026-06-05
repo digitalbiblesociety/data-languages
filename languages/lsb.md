@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ブルンジ手話
     auto: true
+  - translation_iso: por
+    name: Língua de Sinais Burundesa
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Burundi
     auto: true

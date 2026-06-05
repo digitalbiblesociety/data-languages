@@ -30,6 +30,8 @@ translations:
     name: 喜界島方言
   - translation_iso: kor
     name: 키카이 방언
+  - translation_iso: por
+    name: língua kikai
   - translation_iso: spa
     name: Kikai
     auto: true

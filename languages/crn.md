@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: エル・ナヤル・コラ語
     auto: true
+  - translation_iso: por
+    name: Cora de El Nayar
+    auto: true
   - translation_iso: spa
     name: Cora
   - translation_iso: zho

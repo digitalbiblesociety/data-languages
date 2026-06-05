@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カニテ語
+  - translation_iso: por
+    name: Kanite
+    auto: true
   - translation_iso: spa
     name: Kanite
     auto: true

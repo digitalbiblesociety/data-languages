@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カラマンタ語
     auto: true
+  - translation_iso: por
+    name: Caramanta
+    auto: true
   - translation_iso: spa
     name: Caramanta
     auto: true

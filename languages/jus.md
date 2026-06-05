@@ -27,6 +27,9 @@ translations:
     name: जुमला सांकेतिक भाषा
   - translation_iso: jpn
     name: ジュムラ手話
+  - translation_iso: por
+    name: Língua de Sinais de Jumla
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Jumla
     auto: true

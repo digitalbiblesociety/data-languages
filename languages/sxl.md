@@ -22,6 +22,9 @@ translations:
     name: セロニア語
   - translation_iso: kor
     name: 셀로니아어
+  - translation_iso: por
+    name: Selian
+    auto: true
   - translation_iso: spa
     name: selonio
   - translation_iso: zho

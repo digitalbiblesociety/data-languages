@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤラ語
     auto: true
+  - translation_iso: por
+    name: yala
+    auto: true
   - translation_iso: spa
     name: Yala
     auto: true

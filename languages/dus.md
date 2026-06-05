@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥミー語
+  - translation_iso: por
+    name: Língua dumi
   - translation_iso: spa
     name: idioma dumi
   - translation_iso: zho

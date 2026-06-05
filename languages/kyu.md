@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 西カヤ語
     auto: true
+  - translation_iso: por
+    name: Kayah ocidental
+    auto: true
   - translation_iso: spa
     name: Kayah Occidental
     auto: true

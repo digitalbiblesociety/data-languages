@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 조호르-리아우 말레이어
+  - translation_iso: por
+    name: malaio
+    auto: true
   - translation_iso: spa
     name: Malayo
     auto: true

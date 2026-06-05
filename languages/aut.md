@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オーストラル語
+  - translation_iso: por
+    name: Língua austral
   - translation_iso: spa
     name: australés
   - translation_iso: zho

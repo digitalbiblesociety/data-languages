@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: レッタ語
     auto: true
+  - translation_iso: por
+    name: Retta
   - translation_iso: spa
     name: Retta
   - translation_iso: zho

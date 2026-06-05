@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ピアマツィーナ語
     auto: true
+  - translation_iso: por
+    name: Piamatsina
+    auto: true
   - translation_iso: spa
     name: Piamatsina
     auto: true

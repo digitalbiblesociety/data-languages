@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カイス語
     auto: true
+  - translation_iso: por
+    name: Kais
+    auto: true
   - translation_iso: spa
     name: Kais
     auto: true

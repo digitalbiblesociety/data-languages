@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティディケルト語
+  - translation_iso: por
+    name: Tamazight de Tidikelt
+    auto: true
   - translation_iso: spa
     name: Idioma tidikelt
   - translation_iso: zho

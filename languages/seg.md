@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キセゲジュ語
     auto: true
+  - translation_iso: por
+    name: Segeju
+    auto: true
   - translation_iso: spa
     name: Segeju
     auto: true

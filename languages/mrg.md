@@ -27,6 +27,9 @@ translations:
     name: मिसिंग भाषा
   - translation_iso: jpn
     name: ミシン語
+  - translation_iso: por
+    name: Mising
+    auto: true
   - translation_iso: spa
     name: mising
   - translation_iso: zho

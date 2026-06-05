@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ステリングワルフス語
     auto: true
+  - translation_iso: por
+    name: Língua stellingwarfs
   - translation_iso: spa
     name: Stellingwerfs
     auto: true

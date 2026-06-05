@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ビッブルマン語
     auto: true
+  - translation_iso: por
+    name: Bibbulman
+    auto: true
   - translation_iso: spa
     name: Bibbulman
     auto: true

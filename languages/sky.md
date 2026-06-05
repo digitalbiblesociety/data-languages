@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シカイアナ語
+  - translation_iso: por
+    name: Língua sikaiana
   - translation_iso: spa
     name: Sikaiana
     auto: true

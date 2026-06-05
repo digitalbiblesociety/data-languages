@@ -26,6 +26,9 @@ translations:
     name: मंदायलिंग बतक भाषा
   - translation_iso: jpn
     name: バタク・マンダイリン語
+  - translation_iso: por
+    name: Batak Mandailing
+    auto: true
   - translation_iso: spa
     name: Batak Mandailing
     auto: true

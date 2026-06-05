@@ -29,6 +29,8 @@ translations:
     name: カラタ語
   - translation_iso: kor
     name: 카라타어
+  - translation_iso: por
+    name: Língua karata
   - translation_iso: spa
     name: Karata
     auto: true

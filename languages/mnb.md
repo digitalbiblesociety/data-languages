@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムナ語
+  - translation_iso: por
+    name: Língua muna
   - translation_iso: spa
     name: Muna
   - translation_iso: zho

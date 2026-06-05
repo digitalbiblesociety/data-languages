@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: パエリグニア語
     auto: true
+  - translation_iso: por
+    name: Peligno
+    auto: true
   - translation_iso: spa
     name: Idioma peligno
   - translation_iso: zho

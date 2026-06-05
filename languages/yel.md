@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イェラ語
     auto: true
+  - translation_iso: por
+    name: yela
+    auto: true
   - translation_iso: spa
     name: Yela
     auto: true

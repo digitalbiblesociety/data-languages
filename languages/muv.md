@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムトゥヴァン語
     auto: true
+  - translation_iso: por
+    name: Muthuvan
+    auto: true
   - translation_iso: spa
     name: Muthuvan
     auto: true

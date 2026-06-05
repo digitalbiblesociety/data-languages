@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キル・バラル語
+  - translation_iso: por
+    name: Kir-Balar
+    auto: true
   - translation_iso: spa
     name: Kir-Balar
     auto: true

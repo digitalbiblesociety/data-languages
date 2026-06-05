@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: スラ語
     auto: true
+  - translation_iso: por
+    name: Sula
+    auto: true
   - translation_iso: spa
     name: Sula
     auto: true

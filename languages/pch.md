@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パルダン語
     auto: true
+  - translation_iso: por
+    name: Pardhan
+    auto: true
   - translation_iso: spa
     name: pardhan
   - translation_iso: zho

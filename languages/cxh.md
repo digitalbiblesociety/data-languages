@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: チャアリ語
     auto: true
+  - translation_iso: por
+    name: "Cha'ari"
+    auto: true
   - translation_iso: spa
     name: "Cha'ari"
     auto: true

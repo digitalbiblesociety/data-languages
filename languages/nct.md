@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: チョテ・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Chothe
+    auto: true
   - translation_iso: spa
     name: Naga Chothe
     auto: true

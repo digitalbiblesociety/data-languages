@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 中央バイ語
     auto: true
+  - translation_iso: por
+    name: Bai central
+    auto: true
   - translation_iso: spa
     name: Bai Central
     auto: true

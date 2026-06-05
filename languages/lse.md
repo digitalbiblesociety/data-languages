@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ルセンゴ語
     auto: true
+  - translation_iso: por
+    name: Lusengo
+    auto: true
   - translation_iso: spa
     name: Lusengo
     auto: true

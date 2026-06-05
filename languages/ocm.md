@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: 古チャム語
     auto: true
+  - translation_iso: por
+    name: cham antigo
+    auto: true
   - translation_iso: spa
     name: Cham antiguo
     auto: true

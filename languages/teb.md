@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: テテテ語
     auto: true
+  - translation_iso: por
+    name: Tetete
+    auto: true
   - translation_iso: spa
     name: Tetete
     auto: true

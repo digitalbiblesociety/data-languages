@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フィリピン手話
+  - translation_iso: por
+    name: Língua de Sinais Filipina
   - translation_iso: spa
     name: Lengua de señas filipina
     auto: true

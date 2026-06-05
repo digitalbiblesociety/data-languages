@@ -30,6 +30,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아카보어
+  - translation_iso: por
+    name: Língua aka-bo
   - translation_iso: spa
     name: aka-bo
   - translation_iso: zho

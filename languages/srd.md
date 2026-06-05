@@ -21,6 +21,8 @@ translations:
     name: サルデーニャ語
   - translation_iso: kor
     name: 사르데냐어
+  - translation_iso: por
+    name: Língua sarda
   - translation_iso: spa
     name: sardo
   - translation_iso: zho

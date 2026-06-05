@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セコ語
     auto: true
+  - translation_iso: por
+    name: Seko Padang
+    auto: true
   - translation_iso: spa
     name: Seko Padang
     auto: true

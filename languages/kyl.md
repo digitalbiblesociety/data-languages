@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カラプヤ語
     auto: true
+  - translation_iso: por
+    name: Kalapuya
+    auto: true
   - translation_iso: spa
     name: Kalapuya
     auto: true

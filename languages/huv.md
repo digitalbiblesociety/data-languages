@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サン・マテオ・デル・マル・ウアベ語
     auto: true
+  - translation_iso: por
+    name: Huave de San Mateo del Mar
+    auto: true
   - translation_iso: spa
     name: huave de San Mateo del Mar
   - translation_iso: zho

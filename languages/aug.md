@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アグナ語
     auto: true
+  - translation_iso: por
+    name: Aguna
+    auto: true
   - translation_iso: spa
     name: Idioma aguna
   - translation_iso: zho

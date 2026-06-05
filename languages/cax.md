@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: チキターノ語
     auto: true
+  - translation_iso: por
+    name: Língua chiquitana
   - translation_iso: spa
     name: idioma chiquitano
   - translation_iso: zho

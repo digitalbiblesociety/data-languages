@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アウトゥウ語
     auto: true
+  - translation_iso: por
+    name: Awtuw
+    auto: true
   - translation_iso: spa
     name: Awtuw
     auto: true

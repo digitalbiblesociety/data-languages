@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ディラシャ語
     auto: true
+  - translation_iso: por
+    name: Dirasha
+    auto: true
   - translation_iso: spa
     name: Dirasha
     auto: true

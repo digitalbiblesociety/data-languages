@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バサイ語
+  - translation_iso: por
+    name: Basay
+    auto: true
   - translation_iso: spa
     name: Basay
   - translation_iso: zho

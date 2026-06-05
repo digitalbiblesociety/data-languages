@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イインジバルンディ語
     auto: true
+  - translation_iso: por
+    name: yindjibarndi
+    auto: true
   - translation_iso: spa
     name: Yindjibarndi
     auto: true

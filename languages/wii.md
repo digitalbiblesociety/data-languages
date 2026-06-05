@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミニディエン語
     auto: true
+  - translation_iso: por
+    name: Minidien
+    auto: true
   - translation_iso: spa
     name: Minidien
     auto: true

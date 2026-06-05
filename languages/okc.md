@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: コボ語
     auto: true
+  - translation_iso: por
+    name: Kobo
+    auto: true
   - translation_iso: spa
     name: Kobo
     auto: true

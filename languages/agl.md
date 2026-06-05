@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フェンベ語
     auto: true
+  - translation_iso: por
+    name: Fembe
+    auto: true
   - translation_iso: spa
     name: Fembe
     auto: true

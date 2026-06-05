@@ -28,6 +28,8 @@ translations:
     name: ヒンディー語
   - translation_iso: kor
     name: 힌디어
+  - translation_iso: por
+    name: língua hindi
   - translation_iso: spa
     name: hindi
   - translation_iso: zho

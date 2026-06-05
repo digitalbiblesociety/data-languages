@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チサランパス語
     auto: true
+  - translation_iso: por
+    name: Salampasu
+    auto: true
   - translation_iso: spa
     name: Salampasu
     auto: true

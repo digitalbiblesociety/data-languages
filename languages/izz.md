@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イジー語
     auto: true
+  - translation_iso: por
+    name: Izii
+    auto: true
   - translation_iso: spa
     name: Izii
     auto: true

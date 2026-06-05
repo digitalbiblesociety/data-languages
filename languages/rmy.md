@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワラキア方言群
+  - translation_iso: por
+    name: Romani Vlax
+    auto: true
   - translation_iso: spa
     name: Romaní vlax
   - translation_iso: zho

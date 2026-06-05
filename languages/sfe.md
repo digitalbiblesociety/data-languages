@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: スバノン語
     auto: true
+  - translation_iso: por
+    name: Subanen Oriental
+    auto: true
   - translation_iso: spa
     name: Subanen Oriental
     auto: true

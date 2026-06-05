@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: バカイリ語
     auto: true
+  - translation_iso: por
+    name: Língua bacairi
   - translation_iso: spa
     name: Bakairí
     auto: true

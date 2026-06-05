@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アッラール語
     auto: true
+  - translation_iso: por
+    name: Allar
+    auto: true
   - translation_iso: spa
     name: Allar
     auto: true

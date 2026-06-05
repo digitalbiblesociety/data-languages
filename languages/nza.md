@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ティゴン・ムベンベ語
     auto: true
+  - translation_iso: por
+    name: Mbembe Tigon
+    auto: true
   - translation_iso: spa
     name: Mbembe Tigon
     auto: true

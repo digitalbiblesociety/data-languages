@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コアテカス・アルタス・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Coatecas Altas
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Coatecas Altas
     auto: true

@@ -30,6 +30,8 @@ translations:
     name: ルカイ語
   - translation_iso: kor
     name: 루카이어
+  - translation_iso: por
+    name: Língua rukai
   - translation_iso: spa
     name: rukai
   - translation_iso: zho

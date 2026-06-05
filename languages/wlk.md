@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワイラキ語
     auto: true
+  - translation_iso: por
+    name: Wailaki
+    auto: true
   - translation_iso: spa
     name: atabasco del río Eel
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ソルバ語
     auto: true
+  - translation_iso: por
+    name: Miyobe
+    auto: true
   - translation_iso: spa
     name: Miyobe
     auto: true

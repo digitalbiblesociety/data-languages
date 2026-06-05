@@ -29,6 +29,8 @@ translations:
     name: チョル語
   - translation_iso: kor
     name: 촐어
+  - translation_iso: por
+    name: Língua chol
   - translation_iso: spa
     name: chol
   - translation_iso: zho

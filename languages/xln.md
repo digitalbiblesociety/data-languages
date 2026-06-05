@@ -22,6 +22,9 @@ translations:
     name: アラン語
   - translation_iso: kor
     name: 알란어
+  - translation_iso: por
+    name: Alânico
+    auto: true
   - translation_iso: spa
     name: Alánico
     auto: true

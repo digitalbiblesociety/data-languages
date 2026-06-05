@@ -21,6 +21,8 @@ translations:
     name: ケチュア語
   - translation_iso: kor
     name: 케추아어
+  - translation_iso: por
+    name: quíchua
   - translation_iso: spa
     name: lenguas quechuas
   - translation_iso: zho

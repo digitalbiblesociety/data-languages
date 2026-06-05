@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アラゴ語
     auto: true
+  - translation_iso: por
+    name: Alago
+    auto: true
   - translation_iso: spa
     name: alago
   - translation_iso: zho

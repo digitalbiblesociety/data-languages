@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ググ・ワッラ語
     auto: true
+  - translation_iso: por
+    name: Gugu Warra
+    auto: true
   - translation_iso: spa
     name: Gugu Warra
     auto: true

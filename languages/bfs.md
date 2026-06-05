@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南バイ語
     auto: true
+  - translation_iso: por
+    name: Bai meridional
+    auto: true
   - translation_iso: spa
     name: Bai del sur
     auto: true

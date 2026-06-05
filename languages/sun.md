@@ -28,6 +28,8 @@ translations:
     name: スンダ語
   - translation_iso: kor
     name: 순다어
+  - translation_iso: por
+    name: Sunda
   - translation_iso: spa
     name: sundanés
   - translation_iso: zho

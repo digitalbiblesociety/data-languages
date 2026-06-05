@@ -29,6 +29,8 @@ translations:
     name: ニヴフ語
   - translation_iso: kor
     name: 니브흐어
+  - translation_iso: por
+    name: Língua nivkhe
   - translation_iso: spa
     name: nivejí
   - translation_iso: zho

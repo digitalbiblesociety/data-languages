@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ランマ語
     auto: true
+  - translation_iso: por
+    name: Lamma
+    auto: true
   - translation_iso: spa
     name: Lamma
     auto: true

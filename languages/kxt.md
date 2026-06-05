@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コイワット語
     auto: true
+  - translation_iso: por
+    name: Koiwat
+    auto: true
   - translation_iso: spa
     name: Koiwat
     auto: true

@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チャド手話
+  - translation_iso: por
+    name: Língua de Sinais do Chade
   - translation_iso: spa
     name: Lengua de Señas del Chad
     auto: true

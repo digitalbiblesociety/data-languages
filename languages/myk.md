@@ -29,6 +29,9 @@ translations:
     name: ママラ・セヌフォ語
   - translation_iso: kor
     name: 미냥카어
+  - translation_iso: por
+    name: Senufo Mamara
+    auto: true
   - translation_iso: spa
     name: Mamara Senoufo
     auto: true

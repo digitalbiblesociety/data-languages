@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベライト語
     auto: true
+  - translation_iso: por
+    name: Belait
+    auto: true
   - translation_iso: spa
     name: Belait
     auto: true

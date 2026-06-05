@@ -21,6 +21,8 @@ translations:
     name: ラフンダー語
   - translation_iso: kor
     name: 란다어
+  - translation_iso: por
+    name: língua Lahnda
   - translation_iso: spa
     name: lahnda
   - translation_iso: zho

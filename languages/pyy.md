@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ピェン語
     auto: true
+  - translation_iso: por
+    name: Pyen
+    auto: true
   - translation_iso: spa
     name: Pyen
     auto: true

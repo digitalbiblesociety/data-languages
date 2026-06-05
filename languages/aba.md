@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アベイ語
+  - translation_iso: por
+    name: Abé
+    auto: true
   - translation_iso: spa
     name: Abé
   - translation_iso: zho

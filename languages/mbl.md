@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マクサカリ語
     auto: true
+  - translation_iso: por
+    name: Língua maxacali
   - translation_iso: spa
     name: Maxakalí
     auto: true

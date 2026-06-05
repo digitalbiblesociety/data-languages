@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ロングダ語
     auto: true
+  - translation_iso: por
+    name: Longuda
+    auto: true
   - translation_iso: spa
     name: Longuda
     auto: true

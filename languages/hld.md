@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ハラング・ドアン語
     auto: true
+  - translation_iso: por
+    name: Halang Doan
+    auto: true
   - translation_iso: spa
     name: Halang Doan
     auto: true

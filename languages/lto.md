@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツォツォ語
+  - translation_iso: por
+    name: Tsotso
+    auto: true
   - translation_iso: spa
     name: Tsotso
     auto: true

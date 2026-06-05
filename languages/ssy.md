@@ -28,6 +28,8 @@ translations:
     name: サホ語
   - translation_iso: kor
     name: 사호어
+  - translation_iso: por
+    name: Língua saho
   - translation_iso: spa
     name: Idioma saho
   - translation_iso: zho

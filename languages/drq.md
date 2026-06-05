@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥラ語
+  - translation_iso: por
+    name: Língua dura
   - translation_iso: spa
     name: Dura
     auto: true

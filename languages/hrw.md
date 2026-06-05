@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ウォーウォー・フェニ語
     auto: true
+  - translation_iso: por
+    name: Warwar Feni
+    auto: true
   - translation_iso: spa
     name: Warwar Feni
     auto: true

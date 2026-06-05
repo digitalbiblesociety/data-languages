@@ -26,6 +26,8 @@ translations:
     name: डोटेली भाषा
   - translation_iso: jpn
     name: ドテリ語
+  - translation_iso: por
+    name: Doteli
   - translation_iso: spa
     name: Doteli
   - translation_iso: zho

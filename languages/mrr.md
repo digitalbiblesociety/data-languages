@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マリア語
+  - translation_iso: por
+    name: Maria (Índia)
+    auto: true
   - translation_iso: spa
     name: maria
   - translation_iso: zho

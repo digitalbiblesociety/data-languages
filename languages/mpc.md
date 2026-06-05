@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンガライ語
+  - translation_iso: por
+    name: Mangarrayi
+    auto: true
   - translation_iso: spa
     name: Mangarrayi
     auto: true

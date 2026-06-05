@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カンガ語
     auto: true
+  - translation_iso: por
+    name: Língua kanga
   - translation_iso: spa
     name: Kanga
     auto: true

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マタガルパ語
+  - translation_iso: por
+    name: Matagalpa
+    auto: true
   - translation_iso: spa
     name: Idioma matagalpa
   - translation_iso: zho

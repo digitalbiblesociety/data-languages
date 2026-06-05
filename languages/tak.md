@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タラ語
     auto: true
+  - translation_iso: por
+    name: Tala
+    auto: true
   - translation_iso: spa
     name: Tala
     auto: true

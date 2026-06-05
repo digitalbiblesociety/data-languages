@@ -28,6 +28,8 @@ translations:
     name: シダモ語
   - translation_iso: kor
     name: 시다모어
+  - translation_iso: por
+    name: sidamo
   - translation_iso: spa
     name: Idioma sidamo
   - translation_iso: zho

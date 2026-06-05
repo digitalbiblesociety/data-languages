@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フモング・シュア語
     auto: true
+  - translation_iso: por
+    name: Hmong Shua
+    auto: true
   - translation_iso: spa
     name: Hmong Shua
     auto: true

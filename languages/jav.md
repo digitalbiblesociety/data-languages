@@ -28,6 +28,8 @@ translations:
     name: ジャワ語
   - translation_iso: kor
     name: 자와어
+  - translation_iso: por
+    name: javanês
   - translation_iso: spa
     name: javanés
   - translation_iso: zho

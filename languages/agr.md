@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アグアルナ語
     auto: true
+  - translation_iso: por
+    name: Língua aguaruna
   - translation_iso: spa
     name: lengua awajún
   - translation_iso: zho

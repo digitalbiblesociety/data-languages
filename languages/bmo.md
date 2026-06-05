@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バンバラン語
     auto: true
+  - translation_iso: por
+    name: Bambalang
+    auto: true
   - translation_iso: spa
     name: Bambalang
     auto: true

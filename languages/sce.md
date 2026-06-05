@@ -29,6 +29,8 @@ translations:
     name: サンタ語
   - translation_iso: kor
     name: 둥샹어
+  - translation_iso: por
+    name: santa
   - translation_iso: spa
     name: santa
   - translation_iso: zho

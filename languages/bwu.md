@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブリ語
+  - translation_iso: por
+    name: Buli (Gana)
+    auto: true
   - translation_iso: spa
     name: Buli (Ghana)
     auto: true

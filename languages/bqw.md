@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブル語
     auto: true
+  - translation_iso: por
+    name: Buru (Nigéria)
+    auto: true
   - translation_iso: spa
     name: Buru (Nigeria)
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニイカ語
+  - translation_iso: por
+    name: Nyika
+    auto: true
   - translation_iso: spa
     name: Nyika
     auto: true

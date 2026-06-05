@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムーラオ語
+  - translation_iso: por
+    name: Mulam
+    auto: true
   - translation_iso: spa
     name: Mulam
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タクー語
+  - translation_iso: por
+    name: Língua takuu
   - translation_iso: spa
     name: Takuu
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヴァレ語
     auto: true
+  - translation_iso: por
+    name: Vale
+    auto: true
   - translation_iso: spa
     name: Idioma vale
   - translation_iso: zho

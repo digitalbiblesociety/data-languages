@@ -27,6 +27,8 @@ translations:
     name: 高句麗語
   - translation_iso: kor
     name: 고구려어
+  - translation_iso: por
+    name: Língua de Goguryeo
   - translation_iso: spa
     name: Idioma goguryeo
   - translation_iso: zho

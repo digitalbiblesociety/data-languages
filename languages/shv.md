@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シャフラ語
+  - translation_iso: por
+    name: Língua jibbali
   - translation_iso: spa
     name: Shehri
     auto: true

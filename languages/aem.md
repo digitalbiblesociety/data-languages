@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アレム語
     auto: true
+  - translation_iso: por
+    name: Arem
+    auto: true
   - translation_iso: spa
     name: Arem
     auto: true

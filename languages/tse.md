@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チュニジア手話
+  - translation_iso: por
+    name: Língua de Sinais da Tunísia
   - translation_iso: spa
     name: Lengua de señas tunecina
     auto: true

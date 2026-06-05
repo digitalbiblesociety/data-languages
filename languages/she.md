@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: シャック語
     auto: true
+  - translation_iso: por
+    name: Língua sheko
   - translation_iso: spa
     name: Sheko
     auto: true

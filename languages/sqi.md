@@ -21,6 +21,8 @@ translations:
     name: アルバニア語
   - translation_iso: kor
     name: 알바니아어
+  - translation_iso: por
+    name: língua albanesa
   - translation_iso: spa
     name: albanés
   - translation_iso: zho

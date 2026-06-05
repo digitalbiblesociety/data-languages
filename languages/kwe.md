@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クウェルバ語
     auto: true
+  - translation_iso: por
+    name: Kwerba
+    auto: true
   - translation_iso: spa
     name: Kwerba
     auto: true

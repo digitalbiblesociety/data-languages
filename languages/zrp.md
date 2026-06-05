@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツァルファティート
+  - translation_iso: por
+    name: Língua zarfática
   - translation_iso: spa
     name: Zarfático
   - translation_iso: zho

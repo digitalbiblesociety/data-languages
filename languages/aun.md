@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: モルモ・ワン語
     auto: true
+  - translation_iso: por
+    name: Molmo One
+    auto: true
   - translation_iso: spa
     name: Molmo One
     auto: true

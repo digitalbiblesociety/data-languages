@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クロンゴ語
+  - translation_iso: por
+    name: Língua krongo
   - translation_iso: spa
     name: Krongo
     auto: true

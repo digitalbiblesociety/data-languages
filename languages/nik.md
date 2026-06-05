@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: 南ニコバル語
     auto: true
+  - translation_iso: por
+    name: Nicobarês do Sul
+    auto: true
   - translation_iso: spa
     name: Nicobaresino meridional
     auto: true

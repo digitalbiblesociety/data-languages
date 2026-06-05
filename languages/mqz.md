@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パノ語
     auto: true
+  - translation_iso: por
+    name: Pano
+    auto: true
   - translation_iso: spa
     name: Pano
     auto: true

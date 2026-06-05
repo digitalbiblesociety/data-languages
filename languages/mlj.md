@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミルトゥ語
     auto: true
+  - translation_iso: por
+    name: Miltu
+    auto: true
   - translation_iso: spa
     name: Miltu
     auto: true

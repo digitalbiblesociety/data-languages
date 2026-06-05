@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギダル語
+  - translation_iso: por
+    name: Gidar
+    auto: true
   - translation_iso: spa
     name: Gidar
     auto: true

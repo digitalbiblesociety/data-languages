@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クマン語
+  - translation_iso: por
+    name: Kuman (Papua-Nova Guiné)
+    auto: true
   - translation_iso: spa
     name: Kuman (Papúa Nueva Guinea)
     auto: true

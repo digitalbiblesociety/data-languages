@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルメニア手話
+  - translation_iso: por
+    name: Língua gestual armeniana
   - translation_iso: spa
     name: lengua de señas armenia
   - translation_iso: zho

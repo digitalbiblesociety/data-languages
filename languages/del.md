@@ -21,6 +21,8 @@ translations:
     name: デラウェア語
   - translation_iso: kor
     name: 델라웨어어
+  - translation_iso: por
+    name: línguas delaware
   - translation_iso: spa
     name: delaware
   - translation_iso: zho

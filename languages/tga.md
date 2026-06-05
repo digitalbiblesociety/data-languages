@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サガラ語
     auto: true
+  - translation_iso: por
+    name: Sagalla
+    auto: true
   - translation_iso: spa
     name: Sagalla
     auto: true

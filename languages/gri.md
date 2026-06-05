@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガハリ語
     auto: true
+  - translation_iso: por
+    name: Ghari
+    auto: true
   - translation_iso: spa
     name: Idioma ghari
   - translation_iso: zho

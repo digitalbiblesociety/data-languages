@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 레코어
+  - translation_iso: por
+    name: Língua leko
   - translation_iso: spa
     name: idioma leco
   - translation_iso: zho

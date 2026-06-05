@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: フェルナンド・ポー・クレオール英語
     auto: true
+  - translation_iso: por
+    name: Língua crioula de Bioco
   - translation_iso: spa
     name: pichinglis
   - translation_iso: zho

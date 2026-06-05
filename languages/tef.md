@@ -27,6 +27,9 @@ translations:
     name: तेरेस्सा भाषा
   - translation_iso: jpn
     name: テレッサ語
+  - translation_iso: por
+    name: Teressa
+    auto: true
   - translation_iso: spa
     name: Teressa
     auto: true

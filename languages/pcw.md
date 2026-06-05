@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Pyapun語
+  - translation_iso: por
+    name: Pyapun
+    auto: true
   - translation_iso: spa
     name: Pyapun
     auto: true

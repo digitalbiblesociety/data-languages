@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キトゥバ語
     auto: true
+  - translation_iso: por
+    name: quituba
+    auto: true
   - translation_iso: spa
     name: Kituba
   - translation_iso: zho

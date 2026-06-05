@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワリス語
     auto: true
+  - translation_iso: por
+    name: Waris
+    auto: true
   - translation_iso: spa
     name: Waris
     auto: true

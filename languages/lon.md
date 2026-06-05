@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラウイ・ロムウェ語
+  - translation_iso: por
+    name: Lomwe do Malawi
+    auto: true
   - translation_iso: spa
     name: Lomwe de Malaui
     auto: true

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: バトゥ語
     auto: true
+  - translation_iso: por
+    name: Batu
+    auto: true
   - translation_iso: spa
     name: batu
   - translation_iso: zho

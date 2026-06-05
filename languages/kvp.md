@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コンパネ語
     auto: true
+  - translation_iso: por
+    name: Kompane
+    auto: true
   - translation_iso: spa
     name: Kompane
     auto: true

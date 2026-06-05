@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マイル語
     auto: true
+  - translation_iso: por
+    name: Mailu
+    auto: true
   - translation_iso: spa
     name: Mailu
     auto: true

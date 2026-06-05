@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: バアンギ語
     auto: true
+  - translation_iso: por
+    name: Baangi
+    auto: true
   - translation_iso: spa
     name: Baangi
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンドゥベア語
+  - translation_iso: por
+    name: Língua ndrumbea
   - translation_iso: spa
     name: Dumbea
     auto: true

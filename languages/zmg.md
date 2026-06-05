@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マティ・ケ語
+  - translation_iso: por
+    name: marti ke
+    auto: true
   - translation_iso: spa
     name: Marti Ke
     auto: true

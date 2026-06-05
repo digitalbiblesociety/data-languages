@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プナンバトゥ1語
     auto: true
+  - translation_iso: por
+    name: Punan Batu 1
+    auto: true
   - translation_iso: spa
     name: Punan Batu 1
     auto: true

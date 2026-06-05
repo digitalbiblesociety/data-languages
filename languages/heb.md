@@ -28,6 +28,8 @@ translations:
     name: 現代ヘブライ語
   - translation_iso: kor
     name: 현대 이스라엘 히브리어
+  - translation_iso: por
+    name: hebraico
   - translation_iso: spa
     name: hebreo moderno
   - translation_iso: zho

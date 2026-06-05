@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ソンライ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Songlai
+    auto: true
   - translation_iso: spa
     name: Chin Songlai
     auto: true

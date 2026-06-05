@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トビルン語
     auto: true
+  - translation_iso: por
+    name: Tobilung
+    auto: true
   - translation_iso: spa
     name: Tobilung
     auto: true

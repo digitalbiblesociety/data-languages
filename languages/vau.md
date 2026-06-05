@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 南ニャリ語
     auto: true
+  - translation_iso: por
+    name: Vanuma
+    auto: true
   - translation_iso: spa
     name: Vanuma
     auto: true

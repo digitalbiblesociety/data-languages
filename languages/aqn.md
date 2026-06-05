@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 北部アルタ語
     auto: true
+  - translation_iso: por
+    name: Alta do Norte
+    auto: true
   - translation_iso: spa
     name: Alta septentrional
     auto: true

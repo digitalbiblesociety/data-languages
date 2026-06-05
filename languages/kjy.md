@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エラベ語
     auto: true
+  - translation_iso: por
+    name: Erave
+    auto: true
   - translation_iso: spa
     name: Erave
     auto: true

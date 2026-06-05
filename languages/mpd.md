@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マシネレ語
     auto: true
+  - translation_iso: por
+    name: Machinere
+    auto: true
   - translation_iso: spa
     name: Machinere
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タンバス語
     auto: true
+  - translation_iso: por
+    name: Tambas
+    auto: true
   - translation_iso: spa
     name: Tambas
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キエゴラニ・サポテク語
+  - translation_iso: por
+    name: zapoteco de Santa María Quiegolani
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Santa María Quiegolani
     auto: true

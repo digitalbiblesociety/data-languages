@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: クレレ語
     auto: true
+  - translation_iso: por
+    name: Kulere
+    auto: true
   - translation_iso: spa
     name: Kulere
     auto: true

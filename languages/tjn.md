@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トンジョン語
     auto: true
+  - translation_iso: por
+    name: Tonjon
+    auto: true
   - translation_iso: spa
     name: tonjon
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カピン語
     auto: true
+  - translation_iso: por
+    name: Kapin
+    auto: true
   - translation_iso: spa
     name: Kapin
   - translation_iso: zho

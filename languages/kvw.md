@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウェルシン語
     auto: true
+  - translation_iso: por
+    name: Wersing
+    auto: true
   - translation_iso: spa
     name: Wersing
     auto: true

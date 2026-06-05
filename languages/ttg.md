@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トゥトン語
     auto: true
+  - translation_iso: por
+    name: Tutong
+    auto: true
   - translation_iso: spa
     name: Tutong
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヴァフスィ語
     auto: true
+  - translation_iso: por
+    name: Vafsi
+    auto: true
   - translation_iso: spa
     name: vafsí
   - translation_iso: zho

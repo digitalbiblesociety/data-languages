@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マトバット語
+  - translation_iso: por
+    name: Matbat
+    auto: true
   - translation_iso: spa
     name: Matbat
     auto: true

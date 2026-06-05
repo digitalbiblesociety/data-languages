@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アシュティヤーン語
+  - translation_iso: por
+    name: Ashtiani
+    auto: true
   - translation_iso: spa
     name: Ashtiani
     auto: true

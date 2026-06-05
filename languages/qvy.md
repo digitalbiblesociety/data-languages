@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チョユ語
+  - translation_iso: por
+    name: Queyu
+    auto: true
   - translation_iso: spa
     name: Queyu
     auto: true

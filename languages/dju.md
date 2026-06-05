@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カプリマン語
     auto: true
+  - translation_iso: por
+    name: Kapriman
+    auto: true
   - translation_iso: spa
     name: Kapriman
     auto: true

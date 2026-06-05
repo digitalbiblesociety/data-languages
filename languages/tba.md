@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイカナ語
+  - translation_iso: por
+    name: Língua aicanã
   - translation_iso: spa
     name: Idioma aikaná
   - translation_iso: zho

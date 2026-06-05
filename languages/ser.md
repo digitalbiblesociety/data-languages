@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セラーノ語
+  - translation_iso: por
+    name: Língua serrano
   - translation_iso: spa
     name: Idioma serrano
   - translation_iso: zho

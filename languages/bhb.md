@@ -29,6 +29,8 @@ translations:
     name: ビリー語
   - translation_iso: kor
     name: 빌리어
+  - translation_iso: por
+    name: Língua bhili
   - translation_iso: spa
     name: idioma bhili
   - translation_iso: zho

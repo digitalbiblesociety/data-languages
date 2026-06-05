@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴラ語
+  - translation_iso: por
+    name: Gola
+    auto: true
   - translation_iso: spa
     name: Idioma gola
   - translation_iso: zho

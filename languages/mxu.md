@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マダ語
     auto: true
+  - translation_iso: por
+    name: Mada (Camarões)
+    auto: true
   - translation_iso: spa
     name: Mada (Camerún)
     auto: true

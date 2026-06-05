@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バタク・ダイリ語
+  - translation_iso: por
+    name: Língua pakpak
   - translation_iso: spa
     name: Batak Dairi
     auto: true

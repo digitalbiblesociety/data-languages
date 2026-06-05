@@ -28,6 +28,8 @@ translations:
     name: ベンバ語
   - translation_iso: kor
     name: 벰바어
+  - translation_iso: por
+    name: bemba
   - translation_iso: spa
     name: bemba
   - translation_iso: zho

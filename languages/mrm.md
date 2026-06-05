@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: メルラヴ語
     auto: true
+  - translation_iso: por
+    name: Merlav
+    auto: true
   - translation_iso: spa
     name: Merlav
     auto: true

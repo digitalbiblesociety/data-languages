@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤンガティサンゴ語
     auto: true
+  - translation_iso: por
+    name: Sango Ribeirinho
+    auto: true
   - translation_iso: spa
     name: Sango ribereño
     auto: true

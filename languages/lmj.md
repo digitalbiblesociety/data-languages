@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西レンバタ語
+  - translation_iso: por
+    name: Lembata ocidental
+    auto: true
   - translation_iso: spa
     name: Lembata occidental
     auto: true

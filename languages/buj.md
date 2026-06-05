@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: バサ・グルマナ語
     auto: true
+  - translation_iso: por
+    name: Basa-Gurmana
+    auto: true
   - translation_iso: spa
     name: Basa-Gurmana
     auto: true

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サマ・バジャウ諸語
+  - translation_iso: por
+    name: Bajau da Costa Oeste
+    auto: true
   - translation_iso: spa
     name: Bajau de la Costa Occidental
     auto: true

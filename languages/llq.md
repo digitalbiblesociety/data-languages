@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロラク語
+  - translation_iso: por
+    name: Lolak
+    auto: true
   - translation_iso: spa
     name: Lolak
     auto: true

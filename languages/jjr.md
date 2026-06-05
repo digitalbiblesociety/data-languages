@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: バンカル語
     auto: true
+  - translation_iso: por
+    name: Bankal
+    auto: true
   - translation_iso: spa
     name: Bankal
     auto: true

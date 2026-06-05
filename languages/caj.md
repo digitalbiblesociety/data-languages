@@ -25,6 +25,9 @@ translations:
     name: チャネ語
   - translation_iso: kor
     name: 차네어
+  - translation_iso: por
+    name: Chané
+    auto: true
   - translation_iso: spa
     name: Idioma chané
   - translation_iso: zho

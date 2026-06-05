@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 白苗語
+  - translation_iso: por
+    name: Hmong Daw
+    auto: true
   - translation_iso: spa
     name: Hmong Daw
     auto: true

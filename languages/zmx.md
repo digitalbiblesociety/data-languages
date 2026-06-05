@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボミタバ語
+  - translation_iso: por
+    name: Bomitaba
+    auto: true
   - translation_iso: spa
     name: Bomitaba
     auto: true

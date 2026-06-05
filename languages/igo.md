@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イセベ語
     auto: true
+  - translation_iso: por
+    name: Isebe
+    auto: true
   - translation_iso: spa
     name: Isebe
     auto: true

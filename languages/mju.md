@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: マンナ・ドラ語
     auto: true
+  - translation_iso: por
+    name: Manna-Dora
+    auto: true
   - translation_iso: spa
     name: Manna-Dora
     auto: true

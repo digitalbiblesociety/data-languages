@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルシ語
+  - translation_iso: por
+    name: Lusi
+    auto: true
   - translation_iso: spa
     name: Idioma lusi
   - translation_iso: zho

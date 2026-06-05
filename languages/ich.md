@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エトクワン語
     auto: true
+  - translation_iso: por
+    name: Etkywan
+    auto: true
   - translation_iso: spa
     name: Etkywan
     auto: true

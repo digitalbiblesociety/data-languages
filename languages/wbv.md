@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワジャリ語
     auto: true
+  - translation_iso: por
+    name: Wajarri
+    auto: true
   - translation_iso: spa
     name: Wajarri
     auto: true

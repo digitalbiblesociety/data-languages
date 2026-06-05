@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アウボノ語
     auto: true
+  - translation_iso: por
+    name: Awbono
+    auto: true
   - translation_iso: spa
     name: Awbono
     auto: true

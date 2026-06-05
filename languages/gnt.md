@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グンタイ語
     auto: true
+  - translation_iso: por
+    name: Guntai
+    auto: true
   - translation_iso: spa
     name: Guntai
     auto: true

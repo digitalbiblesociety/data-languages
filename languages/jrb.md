@@ -21,6 +21,8 @@ translations:
     name: ユダヤ・アラビア語群
   - translation_iso: kor
     name: 유대 아랍어
+  - translation_iso: por
+    name: Línguas judaico-árabes
   - translation_iso: spa
     name: judeoárabe
   - translation_iso: zho

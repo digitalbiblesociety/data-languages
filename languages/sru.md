@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: パイテル語
     auto: true
+  - translation_iso: por
+    name: Língua suruí-paíter
   - translation_iso: spa
     name: Suruí
     auto: true

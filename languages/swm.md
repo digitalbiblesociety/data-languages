@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サモサ語
+  - translation_iso: por
+    name: Samosa
+    auto: true
   - translation_iso: spa
     name: Samosa
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: 西カラボロ語
     auto: true
+  - translation_iso: por
+    name: Língua caraboro ocidental
   - translation_iso: spa
     name: Karaboro Occidental
     auto: true

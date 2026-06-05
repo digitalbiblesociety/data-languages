@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボド・パルジャ語
     auto: true
+  - translation_iso: por
+    name: Bodo Parja
+    auto: true
   - translation_iso: spa
     name: idioma bodo parja
   - translation_iso: zho

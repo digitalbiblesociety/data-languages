@@ -26,6 +26,9 @@ translations:
     name: बुंदेली भाषा
   - translation_iso: jpn
     name: ブンデーリー語
+  - translation_iso: por
+    name: Bundeli
+    auto: true
   - translation_iso: spa
     name: bundeli
   - translation_iso: zho

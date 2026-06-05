@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マテピ語
     auto: true
+  - translation_iso: por
+    name: Matepi
+    auto: true
   - translation_iso: spa
     name: Matepi
     auto: true

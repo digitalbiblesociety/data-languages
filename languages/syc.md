@@ -27,6 +27,8 @@ translations:
     name: シリア語
   - translation_iso: kor
     name: 시리아어
+  - translation_iso: por
+    name: Língua siríaca
   - translation_iso: spa
     name: siríaco
   - translation_iso: zho

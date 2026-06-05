@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カイディパン語
+  - translation_iso: por
+    name: Kaidipang
+    auto: true
   - translation_iso: spa
     name: Kaidipang
     auto: true

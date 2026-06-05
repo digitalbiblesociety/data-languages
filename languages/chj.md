@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オヒトラン・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Chinanteco de Ojitlán
+    auto: true
   - translation_iso: spa
     name: chinanteca de Ojitlán
   - translation_iso: zho

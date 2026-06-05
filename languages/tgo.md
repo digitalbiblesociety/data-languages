@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タグラ語
+  - translation_iso: por
+    name: Sudest
+    auto: true
   - translation_iso: spa
     name: Sudest
     auto: true

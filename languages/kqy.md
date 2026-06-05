@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コオレテ語
     auto: true
+  - translation_iso: por
+    name: Koorete
+    auto: true
   - translation_iso: spa
     name: Koorete
     auto: true

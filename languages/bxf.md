@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビルル語
     auto: true
+  - translation_iso: por
+    name: Bilur
+    auto: true
   - translation_iso: spa
     name: Bilur
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シナゴロ語
+  - translation_iso: por
+    name: Sinaugoro
+    auto: true
   - translation_iso: spa
     name: Sinaugoro
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モタ語
+  - translation_iso: por
+    name: Mota
+    auto: true
   - translation_iso: spa
     name: Mota
   - translation_iso: zho

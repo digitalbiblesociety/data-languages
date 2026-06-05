@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディゴ語
+  - translation_iso: por
+    name: Língua digo
   - translation_iso: spa
     name: Digo
     auto: true

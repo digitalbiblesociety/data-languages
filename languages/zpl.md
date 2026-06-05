@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラチシオ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Lachixío
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Lachixío
     auto: true

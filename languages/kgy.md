@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キェルング語
     auto: true
+  - translation_iso: por
+    name: Kyerung
+    auto: true
   - translation_iso: spa
     name: Kyerung
     auto: true

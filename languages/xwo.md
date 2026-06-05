@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: 書き言葉オイラート語
     auto: true
+  - translation_iso: por
+    name: oirate escrito
+    auto: true
   - translation_iso: spa
     name: Oirat escrito
     auto: true

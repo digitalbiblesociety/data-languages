@@ -29,6 +29,8 @@ translations:
     name: ワユ語
   - translation_iso: kor
     name: 와유어
+  - translation_iso: por
+    name: Língua wayuu
   - translation_iso: spa
     name: idioma wayú
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セラ語
     auto: true
+  - translation_iso: por
+    name: Sera
+    auto: true
   - translation_iso: spa
     name: Sera
     auto: true

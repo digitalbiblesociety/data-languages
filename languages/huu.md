@@ -31,6 +31,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 무루이 위토토어
+  - translation_iso: por
+    name: Língua murui huitoto
   - translation_iso: spa
     name: murui
   - translation_iso: zho

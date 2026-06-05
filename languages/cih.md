@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: チナリ語
     auto: true
+  - translation_iso: por
+    name: Língua Chinali
   - translation_iso: spa
     name: Idioma chinali
   - translation_iso: zho

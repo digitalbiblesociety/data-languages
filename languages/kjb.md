@@ -29,6 +29,8 @@ translations:
     name: カンホバル語
   - translation_iso: kor
     name: 칸호발어
+  - translation_iso: por
+    name: Língua canjobal
   - translation_iso: spa
     name: "Idioma q'anjob'al"
   - translation_iso: zho

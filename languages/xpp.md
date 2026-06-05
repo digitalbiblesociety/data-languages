@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: プヨ・ペクチェ語
     auto: true
+  - translation_iso: por
+    name: Puyo-Paekche
+    auto: true
   - translation_iso: spa
     name: Puyo-Paekche
     auto: true

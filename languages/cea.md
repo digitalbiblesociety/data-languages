@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 下チヘリス語
+  - translation_iso: por
+    name: Chehalis inferior
+    auto: true
   - translation_iso: spa
     name: Chehalis Bajo
     auto: true

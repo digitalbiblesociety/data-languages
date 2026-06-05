@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 西メオハン語
     auto: true
+  - translation_iso: por
+    name: Meohang Ocidental
+    auto: true
   - translation_iso: spa
     name: Meohang occidental
     auto: true

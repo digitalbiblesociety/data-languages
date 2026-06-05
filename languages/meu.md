@@ -30,6 +30,8 @@ translations:
     name: モトゥ語
   - translation_iso: kor
     name: 모투어
+  - translation_iso: por
+    name: Língua motu
   - translation_iso: spa
     name: Idioma motu
   - translation_iso: zho

@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: クラホ語
     auto: true
+  - translation_iso: por
+    name: Língua krahô
   - translation_iso: spa
     name: Krahô
     auto: true

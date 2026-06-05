@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サンタ・イネス・アワテンパン・ポポロカ語
     auto: true
+  - translation_iso: por
+    name: Popoloca de Santa Inés Ahuatempan
+    auto: true
   - translation_iso: spa
     name: Popoloca de Santa Inés Ahuatempan
     auto: true

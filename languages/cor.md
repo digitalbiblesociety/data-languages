@@ -28,6 +28,8 @@ translations:
     name: コーンウォール語
   - translation_iso: kor
     name: 콘월어
+  - translation_iso: por
+    name: córnico
   - translation_iso: spa
     name: córnico
   - translation_iso: zho

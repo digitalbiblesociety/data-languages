@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヴァマレ語
     auto: true
+  - translation_iso: por
+    name: Vamale
+    auto: true
   - translation_iso: spa
     name: Vamale
     auto: true

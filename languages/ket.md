@@ -28,6 +28,8 @@ translations:
     name: ケット語
   - translation_iso: kor
     name: 케트어
+  - translation_iso: por
+    name: Língua ket
   - translation_iso: spa
     name: ket
   - translation_iso: zho

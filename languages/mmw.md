@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エマエ語
+  - translation_iso: por
+    name: Língua emae
   - translation_iso: spa
     name: Emae
     auto: true

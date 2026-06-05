@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クコン語
     auto: true
+  - translation_iso: por
+    name: Kucong
+    auto: true
   - translation_iso: spa
     name: Kucong
     auto: true

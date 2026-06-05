@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中国ピジン語
+  - translation_iso: por
+    name: Pidgin inglês chinês
+    auto: true
   - translation_iso: spa
     name: Pidgin inglés chino
     auto: true

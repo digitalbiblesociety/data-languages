@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヤ語
+  - translation_iso: por
+    name: Layakha
+    auto: true
   - translation_iso: spa
     name: Layakha
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ポカンガ語
     auto: true
+  - translation_iso: por
+    name: Pokangá
+    auto: true
   - translation_iso: spa
     name: Pokangá
     auto: true

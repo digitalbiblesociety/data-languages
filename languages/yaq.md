@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤキ語
+  - translation_iso: por
+    name: Língua yaqui
   - translation_iso: spa
     name: yaqui
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アスンボア語
+  - translation_iso: por
+    name: Asumboa
+    auto: true
   - translation_iso: spa
     name: Idioma asumboa
   - translation_iso: zho

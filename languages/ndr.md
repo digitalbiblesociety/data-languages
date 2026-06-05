@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥラ語
     auto: true
+  - translation_iso: por
+    name: Ndoola
+    auto: true
   - translation_iso: spa
     name: Ndoola
     auto: true

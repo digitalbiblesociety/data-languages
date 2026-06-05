@@ -30,6 +30,9 @@ translations:
     name: チュット語
   - translation_iso: kor
     name: 쯧어
+  - translation_iso: por
+    name: Chut
+    auto: true
   - translation_iso: spa
     name: Chut
     auto: true

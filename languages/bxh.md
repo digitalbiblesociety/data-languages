@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ブフトゥ語
     auto: true
+  - translation_iso: por
+    name: Língua buhutu
   - translation_iso: spa
     name: Buhutu
     auto: true

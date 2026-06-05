@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カマリアン語
     auto: true
+  - translation_iso: por
+    name: Kamarian
+    auto: true
   - translation_iso: spa
     name: Kamarian
     auto: true

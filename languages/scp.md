@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ヘラムブシェルパ語
     auto: true
+  - translation_iso: por
+    name: Língua Yolmo
   - translation_iso: spa
     name: Hyolmo
     auto: true

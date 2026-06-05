@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バブサ語
+  - translation_iso: por
+    name: Babuza
+    auto: true
   - translation_iso: spa
     name: babuza
   - translation_iso: zho

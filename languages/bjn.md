@@ -29,6 +29,8 @@ translations:
     name: バンジャル語
   - translation_iso: kor
     name: 반자르어
+  - translation_iso: por
+    name: Língua banjaresa
   - translation_iso: spa
     name: banjar
   - translation_iso: zho

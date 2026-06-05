@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アクリオ語
     auto: true
+  - translation_iso: por
+    name: Língua akuriyó
   - translation_iso: spa
     name: Akurio
     auto: true

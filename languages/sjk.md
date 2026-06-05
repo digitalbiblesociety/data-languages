@@ -29,6 +29,8 @@ translations:
     name: ケミ・サーミ語
   - translation_iso: kor
     name: 케미 사미어
+  - translation_iso: por
+    name: sami de Kemi
   - translation_iso: spa
     name: sami de Kemi
   - translation_iso: zho

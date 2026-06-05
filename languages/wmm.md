@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マイワ語
     auto: true
+  - translation_iso: por
+    name: Maiwa (Indonésia)
+    auto: true
   - translation_iso: spa
     name: Maiwa
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガロリ語
+  - translation_iso: por
+    name: Língua galóli
   - translation_iso: spa
     name: Galoli
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: チャヤウイタ語
     auto: true
+  - translation_iso: por
+    name: Língua chayahuita
   - translation_iso: spa
     name: idioma shawi
   - translation_iso: zho

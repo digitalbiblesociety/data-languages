@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ボウニ語
     auto: true
+  - translation_iso: por
+    name: Bouni
+    auto: true
   - translation_iso: spa
     name: Bouni
     auto: true

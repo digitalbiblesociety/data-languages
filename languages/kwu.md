@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クワクゥム語
     auto: true
+  - translation_iso: por
+    name: Kwakum
+    auto: true
   - translation_iso: spa
     name: Kwakum
     auto: true

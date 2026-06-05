@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アレキッパラウニオンケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Arequipa-La Unión
+    auto: true
   - translation_iso: spa
     name: Quechua de Arequipa-La Unión
     auto: true

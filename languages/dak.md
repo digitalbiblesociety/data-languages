@@ -28,6 +28,8 @@ translations:
     name: ダコタ語
   - translation_iso: kor
     name: 다코타어
+  - translation_iso: por
+    name: dacota
   - translation_iso: spa
     name: Dakota
   - translation_iso: zho

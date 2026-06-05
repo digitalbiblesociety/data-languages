@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サンシボリ語
     auto: true
+  - translation_iso: por
+    name: Sansi
+    auto: true
   - translation_iso: spa
     name: Sansi
     auto: true

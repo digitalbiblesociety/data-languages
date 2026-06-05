@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: アシルル語
     auto: true
+  - translation_iso: por
+    name: Asilulu
   - translation_iso: spa
     name: Asilulu
   - translation_iso: zho

@@ -23,6 +23,8 @@ translations:
     name: シェトランド語の
   - translation_iso: kor
     name: 셰틀랜드어의
+  - translation_iso: por
+    name: shetlandês
   - translation_iso: spa
     name: shetlandés
   - translation_iso: zho

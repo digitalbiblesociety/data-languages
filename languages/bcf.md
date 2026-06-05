@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バムー語
     auto: true
+  - translation_iso: por
+    name: Bamu
+    auto: true
   - translation_iso: spa
     name: Bamu
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: レアラオ・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Chinanteco de Lealao
+    auto: true
   - translation_iso: spa
     name: chinanteca de Lealao
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クワンビ語
+  - translation_iso: por
+    name: Kwambi
+    auto: true
   - translation_iso: spa
     name: Kwambi
     auto: true

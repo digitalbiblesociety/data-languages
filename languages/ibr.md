@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イブオロ語
     auto: true
+  - translation_iso: por
+    name: Ibuoro
+    auto: true
   - translation_iso: spa
     name: Ibuoro
     auto: true

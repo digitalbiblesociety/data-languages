@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: パドエ語
     auto: true
+  - translation_iso: por
+    name: Língua padoe
   - translation_iso: spa
     name: padoe
   - translation_iso: zho

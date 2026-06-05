@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アウラ語
     auto: true
+  - translation_iso: por
+    name: Aurá
+    auto: true
   - translation_iso: spa
     name: Aurá
     auto: true

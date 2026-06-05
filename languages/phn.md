@@ -28,6 +28,8 @@ translations:
     name: フェニキア語
   - translation_iso: kor
     name: 페니키아어
+  - translation_iso: por
+    name: fenício
   - translation_iso: spa
     name: fenicio
   - translation_iso: zho

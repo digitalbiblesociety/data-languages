@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: カリアナ語
     auto: true
+  - translation_iso: por
+    name: Língua sapé
   - translation_iso: spa
     name: idioma sapé
   - translation_iso: zho

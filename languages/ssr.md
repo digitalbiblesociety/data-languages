@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スイス・フランス手話
+  - translation_iso: por
+    name: Língua de Sinais Suíço-Francesa
+    auto: true
   - translation_iso: spa
     name: Lengua de señas franco-suiza
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダオ語
     auto: true
+  - translation_iso: por
+    name: Dao
+    auto: true
   - translation_iso: spa
     name: Dao
     auto: true

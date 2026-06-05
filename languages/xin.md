@@ -24,6 +24,8 @@ translations:
     name: シンカ語
   - translation_iso: kor
     name: 싱카어족
+  - translation_iso: por
+    name: Língua xinca
   - translation_iso: spa
     name: Lenguas xincas
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モビリアン語
+  - translation_iso: por
+    name: Mobilian
+    auto: true
   - translation_iso: spa
     name: mobilian
   - translation_iso: zho

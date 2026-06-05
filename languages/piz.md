@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ピジェ語
     auto: true
+  - translation_iso: por
+    name: Pije
+    auto: true
   - translation_iso: spa
     name: Idioma pije
   - translation_iso: zho

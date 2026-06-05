@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スリランカ手話
+  - translation_iso: por
+    name: Língua de Sinais do Sri Lanka
   - translation_iso: spa
     name: Lengua de señas de Sri Lanka
     auto: true

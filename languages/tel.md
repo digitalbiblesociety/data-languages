@@ -28,6 +28,8 @@ translations:
     name: テルグ語
   - translation_iso: kor
     name: 텔루구어
+  - translation_iso: por
+    name: telugu
   - translation_iso: spa
     name: télugu
   - translation_iso: zho

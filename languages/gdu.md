@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 구두어
+  - translation_iso: por
+    name: Gudu
+    auto: true
   - translation_iso: spa
     name: Gudu
     auto: true

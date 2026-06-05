@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゴウラン語
     auto: true
+  - translation_iso: por
+    name: Gowlan
+    auto: true
   - translation_iso: spa
     name: Gowlan
     auto: true

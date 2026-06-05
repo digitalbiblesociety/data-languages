@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ドゥドゥロア語
     auto: true
+  - translation_iso: por
+    name: Dhudhuroa
+    auto: true
   - translation_iso: spa
     name: Idioma dhudhuroa
   - translation_iso: zho

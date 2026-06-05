@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スウェーデン手話
+  - translation_iso: por
+    name: Língua de Sinais Sueca
+    auto: true
   - translation_iso: spa
     name: Lengua de señas sueca
   - translation_iso: zho

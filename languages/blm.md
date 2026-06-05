@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ベリ語
     auto: true
+  - translation_iso: por
+    name: Língua beli
   - translation_iso: spa
     name: Beli (Sudán del Sur)
     auto: true

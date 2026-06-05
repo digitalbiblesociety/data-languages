@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ミルニング語
     auto: true
+  - translation_iso: por
+    name: Mirning
+    auto: true
   - translation_iso: spa
     name: Idioma mirning
   - translation_iso: zho

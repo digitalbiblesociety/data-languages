@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムブグ語
     auto: true
+  - translation_iso: por
+    name: Mbugu
+    auto: true
   - translation_iso: spa
     name: Mbugu
     auto: true

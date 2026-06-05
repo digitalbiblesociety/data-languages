@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マリンガル語
     auto: true
+  - translation_iso: por
+    name: Maringarr
+    auto: true
   - translation_iso: spa
     name: Maringarr
     auto: true

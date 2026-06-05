@@ -28,6 +28,8 @@ translations:
     name: アグール語
   - translation_iso: kor
     name: 아굴어
+  - translation_iso: por
+    name: Língua agul
   - translation_iso: spa
     name: Aghul
   - translation_iso: zho

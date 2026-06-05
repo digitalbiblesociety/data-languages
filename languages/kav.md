@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: カトゥキナ語
     auto: true
+  - translation_iso: por
+    name: Língua katukina
   - translation_iso: spa
     name: Katukína
     auto: true

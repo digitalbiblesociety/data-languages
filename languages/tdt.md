@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: テトゥン・ディリ語
     auto: true
+  - translation_iso: por
+    name: Tétum de Díli
+    auto: true
   - translation_iso: spa
     name: tetun dili
   - translation_iso: zho

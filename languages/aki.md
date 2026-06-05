@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アイオメ語
     auto: true
+  - translation_iso: por
+    name: Aiome
+    auto: true
   - translation_iso: spa
     name: Aiome
     auto: true

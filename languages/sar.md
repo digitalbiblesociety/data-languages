@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サラヴェカ語
+  - translation_iso: por
+    name: Língua sarave
   - translation_iso: spa
     name: Saraveca
     auto: true

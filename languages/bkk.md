@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブロクスカット語
     auto: true
+  - translation_iso: por
+    name: Brokskat
+    auto: true
   - translation_iso: spa
     name: Brokskat
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南スバネン語
     auto: true
+  - translation_iso: por
+    name: Subanen meridional
+    auto: true
   - translation_iso: spa
     name: Subanen del Sur
   - translation_iso: zho

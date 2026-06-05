@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フオン語
     auto: true
+  - translation_iso: por
+    name: Phuong
+    auto: true
   - translation_iso: spa
     name: Phuong
     auto: true

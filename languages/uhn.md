@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ダマル語
     auto: true
+  - translation_iso: por
+    name: Damal
+    auto: true
   - translation_iso: spa
     name: Damal
     auto: true

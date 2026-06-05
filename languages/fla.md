@@ -26,6 +26,8 @@ translations:
     name: सेलिश भाषा
   - translation_iso: jpn
     name: カリスペル語
+  - translation_iso: por
+    name: Língua salishe
   - translation_iso: spa
     name: Montana Salish
   - translation_iso: zho

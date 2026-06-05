@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ネデバン語
     auto: true
+  - translation_iso: por
+    name: Nedebang
+    auto: true
   - translation_iso: spa
     name: Nedebang
     auto: true

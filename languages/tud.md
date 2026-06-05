@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: トデラ語
     auto: true
+  - translation_iso: por
+    name: Língua tuxá
   - translation_iso: spa
     name: tuxá
   - translation_iso: zho

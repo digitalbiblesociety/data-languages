@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イツェキリ語
+  - translation_iso: por
+    name: Língua itsequiri
   - translation_iso: spa
     name: Isekiri
     auto: true

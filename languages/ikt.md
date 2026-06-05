@@ -28,6 +28,8 @@ translations:
     name: イヌイナクトゥン語
   - translation_iso: kor
     name: 캐나다 서부 이누크티투트어
+  - translation_iso: por
+    name: inuktitut canadense ocidental
   - translation_iso: spa
     name: inuit del oeste de Canadá
   - translation_iso: zho

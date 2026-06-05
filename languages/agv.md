@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: レモンタード・ドゥマガト語
     auto: true
+  - translation_iso: por
+    name: Língua remontado dumagat
   - translation_iso: spa
     name: Remontado Dumagat
     auto: true

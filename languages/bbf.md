@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バイバイ語
     auto: true
+  - translation_iso: por
+    name: Baibai
+    auto: true
   - translation_iso: spa
     name: baibai
   - translation_iso: zho

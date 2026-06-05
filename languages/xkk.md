@@ -19,7 +19,7 @@ translations:
     name: كاكو
     auto: true
   - translation_iso: deu
-    name: "Kaco'"
+    name: Kaco
     auto: true
   - translation_iso: fra
     name: kaco
@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カコ語
+    auto: true
+  - translation_iso: por
+    name: "Kaco'"
     auto: true
   - translation_iso: spa
     name: Kaco

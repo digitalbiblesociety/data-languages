@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パラウハノ語
+  - translation_iso: por
+    name: Língua paraujano
   - translation_iso: spa
     name: añú
   - translation_iso: zho

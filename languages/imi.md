@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アナムグラ語
     auto: true
+  - translation_iso: por
+    name: Anamgura
+    auto: true
   - translation_iso: spa
     name: Anamgura
     auto: true

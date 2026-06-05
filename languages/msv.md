@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マスラム語
     auto: true
+  - translation_iso: por
+    name: Maslam
+    auto: true
   - translation_iso: spa
     name: Maslam
     auto: true

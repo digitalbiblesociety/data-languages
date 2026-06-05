@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マティプハイ語
     auto: true
+  - translation_iso: por
+    name: Matipuhy
+    auto: true
   - translation_iso: spa
     name: Matipuhy
     auto: true

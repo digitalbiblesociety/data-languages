@@ -29,6 +29,8 @@ translations:
     name: ウディ語
   - translation_iso: kor
     name: 우디어
+  - translation_iso: por
+    name: Língua udi
   - translation_iso: spa
     name: Idioma udí
   - translation_iso: zho

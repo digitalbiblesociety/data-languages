@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・キッシ語
     auto: true
+  - translation_iso: por
+    name: Kissi setentrional
+    auto: true
   - translation_iso: spa
     name: Kissi Septentrional
     auto: true

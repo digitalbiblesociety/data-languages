@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ギトンガ語
     auto: true
+  - translation_iso: por
+    name: Guitonga
   - translation_iso: spa
     name: Gitonga
     auto: true

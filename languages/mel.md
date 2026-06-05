@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 中央メラナウ語
     auto: true
+  - translation_iso: por
+    name: Melanau central
+    auto: true
   - translation_iso: spa
     name: Melanau Central
     auto: true

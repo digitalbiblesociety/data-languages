@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: インガーダ語
+  - translation_iso: por
+    name: yinggarda
+    auto: true
   - translation_iso: spa
     name: Yinggarda
     auto: true

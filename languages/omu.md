@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: オムラーノ語
     auto: true
+  - translation_iso: por
+    name: omurano
   - translation_iso: spa
     name: omurano
   - translation_iso: zho

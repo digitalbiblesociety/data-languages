@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ドンポ語
     auto: true
+  - translation_iso: por
+    name: Dompo
+    auto: true
   - translation_iso: spa
     name: dompo
   - translation_iso: zho

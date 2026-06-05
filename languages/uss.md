@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ドゥカ語
     auto: true
+  - translation_iso: por
+    name: us-Saare
+    auto: true
   - translation_iso: spa
     name: Us-Saare
     auto: true

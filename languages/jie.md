@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジルベ語
     auto: true
+  - translation_iso: por
+    name: Jilbe
+    auto: true
   - translation_iso: spa
     name: Jilbe
     auto: true

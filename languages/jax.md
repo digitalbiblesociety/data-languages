@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャンビ・マレー語
+  - translation_iso: por
+    name: malaio de Jambi
+    auto: true
   - translation_iso: spa
     name: Malayo de Jambi
     auto: true

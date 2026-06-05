@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニバクレ語
+  - translation_iso: por
+    name: Língua nivaclé
   - translation_iso: spa
     name: Idioma nivaclé
   - translation_iso: zho

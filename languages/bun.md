@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シェルブロ語
     auto: true
+  - translation_iso: por
+    name: Sherbro
+    auto: true
   - translation_iso: spa
     name: Sherbro
     auto: true

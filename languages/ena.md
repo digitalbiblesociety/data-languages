@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アパリ語
     auto: true
+  - translation_iso: por
+    name: Apali
+    auto: true
   - translation_iso: spa
     name: Apali
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: グパ・アバワ語
     auto: true
+  - translation_iso: por
+    name: Gupa-Abawa
+    auto: true
   - translation_iso: spa
     name: Gupa-Abawa
     auto: true

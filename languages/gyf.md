@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: グンガブラ語
     auto: true
+  - translation_iso: por
+    name: Gungabula
+    auto: true
   - translation_iso: spa
     name: Gungabula
     auto: true

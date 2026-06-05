@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オラン・カナック語
     auto: true
+  - translation_iso: por
+    name: Orang Kanaq
+    auto: true
   - translation_iso: spa
     name: Orang Kanaq
     auto: true

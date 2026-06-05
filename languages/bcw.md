@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: バナ語
     auto: true
+  - translation_iso: por
+    name: Língua bana
   - translation_iso: spa
     name: Bana
     auto: true

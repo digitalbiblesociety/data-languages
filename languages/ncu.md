@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チュムブルング語
     auto: true
+  - translation_iso: por
+    name: Chumburung
+    auto: true
   - translation_iso: spa
     name: Chumburung
     auto: true

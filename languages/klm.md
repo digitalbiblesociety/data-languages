@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ミグム語
     auto: true
+  - translation_iso: por
+    name: Migum
+    auto: true
   - translation_iso: spa
     name: Migum
     auto: true

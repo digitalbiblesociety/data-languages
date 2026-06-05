@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グウェレ語
+  - translation_iso: por
+    name: Língua gwere
   - translation_iso: spa
     name: Gwere
     auto: true

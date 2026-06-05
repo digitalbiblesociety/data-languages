@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ニャングマルタ語
     auto: true
+  - translation_iso: por
+    name: Nyangumarta
+    auto: true
   - translation_iso: spa
     name: nyangumarta
   - translation_iso: zho

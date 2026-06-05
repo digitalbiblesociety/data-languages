@@ -24,6 +24,8 @@ translations:
     name: クウェンヤ
   - translation_iso: kor
     name: 꿰냐
+  - translation_iso: por
+    name: Quenya
   - translation_iso: spa
     name: quenya
   - translation_iso: zho

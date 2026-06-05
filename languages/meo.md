@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケダ・マレー語
+  - translation_iso: por
+    name: Malaio de Kedah
+    auto: true
   - translation_iso: spa
     name: Malayo de Kedah
     auto: true

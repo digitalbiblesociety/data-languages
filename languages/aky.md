@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 오콜어
+  - translation_iso: por
+    name: Aka-Kol
+    auto: true
   - translation_iso: spa
     name: Idioma kol
   - translation_iso: zho

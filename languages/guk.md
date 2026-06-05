@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グムズ語
     auto: true
+  - translation_iso: por
+    name: Gumuz
+    auto: true
   - translation_iso: spa
     name: Idioma gumuz
   - translation_iso: zho

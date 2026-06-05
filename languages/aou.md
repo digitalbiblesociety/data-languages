@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アウ語
     auto: true
+  - translation_iso: por
+    name: "A'ou"
+    auto: true
   - translation_iso: spa
     name: "A'ou"
     auto: true

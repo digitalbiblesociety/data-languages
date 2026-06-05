@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベイ・ミウォク語
     auto: true
+  - translation_iso: por
+    name: miwok da Baía
+    auto: true
   - translation_iso: spa
     name: Miwok de la Bahía
     auto: true

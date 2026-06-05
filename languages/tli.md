@@ -28,6 +28,8 @@ translations:
     name: トリンギット語
   - translation_iso: kor
     name: 틀링깃어
+  - translation_iso: por
+    name: Língua tlingit
   - translation_iso: spa
     name: tlingit
   - translation_iso: zho

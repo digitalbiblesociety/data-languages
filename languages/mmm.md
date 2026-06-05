@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マイイ語
     auto: true
+  - translation_iso: por
+    name: Maii
+    auto: true
   - translation_iso: spa
     name: Maii
     auto: true

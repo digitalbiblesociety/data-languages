@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウサ・ナス語
     auto: true
+  - translation_iso: por
+    name: nasu wusa
+    auto: true
   - translation_iso: spa
     name: Wusa Nasu
     auto: true

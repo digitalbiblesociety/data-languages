@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ケラ語
     auto: true
+  - translation_iso: por
+    name: Kela (República Democrática do Congo)
+    auto: true
   - translation_iso: spa
     name: Kela (República Democrática del Congo)
     auto: true

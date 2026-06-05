@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: テミアル語
     auto: true
+  - translation_iso: por
+    name: Língua temiar
   - translation_iso: spa
     name: Temiar
     auto: true

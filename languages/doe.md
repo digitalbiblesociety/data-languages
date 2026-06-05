@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ドエ語
     auto: true
+  - translation_iso: por
+    name: Doe
+    auto: true
   - translation_iso: spa
     name: lengua doe
   - translation_iso: zho

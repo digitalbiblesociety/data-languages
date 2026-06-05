@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トル語
     auto: true
+  - translation_iso: por
+    name: Tol
+    auto: true
   - translation_iso: spa
     name: Tol
     auto: true

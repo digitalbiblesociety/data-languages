@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: リベリアン・イングリッシュ語
     auto: true
+  - translation_iso: por
+    name: Inglês liberiano
+    auto: true
   - translation_iso: spa
     name: Inglés liberiano
     auto: true

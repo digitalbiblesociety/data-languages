@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オミエ語
     auto: true
+  - translation_iso: por
+    name: Ömie
+    auto: true
   - translation_iso: spa
     name: Ömie
     auto: true

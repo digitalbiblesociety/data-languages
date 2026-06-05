@@ -28,6 +28,8 @@ translations:
     name: チャバカノ語
   - translation_iso: kor
     name: 차바카노어
+  - translation_iso: por
+    name: chavacano
   - translation_iso: spa
     name: criollo chabacano
   - translation_iso: zho

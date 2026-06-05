@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ムパリチャンハ語
     auto: true
+  - translation_iso: por
+    name: Mpalitjanh
+    auto: true
   - translation_iso: spa
     name: Mpalitjanh
     auto: true

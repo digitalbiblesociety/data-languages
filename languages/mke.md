@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マウチ語
     auto: true
+  - translation_iso: por
+    name: Mawchi
+    auto: true
   - translation_iso: spa
     name: Mawchi
     auto: true

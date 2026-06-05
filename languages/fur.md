@@ -28,6 +28,8 @@ translations:
     name: フリウリ語
   - translation_iso: kor
     name: 프리울리어
+  - translation_iso: por
+    name: friulano
   - translation_iso: spa
     name: friulano
   - translation_iso: zho

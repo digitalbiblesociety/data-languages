@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブラブランガ語
     auto: true
+  - translation_iso: por
+    name: Blablanga
+    auto: true
   - translation_iso: spa
     name: Blablanga
   - translation_iso: zho

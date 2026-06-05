@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バジリ語
     auto: true
+  - translation_iso: por
+    name: Badjiri
+    auto: true
   - translation_iso: spa
     name: Badjiri
     auto: true

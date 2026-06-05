@@ -30,6 +30,9 @@ translations:
     name: イェイ語
   - translation_iso: kor
     name: 예이어
+  - translation_iso: por
+    name: yeyi
+    auto: true
   - translation_iso: spa
     name: Yeyi
     auto: true

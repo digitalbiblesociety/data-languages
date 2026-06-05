@@ -28,6 +28,8 @@ translations:
     name: サライキ語
   - translation_iso: kor
     name: 사라이키어
+  - translation_iso: por
+    name: Língua seraiki
   - translation_iso: spa
     name: seraikí
   - translation_iso: zho

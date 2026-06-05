@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウルナ語
     auto: true
+  - translation_iso: por
+    name: Wulna
+    auto: true
   - translation_iso: spa
     name: Wulna
     auto: true

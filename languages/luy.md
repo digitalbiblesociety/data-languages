@@ -23,6 +23,8 @@ translations:
     name: ルヒヤ語
   - translation_iso: kor
     name: 루야어
+  - translation_iso: por
+    name: língua luhya
   - translation_iso: spa
     name: luyia
   - translation_iso: zho

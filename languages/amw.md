@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 現代西アラム語
+  - translation_iso: por
+    name: Língua neoaramaica ocidental
   - translation_iso: spa
     name: neoarameo occidental
   - translation_iso: zho

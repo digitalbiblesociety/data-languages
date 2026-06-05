@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラパ語
+  - translation_iso: por
+    name: Língua rapa
   - translation_iso: spa
     name: Idioma rapa
   - translation_iso: zho

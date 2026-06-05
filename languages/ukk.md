@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ムアク・サアク語
     auto: true
+  - translation_iso: por
+    name: Muak Sa-aak
+    auto: true
   - translation_iso: spa
     name: Muak Sa-aak
     auto: true

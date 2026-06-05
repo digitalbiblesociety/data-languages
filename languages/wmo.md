@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウォム語（パプアニューギニア）
     auto: true
+  - translation_iso: por
+    name: Wom (Papua-Nova Guiné)
+    auto: true
   - translation_iso: spa
     name: Wom (Papúa Nueva Guinea)
     auto: true

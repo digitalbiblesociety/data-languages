@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フディ語
+  - translation_iso: por
+    name: Língua hdi
   - translation_iso: spa
     name: Hdi
     auto: true

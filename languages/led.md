@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レンドュ語
+  - translation_iso: por
+    name: Língua lendu
   - translation_iso: spa
     name: Lendu
   - translation_iso: zho

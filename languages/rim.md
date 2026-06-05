@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ニャトゥル語
     auto: true
+  - translation_iso: por
+    name: Língua turu
   - translation_iso: spa
     name: Nyaturu
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イクペング語
     auto: true
+  - translation_iso: por
+    name: Língua icpengue
   - translation_iso: spa
     name: Ikpeng
     auto: true

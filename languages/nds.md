@@ -28,6 +28,8 @@ translations:
     name: 低地ドイツ語
   - translation_iso: kor
     name: 저지 독일어
+  - translation_iso: por
+    name: baixo-alemão
   - translation_iso: spa
     name: bajo alemán
   - translation_iso: zho

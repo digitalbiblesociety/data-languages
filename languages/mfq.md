@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: モバ語
     auto: true
+  - translation_iso: por
+    name: Moba
+    auto: true
   - translation_iso: spa
     name: Moba
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アングルク・ヤリ語
     auto: true
+  - translation_iso: por
+    name: yali de Angguruk
+    auto: true
   - translation_iso: spa
     name: Yali de Angguruk
     auto: true

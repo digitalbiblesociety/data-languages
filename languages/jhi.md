@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジェハイ語
     auto: true
+  - translation_iso: por
+    name: Jehai
+    auto: true
   - translation_iso: spa
     name: Jehai
     auto: true

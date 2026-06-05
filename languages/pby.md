@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピュー語
+  - translation_iso: por
+    name: Pyu (Papua-Nova Guiné)
+    auto: true
   - translation_iso: spa
     name: Pyu
     auto: true

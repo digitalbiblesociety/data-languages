@@ -28,6 +28,8 @@ translations:
     name: アレウト語
   - translation_iso: kor
     name: 알류트어
+  - translation_iso: por
+    name: língua aleúte
   - translation_iso: spa
     name: aleutiano
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ソヤルテペク・マサテク語
     auto: true
+  - translation_iso: por
+    name: Mazateco de Soyaltepec
+    auto: true
   - translation_iso: spa
     name: Mazateco de Soyaltepec
     auto: true

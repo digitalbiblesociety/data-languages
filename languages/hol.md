@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ホル語
     auto: true
+  - translation_iso: por
+    name: Holu
+    auto: true
   - translation_iso: spa
     name: Idioma holu
   - translation_iso: zho

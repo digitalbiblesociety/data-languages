@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カニャルハイランドキチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua das Terras Altas de Cañar
+    auto: true
   - translation_iso: spa
     name: Quichua serrano de Cañar
     auto: true

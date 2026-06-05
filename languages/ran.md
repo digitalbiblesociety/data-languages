@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: リアンタナ語
     auto: true
+  - translation_iso: por
+    name: Riantana
+    auto: true
   - translation_iso: spa
     name: Riantana
     auto: true

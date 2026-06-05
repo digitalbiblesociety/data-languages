@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アネイチュム語
+  - translation_iso: por
+    name: Aneityum
+    auto: true
   - translation_iso: spa
     name: Aneityum
     auto: true

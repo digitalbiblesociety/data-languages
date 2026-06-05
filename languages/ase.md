@@ -27,6 +27,8 @@ translations:
     name: アメリカ手話
   - translation_iso: kor
     name: 미국 수어
+  - translation_iso: por
+    name: língua de sinais americana
   - translation_iso: spa
     name: lengua de señas estadounidense
   - translation_iso: zho

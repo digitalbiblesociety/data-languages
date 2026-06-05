@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イタング語
     auto: true
+  - translation_iso: por
+    name: Otank
+    auto: true
   - translation_iso: spa
     name: Otank
     auto: true

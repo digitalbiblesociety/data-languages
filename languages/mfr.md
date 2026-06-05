@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルリ・ジャビン語
+  - translation_iso: por
+    name: Marrithiyel
+    auto: true
   - translation_iso: spa
     name: Marrithiyel
     auto: true

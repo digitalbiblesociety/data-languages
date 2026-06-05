@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラ語
+  - translation_iso: por
+    name: Kara (Tanzânia)
+    auto: true
   - translation_iso: spa
     name: Kara (Tanzania)
     auto: true

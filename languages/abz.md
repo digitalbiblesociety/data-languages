@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アブイ語
+  - translation_iso: por
+    name: Língua abui
   - translation_iso: spa
     name: Abui
     auto: true

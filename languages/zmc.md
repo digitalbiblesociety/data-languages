@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マルガニー語
     auto: true
+  - translation_iso: por
+    name: margany
+    auto: true
   - translation_iso: spa
     name: Margany
     auto: true

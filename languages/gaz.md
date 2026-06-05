@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西中央オロモ語
+  - translation_iso: por
+    name: oromo centro-ocidental
+    auto: true
   - translation_iso: spa
     name: Oromo centro-occidental
     auto: true

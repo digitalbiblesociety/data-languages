@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワルングゲ語
     auto: true
+  - translation_iso: por
+    name: Walungge
+    auto: true
   - translation_iso: spa
     name: Walungge
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コユコン語
+  - translation_iso: por
+    name: Língua koyukon
   - translation_iso: spa
     name: koyukón
   - translation_iso: zho

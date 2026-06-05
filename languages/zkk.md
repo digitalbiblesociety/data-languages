@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: カランカワ語
     auto: true
+  - translation_iso: por
+    name: karankawa
+    auto: true
   - translation_iso: spa
     name: idioma karankawa
   - translation_iso: zho

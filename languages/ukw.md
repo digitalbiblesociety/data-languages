@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アボ語
     auto: true
+  - translation_iso: por
+    name: Ukwuani-Aboh-Ndoni
+    auto: true
   - translation_iso: spa
     name: Ukwuani-Aboh-Ndoni
     auto: true

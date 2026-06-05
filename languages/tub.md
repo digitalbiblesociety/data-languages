@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥバトゥラバル語
+  - translation_iso: por
+    name: Tübatulabal
+    auto: true
   - translation_iso: spa
     name: Idioma tübatulabal
   - translation_iso: zho

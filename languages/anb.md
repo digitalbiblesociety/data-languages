@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンドア語
+  - translation_iso: por
+    name: Língua andoa
   - translation_iso: spa
     name: andoa
   - translation_iso: zho

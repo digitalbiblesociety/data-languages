@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コフヤル語
     auto: true
+  - translation_iso: por
+    name: Kofyar
+    auto: true
   - translation_iso: spa
     name: Kofyar
     auto: true

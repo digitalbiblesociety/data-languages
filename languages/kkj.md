@@ -28,6 +28,8 @@ translations:
     name: カコ語
   - translation_iso: kor
     name: 카코어
+  - translation_iso: por
+    name: Língua kako
   - translation_iso: spa
     name: kako
   - translation_iso: zho

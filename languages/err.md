@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エレ語
     auto: true
+  - translation_iso: por
+    name: Erre
+    auto: true
   - translation_iso: spa
     name: Erre
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナビ語
     auto: true
+  - translation_iso: por
+    name: Nabi
+    auto: true
   - translation_iso: spa
     name: Nabi
     auto: true

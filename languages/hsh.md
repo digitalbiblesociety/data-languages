@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハンガリー手話
+  - translation_iso: por
+    name: Língua de Sinais Húngara
+    auto: true
   - translation_iso: spa
     name: Lengua de señas húngara
     auto: true

@@ -30,6 +30,8 @@ translations:
     name: タイ・ヌア語
   - translation_iso: kor
     name: 따이느아어
+  - translation_iso: por
+    name: Tai nüa
   - translation_iso: spa
     name: tai nüa
   - translation_iso: zho

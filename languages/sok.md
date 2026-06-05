@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソコロ語
+  - translation_iso: por
+    name: Língua sokoro
   - translation_iso: spa
     name: Sokoro
     auto: true

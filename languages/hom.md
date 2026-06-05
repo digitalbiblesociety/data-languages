@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホマ語
+  - translation_iso: por
+    name: Homa
+    auto: true
   - translation_iso: spa
     name: Homa
     auto: true

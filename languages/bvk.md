@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブカット語
     auto: true
+  - translation_iso: por
+    name: Bukat
+    auto: true
   - translation_iso: spa
     name: Bukat
     auto: true

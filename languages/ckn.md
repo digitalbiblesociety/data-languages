@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カーン・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Kaang
+    auto: true
   - translation_iso: spa
     name: Chin Kaang
     auto: true

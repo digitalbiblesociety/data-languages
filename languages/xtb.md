@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: チャズンバ・ミステク語
     auto: true
+  - translation_iso: por
+    name: Mixteco de Chazumba
+    auto: true
   - translation_iso: spa
     name: Mixteco de Chazumba
     auto: true

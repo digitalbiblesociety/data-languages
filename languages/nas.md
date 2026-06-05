@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナシオイ語
+  - translation_iso: por
+    name: Naasioi
+    auto: true
   - translation_iso: spa
     name: Naasioi
     auto: true

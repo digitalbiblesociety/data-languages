@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: クワルヒオクワトラツカナイ語
     auto: true
+  - translation_iso: por
+    name: Kwalhioqua-Tlatskanai
+    auto: true
   - translation_iso: spa
     name: idioma kwalhioqua-tlatskanai
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナンキナ語
     auto: true
+  - translation_iso: por
+    name: Nankina
+    auto: true
   - translation_iso: spa
     name: Nankina
     auto: true

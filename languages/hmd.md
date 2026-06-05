@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 大花苗語
+  - translation_iso: por
+    name: Língua A-Hmao
   - translation_iso: spa
     name: Miao de las grandes flores
     auto: true

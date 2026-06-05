@@ -27,6 +27,8 @@ translations:
     name: 西夏語
   - translation_iso: kor
     name: 서하어
+  - translation_iso: por
+    name: tangut
   - translation_iso: spa
     name: tangut
   - translation_iso: zho

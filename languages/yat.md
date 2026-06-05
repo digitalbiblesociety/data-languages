@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤンベタ語
+  - translation_iso: por
+    name: Língua yambeta
   - translation_iso: spa
     name: Yambeta
     auto: true

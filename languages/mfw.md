@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ムラハ語
     auto: true
+  - translation_iso: por
+    name: Mulaha
+    auto: true
   - translation_iso: spa
     name: Mulaha
     auto: true

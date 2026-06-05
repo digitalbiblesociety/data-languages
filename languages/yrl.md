@@ -28,6 +28,8 @@ translations:
     name: ニェエンガトゥ語
   - translation_iso: kor
     name: 녜엥가투어
+  - translation_iso: por
+    name: nheengatu
   - translation_iso: spa
     name: "ñe'engatú"
   - translation_iso: zho

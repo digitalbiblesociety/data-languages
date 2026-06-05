@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ラタニョン語
     auto: true
+  - translation_iso: por
+    name: Língua ratagnon
   - translation_iso: spa
     name: ratagnon
   - translation_iso: zho

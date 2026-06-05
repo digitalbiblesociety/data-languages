@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コタ・マルドゥ・タランタング語
     auto: true
+  - translation_iso: por
+    name: Kota Marudu Talantang
+    auto: true
   - translation_iso: spa
     name: Talantang de Kota Marudu
     auto: true

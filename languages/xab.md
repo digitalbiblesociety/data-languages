@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: サンベ語
     auto: true
+  - translation_iso: por
+    name: Sambe
+    auto: true
   - translation_iso: spa
     name: Sambe
     auto: true

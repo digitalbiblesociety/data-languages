@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エクペイェ語
     auto: true
+  - translation_iso: por
+    name: Ekpeye
+    auto: true
   - translation_iso: spa
     name: Ekpeye
     auto: true

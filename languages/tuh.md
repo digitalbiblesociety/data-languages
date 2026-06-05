@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タウリル語
+  - translation_iso: por
+    name: Taulil
+    auto: true
   - translation_iso: spa
     name: Taulil
     auto: true

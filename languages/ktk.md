@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カニエット語
     auto: true
+  - translation_iso: por
+    name: Kaniet
+    auto: true
   - translation_iso: spa
     name: Kaniet
     auto: true

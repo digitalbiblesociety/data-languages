@@ -30,6 +30,8 @@ translations:
     name: バサリ語
   - translation_iso: kor
     name: 바사리어
+  - translation_iso: por
+    name: Língua bassari
   - translation_iso: spa
     name: Idioma bassari
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゲレロ・アムスゴ語
     auto: true
+  - translation_iso: por
+    name: Amuzgo de Guerrero
+    auto: true
   - translation_iso: spa
     name: Amuzgo de Guerrero
   - translation_iso: zho

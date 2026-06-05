@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・ヒンドコー語
     auto: true
+  - translation_iso: por
+    name: Hindko do Norte
+    auto: true
   - translation_iso: spa
     name: Hindko septentrional
     auto: true

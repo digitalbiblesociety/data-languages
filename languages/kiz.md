@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: キシ語
     auto: true
+  - translation_iso: por
+    name: Língua kisi
   - translation_iso: spa
     name: Kisi
     auto: true

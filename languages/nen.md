@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ネンゴネ語
+  - translation_iso: por
+    name: Língua nengone
   - translation_iso: spa
     name: Idioma nengone
   - translation_iso: zho

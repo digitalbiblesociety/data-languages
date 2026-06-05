@@ -28,6 +28,8 @@ translations:
     name: メル語
   - translation_iso: kor
     name: 메루어
+  - translation_iso: por
+    name: meru
   - translation_iso: spa
     name: meru
   - translation_iso: zho

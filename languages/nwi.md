@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: 南西タンナ語
     auto: true
+  - translation_iso: por
+    name: Tanna do sudoeste
   - translation_iso: spa
     name: Tanna del Suroeste
     auto: true

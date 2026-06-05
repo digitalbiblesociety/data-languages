@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コロンビア川サハプティン語
     auto: true
+  - translation_iso: por
+    name: Umatilla
+    auto: true
   - translation_iso: spa
     name: Umatilla
     auto: true

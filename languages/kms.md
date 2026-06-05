@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カマサウ語
     auto: true
+  - translation_iso: por
+    name: Kamasau
+    auto: true
   - translation_iso: spa
     name: Kamasau
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: 古高ドイツ語
   - translation_iso: kor
     name: 고대 고지 독일어
+  - translation_iso: por
+    name: Alto-alemão antigo
   - translation_iso: spa
     name: alto alemán antiguo
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アエル語
     auto: true
+  - translation_iso: por
+    name: Aer
+    auto: true
   - translation_iso: spa
     name: Aer
     auto: true

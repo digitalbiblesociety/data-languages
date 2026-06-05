@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: ホティ語
     auto: true
+  - translation_iso: por
+    name: Hoti
   - translation_iso: spa
     name: Hoti
   - translation_iso: zho

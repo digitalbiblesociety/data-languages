@@ -29,6 +29,8 @@ translations:
     name: ヴィラモヴィアン語
   - translation_iso: kor
     name: 빌라모비체어
+  - translation_iso: por
+    name: Wymysorys
   - translation_iso: spa
     name: vilamoviciano
   - translation_iso: zho

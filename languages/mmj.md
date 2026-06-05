@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マジュワル語
     auto: true
+  - translation_iso: por
+    name: Majhwar
+    auto: true
   - translation_iso: spa
     name: Majhwar
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムボンガ語
     auto: true
+  - translation_iso: por
+    name: Mbonga
+    auto: true
   - translation_iso: spa
     name: Mbonga
     auto: true

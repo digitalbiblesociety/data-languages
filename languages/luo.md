@@ -28,6 +28,8 @@ translations:
     name: ルオ語
   - translation_iso: kor
     name: 루오어
+  - translation_iso: por
+    name: Língua luo
   - translation_iso: spa
     name: Luo (Kenia y Tanzania)
     auto: true

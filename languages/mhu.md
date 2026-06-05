@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ディガロ・ミシミ語
     auto: true
+  - translation_iso: por
+    name: Língua digaro mishmi
   - translation_iso: spa
     name: digarú
   - translation_iso: zho

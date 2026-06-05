@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ガンジ語
     auto: true
+  - translation_iso: por
+    name: Ganzi
+    auto: true
   - translation_iso: spa
     name: Ganzi
     auto: true

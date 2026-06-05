@@ -28,6 +28,8 @@ translations:
     name: ノルウェー語
   - translation_iso: kor
     name: 노르웨이어
+  - translation_iso: por
+    name: norueguês
   - translation_iso: spa
     name: noruego
   - translation_iso: zho

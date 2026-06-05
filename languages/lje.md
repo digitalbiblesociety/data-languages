@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ラムピ語
     auto: true
+  - translation_iso: por
+    name: Rampi
+    auto: true
   - translation_iso: spa
     name: Rampi
     auto: true

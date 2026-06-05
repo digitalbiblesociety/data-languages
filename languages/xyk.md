@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: マイイ・クラン語
     auto: true
+  - translation_iso: por
+    name: Língua mayi-kulan
   - translation_iso: spa
     name: Idioma mayi-kulan
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラビル語
     auto: true
+  - translation_iso: por
+    name: Labir
+    auto: true
   - translation_iso: spa
     name: Labir
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トンサワン語
+  - translation_iso: por
+    name: Língua tosawang
   - translation_iso: spa
     name: Tonsawang
     auto: true

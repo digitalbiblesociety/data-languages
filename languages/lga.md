@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ルンガ語
     auto: true
+  - translation_iso: por
+    name: Lungga
+    auto: true
   - translation_iso: spa
     name: Lungga
   - translation_iso: zho

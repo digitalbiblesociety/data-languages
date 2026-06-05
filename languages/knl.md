@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ケニンジャル語
     auto: true
+  - translation_iso: por
+    name: Keninjal
+    auto: true
   - translation_iso: spa
     name: Keninjal
     auto: true

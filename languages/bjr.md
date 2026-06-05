@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビヌマリエン語
+  - translation_iso: por
+    name: Binumarien
+    auto: true
   - translation_iso: spa
     name: Binumarien
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボイキン語
     auto: true
+  - translation_iso: por
+    name: Boikin
+    auto: true
   - translation_iso: spa
     name: Boikin
     auto: true

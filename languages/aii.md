@@ -28,6 +28,8 @@ translations:
     name: アッシリア現代アラム語
   - translation_iso: kor
     name: 아시리아 신아람어
+  - translation_iso: por
+    name: Língua neoaramaica assíria
   - translation_iso: spa
     name: neoarameo asirio
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ニナム語
     auto: true
+  - translation_iso: por
+    name: Língua ianam
   - translation_iso: spa
     name: Idioma yanam
   - translation_iso: zho

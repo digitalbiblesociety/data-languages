@@ -29,6 +29,8 @@ translations:
     name: アラビア語モロッコ方言
   - translation_iso: kor
     name: 모로코 아랍어
+  - translation_iso: por
+    name: Árabe marroquino
   - translation_iso: spa
     name: árabe marroquí
   - translation_iso: zho

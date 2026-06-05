@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タワイリア語
     auto: true
+  - translation_iso: por
+    name: Sedoa
+    auto: true
   - translation_iso: spa
     name: Sedoa
     auto: true

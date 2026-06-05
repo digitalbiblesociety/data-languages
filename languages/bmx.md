@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バイマク語
     auto: true
+  - translation_iso: por
+    name: Baimak
+    auto: true
   - translation_iso: spa
     name: Baimak
     auto: true

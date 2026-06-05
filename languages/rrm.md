@@ -25,6 +25,8 @@ translations:
     name: モリオリ語
   - translation_iso: kor
     name: 모리오리어
+  - translation_iso: por
+    name: Língua moriori
   - translation_iso: spa
     name: Idioma moriori
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
     name: バタク・トバ語
   - translation_iso: kor
     name: 토바 바탁어
+  - translation_iso: por
+    name: Batak Toba
+    auto: true
   - translation_iso: spa
     name: Batak Toba
     auto: true

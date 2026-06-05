@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 回輝語
+  - translation_iso: por
+    name: Tsat
+    auto: true
   - translation_iso: spa
     name: Tsat
     auto: true

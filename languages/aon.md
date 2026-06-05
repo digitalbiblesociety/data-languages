@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブンビタ・アラペシュ語
     auto: true
+  - translation_iso: por
+    name: Arapesh Bumbita
+    auto: true
   - translation_iso: spa
     name: arapeso bumbita
   - translation_iso: zho

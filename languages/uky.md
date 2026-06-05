@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ココ・ヤク語
     auto: true
+  - translation_iso: por
+    name: Língua kuuk yak
   - translation_iso: spa
     name: Idioma kuuk yak
   - translation_iso: zho

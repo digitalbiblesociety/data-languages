@@ -24,6 +24,8 @@ translations:
     name: ネパール語
   - translation_iso: kor
     name: 네팔어
+  - translation_iso: por
+    name: língua nepali
   - translation_iso: spa
     name: nepalí
   - translation_iso: zho

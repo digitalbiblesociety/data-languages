@@ -28,6 +28,8 @@ translations:
     name: アムハラ語
   - translation_iso: kor
     name: 암하라어
+  - translation_iso: por
+    name: Língua amárica
   - translation_iso: spa
     name: amhárico
   - translation_iso: zho

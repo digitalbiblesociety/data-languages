@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ディイ語
     auto: true
+  - translation_iso: por
+    name: Dii
+    auto: true
   - translation_iso: spa
     name: Dii
     auto: true

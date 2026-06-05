@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ウバンゴ語
     auto: true
+  - translation_iso: por
+    name: Língua ubang
   - translation_iso: spa
     name: Ubang
     auto: true

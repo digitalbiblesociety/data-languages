@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビレ語
     auto: true
+  - translation_iso: por
+    name: Bile
+    auto: true
   - translation_iso: spa
     name: Bile
     auto: true

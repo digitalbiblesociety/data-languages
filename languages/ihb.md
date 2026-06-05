@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イハ・ベースド・ピジン語
     auto: true
+  - translation_iso: por
+    name: Pidgin Baseado no Iha
+    auto: true
   - translation_iso: spa
     name: Pidgin basado en Iha
     auto: true

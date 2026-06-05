@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ネゲリ・センビラン・マレー語
     auto: true
+  - translation_iso: por
+    name: malaio de Negeri Sembilan
+    auto: true
   - translation_iso: spa
     name: Malayo de Negeri Sembilan
     auto: true

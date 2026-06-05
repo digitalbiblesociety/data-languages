@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: パッターニ語
     auto: true
+  - translation_iso: por
+    name: Pattani
+    auto: true
   - translation_iso: spa
     name: Pattani
     auto: true

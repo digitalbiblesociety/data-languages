@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アベラム語
+  - translation_iso: por
+    name: Ambulas
+    auto: true
   - translation_iso: spa
     name: Idioma ambulas
   - translation_iso: zho

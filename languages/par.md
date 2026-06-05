@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティンビシャ語
+  - translation_iso: por
+    name: Língua timbisha
   - translation_iso: spa
     name: timbisha
   - translation_iso: zho

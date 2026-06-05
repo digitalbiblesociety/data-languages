@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルカ語
+  - translation_iso: por
+    name: Marka
+    auto: true
   - translation_iso: spa
     name: Marka
     auto: true

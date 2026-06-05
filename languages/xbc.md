@@ -27,6 +27,8 @@ translations:
     name: バクトリア語
   - translation_iso: kor
     name: 박트리아어
+  - translation_iso: por
+    name: Língua bactriana
   - translation_iso: spa
     name: Idioma bactriano
   - translation_iso: zho

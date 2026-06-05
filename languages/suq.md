@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: スリ語
     auto: true
+  - translation_iso: por
+    name: Língua suri
   - translation_iso: spa
     name: Idioma suri
   - translation_iso: zho

@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: アベレンアイタ語
     auto: true
+  - translation_iso: por
+    name: Língua abellen
   - translation_iso: spa
     name: Abellen Ayta
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボティ・キンナウリ語
     auto: true
+  - translation_iso: por
+    name: Bhoti Kinnauri
+    auto: true
   - translation_iso: spa
     name: Bhoti Kinnauri
     auto: true

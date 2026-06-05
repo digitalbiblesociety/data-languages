@@ -28,6 +28,8 @@ translations:
     name: アラゴン語
   - translation_iso: kor
     name: 아라곤어
+  - translation_iso: por
+    name: língua aragonesa
   - translation_iso: spa
     name: aragonés
   - translation_iso: zho

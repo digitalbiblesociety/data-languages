@@ -28,6 +28,8 @@ translations:
     name: ゴート語
   - translation_iso: kor
     name: 고트어
+  - translation_iso: por
+    name: gótico
   - translation_iso: spa
     name: gótico
   - translation_iso: zho

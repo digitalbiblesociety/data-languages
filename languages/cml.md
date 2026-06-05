@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カンパラギアン語
     auto: true
+  - translation_iso: por
+    name: Campalagian
+    auto: true
   - translation_iso: spa
     name: Campalagian
     auto: true

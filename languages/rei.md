@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: レリ語
     auto: true
+  - translation_iso: por
+    name: Reli
+    auto: true
   - translation_iso: spa
     name: Reli
     auto: true

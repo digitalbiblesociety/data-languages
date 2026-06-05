@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ペタツ語
     auto: true
+  - translation_iso: por
+    name: Petats
+    auto: true
   - translation_iso: spa
     name: Petats
   - translation_iso: zho

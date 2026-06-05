@@ -25,6 +25,8 @@ translations:
     name: バスク語
   - translation_iso: kor
     name: 바스크어
+  - translation_iso: por
+    name: basco
   - translation_iso: spa
     name: euskera
   - translation_iso: zho

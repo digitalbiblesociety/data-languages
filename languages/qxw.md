@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ハウハワンカケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua Jauja Wanca
+    auto: true
   - translation_iso: spa
     name: jauja huanca
   - translation_iso: zho

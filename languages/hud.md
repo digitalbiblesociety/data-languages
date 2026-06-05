@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: フアウル語
     auto: true
+  - translation_iso: por
+    name: Huaulu
+    auto: true
   - translation_iso: spa
     name: Huaulu
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: スルバカル語
     auto: true
+  - translation_iso: por
+    name: Surbakhal
+    auto: true
   - translation_iso: spa
     name: Surbakhal
     auto: true

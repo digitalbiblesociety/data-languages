@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴテ語
+  - translation_iso: por
+    name: Vute
+    auto: true
   - translation_iso: spa
     name: Vute
     auto: true

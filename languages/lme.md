@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ペベ語
     auto: true
+  - translation_iso: por
+    name: Língua pévé
   - translation_iso: spa
     name: pevé
   - translation_iso: zho

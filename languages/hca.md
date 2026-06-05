@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンダマン・クレオール・ヒンディー語
     auto: true
+  - translation_iso: por
+    name: Hindi Crioulo de Andamão
+    auto: true
   - translation_iso: spa
     name: Hindi criollo andamanés
     auto: true

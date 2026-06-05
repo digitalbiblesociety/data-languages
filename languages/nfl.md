@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エイウォ語
+  - translation_iso: por
+    name: Äiwoo
   - translation_iso: spa
     name: Ayiwo
     auto: true

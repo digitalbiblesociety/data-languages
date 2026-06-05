@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アラレタブラハン語
     auto: true
+  - translation_iso: por
+    name: Aralle-Tabulahan
+    auto: true
   - translation_iso: spa
     name: Aralle-Tabulahan
     auto: true

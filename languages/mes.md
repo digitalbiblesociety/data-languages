@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マスマエ語
     auto: true
+  - translation_iso: por
+    name: Masmaje
+    auto: true
   - translation_iso: spa
     name: Masmaje
     auto: true

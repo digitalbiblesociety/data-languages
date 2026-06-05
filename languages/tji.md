@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プリ語
+  - translation_iso: por
+    name: Tujia do Norte
+    auto: true
   - translation_iso: spa
     name: Tujia del Norte
     auto: true

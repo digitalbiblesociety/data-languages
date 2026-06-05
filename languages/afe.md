@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プトゥクワム語
     auto: true
+  - translation_iso: por
+    name: Putukwam
+    auto: true
   - translation_iso: spa
     name: Putukwam
     auto: true

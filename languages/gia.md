@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: キジャ語
     auto: true
+  - translation_iso: por
+    name: Língua gija
   - translation_iso: spa
     name: Kija
   - translation_iso: zho

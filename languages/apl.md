@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: リパン・アパッチ語
     auto: true
+  - translation_iso: por
+    name: Língua lipan apache
   - translation_iso: spa
     name: Lipán
   - translation_iso: zho

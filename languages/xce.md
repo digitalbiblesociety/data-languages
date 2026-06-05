@@ -29,6 +29,8 @@ translations:
     name: ケルティベリア語
   - translation_iso: kor
     name: 켈티베리아어
+  - translation_iso: por
+    name: celtibérico
   - translation_iso: spa
     name: celtíbero
   - translation_iso: zho

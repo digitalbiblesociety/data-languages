@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: スンブワ語
     auto: true
+  - translation_iso: por
+    name: Sumbwa
+    auto: true
   - translation_iso: spa
     name: Sumbwa
     auto: true

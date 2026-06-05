@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ムブンダ語
     auto: true
+  - translation_iso: por
+    name: Mbunda
   - translation_iso: spa
     name: mbunda
   - translation_iso: zho

@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ネオ・ヒッタイト語
     auto: true
+  - translation_iso: por
+    name: Neo-hitita
+    auto: true
   - translation_iso: spa
     name: neohitita
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: モリ・アタス語
     auto: true
+  - translation_iso: por
+    name: Língua mori-atas
   - translation_iso: spa
     name: Mori Atas
     auto: true

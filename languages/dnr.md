@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダナル語
     auto: true
+  - translation_iso: por
+    name: Danaru
+    auto: true
   - translation_iso: spa
     name: Danaru
     auto: true

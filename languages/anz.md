@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アネム語
+  - translation_iso: por
+    name: Anem
+    auto: true
   - translation_iso: spa
     name: Idioma anêm
   - translation_iso: zho

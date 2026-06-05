@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タグワナ・セヌフォ語
     auto: true
+  - translation_iso: por
+    name: Senufo Tagwana
+    auto: true
   - translation_iso: spa
     name: Tagwana Senoufo
     auto: true

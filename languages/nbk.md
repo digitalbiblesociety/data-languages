@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナケ語
     auto: true
+  - translation_iso: por
+    name: Nake
+    auto: true
   - translation_iso: spa
     name: Nake
     auto: true

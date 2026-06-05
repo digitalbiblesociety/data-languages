@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スクォミッシ語
+  - translation_iso: por
+    name: Língua squamish
   - translation_iso: spa
     name: Squamish
     auto: true

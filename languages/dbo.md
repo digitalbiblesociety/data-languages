@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ドゥルブ語
     auto: true
+  - translation_iso: por
+    name: Dulbu
+    auto: true
   - translation_iso: spa
     name: Dulbu
     auto: true

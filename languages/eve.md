@@ -29,6 +29,8 @@ translations:
     name: エヴェン語
   - translation_iso: kor
     name: 에벤어
+  - translation_iso: por
+    name: Língua even
   - translation_iso: spa
     name: even
   - translation_iso: zho

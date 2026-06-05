@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イアイ語
+  - translation_iso: por
+    name: Língua iaai
   - translation_iso: spa
     name: Idioma iaai
   - translation_iso: zho

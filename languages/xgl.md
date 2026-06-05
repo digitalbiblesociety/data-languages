@@ -23,6 +23,9 @@ translations:
     name: ガリンディア語
   - translation_iso: kor
     name: 갈린디아어
+  - translation_iso: por
+    name: Galindan
+    auto: true
   - translation_iso: spa
     name: galíndico
   - translation_iso: zho

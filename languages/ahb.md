@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アクサンブ語
     auto: true
+  - translation_iso: por
+    name: Axamb
+    auto: true
   - translation_iso: spa
     name: Axamb
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 中央パラワーノ語
     auto: true
+  - translation_iso: por
+    name: Palawano Central
+    auto: true
   - translation_iso: spa
     name: Palawano central
     auto: true

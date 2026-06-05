@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バファンジ語
     auto: true
+  - translation_iso: por
+    name: Bafanji
+    auto: true
   - translation_iso: spa
     name: Bafanji
     auto: true

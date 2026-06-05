@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アルイ語
     auto: true
+  - translation_iso: por
+    name: Serui-Laut
+    auto: true
   - translation_iso: spa
     name: Serui-Laut
     auto: true

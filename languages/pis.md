@@ -27,6 +27,8 @@ translations:
     name: ピジン語
   - translation_iso: kor
     name: 피진어
+  - translation_iso: por
+    name: Língua pijin
   - translation_iso: spa
     name: Pidgin salomonense
   - translation_iso: zho

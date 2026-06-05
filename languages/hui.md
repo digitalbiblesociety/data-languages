@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フリ語
+  - translation_iso: por
+    name: Língua huli
   - translation_iso: spa
     name: Huli
     auto: true

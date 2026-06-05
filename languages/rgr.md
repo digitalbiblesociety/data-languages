@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レシガロ語
+  - translation_iso: por
+    name: Língua resígaro
   - translation_iso: spa
     name: Idioma resígaro
   - translation_iso: zho

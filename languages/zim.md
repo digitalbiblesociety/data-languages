@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: メスメ語
     auto: true
+  - translation_iso: por
+    name: mesme
+    auto: true
   - translation_iso: spa
     name: Mesme
     auto: true

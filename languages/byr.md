@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルヤ語
+  - translation_iso: por
+    name: Baruya
+    auto: true
   - translation_iso: spa
     name: Baruya
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: メモニ語
     auto: true
+  - translation_iso: por
+    name: Memoni
+    auto: true
   - translation_iso: spa
     name: Memoni
     auto: true

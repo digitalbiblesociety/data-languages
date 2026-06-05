@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サニー語
+  - translation_iso: por
+    name: sanie
+    auto: true
   - translation_iso: spa
     name: Sanie
     auto: true

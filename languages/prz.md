@@ -26,6 +26,8 @@ translations:
     name: प्रोविडेंस आइलैंड सांकेतिक भाषा
   - translation_iso: jpn
     name: プロビデンシア手話
+  - translation_iso: por
+    name: Língua de Sinais da Providência
   - translation_iso: spa
     name: Lengua de señas de Providencia
   - translation_iso: zho

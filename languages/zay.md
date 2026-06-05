@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ザイセ-ゼルグッラ語
     auto: true
+  - translation_iso: por
+    name: zayse-zergulla
+    auto: true
   - translation_iso: spa
     name: Idioma zayse-zergulla
   - translation_iso: zho

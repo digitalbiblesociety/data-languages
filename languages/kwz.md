@@ -29,6 +29,8 @@ translations:
     name: クワディ語
   - translation_iso: kor
     name: 콰디어
+  - translation_iso: por
+    name: Kwadi
   - translation_iso: spa
     name: Idioma kwadi
   - translation_iso: zho

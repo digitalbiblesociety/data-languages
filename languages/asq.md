@@ -28,6 +28,8 @@ translations:
     name: オーストリア手話
   - translation_iso: kor
     name: 오스트리아 수어
+  - translation_iso: por
+    name: língua de sinais austríaca
   - translation_iso: spa
     name: lengua austríaca de signos
   - translation_iso: zho

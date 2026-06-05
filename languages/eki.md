@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エキ語
     auto: true
+  - translation_iso: por
+    name: Eki
+    auto: true
   - translation_iso: spa
     name: Eki
     auto: true

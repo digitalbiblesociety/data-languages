@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バティ語
     auto: true
+  - translation_iso: por
+    name: Bati (Camarões)
+    auto: true
   - translation_iso: spa
     name: bati
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
     name: ドンガン語
   - translation_iso: kor
     name: 둥간어
+  - translation_iso: por
+    name: Língua Dungan
   - translation_iso: spa
     name: dungano
   - translation_iso: zho

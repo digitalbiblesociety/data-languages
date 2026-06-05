@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ワカ語
     auto: true
+  - translation_iso: por
+    name: Vilela
+    auto: true
   - translation_iso: spa
     name: Idioma vilela
   - translation_iso: zho

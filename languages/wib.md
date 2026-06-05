@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南トゥシアン語
     auto: true
+  - translation_iso: por
+    name: Toussian Meridional
+    auto: true
   - translation_iso: spa
     name: Toussian del Sur
     auto: true

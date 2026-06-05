@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イラヤ語
     auto: true
+  - translation_iso: por
+    name: Língua Iraya
   - translation_iso: spa
     name: Iraya
     auto: true

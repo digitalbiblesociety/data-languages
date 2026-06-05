@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アチェ語
     auto: true
+  - translation_iso: por
+    name: ache
+    auto: true
   - translation_iso: spa
     name: Ache
     auto: true

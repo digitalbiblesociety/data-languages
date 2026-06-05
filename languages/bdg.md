@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ボンギ語
     auto: true
+  - translation_iso: por
+    name: Língua bonggi
   - translation_iso: spa
     name: Bonggi
     auto: true

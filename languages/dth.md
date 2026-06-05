@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: アディティンギティ語
     auto: true
+  - translation_iso: por
+    name: Adithinngithigh
+    auto: true
   - translation_iso: spa
     name: Idioma adithinngithigh
   - translation_iso: zho

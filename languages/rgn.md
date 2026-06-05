@@ -28,6 +28,8 @@ translations:
     name: ロマーニャ語
   - translation_iso: kor
     name: 로마냐어
+  - translation_iso: por
+    name: romagnol
   - translation_iso: spa
     name: romañol
   - translation_iso: zho

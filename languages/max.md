@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北モルッカ・マレー語
+  - translation_iso: por
+    name: Malaio das Molucas do Norte
+    auto: true
   - translation_iso: spa
     name: Malayo del norte de las Molucas
     auto: true

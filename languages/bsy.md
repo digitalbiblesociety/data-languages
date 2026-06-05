@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タタナ語
+  - translation_iso: por
+    name: Bisaya de Sabah
+    auto: true
   - translation_iso: spa
     name: Bisaya de Sabah
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: マムプルリ語
     auto: true
+  - translation_iso: por
+    name: Língua mampruli
   - translation_iso: spa
     name: Mampruli
   - translation_iso: zho

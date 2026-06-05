@@ -22,6 +22,9 @@ translations:
     name: ユラツ語
   - translation_iso: kor
     name: 유라츠어
+  - translation_iso: por
+    name: Yurats
+    auto: true
   - translation_iso: spa
     name: yurats
   - translation_iso: zho

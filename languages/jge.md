@@ -22,6 +22,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グルジン語
+  - translation_iso: por
+    name: gruzinic
   - translation_iso: spa
     name: judeogeorgiano
   - translation_iso: zho

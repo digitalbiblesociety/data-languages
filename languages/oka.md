@@ -28,6 +28,8 @@ translations:
     name: オカナゴン語
   - translation_iso: kor
     name: 오카나간어
+  - translation_iso: por
+    name: Língua okanagan
   - translation_iso: spa
     name: Okanagan
   - translation_iso: zho

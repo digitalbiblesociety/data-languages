@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンジャク語
+  - translation_iso: por
+    name: Língua manjaca
   - translation_iso: spa
     name: Mandjak
     auto: true

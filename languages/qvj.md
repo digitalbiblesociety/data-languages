@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ロハハイランドキチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua das Terras Altas de Loja
+    auto: true
   - translation_iso: spa
     name: Quichua serrano de Loja
     auto: true

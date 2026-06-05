@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コモド語
+  - translation_iso: por
+    name: Komodo
   - translation_iso: spa
     name: Komodo
   - translation_iso: zho

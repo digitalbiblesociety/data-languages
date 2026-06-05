@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カラワ語
     auto: true
+  - translation_iso: por
+    name: Karawa
+    auto: true
   - translation_iso: spa
     name: Karawa
     auto: true

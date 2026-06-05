@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アカ語
+  - translation_iso: por
+    name: Yaka (República Centro-Africana)
+    auto: true
   - translation_iso: spa
     name: Yaka
     auto: true

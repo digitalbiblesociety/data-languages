@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オンジョブ語
     auto: true
+  - translation_iso: por
+    name: Onjob
+    auto: true
   - translation_iso: spa
     name: Onjob
     auto: true

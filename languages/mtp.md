@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウィチ・ルハムテス・ノクテン語
     auto: true
+  - translation_iso: por
+    name: wichí lhamtés nocten
+    auto: true
   - translation_iso: spa
     name: Idioma weenhayek
   - translation_iso: zho

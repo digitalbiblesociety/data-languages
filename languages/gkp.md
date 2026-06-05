@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギニア・クペレ語
+  - translation_iso: por
+    name: kpelle da Guiné
+    auto: true
   - translation_iso: spa
     name: Kpelle de Guinea
     auto: true

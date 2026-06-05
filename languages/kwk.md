@@ -28,6 +28,8 @@ translations:
     name: クヮキゥートル語
   - translation_iso: kor
     name: 콰콸라어
+  - translation_iso: por
+    name: kwakʼwala
   - translation_iso: spa
     name: kwakʼwala
   - translation_iso: zho

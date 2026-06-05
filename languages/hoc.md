@@ -28,6 +28,8 @@ translations:
     name: ホー語
   - translation_iso: kor
     name: 호어
+  - translation_iso: por
+    name: Língua ho
   - translation_iso: spa
     name: Ho
     auto: true

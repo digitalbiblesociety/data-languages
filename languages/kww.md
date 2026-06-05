@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: クウィンティ語
     auto: true
+  - translation_iso: por
+    name: Língua kwinti
   - translation_iso: spa
     name: Kwinti
     auto: true

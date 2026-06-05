@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: 北ババル語
     auto: true
+  - translation_iso: por
+    name: Babar do Norte
+    auto: true
   - translation_iso: spa
     name: Babar Septentrional
     auto: true

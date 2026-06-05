@@ -30,6 +30,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 완초어
+  - translation_iso: por
+    name: Língua wancho
   - translation_iso: spa
     name: Naga Wancho
     auto: true

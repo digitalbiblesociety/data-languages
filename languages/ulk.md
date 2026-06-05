@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メリヤム・ミル語
+  - translation_iso: por
+    name: Meriam Mir
+    auto: true
   - translation_iso: spa
     name: Idioma meryam mir
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ノイリ語
     auto: true
+  - translation_iso: por
+    name: Noiri
+    auto: true
   - translation_iso: spa
     name: Noiri
     auto: true

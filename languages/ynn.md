@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤナ語
+  - translation_iso: por
+    name: yana
+    auto: true
   - translation_iso: spa
     name: Yana
   - translation_iso: zho

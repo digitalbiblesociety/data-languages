@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウォルスキ語
+  - translation_iso: por
+    name: Língua volsca
   - translation_iso: spa
     name: idioma volsco
   - translation_iso: zho

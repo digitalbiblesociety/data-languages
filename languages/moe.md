@@ -28,6 +28,8 @@ translations:
     name: モンタニェ語
   - translation_iso: kor
     name: 인누아이문어
+  - translation_iso: por
+    name: innu-aimun
   - translation_iso: spa
     name: innu
   - translation_iso: zho

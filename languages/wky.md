@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ワンガカユティル語
     auto: true
+  - translation_iso: por
+    name: Wangkayutyuru
+    auto: true
   - translation_iso: spa
     name: Wangkayutyuru
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: コトナメ語
     auto: true
+  - translation_iso: por
+    name: Cotoname
+    auto: true
   - translation_iso: spa
     name: Idioma cotoname
   - translation_iso: zho

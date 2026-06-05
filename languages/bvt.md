@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バティ語
     auto: true
+  - translation_iso: por
+    name: Bati
   - translation_iso: spa
     name: Bati
   - translation_iso: zho

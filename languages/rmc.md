@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カルパティア・ロマ語
+  - translation_iso: por
+    name: Romani dos Cárpatos
   - translation_iso: spa
     name: Romaní carpático
     auto: true

@@ -19,6 +19,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホレズム語
+  - translation_iso: por
+    name: corásmio
+    auto: true
   - translation_iso: spa
     name: khorezmiano
   - translation_iso: zho

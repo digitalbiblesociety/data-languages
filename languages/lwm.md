@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラオミアン語
     auto: true
+  - translation_iso: por
+    name: Laomian
+    auto: true
   - translation_iso: spa
     name: Laomian
     auto: true

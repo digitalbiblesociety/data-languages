@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥング語
+  - translation_iso: por
+    name: Dungu
+    auto: true
   - translation_iso: spa
     name: Dungu
     auto: true

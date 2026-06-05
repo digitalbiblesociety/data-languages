@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラングニアン・ブヤン語
     auto: true
+  - translation_iso: por
+    name: buyang langnian
+    auto: true
   - translation_iso: spa
     name: Buyang de Langnian
     auto: true

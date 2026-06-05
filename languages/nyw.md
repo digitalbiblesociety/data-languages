@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ニャウ語
     auto: true
+  - translation_iso: por
+    name: Nyaw
+    auto: true
   - translation_iso: spa
     name: Nyaw
     auto: true

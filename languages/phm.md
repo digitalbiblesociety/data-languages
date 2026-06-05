@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: フィンビ語
     auto: true
+  - translation_iso: por
+    name: Phimbi
+    auto: true
   - translation_iso: spa
     name: Phimbi
     auto: true

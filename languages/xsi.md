@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シオ語
+  - translation_iso: por
+    name: Língua sio
   - translation_iso: spa
     name: Sio
     auto: true

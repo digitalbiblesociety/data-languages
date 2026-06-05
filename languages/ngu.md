@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ゲレロ・ナワトル語
     auto: true
+  - translation_iso: por
+    name: Nahuatl de Guerrero
+    auto: true
   - translation_iso: spa
     name: Mexicano de Guerrero
   - translation_iso: zho

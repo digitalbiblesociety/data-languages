@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンギヤンバー語
+  - translation_iso: por
+    name: Wangaaybuwan-Ngiyambaa
+    auto: true
   - translation_iso: spa
     name: Idioma ngiyambaa
   - translation_iso: zho

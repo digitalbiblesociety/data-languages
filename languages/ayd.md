@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アヤバッド語
     auto: true
+  - translation_iso: por
+    name: Ayabadhu
+    auto: true
   - translation_iso: spa
     name: Idioma ayabadhu
   - translation_iso: zho

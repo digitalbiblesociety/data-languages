@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レンネル語
+  - translation_iso: por
+    name: Língua rennellesa
   - translation_iso: spa
     name: Rennell-Bellona
     auto: true

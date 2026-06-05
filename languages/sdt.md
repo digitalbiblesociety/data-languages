@@ -24,6 +24,8 @@ translations:
     name: シュアディート
   - translation_iso: kor
     name: 유대프로방스어
+  - translation_iso: por
+    name: Língua judeu-provençal
   - translation_iso: spa
     name: Shuadit
   - translation_iso: zho

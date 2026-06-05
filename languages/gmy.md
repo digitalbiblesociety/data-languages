@@ -29,6 +29,8 @@ translations:
     name: ミケーネ・ギリシャ語
   - translation_iso: kor
     name: 미케네 그리스어
+  - translation_iso: por
+    name: grego micênico
   - translation_iso: spa
     name: griego micénico
   - translation_iso: zho

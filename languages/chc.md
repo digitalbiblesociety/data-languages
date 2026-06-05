@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: カタウバ語
     auto: true
+  - translation_iso: por
+    name: catawba
   - translation_iso: spa
     name: catauba
   - translation_iso: zho

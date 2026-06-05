@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥム語
     auto: true
+  - translation_iso: por
+    name: Ndumu
+    auto: true
   - translation_iso: spa
     name: ndumu
   - translation_iso: zho

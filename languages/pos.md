@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サユラ語
+  - translation_iso: por
+    name: Língua sayula popoluca
   - translation_iso: spa
     name: idioma sayulteco
   - translation_iso: zho

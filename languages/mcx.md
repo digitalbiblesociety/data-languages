@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムピエモ語
     auto: true
+  - translation_iso: por
+    name: Mpiemo
+    auto: true
   - translation_iso: spa
     name: Mpiemo
     auto: true

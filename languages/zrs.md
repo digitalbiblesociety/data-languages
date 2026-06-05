@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マイラシ語
     auto: true
+  - translation_iso: por
+    name: Mairasi
+    auto: true
   - translation_iso: spa
     name: Mairasi
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: レパンビティップ語
     auto: true
+  - translation_iso: por
+    name: Repanbitip
+    auto: true
   - translation_iso: spa
     name: Repanbitip
     auto: true

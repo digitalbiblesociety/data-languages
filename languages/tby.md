@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トバル語
+  - translation_iso: por
+    name: Tabaru
+    auto: true
   - translation_iso: spa
     name: Tabaru
     auto: true

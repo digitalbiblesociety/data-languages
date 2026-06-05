@@ -28,6 +28,8 @@ translations:
     name: ジョラ＝フォニィ語
   - translation_iso: kor
     name: 졸라 포니어
+  - translation_iso: por
+    name: Língua jola-Fonyi
   - translation_iso: spa
     name: jola-fonyi
   - translation_iso: zho

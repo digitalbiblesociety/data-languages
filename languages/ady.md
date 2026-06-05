@@ -28,6 +28,8 @@ translations:
     name: アディゲ語
   - translation_iso: kor
     name: 아디게어
+  - translation_iso: por
+    name: língua adigue
   - translation_iso: spa
     name: adigués
   - translation_iso: zho

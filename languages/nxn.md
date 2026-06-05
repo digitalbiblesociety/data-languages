@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ンガウン語
     auto: true
+  - translation_iso: por
+    name: Língua ngawun
   - translation_iso: spa
     name: Idioma ngawun
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グウス語
     auto: true
+  - translation_iso: por
+    name: Saya
+    auto: true
   - translation_iso: spa
     name: Saya
     auto: true

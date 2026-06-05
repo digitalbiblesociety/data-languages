@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チェピア語
     auto: true
+  - translation_iso: por
+    name: chepya
+    auto: true
   - translation_iso: spa
     name: Chepya
     auto: true

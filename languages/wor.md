@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウォリア語
     auto: true
+  - translation_iso: por
+    name: Woria
+    auto: true
   - translation_iso: spa
     name: Woria
     auto: true

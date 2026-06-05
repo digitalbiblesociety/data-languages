@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オレホン語
     auto: true
+  - translation_iso: por
+    name: Orejón
+    auto: true
   - translation_iso: spa
     name: Idioma maijuna
   - translation_iso: zho

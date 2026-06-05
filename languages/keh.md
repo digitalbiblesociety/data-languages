@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キーク語
     auto: true
+  - translation_iso: por
+    name: Keak
+    auto: true
   - translation_iso: spa
     name: Keak
     auto: true

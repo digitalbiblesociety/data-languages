@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クウェリサ語
     auto: true
+  - translation_iso: por
+    name: Kwerisa
+    auto: true
   - translation_iso: spa
     name: Kwerisa
     auto: true

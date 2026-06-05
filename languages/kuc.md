@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クウィンスゥ語
     auto: true
+  - translation_iso: por
+    name: Kwinsu
+    auto: true
   - translation_iso: spa
     name: Kwinsu
     auto: true

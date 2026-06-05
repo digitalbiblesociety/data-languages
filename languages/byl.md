@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バヤノ語
     auto: true
+  - translation_iso: por
+    name: Bayono
+    auto: true
   - translation_iso: spa
     name: Bayono
     auto: true

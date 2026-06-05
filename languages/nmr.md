@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ニンバリ語
     auto: true
+  - translation_iso: por
+    name: Nimbari
+    auto: true
   - translation_iso: spa
     name: Nimbari
     auto: true

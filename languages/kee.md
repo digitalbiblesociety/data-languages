@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イースタン・ケレス語
     auto: true
+  - translation_iso: por
+    name: queres oriental
+    auto: true
   - translation_iso: spa
     name: queresano oriental
   - translation_iso: zho

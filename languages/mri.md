@@ -28,6 +28,8 @@ translations:
     name: マオリ語
   - translation_iso: kor
     name: 마오리어
+  - translation_iso: por
+    name: língua maori
   - translation_iso: spa
     name: maorí
   - translation_iso: zho

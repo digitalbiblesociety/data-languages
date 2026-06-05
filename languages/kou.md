@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コケ語
     auto: true
+  - translation_iso: por
+    name: Koke
+    auto: true
   - translation_iso: spa
     name: Koke
     auto: true

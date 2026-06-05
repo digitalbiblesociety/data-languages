@@ -21,6 +21,8 @@ translations:
     name: モンゴル語
   - translation_iso: kor
     name: 몽골어
+  - translation_iso: por
+    name: Língua mongol
   - translation_iso: spa
     name: mongol
   - translation_iso: zho

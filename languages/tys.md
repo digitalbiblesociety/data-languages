@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サパ語
+  - translation_iso: por
+    name: Tày Sa Pa
+    auto: true
   - translation_iso: spa
     name: Tày Sa Pa
     auto: true

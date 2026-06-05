@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャークル語
+  - translation_iso: por
+    name: Língua nyah kur
   - translation_iso: spa
     name: Nyahkur
     auto: true

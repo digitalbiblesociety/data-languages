@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムピ語
     auto: true
+  - translation_iso: por
+    name: Mpi
+    auto: true
   - translation_iso: spa
     name: Mpi
     auto: true

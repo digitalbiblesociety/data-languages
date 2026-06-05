@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ディャンガディ語
     auto: true
+  - translation_iso: por
+    name: Dyangadi
+    auto: true
   - translation_iso: spa
     name: Idioma dunghutti
   - translation_iso: zho

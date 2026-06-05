@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マクナ語
     auto: true
+  - translation_iso: por
+    name: Macuna
+    auto: true
   - translation_iso: spa
     name: Macuna
     auto: true

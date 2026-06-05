@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ググ・バドゥン語
     auto: true
+  - translation_iso: por
+    name: Gugu Badhun
+    auto: true
   - translation_iso: spa
     name: Gugu Badhun
     auto: true

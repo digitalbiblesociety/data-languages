@@ -22,6 +22,8 @@ translations:
     name: 標準モロッコ・タマジクト語
   - translation_iso: kor
     name: 표준 모로코 타마지트어
+  - translation_iso: por
+    name: tamazirte marroqino padrão
   - translation_iso: spa
     name: Amazig estándar marroquí
   - translation_iso: zho

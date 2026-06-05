@@ -28,6 +28,8 @@ translations:
     name: ミナンカバウ語
   - translation_iso: kor
     name: 미낭카바우어
+  - translation_iso: por
+    name: Língua minangkabau
   - translation_iso: spa
     name: minangkabau
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: カインガング語
   - translation_iso: kor
     name: 카잉강어
+  - translation_iso: por
+    name: Língua caingangue
   - translation_iso: spa
     name: Lengua kaingang
   - translation_iso: zho

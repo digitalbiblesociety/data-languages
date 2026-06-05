@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペレアタ語
+  - translation_iso: por
+    name: Pele-Ata
+    auto: true
   - translation_iso: spa
     name: Idioma pele-ata
   - translation_iso: zho

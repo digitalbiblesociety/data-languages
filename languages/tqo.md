@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トアリピ語
+  - translation_iso: por
+    name: Toaripi
+    auto: true
   - translation_iso: spa
     name: Toaripi
     auto: true

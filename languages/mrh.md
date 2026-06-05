@@ -27,6 +27,9 @@ translations:
     name: मारा भाषा
   - translation_iso: jpn
     name: マラ語
+  - translation_iso: por
+    name: chin mara
+    auto: true
   - translation_iso: spa
     name: Mara Chin
     auto: true

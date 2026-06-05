@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グレング・グレング語
     auto: true
+  - translation_iso: por
+    name: Gureng Gureng
+    auto: true
   - translation_iso: spa
     name: Idioma gureng gureng
   - translation_iso: zho

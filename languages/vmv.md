@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バレー・マイドゥ語
     auto: true
+  - translation_iso: por
+    name: Maidu do Vale
+    auto: true
   - translation_iso: spa
     name: chico
   - translation_iso: zho

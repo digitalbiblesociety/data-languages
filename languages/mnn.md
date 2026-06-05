@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サザン・ムノング語
     auto: true
+  - translation_iso: por
+    name: mnong do sul
+    auto: true
   - translation_iso: spa
     name: Mnong Meridional
     auto: true

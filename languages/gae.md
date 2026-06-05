@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワレケナ語
+  - translation_iso: por
+    name: Uarequenas
   - translation_iso: spa
     name: Warekena
   - translation_iso: zho

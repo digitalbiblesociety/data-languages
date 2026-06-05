@@ -28,6 +28,8 @@ translations:
     name: ワルピリ語
   - translation_iso: kor
     name: 왈피리어
+  - translation_iso: por
+    name: Língua warlpiri
   - translation_iso: spa
     name: idioma warlpiri
   - translation_iso: zho

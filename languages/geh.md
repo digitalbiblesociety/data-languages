@@ -28,6 +28,8 @@ translations:
     name: フッター派ドイツ語
   - translation_iso: kor
     name: 후터파 독일어
+  - translation_iso: por
+    name: Alemão de Hutterite
   - translation_iso: spa
     name: Alemán hutterita
     auto: true

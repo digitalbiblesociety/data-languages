@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マラ・マラサル語
     auto: true
+  - translation_iso: por
+    name: Mala Malasar
+    auto: true
   - translation_iso: spa
     name: Mala Malasar
     auto: true

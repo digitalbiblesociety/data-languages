@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: モニ語
     auto: true
+  - translation_iso: por
+    name: Moni
+    auto: true
   - translation_iso: spa
     name: Moni
     auto: true

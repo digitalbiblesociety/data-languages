@@ -28,6 +28,9 @@ translations:
     name: लुनाना बोली
   - translation_iso: jpn
     name: ルナナ語
+  - translation_iso: por
+    name: Lunanakha
+    auto: true
   - translation_iso: spa
     name: lunana
   - translation_iso: zho

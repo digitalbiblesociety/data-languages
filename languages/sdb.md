@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シャバク語
+  - translation_iso: por
+    name: Língua shabaki
   - translation_iso: spa
     name: Shabak
     auto: true

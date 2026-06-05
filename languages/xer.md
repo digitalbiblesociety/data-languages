@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シェレンテ語
     auto: true
+  - translation_iso: por
+    name: Xerénte
+    auto: true
   - translation_iso: spa
     name: Xerénte
     auto: true

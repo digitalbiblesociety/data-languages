@@ -28,6 +28,8 @@ translations:
     name: スロベニア語
   - translation_iso: kor
     name: 슬로베니아어
+  - translation_iso: por
+    name: língua eslovena
   - translation_iso: spa
     name: esloveno
   - translation_iso: zho

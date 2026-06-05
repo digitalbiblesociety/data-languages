@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンジャランギック諸語
+  - translation_iso: por
+    name: Língua bundjalung
   - translation_iso: spa
     name: Lenguas yugambeh-bundjalung
   - translation_iso: zho

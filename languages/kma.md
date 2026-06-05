@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コンニ語
     auto: true
+  - translation_iso: por
+    name: Konni
+    auto: true
   - translation_iso: spa
     name: Konni
     auto: true

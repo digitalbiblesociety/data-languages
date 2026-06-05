@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウェマレ語
     auto: true
+  - translation_iso: por
+    name: Wemale
+    auto: true
   - translation_iso: spa
     name: Wemale
     auto: true

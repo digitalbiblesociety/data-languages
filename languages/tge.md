@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 東部ゴルカ・タマン語
     auto: true
+  - translation_iso: por
+    name: Tamang de Gorkha Oriental
+    auto: true
   - translation_iso: spa
     name: Tamang Gorkha oriental
     auto: true

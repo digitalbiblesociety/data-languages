@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レウォ・エレン語
     auto: true
+  - translation_iso: por
+    name: Lewo Eleng
+    auto: true
   - translation_iso: spa
     name: Lewo Eleng
     auto: true

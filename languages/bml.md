@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ボンボリ語
     auto: true
+  - translation_iso: por
+    name: Bomboli
+    auto: true
   - translation_iso: spa
     name: Bomboli
     auto: true

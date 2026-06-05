@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南部アラペシュ語
+  - translation_iso: por
+    name: Mufian
+    auto: true
   - translation_iso: spa
     name: Mufian
     auto: true

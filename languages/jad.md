@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ジャハンカ語
     auto: true
+  - translation_iso: por
+    name: Jahanka
+    auto: true
   - translation_iso: spa
     name: Jahanka
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ジル語
     auto: true
+  - translation_iso: por
+    name: Jiru
+    auto: true
   - translation_iso: spa
     name: Jiru
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クニマイパ語
     auto: true
+  - translation_iso: por
+    name: Kunimaipa
+    auto: true
   - translation_iso: spa
     name: Kunimaipa
     auto: true

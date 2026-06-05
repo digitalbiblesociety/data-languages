@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イフェ語
     auto: true
+  - translation_iso: por
+    name: Língua ife
   - translation_iso: spa
     name: Ifè
     auto: true

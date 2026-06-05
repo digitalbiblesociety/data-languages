@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コダク語
     auto: true
+  - translation_iso: por
+    name: Kodaku
+    auto: true
   - translation_iso: spa
     name: Kodaku
     auto: true

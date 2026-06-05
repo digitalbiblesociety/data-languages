@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アヴォカヤ語
     auto: true
+  - translation_iso: por
+    name: Língua avokaya
   - translation_iso: spa
     name: Avokaya
     auto: true

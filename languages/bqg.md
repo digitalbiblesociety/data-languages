@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バゴ・クスントゥ語
     auto: true
+  - translation_iso: por
+    name: Bago-Kusuntu
+    auto: true
   - translation_iso: spa
     name: bago kusuntu
   - translation_iso: zho

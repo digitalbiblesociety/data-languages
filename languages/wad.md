@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワンダメン語
     auto: true
+  - translation_iso: por
+    name: Wandamen
+    auto: true
   - translation_iso: spa
     name: Wandamen
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トンダノ語
+  - translation_iso: por
+    name: Língua tondano
   - translation_iso: spa
     name: Tondano
     auto: true

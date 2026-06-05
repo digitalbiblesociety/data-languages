@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 이사카어
+  - translation_iso: por
+    name: Krisa
+    auto: true
   - translation_iso: spa
     name: Krisa
     auto: true

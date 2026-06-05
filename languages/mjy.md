@@ -30,6 +30,8 @@ translations:
     name: マヒカン語
   - translation_iso: kor
     name: 모히칸어
+  - translation_iso: por
+    name: Língua moicana
   - translation_iso: spa
     name: Mahicano
     auto: true

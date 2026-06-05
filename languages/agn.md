@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: アグタイネン語
     auto: true
+  - translation_iso: por
+    name: Língua agutaynen
   - translation_iso: spa
     name: idioma agutaíno
   - translation_iso: zho

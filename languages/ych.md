@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チェス語
     auto: true
+  - translation_iso: por
+    name: chesu
+    auto: true
   - translation_iso: spa
     name: Chesu
     auto: true

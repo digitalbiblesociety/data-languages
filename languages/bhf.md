@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブサ語
+  - translation_iso: por
+    name: Odiai
+    auto: true
   - translation_iso: spa
     name: Idioma busa
   - translation_iso: zho

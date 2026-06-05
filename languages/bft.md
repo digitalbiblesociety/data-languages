@@ -28,6 +28,8 @@ translations:
     name: バルティー語
   - translation_iso: kor
     name: 발티어
+  - translation_iso: por
+    name: língua balti
   - translation_iso: spa
     name: Idioma balti
   - translation_iso: zho

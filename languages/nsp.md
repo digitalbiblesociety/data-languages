@@ -25,6 +25,8 @@ translations:
     name: नेपाली सांकेतिक भाषा
   - translation_iso: jpn
     name: ネパール手話
+  - translation_iso: por
+    name: Língua de Sinais do Nepal
   - translation_iso: spa
     name: Lengua de Señas de Nepal
     auto: true

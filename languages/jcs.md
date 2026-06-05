@@ -27,6 +27,9 @@ translations:
     name: जमैका देश की सांकेतिक भाषा
   - translation_iso: jpn
     name: ジャマイカ・カントリー手話
+  - translation_iso: por
+    name: Língua de Sinais Rural Jamaicana
+    auto: true
   - translation_iso: spa
     name: Lengua de señas campesina jamaicana
     auto: true

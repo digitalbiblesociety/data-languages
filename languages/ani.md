@@ -29,6 +29,8 @@ translations:
     name: アンディ語
   - translation_iso: kor
     name: 안디어
+  - translation_iso: por
+    name: Língua andi
   - translation_iso: spa
     name: Idioma andi
   - translation_iso: zho

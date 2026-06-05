@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ビロキシ語
     auto: true
+  - translation_iso: por
+    name: Língua biloxi
   - translation_iso: spa
     name: Biloxi
   - translation_iso: zho

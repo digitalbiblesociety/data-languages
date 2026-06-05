@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: フォマ語
     auto: true
+  - translation_iso: por
+    name: Foma
+    auto: true
   - translation_iso: spa
     name: Foma
     auto: true

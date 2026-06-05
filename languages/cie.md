@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: シネニ語
     auto: true
+  - translation_iso: por
+    name: Cineni
+    auto: true
   - translation_iso: spa
     name: Cineni
     auto: true

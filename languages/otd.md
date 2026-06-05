@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オト・ダヌム語
     auto: true
+  - translation_iso: por
+    name: Ot Danum
+    auto: true
   - translation_iso: spa
     name: Ot Danum
     auto: true

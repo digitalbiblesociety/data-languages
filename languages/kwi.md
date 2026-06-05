@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アワ・クアイケル語
     auto: true
+  - translation_iso: por
+    name: Língua awa pit
   - translation_iso: spa
     name: idioma awá pit
   - translation_iso: zho

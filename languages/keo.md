@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カクワ語
     auto: true
+  - translation_iso: por
+    name: Kakwa
+    auto: true
   - translation_iso: spa
     name: Kakwa
     auto: true

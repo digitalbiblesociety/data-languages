@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マクレウ語
     auto: true
+  - translation_iso: por
+    name: Maklew
+    auto: true
   - translation_iso: spa
     name: Maklew
     auto: true

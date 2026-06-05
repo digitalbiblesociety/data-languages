@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カヌフィ語
     auto: true
+  - translation_iso: por
+    name: Kanufi
+    auto: true
   - translation_iso: spa
     name: Kanufi
     auto: true

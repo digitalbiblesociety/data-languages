@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シャルズワール語
     auto: true
+  - translation_iso: por
+    name: Shall-Zwall
+    auto: true
   - translation_iso: spa
     name: Shall-Zwall
     auto: true

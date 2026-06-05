@@ -27,6 +27,8 @@ translations:
     name: सांगला भाषा
   - translation_iso: jpn
     name: ツァンラ語
+  - translation_iso: por
+    name: Língua tshangla
   - translation_iso: spa
     name: Tshangla
     auto: true

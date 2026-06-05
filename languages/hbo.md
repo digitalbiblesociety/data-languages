@@ -28,6 +28,8 @@ translations:
     name: 聖書ヘブライ語
   - translation_iso: kor
     name: 고대 히브리어
+  - translation_iso: por
+    name: Hebraico bíblico
   - translation_iso: spa
     name: hebreo bíblico
   - translation_iso: zho

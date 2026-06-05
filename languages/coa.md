@@ -30,6 +30,9 @@ translations:
     name: ココスマレー語
   - translation_iso: kor
     name: 코코스 말레이어
+  - translation_iso: por
+    name: Malaio das Ilhas Cocos
+    auto: true
   - translation_iso: spa
     name: Malayo de las Islas Cocos
   - translation_iso: zho

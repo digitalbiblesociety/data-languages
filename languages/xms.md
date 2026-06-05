@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モロッコ手話
+  - translation_iso: por
+    name: Língua de Sinais Marroquina
   - translation_iso: spa
     name: lengua de señas marroquí
   - translation_iso: zho

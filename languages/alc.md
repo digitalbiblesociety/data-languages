@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カウェスカル語
+  - translation_iso: por
+    name: Língua kawésqar
   - translation_iso: spa
     name: Idioma kawésqar
   - translation_iso: zho

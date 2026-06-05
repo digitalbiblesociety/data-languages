@@ -28,6 +28,8 @@ translations:
     name: アイヌ語
   - translation_iso: kor
     name: 아이누어
+  - translation_iso: por
+    name: língua ainu
   - translation_iso: spa
     name: Ainu
   - translation_iso: zho

@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: マムリク語
     auto: true
+  - translation_iso: por
+    name: Mamulique
+    auto: true
   - translation_iso: spa
     name: idioma mamulique
   - translation_iso: zho

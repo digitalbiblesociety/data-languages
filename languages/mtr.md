@@ -28,6 +28,8 @@ translations:
     name: मेवाड़ी भाषा
   - translation_iso: jpn
     name: メワール語
+  - translation_iso: por
+    name: Língua mewari
   - translation_iso: spa
     name: Mewari
     auto: true

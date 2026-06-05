@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: サテレ・マウェ語
     auto: true
+  - translation_iso: por
+    name: Língua sateré-mawé
   - translation_iso: spa
     name: Idioma mawé
   - translation_iso: zho

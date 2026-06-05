@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボール語
     auto: true
+  - translation_iso: por
+    name: Boor
+    auto: true
   - translation_iso: spa
     name: boor
   - translation_iso: zho

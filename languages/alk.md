@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アラク語
     auto: true
+  - translation_iso: por
+    name: Alak
+    auto: true
   - translation_iso: spa
     name: Alak
     auto: true

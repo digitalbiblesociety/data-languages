@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブラッラ語
     auto: true
+  - translation_iso: por
+    name: Burarra
+    auto: true
   - translation_iso: spa
     name: Burarra
     auto: true

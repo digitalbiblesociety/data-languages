@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 北アスマット語
     auto: true
+  - translation_iso: por
+    name: Asmat do Norte
+    auto: true
   - translation_iso: spa
     name: Asmat septentrional
     auto: true

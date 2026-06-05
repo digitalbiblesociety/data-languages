@@ -31,6 +31,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 마체스어
+  - translation_iso: por
+    name: Língua matsés
   - translation_iso: spa
     name: Matsés
   - translation_iso: zho

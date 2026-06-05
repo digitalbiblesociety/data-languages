@@ -28,6 +28,8 @@ translations:
     name: ツバル語
   - translation_iso: kor
     name: 투발루어
+  - translation_iso: por
+    name: língua tuvaluana
   - translation_iso: spa
     name: tuvaluano
   - translation_iso: zho

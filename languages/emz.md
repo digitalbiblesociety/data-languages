@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ムベッサ語
     auto: true
+  - translation_iso: por
+    name: Mbessa
+    auto: true
   - translation_iso: spa
     name: Mbessa
     auto: true

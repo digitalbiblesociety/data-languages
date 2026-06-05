@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: パピア・トゥグ語
     auto: true
+  - translation_iso: por
+    name: Crioulo Português de Java
   - translation_iso: spa
     name: Criollo portugués de Tugu
     auto: true

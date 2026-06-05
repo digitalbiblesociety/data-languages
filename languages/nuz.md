@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: トラマカザパ・ナワトル語
     auto: true
+  - translation_iso: por
+    name: náhuatl de Tlamacazapa
   - translation_iso: spa
     name: náhuatl de Tlamacazapa
   - translation_iso: zho

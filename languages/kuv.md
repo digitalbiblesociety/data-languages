@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クル語
     auto: true
+  - translation_iso: por
+    name: Kur
+    auto: true
   - translation_iso: spa
     name: Kur
     auto: true

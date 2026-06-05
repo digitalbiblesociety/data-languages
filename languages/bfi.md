@@ -27,6 +27,8 @@ translations:
     name: イギリス手話
   - translation_iso: kor
     name: 영국 수화
+  - translation_iso: por
+    name: língua de sinais britânica
   - translation_iso: spa
     name: lengua de señas británica
   - translation_iso: zho

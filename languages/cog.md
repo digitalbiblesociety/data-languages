@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チョング語
     auto: true
+  - translation_iso: por
+    name: Chong
+    auto: true
   - translation_iso: spa
     name: Chong
     auto: true

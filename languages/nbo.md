@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ングクコリ語
     auto: true
+  - translation_iso: por
+    name: Nkukoli
+    auto: true
   - translation_iso: spa
     name: Nkukoli
     auto: true

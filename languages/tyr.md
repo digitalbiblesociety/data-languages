@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 赤タイ語
+  - translation_iso: por
+    name: Tai Daeng
+    auto: true
   - translation_iso: spa
     name: Tai Daeng
     auto: true

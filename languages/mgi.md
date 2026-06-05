@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: リジリ語
     auto: true
+  - translation_iso: por
+    name: Lijili
+    auto: true
   - translation_iso: spa
     name: Lijili
     auto: true

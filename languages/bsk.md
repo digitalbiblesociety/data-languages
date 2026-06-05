@@ -24,6 +24,8 @@ translations:
     name: ブルシャスキー語
   - translation_iso: kor
     name: 부르샤스키어
+  - translation_iso: por
+    name: língua burushaski
   - translation_iso: spa
     name: Idioma burushaski
   - translation_iso: zho

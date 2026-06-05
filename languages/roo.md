@@ -28,6 +28,8 @@ translations:
     name: ロトカス語
   - translation_iso: kor
     name: 로토카스어
+  - translation_iso: por
+    name: Língua rotokas
   - translation_iso: spa
     name: rotokas
   - translation_iso: zho

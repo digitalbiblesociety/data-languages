@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タマ語
     auto: true
+  - translation_iso: por
+    name: Tama (Colômbia)
+    auto: true
   - translation_iso: spa
     name: Tama (Colombia)
     auto: true

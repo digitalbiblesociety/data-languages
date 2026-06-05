@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムンガカ語
     auto: true
+  - translation_iso: por
+    name: Mungaka
+    auto: true
   - translation_iso: spa
     name: Mungaka
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 象形文字ルウィ語
+  - translation_iso: por
+    name: Luvita hieroglífico
   - translation_iso: spa
     name: jeroglífico luvita
   - translation_iso: zho

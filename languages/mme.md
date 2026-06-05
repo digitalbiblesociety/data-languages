@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マエ語
     auto: true
+  - translation_iso: por
+    name: Mae
+    auto: true
   - translation_iso: spa
     name: Idioma tirax
   - translation_iso: zho

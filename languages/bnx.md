@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バングバング語
+  - translation_iso: por
+    name: Bangubangu
+    auto: true
   - translation_iso: spa
     name: Bangubangu
     auto: true

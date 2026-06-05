@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ルガ語
     auto: true
+  - translation_iso: por
+    name: Ruga
+    auto: true
   - translation_iso: spa
     name: Ruga
     auto: true

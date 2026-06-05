@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: ダツキ語
     auto: true
+  - translation_iso: por
+    name: Língua dhatki
   - translation_iso: spa
     name: dhatki
   - translation_iso: zho

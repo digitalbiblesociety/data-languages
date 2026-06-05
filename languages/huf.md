@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: フメネ語
     auto: true
+  - translation_iso: por
+    name: Humene
+    auto: true
   - translation_iso: spa
     name: Humene
     auto: true

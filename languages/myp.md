@@ -26,6 +26,8 @@ translations:
     name: ピダハン語
   - translation_iso: kor
     name: 피라항어
+  - translation_iso: por
+    name: língua pirarrã
   - translation_iso: spa
     name: idioma pirahã
   - translation_iso: zho

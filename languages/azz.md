@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 高地プエブラ・ナワトル語
     auto: true
+  - translation_iso: por
+    name: Náuatle de Puebla das Terras Altas
+    auto: true
   - translation_iso: spa
     name: Náhuatl de la Sierra de Puebla
     auto: true

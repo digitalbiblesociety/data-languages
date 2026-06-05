@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ノイプックス語
     auto: true
+  - translation_iso: por
+    name: Noipx
+    auto: true
   - translation_iso: spa
     name: Noipx
     auto: true

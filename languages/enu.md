@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エヌ語
     auto: true
+  - translation_iso: por
+    name: Enu
+    auto: true
   - translation_iso: spa
     name: Enu
     auto: true

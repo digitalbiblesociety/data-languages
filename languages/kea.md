@@ -28,6 +28,8 @@ translations:
     name: カーボベルデ・クレオール語
   - translation_iso: kor
     name: 카보베르데 크리올
+  - translation_iso: por
+    name: crioulo cabo-verdiano
   - translation_iso: spa
     name: criollo caboverdiano
   - translation_iso: zho

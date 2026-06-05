@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: サイジャ語
     auto: true
+  - translation_iso: por
+    name: Língua eperara
   - translation_iso: spa
     name: Epena
     auto: true

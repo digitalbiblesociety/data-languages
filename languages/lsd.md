@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディダン語
+  - translation_iso: por
+    name: Lishana Deni
+    auto: true
   - translation_iso: spa
     name: Lishana Deni
     auto: true

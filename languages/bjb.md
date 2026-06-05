@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バンガルラ語
     auto: true
+  - translation_iso: por
+    name: Banggarla
+    auto: true
   - translation_iso: spa
     name: Idioma barngarla
   - translation_iso: zho

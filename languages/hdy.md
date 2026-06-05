@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハディヤ語
+  - translation_iso: por
+    name: Língua hadia
   - translation_iso: spa
     name: Hadiyya
     auto: true

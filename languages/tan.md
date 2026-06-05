@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: タンガレ語
     auto: true
+  - translation_iso: por
+    name: Língua tangale
   - translation_iso: spa
     name: Tangale
     auto: true

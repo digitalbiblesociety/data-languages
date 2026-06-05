@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マリイェディ語
     auto: true
+  - translation_iso: por
+    name: Mariyedi
+    auto: true
   - translation_iso: spa
     name: Mariyedi
     auto: true

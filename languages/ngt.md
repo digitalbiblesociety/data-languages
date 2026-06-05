@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クリアン語
     auto: true
+  - translation_iso: por
+    name: Kriang
+    auto: true
   - translation_iso: spa
     name: Kriang
     auto: true

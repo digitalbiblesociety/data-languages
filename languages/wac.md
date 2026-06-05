@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィシュラム語
+  - translation_iso: por
+    name: Wasco-Wishram
+    auto: true
   - translation_iso: spa
     name: Wasco-Wishram
     auto: true

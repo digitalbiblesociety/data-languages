@@ -30,6 +30,8 @@ translations:
     name: 与那国語
   - translation_iso: kor
     name: 요나구니어
+  - translation_iso: por
+    name: Língua Yonaguni
   - translation_iso: spa
     name: yonaguni
   - translation_iso: zho

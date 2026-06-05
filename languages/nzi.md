@@ -28,6 +28,8 @@ translations:
     name: ンゼマ語
   - translation_iso: kor
     name: 느지마어
+  - translation_iso: por
+    name: Língua nzema
   - translation_iso: spa
     name: Idioma nzema
   - translation_iso: zho

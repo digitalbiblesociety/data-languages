@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ジンバ語
     auto: true
+  - translation_iso: por
+    name: zimba
+    auto: true
   - translation_iso: spa
     name: Zimba
     auto: true

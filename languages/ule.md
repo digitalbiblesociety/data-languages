@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ルレ語
     auto: true
+  - translation_iso: por
+    name: Lule
+    auto: true
   - translation_iso: spa
     name: Idioma lule
   - translation_iso: zho

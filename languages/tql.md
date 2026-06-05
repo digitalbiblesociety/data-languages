@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ローリ語
     auto: true
+  - translation_iso: por
+    name: Língua lehali
   - translation_iso: spa
     name: Lehali
     auto: true

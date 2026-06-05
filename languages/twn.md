@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カンバプ語
     auto: true
+  - translation_iso: por
+    name: Twendi
+    auto: true
   - translation_iso: spa
     name: Twendi
     auto: true

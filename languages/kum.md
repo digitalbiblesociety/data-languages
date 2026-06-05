@@ -28,6 +28,8 @@ translations:
     name: クムク語
   - translation_iso: kor
     name: 쿠미크어
+  - translation_iso: por
+    name: Língua kumyk
   - translation_iso: spa
     name: Idioma cumuco
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     name: フランス手話
   - translation_iso: kor
     name: 프랑스 수화
+  - translation_iso: por
+    name: língua de sinais francesa
   - translation_iso: spa
     name: lengua de señas francesa
   - translation_iso: zho

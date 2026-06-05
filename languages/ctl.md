@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トラコアツィンテペク・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Chinanteco de Tlacoatzintepec
+    auto: true
   - translation_iso: spa
     name: chinanteca de Tlacoatzintepec
   - translation_iso: zho

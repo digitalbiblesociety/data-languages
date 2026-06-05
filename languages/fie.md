@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フィエル語
     auto: true
+  - translation_iso: por
+    name: Fyer
+    auto: true
   - translation_iso: spa
     name: Fyer
     auto: true

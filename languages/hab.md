@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハノイ手話
+  - translation_iso: por
+    name: Língua de Sinais de Hanói
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Hanói
     auto: true

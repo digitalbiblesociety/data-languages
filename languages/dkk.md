@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダッカ
+  - translation_iso: por
+    name: Dakka
+    auto: true
   - translation_iso: spa
     name: Dakka
     auto: true

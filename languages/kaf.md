@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カッソ語
     auto: true
+  - translation_iso: por
+    name: Língua khatso
   - translation_iso: spa
     name: Katso
     auto: true

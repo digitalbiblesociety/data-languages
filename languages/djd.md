@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャミンジュング語
+  - translation_iso: por
+    name: Língua jaminjung
   - translation_iso: spa
     name: Djamindjung
     auto: true

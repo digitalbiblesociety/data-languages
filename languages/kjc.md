@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コースタル・コンジョ語
     auto: true
+  - translation_iso: por
+    name: Konjo Litorâneo
+    auto: true
   - translation_iso: spa
     name: Konjo Costero
     auto: true

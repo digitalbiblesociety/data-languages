@@ -29,6 +29,8 @@ translations:
     name: トホラバル語
   - translation_iso: kor
     name: 토홀라발어
+  - translation_iso: por
+    name: Língua tojolabal
   - translation_iso: spa
     name: tojolabal
   - translation_iso: zho

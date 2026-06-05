@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンシー語
+  - translation_iso: por
+    name: Língua munsee
   - translation_iso: spa
     name: Munsee
   - translation_iso: zho

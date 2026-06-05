@@ -28,6 +28,8 @@ translations:
     name: ハウサ語
   - translation_iso: kor
     name: 하우사어
+  - translation_iso: por
+    name: Língua haúça
   - translation_iso: spa
     name: hausa
   - translation_iso: zho

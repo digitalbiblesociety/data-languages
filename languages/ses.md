@@ -28,6 +28,8 @@ translations:
     name: コイラボロ・センニ語
   - translation_iso: kor
     name: 코이야보로 세니어
+  - translation_iso: por
+    name: koyraboro senni
   - translation_iso: spa
     name: Koyraboro senni
   - translation_iso: zho

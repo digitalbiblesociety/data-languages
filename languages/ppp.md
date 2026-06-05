@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ペレンデ語
     auto: true
+  - translation_iso: por
+    name: Pelende
+    auto: true
   - translation_iso: spa
     name: Pelende
     auto: true

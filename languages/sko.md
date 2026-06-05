@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ペワネアン語
     auto: true
+  - translation_iso: por
+    name: Seko Tengah
+    auto: true
   - translation_iso: spa
     name: Seko Tengah
     auto: true

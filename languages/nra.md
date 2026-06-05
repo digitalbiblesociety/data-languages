@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ングオム語
     auto: true
+  - translation_iso: por
+    name: Ngom
+    auto: true
   - translation_iso: spa
     name: Ngom
     auto: true

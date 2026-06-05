@@ -28,6 +28,8 @@ translations:
     name: リルエット語
   - translation_iso: kor
     name: 릴루엣어
+  - translation_iso: por
+    name: Língua lillooet
   - translation_iso: spa
     name: lillooet
   - translation_iso: zho

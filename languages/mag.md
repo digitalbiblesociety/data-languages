@@ -28,6 +28,8 @@ translations:
     name: マガヒー語
   - translation_iso: kor
     name: 마가드어
+  - translation_iso: por
+    name: Magahi
   - translation_iso: spa
     name: Idioma magahi
   - translation_iso: zho

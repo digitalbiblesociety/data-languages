@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ホワイト・ゲラオ語
     auto: true
+  - translation_iso: por
+    name: gelao branco
+    auto: true
   - translation_iso: spa
     name: Gelao blanco
     auto: true

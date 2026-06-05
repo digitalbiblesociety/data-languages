@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アドラ語
+  - translation_iso: por
+    name: Adhola
+    auto: true
   - translation_iso: spa
     name: Adhola
     auto: true

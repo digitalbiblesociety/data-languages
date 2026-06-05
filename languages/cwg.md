@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チェウォング語
     auto: true
+  - translation_iso: por
+    name: Chewong
+    auto: true
   - translation_iso: spa
     name: Chewong
     auto: true

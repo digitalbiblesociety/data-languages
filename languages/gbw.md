@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガビ・ガビ語
     auto: true
+  - translation_iso: por
+    name: Gabi-Gabi
+    auto: true
   - translation_iso: spa
     name: Idioma gabi
   - translation_iso: zho

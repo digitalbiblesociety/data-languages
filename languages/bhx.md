@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バハレイ語
     auto: true
+  - translation_iso: por
+    name: Bhalay
+    auto: true
   - translation_iso: spa
     name: Bhalay
     auto: true

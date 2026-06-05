@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロゴリク語
     auto: true
+  - translation_iso: por
+    name: Logorik
+    auto: true
   - translation_iso: spa
     name: Logorik
     auto: true

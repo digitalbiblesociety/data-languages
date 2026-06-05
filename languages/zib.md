@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジンバブエ手話
+  - translation_iso: por
+    name: Língua de Sinais do Zimbábue
   - translation_iso: spa
     name: Lengua de señas de Zimbabue
     auto: true

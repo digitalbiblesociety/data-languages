@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: スカジット・ニスクワリ語
     auto: true
+  - translation_iso: por
+    name: Skagit
   - translation_iso: spa
     name: Skagit
   - translation_iso: zho

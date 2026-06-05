@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サカラヴァ・マダガスカル語
+  - translation_iso: por
+    name: Malgaxe Sakalava
+    auto: true
   - translation_iso: spa
     name: Malgache Sakalava
     auto: true

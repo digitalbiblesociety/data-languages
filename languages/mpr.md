@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヴァングヌ語
     auto: true
+  - translation_iso: por
+    name: Vangunu
+    auto: true
   - translation_iso: spa
     name: Vangunu
   - translation_iso: zho

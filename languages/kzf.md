@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ダア・カイリ語
     auto: true
+  - translation_iso: por
+    name: "Kaili Da'a"
+    auto: true
   - translation_iso: spa
     name: "Kaili Da'a"
     auto: true

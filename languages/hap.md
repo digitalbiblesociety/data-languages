@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フプラ語
     auto: true
+  - translation_iso: por
+    name: Hupla
+    auto: true
   - translation_iso: spa
     name: Hupla
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ポウマ語
     auto: true
+  - translation_iso: por
+    name: U
+    auto: true
   - translation_iso: spa
     name: Idioma u
   - translation_iso: zho

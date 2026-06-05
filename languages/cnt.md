@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テペトトゥトラ・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Chinanteco de Tepetotutla
+    auto: true
   - translation_iso: spa
     name: chinanteca de Tepetotutla
   - translation_iso: zho

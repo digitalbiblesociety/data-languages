@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ケテングバン語
     auto: true
+  - translation_iso: por
+    name: Língua ketengban
   - translation_iso: spa
     name: Ketengban
     auto: true

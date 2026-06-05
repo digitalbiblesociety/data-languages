@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サウ・パウロ・カイングアング語
     auto: true
+  - translation_iso: por
+    name: kaingáng de São Paulo
+    auto: true
   - translation_iso: spa
     name: Kaingáng de São Paulo
     auto: true

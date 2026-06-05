@@ -27,6 +27,8 @@ translations:
     name: サヴォサヴォ語
   - translation_iso: kor
     name: 사보사보어
+  - translation_iso: por
+    name: Língua savosavo
   - translation_iso: spa
     name: Savosavo
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウシ語
     auto: true
+  - translation_iso: por
+    name: Wushi
+    auto: true
   - translation_iso: spa
     name: wushi
   - translation_iso: zho

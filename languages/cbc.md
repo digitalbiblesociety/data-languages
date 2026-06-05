@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カラパナ語
     auto: true
+  - translation_iso: por
+    name: Carapana
+    auto: true
   - translation_iso: spa
     name: Carapana
     auto: true

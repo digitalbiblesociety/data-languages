@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ミノコク語
     auto: true
+  - translation_iso: por
+    name: Minokok
+    auto: true
   - translation_iso: spa
     name: Minokok
     auto: true

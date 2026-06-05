@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニモア語
+  - translation_iso: por
+    name: Nimoa
+    auto: true
   - translation_iso: spa
     name: Nimoa
     auto: true

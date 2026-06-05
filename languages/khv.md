@@ -29,6 +29,8 @@ translations:
     name: フバルシ語
   - translation_iso: kor
     name: 흐와르시어
+  - translation_iso: por
+    name: Língua khwarshi
   - translation_iso: spa
     name: jvarshi
   - translation_iso: zho

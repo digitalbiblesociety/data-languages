@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カジャリ語
     auto: true
+  - translation_iso: por
+    name: Kajali
+    auto: true
   - translation_iso: spa
     name: Kajali
     auto: true

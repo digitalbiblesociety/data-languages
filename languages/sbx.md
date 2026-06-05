@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: セベルアン語
     auto: true
+  - translation_iso: por
+    name: Seberuang
+    auto: true
   - translation_iso: spa
     name: Seberuang
     auto: true

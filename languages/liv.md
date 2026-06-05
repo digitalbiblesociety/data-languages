@@ -29,6 +29,8 @@ translations:
     name: リヴォニア語
   - translation_iso: kor
     name: 리브어
+  - translation_iso: por
+    name: Língua livoniana
   - translation_iso: spa
     name: livonio
   - translation_iso: zho

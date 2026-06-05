@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: キルワル語
     auto: true
+  - translation_iso: por
+    name: Khirwar
+    auto: true
   - translation_iso: spa
     name: Khirwar
     auto: true

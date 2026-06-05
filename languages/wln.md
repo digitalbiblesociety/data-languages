@@ -28,6 +28,8 @@ translations:
     name: ワロン語
   - translation_iso: kor
     name: 왈롱어
+  - translation_iso: por
+    name: valão
   - translation_iso: spa
     name: valón
   - translation_iso: zho

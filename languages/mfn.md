@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クロス・リバー・ムベンベ語
     auto: true
+  - translation_iso: por
+    name: Mbembe do Cross River
+    auto: true
   - translation_iso: spa
     name: Mbembe del Cross River
     auto: true

@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: 東ングアダ語
     auto: true
+  - translation_iso: por
+    name: Ngada Timur
   - translation_iso: spa
     name: Ngada Timur
   - translation_iso: zho

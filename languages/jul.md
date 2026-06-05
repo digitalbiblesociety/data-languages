@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジレル語
     auto: true
+  - translation_iso: por
+    name: Jirel
+    auto: true
   - translation_iso: spa
     name: Jirel
     auto: true

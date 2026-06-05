@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グスィライ語
+  - translation_iso: por
+    name: Gusilay
+    auto: true
   - translation_iso: spa
     name: Gusilay
     auto: true

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ビアンガイ語
     auto: true
+  - translation_iso: por
+    name: Biangai
+    auto: true
   - translation_iso: spa
     name: Biangai
     auto: true

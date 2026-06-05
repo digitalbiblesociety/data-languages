@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥゲン語
+  - translation_iso: por
+    name: Tugen
+    auto: true
   - translation_iso: spa
     name: Tugen
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: シシプ語
     auto: true
+  - translation_iso: por
+    name: Língua cipo
   - translation_iso: spa
     name: Cicipu
     auto: true

@@ -31,6 +31,8 @@ translations:
     name: イヴァタン語
   - translation_iso: kor
     name: 이바탄어
+  - translation_iso: por
+    name: Língua ivatan
   - translation_iso: spa
     name: idioma batán
   - translation_iso: zho

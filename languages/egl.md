@@ -28,6 +28,8 @@ translations:
     name: エミリア語
   - translation_iso: kor
     name: 에밀리아어
+  - translation_iso: por
+    name: dialeto emiliano
   - translation_iso: spa
     name: emiliano
   - translation_iso: zho

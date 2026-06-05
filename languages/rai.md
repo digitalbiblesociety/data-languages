@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ラモアイナ語
     auto: true
+  - translation_iso: por
+    name: Língua ramoaaina
   - translation_iso: spa
     name: Ramoaaina
   - translation_iso: zho

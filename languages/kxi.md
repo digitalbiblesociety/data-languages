@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ケニンガウ・ムルット語
     auto: true
+  - translation_iso: por
+    name: Murut de Keningau
+    auto: true
   - translation_iso: spa
     name: Murut de Keningau
     auto: true

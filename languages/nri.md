@@ -27,6 +27,9 @@ translations:
     name: चोकरी भाषा
   - translation_iso: jpn
     name: チョクリ語
+  - translation_iso: por
+    name: Naga Chokri
+    auto: true
   - translation_iso: spa
     name: Chokri
   - translation_iso: zho

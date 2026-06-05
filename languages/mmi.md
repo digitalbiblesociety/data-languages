@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ムサル語
     auto: true
+  - translation_iso: por
+    name: Musar
+    auto: true
   - translation_iso: spa
     name: Musar
     auto: true

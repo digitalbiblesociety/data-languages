@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ケンブラ語
     auto: true
+  - translation_iso: por
+    name: Língua kembra
   - translation_iso: spa
     name: Kembra
     auto: true

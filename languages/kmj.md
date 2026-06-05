@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クマルバグ・パハリア語
     auto: true
+  - translation_iso: por
+    name: Paharia de Kumarbhag
+    auto: true
   - translation_iso: spa
     name: Paharia de Kumarbhag
     auto: true

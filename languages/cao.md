@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チャコボ語
     auto: true
+  - translation_iso: por
+    name: Chácobo
+    auto: true
   - translation_iso: spa
     name: Chácobo
     auto: true

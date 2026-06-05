@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マラウイ手話
+  - translation_iso: por
+    name: Língua de Sinais Malauiana
+    auto: true
   - translation_iso: spa
     name: lengua de signos malauí
   - translation_iso: zho

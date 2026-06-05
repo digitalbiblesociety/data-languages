@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジャクン語
     auto: true
+  - translation_iso: por
+    name: Jakun
+    auto: true
   - translation_iso: spa
     name: Jakun
     auto: true

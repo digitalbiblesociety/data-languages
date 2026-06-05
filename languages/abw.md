@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パル語
     auto: true
+  - translation_iso: por
+    name: Pal
+    auto: true
   - translation_iso: spa
     name: Pal
     auto: true

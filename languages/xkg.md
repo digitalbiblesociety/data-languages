@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カゴロ語
     auto: true
+  - translation_iso: por
+    name: Kagoro
+    auto: true
   - translation_iso: spa
     name: Kagoro
     auto: true

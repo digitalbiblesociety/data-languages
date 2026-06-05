@@ -30,6 +30,8 @@ translations:
     name: アチャン語
   - translation_iso: kor
     name: 아창어
+  - translation_iso: por
+    name: Língua achang
   - translation_iso: spa
     name: Achang
     auto: true

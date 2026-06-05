@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: プオク語
     auto: true
+  - translation_iso: por
+    name: Puoc
+    auto: true
   - translation_iso: spa
     name: Puoc
     auto: true

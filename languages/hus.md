@@ -29,6 +29,8 @@ translations:
     name: ワステク語
   - translation_iso: kor
     name: 와스텍어
+  - translation_iso: por
+    name: Língua huasteca
   - translation_iso: spa
     name: Téenek
   - translation_iso: zho

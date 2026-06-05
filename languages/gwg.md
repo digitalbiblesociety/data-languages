@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モー語
     auto: true
+  - translation_iso: por
+    name: Moo
+    auto: true
   - translation_iso: spa
     name: Moo
     auto: true

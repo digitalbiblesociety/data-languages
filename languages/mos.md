@@ -28,6 +28,8 @@ translations:
     name: モシ語
   - translation_iso: kor
     name: 모레어
+  - translation_iso: por
+    name: Língua more
   - translation_iso: spa
     name: mossi
   - translation_iso: zho

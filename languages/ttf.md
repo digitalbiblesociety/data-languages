@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボネク語
     auto: true
+  - translation_iso: por
+    name: Tuotomb
+    auto: true
   - translation_iso: spa
     name: Tuotomb
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カラミアン・タグバンワ語
     auto: true
+  - translation_iso: por
+    name: Língua calamiana tagbanwa
   - translation_iso: spa
     name: idioma calamián
   - translation_iso: zho

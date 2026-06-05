@@ -29,6 +29,8 @@ translations:
     name: ツェルタル語
   - translation_iso: kor
     name: 첼탈어
+  - translation_iso: por
+    name: Língua tseltal
   - translation_iso: spa
     name: tseltal
   - translation_iso: zho

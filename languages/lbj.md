@@ -27,6 +27,8 @@ translations:
     name: ラダック語
   - translation_iso: kor
     name: 라다크어
+  - translation_iso: por
+    name: Língua ladakhi
   - translation_iso: spa
     name: idioma ladakhi
   - translation_iso: zho

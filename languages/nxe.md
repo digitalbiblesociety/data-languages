@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: ナゲ語
     auto: true
+  - translation_iso: por
+    name: Nage
   - translation_iso: spa
     name: Nage
   - translation_iso: zho

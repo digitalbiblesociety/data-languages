@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンザニア手話
+  - translation_iso: por
+    name: Língua de Sinais da Tanzânia
   - translation_iso: spa
     name: Lengua de señas de Tanzania
     auto: true

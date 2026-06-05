@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ハジ語
     auto: true
+  - translation_iso: por
+    name: Haji
+    auto: true
   - translation_iso: spa
     name: Haji
     auto: true

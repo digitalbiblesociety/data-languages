@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャブワ語
+  - translation_iso: por
+    name: Língua nyabwa
   - translation_iso: spa
     name: Nyabwa
     auto: true

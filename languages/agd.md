@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アガラビ語
+  - translation_iso: por
+    name: Agarabi
+    auto: true
   - translation_iso: spa
     name: Agarabi
     auto: true

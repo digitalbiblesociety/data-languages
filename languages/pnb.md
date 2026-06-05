@@ -27,6 +27,9 @@ translations:
     name: 西パンジャーブ語
   - translation_iso: kor
     name: 서펀자브어
+  - translation_iso: por
+    name: Panjabi Ocidental
+    auto: true
   - translation_iso: spa
     name: Panyabí occidental
     auto: true

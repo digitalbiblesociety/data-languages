@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ロング・フーリ・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga long phuri
+    auto: true
   - translation_iso: spa
     name: Long Phuri Naga
     auto: true

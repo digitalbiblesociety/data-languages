@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ガリングバル語
     auto: true
+  - translation_iso: por
+    name: Garingbal
+    auto: true
   - translation_iso: spa
     name: Garingbal
     auto: true

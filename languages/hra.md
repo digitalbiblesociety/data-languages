@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フランクホル語
     auto: true
+  - translation_iso: por
+    name: Hrangkhol
+    auto: true
   - translation_iso: spa
     name: Hrangkhol
     auto: true

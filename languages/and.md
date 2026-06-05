@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アンスス語
     auto: true
+  - translation_iso: por
+    name: Ansus
+    auto: true
   - translation_iso: spa
     name: Ansus
     auto: true

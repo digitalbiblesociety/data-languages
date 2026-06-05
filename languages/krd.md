@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カイルイ・ミディキ語
     auto: true
+  - translation_iso: por
+    name: Kairui-Midiki
+    auto: true
   - translation_iso: spa
     name: Kairui-Midiki
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モケラン語
     auto: true
+  - translation_iso: por
+    name: Mokerang
+    auto: true
   - translation_iso: spa
     name: Mokerang
     auto: true

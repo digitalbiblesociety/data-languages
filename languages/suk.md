@@ -28,6 +28,8 @@ translations:
     name: スクマ語
   - translation_iso: kor
     name: 수쿠마어
+  - translation_iso: por
+    name: Língua sukuma
   - translation_iso: spa
     name: sukuma
   - translation_iso: zho

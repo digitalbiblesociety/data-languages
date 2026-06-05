@@ -27,6 +27,8 @@ translations:
     name: एटन भाषा
   - translation_iso: jpn
     name: タイ・アイトン語
+  - translation_iso: por
+    name: Língua aiton
   - translation_iso: spa
     name: aiton
   - translation_iso: zho

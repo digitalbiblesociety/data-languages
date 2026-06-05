@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: ハジョン語
     auto: true
+  - translation_iso: por
+    name: Língua hajong
   - translation_iso: spa
     name: idioma hajong
   - translation_iso: zho

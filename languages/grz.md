@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: グラマルム語
     auto: true
+  - translation_iso: por
+    name: Guramalum
+    auto: true
   - translation_iso: spa
     name: Guramalum
     auto: true

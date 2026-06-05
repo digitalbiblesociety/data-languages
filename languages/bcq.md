@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベンチ語
+  - translation_iso: por
+    name: Língua bench
   - translation_iso: spa
     name: Bench
     auto: true

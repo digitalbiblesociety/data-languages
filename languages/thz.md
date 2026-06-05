@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タヤルト・タマジェク語
+  - translation_iso: por
+    name: Língua tamajeg
   - translation_iso: spa
     name: Idioma tamajeq de Air
   - translation_iso: zho

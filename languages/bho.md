@@ -28,6 +28,8 @@ translations:
     name: ボージュプリー語
   - translation_iso: kor
     name: 보즈푸리어
+  - translation_iso: por
+    name: bhojpuri
   - translation_iso: spa
     name: Idioma bopurí
   - translation_iso: zho

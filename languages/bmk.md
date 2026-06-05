@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ガヤヴィ語
     auto: true
+  - translation_iso: por
+    name: Ghayavi
+    auto: true
   - translation_iso: spa
     name: Ghayavi
     auto: true

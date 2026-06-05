@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンザカンバイ語
     auto: true
+  - translation_iso: por
+    name: Nzakambay
+    auto: true
   - translation_iso: spa
     name: Nzakambay
     auto: true

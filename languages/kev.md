@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カニッカラン語
     auto: true
+  - translation_iso: por
+    name: Kanikkaran
+    auto: true
   - translation_iso: spa
     name: Kanikkaran
     auto: true

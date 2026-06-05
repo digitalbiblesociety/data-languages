@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シセル語
+  - translation_iso: por
+    name: Sículo
+    auto: true
   - translation_iso: spa
     name: sículo
   - translation_iso: zho

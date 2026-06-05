@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベテ・ベンディ語
     auto: true
+  - translation_iso: por
+    name: Bete-Bendi
+    auto: true
   - translation_iso: spa
     name: Bete-Bendi
     auto: true

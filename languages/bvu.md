@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブキット・マレー語
+  - translation_iso: por
+    name: Malaio Bukit
+    auto: true
   - translation_iso: spa
     name: Malayo Bukit
     auto: true

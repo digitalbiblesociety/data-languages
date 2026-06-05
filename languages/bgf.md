@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゴンベ語
+  - translation_iso: por
+    name: Bangandu
+    auto: true
   - translation_iso: spa
     name: Bangandu
     auto: true

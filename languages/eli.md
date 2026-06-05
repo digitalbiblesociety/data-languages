@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ンディング語
     auto: true
+  - translation_iso: por
+    name: Nding
+    auto: true
   - translation_iso: spa
     name: Nding
     auto: true

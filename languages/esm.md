@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エスマ語
+  - translation_iso: por
+    name: Esuma
+    auto: true
   - translation_iso: spa
     name: Esuma
     auto: true

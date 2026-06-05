@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: モミナ語
     auto: true
+  - translation_iso: por
+    name: Momina
+    auto: true
   - translation_iso: spa
     name: Momina
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ダグバ語
     auto: true
+  - translation_iso: por
+    name: Dagba
+    auto: true
   - translation_iso: spa
     name: Dagba
     auto: true

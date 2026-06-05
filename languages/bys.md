@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ブラク語
     auto: true
+  - translation_iso: por
+    name: Burak
+    auto: true
   - translation_iso: spa
     name: Burak
     auto: true

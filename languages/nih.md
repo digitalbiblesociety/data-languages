@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニハ語
+  - translation_iso: por
+    name: Nyiha (Tanzânia)
+    auto: true
   - translation_iso: spa
     name: Nyiha
     auto: true

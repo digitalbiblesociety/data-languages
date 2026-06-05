@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブアシ語
     auto: true
+  - translation_iso: por
+    name: Vehes
+    auto: true
   - translation_iso: spa
     name: Vehes
   - translation_iso: zho

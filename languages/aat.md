@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルヴァニティカ方言
+  - translation_iso: por
+    name: arvanitico
   - translation_iso: spa
     name: arvanítico
   - translation_iso: zho

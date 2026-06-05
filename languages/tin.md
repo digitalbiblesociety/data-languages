@@ -29,6 +29,8 @@ translations:
     name: ティンディ語
   - translation_iso: kor
     name: 틴디어
+  - translation_iso: por
+    name: Língua tindi
   - translation_iso: spa
     name: Tindi
     auto: true

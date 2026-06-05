@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トビ語
+  - translation_iso: por
+    name: Língua tobiana
   - translation_iso: spa
     name: tobiano
   - translation_iso: zho

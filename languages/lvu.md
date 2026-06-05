@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レブカ語
     auto: true
+  - translation_iso: por
+    name: Levuka
+    auto: true
   - translation_iso: spa
     name: Levuka
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 白馬語
+  - translation_iso: por
+    name: Língua baima
   - translation_iso: spa
     name: Baima
     auto: true

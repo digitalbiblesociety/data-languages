@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニインドロウ語
     auto: true
+  - translation_iso: por
+    name: Nyindrou
+    auto: true
   - translation_iso: spa
     name: Nyindrou
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゲルマ語
     auto: true
+  - translation_iso: por
+    name: Geruma
+    auto: true
   - translation_iso: spa
     name: Geruma
     auto: true

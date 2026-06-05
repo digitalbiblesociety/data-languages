@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バッサ・コンタゴラ語
     auto: true
+  - translation_iso: por
+    name: Bassa-Kontagora
+    auto: true
   - translation_iso: spa
     name: Bassa-Kontagora
     auto: true

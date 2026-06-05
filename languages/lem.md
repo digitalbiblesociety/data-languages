@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンディ語
+  - translation_iso: por
+    name: Nomaande
+    auto: true
   - translation_iso: spa
     name: Nomaande
     auto: true

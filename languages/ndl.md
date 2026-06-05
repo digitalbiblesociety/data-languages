@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンドロ語
     auto: true
+  - translation_iso: por
+    name: Ndolo
+    auto: true
   - translation_iso: spa
     name: Ndolo
     auto: true

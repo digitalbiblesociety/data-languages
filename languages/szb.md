@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ンガルム語
     auto: true
+  - translation_iso: por
+    name: Língua ngalum
   - translation_iso: spa
     name: Ngalum
     auto: true

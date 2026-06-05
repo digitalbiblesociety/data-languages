@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: メエン語
     auto: true
+  - translation_iso: por
+    name: "Me'en"
+    auto: true
   - translation_iso: spa
     name: "Idioma me'en"
   - translation_iso: zho

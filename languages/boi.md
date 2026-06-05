@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: バルバレーニョ語
     auto: true
+  - translation_iso: por
+    name: Língua barbareña
   - translation_iso: spa
     name: barbareño
   - translation_iso: zho

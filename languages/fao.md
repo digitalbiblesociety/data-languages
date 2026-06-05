@@ -28,6 +28,8 @@ translations:
     name: フェロー語
   - translation_iso: kor
     name: 페로어
+  - translation_iso: por
+    name: Língua feroesa
   - translation_iso: spa
     name: feroés
   - translation_iso: zho

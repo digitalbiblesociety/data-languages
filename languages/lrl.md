@@ -27,6 +27,9 @@ translations:
     name: ラル語
   - translation_iso: kor
     name: 아촘어
+  - translation_iso: por
+    name: Lari
+    auto: true
   - translation_iso: spa
     name: Lenguaje Achomic Antiguo
   - translation_iso: zho

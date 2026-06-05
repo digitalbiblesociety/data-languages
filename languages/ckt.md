@@ -28,6 +28,8 @@ translations:
     name: チュクチ語
   - translation_iso: kor
     name: 축치어
+  - translation_iso: por
+    name: Língua chukoto
   - translation_iso: spa
     name: Idioma chucoto
   - translation_iso: zho

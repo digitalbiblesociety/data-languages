@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: ムニチェ語
     auto: true
+  - translation_iso: por
+    name: Língua muniche
   - translation_iso: spa
     name: muniche
   - translation_iso: zho

@@ -30,6 +30,8 @@ translations:
     name: イバナグ語
   - translation_iso: kor
     name: 이바나그어
+  - translation_iso: por
+    name: Língua ibanag
   - translation_iso: spa
     name: Ibanag
     auto: true

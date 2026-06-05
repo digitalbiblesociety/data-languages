@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムダ語
     auto: true
+  - translation_iso: por
+    name: muda
+    auto: true
   - translation_iso: spa
     name: Muda
     auto: true

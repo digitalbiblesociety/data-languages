@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: モダ語
     auto: true
+  - translation_iso: por
+    name: "Mo'da"
+    auto: true
   - translation_iso: spa
     name: moda
   - translation_iso: zho

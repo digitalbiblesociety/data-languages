@@ -30,6 +30,9 @@ translations:
     name: アリン語
   - translation_iso: kor
     name: 아린어
+  - translation_iso: por
+    name: Arin
+    auto: true
   - translation_iso: spa
     name: Arin
     auto: true

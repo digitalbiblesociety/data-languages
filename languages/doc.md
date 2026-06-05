@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北ドン語
     auto: true
+  - translation_iso: por
+    name: Dong Setentrional
+    auto: true
   - translation_iso: spa
     name: Dong Septentrional
     auto: true

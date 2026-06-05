@@ -30,6 +30,9 @@ translations:
     name: 奄美大島南部方言
   - translation_iso: kor
     name: 아마미오시마 남부 방언
+  - translation_iso: por
+    name: Amami-Oshima do Sul
+    auto: true
   - translation_iso: spa
     name: Amami-Oshima meridional
     auto: true

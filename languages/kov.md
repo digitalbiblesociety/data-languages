@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クドゥ・カモ語
     auto: true
+  - translation_iso: por
+    name: Kudu-Camo
+    auto: true
   - translation_iso: spa
     name: Kudu-Camo
     auto: true

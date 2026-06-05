@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブビ語
     auto: true
+  - translation_iso: por
+    name: Bubi
+    auto: true
   - translation_iso: spa
     name: Bubi
     auto: true

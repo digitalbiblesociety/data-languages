@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マリダン語
     auto: true
+  - translation_iso: por
+    name: maridan
+    auto: true
   - translation_iso: spa
     name: Maridan
     auto: true

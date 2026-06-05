@@ -27,6 +27,9 @@ translations:
     name: スペイン手話
   - translation_iso: kor
     name: 스페인어 수화
+  - translation_iso: por
+    name: Língua de Sinais Espanhola
+    auto: true
   - translation_iso: spa
     name: lengua de signos española
   - translation_iso: zho

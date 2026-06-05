@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 革家語
+  - translation_iso: por
+    name: Ge
+    auto: true
   - translation_iso: spa
     name: Ge
     auto: true

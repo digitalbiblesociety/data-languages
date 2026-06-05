@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マオ・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Mao
+    auto: true
   - translation_iso: spa
     name: Naga Mao
     auto: true

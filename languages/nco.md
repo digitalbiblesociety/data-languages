@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シベ語
     auto: true
+  - translation_iso: por
+    name: Sibe
+    auto: true
   - translation_iso: spa
     name: Sibe
     auto: true

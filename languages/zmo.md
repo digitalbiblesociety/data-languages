@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モロ語
     auto: true
+  - translation_iso: por
+    name: Molo
+    auto: true
   - translation_iso: spa
     name: molo
   - translation_iso: zho

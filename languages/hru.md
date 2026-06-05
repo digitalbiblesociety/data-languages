@@ -24,6 +24,9 @@ translations:
     name: अका भाषा
   - translation_iso: jpn
     name: フルソ語
+  - translation_iso: por
+    name: Hruso
+    auto: true
   - translation_iso: spa
     name: idioma hruso
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボフィ語
     auto: true
+  - translation_iso: por
+    name: Bofi
+    auto: true
   - translation_iso: spa
     name: Bofi
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パラ・ガヴィアン語
     auto: true
+  - translation_iso: por
+    name: Gavião do Pará
+    auto: true
   - translation_iso: spa
     name: Gavião del Pará
     auto: true

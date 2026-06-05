@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ジウィラ・ペペサ語
     auto: true
+  - translation_iso: por
+    name: Jwira-Pepesa
+    auto: true
   - translation_iso: spa
     name: Jwira-Pepesa
     auto: true

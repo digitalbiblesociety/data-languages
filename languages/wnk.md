@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ワヌカカ語
     auto: true
+  - translation_iso: por
+    name: Wanukaka
+    auto: true
   - translation_iso: spa
     name: Wanukaka
     auto: true

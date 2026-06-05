@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南部ムジ語
     auto: true
+  - translation_iso: por
+    name: muji do sul
+    auto: true
   - translation_iso: spa
     name: Muji meridional
     auto: true

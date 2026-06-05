@@ -28,6 +28,9 @@ translations:
     name: 雷州語
   - translation_iso: kor
     name: 레이저우어
+  - translation_iso: por
+    name: Chinês de Leizhou
+    auto: true
   - translation_iso: spa
     name: Min de Leizhou
   - translation_iso: zho

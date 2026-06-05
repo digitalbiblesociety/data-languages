@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 우루어
+  - translation_iso: por
+    name: Uru
+    auto: true
   - translation_iso: spa
     name: idioma uru
   - translation_iso: zho

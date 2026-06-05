@@ -30,6 +30,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 와네치어
+  - translation_iso: por
+    name: Wanetsi
   - translation_iso: spa
     name: Waneci
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニミ語
     auto: true
+  - translation_iso: por
+    name: Nimi
+    auto: true
   - translation_iso: spa
     name: Nimi
     auto: true

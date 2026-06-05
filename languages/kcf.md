@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウカーン語
+  - translation_iso: por
+    name: Ukaan
+    auto: true
   - translation_iso: spa
     name: Idioma ukaan
   - translation_iso: zho

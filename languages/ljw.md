@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イイランダリ語
     auto: true
+  - translation_iso: por
+    name: Yirandali
+    auto: true
   - translation_iso: spa
     name: Yirandali
     auto: true

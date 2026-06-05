@@ -26,6 +26,8 @@ translations:
     name: बागड़ी भाषा
   - translation_iso: jpn
     name: バーガル語
+  - translation_iso: por
+    name: Língua bagri
   - translation_iso: spa
     name: Bagri
     auto: true

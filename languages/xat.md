@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カタウィキシ語
     auto: true
+  - translation_iso: por
+    name: Katawixi
+    auto: true
   - translation_iso: spa
     name: Idioma katawixí
   - translation_iso: zho

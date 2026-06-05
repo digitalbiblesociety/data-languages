@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジェッバナ語
     auto: true
+  - translation_iso: por
+    name: Djeebbana
+    auto: true
   - translation_iso: spa
     name: Djeebbana
     auto: true

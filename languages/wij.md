@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・イイヤンハ語
     auto: true
+  - translation_iso: por
+    name: Wik-Iiyanh
+    auto: true
   - translation_iso: spa
     name: Wik-Iiyanh
     auto: true

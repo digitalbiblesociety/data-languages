@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: トロワ語
     auto: true
+  - translation_iso: por
+    name: Língua tolowa
   - translation_iso: spa
     name: tolowa
   - translation_iso: zho

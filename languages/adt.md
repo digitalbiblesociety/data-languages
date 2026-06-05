@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アドニャマタンハ語
     auto: true
+  - translation_iso: por
+    name: Adnyamathanha
+    auto: true
   - translation_iso: spa
     name: idioma adnyamathanha
   - translation_iso: zho

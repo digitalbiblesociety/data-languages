@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボンボマ語
     auto: true
+  - translation_iso: por
+    name: Bomboma
+    auto: true
   - translation_iso: spa
     name: Bomboma
     auto: true

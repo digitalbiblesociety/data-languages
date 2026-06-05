@@ -22,6 +22,8 @@ translations:
     name: スドヴィア語
   - translation_iso: kor
     name: 수도비아어
+  - translation_iso: por
+    name: sudóvio
   - translation_iso: spa
     name: sudovio
   - translation_iso: zho

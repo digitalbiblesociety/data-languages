@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アルンギス語
     auto: true
+  - translation_iso: por
+    name: Alngith
+    auto: true
   - translation_iso: spa
     name: Alngith
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: シャイアン語
   - translation_iso: kor
     name: 샤이엔어
+  - translation_iso: por
+    name: cheyenne
   - translation_iso: spa
     name: cheyene
   - translation_iso: zho

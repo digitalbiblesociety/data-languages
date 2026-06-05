@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: マト・グロッソ・アララ語
     auto: true
+  - translation_iso: por
+    name: Língua arara do Rio Branco
   - translation_iso: spa
     name: Idioma arára
   - translation_iso: zho

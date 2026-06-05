@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レレ語
     auto: true
+  - translation_iso: por
+    name: Lere
+    auto: true
   - translation_iso: spa
     name: Lere
     auto: true

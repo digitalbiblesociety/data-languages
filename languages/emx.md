@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 에로민첼라어
+  - translation_iso: por
+    name: Erromintxela
   - translation_iso: spa
     name: Erromintxela
   - translation_iso: zho

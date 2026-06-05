@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チンブロ語
+  - translation_iso: por
+    name: Cimbriano
   - translation_iso: spa
     name: Idioma cimbriano
   - translation_iso: zho

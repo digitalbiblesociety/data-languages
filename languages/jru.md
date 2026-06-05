@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ジャプレリア語
     auto: true
+  - translation_iso: por
+    name: Língua japreria
   - translation_iso: spa
     name: Idioma japrería
   - translation_iso: zho

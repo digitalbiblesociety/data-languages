@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナトゥグ語
     auto: true
+  - translation_iso: por
+    name: Natügu
+    auto: true
   - translation_iso: spa
     name: Natügu
     auto: true

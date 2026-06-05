@@ -30,6 +30,8 @@ translations:
     name: ホピ語
   - translation_iso: kor
     name: 호피어
+  - translation_iso: por
+    name: Língua hopi
   - translation_iso: spa
     name: hopi
   - translation_iso: zho

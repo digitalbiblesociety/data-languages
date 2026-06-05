@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ワルダマン語
     auto: true
+  - translation_iso: por
+    name: Língua wardaman
   - translation_iso: spa
     name: wardaman
   - translation_iso: zho

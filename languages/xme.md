@@ -19,6 +19,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メディア語
+  - translation_iso: por
+    name: Língua meda
   - translation_iso: spa
     name: Medo
   - translation_iso: zho

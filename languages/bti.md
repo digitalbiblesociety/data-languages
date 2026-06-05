@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブラテ語
     auto: true
+  - translation_iso: por
+    name: Burate
+    auto: true
   - translation_iso: spa
     name: Burate
     auto: true

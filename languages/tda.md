@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タグダル語
     auto: true
+  - translation_iso: por
+    name: Tagdal
+    auto: true
   - translation_iso: spa
     name: Tagdal
     auto: true

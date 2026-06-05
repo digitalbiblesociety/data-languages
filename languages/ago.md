@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タイナエ語
     auto: true
+  - translation_iso: por
+    name: Tainae
+    auto: true
   - translation_iso: spa
     name: Tainae
     auto: true

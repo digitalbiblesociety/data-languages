@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カツカリ語
     auto: true
+  - translation_iso: por
+    name: Katkari
+    auto: true
   - translation_iso: spa
     name: Katkari
     auto: true

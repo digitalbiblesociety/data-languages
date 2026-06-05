@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ビジョリ語
     auto: true
+  - translation_iso: por
+    name: Bijori
+    auto: true
   - translation_iso: spa
     name: Bijori
     auto: true

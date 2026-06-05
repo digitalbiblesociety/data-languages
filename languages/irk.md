@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イラク語
+  - translation_iso: por
+    name: Língua iraqw
   - translation_iso: spa
     name: iracú
   - translation_iso: zho

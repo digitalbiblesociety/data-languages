@@ -28,6 +28,8 @@ translations:
     name: アティカメク語
   - translation_iso: kor
     name: 아티카메쿠어
+  - translation_iso: por
+    name: Língua atikamekw
   - translation_iso: spa
     name: atikamekw
   - translation_iso: zho

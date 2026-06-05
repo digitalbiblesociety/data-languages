@@ -28,6 +28,8 @@ translations:
     name: アラビア語キプロス方言
   - translation_iso: kor
     name: 키프로스 아랍어
+  - translation_iso: por
+    name: árabe cipriota maronita
   - translation_iso: spa
     name: árabe chipriota
   - translation_iso: zho

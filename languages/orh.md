@@ -30,6 +30,8 @@ translations:
     name: オロチョン語
   - translation_iso: kor
     name: 어룬춘어
+  - translation_iso: por
+    name: Língua oroquen
   - translation_iso: spa
     name: Oroqen
     auto: true

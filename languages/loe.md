@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サルアン語
     auto: true
+  - translation_iso: por
+    name: Saluan
+    auto: true
   - translation_iso: spa
     name: Saluan
     auto: true

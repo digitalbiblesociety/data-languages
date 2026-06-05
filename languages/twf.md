@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タオス語
+  - translation_iso: por
+    name: Língua taos
   - translation_iso: spa
     name: dialecto taos
   - translation_iso: zho

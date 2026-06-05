@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オグボゴロ語
     auto: true
+  - translation_iso: por
+    name: Ogbogolo
+    auto: true
   - translation_iso: spa
     name: Ogbogolo
     auto: true

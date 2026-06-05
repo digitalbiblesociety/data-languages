@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: アブン語
     auto: true
+  - translation_iso: por
+    name: Abun
+    auto: true
   - translation_iso: spa
     name: Idioma abun
   - translation_iso: zho

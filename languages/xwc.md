@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウォッコン語
     auto: true
+  - translation_iso: por
+    name: woccon
+    auto: true
   - translation_iso: spa
     name: Woccon
     auto: true

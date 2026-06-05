@@ -28,6 +28,8 @@ translations:
     name: ティグレ語
   - translation_iso: kor
     name: 티그레어
+  - translation_iso: por
+    name: Língua tigré
   - translation_iso: spa
     name: Idioma tigré
   - translation_iso: zho

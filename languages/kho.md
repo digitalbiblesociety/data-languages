@@ -27,6 +27,8 @@ translations:
     name: コータン語
   - translation_iso: kor
     name: 호탄어
+  - translation_iso: por
+    name: khotanês
   - translation_iso: spa
     name: Idioma jotanés
   - translation_iso: zho

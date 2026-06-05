@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: リアング・ライ語
     auto: true
+  - translation_iso: por
+    name: riang lai
+    auto: true
   - translation_iso: spa
     name: idioma yinchia
   - translation_iso: zho

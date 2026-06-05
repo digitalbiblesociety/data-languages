@@ -28,6 +28,8 @@ translations:
     name: アフリカーンス語
   - translation_iso: kor
     name: 아프리칸스어
+  - translation_iso: por
+    name: língua africâner
   - translation_iso: spa
     name: afrikáans
   - translation_iso: zho

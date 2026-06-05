@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティラムック語
+  - translation_iso: por
+    name: Língua tillamook
   - translation_iso: spa
     name: idioma tillamook
   - translation_iso: zho

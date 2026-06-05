@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北コンチュコスアンカシュケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Conchucos Ancash do Norte
+    auto: true
   - translation_iso: spa
     name: "Quechua de los Conchucos del norte, Áncash"
     auto: true

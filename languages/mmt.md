@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マララマイ語
     auto: true
+  - translation_iso: por
+    name: Malalamai
+    auto: true
   - translation_iso: spa
     name: Malalamai
   - translation_iso: zho

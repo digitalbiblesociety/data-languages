@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アンベレ語
     auto: true
+  - translation_iso: por
+    name: Ambele
+    auto: true
   - translation_iso: spa
     name: Ambele
     auto: true

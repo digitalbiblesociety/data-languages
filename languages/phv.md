@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パハラヴァニ語
     auto: true
+  - translation_iso: por
+    name: Pahlavani
+    auto: true
   - translation_iso: spa
     name: Pahlavani
     auto: true

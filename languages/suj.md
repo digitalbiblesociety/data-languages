@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シュビ語
     auto: true
+  - translation_iso: por
+    name: Shubi
+    auto: true
   - translation_iso: spa
     name: Shubi
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラジフ語
+  - translation_iso: por
+    name: Rāziḥī
+    auto: true
   - translation_iso: spa
     name: razihi
   - translation_iso: zho

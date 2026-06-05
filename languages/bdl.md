@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: インドネシア・バジャウ語
     auto: true
+  - translation_iso: por
+    name: Bajau indonésio
+    auto: true
   - translation_iso: spa
     name: Bajo
   - translation_iso: zho

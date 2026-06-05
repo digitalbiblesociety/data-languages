@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エセレン語
+  - translation_iso: por
+    name: Esselen
+    auto: true
   - translation_iso: spa
     name: idioma esselen
   - translation_iso: zho

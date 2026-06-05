@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スロバキア手話
+  - translation_iso: por
+    name: Língua de sinais eslovaca
   - translation_iso: spa
     name: Lengua de señas eslovaca
     auto: true

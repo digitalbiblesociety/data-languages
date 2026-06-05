@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: マディ・マディ語
     auto: true
+  - translation_iso: por
+    name: Madhi Madhi
+    auto: true
   - translation_iso: spa
     name: Idioma madhi-madhi
   - translation_iso: zho

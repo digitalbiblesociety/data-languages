@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クア語
     auto: true
+  - translation_iso: por
+    name: Khua
+    auto: true
   - translation_iso: spa
     name: Khua
     auto: true

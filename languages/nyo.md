@@ -28,6 +28,8 @@ translations:
     name: ニョロ語
   - translation_iso: kor
     name: 뉴로어
+  - translation_iso: por
+    name: nyoro
   - translation_iso: spa
     name: nyoro
   - translation_iso: zho

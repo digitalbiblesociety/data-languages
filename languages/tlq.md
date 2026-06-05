@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タイ・ロイ語
     auto: true
+  - translation_iso: por
+    name: Tai Loi
+    auto: true
   - translation_iso: spa
     name: Tai Loi
     auto: true

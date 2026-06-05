@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビリアリ語
     auto: true
+  - translation_iso: por
+    name: Bhilali
+    auto: true
   - translation_iso: spa
     name: Bhilali
     auto: true

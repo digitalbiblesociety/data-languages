@@ -28,6 +28,8 @@ translations:
     name: ルンダ語
   - translation_iso: kor
     name: 룬다어
+  - translation_iso: por
+    name: Lunda
   - translation_iso: spa
     name: Idioma lunda
   - translation_iso: zho

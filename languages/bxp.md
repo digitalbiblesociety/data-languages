@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ベビル語
     auto: true
+  - translation_iso: por
+    name: Bebil
+    auto: true
   - translation_iso: spa
     name: Bebil
   - translation_iso: zho

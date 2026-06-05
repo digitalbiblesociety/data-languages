@@ -26,6 +26,9 @@ translations:
     name: कियोवा भाषा
   - translation_iso: jpn
     name: カイオワ語
+  - translation_iso: por
+    name: kiowa
+    auto: true
   - translation_iso: spa
     name: Kiowa
   - translation_iso: zho

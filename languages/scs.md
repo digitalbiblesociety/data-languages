@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北スレイビー語
+  - translation_iso: por
+    name: Slavey Setentrional
+    auto: true
   - translation_iso: spa
     name: slave septentrional
   - translation_iso: zho

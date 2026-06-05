@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ドゥリ語
     auto: true
+  - translation_iso: por
+    name: Língua duri
   - translation_iso: spa
     name: Duri
     auto: true

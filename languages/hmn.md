@@ -22,6 +22,8 @@ translations:
     name: ミャオ語
   - translation_iso: kor
     name: 몽어
+  - translation_iso: por
+    name: Língua hmong
   - translation_iso: spa
     name: Idioma hmong
   - translation_iso: zho

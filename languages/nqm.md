@@ -30,6 +30,8 @@ translations:
     name: ンドム語
   - translation_iso: kor
     name: 은돔어
+  - translation_iso: por
+    name: Língua ndom
   - translation_iso: spa
     name: Ndom
     auto: true

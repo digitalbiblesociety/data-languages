@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テメ語
     auto: true
+  - translation_iso: por
+    name: Teme
+    auto: true
   - translation_iso: spa
     name: Teme
     auto: true

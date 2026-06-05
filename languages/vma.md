@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マルトゥフニラ語
     auto: true
+  - translation_iso: por
+    name: Martuyhunira
+    auto: true
   - translation_iso: spa
     name: Martuthunira
     auto: true

@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カガヤネン語
+  - translation_iso: por
+    name: Língua kagayanen
   - translation_iso: spa
     name: idioma cagayano
   - translation_iso: zho

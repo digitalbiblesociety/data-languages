@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: モンデ語
     auto: true
+  - translation_iso: por
+    name: Língua mondé
   - translation_iso: spa
     name: Mondé
     auto: true

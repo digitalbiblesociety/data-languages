@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: レシェ語
     auto: true
+  - translation_iso: por
+    name: Reshe
+    auto: true
   - translation_iso: spa
     name: Reshe
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ベルハリヤ語
     auto: true
+  - translation_iso: por
+    name: Língua belhare
   - translation_iso: spa
     name: Belhariya
     auto: true

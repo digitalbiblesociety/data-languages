@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・ドン語
+  - translation_iso: por
+    name: Língua tai dón
   - translation_iso: spa
     name: Tai Dón
     auto: true

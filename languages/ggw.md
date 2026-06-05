@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ゴゴダラ語
     auto: true
+  - translation_iso: por
+    name: Gogodala
+    auto: true
   - translation_iso: spa
     name: Gogodala
     auto: true

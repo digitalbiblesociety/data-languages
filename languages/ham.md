@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヘワ語
     auto: true
+  - translation_iso: por
+    name: Hewa
+    auto: true
   - translation_iso: spa
     name: Hewa
     auto: true

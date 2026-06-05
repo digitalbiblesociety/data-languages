@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オコテペク・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Ocotepec
+    auto: true
   - translation_iso: spa
     name: Mixteco de Ocotepec
     auto: true

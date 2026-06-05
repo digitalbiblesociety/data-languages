@@ -29,6 +29,9 @@ translations:
     name: ジャウィ語
   - translation_iso: kor
     name: 빠따니 말레이어
+  - translation_iso: por
+    name: Malaio de Pattani
+    auto: true
   - translation_iso: spa
     name: Malayo de Pattani
     auto: true

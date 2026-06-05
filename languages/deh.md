@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: デフワリ語
     auto: true
+  - translation_iso: por
+    name: Dehwari
+    auto: true
   - translation_iso: spa
     name: Dehwari
     auto: true

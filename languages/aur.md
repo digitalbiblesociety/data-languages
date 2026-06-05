@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アルエク語
     auto: true
+  - translation_iso: por
+    name: Aruek
+    auto: true
   - translation_iso: spa
     name: Aruek
     auto: true

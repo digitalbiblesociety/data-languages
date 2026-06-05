@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アダン語
     auto: true
+  - translation_iso: por
+    name: Adang
   - translation_iso: spa
     name: Adang
   - translation_iso: zho

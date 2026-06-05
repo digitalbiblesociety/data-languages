@@ -23,6 +23,8 @@ translations:
     name: 古代朝鮮語
   - translation_iso: kor
     name: 고대 한국어
+  - translation_iso: por
+    name: Coreano antigo
   - translation_iso: spa
     name: coreano antiguo
   - translation_iso: zho

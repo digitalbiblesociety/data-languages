@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クガマ語
     auto: true
+  - translation_iso: por
+    name: Kugama
+    auto: true
   - translation_iso: spa
     name: Kugama
     auto: true

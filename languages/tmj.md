@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サマロケナ語
     auto: true
+  - translation_iso: por
+    name: Samarokena
+    auto: true
   - translation_iso: spa
     name: idioma samarokena
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ディング語
     auto: true
+  - translation_iso: por
+    name: Ding
+    auto: true
   - translation_iso: spa
     name: Ding
     auto: true

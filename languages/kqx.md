@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムセル語
     auto: true
+  - translation_iso: por
+    name: Mser
+    auto: true
   - translation_iso: spa
     name: Mser
     auto: true

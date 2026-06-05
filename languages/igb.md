@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エビラ語
+  - translation_iso: por
+    name: Língua ebira
   - translation_iso: spa
     name: Ebira
     auto: true

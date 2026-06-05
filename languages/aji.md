@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンジエ語
+  - translation_iso: por
+    name: Língua ajië
   - translation_iso: spa
     name: Idioma ajië
   - translation_iso: zho

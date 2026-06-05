@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツァーンギ語
+  - translation_iso: por
+    name: Tsaangi
+    auto: true
   - translation_iso: spa
     name: Tsaangi
     auto: true

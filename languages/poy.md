@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ポゴロ語
     auto: true
+  - translation_iso: por
+    name: Pogolo
+    auto: true
   - translation_iso: spa
     name: Pogolo
     auto: true

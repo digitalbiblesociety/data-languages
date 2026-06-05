@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ザザオ語
+  - translation_iso: por
+    name: Zazao
+    auto: true
   - translation_iso: spa
     name: Zazao
   - translation_iso: zho

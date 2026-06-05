@@ -25,6 +25,8 @@ translations:
     name: リングア・フランカ・ノバ
   - translation_iso: kor
     name: 링구아프랑카노바
+  - translation_iso: por
+    name: Lingua Franca Nova
   - translation_iso: spa
     name: Lingua Franca Nova
   - translation_iso: zho

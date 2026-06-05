@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ラヴェン語
     auto: true
+  - translation_iso: por
+    name: "Língua jru'"
   - translation_iso: spa
     name: Laven
     auto: true

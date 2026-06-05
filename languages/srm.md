@@ -28,6 +28,8 @@ translations:
     name: サラマッカ語
   - translation_iso: kor
     name: 사마카어
+  - translation_iso: por
+    name: Saramacano
   - translation_iso: spa
     name: Saamáka
   - translation_iso: zho

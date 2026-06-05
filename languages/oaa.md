@@ -29,6 +29,8 @@ translations:
     name: ウィルタ語
   - translation_iso: kor
     name: 윌타어
+  - translation_iso: por
+    name: Língua orok
   - translation_iso: spa
     name: Idioma orok
   - translation_iso: zho

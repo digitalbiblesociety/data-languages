@@ -29,6 +29,8 @@ translations:
     name: ウーメ・サーミ語
   - translation_iso: kor
     name: 우메 사미어
+  - translation_iso: por
+    name: língua sami de Ume
   - translation_iso: spa
     name: sami del Ume
   - translation_iso: zho

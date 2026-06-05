@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マグ・インディ・アイタ語
     auto: true
+  - translation_iso: por
+    name: Mag-Indi Ayta
+    auto: true
   - translation_iso: spa
     name: Ayta Mag-Indi
     auto: true

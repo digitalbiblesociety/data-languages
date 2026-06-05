@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラジャ・カブンスワン・マノボ語
     auto: true
+  - translation_iso: por
+    name: manobo de Rajah Kabunsuwan
+    auto: true
   - translation_iso: spa
     name: Manobo Rajah Kabunsuwan
     auto: true

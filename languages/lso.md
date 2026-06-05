@@ -23,6 +23,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラオス手話
+  - translation_iso: por
+    name: Língua de Sinais de Laos
   - translation_iso: spa
     name: Lengua de señas de Laos
     auto: true

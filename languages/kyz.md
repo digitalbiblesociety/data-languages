@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カヤビ語
+  - translation_iso: por
+    name: Língua caiabi
   - translation_iso: spa
     name: Kayabí
     auto: true

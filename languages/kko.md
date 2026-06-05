@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: カルコ語
     auto: true
+  - translation_iso: por
+    name: Karko
+    auto: true
   - translation_iso: spa
     name: karko
   - translation_iso: zho

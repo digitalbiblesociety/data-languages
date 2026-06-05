@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アージェ語
     auto: true
+  - translation_iso: por
+    name: azhe
+    auto: true
   - translation_iso: spa
     name: Azhe
     auto: true

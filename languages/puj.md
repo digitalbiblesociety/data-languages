@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: プナントゥブ語
     auto: true
+  - translation_iso: por
+    name: Punan Tubu
+    auto: true
   - translation_iso: spa
     name: Punan Tubu
     auto: true

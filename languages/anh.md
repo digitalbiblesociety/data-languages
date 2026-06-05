@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ネンド語
     auto: true
+  - translation_iso: por
+    name: Nend
+    auto: true
   - translation_iso: spa
     name: Nend
     auto: true

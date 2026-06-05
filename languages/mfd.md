@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: メンダンクウェ・ンクウェン語
     auto: true
+  - translation_iso: por
+    name: Mendankwe-Nkwen
+    auto: true
   - translation_iso: spa
     name: Mendankwe-Nkwen
     auto: true

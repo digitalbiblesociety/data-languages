@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エデ・イジェ語
     auto: true
+  - translation_iso: por
+    name: Ede Ije
+    auto: true
   - translation_iso: spa
     name: Ede Ije
     auto: true

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 桂南平話
+  - translation_iso: por
+    name: Chinês ping meridional
+    auto: true
   - translation_iso: spa
     name: Chino Ping Meridional
     auto: true

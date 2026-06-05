@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: クロウェ語
     auto: true
+  - translation_iso: por
+    name: Sika
   - translation_iso: spa
     name: Sika
   - translation_iso: zho

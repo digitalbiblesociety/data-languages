@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トロス語
     auto: true
+  - translation_iso: por
+    name: Solos
+    auto: true
   - translation_iso: spa
     name: Idioma solos
   - translation_iso: zho

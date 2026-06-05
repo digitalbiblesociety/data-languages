@@ -29,6 +29,8 @@ translations:
     name: トン語
   - translation_iso: kor
     name: 동어
+  - translation_iso: por
+    name: Língua dong
   - translation_iso: spa
     name: Dong Meridional
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 므라브리어
+  - translation_iso: por
+    name: Mlabri
+    auto: true
   - translation_iso: spa
     name: Idioma mlabri
   - translation_iso: zho

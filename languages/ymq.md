@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キラ・ムジ語
     auto: true
+  - translation_iso: por
+    name: muji qila
+    auto: true
   - translation_iso: spa
     name: Muji de Qila
     auto: true

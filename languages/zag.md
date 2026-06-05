@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ザガワ語
+  - translation_iso: por
+    name: língua zaghawa
   - translation_iso: spa
     name: Idioma zaghawa
   - translation_iso: zho

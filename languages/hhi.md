@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ホイア・ホイア語
     auto: true
+  - translation_iso: por
+    name: Hoia Hoia
+    auto: true
   - translation_iso: spa
     name: Hoia Hoia
     auto: true

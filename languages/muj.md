@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マビレ語
     auto: true
+  - translation_iso: por
+    name: Mabire
+    auto: true
   - translation_iso: spa
     name: Mabire
     auto: true

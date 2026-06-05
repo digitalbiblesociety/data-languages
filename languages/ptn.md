@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パタニ語
+  - translation_iso: por
+    name: Patani
+    auto: true
   - translation_iso: spa
     name: Patani
     auto: true

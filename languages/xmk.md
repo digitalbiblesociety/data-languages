@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古代マケドニア語
+  - translation_iso: por
+    name: macedónio antigo
   - translation_iso: spa
     name: macedonio antiguo
   - translation_iso: zho

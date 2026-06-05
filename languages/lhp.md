@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロプ語
+  - translation_iso: por
+    name: Lhokpu
+    auto: true
   - translation_iso: spa
     name: Lhokpu
     auto: true

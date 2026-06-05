@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南アイマラ語
+  - translation_iso: por
+    name: Aimará do Sul
+    auto: true
   - translation_iso: spa
     name: Aimara Sureño
     auto: true

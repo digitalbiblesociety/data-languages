@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シレイビ語
     auto: true
+  - translation_iso: por
+    name: Sileibi
+    auto: true
   - translation_iso: spa
     name: Sileibi
     auto: true

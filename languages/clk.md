@@ -27,6 +27,8 @@ translations:
     name: इदु मिश्मी भाषा
   - translation_iso: jpn
     name: 義都語
+  - translation_iso: por
+    name: Língua idu mishmi
   - translation_iso: spa
     name: Idu-Mishmi
     auto: true

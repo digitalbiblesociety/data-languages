@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サランガニ・マノボ語
     auto: true
+  - translation_iso: por
+    name: Manobo sarangani
+    auto: true
   - translation_iso: spa
     name: Manobo de Sarangani
     auto: true

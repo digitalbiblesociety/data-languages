@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユト語
+  - translation_iso: por
+    name: Ute
   - translation_iso: spa
     name: idioma ute
   - translation_iso: zho

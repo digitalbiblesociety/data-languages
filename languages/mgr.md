@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンブウェ語
+  - translation_iso: por
+    name: Mambwe
   - translation_iso: spa
     name: Mambwe-Lungu
     auto: true

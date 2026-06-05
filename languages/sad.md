@@ -25,6 +25,8 @@ translations:
     name: サンダウェ語
   - translation_iso: kor
     name: 산다웨어
+  - translation_iso: por
+    name: Língua sandawe
   - translation_iso: spa
     name: sandawe
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワラ語
     auto: true
+  - translation_iso: por
+    name: Wara
+    auto: true
   - translation_iso: spa
     name: Wara
     auto: true

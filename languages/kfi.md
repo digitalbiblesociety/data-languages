@@ -23,6 +23,9 @@ translations:
     name: कुरुबा भाषा
   - translation_iso: jpn
     name: クルンバ語
+  - translation_iso: por
+    name: Kurumba Kannada
+    auto: true
   - translation_iso: spa
     name: kurumba
   - translation_iso: zho

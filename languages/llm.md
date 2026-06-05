@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ラサリム語
     auto: true
+  - translation_iso: por
+    name: Lasalimu
+    auto: true
   - translation_iso: spa
     name: Lasalimu
     auto: true

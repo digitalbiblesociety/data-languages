@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ベンデ語
     auto: true
+  - translation_iso: por
+    name: Bende
+    auto: true
   - translation_iso: spa
     name: Bende
     auto: true

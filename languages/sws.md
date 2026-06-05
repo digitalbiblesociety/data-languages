@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: セルワサン語
     auto: true
+  - translation_iso: por
+    name: Seluarsa
   - translation_iso: spa
     name: Seluarsa
   - translation_iso: zho

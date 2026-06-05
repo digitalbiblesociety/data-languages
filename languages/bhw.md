@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビヤック語
+  - translation_iso: por
+    name: Biak
+    auto: true
   - translation_iso: spa
     name: Biak
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 東ムリア語
     auto: true
+  - translation_iso: por
+    name: muria oriental
+    auto: true
   - translation_iso: spa
     name: Muria Oriental
     auto: true

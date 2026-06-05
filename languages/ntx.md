@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タングクル・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Tangkhul (Myanmar)
+    auto: true
   - translation_iso: spa
     name: Naga Tangkhul (Myanmar)
     auto: true

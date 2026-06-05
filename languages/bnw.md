@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビシス語
     auto: true
+  - translation_iso: por
+    name: Bisis
+    auto: true
   - translation_iso: spa
     name: Bisis
     auto: true

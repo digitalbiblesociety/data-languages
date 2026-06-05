@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アッツィンゴ・マトラツィンカ語
     auto: true
+  - translation_iso: por
+    name: Matlatzinca de Atzingo
+    auto: true
   - translation_iso: spa
     name: tlahuica
   - translation_iso: zho

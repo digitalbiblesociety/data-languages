@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イシュア語
     auto: true
+  - translation_iso: por
+    name: Uhami
+    auto: true
   - translation_iso: spa
     name: Uhami
     auto: true

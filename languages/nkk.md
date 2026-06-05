@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ノクク語
     auto: true
+  - translation_iso: por
+    name: Nokuku
+    auto: true
   - translation_iso: spa
     name: Nokuku
     auto: true

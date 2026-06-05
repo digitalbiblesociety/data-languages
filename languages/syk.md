@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: スクル語
     auto: true
+  - translation_iso: por
+    name: Sukur
+    auto: true
   - translation_iso: spa
     name: Sukur
     auto: true

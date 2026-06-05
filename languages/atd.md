@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アタ・マノボ語
+  - translation_iso: por
+    name: Manobo Ata
+    auto: true
   - translation_iso: spa
     name: Ata Manobo
     auto: true

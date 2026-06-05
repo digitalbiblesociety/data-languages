@@ -27,6 +27,9 @@ translations:
     name: बटेरी भाषा
   - translation_iso: jpn
     name: バテラ語
+  - translation_iso: por
+    name: Bateri
+    auto: true
   - translation_iso: spa
     name: Bateri
     auto: true

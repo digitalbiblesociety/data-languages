@@ -28,6 +28,8 @@ translations:
     name: モン語
   - translation_iso: kor
     name: 몬어
+  - translation_iso: por
+    name: mon
   - translation_iso: spa
     name: Mon
   - translation_iso: zho

@@ -31,6 +31,8 @@ translations:
   - translation_iso: jpn
     name: ネーザーランズ・アンティルズ・クレオール英語
     auto: true
+  - translation_iso: por
+    name: Crioulo das Ilhas Virgens
   - translation_iso: spa
     name: Criollo de las Islas Vírgenes
   - translation_iso: zho

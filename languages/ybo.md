@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤボング語
     auto: true
+  - translation_iso: por
+    name: yabong
+    auto: true
   - translation_iso: spa
     name: Yabong
     auto: true

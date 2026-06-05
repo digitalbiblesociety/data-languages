@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イゴ語
     auto: true
+  - translation_iso: por
+    name: Igo
+    auto: true
   - translation_iso: spa
     name: Igo
     auto: true

@@ -23,6 +23,8 @@ translations:
     name: 古フランク語
   - translation_iso: kor
     name: 프랑크어
+  - translation_iso: por
+    name: Língua francônica
   - translation_iso: spa
     name: fráncico
   - translation_iso: zho

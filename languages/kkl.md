@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コサレク・イェール語
     auto: true
+  - translation_iso: por
+    name: Yale de Kosarek
+    auto: true
   - translation_iso: spa
     name: Yale de Kosarek
     auto: true

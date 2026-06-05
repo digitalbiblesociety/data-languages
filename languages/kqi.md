@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コイタ語
+  - translation_iso: por
+    name: Koitabu
+    auto: true
   - translation_iso: spa
     name: Koitabu
     auto: true

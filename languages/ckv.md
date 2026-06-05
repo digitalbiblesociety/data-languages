@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クバラン語
+  - translation_iso: por
+    name: Língua kavalan
   - translation_iso: spa
     name: Idioma kavalan
   - translation_iso: zho

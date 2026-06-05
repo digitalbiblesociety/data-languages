@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南ヌニ語
     auto: true
+  - translation_iso: por
+    name: Nuni do Sul
+    auto: true
   - translation_iso: spa
     name: Nuni meridional
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チュグ語
     auto: true
+  - translation_iso: por
+    name: Chug
+    auto: true
   - translation_iso: spa
     name: Chug
     auto: true

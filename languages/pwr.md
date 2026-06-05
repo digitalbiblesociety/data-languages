@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ポワリ語
     auto: true
+  - translation_iso: por
+    name: Powari
+    auto: true
   - translation_iso: spa
     name: Powari
     auto: true

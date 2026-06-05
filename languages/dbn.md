@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ドゥリアンケレ語
     auto: true
+  - translation_iso: por
+    name: Duriankere
+    auto: true
   - translation_iso: spa
     name: Duriankere
     auto: true

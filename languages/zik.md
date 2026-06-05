@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ジマカニ語
     auto: true
+  - translation_iso: por
+    name: zimakani
+    auto: true
   - translation_iso: spa
     name: Zimakani
     auto: true

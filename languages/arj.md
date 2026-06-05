@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アラパソ語
     auto: true
+  - translation_iso: por
+    name: Arapáso
   - translation_iso: spa
     name: Arapaso
     auto: true

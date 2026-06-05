@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東部オジブワ語
+  - translation_iso: por
+    name: Ojibwa Oriental
+    auto: true
   - translation_iso: spa
     name: Ojibwa oriental
     auto: true

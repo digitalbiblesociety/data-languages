@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テニス語
+  - translation_iso: por
+    name: Tenis
+    auto: true
   - translation_iso: spa
     name: Tenis
     auto: true

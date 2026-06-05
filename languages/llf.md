@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハーミット語
     auto: true
+  - translation_iso: por
+    name: Hermit
+    auto: true
   - translation_iso: spa
     name: Hermit
     auto: true

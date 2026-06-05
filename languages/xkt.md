@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カントシ語
     auto: true
+  - translation_iso: por
+    name: Kantosi
+    auto: true
   - translation_iso: spa
     name: kantosi
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビワット語
     auto: true
+  - translation_iso: por
+    name: Biwat
+    auto: true
   - translation_iso: spa
     name: Biwat
     auto: true

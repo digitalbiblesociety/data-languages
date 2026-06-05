@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トバンガ語
     auto: true
+  - translation_iso: por
+    name: Tobanga
+    auto: true
   - translation_iso: spa
     name: Tobanga
     auto: true

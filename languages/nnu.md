@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ドゥワン語
     auto: true
+  - translation_iso: por
+    name: Dwang
+    auto: true
   - translation_iso: spa
     name: dwang
   - translation_iso: zho

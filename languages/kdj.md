@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カリモジョン語
+  - translation_iso: por
+    name: Língua Karamajong
   - translation_iso: spa
     name: karamojong
   - translation_iso: zho

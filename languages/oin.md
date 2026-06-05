@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イネブ・ワン語
     auto: true
+  - translation_iso: por
+    name: One Inebu
+    auto: true
   - translation_iso: spa
     name: One de Inebu
     auto: true

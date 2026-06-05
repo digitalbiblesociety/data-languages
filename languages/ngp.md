@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングル語
+  - translation_iso: por
+    name: Ngulu
+    auto: true
   - translation_iso: spa
     name: Ngulu
     auto: true

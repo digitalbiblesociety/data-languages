@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンバイ語
+  - translation_iso: por
+    name: Mbay
+    auto: true
   - translation_iso: spa
     name: Mbay
     auto: true

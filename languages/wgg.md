@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワンガンガル語
     auto: true
+  - translation_iso: por
+    name: Wangkangurru
+    auto: true
   - translation_iso: spa
     name: idioma wangganguru
   - translation_iso: zho

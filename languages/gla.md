@@ -28,6 +28,8 @@ translations:
     name: スコットランド・ゲール語
   - translation_iso: kor
     name: 스코틀랜드 게일어
+  - translation_iso: por
+    name: Língua gaélica escocesa
   - translation_iso: spa
     name: gaélico escocés
   - translation_iso: zho

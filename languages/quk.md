@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チャチャポヤスケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Chachapoyas
+    auto: true
   - translation_iso: spa
     name: quechua chachapoyano
   - translation_iso: zho

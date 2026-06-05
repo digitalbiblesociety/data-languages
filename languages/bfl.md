@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: バンダ・ンデレ語
     auto: true
+  - translation_iso: por
+    name: Banda-Ndélé
+    auto: true
   - translation_iso: spa
     name: Banda-Ndélé
     auto: true

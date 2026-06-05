@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バタク・アラス＝クルット語
+  - translation_iso: por
+    name: Batak Alas-Kluet
+    auto: true
   - translation_iso: spa
     name: Batak Alas-Kluet
     auto: true

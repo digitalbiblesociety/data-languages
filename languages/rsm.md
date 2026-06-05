@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ミリウォング手話
     auto: true
+  - translation_iso: por
+    name: Língua de Sinais Miriwoong
+    auto: true
   - translation_iso: spa
     name: Lengua de señas miriwoong
     auto: true

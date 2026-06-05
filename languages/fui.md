@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バギルミ・フルフルディ語
+  - translation_iso: por
+    name: fulfulde de Bagirmi
+    auto: true
   - translation_iso: spa
     name: Fulfulde del Bagirmi
     auto: true

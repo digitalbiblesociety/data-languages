@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウェジェワ語
     auto: true
+  - translation_iso: por
+    name: Wejewa
+    auto: true
   - translation_iso: spa
     name: Wejewa
     auto: true

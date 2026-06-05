@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バーガンジ語
+  - translation_iso: por
+    name: Língua darling
   - translation_iso: spa
     name: Paakantyi
     auto: true

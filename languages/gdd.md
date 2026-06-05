@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゲダーゲド語
+  - translation_iso: por
+    name: Gedaged
+    auto: true
   - translation_iso: spa
     name: gedaged
   - translation_iso: zho

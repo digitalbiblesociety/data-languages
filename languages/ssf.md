@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サオ語
+  - translation_iso: por
+    name: Thao
+    auto: true
   - translation_iso: spa
     name: Idioma thao
   - translation_iso: zho

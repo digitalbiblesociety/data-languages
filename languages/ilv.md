@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イルエ語
     auto: true
+  - translation_iso: por
+    name: Ilue
+    auto: true
   - translation_iso: spa
     name: Ilue
     auto: true

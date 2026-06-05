@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ングアリニマン語
     auto: true
+  - translation_iso: por
+    name: Ngarinyman
+    auto: true
   - translation_iso: spa
     name: Ngarinyman
     auto: true

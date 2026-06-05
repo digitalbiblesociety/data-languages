@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カルヤヌン語
     auto: true
+  - translation_iso: por
+    name: Língua caluyanon
   - translation_iso: spa
     name: Caluyanun
     auto: true

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デンマーク手話
+  - translation_iso: por
+    name: língua de sinais dinamarquesa
   - translation_iso: spa
     name: Lengua de señas danesa
   - translation_iso: zho

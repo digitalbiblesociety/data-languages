@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トゥニア語
     auto: true
+  - translation_iso: por
+    name: Tunia
+    auto: true
   - translation_iso: spa
     name: Tunia
     auto: true

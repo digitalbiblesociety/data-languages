@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: テピナパ・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Chinanteco de Tepinapa
+    auto: true
   - translation_iso: spa
     name: chinanteca de Tepinapa
   - translation_iso: zho

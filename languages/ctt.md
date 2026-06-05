@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ワヤナード・チェッティ語
     auto: true
+  - translation_iso: por
+    name: Chetti de Wayanad
+    auto: true
   - translation_iso: spa
     name: Chetti de Wayanad
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボンドゥークー・クランゴ語
     auto: true
+  - translation_iso: por
+    name: Kulango de Bondoukou
+    auto: true
   - translation_iso: spa
     name: Kulango de Bondoukou
     auto: true

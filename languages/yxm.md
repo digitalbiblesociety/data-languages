@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イインウム語
     auto: true
+  - translation_iso: por
+    name: yinwum
+    auto: true
   - translation_iso: spa
     name: Yinwum
     auto: true

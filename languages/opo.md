@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オパオ語
+  - translation_iso: por
+    name: Opao
+    auto: true
   - translation_iso: spa
     name: Opao
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クニェ語
+  - translation_iso: por
+    name: Numèè
+    auto: true
   - translation_iso: spa
     name: Numèè
     auto: true

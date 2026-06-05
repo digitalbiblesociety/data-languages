@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ロアルキ語
     auto: true
+  - translation_iso: por
+    name: Loarki
+    auto: true
   - translation_iso: spa
     name: Loarki
     auto: true

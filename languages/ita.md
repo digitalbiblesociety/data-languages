@@ -28,6 +28,8 @@ translations:
     name: イタリア語
   - translation_iso: kor
     name: 이탈리아어
+  - translation_iso: por
+    name: italiano
   - translation_iso: spa
     name: italiano
   - translation_iso: zho

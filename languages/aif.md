@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アギ語
     auto: true
+  - translation_iso: por
+    name: Agi
+    auto: true
   - translation_iso: spa
     name: Agi
     auto: true

@@ -29,6 +29,8 @@ translations:
     name: 女真語
   - translation_iso: kor
     name: 여진어
+  - translation_iso: por
+    name: Jurchén
   - translation_iso: spa
     name: yurchen
   - translation_iso: zho

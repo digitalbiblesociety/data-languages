@@ -28,6 +28,8 @@ translations:
     name: マン島語
   - translation_iso: kor
     name: 맨어
+  - translation_iso: por
+    name: Língua manesa
   - translation_iso: spa
     name: manés
   - translation_iso: zho

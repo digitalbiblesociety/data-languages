@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤウィヨ語
     auto: true
+  - translation_iso: por
+    name: yawiyo
+    auto: true
   - translation_iso: spa
     name: Yawiyo
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クパン・マレー語
     auto: true
+  - translation_iso: por
+    name: malaio de Kupang
+    auto: true
   - translation_iso: spa
     name: Malayo de Kupang
     auto: true

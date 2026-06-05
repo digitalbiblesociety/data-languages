@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヴェンゴ語
     auto: true
+  - translation_iso: por
+    name: Vengo
+    auto: true
   - translation_iso: spa
     name: Vengo
     auto: true

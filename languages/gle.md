@@ -28,6 +28,8 @@ translations:
     name: アイルランド語
   - translation_iso: kor
     name: 아일랜드어
+  - translation_iso: por
+    name: irlandês
   - translation_iso: spa
     name: irlandés
   - translation_iso: zho

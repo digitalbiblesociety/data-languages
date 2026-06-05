@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウォイウルング語
     auto: true
+  - translation_iso: por
+    name: Woiwurrung
+    auto: true
   - translation_iso: spa
     name: Idioma woiwurrung
   - translation_iso: zho

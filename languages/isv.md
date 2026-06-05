@@ -26,6 +26,8 @@ translations:
     name: インタースラーヴィク
   - translation_iso: kor
     name: 인터슬라빅
+  - translation_iso: por
+    name: idioma intereslavo
   - translation_iso: spa
     name: Intereslavo
   - translation_iso: zho

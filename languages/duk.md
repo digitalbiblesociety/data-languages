@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウヤジタヤ語
     auto: true
+  - translation_iso: por
+    name: Uyajitaya
+    auto: true
   - translation_iso: spa
     name: Uyajitaya
     auto: true

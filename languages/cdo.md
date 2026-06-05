@@ -27,6 +27,8 @@ translations:
     name: 閩東語
   - translation_iso: kor
     name: 민둥어
+  - translation_iso: por
+    name: Língua min oriental
   - translation_iso: spa
     name: min dong
   - translation_iso: zho

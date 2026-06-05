@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マサトラン・ミクセ語
     auto: true
+  - translation_iso: por
+    name: Mixe de Mazatlán
+    auto: true
   - translation_iso: spa
     name: Mixe de Mazatlán
     auto: true

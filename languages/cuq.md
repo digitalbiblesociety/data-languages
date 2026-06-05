@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 村語
+  - translation_iso: por
+    name: Cun
+    auto: true
   - translation_iso: spa
     name: Cun
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シグ語
     auto: true
+  - translation_iso: por
+    name: Sighu
+    auto: true
   - translation_iso: spa
     name: Sighu
     auto: true

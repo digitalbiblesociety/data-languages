@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コヒン語
     auto: true
+  - translation_iso: por
+    name: Kohin
+    auto: true
   - translation_iso: spa
     name: Kohin
     auto: true

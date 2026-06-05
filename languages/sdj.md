@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キスウンディ語
     auto: true
+  - translation_iso: por
+    name: Suundi
+    auto: true
   - translation_iso: spa
     name: Suundi
     auto: true

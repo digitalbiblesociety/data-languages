@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レンカイタヘ語
     auto: true
+  - translation_iso: por
+    name: Salas
+    auto: true
   - translation_iso: spa
     name: Salas
     auto: true

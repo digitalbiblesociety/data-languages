@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウエウエトラ・テペフア語
     auto: true
+  - translation_iso: por
+    name: Tepehua de Huehuetla
+    auto: true
   - translation_iso: spa
     name: Tepehua de Huehuetla
   - translation_iso: zho

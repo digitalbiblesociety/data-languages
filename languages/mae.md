@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボ・ルクル語
     auto: true
+  - translation_iso: por
+    name: Bo-Rukul
+    auto: true
   - translation_iso: spa
     name: Bo-Rukul
     auto: true

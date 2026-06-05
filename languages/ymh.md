@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ミリ語
     auto: true
+  - translation_iso: por
+    name: mili
+    auto: true
   - translation_iso: spa
     name: Mili
     auto: true

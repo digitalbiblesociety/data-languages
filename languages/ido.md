@@ -25,6 +25,8 @@ translations:
     name: イド語
   - translation_iso: kor
     name: 이도
+  - translation_iso: por
+    name: ido
   - translation_iso: spa
     name: ido
   - translation_iso: zho

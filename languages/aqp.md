@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アタカパ語
+  - translation_iso: por
+    name: Atakapa
+    auto: true
   - translation_iso: spa
     name: Idioma atakapa
   - translation_iso: zho

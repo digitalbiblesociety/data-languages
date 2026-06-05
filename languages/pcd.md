@@ -29,6 +29,8 @@ translations:
     name: ピカルディ語
   - translation_iso: kor
     name: 피카르디어
+  - translation_iso: por
+    name: picardo
   - translation_iso: spa
     name: picardo
   - translation_iso: zho

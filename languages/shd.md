@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クンダルシャー語
     auto: true
+  - translation_iso: por
+    name: Kundal Shahi
+    auto: true
   - translation_iso: spa
     name: Kundal Shahi
     auto: true

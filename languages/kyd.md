@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: カレイ語
     auto: true
+  - translation_iso: por
+    name: Karey
   - translation_iso: spa
     name: Karey
   - translation_iso: zho

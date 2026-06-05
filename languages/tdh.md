@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: スルン語
     auto: true
+  - translation_iso: por
+    name: Thulung
+    auto: true
   - translation_iso: spa
     name: Thulung
     auto: true

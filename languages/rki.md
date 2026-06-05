@@ -25,6 +25,8 @@ translations:
     name: रख़ाइन भाषा
   - translation_iso: jpn
     name: ラカイン語
+  - translation_iso: por
+    name: Língua arracanesa
   - translation_iso: spa
     name: Rakhine
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハワイ・クレオール英語
+  - translation_iso: por
+    name: Inglês Crioulo do Havaí
+    auto: true
   - translation_iso: spa
     name: Pidgin hawaiano
   - translation_iso: zho

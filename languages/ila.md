@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イレ・アペ語
     auto: true
+  - translation_iso: por
+    name: Ile Ape
+    auto: true
   - translation_iso: spa
     name: Ile Ape
     auto: true

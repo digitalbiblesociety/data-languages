@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: ポティグアラ語
     auto: true
+  - translation_iso: por
+    name: Língua potiguara
   - translation_iso: spa
     name: potiguara
   - translation_iso: zho

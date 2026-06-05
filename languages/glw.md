@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グラヴダ語
     auto: true
+  - translation_iso: por
+    name: Glavda
+    auto: true
   - translation_iso: spa
     name: Glavda
     auto: true

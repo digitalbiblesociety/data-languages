@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南レンバタ語
+  - translation_iso: por
+    name: Lembata do Sul
+    auto: true
   - translation_iso: spa
     name: Lembata del sur
     auto: true

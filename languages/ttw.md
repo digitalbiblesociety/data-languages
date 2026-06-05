@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロング・ワット語
     auto: true
+  - translation_iso: por
+    name: Long Wat
+    auto: true
   - translation_iso: spa
     name: Long Wat
     auto: true

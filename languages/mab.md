@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ユタンドゥチ・ミステク語
     auto: true
+  - translation_iso: por
+    name: Mixteco de Yutanduchi
+    auto: true
   - translation_iso: spa
     name: Mixteco de Yutanduchi
     auto: true

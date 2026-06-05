@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エシュテハルディ語
     auto: true
+  - translation_iso: por
+    name: Eshtehardi
+    auto: true
   - translation_iso: spa
     name: Eshtehardi
     auto: true

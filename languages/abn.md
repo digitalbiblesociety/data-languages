@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: アブア語
     auto: true
+  - translation_iso: por
+    name: Abua
+    auto: true
   - translation_iso: spa
     name: Abua
     auto: true

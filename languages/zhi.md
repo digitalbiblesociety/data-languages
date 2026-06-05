@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ズィレ語
     auto: true
+  - translation_iso: por
+    name: zhire
+    auto: true
   - translation_iso: spa
     name: Zhire
     auto: true

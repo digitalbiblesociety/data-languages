@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グナウ語
     auto: true
+  - translation_iso: por
+    name: Gnau
+    auto: true
   - translation_iso: spa
     name: Idioma gnau
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ガイナ語
     auto: true
+  - translation_iso: por
+    name: Gaina
+    auto: true
   - translation_iso: spa
     name: Gaina
     auto: true

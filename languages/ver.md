@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: モム・ジャンゴ語
     auto: true
+  - translation_iso: por
+    name: Mom Jango
+    auto: true
   - translation_iso: spa
     name: Vere
   - translation_iso: zho

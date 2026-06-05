@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ティンベ語
     auto: true
+  - translation_iso: por
+    name: Timbe
+    auto: true
   - translation_iso: spa
     name: Timbe
     auto: true

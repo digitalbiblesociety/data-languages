@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レニンギティジ語
     auto: true
+  - translation_iso: por
+    name: Leningitij
+    auto: true
   - translation_iso: spa
     name: Leningitij
     auto: true

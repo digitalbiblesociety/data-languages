@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クウェステン語
     auto: true
+  - translation_iso: por
+    name: Kwesten
+    auto: true
   - translation_iso: spa
     name: Kwesten
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: 北フリジア語
   - translation_iso: kor
     name: 북프리슬란트어
+  - translation_iso: por
+    name: frisão setentrional
   - translation_iso: spa
     name: frisón septentrional
   - translation_iso: zho

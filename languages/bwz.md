@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブウィシ語
     auto: true
+  - translation_iso: por
+    name: Bwisi
+    auto: true
   - translation_iso: spa
     name: Bwisi
     auto: true

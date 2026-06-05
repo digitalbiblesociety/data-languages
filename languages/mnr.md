@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モーノー語
+  - translation_iso: por
+    name: Língua mono
   - translation_iso: spa
     name: Idioma mono
   - translation_iso: zho

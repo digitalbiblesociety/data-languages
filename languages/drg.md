@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ルンガス語
     auto: true
+  - translation_iso: por
+    name: Rungus
+    auto: true
   - translation_iso: spa
     name: Rungus
     auto: true

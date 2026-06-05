@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ガヴァク語
     auto: true
+  - translation_iso: por
+    name: Gavak
+    auto: true
   - translation_iso: spa
     name: Gavak
     auto: true

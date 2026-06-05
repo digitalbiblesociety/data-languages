@@ -27,6 +27,8 @@ translations:
     name: 北ストレイツ語
   - translation_iso: kor
     name: 해안 살리시어
+  - translation_iso: por
+    name: salish do estreito norte
   - translation_iso: spa
     name: salish de los estrechos
   - translation_iso: zho

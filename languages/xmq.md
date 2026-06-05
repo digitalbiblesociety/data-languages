@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クク・マング語
     auto: true
+  - translation_iso: por
+    name: Kuku-Mangk
+    auto: true
   - translation_iso: spa
     name: Kuku-Mangk
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・ムノング語
     auto: true
+  - translation_iso: por
+    name: Mnong central
+    auto: true
   - translation_iso: spa
     name: Mnong Central
     auto: true

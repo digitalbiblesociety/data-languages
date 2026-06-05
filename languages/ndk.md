@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンダカ語
+  - translation_iso: por
+    name: Ndaka
+    auto: true
   - translation_iso: spa
     name: Ndaka
     auto: true

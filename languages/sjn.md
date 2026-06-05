@@ -25,6 +25,8 @@ translations:
     name: シンダール語
   - translation_iso: kor
     name: 신다린
+  - translation_iso: por
+    name: Sindarin
   - translation_iso: spa
     name: sindarin
   - translation_iso: zho

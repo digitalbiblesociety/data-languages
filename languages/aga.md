@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アグアーノ語
     auto: true
+  - translation_iso: por
+    name: aguano
   - translation_iso: spa
     name: aguano
   - translation_iso: zho

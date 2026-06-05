@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イコビ語
     auto: true
+  - translation_iso: por
+    name: Ikobi
+    auto: true
   - translation_iso: spa
     name: Ikobi
     auto: true

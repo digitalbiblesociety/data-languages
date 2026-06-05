@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オッラーリ語
+  - translation_iso: por
+    name: Língua ollari
   - translation_iso: spa
     name: Gadaba pottangi ollar
     auto: true

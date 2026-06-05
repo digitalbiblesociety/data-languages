@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イアマレレ語
     auto: true
+  - translation_iso: por
+    name: iamalele
+    auto: true
   - translation_iso: spa
     name: Iamalele
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: リサバタ・ヌニアリ語
     auto: true
+  - translation_iso: por
+    name: Lisabata-Nuniali
+    auto: true
   - translation_iso: spa
     name: Lisabata-Nuniali
     auto: true

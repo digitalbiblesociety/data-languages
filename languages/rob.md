@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タエ語
+  - translation_iso: por
+    name: "Tae'"
+    auto: true
   - translation_iso: spa
     name: Tae
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フレ語
     auto: true
+  - translation_iso: por
+    name: Hre
+    auto: true
   - translation_iso: spa
     name: Hre
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ブルーム・パーリング・ラガー・ピジン語
     auto: true
+  - translation_iso: por
+    name: Broome Pearling Lugger Pidgin
+    auto: true
   - translation_iso: spa
     name: Pidgin Broome Pearling Lugger
   - translation_iso: zho

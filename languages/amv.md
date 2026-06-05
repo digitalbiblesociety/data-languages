@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アンベラウ語
     auto: true
+  - translation_iso: por
+    name: Ambalau
   - translation_iso: spa
     name: Ambalau
   - translation_iso: zho

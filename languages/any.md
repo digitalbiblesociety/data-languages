@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アニ語
+  - translation_iso: por
+    name: anyin
   - translation_iso: spa
     name: anyi
   - translation_iso: zho

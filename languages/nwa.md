@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ナワティネヘナ語
     auto: true
+  - translation_iso: por
+    name: Nawathinehena
+    auto: true
   - translation_iso: spa
     name: Nawathinehena
   - translation_iso: zho

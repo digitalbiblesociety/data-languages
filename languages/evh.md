@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウヴビエ語
     auto: true
+  - translation_iso: por
+    name: Uvbie
+    auto: true
   - translation_iso: spa
     name: Uvbie
     auto: true

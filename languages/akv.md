@@ -30,6 +30,8 @@ translations:
     name: アフバフ語
   - translation_iso: kor
     name: 아흐바흐어
+  - translation_iso: por
+    name: Língua akhvakh
   - translation_iso: spa
     name: ajvaj
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サムタオ語
     auto: true
+  - translation_iso: por
+    name: Samtao
+    auto: true
   - translation_iso: spa
     name: Samtao
     auto: true

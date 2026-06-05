@@ -27,6 +27,8 @@ translations:
     name: ケイジャン・フランス語
   - translation_iso: kor
     name: 케이준 프랑스어
+  - translation_iso: por
+    name: Francês cajun
   - translation_iso: spa
     name: francés cajún
   - translation_iso: zho

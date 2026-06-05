@@ -28,6 +28,8 @@ translations:
     name: マオレ語
   - translation_iso: kor
     name: 코모로어
+  - translation_iso: por
+    name: shimaore
   - translation_iso: spa
     name: mahorés
   - translation_iso: zho

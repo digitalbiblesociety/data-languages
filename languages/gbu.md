@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガーグジュ語
+  - translation_iso: por
+    name: Gagadu
+    auto: true
   - translation_iso: spa
     name: Gagadu
     auto: true

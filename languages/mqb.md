@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムブコ語
     auto: true
+  - translation_iso: por
+    name: Mbuko
+    auto: true
   - translation_iso: spa
     name: Mbuko
     auto: true

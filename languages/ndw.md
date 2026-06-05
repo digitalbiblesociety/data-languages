@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ンドボ語
     auto: true
+  - translation_iso: por
+    name: Ndobo
+    auto: true
   - translation_iso: spa
     name: Ndobo
     auto: true

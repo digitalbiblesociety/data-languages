@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ゾゥングゥ語
     auto: true
+  - translation_iso: por
+    name: Dzùùngoo
+    auto: true
   - translation_iso: spa
     name: Dzùùngoo
     auto: true

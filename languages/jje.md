@@ -28,6 +28,8 @@ translations:
     name: 済州語
   - translation_iso: kor
     name: 제주어
+  - translation_iso: por
+    name: Língua jeju
   - translation_iso: spa
     name: idioma jejuano
   - translation_iso: zho

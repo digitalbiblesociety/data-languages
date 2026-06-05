@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クムハリ語
     auto: true
+  - translation_iso: por
+    name: Kumhali
+    auto: true
   - translation_iso: spa
     name: Kumhali
     auto: true

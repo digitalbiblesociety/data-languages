@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アディラバード・ゴンディ語
     auto: true
+  - translation_iso: por
+    name: Gondi de Adilabad
+    auto: true
   - translation_iso: spa
     name: Gondi de Adilabad
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Lombo語
+  - translation_iso: por
+    name: Lombo
+    auto: true
   - translation_iso: spa
     name: Lombo
     auto: true

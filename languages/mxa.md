@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ノースウェスト・オアハカ・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco do noroeste de Oaxaca
+    auto: true
   - translation_iso: spa
     name: Mixteco del Noroeste de Oaxaca
     auto: true

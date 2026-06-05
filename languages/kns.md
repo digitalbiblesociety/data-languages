@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケンシウ語
+  - translation_iso: por
+    name: Kensiu
+    auto: true
   - translation_iso: spa
     name: Kensiu
     auto: true

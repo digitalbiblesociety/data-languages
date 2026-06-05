@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: シナアンフ語
     auto: true
+  - translation_iso: por
+    name: Língua troque copala
   - translation_iso: spa
     name: Triqui de Copala
   - translation_iso: zho

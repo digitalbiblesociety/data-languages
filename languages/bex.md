@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジュル・モド語
     auto: true
+  - translation_iso: por
+    name: Jur Modo
+    auto: true
   - translation_iso: spa
     name: Idioma jur modo
   - translation_iso: zho

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サングリチュ語
+  - translation_iso: por
+    name: Língua sanglechi
   - translation_iso: spa
     name: Sanglechi
     auto: true

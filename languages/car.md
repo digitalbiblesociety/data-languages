@@ -28,6 +28,8 @@ translations:
     name: カリブ語
   - translation_iso: kor
     name: 카리브어
+  - translation_iso: por
+    name: Língua galibi
   - translation_iso: spa
     name: kariña
   - translation_iso: zho

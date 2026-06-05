@@ -29,6 +29,8 @@ translations:
     name: グルン語
   - translation_iso: kor
     name: 구룽어
+  - translation_iso: por
+    name: Língua gurung
   - translation_iso: spa
     name: Gurung
     auto: true

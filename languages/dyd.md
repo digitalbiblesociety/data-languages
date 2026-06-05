@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デュグン語
+  - translation_iso: por
+    name: Dialeto djugun
   - translation_iso: spa
     name: Dyugun
     auto: true

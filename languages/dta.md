@@ -29,6 +29,8 @@ translations:
     name: ダウール語
   - translation_iso: kor
     name: 다우르어
+  - translation_iso: por
+    name: Língua daur
   - translation_iso: spa
     name: daur
   - translation_iso: zho

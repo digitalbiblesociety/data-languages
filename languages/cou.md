@@ -29,6 +29,9 @@ translations:
     name: コニアギ語
   - translation_iso: kor
     name: 와메이어
+  - translation_iso: por
+    name: Wamey
+    auto: true
   - translation_iso: spa
     name: Wamey
   - translation_iso: zho

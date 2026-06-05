@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンガル・ヘネン語
     auto: true
+  - translation_iso: por
+    name: Angal Heneng
+    auto: true
   - translation_iso: spa
     name: Angal Heneng
     auto: true

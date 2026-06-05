@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バロムビ語
     auto: true
+  - translation_iso: por
+    name: Barombi
+    auto: true
   - translation_iso: spa
     name: Barombi
     auto: true

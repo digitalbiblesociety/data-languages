@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポーランド手話
+  - translation_iso: por
+    name: Língua de Sinais Polonesa
+    auto: true
   - translation_iso: spa
     name: Lengua de señas polaca
     auto: true

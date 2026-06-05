@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マシマシ語
     auto: true
+  - translation_iso: por
+    name: Masimasi
+    auto: true
   - translation_iso: spa
     name: Masimasi
     auto: true

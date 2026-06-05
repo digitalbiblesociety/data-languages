@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マクウェ語
     auto: true
+  - translation_iso: por
+    name: makwe
+    auto: true
   - translation_iso: spa
     name: Makwe
     auto: true

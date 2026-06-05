@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シャークベイ語
     auto: true
+  - translation_iso: por
+    name: Shark Bay
+    auto: true
   - translation_iso: spa
     name: Shark Bay
     auto: true

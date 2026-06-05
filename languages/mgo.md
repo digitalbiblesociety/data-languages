@@ -19,7 +19,7 @@ translations:
   - translation_iso: ara
     name: ميتا
   - translation_iso: deu
-    name: "Meta'"
+    name: Meta
   - translation_iso: fra
     name: meta’
   - translation_iso: hin
@@ -28,6 +28,8 @@ translations:
     name: メタ語
   - translation_iso: kor
     name: 메타어
+  - translation_iso: por
+    name: meta’
   - translation_iso: spa
     name: meta’
   - translation_iso: zho

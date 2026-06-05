@@ -27,6 +27,9 @@ translations:
     name: बिरहोर भाषा
   - translation_iso: jpn
     name: ビルホル語
+  - translation_iso: por
+    name: Birhor
+    auto: true
   - translation_iso: spa
     name: Birhor
     auto: true

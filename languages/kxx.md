@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: リクバ語
     auto: true
+  - translation_iso: por
+    name: Likuba
+    auto: true
   - translation_iso: spa
     name: kuba
   - translation_iso: zho

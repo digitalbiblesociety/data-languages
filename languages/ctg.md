@@ -27,6 +27,8 @@ translations:
     name: チッタゴン語
   - translation_iso: kor
     name: 치타공어
+  - translation_iso: por
+    name: Língua chittagong
   - translation_iso: spa
     name: Idioma chittagoniano
   - translation_iso: zho

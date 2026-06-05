@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ミニギール語
     auto: true
+  - translation_iso: por
+    name: Língua lungalunga
   - translation_iso: spa
     name: Lungalunga
     auto: true

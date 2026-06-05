@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロニウ語
     auto: true
+  - translation_iso: por
+    name: Loniu
+    auto: true
   - translation_iso: spa
     name: Loniu
     auto: true

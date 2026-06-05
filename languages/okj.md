@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 오코주워이어
+  - translation_iso: por
+    name: Oko-Juwoi
+    auto: true
   - translation_iso: spa
     name: Idioma juwoi
   - translation_iso: zho

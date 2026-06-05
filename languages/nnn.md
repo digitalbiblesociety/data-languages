@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ングエテ語
     auto: true
+  - translation_iso: por
+    name: Ngete
+    auto: true
   - translation_iso: spa
     name: Ngete
     auto: true

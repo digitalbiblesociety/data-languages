@@ -30,6 +30,8 @@ translations:
     name: マディ語
   - translation_iso: kor
     name: 마디어
+  - translation_iso: por
+    name: "Língua ma'di"
   - translation_iso: spa
     name: "Ma'di"
     auto: true

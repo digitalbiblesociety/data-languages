@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コチラ・タル語
     auto: true
+  - translation_iso: por
+    name: Tharu de Kochila
+    auto: true
   - translation_iso: spa
     name: Tharu Kochila
     auto: true

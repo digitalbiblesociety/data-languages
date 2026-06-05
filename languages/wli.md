@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワイオリ語
+  - translation_iso: por
+    name: Waioli
+    auto: true
   - translation_iso: spa
     name: Waioli
     auto: true

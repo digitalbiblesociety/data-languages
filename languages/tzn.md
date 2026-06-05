@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウェタル語
     auto: true
+  - translation_iso: por
+    name: Tugun
+    auto: true
   - translation_iso: spa
     name: Tugun
     auto: true

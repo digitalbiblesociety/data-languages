@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クワヤ語
     auto: true
+  - translation_iso: por
+    name: Kwaya
+    auto: true
   - translation_iso: spa
     name: Kwaya
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チウベイ・ズアン語
     auto: true
+  - translation_iso: por
+    name: zhuang de Qiubei
+    auto: true
   - translation_iso: spa
     name: Zhuang de Qiubei
     auto: true

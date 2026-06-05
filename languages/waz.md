@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワンプル語
     auto: true
+  - translation_iso: por
+    name: Wampur
+    auto: true
   - translation_iso: spa
     name: Wampur
     auto: true

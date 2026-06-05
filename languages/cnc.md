@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コオン語
     auto: true
+  - translation_iso: por
+    name: Côông
+    auto: true
   - translation_iso: spa
     name: Côông
     auto: true

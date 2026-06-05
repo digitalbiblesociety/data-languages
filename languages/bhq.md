@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トゥカン・ベシ南語
     auto: true
+  - translation_iso: por
+    name: Tukang Besi do Sul
+    auto: true
   - translation_iso: spa
     name: Tukang Besi del sur
     auto: true

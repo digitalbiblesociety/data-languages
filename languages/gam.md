@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カンダウォ語
     auto: true
+  - translation_iso: por
+    name: Kandawo
+    auto: true
   - translation_iso: spa
     name: Kandawo
     auto: true

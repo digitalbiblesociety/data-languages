@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤプンダ語
     auto: true
+  - translation_iso: por
+    name: yapunda
+    auto: true
   - translation_iso: spa
     name: Yapunda
     auto: true

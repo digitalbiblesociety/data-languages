@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビャオ・ジャオ・ミエン語
     auto: true
+  - translation_iso: por
+    name: Mien biao-jiao
+    auto: true
   - translation_iso: spa
     name: Biao-Jiao Mien
     auto: true

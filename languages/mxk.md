@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モヌンボ語
     auto: true
+  - translation_iso: por
+    name: Monumbo
+    auto: true
   - translation_iso: spa
     name: Lenguas monumbo
   - translation_iso: zho

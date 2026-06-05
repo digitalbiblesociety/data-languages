@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベテ語
+  - translation_iso: por
+    name: Língua bété
   - translation_iso: spa
     name: Bété de Gagnoa
     auto: true

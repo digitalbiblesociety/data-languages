@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パパゴ語
+  - translation_iso: por
+    name: "Língua o'odham"
   - translation_iso: spa
     name: "o'odham"
   - translation_iso: zho

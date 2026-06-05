@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アンダルム語
     auto: true
+  - translation_iso: por
+    name: Andarum
+    auto: true
   - translation_iso: spa
     name: Andarum
     auto: true

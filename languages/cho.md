@@ -28,6 +28,8 @@ translations:
     name: チョクトー語
   - translation_iso: kor
     name: 촉토어
+  - translation_iso: por
+    name: língua choctaw
   - translation_iso: spa
     name: idioma choctaw
   - translation_iso: zho

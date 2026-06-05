@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: クワマ語
     auto: true
+  - translation_iso: por
+    name: Língua kuama
   - translation_iso: spa
     name: Kwama
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: メル・カオン語
     auto: true
+  - translation_iso: por
+    name: Mel-Khaonh
+    auto: true
   - translation_iso: spa
     name: Mel-Khaonh
     auto: true

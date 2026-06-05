@@ -29,6 +29,8 @@ translations:
     name: ラーク語
   - translation_iso: kor
     name: 라크어
+  - translation_iso: por
+    name: Laki
   - translation_iso: spa
     name: Laki
     auto: true

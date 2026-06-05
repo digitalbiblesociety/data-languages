@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウェ語
     auto: true
+  - translation_iso: por
+    name: Wè do Sul
+    auto: true
   - translation_iso: spa
     name: Wè Meridional
     auto: true

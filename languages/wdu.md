@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワジグ語
     auto: true
+  - translation_iso: por
+    name: Wadjigu
+    auto: true
   - translation_iso: spa
     name: Wadjigu
     auto: true

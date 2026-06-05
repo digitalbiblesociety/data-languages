@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シャラナウア語
     auto: true
+  - translation_iso: por
+    name: Sharanahua
+    auto: true
   - translation_iso: spa
     name: sharanahua
   - translation_iso: zho

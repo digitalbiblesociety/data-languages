@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウジラ語
+  - translation_iso: por
+    name: Awjilah
+    auto: true
   - translation_iso: spa
     name: awjila
   - translation_iso: zho

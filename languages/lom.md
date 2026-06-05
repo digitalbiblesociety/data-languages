@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トマ語
+  - translation_iso: por
+    name: Língua loma
   - translation_iso: spa
     name: loma
   - translation_iso: zho

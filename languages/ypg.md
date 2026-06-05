@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フォラ語
     auto: true
+  - translation_iso: por
+    name: phola
+    auto: true
   - translation_iso: spa
     name: Phola
     auto: true

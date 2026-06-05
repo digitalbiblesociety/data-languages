@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カプティアウ語
     auto: true
+  - translation_iso: por
+    name: Kaptiau
+    auto: true
   - translation_iso: spa
     name: Kaptiau
     auto: true

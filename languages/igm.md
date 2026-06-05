@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カンガペ語
     auto: true
+  - translation_iso: por
+    name: Kanggape
+    auto: true
   - translation_iso: spa
     name: Kanggape
     auto: true

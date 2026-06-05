@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ヤレバ語
     auto: true
+  - translation_iso: por
+    name: yaleba
+    auto: true
   - translation_iso: spa
     name: Yaleba
     auto: true

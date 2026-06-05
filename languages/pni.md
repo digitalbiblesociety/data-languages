@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: アオヘン語
     auto: true
+  - translation_iso: por
+    name: Aoheng
   - translation_iso: spa
     name: Aoheng
   - translation_iso: zho

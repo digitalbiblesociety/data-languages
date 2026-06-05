@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 瓦郷話
+  - translation_iso: por
+    name: Waxianghua
+    auto: true
   - translation_iso: spa
     name: Waxianghua
   - translation_iso: zho

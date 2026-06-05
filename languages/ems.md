@@ -29,6 +29,8 @@ translations:
     name: アリュティーク語
   - translation_iso: kor
     name: 알류티크어
+  - translation_iso: por
+    name: língua alutiiq
   - translation_iso: spa
     name: alutiiq
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バイッサ・ファリ語
     auto: true
+  - translation_iso: por
+    name: fali de Baissa
+    auto: true
   - translation_iso: spa
     name: Fali de Baissa
     auto: true

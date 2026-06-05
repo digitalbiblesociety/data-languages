@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: グラロ・トワボ語
     auto: true
+  - translation_iso: por
+    name: Glaro-Twabo
+    auto: true
   - translation_iso: spa
     name: Glaro-Twabo
     auto: true

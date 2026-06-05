@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ペッセ語
     auto: true
+  - translation_iso: por
+    name: Pesse
+    auto: true
   - translation_iso: spa
     name: Pesse
     auto: true

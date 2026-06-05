@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ハイベルノ・スコティッシュゲール語
     auto: true
+  - translation_iso: por
+    name: gaélico hiberno-escocês
+    auto: true
   - translation_iso: spa
     name: gaélico clásico
   - translation_iso: zho

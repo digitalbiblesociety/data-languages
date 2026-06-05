@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: オティ語
     auto: true
+  - translation_iso: por
+    name: Língua otí
   - translation_iso: spa
     name: Idioma oti
   - translation_iso: zho

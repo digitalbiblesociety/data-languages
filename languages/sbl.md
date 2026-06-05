@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ボトラン・サンバル語
     auto: true
+  - translation_iso: por
+    name: Língua botolan
   - translation_iso: spa
     name: idioma botolano
   - translation_iso: zho

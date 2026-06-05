@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カツ語
     auto: true
+  - translation_iso: por
+    name: kathu
+    auto: true
   - translation_iso: spa
     name: Kathu
     auto: true

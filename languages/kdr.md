@@ -29,6 +29,8 @@ translations:
     name: カライム語
   - translation_iso: kor
     name: 카라임어
+  - translation_iso: por
+    name: karaim
   - translation_iso: spa
     name: karaim
   - translation_iso: zho

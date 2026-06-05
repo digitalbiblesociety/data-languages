@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: リンコン・サポテク語
     auto: true
+  - translation_iso: por
+    name: Língua rincón
   - translation_iso: spa
     name: Zapoteco del Rincón
     auto: true

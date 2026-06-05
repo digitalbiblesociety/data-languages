@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アンバラアイタ語
     auto: true
+  - translation_iso: por
+    name: Língua ambala
   - translation_iso: spa
     name: Ambala Ayta
     auto: true

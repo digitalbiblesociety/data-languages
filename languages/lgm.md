@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: レガ・ムウェンガ語
     auto: true
+  - translation_iso: por
+    name: Lega-Mwenga
+    auto: true
   - translation_iso: spa
     name: Lega-Mwenga
     auto: true

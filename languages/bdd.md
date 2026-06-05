@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブナマ語
     auto: true
+  - translation_iso: por
+    name: Bunama
+    auto: true
   - translation_iso: spa
     name: Bunama
     auto: true

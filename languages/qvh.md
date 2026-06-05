@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワマリエスドスデマヨワヌコケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Huamalíes-Dos de Mayo Huánuco
+    auto: true
   - translation_iso: spa
     name: "Quechua de Huamalíes-Dos de Mayo, Huánuco"
     auto: true

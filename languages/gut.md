@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マレク・ハイカ語
     auto: true
+  - translation_iso: por
+    name: Maléku Jaíka
+    auto: true
   - translation_iso: spa
     name: guatuso
   - translation_iso: zho

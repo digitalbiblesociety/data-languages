@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワンガマラ語
     auto: true
+  - translation_iso: por
+    name: Wanggamala
+    auto: true
   - translation_iso: spa
     name: idioma wanggamala
   - translation_iso: zho

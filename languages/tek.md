@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イバリ・テケ語
     auto: true
+  - translation_iso: por
+    name: Teke Ibali
+    auto: true
   - translation_iso: spa
     name: Teke Ibali
     auto: true

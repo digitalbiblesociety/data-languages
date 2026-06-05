@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガヤウング語
+  - translation_iso: por
+    name: Ngayawung
+    auto: true
   - translation_iso: spa
     name: Idioma ngayawung
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジブ語
+  - translation_iso: por
+    name: Jibu
+    auto: true
   - translation_iso: spa
     name: Jibu
     auto: true

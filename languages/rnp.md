@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ロンポ語
     auto: true
+  - translation_iso: por
+    name: Rongpo
+    auto: true
   - translation_iso: spa
     name: Rongpo
     auto: true

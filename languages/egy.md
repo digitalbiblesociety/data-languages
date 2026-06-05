@@ -28,6 +28,8 @@ translations:
     name: エジプト語
   - translation_iso: kor
     name: 이집트어
+  - translation_iso: por
+    name: egípcio
   - translation_iso: spa
     name: egipcio
   - translation_iso: zho

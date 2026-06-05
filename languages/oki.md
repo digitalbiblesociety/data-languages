@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オキエク語
+  - translation_iso: por
+    name: Okiek
+    auto: true
   - translation_iso: spa
     name: ogiek
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: インドネシア語
   - translation_iso: kor
     name: 인도네시아어
+  - translation_iso: por
+    name: língua indonésia
   - translation_iso: spa
     name: indonesio
   - translation_iso: zho

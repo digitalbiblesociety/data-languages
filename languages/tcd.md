@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: タフィ語
     auto: true
+  - translation_iso: por
+    name: Tafi
+    auto: true
   - translation_iso: spa
     name: tafi
   - translation_iso: zho

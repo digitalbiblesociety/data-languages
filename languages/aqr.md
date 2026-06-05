@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アルハー語
     auto: true
+  - translation_iso: por
+    name: Arhâ
+    auto: true
   - translation_iso: spa
     name: Idioma arhâ
   - translation_iso: zho

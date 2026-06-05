@@ -29,6 +29,8 @@ translations:
     name: アワカテコ語
   - translation_iso: kor
     name: 아와카텍어
+  - translation_iso: por
+    name: aguacateco
   - translation_iso: spa
     name: aguacateco
   - translation_iso: zho

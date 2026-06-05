@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アルビリビダリ語
     auto: true
+  - translation_iso: por
+    name: Alviri-Vidari
+    auto: true
   - translation_iso: spa
     name: Alviri-Vidari
     auto: true

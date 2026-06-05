@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トゥトゥテペック・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Tututepec
+    auto: true
   - translation_iso: spa
     name: Mixteco de Tututepec
     auto: true

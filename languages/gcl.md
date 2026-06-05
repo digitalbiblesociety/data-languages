@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グレナダ・クレオール語
+  - translation_iso: por
+    name: Crioulo inglês de Granada
   - translation_iso: spa
     name: Inglés criollo granadino
   - translation_iso: zho

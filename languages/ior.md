@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: イノル語
     auto: true
+  - translation_iso: por
+    name: Língua inor
   - translation_iso: spa
     name: Inor
     auto: true

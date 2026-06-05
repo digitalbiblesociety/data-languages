@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サウェル語
     auto: true
+  - translation_iso: por
+    name: Saweru
+    auto: true
   - translation_iso: spa
     name: saweru
   - translation_iso: zho

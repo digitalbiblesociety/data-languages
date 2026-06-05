@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボスングン語
     auto: true
+  - translation_iso: por
+    name: Bosngun
+    auto: true
   - translation_iso: spa
     name: Bosngun
     auto: true

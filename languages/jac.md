@@ -29,6 +29,8 @@ translations:
     name: ハカルテク語
   - translation_iso: kor
     name: 하칼테크어
+  - translation_iso: por
+    name: Língua jacalteca
   - translation_iso: spa
     name: jacalteco
   - translation_iso: zho

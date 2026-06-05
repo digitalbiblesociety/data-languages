@@ -26,6 +26,8 @@ translations:
     name: हज़रमी अरबी
   - translation_iso: jpn
     name: アラビア語ハドラマウト方言
+  - translation_iso: por
+    name: Árabe hadhrami
   - translation_iso: spa
     name: Árabe hadhramí
   - translation_iso: zho

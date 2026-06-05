@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パルクワ語
     auto: true
+  - translation_iso: por
+    name: Parkwa
+    auto: true
   - translation_iso: spa
     name: Parkwa
     auto: true

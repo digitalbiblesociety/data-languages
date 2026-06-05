@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チャリ語
+  - translation_iso: por
+    name: Chalikha
+    auto: true
   - translation_iso: spa
     name: Chalikha
     auto: true

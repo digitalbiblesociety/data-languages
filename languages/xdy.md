@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マレー系デイアク語
     auto: true
+  - translation_iso: por
+    name: Daiaque Malaico
+    auto: true
   - translation_iso: spa
     name: Dayak malayo
     auto: true

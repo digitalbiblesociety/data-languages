@@ -27,6 +27,9 @@ translations:
     name: चौरा भाषा
   - translation_iso: jpn
     name: チャウラ語
+  - translation_iso: por
+    name: Chaura
+    auto: true
   - translation_iso: spa
     name: Chaura
     auto: true

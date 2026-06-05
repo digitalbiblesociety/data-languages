@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ダルロング語
     auto: true
+  - translation_iso: por
+    name: Darlong
+    auto: true
   - translation_iso: spa
     name: Darlong
     auto: true

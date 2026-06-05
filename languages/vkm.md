@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: エゼシオ語
     auto: true
+  - translation_iso: por
+    name: Língua camacã
   - translation_iso: spa
     name: Kamakán
     auto: true

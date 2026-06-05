@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: オルタポプロッカ語
     auto: true
+  - translation_iso: por
+    name: Língua oluta popoluca
   - translation_iso: spa
     name: oluteco
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部チャン語
+  - translation_iso: por
+    name: Qiang setentrional
+    auto: true
   - translation_iso: spa
     name: Qiang Septentrional
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガウナ語
+  - translation_iso: por
+    name: Língua kaurna
   - translation_iso: spa
     name: Idioma kaurna
   - translation_iso: zho

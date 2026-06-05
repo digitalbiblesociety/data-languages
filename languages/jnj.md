@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イェム語
+  - translation_iso: por
+    name: Yemsa
+    auto: true
   - translation_iso: spa
     name: Yemsa
     auto: true

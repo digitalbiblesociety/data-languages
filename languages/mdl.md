@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルタ手話
+  - translation_iso: por
+    name: língua de sinais maltesa
   - translation_iso: spa
     name: Lengua de señas maltesa
     auto: true

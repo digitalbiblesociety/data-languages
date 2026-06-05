@@ -28,6 +28,9 @@ translations:
     name: ヌーンガー語
   - translation_iso: kor
     name: 늉아어
+  - translation_iso: por
+    name: Nyungar
+    auto: true
   - translation_iso: spa
     name: noongar
   - translation_iso: zho

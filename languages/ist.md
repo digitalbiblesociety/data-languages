@@ -29,6 +29,8 @@ translations:
     name: イストリア語
   - translation_iso: kor
     name: 이스트리아어
+  - translation_iso: por
+    name: Língua istriota
   - translation_iso: spa
     name: Idioma istriano
   - translation_iso: zho

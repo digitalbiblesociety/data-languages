@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マサチューセット語
+  - translation_iso: por
+    name: Língua massachusett
   - translation_iso: spa
     name: Massachusett
   - translation_iso: zho

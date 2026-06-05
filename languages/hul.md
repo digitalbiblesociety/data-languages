@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: フラ語
     auto: true
+  - translation_iso: por
+    name: Hula
+    auto: true
   - translation_iso: spa
     name: Hula
     auto: true

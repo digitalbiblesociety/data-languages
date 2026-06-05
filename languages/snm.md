@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サザン・マディ語
     auto: true
+  - translation_iso: por
+    name: "Ma'di Meridional"
+    auto: true
   - translation_iso: spa
     name: "Ma'di meridional"
     auto: true

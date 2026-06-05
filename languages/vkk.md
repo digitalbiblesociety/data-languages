@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: カウル語
     auto: true
+  - translation_iso: por
+    name: Kaur
   - translation_iso: spa
     name: Kaur
   - translation_iso: zho

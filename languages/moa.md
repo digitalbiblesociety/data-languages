@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムワン語
     auto: true
+  - translation_iso: por
+    name: Mwan
+    auto: true
   - translation_iso: spa
     name: Mwan
     auto: true

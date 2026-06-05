@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガジェラワン語
     auto: true
+  - translation_iso: por
+    name: Gadjerawang
+    auto: true
   - translation_iso: spa
     name: Gadjerawang
     auto: true

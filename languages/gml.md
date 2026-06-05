@@ -28,6 +28,9 @@ translations:
     name: 中世低地ドイツ語
   - translation_iso: kor
     name: 중세 저지 독일어
+  - translation_iso: por
+    name: baixo-alemão médio
+    auto: true
   - translation_iso: spa
     name: bajo alemán medio
   - translation_iso: zho

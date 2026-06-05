@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カガン・カラガン語
     auto: true
+  - translation_iso: por
+    name: Kalagan Kagan
+    auto: true
   - translation_iso: spa
     name: Kalagan Kagan
     auto: true

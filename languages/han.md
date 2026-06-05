@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ハンガザ語
     auto: true
+  - translation_iso: por
+    name: Hangaza
+    auto: true
   - translation_iso: spa
     name: Hangaza
     auto: true

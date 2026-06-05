@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マイシン語
     auto: true
+  - translation_iso: por
+    name: Maisin
+    auto: true
   - translation_iso: spa
     name: Maisin
     auto: true

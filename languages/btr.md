@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バエトラ語
     auto: true
+  - translation_iso: por
+    name: Baetora
+    auto: true
   - translation_iso: spa
     name: Baetora
     auto: true

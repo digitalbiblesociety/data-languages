@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カボレ・ワン語
     auto: true
+  - translation_iso: por
+    name: One Kabore
+    auto: true
   - translation_iso: spa
     name: One de Kabore
     auto: true

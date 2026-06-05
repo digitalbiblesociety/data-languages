@@ -28,6 +28,8 @@ translations:
     name: 北ロル語
   - translation_iso: kor
     name: 북부 루리어
+  - translation_iso: por
+    name: luri setentrional
   - translation_iso: spa
     name: luri septentrional
   - translation_iso: zho

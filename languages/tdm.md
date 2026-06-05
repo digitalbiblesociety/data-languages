@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: タルマ語
     auto: true
+  - translation_iso: por
+    name: Língua taruma
   - translation_iso: spa
     name: Idioma taruma
   - translation_iso: zho

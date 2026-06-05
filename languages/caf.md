@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 南カリエ語
     auto: true
+  - translation_iso: por
+    name: Carrier meridional
+    auto: true
   - translation_iso: spa
     name: Carrier Meridional
     auto: true

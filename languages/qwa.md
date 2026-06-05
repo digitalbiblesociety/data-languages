@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コロンゴアンカシュケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Corongo Ancash
+    auto: true
   - translation_iso: spa
     name: quechua de Corongo
   - translation_iso: zho

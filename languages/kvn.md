@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボーダー・クナ語
     auto: true
+  - translation_iso: por
+    name: Kuna fronteiriço
+    auto: true
   - translation_iso: spa
     name: Kuna Fronterizo
     auto: true

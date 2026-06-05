@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テマスカルテペク・ナワトル語
     auto: true
+  - translation_iso: por
+    name: Nahuatl de Temascaltepec
+    auto: true
   - translation_iso: spa
     name: náhuatl oaxaqueño
   - translation_iso: zho

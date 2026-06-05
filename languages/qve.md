@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: 東アプリーマックケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Apurímac Oriental
+    auto: true
   - translation_iso: spa
     name: Quechua del Apurímac oriental
     auto: true

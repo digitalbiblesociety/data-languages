@@ -28,6 +28,8 @@ translations:
     name: ムブンドゥ語
   - translation_iso: kor
     name: 움분두어
+  - translation_iso: por
+    name: umbundo
   - translation_iso: spa
     name: Idioma umbundu
   - translation_iso: zho

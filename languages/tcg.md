@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タマガリオ語
     auto: true
+  - translation_iso: por
+    name: Tamagario
+    auto: true
   - translation_iso: spa
     name: Tamagario
     auto: true

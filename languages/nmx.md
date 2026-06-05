@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナマ語
     auto: true
+  - translation_iso: por
+    name: Nama (Papua-Nova Guiné)
+    auto: true
   - translation_iso: spa
     name: Nama
     auto: true

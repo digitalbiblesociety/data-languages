@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カディウェウ語
     auto: true
+  - translation_iso: por
+    name: Língua kadiwéu
   - translation_iso: spa
     name: Idioma kadiweu
   - translation_iso: zho

@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ディゴル方言
+  - translation_iso: por
+    name: osseta digor
+    auto: true
   - translation_iso: spa
     name: Digor
   - translation_iso: zho

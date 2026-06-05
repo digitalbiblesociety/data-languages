@@ -29,6 +29,8 @@ translations:
     name: ラク語
   - translation_iso: kor
     name: 라크어
+  - translation_iso: por
+    name: Língua lak
   - translation_iso: spa
     name: idioma lak
   - translation_iso: zho

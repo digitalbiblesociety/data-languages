@@ -25,6 +25,9 @@ translations:
     name: जमैका सांकेतिक भाषा
   - translation_iso: jpn
     name: ジャマイカ手話
+  - translation_iso: por
+    name: Língua de Sinais Jamaicana
+    auto: true
   - translation_iso: spa
     name: Lengua de señas jamaicana
     auto: true

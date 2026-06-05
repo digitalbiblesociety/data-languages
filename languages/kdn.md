@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クンダ語
     auto: true
+  - translation_iso: por
+    name: Kunda
+    auto: true
   - translation_iso: spa
     name: Kunda
     auto: true

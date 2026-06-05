@@ -28,6 +28,8 @@ translations:
     name: ゲエズ語
   - translation_iso: kor
     name: 그으즈어
+  - translation_iso: por
+    name: "língua ge'ez"
   - translation_iso: spa
     name: "ge'ez"
   - translation_iso: zho

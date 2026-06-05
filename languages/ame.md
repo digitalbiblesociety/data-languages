@@ -19,7 +19,7 @@ translations:
     name: لغة يانيشا
     auto: true
   - translation_iso: deu
-    name: "Yanesha'"
+    name: Yanesha
     auto: true
   - translation_iso: fra
     name: yanesha
@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アムエシャ語
+  - translation_iso: por
+    name: Língua amuesha
   - translation_iso: spa
     name: yanesha
   - translation_iso: zho

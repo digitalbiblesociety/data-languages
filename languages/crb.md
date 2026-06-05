@@ -29,6 +29,8 @@ translations:
     name: 島嶼カリブ語
   - translation_iso: kor
     name: 칼리나고어
+  - translation_iso: por
+    name: Língua iñeri
   - translation_iso: spa
     name: caribe insular
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     name: ダリー語
   - translation_iso: kor
     name: 다리어
+  - translation_iso: por
+    name: Língua dari
   - translation_iso: spa
     name: dari
   - translation_iso: zho

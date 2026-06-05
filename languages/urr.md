@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ダイバース・ベイ語
     auto: true
+  - translation_iso: por
+    name: Löyöp
   - translation_iso: spa
     name: Lehalurup
     auto: true

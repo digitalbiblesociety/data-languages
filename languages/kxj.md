@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クルファ語
     auto: true
+  - translation_iso: por
+    name: Kulfa
+    auto: true
   - translation_iso: spa
     name: Kulfa
     auto: true

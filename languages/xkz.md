@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クルトプ語
+  - translation_iso: por
+    name: Língua kurtöp
   - translation_iso: spa
     name: Kurtokha
     auto: true

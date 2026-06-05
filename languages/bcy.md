@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バカマ語
     auto: true
+  - translation_iso: por
+    name: Bacama
+    auto: true
   - translation_iso: spa
     name: Bacama
     auto: true

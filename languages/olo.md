@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リッヴィ語
+  - translation_iso: por
+    name: livvi
+    auto: true
   - translation_iso: spa
     name: Livvi
     auto: true

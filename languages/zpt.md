@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サン・ビセンテ・コアトラン・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de San Vicente Coatlán
+    auto: true
   - translation_iso: spa
     name: Zapoteco de San Vicente Coatlán
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 東南タラウマラ語
     auto: true
+  - translation_iso: por
+    name: Tarahumara do Sudeste
+    auto: true
   - translation_iso: spa
     name: tarahumara suroriental
   - translation_iso: zho

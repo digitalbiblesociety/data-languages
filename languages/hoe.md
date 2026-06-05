@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ホロム語
     auto: true
+  - translation_iso: por
+    name: Horom
+    auto: true
   - translation_iso: spa
     name: Horom
     auto: true

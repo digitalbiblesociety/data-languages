@@ -27,6 +27,8 @@ translations:
     name: エスカヤ語
   - translation_iso: kor
     name: 에스카야어
+  - translation_iso: por
+    name: eskaiana
   - translation_iso: spa
     name: Eskayan
     auto: true

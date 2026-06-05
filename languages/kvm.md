@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ケンデム語
     auto: true
+  - translation_iso: por
+    name: Kendem
+    auto: true
   - translation_iso: spa
     name: kendem
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オロコ語
+  - translation_iso: por
+    name: Oroko
+    auto: true
   - translation_iso: spa
     name: Oroko
     auto: true

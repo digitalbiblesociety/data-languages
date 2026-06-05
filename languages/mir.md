@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: 峡谷ミヘ語
     auto: true
+  - translation_iso: por
+    name: Língua mixe do istmo
   - translation_iso: spa
     name: Mixe del Istmo
     auto: true

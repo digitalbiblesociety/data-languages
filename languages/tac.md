@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 低地タラウマラ語
     auto: true
+  - translation_iso: por
+    name: Tarahumara das Terras Baixas
+    auto: true
   - translation_iso: spa
     name: Tarahumara de las Tierras Bajas
     auto: true

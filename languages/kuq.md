@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: カリプナ語
     auto: true
+  - translation_iso: por
+    name: Dialeto caripuna
   - translation_iso: spa
     name: Karipuna
     auto: true

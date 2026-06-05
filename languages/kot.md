@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ラグワン語
     auto: true
+  - translation_iso: por
+    name: Língua logone
   - translation_iso: spa
     name: Lagwan
     auto: true

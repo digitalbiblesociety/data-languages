@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジンザ語
+  - translation_iso: por
+    name: Língua zinza
   - translation_iso: spa
     name: Zinza
     auto: true

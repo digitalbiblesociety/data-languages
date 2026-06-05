@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ギタバル語
     auto: true
+  - translation_iso: por
+    name: Githabul
+    auto: true
   - translation_iso: spa
     name: Idioma githabul
   - translation_iso: zho

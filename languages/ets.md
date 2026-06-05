@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イェッキー語
     auto: true
+  - translation_iso: por
+    name: língua afenmai
   - translation_iso: spa
     name: Yekhee
     auto: true

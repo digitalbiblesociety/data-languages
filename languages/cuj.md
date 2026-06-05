@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マシコ・ピロ語
+  - translation_iso: por
+    name: Mashco Piro
+    auto: true
   - translation_iso: spa
     name: mashco piro
   - translation_iso: zho

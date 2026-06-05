@@ -26,6 +26,9 @@ translations:
     name: आयापानेको
   - translation_iso: jpn
     name: アヤパネコ語
+  - translation_iso: por
+    name: zoque de Tabasco
+    auto: true
   - translation_iso: spa
     name: ayapanecaca
   - translation_iso: zho

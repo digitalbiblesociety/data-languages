@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アヨケスコ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Ayoquesco
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Ayoquesco
     auto: true

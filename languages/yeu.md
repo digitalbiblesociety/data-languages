@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イェルクラ語
     auto: true
+  - translation_iso: por
+    name: Língua kurru
   - translation_iso: spa
     name: Yerukula
     auto: true

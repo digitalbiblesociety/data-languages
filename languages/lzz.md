@@ -29,6 +29,8 @@ translations:
     name: ラズ語
   - translation_iso: kor
     name: 라즈어
+  - translation_iso: por
+    name: laz
   - translation_iso: spa
     name: laz
   - translation_iso: zho

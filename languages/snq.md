@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サング語
+  - translation_iso: por
+    name: Sangu (Gabão)
+    auto: true
   - translation_iso: spa
     name: Sangu
     auto: true

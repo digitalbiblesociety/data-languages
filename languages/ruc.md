@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ルーリ語
     auto: true
+  - translation_iso: por
+    name: Ruuli
+    auto: true
   - translation_iso: spa
     name: Ruuli
     auto: true

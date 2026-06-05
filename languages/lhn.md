@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ラハナン語
     auto: true
+  - translation_iso: por
+    name: Lahanan
+    auto: true
   - translation_iso: spa
     name: Lahanan
     auto: true

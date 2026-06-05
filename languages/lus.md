@@ -28,6 +28,8 @@ translations:
     name: ミゾ語
   - translation_iso: kor
     name: 미조어
+  - translation_iso: por
+    name: Língua mizo
   - translation_iso: spa
     name: idioma mizo
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ケルマ語
     auto: true
+  - translation_iso: por
+    name: Sakachep
+    auto: true
   - translation_iso: spa
     name: idioma khelma
   - translation_iso: zho

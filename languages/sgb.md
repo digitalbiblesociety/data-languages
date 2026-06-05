@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マグアントシ語
     auto: true
+  - translation_iso: por
+    name: Ayta Mag-antsi
+    auto: true
   - translation_iso: spa
     name: Ayta Mag-antsi
     auto: true

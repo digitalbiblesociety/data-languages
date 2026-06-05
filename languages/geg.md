@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゲングル語
     auto: true
+  - translation_iso: por
+    name: Gengle
+    auto: true
   - translation_iso: spa
     name: Gengle
     auto: true

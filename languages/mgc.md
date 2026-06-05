@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モロコド語
+  - translation_iso: por
+    name: Morokodo
+    auto: true
   - translation_iso: spa
     name: morocodo
   - translation_iso: zho

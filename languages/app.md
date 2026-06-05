@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アプマ語
+  - translation_iso: por
+    name: Língua apma
   - translation_iso: spa
     name: Apma
     auto: true

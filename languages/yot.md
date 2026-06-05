@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ヨッティ語
     auto: true
+  - translation_iso: por
+    name: yotti
+    auto: true
   - translation_iso: spa
     name: Yotti
     auto: true

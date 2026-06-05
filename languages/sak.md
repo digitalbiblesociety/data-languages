@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サケ語
+  - translation_iso: por
+    name: Sake
+    auto: true
   - translation_iso: spa
     name: sake
   - translation_iso: zho

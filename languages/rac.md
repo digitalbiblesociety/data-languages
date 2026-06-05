@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラサワ語
     auto: true
+  - translation_iso: por
+    name: Rasawa
+    auto: true
   - translation_iso: spa
     name: Rasawa
     auto: true

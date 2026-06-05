@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 산미겔 크리올
+  - translation_iso: por
+    name: Crioulo Francês de San Miguel
+    auto: true
   - translation_iso: spa
     name: Criollo francés de San Miguel
     auto: true

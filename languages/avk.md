@@ -27,6 +27,8 @@ translations:
     name: コタヴァ
   - translation_iso: kor
     name: 코타바
+  - translation_iso: por
+    name: Kotava
   - translation_iso: spa
     name: Kotava
     auto: true

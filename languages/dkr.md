@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: クイジャウ語
     auto: true
+  - translation_iso: por
+    name: Kuijau
+    auto: true
   - translation_iso: spa
     name: Kuijau
     auto: true

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ネサング語
     auto: true
+  - translation_iso: por
+    name: Tukpa
+    auto: true
   - translation_iso: spa
     name: Tukpa
     auto: true

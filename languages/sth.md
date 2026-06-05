@@ -28,6 +28,8 @@ translations:
     name: シェルタ語
   - translation_iso: kor
     name: 셸타어
+  - translation_iso: por
+    name: Língua shelta
   - translation_iso: spa
     name: shelta
   - translation_iso: zho

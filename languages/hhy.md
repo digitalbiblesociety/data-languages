@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ホヤホヤ語
     auto: true
+  - translation_iso: por
+    name: Hoyahoya
+    auto: true
   - translation_iso: spa
     name: Hoyahoya
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: キクユ語
   - translation_iso: kor
     name: 키쿠유어
+  - translation_iso: por
+    name: Língua kikuyu
   - translation_iso: spa
     name: kikuyu
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミチエ語
     auto: true
+  - translation_iso: por
+    name: miqie
+    auto: true
   - translation_iso: spa
     name: Miqie
     auto: true

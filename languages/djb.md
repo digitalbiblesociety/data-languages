@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ジインバ語
     auto: true
+  - translation_iso: por
+    name: Língua djimba
   - translation_iso: spa
     name: Djinba
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カオ語
     auto: true
+  - translation_iso: por
+    name: Kao
+    auto: true
   - translation_iso: spa
     name: Kao
     auto: true

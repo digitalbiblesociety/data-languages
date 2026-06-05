@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シランケ語
     auto: true
+  - translation_iso: por
+    name: Sininkere
+    auto: true
   - translation_iso: spa
     name: Sininkere
     auto: true

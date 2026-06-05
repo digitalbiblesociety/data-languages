@@ -30,6 +30,8 @@ translations:
     name: ハニ語
   - translation_iso: kor
     name: 하니어
+  - translation_iso: por
+    name: Língua hani
   - translation_iso: spa
     name: Hani
     auto: true

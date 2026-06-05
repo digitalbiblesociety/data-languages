@@ -27,6 +27,8 @@ translations:
     name: ヤンベン語
   - translation_iso: kor
     name: 양본어
+  - translation_iso: por
+    name: yangben
   - translation_iso: spa
     name: yangben
   - translation_iso: zho

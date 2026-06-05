@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キプシギ語
+  - translation_iso: por
+    name: Kipsigis
+    auto: true
   - translation_iso: spa
     name: Kipsigis
     auto: true

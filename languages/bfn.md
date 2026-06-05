@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブナク語
+  - translation_iso: por
+    name: Búnaque
   - translation_iso: spa
     name: Bunak
     auto: true

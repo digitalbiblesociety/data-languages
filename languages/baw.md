@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バンビリ・バンブイ語
     auto: true
+  - translation_iso: por
+    name: Bambili-Bambui
+    auto: true
   - translation_iso: spa
     name: bambili bambui
   - translation_iso: zho

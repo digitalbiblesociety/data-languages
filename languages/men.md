@@ -28,6 +28,8 @@ translations:
     name: メンデ語
   - translation_iso: kor
     name: 멘데어
+  - translation_iso: por
+    name: Língua mende
   - translation_iso: spa
     name: Idioma mende
   - translation_iso: zho

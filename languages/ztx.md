@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ザアチラ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Zaachila
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Zaachila
     auto: true

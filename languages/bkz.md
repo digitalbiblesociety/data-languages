@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ブングク語
     auto: true
+  - translation_iso: por
+    name: Língua bungku
   - translation_iso: spa
     name: Bungku
     auto: true

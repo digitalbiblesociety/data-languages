@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: バリ語
     auto: true
+  - translation_iso: por
+    name: Língua bari
   - translation_iso: spa
     name: idioma barí
   - translation_iso: zho

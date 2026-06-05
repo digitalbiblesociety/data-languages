@@ -28,6 +28,8 @@ translations:
     name: コルシカ語
   - translation_iso: kor
     name: 코르시카어
+  - translation_iso: por
+    name: Língua corsa
   - translation_iso: spa
     name: corso
   - translation_iso: zho

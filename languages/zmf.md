@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムフィヌ語
     auto: true
+  - translation_iso: por
+    name: mfinu
+    auto: true
   - translation_iso: spa
     name: Mfinu
     auto: true

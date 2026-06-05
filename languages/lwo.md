@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ルウォ語
+  - translation_iso: por
+    name: Língua luwo
   - translation_iso: spa
     name: Luwo
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ニカラグア手話
   - translation_iso: kor
     name: 니카라과 수화
+  - translation_iso: por
+    name: língua de sinais nicaraguense
   - translation_iso: spa
     name: lengua de señas de Nicaragua
   - translation_iso: zho

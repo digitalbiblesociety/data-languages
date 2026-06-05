@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 連山チワン語
+  - translation_iso: por
+    name: zhuang de Lianshan
+    auto: true
   - translation_iso: spa
     name: Zhuang Lianshan
   - translation_iso: zho

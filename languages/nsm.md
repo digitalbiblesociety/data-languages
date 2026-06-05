@@ -27,6 +27,8 @@ translations:
     name: सुमी भाषा
   - translation_iso: jpn
     name: スミ語
+  - translation_iso: por
+    name: Língua sümi
   - translation_iso: spa
     name: Naga Sumi
     auto: true

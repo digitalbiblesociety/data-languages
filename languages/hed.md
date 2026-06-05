@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヘルデ語
     auto: true
+  - translation_iso: por
+    name: Herdé
+    auto: true
   - translation_iso: spa
     name: herdé
   - translation_iso: zho

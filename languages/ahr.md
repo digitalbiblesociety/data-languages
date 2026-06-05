@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヒラーニー語
+  - translation_iso: por
+    name: Ahirani
+    auto: true
   - translation_iso: spa
     name: Ahirani
     auto: true

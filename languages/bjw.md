@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バクウェ語
+  - translation_iso: por
+    name: Bakwé
+    auto: true
   - translation_iso: spa
     name: Bakwé
     auto: true

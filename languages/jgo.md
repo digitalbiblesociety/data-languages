@@ -28,6 +28,8 @@ translations:
     name: ンゴンバ語
   - translation_iso: kor
     name: 응곰바어
+  - translation_iso: por
+    name: nguemba
   - translation_iso: spa
     name: ngomba
   - translation_iso: zho

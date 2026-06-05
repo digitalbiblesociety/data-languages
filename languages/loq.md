@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロバラ語
     auto: true
+  - translation_iso: por
+    name: Lobala
+    auto: true
   - translation_iso: spa
     name: Lobala
     auto: true

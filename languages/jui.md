@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンガジュリ語
     auto: true
+  - translation_iso: por
+    name: Ngadjuri
+    auto: true
   - translation_iso: spa
     name: Idioma ngadjuri
   - translation_iso: zho

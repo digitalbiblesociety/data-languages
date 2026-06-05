@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バエッグ語
     auto: true
+  - translation_iso: por
+    name: Baeggu
+    auto: true
   - translation_iso: spa
     name: Baeggu
   - translation_iso: zho

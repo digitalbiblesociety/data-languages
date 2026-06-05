@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ドムング語
     auto: true
+  - translation_iso: por
+    name: Domung
+    auto: true
   - translation_iso: spa
     name: Domung
     auto: true

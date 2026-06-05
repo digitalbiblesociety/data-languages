@@ -28,6 +28,8 @@ translations:
     name: マコンデ語
   - translation_iso: kor
     name: 마콘데어
+  - translation_iso: por
+    name: Língua maconde
   - translation_iso: spa
     name: Idioma makonde
   - translation_iso: zho

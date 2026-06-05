@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: パロール語
     auto: true
+  - translation_iso: por
+    name: Língua palor
   - translation_iso: spa
     name: Paloor
     auto: true

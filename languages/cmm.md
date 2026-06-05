@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ミチガメア語
     auto: true
+  - translation_iso: por
+    name: Michigamea
+    auto: true
   - translation_iso: spa
     name: Michigamea
     auto: true

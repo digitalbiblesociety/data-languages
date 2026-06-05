@@ -24,6 +24,8 @@ translations:
   - translation_iso: jpn
     name: アダベ語
     auto: true
+  - translation_iso: por
+    name: Adabe
   - translation_iso: spa
     name: Idioma adabe
   - translation_iso: zho

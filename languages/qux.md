@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤウヨスケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Yauyos
+    auto: true
   - translation_iso: spa
     name: quechua de Yauyos
   - translation_iso: zho

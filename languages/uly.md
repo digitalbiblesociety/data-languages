@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バラワ語
     auto: true
+  - translation_iso: por
+    name: Buli
+    auto: true
   - translation_iso: spa
     name: Buli
     auto: true

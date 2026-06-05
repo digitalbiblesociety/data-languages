@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムラフソー語
     auto: true
+  - translation_iso: por
+    name: Mlahsö
+    auto: true
   - translation_iso: spa
     name: Mlahsö
     auto: true

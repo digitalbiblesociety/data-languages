@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: タンディア語
     auto: true
+  - translation_iso: por
+    name: Tandia
   - translation_iso: spa
     name: Tandia
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カシャラリ語
     auto: true
+  - translation_iso: por
+    name: Língua caxarari
   - translation_iso: spa
     name: Kaxararí
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サルタング語
     auto: true
+  - translation_iso: por
+    name: Sartang
+    auto: true
   - translation_iso: spa
     name: Sartang
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Ngumbarl語
+  - translation_iso: por
+    name: Ngumbarl
+    auto: true
   - translation_iso: spa
     name: Ngumbarl
     auto: true

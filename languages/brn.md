@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボルカ語
     auto: true
+  - translation_iso: por
+    name: Boruca
+    auto: true
   - translation_iso: spa
     name: Idioma boruca
   - translation_iso: zho

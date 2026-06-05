@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ギーオ語
     auto: true
+  - translation_iso: por
+    name: Giiwo
+    auto: true
   - translation_iso: spa
     name: Giiwo
     auto: true

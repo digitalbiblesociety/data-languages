@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: リアブク語
     auto: true
+  - translation_iso: por
+    name: Liabuku
+    auto: true
   - translation_iso: spa
     name: Liabuku
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビッグナンバス語
+  - translation_iso: por
+    name: Nambas Grande
+    auto: true
   - translation_iso: spa
     name: Idioma big nambas
   - translation_iso: zho

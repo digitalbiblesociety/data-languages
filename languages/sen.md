@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナーニ語
     auto: true
+  - translation_iso: por
+    name: Senufo Nanerigé
+    auto: true
   - translation_iso: spa
     name: Senoufo Nanerigé
     auto: true

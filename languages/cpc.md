@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アジェニンカ・アプルカヤリ語
     auto: true
+  - translation_iso: por
+    name: Ajyíninka Apurucayali
+    auto: true
   - translation_iso: spa
     name: axininca
   - translation_iso: zho

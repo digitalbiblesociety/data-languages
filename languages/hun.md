@@ -28,6 +28,8 @@ translations:
     name: ハンガリー語
   - translation_iso: kor
     name: 헝가리어
+  - translation_iso: por
+    name: húngaro
   - translation_iso: spa
     name: húngaro
   - translation_iso: zho

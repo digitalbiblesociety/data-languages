@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: モル語
     auto: true
+  - translation_iso: por
+    name: Língua moru
   - translation_iso: spa
     name: Moru
     auto: true

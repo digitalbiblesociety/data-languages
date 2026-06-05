@@ -28,6 +28,8 @@ translations:
     name: キルギス語
   - translation_iso: kor
     name: 키르기스어
+  - translation_iso: por
+    name: quirguiz
   - translation_iso: spa
     name: kirguís
   - translation_iso: zho

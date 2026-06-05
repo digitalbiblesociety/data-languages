@@ -27,6 +27,8 @@ translations:
     name: तेवा भाषा
   - translation_iso: jpn
     name: テワ語
+  - translation_iso: por
+    name: Língua tewa
   - translation_iso: spa
     name: Tewa
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ティバ語
     auto: true
+  - translation_iso: por
+    name: Língua gaa
   - translation_iso: spa
     name: Gaa
     auto: true

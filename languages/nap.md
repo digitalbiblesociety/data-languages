@@ -28,6 +28,8 @@ translations:
     name: ナポリ語
   - translation_iso: kor
     name: 나폴리어
+  - translation_iso: por
+    name: napolitano
   - translation_iso: spa
     name: napolitano
   - translation_iso: zho

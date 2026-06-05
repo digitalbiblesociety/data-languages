@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: モノ語
     auto: true
+  - translation_iso: por
+    name: Mono (Ilhas Salomão)
+    auto: true
   - translation_iso: spa
     name: lengua mono
   - translation_iso: zho

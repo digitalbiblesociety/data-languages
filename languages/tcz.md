@@ -27,6 +27,9 @@ translations:
     name: थडो भाषा
   - translation_iso: jpn
     name: タドウ語
+  - translation_iso: por
+    name: Chin Thado
+    auto: true
   - translation_iso: spa
     name: Chin Thado
     auto: true

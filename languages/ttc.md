@@ -29,6 +29,8 @@ translations:
     name: テクティテコ語
   - translation_iso: kor
     name: 텍티텍어
+  - translation_iso: por
+    name: Língua tectiteca
   - translation_iso: spa
     name: tektiteko
   - translation_iso: zho

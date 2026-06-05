@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アラバカベエナ語
     auto: true
+  - translation_iso: por
+    name: "Alaba-K'abeena"
+    auto: true
   - translation_iso: spa
     name: "Alaba-K'abeena"
     auto: true

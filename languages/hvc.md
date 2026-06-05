@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハイチ・ヴォードゥー・カルチャー言語
     auto: true
+  - translation_iso: por
+    name: Língua da Cultura Vodu Haitiana
+    auto: true
   - translation_iso: spa
     name: Lengua de la cultura vudú haitiana
     auto: true

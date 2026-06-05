@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンチャム語
     auto: true
+  - translation_iso: por
+    name: Ntcham
+    auto: true
   - translation_iso: spa
     name: Idioma ntcham
   - translation_iso: zho

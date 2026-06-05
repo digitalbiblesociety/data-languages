@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ソー語
     auto: true
+  - translation_iso: por
+    name: Swo
+    auto: true
   - translation_iso: spa
     name: Swo
     auto: true

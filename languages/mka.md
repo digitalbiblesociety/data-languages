@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムブレ語
+  - translation_iso: por
+    name: Mbre
+    auto: true
   - translation_iso: spa
     name: Mbre
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イワム語
     auto: true
+  - translation_iso: por
+    name: Iwam
+    auto: true
   - translation_iso: spa
     name: Iwam
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルムング語
+  - translation_iso: por
+    name: Warumungu
+    auto: true
   - translation_iso: spa
     name: Warumungu
     auto: true

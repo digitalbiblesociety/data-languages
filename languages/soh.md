@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アカ語
     auto: true
+  - translation_iso: por
+    name: Aka
+    auto: true
   - translation_iso: spa
     name: Aka
     auto: true

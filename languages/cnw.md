@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンガウン・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Ngawn
+    auto: true
   - translation_iso: spa
     name: Chin Ngawn
     auto: true

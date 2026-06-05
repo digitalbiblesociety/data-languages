@@ -28,6 +28,8 @@ translations:
     name: シビール語
   - translation_iso: kor
     name: 시베리아 타타르어
+  - translation_iso: por
+    name: Língua tártara da Sibéria
   - translation_iso: spa
     name: tártaro de Siberia
   - translation_iso: zho

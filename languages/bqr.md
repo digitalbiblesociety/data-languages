@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブルスゥ語
     auto: true
+  - translation_iso: por
+    name: Burusu
+    auto: true
   - translation_iso: spa
     name: Burusu
     auto: true

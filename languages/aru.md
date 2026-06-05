@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラワ語
+  - translation_iso: por
+    name: Língua aruá
   - translation_iso: spa
     name: arauá
   - translation_iso: zho

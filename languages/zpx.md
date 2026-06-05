@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サン・バルタザル・ロキチャ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de San Baltazar Loxicha
+    auto: true
   - translation_iso: spa
     name: Zapoteco de San Baltazar Loxicha
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: クーヴィンガ語
   - translation_iso: kor
     name: 쿠비어
+  - translation_iso: por
+    name: Língua jatapu
   - translation_iso: spa
     name: kuvi
   - translation_iso: zho

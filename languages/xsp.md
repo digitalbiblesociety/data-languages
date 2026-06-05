@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シロピ語
     auto: true
+  - translation_iso: por
+    name: Silopi
+    auto: true
   - translation_iso: spa
     name: Silopi
     auto: true

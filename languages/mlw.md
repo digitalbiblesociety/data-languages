@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: モロコ語
     auto: true
+  - translation_iso: por
+    name: Língua moloko
   - translation_iso: spa
     name: Moloko
     auto: true

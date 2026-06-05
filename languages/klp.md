@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カマサ語
     auto: true
+  - translation_iso: por
+    name: Kamasa
+    auto: true
   - translation_iso: spa
     name: Kamasa
     auto: true

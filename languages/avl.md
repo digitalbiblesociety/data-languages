@@ -28,6 +28,8 @@ translations:
     name: アラビア語東部エジプト・ベダウィ方言
   - translation_iso: kor
     name: 베다위 아랍어
+  - translation_iso: por
+    name: Língua árabe do noroeste
   - translation_iso: spa
     name: Árabe bedawi
   - translation_iso: zho

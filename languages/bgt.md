@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブゴトゥ語
+  - translation_iso: por
+    name: Bughotu
+    auto: true
   - translation_iso: spa
     name: Bughotu
   - translation_iso: zho

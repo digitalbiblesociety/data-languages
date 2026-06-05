@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トンセア語
+  - translation_iso: por
+    name: Língua tonsea
   - translation_iso: spa
     name: Tonsea
     auto: true

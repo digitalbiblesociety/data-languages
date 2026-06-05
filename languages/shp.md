@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: シピボ語
     auto: true
+  - translation_iso: por
+    name: Língua shipibo
   - translation_iso: spa
     name: idioma shipibo
   - translation_iso: zho

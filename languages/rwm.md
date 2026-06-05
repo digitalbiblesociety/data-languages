@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アンバ語
+  - translation_iso: por
+    name: Amba (Uganda)
+    auto: true
   - translation_iso: spa
     name: Amba (Uganda)
     auto: true

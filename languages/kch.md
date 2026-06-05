@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ボノ語
     auto: true
+  - translation_iso: por
+    name: Vono
+    auto: true
   - translation_iso: spa
     name: Vono
     auto: true

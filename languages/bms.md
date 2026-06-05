@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビルマ・カヌリ語
+  - translation_iso: por
+    name: Canúri de Bilma
+    auto: true
   - translation_iso: spa
     name: Kanuri de Bilma
     auto: true

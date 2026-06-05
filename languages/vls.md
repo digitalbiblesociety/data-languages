@@ -29,6 +29,9 @@ translations:
     name: 西フラマン語
   - translation_iso: kor
     name: 서플랑드르어
+  - translation_iso: por
+    name: Flamengo Ocidental
+    auto: true
   - translation_iso: spa
     name: flamenco occidental
   - translation_iso: zho

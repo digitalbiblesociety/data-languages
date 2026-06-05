@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ゲライ語
     auto: true
+  - translation_iso: por
+    name: Gerai
+    auto: true
   - translation_iso: spa
     name: Gerai
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アランガン語
     auto: true
+  - translation_iso: por
+    name: Alangan
+    auto: true
   - translation_iso: spa
     name: Alangan
     auto: true

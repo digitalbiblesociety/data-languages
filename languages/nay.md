@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガリンジェリ語
+  - translation_iso: por
+    name: Ngarrindjeri
+    auto: true
   - translation_iso: spa
     name: Idioma ngarinyeri
   - translation_iso: zho

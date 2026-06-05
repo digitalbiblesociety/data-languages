@@ -28,6 +28,9 @@ translations:
     name: ピシディア語
   - translation_iso: kor
     name: 피시디아어
+  - translation_iso: por
+    name: Pisídio
+    auto: true
   - translation_iso: spa
     name: Idioma pisidio
   - translation_iso: zho

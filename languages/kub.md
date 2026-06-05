@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クテプ語
     auto: true
+  - translation_iso: por
+    name: Kutep
+    auto: true
   - translation_iso: spa
     name: Kutep
     auto: true

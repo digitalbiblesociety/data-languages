@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガドスプ語
+  - translation_iso: por
+    name: Gadsup
+    auto: true
   - translation_iso: spa
     name: Gadsup
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シフアスアンカシュケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Sihuas Ancash
+    auto: true
   - translation_iso: spa
     name: "Quechua de Sihuas, Áncash"
     auto: true

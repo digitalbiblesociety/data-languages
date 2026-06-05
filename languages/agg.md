@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンゴル語
     auto: true
+  - translation_iso: por
+    name: Angor
+    auto: true
   - translation_iso: spa
     name: Angor
     auto: true

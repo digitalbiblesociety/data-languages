@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パンポコル語
+  - translation_iso: por
+    name: Pumpokol
+    auto: true
   - translation_iso: spa
     name: Pumpokol
     auto: true

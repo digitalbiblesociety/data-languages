@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナング語
+  - translation_iso: por
+    name: Engdewu
+    auto: true
   - translation_iso: spa
     name: Engdewu
     auto: true

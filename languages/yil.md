@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イーンジラランジ語
     auto: true
+  - translation_iso: por
+    name: yindjilandji
+    auto: true
   - translation_iso: spa
     name: Yindjilandji
     auto: true

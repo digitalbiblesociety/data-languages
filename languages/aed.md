@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルゼンチン手話
+  - translation_iso: por
+    name: língua gestual argentina
   - translation_iso: spa
     name: lengua de señas argentina
   - translation_iso: zho

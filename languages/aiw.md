@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아리어
+  - translation_iso: por
+    name: Língua aari
   - translation_iso: spa
     name: arí
   - translation_iso: zho

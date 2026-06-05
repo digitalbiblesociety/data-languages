@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: パンカラレ語
     auto: true
+  - translation_iso: por
+    name: Pankararé
+    auto: true
   - translation_iso: spa
     name: Pankararé
     auto: true

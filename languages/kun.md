@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クナマ語
+  - translation_iso: por
+    name: Kunama
+    auto: true
   - translation_iso: spa
     name: Kunama
     auto: true

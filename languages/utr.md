@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エトゥロ語
     auto: true
+  - translation_iso: por
+    name: Etulo
+    auto: true
   - translation_iso: spa
     name: Etulo
     auto: true

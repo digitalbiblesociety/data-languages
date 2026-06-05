@@ -27,6 +27,8 @@ translations:
     name: ルイジアナ・クレオール語
   - translation_iso: kor
     name: 루이지애나 크리올
+  - translation_iso: por
+    name: crioulo da Louisiana
   - translation_iso: spa
     name: criollo luisiano
   - translation_iso: zho

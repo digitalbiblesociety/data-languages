@@ -27,6 +27,8 @@ translations:
     name: ग्वार-बती भाषा
   - translation_iso: jpn
     name: ガワール・バティ語
+  - translation_iso: por
+    name: Língua gawar-bati
   - translation_iso: spa
     name: Gawar-Bati
     auto: true

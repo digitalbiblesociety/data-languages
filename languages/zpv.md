@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チチカパン・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Chichicapan
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Chichicapan
     auto: true

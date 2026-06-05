@@ -28,6 +28,8 @@ translations:
     name: エスペラント
   - translation_iso: kor
     name: 에스페란토
+  - translation_iso: por
+    name: esperanto
   - translation_iso: spa
     name: esperanto
   - translation_iso: zho

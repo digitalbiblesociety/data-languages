@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ビルビル語
     auto: true
+  - translation_iso: por
+    name: Bilbil
+    auto: true
   - translation_iso: spa
     name: Bilbil
     auto: true

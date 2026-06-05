@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: 中央ニコバル語
     auto: true
+  - translation_iso: por
+    name: Nicobarês Central
+    auto: true
   - translation_iso: spa
     name: Nicobarés central
     auto: true

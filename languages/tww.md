@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トゥワリ語
     auto: true
+  - translation_iso: por
+    name: Tuwari
+    auto: true
   - translation_iso: spa
     name: Tuwari
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 西高地プレペチャ語
     auto: true
+  - translation_iso: por
+    name: Purepecha das Terras Altas Ocidentais
+    auto: true
   - translation_iso: spa
     name: Idioma purépecha
   - translation_iso: zho

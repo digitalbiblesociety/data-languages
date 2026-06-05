@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワレス語
     auto: true
+  - translation_iso: por
+    name: Wares
+    auto: true
   - translation_iso: spa
     name: Wares
     auto: true

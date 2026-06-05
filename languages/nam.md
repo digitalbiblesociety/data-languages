@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガンギテメリ語
+  - translation_iso: por
+    name: Língua ngangikurrunggurr
   - translation_iso: spa
     name: "Ngan'gityemerri"
     auto: true

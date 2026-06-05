@@ -21,6 +21,8 @@ translations:
     name: カヌリ語
   - translation_iso: kor
     name: 카누리어
+  - translation_iso: por
+    name: Língua kanuri
   - translation_iso: spa
     name: kanuri
   - translation_iso: zho

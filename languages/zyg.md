@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 徳靖チワン語
+  - translation_iso: por
+    name: Língua yang zhuang
   - translation_iso: spa
     name: Zhuang Yang
     auto: true

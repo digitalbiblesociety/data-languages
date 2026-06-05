@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブルネイ・ビサヤ語
     auto: true
+  - translation_iso: por
+    name: Bisaya do Brunei
+    auto: true
   - translation_iso: spa
     name: Bisaya de Brunéi
     auto: true

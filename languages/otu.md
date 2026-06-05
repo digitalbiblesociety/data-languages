@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オトゥケ語
     auto: true
+  - translation_iso: por
+    name: Otuke
+    auto: true
   - translation_iso: spa
     name: Otuke
     auto: true

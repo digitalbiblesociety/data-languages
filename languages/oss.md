@@ -28,6 +28,8 @@ translations:
     name: イロン方言
   - translation_iso: kor
     name: 오세트어
+  - translation_iso: por
+    name: osseto
   - translation_iso: spa
     name: Irón
   - translation_iso: zho

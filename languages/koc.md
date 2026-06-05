@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クパティ語
+  - translation_iso: por
+    name: Kpati
+    auto: true
   - translation_iso: spa
     name: Kpati
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ングアンディエラ語
     auto: true
+  - translation_iso: por
+    name: Ngandyera
+    auto: true
   - translation_iso: spa
     name: Ngandyera
     auto: true

@@ -30,6 +30,8 @@ translations:
     name: アムド・チベット語
   - translation_iso: kor
     name: 암도 티베트어
+  - translation_iso: por
+    name: Tibetano Amdo
   - translation_iso: spa
     name: Tibetano amdo
     auto: true

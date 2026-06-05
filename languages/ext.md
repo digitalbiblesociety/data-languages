@@ -29,6 +29,8 @@ translations:
     name: エストレマドゥーラ語
   - translation_iso: kor
     name: 에스트레마두라어
+  - translation_iso: por
+    name: estremenho
   - translation_iso: spa
     name: extremeño
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワライソルソゴン語
     auto: true
+  - translation_iso: por
+    name: Sorsoganon Meridional
+    auto: true
   - translation_iso: spa
     name: Sorsoganón meridional
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワイガリ語
+  - translation_iso: por
+    name: Waigali
+    auto: true
   - translation_iso: spa
     name: waigali
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: ランギ語
   - translation_iso: kor
     name: 랑기어
+  - translation_iso: por
+    name: langi
   - translation_iso: spa
     name: langi
   - translation_iso: zho

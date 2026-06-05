@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ズンブン語
+  - translation_iso: por
+    name: Zumbun
+    auto: true
   - translation_iso: spa
     name: zumbún
   - translation_iso: zho

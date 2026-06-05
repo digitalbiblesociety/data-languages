@@ -28,6 +28,8 @@ translations:
     name: シルハ語
   - translation_iso: kor
     name: 실하어
+  - translation_iso: por
+    name: Tachelhit
   - translation_iso: spa
     name: chilha
   - translation_iso: zho

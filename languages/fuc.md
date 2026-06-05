@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プラール語
+  - translation_iso: por
+    name: Língua pulaar
   - translation_iso: spa
     name: Pulaar
     auto: true

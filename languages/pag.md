@@ -28,6 +28,8 @@ translations:
     name: パンガシナン語
   - translation_iso: kor
     name: 팡가시난어
+  - translation_iso: por
+    name: língua pangasinesa
   - translation_iso: spa
     name: pangasinense
   - translation_iso: zho

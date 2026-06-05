@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミズリメ語
     auto: true
+  - translation_iso: por
+    name: Wuzlam
+    auto: true
   - translation_iso: spa
     name: Wuzlam
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サカトラン・アワカトラン・テペツィントラ・ナワトル語
     auto: true
+  - translation_iso: por
+    name: Nahuatl de Zacatlán-Ahuacatlán-Tepetzintla
+    auto: true
   - translation_iso: spa
     name: Náhuatl de Zacatlán-Ahuacatlán-Tepetzintla
     auto: true

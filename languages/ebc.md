@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ベギンジ語
     auto: true
+  - translation_iso: por
+    name: Beginci
+    auto: true
   - translation_iso: spa
     name: Beginci
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ダルフール・ダジュ語
     auto: true
+  - translation_iso: por
+    name: Daju de Dar Fur
+    auto: true
   - translation_iso: spa
     name: Daju de Dar Fur
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セパ語
+  - translation_iso: por
+    name: Sepa (Indonésia)
+    auto: true
   - translation_iso: spa
     name: Sepa
     auto: true

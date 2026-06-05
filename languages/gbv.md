@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ガバヌ語
     auto: true
+  - translation_iso: por
+    name: Gbanu
+    auto: true
   - translation_iso: spa
     name: Gbanu
     auto: true

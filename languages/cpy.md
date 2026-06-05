@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サウス・ウカヤリ・アシェニンカ語
     auto: true
+  - translation_iso: por
+    name: Ashéninka do Ucayali do Sul
+    auto: true
   - translation_iso: spa
     name: Ashéninka del Sur del Ucayali
     auto: true

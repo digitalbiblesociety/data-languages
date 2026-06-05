@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トフィン・ゲベ語
     auto: true
+  - translation_iso: por
+    name: Tofin Gbe
+    auto: true
   - translation_iso: spa
     name: Tofin Gbe
     auto: true

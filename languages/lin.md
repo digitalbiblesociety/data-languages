@@ -28,6 +28,8 @@ translations:
     name: リンガラ語
   - translation_iso: kor
     name: 링갈라어
+  - translation_iso: por
+    name: Língua lingala
   - translation_iso: spa
     name: lingala
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャバ語
+  - translation_iso: por
+    name: zhaba
+    auto: true
   - translation_iso: spa
     name: idioma zhaba
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: バリジ語
     auto: true
+  - translation_iso: por
+    name: Bariji
+    auto: true
   - translation_iso: spa
     name: Bariji
     auto: true

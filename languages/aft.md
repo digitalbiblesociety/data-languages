@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アフィティ語
     auto: true
+  - translation_iso: por
+    name: Afitti
+    auto: true
   - translation_iso: spa
     name: afitti
   - translation_iso: zho

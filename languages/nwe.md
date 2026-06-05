@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングウェ語
+  - translation_iso: por
+    name: Ngwe
+    auto: true
   - translation_iso: spa
     name: Ngwe
     auto: true

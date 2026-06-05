@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プラー語
+  - translation_iso: por
+    name: pular
+    auto: true
   - translation_iso: spa
     name: Pular
     auto: true

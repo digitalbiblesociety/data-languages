@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アンゴストゥラス・トゥネボ語
     auto: true
+  - translation_iso: por
+    name: Tunebo de Angosturas
+    auto: true
   - translation_iso: spa
     name: Tunebo de Angosturas
     auto: true

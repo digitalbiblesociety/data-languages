@@ -28,6 +28,8 @@ translations:
     name: キチェ語
   - translation_iso: kor
     name: 키체어
+  - translation_iso: por
+    name: Língua quiché
   - translation_iso: spa
     name: Idioma quiché
   - translation_iso: zho

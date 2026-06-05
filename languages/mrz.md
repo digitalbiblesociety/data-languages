@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マリンド語
     auto: true
+  - translation_iso: por
+    name: Marind
+    auto: true
   - translation_iso: spa
     name: Marind
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アラナマ・タミーク語
     auto: true
+  - translation_iso: por
+    name: Aranama-Tamique
+    auto: true
   - translation_iso: spa
     name: idioma aranama-tamique
   - translation_iso: zho

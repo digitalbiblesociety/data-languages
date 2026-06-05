@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ソタ・カヌム語
     auto: true
+  - translation_iso: por
+    name: Kanum de Sota
+    auto: true
   - translation_iso: spa
     name: Kanum Sota
     auto: true

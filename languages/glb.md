@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ベルニング語
     auto: true
+  - translation_iso: por
+    name: Belning
+    auto: true
   - translation_iso: spa
     name: Belnəng
   - translation_iso: zho

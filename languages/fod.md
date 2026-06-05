@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: フード語
     auto: true
+  - translation_iso: por
+    name: Língua foodo
   - translation_iso: spa
     name: Foodo
     auto: true

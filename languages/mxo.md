@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムボウェ語
     auto: true
+  - translation_iso: por
+    name: Mbowe
+    auto: true
   - translation_iso: spa
     name: mbowe
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: キャガナ語
     auto: true
+  - translation_iso: por
+    name: Keyagana
+    auto: true
   - translation_iso: spa
     name: Keyagana
     auto: true

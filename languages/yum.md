@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケチャン語
+  - translation_iso: por
+    name: Língua quechan
   - translation_iso: spa
     name: Quechan
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤングム・モン語
     auto: true
+  - translation_iso: por
+    name: yangum mon
+    auto: true
   - translation_iso: spa
     name: Yangum Mon
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タクワネ語
     auto: true
+  - translation_iso: por
+    name: Takwane
+    auto: true
   - translation_iso: spa
     name: Takwane
     auto: true

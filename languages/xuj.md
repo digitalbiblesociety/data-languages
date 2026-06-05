@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジェンヌ・クルンバ語
     auto: true
+  - translation_iso: por
+    name: jennu kurumba
+    auto: true
   - translation_iso: spa
     name: Jennu Kurumba
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チリ手話
+  - translation_iso: por
+    name: Língua Gestual Chilena
   - translation_iso: spa
     name: lengua de señas chilena
   - translation_iso: zho

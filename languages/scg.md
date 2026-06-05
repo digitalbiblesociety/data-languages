@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: バハササンガウ語
     auto: true
+  - translation_iso: por
+    name: Sanggau
+    auto: true
   - translation_iso: spa
     name: Sanggau
     auto: true

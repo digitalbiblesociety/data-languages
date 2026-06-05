@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: セントゥハン・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Senthang
+    auto: true
   - translation_iso: spa
     name: Chin Senthang
     auto: true

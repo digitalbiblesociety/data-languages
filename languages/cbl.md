@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブアルカウ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Bualkhaw
+    auto: true
   - translation_iso: spa
     name: Chin Bualkhaw
     auto: true

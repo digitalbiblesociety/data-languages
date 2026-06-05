@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤレバ語
     auto: true
+  - translation_iso: por
+    name: yareba
+    auto: true
   - translation_iso: spa
     name: yareba
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北タイロラ語
     auto: true
+  - translation_iso: por
+    name: Tairora do Norte
+    auto: true
   - translation_iso: spa
     name: Tairora del Norte
     auto: true

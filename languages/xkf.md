@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケン語
+  - translation_iso: por
+    name: Khengkha
+    auto: true
   - translation_iso: spa
     name: Khengkha
     auto: true

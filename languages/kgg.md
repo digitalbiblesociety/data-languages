@@ -25,6 +25,8 @@ translations:
     name: クスンダ語
   - translation_iso: kor
     name: 쿠순다어
+  - translation_iso: por
+    name: Língua kusunda
   - translation_iso: spa
     name: Kusunda
   - translation_iso: zho

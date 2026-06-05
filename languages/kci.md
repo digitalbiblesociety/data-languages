@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カマンタン語
     auto: true
+  - translation_iso: por
+    name: Kamantan
+    auto: true
   - translation_iso: spa
     name: Kamantan
     auto: true

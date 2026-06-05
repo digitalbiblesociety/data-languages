@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: クンジェン語
     auto: true
+  - translation_iso: por
+    name: Língua kunjen
   - translation_iso: spa
     name: idioma kunjen
   - translation_iso: zho

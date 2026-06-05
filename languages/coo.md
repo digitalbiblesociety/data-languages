@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コモックス語
+  - translation_iso: por
+    name: Língua comox
   - translation_iso: spa
     name: Comox
     auto: true

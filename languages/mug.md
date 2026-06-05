@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムスグ語
+  - translation_iso: por
+    name: Musgu
+    auto: true
   - translation_iso: spa
     name: Musgu
     auto: true

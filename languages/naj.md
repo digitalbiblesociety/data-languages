@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ナル語
     auto: true
+  - translation_iso: por
+    name: Nalu
+    auto: true
   - translation_iso: spa
     name: Nalu
     auto: true

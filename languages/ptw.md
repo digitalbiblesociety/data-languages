@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペントラッチ語
+  - translation_iso: por
+    name: Pentlatch
+    auto: true
   - translation_iso: spa
     name: Pentlatch
     auto: true

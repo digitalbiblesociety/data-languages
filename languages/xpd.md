@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: オイスターベイ・タスマニア語
     auto: true
+  - translation_iso: por
+    name: Tasmaniano de Oyster Bay
+    auto: true
   - translation_iso: spa
     name: Tasmanio de la bahía de las Ostras
     auto: true

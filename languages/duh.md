@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ドゥングラ・ビル語
     auto: true
+  - translation_iso: por
+    name: Bhil Dungra
+    auto: true
   - translation_iso: spa
     name: Dungra Bhil
     auto: true

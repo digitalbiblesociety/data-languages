@@ -26,6 +26,8 @@ translations:
     name: पेनांग सांकेतिक भाषा
   - translation_iso: jpn
     name: ペナン手話
+  - translation_iso: por
+    name: Língua de sinais de Penang
   - translation_iso: spa
     name: Lengua de señas de Penang
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サザン・シサーラ語
     auto: true
+  - translation_iso: por
+    name: Paasaal
+    auto: true
   - translation_iso: spa
     name: paasaal
   - translation_iso: zho

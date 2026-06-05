@@ -29,6 +29,8 @@ translations:
     name: ネズ・パース語
   - translation_iso: kor
     name: 네즈퍼스어
+  - translation_iso: por
+    name: Língua nez perce
   - translation_iso: spa
     name: Nez Perce
   - translation_iso: zho

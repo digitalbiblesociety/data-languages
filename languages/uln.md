@@ -29,6 +29,8 @@ translations:
     name: ドイツ語系クレオール語
   - translation_iso: kor
     name: 운저도이치
+  - translation_iso: por
+    name: Unserdeutsch
   - translation_iso: spa
     name: unserdeutsch
   - translation_iso: zho

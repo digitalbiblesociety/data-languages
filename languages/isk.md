@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イシュカシム語
+  - translation_iso: por
+    name: Língua ishkashimi
   - translation_iso: spa
     name: Idioma ishkashimi
   - translation_iso: zho

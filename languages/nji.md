@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グダンジ語
     auto: true
+  - translation_iso: por
+    name: Gudanji
+    auto: true
   - translation_iso: spa
     name: Gudanji
     auto: true

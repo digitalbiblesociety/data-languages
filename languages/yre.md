@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤオウレ語
     auto: true
+  - translation_iso: por
+    name: yaouré
+    auto: true
   - translation_iso: spa
     name: Yaouré
     auto: true

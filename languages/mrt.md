@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マルギ語
+  - translation_iso: por
+    name: marghi central
+    auto: true
   - translation_iso: spa
     name: Marghi Central
     auto: true

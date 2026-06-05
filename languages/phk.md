@@ -27,6 +27,8 @@ translations:
     name: ताई फेके भाषा
   - translation_iso: jpn
     name: タイ・パケ語
+  - translation_iso: por
+    name: Língua tai phake
   - translation_iso: spa
     name: Phake
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: マルトゥ・ワンカ語
     auto: true
+  - translation_iso: por
+    name: martu wangka
   - translation_iso: spa
     name: martu wangka
   - translation_iso: zho

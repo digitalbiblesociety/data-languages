@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムベ語
     auto: true
+  - translation_iso: por
+    name: Mbe
+    auto: true
   - translation_iso: spa
     name: Mbe
     auto: true

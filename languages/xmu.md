@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カム語
     auto: true
+  - translation_iso: por
+    name: Kamu
+    auto: true
   - translation_iso: spa
     name: Kamu
     auto: true

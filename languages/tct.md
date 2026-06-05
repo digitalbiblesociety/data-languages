@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テン語
     auto: true
+  - translation_iso: por
+    name: "T'en"
+    auto: true
   - translation_iso: spa
     name: "T'en"
     auto: true

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベルティ語
+  - translation_iso: por
+    name: Berti
+    auto: true
   - translation_iso: spa
     name: Berti
   - translation_iso: zho

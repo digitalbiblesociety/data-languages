@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カヤガル語
     auto: true
+  - translation_iso: por
+    name: Kayagar
+    auto: true
   - translation_iso: spa
     name: Kayagar
     auto: true

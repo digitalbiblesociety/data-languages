@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ガルサ語
     auto: true
+  - translation_iso: por
+    name: Garza
+    auto: true
   - translation_iso: spa
     name: idioma garza
   - translation_iso: zho

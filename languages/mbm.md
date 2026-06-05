@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンバンバ語
+  - translation_iso: por
+    name: Ombamba
+    auto: true
   - translation_iso: spa
     name: mbama
   - translation_iso: zho

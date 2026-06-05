@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ングオンベ語
     auto: true
+  - translation_iso: por
+    name: Ngombe (República Centro-Africana)
+    auto: true
   - translation_iso: spa
     name: Ngombe
     auto: true

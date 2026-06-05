@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワロン手話
+  - translation_iso: por
+    name: Língua de Sinais da Bélgica Francófona
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas de Bélgica Francófona
     auto: true

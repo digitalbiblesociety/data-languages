@@ -26,6 +26,9 @@ translations:
     name: झांग-झुंग भाषा
   - translation_iso: jpn
     name: シャンシュン語
+  - translation_iso: por
+    name: zhang-zhung
+    auto: true
   - translation_iso: spa
     name: Idioma zhangzhung
   - translation_iso: zho

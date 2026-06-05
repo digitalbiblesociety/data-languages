@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スワヒリ語
+  - translation_iso: por
+    name: Suaíli (Costeiro)
+    auto: true
   - translation_iso: spa
     name: Kiswahili
   - translation_iso: zho

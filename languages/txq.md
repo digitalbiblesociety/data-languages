@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 西ロテ語
     auto: true
+  - translation_iso: por
+    name: Tii
+    auto: true
   - translation_iso: spa
     name: Tii
     auto: true

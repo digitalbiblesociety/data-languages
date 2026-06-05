@@ -28,6 +28,8 @@ translations:
     name: サング語
   - translation_iso: kor
     name: 상구어
+  - translation_iso: por
+    name: sangu
   - translation_iso: spa
     name: sangu
   - translation_iso: zho

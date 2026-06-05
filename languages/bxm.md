@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モンゴルブリヤート語
+  - translation_iso: por
+    name: Buriato da Mongólia
+    auto: true
   - translation_iso: spa
     name: Buriato de Mongolia
     auto: true

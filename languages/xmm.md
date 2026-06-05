@@ -30,6 +30,8 @@ translations:
     name: マナド語
   - translation_iso: kor
     name: 마나도 말레이어
+  - translation_iso: por
+    name: Malaio Manado
   - translation_iso: spa
     name: Idioma malayo minahasa
   - translation_iso: zho

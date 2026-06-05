@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イラ語
+  - translation_iso: por
+    name: Ila
+    auto: true
   - translation_iso: spa
     name: Ila
     auto: true

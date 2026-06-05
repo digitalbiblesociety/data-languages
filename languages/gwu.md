@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: グワム語
     auto: true
+  - translation_iso: por
+    name: Guwamu
+    auto: true
   - translation_iso: spa
     name: Guwamu
     auto: true

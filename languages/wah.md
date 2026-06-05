@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ワトゥベラ語
     auto: true
+  - translation_iso: por
+    name: Watubela
+    auto: true
   - translation_iso: spa
     name: Watubela
     auto: true

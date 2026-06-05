@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビナ語
     auto: true
+  - translation_iso: por
+    name: Bina
+    auto: true
   - translation_iso: spa
     name: bina
   - translation_iso: zho

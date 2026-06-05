@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソッド語
+  - translation_iso: por
+    name: Kistane
+    auto: true
   - translation_iso: spa
     name: soddo
   - translation_iso: zho

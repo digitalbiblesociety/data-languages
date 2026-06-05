@@ -30,6 +30,9 @@ translations:
     name: アカコラ語
   - translation_iso: kor
     name: 아카코라 방언
+  - translation_iso: por
+    name: Aka-Kora
+    auto: true
   - translation_iso: spa
     name: Idioma kora
   - translation_iso: zho

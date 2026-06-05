@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンデゲレビンハ語
     auto: true
+  - translation_iso: por
+    name: Andegerebinha
+    auto: true
   - translation_iso: spa
     name: Andegerebinha
     auto: true

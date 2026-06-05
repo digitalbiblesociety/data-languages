@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モルボッグ語
+  - translation_iso: por
+    name: Língua molbog
   - translation_iso: spa
     name: idioma molbog
   - translation_iso: zho

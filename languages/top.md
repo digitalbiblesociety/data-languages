@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: パパントラ・トトナック語
     auto: true
+  - translation_iso: por
+    name: Língua papantla totonac
   - translation_iso: spa
     name: totonaco de Papantla
   - translation_iso: zho

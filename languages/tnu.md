@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・カン語
+  - translation_iso: por
+    name: Tay Khang
+    auto: true
   - translation_iso: spa
     name: Tay Khang
     auto: true

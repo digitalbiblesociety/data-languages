@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドミニカ共和国手話
+  - translation_iso: por
+    name: Língua de Sinais Dominicana
+    auto: true
   - translation_iso: spa
     name: lengua de señas dominicano
   - translation_iso: zho

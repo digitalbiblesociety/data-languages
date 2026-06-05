@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ギェレ語
     auto: true
+  - translation_iso: por
+    name: Gyele
+    auto: true
   - translation_iso: spa
     name: gyele
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンダム語
+  - translation_iso: por
+    name: Língua ndam
   - translation_iso: spa
     name: Ndam
     auto: true

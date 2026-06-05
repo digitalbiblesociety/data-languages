@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: シェンピレ語
     auto: true
+  - translation_iso: por
+    name: Senufo Shempire
+    auto: true
   - translation_iso: spa
     name: Senoufo Shempire
     auto: true

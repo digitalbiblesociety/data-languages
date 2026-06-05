@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カンジャリ語
     auto: true
+  - translation_iso: por
+    name: Kanjari
+    auto: true
   - translation_iso: spa
     name: Kanjari
     auto: true

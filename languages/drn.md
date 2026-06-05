@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: 西ダマル語
     auto: true
+  - translation_iso: por
+    name: Damar Ocidental
+    auto: true
   - translation_iso: spa
     name: Damar Occidental
     auto: true

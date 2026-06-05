@@ -28,6 +28,8 @@ translations:
     name: 西フリジア語
   - translation_iso: kor
     name: 서프리슬란트어
+  - translation_iso: por
+    name: frísio ocidental
   - translation_iso: spa
     name: frisón occidental
   - translation_iso: zho

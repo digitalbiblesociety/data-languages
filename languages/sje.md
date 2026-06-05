@@ -29,6 +29,8 @@ translations:
     name: ピーテ・サーミ語
   - translation_iso: kor
     name: 피테 사미어
+  - translation_iso: por
+    name: língua sami de Pite
   - translation_iso: spa
     name: sami de Pite
   - translation_iso: zho

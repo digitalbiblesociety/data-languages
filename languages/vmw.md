@@ -28,6 +28,8 @@ translations:
     name: マクア語
   - translation_iso: kor
     name: 마쿠아어
+  - translation_iso: por
+    name: Língua macua
   - translation_iso: spa
     name: Lenguaje Makhuwa
   - translation_iso: zho

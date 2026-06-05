@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クウヤ語
     auto: true
+  - translation_iso: por
+    name: Kouya
+    auto: true
   - translation_iso: spa
     name: Kouya
     auto: true

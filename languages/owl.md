@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ウェールズ語
+  - translation_iso: por
+    name: galês antigo
   - translation_iso: spa
     name: galés antiguo
   - translation_iso: zho

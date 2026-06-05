@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イゾン語
+  - translation_iso: por
+    name: Izon
+    auto: true
   - translation_iso: spa
     name: Izon
     auto: true

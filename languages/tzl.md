@@ -26,6 +26,9 @@ translations:
     name: タロッサ語
   - translation_iso: kor
     name: 탈로사어
+  - translation_iso: por
+    name: Talossan
+    auto: true
   - translation_iso: spa
     name: Idioma talosano
   - translation_iso: zho

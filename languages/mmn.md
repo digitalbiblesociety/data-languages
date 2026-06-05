@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ママンワ語
     auto: true
+  - translation_iso: por
+    name: Língua mamanwa
   - translation_iso: spa
     name: idioma mamanoá
   - translation_iso: zho

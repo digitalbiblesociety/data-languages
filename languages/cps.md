@@ -30,6 +30,8 @@ translations:
     name: カピス語
   - translation_iso: kor
     name: 카피스논어
+  - translation_iso: por
+    name: Língua capiznon
   - translation_iso: spa
     name: idioma capizano
   - translation_iso: zho

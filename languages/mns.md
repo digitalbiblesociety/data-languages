@@ -29,6 +29,8 @@ translations:
     name: マンシ語
   - translation_iso: kor
     name: 만시어
+  - translation_iso: por
+    name: mansi
   - translation_iso: spa
     name: mansi
   - translation_iso: zho

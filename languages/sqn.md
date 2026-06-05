@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: コネストガ語
     auto: true
+  - translation_iso: por
+    name: Susquehannock
+    auto: true
   - translation_iso: spa
     name: Susquehannock
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ドゥウェット語
     auto: true
+  - translation_iso: por
+    name: Duwet
+    auto: true
   - translation_iso: spa
     name: Duwet
     auto: true

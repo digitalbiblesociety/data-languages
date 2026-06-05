@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: カインベ語
     auto: true
+  - translation_iso: por
+    name: Língua kaimbé
   - translation_iso: spa
     name: Kaimbé
     auto: true

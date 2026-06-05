@@ -12,7 +12,7 @@ translations:
     name: أوتشيتشي
     auto: true
   - translation_iso: deu
-    name: "O'chi'chi'"
+    name: "O'chi'chi"
     auto: true
   - translation_iso: fra
     name: "O'chi'chi"
@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オチチ語
+    auto: true
+  - translation_iso: por
+    name: "O'chi'chi'"
     auto: true
   - translation_iso: spa
     name: "O'chi'chi"

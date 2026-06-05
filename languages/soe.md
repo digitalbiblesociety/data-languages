@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ソンゴメーノ語
     auto: true
+  - translation_iso: por
+    name: Songomeno
+    auto: true
   - translation_iso: spa
     name: Songomeno
     auto: true

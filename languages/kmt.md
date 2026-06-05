@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ケムトゥイク語
     auto: true
+  - translation_iso: por
+    name: Kemtuik
+    auto: true
   - translation_iso: spa
     name: Kemtuik
     auto: true

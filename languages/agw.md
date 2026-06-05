@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カフア語
     auto: true
+  - translation_iso: por
+    name: Língua kahua
   - translation_iso: spa
     name: Kahua
     auto: true

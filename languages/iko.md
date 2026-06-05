@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オルルモ・イコム語
     auto: true
+  - translation_iso: por
+    name: Olulumo-Ikom
+    auto: true
   - translation_iso: spa
     name: lengua Ikom
   - translation_iso: zho

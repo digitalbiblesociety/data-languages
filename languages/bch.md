@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バリアイ語
+  - translation_iso: por
+    name: Bariai
+    auto: true
   - translation_iso: spa
     name: Bariai
   - translation_iso: zho

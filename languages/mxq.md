@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: フキラ・ミクセ語
     auto: true
+  - translation_iso: por
+    name: Mixe de Juquila
+    auto: true
   - translation_iso: spa
     name: Mixe de Juquila
     auto: true

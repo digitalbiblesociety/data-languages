@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユトランド方言
+  - translation_iso: por
+    name: jutlandês
+    auto: true
   - translation_iso: spa
     name: Juto
   - translation_iso: zho

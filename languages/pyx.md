@@ -28,6 +28,8 @@ translations:
     name: ピュー語
   - translation_iso: kor
     name: 쀼어
+  - translation_iso: por
+    name: Língua pyu
   - translation_iso: spa
     name: Idioma pyu
   - translation_iso: zho

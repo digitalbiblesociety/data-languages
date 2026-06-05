@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: スルイ・ド・パラ語
     auto: true
+  - translation_iso: por
+    name: Língua suruí-aiqueuara
   - translation_iso: spa
     name: Suruí del Pará
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ムスリム・タート語
   - translation_iso: kor
     name: 타트어
+  - translation_iso: por
+    name: Língua tat
   - translation_iso: spa
     name: Idioma tati
   - translation_iso: zho

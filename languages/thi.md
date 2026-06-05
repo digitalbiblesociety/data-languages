@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タイ・ロン語
     auto: true
+  - translation_iso: por
+    name: Tai Long
+    auto: true
   - translation_iso: spa
     name: Tai Long
     auto: true

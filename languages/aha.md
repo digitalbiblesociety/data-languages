@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: アハンタ語
     auto: true
+  - translation_iso: por
+    name: Língua ahanta
   - translation_iso: spa
     name: Ahanta
     auto: true

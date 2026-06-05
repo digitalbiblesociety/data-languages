@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イェロング語
     auto: true
+  - translation_iso: por
+    name: yerong
+    auto: true
   - translation_iso: spa
     name: Yerong
     auto: true

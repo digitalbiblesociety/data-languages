@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クラマ語
     auto: true
+  - translation_iso: por
+    name: Kurama
+    auto: true
   - translation_iso: spa
     name: Kurama
     auto: true

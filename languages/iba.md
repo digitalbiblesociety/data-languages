@@ -28,6 +28,8 @@ translations:
     name: イバン語
   - translation_iso: kor
     name: 이반어
+  - translation_iso: por
+    name: Língua iban
   - translation_iso: spa
     name: Idioma iban
   - translation_iso: zho

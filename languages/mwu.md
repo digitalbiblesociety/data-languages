@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミッツ語
     auto: true
+  - translation_iso: por
+    name: Mittu
+    auto: true
   - translation_iso: spa
     name: Mittu
     auto: true

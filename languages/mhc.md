@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モチョ語
+  - translation_iso: por
+    name: Língua mochó
   - translation_iso: spa
     name: mochó
   - translation_iso: zho

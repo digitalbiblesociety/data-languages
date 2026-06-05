@@ -28,6 +28,8 @@ translations:
     name: テソ語
   - translation_iso: kor
     name: 테조어
+  - translation_iso: por
+    name: Língua ateso
   - translation_iso: spa
     name: ateso
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
     name: ガルワーリー語
   - translation_iso: kor
     name: 가르왈어
+  - translation_iso: por
+    name: Língua garhwali
   - translation_iso: spa
     name: Garhwali
     auto: true

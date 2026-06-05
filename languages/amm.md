@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アマ語
+  - translation_iso: por
+    name: Ama (Papua-Nova Guiné)
+    auto: true
   - translation_iso: spa
     name: Ama (Papúa Nueva Guinea)
     auto: true

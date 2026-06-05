@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サムレ語
     auto: true
+  - translation_iso: por
+    name: Samre
+    auto: true
   - translation_iso: spa
     name: samrè
   - translation_iso: zho

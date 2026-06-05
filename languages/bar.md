@@ -28,6 +28,8 @@ translations:
     name: バイエルン・オーストリア語
   - translation_iso: kor
     name: 오스트로바이에른어
+  - translation_iso: por
+    name: bávaro
   - translation_iso: spa
     name: bávaro
   - translation_iso: zho

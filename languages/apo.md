@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンブル語
     auto: true
+  - translation_iso: por
+    name: Ambul
+    auto: true
   - translation_iso: spa
     name: Ambul
     auto: true

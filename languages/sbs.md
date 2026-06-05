@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: スビヤ語
     auto: true
+  - translation_iso: por
+    name: Subiya
+    auto: true
   - translation_iso: spa
     name: Subiya
     auto: true

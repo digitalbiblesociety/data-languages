@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トゥーラ語
     auto: true
+  - translation_iso: por
+    name: Toura (Papua-Nova Guiné)
+    auto: true
   - translation_iso: spa
     name: toura
   - translation_iso: zho

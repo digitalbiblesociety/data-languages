@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グワンダラ語
     auto: true
+  - translation_iso: por
+    name: Gwandara
+    auto: true
   - translation_iso: spa
     name: Gwandara
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カニングドン・ニンデム語
     auto: true
+  - translation_iso: por
+    name: Kaningdon-Nindem
+    auto: true
   - translation_iso: spa
     name: Kaningdon-Nindem
     auto: true

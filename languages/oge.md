@@ -29,6 +29,8 @@ translations:
     name: 古ジョージア語
   - translation_iso: kor
     name: 고대 조지아어
+  - translation_iso: por
+    name: Língua georgiana antiga
   - translation_iso: spa
     name: georgiano antiguo
   - translation_iso: zho

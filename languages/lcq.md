@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ルフ語
     auto: true
+  - translation_iso: por
+    name: Luhu
   - translation_iso: spa
     name: Luhu
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンギジム語
+  - translation_iso: por
+    name: Língua ngizim
   - translation_iso: spa
     name: Ngizim
     auto: true

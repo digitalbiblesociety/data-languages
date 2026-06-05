@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カレカレ語
     auto: true
+  - translation_iso: por
+    name: Karekare
+    auto: true
   - translation_iso: spa
     name: Karekare
     auto: true

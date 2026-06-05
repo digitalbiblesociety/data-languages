@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イキン・アオホ語
     auto: true
+  - translation_iso: por
+    name: Ikhin-Aokho
+    auto: true
   - translation_iso: spa
     name: Ikhin-Aokho
     auto: true

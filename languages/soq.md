@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ソナ語
     auto: true
+  - translation_iso: por
+    name: Língua kanasi
   - translation_iso: spa
     name: Kanasi
     auto: true

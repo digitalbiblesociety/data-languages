@@ -26,6 +26,8 @@ translations:
     name: 南部ハイダ語
   - translation_iso: kor
     name: 남부 하이다어
+  - translation_iso: por
+    name: haida do sul
   - translation_iso: spa
     name: haida meridional
   - translation_iso: zho

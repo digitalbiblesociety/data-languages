@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アヤウトラ・マサテク語
     auto: true
+  - translation_iso: por
+    name: Mazateco de Ayautla
+    auto: true
   - translation_iso: spa
     name: Mazateco de Ayautla
     auto: true

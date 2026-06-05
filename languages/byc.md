@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウバガラ語
     auto: true
+  - translation_iso: por
+    name: Ubaghara
+    auto: true
   - translation_iso: spa
     name: Ubaghara
     auto: true

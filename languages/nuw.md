@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングルワン語
+  - translation_iso: por
+    name: Nguluwan
+    auto: true
   - translation_iso: spa
     name: Nguluwan
     auto: true

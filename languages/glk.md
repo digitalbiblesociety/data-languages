@@ -29,6 +29,8 @@ translations:
     name: ギラキ語
   - translation_iso: kor
     name: 길란어
+  - translation_iso: por
+    name: Língua gilaki
   - translation_iso: spa
     name: gileki
   - translation_iso: zho

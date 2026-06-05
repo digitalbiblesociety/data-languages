@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ムルギ語
     auto: true
+  - translation_iso: por
+    name: Mulgi
+    auto: true
   - translation_iso: spa
     name: Mulgi
     auto: true

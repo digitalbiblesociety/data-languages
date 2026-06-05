@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チュングンジ語
     auto: true
+  - translation_iso: por
+    name: Tjungundji
+    auto: true
   - translation_iso: spa
     name: Tjungundji
     auto: true

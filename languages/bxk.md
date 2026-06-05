@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブクス語
+  - translation_iso: por
+    name: Língua bukusu
   - translation_iso: spa
     name: bukusu
   - translation_iso: zho

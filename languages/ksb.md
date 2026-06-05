@@ -28,6 +28,8 @@ translations:
     name: サンバー語
   - translation_iso: kor
     name: 샴발라어
+  - translation_iso: por
+    name: shambala
   - translation_iso: spa
     name: shambala
   - translation_iso: zho

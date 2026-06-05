@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グイチョン語
+  - translation_iso: por
+    name: Guiqiong
+    auto: true
   - translation_iso: spa
     name: Guiqiong
     auto: true

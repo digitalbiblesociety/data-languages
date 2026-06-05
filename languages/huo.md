@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フー語
     auto: true
+  - translation_iso: por
+    name: Hu
+    auto: true
   - translation_iso: spa
     name: Hu
     auto: true

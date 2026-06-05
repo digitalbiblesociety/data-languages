@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イスィラワ語
+  - translation_iso: por
+    name: Isirawa
+    auto: true
   - translation_iso: spa
     name: Idioma isirawa
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南マルキーズ語
+  - translation_iso: por
+    name: marquesano do sul
+    auto: true
   - translation_iso: spa
     name: Marquesano del Sur
     auto: true

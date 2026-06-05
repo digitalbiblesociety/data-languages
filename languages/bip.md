@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビラ語
+  - translation_iso: por
+    name: Bila
+    auto: true
   - translation_iso: spa
     name: Bila
     auto: true

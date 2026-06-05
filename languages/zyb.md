@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 邕北チワン語
+  - translation_iso: por
+    name: zhuang de Yongbei
+    auto: true
   - translation_iso: spa
     name: Zhuang yongbei
   - translation_iso: zho

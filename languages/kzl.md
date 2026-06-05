@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: カヤリ語
     auto: true
+  - translation_iso: por
+    name: Kayeli
   - translation_iso: spa
     name: Kayeli
   - translation_iso: zho

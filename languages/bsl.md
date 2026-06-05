@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バサ・グムナ語
+  - translation_iso: por
+    name: Basa-Gumna
+    auto: true
   - translation_iso: spa
     name: Basa-Gumna
     auto: true

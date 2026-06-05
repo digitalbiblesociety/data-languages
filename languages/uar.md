@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイルマ語
+  - translation_iso: por
+    name: Língua tairuma
   - translation_iso: spa
     name: Tairuma
     auto: true

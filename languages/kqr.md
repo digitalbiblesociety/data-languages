@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キマラガン語
     auto: true
+  - translation_iso: por
+    name: Kimaragang
+    auto: true
   - translation_iso: spa
     name: Kimaragang
     auto: true

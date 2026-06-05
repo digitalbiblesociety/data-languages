@@ -28,6 +28,8 @@ translations:
     name: ファン語
   - translation_iso: kor
     name: 팡그어
+  - translation_iso: por
+    name: Língua fang
   - translation_iso: spa
     name: fang
   - translation_iso: zho

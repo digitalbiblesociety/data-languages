@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ネレムワ・ニクスムワク語
     auto: true
+  - translation_iso: por
+    name: Nêlêmwa-Nixumwak
+    auto: true
   - translation_iso: spa
     name: Nêlêmwa-Nixumwak
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムブクシュ語
+  - translation_iso: por
+    name: Língua mbukushu
   - translation_iso: spa
     name: Mbukushu
   - translation_iso: zho

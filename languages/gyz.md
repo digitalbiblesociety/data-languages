@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ギャージ語
     auto: true
+  - translation_iso: por
+    name: Gyaazi
+    auto: true
   - translation_iso: spa
     name: Gyaazi
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アラカトラツァラ・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Alacatlatzala
+    auto: true
   - translation_iso: spa
     name: Mixteco de Alacatlatzala
     auto: true

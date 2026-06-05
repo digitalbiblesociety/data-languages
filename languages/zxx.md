@@ -21,6 +21,8 @@ translations:
     name: 言語的内容無し
   - translation_iso: kor
     name: 언어적 내용 없음
+  - translation_iso: por
+    name: sem conteúdo linguístico
   - translation_iso: spa
     name: sin contenido lingüístico
   - translation_iso: zho

@@ -26,6 +26,9 @@ translations:
     name: आश्कूनू भाषा
   - translation_iso: jpn
     name: アシュク語
+  - translation_iso: por
+    name: Ashkun
+    auto: true
   - translation_iso: spa
     name: Idioma askunu
   - translation_iso: zho

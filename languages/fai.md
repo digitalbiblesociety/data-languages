@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ファイウォル語
     auto: true
+  - translation_iso: por
+    name: Faiwol
+    auto: true
   - translation_iso: spa
     name: Faiwol
     auto: true

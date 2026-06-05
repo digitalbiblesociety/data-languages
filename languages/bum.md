@@ -29,6 +29,8 @@ translations:
     name: ブル語
   - translation_iso: kor
     name: 불루어
+  - translation_iso: por
+    name: Língua bulu
   - translation_iso: spa
     name: bulu
   - translation_iso: zho

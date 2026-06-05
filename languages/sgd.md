@@ -29,6 +29,8 @@ translations:
     name: スリガオノン語
   - translation_iso: kor
     name: 수리가오논어
+  - translation_iso: por
+    name: Língua surigaonon
   - translation_iso: spa
     name: idioma surigaense
   - translation_iso: zho

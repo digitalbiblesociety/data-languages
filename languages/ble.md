@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バランタ・ケントヘ語
     auto: true
+  - translation_iso: por
+    name: Balanta-Kentohe
+    auto: true
   - translation_iso: spa
     name: Balanta-Kentohe
     auto: true

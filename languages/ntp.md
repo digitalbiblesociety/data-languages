@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北テペワン語
     auto: true
+  - translation_iso: por
+    name: Tepehuan Setentrional
+    auto: true
   - translation_iso: spa
     name: Tepehuán del Norte
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ホリヤ語
     auto: true
+  - translation_iso: por
+    name: Holiya
+    auto: true
   - translation_iso: spa
     name: Holiya
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィワ語
+  - translation_iso: por
+    name: Língua wiwa
   - translation_iso: spa
     name: Damana
   - translation_iso: zho

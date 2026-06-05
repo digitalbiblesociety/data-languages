@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ガリセ語
     auto: true
+  - translation_iso: por
+    name: Galice
+    auto: true
   - translation_iso: spa
     name: galice
   - translation_iso: zho

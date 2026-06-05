@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バリシ語
     auto: true
+  - translation_iso: por
+    name: Varisi
+    auto: true
   - translation_iso: spa
     name: Varisi
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブドゥ語
     auto: true
+  - translation_iso: por
+    name: Budu
+    auto: true
   - translation_iso: spa
     name: Budu
     auto: true

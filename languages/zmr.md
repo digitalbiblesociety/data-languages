@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マランンググ語
     auto: true
+  - translation_iso: por
+    name: Maranunggu
+    auto: true
   - translation_iso: spa
     name: Maranunggu
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東オロモ語
+  - translation_iso: por
+    name: Oromo Oriental
+    auto: true
   - translation_iso: spa
     name: Oromo Oriental
     auto: true

@@ -21,6 +21,8 @@ translations:
     name: アイマラ語
   - translation_iso: kor
     name: 아이마라어
+  - translation_iso: por
+    name: Língua aymará
   - translation_iso: spa
     name: aymara
   - translation_iso: zho

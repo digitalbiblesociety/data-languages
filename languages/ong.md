@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オロ語
+  - translation_iso: por
+    name: Olo
+    auto: true
   - translation_iso: spa
     name: Olo
   - translation_iso: zho

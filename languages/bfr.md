@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バズィガル語
     auto: true
+  - translation_iso: por
+    name: Bazigar
+    auto: true
   - translation_iso: spa
     name: Bazigar
     auto: true

@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カルデア現代アラム語
+  - translation_iso: por
+    name: neoaramaico caldeu
   - translation_iso: spa
     name: caldeo neoarameo
   - translation_iso: zho

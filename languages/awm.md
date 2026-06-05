@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アラウム語
     auto: true
+  - translation_iso: por
+    name: Arawum
+    auto: true
   - translation_iso: spa
     name: Arawum
     auto: true

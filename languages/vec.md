@@ -28,6 +28,8 @@ translations:
     name: ヴェネト語
   - translation_iso: kor
     name: 베네토어
+  - translation_iso: por
+    name: Língua vêneta
   - translation_iso: spa
     name: véneto
   - translation_iso: zho

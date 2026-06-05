@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カシュイアナ語
     auto: true
+  - translation_iso: por
+    name: Língua kaxuyana
   - translation_iso: spa
     name: Kaxuiâna
     auto: true

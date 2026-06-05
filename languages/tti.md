@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヨータファ語
     auto: true
+  - translation_iso: por
+    name: Tobati
+    auto: true
   - translation_iso: spa
     name: Tobati
     auto: true

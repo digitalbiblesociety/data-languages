@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: オドゥト語
     auto: true
+  - translation_iso: por
+    name: Odut
+    auto: true
   - translation_iso: spa
     name: Odut
     auto: true

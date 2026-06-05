@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ボロン語
     auto: true
+  - translation_iso: por
+    name: Borong
+    auto: true
   - translation_iso: spa
     name: Borong
     auto: true

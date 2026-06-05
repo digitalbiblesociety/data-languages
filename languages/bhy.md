@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベレ語
     auto: true
+  - translation_iso: por
+    name: Bhele
+    auto: true
   - translation_iso: spa
     name: Bhele
     auto: true

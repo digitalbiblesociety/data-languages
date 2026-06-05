@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タマン語
     auto: true
+  - translation_iso: por
+    name: Taman (Indonésia)
+    auto: true
   - translation_iso: spa
     name: Taman (Indonesia)
     auto: true

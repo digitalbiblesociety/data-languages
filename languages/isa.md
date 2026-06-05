@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イサビ語
     auto: true
+  - translation_iso: por
+    name: Isabi
+    auto: true
   - translation_iso: spa
     name: Isabi
     auto: true

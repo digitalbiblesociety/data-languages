@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スアウ語
+  - translation_iso: por
+    name: Suau
+    auto: true
   - translation_iso: spa
     name: Suau
     auto: true

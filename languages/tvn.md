@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダウェイ語
     auto: true
+  - translation_iso: por
+    name: Tavoyan
+    auto: true
   - translation_iso: spa
     name: Tavoyano
     auto: true

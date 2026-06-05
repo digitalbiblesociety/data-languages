@@ -28,6 +28,8 @@ translations:
     name: 客家語
   - translation_iso: kor
     name: 하카어
+  - translation_iso: por
+    name: hakka
   - translation_iso: spa
     name: chino hakka
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワカブンガ語
     auto: true
+  - translation_iso: por
+    name: Wakabunga
+    auto: true
   - translation_iso: spa
     name: idioma wakabunga
   - translation_iso: zho

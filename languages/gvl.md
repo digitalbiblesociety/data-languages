@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: グレイ語
     auto: true
+  - translation_iso: por
+    name: Gulay
+    auto: true
   - translation_iso: spa
     name: Gulay
     auto: true

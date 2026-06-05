@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: アダイ語
     auto: true
+  - translation_iso: por
+    name: Língua adai
   - translation_iso: spa
     name: Adai
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: 南部ティドゥング語
     auto: true
+  - translation_iso: por
+    name: Tidung do Sul
+    auto: true
   - translation_iso: spa
     name: Tidung Meridional
     auto: true

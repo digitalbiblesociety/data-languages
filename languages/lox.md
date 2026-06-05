@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロウン語
     auto: true
+  - translation_iso: por
+    name: Loun
+    auto: true
   - translation_iso: spa
     name: Loun
     auto: true

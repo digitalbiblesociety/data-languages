@@ -21,6 +21,8 @@ translations:
     name: クペレ語
   - translation_iso: kor
     name: 크펠레어
+  - translation_iso: por
+    name: Língua kpelle
   - translation_iso: spa
     name: kpelle
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
     name: ブリヤート語
   - translation_iso: kor
     name: 부랴트어
+  - translation_iso: por
+    name: Língua buriata
   - translation_iso: spa
     name: buriato
   - translation_iso: zho

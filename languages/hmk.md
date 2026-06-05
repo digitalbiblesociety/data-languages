@@ -23,6 +23,9 @@ translations:
     name: 濊貊語
   - translation_iso: kor
     name: 예맥어
+  - translation_iso: por
+    name: Maek
+    auto: true
   - translation_iso: spa
     name: Idioma yemaek
   - translation_iso: zho

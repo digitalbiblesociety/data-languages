@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アボン語
     auto: true
+  - translation_iso: por
+    name: Abon
+    auto: true
   - translation_iso: spa
     name: Abon
     auto: true

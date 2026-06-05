@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガルラリ語
     auto: true
+  - translation_iso: por
+    name: Garlali
+    auto: true
   - translation_iso: spa
     name: Garlali
     auto: true

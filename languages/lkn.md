@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラコン語
     auto: true
+  - translation_iso: por
+    name: Lakon
+    auto: true
   - translation_iso: spa
     name: Lakon
     auto: true

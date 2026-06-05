@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: リオ語
     auto: true
+  - translation_iso: por
+    name: "Língua Ende-Li'o"
   - translation_iso: spa
     name: Lio
   - translation_iso: zho

@@ -30,6 +30,8 @@ translations:
     name: メノナイト低地ドイツ語
   - translation_iso: kor
     name: 메노나이트 저지 독일어
+  - translation_iso: por
+    name: Plautdietsch
   - translation_iso: spa
     name: Plautdietsch
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボムワリ語
     auto: true
+  - translation_iso: por
+    name: Bomwali
+    auto: true
   - translation_iso: spa
     name: Bomwali
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マリング語
     auto: true
+  - translation_iso: por
+    name: Maring
+    auto: true
   - translation_iso: spa
     name: Idioma maring
   - translation_iso: zho

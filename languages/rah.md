@@ -26,6 +26,9 @@ translations:
     name: रभा भाषा
   - translation_iso: jpn
     name: ラバ語
+  - translation_iso: por
+    name: Rabha
+    auto: true
   - translation_iso: spa
     name: idioma rabha
   - translation_iso: zho

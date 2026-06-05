@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベンゴイ語
     auto: true
+  - translation_iso: por
+    name: Benggoi
+    auto: true
   - translation_iso: spa
     name: Benggoi
     auto: true

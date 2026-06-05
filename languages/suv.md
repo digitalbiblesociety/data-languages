@@ -27,6 +27,9 @@ translations:
     name: पुरोइक भाषा
   - translation_iso: jpn
     name: プロイク語
+  - translation_iso: por
+    name: Puroik
+    auto: true
   - translation_iso: spa
     name: Puroik
     auto: true

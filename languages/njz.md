@@ -25,6 +25,9 @@ translations:
     name: निशि भाषा
   - translation_iso: jpn
     name: ニシ語
+  - translation_iso: por
+    name: Nyishi
+    auto: true
   - translation_iso: spa
     name: Nyishi
     auto: true

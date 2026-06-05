@@ -29,6 +29,8 @@ translations:
     name: 贛語
   - translation_iso: kor
     name: 간어
+  - translation_iso: por
+    name: chinês gan
   - translation_iso: spa
     name: chino gan
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 모클렌어
+  - translation_iso: por
+    name: Moklen
+    auto: true
   - translation_iso: spa
     name: Moklen
     auto: true

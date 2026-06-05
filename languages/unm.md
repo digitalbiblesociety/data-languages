@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レナペ語
+  - translation_iso: por
+    name: Unami
+    auto: true
   - translation_iso: spa
     name: Unami
   - translation_iso: zho

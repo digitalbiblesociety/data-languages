@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イスムス・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco do Istmo
+    auto: true
   - translation_iso: spa
     name: Zapoteco del Istmo
   - translation_iso: zho

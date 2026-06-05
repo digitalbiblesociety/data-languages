@@ -28,6 +28,9 @@ translations:
     name: नागामी भाषा
   - translation_iso: jpn
     name: Nagameseクレオール語
+  - translation_iso: por
+    name: Pidgin Naga
+    auto: true
   - translation_iso: spa
     name: Pidgin naga
     auto: true

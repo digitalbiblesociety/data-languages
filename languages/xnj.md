@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チンゴニ語
     auto: true
+  - translation_iso: por
+    name: Chingoni
+    auto: true
   - translation_iso: spa
     name: Chingoni
     auto: true

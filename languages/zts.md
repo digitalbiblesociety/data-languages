@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ティルキアパン・サポテク語
     auto: true
+  - translation_iso: por
+    name: Zapoteco tilquiapano
   - translation_iso: spa
     name: Zapoteco de Tilquiapan
     auto: true

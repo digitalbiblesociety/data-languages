@@ -29,6 +29,8 @@ translations:
     name: ツァコン語
   - translation_iso: kor
     name: 차코니아 방언
+  - translation_iso: por
+    name: Língua tsaconiana
   - translation_iso: spa
     name: tsakonio
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナーイーン語
+  - translation_iso: por
+    name: Nayini
+    auto: true
   - translation_iso: spa
     name: Nayini
     auto: true

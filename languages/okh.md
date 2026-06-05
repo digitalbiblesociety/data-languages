@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コレシュエ・ロスタム語
     auto: true
+  - translation_iso: por
+    name: Koresh-e Rostam
+    auto: true
   - translation_iso: spa
     name: Koresh-e Rostam
     auto: true

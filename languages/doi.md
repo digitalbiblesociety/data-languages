@@ -21,6 +21,8 @@ translations:
     name: ドーグリー・カーングリー諸語
   - translation_iso: kor
     name: 도그리어
+  - translation_iso: por
+    name: dogri
   - translation_iso: spa
     name: dogri
   - translation_iso: zho

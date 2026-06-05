@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンギル語
+  - translation_iso: por
+    name: Sangihe
   - translation_iso: spa
     name: Sangihe
   - translation_iso: zho

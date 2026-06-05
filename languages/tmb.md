@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カトボル語
     auto: true
+  - translation_iso: por
+    name: Katbol
+    auto: true
   - translation_iso: spa
     name: Katbol
     auto: true

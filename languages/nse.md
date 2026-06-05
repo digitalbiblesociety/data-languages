@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンセンガ語
+  - translation_iso: por
+    name: Nsenga
+    auto: true
   - translation_iso: spa
     name: Nsenga
     auto: true

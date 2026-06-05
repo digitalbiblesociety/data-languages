@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワガワガ語
     auto: true
+  - translation_iso: por
+    name: Wagawaga
+    auto: true
   - translation_iso: spa
     name: Wagawaga
     auto: true

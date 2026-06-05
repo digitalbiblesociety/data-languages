@@ -26,6 +26,8 @@ translations:
     name: イェレ語
   - translation_iso: kor
     name: 옐레어
+  - translation_iso: por
+    name: Língua yele
   - translation_iso: spa
     name: Idioma yélî dnye
   - translation_iso: zho

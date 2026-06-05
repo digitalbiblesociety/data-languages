@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ングアモ語
     auto: true
+  - translation_iso: por
+    name: Ngamo
+    auto: true
   - translation_iso: spa
     name: Ngamo
     auto: true

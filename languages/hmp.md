@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部麻山フモン語
+  - translation_iso: por
+    name: Hmong Mashan do Norte
+    auto: true
   - translation_iso: spa
     name: Hmong Mashan septentrional
     auto: true

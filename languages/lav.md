@@ -28,6 +28,8 @@ translations:
     name: ラトビア語
   - translation_iso: kor
     name: 라트비아어
+  - translation_iso: por
+    name: língua letã
   - translation_iso: spa
     name: letón
   - translation_iso: zho

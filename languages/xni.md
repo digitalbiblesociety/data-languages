@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ンガリグ語
     auto: true
+  - translation_iso: por
+    name: Ngarigu
+    auto: true
   - translation_iso: spa
     name: Idioma ngarigo
   - translation_iso: zho

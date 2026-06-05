@@ -29,6 +29,9 @@ translations:
     name: タイ・ルー語
   - translation_iso: kor
     name: 타이루어
+  - translation_iso: por
+    name: Lü
+    auto: true
   - translation_iso: spa
     name: Tai Lü
   - translation_iso: zho

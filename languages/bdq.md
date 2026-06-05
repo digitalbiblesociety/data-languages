@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バナール語
+  - translation_iso: por
+    name: Bahnar
+    auto: true
   - translation_iso: spa
     name: Bahnar
     auto: true

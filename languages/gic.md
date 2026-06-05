@@ -30,6 +30,8 @@ translations:
     name: ゲイル言語
   - translation_iso: kor
     name: 가일어
+  - translation_iso: por
+    name: Língua gail
   - translation_iso: spa
     name: Idioma gayle
   - translation_iso: zho

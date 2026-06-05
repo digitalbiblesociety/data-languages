@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イゲデ語
     auto: true
+  - translation_iso: por
+    name: Igede
+    auto: true
   - translation_iso: spa
     name: Igede
     auto: true

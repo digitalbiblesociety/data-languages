@@ -28,6 +28,8 @@ translations:
     name: ガロ語
   - translation_iso: kor
     name: 가로어
+  - translation_iso: por
+    name: Língua garo
   - translation_iso: spa
     name: idioma garo
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アロアパム・サポテク語
     auto: true
+  - translation_iso: por
+    name: Língua zapoteca aloapam
   - translation_iso: spa
     name: Zapoteco de Aloápam
   - translation_iso: zho

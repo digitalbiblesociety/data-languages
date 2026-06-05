@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: ノッタウェイ語
     auto: true
+  - translation_iso: por
+    name: Nottoway
   - translation_iso: spa
     name: Nottoway
   - translation_iso: zho

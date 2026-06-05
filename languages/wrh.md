@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウィラドゥリ語
+  - translation_iso: por
+    name: Wiradjuri
+    auto: true
   - translation_iso: spa
     name: Idioma wiradjuri
   - translation_iso: zho

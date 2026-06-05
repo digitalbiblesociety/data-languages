@@ -30,6 +30,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 타닥사학어
+  - translation_iso: por
+    name: Língua tadaksahak
   - translation_iso: spa
     name: Tadaksahak
     auto: true

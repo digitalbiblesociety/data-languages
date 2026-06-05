@@ -28,6 +28,9 @@ translations:
     name: トスク方言
   - translation_iso: kor
     name: 토스크 알바니아어
+  - translation_iso: por
+    name: Albanês Tosco
+    auto: true
   - translation_iso: spa
     name: albanés tosco
   - translation_iso: zho

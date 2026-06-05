@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: イムチュングル・ナガ語
     auto: true
+  - translation_iso: por
+    name: Língua yimchungrü
   - translation_iso: spa
     name: yimchungrü
   - translation_iso: zho

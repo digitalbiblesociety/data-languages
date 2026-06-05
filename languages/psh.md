@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南西パシャイ語
     auto: true
+  - translation_iso: por
+    name: Pashai Sudoeste
+    auto: true
   - translation_iso: spa
     name: Pashai del suroeste
     auto: true

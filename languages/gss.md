@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギリシャ手話
+  - translation_iso: por
+    name: Língua de sinais grega
   - translation_iso: spa
     name: Lengua de señas griega
     auto: true

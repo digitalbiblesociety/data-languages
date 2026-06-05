@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ラナ・タル語
     auto: true
+  - translation_iso: por
+    name: Língua tharu
   - translation_iso: spa
     name: Tharu Rana
     auto: true

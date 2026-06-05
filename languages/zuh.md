@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トカノ語
     auto: true
+  - translation_iso: por
+    name: Tokano
+    auto: true
   - translation_iso: spa
     name: Tokano
     auto: true

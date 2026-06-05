@@ -27,6 +27,9 @@ translations:
     name: सम्बलपुरी भाषा
   - translation_iso: jpn
     name: サンバルプリ語
+  - translation_iso: por
+    name: Sambalpuri
+    auto: true
   - translation_iso: spa
     name: Sambalpuri
     auto: true

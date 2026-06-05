@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マペ語
     auto: true
+  - translation_iso: por
+    name: Mape
+    auto: true
   - translation_iso: spa
     name: Mape
     auto: true

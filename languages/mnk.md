@@ -27,6 +27,8 @@ translations:
     name: マンディンカ語
   - translation_iso: kor
     name: 만딩카어
+  - translation_iso: por
+    name: mandinga
   - translation_iso: spa
     name: mandinga
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イースタン・ムノング語
     auto: true
+  - translation_iso: por
+    name: mnong oriental
+    auto: true
   - translation_iso: spa
     name: Mnong Oriental
     auto: true

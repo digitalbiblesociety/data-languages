@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チキアンアンカシュケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Chiquián Ancash
+    auto: true
   - translation_iso: spa
     name: Quechua de Chiquián
   - translation_iso: zho

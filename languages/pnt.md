@@ -29,6 +29,8 @@ translations:
     name: ギリシア語ポントス方言
   - translation_iso: kor
     name: 폰토스 그리스어
+  - translation_iso: por
+    name: Grego do Ponto
   - translation_iso: spa
     name: griego póntico
   - translation_iso: zho

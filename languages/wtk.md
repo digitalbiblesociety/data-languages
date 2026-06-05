@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワタカタウイ語
+  - translation_iso: por
+    name: Watakataui
+    auto: true
   - translation_iso: spa
     name: Watakataui
     auto: true

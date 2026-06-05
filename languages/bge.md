@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: バウリア語
     auto: true
+  - translation_iso: por
+    name: Bauria
+    auto: true
   - translation_iso: spa
     name: Bauria
     auto: true

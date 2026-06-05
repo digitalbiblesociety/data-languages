@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピアポコ語
+  - translation_iso: por
+    name: Língua piapoco
   - translation_iso: spa
     name: piapoco
   - translation_iso: zho

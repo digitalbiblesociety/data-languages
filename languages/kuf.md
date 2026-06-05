@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カトゥ語
+  - translation_iso: por
+    name: Katu ocidental
+    auto: true
   - translation_iso: spa
     name: Katu Occidental
     auto: true

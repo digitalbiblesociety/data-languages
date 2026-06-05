@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤラカロレ語
     auto: true
+  - translation_iso: por
+    name: yalakalore
+    auto: true
   - translation_iso: spa
     name: Yalakalore
     auto: true

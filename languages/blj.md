@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ボロンガン語
     auto: true
+  - translation_iso: por
+    name: Bolongan
+    auto: true
   - translation_iso: spa
     name: Bolongan
     auto: true

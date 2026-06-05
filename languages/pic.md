@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピンジ語
+  - translation_iso: por
+    name: Pinji
+    auto: true
   - translation_iso: spa
     name: Pinji
     auto: true

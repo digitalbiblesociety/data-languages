@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ギャルスムド語
     auto: true
+  - translation_iso: por
+    name: Gyalsumdo
+    auto: true
   - translation_iso: spa
     name: Gyalsumdo
     auto: true

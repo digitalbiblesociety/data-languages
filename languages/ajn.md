@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: アンダジン語
     auto: true
+  - translation_iso: por
+    name: Andajin
+    auto: true
   - translation_iso: spa
     name: Andajin
     auto: true

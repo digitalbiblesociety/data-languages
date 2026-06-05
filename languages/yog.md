@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨガド語
+  - translation_iso: por
+    name: Língua yogad
   - translation_iso: spa
     name: Yogad
     auto: true

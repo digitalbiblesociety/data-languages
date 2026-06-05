@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イサンズ語
     auto: true
+  - translation_iso: por
+    name: Isanzu
+    auto: true
   - translation_iso: spa
     name: Isanzu
     auto: true

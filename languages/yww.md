@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤワラワーガ語
+  - translation_iso: por
+    name: yawarawarga
+    auto: true
   - translation_iso: spa
     name: Yawarawarga
     auto: true

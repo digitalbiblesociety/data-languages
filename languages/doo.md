@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ドンゴ語
     auto: true
+  - translation_iso: por
+    name: Dongo
+    auto: true
   - translation_iso: spa
     name: dongo
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カランガ語
     auto: true
+  - translation_iso: por
+    name: Karanga
+    auto: true
   - translation_iso: spa
     name: Karanga
     auto: true

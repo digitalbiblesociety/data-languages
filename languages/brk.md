@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビルギッド語
+  - translation_iso: por
+    name: Birked
+    auto: true
   - translation_iso: spa
     name: Birked
     auto: true

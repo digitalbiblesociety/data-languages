@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オボクイタイ語
+  - translation_iso: por
+    name: Obokuitai
+    auto: true
   - translation_iso: spa
     name: Obokuitai
     auto: true

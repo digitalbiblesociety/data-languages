@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カイラリのアナンベ語
     auto: true
+  - translation_iso: por
+    name: Língua anambé
   - translation_iso: spa
     name: Lengua anambé
   - translation_iso: zho

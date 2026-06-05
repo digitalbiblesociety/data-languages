@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カニング語
     auto: true
+  - translation_iso: por
+    name: Shatt
+    auto: true
   - translation_iso: spa
     name: shatt
   - translation_iso: zho

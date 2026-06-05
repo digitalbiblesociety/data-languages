@@ -28,6 +28,8 @@ translations:
     name: コリャーク語
   - translation_iso: kor
     name: 코랴크어
+  - translation_iso: por
+    name: Língua koriaque
   - translation_iso: spa
     name: coriaco
   - translation_iso: zho

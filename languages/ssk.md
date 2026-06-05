@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スナム語
+  - translation_iso: por
+    name: Sunam
+    auto: true
   - translation_iso: spa
     name: Sunam
     auto: true

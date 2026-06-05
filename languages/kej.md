@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カダル語
     auto: true
+  - translation_iso: por
+    name: Kadar
+    auto: true
   - translation_iso: spa
     name: Kadar
     auto: true

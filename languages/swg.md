@@ -29,6 +29,8 @@ translations:
     name: シュヴァーベン語
   - translation_iso: kor
     name: 슈바벤어
+  - translation_iso: por
+    name: alemão suábio
   - translation_iso: spa
     name: suabo
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: ソニンケ語
   - translation_iso: kor
     name: 소닌케어
+  - translation_iso: por
+    name: Língua soninquê
   - translation_iso: spa
     name: Idioma soninké
   - translation_iso: zho

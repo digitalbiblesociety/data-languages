@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヘイバン語
     auto: true
+  - translation_iso: por
+    name: Heiban
+    auto: true
   - translation_iso: spa
     name: Heibán
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: サリバ語
     auto: true
+  - translation_iso: por
+    name: Língua sáliba
   - translation_iso: spa
     name: Sáliba
     auto: true

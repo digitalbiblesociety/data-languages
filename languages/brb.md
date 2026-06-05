@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラヴェ語
     auto: true
+  - translation_iso: por
+    name: Lave
+    auto: true
   - translation_iso: spa
     name: Lave
     auto: true

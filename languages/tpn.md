@@ -27,6 +27,8 @@ translations:
     name: トゥピ語
   - translation_iso: kor
     name: 고대 투피어
+  - translation_iso: por
+    name: língua tupi
   - translation_iso: spa
     name: tupí
   - translation_iso: zho

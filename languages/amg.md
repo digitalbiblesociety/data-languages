@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アムルダック語
     auto: true
+  - translation_iso: por
+    name: Amurdak
+    auto: true
   - translation_iso: spa
     name: Amurdak
     auto: true

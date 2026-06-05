@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東部湘西苗語
+  - translation_iso: por
+    name: miao xiangxi oriental
+    auto: true
   - translation_iso: spa
     name: Miao del Xiangxi Oriental
     auto: true

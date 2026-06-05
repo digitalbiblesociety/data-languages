@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タングコ語
     auto: true
+  - translation_iso: por
+    name: Tangko
+    auto: true
   - translation_iso: spa
     name: Tangko
     auto: true

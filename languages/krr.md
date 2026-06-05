@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: クルン語
     auto: true
+  - translation_iso: por
+    name: Krung
+    auto: true
   - translation_iso: spa
     name: Krung
     auto: true

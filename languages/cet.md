@@ -24,6 +24,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジャラア語
+  - translation_iso: por
+    name: Centúúm
+    auto: true
   - translation_iso: spa
     name: Idioma centúúm
   - translation_iso: zho

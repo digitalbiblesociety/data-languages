@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南スレイビー語
+  - translation_iso: por
+    name: Slavey do Sul
+    auto: true
   - translation_iso: spa
     name: denetaca
   - translation_iso: zho

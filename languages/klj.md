@@ -29,6 +29,8 @@ translations:
     name: チュルク・ハラジ語
   - translation_iso: kor
     name: 칼라지어
+  - translation_iso: por
+    name: Língua khalaj
   - translation_iso: spa
     name: Idioma khalaj (túrquico)
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アニン・モロフォ語
     auto: true
+  - translation_iso: por
+    name: Anyin Morofo
+    auto: true
   - translation_iso: spa
     name: Anyin Morofo
     auto: true

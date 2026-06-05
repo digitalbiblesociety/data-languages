@@ -28,6 +28,8 @@ translations:
     name: カンバ語
   - translation_iso: kor
     name: 캄바어
+  - translation_iso: por
+    name: Língua kikamba
   - translation_iso: spa
     name: Idioma kamba
   - translation_iso: zho

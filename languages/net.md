@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ネテ語
     auto: true
+  - translation_iso: por
+    name: Nete
+    auto: true
   - translation_iso: spa
     name: Nete
     auto: true

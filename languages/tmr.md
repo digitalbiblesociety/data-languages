@@ -28,6 +28,9 @@ translations:
     name: ユダヤ・バビロニア・アラム語
   - translation_iso: kor
     name: 유대인 바빌로니아 아람어
+  - translation_iso: por
+    name: Aramaico Babilônico Judaico (ca. 200-1200 d.C.)
+    auto: true
   - translation_iso: spa
     name: judeo-arameo babilónico
   - translation_iso: zho

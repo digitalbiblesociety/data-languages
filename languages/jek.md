@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ジェリ・クォ語
     auto: true
+  - translation_iso: por
+    name: Jeri Kuo
+    auto: true
   - translation_iso: spa
     name: Jeri Kuo
     auto: true

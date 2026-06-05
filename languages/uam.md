@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: アティカム語
     auto: true
+  - translation_iso: por
+    name: Língua aticum
   - translation_iso: spa
     name: Idioma aticum
   - translation_iso: zho

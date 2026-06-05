@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マジェラ語
     auto: true
+  - translation_iso: por
+    name: Majera
+    auto: true
   - translation_iso: spa
     name: Majera
     auto: true

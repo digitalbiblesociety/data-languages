@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤウェユハ語
     auto: true
+  - translation_iso: por
+    name: yaweyuha
+    auto: true
   - translation_iso: spa
     name: Yaweyuha
     auto: true

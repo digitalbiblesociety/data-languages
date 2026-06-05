@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ワハウ・カヤン語
     auto: true
+  - translation_iso: por
+    name: Kayan Wahau
+    auto: true
   - translation_iso: spa
     name: Wahau Kayan
     auto: true

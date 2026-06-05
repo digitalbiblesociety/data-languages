@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カウレ語
     auto: true
+  - translation_iso: por
+    name: Kaure
+    auto: true
   - translation_iso: spa
     name: Kaure
     auto: true

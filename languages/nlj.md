@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニャリ語
     auto: true
+  - translation_iso: por
+    name: Nyali
+    auto: true
   - translation_iso: spa
     name: Nyali
     auto: true

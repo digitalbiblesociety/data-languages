@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カイカディ語
     auto: true
+  - translation_iso: por
+    name: Kaikadi
+    auto: true
   - translation_iso: spa
     name: Kaikadi
     auto: true

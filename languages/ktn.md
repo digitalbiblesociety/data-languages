@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カリティアナ語
     auto: true
+  - translation_iso: por
+    name: Língua caritiana
   - translation_iso: spa
     name: Karitiâna
     auto: true

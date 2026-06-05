@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌーチャヌルス語
+  - translation_iso: por
+    name: Língua Nuu-chah-nulth
   - translation_iso: spa
     name: idioma nutka
   - translation_iso: zho

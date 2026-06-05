@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ジャジャワルング語
     auto: true
+  - translation_iso: por
+    name: Djadjawurrung
+    auto: true
   - translation_iso: spa
     name: Idioma djadjawurrung
   - translation_iso: zho

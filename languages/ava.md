@@ -28,6 +28,8 @@ translations:
     name: アヴァル語
   - translation_iso: kor
     name: 아바르어
+  - translation_iso: por
+    name: Língua ávara
   - translation_iso: spa
     name: avar
   - translation_iso: zho

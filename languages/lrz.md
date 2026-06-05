@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: レメリグ語
     auto: true
+  - translation_iso: por
+    name: Língua lemerig
   - translation_iso: spa
     name: Lemerig
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テペカーノ語
     auto: true
+  - translation_iso: por
+    name: Tepecano
+    auto: true
   - translation_iso: spa
     name: tepecano
   - translation_iso: zho

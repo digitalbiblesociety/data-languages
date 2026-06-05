@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 下アレンテ語
+  - translation_iso: por
+    name: Língua arrernte inferior
   - translation_iso: spa
     name: Aranda Meridional Inferior
     auto: true

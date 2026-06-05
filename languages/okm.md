@@ -23,6 +23,8 @@ translations:
     name: 中期朝鮮語
   - translation_iso: kor
     name: 중세 한국어
+  - translation_iso: por
+    name: Coreano médio
   - translation_iso: spa
     name: coreano medio
   - translation_iso: zho

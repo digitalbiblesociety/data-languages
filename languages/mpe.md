@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マジャン語
+  - translation_iso: por
+    name: Majang
+    auto: true
   - translation_iso: spa
     name: Idioma majang
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オバンリク語
     auto: true
+  - translation_iso: por
+    name: Obanliku
+    auto: true
   - translation_iso: spa
     name: Obanliku
     auto: true

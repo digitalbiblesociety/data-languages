@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アイロラン語
     auto: true
+  - translation_iso: por
+    name: Airoran
   - translation_iso: spa
     name: Airoran
   - translation_iso: zho

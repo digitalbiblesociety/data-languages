@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウタルムブング語
     auto: true
+  - translation_iso: por
+    name: Utarmbung
+    auto: true
   - translation_iso: spa
     name: Utarmbung
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ブマング語
     auto: true
+  - translation_iso: por
+    name: Bumang
+    auto: true
   - translation_iso: spa
     name: Bumang
     auto: true

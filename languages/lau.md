@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ラバ語
     auto: true
+  - translation_iso: por
+    name: Laba
+    auto: true
   - translation_iso: spa
     name: Laba
     auto: true

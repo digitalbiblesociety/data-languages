@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エニンディリャグワ語
+  - translation_iso: por
+    name: Língua enindhilyagwa
   - translation_iso: spa
     name: Anindilyakwa
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クンベワハ語
     auto: true
+  - translation_iso: por
+    name: Kumbewaha
+    auto: true
   - translation_iso: spa
     name: Kumbewaha
     auto: true

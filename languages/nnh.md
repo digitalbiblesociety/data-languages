@@ -28,6 +28,8 @@ translations:
     name: ンジエムブーン語
   - translation_iso: kor
     name: 느기엠본어
+  - translation_iso: por
+    name: ngiemboon
   - translation_iso: spa
     name: ngiemboon
   - translation_iso: zho

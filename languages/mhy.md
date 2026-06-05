@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マアニヤン語
+  - translation_iso: por
+    name: "Ma'anyan"
+    auto: true
   - translation_iso: spa
     name: "Ma'anyan"
     auto: true

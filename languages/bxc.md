@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レング語
+  - translation_iso: por
+    name: Língua balengue
   - translation_iso: spa
     name: Balengue
   - translation_iso: zho

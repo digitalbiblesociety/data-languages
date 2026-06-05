@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ユイ語
     auto: true
+  - translation_iso: por
+    name: Salt-Yui
+    auto: true
   - translation_iso: spa
     name: Salt-Yui
     auto: true

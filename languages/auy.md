@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウヤナ語
+  - translation_iso: por
+    name: Awiyaana
+    auto: true
   - translation_iso: spa
     name: Awiyaana
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カユプラウ語
     auto: true
+  - translation_iso: por
+    name: Kayupulau
+    auto: true
   - translation_iso: spa
     name: Kayupulau
     auto: true

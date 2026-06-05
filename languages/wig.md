@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・ンガータン語
     auto: true
+  - translation_iso: por
+    name: Wik Ngathan
+    auto: true
   - translation_iso: spa
     name: Idioma wik-ngathan
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
     name: ウスパンテコ語
   - translation_iso: kor
     name: 우스판텍어
+  - translation_iso: por
+    name: Língua uspanteca
   - translation_iso: spa
     name: Idioma uspanteco
   - translation_iso: zho

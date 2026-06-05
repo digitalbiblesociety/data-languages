@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: テンハリム語
     auto: true
+  - translation_iso: por
+    name: Dialeto tenharim
   - translation_iso: spa
     name: tenharim
   - translation_iso: zho

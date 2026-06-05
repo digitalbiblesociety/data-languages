@@ -28,6 +28,8 @@ translations:
     name: ベンガル語
   - translation_iso: kor
     name: 벵골어
+  - translation_iso: por
+    name: língua bangla
   - translation_iso: spa
     name: bengalí
   - translation_iso: zho

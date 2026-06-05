@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サルマ語
+  - translation_iso: por
+    name: Língua enawenê-nawê
   - translation_iso: spa
     name: Enawené-Nawé
     auto: true

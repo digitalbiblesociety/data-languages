@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウィチー・ラムテス・グイスナイ語
     auto: true
+  - translation_iso: por
+    name: Wichí Lhamtés Güisnay
+    auto: true
   - translation_iso: spa
     name: Wichí Lhamtés Güisnay
     auto: true

@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: マンゴレ語
     auto: true
+  - translation_iso: por
+    name: Mangole
+    auto: true
   - translation_iso: spa
     name: Mangole
     auto: true

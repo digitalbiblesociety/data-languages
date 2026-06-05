@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルシー語
+  - translation_iso: por
+    name: Alsea
+    auto: true
   - translation_iso: spa
     name: Lenguas alseanas
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     name: दनुवार भाषा
   - translation_iso: jpn
     name: ダヌワール族
+  - translation_iso: por
+    name: Língua danwar
   - translation_iso: spa
     name: Dhanwar (Nepal)
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンワニ語
+  - translation_iso: por
+    name: Quimuane
   - translation_iso: spa
     name: Mwani
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラウジェ語
     auto: true
+  - translation_iso: por
+    name: Lauje
+    auto: true
   - translation_iso: spa
     name: Lauje
     auto: true

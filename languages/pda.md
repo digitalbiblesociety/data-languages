@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アナム語
     auto: true
+  - translation_iso: por
+    name: Anam
+    auto: true
   - translation_iso: spa
     name: Anam
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: エピ・オルメック語
     auto: true
+  - translation_iso: por
+    name: Epi-Olmeca
+    auto: true
   - translation_iso: spa
     name: Epi-Olmeca
     auto: true

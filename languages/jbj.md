@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アランダイ語
     auto: true
+  - translation_iso: por
+    name: Arandai
+    auto: true
   - translation_iso: spa
     name: Arandai
     auto: true

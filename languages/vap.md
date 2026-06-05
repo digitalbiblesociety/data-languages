@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バイペイ語
     auto: true
+  - translation_iso: por
+    name: Vaiphei
+    auto: true
   - translation_iso: spa
     name: Vaiphei
     auto: true

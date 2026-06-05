@@ -30,6 +30,8 @@ translations:
     name: 古典ナワトル語
   - translation_iso: kor
     name: 고전 나와틀어
+  - translation_iso: por
+    name: Náuatle clássico
   - translation_iso: spa
     name: náhuatl clásico
   - translation_iso: zho

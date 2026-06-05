@@ -28,6 +28,8 @@ translations:
     name: ロンバルド語
   - translation_iso: kor
     name: 롬바르디아어
+  - translation_iso: por
+    name: língua lombarda
   - translation_iso: spa
     name: lombardo
   - translation_iso: zho

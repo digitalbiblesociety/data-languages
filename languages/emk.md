@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 東マニンカカン語
     auto: true
+  - translation_iso: por
+    name: maninkakan oriental
+    auto: true
   - translation_iso: spa
     name: Maninkakán Oriental
     auto: true

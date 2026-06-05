@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マリ語
     auto: true
+  - translation_iso: por
+    name: Mali
+    auto: true
   - translation_iso: spa
     name: Mali
     auto: true

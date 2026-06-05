@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コイ語
+  - translation_iso: por
+    name: Koi
+    auto: true
   - translation_iso: spa
     name: Koi
     auto: true

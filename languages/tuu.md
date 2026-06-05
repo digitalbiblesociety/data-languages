@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 下ローグ川語
     auto: true
+  - translation_iso: por
+    name: Tututni
+    auto: true
   - translation_iso: spa
     name: tututni
   - translation_iso: zho

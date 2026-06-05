@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サザン・キシ語
     auto: true
+  - translation_iso: por
+    name: Kissi meridional
+    auto: true
   - translation_iso: spa
     name: Kisi Meridional
     auto: true

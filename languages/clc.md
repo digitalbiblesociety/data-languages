@@ -28,6 +28,8 @@ translations:
     name: チルコティン語
   - translation_iso: kor
     name: 칠코틴어
+  - translation_iso: por
+    name: Língua chilcontin
   - translation_iso: spa
     name: chilcotin
   - translation_iso: zho

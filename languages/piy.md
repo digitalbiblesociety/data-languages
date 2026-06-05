@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ピヤクウォンシ語
     auto: true
+  - translation_iso: por
+    name: Piya-Kwonci
+    auto: true
   - translation_iso: spa
     name: Piya-Kwonci
     auto: true

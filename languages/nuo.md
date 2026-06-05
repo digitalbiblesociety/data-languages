@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ングウォン語
     auto: true
+  - translation_iso: por
+    name: Nguôn
+    auto: true
   - translation_iso: spa
     name: Nguôn
     auto: true

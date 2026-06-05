@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: サンティアゴデルエステロキチュア語
     auto: true
+  - translation_iso: por
+    name: Língua quíchua santiagueño
   - translation_iso: spa
     name: quichua santiagueño
   - translation_iso: zho

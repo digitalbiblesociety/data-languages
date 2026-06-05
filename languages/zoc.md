@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コパイナラ・ゾケ語
     auto: true
+  - translation_iso: por
+    name: zoque de Copainalá
+    auto: true
   - translation_iso: spa
     name: zoque de Copainalá
   - translation_iso: zho

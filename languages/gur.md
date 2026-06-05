@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フラフラ語
+  - translation_iso: por
+    name: Língua frafra
   - translation_iso: spa
     name: Frafra
   - translation_iso: zho

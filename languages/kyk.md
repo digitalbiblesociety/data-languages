@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カマヨ語
     auto: true
+  - translation_iso: por
+    name: Kamayo
+    auto: true
   - translation_iso: spa
     name: Idioma kamayo
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ゾツング・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Zotung
+    auto: true
   - translation_iso: spa
     name: Chin Zotung
     auto: true

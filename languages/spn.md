@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サナパナパイボマ語
     auto: true
+  - translation_iso: por
+    name: Sanapaná
+    auto: true
   - translation_iso: spa
     name: Sanapaná
     auto: true

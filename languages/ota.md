@@ -21,6 +21,8 @@ translations:
     name: オスマン語
   - translation_iso: kor
     name: 오스만 터키어
+  - translation_iso: por
+    name: Língua turca otomana
   - translation_iso: spa
     name: turco otomano
   - translation_iso: zho

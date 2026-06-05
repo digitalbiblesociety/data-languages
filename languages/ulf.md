@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: アフラ語
     auto: true
+  - translation_iso: por
+    name: Aframa
   - translation_iso: spa
     name: Idioma usku
   - translation_iso: zho

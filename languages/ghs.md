@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: グフ・サマネ語
     auto: true
+  - translation_iso: por
+    name: Guhu-Samane
+    auto: true
   - translation_iso: spa
     name: Guhu-Samane
     auto: true

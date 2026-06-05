@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ガンテーヤコカ語
     auto: true
+  - translation_iso: por
+    name: Língua siona
   - translation_iso: spa
     name: Siona
     auto: true

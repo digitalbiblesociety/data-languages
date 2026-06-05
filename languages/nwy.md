@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ノッタウェイ・メヘリン語
     auto: true
+  - translation_iso: por
+    name: Nottoway-Meherrin
+    auto: true
   - translation_iso: spa
     name: Nottoway-Meherrin
     auto: true

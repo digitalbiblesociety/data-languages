@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: 古マニプリ語
     auto: true
+  - translation_iso: por
+    name: manipuri antigo
+    auto: true
   - translation_iso: spa
     name: Manipuri antiguo
     auto: true

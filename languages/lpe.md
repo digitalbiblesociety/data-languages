@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: レプキ語
     auto: true
+  - translation_iso: por
+    name: Língua lepki
   - translation_iso: spa
     name: Lepki
     auto: true

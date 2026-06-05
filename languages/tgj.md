@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: タギン語
     auto: true
+  - translation_iso: por
+    name: Tagin
+    auto: true
   - translation_iso: spa
     name: Tagin
     auto: true

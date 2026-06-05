@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キツバ語
     auto: true
+  - translation_iso: por
+    name: quituba (Congo)
+    auto: true
   - translation_iso: spa
     name: Kituba
   - translation_iso: zho

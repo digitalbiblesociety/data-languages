@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヌータ語
+  - translation_iso: por
+    name: Língua anuta
   - translation_iso: spa
     name: Anuta
     auto: true

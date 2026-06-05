@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: センゲレ語
     auto: true
+  - translation_iso: por
+    name: Sengele
+    auto: true
   - translation_iso: spa
     name: Sengele
     auto: true

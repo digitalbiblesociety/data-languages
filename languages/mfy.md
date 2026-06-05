@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マヨ語
+  - translation_iso: por
+    name: Língua mayo
   - translation_iso: spa
     name: mayo
   - translation_iso: zho

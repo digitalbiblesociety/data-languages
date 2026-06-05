@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジェレ語
     auto: true
+  - translation_iso: por
+    name: Jere
+    auto: true
   - translation_iso: spa
     name: Jere
     auto: true

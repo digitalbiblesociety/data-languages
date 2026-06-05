@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガッレ語
     auto: true
+  - translation_iso: por
+    name: Garre
+    auto: true
   - translation_iso: spa
     name: Garre
     auto: true

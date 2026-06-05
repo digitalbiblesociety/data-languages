@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ンドゥンダ語
     auto: true
+  - translation_iso: por
+    name: Ndunda
+    auto: true
   - translation_iso: spa
     name: Ndunda
     auto: true

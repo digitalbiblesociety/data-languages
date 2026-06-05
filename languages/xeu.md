@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ケオル・アヒア語
     auto: true
+  - translation_iso: por
+    name: Keoru-Ahia
+    auto: true
   - translation_iso: spa
     name: Keoru-Ahia
     auto: true

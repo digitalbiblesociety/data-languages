@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: チャカリ語
     auto: true
+  - translation_iso: por
+    name: Chakali
+    auto: true
   - translation_iso: spa
     name: Chakali
     auto: true

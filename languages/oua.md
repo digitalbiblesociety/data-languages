@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルグラ語
+  - translation_iso: por
+    name: Tagargrent
+    auto: true
   - translation_iso: spa
     name: Idioma ouargli
   - translation_iso: zho

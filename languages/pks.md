@@ -25,6 +25,9 @@ translations:
     name: पाकिसतान इशारा
   - translation_iso: jpn
     name: パキスタン手話
+  - translation_iso: por
+    name: Língua de Sinais Paquistanesa
+    auto: true
   - translation_iso: spa
     name: lengua de señas pakistaní
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
     name: 北アルタイ語
   - translation_iso: kor
     name: 북부 알타이어
+  - translation_iso: por
+    name: Língua kumandi
   - translation_iso: spa
     name: Altái septentrional
     auto: true

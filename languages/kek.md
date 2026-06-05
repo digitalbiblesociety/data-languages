@@ -29,6 +29,8 @@ translations:
     name: ケクチ語
   - translation_iso: kor
     name: 켁치어
+  - translation_iso: por
+    name: Língua queqchi
   - translation_iso: spa
     name: quekchí
   - translation_iso: zho

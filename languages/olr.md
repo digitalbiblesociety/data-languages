@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: オルラット語
     auto: true
+  - translation_iso: por
+    name: Olrat
+    auto: true
   - translation_iso: spa
     name: Olrat
     auto: true

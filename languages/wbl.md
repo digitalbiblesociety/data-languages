@@ -28,6 +28,8 @@ translations:
     name: ワヒ語
   - translation_iso: kor
     name: 와히어
+  - translation_iso: por
+    name: Língua wakhi
   - translation_iso: spa
     name: wají
   - translation_iso: zho

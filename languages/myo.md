@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アンフィッロ語
     auto: true
+  - translation_iso: por
+    name: Anfillo
+    auto: true
   - translation_iso: spa
     name: Anfillo
     auto: true

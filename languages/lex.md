@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ルアン語
     auto: true
+  - translation_iso: por
+    name: Luang
+    auto: true
   - translation_iso: spa
     name: Luang
     auto: true

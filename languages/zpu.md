@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤララグ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Yalálag
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Yalálag
   - translation_iso: zho

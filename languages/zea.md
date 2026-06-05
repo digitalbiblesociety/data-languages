@@ -29,6 +29,8 @@ translations:
     name: ゼーランド語
   - translation_iso: kor
     name: 제일란트어
+  - translation_iso: por
+    name: zeêuws
   - translation_iso: spa
     name: zelandés
   - translation_iso: zho

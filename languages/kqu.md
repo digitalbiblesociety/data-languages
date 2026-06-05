@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: セロア語
     auto: true
+  - translation_iso: por
+    name: Seroa
+    auto: true
   - translation_iso: spa
     name: Seroa
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トロム語
     auto: true
+  - translation_iso: por
+    name: Toram
+    auto: true
   - translation_iso: spa
     name: Toram
     auto: true

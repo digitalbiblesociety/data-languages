@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・ムリア語
     auto: true
+  - translation_iso: por
+    name: muria ocidental
+    auto: true
   - translation_iso: spa
     name: Muria Occidental
     auto: true

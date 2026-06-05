@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニミャルティ語
     auto: true
+  - translation_iso: por
+    name: Tera
+    auto: true
   - translation_iso: spa
     name: Tera
     auto: true

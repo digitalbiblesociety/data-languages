@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: チヌーク語
     auto: true
+  - translation_iso: por
+    name: Língua baixo chinook
   - translation_iso: spa
     name: Chinook
     auto: true

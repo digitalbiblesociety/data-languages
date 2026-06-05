@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北パスタサキチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Pastaza Setentrional
+    auto: true
   - translation_iso: spa
     name: Quichua del Pastaza septentrional
     auto: true

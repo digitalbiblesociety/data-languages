@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 안도케어
+  - translation_iso: por
+    name: Língua andoque
   - translation_iso: spa
     name: idioma andoque
   - translation_iso: zho

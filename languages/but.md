@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブンガイン語
     auto: true
+  - translation_iso: por
+    name: Bungain
+    auto: true
   - translation_iso: spa
     name: Bungain
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイマク語
+  - translation_iso: por
+    name: Aimaq
+    auto: true
   - translation_iso: spa
     name: aimak
   - translation_iso: zho

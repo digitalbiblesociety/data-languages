@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北アラスカ・イヌピアツン語
+  - translation_iso: por
+    name: inupiatum do norte do Alasca
+    auto: true
   - translation_iso: spa
     name: Iñupiatun del norte de Alaska
     auto: true

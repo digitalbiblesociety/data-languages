@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベッタ・クルンバ語
     auto: true
+  - translation_iso: por
+    name: betta kurumba
+    auto: true
   - translation_iso: spa
     name: Betta Kurumba
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ティグリニャ語
   - translation_iso: kor
     name: 티그리냐어
+  - translation_iso: por
+    name: Língua tigrínia
   - translation_iso: spa
     name: idioma tigriña
   - translation_iso: zho

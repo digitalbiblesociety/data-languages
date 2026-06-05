@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ケンダヤン語
     auto: true
+  - translation_iso: por
+    name: Língua kendayan
   - translation_iso: spa
     name: Kendayan
     auto: true

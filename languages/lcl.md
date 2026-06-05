@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: リセラ語
     auto: true
+  - translation_iso: por
+    name: Lisela
+    auto: true
   - translation_iso: spa
     name: Lisela
     auto: true

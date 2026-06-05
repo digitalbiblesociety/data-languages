@@ -20,6 +20,8 @@ translations:
     name: ヴェーダ語
   - translation_iso: kor
     name: 베다 산스크리트어
+  - translation_iso: por
+    name: Sânscrito védico
   - translation_iso: spa
     name: Sánscrito védico
   - translation_iso: zho

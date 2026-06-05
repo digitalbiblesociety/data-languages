@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カラブラ語
     auto: true
+  - translation_iso: por
+    name: Kalabra
+    auto: true
   - translation_iso: spa
     name: Kalabra
     auto: true

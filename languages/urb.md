@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ウルブ語
     auto: true
+  - translation_iso: por
+    name: Língua caapor
   - translation_iso: spa
     name: Urubú-Kaapor
     auto: true

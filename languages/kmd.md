@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マジュカヤン・カリンガ語
     auto: true
+  - translation_iso: por
+    name: Kalinga de Majukayang
+    auto: true
   - translation_iso: spa
     name: Kalinga Majukayang
     auto: true

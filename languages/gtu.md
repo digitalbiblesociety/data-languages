@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: アグ・タルングガラ語
     auto: true
+  - translation_iso: por
+    name: Aghu-Tharnggala
+    auto: true
   - translation_iso: spa
     name: Idioma aghu-tharnggala
   - translation_iso: zho

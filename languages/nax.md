@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナクウィ語
     auto: true
+  - translation_iso: por
+    name: Nakwi
+    auto: true
   - translation_iso: spa
     name: Nakwi
     auto: true

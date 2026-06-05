@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: レティ語
     auto: true
+  - translation_iso: por
+    name: Leti (Camarões)
+    auto: true
   - translation_iso: spa
     name: Leti (Camerún)
     auto: true

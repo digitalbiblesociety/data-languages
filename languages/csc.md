@@ -28,6 +28,8 @@ translations:
     name: カタルーニャ手話
   - translation_iso: kor
     name: 카탈루냐어 수화
+  - translation_iso: por
+    name: Língua de sinais catalã
   - translation_iso: spa
     name: lengua de signos catalana
   - translation_iso: zho

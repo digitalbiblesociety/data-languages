@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フォロ語
+  - translation_iso: por
+    name: São-tomense
   - translation_iso: spa
     name: Criollo forro
   - translation_iso: zho

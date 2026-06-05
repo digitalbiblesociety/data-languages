@@ -27,6 +27,9 @@ translations:
     name: मालवी
   - translation_iso: jpn
     name: マールヴィー語
+  - translation_iso: por
+    name: Malvi
+    auto: true
   - translation_iso: spa
     name: Malvi
     auto: true

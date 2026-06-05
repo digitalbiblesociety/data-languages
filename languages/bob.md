@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アウェール語
     auto: true
+  - translation_iso: por
+    name: Aweer
+    auto: true
   - translation_iso: spa
     name: Aweer
     auto: true

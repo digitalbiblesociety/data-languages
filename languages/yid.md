@@ -21,6 +21,8 @@ translations:
     name: イディッシュ語
   - translation_iso: kor
     name: 이디시어
+  - translation_iso: por
+    name: língua iídiche
   - translation_iso: spa
     name: yidis
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: リキ語
     auto: true
+  - translation_iso: por
+    name: Liki
+    auto: true
   - translation_iso: spa
     name: Liki
     auto: true

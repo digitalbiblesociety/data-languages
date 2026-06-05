@@ -29,6 +29,8 @@ translations:
     name: ホアン語
   - translation_iso: kor
     name: ǂʼ암코이어
+  - translation_iso: por
+    name: Língua ǂ’amkoe
   - translation_iso: spa
     name: Idioma ǂhua
   - translation_iso: zho

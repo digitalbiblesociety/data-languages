@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トンベララ語
     auto: true
+  - translation_iso: por
+    name: Tombelala
+    auto: true
   - translation_iso: spa
     name: Tombelala
     auto: true

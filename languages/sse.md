@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バジャウ語
     auto: true
+  - translation_iso: por
+    name: Balangingi
+    auto: true
   - translation_iso: spa
     name: Balangingi
     auto: true

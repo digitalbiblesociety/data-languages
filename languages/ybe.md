@@ -29,6 +29,8 @@ translations:
     name: 西ユグル語
   - translation_iso: kor
     name: 서부 유구르어
+  - translation_iso: por
+    name: Língua uigur ocidental
   - translation_iso: spa
     name: Yugur occidental
     auto: true

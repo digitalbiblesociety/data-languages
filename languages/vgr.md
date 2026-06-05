@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: バヴリ語
     auto: true
+  - translation_iso: por
+    name: Vaghri
+    auto: true
   - translation_iso: spa
     name: Vaghri
     auto: true

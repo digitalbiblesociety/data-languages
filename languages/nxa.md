@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナウエテ語
     auto: true
+  - translation_iso: por
+    name: Nauete
+    auto: true
   - translation_iso: spa
     name: Nauete
     auto: true

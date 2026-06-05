@@ -28,6 +28,9 @@ translations:
     name: 古低地フランク語
   - translation_iso: kor
     name: 고대 네덜란드어
+  - translation_iso: por
+    name: neerlandês antigo
+    auto: true
   - translation_iso: spa
     name: neerlandés antiguo
   - translation_iso: zho

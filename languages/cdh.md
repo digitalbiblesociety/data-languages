@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: チャンベアリ語
     auto: true
+  - translation_iso: por
+    name: Língua chambeali
   - translation_iso: spa
     name: Chambeali
     auto: true

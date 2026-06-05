@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アバイ・スンガイ語
     auto: true
+  - translation_iso: por
+    name: Abai Sungai
+    auto: true
   - translation_iso: spa
     name: Abai Sungai
     auto: true

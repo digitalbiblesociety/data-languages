@@ -28,6 +28,8 @@ translations:
     name: カラチャイ・バルカル語
   - translation_iso: kor
     name: 카라차이발카르어
+  - translation_iso: por
+    name: Língua carachaio-bálcara
   - translation_iso: spa
     name: idioma karachái-bálkaro
   - translation_iso: zho

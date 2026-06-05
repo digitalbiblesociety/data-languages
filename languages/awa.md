@@ -28,6 +28,8 @@ translations:
     name: アワディー語
   - translation_iso: kor
     name: 아와히어
+  - translation_iso: por
+    name: awadhi
   - translation_iso: spa
     name: awadhi
   - translation_iso: zho

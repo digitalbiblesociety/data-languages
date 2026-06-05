@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: デオリ語
     auto: true
+  - translation_iso: por
+    name: Deori
+    auto: true
   - translation_iso: spa
     name: idioma deori
   - translation_iso: zho

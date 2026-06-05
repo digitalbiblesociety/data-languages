@@ -22,6 +22,8 @@ translations:
     name: パシュトー語
   - translation_iso: kor
     name: 파슈토어
+  - translation_iso: por
+    name: pastó
   - translation_iso: spa
     name: pastún
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     name: हड़ौती भाषा
   - translation_iso: jpn
     name: ハーラウト方言
+  - translation_iso: por
+    name: Hadothi
+    auto: true
   - translation_iso: spa
     name: Hadothi
     auto: true

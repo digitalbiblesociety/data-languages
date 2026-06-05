@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クルング語
     auto: true
+  - translation_iso: por
+    name: Kulung (Nigéria)
+    auto: true
   - translation_iso: spa
     name: kulung
   - translation_iso: zho

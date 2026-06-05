@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤングラム語
     auto: true
+  - translation_iso: por
+    name: yangulam
+    auto: true
   - translation_iso: spa
     name: Yangulam
     auto: true

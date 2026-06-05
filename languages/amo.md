@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アモ語
     auto: true
+  - translation_iso: por
+    name: Amo
+    auto: true
   - translation_iso: spa
     name: Amo
     auto: true

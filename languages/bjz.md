@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バルガ語
     auto: true
+  - translation_iso: por
+    name: Baruga
+    auto: true
   - translation_iso: spa
     name: Baruga
     auto: true

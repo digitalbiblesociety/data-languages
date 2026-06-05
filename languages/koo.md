@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: コンゾ語
     auto: true
+  - translation_iso: por
+    name: Língua konjo
   - translation_iso: spa
     name: Konzo
     auto: true

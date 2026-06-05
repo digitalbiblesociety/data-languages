@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マキャン語
     auto: true
+  - translation_iso: por
+    name: Makyan Naga
+    auto: true
   - translation_iso: spa
     name: Naga Makyan
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東イディッシュ語
+  - translation_iso: por
+    name: ídiche oriental
+    auto: true
   - translation_iso: spa
     name: yidis oriental
   - translation_iso: zho

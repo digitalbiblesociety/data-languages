@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: キサカタ語
     auto: true
+  - translation_iso: por
+    name: Sakata
+    auto: true
   - translation_iso: spa
     name: Sakata
     auto: true

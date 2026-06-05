@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 北フニン語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Junín do Norte
+    auto: true
   - translation_iso: spa
     name: Quechua del norte de Junín
   - translation_iso: zho

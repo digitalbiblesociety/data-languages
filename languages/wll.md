@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワリ語（スーダン）
     auto: true
+  - translation_iso: por
+    name: Wali (Sudão)
+    auto: true
   - translation_iso: spa
     name: wali
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ハンガ語
     auto: true
+  - translation_iso: por
+    name: Hanga
+    auto: true
   - translation_iso: spa
     name: Hanga
     auto: true

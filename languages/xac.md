@@ -27,6 +27,9 @@ translations:
     name: कछारी भाषा
   - translation_iso: jpn
     name: カチャリ語
+  - translation_iso: por
+    name: Kachari
+    auto: true
   - translation_iso: spa
     name: idioma kachari
   - translation_iso: zho

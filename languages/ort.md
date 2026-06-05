@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: アディバシ・オリヤ語
     auto: true
+  - translation_iso: por
+    name: Oriá Adivasi
+    auto: true
   - translation_iso: spa
     name: Oriya adivasi
     auto: true

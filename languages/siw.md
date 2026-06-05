@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モトゥナ語
+  - translation_iso: por
+    name: Língua siwai
   - translation_iso: spa
     name: Siwai
     auto: true

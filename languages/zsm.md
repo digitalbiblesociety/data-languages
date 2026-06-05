@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 標準マレー語
+  - translation_iso: por
+    name: malaio padrão
+    auto: true
   - translation_iso: spa
     name: Malayo estándar
     auto: true

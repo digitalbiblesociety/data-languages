@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: フォラク語
     auto: true
+  - translation_iso: por
+    name: Forak
+    auto: true
   - translation_iso: spa
     name: Forak
     auto: true

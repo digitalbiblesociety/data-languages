@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サア語
+  - translation_iso: por
+    name: "Língua sa'a"
   - translation_iso: spa
     name: "Sa'a"
     auto: true

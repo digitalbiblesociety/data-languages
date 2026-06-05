@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ファタレカ語
     auto: true
+  - translation_iso: por
+    name: Fataleka
+    auto: true
   - translation_iso: spa
     name: Fataleka
     auto: true

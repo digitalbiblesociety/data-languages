@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南西パラワーノ語
     auto: true
+  - translation_iso: por
+    name: Palawano Sudoeste
+    auto: true
   - translation_iso: spa
     name: Palawano suroccidental
     auto: true

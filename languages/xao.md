@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: カオ語
     auto: true
+  - translation_iso: por
+    name: Khao
+    auto: true
   - translation_iso: spa
     name: Khao
     auto: true

@@ -19,7 +19,7 @@ translations:
     name: كيبو
     auto: true
   - translation_iso: deu
-    name: "Kepo'"
+    name: Kepo
   - translation_iso: fra
     name: kepo
   - translation_iso: hin
@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ケポ語
     auto: true
+  - translation_iso: por
+    name: "Kepo'"
   - translation_iso: spa
     name: Kepo
   - translation_iso: zho

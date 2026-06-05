@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カリンガニ語
     auto: true
+  - translation_iso: por
+    name: Karingani
+    auto: true
   - translation_iso: spa
     name: Karingani
     auto: true

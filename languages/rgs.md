@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南ログライ語
     auto: true
+  - translation_iso: por
+    name: Roglai Meridional
+    auto: true
   - translation_iso: spa
     name: Roglai meridional
     auto: true

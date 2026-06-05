@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セカニ語
+  - translation_iso: por
+    name: Língua sekani
   - translation_iso: spa
     name: Sekani
   - translation_iso: zho

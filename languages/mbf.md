@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ババ・マレー語
     auto: true
+  - translation_iso: por
+    name: Malaio baba
+    auto: true
   - translation_iso: spa
     name: Malayo Baba
     auto: true

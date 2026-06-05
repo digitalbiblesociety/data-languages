@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルガマイ語
+  - translation_iso: por
+    name: Warrgamay
+    auto: true
   - translation_iso: spa
     name: Idioma warrgamay
   - translation_iso: zho

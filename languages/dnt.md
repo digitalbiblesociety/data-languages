@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミッド・グランド・ヴァレー・ダニ語
     auto: true
+  - translation_iso: por
+    name: Dani do Médio Grand Valley
+    auto: true
   - translation_iso: spa
     name: Dani del Valle Grande Medio
     auto: true

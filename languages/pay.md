@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ペッチ語
     auto: true
+  - translation_iso: por
+    name: Língua pech
   - translation_iso: spa
     name: paya
   - translation_iso: zho

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 하류 버드킨 제어
+  - translation_iso: por
+    name: Burdekin Inferior
+    auto: true
   - translation_iso: spa
     name: Lower Burdekin
     auto: true

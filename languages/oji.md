@@ -21,6 +21,8 @@ translations:
     name: オジブウェー語
   - translation_iso: kor
     name: 오지브와어
+  - translation_iso: por
+    name: Língua ojíbua
   - translation_iso: spa
     name: Idioma ojibwa
   - translation_iso: zho

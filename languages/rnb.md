@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ブルンカ手話
     auto: true
+  - translation_iso: por
+    name: Língua de Sinais Brunca
+    auto: true
   - translation_iso: spa
     name: Lengua de señas brunca
     auto: true

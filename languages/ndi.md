@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サンバ・レコ語
     auto: true
+  - translation_iso: por
+    name: Samba Leko
+    auto: true
   - translation_iso: spa
     name: Chamba leko
   - translation_iso: zho

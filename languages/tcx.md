@@ -26,6 +26,8 @@ translations:
     name: टोडा भाषा
   - translation_iso: jpn
     name: トダ語
+  - translation_iso: por
+    name: Língua toda
   - translation_iso: spa
     name: toda
   - translation_iso: zho

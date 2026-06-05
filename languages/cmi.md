@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: エンベラ・チャミ語
     auto: true
+  - translation_iso: por
+    name: Língua chami
   - translation_iso: spa
     name: Emberá-Chamí
     auto: true

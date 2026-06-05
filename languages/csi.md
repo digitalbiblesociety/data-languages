@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コースト・ミウォク語
     auto: true
+  - translation_iso: por
+    name: Miwok da Costa
+    auto: true
   - translation_iso: spa
     name: Miwok Costero
     auto: true

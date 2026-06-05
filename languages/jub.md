@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ワンヌ語
     auto: true
+  - translation_iso: por
+    name: Wannu
+    auto: true
   - translation_iso: spa
     name: Wannu
     auto: true

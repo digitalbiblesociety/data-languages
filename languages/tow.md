@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トワ語
+  - translation_iso: por
+    name: Jemez
+    auto: true
   - translation_iso: spa
     name: idioma jémez
   - translation_iso: zho

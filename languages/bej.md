@@ -28,6 +28,8 @@ translations:
     name: ベジャ語
   - translation_iso: kor
     name: 베자어
+  - translation_iso: por
+    name: Língua beja
   - translation_iso: spa
     name: Idioma beya
   - translation_iso: zho

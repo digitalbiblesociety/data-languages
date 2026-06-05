@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イェンダング語
     auto: true
+  - translation_iso: por
+    name: yendang
+    auto: true
   - translation_iso: spa
     name: Yendang
     auto: true

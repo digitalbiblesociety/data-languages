@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブング語
+  - translation_iso: por
+    name: Bung
+    auto: true
   - translation_iso: spa
     name: Bung
     auto: true

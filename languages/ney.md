@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ネヨ語
     auto: true
+  - translation_iso: por
+    name: Língua neyo
   - translation_iso: spa
     name: neyo
   - translation_iso: zho

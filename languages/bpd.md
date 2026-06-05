@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バンダ・バンダ語
     auto: true
+  - translation_iso: por
+    name: Banda-Banda
+    auto: true
   - translation_iso: spa
     name: Banda-Banda
     auto: true

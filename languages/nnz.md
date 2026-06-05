@@ -19,7 +19,7 @@ translations:
     name: "ندا'ندا"
     auto: true
   - translation_iso: deu
-    name: "Nda'nda'"
+    name: "Nda'nda"
   - translation_iso: fra
     name: "nda'nda"
   - translation_iso: hin
@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンダンダ語
+    auto: true
+  - translation_iso: por
+    name: "Nda'nda'"
     auto: true
   - translation_iso: spa
     name: "Nda'nda"

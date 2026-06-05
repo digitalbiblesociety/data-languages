@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イタイタ語
+  - translation_iso: por
+    name: Yitha Yitha
+    auto: true
   - translation_iso: spa
     name: idioma yitha-yitha
   - translation_iso: zho

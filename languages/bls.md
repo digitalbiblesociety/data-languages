@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バラエサン語
     auto: true
+  - translation_iso: por
+    name: Balaesang
   - translation_iso: spa
     name: Balaesang
   - translation_iso: zho

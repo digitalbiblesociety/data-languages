@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南ヤンフ語
     auto: true
+  - translation_iso: por
+    name: Yamphu do Sul
+    auto: true
   - translation_iso: spa
     name: Yamphu meridional
     auto: true

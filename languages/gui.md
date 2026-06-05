@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チリグアノ族
+  - translation_iso: por
+    name: Guarani oriental boliviano
   - translation_iso: spa
     name: guaraní oriental boliviano
   - translation_iso: zho

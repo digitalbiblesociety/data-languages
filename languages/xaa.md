@@ -29,6 +29,8 @@ translations:
     name: アル・アンダルス＝アラビア語
   - translation_iso: kor
     name: 안달루시아 구어체 아랍어
+  - translation_iso: por
+    name: dialecto árabe andalusino
   - translation_iso: spa
     name: árabe andalusí
   - translation_iso: zho

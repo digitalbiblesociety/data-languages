@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヌアク語
+  - translation_iso: por
+    name: Anuak
+    auto: true
   - translation_iso: spa
     name: Anuak
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サタワル語
+  - translation_iso: por
+    name: Língua satawalesa
   - translation_iso: spa
     name: satawal
   - translation_iso: zho

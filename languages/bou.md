@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボンデイ語
+  - translation_iso: por
+    name: Bondei
+    auto: true
   - translation_iso: spa
     name: Bondei
     auto: true

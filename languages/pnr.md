@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パニム語
     auto: true
+  - translation_iso: por
+    name: Panim
+    auto: true
   - translation_iso: spa
     name: Panim
     auto: true

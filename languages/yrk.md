@@ -29,6 +29,9 @@ translations:
     name: ネネツ語
   - translation_iso: kor
     name: 네네츠어
+  - translation_iso: por
+    name: nenets
+    auto: true
   - translation_iso: spa
     name: nenezo
   - translation_iso: zho

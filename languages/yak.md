@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤカマ語
+  - translation_iso: por
+    name: yakama
+    auto: true
   - translation_iso: spa
     name: Yakama
     auto: true

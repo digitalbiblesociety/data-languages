@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ファンバク語
     auto: true
+  - translation_iso: por
+    name: Fanbak
+    auto: true
   - translation_iso: spa
     name: Fanbak
     auto: true

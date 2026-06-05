@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケヌズ語
+  - translation_iso: por
+    name: Língua kenzi
   - translation_iso: spa
     name: Kenzi
     auto: true

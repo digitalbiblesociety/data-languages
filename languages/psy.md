@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ピスカタウェイ語
     auto: true
+  - translation_iso: por
+    name: Piscataway
   - translation_iso: spa
     name: Piscataway
   - translation_iso: zho

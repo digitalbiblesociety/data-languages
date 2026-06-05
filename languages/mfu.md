@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムブウェラ語
     auto: true
+  - translation_iso: por
+    name: Mbwela
+    auto: true
   - translation_iso: spa
     name: Idioma mbwela
   - translation_iso: zho

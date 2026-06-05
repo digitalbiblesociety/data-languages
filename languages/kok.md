@@ -22,6 +22,8 @@ translations:
     name: コンカニ語
   - translation_iso: kor
     name: 콘칸어
+  - translation_iso: por
+    name: língua concani
   - translation_iso: spa
     name: konkaní
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北ワン語
     auto: true
+  - translation_iso: por
+    name: One Setentrional
+    auto: true
   - translation_iso: spa
     name: One septentrional
     auto: true

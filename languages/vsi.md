@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モルドバ手話
+  - translation_iso: por
+    name: Língua de Sinais da Moldávia
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas de Moldavia
     auto: true

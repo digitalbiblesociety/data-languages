@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アノル語
     auto: true
+  - translation_iso: por
+    name: Anor
+    auto: true
   - translation_iso: spa
     name: Idioma anor
   - translation_iso: zho

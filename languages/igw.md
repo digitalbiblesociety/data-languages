@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イグウェ語
     auto: true
+  - translation_iso: por
+    name: Igwe
+    auto: true
   - translation_iso: spa
     name: Igwe
     auto: true

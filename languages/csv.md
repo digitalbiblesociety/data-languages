@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: スムツ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Sumtu
+    auto: true
   - translation_iso: spa
     name: Chin Sumtu
     auto: true

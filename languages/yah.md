@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤズグリャム語
+  - translation_iso: por
+    name: língua yazgulyam
   - translation_iso: spa
     name: Yazgulyam
     auto: true

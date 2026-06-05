@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: デニ語
     auto: true
+  - translation_iso: por
+    name: Língua deni
   - translation_iso: spa
     name: dení
   - translation_iso: zho

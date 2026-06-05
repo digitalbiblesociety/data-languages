@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウラリナ語
+  - translation_iso: por
+    name: Língua urarina
   - translation_iso: spa
     name: urarina
   - translation_iso: zho

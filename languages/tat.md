@@ -28,6 +28,8 @@ translations:
     name: タタール語
   - translation_iso: kor
     name: 타타르어
+  - translation_iso: por
+    name: tártaro
   - translation_iso: spa
     name: tártaro
   - translation_iso: zho

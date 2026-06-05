@@ -28,6 +28,8 @@ translations:
     name: ウンブリア語
   - translation_iso: kor
     name: 움브리아어
+  - translation_iso: por
+    name: umbro
   - translation_iso: spa
     name: Idioma umbro
   - translation_iso: zho

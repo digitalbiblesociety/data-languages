@@ -25,6 +25,8 @@ translations:
     name: ブリスシンボル
   - translation_iso: kor
     name: 블리스심볼
+  - translation_iso: por
+    name: Semantografia
   - translation_iso: spa
     name: símbolos Bliss
   - translation_iso: zho

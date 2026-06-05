@@ -26,6 +26,8 @@ translations:
     name: मलेशियाई सांकेतिक भाषा
   - translation_iso: jpn
     name: マレーシア手話
+  - translation_iso: por
+    name: Língua de sinais malasiana
   - translation_iso: spa
     name: Lengua de señas malaya
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: 西フィジー語
     auto: true
+  - translation_iso: por
+    name: Língua fijiana ocidental
   - translation_iso: spa
     name: Fiyiano occidental
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イナパン語
     auto: true
+  - translation_iso: por
+    name: Inapang
+    auto: true
   - translation_iso: spa
     name: Inapang
     auto: true

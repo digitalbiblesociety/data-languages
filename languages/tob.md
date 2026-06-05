@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トバ語 (アルゼンチン)
+  - translation_iso: por
+    name: Língua toba
   - translation_iso: spa
     name: idioma toba
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: バンバム語
     auto: true
+  - translation_iso: por
+    name: Lingua bambam
   - translation_iso: spa
     name: Bambam
     auto: true

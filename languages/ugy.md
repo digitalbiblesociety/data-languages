@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウルグアイ手話
+  - translation_iso: por
+    name: Língua de Sinais do Uruguai
   - translation_iso: spa
     name: lengua de señas uruguaya
   - translation_iso: zho

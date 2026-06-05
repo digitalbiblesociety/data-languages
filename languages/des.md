@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デサノ語
+  - translation_iso: por
+    name: Língua desana
   - translation_iso: spa
     name: idioma desano
   - translation_iso: zho

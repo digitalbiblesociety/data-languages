@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダバ語
     auto: true
+  - translation_iso: por
+    name: Daba
+    auto: true
   - translation_iso: spa
     name: Daba
     auto: true

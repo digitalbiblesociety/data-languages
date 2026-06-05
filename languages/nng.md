@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マリング・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Maring
+    auto: true
   - translation_iso: spa
     name: Naga Maring
     auto: true

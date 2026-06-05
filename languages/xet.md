@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シェタ語
+  - translation_iso: por
+    name: Língua xetá
   - translation_iso: spa
     name: Xetá
   - translation_iso: zho

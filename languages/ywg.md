@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イインハワンカ語
     auto: true
+  - translation_iso: por
+    name: yinhawangka
+    auto: true
   - translation_iso: spa
     name: Yinhawangka
     auto: true

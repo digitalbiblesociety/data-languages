@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンギエ語
     auto: true
+  - translation_iso: por
+    name: Ngie
+    auto: true
   - translation_iso: spa
     name: Ngie
     auto: true

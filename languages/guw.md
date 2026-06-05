@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グン語
+  - translation_iso: por
+    name: Gun
+    auto: true
   - translation_iso: spa
     name: Idioma Gungbe
   - translation_iso: zho

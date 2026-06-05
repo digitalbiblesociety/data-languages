@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アダンゲベ語
     auto: true
+  - translation_iso: por
+    name: Adangbe
+    auto: true
   - translation_iso: spa
     name: Adangbe
     auto: true

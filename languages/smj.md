@@ -28,6 +28,8 @@ translations:
     name: ルレ・サーミ語
   - translation_iso: kor
     name: 룰레 사미어
+  - translation_iso: por
+    name: língua sami de Lule
   - translation_iso: spa
     name: sami de Lule
   - translation_iso: zho

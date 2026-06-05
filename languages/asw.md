@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オーストラリア・アボリジニ手話
+  - translation_iso: por
+    name: Línguas de sinais de aborígenes australianos
   - translation_iso: spa
     name: Lengua de señas de los aborígenes australianos
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ピッリヤ語
     auto: true
+  - translation_iso: por
+    name: Pirriya
+    auto: true
   - translation_iso: spa
     name: Pirriya
     auto: true

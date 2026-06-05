@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エンゲニ語
     auto: true
+  - translation_iso: por
+    name: Engenni
+    auto: true
   - translation_iso: spa
     name: Engenni
     auto: true

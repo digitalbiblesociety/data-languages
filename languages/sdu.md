@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ドダ語
     auto: true
+  - translation_iso: por
+    name: Sarudu
+    auto: true
   - translation_iso: spa
     name: Sarudu
     auto: true

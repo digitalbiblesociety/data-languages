@@ -28,6 +28,8 @@ translations:
     name: ウォロフ語
   - translation_iso: kor
     name: 월로프어
+  - translation_iso: por
+    name: Língua uolofe
   - translation_iso: spa
     name: wólof
   - translation_iso: zho

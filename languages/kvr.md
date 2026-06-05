@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クリンチ語
+  - translation_iso: por
+    name: Kerinci
   - translation_iso: spa
     name: Kerinci
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南東テペフアン語
     auto: true
+  - translation_iso: por
+    name: Tepehuán do Sudeste
+    auto: true
   - translation_iso: spa
     name: Tepehuano sureño
   - translation_iso: zho

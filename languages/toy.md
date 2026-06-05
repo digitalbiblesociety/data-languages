@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トポイヨ語
     auto: true
+  - translation_iso: por
+    name: Topoiyo
+    auto: true
   - translation_iso: spa
     name: Topoiyo
     auto: true

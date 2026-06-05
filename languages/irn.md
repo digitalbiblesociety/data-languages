@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イランシェ語
+  - translation_iso: por
+    name: Língua iranxe
   - translation_iso: spa
     name: Idioma irantxe
   - translation_iso: zho

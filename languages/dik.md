@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南西ディンカ語
+  - translation_iso: por
+    name: Dinka Sudoeste
+    auto: true
   - translation_iso: spa
     name: dinka sudoccidental
   - translation_iso: zho

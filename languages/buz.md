@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブクウェン語
     auto: true
+  - translation_iso: por
+    name: Bukwen
+    auto: true
   - translation_iso: spa
     name: Bukwen
     auto: true

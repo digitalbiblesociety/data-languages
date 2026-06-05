@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヴィヤ語
+  - translation_iso: por
+    name: Eviya
+    auto: true
   - translation_iso: spa
     name: Eviya
     auto: true

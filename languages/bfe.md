@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベタフ語
     auto: true
+  - translation_iso: por
+    name: Betaf
+    auto: true
   - translation_iso: spa
     name: Betaf
     auto: true

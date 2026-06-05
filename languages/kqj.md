@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: コロミラ語
     auto: true
+  - translation_iso: por
+    name: Koromira
+    auto: true
   - translation_iso: spa
     name: Koromira
     auto: true

@@ -29,6 +29,9 @@ translations:
     name: カリャワヤ語
   - translation_iso: kor
     name: 칼라와야어
+  - translation_iso: por
+    name: Callawalla
+    auto: true
   - translation_iso: spa
     name: idioma kallawaya
   - translation_iso: zho

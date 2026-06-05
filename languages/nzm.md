@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ゼメ・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Zeme
+    auto: true
   - translation_iso: spa
     name: zeme
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ヌクイニ語
     auto: true
+  - translation_iso: por
+    name: Nukuiní
   - translation_iso: spa
     name: Nukuini
     auto: true

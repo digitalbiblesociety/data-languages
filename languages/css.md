@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サザン・オーロン語
     auto: true
+  - translation_iso: por
+    name: Ohlone Meridional
+    auto: true
   - translation_iso: spa
     name: Ohlone Meridional
     auto: true

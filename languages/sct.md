@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サザン・カタン語
     auto: true
+  - translation_iso: por
+    name: Katang Meridional
+    auto: true
   - translation_iso: spa
     name: Katang meridional
     auto: true

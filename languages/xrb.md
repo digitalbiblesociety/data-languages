@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: 東カラボロ語
     auto: true
+  - translation_iso: por
+    name: Língua caraboro oriental
   - translation_iso: spa
     name: Kar
   - translation_iso: zho

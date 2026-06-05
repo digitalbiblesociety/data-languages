@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンバキッチ語
     auto: true
+  - translation_iso: por
+    name: Ambakich
+    auto: true
   - translation_iso: spa
     name: Ambakich
     auto: true

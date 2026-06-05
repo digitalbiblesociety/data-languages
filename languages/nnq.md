@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ングインド語
     auto: true
+  - translation_iso: por
+    name: Ngindo
+    auto: true
   - translation_iso: spa
     name: Ngindo
     auto: true

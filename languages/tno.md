@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トロモナ語
+  - translation_iso: por
+    name: Toromono
+    auto: true
   - translation_iso: spa
     name: Toromono
     auto: true

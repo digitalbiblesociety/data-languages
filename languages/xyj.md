@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: マイイ・ヤピ語
     auto: true
+  - translation_iso: por
+    name: mayi-yapi
+    auto: true
   - translation_iso: spa
     name: Mayi-Yapi
     auto: true

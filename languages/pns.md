@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポノサカン語
+  - translation_iso: por
+    name: Ponosakan
   - translation_iso: spa
     name: Ponosakan
   - translation_iso: zho

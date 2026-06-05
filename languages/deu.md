@@ -28,6 +28,8 @@ translations:
     name: ドイツ語
   - translation_iso: kor
     name: 독일어
+  - translation_iso: por
+    name: alemão
   - translation_iso: spa
     name: alemán
   - translation_iso: zho

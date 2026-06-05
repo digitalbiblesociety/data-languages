@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 西ペナン語
     auto: true
+  - translation_iso: por
+    name: Penan Ocidental
+    auto: true
   - translation_iso: spa
     name: Penan occidental
     auto: true

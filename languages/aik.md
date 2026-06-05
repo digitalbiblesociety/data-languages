@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アケ語
     auto: true
+  - translation_iso: por
+    name: Ake
+    auto: true
   - translation_iso: spa
     name: Ake
     auto: true

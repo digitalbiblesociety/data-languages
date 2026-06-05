@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ケニイ語
     auto: true
+  - translation_iso: por
+    name: Kenyi
+    auto: true
   - translation_iso: spa
     name: Kenyi
     auto: true

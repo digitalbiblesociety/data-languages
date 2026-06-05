@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キェネレ語
     auto: true
+  - translation_iso: por
+    name: Kyenele
+    auto: true
   - translation_iso: spa
     name: Kyenele
     auto: true

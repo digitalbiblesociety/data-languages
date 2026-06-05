@@ -28,6 +28,9 @@ translations:
     name: भरीयाटी
   - translation_iso: jpn
     name: バリアティ
+  - translation_iso: por
+    name: Bharia
+    auto: true
   - translation_iso: spa
     name: Bharia
     auto: true

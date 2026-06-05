@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: タルフモ語
     auto: true
+  - translation_iso: por
+    name: Tarjumo
+    auto: true
   - translation_iso: spa
     name: Tarjumo
     auto: true

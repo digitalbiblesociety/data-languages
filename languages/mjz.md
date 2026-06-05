@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: マジ語
     auto: true
+  - translation_iso: por
+    name: Majhi
+    auto: true
   - translation_iso: spa
     name: Majhi
     auto: true

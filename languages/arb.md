@@ -27,6 +27,9 @@ translations:
     name: フスハー
   - translation_iso: kor
     name: 표준 아랍어
+  - translation_iso: por
+    name: Árabe
+    auto: true
   - translation_iso: spa
     name: Árabe estándar moderno
     auto: true

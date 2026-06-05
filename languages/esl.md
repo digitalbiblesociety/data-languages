@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エジプト手話
+  - translation_iso: por
+    name: Língua de Sinais Egípcia
   - translation_iso: spa
     name: Lengua de señas egipcia
     auto: true

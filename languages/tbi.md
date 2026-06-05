@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ガアム語
     auto: true
+  - translation_iso: por
+    name: Gaam
+    auto: true
   - translation_iso: spa
     name: Idioma gaam
   - translation_iso: zho

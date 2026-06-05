@@ -28,6 +28,8 @@ translations:
     name: ヘレロ語
   - translation_iso: kor
     name: 헤레로어
+  - translation_iso: por
+    name: hereró
   - translation_iso: spa
     name: herero
   - translation_iso: zho

@@ -27,6 +27,8 @@ translations:
     name: パフラヴィー語
   - translation_iso: kor
     name: 팔라비어
+  - translation_iso: por
+    name: Persa médio
   - translation_iso: spa
     name: Persa medio
   - translation_iso: zho

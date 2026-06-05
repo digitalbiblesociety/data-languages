@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カバテイ語
     auto: true
+  - translation_iso: por
+    name: Kabatei
+    auto: true
   - translation_iso: spa
     name: Kabatei
     auto: true

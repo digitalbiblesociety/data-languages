@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムバングウェ語
     auto: true
+  - translation_iso: por
+    name: Mbangwe
+    auto: true
   - translation_iso: spa
     name: Mbangwe
     auto: true

@@ -27,6 +27,9 @@ translations:
     name: चेपाङ भाषा
   - translation_iso: jpn
     name: チェパン語
+  - translation_iso: por
+    name: Chepang
+    auto: true
   - translation_iso: spa
     name: Chepang
     auto: true

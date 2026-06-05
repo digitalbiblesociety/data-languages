@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シダ語
     auto: true
+  - translation_iso: por
+    name: Sila
+    auto: true
   - translation_iso: spa
     name: Sila
     auto: true

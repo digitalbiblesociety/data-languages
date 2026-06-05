@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ミンキン語
     auto: true
+  - translation_iso: por
+    name: minkin
+    auto: true
   - translation_iso: spa
     name: Idioma minkin
   - translation_iso: zho

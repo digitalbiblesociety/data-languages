@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: インサ語
     auto: true
+  - translation_iso: por
+    name: Intha
+    auto: true
   - translation_iso: spa
     name: Intha
     auto: true

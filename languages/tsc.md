@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ツワ語
+  - translation_iso: por
+    name: Língua tswa
   - translation_iso: spa
     name: Tswa
     auto: true

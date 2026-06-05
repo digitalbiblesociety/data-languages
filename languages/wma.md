@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マワ語
+  - translation_iso: por
+    name: Mawa (Nigéria)
+    auto: true
   - translation_iso: spa
     name: Mawa
     auto: true

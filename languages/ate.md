@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アテンブレ語
     auto: true
+  - translation_iso: por
+    name: Atemble
+    auto: true
   - translation_iso: spa
     name: Atemble
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガパパイワ語
     auto: true
+  - translation_iso: por
+    name: Gapapaiwa
+    auto: true
   - translation_iso: spa
     name: Gapapaiwa
     auto: true

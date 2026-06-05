@@ -29,6 +29,8 @@ translations:
     name: アルピタン語
   - translation_iso: kor
     name: 프랑코프로방스어
+  - translation_iso: por
+    name: franco-provençal
   - translation_iso: spa
     name: franco-provenzal
   - translation_iso: zho

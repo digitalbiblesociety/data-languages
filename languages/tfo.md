@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: テファロ語
     auto: true
+  - translation_iso: por
+    name: Tefaro
+    auto: true
   - translation_iso: spa
     name: Tefaro
     auto: true

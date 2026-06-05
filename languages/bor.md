@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ボロロ語
     auto: true
+  - translation_iso: por
+    name: Língua bororo
   - translation_iso: spa
     name: Bororo
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ヤップ語
   - translation_iso: kor
     name: 야프어
+  - translation_iso: por
+    name: Língua yap
   - translation_iso: spa
     name: Idioma yapés
   - translation_iso: zho

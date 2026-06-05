@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アバル語
     auto: true
+  - translation_iso: por
+    name: Abar
+    auto: true
   - translation_iso: spa
     name: Abar
     auto: true

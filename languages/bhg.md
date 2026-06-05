@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ビナンデレ語
     auto: true
+  - translation_iso: por
+    name: Binandere
+    auto: true
   - translation_iso: spa
     name: Binandere
     auto: true

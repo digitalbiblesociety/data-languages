@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: トゥワンパ語
     auto: true
+  - translation_iso: por
+    name: Língua uduk
   - translation_iso: spa
     name: Idioma uduk
   - translation_iso: zho

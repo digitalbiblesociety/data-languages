@@ -26,6 +26,8 @@ translations:
     name: アホム語
   - translation_iso: kor
     name: 아홈어
+  - translation_iso: por
+    name: Língua ahom
   - translation_iso: spa
     name: ahom
   - translation_iso: zho

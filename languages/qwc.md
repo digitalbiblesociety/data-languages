@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ケチュア語
+  - translation_iso: por
+    name: Quíchua Clássico
+    auto: true
   - translation_iso: spa
     name: lengua general quechua
   - translation_iso: zho

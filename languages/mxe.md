@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メレ・フィラ語
+  - translation_iso: por
+    name: Língua mele-fila
   - translation_iso: spa
     name: Mele-Fila
     auto: true

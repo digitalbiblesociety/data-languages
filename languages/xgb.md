@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ギビン語
     auto: true
+  - translation_iso: por
+    name: Gbin
+    auto: true
   - translation_iso: spa
     name: Gbin
     auto: true

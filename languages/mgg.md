@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムプムポン語
     auto: true
+  - translation_iso: por
+    name: Mpumpong
+    auto: true
   - translation_iso: spa
     name: Mpumpong
     auto: true

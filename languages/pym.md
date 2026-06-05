@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フヤム語
     auto: true
+  - translation_iso: por
+    name: Fyam
+    auto: true
   - translation_iso: spa
     name: Fyam
     auto: true

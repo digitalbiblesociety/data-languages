@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンジェム語
     auto: true
+  - translation_iso: por
+    name: Njyem
+    auto: true
   - translation_iso: spa
     name: Njyem
     auto: true

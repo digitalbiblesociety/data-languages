@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ケンガ語
     auto: true
+  - translation_iso: por
+    name: Kenga
+    auto: true
   - translation_iso: spa
     name: Kenga
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コヤガ語
     auto: true
+  - translation_iso: por
+    name: Koyaga
+    auto: true
   - translation_iso: spa
     name: Koyaga
     auto: true

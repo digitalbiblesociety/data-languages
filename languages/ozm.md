@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クーンジメ語
     auto: true
+  - translation_iso: por
+    name: Koonzime
+    auto: true
   - translation_iso: spa
     name: Koonzime
     auto: true

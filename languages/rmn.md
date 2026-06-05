@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルカン方言群
+  - translation_iso: por
+    name: Romani Balcânico
+    auto: true
   - translation_iso: spa
     name: Romaní balcánico
     auto: true

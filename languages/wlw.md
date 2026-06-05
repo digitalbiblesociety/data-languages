@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ワラック語
     auto: true
+  - translation_iso: por
+    name: Walak
+    auto: true
   - translation_iso: spa
     name: Walak
     auto: true

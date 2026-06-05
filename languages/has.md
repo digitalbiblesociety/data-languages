@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ハイスラ語
     auto: true
+  - translation_iso: por
+    name: Língua haisla
   - translation_iso: spa
     name: idioma haisla
   - translation_iso: zho

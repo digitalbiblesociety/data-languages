@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グロー・ヴァントル語
+  - translation_iso: por
+    name: Gros Ventre
+    auto: true
   - translation_iso: spa
     name: Gros Ventre
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ケルン語
   - translation_iso: kor
     name: 쾰른어
+  - translation_iso: por
+    name: kölsch
   - translation_iso: spa
     name: dialecto colonés
   - translation_iso: zho

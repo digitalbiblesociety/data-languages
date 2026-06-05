@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムジ語
     auto: true
+  - translation_iso: por
+    name: muzi
+    auto: true
   - translation_iso: spa
     name: Muzi
     auto: true

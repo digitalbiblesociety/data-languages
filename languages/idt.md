@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: イダテ語
     auto: true
+  - translation_iso: por
+    name: Idaté
+    auto: true
   - translation_iso: spa
     name: Idaté
     auto: true

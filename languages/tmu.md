@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イアウ語
     auto: true
+  - translation_iso: por
+    name: Iau
+    auto: true
   - translation_iso: spa
     name: Iau
     auto: true

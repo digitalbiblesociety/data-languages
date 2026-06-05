@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アルアム語
     auto: true
+  - translation_iso: por
+    name: Aruamu
+    auto: true
   - translation_iso: spa
     name: Aruamu
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 古アバル語
     auto: true
+  - translation_iso: por
+    name: avar antigo
+    auto: true
   - translation_iso: spa
     name: Avar antiguo
     auto: true

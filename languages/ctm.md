@@ -26,6 +26,8 @@ translations:
     name: チティマシャ語
   - translation_iso: kor
     name: 치티머샤어
+  - translation_iso: por
+    name: Língua chitimacha
   - translation_iso: spa
     name: Chitimacha
   - translation_iso: zho

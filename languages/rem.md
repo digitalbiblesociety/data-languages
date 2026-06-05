@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: レモ語
     auto: true
+  - translation_iso: por
+    name: Remo
+    auto: true
   - translation_iso: spa
     name: Remo
     auto: true

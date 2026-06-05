@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ギムニメ語
     auto: true
+  - translation_iso: por
+    name: Gimnime
+    auto: true
   - translation_iso: spa
     name: Gimnime
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: バリ語
   - translation_iso: kor
     name: 발리어
+  - translation_iso: por
+    name: balinês
   - translation_iso: spa
     name: balinés
   - translation_iso: zho

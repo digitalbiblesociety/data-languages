@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カタバガ語
     auto: true
+  - translation_iso: por
+    name: Katabaga
+    auto: true
   - translation_iso: spa
     name: catabaga
   - translation_iso: zho

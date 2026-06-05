@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 유라카레어
+  - translation_iso: por
+    name: Língua yuracaré
   - translation_iso: spa
     name: idioma yuracaré
   - translation_iso: zho

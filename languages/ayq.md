@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アイ語
     auto: true
+  - translation_iso: por
+    name: Ayi (Papua-Nova Guiné)
+    auto: true
   - translation_iso: spa
     name: Ayi
     auto: true

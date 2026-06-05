@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アバニョム語
+  - translation_iso: por
+    name: Abanyom
+    auto: true
   - translation_iso: spa
     name: abanyom
   - translation_iso: zho

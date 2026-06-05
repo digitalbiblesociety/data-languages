@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アシェニンカ・パホナル語
     auto: true
+  - translation_iso: por
+    name: Língua asheninca
   - translation_iso: spa
     name: ashéninka
   - translation_iso: zho

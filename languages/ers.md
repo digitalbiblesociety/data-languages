@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アルス語
+  - translation_iso: por
+    name: ersu
   - translation_iso: spa
     name: idioma ersu
   - translation_iso: zho

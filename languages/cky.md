@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カクフェム・ムシェレ語
     auto: true
+  - translation_iso: por
+    name: Cakfem-Mushere
+    auto: true
   - translation_iso: spa
     name: Cakfem-Mushere
     auto: true

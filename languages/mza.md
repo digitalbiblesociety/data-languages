@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サンタ・マリア・サカテペック・ミステク語
     auto: true
+  - translation_iso: por
+    name: Mixteco de Santa María Zacatepec
+    auto: true
   - translation_iso: spa
     name: Mixteco de Santa María Zacatepec
     auto: true

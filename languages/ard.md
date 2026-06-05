@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アラバナ語
+  - translation_iso: por
+    name: Arabana
+    auto: true
   - translation_iso: spa
     name: Idioma arabana
   - translation_iso: zho

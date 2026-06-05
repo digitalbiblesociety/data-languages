@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤラハタン語
     auto: true
+  - translation_iso: por
+    name: Yalahatan
+    auto: true
   - translation_iso: spa
     name: Yalahatan
     auto: true

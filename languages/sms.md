@@ -28,6 +28,8 @@ translations:
     name: スコルト・サーミ語
   - translation_iso: kor
     name: 스콜트 사미어
+  - translation_iso: por
+    name: kíngua sami de Skolt
   - translation_iso: spa
     name: sami skolt
   - translation_iso: zho

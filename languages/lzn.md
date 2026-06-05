@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: レイノン・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga leinong
+    auto: true
   - translation_iso: spa
     name: Naga Leinong
     auto: true

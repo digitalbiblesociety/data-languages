@@ -28,6 +28,8 @@ translations:
     name: クメール語
   - translation_iso: kor
     name: 크메르어
+  - translation_iso: por
+    name: Língua khmer
   - translation_iso: spa
     name: camboyano
   - translation_iso: zho

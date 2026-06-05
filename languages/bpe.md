@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バウニ語
     auto: true
+  - translation_iso: por
+    name: Bauni
+    auto: true
   - translation_iso: spa
     name: Bauni
     auto: true

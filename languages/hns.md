@@ -25,6 +25,9 @@ translations:
     name: कैरेबियाई हिंदुस्तानी
   - translation_iso: jpn
     name: カリブ・ヒンドゥスターニー語
+  - translation_iso: por
+    name: Industâni do Caribe
+    auto: true
   - translation_iso: spa
     name: Hindustaní caribeño
   - translation_iso: zho

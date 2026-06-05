@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユーゴスラビア手話
+  - translation_iso: por
+    name: língua de sinais iugoslava
+    auto: true
   - translation_iso: spa
     name: Lengua de señas yugoslava
     auto: true

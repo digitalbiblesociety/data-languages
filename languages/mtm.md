@@ -29,6 +29,9 @@ translations:
     name: マトル語
   - translation_iso: kor
     name: 마토르어
+  - translation_iso: por
+    name: Mator
+    auto: true
   - translation_iso: spa
     name: mator
   - translation_iso: zho

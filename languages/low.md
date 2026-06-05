@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タンピアス・ロブ語
     auto: true
+  - translation_iso: por
+    name: Lobu de Tampias
+    auto: true
   - translation_iso: spa
     name: Tampias Lobu
     auto: true

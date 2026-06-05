@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クエ語
+  - translation_iso: por
+    name: Khwe
   - translation_iso: spa
     name: Idioma khoe
   - translation_iso: zho

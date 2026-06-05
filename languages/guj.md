@@ -28,6 +28,8 @@ translations:
     name: グジャラート語
   - translation_iso: kor
     name: 구자라트어
+  - translation_iso: por
+    name: gujarate
   - translation_iso: spa
     name: guyarati
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
     name: パオ語
   - translation_iso: kor
     name: 파오어
+  - translation_iso: por
+    name: "Língua Pa'O"
   - translation_iso: spa
     name: "Karén Pa'o"
     auto: true

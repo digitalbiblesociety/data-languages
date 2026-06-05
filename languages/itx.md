@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イティク語
     auto: true
+  - translation_iso: por
+    name: Itik
+    auto: true
   - translation_iso: spa
     name: itik
   - translation_iso: zho

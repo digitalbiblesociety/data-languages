@@ -29,6 +29,8 @@ translations:
     name: タウスグ語
   - translation_iso: kor
     name: 타우수그어
+  - translation_iso: por
+    name: Língua tausug
   - translation_iso: spa
     name: joloano
   - translation_iso: zho

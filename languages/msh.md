@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マシクル・マダガスカル語
+  - translation_iso: por
+    name: malgaxe masikoro
+    auto: true
   - translation_iso: spa
     name: Malgache Masikoro
     auto: true

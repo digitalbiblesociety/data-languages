@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: 古典マンダイク語
     auto: true
+  - translation_iso: por
+    name: mandaico clássico
   - translation_iso: spa
     name: mandeo clásico
   - translation_iso: zho

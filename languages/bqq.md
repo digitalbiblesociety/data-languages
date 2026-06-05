@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビリタイ語
     auto: true
+  - translation_iso: por
+    name: Biritai
+    auto: true
   - translation_iso: spa
     name: Biritai
     auto: true

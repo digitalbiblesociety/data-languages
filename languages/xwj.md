@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ワジュク語
     auto: true
+  - translation_iso: por
+    name: wajuk
+    auto: true
   - translation_iso: spa
     name: Wajuk
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジューホアン方言
+  - translation_iso: por
+    name: Língua Juǀʼhoan
   - translation_iso: spa
     name: Juǀʼhoan
   - translation_iso: zho

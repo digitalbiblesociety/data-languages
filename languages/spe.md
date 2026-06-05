@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セパ語
+  - translation_iso: por
+    name: Sepa
   - translation_iso: spa
     name: Sepa
   - translation_iso: zho

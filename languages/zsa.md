@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: サラシラ語
     auto: true
+  - translation_iso: por
+    name: Sarasira
+    auto: true
   - translation_iso: spa
     name: Sarasira
     auto: true

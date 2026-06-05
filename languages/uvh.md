@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: エラップ語
     auto: true
+  - translation_iso: por
+    name: Uri
+    auto: true
   - translation_iso: spa
     name: Uri
     auto: true

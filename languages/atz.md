@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アルタ語
     auto: true
+  - translation_iso: por
+    name: Língua arta
   - translation_iso: spa
     name: Arta
     auto: true

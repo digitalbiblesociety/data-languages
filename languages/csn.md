@@ -25,6 +25,8 @@ translations:
     name: कोलंबियाई सांकेतिक भाषा
   - translation_iso: jpn
     name: コロンビア手話
+  - translation_iso: por
+    name: língua de sinais colombiana
   - translation_iso: spa
     name: Lengua de Señas Colombiana
   - translation_iso: zho

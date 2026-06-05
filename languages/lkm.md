@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カラアマヤ語
     auto: true
+  - translation_iso: por
+    name: Kalaamaya
+    auto: true
   - translation_iso: spa
     name: Kalaamaya
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナウリ語
     auto: true
+  - translation_iso: por
+    name: Nawuri
+    auto: true
   - translation_iso: spa
     name: nawuri
   - translation_iso: zho

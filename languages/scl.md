@@ -27,6 +27,8 @@ translations:
     name: シナー語
   - translation_iso: kor
     name: 시나어
+  - translation_iso: por
+    name: Língua shina
   - translation_iso: spa
     name: Idioma shina
   - translation_iso: zho

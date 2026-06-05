@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ディル・ニャムザク・ムバリミ語
     auto: true
+  - translation_iso: por
+    name: Dir-Nyamzak-Mbarimi
+    auto: true
   - translation_iso: spa
     name: Dir-Nyamzak-Mbarimi
     auto: true

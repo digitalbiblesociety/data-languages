@@ -27,6 +27,8 @@ translations:
     name: आओ भाषा
   - translation_iso: jpn
     name: アオ・ナガ語
+  - translation_iso: por
+    name: Língua Ao
   - translation_iso: spa
     name: idioma ao
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エマン語
     auto: true
+  - translation_iso: por
+    name: Eman
+    auto: true
   - translation_iso: spa
     name: Eman
     auto: true

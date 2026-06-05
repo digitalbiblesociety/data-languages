@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・ホンシュイ河・ズアン語
     auto: true
+  - translation_iso: por
+    name: zhuang de Hongshuihe central
+    auto: true
   - translation_iso: spa
     name: Zhuang central del Hongshuihe
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウダ語
     auto: true
+  - translation_iso: por
+    name: Uda
+    auto: true
   - translation_iso: spa
     name: Uda
     auto: true

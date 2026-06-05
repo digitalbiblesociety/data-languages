@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ペディ語
     auto: true
+  - translation_iso: por
+    name: Tswapong
+    auto: true
   - translation_iso: spa
     name: Tswapong
     auto: true

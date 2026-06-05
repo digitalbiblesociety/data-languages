@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アガヴォタグエッラ語
     auto: true
+  - translation_iso: por
+    name: Agavotaguerra
+    auto: true
   - translation_iso: spa
     name: agavotaguerra
   - translation_iso: zho

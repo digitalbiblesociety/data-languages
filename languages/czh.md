@@ -29,6 +29,9 @@ translations:
     name: 徽語
   - translation_iso: kor
     name: 후이어
+  - translation_iso: por
+    name: Chinês huizhou
+    auto: true
   - translation_iso: spa
     name: Chino hui
   - translation_iso: zho

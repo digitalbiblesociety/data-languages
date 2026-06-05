@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブトゥアノン語
+  - translation_iso: por
+    name: Língua butuanon
   - translation_iso: spa
     name: butuano
   - translation_iso: zho

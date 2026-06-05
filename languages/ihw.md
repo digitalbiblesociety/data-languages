@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビドハワル語
     auto: true
+  - translation_iso: por
+    name: Bidhawal
+    auto: true
   - translation_iso: spa
     name: Bidhawal
     auto: true

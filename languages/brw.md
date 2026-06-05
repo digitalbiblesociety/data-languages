@@ -27,6 +27,9 @@ translations:
     name: बेल्लारी भाषा
   - translation_iso: jpn
     name: ベラリ語
+  - translation_iso: por
+    name: Bellari
+    auto: true
   - translation_iso: spa
     name: Bellari
     auto: true

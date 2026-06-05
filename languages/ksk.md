@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カンサ語
     auto: true
+  - translation_iso: por
+    name: Kansa
   - translation_iso: spa
     name: kansa
   - translation_iso: zho

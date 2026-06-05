@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウェールズ・ロマ語
+  - translation_iso: por
+    name: Romani Galês
+    auto: true
   - translation_iso: spa
     name: Romaní galés
     auto: true

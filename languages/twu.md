@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パダ語
     auto: true
+  - translation_iso: por
+    name: Termanu
+    auto: true
   - translation_iso: spa
     name: Termanu
     auto: true

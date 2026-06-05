@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ククナ語
     auto: true
+  - translation_iso: por
+    name: Kukna
+    auto: true
   - translation_iso: spa
     name: Kukna
     auto: true

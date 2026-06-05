@@ -27,6 +27,8 @@ translations:
     name: セリ語
   - translation_iso: kor
     name: 세리어
+  - translation_iso: por
+    name: Língua seri
   - translation_iso: spa
     name: seri
   - translation_iso: zho

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ルンバ・ヤッカ語
     auto: true
+  - translation_iso: por
+    name: Lumba-Yakkha
+    auto: true
   - translation_iso: spa
     name: Lumba-Yakkha
     auto: true

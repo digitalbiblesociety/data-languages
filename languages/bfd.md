@@ -29,6 +29,8 @@ translations:
     name: バフット語
   - translation_iso: kor
     name: 바푸트어
+  - translation_iso: por
+    name: bafut
   - translation_iso: spa
     name: Bafut
   - translation_iso: zho

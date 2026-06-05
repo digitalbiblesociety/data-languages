@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ケーザ・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Khezha
+    auto: true
   - translation_iso: spa
     name: Kuzhami
   - translation_iso: zho

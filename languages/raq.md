@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: サアム語
     auto: true
+  - translation_iso: por
+    name: Saam
+    auto: true
   - translation_iso: spa
     name: Saam
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バココ語
+  - translation_iso: por
+    name: Bakoko
+    auto: true
   - translation_iso: spa
     name: kogo
   - translation_iso: zho

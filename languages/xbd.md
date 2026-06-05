@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビンダル
+  - translation_iso: por
+    name: Bindal
+    auto: true
   - translation_iso: spa
     name: Bindal
     auto: true

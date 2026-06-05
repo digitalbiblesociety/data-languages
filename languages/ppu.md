@@ -30,6 +30,9 @@ translations:
     name: パポラ・ホアンヤ語
   - translation_iso: kor
     name: 파포라-호안야어
+  - translation_iso: por
+    name: Papora
+    auto: true
   - translation_iso: spa
     name: Papora
     auto: true

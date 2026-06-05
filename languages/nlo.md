@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ングル語
     auto: true
+  - translation_iso: por
+    name: Ngul
+    auto: true
   - translation_iso: spa
     name: ngul
   - translation_iso: zho

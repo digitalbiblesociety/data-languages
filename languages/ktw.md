@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カト語
     auto: true
+  - translation_iso: por
+    name: Kato
+    auto: true
   - translation_iso: spa
     name: kato
   - translation_iso: zho

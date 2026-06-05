@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハコ語
     auto: true
+  - translation_iso: por
+    name: Hakö
+    auto: true
   - translation_iso: spa
     name: Hakö
   - translation_iso: zho

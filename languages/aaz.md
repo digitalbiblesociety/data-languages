@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アマラシ語
     auto: true
+  - translation_iso: por
+    name: Língua amarasi
   - translation_iso: spa
     name: Amarasi
     auto: true

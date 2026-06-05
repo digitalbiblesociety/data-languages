@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マニカ語
     auto: true
+  - translation_iso: por
+    name: Língua manica
   - translation_iso: spa
     name: Manyika
     auto: true

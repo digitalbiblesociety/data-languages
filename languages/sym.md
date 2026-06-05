@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マヤ・サモ語
     auto: true
+  - translation_iso: por
+    name: Samo Maya
+    auto: true
   - translation_iso: spa
     name: Samo maya
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カリリ・シオコ語
     auto: true
+  - translation_iso: por
+    name: Karirí-Xocó
+    auto: true
   - translation_iso: spa
     name: Karirí-Xocó
     auto: true

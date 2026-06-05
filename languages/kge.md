@@ -28,6 +28,8 @@ translations:
     name: コメリン語
   - translation_iso: kor
     name: 람풍어
+  - translation_iso: por
+    name: Língua komering
   - translation_iso: spa
     name: komering
   - translation_iso: zho

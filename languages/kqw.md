@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンダス語
+  - translation_iso: por
+    name: Kandas
+    auto: true
   - translation_iso: spa
     name: Kandas
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: モクシャ語
   - translation_iso: kor
     name: 모크샤어
+  - translation_iso: por
+    name: moksha
   - translation_iso: spa
     name: moksha
   - translation_iso: zho

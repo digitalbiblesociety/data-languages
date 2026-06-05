@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プラトー・マダガスカル語
+  - translation_iso: por
+    name: Malgaxe do Planalto
+    auto: true
   - translation_iso: spa
     name: Malgache de las mesetas
     auto: true

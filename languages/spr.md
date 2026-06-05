@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イハ語
     auto: true
+  - translation_iso: por
+    name: Saparua
+    auto: true
   - translation_iso: spa
     name: Saparua
     auto: true

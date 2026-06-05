@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エロクワナス語
     auto: true
+  - translation_iso: por
+    name: Erokwanas
+    auto: true
   - translation_iso: spa
     name: Erokwanas
     auto: true

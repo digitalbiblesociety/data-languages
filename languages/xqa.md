@@ -19,6 +19,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カラハン朝トルコ語
+  - translation_iso: por
+    name: Caraânida
+    auto: true
   - translation_iso: spa
     name: Carejanida
     auto: true

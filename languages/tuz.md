@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トゥラマ語
     auto: true
+  - translation_iso: por
+    name: Turka
+    auto: true
   - translation_iso: spa
     name: Turka
     auto: true

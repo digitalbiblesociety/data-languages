@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ティアロ語
     auto: true
+  - translation_iso: por
+    name: Tomini
+    auto: true
   - translation_iso: spa
     name: Tomini
     auto: true

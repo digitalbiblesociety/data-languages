@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テンガロン・クタイ・マレー語
+  - translation_iso: por
+    name: Malaio Kutai de Tenggarong
+    auto: true
   - translation_iso: spa
     name: Malayo Kutai de Tenggarong
     auto: true

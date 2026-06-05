@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: アドゥゲ語
     auto: true
+  - translation_iso: por
+    name: Aduge
+    auto: true
   - translation_iso: spa
     name: Aduge
     auto: true

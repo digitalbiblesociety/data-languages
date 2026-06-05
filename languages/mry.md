@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンダヤ語
+  - translation_iso: por
+    name: Mandaya
+    auto: true
   - translation_iso: spa
     name: Mandaya
     auto: true

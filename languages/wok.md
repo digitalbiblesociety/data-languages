@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ロング語
     auto: true
+  - translation_iso: por
+    name: Longto
+    auto: true
   - translation_iso: spa
     name: Longto
     auto: true

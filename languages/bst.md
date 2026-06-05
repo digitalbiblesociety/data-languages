@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バスケト語
+  - translation_iso: por
+    name: Basketo
+    auto: true
   - translation_iso: spa
     name: Basketo
     auto: true

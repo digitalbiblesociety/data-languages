@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ピサボ語
     auto: true
+  - translation_iso: por
+    name: Pisabo
+    auto: true
   - translation_iso: spa
     name: Pisabo
   - translation_iso: zho

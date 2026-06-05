@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カラガディ語
     auto: true
+  - translation_iso: por
+    name: Kgalagadi
+    auto: true
   - translation_iso: spa
     name: Kgalagadi
     auto: true

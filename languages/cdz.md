@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コダ語
     auto: true
+  - translation_iso: por
+    name: Koda
+    auto: true
   - translation_iso: spa
     name: Koda
     auto: true

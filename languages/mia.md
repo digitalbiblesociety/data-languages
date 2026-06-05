@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マイアミ・イリノイ語
+  - translation_iso: por
+    name: Língua Miami-Illinois
   - translation_iso: spa
     name: Miami-Illinois
   - translation_iso: zho

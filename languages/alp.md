@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アルネ語
     auto: true
+  - translation_iso: por
+    name: Alune
   - translation_iso: spa
     name: Alune
   - translation_iso: zho

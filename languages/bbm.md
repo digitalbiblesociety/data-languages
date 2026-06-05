@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ババンゴ語
     auto: true
+  - translation_iso: por
+    name: Babango
+    auto: true
   - translation_iso: spa
     name: Babango
     auto: true

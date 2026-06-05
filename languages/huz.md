@@ -30,6 +30,8 @@ translations:
     name: フンズィブ語
   - translation_iso: kor
     name: 훈지브어
+  - translation_iso: por
+    name: Língua hunzib
   - translation_iso: spa
     name: Hunzib
   - translation_iso: zho

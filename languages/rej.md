@@ -30,6 +30,9 @@ translations:
     name: レジャン語
   - translation_iso: kor
     name: 레장어
+  - translation_iso: por
+    name: Rejang
+    auto: true
   - translation_iso: spa
     name: Rejang
     auto: true

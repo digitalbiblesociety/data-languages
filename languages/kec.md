@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ケイガ語
     auto: true
+  - translation_iso: por
+    name: Língua keiga
   - translation_iso: spa
     name: Keiga
     auto: true

@@ -30,6 +30,8 @@ translations:
     name: 中央アラスカ・ユピック語
   - translation_iso: kor
     name: 중앙 알래스카 유픽어
+  - translation_iso: por
+    name: Língua iúpique do Alasca Central
   - translation_iso: spa
     name: Yupik alaskeño central
   - translation_iso: zho

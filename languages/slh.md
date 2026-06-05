@@ -27,6 +27,8 @@ translations:
     name: 南部ルシュツィード語
   - translation_iso: kor
     name: 남부 루슈트시드어
+  - translation_iso: por
+    name: lushootseed do sul
   - translation_iso: spa
     name: lushootseed meridional
   - translation_iso: zho

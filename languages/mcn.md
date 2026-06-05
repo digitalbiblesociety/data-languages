@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: マサナ語
     auto: true
+  - translation_iso: por
+    name: Língua massa
   - translation_iso: spa
     name: masa
   - translation_iso: zho

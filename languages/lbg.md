@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: ラオパン語
     auto: true
+  - translation_iso: por
+    name: Laopang
+    auto: true
   - translation_iso: spa
     name: Laopang
     auto: true

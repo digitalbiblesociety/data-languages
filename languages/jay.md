@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ヤン・ナング語
     auto: true
+  - translation_iso: por
+    name: Língua nhangu
   - translation_iso: spa
     name: Yan-nhangu
     auto: true

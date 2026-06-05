@@ -28,6 +28,8 @@ translations:
     name: レズギ語
   - translation_iso: kor
     name: 레즈긴어
+  - translation_iso: por
+    name: Língua lezgui
   - translation_iso: spa
     name: Idioma lezgui
   - translation_iso: zho

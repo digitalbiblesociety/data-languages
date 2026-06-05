@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 硯広チワン語
+  - translation_iso: por
+    name: zhuang nong
+    auto: true
   - translation_iso: spa
     name: Zhuang Nong
     auto: true

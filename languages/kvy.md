@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: イインターレ・カレン語
     auto: true
+  - translation_iso: por
+    name: Karen Yintale
+    auto: true
   - translation_iso: spa
     name: Karen Yintale
     auto: true

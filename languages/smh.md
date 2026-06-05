@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サメイ語
     auto: true
+  - translation_iso: por
+    name: Samei
+    auto: true
   - translation_iso: spa
     name: Samei
     auto: true

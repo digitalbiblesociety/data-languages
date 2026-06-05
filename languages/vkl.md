@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カリスゥス語
     auto: true
+  - translation_iso: por
+    name: Língua kulisusu
   - translation_iso: spa
     name: Kulisusu
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: 南西ニス語
     auto: true
+  - translation_iso: por
+    name: Nisu Sudoeste
+    auto: true
   - translation_iso: spa
     name: Nisu Suroccidental
     auto: true

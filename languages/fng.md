@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ファナガロ語
+  - translation_iso: por
+    name: Língua fanagalo
   - translation_iso: spa
     name: Fanagalo
   - translation_iso: zho

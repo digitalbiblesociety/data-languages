@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガダミス語
+  - translation_iso: por
+    name: Língua gadamés
   - translation_iso: spa
     name: Idioma ghadamés
   - translation_iso: zho

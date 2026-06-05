@@ -30,6 +30,8 @@ translations:
     name: イーサーン語
   - translation_iso: kor
     name: 이산어
+  - translation_iso: por
+    name: lau tailandês
   - translation_iso: spa
     name: lao tailandés
   - translation_iso: zho

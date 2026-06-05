@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Jawi語
+  - translation_iso: por
+    name: Djawi
+    auto: true
   - translation_iso: spa
     name: Djawi
     auto: true

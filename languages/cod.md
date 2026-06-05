@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: コカマ語
     auto: true
+  - translation_iso: por
+    name: Língua cocama
   - translation_iso: spa
     name: cocama
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中央アイマラ語
+  - translation_iso: por
+    name: Aimará Central
+    auto: true
   - translation_iso: spa
     name: aimara central
   - translation_iso: zho

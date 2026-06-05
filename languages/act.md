@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: アハーテルホークス語
     auto: true
+  - translation_iso: por
+    name: achteroequês
   - translation_iso: spa
     name: achteroequés
   - translation_iso: zho

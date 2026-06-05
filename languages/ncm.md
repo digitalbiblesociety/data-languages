@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナンボ語
     auto: true
+  - translation_iso: por
+    name: Nambo
+    auto: true
   - translation_iso: spa
     name: Nambo
     auto: true

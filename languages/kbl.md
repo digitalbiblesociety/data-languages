@@ -28,6 +28,8 @@ translations:
     name: カネンブ語
   - translation_iso: kor
     name: 카넴부어
+  - translation_iso: por
+    name: Língua kanembu
   - translation_iso: spa
     name: kanembu
   - translation_iso: zho

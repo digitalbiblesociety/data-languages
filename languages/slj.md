@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: タレーノイジョミ語
     auto: true
+  - translation_iso: por
+    name: Salumá
+    auto: true
   - translation_iso: spa
     name: Salumá
     auto: true

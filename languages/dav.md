@@ -28,6 +28,8 @@ translations:
     name: タイタ語
   - translation_iso: kor
     name: 타이타어
+  - translation_iso: por
+    name: taita
   - translation_iso: spa
     name: Idioma taita
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: フーマ語
     auto: true
+  - translation_iso: por
+    name: phuma
+    auto: true
   - translation_iso: spa
     name: Phuma
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カズクル語
     auto: true
+  - translation_iso: por
+    name: Kazukuru
+    auto: true
   - translation_iso: spa
     name: Idioma kazukuru
   - translation_iso: zho

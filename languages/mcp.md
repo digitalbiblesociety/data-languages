@@ -29,6 +29,9 @@ translations:
     name: マカア語
   - translation_iso: kor
     name: 마카어
+  - translation_iso: por
+    name: Makaa
+    auto: true
   - translation_iso: spa
     name: Makaa
     auto: true

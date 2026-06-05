@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ノッラ語
     auto: true
+  - translation_iso: por
+    name: Norra
+    auto: true
   - translation_iso: spa
     name: Norra
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パナラ語
+  - translation_iso: por
+    name: Língua panará
   - translation_iso: spa
     name: Panará
     auto: true

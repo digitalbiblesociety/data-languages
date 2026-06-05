@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ドゥソ語
     auto: true
+  - translation_iso: por
+    name: Vanimo
+    auto: true
   - translation_iso: spa
     name: Vanimo
     auto: true

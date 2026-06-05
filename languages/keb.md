@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケレ語
+  - translation_iso: por
+    name: Kélé
+    auto: true
   - translation_iso: spa
     name: Kélé
     auto: true

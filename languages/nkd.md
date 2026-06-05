@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コイレン語
     auto: true
+  - translation_iso: por
+    name: Koireng
+    auto: true
   - translation_iso: spa
     name: Koireng
     auto: true

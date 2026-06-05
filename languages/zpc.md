@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: チョアパン・サポテク語
     auto: true
+  - translation_iso: por
+    name: Língua choápan
   - translation_iso: spa
     name: Zapoteco de Choapan
     auto: true

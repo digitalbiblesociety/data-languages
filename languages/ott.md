@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: テモアヤ・オトミ語
     auto: true
+  - translation_iso: por
+    name: Otomi Temoaya
   - translation_iso: spa
     name: Otomí de Temoaya
   - translation_iso: zho

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クムザール語
+  - translation_iso: por
+    name: Língua kumzari
   - translation_iso: spa
     name: Idioma kumzari
   - translation_iso: zho

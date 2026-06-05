@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラリ語
+  - translation_iso: por
+    name: Laari
+    auto: true
   - translation_iso: spa
     name: Laari
     auto: true

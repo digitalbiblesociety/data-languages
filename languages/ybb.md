@@ -28,6 +28,8 @@ translations:
     name: イエンバ語
   - translation_iso: kor
     name: 옘바어
+  - translation_iso: por
+    name: yemba
   - translation_iso: spa
     name: yemba
   - translation_iso: zho

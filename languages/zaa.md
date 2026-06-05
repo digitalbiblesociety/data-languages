@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シエラ・デ・フアレス・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco da Serra de Juárez
+    auto: true
   - translation_iso: spa
     name: Zapoteco de la Sierra de Juárez
     auto: true

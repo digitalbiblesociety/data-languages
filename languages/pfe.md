@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ペーレ語
     auto: true
+  - translation_iso: por
+    name: Peere
+    auto: true
   - translation_iso: spa
     name: Peere
     auto: true

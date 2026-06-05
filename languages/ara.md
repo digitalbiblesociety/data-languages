@@ -21,6 +21,8 @@ translations:
     name: アラビア語
   - translation_iso: kor
     name: 아랍어
+  - translation_iso: por
+    name: árabe
   - translation_iso: spa
     name: árabe
   - translation_iso: zho

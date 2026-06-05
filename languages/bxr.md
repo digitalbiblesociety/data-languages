@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロシアブリヤート語
+  - translation_iso: por
+    name: Buriato da Rússia
+    auto: true
   - translation_iso: spa
     name: Buriato de Rusia
     auto: true

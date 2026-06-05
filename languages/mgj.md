@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アブレニ語
     auto: true
+  - translation_iso: por
+    name: Abureni
+    auto: true
   - translation_iso: spa
     name: Abureni
     auto: true

@@ -29,6 +29,8 @@ translations:
     name: シパカペンセ語
   - translation_iso: kor
     name: 시파카파어
+  - translation_iso: por
+    name: Língua sipacapense
   - translation_iso: spa
     name: Idioma sipacapense
   - translation_iso: zho

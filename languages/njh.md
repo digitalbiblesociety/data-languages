@@ -27,6 +27,9 @@ translations:
     name: लोथा भाषा
   - translation_iso: jpn
     name: ロタ・ナガ語
+  - translation_iso: por
+    name: Naga Lotha
+    auto: true
   - translation_iso: spa
     name: Naga Lotha
     auto: true

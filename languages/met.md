@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: マト語
     auto: true
+  - translation_iso: por
+    name: Língua mato
   - translation_iso: spa
     name: Mato
     auto: true

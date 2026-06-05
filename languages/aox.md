@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アトラダ語
+  - translation_iso: por
+    name: Língua atorai
   - translation_iso: spa
     name: Atorada
     auto: true

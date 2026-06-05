@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ンガラ語
     auto: true
+  - translation_iso: por
+    name: Ngala
+    auto: true
   - translation_iso: spa
     name: Ngala
     auto: true

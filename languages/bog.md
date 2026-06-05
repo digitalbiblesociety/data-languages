@@ -27,6 +27,8 @@ translations:
     name: बामको सांकेतिक भाषा
   - translation_iso: jpn
     name: バマコ手話
+  - translation_iso: por
+    name: Língua de Sinais de Bamako
   - translation_iso: spa
     name: Lengua de señas de Bamako
     auto: true

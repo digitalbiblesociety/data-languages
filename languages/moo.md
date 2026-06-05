@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: モノム語
     auto: true
+  - translation_iso: por
+    name: Monom
+    auto: true
   - translation_iso: spa
     name: Monom
     auto: true

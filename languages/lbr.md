@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロホルン語
     auto: true
+  - translation_iso: por
+    name: Lohorung
+    auto: true
   - translation_iso: spa
     name: Lohorung
     auto: true

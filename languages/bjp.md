@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ファナマケット語
     auto: true
+  - translation_iso: por
+    name: Fanamaket
+    auto: true
   - translation_iso: spa
     name: Fanamaket
     auto: true

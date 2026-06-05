@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: リアングマイ・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Liangmai
+    auto: true
   - translation_iso: spa
     name: Naga Liangmai
     auto: true

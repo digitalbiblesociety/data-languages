@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヤカイ語
     auto: true
+  - translation_iso: por
+    name: Yaqay
+    auto: true
   - translation_iso: spa
     name: Yaqay
     auto: true

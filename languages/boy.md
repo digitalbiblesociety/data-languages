@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボド語
     auto: true
+  - translation_iso: por
+    name: Bodo (República Centro-Africana)
+    auto: true
   - translation_iso: spa
     name: idioma bodo
   - translation_iso: zho

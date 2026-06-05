@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラタウィ語
     auto: true
+  - translation_iso: por
+    name: Rathawi
+    auto: true
   - translation_iso: spa
     name: Rathawi
     auto: true

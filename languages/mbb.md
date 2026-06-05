@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 西ブキドノン・マノボ語
+  - translation_iso: por
+    name: Manobo bukidnon ocidental
+    auto: true
   - translation_iso: spa
     name: Manobo de Bukidnon occidental
     auto: true

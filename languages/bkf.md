@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベーケ語
     auto: true
+  - translation_iso: por
+    name: Beeke
+    auto: true
   - translation_iso: spa
     name: Beeke
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 東南イジョ語
     auto: true
+  - translation_iso: por
+    name: Ijo do Sudeste
+    auto: true
   - translation_iso: spa
     name: Ijo Suroriental
     auto: true

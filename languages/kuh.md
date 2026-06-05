@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クシ語
     auto: true
+  - translation_iso: por
+    name: Kushi
+    auto: true
   - translation_iso: spa
     name: Kushi
     auto: true

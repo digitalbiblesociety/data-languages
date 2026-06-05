@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オワ語
+  - translation_iso: por
+    name: Owa
+    auto: true
   - translation_iso: spa
     name: Owa
     auto: true

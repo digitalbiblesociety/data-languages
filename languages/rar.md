@@ -28,6 +28,8 @@ translations:
     name: ラロトンガ語
   - translation_iso: kor
     name: 라로통가어
+  - translation_iso: por
+    name: Maori das Ilhas Cook
   - translation_iso: spa
     name: Idioma rarotongano
   - translation_iso: zho

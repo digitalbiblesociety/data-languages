@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バガ・ソバネ語
     auto: true
+  - translation_iso: por
+    name: Baga Sobané
+    auto: true
   - translation_iso: spa
     name: Baga Sobané
     auto: true

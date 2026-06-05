@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エフェ語
     auto: true
+  - translation_iso: por
+    name: Efe
+    auto: true
   - translation_iso: spa
     name: lese
   - translation_iso: zho

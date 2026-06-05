@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウジ語
+  - translation_iso: por
+    name: Bauzi
   - translation_iso: spa
     name: Bauzi
   - translation_iso: zho

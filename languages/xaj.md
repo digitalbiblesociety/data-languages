@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: アラランデワラ語
     auto: true
+  - translation_iso: por
+    name: Ararandewára
+    auto: true
   - translation_iso: spa
     name: Ararandewára
     auto: true

@@ -29,6 +29,8 @@ translations:
     name: アルール語
   - translation_iso: kor
     name: 알루르어
+  - translation_iso: por
+    name: Língua alur
   - translation_iso: spa
     name: Alur
     auto: true

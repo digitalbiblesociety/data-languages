@@ -28,6 +28,8 @@ translations:
     name: アヴェスター語
   - translation_iso: kor
     name: 아베스타어
+  - translation_iso: por
+    name: Língua avéstica
   - translation_iso: spa
     name: avéstico
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カムトー語
     auto: true
+  - translation_iso: por
+    name: Camtho
+    auto: true
   - translation_iso: spa
     name: Camtho
     auto: true

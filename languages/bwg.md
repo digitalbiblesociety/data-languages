@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルウェ語
+  - translation_iso: por
+    name: Barwe
+    auto: true
   - translation_iso: spa
     name: Barwe
     auto: true

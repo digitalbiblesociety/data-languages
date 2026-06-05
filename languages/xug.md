@@ -30,6 +30,8 @@ translations:
     name: 沖縄北部方言
   - translation_iso: kor
     name: 쿠니가미어
+  - translation_iso: por
+    name: kunigami
   - translation_iso: spa
     name: kunigami
   - translation_iso: zho

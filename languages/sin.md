@@ -28,6 +28,8 @@ translations:
     name: シンハラ語
   - translation_iso: kor
     name: 싱할라어
+  - translation_iso: por
+    name: cingalês
   - translation_iso: spa
     name: cingalés
   - translation_iso: zho

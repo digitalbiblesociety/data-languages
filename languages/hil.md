@@ -28,6 +28,8 @@ translations:
     name: ヒリガイノン語
   - translation_iso: kor
     name: 힐리가이논어
+  - translation_iso: por
+    name: língua hiligaína
   - translation_iso: spa
     name: hiligaíno
   - translation_iso: zho

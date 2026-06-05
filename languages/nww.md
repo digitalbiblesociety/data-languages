@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ンドウェウェ語
     auto: true
+  - translation_iso: por
+    name: Ndwewe
+    auto: true
   - translation_iso: spa
     name: Ndwewe
     auto: true

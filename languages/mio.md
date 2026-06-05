@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ピノテパ・ナシオナル・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Pinotepa Nacional
+    auto: true
   - translation_iso: spa
     name: Mixteco de Pinotepa Nacional
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バランフ語
     auto: true
+  - translation_iso: por
+    name: Mbalanhu
+    auto: true
   - translation_iso: spa
     name: Mbalanhu
     auto: true

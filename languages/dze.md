@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジウワルリ語
     auto: true
+  - translation_iso: por
+    name: Djiwarli
+    auto: true
   - translation_iso: spa
     name: Djiwarli
     auto: true

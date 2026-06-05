@@ -27,6 +27,9 @@ translations:
     name: झनकोट सांकेतिक भाषा
   - translation_iso: jpn
     name: ジャンコット手話
+  - translation_iso: por
+    name: Língua de Sinais de Jhankot
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Jhankot
     auto: true

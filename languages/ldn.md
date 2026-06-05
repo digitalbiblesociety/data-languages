@@ -26,6 +26,9 @@ translations:
     name: ラーダン
   - translation_iso: kor
     name: 라아단
+  - translation_iso: por
+    name: Láadan
+    auto: true
   - translation_iso: spa
     name: Láadan
   - translation_iso: zho

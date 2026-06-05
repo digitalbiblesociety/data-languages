@@ -27,6 +27,8 @@ translations:
     name: セルビア・クロアチア語
   - translation_iso: kor
     name: 세르보크로아트어
+  - translation_iso: por
+    name: Língua servo-croata
   - translation_iso: spa
     name: serbocroata
   - translation_iso: zho

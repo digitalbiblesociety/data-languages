@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: プルワット語
+  - translation_iso: por
+    name: Pulutawês
   - translation_iso: spa
     name: Puluwatés
     auto: true

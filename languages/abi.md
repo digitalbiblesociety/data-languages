@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: アビッジ語
     auto: true
+  - translation_iso: por
+    name: Língua abidji
   - translation_iso: spa
     name: Abidji
     auto: true

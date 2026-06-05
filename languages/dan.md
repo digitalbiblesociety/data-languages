@@ -28,6 +28,8 @@ translations:
     name: デンマーク語
   - translation_iso: kor
     name: 덴마크어
+  - translation_iso: por
+    name: dinamarquês
   - translation_iso: spa
     name: danés
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
     name: ピエモンテ語
   - translation_iso: kor
     name: 피에몬테어
+  - translation_iso: por
+    name: Língua piemontesa
   - translation_iso: spa
     name: piamontés
   - translation_iso: zho

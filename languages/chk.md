@@ -28,6 +28,8 @@ translations:
     name: チューク語
   - translation_iso: kor
     name: 추크어
+  - translation_iso: por
+    name: Língua chuquesa
   - translation_iso: spa
     name: idioma Chuuk
   - translation_iso: zho

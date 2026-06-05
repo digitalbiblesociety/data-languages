@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 北東ポモ語
     auto: true
+  - translation_iso: por
+    name: Pomo Nordeste
+    auto: true
   - translation_iso: spa
     name: Northeastern Pomo
   - translation_iso: zho

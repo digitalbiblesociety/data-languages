@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クリパコ語
     auto: true
+  - translation_iso: por
+    name: Curripaco
+    auto: true
   - translation_iso: spa
     name: Kurripako
   - translation_iso: zho

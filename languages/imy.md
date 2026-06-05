@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミリヤ語
+  - translation_iso: por
+    name: Miliano
+    auto: true
   - translation_iso: spa
     name: Milya
     auto: true

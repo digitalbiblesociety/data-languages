@@ -28,6 +28,8 @@ translations:
     name: バサ語
   - translation_iso: kor
     name: 바사어
+  - translation_iso: por
+    name: basa
   - translation_iso: spa
     name: Idioma basaa
   - translation_iso: zho

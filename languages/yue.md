@@ -28,6 +28,8 @@ translations:
     name: 粤語
   - translation_iso: kor
     name: 월어
+  - translation_iso: por
+    name: Língua yue
   - translation_iso: spa
     name: cantonés
   - translation_iso: zho

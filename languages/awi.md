@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アエキヨム語
     auto: true
+  - translation_iso: por
+    name: Aekyom
+    auto: true
   - translation_iso: spa
     name: Idioma aekyom
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: クワンドゥ語
     auto: true
+  - translation_iso: por
+    name: Kwandu
+    auto: true
   - translation_iso: spa
     name: Kwandu
     auto: true

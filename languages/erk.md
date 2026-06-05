@@ -30,6 +30,9 @@ translations:
     name: 南エファテ語
   - translation_iso: kor
     name: 남에파테어
+  - translation_iso: por
+    name: efate do sul
+    auto: true
   - translation_iso: spa
     name: Idioma nafsan
   - translation_iso: zho

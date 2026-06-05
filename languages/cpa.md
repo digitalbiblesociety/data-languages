@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: パランラ・チナンテク語
     auto: true
+  - translation_iso: por
+    name: Língua chinanteca de Palantla
   - translation_iso: spa
     name: chinanteca de Palantla
   - translation_iso: zho

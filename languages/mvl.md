@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムバラ語
     auto: true
+  - translation_iso: por
+    name: Mbara (Austrália)
+    auto: true
   - translation_iso: spa
     name: Idioma mbara-yanga
   - translation_iso: zho

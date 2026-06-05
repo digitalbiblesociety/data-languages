@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セタマン語
     auto: true
+  - translation_iso: por
+    name: Setaman
+    auto: true
   - translation_iso: spa
     name: Setaman
     auto: true

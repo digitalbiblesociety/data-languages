@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アヤクーチョケチュア語
     auto: true
+  - translation_iso: por
+    name: Língua quíchua Ayacucho
   - translation_iso: spa
     name: quechua ayacuchano
   - translation_iso: zho

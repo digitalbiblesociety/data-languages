@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: グパプユングゥ語
     auto: true
+  - translation_iso: por
+    name: Gupapuyngu
+    auto: true
   - translation_iso: spa
     name: Gupapuyngu
     auto: true

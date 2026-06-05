@@ -28,6 +28,8 @@ translations:
     name: ブラジュ・バーシャー語
   - translation_iso: kor
     name: 브라지어
+  - translation_iso: por
+    name: Língua braj
   - translation_iso: spa
     name: braj
   - translation_iso: zho

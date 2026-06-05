@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バラム語
     auto: true
+  - translation_iso: por
+    name: Baramu
+    auto: true
   - translation_iso: spa
     name: Baramu
     auto: true

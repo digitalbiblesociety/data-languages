@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・ムミンハ語
     auto: true
+  - translation_iso: por
+    name: Kuku-Ugbanh
+    auto: true
   - translation_iso: spa
     name: Kuku-Ugbanh
     auto: true

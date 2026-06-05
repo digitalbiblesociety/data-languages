@@ -30,6 +30,8 @@ translations:
     name: カーンデーシュ語
   - translation_iso: kor
     name: 칸데시어군
+  - translation_iso: por
+    name: Língua khandeshi
   - translation_iso: spa
     name: Lenguas khandeshi
   - translation_iso: zho

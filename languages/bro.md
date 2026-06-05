@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブロッカトゥ語
+  - translation_iso: por
+    name: Brokkat
+    auto: true
   - translation_iso: spa
     name: Brokkat
     auto: true

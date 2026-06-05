@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: クリスティ語
     auto: true
+  - translation_iso: por
+    name: Crioulo de Korlai
   - translation_iso: spa
     name: Portugués criollo de Korlai
     auto: true

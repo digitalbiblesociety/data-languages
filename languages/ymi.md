@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モジ語
     auto: true
+  - translation_iso: por
+    name: moji
+    auto: true
   - translation_iso: spa
     name: Moji
     auto: true

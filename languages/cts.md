@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北カタンドゥアネス・ビコール語
+  - translation_iso: por
+    name: Bikol de Catanduanes Setentrional
+    auto: true
   - translation_iso: spa
     name: Bikol del Norte de Catanduanes
     auto: true

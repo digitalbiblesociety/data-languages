@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンドゴ語
     auto: true
+  - translation_iso: por
+    name: Ndogo
+    auto: true
   - translation_iso: spa
     name: Ndogo
     auto: true

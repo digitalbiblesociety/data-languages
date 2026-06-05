@@ -27,6 +27,9 @@ translations:
     name: メデファイドリン
   - translation_iso: kor
     name: 메데파이드린
+  - translation_iso: por
+    name: Medefaidrin
+    auto: true
   - translation_iso: spa
     name: Medefaidrin
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワナプ語
     auto: true
+  - translation_iso: por
+    name: Wanap
+    auto: true
   - translation_iso: spa
     name: Wanap
     auto: true

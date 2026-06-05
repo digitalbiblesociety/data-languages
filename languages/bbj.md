@@ -19,7 +19,7 @@ translations:
   - translation_iso: ara
     name: لغة الغومالا
   - translation_iso: deu
-    name: "Ghomala'"
+    name: Ghomala
   - translation_iso: fra
     name: ghomala’
   - translation_iso: hin
@@ -29,6 +29,8 @@ translations:
     name: ゴーマラ語
   - translation_iso: kor
     name: 고말라어
+  - translation_iso: por
+    name: ghomala’
   - translation_iso: spa
     name: ghomala
   - translation_iso: zho

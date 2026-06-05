@@ -30,6 +30,8 @@ translations:
     name: オナ語
   - translation_iso: kor
     name: 셀크남어
+  - translation_iso: por
+    name: Ona
   - translation_iso: spa
     name: "idioma selk'nam"
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワンダラン語
     auto: true
+  - translation_iso: por
+    name: Wandarang
+    auto: true
   - translation_iso: spa
     name: Wandarang
     auto: true

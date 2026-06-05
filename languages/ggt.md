@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ギトゥア語
     auto: true
+  - translation_iso: por
+    name: Gitua
+    auto: true
   - translation_iso: spa
     name: Gitua
   - translation_iso: zho

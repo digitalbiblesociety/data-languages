@@ -28,6 +28,8 @@ translations:
     name: エウェ語
   - translation_iso: kor
     name: 에웨어
+  - translation_iso: por
+    name: ewe
   - translation_iso: spa
     name: ewé
   - translation_iso: zho

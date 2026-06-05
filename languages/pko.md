@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポコット語
+  - translation_iso: por
+    name: Língua pocote
   - translation_iso: spa
     name: Pökoot
     auto: true

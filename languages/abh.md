@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 타지크 아랍어
+  - translation_iso: por
+    name: Árabe Tadjique
+    auto: true
   - translation_iso: spa
     name: Árabe tayiko
     auto: true

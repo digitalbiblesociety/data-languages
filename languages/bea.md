@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダネザ語
+  - translation_iso: por
+    name: Língua beaver
   - translation_iso: spa
     name: danezaa
   - translation_iso: zho

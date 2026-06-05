@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヒトゥ語
     auto: true
+  - translation_iso: por
+    name: Hitu
+    auto: true
   - translation_iso: spa
     name: Hitu
     auto: true

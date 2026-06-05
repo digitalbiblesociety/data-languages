@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワウン・メウ語
     auto: true
+  - translation_iso: por
+    name: Woun Meu
+    auto: true
   - translation_iso: spa
     name: idioma wounaan
   - translation_iso: zho

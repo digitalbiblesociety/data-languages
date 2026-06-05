@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ポートサンドウィッチ語
     auto: true
+  - translation_iso: por
+    name: Port Sandwich
+    auto: true
   - translation_iso: spa
     name: Port Sandwich
     auto: true

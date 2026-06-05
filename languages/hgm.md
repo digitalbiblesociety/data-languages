@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハイイ語
     auto: true
+  - translation_iso: por
+    name: Haiǁom
+    auto: true
   - translation_iso: spa
     name: ǂAakhoe
   - translation_iso: zho

@@ -22,6 +22,8 @@ translations:
   - translation_iso: jpn
     name: ラジ・ラジ語
     auto: true
+  - translation_iso: por
+    name: Língua latji-latji
   - translation_iso: spa
     name: Idioma latji latji
   - translation_iso: zho

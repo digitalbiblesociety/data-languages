@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ガルス語
     auto: true
+  - translation_iso: por
+    name: Garus
+    auto: true
   - translation_iso: spa
     name: Garus
     auto: true

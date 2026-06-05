@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ベベレ語
     auto: true
+  - translation_iso: por
+    name: Bebele
+    auto: true
   - translation_iso: spa
     name: Bebele
     auto: true

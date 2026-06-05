@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カフォア語
     auto: true
+  - translation_iso: por
+    name: Kafoa
+    auto: true
   - translation_iso: spa
     name: Kafoa
     auto: true

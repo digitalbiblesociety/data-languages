@@ -28,6 +28,8 @@ translations:
     name: ニアス語
   - translation_iso: kor
     name: 니아스어
+  - translation_iso: por
+    name: Língua nias
   - translation_iso: spa
     name: nias
   - translation_iso: zho

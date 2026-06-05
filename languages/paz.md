@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: パンカラル語
     auto: true
+  - translation_iso: por
+    name: Língua pankararú
   - translation_iso: spa
     name: Idioma pankararú
   - translation_iso: zho

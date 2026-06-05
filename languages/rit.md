@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: リサルングー語
     auto: true
+  - translation_iso: por
+    name: Ritharrngu
+    auto: true
   - translation_iso: spa
     name: Ritharrngu
     auto: true

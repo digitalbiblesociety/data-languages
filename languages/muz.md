@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムルシ語
     auto: true
+  - translation_iso: por
+    name: Mursi
+    auto: true
   - translation_iso: spa
     name: Idioma mursi
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 南プエブラ・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco do sul de Puebla
+    auto: true
   - translation_iso: spa
     name: Mixteco de la frontera Puebla-Oaxaca
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中部麻山フモン語
+  - translation_iso: por
+    name: Hmong Mashan Central
+    auto: true
   - translation_iso: spa
     name: Hmong Mashan central
     auto: true

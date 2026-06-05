@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スイス＝イタリア手話
+  - translation_iso: por
+    name: Língua de Sinais Suíço-Italiana
+    auto: true
   - translation_iso: spa
     name: Lengua de Señas Suizo-Italiana
     auto: true

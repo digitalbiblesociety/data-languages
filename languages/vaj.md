@@ -31,6 +31,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 세켈레어
+  - translation_iso: por
+    name: "!O!ung"
   - translation_iso: spa
     name: idioma sekele
   - translation_iso: zho

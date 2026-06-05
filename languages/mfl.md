@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プタイ語
     auto: true
+  - translation_iso: por
+    name: Putai
+    auto: true
   - translation_iso: spa
     name: Putai
     auto: true

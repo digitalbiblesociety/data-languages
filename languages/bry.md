@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブルイ語
     auto: true
+  - translation_iso: por
+    name: Burui
+    auto: true
   - translation_iso: spa
     name: Burui
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サンマルコストラコヤルコポポカ語
     auto: true
+  - translation_iso: por
+    name: Popoloca de San Marcos Tlacoyalco
+    auto: true
   - translation_iso: spa
     name: Popoloca norteño
   - translation_iso: zho

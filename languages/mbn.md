@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マカグアン語
     auto: true
+  - translation_iso: por
+    name: Macaguán
+    auto: true
   - translation_iso: spa
     name: Macaguán
   - translation_iso: zho

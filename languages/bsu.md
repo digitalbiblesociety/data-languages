@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バホンスアイ語
     auto: true
+  - translation_iso: por
+    name: Bahonsuai
+    auto: true
   - translation_iso: spa
     name: Bahonsuai
     auto: true

@@ -26,6 +26,8 @@ translations:
     name: ハッティ語
   - translation_iso: kor
     name: 하티어
+  - translation_iso: por
+    name: Língua hatita
   - translation_iso: spa
     name: Idioma hatti
   - translation_iso: zho

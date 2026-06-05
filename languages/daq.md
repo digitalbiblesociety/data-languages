@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダンダミ・マリア語
     auto: true
+  - translation_iso: por
+    name: Dandami Maria
+    auto: true
   - translation_iso: spa
     name: Dandami Maria
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: オファエ語
     auto: true
+  - translation_iso: por
+    name: Língua ofaié
   - translation_iso: spa
     name: idioma ofayé
   - translation_iso: zho

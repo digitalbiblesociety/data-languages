@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北ヌニ語
     auto: true
+  - translation_iso: por
+    name: Nuni Setentrional
+    auto: true
   - translation_iso: spa
     name: Nuni Septentrional
     auto: true

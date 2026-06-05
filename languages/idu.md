@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イドマ語
+  - translation_iso: por
+    name: Idoma
+    auto: true
   - translation_iso: spa
     name: Idoma
     auto: true

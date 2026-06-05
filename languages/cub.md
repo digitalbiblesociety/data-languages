@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: クベオ語
     auto: true
+  - translation_iso: por
+    name: Língua cubeo
   - translation_iso: spa
     name: idioma cubeo
   - translation_iso: zho

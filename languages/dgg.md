@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ドガ語
     auto: true
+  - translation_iso: por
+    name: Doga
+    auto: true
   - translation_iso: spa
     name: Doga
     auto: true

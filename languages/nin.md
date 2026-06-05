@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニンゾ語
     auto: true
+  - translation_iso: por
+    name: Ninzo
+    auto: true
   - translation_iso: spa
     name: Ninzo
     auto: true

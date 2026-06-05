@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: カンビワ語
     auto: true
+  - translation_iso: por
+    name: Língua kambiwá
   - translation_iso: spa
     name: Idioma kambiwá
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ボロンド語
     auto: true
+  - translation_iso: por
+    name: Bolondo
+    auto: true
   - translation_iso: spa
     name: bolondo
   - translation_iso: zho

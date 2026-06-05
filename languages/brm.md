@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バランブ語
     auto: true
+  - translation_iso: por
+    name: Barambu
+    auto: true
   - translation_iso: spa
     name: Barambu
     auto: true

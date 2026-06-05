@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボラナ・アルシ・グジ・オロモ語
     auto: true
+  - translation_iso: por
+    name: oromo de Borana-Arsi-Guji
+    auto: true
   - translation_iso: spa
     name: Oromo borana-arsi-guji
     auto: true

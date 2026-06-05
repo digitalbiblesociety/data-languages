@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イクル語
     auto: true
+  - translation_iso: por
+    name: Ikulu
+    auto: true
   - translation_iso: spa
     name: Ikulu
     auto: true

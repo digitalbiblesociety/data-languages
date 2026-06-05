@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ギッチサン語
     auto: true
+  - translation_iso: por
+    name: Língua gitxsan
   - translation_iso: spa
     name: Gitxsan
     auto: true

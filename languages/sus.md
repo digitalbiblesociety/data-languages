@@ -28,6 +28,8 @@ translations:
     name: スス語
   - translation_iso: kor
     name: 수수어
+  - translation_iso: por
+    name: Língua susu
   - translation_iso: spa
     name: Idioma suso
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フリンダース島語
     auto: true
+  - translation_iso: por
+    name: Flinders Island
+    auto: true
   - translation_iso: spa
     name: Flinders Island
     auto: true

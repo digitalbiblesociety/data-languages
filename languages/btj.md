@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バカン・マレー語
+  - translation_iso: por
+    name: Malaio de Bacan
+    auto: true
   - translation_iso: spa
     name: Malayo de Bacán
     auto: true

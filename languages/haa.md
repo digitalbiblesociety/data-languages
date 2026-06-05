@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ハン語
     auto: true
+  - translation_iso: por
+    name: Língua hän
   - translation_iso: spa
     name: Idioma hän
   - translation_iso: zho

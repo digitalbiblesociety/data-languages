@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤンダ語
     auto: true
+  - translation_iso: por
+    name: yanda
+    auto: true
   - translation_iso: spa
     name: Yanda
     auto: true

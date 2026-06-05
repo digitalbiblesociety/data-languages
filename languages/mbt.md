@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: マティグサルグ・マノボ語
     auto: true
+  - translation_iso: por
+    name: Língua matigsalug
   - translation_iso: spa
     name: Manobo Matigsalug
     auto: true

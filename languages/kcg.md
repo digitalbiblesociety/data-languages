@@ -28,6 +28,8 @@ translations:
     name: カタブ語
   - translation_iso: kor
     name: 티얍어
+  - translation_iso: por
+    name: tyap
   - translation_iso: spa
     name: Katab
   - translation_iso: zho

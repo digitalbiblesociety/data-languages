@@ -20,6 +20,9 @@ translations:
   - translation_iso: jpn
     name: カレンガッパ語
     auto: true
+  - translation_iso: por
+    name: Karenggapa
+    auto: true
   - translation_iso: spa
     name: Karenggapa
     auto: true

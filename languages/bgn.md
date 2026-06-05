@@ -28,6 +28,8 @@ translations:
     name: 西バローチー語
   - translation_iso: kor
     name: 서부 발로치어
+  - translation_iso: por
+    name: balúchi ocidental
   - translation_iso: spa
     name: baluchi occidental
   - translation_iso: zho

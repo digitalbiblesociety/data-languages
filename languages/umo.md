@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: バルバドス語
     auto: true
+  - translation_iso: por
+    name: Língua umutina
   - translation_iso: spa
     name: Umotina
   - translation_iso: zho

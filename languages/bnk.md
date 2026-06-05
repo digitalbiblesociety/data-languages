@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビエレボ語
     auto: true
+  - translation_iso: por
+    name: Bierebo
+    auto: true
   - translation_iso: spa
     name: Bierebo
     auto: true

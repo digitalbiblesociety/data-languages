@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中世スペイン語
+  - translation_iso: por
+    name: espanhol medieval
   - translation_iso: spa
     name: castellano medieval
   - translation_iso: zho

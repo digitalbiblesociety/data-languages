@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: カダイ語
     auto: true
+  - translation_iso: por
+    name: Kadai
+    auto: true
   - translation_iso: spa
     name: Kadai
     auto: true

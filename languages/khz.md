@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケアパラ語
+  - translation_iso: por
+    name: Keapara
+    auto: true
   - translation_iso: spa
     name: Keapara
     auto: true

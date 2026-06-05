@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コラ語
     auto: true
+  - translation_iso: por
+    name: Cora de Santa Teresa
+    auto: true
   - translation_iso: spa
     name: Cora de Santa Teresa
     auto: true

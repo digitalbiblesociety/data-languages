@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ログバ語
     auto: true
+  - translation_iso: por
+    name: Língua logba
   - translation_iso: spa
     name: Logba
     auto: true

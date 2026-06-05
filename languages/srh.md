@@ -29,6 +29,8 @@ translations:
     name: サリコリ語
   - translation_iso: kor
     name: 사리콜리어
+  - translation_iso: por
+    name: língua sarikoli
   - translation_iso: spa
     name: idioma sarikoli
   - translation_iso: zho

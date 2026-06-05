@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クウォマ語
     auto: true
+  - translation_iso: por
+    name: Kwoma
+    auto: true
   - translation_iso: spa
     name: Kwoma
     auto: true

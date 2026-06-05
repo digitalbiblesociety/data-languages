@@ -26,6 +26,9 @@ translations:
     name: इनुइट सांकेतिक भाषा
   - translation_iso: jpn
     name: イヌイット手話
+  - translation_iso: por
+    name: Língua de Sinais Inuíte
+    auto: true
   - translation_iso: spa
     name: Lengua de señas inuit
     auto: true

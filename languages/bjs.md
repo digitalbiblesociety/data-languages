@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バジャン語
     auto: true
+  - translation_iso: por
+    name: Crioulo bajan
   - translation_iso: spa
     name: Bajan
     auto: true

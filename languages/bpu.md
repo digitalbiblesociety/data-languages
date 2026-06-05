@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボング語
     auto: true
+  - translation_iso: por
+    name: Bongu
+    auto: true
   - translation_iso: spa
     name: Bongu
     auto: true

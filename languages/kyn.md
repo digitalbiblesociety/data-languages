@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 北ビヌキドノン語
     auto: true
+  - translation_iso: por
+    name: Binukidnon setentrional
+    auto: true
   - translation_iso: spa
     name: idioma carolano
   - translation_iso: zho

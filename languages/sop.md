@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソンゲ語
+  - translation_iso: por
+    name: Língua songe
   - translation_iso: spa
     name: Songe
     auto: true

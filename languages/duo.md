@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ドゥパニナン・アグタ語
     auto: true
+  - translation_iso: por
+    name: Língua dupaningan acta
   - translation_iso: spa
     name: Agta Dupaninan
     auto: true

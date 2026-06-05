@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムウィンビ・ムタンビ語
     auto: true
+  - translation_iso: por
+    name: Mwimbi-Muthambi
+    auto: true
   - translation_iso: spa
     name: Mwimbi-Muthambi
     auto: true

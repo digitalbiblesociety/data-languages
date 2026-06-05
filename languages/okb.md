@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オコボ語
     auto: true
+  - translation_iso: por
+    name: Okobo
+    auto: true
   - translation_iso: spa
     name: Okobo
     auto: true

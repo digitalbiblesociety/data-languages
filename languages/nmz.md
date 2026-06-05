@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナウドム語
     auto: true
+  - translation_iso: por
+    name: Nawdm
+    auto: true
   - translation_iso: spa
     name: Nawdm
     auto: true

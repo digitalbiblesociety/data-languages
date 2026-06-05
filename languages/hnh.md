@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イアニ語
     auto: true
+  - translation_iso: por
+    name: ǁAni
+    auto: true
   - translation_iso: spa
     name: ǁAni
     auto: true

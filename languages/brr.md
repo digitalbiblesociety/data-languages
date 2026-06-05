@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムビラオ語
+  - translation_iso: por
+    name: Birao
+    auto: true
   - translation_iso: spa
     name: Birao
     auto: true

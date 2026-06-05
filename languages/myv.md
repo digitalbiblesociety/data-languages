@@ -28,6 +28,8 @@ translations:
     name: エルジャ語
   - translation_iso: kor
     name: 에르자어
+  - translation_iso: por
+    name: Língua erzya
   - translation_iso: spa
     name: erzya
   - translation_iso: zho

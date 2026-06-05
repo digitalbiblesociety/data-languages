@@ -30,6 +30,8 @@ translations:
     name: ブヌン語
   - translation_iso: kor
     name: 부눈어
+  - translation_iso: por
+    name: Língua bunun
   - translation_iso: spa
     name: Idioma bunun
   - translation_iso: zho

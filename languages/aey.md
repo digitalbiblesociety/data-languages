@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アメレ語
     auto: true
+  - translation_iso: por
+    name: Língua amele
   - translation_iso: spa
     name: Amele
     auto: true

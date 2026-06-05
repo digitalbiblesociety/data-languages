@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ベエムベ語
     auto: true
+  - translation_iso: por
+    name: Língua bembe
   - translation_iso: spa
     name: Beembe
     auto: true

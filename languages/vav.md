@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ヴァーリー語
     auto: true
+  - translation_iso: por
+    name: Varli
+    auto: true
   - translation_iso: spa
     name: Varli
     auto: true

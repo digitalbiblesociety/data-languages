@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シンガポール手話
+  - translation_iso: por
+    name: Língua de sinais de Singapura
   - translation_iso: spa
     name: Lengua de Señas de Singapur
     auto: true

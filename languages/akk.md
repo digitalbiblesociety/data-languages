@@ -28,6 +28,8 @@ translations:
     name: アッカド語
   - translation_iso: kor
     name: 아카드어
+  - translation_iso: por
+    name: acádio
   - translation_iso: spa
     name: acadio
   - translation_iso: zho

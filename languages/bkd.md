@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビヌキド
+  - translation_iso: por
+    name: Língua bukid
   - translation_iso: spa
     name: Binukid
     auto: true

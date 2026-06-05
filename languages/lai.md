@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ランブヤ語
+  - translation_iso: por
+    name: Língua lâmbia
   - translation_iso: spa
     name: Lambya
     auto: true

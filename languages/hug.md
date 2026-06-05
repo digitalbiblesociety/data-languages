@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フアチパエリ語
     auto: true
+  - translation_iso: por
+    name: Huachipaeri
+    auto: true
   - translation_iso: spa
     name: Huachipaeri
   - translation_iso: zho

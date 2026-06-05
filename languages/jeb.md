@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ジェベロ語
     auto: true
+  - translation_iso: por
+    name: Língua jebero
   - translation_iso: spa
     name: Jebero
   - translation_iso: zho

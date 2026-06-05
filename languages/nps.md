@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニプサン語
     auto: true
+  - translation_iso: por
+    name: Nipsan
+    auto: true
   - translation_iso: spa
     name: Nipsan
     auto: true

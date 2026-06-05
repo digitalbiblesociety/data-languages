@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 北ファリ語
     auto: true
+  - translation_iso: por
+    name: fali do norte
+    auto: true
   - translation_iso: spa
     name: Fali del Norte
     auto: true

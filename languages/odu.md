@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オドゥアル語
     auto: true
+  - translation_iso: por
+    name: Odual
+    auto: true
   - translation_iso: spa
     name: Odual
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ボルユ語
     auto: true
+  - translation_iso: por
+    name: Língua bolyu
   - translation_iso: spa
     name: Bolyu
     auto: true

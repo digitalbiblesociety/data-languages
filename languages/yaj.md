@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンダ＝ヤンゲレ語
+  - translation_iso: por
+    name: banda-yangere
+    auto: true
   - translation_iso: spa
     name: Banda-Yangere
     auto: true

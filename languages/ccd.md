@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: カフンド・クレオール語
     auto: true
+  - translation_iso: por
+    name: Cupópia
   - translation_iso: spa
     name: Criollo de Cafundo
     auto: true

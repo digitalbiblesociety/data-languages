@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨンカラ語
+  - translation_iso: por
+    name: Kalapuya Meridional
+    auto: true
   - translation_iso: spa
     name: Yoncalla
   - translation_iso: zho

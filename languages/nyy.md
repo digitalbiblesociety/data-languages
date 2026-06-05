@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャキュサ語
+  - translation_iso: por
+    name: Nyakyusa-Ngonde
+    auto: true
   - translation_iso: spa
     name: Nyakyusa-Ngonde
     auto: true

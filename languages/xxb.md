@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボロ語（ガーナ）
     auto: true
+  - translation_iso: por
+    name: boro (Gana)
+    auto: true
   - translation_iso: spa
     name: Boro (Ghana)
     auto: true

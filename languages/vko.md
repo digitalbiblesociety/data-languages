@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: コンデア語
     auto: true
+  - translation_iso: por
+    name: Língua kodehoa
   - translation_iso: spa
     name: Kodeoha
     auto: true

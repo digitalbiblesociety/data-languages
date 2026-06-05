@@ -28,6 +28,8 @@ translations:
     name: ルバ・カタンガ語
   - translation_iso: kor
     name: 루바-카탕가어
+  - translation_iso: por
+    name: luba-catanga
   - translation_iso: spa
     name: KiLuba
   - translation_iso: zho

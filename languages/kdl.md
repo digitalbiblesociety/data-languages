@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ツィキンバ語
     auto: true
+  - translation_iso: por
+    name: Tsikimba
+    auto: true
   - translation_iso: spa
     name: Tsikimba
     auto: true

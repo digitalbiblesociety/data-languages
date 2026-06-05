@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノイ語
+  - translation_iso: por
+    name: Noy
+    auto: true
   - translation_iso: spa
     name: Noy
     auto: true

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中南ディンカ語
+  - translation_iso: por
+    name: Dinka Centro-Meridional
+    auto: true
   - translation_iso: spa
     name: Dinka centro-meridional
     auto: true

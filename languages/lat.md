@@ -28,6 +28,8 @@ translations:
     name: ラテン語
   - translation_iso: kor
     name: 라틴어
+  - translation_iso: por
+    name: latim
   - translation_iso: spa
     name: latín
   - translation_iso: zho

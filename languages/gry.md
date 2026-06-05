@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バークレイヴィル・グレボ語
     auto: true
+  - translation_iso: por
+    name: Grebo de Barclayville
+    auto: true
   - translation_iso: spa
     name: Grebo de Barclayville
     auto: true

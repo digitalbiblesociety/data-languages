@@ -28,6 +28,8 @@ translations:
     name: 四川彝語
   - translation_iso: kor
     name: 눠쑤어
+  - translation_iso: por
+    name: Língua Nuosu
   - translation_iso: spa
     name: Idioma nuosu
   - translation_iso: zho

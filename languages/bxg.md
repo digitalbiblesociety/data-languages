@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バンガラ語
+  - translation_iso: por
+    name: Língua bangala
   - translation_iso: spa
     name: Idioma bangala
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: カドー語
   - translation_iso: kor
     name: 캐도어
+  - translation_iso: por
+    name: Língua caddo
   - translation_iso: spa
     name: Caddo
   - translation_iso: zho

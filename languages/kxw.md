@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コナイ語
     auto: true
+  - translation_iso: por
+    name: Konai
+    auto: true
   - translation_iso: spa
     name: Konai
     auto: true

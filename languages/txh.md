@@ -28,6 +28,8 @@ translations:
     name: トラキア語
   - translation_iso: kor
     name: 트라키아어
+  - translation_iso: por
+    name: língua trácia
   - translation_iso: spa
     name: idioma tracio
   - translation_iso: zho

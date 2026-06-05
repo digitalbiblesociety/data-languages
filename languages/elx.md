@@ -24,6 +24,8 @@ translations:
     name: エラム語
   - translation_iso: kor
     name: 엘람어
+  - translation_iso: por
+    name: Língua elamita
   - translation_iso: spa
     name: elamita
   - translation_iso: zho

@@ -20,6 +20,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ブルトン語
+  - translation_iso: por
+    name: bretão antigo
+    auto: true
   - translation_iso: spa
     name: bretón antiguo
   - translation_iso: zho

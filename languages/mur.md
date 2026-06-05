@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムルレ語
+  - translation_iso: por
+    name: Língua murle
   - translation_iso: spa
     name: Idioma murle
   - translation_iso: zho

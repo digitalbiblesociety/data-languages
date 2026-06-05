@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クケ語
     auto: true
+  - translation_iso: por
+    name: Kuke
+    auto: true
   - translation_iso: spa
     name: Kuke
     auto: true

@@ -25,6 +25,8 @@ translations:
     name: न्यूज़ीलैण्ड हस्ताक्षर भाषा
   - translation_iso: jpn
     name: ニュージーランド手話
+  - translation_iso: por
+    name: língua de sinais da Nova Zelândia
   - translation_iso: spa
     name: lengua de señas neozelandesa
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンコン語
+  - translation_iso: por
+    name: Ngemba
+    auto: true
   - translation_iso: spa
     name: Ngemba
     auto: true

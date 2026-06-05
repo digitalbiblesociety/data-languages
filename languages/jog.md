@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ジョギ語
     auto: true
+  - translation_iso: por
+    name: Jogi
+    auto: true
   - translation_iso: spa
     name: Jogi
     auto: true

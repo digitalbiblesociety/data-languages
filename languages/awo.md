@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アワク語
     auto: true
+  - translation_iso: por
+    name: Awak
+    auto: true
   - translation_iso: spa
     name: Awak
     auto: true

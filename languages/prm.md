@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: キビリ語
     auto: true
+  - translation_iso: por
+    name: Kibiri
+    auto: true
   - translation_iso: spa
     name: Idioma porome
   - translation_iso: zho

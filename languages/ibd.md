@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イワイジャ語
     auto: true
+  - translation_iso: por
+    name: Iwaidja
+    auto: true
   - translation_iso: spa
     name: Iwaidja
     auto: true

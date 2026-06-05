@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アバグアラニー語
+  - translation_iso: por
+    name: Guarani chiripá
   - translation_iso: spa
     name: Guaraní chiripá
   - translation_iso: zho

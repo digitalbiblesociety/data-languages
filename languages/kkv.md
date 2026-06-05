@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: カンギアン語
     auto: true
+  - translation_iso: por
+    name: Língua kangeana
   - translation_iso: spa
     name: Kangean
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カオ・ミャオ語
     auto: true
+  - translation_iso: por
+    name: Cao Miao
+    auto: true
   - translation_iso: spa
     name: Cao Miao
     auto: true

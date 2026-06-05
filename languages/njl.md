@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ンジャルグルグレ語
     auto: true
+  - translation_iso: por
+    name: Njalgulgule
+    auto: true
   - translation_iso: spa
     name: Njalgulgule
     auto: true

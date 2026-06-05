@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ニカラグア・クレオール・イングリッシュ語
     auto: true
+  - translation_iso: por
+    name: Crioulo da Costa dos Mosquitos
   - translation_iso: spa
     name: Inglés criollo nicaragüense
   - translation_iso: zho

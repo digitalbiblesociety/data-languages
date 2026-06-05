@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビカウ・タウマコ語
+  - translation_iso: por
+    name: Língua vaeakau-taumako
   - translation_iso: spa
     name: Pileni
     auto: true

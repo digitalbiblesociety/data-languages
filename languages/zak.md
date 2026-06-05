@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ザナキ語
     auto: true
+  - translation_iso: por
+    name: zanaki
+    auto: true
   - translation_iso: spa
     name: Zanaki
     auto: true

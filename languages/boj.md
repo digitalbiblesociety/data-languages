@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アンジャム語
     auto: true
+  - translation_iso: por
+    name: Anjam
+    auto: true
   - translation_iso: spa
     name: Anjam
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マイ・ブラット語
     auto: true
+  - translation_iso: por
+    name: Mai Brat
+    auto: true
   - translation_iso: spa
     name: Mai Brat
     auto: true

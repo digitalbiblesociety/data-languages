@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: デズフリ語
     auto: true
+  - translation_iso: por
+    name: Dezfuli
+    auto: true
   - translation_iso: spa
     name: Dezfuli
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ノース・ギジガ語
     auto: true
+  - translation_iso: por
+    name: giziga do norte
+    auto: true
   - translation_iso: spa
     name: Giziga septentrional
     auto: true

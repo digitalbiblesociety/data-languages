@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アオレ語
     auto: true
+  - translation_iso: por
+    name: Aore
+    auto: true
   - translation_iso: spa
     name: Aore
     auto: true

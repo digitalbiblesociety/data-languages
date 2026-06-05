@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レムニア語
+  - translation_iso: por
+    name: Língua lêmnia
   - translation_iso: spa
     name: Idioma lemnio
   - translation_iso: zho

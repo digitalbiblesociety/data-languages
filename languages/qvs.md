@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サンマルティンケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de San Martín
+    auto: true
   - translation_iso: spa
     name: quechua lamista
   - translation_iso: zho

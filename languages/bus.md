@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボコバル語
     auto: true
+  - translation_iso: por
+    name: Bokobaru
+    auto: true
   - translation_iso: spa
     name: Bokobaru
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウカヤリ・ユルアー・アシェニンカ語
     auto: true
+  - translation_iso: por
+    name: Ashéninka do Ucayali-Yurúa
+    auto: true
   - translation_iso: spa
     name: Ashéninka del Ucayali-Yurúa
     auto: true

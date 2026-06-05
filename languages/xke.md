@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ケレホ語
     auto: true
+  - translation_iso: por
+    name: Kereho
+    auto: true
   - translation_iso: spa
     name: Kereho
     auto: true

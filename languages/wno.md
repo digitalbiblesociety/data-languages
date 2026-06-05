@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワノ語
     auto: true
+  - translation_iso: por
+    name: Wano
+    auto: true
   - translation_iso: spa
     name: Wano
     auto: true

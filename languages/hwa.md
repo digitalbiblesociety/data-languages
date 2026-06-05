@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワネ語
     auto: true
+  - translation_iso: por
+    name: Wané
+    auto: true
   - translation_iso: spa
     name: Wané
     auto: true

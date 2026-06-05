@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナッカラ
+  - translation_iso: por
+    name: Na-kara
+    auto: true
   - translation_iso: spa
     name: Na-kara
     auto: true

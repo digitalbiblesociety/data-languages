@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部パイユート語
+  - translation_iso: por
+    name: Língua paiúte setentrional
   - translation_iso: spa
     name: paiute septentrional
   - translation_iso: zho

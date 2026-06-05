@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タンルイ語
+  - translation_iso: por
+    name: Malgaxe Tandroy-Mahafaly
+    auto: true
   - translation_iso: spa
     name: Malgache Tandroy-Mahafaly
     auto: true

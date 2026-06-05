@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ヤンジバラ語
     auto: true
+  - translation_iso: por
+    name: yandjibara
+    auto: true
   - translation_iso: spa
     name: Yandjibara
     auto: true

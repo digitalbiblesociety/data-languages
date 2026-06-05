@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クンカリ語
     auto: true
+  - translation_iso: por
+    name: Kungkari
+    auto: true
   - translation_iso: spa
     name: Kungkari
     auto: true

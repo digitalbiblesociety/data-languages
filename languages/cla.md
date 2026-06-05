@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 론어
+  - translation_iso: por
+    name: Ron
+    auto: true
   - translation_iso: spa
     name: Ron
     auto: true

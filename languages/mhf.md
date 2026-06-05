@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ママア語
     auto: true
+  - translation_iso: por
+    name: Mamaa
+    auto: true
   - translation_iso: spa
     name: Mamaa
     auto: true

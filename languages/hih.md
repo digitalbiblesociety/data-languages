@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パモス語
     auto: true
+  - translation_iso: por
+    name: Pamosu
+    auto: true
   - translation_iso: spa
     name: Pamosu
     auto: true

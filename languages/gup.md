@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グンウィング語
+  - translation_iso: por
+    name: Língua kunwinjku
   - translation_iso: spa
     name: Gunwinggu
     auto: true

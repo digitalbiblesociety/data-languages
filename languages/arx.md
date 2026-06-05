@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アルア語
     auto: true
+  - translation_iso: por
+    name: Língua aruá
   - translation_iso: spa
     name: Aruá (estado de Rondonia)
     auto: true

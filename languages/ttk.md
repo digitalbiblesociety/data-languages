@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナムリック語
     auto: true
+  - translation_iso: por
+    name: Totoro
+    auto: true
   - translation_iso: spa
     name: Idioma totoró
   - translation_iso: zho

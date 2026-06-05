@@ -28,6 +28,8 @@ translations:
     name: フランス語
   - translation_iso: kor
     name: 프랑스어
+  - translation_iso: por
+    name: francês
   - translation_iso: spa
     name: francés
   - translation_iso: zho

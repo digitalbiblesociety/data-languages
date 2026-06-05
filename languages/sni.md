@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: テンティ語
     auto: true
+  - translation_iso: por
+    name: Sensi
+    auto: true
   - translation_iso: spa
     name: Sensi
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ファウル語
     auto: true
+  - translation_iso: por
+    name: Uruangnirin
+    auto: true
   - translation_iso: spa
     name: Uruangnirin
     auto: true

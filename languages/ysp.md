@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サザンロロポ語
     auto: true
+  - translation_iso: por
+    name: lolopo do sul
+    auto: true
   - translation_iso: spa
     name: Lolopo meridional
     auto: true

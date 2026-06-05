@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: サブウム語
     auto: true
+  - translation_iso: por
+    name: Sabüm
+    auto: true
   - translation_iso: spa
     name: Sabüm
     auto: true

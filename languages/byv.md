@@ -29,6 +29,8 @@ translations:
     name: メドゥンバ語
   - translation_iso: kor
     name: 메둠바어
+  - translation_iso: por
+    name: medumba
   - translation_iso: spa
     name: medumba
   - translation_iso: zho

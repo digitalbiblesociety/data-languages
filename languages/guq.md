@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グアヤキ語
+  - translation_iso: por
+    name: Língua aché
   - translation_iso: spa
     name: idioma aché
   - translation_iso: zho

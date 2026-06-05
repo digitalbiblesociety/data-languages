@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: カルクトゥン語
     auto: true
+  - translation_iso: por
+    name: Língua kalkatungu
   - translation_iso: spa
     name: Idioma kalkatungu
   - translation_iso: zho

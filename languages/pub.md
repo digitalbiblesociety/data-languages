@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: プルム語
     auto: true
+  - translation_iso: por
+    name: Purum
+    auto: true
   - translation_iso: spa
     name: Purum
     auto: true

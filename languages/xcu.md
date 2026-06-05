@@ -22,6 +22,8 @@ translations:
     name: クロニア語
   - translation_iso: kor
     name: 쿠로니아어
+  - translation_iso: por
+    name: Língua curônia
   - translation_iso: spa
     name: curonio
   - translation_iso: zho

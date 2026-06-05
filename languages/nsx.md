@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ンソンゴ語
     auto: true
+  - translation_iso: por
+    name: Nsongo
+    auto: true
   - translation_iso: spa
     name: Idioma songo
   - translation_iso: zho

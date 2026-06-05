@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムンダブリ語
     auto: true
+  - translation_iso: por
+    name: Mundabli
+    auto: true
   - translation_iso: spa
     name: mundabli
   - translation_iso: zho

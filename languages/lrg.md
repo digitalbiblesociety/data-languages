@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ララキア語
+  - translation_iso: por
+    name: Laragia
+    auto: true
   - translation_iso: spa
     name: Laragia
     auto: true

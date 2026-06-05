@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 東ラワ語
     auto: true
+  - translation_iso: por
+    name: Lawa oriental
+    auto: true
   - translation_iso: spa
     name: Lawa oriental
     auto: true

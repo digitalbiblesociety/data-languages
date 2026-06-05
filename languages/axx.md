@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 항랑구레어
+  - translation_iso: por
+    name: Xârâgurè
+    auto: true
   - translation_iso: spa
     name: Xârâgurè
     auto: true

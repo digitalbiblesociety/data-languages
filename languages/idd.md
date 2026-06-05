@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エデ・イダカ語
     auto: true
+  - translation_iso: por
+    name: Ede Idaca
+    auto: true
   - translation_iso: spa
     name: Ede Idaca
     auto: true

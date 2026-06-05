@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アウトゥ語
     auto: true
+  - translation_iso: por
+    name: Awutu
+    auto: true
   - translation_iso: spa
     name: Awutu
     auto: true

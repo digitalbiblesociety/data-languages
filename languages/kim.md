@@ -28,6 +28,8 @@ translations:
     name: トファ語
   - translation_iso: kor
     name: 토파어
+  - translation_iso: por
+    name: Língua tofa
   - translation_iso: spa
     name: Karagas
     auto: true

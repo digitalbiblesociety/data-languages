@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タンジジリ語
     auto: true
+  - translation_iso: por
+    name: Tanjijili
+    auto: true
   - translation_iso: spa
     name: Tanjijili
     auto: true

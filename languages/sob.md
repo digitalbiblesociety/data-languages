@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソベイ語
+  - translation_iso: por
+    name: Sobei
+    auto: true
   - translation_iso: spa
     name: Sobei
     auto: true

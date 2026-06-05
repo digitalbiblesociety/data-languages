@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パシ語
     auto: true
+  - translation_iso: por
+    name: Pasi
+    auto: true
   - translation_iso: spa
     name: pasi
   - translation_iso: zho

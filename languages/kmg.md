@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カーテ語
+  - translation_iso: por
+    name: Kâte
+    auto: true
   - translation_iso: spa
     name: Kâte
     auto: true

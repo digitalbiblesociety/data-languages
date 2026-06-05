@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カウ語
     auto: true
+  - translation_iso: por
+    name: Qau
+    auto: true
   - translation_iso: spa
     name: Qau
   - translation_iso: zho

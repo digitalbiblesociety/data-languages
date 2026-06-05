@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パグ語
+  - translation_iso: por
+    name: Pagu
+    auto: true
   - translation_iso: spa
     name: Pagu
     auto: true

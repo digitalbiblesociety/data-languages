@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チョピ語
+  - translation_iso: por
+    name: Língua chope
   - translation_iso: spa
     name: Chopi
     auto: true

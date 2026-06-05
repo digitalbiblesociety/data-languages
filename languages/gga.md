@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ガオ語
     auto: true
+  - translation_iso: por
+    name: Gao
+    auto: true
   - translation_iso: spa
     name: Gao
   - translation_iso: zho

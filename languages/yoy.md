@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨイ語
+  - translation_iso: por
+    name: yoy
+    auto: true
   - translation_iso: spa
     name: Yoy
     auto: true

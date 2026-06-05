@@ -29,6 +29,8 @@ translations:
     name: モングォル語
   - translation_iso: kor
     name: 몽구오르어
+  - translation_iso: por
+    name: Língua monguor
   - translation_iso: spa
     name: Idioma huzhu
   - translation_iso: zho

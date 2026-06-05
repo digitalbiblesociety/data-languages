@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モリギ語
     auto: true
+  - translation_iso: por
+    name: Morigi
+    auto: true
   - translation_iso: spa
     name: Morigi
     auto: true

@@ -20,6 +20,8 @@ translations:
     name: 複数言語
   - translation_iso: kor
     name: 다중 언어
+  - translation_iso: por
+    name: múltiplas línguas
   - translation_iso: spa
     name: plurilingüe
   - translation_iso: zho

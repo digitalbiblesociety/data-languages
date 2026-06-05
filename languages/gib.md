@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ギバナワ語
     auto: true
+  - translation_iso: por
+    name: Gibanawa
+    auto: true
   - translation_iso: spa
     name: Gibanawa
     auto: true

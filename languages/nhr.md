@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナロ語
+  - translation_iso: por
+    name: Língua naro
   - translation_iso: spa
     name: Naro
     auto: true

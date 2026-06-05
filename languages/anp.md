@@ -28,6 +28,8 @@ translations:
     name: アンギカ語
   - translation_iso: kor
     name: 앙기카어
+  - translation_iso: por
+    name: Língua angika
   - translation_iso: spa
     name: Idioma angika
   - translation_iso: zho

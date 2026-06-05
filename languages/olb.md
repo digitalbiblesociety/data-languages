@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: オリ・ボディマン語
     auto: true
+  - translation_iso: por
+    name: Oli-Bodiman
+    auto: true
   - translation_iso: spa
     name: Oli-Bodiman
     auto: true

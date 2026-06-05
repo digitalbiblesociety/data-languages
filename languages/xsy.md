@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サイシャット語
+  - translation_iso: por
+    name: Língua saisiyat
   - translation_iso: spa
     name: Idioma saisiyat
   - translation_iso: zho

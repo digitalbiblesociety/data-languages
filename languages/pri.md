@@ -30,6 +30,8 @@ translations:
     name: パーチン語
   - translation_iso: kor
     name: 파이칭어
+  - translation_iso: por
+    name: Língua paicî
   - translation_iso: spa
     name: Idioma paicî
   - translation_iso: zho

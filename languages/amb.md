@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンボ語
     auto: true
+  - translation_iso: por
+    name: Ambo
+    auto: true
   - translation_iso: spa
     name: Ambo
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ンクツ語
     auto: true
+  - translation_iso: por
+    name: Nkutu
+    auto: true
   - translation_iso: spa
     name: Nkutu
     auto: true

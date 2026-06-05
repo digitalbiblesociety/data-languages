@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カヤン川カヤン語
     auto: true
+  - translation_iso: por
+    name: Kayan do Rio Kayan
+    auto: true
   - translation_iso: spa
     name: Kayan del río Kayan
     auto: true

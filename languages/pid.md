@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ピアロア語
     auto: true
+  - translation_iso: por
+    name: Piaroa
+    auto: true
   - translation_iso: spa
     name: Piaroa
   - translation_iso: zho

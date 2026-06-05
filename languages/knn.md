@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マハーラーシュトリアン・コンカニ語
+  - translation_iso: por
+    name: concani
+    auto: true
   - translation_iso: spa
     name: Konkani
     auto: true

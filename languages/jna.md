@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジャングシュン語
     auto: true
+  - translation_iso: por
+    name: Jangshung
+    auto: true
   - translation_iso: spa
     name: Jangshung
     auto: true

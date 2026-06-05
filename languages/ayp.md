@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北メソポタミア・アラビア語
+  - translation_iso: por
+    name: Árabe moslawi
   - translation_iso: spa
     name: Árabe mesopotámico septentrional
   - translation_iso: zho

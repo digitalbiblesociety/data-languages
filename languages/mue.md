@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メディア・レングア
+  - translation_iso: por
+    name: Media Lengua
+    auto: true
   - translation_iso: spa
     name: media lengua
   - translation_iso: zho

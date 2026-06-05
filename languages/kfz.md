@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クルンフェ語
+  - translation_iso: por
+    name: Koromfé
+    auto: true
   - translation_iso: spa
     name: Koromfé
     auto: true

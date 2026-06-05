@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ギビリ・ニラグ語
     auto: true
+  - translation_iso: por
+    name: Gbiri-Niragu
+    auto: true
   - translation_iso: spa
     name: Gbiri-Niragu
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ブング語
     auto: true
+  - translation_iso: por
+    name: Bungu
+    auto: true
   - translation_iso: spa
     name: Bungu
     auto: true

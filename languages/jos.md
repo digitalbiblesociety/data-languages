@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヨルダン手話
+  - translation_iso: por
+    name: Língua de Sinais Jordaniana
+    auto: true
   - translation_iso: spa
     name: Lengua de señas jordana
     auto: true

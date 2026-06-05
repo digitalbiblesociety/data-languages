@@ -26,6 +26,8 @@ translations:
     name: टोटो भाषा
   - translation_iso: jpn
     name: トト語
+  - translation_iso: por
+    name: Língua toto
   - translation_iso: spa
     name: toto
   - translation_iso: zho

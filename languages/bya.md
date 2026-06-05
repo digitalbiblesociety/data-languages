@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バタック語
     auto: true
+  - translation_iso: por
+    name: Batak
+    auto: true
   - translation_iso: spa
     name: idioma batac
   - translation_iso: zho

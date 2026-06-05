@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: クアンファ語
     auto: true
+  - translation_iso: por
+    name: Kuanhua
+    auto: true
   - translation_iso: spa
     name: Kuanhua
     auto: true

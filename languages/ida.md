@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イダホ＝イスハ＝ティリキ語
+  - translation_iso: por
+    name: Idakho-Isukha-Tiriki
+    auto: true
   - translation_iso: spa
     name: Idakho-Isukha-Tiriki
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エトン語
+  - translation_iso: por
+    name: Língua eton
   - translation_iso: spa
     name: Eton
     auto: true

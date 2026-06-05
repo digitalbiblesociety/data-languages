@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケナボイ語
+  - translation_iso: por
+    name: Kenaboi
+    auto: true
   - translation_iso: spa
     name: Kenaboi
     auto: true

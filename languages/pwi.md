@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: パットウィン語
     auto: true
+  - translation_iso: por
+    name: Língua patwin
   - translation_iso: spa
     name: Patwin
     auto: true

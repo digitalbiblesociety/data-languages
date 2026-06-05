@@ -27,6 +27,8 @@ translations:
     name: アコース語
   - translation_iso: kor
     name: 아쿠즈어
+  - translation_iso: por
+    name: akoose
   - translation_iso: spa
     name: akoose
   - translation_iso: zho

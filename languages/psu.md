@@ -28,6 +28,9 @@ translations:
     name: शौरसेनी
   - translation_iso: jpn
     name: シャウラセーニー
+  - translation_iso: por
+    name: Prácrito sauraseni
+    auto: true
   - translation_iso: spa
     name: Śauraseni
   - translation_iso: zho

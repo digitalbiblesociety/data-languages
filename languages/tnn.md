@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 北タンナ語
     auto: true
+  - translation_iso: por
+    name: Tanna do Norte
+    auto: true
   - translation_iso: spa
     name: Tanna del Norte
     auto: true

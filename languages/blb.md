@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムビルア語
+  - translation_iso: por
+    name: Língua bilua
   - translation_iso: spa
     name: Lenguaje Bilua
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カドゥング語
     auto: true
+  - translation_iso: por
+    name: Kadung
+    auto: true
   - translation_iso: spa
     name: Kadung
     auto: true

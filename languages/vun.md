@@ -27,6 +27,8 @@ translations:
     name: ヴンジョ語
   - translation_iso: kor
     name: 분조어
+  - translation_iso: por
+    name: Língua kivunjo
   - translation_iso: spa
     name: vunjo
   - translation_iso: zho

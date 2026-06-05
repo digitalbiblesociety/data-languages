@@ -24,6 +24,8 @@ translations:
     name: アフリヒリ
   - translation_iso: kor
     name: 아프리힐리어
+  - translation_iso: por
+    name: afrihili
   - translation_iso: spa
     name: afrijili
   - translation_iso: zho

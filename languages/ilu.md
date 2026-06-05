@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: イリウン語
     auto: true
+  - translation_iso: por
+    name: Illiun
   - translation_iso: spa
     name: Illiun
   - translation_iso: zho

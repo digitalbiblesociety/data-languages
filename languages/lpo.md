@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リポ語
+  - translation_iso: por
+    name: Língua lipo
   - translation_iso: spa
     name: Lipo
     auto: true

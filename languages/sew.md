@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ドゥアウプワタ語
     auto: true
+  - translation_iso: por
+    name: Sewa Bay
+    auto: true
   - translation_iso: spa
     name: Sewa Bay
     auto: true

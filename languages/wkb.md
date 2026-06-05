@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: クンバラン語
     auto: true
+  - translation_iso: por
+    name: Kumbaran
+    auto: true
   - translation_iso: spa
     name: Kumbaran
     auto: true

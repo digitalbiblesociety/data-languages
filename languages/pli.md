@@ -28,6 +28,8 @@ translations:
     name: パーリ語
   - translation_iso: kor
     name: 팔리어
+  - translation_iso: por
+    name: páli
   - translation_iso: spa
     name: pali
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラグフー語
     auto: true
+  - translation_iso: por
+    name: Laghuu
+    auto: true
   - translation_iso: spa
     name: Laghuu
     auto: true

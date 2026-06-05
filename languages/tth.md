@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タオイ語
     auto: true
+  - translation_iso: por
+    name: "Ta'oih Setentrional"
+    auto: true
   - translation_iso: spa
     name: "Ta'oih septentrional"
     auto: true

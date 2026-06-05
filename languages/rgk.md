@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラングカス語
     auto: true
+  - translation_iso: por
+    name: Rangkas
+    auto: true
   - translation_iso: spa
     name: Rangkas
     auto: true

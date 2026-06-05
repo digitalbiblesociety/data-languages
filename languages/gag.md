@@ -28,6 +28,8 @@ translations:
     name: ガガウズ語
   - translation_iso: kor
     name: 가가우즈어
+  - translation_iso: por
+    name: Língua gagaúza
   - translation_iso: spa
     name: gagaúzo
   - translation_iso: zho

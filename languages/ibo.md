@@ -28,6 +28,8 @@ translations:
     name: イボ語
   - translation_iso: kor
     name: 이그보어
+  - translation_iso: por
+    name: Língua igbo
   - translation_iso: spa
     name: idioma igbo
   - translation_iso: zho

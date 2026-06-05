@@ -29,6 +29,8 @@ translations:
     name: アルチ語
   - translation_iso: kor
     name: 아르치어
+  - translation_iso: por
+    name: Língua archi
   - translation_iso: spa
     name: Idioma archi
   - translation_iso: zho

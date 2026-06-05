@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: パアファン語
     auto: true
+  - translation_iso: por
+    name: Pááfang
+    auto: true
   - translation_iso: spa
     name: Pááfang
     auto: true

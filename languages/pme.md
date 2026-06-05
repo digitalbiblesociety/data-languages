@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プワアメイ語
     auto: true
+  - translation_iso: por
+    name: Pwaamei
+    auto: true
   - translation_iso: spa
     name: Pwaamei
     auto: true

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: コロニ語
     auto: true
+  - translation_iso: por
+    name: Koroni
+    auto: true
   - translation_iso: spa
     name: Koroni
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トゥムシュケーゼ語
     auto: true
+  - translation_iso: por
+    name: tumshuqês
+    auto: true
   - translation_iso: spa
     name: Tumshuqués
     auto: true

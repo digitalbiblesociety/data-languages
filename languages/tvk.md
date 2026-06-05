@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タヴェアク語
     auto: true
+  - translation_iso: por
+    name: Ambrym Sudeste
+    auto: true
   - translation_iso: spa
     name: Ambrym suroriental
     auto: true

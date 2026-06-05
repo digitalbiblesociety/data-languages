@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: 混合大アンダマン語
     auto: true
+  - translation_iso: por
+    name: grande andamanês misto
+    auto: true
   - translation_iso: spa
     name: Gran andamanés mixto
     auto: true

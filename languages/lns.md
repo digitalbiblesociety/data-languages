@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ラムソ語
     auto: true
+  - translation_iso: por
+    name: Língua nso
   - translation_iso: spa
     name: Lamnso
   - translation_iso: zho

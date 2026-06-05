@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウェスタン・マガル語
     auto: true
+  - translation_iso: por
+    name: magar ocidental
+    auto: true
   - translation_iso: spa
     name: Magar Occidental
     auto: true

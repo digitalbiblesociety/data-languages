@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: チグメカティトラン・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Chigmecatitlán
+    auto: true
   - translation_iso: spa
     name: Mixteco de Chigmecatitlán
   - translation_iso: zho

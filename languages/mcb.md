@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マチゲンガ語
+  - translation_iso: por
+    name: Língua machiguenga
   - translation_iso: spa
     name: machiguenga
   - translation_iso: zho

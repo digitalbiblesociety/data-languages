@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マランクラヴァン語
     auto: true
+  - translation_iso: por
+    name: Malankuravan
+    auto: true
   - translation_iso: spa
     name: Malankuravan
     auto: true

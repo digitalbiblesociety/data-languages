@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: アヌキ語
     auto: true
+  - translation_iso: por
+    name: Língua anuki
   - translation_iso: spa
     name: Anuki
     auto: true

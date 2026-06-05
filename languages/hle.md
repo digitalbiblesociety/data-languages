@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フレルス語
     auto: true
+  - translation_iso: por
+    name: Hlersu
+    auto: true
   - translation_iso: spa
     name: Hlersu
     auto: true

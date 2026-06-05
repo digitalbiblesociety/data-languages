@@ -27,6 +27,9 @@ translations:
     name: दिमासा भाषा
   - translation_iso: jpn
     name: ディマサ語
+  - translation_iso: por
+    name: Dimasa
+    auto: true
   - translation_iso: spa
     name: idioma dimasa
   - translation_iso: zho

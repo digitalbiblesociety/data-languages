@@ -23,6 +23,9 @@ translations:
     name: 伽耶語
   - translation_iso: kor
     name: 가야어
+  - translation_iso: por
+    name: Kara (Coreia)
+    auto: true
   - translation_iso: spa
     name: Kara
     auto: true

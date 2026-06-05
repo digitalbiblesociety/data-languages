@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マヌマナウ・カレン語
     auto: true
+  - translation_iso: por
+    name: Karen Manumanaw
+    auto: true
   - translation_iso: spa
     name: Karen Manumanaw
     auto: true

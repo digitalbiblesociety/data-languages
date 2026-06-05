@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アマナブ語
     auto: true
+  - translation_iso: por
+    name: Amanab
   - translation_iso: spa
     name: Amanab
   - translation_iso: zho

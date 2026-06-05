@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ウリシ語
+  - translation_iso: por
+    name: Língua Ulithiana
   - translation_iso: spa
     name: Idioma ulithiano
   - translation_iso: zho

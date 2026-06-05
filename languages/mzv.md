@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マンザ語
     auto: true
+  - translation_iso: por
+    name: Manza
+    auto: true
   - translation_iso: spa
     name: Manza
     auto: true

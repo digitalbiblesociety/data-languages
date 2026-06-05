@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジャンバルプイング語
     auto: true
+  - translation_iso: por
+    name: Djambarrpuyngu
+    auto: true
   - translation_iso: spa
     name: Djambarrpuyngu
     auto: true

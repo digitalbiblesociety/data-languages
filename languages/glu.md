@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グラ語
     auto: true
+  - translation_iso: por
+    name: Gula (Chade)
+    auto: true
   - translation_iso: spa
     name: Gula (Chad)
     auto: true

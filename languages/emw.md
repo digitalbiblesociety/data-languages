@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: エムプラワス語
     auto: true
+  - translation_iso: por
+    name: Emplawas
   - translation_iso: spa
     name: Emplawas
   - translation_iso: zho

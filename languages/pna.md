@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プナンバハビアウ語
     auto: true
+  - translation_iso: por
+    name: Punan Bah-Biau
+    auto: true
   - translation_iso: spa
     name: Punan Bah-Biau
     auto: true

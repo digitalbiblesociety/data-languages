@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キリキリ語
     auto: true
+  - translation_iso: por
+    name: Kirikiri
+    auto: true
   - translation_iso: spa
     name: Kirikiri
     auto: true

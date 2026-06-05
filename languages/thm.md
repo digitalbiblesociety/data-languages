@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アヘウ語
     auto: true
+  - translation_iso: por
+    name: Aheu
+    auto: true
   - translation_iso: spa
     name: Aheu
     auto: true

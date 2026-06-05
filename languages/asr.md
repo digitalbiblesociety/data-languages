@@ -27,6 +27,9 @@ translations:
     name: असुर भाषा
   - translation_iso: jpn
     name: アスル語
+  - translation_iso: por
+    name: Asuri
+    auto: true
   - translation_iso: spa
     name: Asuri
     auto: true

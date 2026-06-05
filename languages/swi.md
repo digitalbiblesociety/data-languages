@@ -30,6 +30,8 @@ translations:
     name: スイ語
   - translation_iso: kor
     name: 수이어
+  - translation_iso: por
+    name: Língua shui
   - translation_iso: spa
     name: Sui
     auto: true

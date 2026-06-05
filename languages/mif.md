@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: モフ・グドゥル語
     auto: true
+  - translation_iso: por
+    name: Mofu-Gudur
+    auto: true
   - translation_iso: spa
     name: Mofu-Gudur
     auto: true

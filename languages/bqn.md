@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブルガリア手話
+  - translation_iso: por
+    name: Língua de sinais búlgara
   - translation_iso: spa
     name: Lengua de señas búlgara
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: バガ・カルム語
     auto: true
+  - translation_iso: por
+    name: Baga Kaloum
+    auto: true
   - translation_iso: spa
     name: Baga Kaloum
     auto: true

@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 눙구어
+  - translation_iso: por
+    name: Nungu
+    auto: true
   - translation_iso: spa
     name: Nungu
     auto: true

@@ -29,6 +29,8 @@ translations:
     name: ラディン語
   - translation_iso: kor
     name: 라딘어
+  - translation_iso: por
+    name: língua ladino-dolomítica
   - translation_iso: spa
     name: ladino
   - translation_iso: zho

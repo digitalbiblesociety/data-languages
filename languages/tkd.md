@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トコデデ語
+  - translation_iso: por
+    name: Língua tocodede
   - translation_iso: spa
     name: Tukudede
     auto: true

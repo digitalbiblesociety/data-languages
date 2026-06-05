@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ソングン語
     auto: true
+  - translation_iso: por
+    name: Sam
+    auto: true
   - translation_iso: spa
     name: Sam
     auto: true

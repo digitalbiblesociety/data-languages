@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガナ語
     auto: true
+  - translation_iso: por
+    name: Gana
+    auto: true
   - translation_iso: spa
     name: Gana
     auto: true

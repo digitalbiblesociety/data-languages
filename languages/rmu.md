@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タブリンガーロマニ語
     auto: true
+  - translation_iso: por
+    name: Romani Tavringer
+    auto: true
   - translation_iso: spa
     name: Romaní tavringer
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ザラモ語
+  - translation_iso: por
+    name: zaramo
+    auto: true
   - translation_iso: spa
     name: Zaramo
     auto: true

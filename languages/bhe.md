@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビャヤ語
     auto: true
+  - translation_iso: por
+    name: Bhaya
+    auto: true
   - translation_iso: spa
     name: Bhaya
     auto: true

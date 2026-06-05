@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラボフォワ語
     auto: true
+  - translation_iso: por
+    name: labo phowa
+    auto: true
   - translation_iso: spa
     name: Labo Phowa
     auto: true

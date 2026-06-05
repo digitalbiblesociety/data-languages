@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チャ方言
+  - translation_iso: por
+    name: Chacaviano
+    auto: true
   - translation_iso: spa
     name: Chakaviano
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オロマ語
     auto: true
+  - translation_iso: por
+    name: Oloma
+    auto: true
   - translation_iso: spa
     name: Oloma
     auto: true

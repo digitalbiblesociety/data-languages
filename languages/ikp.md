@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イクペシ語
     auto: true
+  - translation_iso: por
+    name: Ikpeshi
+    auto: true
   - translation_iso: spa
     name: Ikpeshi
     auto: true

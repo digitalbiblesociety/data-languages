@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アヨレオ語
+  - translation_iso: por
+    name: Ayoreo
+    auto: true
   - translation_iso: spa
     name: Idioma ayoreo
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: チャン・ナガ語
     auto: true
+  - translation_iso: por
+    name: Língua chang
   - translation_iso: spa
     name: Naga Chang
     auto: true

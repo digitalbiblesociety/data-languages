@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウイヴェ語
     auto: true
+  - translation_iso: por
+    name: Iyive
+    auto: true
   - translation_iso: spa
     name: Iyive
     auto: true

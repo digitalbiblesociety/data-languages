@@ -28,6 +28,8 @@ translations:
     name: 平原クリー語
   - translation_iso: kor
     name: 평원 크리어
+  - translation_iso: por
+    name: cree das planícies
   - translation_iso: spa
     name: cree de las llanuras
   - translation_iso: zho

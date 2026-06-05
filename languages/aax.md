@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マンドボ・アタス語
     auto: true
+  - translation_iso: por
+    name: Mandobo Atas
+    auto: true
   - translation_iso: spa
     name: Mandobo Atas
     auto: true

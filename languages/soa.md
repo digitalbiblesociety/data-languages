@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・ソン語
+  - translation_iso: por
+    name: Song Tailandês
+    auto: true
   - translation_iso: spa
     name: Thai del Sur
     auto: true

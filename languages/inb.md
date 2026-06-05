@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: インガ語
     auto: true
+  - translation_iso: por
+    name: Inga
+    auto: true
   - translation_iso: spa
     name: quichua inga
   - translation_iso: zho

@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クバチ語
+  - translation_iso: por
+    name: Língua kubachi
   - translation_iso: spa
     name: idioma kubachi
   - translation_iso: zho

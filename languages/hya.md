@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヒャ語
     auto: true
+  - translation_iso: por
+    name: Hya
+    auto: true
   - translation_iso: spa
     name: Hya
     auto: true

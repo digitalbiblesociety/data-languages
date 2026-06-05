@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ムルキム語
     auto: true
+  - translation_iso: por
+    name: Língua murkim
   - translation_iso: spa
     name: Murkim
     auto: true

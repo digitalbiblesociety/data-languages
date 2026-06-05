@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ドゥルガ語
     auto: true
+  - translation_iso: por
+    name: Língua dhurga
   - translation_iso: spa
     name: idioma dhurga
   - translation_iso: zho

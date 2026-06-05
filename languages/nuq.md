@@ -30,6 +30,9 @@ translations:
     name: ヌクマヌ語
   - translation_iso: kor
     name: 누쿠마누어
+  - translation_iso: por
+    name: Nukumanu
+    auto: true
   - translation_iso: spa
     name: Nukumanu
     auto: true

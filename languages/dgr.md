@@ -28,6 +28,8 @@ translations:
     name: ドグリブ語
   - translation_iso: kor
     name: 도그리브어
+  - translation_iso: por
+    name: Língua dogrib
   - translation_iso: spa
     name: dogrib
   - translation_iso: zho

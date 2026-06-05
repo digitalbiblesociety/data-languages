@@ -30,6 +30,9 @@ translations:
     name: オンベ語
   - translation_iso: kor
     name: 옹베어
+  - translation_iso: por
+    name: Lingao
+    auto: true
   - translation_iso: spa
     name: Lingao
     auto: true

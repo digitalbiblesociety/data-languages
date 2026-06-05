@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボボンコ語
+  - translation_iso: por
+    name: Bobongko
+    auto: true
   - translation_iso: spa
     name: Bobongko
     auto: true

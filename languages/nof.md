@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ノマネ語
     auto: true
+  - translation_iso: por
+    name: Nomane
+    auto: true
   - translation_iso: spa
     name: Nomane
     auto: true

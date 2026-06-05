@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンゴンバレ語
+  - translation_iso: por
+    name: Ngombale
+    auto: true
   - translation_iso: spa
     name: Ngombale
     auto: true

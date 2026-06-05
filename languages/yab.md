@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ユフップ語
     auto: true
+  - translation_iso: por
+    name: Língua iuhupde
   - translation_iso: spa
     name: Idioma yuhup
   - translation_iso: zho

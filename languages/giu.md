@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムラオ語
     auto: true
+  - translation_iso: por
+    name: Mulao
+    auto: true
   - translation_iso: spa
     name: Mulao
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンカルロス・アパッチ語
+  - translation_iso: por
+    name: Apache Ocidental
+    auto: true
   - translation_iso: spa
     name: apache occidental
   - translation_iso: zho

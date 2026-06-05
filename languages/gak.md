@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガムコノラ語
     auto: true
+  - translation_iso: por
+    name: Gamkonora
+    auto: true
   - translation_iso: spa
     name: Gamkonora
     auto: true

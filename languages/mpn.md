@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミンディリ語
     auto: true
+  - translation_iso: por
+    name: Mindiri
+    auto: true
   - translation_iso: spa
     name: Mindiri
   - translation_iso: zho

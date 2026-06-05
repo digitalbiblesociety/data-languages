@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ケフ語
     auto: true
+  - translation_iso: por
+    name: Kehu
+    auto: true
   - translation_iso: spa
     name: Kehu
     auto: true

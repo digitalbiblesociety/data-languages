@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビナハリ語
     auto: true
+  - translation_iso: por
+    name: Binahari
+    auto: true
   - translation_iso: spa
     name: Binahari
     auto: true

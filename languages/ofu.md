@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エフトプ語
     auto: true
+  - translation_iso: por
+    name: Efutop
+    auto: true
   - translation_iso: spa
     name: efutop
   - translation_iso: zho

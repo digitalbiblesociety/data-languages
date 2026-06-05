@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラマ語
+  - translation_iso: por
+    name: Língua rama
   - translation_iso: spa
     name: Idioma rama
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: コランジェ語
     auto: true
+  - translation_iso: por
+    name: Korandje
+    auto: true
   - translation_iso: spa
     name: Idioma korandje
   - translation_iso: zho

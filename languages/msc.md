@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サンカラン・マニンカ語
+  - translation_iso: por
+    name: maninca de Sankaran
+    auto: true
   - translation_iso: spa
     name: Maninka de Sankaran
     auto: true

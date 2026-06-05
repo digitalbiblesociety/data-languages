@@ -30,6 +30,8 @@ translations:
     name: ムビア・グアラニー語
   - translation_iso: kor
     name: nujnnjuytg
+  - translation_iso: por
+    name: Dialeto mbiá
   - translation_iso: spa
     name: mbyá
   - translation_iso: zho

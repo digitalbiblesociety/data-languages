@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Ombo語
+  - translation_iso: por
+    name: Ombo
+    auto: true
   - translation_iso: spa
     name: Ombo
     auto: true

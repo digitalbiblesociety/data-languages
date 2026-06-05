@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウォム語（ナイジェリア）
     auto: true
+  - translation_iso: por
+    name: Wom (Nigéria)
+    auto: true
   - translation_iso: spa
     name: Wom (Nigeria)
     auto: true

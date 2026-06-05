@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コミャンダレット語
     auto: true
+  - translation_iso: por
+    name: Komyandaret
+    auto: true
   - translation_iso: spa
     name: Idioma komyandaret
   - translation_iso: zho

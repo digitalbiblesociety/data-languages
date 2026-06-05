@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: トゥーリー語
     auto: true
+  - translation_iso: por
+    name: Turi
+    auto: true
   - translation_iso: spa
     name: Turi
     auto: true

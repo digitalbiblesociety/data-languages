@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: オーラジ語
     auto: true
+  - translation_iso: por
+    name: Urali
+    auto: true
   - translation_iso: spa
     name: Urali
     auto: true

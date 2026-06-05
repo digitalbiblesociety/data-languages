@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コチミ語
+  - translation_iso: por
+    name: Cochimi
+    auto: true
   - translation_iso: spa
     name: cochimí
   - translation_iso: zho

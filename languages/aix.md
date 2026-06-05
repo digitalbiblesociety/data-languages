@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アイゴン語
     auto: true
+  - translation_iso: por
+    name: Aighon
+    auto: true
   - translation_iso: spa
     name: Aighon
     auto: true

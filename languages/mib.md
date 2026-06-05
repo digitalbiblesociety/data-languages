@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アタトラフカ・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Atatláhuca
+    auto: true
   - translation_iso: spa
     name: Mixteco de Atatláhuca
     auto: true

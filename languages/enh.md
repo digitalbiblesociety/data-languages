@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ツンドラエネツ語
     auto: true
+  - translation_iso: por
+    name: enets da tundra
+    auto: true
   - translation_iso: spa
     name: Énets de la tundra
     auto: true

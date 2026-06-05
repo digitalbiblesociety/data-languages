@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: ンゴニ語（モザンビーク）
     auto: true
+  - translation_iso: por
+    name: Ngoni (Moçambique)
+    auto: true
   - translation_iso: spa
     name: Ngoni (Mozambique)
     auto: true

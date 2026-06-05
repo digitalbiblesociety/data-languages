@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クグ・ムミンハ語
     auto: true
+  - translation_iso: por
+    name: Kugu-Muminh
+    auto: true
   - translation_iso: spa
     name: Kugu-Muminh
     auto: true

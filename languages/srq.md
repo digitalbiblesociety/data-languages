@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シリオノ語
+  - translation_iso: por
+    name: Língua sirionó
   - translation_iso: spa
     name: sirionó
   - translation_iso: zho

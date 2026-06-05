@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アダセン語
     auto: true
+  - translation_iso: por
+    name: Adasen
+    auto: true
   - translation_iso: spa
     name: Adasen
     auto: true

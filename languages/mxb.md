@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: テゾアトラン・ミステク語
     auto: true
+  - translation_iso: por
+    name: mixteco de Tezoatlán
+    auto: true
   - translation_iso: spa
     name: mixteco del oeste alto
   - translation_iso: zho

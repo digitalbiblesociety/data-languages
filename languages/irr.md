@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: イル語
     auto: true
+  - translation_iso: por
+    name: Ir
+    auto: true
   - translation_iso: spa
     name: Idioma ir
   - translation_iso: zho

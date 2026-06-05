@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: グワイミ語
+  - translation_iso: por
+    name: Língua guaymí
   - translation_iso: spa
     name: Idioma ngäbe
   - translation_iso: zho

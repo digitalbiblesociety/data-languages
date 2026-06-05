@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コパル語
     auto: true
+  - translation_iso: por
+    name: Kopar
+    auto: true
   - translation_iso: spa
     name: Kopar
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: レガ・シャブンダ語
     auto: true
+  - translation_iso: por
+    name: Lega-Shabunda
+    auto: true
   - translation_iso: spa
     name: Lega-Shabunda
     auto: true

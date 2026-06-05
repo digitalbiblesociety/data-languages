@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サク諸語
+  - translation_iso: por
+    name: Chak
+    auto: true
   - translation_iso: spa
     name: Chak
     auto: true

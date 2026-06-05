@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ビガ語
     auto: true
+  - translation_iso: por
+    name: Biga
+    auto: true
   - translation_iso: spa
     name: Biga
     auto: true

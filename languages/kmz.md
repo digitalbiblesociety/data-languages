@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ホラサン・トルコ語
+  - translation_iso: por
+    name: Língua turca coraçone
   - translation_iso: spa
     name: Idioma turco de Jorasán
   - translation_iso: zho

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: テダ語
+  - translation_iso: por
+    name: língua teda
   - translation_iso: spa
     name: Idioma teda
   - translation_iso: zho

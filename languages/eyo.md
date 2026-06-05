@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ケイヨ語
+  - translation_iso: por
+    name: Keiyo
+    auto: true
   - translation_iso: spa
     name: Keiyo
     auto: true

@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: エッチェミン語
     auto: true
+  - translation_iso: por
+    name: Etchemin
+    auto: true
   - translation_iso: spa
     name: Etchemin
     auto: true

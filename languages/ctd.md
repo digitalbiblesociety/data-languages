@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ティディム・チン語
+  - translation_iso: por
+    name: Língua tedim
   - translation_iso: spa
     name: sukte
   - translation_iso: zho

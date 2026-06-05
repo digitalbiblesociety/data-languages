@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マザグウェイ語
     auto: true
+  - translation_iso: por
+    name: Mazagway
+    auto: true
   - translation_iso: spa
     name: Mazagway
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ボボト語
     auto: true
+  - translation_iso: por
+    name: Bobot
+    auto: true
   - translation_iso: spa
     name: Bobot
     auto: true

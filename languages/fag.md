@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フィノンガン語
     auto: true
+  - translation_iso: por
+    name: Finongan
+    auto: true
   - translation_iso: spa
     name: Finongan
     auto: true

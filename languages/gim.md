@@ -31,6 +31,9 @@ translations:
     name: ギミ語
   - translation_iso: kor
     name: 기미어
+  - translation_iso: por
+    name: Gimi (Terras Altas Orientais)
+    auto: true
   - translation_iso: spa
     name: Gimi (Tierras Altas Orientales)
     auto: true

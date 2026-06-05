@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バディマヤ語
     auto: true
+  - translation_iso: por
+    name: Badimaya
+    auto: true
   - translation_iso: spa
     name: Badimaya
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワイマア語
     auto: true
+  - translation_iso: por
+    name: "Waima'a"
+    auto: true
   - translation_iso: spa
     name: "Waima'a"
     auto: true

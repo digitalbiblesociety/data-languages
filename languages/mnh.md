@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モノ語
+  - translation_iso: por
+    name: Mono (República Democrática do Congo)
+    auto: true
   - translation_iso: spa
     name: Mono
   - translation_iso: zho

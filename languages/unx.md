@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ムンダ語
     auto: true
+  - translation_iso: por
+    name: Munda
+    auto: true
   - translation_iso: spa
     name: Munda
     auto: true

@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ランゴ語
+  - translation_iso: por
+    name: Lango (Sudão do Sul)
+    auto: true
   - translation_iso: spa
     name: Lango
     auto: true

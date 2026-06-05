@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チェンチュ語
     auto: true
+  - translation_iso: por
+    name: Chenchu
+    auto: true
   - translation_iso: spa
     name: Chenchu
     auto: true

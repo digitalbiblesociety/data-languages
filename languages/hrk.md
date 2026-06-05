@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ハルク語
     auto: true
+  - translation_iso: por
+    name: Haruku
+    auto: true
   - translation_iso: spa
     name: Haruku
     auto: true

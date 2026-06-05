@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: バリケワ語
     auto: true
+  - translation_iso: por
+    name: Barikewa
+    auto: true
   - translation_iso: spa
     name: Barikewa
     auto: true

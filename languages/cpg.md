@@ -28,6 +28,9 @@ translations:
     name: カッパドキアのギリシア人
   - translation_iso: kor
     name: 카파도키아 그리스어
+  - translation_iso: por
+    name: Grego capadócio
+    auto: true
   - translation_iso: spa
     name: idioma griego de Capadocia
   - translation_iso: zho

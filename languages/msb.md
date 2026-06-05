@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マスバテニョ語
+  - translation_iso: por
+    name: Língua masbatenha
   - translation_iso: spa
     name: masbateño
   - translation_iso: zho

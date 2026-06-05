@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ガラムブ語
     auto: true
+  - translation_iso: por
+    name: Galambu
+    auto: true
   - translation_iso: spa
     name: Galambu
     auto: true

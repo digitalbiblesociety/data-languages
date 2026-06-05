@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: デナッイア語
+  - translation_iso: por
+    name: Língua dena’ina
   - translation_iso: spa
     name: "idioma dena'ina"
   - translation_iso: zho

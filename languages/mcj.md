@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムバニップ語
     auto: true
+  - translation_iso: por
+    name: Mvanip
+    auto: true
   - translation_iso: spa
     name: Mvanip
     auto: true

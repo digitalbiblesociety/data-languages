@@ -30,6 +30,8 @@ translations:
     name: トーロン語
   - translation_iso: kor
     name: 두룽어
+  - translation_iso: por
+    name: Língua dulong
   - translation_iso: spa
     name: Drung
     auto: true

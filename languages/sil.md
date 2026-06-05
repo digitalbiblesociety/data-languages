@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シサーラ語
     auto: true
+  - translation_iso: por
+    name: Sisaala Tumulung
+    auto: true
   - translation_iso: spa
     name: Sisaala de Tumulung
     auto: true

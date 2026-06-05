@@ -27,6 +27,8 @@ translations:
     name: बदगा भाषा
   - translation_iso: jpn
     name: バダガ語
+  - translation_iso: por
+    name: Língua badaga
   - translation_iso: spa
     name: Badaga
     auto: true

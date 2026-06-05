@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワンダラ語
     auto: true
+  - translation_iso: por
+    name: Wandala
+    auto: true
   - translation_iso: spa
     name: Idioma wandala
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: クイ語
     auto: true
+  - translation_iso: por
+    name: Língua kuy
   - translation_iso: spa
     name: kuy
   - translation_iso: zho

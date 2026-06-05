@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: メロ語
     auto: true
+  - translation_iso: por
+    name: Melo
+    auto: true
   - translation_iso: spa
     name: melo
   - translation_iso: zho

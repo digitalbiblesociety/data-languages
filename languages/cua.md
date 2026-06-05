@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 쿠아어
+  - translation_iso: por
+    name: Cua
+    auto: true
   - translation_iso: spa
     name: Cua
     auto: true

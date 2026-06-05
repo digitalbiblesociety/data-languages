@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: デラウェア・ピジン語
     auto: true
+  - translation_iso: por
+    name: Delaware Pidgin
+    auto: true
   - translation_iso: spa
     name: Delaware pidgin
     auto: true

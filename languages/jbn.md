@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナフサ語
+  - translation_iso: por
+    name: Nafusi
+    auto: true
   - translation_iso: spa
     name: Idioma nafusi
   - translation_iso: zho

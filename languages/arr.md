@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラマラマ語
+  - translation_iso: por
+    name: Língua caro
   - translation_iso: spa
     name: Karo (Brasil)
     auto: true

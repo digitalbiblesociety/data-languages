@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イナバクノン語
     auto: true
+  - translation_iso: por
+    name: Língua abaknon
   - translation_iso: spa
     name: idioma capuleño
   - translation_iso: zho

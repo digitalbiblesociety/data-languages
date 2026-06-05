@@ -28,6 +28,8 @@ translations:
     name: マサイ語
   - translation_iso: kor
     name: 마사이어
+  - translation_iso: por
+    name: Língua massai
   - translation_iso: spa
     name: masái
   - translation_iso: zho

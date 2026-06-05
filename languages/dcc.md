@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: デッカン語
     auto: true
+  - translation_iso: por
+    name: Decani
+    auto: true
   - translation_iso: spa
     name: Marati berar-deccan
   - translation_iso: zho

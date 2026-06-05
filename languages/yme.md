@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤメオ語
     auto: true
+  - translation_iso: por
+    name: yameo
+    auto: true
   - translation_iso: spa
     name: Yameo
     auto: true

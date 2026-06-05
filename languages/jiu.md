@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ユーレ・ジヌオ語
     auto: true
+  - translation_iso: por
+    name: Jinuo Youle
+    auto: true
   - translation_iso: spa
     name: Jinuo Youle
     auto: true

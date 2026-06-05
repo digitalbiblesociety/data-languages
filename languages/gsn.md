@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ネマ語
     auto: true
+  - translation_iso: por
+    name: Nema
+    auto: true
   - translation_iso: spa
     name: Nema
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コアリブ語
+  - translation_iso: por
+    name: Koalib
+    auto: true
   - translation_iso: spa
     name: koalib
   - translation_iso: zho

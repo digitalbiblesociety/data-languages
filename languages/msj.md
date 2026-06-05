@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マ語
     auto: true
+  - translation_iso: por
+    name: Ma (República Democrática do Congo)
+    auto: true
   - translation_iso: spa
     name: Ma (República Democrática del Congo)
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オミ語
     auto: true
+  - translation_iso: por
+    name: Omi
+    auto: true
   - translation_iso: spa
     name: Omi
     auto: true

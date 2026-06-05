@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シアッシ語
+  - translation_iso: por
+    name: Arop-Lokep
+    auto: true
   - translation_iso: spa
     name: Arop-Lokep
     auto: true

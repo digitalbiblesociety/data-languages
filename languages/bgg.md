@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブグン語
     auto: true
+  - translation_iso: por
+    name: Bugun
+    auto: true
   - translation_iso: spa
     name: bugun
   - translation_iso: zho

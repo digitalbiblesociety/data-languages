@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バニバ語
+  - translation_iso: por
+    name: Baniva
+    auto: true
   - translation_iso: spa
     name: idioma abane
   - translation_iso: zho

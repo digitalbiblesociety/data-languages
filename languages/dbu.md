@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ボンドゥム・ドム・ドゴン語
     auto: true
+  - translation_iso: por
+    name: Língua bondum
   - translation_iso: spa
     name: Dogon Bondum Dom
     auto: true

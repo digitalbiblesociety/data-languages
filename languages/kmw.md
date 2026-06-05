@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コモ語
     auto: true
+  - translation_iso: por
+    name: Komo (República Democrática do Congo)
+    auto: true
   - translation_iso: spa
     name: Komo (República Democrática del Congo)
     auto: true

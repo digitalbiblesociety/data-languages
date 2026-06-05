@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マトゥ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Matu
+    auto: true
   - translation_iso: spa
     name: Matu Chin
     auto: true

@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: タランガン・バラト語
     auto: true
+  - translation_iso: por
+    name: Tarangan Barat
   - translation_iso: spa
     name: Tarangan Barat
   - translation_iso: zho

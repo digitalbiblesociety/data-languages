@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ファン語
     auto: true
+  - translation_iso: por
+    name: Fang (Camarões)
+    auto: true
   - translation_iso: spa
     name: Fang (Camerún)
     auto: true

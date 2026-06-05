@@ -28,6 +28,8 @@ translations:
     name: グアンチェ語
   - translation_iso: kor
     name: 관체어
+  - translation_iso: por
+    name: Língua guanche
   - translation_iso: spa
     name: lenguas guanches
   - translation_iso: zho

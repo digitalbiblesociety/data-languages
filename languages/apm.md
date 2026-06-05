@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チリカワ語
+  - translation_iso: por
+    name: mescalero-chiricahua
   - translation_iso: spa
     name: chiricahua
   - translation_iso: zho

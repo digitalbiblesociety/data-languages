@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アリギディ語
     auto: true
+  - translation_iso: por
+    name: Língua arigidi
   - translation_iso: spa
     name: Arigidi
     auto: true

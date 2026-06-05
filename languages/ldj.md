@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: レモロ語
     auto: true
+  - translation_iso: por
+    name: Lemoro
+    auto: true
   - translation_iso: spa
     name: Lemoro
     auto: true

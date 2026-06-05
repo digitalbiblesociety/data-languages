@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カジャマン語
     auto: true
+  - translation_iso: por
+    name: Kajaman
+    auto: true
   - translation_iso: spa
     name: Kajaman
     auto: true

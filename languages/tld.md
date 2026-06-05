@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タラウド語
     auto: true
+  - translation_iso: por
+    name: Talaud
+    auto: true
   - translation_iso: spa
     name: Talaud
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: マカッサル語
   - translation_iso: kor
     name: 마카사르어
+  - translation_iso: por
+    name: Língua makassaresa
   - translation_iso: spa
     name: macasar
   - translation_iso: zho

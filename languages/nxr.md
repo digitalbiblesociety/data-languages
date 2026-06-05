@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ニングゲルム語
     auto: true
+  - translation_iso: por
+    name: Ninggerum
+    auto: true
   - translation_iso: spa
     name: Ninggerum
     auto: true

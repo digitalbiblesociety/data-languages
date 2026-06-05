@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムラプ語
     auto: true
+  - translation_iso: por
+    name: Mlap
+    auto: true
   - translation_iso: spa
     name: Mlap
     auto: true

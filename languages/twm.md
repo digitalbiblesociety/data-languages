@@ -21,6 +21,9 @@ translations:
     name: तवांग भाषा
   - translation_iso: jpn
     name: 東部チベット諸語
+  - translation_iso: por
+    name: Monpa de Tawang
+    auto: true
   - translation_iso: spa
     name: Monpa de Tawang
     auto: true

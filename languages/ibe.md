@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アクペス語
     auto: true
+  - translation_iso: por
+    name: Akpes
+    auto: true
   - translation_iso: spa
     name: Akpes
     auto: true

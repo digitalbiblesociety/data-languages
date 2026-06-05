@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ソリハレンガン語
     auto: true
+  - translation_iso: por
+    name: Sori-Harengan
+    auto: true
   - translation_iso: spa
     name: Sori-Harengan
     auto: true

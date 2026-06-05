@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・オーロン語
     auto: true
+  - translation_iso: por
+    name: Ohlone Setentrional
+    auto: true
   - translation_iso: spa
     name: Ohlone Septentrional
     auto: true

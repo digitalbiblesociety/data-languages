@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エイティエプ語
     auto: true
+  - translation_iso: por
+    name: Eitiep
+    auto: true
   - translation_iso: spa
     name: Eitiep
     auto: true

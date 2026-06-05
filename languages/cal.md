@@ -29,6 +29,8 @@ translations:
     name: カロリン語
   - translation_iso: kor
     name: 캐롤라인어
+  - translation_iso: por
+    name: Língua caroliniana
   - translation_iso: spa
     name: carolinio
   - translation_iso: zho

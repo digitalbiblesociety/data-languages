@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: エカイ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Ekai
+    auto: true
   - translation_iso: spa
     name: Chin Ekai
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マリムプング語
     auto: true
+  - translation_iso: por
+    name: Malimpung
+    auto: true
   - translation_iso: spa
     name: Malimpung
     auto: true

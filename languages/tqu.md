@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムバニアタ語
+  - translation_iso: por
+    name: Touo
+    auto: true
   - translation_iso: spa
     name: Touo
     auto: true

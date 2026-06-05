@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウォモ語
     auto: true
+  - translation_iso: por
+    name: Womo
+    auto: true
   - translation_iso: spa
     name: Womo
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ギェム語
     auto: true
+  - translation_iso: por
+    name: Gyem
+    auto: true
   - translation_iso: spa
     name: Gyem
     auto: true

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: チェツコ語
     auto: true
+  - translation_iso: por
+    name: Chetco
+    auto: true
   - translation_iso: spa
     name: chetco
   - translation_iso: zho

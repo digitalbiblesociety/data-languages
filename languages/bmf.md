@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボム・キム語
     auto: true
+  - translation_iso: por
+    name: Bom-Kim
+    auto: true
   - translation_iso: spa
     name: Bom-Kim
     auto: true

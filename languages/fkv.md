@@ -28,6 +28,8 @@ translations:
     name: クヴェン語
   - translation_iso: kor
     name: 크벤어
+  - translation_iso: por
+    name: kven
   - translation_iso: spa
     name: kven
   - translation_iso: zho

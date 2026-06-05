@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハイフォン手話
+  - translation_iso: por
+    name: Língua de Sinais de Haiphong
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Haiphong
     auto: true

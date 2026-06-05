@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タケルマ語
+  - translation_iso: por
+    name: Takelma
+    auto: true
   - translation_iso: spa
     name: Idioma takelma
   - translation_iso: zho

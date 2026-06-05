@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バイバヤノン語
     auto: true
+  - translation_iso: por
+    name: Língua baybay
   - translation_iso: spa
     name: Baybayanon
     auto: true

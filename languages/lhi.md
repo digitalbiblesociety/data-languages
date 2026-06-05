@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラフ・シ語
     auto: true
+  - translation_iso: por
+    name: Lahu Shi
+    auto: true
   - translation_iso: spa
     name: Lahu shi
     auto: true

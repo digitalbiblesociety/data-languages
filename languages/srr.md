@@ -28,6 +28,8 @@ translations:
     name: セレール語
   - translation_iso: kor
     name: 세레르어
+  - translation_iso: por
+    name: Língua serer
   - translation_iso: spa
     name: serer
   - translation_iso: zho

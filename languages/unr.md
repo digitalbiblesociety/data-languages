@@ -29,6 +29,8 @@ translations:
     name: ムンダリ語
   - translation_iso: kor
     name: 문다리어
+  - translation_iso: por
+    name: língua mundari
   - translation_iso: spa
     name: Mundari
     auto: true

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナファーンラ語
+  - translation_iso: por
+    name: Nafaanra
+    auto: true
   - translation_iso: spa
     name: nafaanra
   - translation_iso: zho

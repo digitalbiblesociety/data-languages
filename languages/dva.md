@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ドゥアウ語
+  - translation_iso: por
+    name: Duau
+    auto: true
   - translation_iso: spa
     name: Duau
     auto: true

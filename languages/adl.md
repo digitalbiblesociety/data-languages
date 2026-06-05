@@ -27,6 +27,8 @@ translations:
     name: गालो भाषा
   - translation_iso: jpn
     name: Galo語
+  - translation_iso: por
+    name: Língua galoo
   - translation_iso: spa
     name: Galo
     auto: true

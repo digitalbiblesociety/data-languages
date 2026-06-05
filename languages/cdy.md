@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: チャドン語
     auto: true
+  - translation_iso: por
+    name: Chadong
+    auto: true
   - translation_iso: spa
     name: Chadong
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウェリ語
     auto: true
+  - translation_iso: por
+    name: Weri
+    auto: true
   - translation_iso: spa
     name: Weri
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナル・プ語
     auto: true
+  - translation_iso: por
+    name: Nar Phu
+    auto: true
   - translation_iso: spa
     name: Nar Phu
     auto: true

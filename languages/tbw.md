@@ -31,6 +31,8 @@ translations:
   - translation_iso: jpn
     name: タグバンワ語
     auto: true
+  - translation_iso: por
+    name: Língua aborlana tagbanwa
   - translation_iso: spa
     name: idioma aborlano
   - translation_iso: zho

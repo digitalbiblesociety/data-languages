@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クイバ語
     auto: true
+  - translation_iso: por
+    name: Cuiba
+    auto: true
   - translation_iso: spa
     name: Cuiba
   - translation_iso: zho

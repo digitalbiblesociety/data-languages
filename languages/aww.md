@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アウン語
     auto: true
+  - translation_iso: por
+    name: Awun
+    auto: true
   - translation_iso: spa
     name: awun
   - translation_iso: zho

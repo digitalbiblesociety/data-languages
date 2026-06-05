@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 角苗語
+  - translation_iso: por
+    name: Miao Cornudo
+    auto: true
   - translation_iso: spa
     name: Miao cornudo
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: 中央アトラス・タマジクト語
   - translation_iso: kor
     name: 중앙 아틀라스 타마지그트어
+  - translation_iso: por
+    name: tamazight do Atlas Central
   - translation_iso: spa
     name: Tamazight del Marruecos Central
   - translation_iso: zho

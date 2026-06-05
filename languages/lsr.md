@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アルオップ語
     auto: true
+  - translation_iso: por
+    name: Aruop
+    auto: true
   - translation_iso: spa
     name: Aruop
     auto: true

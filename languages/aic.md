@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アインバイ語
     auto: true
+  - translation_iso: por
+    name: Ainbai
+    auto: true
   - translation_iso: spa
     name: Ainbai
     auto: true

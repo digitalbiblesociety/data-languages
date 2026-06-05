@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: トラウィトルテペック・ミクセ語
     auto: true
+  - translation_iso: por
+    name: Língua tlahuitoltepec mixe
   - translation_iso: spa
     name: Mixe de Tlahuitoltepec
     auto: true

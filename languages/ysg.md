@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ソナガ語
     auto: true
+  - translation_iso: por
+    name: sonaga
+    auto: true
   - translation_iso: spa
     name: Sonaga
     auto: true

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: 北部ムジ語
     auto: true
+  - translation_iso: por
+    name: muji do norte
+    auto: true
   - translation_iso: spa
     name: Muji septentrional
     auto: true

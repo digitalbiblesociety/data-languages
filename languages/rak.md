@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トゥルボフアイ語
     auto: true
+  - translation_iso: por
+    name: Tulu-Bohuai
+    auto: true
   - translation_iso: spa
     name: Tulu-Bohuai
     auto: true

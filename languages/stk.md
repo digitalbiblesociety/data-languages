@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アランバ語
     auto: true
+  - translation_iso: por
+    name: Arammba
+    auto: true
   - translation_iso: spa
     name: Arammba
     auto: true

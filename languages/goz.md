@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ゴザルハニ語
     auto: true
+  - translation_iso: por
+    name: Gozarkhani
+    auto: true
   - translation_iso: spa
     name: Gozarkhani
     auto: true

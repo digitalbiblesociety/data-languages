@@ -30,6 +30,9 @@ translations:
     name: マン語
   - translation_iso: kor
     name: 망어
+  - translation_iso: por
+    name: Mang
+    auto: true
   - translation_iso: spa
     name: Mang
     auto: true

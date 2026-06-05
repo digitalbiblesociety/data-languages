@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マニキオン語
     auto: true
+  - translation_iso: por
+    name: Manikion
+    auto: true
   - translation_iso: spa
     name: Manikion
     auto: true

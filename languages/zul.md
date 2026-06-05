@@ -28,6 +28,8 @@ translations:
     name: ズールー語
   - translation_iso: kor
     name: 줄루어
+  - translation_iso: por
+    name: língua zulu
   - translation_iso: spa
     name: zulú
   - translation_iso: zho

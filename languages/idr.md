@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: インドリ語
     auto: true
+  - translation_iso: por
+    name: Indri
+    auto: true
   - translation_iso: spa
     name: Indri
     auto: true

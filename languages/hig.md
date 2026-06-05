@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カムウェ語
     auto: true
+  - translation_iso: por
+    name: Kamwe
+    auto: true
   - translation_iso: spa
     name: Kamwe
     auto: true

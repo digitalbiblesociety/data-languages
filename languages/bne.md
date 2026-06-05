@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ビンタウナ語
+  - translation_iso: por
+    name: Bintauna
+    auto: true
   - translation_iso: spa
     name: Bintauna
     auto: true

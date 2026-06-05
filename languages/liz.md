@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: リビンザ語
     auto: true
+  - translation_iso: por
+    name: Libinza
+    auto: true
   - translation_iso: spa
     name: Libinza
     auto: true

@@ -30,6 +30,8 @@ translations:
     name: アヌン語
   - translation_iso: kor
     name: 아눙어
+  - translation_iso: por
+    name: Língua nung
   - translation_iso: spa
     name: Anong
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ガフク・アサロ語
+  - translation_iso: por
+    name: Alekano
+    auto: true
   - translation_iso: spa
     name: Alekano
     auto: true

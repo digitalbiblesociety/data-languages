@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イス語
     auto: true
+  - translation_iso: por
+    name: Isu (Divisão de Menchum)
+    auto: true
   - translation_iso: spa
     name: Isu (División Menchum)
     auto: true

@@ -28,6 +28,9 @@ translations:
     name: 上代日本語
   - translation_iso: kor
     name: 상대 일본어
+  - translation_iso: por
+    name: japonês antigo
+    auto: true
   - translation_iso: spa
     name: japonés antiguo
   - translation_iso: zho

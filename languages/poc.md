@@ -29,6 +29,8 @@ translations:
     name: ポコマム語
   - translation_iso: kor
     name: 포코맘어
+  - translation_iso: por
+    name: Língua pocomam
   - translation_iso: spa
     name: pocomam
   - translation_iso: zho

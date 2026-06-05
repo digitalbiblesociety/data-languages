@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゥマリ・カヌリ語
+  - translation_iso: por
+    name: canúri de Tumari
+    auto: true
   - translation_iso: spa
     name: Kanuri Tumari
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ドベル語
     auto: true
+  - translation_iso: por
+    name: Dobel
   - translation_iso: spa
     name: Dobel
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エラヴァッラン語
     auto: true
+  - translation_iso: por
+    name: Eravallan
+    auto: true
   - translation_iso: spa
     name: Eravallan
     auto: true

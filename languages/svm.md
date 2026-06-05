@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: スラヴォモリサーノ語
     auto: true
+  - translation_iso: por
+    name: Língua croata molisana
   - translation_iso: spa
     name: Slavomolisano
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オウィニガ語
     auto: true
+  - translation_iso: por
+    name: Owiniga
+    auto: true
   - translation_iso: spa
     name: Owiniga
   - translation_iso: zho

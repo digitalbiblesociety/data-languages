@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: アンドゥ語
     auto: true
+  - translation_iso: por
+    name: Andh
+    auto: true
   - translation_iso: spa
     name: Andh
     auto: true

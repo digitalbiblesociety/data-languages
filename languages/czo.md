@@ -29,6 +29,9 @@ translations:
     name: 閩中語
   - translation_iso: kor
     name: 민중어
+  - translation_iso: por
+    name: Chinês min zhong
+    auto: true
   - translation_iso: spa
     name: minzhong
   - translation_iso: zho

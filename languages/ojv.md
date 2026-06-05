@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オントンジャワ語
+  - translation_iso: por
+    name: Língua ontong java
   - translation_iso: spa
     name: Ontong Java
     auto: true

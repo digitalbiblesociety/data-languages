@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ハンバ語
     auto: true
+  - translation_iso: por
+    name: Hamba
+    auto: true
   - translation_iso: spa
     name: Hamba
     auto: true

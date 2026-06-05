@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロピット語
+  - translation_iso: por
+    name: Língua lopit
   - translation_iso: spa
     name: Lopit
     auto: true

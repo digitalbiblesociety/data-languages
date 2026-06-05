@@ -28,6 +28,8 @@ translations:
     name: マーシャル語
   - translation_iso: kor
     name: 마셜어
+  - translation_iso: por
+    name: Língua marshalesa
   - translation_iso: spa
     name: marshalés
   - translation_iso: zho

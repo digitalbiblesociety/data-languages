@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サフ語
+  - translation_iso: por
+    name: Sahu
   - translation_iso: spa
     name: Sahu
   - translation_iso: zho

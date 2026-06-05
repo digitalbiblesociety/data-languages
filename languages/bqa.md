@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チュンブリ語
+  - translation_iso: por
+    name: Tchumbuli
+    auto: true
   - translation_iso: spa
     name: Tchumbuli
     auto: true

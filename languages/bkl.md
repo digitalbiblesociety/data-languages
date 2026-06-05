@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベリク語
     auto: true
+  - translation_iso: por
+    name: Berik
+    auto: true
   - translation_iso: spa
     name: Berik
     auto: true

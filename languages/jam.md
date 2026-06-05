@@ -29,6 +29,8 @@ translations:
     name: ジャマイカ・クレオール語
   - translation_iso: kor
     name: 자메이카 파트와
+  - translation_iso: por
+    name: patoá jamaicano
   - translation_iso: spa
     name: criollo jamaicano
   - translation_iso: zho

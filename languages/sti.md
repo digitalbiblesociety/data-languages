@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ブディップ語
     auto: true
+  - translation_iso: por
+    name: Stieng Bulo
+    auto: true
   - translation_iso: spa
     name: Stieng Bulo
     auto: true

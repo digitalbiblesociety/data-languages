@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シスアルパイン・ゴール語
+  - translation_iso: por
+    name: Gaulês Cisalpino
+    auto: true
   - translation_iso: spa
     name: galo cisalpino
   - translation_iso: zho

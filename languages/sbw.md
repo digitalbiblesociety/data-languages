@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヒンバ語
+  - translation_iso: por
+    name: Simba
+    auto: true
   - translation_iso: spa
     name: Simba
   - translation_iso: zho

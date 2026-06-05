@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 西ドゥランゴ・ナワトル語
     auto: true
+  - translation_iso: por
+    name: Náuatle de Durango Ocidental
+    auto: true
   - translation_iso: spa
     name: Náhuatl del Durango Occidental
     auto: true

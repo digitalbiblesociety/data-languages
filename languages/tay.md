@@ -28,6 +28,8 @@ translations:
     name: タイヤル語
   - translation_iso: kor
     name: 타이얄어
+  - translation_iso: por
+    name: Língua atayal
   - translation_iso: spa
     name: lengua atayal
   - translation_iso: zho

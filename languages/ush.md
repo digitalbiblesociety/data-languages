@@ -26,6 +26,9 @@ translations:
     name: उशोजी भाषा
   - translation_iso: jpn
     name: ウショジョ語
+  - translation_iso: por
+    name: Ushojo
+    auto: true
   - translation_iso: spa
     name: Ushojo
     auto: true

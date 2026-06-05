@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マク​​ワ・サカ語
     auto: true
+  - translation_iso: por
+    name: Makhuwa-Saka
+    auto: true
   - translation_iso: spa
     name: Makhuwa-Saka
     auto: true

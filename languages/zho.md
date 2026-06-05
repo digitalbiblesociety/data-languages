@@ -21,6 +21,8 @@ translations:
     name: 中国語
   - translation_iso: kor
     name: 중국어
+  - translation_iso: por
+    name: língua chinesa
   - translation_iso: spa
     name: chino
   - translation_iso: zho

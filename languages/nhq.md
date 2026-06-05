@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワクスカレカ・ナワトル語
     auto: true
+  - translation_iso: por
+    name: Nahuatl de Huaxcaleca
+    auto: true
   - translation_iso: spa
     name: Náhuatl de Huaxcaleca
     auto: true

@@ -29,6 +29,8 @@ translations:
     name: ヒヌフ語
   - translation_iso: kor
     name: 히누흐어
+  - translation_iso: por
+    name: Língua hinukh
   - translation_iso: spa
     name: Hinduq
   - translation_iso: zho

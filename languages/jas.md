@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 新カレドニア・ジャワ語
     auto: true
+  - translation_iso: por
+    name: javanês da Nova Caledônia
+    auto: true
   - translation_iso: spa
     name: Javanés de Nueva Caledonia
     auto: true

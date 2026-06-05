@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アマナエ語
     auto: true
+  - translation_iso: por
+    name: Língua amanaié
   - translation_iso: spa
     name: Lengua amanayé
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: ピトケアン語
   - translation_iso: kor
     name: 핏케언어
+  - translation_iso: por
+    name: pitcairnes
   - translation_iso: spa
     name: pitcairnés
   - translation_iso: zho

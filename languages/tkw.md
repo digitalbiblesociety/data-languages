@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テアヌ語
     auto: true
+  - translation_iso: por
+    name: Teanu
+    auto: true
   - translation_iso: spa
     name: Teanu
     auto: true

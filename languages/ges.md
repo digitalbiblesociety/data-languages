@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ゲセル・ゴロム語
     auto: true
+  - translation_iso: por
+    name: Geser-Gorom
+    auto: true
   - translation_iso: spa
     name: Geser-Gorom
     auto: true

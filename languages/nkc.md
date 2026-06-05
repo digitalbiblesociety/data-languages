@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンコンゴ語
     auto: true
+  - translation_iso: por
+    name: Nkongho
+    auto: true
   - translation_iso: spa
     name: nkongho
   - translation_iso: zho

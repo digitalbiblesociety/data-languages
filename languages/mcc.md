@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビトゥル語
     auto: true
+  - translation_iso: por
+    name: Bitur
+    auto: true
   - translation_iso: spa
     name: Bitur
     auto: true

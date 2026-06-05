@@ -28,6 +28,8 @@ translations:
     name: イビビオ語
   - translation_iso: kor
     name: 이비비오어
+  - translation_iso: por
+    name: Língua ibibio
   - translation_iso: spa
     name: Idioma ibibio
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムングイ語
     auto: true
+  - translation_iso: por
+    name: Munggui
+    auto: true
   - translation_iso: spa
     name: Munggui
     auto: true

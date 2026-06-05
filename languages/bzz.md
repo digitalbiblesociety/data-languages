@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エヴァント語
     auto: true
+  - translation_iso: por
+    name: Evant
+    auto: true
   - translation_iso: spa
     name: Evant
     auto: true

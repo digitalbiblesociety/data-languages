@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: トゥリウアラ語
     auto: true
+  - translation_iso: por
+    name: Língua turiuara
   - translation_iso: spa
     name: Turiwára
     auto: true

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ロコヤ語
+  - translation_iso: por
+    name: Língua lakoya
   - translation_iso: spa
     name: Lokoya
     auto: true

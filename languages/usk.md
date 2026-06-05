@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イサンゲレ語
     auto: true
+  - translation_iso: por
+    name: Usaghade
+    auto: true
   - translation_iso: spa
     name: Usaghade
     auto: true

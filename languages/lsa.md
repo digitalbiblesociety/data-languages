@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラースゲルド語
+  - translation_iso: por
+    name: Lasgerdi
+    auto: true
   - translation_iso: spa
     name: Lasgerdi
     auto: true

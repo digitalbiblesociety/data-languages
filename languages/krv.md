@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: カベット語
     auto: true
+  - translation_iso: por
+    name: Kavet
+    auto: true
   - translation_iso: spa
     name: Kavet
     auto: true

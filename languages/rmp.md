@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レンピ語
     auto: true
+  - translation_iso: por
+    name: Rempi
+    auto: true
   - translation_iso: spa
     name: Rempi
     auto: true

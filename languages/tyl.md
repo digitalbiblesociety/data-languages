@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ウェン・マー・サザン・チュワン語
     auto: true
+  - translation_iso: por
+    name: Thu Lao
+    auto: true
   - translation_iso: spa
     name: Thu Lao
     auto: true

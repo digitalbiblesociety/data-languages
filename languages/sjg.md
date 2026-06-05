@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アサンゴリ語
     auto: true
+  - translation_iso: por
+    name: Assangori
+    auto: true
   - translation_iso: spa
     name: Assangori
     auto: true

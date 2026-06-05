@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウヤ語
     auto: true
+  - translation_iso: por
+    name: Sausi
+    auto: true
   - translation_iso: spa
     name: Sausi
     auto: true

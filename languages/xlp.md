@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レポント語
+  - translation_iso: por
+    name: lepôntico
   - translation_iso: spa
     name: lepóntico
   - translation_iso: zho

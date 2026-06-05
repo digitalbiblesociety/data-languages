@@ -30,6 +30,8 @@ translations:
     name: 中央ドゥスン語
   - translation_iso: kor
     name: 카다잔두순어
+  - translation_iso: por
+    name: Língua dusun
   - translation_iso: spa
     name: Kadazan Dusun
     auto: true

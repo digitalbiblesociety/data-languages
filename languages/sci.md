@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ジャワジャティ語
     auto: true
+  - translation_iso: por
+    name: Crioulo malaio do Sri Lanka
   - translation_iso: spa
     name: malayo esrilanqués
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アクケム語
     auto: true
+  - translation_iso: por
+    name: Akukem
+    auto: true
   - translation_iso: spa
     name: Akukem
     auto: true

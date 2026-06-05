@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラルテ語
     auto: true
+  - translation_iso: por
+    name: Larteh
+    auto: true
   - translation_iso: spa
     name: Larteh
     auto: true

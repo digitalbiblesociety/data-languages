@@ -28,6 +28,8 @@ translations:
     name: ブリブリ語
   - translation_iso: kor
     name: 브리브리어
+  - translation_iso: por
+    name: Língua bribri
   - translation_iso: spa
     name: Idioma bribri
   - translation_iso: zho

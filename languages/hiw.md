@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ヒウ語
     auto: true
+  - translation_iso: por
+    name: Língua hiw
   - translation_iso: spa
     name: Idioma Hiw
   - translation_iso: zho

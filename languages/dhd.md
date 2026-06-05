@@ -28,6 +28,8 @@ translations:
     name: ढूंढारी
   - translation_iso: jpn
     name: ドゥーンダリ語
+  - translation_iso: por
+    name: Língua dhundari
   - translation_iso: spa
     name: Dhundari
     auto: true

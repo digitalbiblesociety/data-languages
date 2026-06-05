@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: モブムリン・アイジ語
     auto: true
+  - translation_iso: por
+    name: Aizi Mobumrin
+    auto: true
   - translation_iso: spa
     name: mobu
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: トゥル語
   - translation_iso: kor
     name: 툴루어
+  - translation_iso: por
+    name: Língua túlu
   - translation_iso: spa
     name: tulu
   - translation_iso: zho

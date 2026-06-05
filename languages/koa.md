@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コノマラ語
+  - translation_iso: por
+    name: Konomala
+    auto: true
   - translation_iso: spa
     name: Konomala
   - translation_iso: zho

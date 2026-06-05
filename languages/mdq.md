@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムボレ語
     auto: true
+  - translation_iso: por
+    name: Mbole
+    auto: true
   - translation_iso: spa
     name: Mbole
     auto: true

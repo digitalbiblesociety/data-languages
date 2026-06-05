@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: デゲマ語
     auto: true
+  - translation_iso: por
+    name: Degema
+    auto: true
   - translation_iso: spa
     name: Degema
     auto: true

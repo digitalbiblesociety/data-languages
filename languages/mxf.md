@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: マルグベ語
     auto: true
+  - translation_iso: por
+    name: Malgbe
+    auto: true
   - translation_iso: spa
     name: Malgbe
     auto: true

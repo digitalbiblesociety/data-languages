@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブディブド語
+  - translation_iso: por
+    name: Budibud
+    auto: true
   - translation_iso: spa
     name: Budibud
     auto: true

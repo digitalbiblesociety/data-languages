@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: リンブム語
     auto: true
+  - translation_iso: por
+    name: Língua limbum
   - translation_iso: spa
     name: Limbum
     auto: true

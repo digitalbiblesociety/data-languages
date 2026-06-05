@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: インターグロッサ
+  - translation_iso: por
+    name: Interglossa
   - translation_iso: spa
     name: Interglossa
   - translation_iso: zho

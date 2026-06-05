@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バルト・ロマ語
+  - translation_iso: por
+    name: Romani Báltico
+    auto: true
   - translation_iso: spa
     name: Romaní báltico
     auto: true

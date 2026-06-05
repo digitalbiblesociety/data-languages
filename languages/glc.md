@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボン・グラ語
     auto: true
+  - translation_iso: por
+    name: Bon Gula
+    auto: true
   - translation_iso: spa
     name: Bon Gula
     auto: true

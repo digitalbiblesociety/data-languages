@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アリカプ語
     auto: true
+  - translation_iso: por
+    name: Língua arikapú
   - translation_iso: spa
     name: Arikapú
     auto: true

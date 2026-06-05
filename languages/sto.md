@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ストニー語
+  - translation_iso: por
+    name: Língua stoney
   - translation_iso: spa
     name: Stoney
     auto: true

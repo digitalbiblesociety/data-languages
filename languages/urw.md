@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ソップ語
+  - translation_iso: por
+    name: Sop
+    auto: true
   - translation_iso: spa
     name: Sop
     auto: true

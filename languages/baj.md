@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: バラカイ語
     auto: true
+  - translation_iso: por
+    name: Barakai
   - translation_iso: spa
     name: Barakai
   - translation_iso: zho

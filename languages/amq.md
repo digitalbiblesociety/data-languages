@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アマハイ語
+  - translation_iso: por
+    name: Amahai
   - translation_iso: spa
     name: Amahai
   - translation_iso: zho

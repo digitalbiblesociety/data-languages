@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ダヌ語
     auto: true
+  - translation_iso: por
+    name: Danu
+    auto: true
   - translation_iso: spa
     name: Danu
     auto: true

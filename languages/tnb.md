@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 西部トゥネボ語
     auto: true
+  - translation_iso: por
+    name: Tunebo Ocidental
+    auto: true
   - translation_iso: spa
     name: Tunebo Occidental
     auto: true

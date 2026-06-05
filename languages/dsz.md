@@ -25,6 +25,9 @@ translations:
     name: मार्डिन सांकेतिक भाषा
   - translation_iso: jpn
     name: マルディン手話
+  - translation_iso: por
+    name: Língua de Sinais de Mardin
+    auto: true
   - translation_iso: spa
     name: Lengua de señas de Mardin
     auto: true

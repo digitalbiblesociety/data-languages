@@ -29,6 +29,8 @@ translations:
     name: クリツ語
   - translation_iso: kor
     name: 크리츠어
+  - translation_iso: por
+    name: Língua kryts
   - translation_iso: spa
     name: Kryts
   - translation_iso: zho

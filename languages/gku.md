@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウングク語
     auto: true
+  - translation_iso: por
+    name: ǂUngkue
+    auto: true
   - translation_iso: spa
     name: ǂUngkue
     auto: true

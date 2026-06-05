@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゾエ語
+  - translation_iso: por
+    name: Língua zoé
   - translation_iso: spa
     name: "Zo'é"
     auto: true

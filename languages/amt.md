@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アムト語
     auto: true
+  - translation_iso: por
+    name: Amto
+    auto: true
   - translation_iso: spa
     name: Idioma amto
   - translation_iso: zho

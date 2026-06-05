@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モイコディ語
     auto: true
+  - translation_iso: por
+    name: Moikodi
+    auto: true
   - translation_iso: spa
     name: Moikodi
     auto: true

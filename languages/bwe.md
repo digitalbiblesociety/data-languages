@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブウェ・カレン語
     auto: true
+  - translation_iso: por
+    name: Karen Bwe
+    auto: true
   - translation_iso: spa
     name: Karen Bwe
     auto: true

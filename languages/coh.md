@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チョニイ語
     auto: true
+  - translation_iso: por
+    name: Chonyi-Dzihana-Kauma
+    auto: true
   - translation_iso: spa
     name: Chonyi-Dzihana-Kauma
     auto: true

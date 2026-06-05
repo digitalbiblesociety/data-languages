@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: テネドゥン語
     auto: true
+  - translation_iso: por
+    name: "Ten'edn"
+    auto: true
   - translation_iso: spa
     name: "Ten'edn"
     auto: true

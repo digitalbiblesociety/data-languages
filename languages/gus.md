@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギニア手話
+  - translation_iso: por
+    name: Língua de Sinais da Guiné
+    auto: true
   - translation_iso: spa
     name: Lengua de señas guineana
     auto: true

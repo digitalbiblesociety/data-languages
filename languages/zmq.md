@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミツク語
     auto: true
+  - translation_iso: por
+    name: Mituku
+    auto: true
   - translation_iso: spa
     name: Mituku
     auto: true

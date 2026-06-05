@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: ピンチェ語
     auto: true
+  - translation_iso: por
+    name: taushiro
   - translation_iso: spa
     name: taushiro
   - translation_iso: zho

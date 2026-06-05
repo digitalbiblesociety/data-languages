@@ -19,7 +19,7 @@ translations:
     name: جاتا
     auto: true
   - translation_iso: deu
-    name: "Gata'"
+    name: Gata
     auto: true
   - translation_iso: fra
     name: gta’
@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ガタ語
     auto: true
+  - translation_iso: por
+    name: "Língua gta'"
   - translation_iso: spa
     name: Gata
     auto: true

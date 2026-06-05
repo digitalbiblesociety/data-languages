@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 古ビルマ語
+  - translation_iso: por
+    name: birmanês antigo
+    auto: true
   - translation_iso: spa
     name: birmano antiguo
   - translation_iso: zho

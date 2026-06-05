@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 中西部バンダ語
+  - translation_iso: por
+    name: Banda do Centro-Oeste
+    auto: true
   - translation_iso: spa
     name: Banda Centro-Occidental
     auto: true

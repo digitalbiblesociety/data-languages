@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アンボパスコケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Ambo-Pasco
+    auto: true
   - translation_iso: spa
     name: Quechua de Ambo-Pasco
     auto: true

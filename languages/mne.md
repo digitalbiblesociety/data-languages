@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナバ語
+  - translation_iso: por
+    name: Naba
+    auto: true
   - translation_iso: spa
     name: Naba
     auto: true

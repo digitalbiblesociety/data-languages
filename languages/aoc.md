@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ペモン語
+  - translation_iso: por
+    name: Língua taurepangue
   - translation_iso: spa
     name: idioma pemón
   - translation_iso: zho

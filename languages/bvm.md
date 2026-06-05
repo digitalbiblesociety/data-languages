@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バムンカ語
     auto: true
+  - translation_iso: por
+    name: Bamunka
+    auto: true
   - translation_iso: spa
     name: bamunka
   - translation_iso: zho

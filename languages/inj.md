@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ジャングル・インガ語
     auto: true
+  - translation_iso: por
+    name: Inga da Selva
+    auto: true
   - translation_iso: spa
     name: Inga de la Selva
     auto: true

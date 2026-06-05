@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムウェラ語
+  - translation_iso: por
+    name: Língua muera
   - translation_iso: spa
     name: Mwera
     auto: true

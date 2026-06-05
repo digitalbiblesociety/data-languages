@@ -31,6 +31,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 미리웅어
+  - translation_iso: por
+    name: Miriwung
   - translation_iso: spa
     name: Miriwoong
     auto: true

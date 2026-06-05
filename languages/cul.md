@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: クリナ語
     auto: true
+  - translation_iso: por
+    name: Língua culina
   - translation_iso: spa
     name: culina
   - translation_iso: zho

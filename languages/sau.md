@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サワイ語
     auto: true
+  - translation_iso: por
+    name: Saleman
+    auto: true
   - translation_iso: spa
     name: Saleman
     auto: true

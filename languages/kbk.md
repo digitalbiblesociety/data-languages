@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グラス・コイアリ語
     auto: true
+  - translation_iso: por
+    name: Koiari das Pastagens
+    auto: true
   - translation_iso: spa
     name: Koiari de sabana
     auto: true

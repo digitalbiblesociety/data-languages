@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤンシ語
     auto: true
+  - translation_iso: por
+    name: yansi
+    auto: true
   - translation_iso: spa
     name: Idioma yansi
   - translation_iso: zho

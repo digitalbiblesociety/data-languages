@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コッラ・コラガ語
     auto: true
+  - translation_iso: por
+    name: Koraga Korra
+    auto: true
   - translation_iso: spa
     name: Korra Koraga
     auto: true

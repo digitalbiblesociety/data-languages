@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤナワンカパスコケチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Yanahuanca Pasco
+    auto: true
   - translation_iso: spa
     name: Quechua de Yanahuanca-Pasco
     auto: true

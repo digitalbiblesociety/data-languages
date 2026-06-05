@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: シキ語
     auto: true
+  - translation_iso: por
+    name: Shiki
+    auto: true
   - translation_iso: spa
     name: Shiki
     auto: true

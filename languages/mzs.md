@@ -29,6 +29,8 @@ translations:
     name: マカオ語
   - translation_iso: kor
     name: 마카오어
+  - translation_iso: por
+    name: Patuá macaense
   - translation_iso: spa
     name: Macaense
     auto: true

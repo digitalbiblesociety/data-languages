@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バイニン語
+  - translation_iso: por
+    name: Qaqet
+    auto: true
   - translation_iso: spa
     name: Qaqet
     auto: true

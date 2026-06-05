@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハリア語
+  - translation_iso: por
+    name: Halia
+    auto: true
   - translation_iso: spa
     name: Halia
   - translation_iso: zho

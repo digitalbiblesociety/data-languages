@@ -27,6 +27,8 @@ translations:
     name: ソグド語
   - translation_iso: kor
     name: 소그드어
+  - translation_iso: por
+    name: Língua sogdiana
   - translation_iso: spa
     name: Idioma sogdiano
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: オルマ語
+  - translation_iso: por
+    name: Orma
+    auto: true
   - translation_iso: spa
     name: Orma
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ハザラギ語
   - translation_iso: kor
     name: 하자라어
+  - translation_iso: por
+    name: Língua hazaragi
   - translation_iso: spa
     name: Idioma hazara
   - translation_iso: zho

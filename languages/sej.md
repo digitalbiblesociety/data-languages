@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: セネ語
+  - translation_iso: por
+    name: Sene
+    auto: true
   - translation_iso: spa
     name: Sene
     auto: true

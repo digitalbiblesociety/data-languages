@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チャマオ語
+  - translation_iso: por
+    name: Língua jiamao
   - translation_iso: spa
     name: Jiamao
     auto: true

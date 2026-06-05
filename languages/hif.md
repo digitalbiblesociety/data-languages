@@ -28,6 +28,8 @@ translations:
     name: フィジー・ヒンディー語
   - translation_iso: kor
     name: 피지 힌디어
+  - translation_iso: por
+    name: Hindi fijiano
   - translation_iso: spa
     name: hindi de Fiyi
   - translation_iso: zho

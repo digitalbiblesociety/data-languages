@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エンベラ・タド語
     auto: true
+  - translation_iso: por
+    name: Emberá-Tadó
+    auto: true
   - translation_iso: spa
     name: Emberá-Tadó
     auto: true

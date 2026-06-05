@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プレーンズミウォク語
     auto: true
+  - translation_iso: por
+    name: Miwok das Planícies
+    auto: true
   - translation_iso: spa
     name: Miwok de las llanuras
     auto: true

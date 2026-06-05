@@ -28,6 +28,8 @@ translations:
     name: テレーノ語
   - translation_iso: kor
     name: 테레노어
+  - translation_iso: por
+    name: Língua terena
   - translation_iso: spa
     name: terêna
   - translation_iso: zho

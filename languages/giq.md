@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グリーン・ゲラオ語
     auto: true
+  - translation_iso: por
+    name: gelao verde
+    auto: true
   - translation_iso: spa
     name: Gelao verde
     auto: true

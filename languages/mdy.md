@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マレ語
+  - translation_iso: por
+    name: Língua maale
   - translation_iso: spa
     name: Male (Etiopía)
     auto: true

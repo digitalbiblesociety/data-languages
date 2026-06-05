@@ -21,6 +21,8 @@ translations:
     name: ディンカ語
   - translation_iso: kor
     name: 딩카어
+  - translation_iso: por
+    name: Língua dinka
   - translation_iso: spa
     name: idioma dinka
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンデンゲレコ語
     auto: true
+  - translation_iso: por
+    name: Ndengereko
+    auto: true
   - translation_iso: spa
     name: Ndengereko
     auto: true

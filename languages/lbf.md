@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ティナニ語
     auto: true
+  - translation_iso: por
+    name: Tinani
+    auto: true
   - translation_iso: spa
     name: Tinani
     auto: true

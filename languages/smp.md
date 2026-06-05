@@ -29,6 +29,8 @@ translations:
     name: サマリア語
   - translation_iso: kor
     name: 사마리아어
+  - translation_iso: por
+    name: Hebraico samaritano
   - translation_iso: spa
     name: samaritano
   - translation_iso: zho

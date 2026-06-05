@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: アカワイオ語
     auto: true
+  - translation_iso: por
+    name: Língua capom
   - translation_iso: spa
     name: Idioma akawayo
   - translation_iso: zho

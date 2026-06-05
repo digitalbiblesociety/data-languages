@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウノバイ語
     auto: true
+  - translation_iso: por
+    name: Unubahe
+    auto: true
   - translation_iso: spa
     name: Unubahe
     auto: true

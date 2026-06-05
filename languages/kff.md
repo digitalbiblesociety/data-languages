@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コーヤ語
+  - translation_iso: por
+    name: Língua koya
   - translation_iso: spa
     name: Koya
     auto: true

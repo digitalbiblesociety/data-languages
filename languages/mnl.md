@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ティアレ語
     auto: true
+  - translation_iso: por
+    name: Tiale
+    auto: true
   - translation_iso: spa
     name: malmariv
   - translation_iso: zho

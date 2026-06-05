@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アウヨカワ語
+  - translation_iso: por
+    name: Auyokawa
+    auto: true
   - translation_iso: spa
     name: auyokawa
   - translation_iso: zho

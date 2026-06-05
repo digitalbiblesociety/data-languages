@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: クルドゥ語
     auto: true
+  - translation_iso: por
+    name: Kurudu
+    auto: true
   - translation_iso: spa
     name: kurudu
   - translation_iso: zho

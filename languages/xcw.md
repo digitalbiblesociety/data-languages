@@ -25,6 +25,9 @@ translations:
   - translation_iso: jpn
     name: コアウイルテコ語
     auto: true
+  - translation_iso: por
+    name: Coahuilteco
+    auto: true
   - translation_iso: spa
     name: idioma coahuilteco
   - translation_iso: zho

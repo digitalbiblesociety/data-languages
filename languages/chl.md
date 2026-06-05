@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カウィラ語
     auto: true
+  - translation_iso: por
+    name: Língua Ivilyuat
   - translation_iso: spa
     name: cahuilla
   - translation_iso: zho

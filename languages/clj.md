@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ライツ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Laitu
+    auto: true
   - translation_iso: spa
     name: Chin Laitu
     auto: true

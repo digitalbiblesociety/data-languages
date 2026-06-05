@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コルプン・セラ語
     auto: true
+  - translation_iso: por
+    name: Korupun-Sela
+    auto: true
   - translation_iso: spa
     name: Korupun-Sela
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウブル・アウア語
     auto: true
+  - translation_iso: por
+    name: Wuvulu-Aua
+    auto: true
   - translation_iso: spa
     name: Wuvulu-Aua
     auto: true

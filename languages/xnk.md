@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ンガナカルティ語
     auto: true
+  - translation_iso: por
+    name: Nganakarti
+    auto: true
   - translation_iso: spa
     name: Nganakarti
     auto: true

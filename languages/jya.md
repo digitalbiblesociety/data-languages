@@ -25,6 +25,9 @@ translations:
     name: ギャロン語
   - translation_iso: kor
     name: 걀롱어
+  - translation_iso: por
+    name: Jiarong
+    auto: true
   - translation_iso: spa
     name: Jiarong
     auto: true

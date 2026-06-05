@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: イノケ・ヤテ語
     auto: true
+  - translation_iso: por
+    name: Inoke-Yate
+    auto: true
   - translation_iso: spa
     name: Inoke-Yate
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ヴォート語
   - translation_iso: kor
     name: 바트어
+  - translation_iso: por
+    name: vótico
   - translation_iso: spa
     name: votio
   - translation_iso: zho

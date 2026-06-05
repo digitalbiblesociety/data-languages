@@ -28,6 +28,8 @@ translations:
     name: コミ・ペルミャク語
   - translation_iso: kor
     name: 코미페르먀크어
+  - translation_iso: por
+    name: língua komi-permyak
   - translation_iso: spa
     name: komi permio
   - translation_iso: zho

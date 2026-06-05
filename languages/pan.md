@@ -28,6 +28,8 @@ translations:
     name: パンジャーブ語
   - translation_iso: kor
     name: 펀자브어
+  - translation_iso: por
+    name: Língua panjabi
   - translation_iso: spa
     name: punyabí
   - translation_iso: zho

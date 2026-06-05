@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 森林クリー語
+  - translation_iso: por
+    name: Cree dos Bosques
+    auto: true
   - translation_iso: spa
     name: cree de los bosques
   - translation_iso: zho

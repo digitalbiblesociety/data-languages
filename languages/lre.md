@@ -30,6 +30,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 세인트로렌스 이로쿼이어
+  - translation_iso: por
+    name: Laurenciano
+    auto: true
   - translation_iso: spa
     name: Laurentiano
     auto: true

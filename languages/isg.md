@@ -26,6 +26,9 @@ translations:
     name: आयरिश साइन लैंग्वेज
   - translation_iso: jpn
     name: アイルランド手話
+  - translation_iso: por
+    name: Língua de Sinais Irlandesa
+    auto: true
   - translation_iso: spa
     name: lengua de señas irlandesa
   - translation_iso: zho

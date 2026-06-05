@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 말토어
+  - translation_iso: por
+    name: Sauria Paharia
+    auto: true
   - translation_iso: spa
     name: malto
   - translation_iso: zho

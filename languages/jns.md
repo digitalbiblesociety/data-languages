@@ -26,6 +26,8 @@ translations:
     name: जौनसारी भाषा
   - translation_iso: jpn
     name: ジャウンサーリー語
+  - translation_iso: por
+    name: Língua jaunsari
   - translation_iso: spa
     name: Jaunsari
     auto: true

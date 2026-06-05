@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヒャム語
+  - translation_iso: por
+    name: Hyam
+    auto: true
   - translation_iso: spa
     name: Hyam
     auto: true

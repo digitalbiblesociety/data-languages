@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: 北ナゴ語
     auto: true
+  - translation_iso: por
+    name: Nago do Norte
+    auto: true
   - translation_iso: spa
     name: Nago del Norte
     auto: true

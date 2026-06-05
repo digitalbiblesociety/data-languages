@@ -28,6 +28,8 @@ translations:
     name: カバルド語
   - translation_iso: kor
     name: 카바르디어
+  - translation_iso: por
+    name: Língua cabardiana
   - translation_iso: spa
     name: cabardino
   - translation_iso: zho

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: モグム語
     auto: true
+  - translation_iso: por
+    name: Mogum
+    auto: true
   - translation_iso: spa
     name: Mogum
     auto: true

@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: トゴヨ語
+  - translation_iso: por
+    name: Togoyo
+    auto: true
   - translation_iso: spa
     name: Togoyo
     auto: true

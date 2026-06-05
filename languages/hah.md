@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ハホン語
     auto: true
+  - translation_iso: por
+    name: Hahon
+    auto: true
   - translation_iso: spa
     name: hahon
   - translation_iso: zho

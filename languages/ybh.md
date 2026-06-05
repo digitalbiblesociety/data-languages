@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ヤク語
     auto: true
+  - translation_iso: por
+    name: Língua yakkha
   - translation_iso: spa
     name: idioma yakkha
   - translation_iso: zho

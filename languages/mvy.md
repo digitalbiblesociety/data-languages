@@ -27,6 +27,8 @@ translations:
     name: कोहिस्तानी भाषा
   - translation_iso: jpn
     name: インダス・コーヒスターン語
+  - translation_iso: por
+    name: Língua indus kohistani
   - translation_iso: spa
     name: Kohistani del Indo
     auto: true

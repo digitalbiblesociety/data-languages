@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トラベラーノルウェー語
     auto: true
+  - translation_iso: por
+    name: Norueguês dos Viajantes
+    auto: true
   - translation_iso: spa
     name: rodi
   - translation_iso: zho

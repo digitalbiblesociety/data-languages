@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ダガリ語
+  - translation_iso: por
+    name: Língua dagaare
   - translation_iso: spa
     name: Idioma dagaare
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
     name: ファラ語
   - translation_iso: kor
     name: 팔라어
+  - translation_iso: por
+    name: fala da Estremadura
   - translation_iso: spa
     name: fala
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビエム語
     auto: true
+  - translation_iso: por
+    name: Biem
+    auto: true
   - translation_iso: spa
     name: Biem
     auto: true

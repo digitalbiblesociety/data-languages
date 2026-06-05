@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャンギ語
+  - translation_iso: por
+    name: "Nyang'i"
+    auto: true
   - translation_iso: spa
     name: "Nyang'i"
     auto: true

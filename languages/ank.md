@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ゴエマイ語
+  - translation_iso: por
+    name: Língua goemai
   - translation_iso: spa
     name: Goemai
     auto: true

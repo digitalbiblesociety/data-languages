@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ナミアエ語
     auto: true
+  - translation_iso: por
+    name: Namiae
+    auto: true
   - translation_iso: spa
     name: Namiae
     auto: true

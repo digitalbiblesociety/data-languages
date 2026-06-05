@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ダンキ語
     auto: true
+  - translation_iso: por
+    name: Dhanki
+    auto: true
   - translation_iso: spa
     name: Dhanki
     auto: true

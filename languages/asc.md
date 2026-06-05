@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カスアリーナ・コースト・アスマット語
     auto: true
+  - translation_iso: por
+    name: Asmat da Costa de Casuarina
+    auto: true
   - translation_iso: spa
     name: Asmat de la costa Casuarina
     auto: true

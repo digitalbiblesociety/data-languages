@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: リオク語
     auto: true
+  - translation_iso: por
+    name: Sara
+    auto: true
   - translation_iso: spa
     name: Sara
     auto: true

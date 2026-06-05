@@ -27,6 +27,8 @@ translations:
     name: कापोर सांकेतिक भाषा
   - translation_iso: jpn
     name: ウルブ・カァポル手話
+  - translation_iso: por
+    name: Língua de Sinais Kaapor Brasileira
   - translation_iso: spa
     name: Lengua de señas Urubu-Kaapor
   - translation_iso: zho

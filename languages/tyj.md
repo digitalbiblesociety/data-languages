@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タイ・ドー語
     auto: true
+  - translation_iso: por
+    name: Tai Do
+    auto: true
   - translation_iso: spa
     name: Tai Do
     auto: true

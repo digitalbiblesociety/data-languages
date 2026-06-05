@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤカイケケ語
     auto: true
+  - translation_iso: por
+    name: yakaikeke
+    auto: true
   - translation_iso: spa
     name: Yakaikeke
     auto: true

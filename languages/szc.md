@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セマク・ベリ語
     auto: true
+  - translation_iso: por
+    name: Semaq Beri
+    auto: true
   - translation_iso: spa
     name: Semaq Beri
     auto: true

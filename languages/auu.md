@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アウエ語
     auto: true
+  - translation_iso: por
+    name: Auye
+    auto: true
   - translation_iso: spa
     name: Auye
     auto: true

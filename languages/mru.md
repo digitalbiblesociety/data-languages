@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モノ語
     auto: true
+  - translation_iso: por
+    name: Mono (Camarões)
+    auto: true
   - translation_iso: spa
     name: Idioma mono (Camerún)
   - translation_iso: zho

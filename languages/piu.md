@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ピントゥピ・ロリジャ語
+  - translation_iso: por
+    name: Pintupi
   - translation_iso: spa
     name: Pintupi-Luritja
     auto: true

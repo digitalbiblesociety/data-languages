@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クスコ語
+  - translation_iso: por
+    name: Cusco quíchua
   - translation_iso: spa
     name: Quechua cusqueño
   - translation_iso: zho

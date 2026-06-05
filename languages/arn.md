@@ -28,6 +28,8 @@ translations:
     name: マプチェ語
   - translation_iso: kor
     name: 마푸둥군어
+  - translation_iso: por
+    name: mapudungun
   - translation_iso: spa
     name: mapuche
   - translation_iso: zho

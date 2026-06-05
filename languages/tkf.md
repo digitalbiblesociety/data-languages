@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カワイブ語
+  - translation_iso: por
+    name: Língua cauaíbe
   - translation_iso: spa
     name: Tukumanféd
     auto: true

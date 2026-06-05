@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アリブワツァ語
     auto: true
+  - translation_iso: por
+    name: Aribwatsa
+    auto: true
   - translation_iso: spa
     name: Idioma aribwatsa
   - translation_iso: zho

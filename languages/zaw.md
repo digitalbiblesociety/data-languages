@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミトラ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Mitla
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Mitla
   - translation_iso: zho

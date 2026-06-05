@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: モコレ語
     auto: true
+  - translation_iso: por
+    name: Língua mocolé
   - translation_iso: spa
     name: Mokole
     auto: true

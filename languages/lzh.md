@@ -28,6 +28,8 @@ translations:
     name: 漢文
   - translation_iso: kor
     name: 한문
+  - translation_iso: por
+    name: chinês clássico
   - translation_iso: spa
     name: chino clásico
   - translation_iso: zho

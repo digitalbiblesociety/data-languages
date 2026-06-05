@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ロリア語
     auto: true
+  - translation_iso: por
+    name: Roria
+    auto: true
   - translation_iso: spa
     name: Roria
     auto: true

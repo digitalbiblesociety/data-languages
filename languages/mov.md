@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モハベ語
+  - translation_iso: por
+    name: Língua mojave
   - translation_iso: spa
     name: Mohave
     auto: true

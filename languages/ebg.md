@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エブグ語
     auto: true
+  - translation_iso: por
+    name: Ebughu
+    auto: true
   - translation_iso: spa
     name: ebughu
   - translation_iso: zho

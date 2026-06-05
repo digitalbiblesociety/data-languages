@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ティタ語
     auto: true
+  - translation_iso: por
+    name: Tita
+    auto: true
   - translation_iso: spa
     name: Tita
     auto: true

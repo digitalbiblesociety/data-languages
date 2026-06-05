@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: テガリ語
     auto: true
+  - translation_iso: por
+    name: Tegali
+    auto: true
   - translation_iso: spa
     name: Idioma tegali
   - translation_iso: zho

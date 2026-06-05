@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: ティングイ・ボト語
     auto: true
+  - translation_iso: por
+    name: Tingui-Boto
+    auto: true
   - translation_iso: spa
     name: Idioma tingui-boto
   - translation_iso: zho

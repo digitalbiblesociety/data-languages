@@ -26,6 +26,8 @@ translations:
     name: インターリング
   - translation_iso: kor
     name: 인테르링구에
+  - translation_iso: por
+    name: interlingue
   - translation_iso: spa
     name: interlingue
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハラム・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Kharam
+    auto: true
   - translation_iso: spa
     name: Kharam Naga
     auto: true

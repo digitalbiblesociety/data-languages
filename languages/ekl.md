@@ -29,6 +29,9 @@ translations:
     name: コル語
   - translation_iso: kor
     name: 콜어
+  - translation_iso: por
+    name: Kol (Bangladesh)
+    auto: true
   - translation_iso: spa
     name: Kol (Bangladés)
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: ヴァイ語
   - translation_iso: kor
     name: 바이어
+  - translation_iso: por
+    name: Língua vai
   - translation_iso: spa
     name: Idioma vai
   - translation_iso: zho

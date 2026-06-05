@@ -27,6 +27,8 @@ translations:
   - translation_iso: jpn
     name: サバネ語
     auto: true
+  - translation_iso: por
+    name: Língua sabanê
   - translation_iso: spa
     name: Sabanê
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ワイマハ語
     auto: true
+  - translation_iso: por
+    name: Língua bará
   - translation_iso: spa
     name: idioma bará
   - translation_iso: zho

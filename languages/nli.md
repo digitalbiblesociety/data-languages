@@ -27,6 +27,9 @@ translations:
     name: नंगलामी भाषा
   - translation_iso: jpn
     name: ナンガラム語
+  - translation_iso: por
+    name: Grangali
+    auto: true
   - translation_iso: spa
     name: Grangali
     auto: true

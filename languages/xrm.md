@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: アルマジック語
     auto: true
+  - translation_iso: por
+    name: Armázico
+    auto: true
   - translation_iso: spa
     name: armázico
   - translation_iso: zho

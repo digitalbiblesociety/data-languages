@@ -29,6 +29,9 @@ translations:
     name: 西ウベア語
   - translation_iso: kor
     name: 서우베아어
+  - translation_iso: por
+    name: Uveano Ocidental
+    auto: true
   - translation_iso: spa
     name: Uveano occidental
     auto: true

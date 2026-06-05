@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アイスランド手話
+  - translation_iso: por
+    name: Língua de Sinais Islandesa
+    auto: true
   - translation_iso: spa
     name: Lengua de señas islandesa
   - translation_iso: zho

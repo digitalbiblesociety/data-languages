@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: パウセルナ語
     auto: true
+  - translation_iso: por
+    name: Língua warázu
   - translation_iso: spa
     name: idioma pauserna
   - translation_iso: zho

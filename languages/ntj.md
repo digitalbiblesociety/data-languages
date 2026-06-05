@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ンガーニャチャラ語
+  - translation_iso: por
+    name: Língua ngaanyatjarra
   - translation_iso: spa
     name: Ngaanyatjarra
     auto: true

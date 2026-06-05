@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: マングエ語
     auto: true
+  - translation_iso: por
+    name: Mangue
+    auto: true
   - translation_iso: spa
     name: chorotega
   - translation_iso: zho

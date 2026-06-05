@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レウォ語
+  - translation_iso: por
+    name: Lewo
+    auto: true
   - translation_iso: spa
     name: Lewo
     auto: true

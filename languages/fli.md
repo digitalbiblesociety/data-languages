@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ファリ語
     auto: true
+  - translation_iso: por
+    name: Fali
+    auto: true
   - translation_iso: spa
     name: Fali
     auto: true

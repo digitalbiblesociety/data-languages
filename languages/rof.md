@@ -28,6 +28,8 @@ translations:
     name: ロンボ語
   - translation_iso: kor
     name: 롬보어
+  - translation_iso: por
+    name: rombo
   - translation_iso: spa
     name: rombo
   - translation_iso: zho

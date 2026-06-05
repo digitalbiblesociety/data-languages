@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビピ語
     auto: true
+  - translation_iso: por
+    name: Bipi
+    auto: true
   - translation_iso: spa
     name: Bipi
   - translation_iso: zho

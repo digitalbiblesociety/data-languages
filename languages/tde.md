@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ティラニゲ・ディガ・ドゴン語
     auto: true
+  - translation_iso: por
+    name: Dogon Tiranige Diga
+    auto: true
   - translation_iso: spa
     name: Dogon Tiranige Diga
     auto: true

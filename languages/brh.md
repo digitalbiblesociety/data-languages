@@ -28,6 +28,8 @@ translations:
     name: ブラーフーイー語
   - translation_iso: kor
     name: 브라후이어
+  - translation_iso: por
+    name: Língua brahui
   - translation_iso: spa
     name: Idioma brahui
   - translation_iso: zho

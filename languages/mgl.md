@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イドゥネ語
+  - translation_iso: por
+    name: Maleu-Kilenge
+    auto: true
   - translation_iso: spa
     name: Maleu-Kilenge
     auto: true

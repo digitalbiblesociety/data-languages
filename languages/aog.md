@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 앙고람어
+  - translation_iso: por
+    name: Angoram
+    auto: true
   - translation_iso: spa
     name: Angoram
     auto: true

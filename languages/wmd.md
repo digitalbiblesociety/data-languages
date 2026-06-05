@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ママインデ語
     auto: true
+  - translation_iso: por
+    name: Mamaindê
   - translation_iso: spa
     name: Mamaindé
     auto: true

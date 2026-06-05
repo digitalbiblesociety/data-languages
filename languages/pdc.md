@@ -29,6 +29,8 @@ translations:
     name: ペンシルベニアドイツ語
   - translation_iso: kor
     name: 펜실베이니아 독일어
+  - translation_iso: por
+    name: Alemão da Pensilvânia
   - translation_iso: spa
     name: alemán de Pensilvania
   - translation_iso: zho

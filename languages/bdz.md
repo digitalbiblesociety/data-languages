@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: バデシ語
     auto: true
+  - translation_iso: por
+    name: Badeshi
+    auto: true
   - translation_iso: spa
     name: Badeshi
   - translation_iso: zho

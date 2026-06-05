@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤレ語
+  - translation_iso: por
+    name: Yale
+    auto: true
   - translation_iso: spa
     name: Idioma yalë
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 東紅水河チワン語
+  - translation_iso: por
+    name: zhuang de Hongshuihe oriental
+    auto: true
   - translation_iso: spa
     name: Zhuang Hongshuihe oriental
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コモ・カリム語
     auto: true
+  - translation_iso: por
+    name: Como Karim
+    auto: true
   - translation_iso: spa
     name: como karim
   - translation_iso: zho

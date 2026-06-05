@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: チェコ手話
+  - translation_iso: por
+    name: Língua de sinais checa
   - translation_iso: spa
     name: Lengua de Señas Checa
     auto: true

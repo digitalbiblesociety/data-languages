@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウィク・キヤンガン語
     auto: true
+  - translation_iso: por
+    name: Wik-Keyangan
+    auto: true
   - translation_iso: spa
     name: Wik-Keyangan
     auto: true

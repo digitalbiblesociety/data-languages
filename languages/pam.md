@@ -28,6 +28,8 @@ translations:
     name: パンパンガ語
   - translation_iso: kor
     name: 카팜팡안 어
+  - translation_iso: por
+    name: pampango
   - translation_iso: spa
     name: pampango
   - translation_iso: zho

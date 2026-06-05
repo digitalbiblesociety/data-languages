@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワスキア語
     auto: true
+  - translation_iso: por
+    name: Waskia
+    auto: true
   - translation_iso: spa
     name: Waskia
     auto: true

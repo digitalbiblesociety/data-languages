@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イインバウ・カレン語
     auto: true
+  - translation_iso: por
+    name: Karen Yinbaw
+    auto: true
   - translation_iso: spa
     name: Karen Yinbaw
     auto: true

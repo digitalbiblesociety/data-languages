@@ -26,6 +26,8 @@ translations:
   - translation_iso: jpn
     name: アルタニ語
     auto: true
+  - translation_iso: por
+    name: Língua arutani
   - translation_iso: spa
     name: Idioma arutani
   - translation_iso: zho

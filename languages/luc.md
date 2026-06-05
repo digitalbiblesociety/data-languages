@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アリンガ語
     auto: true
+  - translation_iso: por
+    name: Língua aringa
   - translation_iso: spa
     name: Aringa
     auto: true

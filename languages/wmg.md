@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 西ミニャク語
     auto: true
+  - translation_iso: por
+    name: Minyag Ocidental
+    auto: true
   - translation_iso: spa
     name: Minyag Occidental
     auto: true

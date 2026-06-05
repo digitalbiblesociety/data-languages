@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ラザジェルディ語
     auto: true
+  - translation_iso: por
+    name: Razajerdi
+    auto: true
   - translation_iso: spa
     name: Razajerdi
     auto: true

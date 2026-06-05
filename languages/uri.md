@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カルプ語
     auto: true
+  - translation_iso: por
+    name: Urim
+    auto: true
   - translation_iso: spa
     name: Urim
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ヤラルンガ語
     auto: true
+  - translation_iso: por
+    name: yalarnnga
+    auto: true
   - translation_iso: spa
     name: Idioma yalarnnga
   - translation_iso: zho

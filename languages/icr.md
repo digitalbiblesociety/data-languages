@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アイランダー・クレオール・イングリッシュ語
     auto: true
+  - translation_iso: por
+    name: Crioulo de San Andrés
   - translation_iso: spa
     name: Criollo sanandresano
   - translation_iso: zho

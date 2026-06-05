@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: コロポ語
     auto: true
+  - translation_iso: por
+    name: Língua koropó
   - translation_iso: spa
     name: Koropó
     auto: true

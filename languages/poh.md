@@ -29,6 +29,8 @@ translations:
     name: ポコムチ語
   - translation_iso: kor
     name: 포콤치어
+  - translation_iso: por
+    name: Língua pocomchi
   - translation_iso: spa
     name: pocomchí
   - translation_iso: zho

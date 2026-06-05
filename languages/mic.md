@@ -28,6 +28,8 @@ translations:
     name: ミクマク語
   - translation_iso: kor
     name: 미크맥어
+  - translation_iso: por
+    name: miquemaque
   - translation_iso: spa
     name: micmac
   - translation_iso: zho

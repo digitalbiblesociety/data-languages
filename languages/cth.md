@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: タイプム・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Thaiphum
+    auto: true
   - translation_iso: spa
     name: Chin Thaiphum
     auto: true

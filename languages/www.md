@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ワワ語
     auto: true
+  - translation_iso: por
+    name: Wawa
+    auto: true
   - translation_iso: spa
     name: Wawa
     auto: true

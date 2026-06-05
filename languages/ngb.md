@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北ングバンディ語
     auto: true
+  - translation_iso: por
+    name: Ngbandi do Norte
+    auto: true
   - translation_iso: spa
     name: Ngbandi septentrional
     auto: true

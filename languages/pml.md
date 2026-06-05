@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 地中海共通語
+  - translation_iso: por
+    name: Língua Franca Mediterrânea
   - translation_iso: spa
     name: sabir
   - translation_iso: zho

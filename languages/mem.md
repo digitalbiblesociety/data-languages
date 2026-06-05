@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マンガラ語
     auto: true
+  - translation_iso: por
+    name: Mangala
+    auto: true
   - translation_iso: spa
     name: Mangala
     auto: true

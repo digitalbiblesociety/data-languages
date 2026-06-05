@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ニャヘウン語
     auto: true
+  - translation_iso: por
+    name: Nyaheun
+    auto: true
   - translation_iso: spa
     name: Nyaheun
     auto: true

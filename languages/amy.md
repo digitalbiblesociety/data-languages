@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アミ語
     auto: true
+  - translation_iso: por
+    name: Ami
+    auto: true
   - translation_iso: spa
     name: Ami
     auto: true

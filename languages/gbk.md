@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ガッディ語
     auto: true
+  - translation_iso: por
+    name: Língua gaddi
   - translation_iso: spa
     name: Idioma gaddi
   - translation_iso: zho

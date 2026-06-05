@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トゥシャマ語
     auto: true
+  - translation_iso: por
+    name: Shama-Sambuga
+    auto: true
   - translation_iso: spa
     name: Shama-Sambuga
     auto: true

@@ -29,6 +29,9 @@ translations:
     name: ピッチャンチャジャーラ語
   - translation_iso: kor
     name: 피찬차차라어
+  - translation_iso: por
+    name: Pitjantjatjara
+    auto: true
   - translation_iso: spa
     name: Pitjantjatjara
   - translation_iso: zho

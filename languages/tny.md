@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トングウェ語
     auto: true
+  - translation_iso: por
+    name: Tongwe
+    auto: true
   - translation_iso: spa
     name: Idioma tongwe-bende
   - translation_iso: zho

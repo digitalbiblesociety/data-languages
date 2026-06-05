@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カビヤリ語
+  - translation_iso: por
+    name: Língua kabiyari
   - translation_iso: spa
     name: Idioma cabiyarí
   - translation_iso: zho

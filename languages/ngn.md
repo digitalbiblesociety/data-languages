@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ングウォ語
     auto: true
+  - translation_iso: por
+    name: Ngwo
+    auto: true
   - translation_iso: spa
     name: Ngwo
     auto: true

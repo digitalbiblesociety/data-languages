@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ガンベラ語
     auto: true
+  - translation_iso: por
+    name: Gambera
+    auto: true
   - translation_iso: spa
     name: Gambera
     auto: true

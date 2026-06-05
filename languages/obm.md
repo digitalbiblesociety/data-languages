@@ -19,6 +19,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モアブ語
+  - translation_iso: por
+    name: moabita
+    auto: true
   - translation_iso: spa
     name: Moabita
   - translation_iso: zho

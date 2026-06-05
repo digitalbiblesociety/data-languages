@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アッパー・クスコクウィム語
     auto: true
+  - translation_iso: por
+    name: Língua kolchan
   - translation_iso: spa
     name: "dinak'i"
   - translation_iso: zho

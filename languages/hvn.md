@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: サブ語
     auto: true
+  - translation_iso: por
+    name: Língua hawu
   - translation_iso: spa
     name: Hawu
   - translation_iso: zho

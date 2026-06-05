@@ -26,6 +26,8 @@ translations:
     name: वोलियन भाषा
   - translation_iso: jpn
     name: ウォレアイ語
+  - translation_iso: por
+    name: Woleaiano
   - translation_iso: spa
     name: woleaino
   - translation_iso: zho

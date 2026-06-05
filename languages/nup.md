@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌペ語
+  - translation_iso: por
+    name: Língua nupe
   - translation_iso: spa
     name: nupe
   - translation_iso: zho

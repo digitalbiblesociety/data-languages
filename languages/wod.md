@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウォラニ語
     auto: true
+  - translation_iso: por
+    name: Wolani
+    auto: true
   - translation_iso: spa
     name: Wolani
     auto: true

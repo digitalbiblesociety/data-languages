@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ボガ語
+  - translation_iso: por
+    name: Boga
+    auto: true
   - translation_iso: spa
     name: boga
   - translation_iso: zho

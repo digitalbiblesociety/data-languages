@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウマラサ語
     auto: true
+  - translation_iso: por
+    name: Pendau
+    auto: true
   - translation_iso: spa
     name: Pendau
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ユルティ語
     auto: true
+  - translation_iso: por
+    name: Língua yuruti
   - translation_iso: spa
     name: Idioma yurutí
   - translation_iso: zho

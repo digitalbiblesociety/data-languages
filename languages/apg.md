@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アンパナン語
     auto: true
+  - translation_iso: por
+    name: Ampanang
+    auto: true
   - translation_iso: spa
     name: Ampanang
     auto: true

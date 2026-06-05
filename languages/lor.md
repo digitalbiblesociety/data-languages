@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: テーン語
     auto: true
+  - translation_iso: por
+    name: Téén
+    auto: true
   - translation_iso: spa
     name: Téén
     auto: true

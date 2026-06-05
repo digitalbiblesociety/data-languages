@@ -25,6 +25,8 @@ translations:
   - translation_iso: jpn
     name: カユババ語
     auto: true
+  - translation_iso: por
+    name: Língua cayuvava
   - translation_iso: spa
     name: idioma cayubaba
   - translation_iso: zho

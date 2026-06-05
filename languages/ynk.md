@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナウカン語
+  - translation_iso: por
+    name: yupik de Naukan
+    auto: true
   - translation_iso: spa
     name: naukanski
   - translation_iso: zho

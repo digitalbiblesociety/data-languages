@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ニンゲラ語
     auto: true
+  - translation_iso: por
+    name: Ningera
+    auto: true
   - translation_iso: spa
     name: Ningera
     auto: true

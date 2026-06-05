@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バタンガン・タウブウイド語
     auto: true
+  - translation_iso: por
+    name: Tawbuid Ocidental
+    auto: true
   - translation_iso: spa
     name: Tawbuid occidental
     auto: true

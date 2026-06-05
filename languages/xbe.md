@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ビガンバル語
     auto: true
+  - translation_iso: por
+    name: Bigambal
+    auto: true
   - translation_iso: spa
     name: Bigambal
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: フンジャラ・カイナ・ケ語
     auto: true
+  - translation_iso: por
+    name: Hunjara-Kaina Ke
+    auto: true
   - translation_iso: spa
     name: Hunjara-Kaina Ke
     auto: true

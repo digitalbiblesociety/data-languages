@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スリン・クメール語
+  - translation_iso: por
+    name: Dialeto khmer setentrional
   - translation_iso: spa
     name: Jemer del Norte
     auto: true

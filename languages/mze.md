@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: モラワ語
     auto: true
+  - translation_iso: por
+    name: Morawa
+    auto: true
   - translation_iso: spa
     name: Morawa
     auto: true

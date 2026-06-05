@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ワングクマラ語
     auto: true
+  - translation_iso: por
+    name: wangkumara
+    auto: true
   - translation_iso: spa
     name: wangkumara
   - translation_iso: zho

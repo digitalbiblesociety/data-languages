@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パノボ語
     auto: true
+  - translation_iso: por
+    name: Panobo
+    auto: true
   - translation_iso: spa
     name: waripano
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     name: शुमश्ती भाषा
   - translation_iso: jpn
     name: シュマシュティー語
+  - translation_iso: por
+    name: Shumashti
+    auto: true
   - translation_iso: spa
     name: Shumashti
     auto: true

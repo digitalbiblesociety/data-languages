@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウトゥン語
     auto: true
+  - translation_iso: por
+    name: Wutung
+    auto: true
   - translation_iso: spa
     name: Wutung
     auto: true

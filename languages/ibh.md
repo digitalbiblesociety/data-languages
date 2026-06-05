@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ビ語
     auto: true
+  - translation_iso: por
+    name: Bih
+    auto: true
   - translation_iso: spa
     name: Bih
     auto: true

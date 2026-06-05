@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バナオ・イトネグ語
     auto: true
+  - translation_iso: por
+    name: Banao Itneg
+    auto: true
   - translation_iso: spa
     name: Itneg Banao
     auto: true

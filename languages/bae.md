@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ギナオ語
+  - translation_iso: por
+    name: Língua baré
   - translation_iso: spa
     name: Baré
   - translation_iso: zho

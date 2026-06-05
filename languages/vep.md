@@ -29,6 +29,8 @@ translations:
     name: ヴェプス語
   - translation_iso: kor
     name: 벱스어
+  - translation_iso: por
+    name: língua vepes
   - translation_iso: spa
     name: vepsio
   - translation_iso: zho

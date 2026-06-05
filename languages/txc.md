@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウェタル語
     auto: true
+  - translation_iso: por
+    name: Tsetsaut
+    auto: true
   - translation_iso: spa
     name: tsetsaut
   - translation_iso: zho

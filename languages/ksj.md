@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ウアレ語
     auto: true
+  - translation_iso: por
+    name: Uare
+    auto: true
   - translation_iso: spa
     name: Uare
     auto: true

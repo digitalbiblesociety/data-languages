@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナチェリング語
     auto: true
+  - translation_iso: por
+    name: Nachering
+    auto: true
   - translation_iso: spa
     name: Nachering
     auto: true

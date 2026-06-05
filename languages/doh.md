@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ドン語
     auto: true
+  - translation_iso: por
+    name: Dong
+    auto: true
   - translation_iso: spa
     name: Dong
     auto: true

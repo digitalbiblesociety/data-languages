@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アンドラフス語
     auto: true
+  - translation_iso: por
+    name: Andra-Hus
+    auto: true
   - translation_iso: spa
     name: Andra-Hus
     auto: true

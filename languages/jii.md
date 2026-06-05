@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジイドゥ語
     auto: true
+  - translation_iso: por
+    name: Jiiddu
+    auto: true
   - translation_iso: spa
     name: Jiiddu
     auto: true

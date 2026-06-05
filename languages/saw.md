@@ -32,6 +32,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 사위어
+  - translation_iso: por
+    name: Sawi
+    auto: true
   - translation_iso: spa
     name: Sawi
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブサン・カヤン語
     auto: true
+  - translation_iso: por
+    name: Busang Kayan
+    auto: true
   - translation_iso: spa
     name: Kayan Busang
     auto: true

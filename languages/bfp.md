@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ベバ語
     auto: true
+  - translation_iso: por
+    name: Beba
+    auto: true
   - translation_iso: spa
     name: beba
   - translation_iso: zho

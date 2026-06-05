@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: スゴー語
+  - translation_iso: por
+    name: "Karen S'gaw"
+    auto: true
   - translation_iso: spa
     name: "S'gaw Karen"
   - translation_iso: zho

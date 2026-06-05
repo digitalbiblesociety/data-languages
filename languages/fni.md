@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ファニア語
     auto: true
+  - translation_iso: por
+    name: Fania
+    auto: true
   - translation_iso: spa
     name: Fania
     auto: true

@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バッサ語
+  - translation_iso: por
+    name: Bassa
+    auto: true
   - translation_iso: spa
     name: bassa
   - translation_iso: zho

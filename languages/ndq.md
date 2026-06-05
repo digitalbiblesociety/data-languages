@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ンドンベ語
     auto: true
+  - translation_iso: por
+    name: Ndombe
+    auto: true
   - translation_iso: spa
     name: Idioma ndombe
   - translation_iso: zho

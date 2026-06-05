@@ -21,6 +21,8 @@ translations:
     name: バローチー語
   - translation_iso: kor
     name: 발루치어
+  - translation_iso: por
+    name: Língua balúchi
   - translation_iso: spa
     name: baluchi
   - translation_iso: zho

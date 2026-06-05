@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: サンルイステマラカユカポポロカ語
     auto: true
+  - translation_iso: por
+    name: Popoloca de San Luís Temalacayuca
+    auto: true
   - translation_iso: spa
     name: Popoloca de San Luis Temalacayuca
     auto: true

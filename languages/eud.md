@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: オウデベ語
     auto: true
+  - translation_iso: por
+    name: Eudeve
+    auto: true
   - translation_iso: spa
     name: idioma eudeve
   - translation_iso: zho

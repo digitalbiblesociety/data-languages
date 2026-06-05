@@ -28,6 +28,8 @@ translations:
     name: セヴァーン・オジブワ語
   - translation_iso: kor
     name: 오지 크리어
+  - translation_iso: por
+    name: Língua Oji-Cree
   - translation_iso: spa
     name: oji-cree
   - translation_iso: zho

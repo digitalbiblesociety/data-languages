@@ -30,6 +30,8 @@ translations:
     name: タオ語
   - translation_iso: kor
     name: 야미어
+  - translation_iso: por
+    name: Língua yami
   - translation_iso: spa
     name: Lengua yami
   - translation_iso: zho

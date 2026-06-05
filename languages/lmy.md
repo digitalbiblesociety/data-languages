@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ランボヤ語
     auto: true
+  - translation_iso: por
+    name: Lamboya
+    auto: true
   - translation_iso: spa
     name: Lamboya
     auto: true

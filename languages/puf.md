@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: プナンメラ語
     auto: true
+  - translation_iso: por
+    name: Punan Merah
+    auto: true
   - translation_iso: spa
     name: Punan Merah
     auto: true

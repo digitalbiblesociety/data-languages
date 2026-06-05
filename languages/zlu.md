@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ズル語
     auto: true
+  - translation_iso: por
+    name: zul
+    auto: true
   - translation_iso: spa
     name: Zul
     auto: true

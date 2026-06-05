@@ -28,6 +28,8 @@ translations:
     name: キンブンド語
   - translation_iso: kor
     name: 킴분두어
+  - translation_iso: por
+    name: quimbundo
   - translation_iso: spa
     name: kimbundu
   - translation_iso: zho

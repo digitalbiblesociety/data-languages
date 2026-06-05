@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウォガムシン語
     auto: true
+  - translation_iso: por
+    name: Wogamusin
+    auto: true
   - translation_iso: spa
     name: Wogamusin
     auto: true

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ルワティ語
     auto: true
+  - translation_iso: por
+    name: Luwati
+    auto: true
   - translation_iso: spa
     name: Luwati
     auto: true

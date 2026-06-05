@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナワル語
     auto: true
+  - translation_iso: por
+    name: Nawaru
+    auto: true
   - translation_iso: spa
     name: Nawaru
     auto: true

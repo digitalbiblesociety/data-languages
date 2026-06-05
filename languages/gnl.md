@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガングル語
     auto: true
+  - translation_iso: por
+    name: Gangulu
+    auto: true
   - translation_iso: spa
     name: Gangulu
     auto: true

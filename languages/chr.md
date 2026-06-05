@@ -28,6 +28,8 @@ translations:
     name: チェロキー語
   - translation_iso: kor
     name: 체로키어
+  - translation_iso: por
+    name: cherokee
   - translation_iso: spa
     name: cheroqui
   - translation_iso: zho

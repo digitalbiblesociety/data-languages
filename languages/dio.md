@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ディボ語
     auto: true
+  - translation_iso: por
+    name: Dibo
+    auto: true
   - translation_iso: spa
     name: Dibo
     auto: true

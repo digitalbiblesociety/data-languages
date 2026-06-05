@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンメン語
     auto: true
+  - translation_iso: por
+    name: Mmen
+    auto: true
   - translation_iso: spa
     name: mmen
   - translation_iso: zho

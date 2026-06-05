@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: マヤワリ語
     auto: true
+  - translation_iso: por
+    name: mayawali
+    auto: true
   - translation_iso: spa
     name: Mayawali
     auto: true

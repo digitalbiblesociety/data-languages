@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: サザン・キワイ語
     auto: true
+  - translation_iso: por
+    name: Kiwai do Sul
+    auto: true
   - translation_iso: spa
     name: Kiwai del Sur
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガボボ語
     auto: true
+  - translation_iso: por
+    name: Gaɓogbo
+    auto: true
   - translation_iso: spa
     name: Gaɓogbo
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ムボットゴテ語
+  - translation_iso: por
+    name: Letemboi
+    auto: true
   - translation_iso: spa
     name: Letemboi
     auto: true

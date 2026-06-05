@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: コック・ナル語
     auto: true
+  - translation_iso: por
+    name: Língua kok-nar
   - translation_iso: spa
     name: Idioma kok nar
   - translation_iso: zho

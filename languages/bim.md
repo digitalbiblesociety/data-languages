@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビモバ語
     auto: true
+  - translation_iso: por
+    name: Bimoba
+    auto: true
   - translation_iso: spa
     name: Bimoba
     auto: true

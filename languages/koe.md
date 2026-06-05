@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カチポ・バレシ語
     auto: true
+  - translation_iso: por
+    name: Kacipo-Balesi
+    auto: true
   - translation_iso: spa
     name: Idioma baalesi
   - translation_iso: zho

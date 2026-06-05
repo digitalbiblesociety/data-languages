@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アクシ・イー語
     auto: true
+  - translation_iso: por
+    name: yi axi
+    auto: true
   - translation_iso: spa
     name: Yi Axi
     auto: true

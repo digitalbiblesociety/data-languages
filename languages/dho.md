@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ドディア語
     auto: true
+  - translation_iso: por
+    name: Dhodia
+    auto: true
   - translation_iso: spa
     name: Dhodia
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タイ・タィン語
+  - translation_iso: por
+    name: Tai Thanh
+    auto: true
   - translation_iso: spa
     name: Tai Thanh
     auto: true

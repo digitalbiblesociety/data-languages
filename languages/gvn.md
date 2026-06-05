@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: クク・ヤラニ語
     auto: true
+  - translation_iso: por
+    name: Língua guugu yalandji
   - translation_iso: spa
     name: Idioma guugu yalandji
   - translation_iso: zho

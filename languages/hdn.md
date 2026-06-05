@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 北部ハイダ語
+  - translation_iso: por
+    name: Haida do Norte
+    auto: true
   - translation_iso: spa
     name: Haida septentrional
     auto: true

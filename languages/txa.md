@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ロブ語
     auto: true
+  - translation_iso: por
+    name: Tombonuo
+    auto: true
   - translation_iso: spa
     name: Tombonuo
     auto: true

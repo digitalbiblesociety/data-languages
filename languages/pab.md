@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パレシ語
+  - translation_iso: por
+    name: Língua pareci
   - translation_iso: spa
     name: paresí
   - translation_iso: zho

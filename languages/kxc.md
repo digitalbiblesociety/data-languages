@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コンソ語
     auto: true
+  - translation_iso: por
+    name: Konso
+    auto: true
   - translation_iso: spa
     name: Konso
     auto: true

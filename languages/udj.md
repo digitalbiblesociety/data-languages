@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ウジル語
     auto: true
+  - translation_iso: por
+    name: Ujir
+    auto: true
   - translation_iso: spa
     name: ujir
   - translation_iso: zho

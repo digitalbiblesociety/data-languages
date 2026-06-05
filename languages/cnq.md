@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: チュング語
     auto: true
+  - translation_iso: por
+    name: Chung
+    auto: true
   - translation_iso: spa
     name: Chung
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キバラ語
     auto: true
+  - translation_iso: por
+    name: Kibala
+    auto: true
   - translation_iso: spa
     name: Idioma bolo
   - translation_iso: zho

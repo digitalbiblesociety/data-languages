@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マノンバイ語
     auto: true
+  - translation_iso: por
+    name: Manombai
+    auto: true
   - translation_iso: spa
     name: Manombai
     auto: true

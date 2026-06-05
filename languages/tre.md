@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 東タランガン語
     auto: true
+  - translation_iso: por
+    name: Tarangan Oriental
+    auto: true
   - translation_iso: spa
     name: Tarangan oriental
     auto: true

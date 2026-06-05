@@ -26,6 +26,9 @@ translations:
     name: コル語
   - translation_iso: kor
     name: 콜어
+  - translation_iso: por
+    name: Kol (Papua-Nova Guiné)
+    auto: true
   - translation_iso: spa
     name: Idioma kol
   - translation_iso: zho

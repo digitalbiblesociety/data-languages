@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南パスタサキチュア語
     auto: true
+  - translation_iso: por
+    name: Quíchua de Pastaza Meridional
+    auto: true
   - translation_iso: spa
     name: Quechua del Pastaza meridional
     auto: true

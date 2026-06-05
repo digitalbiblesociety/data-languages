@@ -28,6 +28,8 @@ translations:
     name: マラヤーラム語
   - translation_iso: kor
     name: 말라얄람어
+  - translation_iso: por
+    name: língua malaiala
   - translation_iso: spa
     name: malabar
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ジーム語
     auto: true
+  - translation_iso: por
+    name: zeem
+    auto: true
   - translation_iso: spa
     name: Zeem
     auto: true

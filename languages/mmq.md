@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムサク語
     auto: true
+  - translation_iso: por
+    name: Musak
+    auto: true
   - translation_iso: spa
     name: Musak
     auto: true

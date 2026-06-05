@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ズィフェ・チン語
     auto: true
+  - translation_iso: por
+    name: chin zyphe
+    auto: true
   - translation_iso: spa
     name: zyphe
   - translation_iso: zho

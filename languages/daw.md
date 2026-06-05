@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ダバウェニョ語
     auto: true
+  - translation_iso: por
+    name: dabaense
   - translation_iso: spa
     name: davaeño
   - translation_iso: zho

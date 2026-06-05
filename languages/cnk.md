@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クミ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Khumi
+    auto: true
   - translation_iso: spa
     name: idioma khumi
   - translation_iso: zho

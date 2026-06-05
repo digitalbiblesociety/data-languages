@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ワノヘ語
     auto: true
+  - translation_iso: por
+    name: Língua sakao
   - translation_iso: spa
     name: Sakao
     auto: true

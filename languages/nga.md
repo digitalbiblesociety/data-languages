@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ングバカ・バヤ語
+  - translation_iso: por
+    name: Ngbaka
+    auto: true
   - translation_iso: spa
     name: Ngbaka
     auto: true

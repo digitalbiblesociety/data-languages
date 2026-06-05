@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダベ語
     auto: true
+  - translation_iso: por
+    name: Dabe
+    auto: true
   - translation_iso: spa
     name: Dabe
     auto: true

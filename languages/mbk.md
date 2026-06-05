@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: マロル語
     auto: true
+  - translation_iso: por
+    name: Malol
+    auto: true
   - translation_iso: spa
     name: Malol
     auto: true

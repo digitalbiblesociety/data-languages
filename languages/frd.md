@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: フォルダタ語
+  - translation_iso: por
+    name: Fordata
   - translation_iso: spa
     name: Fordata
   - translation_iso: zho

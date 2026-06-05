@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グワ語
     auto: true
+  - translation_iso: por
+    name: Guwa
+    auto: true
   - translation_iso: spa
     name: Guwa
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ティベア語
     auto: true
+  - translation_iso: por
+    name: Tibea
+    auto: true
   - translation_iso: spa
     name: Tibea
     auto: true

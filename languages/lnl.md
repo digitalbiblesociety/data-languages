@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: サウス・セントラル・バンダ語
     auto: true
+  - translation_iso: por
+    name: Banda centro-meridional
+    auto: true
   - translation_iso: spa
     name: Banda centrosureño
     auto: true

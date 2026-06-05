@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: エル・フゲイラット語
     auto: true
+  - translation_iso: por
+    name: El Hugeirat
+    auto: true
   - translation_iso: spa
     name: El Hugeirat
     auto: true

@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ウェルガイア語
     auto: true
+  - translation_iso: por
+    name: Wergaia
+    auto: true
   - translation_iso: spa
     name: Wergaia
     auto: true

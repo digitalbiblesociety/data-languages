@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タキア語
     auto: true
+  - translation_iso: por
+    name: Takia
+    auto: true
   - translation_iso: spa
     name: Takia
     auto: true

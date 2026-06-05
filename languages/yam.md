@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤンバ語
     auto: true
+  - translation_iso: por
+    name: yamba
+    auto: true
   - translation_iso: spa
     name: Yamba
     auto: true

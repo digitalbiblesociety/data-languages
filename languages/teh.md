@@ -29,6 +29,8 @@ translations:
     name: テウェルチェ語
   - translation_iso: kor
     name: 떼우엘체어
+  - translation_iso: por
+    name: Língua tehuelche
   - translation_iso: spa
     name: Idioma tehuelche
   - translation_iso: zho

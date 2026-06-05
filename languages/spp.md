@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: スピリエセヌーフォ語
     auto: true
+  - translation_iso: por
+    name: Língua supyire
   - translation_iso: spa
     name: Supyire Senoufo
     auto: true

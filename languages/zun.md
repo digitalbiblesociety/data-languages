@@ -25,6 +25,8 @@ translations:
     name: ズニ語
   - translation_iso: kor
     name: 주니어
+  - translation_iso: por
+    name: Língua zuni
   - translation_iso: spa
     name: zuñi
   - translation_iso: zho

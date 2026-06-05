@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アツァワカ語
     auto: true
+  - translation_iso: por
+    name: Atsahuaca
+    auto: true
   - translation_iso: spa
     name: Atsahuaca
     auto: true

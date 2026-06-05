@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ワエマ語
     auto: true
+  - translation_iso: por
+    name: "Wa'ema"
+    auto: true
   - translation_iso: spa
     name: "Wa'ema"
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: チュパニ語
     auto: true
+  - translation_iso: por
+    name: Tjupany
+    auto: true
   - translation_iso: spa
     name: Tjupany
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンガンガム語
     auto: true
+  - translation_iso: por
+    name: Ngangam
+    auto: true
   - translation_iso: spa
     name: Ngangam
     auto: true

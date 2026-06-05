@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: トリ・アイクワカイ語
     auto: true
+  - translation_iso: por
+    name: Aikwakai
   - translation_iso: spa
     name: Aikwakai
   - translation_iso: zho

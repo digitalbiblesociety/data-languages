@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: コキール語
     auto: true
+  - translation_iso: por
+    name: Coquille
+    auto: true
   - translation_iso: spa
     name: Coquille
     auto: true

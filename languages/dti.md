@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アナティンガ・ドゴン語
     auto: true
+  - translation_iso: por
+    name: Dogon Ana Tinga
+    auto: true
   - translation_iso: spa
     name: Dogon Ana Tinga
     auto: true

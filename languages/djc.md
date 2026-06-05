@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ダル・ダジュ語
     auto: true
+  - translation_iso: por
+    name: Daju de Dar Daju
+    auto: true
   - translation_iso: spa
     name: Daju de Dar Daju
     auto: true

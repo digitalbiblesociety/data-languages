@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ケンデジェ語
     auto: true
+  - translation_iso: por
+    name: Kendeje
+    auto: true
   - translation_iso: spa
     name: Kendeje
     auto: true

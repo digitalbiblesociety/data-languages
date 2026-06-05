@@ -25,6 +25,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベネズエラ手話
+  - translation_iso: por
+    name: Língua de Sinais Venezuelana
   - translation_iso: spa
     name: lengua de señas venezolana
   - translation_iso: zho

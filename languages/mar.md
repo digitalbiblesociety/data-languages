@@ -28,6 +28,8 @@ translations:
     name: マラーティー語
   - translation_iso: kor
     name: 마라티어
+  - translation_iso: por
+    name: marata
   - translation_iso: spa
     name: maratí
   - translation_iso: zho

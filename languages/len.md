@@ -25,6 +25,8 @@ translations:
     name: レンカ語
   - translation_iso: kor
     name: 렝카어족
+  - translation_iso: por
+    name: Língua lenca
   - translation_iso: spa
     name: Lenguas lencas
   - translation_iso: zho

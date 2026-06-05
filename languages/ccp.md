@@ -28,6 +28,8 @@ translations:
     name: チャクマ語
   - translation_iso: kor
     name: 차크마어
+  - translation_iso: por
+    name: língua chakma
   - translation_iso: spa
     name: chakma
   - translation_iso: zho

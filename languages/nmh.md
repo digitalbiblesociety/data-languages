@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: モンサン語
     auto: true
+  - translation_iso: por
+    name: Naga Monsang
+    auto: true
   - translation_iso: spa
     name: Naga Monsang
     auto: true

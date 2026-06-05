@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: 南ナゴ語
     auto: true
+  - translation_iso: por
+    name: Nago Setentrional
+    auto: true
   - translation_iso: spa
     name: Nago del Sur
     auto: true

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: イタウィット語
     auto: true
+  - translation_iso: por
+    name: Língua itawis
   - translation_iso: spa
     name: Itawit
     auto: true

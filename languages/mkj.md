@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モキル語
+  - translation_iso: por
+    name: Língua mokilesa
   - translation_iso: spa
     name: Mokilés
     auto: true

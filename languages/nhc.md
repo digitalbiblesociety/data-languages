@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タバスコ・ナワトル語
     auto: true
+  - translation_iso: por
+    name: Nahuatl de Tabasco
+    auto: true
   - translation_iso: spa
     name: náhuatl tabasqueño
   - translation_iso: zho

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヌックサック語
+  - translation_iso: por
+    name: Nooksack
+    auto: true
   - translation_iso: spa
     name: Nooksack
   - translation_iso: zho

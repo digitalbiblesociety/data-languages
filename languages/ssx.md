@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: サウ語
     auto: true
+  - translation_iso: por
+    name: Samberigi
+    auto: true
   - translation_iso: spa
     name: Samberigi
     auto: true

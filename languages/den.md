@@ -22,6 +22,8 @@ translations:
     name: スレイビー語
   - translation_iso: kor
     name: 슬라브어
+  - translation_iso: por
+    name: Língua dos escravos
   - translation_iso: spa
     name: slave
   - translation_iso: zho

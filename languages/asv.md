@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: アソア語
     auto: true
+  - translation_iso: por
+    name: Língua asoa
   - translation_iso: spa
     name: Asoa
     auto: true

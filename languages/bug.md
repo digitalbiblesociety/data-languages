@@ -28,6 +28,8 @@ translations:
     name: ブギス語
   - translation_iso: kor
     name: 부기어
+  - translation_iso: por
+    name: buginês
   - translation_iso: spa
     name: idioma buguinés
   - translation_iso: zho

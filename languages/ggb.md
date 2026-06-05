@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ギビ語
     auto: true
+  - translation_iso: por
+    name: Gbii
+    auto: true
   - translation_iso: spa
     name: Gbii
     auto: true

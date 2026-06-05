@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: キャク語
     auto: true
+  - translation_iso: por
+    name: Língua kyak
   - translation_iso: spa
     name: Kyak
     auto: true

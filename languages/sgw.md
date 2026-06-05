@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: セントラル・ウェスト・グラゲ語
     auto: true
+  - translation_iso: por
+    name: Sebat Bet Gurage
+    auto: true
   - translation_iso: spa
     name: Gurage Sebat Bet
     auto: true

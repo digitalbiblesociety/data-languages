@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラノ語
     auto: true
+  - translation_iso: por
+    name: Lanoh
+    auto: true
   - translation_iso: spa
     name: Lanoh
     auto: true

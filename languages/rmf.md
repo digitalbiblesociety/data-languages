@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カロ・フィンランドロマ語
+  - translation_iso: por
+    name: Língua kalo finlandesa
   - translation_iso: spa
     name: Romaní finlandés kalo
     auto: true

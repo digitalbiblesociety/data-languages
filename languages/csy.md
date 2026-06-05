@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: シイン・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Siyin
+    auto: true
   - translation_iso: spa
     name: Chin Siyin
     auto: true

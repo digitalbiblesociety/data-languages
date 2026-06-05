@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バルアン・パム語
     auto: true
+  - translation_iso: por
+    name: Baluan-Pam
+    auto: true
   - translation_iso: spa
     name: Baluan-Pam
     auto: true

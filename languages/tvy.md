@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ティモール・ピジン語
     auto: true
+  - translation_iso: por
+    name: Crioulo Português de Bidau
   - translation_iso: spa
     name: portugués criollo de Bidau
   - translation_iso: zho

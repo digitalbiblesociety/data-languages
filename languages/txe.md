@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ゲージ語
     auto: true
+  - translation_iso: por
+    name: Totoli
+    auto: true
   - translation_iso: spa
     name: Totoli
     auto: true

@@ -27,6 +27,8 @@ translations:
     name: サアミア語
   - translation_iso: kor
     name: 사미아어
+  - translation_iso: por
+    name: saamia
   - translation_iso: spa
     name: samia
   - translation_iso: zho

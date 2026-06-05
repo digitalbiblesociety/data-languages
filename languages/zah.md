@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ザングワル語
     auto: true
+  - translation_iso: por
+    name: zangwal
+    auto: true
   - translation_iso: spa
     name: Zangwal
     auto: true

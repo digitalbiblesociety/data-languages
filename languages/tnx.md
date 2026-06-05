@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タネマ語
+  - translation_iso: por
+    name: Língua tanema
   - translation_iso: spa
     name: Tanema
     auto: true

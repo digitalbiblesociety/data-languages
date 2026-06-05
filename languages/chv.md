@@ -28,6 +28,8 @@ translations:
     name: チュヴァシ語
   - translation_iso: kor
     name: 추바시어
+  - translation_iso: por
+    name: tchuvache
   - translation_iso: spa
     name: chuvasio
   - translation_iso: zho

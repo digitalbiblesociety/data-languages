@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: 古マレー語
     auto: true
+  - translation_iso: por
+    name: Antigo malaio
   - translation_iso: spa
     name: Malayo antiguo
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コヨテペック・ポポロカ語
     auto: true
+  - translation_iso: por
+    name: Popoloca de Coyotepec
+    auto: true
   - translation_iso: spa
     name: Popoloca de Coyotepec
     auto: true

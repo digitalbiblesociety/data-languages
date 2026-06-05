@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カゴマ語
     auto: true
+  - translation_iso: por
+    name: Kagoma
+    auto: true
   - translation_iso: spa
     name: Kagoma
     auto: true

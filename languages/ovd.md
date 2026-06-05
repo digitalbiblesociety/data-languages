@@ -20,6 +20,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エルヴダーレン語
+  - translation_iso: por
+    name: Älvdalsmål
   - translation_iso: spa
     name: idioma dalecarliano
   - translation_iso: zho

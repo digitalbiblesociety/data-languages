@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワルジ語
     auto: true
+  - translation_iso: por
+    name: Warji
+    auto: true
   - translation_iso: spa
     name: Warji
     auto: true

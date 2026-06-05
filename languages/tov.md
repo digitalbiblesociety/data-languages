@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 上部タロミ語
     auto: true
+  - translation_iso: por
+    name: Taromi do Alto
+    auto: true
   - translation_iso: spa
     name: Taromi Superior
     auto: true

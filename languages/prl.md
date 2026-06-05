@@ -26,6 +26,8 @@ translations:
     name: पेरू सांकेतिक भाषा
   - translation_iso: jpn
     name: ペルー手話
+  - translation_iso: por
+    name: língua de sinais peruana
   - translation_iso: spa
     name: lengua de señas peruana
   - translation_iso: zho

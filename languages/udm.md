@@ -28,6 +28,8 @@ translations:
     name: ウドムルト語
   - translation_iso: kor
     name: 우드무르트어
+  - translation_iso: por
+    name: Língua udmurte
   - translation_iso: spa
     name: udmurto
   - translation_iso: zho

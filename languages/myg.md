@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: マンタ語
     auto: true
+  - translation_iso: por
+    name: Manta
+    auto: true
   - translation_iso: spa
     name: manta
   - translation_iso: zho

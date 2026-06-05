@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イカランガル語
     auto: true
+  - translation_iso: por
+    name: Ikaranggal
+    auto: true
   - translation_iso: spa
     name: Idioma ikarranggali
   - translation_iso: zho

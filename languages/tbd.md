@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カキ・アエ語
+  - translation_iso: por
+    name: Kaki Ae
+    auto: true
   - translation_iso: spa
     name: Kaki Ae
     auto: true

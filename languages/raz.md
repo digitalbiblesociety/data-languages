@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ラハンブー語
     auto: true
+  - translation_iso: por
+    name: Rahambuu
+    auto: true
   - translation_iso: spa
     name: Rahambuu
     auto: true

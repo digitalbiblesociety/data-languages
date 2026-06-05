@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ゼナグ語
     auto: true
+  - translation_iso: por
+    name: zenag
+    auto: true
   - translation_iso: spa
     name: Zenag
     auto: true

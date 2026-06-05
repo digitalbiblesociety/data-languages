@@ -28,6 +28,8 @@ translations:
     name: カウィ語
   - translation_iso: kor
     name: 카위어
+  - translation_iso: por
+    name: Língua kawi
   - translation_iso: spa
     name: kawi
   - translation_iso: zho

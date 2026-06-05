@@ -30,6 +30,8 @@ translations:
     name: ボラ語
   - translation_iso: kor
     name: 보라어
+  - translation_iso: por
+    name: Língua bora
   - translation_iso: spa
     name: bora
   - translation_iso: zho

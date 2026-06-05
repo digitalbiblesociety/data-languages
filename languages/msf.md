@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: メクウェイ語
     auto: true
+  - translation_iso: por
+    name: Mekwei
+    auto: true
   - translation_iso: spa
     name: Mekwei
     auto: true

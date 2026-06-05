@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ハラリ語
+  - translation_iso: por
+    name: Língua harari
   - translation_iso: spa
     name: Idioma harari
   - translation_iso: zho

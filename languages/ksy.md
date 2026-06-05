@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カリア・タール語
     auto: true
+  - translation_iso: por
+    name: Kharia Thar
+    auto: true
   - translation_iso: spa
     name: Kharia Thar
     auto: true

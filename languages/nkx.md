@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンコロ語
     auto: true
+  - translation_iso: por
+    name: Nkoroo
+    auto: true
   - translation_iso: spa
     name: Nkoroo
     auto: true

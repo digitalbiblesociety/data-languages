@@ -28,6 +28,8 @@ translations:
     name: アルメニア語
   - translation_iso: kor
     name: 아르메니아어
+  - translation_iso: por
+    name: língua arménia
   - translation_iso: spa
     name: armenio
   - translation_iso: zho

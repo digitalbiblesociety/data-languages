@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クバレ語
     auto: true
+  - translation_iso: por
+    name: Kuvale
+    auto: true
   - translation_iso: spa
     name: Idioma kuvale
   - translation_iso: zho

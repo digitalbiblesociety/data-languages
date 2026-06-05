@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ドゥスン・ウィトゥ語
     auto: true
+  - translation_iso: por
+    name: Dusun Witu
+    auto: true
   - translation_iso: spa
     name: Dusun Witu
     auto: true

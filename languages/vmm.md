@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ミトラトンゴ・ミシテク語
     auto: true
+  - translation_iso: por
+    name: Mixteco de Mitlatongo
+    auto: true
   - translation_iso: spa
     name: Mixteco de Mitlatongo
     auto: true

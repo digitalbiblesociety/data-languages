@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ブナプ語
     auto: true
+  - translation_iso: por
+    name: Vunapu
+    auto: true
   - translation_iso: spa
     name: Vunapu
     auto: true

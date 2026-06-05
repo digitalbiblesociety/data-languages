@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ミナニバイ語
     auto: true
+  - translation_iso: por
+    name: Minanibai
+    auto: true
   - translation_iso: spa
     name: Minanibai
     auto: true

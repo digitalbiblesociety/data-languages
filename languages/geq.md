@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゲメ語
     auto: true
+  - translation_iso: por
+    name: Geme
+    auto: true
   - translation_iso: spa
     name: Geme
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ソッフォ語
     auto: true
+  - translation_iso: por
+    name: thopho
+    auto: true
   - translation_iso: spa
     name: Thopho
     auto: true

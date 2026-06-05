@@ -28,6 +28,8 @@ translations:
     name: ジョージア語
   - translation_iso: kor
     name: 조지아어
+  - translation_iso: por
+    name: língua georgiana
   - translation_iso: spa
     name: georgiano
   - translation_iso: zho

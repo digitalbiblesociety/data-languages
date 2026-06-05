@@ -28,6 +28,9 @@ translations:
     name: भटियाली
   - translation_iso: jpn
     name: バッティヤリ語
+  - translation_iso: por
+    name: Bhattiyali
+    auto: true
   - translation_iso: spa
     name: Bhattiyali
     auto: true

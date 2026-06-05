@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アパラチー語
     auto: true
+  - translation_iso: por
+    name: Apalachee
+    auto: true
   - translation_iso: spa
     name: idioma apalache
   - translation_iso: zho

@@ -25,6 +25,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アビノムン語
+  - translation_iso: por
+    name: Abinomn
+    auto: true
   - translation_iso: spa
     name: Idioma abinomn
   - translation_iso: zho

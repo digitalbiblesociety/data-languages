@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バルデム語
     auto: true
+  - translation_iso: por
+    name: Baldemu
+    auto: true
   - translation_iso: spa
     name: Baldemu
     auto: true

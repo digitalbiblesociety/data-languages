@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: グワムヒ・ウリ語
     auto: true
+  - translation_iso: por
+    name: Gwamhi-Wuri
+    auto: true
   - translation_iso: spa
     name: Gwamhi-Wuri
     auto: true

@@ -28,6 +28,8 @@ translations:
     name: エフィク語
   - translation_iso: kor
     name: 에피크어
+  - translation_iso: por
+    name: Língua efik
   - translation_iso: spa
     name: Idioma efik
   - translation_iso: zho

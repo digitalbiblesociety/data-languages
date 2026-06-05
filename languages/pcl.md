@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: パルディ語
     auto: true
+  - translation_iso: por
+    name: Pardhi
+    auto: true
   - translation_iso: spa
     name: Pardhi
     auto: true

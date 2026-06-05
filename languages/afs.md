@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アフロ・セミノール語
+  - translation_iso: por
+    name: Crioulo afro-seminole
   - translation_iso: spa
     name: criollo afroseminola
   - translation_iso: zho

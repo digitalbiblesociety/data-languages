@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アヴァ・カノエイロ語
     auto: true
+  - translation_iso: por
+    name: Língua avá-canoeira
   - translation_iso: spa
     name: Avá-Canoeiro
     auto: true

@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: タクア語
     auto: true
+  - translation_iso: por
+    name: Takua
+    auto: true
   - translation_iso: spa
     name: Takua
     auto: true

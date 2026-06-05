@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゼレンケル語
     auto: true
+  - translation_iso: por
+    name: Zerenkel
+    auto: true
   - translation_iso: spa
     name: Zerenkel
     auto: true

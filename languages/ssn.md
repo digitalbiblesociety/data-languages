@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワアタ語
+  - translation_iso: por
+    name: Waata
+    auto: true
   - translation_iso: spa
     name: Waata
     auto: true

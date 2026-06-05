@@ -28,6 +28,8 @@ translations:
     name: ヒリモツ語
   - translation_iso: kor
     name: 히리 모투어
+  - translation_iso: por
+    name: Língua hiri motu
   - translation_iso: spa
     name: Hiri motu
   - translation_iso: zho

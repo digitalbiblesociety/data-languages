@@ -25,6 +25,8 @@ translations:
     name: ワショ語
   - translation_iso: kor
     name: 와쇼어
+  - translation_iso: por
+    name: Língua washo
   - translation_iso: spa
     name: washo
   - translation_iso: zho

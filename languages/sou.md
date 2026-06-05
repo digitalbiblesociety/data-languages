@@ -30,6 +30,9 @@ translations:
     name: 南タイ語
   - translation_iso: kor
     name: 남부 태국어
+  - translation_iso: por
+    name: Tailandês Meridional
+    auto: true
   - translation_iso: spa
     name: Tailandés meridional
     auto: true

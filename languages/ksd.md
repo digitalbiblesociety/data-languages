@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: クアヌア語
+  - translation_iso: por
+    name: Língua tolai
   - translation_iso: spa
     name: Kuanua
   - translation_iso: zho

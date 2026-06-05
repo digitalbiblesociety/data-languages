@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ガヴァル語
     auto: true
+  - translation_iso: por
+    name: Língua gavar
   - translation_iso: spa
     name: Gavar
     auto: true

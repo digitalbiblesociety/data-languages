@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: アヌフコンソ・チン語
     auto: true
+  - translation_iso: por
+    name: Chin Anu-Hkongso
+    auto: true
   - translation_iso: spa
     name: Anu-Hkongso Chin
     auto: true

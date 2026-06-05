@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウト・マイン語
     auto: true
+  - translation_iso: por
+    name: "ut-Ma'in"
+    auto: true
   - translation_iso: spa
     name: "ut-Ma'in"
     auto: true

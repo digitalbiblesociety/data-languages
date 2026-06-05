@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キリヴィラ語
+  - translation_iso: por
+    name: Kilivila
+    auto: true
   - translation_iso: spa
     name: Kilivila
     auto: true

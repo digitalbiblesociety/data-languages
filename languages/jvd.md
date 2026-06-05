@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ジャビンド語
     auto: true
+  - translation_iso: por
+    name: Javindo
+    auto: true
   - translation_iso: spa
     name: Criollo Javindo
   - translation_iso: zho

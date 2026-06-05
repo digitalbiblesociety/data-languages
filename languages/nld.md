@@ -28,6 +28,8 @@ translations:
     name: オランダ語
   - translation_iso: kor
     name: 네덜란드어
+  - translation_iso: por
+    name: neerlandês
   - translation_iso: spa
     name: neerlandés
   - translation_iso: zho

@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: フォイア・フォイア語
     auto: true
+  - translation_iso: por
+    name: Foia Foia
+    auto: true
   - translation_iso: spa
     name: Foia Foia
     auto: true

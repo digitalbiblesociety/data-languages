@@ -28,6 +28,8 @@ translations:
     name: 教会スラヴ語
   - translation_iso: kor
     name: 교회 슬라브어
+  - translation_iso: por
+    name: língua eslava eclesiástica
   - translation_iso: spa
     name: eslavo eclesiástico
   - translation_iso: zho

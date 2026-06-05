@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アロフォラ語
     auto: true
+  - translation_iso: por
+    name: phola alo
+    auto: true
   - translation_iso: spa
     name: Alo Phola
     auto: true

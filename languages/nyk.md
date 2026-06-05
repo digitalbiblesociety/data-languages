@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ニャネカ語
+  - translation_iso: por
+    name: Nyaneka
+    auto: true
   - translation_iso: spa
     name: Idioma nyaneka
   - translation_iso: zho

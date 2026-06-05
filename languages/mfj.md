@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: メフェレ語
     auto: true
+  - translation_iso: por
+    name: Mefele
+    auto: true
   - translation_iso: spa
     name: Mefele
     auto: true

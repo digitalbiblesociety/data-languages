@@ -30,6 +30,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 아카제루 방언
+  - translation_iso: por
+    name: Língua aka-jeru
   - translation_iso: spa
     name: Idioma jeru
   - translation_iso: zho

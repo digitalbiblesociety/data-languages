@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: カカ語
     auto: true
+  - translation_iso: por
+    name: Caka
+    auto: true
   - translation_iso: spa
     name: Caka
     auto: true

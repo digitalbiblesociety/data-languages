@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ティルライ語
     auto: true
+  - translation_iso: por
+    name: Língua tiruray
   - translation_iso: spa
     name: Tiruray
     auto: true

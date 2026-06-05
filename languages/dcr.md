@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ネーデルランド・クレオール語
     auto: true
+  - translation_iso: por
+    name: Negerhollands
+    auto: true
   - translation_iso: spa
     name: Criollo negerhollands
   - translation_iso: zho

@@ -21,6 +21,8 @@ translations:
     name: アングロ＝ノルマン語
   - translation_iso: kor
     name: 앵글로노르만어
+  - translation_iso: por
+    name: anglo-normando
   - translation_iso: spa
     name: anglo-normando
   - translation_iso: zho

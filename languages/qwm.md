@@ -21,6 +21,8 @@ translations:
     name: クマン語 (テュルク諸語)
   - translation_iso: kor
     name: 쿠만어
+  - translation_iso: por
+    name: cumano
   - translation_iso: spa
     name: cumano
   - translation_iso: zho

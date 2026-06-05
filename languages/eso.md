@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: エストニア手話
+  - translation_iso: por
+    name: Língua de sinais estoniana
   - translation_iso: spa
     name: Lengua de señas estonia
     auto: true

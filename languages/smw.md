@@ -26,6 +26,8 @@ translations:
     name: सुम्बावा भाषा
   - translation_iso: jpn
     name: スンバワ語
+  - translation_iso: por
+    name: Língua sumbawa
   - translation_iso: spa
     name: Sumbawa
     auto: true

@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: アダマワ・フルフルディ語
+  - translation_iso: por
+    name: Língua adamaua fulfulde
   - translation_iso: spa
     name: Fulfulde de Adamawa
     auto: true

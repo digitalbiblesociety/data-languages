@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: レウォトビ語
+  - translation_iso: por
+    name: Lewotobi
+    auto: true
   - translation_iso: spa
     name: Lewotobi
     auto: true

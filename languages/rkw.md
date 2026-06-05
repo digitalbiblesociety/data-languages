@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: アラクワル語
     auto: true
+  - translation_iso: por
+    name: Arakwal
+    auto: true
   - translation_iso: spa
     name: Arakwal
     auto: true

@@ -26,6 +26,8 @@ translations:
     name: हवाई सांकेतिक भाषा
   - translation_iso: jpn
     name: ハワイ・ピジン手話
+  - translation_iso: por
+    name: Língua de Sinais Havaiana
   - translation_iso: spa
     name: lenguaje de señas hawaiano
   - translation_iso: zho

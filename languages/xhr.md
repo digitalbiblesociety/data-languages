@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: ヘルニカン語
     auto: true
+  - translation_iso: por
+    name: Hérnico
+    auto: true
   - translation_iso: spa
     name: érnico
   - translation_iso: zho

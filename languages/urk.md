@@ -19,7 +19,7 @@ translations:
     name: أوراك لاووي
     auto: true
   - translation_iso: deu
-    name: "Urak Lawoi'"
+    name: Urak Lawoi
     auto: true
   - translation_iso: fra
     name: urak lawoi’
@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 우락라워이어
+  - translation_iso: por
+    name: "Urak Lawoi'"
+    auto: true
   - translation_iso: spa
     name: Urak Lawoi
     auto: true

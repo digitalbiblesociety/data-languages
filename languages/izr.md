@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: イゼレ語
     auto: true
+  - translation_iso: por
+    name: Izere
+    auto: true
   - translation_iso: spa
     name: Izere
     auto: true

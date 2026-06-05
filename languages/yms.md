@@ -21,6 +21,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ミュシア語
+  - translation_iso: por
+    name: mísio
+    auto: true
   - translation_iso: spa
     name: Idioma misio
   - translation_iso: zho

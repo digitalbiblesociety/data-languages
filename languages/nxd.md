@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ンガンド語
     auto: true
+  - translation_iso: por
+    name: Ngando (República Democrática do Congo)
+    auto: true
   - translation_iso: spa
     name: Ngando (República Democrática del Congo)
     auto: true

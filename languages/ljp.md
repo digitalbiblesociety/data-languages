@@ -29,6 +29,8 @@ translations:
     name: ランプン語
   - translation_iso: kor
     name: 람풍어
+  - translation_iso: por
+    name: Língua lampung
   - translation_iso: spa
     name: lampung
   - translation_iso: zho

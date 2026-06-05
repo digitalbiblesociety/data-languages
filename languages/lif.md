@@ -29,6 +29,8 @@ translations:
     name: リンブー語
   - translation_iso: kor
     name: 림부어
+  - translation_iso: por
+    name: Língua limbu
   - translation_iso: spa
     name: limbu
   - translation_iso: zho

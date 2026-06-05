@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ボ・ウン語
     auto: true
+  - translation_iso: por
+    name: Bo-Ung
+    auto: true
   - translation_iso: spa
     name: Bo-Ung
     auto: true

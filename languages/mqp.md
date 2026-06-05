@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マニパ語
     auto: true
+  - translation_iso: por
+    name: Manipa
+    auto: true
   - translation_iso: spa
     name: Manipa
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バラアム語
     auto: true
+  - translation_iso: por
+    name: Baraamu
+    auto: true
   - translation_iso: spa
     name: Baraamu
     auto: true

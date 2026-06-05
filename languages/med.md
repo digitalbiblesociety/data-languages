@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メルパ語
+  - translation_iso: por
+    name: Língua melpa
   - translation_iso: spa
     name: Melpa
     auto: true

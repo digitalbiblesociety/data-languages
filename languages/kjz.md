@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブムタン語
+  - translation_iso: por
+    name: Língua bumthang
   - translation_iso: spa
     name: Bumthangkha
     auto: true

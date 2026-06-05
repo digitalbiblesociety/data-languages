@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ビンジ語
     auto: true
+  - translation_iso: por
+    name: Binji
+    auto: true
   - translation_iso: spa
     name: Binji
     auto: true

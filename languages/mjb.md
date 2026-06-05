@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マカレロ方言
+  - translation_iso: por
+    name: Língua makalera
   - translation_iso: spa
     name: macalero
   - translation_iso: zho

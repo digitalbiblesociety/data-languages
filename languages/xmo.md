@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: モレレビ語
     auto: true
+  - translation_iso: por
+    name: Morerebi
+    auto: true
   - translation_iso: spa
     name: Morerebi
     auto: true

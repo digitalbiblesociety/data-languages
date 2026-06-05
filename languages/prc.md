@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: パラチ語
     auto: true
+  - translation_iso: por
+    name: Parachi
+    auto: true
   - translation_iso: spa
     name: Parachi
     auto: true

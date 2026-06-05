@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セミミ語
     auto: true
+  - translation_iso: por
+    name: Semimi
+    auto: true
   - translation_iso: spa
     name: Semimi
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: オドゥ語
     auto: true
+  - translation_iso: por
+    name: "O'du"
+    auto: true
   - translation_iso: spa
     name: "Idioma o'du"
   - translation_iso: zho

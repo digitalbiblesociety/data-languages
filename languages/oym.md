@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワヤンピ語
+  - translation_iso: por
+    name: Língua oiampi
   - translation_iso: spa
     name: Wayampi
   - translation_iso: zho

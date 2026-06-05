@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: シウ語
     auto: true
+  - translation_iso: por
+    name: Língua siwu
   - translation_iso: spa
     name: siwu
   - translation_iso: zho

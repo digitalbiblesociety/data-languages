@@ -29,6 +29,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: シリアナ語 (アラワク)
+  - translation_iso: por
+    name: Língua shiriana
   - translation_iso: spa
     name: Xiriâna
     auto: true

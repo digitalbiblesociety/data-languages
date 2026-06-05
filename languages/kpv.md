@@ -29,6 +29,9 @@ translations:
     name: コミ・ジリエーン語
   - translation_iso: kor
     name: 코미지리안어
+  - translation_iso: por
+    name: komi-zyriano
+    auto: true
   - translation_iso: spa
     name: Komi-Zyrian
     auto: true

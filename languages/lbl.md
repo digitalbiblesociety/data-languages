@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リボン・ビコール語
+  - translation_iso: por
+    name: Bikol de Libon
+    auto: true
   - translation_iso: spa
     name: Bikol de Libon
     auto: true

@@ -30,6 +30,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 오논다가어
+  - translation_iso: por
+    name: Língua onondaga
   - translation_iso: spa
     name: Onondaga
   - translation_iso: zho

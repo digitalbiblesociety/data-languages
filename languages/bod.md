@@ -28,6 +28,8 @@ translations:
     name: チベット語
   - translation_iso: kor
     name: 티베트어
+  - translation_iso: por
+    name: Língua tibetana
   - translation_iso: spa
     name: idioma tibetano
   - translation_iso: zho

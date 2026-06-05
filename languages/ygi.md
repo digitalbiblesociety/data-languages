@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: イニンガイ語
     auto: true
+  - translation_iso: por
+    name: yiningayi
+    auto: true
   - translation_iso: spa
     name: Yiningayi
     auto: true

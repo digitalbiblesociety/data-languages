@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: コネラウ語
     auto: true
+  - translation_iso: por
+    name: Koneraw
+    auto: true
   - translation_iso: spa
     name: Koneraw
     auto: true

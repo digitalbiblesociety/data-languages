@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ルマヤ語
     auto: true
+  - translation_iso: por
+    name: Mala (Nigéria)
+    auto: true
   - translation_iso: spa
     name: Mala (Nigeria)
     auto: true

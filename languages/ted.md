@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: テポ・クルーメン語
     auto: true
+  - translation_iso: por
+    name: Krumen Tepo
+    auto: true
   - translation_iso: spa
     name: Krumen Tepo
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワレンボリ語
     auto: true
+  - translation_iso: por
+    name: Warembori
+    auto: true
   - translation_iso: spa
     name: Warembori
     auto: true

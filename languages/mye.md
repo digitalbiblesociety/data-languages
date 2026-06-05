@@ -29,6 +29,8 @@ translations:
     name: ミエネ語
   - translation_iso: kor
     name: 미예네어
+  - translation_iso: por
+    name: myene
   - translation_iso: spa
     name: Idioma myene
   - translation_iso: zho

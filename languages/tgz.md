@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: タガラカ語
     auto: true
+  - translation_iso: por
+    name: Tagalaka
+    auto: true
   - translation_iso: spa
     name: Idioma takalak
   - translation_iso: zho

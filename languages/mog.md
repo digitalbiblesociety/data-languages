@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モンゴンドウ語
+  - translation_iso: por
+    name: Língua mongondow
   - translation_iso: spa
     name: Mongondow
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 南ムユ語
     auto: true
+  - translation_iso: por
+    name: Muyu meridional
+    auto: true
   - translation_iso: spa
     name: Muyu Meridional
     auto: true

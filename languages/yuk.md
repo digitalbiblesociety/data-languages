@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユキ語
+  - translation_iso: por
+    name: yuki
+    auto: true
   - translation_iso: spa
     name: Idioma yuki
   - translation_iso: zho

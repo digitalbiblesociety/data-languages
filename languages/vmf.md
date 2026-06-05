@@ -30,6 +30,9 @@ translations:
     name: マインフランク語
   - translation_iso: kor
     name: 마인프랑크어
+  - translation_iso: por
+    name: Francônio Oriental
+    auto: true
   - translation_iso: spa
     name: Fráncico del Meno
   - translation_iso: zho

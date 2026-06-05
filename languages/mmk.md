@@ -30,6 +30,8 @@ translations:
   - translation_iso: jpn
     name: ムカ・ドラ語
     auto: true
+  - translation_iso: por
+    name: Língua mukha dora
   - translation_iso: spa
     name: Mukha-Dora
     auto: true

@@ -26,6 +26,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ジュバ・アラビア語
+  - translation_iso: por
+    name: Árabe de Juba
   - translation_iso: spa
     name: Árabe Yuba
   - translation_iso: zho

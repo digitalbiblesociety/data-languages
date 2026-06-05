@@ -29,6 +29,8 @@ translations:
     name: アラビア語アルジェリア方言
   - translation_iso: kor
     name: 알제리 아랍어
+  - translation_iso: por
+    name: árabe argelino
   - translation_iso: spa
     name: árabe argelino
   - translation_iso: zho

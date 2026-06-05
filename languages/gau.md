@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ムディリ・ガダバ語
     auto: true
+  - translation_iso: por
+    name: gadaba de Mudhili
+    auto: true
   - translation_iso: spa
     name: Gadaba mudhili
     auto: true

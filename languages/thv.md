@@ -26,6 +26,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タハガルト・タマハック語
+  - translation_iso: por
+    name: Tamahaq de Tahaggart
+    auto: true
   - translation_iso: spa
     name: Idioma tamahaq
   - translation_iso: zho

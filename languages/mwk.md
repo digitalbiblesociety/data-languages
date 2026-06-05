@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: キタ・マリンカカン語
+  - translation_iso: por
+    name: maninkakan de Kita
+    auto: true
   - translation_iso: spa
     name: Maninkakan de Kita
     auto: true

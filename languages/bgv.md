@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ワルカイ・ビピム語
     auto: true
+  - translation_iso: por
+    name: Warkay-Bipim
+    auto: true
   - translation_iso: spa
     name: Warkay-Bipim
     auto: true

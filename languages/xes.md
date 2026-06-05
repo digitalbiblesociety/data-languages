@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ケサワイ語
     auto: true
+  - translation_iso: por
+    name: Kesawai
+    auto: true
   - translation_iso: spa
     name: Kesawai
     auto: true

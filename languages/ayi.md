@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: レイイーグハ語
     auto: true
+  - translation_iso: por
+    name: Leyigha
+    auto: true
   - translation_iso: spa
     name: Leyigha
     auto: true

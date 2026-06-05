@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: セゲット語
     auto: true
+  - translation_iso: por
+    name: Seget
+    auto: true
   - translation_iso: spa
     name: Seget
     auto: true

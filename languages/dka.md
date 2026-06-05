@@ -27,6 +27,9 @@ translations:
     name: दक्पा भाषा
   - translation_iso: jpn
     name: メンパ語
+  - translation_iso: por
+    name: Dakpakha
+    auto: true
   - translation_iso: spa
     name: dakpa
   - translation_iso: zho

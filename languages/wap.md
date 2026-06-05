@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワピシャナ語
+  - translation_iso: por
+    name: Língua wapixana
   - translation_iso: spa
     name: idioma wapishana
   - translation_iso: zho

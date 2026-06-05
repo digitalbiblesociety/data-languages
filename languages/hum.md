@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: フンガナ語
     auto: true
+  - translation_iso: por
+    name: Hungana
+    auto: true
   - translation_iso: spa
     name: Hungana
     auto: true

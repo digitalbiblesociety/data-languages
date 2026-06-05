@@ -22,6 +22,8 @@ translations:
     name: スキタイ語
   - translation_iso: kor
     name: 스키타이어
+  - translation_iso: por
+    name: Línguas citas
   - translation_iso: spa
     name: Lenguas escito-sármatas
   - translation_iso: zho

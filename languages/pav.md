@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワリ語
+  - translation_iso: por
+    name: Língua wariʼ
   - translation_iso: spa
     name: Pakaásnovos
     auto: true

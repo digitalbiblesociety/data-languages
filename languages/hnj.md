@@ -27,6 +27,9 @@ translations:
     name: हमोंग नजुआ
   - translation_iso: jpn
     name: 緑苗語
+  - translation_iso: por
+    name: Hmong Njua
+    auto: true
   - translation_iso: spa
     name: Hmong Njua
     auto: true

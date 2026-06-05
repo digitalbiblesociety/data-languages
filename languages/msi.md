@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: サバ・マレー語
+  - translation_iso: por
+    name: malaio de Sabah
+    auto: true
   - translation_iso: spa
     name: Malayo de Sabah
     auto: true

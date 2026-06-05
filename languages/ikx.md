@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イク語
+  - translation_iso: por
+    name: Língua ik
   - translation_iso: spa
     name: Idioma ik
   - translation_iso: zho

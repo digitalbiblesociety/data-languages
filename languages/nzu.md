@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: テケ・ンジコウ語
     auto: true
+  - translation_iso: por
+    name: Teke-Nzikou
+    auto: true
   - translation_iso: spa
     name: Teke-Nzikou
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤングマン語
     auto: true
+  - translation_iso: por
+    name: Yangman
+    auto: true
   - translation_iso: spa
     name: Yangman
     auto: true

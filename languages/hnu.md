@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ハング語
     auto: true
+  - translation_iso: por
+    name: Hung
+    auto: true
   - translation_iso: spa
     name: Hung
     auto: true

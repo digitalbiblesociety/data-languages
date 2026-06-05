@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: カヨン語
     auto: true
+  - translation_iso: por
+    name: Kayong
+    auto: true
   - translation_iso: spa
     name: Kayong
     auto: true

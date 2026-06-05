@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パルヤ・バレリ語
     auto: true
+  - translation_iso: por
+    name: Palya Bareli
+    auto: true
   - translation_iso: spa
     name: Bareli de Palya
     auto: true

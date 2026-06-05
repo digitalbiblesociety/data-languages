@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: エムバロー語
     auto: true
+  - translation_iso: por
+    name: Embaloh
+    auto: true
   - translation_iso: spa
     name: Embaloh
     auto: true

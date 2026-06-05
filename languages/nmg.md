@@ -28,6 +28,8 @@ translations:
     name: クワシオ語
   - translation_iso: kor
     name: 크와시오어
+  - translation_iso: por
+    name: kwasio
   - translation_iso: spa
     name: kwasio
   - translation_iso: zho

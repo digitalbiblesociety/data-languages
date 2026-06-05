@@ -28,6 +28,8 @@ translations:
     name: ソラニー
   - translation_iso: kor
     name: 중부 쿠르드어
+  - translation_iso: por
+    name: Língua sorâni
   - translation_iso: spa
     name: sorani
   - translation_iso: zho

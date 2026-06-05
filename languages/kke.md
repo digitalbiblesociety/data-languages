@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カカベ語
     auto: true
+  - translation_iso: por
+    name: Kakabe
+    auto: true
   - translation_iso: spa
     name: Kakabe
     auto: true

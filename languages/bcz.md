@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 바이누크구니아몰로어
+  - translation_iso: por
+    name: Bainouk-Gunyaamolo
+    auto: true
   - translation_iso: spa
     name: Bainouk-Gunyaamolo
     auto: true

@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ハルビ語
     auto: true
+  - translation_iso: por
+    name: Língua halbi
   - translation_iso: spa
     name: Halbi
   - translation_iso: zho

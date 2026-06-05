@@ -27,6 +27,8 @@ translations:
     name: ユチ語
   - translation_iso: kor
     name: 유치어
+  - translation_iso: por
+    name: Língua yuchi
   - translation_iso: spa
     name: yuchi
   - translation_iso: zho

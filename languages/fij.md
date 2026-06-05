@@ -28,6 +28,8 @@ translations:
     name: フィジー語
   - translation_iso: kor
     name: 피지어
+  - translation_iso: por
+    name: Língua fidjiana
   - translation_iso: spa
     name: fiyiano
   - translation_iso: zho

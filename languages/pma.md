@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: パアマ語
     auto: true
+  - translation_iso: por
+    name: Língua paama
   - translation_iso: spa
     name: Paama
     auto: true

@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: クワンジャ語
     auto: true
+  - translation_iso: por
+    name: Kwanja
+    auto: true
   - translation_iso: spa
     name: Kwanja
     auto: true

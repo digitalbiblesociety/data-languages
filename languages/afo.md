@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エロイ語
     auto: true
+  - translation_iso: por
+    name: Eloyi
+    auto: true
   - translation_iso: spa
     name: Eloyi
     auto: true

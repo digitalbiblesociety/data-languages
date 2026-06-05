@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レッド・ゲラオ語
     auto: true
+  - translation_iso: por
+    name: gelao vermelho
+    auto: true
   - translation_iso: spa
     name: Gelao rojo
     auto: true

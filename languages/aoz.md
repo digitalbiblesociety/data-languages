@@ -30,6 +30,8 @@ translations:
     name: ウアブ・メト語
   - translation_iso: kor
     name: 우압메토어
+  - translation_iso: por
+    name: Uab Meto
   - translation_iso: spa
     name: Uab Meto
   - translation_iso: zho

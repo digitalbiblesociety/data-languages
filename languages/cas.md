@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: モセテン・チマネ諸語
+  - translation_iso: por
+    name: Chimané
   - translation_iso: spa
     name: Lenguas mosetenas
   - translation_iso: zho

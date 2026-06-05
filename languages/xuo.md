@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: クオ語
     auto: true
+  - translation_iso: por
+    name: kuo
+    auto: true
   - translation_iso: spa
     name: Kuo
     auto: true

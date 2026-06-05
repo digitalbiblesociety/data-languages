@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メッサピア語
+  - translation_iso: por
+    name: Messápico
+    auto: true
   - translation_iso: spa
     name: Idioma mesapio
   - translation_iso: zho

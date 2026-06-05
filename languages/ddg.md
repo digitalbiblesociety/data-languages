@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ファタルク語
+  - translation_iso: por
+    name: Fataluco
   - translation_iso: spa
     name: Idioma fataluco
   - translation_iso: zho

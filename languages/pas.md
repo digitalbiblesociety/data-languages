@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: パパセナ語
     auto: true
+  - translation_iso: por
+    name: Papasena
+    auto: true
   - translation_iso: spa
     name: Papasena
     auto: true

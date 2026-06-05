@@ -28,6 +28,8 @@ translations:
     name: アブハズ語
   - translation_iso: kor
     name: 압하지야어
+  - translation_iso: por
+    name: Língua abecásia
   - translation_iso: spa
     name: abjasio
   - translation_iso: zho

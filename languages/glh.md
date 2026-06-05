@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ノースウエスト・パシャイ語
     auto: true
+  - translation_iso: por
+    name: pashai do noroeste
+    auto: true
   - translation_iso: spa
     name: Pashai noroccidental
     auto: true

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: キサル語
     auto: true
+  - translation_iso: por
+    name: Kisar
+    auto: true
   - translation_iso: spa
     name: Kisar
     auto: true

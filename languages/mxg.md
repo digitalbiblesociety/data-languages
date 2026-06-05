@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ムバンガラ語
     auto: true
+  - translation_iso: por
+    name: Mbangala
+    auto: true
   - translation_iso: spa
     name: Idioma mbangala
   - translation_iso: zho

@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: カバライ語
     auto: true
+  - translation_iso: por
+    name: Língua kabalai
   - translation_iso: spa
     name: Kabalai
     auto: true

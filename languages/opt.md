@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: オパタ語
     auto: true
+  - translation_iso: por
+    name: Opata
+    auto: true
   - translation_iso: spa
     name: ópata
   - translation_iso: zho

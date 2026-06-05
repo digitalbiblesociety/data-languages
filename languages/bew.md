@@ -28,6 +28,8 @@ translations:
     name: ベタウィ語
   - translation_iso: kor
     name: 베타위어
+  - translation_iso: por
+    name: Língua betawi
   - translation_iso: spa
     name: Betawi
   - translation_iso: zho

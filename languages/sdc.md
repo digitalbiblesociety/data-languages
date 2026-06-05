@@ -29,6 +29,9 @@ translations:
     name: サッサリ・サルデーニャ語
   - translation_iso: kor
     name: 사사리어
+  - translation_iso: por
+    name: Sardo Sassarês
+    auto: true
   - translation_iso: spa
     name: sasarés
   - translation_iso: zho

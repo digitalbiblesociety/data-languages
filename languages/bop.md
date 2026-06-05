@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボンキマン語
     auto: true
+  - translation_iso: por
+    name: Bonkiman
+    auto: true
   - translation_iso: spa
     name: Bonkiman
     auto: true

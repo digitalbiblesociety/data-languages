@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: アプタイ語
     auto: true
+  - translation_iso: por
+    name: Aputai
+    auto: true
   - translation_iso: spa
     name: Aputai
     auto: true

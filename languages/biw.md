@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: コル語
+  - translation_iso: por
+    name: Kol (Camarões)
+    auto: true
   - translation_iso: spa
     name: kol
   - translation_iso: zho

@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ナウナ語
     auto: true
+  - translation_iso: por
+    name: Nauna
+    auto: true
   - translation_iso: spa
     name: Nauna
     auto: true

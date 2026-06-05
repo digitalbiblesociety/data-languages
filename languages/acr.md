@@ -29,6 +29,8 @@ translations:
     name: アチ語
   - translation_iso: kor
     name: 아치어
+  - translation_iso: por
+    name: Língua achi
   - translation_iso: spa
     name: Idioma achí
   - translation_iso: zho

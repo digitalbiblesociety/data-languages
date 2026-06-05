@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ファガニ語
     auto: true
+  - translation_iso: por
+    name: Fagani
+    auto: true
   - translation_iso: spa
     name: Fagani
     auto: true

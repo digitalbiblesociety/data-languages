@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ザン・グラ語
     auto: true
+  - translation_iso: por
+    name: Zan Gula
+    auto: true
   - translation_iso: spa
     name: Zan Gula
     auto: true

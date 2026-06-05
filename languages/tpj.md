@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: タピエテ語
+  - translation_iso: por
+    name: Tapieté
   - translation_iso: spa
     name: Tapieté
   - translation_iso: zho

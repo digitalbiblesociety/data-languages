@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: アジャ語
     auto: true
+  - translation_iso: por
+    name: Língua aja
   - translation_iso: spa
     name: Aja
     auto: true

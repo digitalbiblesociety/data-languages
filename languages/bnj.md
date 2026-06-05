@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 東ボウユイド語
     auto: true
+  - translation_iso: por
+    name: Tawbuid oriental
+    auto: true
   - translation_iso: spa
     name: Tawbuid oriental
     auto: true

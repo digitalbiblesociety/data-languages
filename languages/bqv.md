@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: コロ・ワチ語
     auto: true
+  - translation_iso: por
+    name: Koro Wachi
+    auto: true
   - translation_iso: spa
     name: Koro Wachi
     auto: true

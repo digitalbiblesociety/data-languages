@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ウングミ語
     auto: true
+  - translation_iso: por
+    name: Unggumi
+    auto: true
   - translation_iso: spa
     name: Unggumi
     auto: true

@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ラヴロン語
+  - translation_iso: por
+    name: Guanyinqiao
+    auto: true
   - translation_iso: spa
     name: Guanyinqiao
     auto: true

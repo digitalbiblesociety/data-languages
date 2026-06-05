@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: メイナク語
+  - translation_iso: por
+    name: Língua mehinaku
   - translation_iso: spa
     name: mehináku
   - translation_iso: zho

@@ -27,6 +27,9 @@ translations:
     name: नेईकी भाषा
   - translation_iso: jpn
     name: ナイキー語
+  - translation_iso: por
+    name: Kolami do Sudeste
+    auto: true
   - translation_iso: spa
     name: Kolami suroriental
     auto: true

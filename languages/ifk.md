@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: トゥワリ・イフガオ語
     auto: true
+  - translation_iso: por
+    name: Ifugao Tuwali
+    auto: true
   - translation_iso: spa
     name: Ifugao Tuwali
     auto: true

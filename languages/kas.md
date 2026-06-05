@@ -28,6 +28,8 @@ translations:
     name: カシミール語
   - translation_iso: kor
     name: 카슈미르어
+  - translation_iso: por
+    name: língua caxemira
   - translation_iso: spa
     name: cachemir
   - translation_iso: zho

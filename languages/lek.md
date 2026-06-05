@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: レイポン語
     auto: true
+  - translation_iso: por
+    name: Leipon
+    auto: true
   - translation_iso: spa
     name: Leipon
     auto: true

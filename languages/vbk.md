@@ -22,6 +22,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: 南西ボントク語
+  - translation_iso: por
+    name: Bontok Sudoeste
+    auto: true
   - translation_iso: spa
     name: Bontok suroccidental
     auto: true

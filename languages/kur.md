@@ -21,6 +21,8 @@ translations:
     name: クルド語
   - translation_iso: kor
     name: 쿠르드어
+  - translation_iso: por
+    name: língua curda
   - translation_iso: spa
     name: kurdo
   - translation_iso: zho

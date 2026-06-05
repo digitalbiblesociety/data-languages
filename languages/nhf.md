@@ -31,6 +31,9 @@ translations:
     auto: true
   - translation_iso: kor
     name: 누왈라어
+  - translation_iso: por
+    name: Nhuwala
+    auto: true
   - translation_iso: spa
     name: Nhuwala
     auto: true

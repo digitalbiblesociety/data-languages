@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ダマカワ語
     auto: true
+  - translation_iso: por
+    name: Damakawa
+    auto: true
   - translation_iso: spa
     name: Damakawa
     auto: true

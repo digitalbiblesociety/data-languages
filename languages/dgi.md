@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ノーザン・ダガラ語
     auto: true
+  - translation_iso: por
+    name: Dagara Setentrional
+    auto: true
   - translation_iso: spa
     name: Dagara del Norte
     auto: true

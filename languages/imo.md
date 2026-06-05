@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: イムボング語
     auto: true
+  - translation_iso: por
+    name: Imbongu
+    auto: true
   - translation_iso: spa
     name: Imbongu
     auto: true

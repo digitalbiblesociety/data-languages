@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アッパー・グランド・ヴァレー・ダニ語
     auto: true
+  - translation_iso: por
+    name: Dani do Alto Grand Valley
+    auto: true
   - translation_iso: spa
     name: Dani del Alto Valle Grande
     auto: true

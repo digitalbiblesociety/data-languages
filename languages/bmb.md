@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ベンベ語
     auto: true
+  - translation_iso: por
+    name: Bembe
+    auto: true
   - translation_iso: spa
     name: Bembe
     auto: true

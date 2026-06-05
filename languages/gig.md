@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゴアリア語
     auto: true
+  - translation_iso: por
+    name: Goaria
+    auto: true
   - translation_iso: spa
     name: Goaria
     auto: true

@@ -31,6 +31,8 @@ translations:
     auto: true
   - translation_iso: kor
     name: 마웅어
+  - translation_iso: por
+    name: Língua maung
   - translation_iso: spa
     name: Maung
     auto: true

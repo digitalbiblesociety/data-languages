@@ -30,6 +30,8 @@ translations:
     name: ネギダール語
   - translation_iso: kor
     name: 네기달어
+  - translation_iso: por
+    name: Língua negidal
   - translation_iso: spa
     name: Negidal
     auto: true

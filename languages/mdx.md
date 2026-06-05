@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: ディジン語
     auto: true
+  - translation_iso: por
+    name: Língua dizin
   - translation_iso: spa
     name: Idioma dizi
   - translation_iso: zho

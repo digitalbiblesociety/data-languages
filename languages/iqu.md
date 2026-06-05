@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: イキト語
+  - translation_iso: por
+    name: Língua iquito
   - translation_iso: spa
     name: iquito
   - translation_iso: zho

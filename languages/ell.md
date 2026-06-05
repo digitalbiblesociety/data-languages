@@ -28,6 +28,8 @@ translations:
     name: 現代ギリシア語
   - translation_iso: kor
     name: 현대 그리스어
+  - translation_iso: por
+    name: grego moderno
   - translation_iso: spa
     name: griego
   - translation_iso: zho

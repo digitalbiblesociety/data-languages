@@ -21,6 +21,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユダヤ・ベルベル語
+  - translation_iso: por
+    name: Judeu-berbere
   - translation_iso: spa
     name: judeo-bereber
   - translation_iso: zho

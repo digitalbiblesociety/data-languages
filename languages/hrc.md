@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: ニウェル・ミル語
     auto: true
+  - translation_iso: por
+    name: Niwer Mil
+    auto: true
   - translation_iso: spa
     name: Niwer Mil
   - translation_iso: zho

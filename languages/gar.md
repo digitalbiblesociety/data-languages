@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ガレヤ語
     auto: true
+  - translation_iso: por
+    name: Galeya
+    auto: true
   - translation_iso: spa
     name: Galeya
     auto: true

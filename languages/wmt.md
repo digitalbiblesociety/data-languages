@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ワルマジャリ語
+  - translation_iso: por
+    name: Walmajarri
+    auto: true
   - translation_iso: spa
     name: idioma walmajarri
   - translation_iso: zho

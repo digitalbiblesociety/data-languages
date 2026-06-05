@@ -28,6 +28,8 @@ translations:
     name: マニプリ語
   - translation_iso: kor
     name: 마니푸르어
+  - translation_iso: por
+    name: Língua manipuri
   - translation_iso: spa
     name: idioma meitei
   - translation_iso: zho

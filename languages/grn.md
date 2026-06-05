@@ -21,6 +21,8 @@ translations:
     name: グアラニー語
   - translation_iso: kor
     name: 과라니어
+  - translation_iso: por
+    name: língua guarani
   - translation_iso: spa
     name: guaraní
   - translation_iso: zho

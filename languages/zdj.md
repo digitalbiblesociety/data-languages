@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ンガジドゥジャ・コモロ語
     auto: true
+  - translation_iso: por
+    name: comoriano de Ngazidja
+    auto: true
   - translation_iso: spa
     name: Comorense de Ngazidja
     auto: true

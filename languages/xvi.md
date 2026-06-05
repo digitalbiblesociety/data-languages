@@ -23,6 +23,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カンヴィリ方言
+  - translation_iso: por
+    name: kamviri
+    auto: true
   - translation_iso: spa
     name: Kamviri
   - translation_iso: zho

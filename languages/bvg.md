@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ボンケング語
     auto: true
+  - translation_iso: por
+    name: Bonkeng
+    auto: true
   - translation_iso: spa
     name: bonkeng
   - translation_iso: zho

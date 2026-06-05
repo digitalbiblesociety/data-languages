@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ベンガ語
+  - translation_iso: por
+    name: Língua benga
   - translation_iso: spa
     name: benga mekenda
   - translation_iso: zho

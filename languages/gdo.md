@@ -30,6 +30,8 @@ translations:
     name: ゴドベリ語
   - translation_iso: kor
     name: 고도베리어
+  - translation_iso: por
+    name: Língua godoberi
   - translation_iso: spa
     name: Ghodoberi
     auto: true

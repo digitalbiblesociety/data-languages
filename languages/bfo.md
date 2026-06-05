@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マルバ・ビリフォル語
     auto: true
+  - translation_iso: por
+    name: Birifor de Malba
+    auto: true
   - translation_iso: spa
     name: Birifor del norte
     auto: true

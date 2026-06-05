@@ -22,6 +22,9 @@ translations:
   - translation_iso: jpn
     name: ドゥカ語
     auto: true
+  - translation_iso: por
+    name: ut-Hun
+    auto: true
   - translation_iso: spa
     name: Ut-Hun
     auto: true

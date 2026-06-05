@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トゥミ語
     auto: true
+  - translation_iso: por
+    name: Tumi
+    auto: true
   - translation_iso: spa
     name: Tumi
     auto: true

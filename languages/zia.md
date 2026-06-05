@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジア語
     auto: true
+  - translation_iso: por
+    name: zia
+    auto: true
   - translation_iso: spa
     name: Zia
     auto: true

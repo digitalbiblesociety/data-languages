@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: ワントアト語
     auto: true
+  - translation_iso: por
+    name: Língua wantoat
   - translation_iso: spa
     name: Wantoat
     auto: true

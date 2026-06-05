@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤレニ・サポテク語
     auto: true
+  - translation_iso: por
+    name: zapoteco de Yareni
+    auto: true
   - translation_iso: spa
     name: Zapoteco de Yareni
     auto: true

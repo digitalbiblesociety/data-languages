@@ -23,6 +23,8 @@ translations:
   - translation_iso: jpn
     name: フルニオ語
     auto: true
+  - translation_iso: por
+    name: Língua yatê
   - translation_iso: spa
     name: idioma fulniô-yatê
   - translation_iso: zho

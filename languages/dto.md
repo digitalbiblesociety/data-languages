@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: トンモ・ソ・ドゴン語
     auto: true
+  - translation_iso: por
+    name: Dogon Tommo So
+    auto: true
   - translation_iso: spa
     name: Dogon Tommo So
     auto: true

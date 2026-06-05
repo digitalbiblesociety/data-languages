@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: アヴァティメ語
     auto: true
+  - translation_iso: por
+    name: Avatime
+    auto: true
   - translation_iso: spa
     name: Avatime
     auto: true

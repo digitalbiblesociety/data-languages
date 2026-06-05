@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: トンカワ語
     auto: true
+  - translation_iso: por
+    name: Tonkawa
+    auto: true
   - translation_iso: spa
     name: idioma tónkawa
   - translation_iso: zho

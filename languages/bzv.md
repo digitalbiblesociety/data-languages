@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ナアミ語
     auto: true
+  - translation_iso: por
+    name: Naami
+    auto: true
   - translation_iso: spa
     name: Naami
     auto: true

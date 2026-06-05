@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バマリ語
     auto: true
+  - translation_iso: por
+    name: Bamali
+    auto: true
   - translation_iso: spa
     name: Bamali
     auto: true

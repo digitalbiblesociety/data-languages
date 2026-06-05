@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: バンコン語
     auto: true
+  - translation_iso: por
+    name: Bankon
+    auto: true
   - translation_iso: spa
     name: bankon
   - translation_iso: zho

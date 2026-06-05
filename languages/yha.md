@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: パハ語
+  - translation_iso: por
+    name: buyang baha
+    auto: true
   - translation_iso: spa
     name: Buyang de Baha
     auto: true

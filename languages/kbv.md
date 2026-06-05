@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: デラ語
     auto: true
+  - translation_iso: por
+    name: Dera (Indonésia)
+    auto: true
   - translation_iso: spa
     name: Dera (Indonesia)
     auto: true

@@ -29,6 +29,8 @@ translations:
     name: ツォツィル語
   - translation_iso: kor
     name: 초칠어
+  - translation_iso: por
+    name: Língua tsotsil
   - translation_iso: spa
     name: tsotsil
   - translation_iso: zho

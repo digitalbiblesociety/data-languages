@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: マンバイ語
     auto: true
+  - translation_iso: por
+    name: Mambai
+    auto: true
   - translation_iso: spa
     name: Mambai
     auto: true

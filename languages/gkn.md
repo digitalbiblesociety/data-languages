@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゴカナ語
     auto: true
+  - translation_iso: por
+    name: Gokana
+    auto: true
   - translation_iso: spa
     name: Gokana
     auto: true

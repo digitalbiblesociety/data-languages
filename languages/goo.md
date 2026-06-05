@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ゴーン・ダウ語
     auto: true
+  - translation_iso: por
+    name: Gone Dau
+    auto: true
   - translation_iso: spa
     name: Yahoo
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     name: カリア語
   - translation_iso: kor
     name: 카리야
+  - translation_iso: por
+    name: Língua kharia
   - translation_iso: spa
     name: Kharia
     auto: true

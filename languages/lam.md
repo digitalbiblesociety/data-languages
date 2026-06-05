@@ -28,6 +28,8 @@ translations:
     name: ランバ語
   - translation_iso: kor
     name: 람바어
+  - translation_iso: por
+    name: lamba
   - translation_iso: spa
     name: lamba
   - translation_iso: zho

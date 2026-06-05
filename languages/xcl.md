@@ -29,6 +29,8 @@ translations:
     name: 古典アルメニア語
   - translation_iso: kor
     name: 고전 아르메니아어
+  - translation_iso: por
+    name: armênio clássico
   - translation_iso: spa
     name: armenio clásico
   - translation_iso: zho

@@ -24,6 +24,9 @@ translations:
   - translation_iso: jpn
     name: トボ語
     auto: true
+  - translation_iso: por
+    name: Tobo
+    auto: true
   - translation_iso: spa
     name: Tobo
     auto: true

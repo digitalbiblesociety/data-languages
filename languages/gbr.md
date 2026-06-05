@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ガバギ語
     auto: true
+  - translation_iso: por
+    name: Gbagyi
+    auto: true
   - translation_iso: spa
     name: Gbagyi
     auto: true

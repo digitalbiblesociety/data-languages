@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: カランガ語
+  - translation_iso: por
+    name: Língua calanga
   - translation_iso: spa
     name: Kalanga
     auto: true

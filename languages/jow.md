@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ジョウル語
     auto: true
+  - translation_iso: por
+    name: Jowulu
+    auto: true
   - translation_iso: spa
     name: Jowulu
     auto: true

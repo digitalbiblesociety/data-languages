@@ -29,6 +29,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マンセン語
+  - translation_iso: por
+    name: Mangseng
+    auto: true
   - translation_iso: spa
     name: Mangseng
     auto: true

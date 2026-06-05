@@ -29,6 +29,8 @@ translations:
     name: 海南語
   - translation_iso: kor
     name: 하이난어
+  - translation_iso: por
+    name: Hainanês
   - translation_iso: spa
     name: Chino hainanés
   - translation_iso: zho

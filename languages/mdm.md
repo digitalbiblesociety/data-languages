@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マヨゴ語
+  - translation_iso: por
+    name: Mayogo
+    auto: true
   - translation_iso: spa
     name: Mayogo
     auto: true

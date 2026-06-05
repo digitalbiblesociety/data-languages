@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: 北グレボ語
     auto: true
+  - translation_iso: por
+    name: grebo do norte
+    auto: true
   - translation_iso: spa
     name: Grebo septentrional
     auto: true

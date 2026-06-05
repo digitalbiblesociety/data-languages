@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: フモング・ドン語
     auto: true
+  - translation_iso: por
+    name: Hmong Don
+    auto: true
   - translation_iso: spa
     name: Hmong Don
     auto: true

@@ -29,6 +29,8 @@ translations:
     name: チャマラル語
   - translation_iso: kor
     name: 차말랄어
+  - translation_iso: por
+    name: Língua chamalal
   - translation_iso: spa
     name: Chamalal
     auto: true

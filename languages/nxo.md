@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: Ndambomo語
+  - translation_iso: por
+    name: Ndambomo
+    auto: true
   - translation_iso: spa
     name: Ndambomo
     auto: true

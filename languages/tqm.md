@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: トゥルムサ語
     auto: true
+  - translation_iso: por
+    name: Turumsa
+    auto: true
   - translation_iso: spa
     name: Turumsa
     auto: true

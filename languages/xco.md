@@ -28,6 +28,8 @@ translations:
     name: ホラズム語
   - translation_iso: kor
     name: 화레즘어
+  - translation_iso: por
+    name: língua corásmia
   - translation_iso: spa
     name: corasmio
   - translation_iso: zho

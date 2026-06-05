@@ -29,6 +29,8 @@ translations:
     name: ヌーハルク語
   - translation_iso: kor
     name: 누할크어
+  - translation_iso: por
+    name: Língua nuxalk
   - translation_iso: spa
     name: Bella Coola
     auto: true

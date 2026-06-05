@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: メトラトノック・ミステク語
     auto: true
+  - translation_iso: por
+    name: Mixteco de Metlatónoc
+    auto: true
   - translation_iso: spa
     name: Mixteco de Metlatónoc
     auto: true

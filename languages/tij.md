@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ティルン語
     auto: true
+  - translation_iso: por
+    name: Tilung
+    auto: true
   - translation_iso: spa
     name: Tilung
     auto: true

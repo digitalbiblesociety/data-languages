@@ -27,6 +27,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ポング語
+  - translation_iso: por
+    name: Pongu
+    auto: true
   - translation_iso: spa
     name: Pongu
     auto: true

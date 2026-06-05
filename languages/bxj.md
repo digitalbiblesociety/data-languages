@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: バユングゥ語
     auto: true
+  - translation_iso: por
+    name: Bayungu
+    auto: true
   - translation_iso: spa
     name: Bayungu
     auto: true

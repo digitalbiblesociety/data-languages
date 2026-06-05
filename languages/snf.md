@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ノーン語
+  - translation_iso: por
+    name: Noon
+    auto: true
   - translation_iso: spa
     name: Noon
     auto: true

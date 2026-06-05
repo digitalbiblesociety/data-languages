@@ -27,6 +27,8 @@ translations:
     name: タガログ語
   - translation_iso: kor
     name: 타갈로그어
+  - translation_iso: por
+    name: tagalo
   - translation_iso: spa
     name: tagalo
   - translation_iso: zho

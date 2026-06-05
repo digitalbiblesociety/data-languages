@@ -27,6 +27,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ブァイドカ語
+  - translation_iso: por
+    name: Língua buaidoca
   - translation_iso: spa
     name: Bwaidoka
     auto: true

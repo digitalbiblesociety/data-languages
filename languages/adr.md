@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: アドナラ語
     auto: true
+  - translation_iso: por
+    name: Língua adonara
   - translation_iso: spa
     name: Adonara
   - translation_iso: zho

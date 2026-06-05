@@ -28,6 +28,8 @@ translations:
     name: ウイグル語
   - translation_iso: kor
     name: 위구르어
+  - translation_iso: por
+    name: Língua uigur
   - translation_iso: spa
     name: uigur
   - translation_iso: zho

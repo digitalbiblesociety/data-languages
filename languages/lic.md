@@ -28,6 +28,9 @@ translations:
     auto: true
   - translation_iso: jpn
     name: リー語
+  - translation_iso: por
+    name: Hlai
+    auto: true
   - translation_iso: spa
     name: Hlai
     auto: true

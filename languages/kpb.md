@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムッル・クルンバ語
     auto: true
+  - translation_iso: por
+    name: Kurumba de Mullu
+    auto: true
   - translation_iso: spa
     name: Mullu Kurumba
     auto: true

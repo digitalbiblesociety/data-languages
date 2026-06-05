@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: シンディ・ビル語
     auto: true
+  - translation_iso: por
+    name: Bhil Sindi
+    auto: true
   - translation_iso: spa
     name: Bhil sindhi
     auto: true

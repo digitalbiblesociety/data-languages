@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ウムボコ語
     auto: true
+  - translation_iso: por
+    name: Wumboko
+    auto: true
   - translation_iso: spa
     name: Wumboko
     auto: true

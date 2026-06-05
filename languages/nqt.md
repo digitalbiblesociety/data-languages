@@ -27,6 +27,9 @@ translations:
   - translation_iso: jpn
     name: ンテング語
     auto: true
+  - translation_iso: por
+    name: Nteng
+    auto: true
   - translation_iso: spa
     name: Nteng
     auto: true

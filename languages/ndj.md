@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ンダンバ語
     auto: true
+  - translation_iso: por
+    name: Ndamba
+    auto: true
   - translation_iso: spa
     name: Ndamba
     auto: true

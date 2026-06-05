@@ -23,6 +23,9 @@ translations:
   - translation_iso: jpn
     name: アキャウン・アリ・ナガ語
     auto: true
+  - translation_iso: por
+    name: Naga Akyaung Ari
+    auto: true
   - translation_iso: spa
     name: Naga Akyaung Ari
     auto: true

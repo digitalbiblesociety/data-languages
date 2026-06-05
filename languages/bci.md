@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: バウレ語
+  - translation_iso: por
+    name: baoulé
   - translation_iso: spa
     name: baoulé
   - translation_iso: zho

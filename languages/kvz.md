@@ -30,6 +30,9 @@ translations:
   - translation_iso: jpn
     name: ツァクワンボ語
     auto: true
+  - translation_iso: por
+    name: Tsakwambo
+    auto: true
   - translation_iso: spa
     name: Tsakwambo
     auto: true

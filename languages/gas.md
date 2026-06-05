@@ -26,6 +26,9 @@ translations:
   - translation_iso: jpn
     name: アディワシ・ガラシア語
     auto: true
+  - translation_iso: por
+    name: garasia de Adiwasi
+    auto: true
   - translation_iso: spa
     name: Garasia adivasi
     auto: true

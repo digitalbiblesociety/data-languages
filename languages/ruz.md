@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ツルマ語
     auto: true
+  - translation_iso: por
+    name: Ruma
+    auto: true
   - translation_iso: spa
     name: Ruma
     auto: true

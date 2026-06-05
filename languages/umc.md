@@ -21,6 +21,9 @@ translations:
   - translation_iso: jpn
     name: マルルキニアン語
     auto: true
+  - translation_iso: por
+    name: Marrucino
+    auto: true
   - translation_iso: spa
     name: marrucino
   - translation_iso: zho

@@ -26,6 +26,9 @@ translations:
     name: मंडा भाषा
   - translation_iso: jpn
     name: マンダ語
+  - translation_iso: por
+    name: Manda (Índia)
+    auto: true
   - translation_iso: spa
     name: Manda (India)
     auto: true

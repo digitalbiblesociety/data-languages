@@ -26,6 +26,8 @@ translations:
     name: ワオラニ語
   - translation_iso: kor
     name: 와오라니어
+  - translation_iso: por
+    name: Língua huaorani
   - translation_iso: spa
     name: idioma huaorani
   - translation_iso: zho

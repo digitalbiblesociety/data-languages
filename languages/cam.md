@@ -30,6 +30,8 @@ translations:
     name: チェムヒン語
   - translation_iso: kor
     name: 체무힝어
+  - translation_iso: por
+    name: Língua cèmuhi
   - translation_iso: spa
     name: Cemuhî
     auto: true

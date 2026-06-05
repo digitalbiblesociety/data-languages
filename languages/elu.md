@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: エル語
     auto: true
+  - translation_iso: por
+    name: Elu
+    auto: true
   - translation_iso: spa
     name: Elu
     auto: true

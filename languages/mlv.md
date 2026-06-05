@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: モトラヴ語
     auto: true
+  - translation_iso: por
+    name: Língua mwotlap
   - translation_iso: spa
     name: Motlav
     auto: true

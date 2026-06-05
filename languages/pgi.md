@@ -29,6 +29,8 @@ translations:
   - translation_iso: jpn
     name: パギ語
     auto: true
+  - translation_iso: por
+    name: Pagi
   - translation_iso: spa
     name: Pagi
   - translation_iso: zho

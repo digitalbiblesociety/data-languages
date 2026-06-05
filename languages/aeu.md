@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: アケウ語
     auto: true
+  - translation_iso: por
+    name: Akeu
+    auto: true
   - translation_iso: spa
     name: Akeu
     auto: true

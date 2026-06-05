@@ -26,6 +26,9 @@ translations:
     name: इज़राइली सांकेतिक भाषा
   - translation_iso: jpn
     name: イスラエル手話
+  - translation_iso: por
+    name: Língua de Sinais Israelense
+    auto: true
   - translation_iso: spa
     name: lengua de señas israelí
   - translation_iso: zho

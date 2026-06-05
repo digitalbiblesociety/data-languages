@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: ヤベン語
     auto: true
+  - translation_iso: por
+    name: yaben
+    auto: true
   - translation_iso: spa
     name: Yaben
     auto: true

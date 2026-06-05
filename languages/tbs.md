@@ -28,6 +28,9 @@ translations:
   - translation_iso: jpn
     name: タングアット語
     auto: true
+  - translation_iso: por
+    name: Tanguat
+    auto: true
   - translation_iso: spa
     name: Tanguat
     auto: true

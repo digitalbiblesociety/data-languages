@@ -29,6 +29,8 @@ translations:
     name: プイ語
   - translation_iso: kor
     name: 부이어
+  - translation_iso: por
+    name: Língua bouyei
   - translation_iso: spa
     name: Idioma buyei
   - translation_iso: zho

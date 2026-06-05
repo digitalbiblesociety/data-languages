@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: モンゾンボ語
     auto: true
+  - translation_iso: por
+    name: Monzombo
+    auto: true
   - translation_iso: spa
     name: Monzombo
     auto: true

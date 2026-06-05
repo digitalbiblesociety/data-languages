@@ -28,6 +28,8 @@ translations:
   - translation_iso: jpn
     name: サン・マルティン・イトゥニョーソ・トリケ語
     auto: true
+  - translation_iso: por
+    name: Língua truqui de Itunyoso
   - translation_iso: spa
     name: Triqui de Itunyoso
   - translation_iso: zho

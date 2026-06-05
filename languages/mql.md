@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: ムベリメ語
     auto: true
+  - translation_iso: por
+    name: Mbelime
+    auto: true
   - translation_iso: spa
     name: Mbelime
     auto: true

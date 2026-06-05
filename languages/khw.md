@@ -28,6 +28,8 @@ translations:
     name: コワール語
   - translation_iso: kor
     name: 코와르어
+  - translation_iso: por
+    name: Língua khovar
   - translation_iso: spa
     name: Khowar
   - translation_iso: zho

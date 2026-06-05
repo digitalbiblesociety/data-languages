@@ -29,6 +29,9 @@ translations:
   - translation_iso: jpn
     name: カナワリングスカド語
     auto: true
+  - translation_iso: por
+    name: Shumcho
+    auto: true
   - translation_iso: spa
     name: Shumcho
     auto: true

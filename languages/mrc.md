@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: マリコパ語
+  - translation_iso: por
+    name: Língua maricopa
   - translation_iso: spa
     name: Maricopa
   - translation_iso: zho

@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ヤワラピティ語
+  - translation_iso: por
+    name: Língua Yawalapiti
   - translation_iso: spa
     name: yawalapiti
   - translation_iso: zho

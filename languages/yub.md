@@ -28,6 +28,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ユガンバリック諸語
+  - translation_iso: por
+    name: Língua yugambal
   - translation_iso: spa
     name: Yugambal
     auto: true

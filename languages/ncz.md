@@ -24,6 +24,8 @@ translations:
     auto: true
   - translation_iso: jpn
     name: ナチェズ語
+  - translation_iso: por
+    name: Língua natchez
   - translation_iso: spa
     name: idioma natchez
   - translation_iso: zho
